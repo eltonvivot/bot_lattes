@@ -1,0 +1,42 @@
+2014 - 2015
+Desenvolvimento de um Dosimetro in vivo a MOSFET para aplicações radioterápicas
+Descrição: Title: Development of an in vivo MOSFET dosimeter for radiotherapy applications.
+Supervisor: Francisco Javier Ramirez Fernandez
+Host Institution: Escola Politécnica from Universidade de São Paulo (EPUSP)
+Candidate: Osmar Franca Siebel (http://lattes.cnpq.br/8607745106693253)
+Doctoral degree: Universidade Federal de Santa Catarina (UFSC) (concluded in December/2013)
+Abstract
+In radiotherapy, the maximum difference between the prescribed dose and the dose delivered to the patient must be ±5% based on the fact that some tumors exhibit steep dose response curves. For this reason, in vivo dosimeters are fundamental for radiotherapy, since they are the only devices that allow the dose to be monitored during the patient treatment. In this context, we propose this postdoctoral research which consists in developing an in vivo dosimeter for radiotherapy applications using the MOSFET dosimeter that has being developed during candidate?s doctorate. This MOSFET dosimeter was tested at the Centro de Pesquisas Oncológicas (CEPON), Florianópolis-SC, using 6MV and 15MV X-rays beams. The main results of these experiments were: radiation sensitivity 98,1mV/Gy, thermal dependence 0.5cGy/◦C, angular dependence of 13%, energy dependence of 1,5%, linearity of 97,5%, and attenuation to the radiation beam of 0,14%.  These results are promising; however the high angular dependence (13%) is an important disadvantage of this dosimeter. Hence one of the main goals of this postdoctoral project is to reduce this angular dependence with the development of a new sensor package. In addition to the design of a new package and consequent reduction of angular dependence, other activities to be accomplished in this postdoctoral are: improvement of the dosimeter reading system and performing more experiments with ionizing radiation.
+Key words: MOSFET, MOSFET dosimeter, radiotherapy, in vivo dosimetry.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Javier Ramirez Fernandez - Coordenador / Osmar Franca Siebel - Integrante.
+2007 - 2008
+Aquisição e processamento de sinais biológicos
+Descrição: Wesley Becari - Processo Fapesp - 2007/03793-0
+	Este projeto visa a implementação de um sistema de aquisição e processamento de sinais biológicos capaz de se comunicar de forma remota por meio de uma rede de computadores. A primeira fase será dedicada ao desenvolvimento de circuitos analógicos para o condicionamento, filtragem e amplificação de sinais que incluem, sinais biológicos tais como (EEG, ECG, EMG), entrentanto não se limita só a esses. Em seqüência será implementada uma instrumentação apta à aquisição e processamento digital desses sinais, de modo a permitir a extração de atributos que permitam aplicar métodos apropriados de extração do conhecimento. Em uma terceira fase pretende-se desenvolver um sistema embarcado, integrando o hardware (circuito associado a um Digital Signal Processor) e software dedicado à aquisição e processamento de um algoritmo específico. A última fase será dedicada ao envio das informações para uma rede remota a partir de uma interface sem fio, com base numa arquitetura de Rede de Sensores plug and play, que permita a utilização de recursos da Instrumentação virtual e suas aplicações em um Laboratório Remoto. Ou seja, pretende-se especificar uma plataforma de aquisição de sinais para interface homem-computador de modo a integrar o processamento e desenvolvimento de algoritmos e filtros para a análise e diagnóstico de sinais biológicos e auxiliar o desenvolvimento de uma Rede de Sensores Biológicos "Wireless" baseado no protocolo IEEE 1451.5.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Francisco Javier Ramirez Fernandez - Coordenador / Wesley Becari - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2004 - Atual
+Nanosensores e Microssistemas
+Descrição: Aprovado pelo CNPq, vigência  2004 - 2006 para apoiar as seguintes atividades
+Nanotecnologia para Nariz Eletrônico
+Microeletrodos para aplicações médicas
+Dispositivos optoeletrônicos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Francisco Javier Ramirez Fernandez - Coordenador / E. GALEAZZO - Integrante / J. C. RUBIM - Integrante / W. J. SALCEDO - Integrante / H. E. M. PERES - Integrante / Ines Pereyra - Integrante / Francisco Justo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1995 - 1997
+Silicio Poroso
+Descrição: Projeto dedicado ao estudo das propriedades eletroluminescentes 
+e dos mecanismos de transporte de carga Elétrica no silício poroso, 
+visando sua aplicação em dispositivos optoeletrônicos, sensores de 
+gases e microestruturas e formar dois doutores.
+Agência: PADCT/CNPq Valor US$ 149.066 -
+ outubro 1995 a setembro de 1997. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Francisco Javier Ramirez Fernandez - Coordenador / E. GALEAZZO - Integrante / W. J. SALCEDO - Integrante / H. E. M. PERES - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1994 - 2004
+Caracterização de Microestruturas
+Descrição: Desenvolvimento de métodos de caracterização elétrica.
+Este Projeto é parte integrante de um esforço conjunto de trabalho entre diversas entidades do país e  centros de excelência na área de caracterização de dispositivos semicondutores.
+Processo RHAE 088/93- INFO, CNPq No.: 610137/93-0  Uma Bolsa DTI dedicada ao Grupo SIM-LME
+Vigência Março 1993 Março 1995. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Francisco Javier Ramirez Fernandez - Coordenador / E. GALEAZZO - Integrante / M. O. P. LISBOA - Integrante / W. Salcedo - Integrante / H. E. M. PERES - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1994 - 1996
+Sensores a Semicondutor
+Descrição: Desenvolvimento de uma tecnologia de obtenção de poros em silício para ser aplicada no desenvolvimento de sensores. As atividades a serem  realizadas incluem: Domínio das técnicas de Obtenção de poros. Aplicações como sensores químicos.
+Processo: 62.0174/92.7 PADCT/CNPq Valor US$ 27.670 -
+ Julho 94-Junho 96.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Francisco Javier Ramirez Fernandez - Coordenador / E. GALEAZZO - Integrante / W. J. SALCEDO - Integrante / H. E. M. PERES - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2

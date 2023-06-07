@@ -1,0 +1,15 @@
+2021 - Atual
+CG-HEA: Estudo de aderência de aplicações baseadas em computação  gráfica como ferramenta de apoio aplicado.
+Descrição: Estudo do potencial de aderência de um ambiente virtual de
+aprendizagem autônoma (gamificado) com a utilização de técnicas
+de realidade virtual e aumentada em simulações realísticas com
+possibilidade de aplicação nas seguintes áreas:
+- Saúde: especificamente à fisioterapia, com aplicação científica da
+Realidade Virtual em sistemas de simulação de ambientes para
+recuperação de pacientes ambulatoriais e em Unidades de Terapia
+Intensiva.
+- Educação: implementação de tecnologia no desenvolvimento de
+ambientes de aprendizado, tanto em laboratórios, como em outros
+ambientes, como museus e salas de aula.
+- Agricultura: Aplicação do ambiente desenvolvido em aplicações
+de treinamento e simulações voltadas à agroindústria.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Mauricio Zadra Pacheco - Coordenador.

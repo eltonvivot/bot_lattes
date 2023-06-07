@@ -1,0 +1,23 @@
+2018 - 2021
+Monitoramento Ambiental por visão computacional aplicado a situações reais
+Projeto certificado pela empresa CEMIG Distribuidora em 02/06/2019.
+Descrição: O objetivo central deste projeto é desenvolver um sistema de detecção e localização de fogo e fumaça nas situações reais de regiões remotas de preservação ambiental cortadas por linhas de transmissão, o qual possa ser acessado pela sociedade por meio de uma interface web intuitiva. Para isso, foram definidos os seguintes objetivos: (i) Conceber e implementar o sistema de forma a ser capaz de resistir a fatores adversos tais como ventos, raios, chuvas, variações de temperatura e outras intempéries.
+(ii) Desenvolver um sistema capaz de fornecer as coordenadas geográficas do foco de incêndio com base na posição da câmera e na posição do foco de incêndio na imagem da câmera. (iii) Desenvolver técnicas de processamento de sinais e de imagens para lidar com o problema de oscilação e vibração do local onde a câmera está instalada.
+(iv) Estabelecer um método padrão e certificar a calibração das cores do vídeo captado pela câmera de modo a permitir a caracterização adequada das cores do fogo e da fumaça. (v) Desenvolver uma interface web intuitiva que permita à sociedade participar ativamente do processo de monitoramento ambiental. Projeto P&D Aneel com a CEMIG e a Startup Gaia, Edital P&D CEMIG 2016/2017.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Hermes Aguiar Magalhães - Integrante / Hani Camille Yehia - Coordenador / Adriano Vilela Barbosa - Integrante / Arlindo Follador Neto - Integrante / Adriano Chaves Lisboa - Integrante.
+2013 - 2015
+Manutenção do Aparelho de FMRI de 4,7 Teslas do Estado de Minas Gerais.
+Projeto certificado pelo(a) coordenador(a) Marcio Flavio Dutra Moraes em 12/08/2015.
+Descrição: MANUTENÇÃO DE GRANDES EQUIPAMENTOS FAPEMIG TEC - APQ-01084-13. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Hermes Aguiar Magalhães - Integrante / Hani Camille Yehia - Integrante / Márcio Flávio Dutra de Moraes - Coordenador / Eduardo Mazoni Andrade Marçal Mendes - Integrante / Flávio Afonso Goncalves Mourão - Integrante / Daniel de Castro Medeiros - Integrante.
+2012 - 2014
+Monitoramento ambiental utilizando imagens reais das áreas cobertas por linhas de transmissão e reconhecimento de padrões
+Projeto certificado pela empresa CEMIG Distribuidora em 02/04/2014.
+Descrição: Detecção e classificação automática de eventos ambientais (fogo e fumaça) via imagens de vídeo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Hermes Aguiar Magalhães - Integrante / Hani Camille Yehia - Coordenador / Douglas Alexandre Gomes Vieira - Integrante / Carlos Alexandre Meireles Nascimento - Integrante / Dener Eduardo Bortolini - Integrante / Adriano Lages dos Santos - Integrante / Arlindo Follador Neto - Integrante.
+2010 - 2014
+CTPMR - Centro de Treinamento e Pesquisa em Magneto-Ressonância - desenvolvimento de hardware e software, ensaios pré-clínicos para indústria farmacêutica e criação de metodologia de imageamento não invasivo
+Projeto certificado pelo(a) coordenador(a) Hani Camille Yehia em 07/05/2014.
+Descrição: A Magneto-ressonância funcional (MRf) é uma técnica de imagem não invasiva que permite visualizar órgãos e sistemas em funcionamento. A MR estrutural adquire imagens tridimensionais, permite análises morfométricas, enquanto o aspecto funcional conjuga a imagem estrutural à dinâmica temporal da atividade metabólica destes órgãos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Hermes Aguiar Magalhães - Integrante / Hani Camille Yehia - Coordenador / Márcio Flávio Dutra de Moraes - Integrante / Eduardo Mazoni Andrade Marçal Mendes - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2009 - 2013
+Projeto de Reativação do Aparelho de Ressonância Magnética para Animais de Pequeno Porte
+Descrição: Reativação do aparelho de Ressonância Magnética doado à UFMG.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Hermes Aguiar Magalhães - Integrante / Hani Camille Yehia - Integrante / Márcio Flávio Dutra de Moraes - Coordenador / Eduardo Mazoni Andrade Marçal Mendes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Universidade Federal de Minas Gerais - Auxílio
+										financeiro.

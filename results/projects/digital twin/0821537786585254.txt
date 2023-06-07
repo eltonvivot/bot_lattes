@@ -1,0 +1,15 @@
+2013 - 2015
+Modelagem do Regulador de Velocidade e Tensão da Usina Gapore Baseada na Norma IEC850 e Redes de Petri Estocástica
+Descrição: O objetivo deste projeto é modelar o sistema do regulador de tensão e velocidade da usina Guaporé a Norma IEC61850 possibilitando um levantamento de requisitos para futuras modernizações da usina e estudo da norma aplicando a em sistemas de geração de energia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Kleber Roberto da Silva Santos - Integrante / Luiz Edival de Souza - Coordenador / Carlos Waldecir de Souza - Integrante.
+2008 - 2011
+Construção de um Robô Móvel Autônomo para Robótica Cooperativa
+Descrição: O objetivo do projeto é a construção de um robô móvel autônomo capaz de ser
+integrado a um ambiente multi-robô que permita a pesquisa e o desenvolvimento de
+técnicas em robótica cooperativa, planejamento de atividades com interação utilizando
+inteligência artificial e navegação autônoma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Kleber Roberto da Silva Santos - Integrante / Luiz Edival de Souza - Coordenador / Guilherme Sousa Bastos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2009
+AutoBots ? Projetos de Equipamentos Robóticos
+Descrição: Desenvolvimento um robô autônomo móvel para transporte de pequenas cargas, com aplicação na área industrial, para fins de ensino e pesquisa, na manutenção de patrimônios público ou particular e na segurança pública e de seus servidores.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kleber Roberto da Silva Santos - Integrante / Luiz Edival de Souza - Coordenador / Guilherme Sousa Bastos - Integrante.Financiador(es): Universidade Federal de Itajubá - Auxílio
+										financeiro / Serviço de Apoio às Micro e Pequenas Empresas de Belo Horizonte - Auxílio
+										financeiro.

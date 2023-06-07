@@ -1,0 +1,33 @@
+2017 - Atual
+sistema automático de Monitoramento e Alimentação de Peixes para Criação em Tanq...
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Elmo Batista de Faria - Coordenador / MIGUEL RIBEIRO DE JESUS MARTINS - Integrante.
+2017 - Atual
+CONTROLE DE SISTEMAS ROBÓTICOS ACOPLADOS USANDO LÓGICA NEBULOSA
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Elmo Batista de Faria - Coordenador.
+2017 - Atual
+Virtualização de Servidores para uso em cursos presenciais e a distância
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elmo Batista de Faria - Coordenador.
+2016 - 2017
+Ambiente Virtual de Aprendizagem com Tecnologia Cloud para Ensino a Distância
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Elmo Batista de Faria - Coordenador / Alessandra Maieski - Integrante.
+2013 - 2015
+Avaliação de sensores para sistemas embarcados, robótica e automação
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Elmo Batista de Faria - Coordenador.
+2011 - 2013
+Sistemas Proprioceptivos e Sensores para Robôs.
+Descrição: A proposta deste trabalho é desenvolver algoritmos completamente integrados com os sistemas sensoriais e de atuação de robôs humanóides na intenção de ajustar seus movimentos em ambientes hostil. Neste contexto, os algoritmos são denominados sistemas proprioceptivos, onde estes algoritmos devem atuar como ajuste dos controladores que proporcionam o movimento de robôs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Elmo Batista de Faria - Coordenador.
+2011 - 2013
+Desenvolvimento de arquitetura de baixo custo para monitoramento de condições do tempo em áreas agrícolas por meio de miniestações agrometereológicas e rede sem fio
+Descrição: Este projeto propõe o desenvolvimento de uma rede de estações de monitoramento de dados agrimetereológicas de baixo custo, que são capazes de se comunicar através de redes sem fio e transmitir as informações de monitoramento para bases de dados remotas. A partir desses dados de monitoramento pretende-se melhorar o planejamento estratégico das propriedades agrícolas e ampliar-se o uso das técnicas de agricultura de precisão no campo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Elmo Batista de Faria - Integrante / Mauricio F. L. Pereira - Coordenador / Jésus F. Bueno - Integrante / Wellington S. E. Santos - Integrante / josiel Maimone de Figueiredo - Integrante / Jean Caminha - Integrante.
+2011 - 2012
+Capacitação em Empreendedorismo Inovador para Empresários dos Estados de MT e MS
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Elmo Batista de Faria - Coordenador.
+2009 - 2011
+Estudo de simuladores para arquitetura de processadores ARM
+Descrição: O projeto tem como objetivo principal o estudo e desenvolvimento de simuladores para microcontroladores ARM, utilizando plataforma de software para programação e desenvolvimento de sistemas aplicados a agricultura de precisão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Elmo Batista de Faria - Coordenador.
+2009 - 2011
+Desenvolvimento de um Computador embarcado, baseado em Arquitetura ARM para uso em Agricultura de Precisão
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Elmo Batista de Faria - Coordenador.
+2008 - 2010
+Automação de Implementos Agrícolas
+Descrição: O objetivo principal do projeto é obter uma plataforma computacional para automatização do processo de aplicação localizada de insumos com a utilização de dispositivos embarcados nos implementos agrícolas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Elmo Batista de Faria - Integrante / Raul Teruel dos Santos - Coordenador.Financiador(es): Universidade Federal de Mato Grosso - Outra.

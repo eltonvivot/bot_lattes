@@ -1,0 +1,74 @@
+2019 - Atual
+CONSTRUÇÃO DE UM PROTÓTIPO DE TAPETE COM SENSOR PIEZOELÉTRICO
+Descrição: Este projeto tem como meta, estudar e entender como gerar energia elétrica utilizando sensores piezoelétricos para diversas finalidades, desde acender uma lâmpada, carregar um celular, etc...
+Ele também visa estudar a viabilidade de instalação desses geradores em corredores onde circulam pessoas e veículos. O tapete energético propõe explorar aplicações didáticas das células piezoelétricas. Sua utilização proporciona formas simples de ensinamento e educação energética para diversos públicos de modo a introduzir em um ambiente de reflexão e contato com a geração direta de energia, através de esforço próprio e conjunto. Uma vez que conhecemos as dificuldades e oportunidades de geração de energia proporcionados pela natureza, respeito pela sua grandeza e instigação pela exploração de suas probabilidades acabará por contribuir na formação de cidadãos mais conscientes e prontos para lidar com o meio ambiente, suas peculiaridades e tudo que ele oferece para o crescimento humano e social.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ricardo Ariel Correa Rabelo - Integrante / Mauro José dos Santos - Coordenador / Julia do Nascimento Pereira - Integrante.
+2018 - 2019
+IFSTAR 2019 - DESCOBRINDO TALENTOS EM AMBIENTES EDUCACIONAIS
+Descrição: Um festival de música é um festival cuja principal atração é a música, organizado na maioria das vezes em
+torno de um gênero, nacionalidade ou localidade dos músicos. São comumente feitos em locais públicos,
+em conjunto com outras atrações como artistas performáticos, atividades sociais e o comércio de gêneros
+alimentícios e outros produtos. Esse tipo de evento tem como finalidade descobrir talentos brutos e
+promissores com vistas a enriquecer o cenário musical, através de modelos seletivos que envolve a
+valorização de todos os requisitos técnicos e teóricos, tais como como harmonia e composição. O
+surgimento de novos talentos maximizam a popularização da música e seu veis socio-cutural, reforçando
+assim os modelos de inclusão social e equidade de valores através de modelos lúdicos. Após a experiência
+de sucesso na edição do IFStar 2018, este novo projeto se propõe a dar continuidade ao festival de música
+para descoberta de novos talentos, incluindo o processo de planejamento e execução das etapas que
+envolvem o mesmo, visando implementar um modelo contínuo e sustentável de complemento a
+formação de discentes nas instituições públicas através da cultura.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Ariel Correa Rabelo - Integrante / Mauro José dos Santos - Coordenador.
+2016 - 2017
+Learning Drums: Um protótipo de bateria eletrônica com agentes de aprendizagem baseados em semáforos.
+Descrição: Apesar dos avanços tecnológicos, ainda são escassas as ferramentas computacionais que auxiliam estudantes de música a expressarem a sua visão estética e a sua técnica performática na execução de uma obra musical. Por isso, há a necessidade de se criar ferramentas computacionais, onde a sensibilidade e os conhecimentos do usuário sobre a obra musical possam ser testados e implementados simultaneamente à execução da música, onde o resultado gerado em tempo real (ou seja, durante a performance musical). A Bateria é um instrumento musical de percussão que requer boa coordenação motora e velocidade nos movimentos. Observando as dificuldades que muitos bateristas iniciantes possuem por não apresentarem os requisitos supracitados, propõe-se um novo processo de aprendizagem compensatório que auxiliara no desenvolvimento psicomotor do instrumentista. Utilizando recursos tecnológicos aliados ao conceito de uma bateria eletrônica, propõe-se integrar um sistema de aprendizagem baseado em semáforos pré-definidos, definindo um modelo de bateria eletrônica de baixo custo utilizando semáforos através de leds coloridos que funcionarão como indicadores de toque e intensidade do componente da bateria. Tal processo maximizará a assimilação pelo instrumentista, iniciante ou não, das técnicas e da execução dos exercícios propostos pelo professor durante a aula. Este conjunto fomentará um modelo isolado da aprendizagem que pode ser dimensionado em formato laboratorial, provendo turmas de iniciação musical percussiva nos mais diversos níveis de aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Ariel Correa Rabelo - Coordenador / Elyas Aguiar Santana - Integrante / Lucas Ribeiro Oliveira - Integrante.
+2015 - 2016
+Uma Rede de Sensores para monitoramento de Laboratórios de Informática com vistas a prover uso racional dos recursos no viés eficiência energética.
+Descrição: A necessidade de reduzir o consumo de energia elétrica através de modelos de eficiência energética, sabe-se que ambientes como laboratórios de informática possuem um alto custo de consumo energético dado a arquitetura ser composta pelo um forte conjunto de equipamentos computacionais, de luminescência e refrigeração. As frequentes trocas de usuários, disciplinas e práticas, forçam o consumo improdutivo de energia nas lacunas compreendidas entre estas trocas. De forma clara, a não existência de usuários no ambiente determina a não necessidade de energizar as tomadas que alimentam os dispositivos do ambiente, propiciando a redução de consumo de energia. Uma rede de sensores de presença, luminescência e temperatura podem auxiliar o diagnóstico e comportamento de usuários no ambiente, parametrizando as regras de energização ou não dos dispositivos que operacionam o ambiente. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ricardo Ariel Correa Rabelo - Coordenador / Igor Gonçalves Antão - Integrante / Jose Wilson Filho - Integrante.
+2014 - 2015
+Distributed Sensor Network ? Uma rede de sensores distribuída de baixo-custo para o monitoramento climático em lavouras de agricultura familiar.
+Descrição: Vários segmentos se mostram tendenciosos a estudos mais profundos, como, por exemplo, as Redes de Sensores Sem Fio (RSSF) e sua integração com a Web. Este trabalho tem como objetivo desenvolver um software Web para agricultura de precisão que possibilite gerenciar uma Rede de Sensores Sem Fio (RSSF). A RSSF integrada ao software permitirá analisar, de maneira mais precisa, os parâmetros como umidade e temperatura, que afetam a colheita e tempo de irrigação. O estudo inicial será realizado sobre o cultivo de uva no Vale do São Francisco, onde serão analisados os dados capturados pelos sensores dispostos nas plantações. Com os dados obtidos, o sistema poderá gerar relatórios à medida que a plantação cresce, avaliando assim, a evolução das variáveis em observação. Essas informações serão fornecidas ao usuário por meio de gráficos e tabelas, além de um mapa que mostrará as temperaturas em diversos pontos utilizando um esquema de interpolação de cores. O software e a rede estão em fase de desenvolvimento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ricardo Ariel Correa Rabelo - Coordenador / Luís Otávio S. Andrade - Integrante / Igor Gonçalves Antão - Integrante / Alex de Santana Amorim - Integrante.Número de produções C, T & A: 1
+2014 - 2015
+QUADRICóPTERO NãO TRIPULáVEL PARA COLETA DE IMAGENS DE EROSãO DE MARGENS DE RIOS E NASCENTES
+Descrição: As margens de rios e as nascentes sofrem a cada dia com a erosão. São diversos os fatores que levam a
+esse desastre ecológico. Em grande parte a erosão é causada pela atuação humana, o que promove a
+degradação dos rios e, inclusive, das pequenas nascentes que são responsáveis pela vida dos rios. Em
+particular, os rios do estado Sergipano estão cada vez mais assoreados. A passagem de animais em
+beira de rios, as ações criminosas de pessoas que arrancam as areias do fundo desses rios, as barragens
+inapropriadas, como também os períodos alargados de seca, principalmente na região do semi-árido
+sergipano, são fatores que contribuem para o aumento da erosão desses rios. Muitas pesquisas tem sido
+realizadas com a finalidade de verificar as origens dos problemas apresentados como, por exemplo,
+verificação do percentual de erosão à margem direita do rio São Francisco com tentativa de
+recuperação do mesmo. Estudos recentes procuram outras formas de vigilância e controle de erosão,
+semelhantes às realizadas por uso de imagens de satélite, estas últimas com um custo altíssimo na
+aquisição de imagens que chegam à ordem de valores financeiros de R$ 7000,00 para cada imagem
+adquirida. Projetos inovadores já mudam a forma de adquirir estes recursos de imagem a baixo custo.
+Os drones (ou quadricópteros) são hoje as minúsculas plataformas computacionais com grande
+propósito em diversas áreas de atuação, seja para realizar filmagem em ângulos que seres humanos não
+conseguem atingir, seja pela entrega rápida de encomendas em que veículos não seriam capazes de
+realizar o percurso, seja, ainda pela capacidade de manobras que outros veículos aéreos são incapazes
+de realizar. Contudo, pretende-se nesse estudo desenvolver uma plataforma computacional
+(quadricóptero) de baixo custo, que possa realizar varreduras em ambientes abertos de pouca distância
+e que promova a captura de imagens de áreas com possibilidade de erosão para futura análise.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Ariel Correa Rabelo - Integrante / Luís Otávio S. Andrade - Coordenador / Breno Jose Barbosa Teixeira - Integrante / Eduardo Fillipe da Silva Reis - Integrante / FELIPE FONTES SANTOS - Integrante / Filipe Nascimento Almeida - Integrante / Jorge Luís Fernandes Barbosa Bispo - Integrante / Alexandre Fonseca Brito - Integrante.
+2014 - 2015
+BUY FAST ? SISTEMA PORTáTIL PARA COMPRA áGIL
+Descrição: Definição: Aplicações suportadas em tecnologia SmartPhone com características de uso de chips NFC (Near Field
+Communication ? tecnologia de campo de atuação de rádio-frequência de curta distância) para transmissão de informações
+quando aproximados a outro dispositivo contendo a mesma tecnologia. Nota-se que as atividades relacionadas a compras
+varejo necessitam cada vez mais de agilidade e melhor divulgação. Razões que levaram a desenvolver o
+Empreendimento/Projeto: O emprego de tecnologia capaz de proporcionar informação clara, segurança e conforto ao
+consumidor final é uma vertente promissora, observado o comportamento da população mundial pela aceitação a soluções
+que se apresentem em ambientes portáteis, como é o caso dos SmatPhones. Metas: Promover até março de 2015 a
+preparação para integração com o módulo de agilidade do sistema de redução de filas de compra varejo objetivando a
+satisfação do consumidor e do lojista, diminuindo as filas de compra varejo através de um arcabouço que será projetado
+com tecnologia NFC acoplado no carrinho de compras que dará informações dos produtos a escolher (Características do
+protudo, validade e preço), dando, ainda, a noção exata do consumo até a chegada ao caixa. Missão: Ser reconhecido
+como uma tecnologia inovadora até meados de 2015 com capacidade de promover agilidade e clarezaem compras varejo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Ariel Correa Rabelo - Integrante / Luís Otávio S. Andrade - Coordenador / Bruno Santos Nascimento - Integrante.
+2013 - 2014
+EVOLUÇÃO DA FERRAMENTA SIMUROSOT STRATEGY DEVELOPMENT KIT V.1.0 ATRAVES DA INSERÇÃO DE FUNCIONALIDADES INTELIGENTES
+Descrição: a proposta em desenvolvimento da versão 2.0 da ferramenta Simurosot Strategy Development Kit para futebol de robôs. O estudo do comportamento no futebol de robôs prover aspectos que podem auxiliar no crescimento do uso da Inteligência Artificial em robôs automotores e sensores autônomos. Para vencer as restrições no desenvolvimento de estratégias, foi projetado um software intitulado Simurosot Strategy Development Kit, registrado no INPI (Instituto Nacional de Propriedade Industrial) com o número BR 51 2013 000038 6, que minimiza a complexidade no desenvolvimento de estratégias de jogo, limitado ao processo de automatização e documentação, que ainda possui 
+limitações que distanciam do comportamento do mundo real. Problemas assim, por sua vez, restringem o alcance da ciência em estreitar os laços entre universos paralelos artificiais junto ao mundo real. Neste sentido, este artigo propõe a inclusão de funcionalidades inteligentes em estratégias de jogo para times de robôs na categoria SimuroSot, visando dinamizar a competição, tornando o comportamento desta mais próximo ao do cenário humano, possibilitando estudos e aplicabilidades diversas da aprendizagem da máquina dentro do contexto social.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Ricardo Ariel Correa Rabelo - Coordenador / RICHARD HERALD GALDINO FERREIRA - Integrante / TIAGO SANTOS SANTANA - Integrante / Ana Carolina B. Freire - Integrante.Número de produções C, T & A: 1
+2013 - 2014
+Sistema De Controle Veicular Controlado Por QR CODE
+Descrição: Atualmente o controle de acesso veicular em determinadas empresas e instituições, possuem um problema de mal gerenciamento que está ligado diretamente à segurança.
+Para sanar tais problemas, foi pensado em um sistema de controle veicular automatizado, de fácil gerenciamento e mais robusto.
+A tecnologia a ser explorada nesse projeto é o QR CODE, que são códigos em barras bidimensionais, de grande capacidade  de armazenamento, fácil resposta e interpretação.
+O sistema proposto é composto por  um QR CODE  acoplado à placa veicular,  a interpretação dos dados e a autorização de entrada dar-se por meio de uma câmera, para a identificação das imagens do código bidimensional, esses dados são comparados a outros que estão armazenados no servidor de banco de dados. 
+O sistema operacional será Windows, utilizando plataforma Visual Studio e a linguagem de programação C# que disponibiliza um acervo de ferramentas para o processamento de imagens.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Ariel Correa Rabelo - Coordenador / Igor Gonçalves Antão - Integrante / Rosa Bianca da Silva Carvalho - Integrante / Tina Tais Andrade Cruz do Santos - Integrante.Número de produções C, T & A: 1

@@ -1,0 +1,38 @@
+2020 - Atual
+Classificação de Variedades de Cana de Açúcar Através de Sensoriamento Remoto
+Descrição: O monitoramento da cana-de-açúcar normalmente é realizado a partir de verificações presenciais na lavoura, que geram custos com deslocamento e esforço do profissional da área agronômica em verificar visualmente e manualmente o plantio e desenvolvimento da planta.
+Através da aplicação de métodos de sensoriamento remoto, a etapa de monitoramento em campo pelo profissional dos estágios de crescimento da cana-de-açúcar, controle de doenças e discriminação varietal podem vir a ser utilizados em conjunto com a verificação presencial, reduzindo as visitas na lavoura, ou até mesmo substituindo os processos convencionais pelo processamento de imagens de satélite, contribuindo na agilidade do processo de identificação.
+Ademais, a identificação de variedades permite a coleta de dados sobre o crescimento das carac- terísticas vegetais da cana-de-açúcar, além da previsão de colheita, permitindo ao produtor selecionar a variedade que melhor se adapte às condições climáticas e do solo encontradas, além da diminuição da incidência de doenças.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Ronaldo Martins da Costa - Coordenador / Priscila Marques Kai - Integrante / Bruna Mendes de Oliveira - Integrante.
+2020 - Atual
+Inteligência Artificial aplicada a avaliação automatizada de exames ecocardiograma para apoio a decisão médica
+Descrição: As doenças cardiovasculares se tornaram a principal causa de morte nos países industrializados (Ouzir et al.,2017). Diante deste cenário, várias pesquisas com aplicação de técnicas de inteligência artificial têm buscado encontrar métodos preventivas para ajudar a reduzir esses índices.
+Embora sejam encontrados trabalhos semelhantes na literatura investigando técnicas de IA aplicados a análise de imagens cardíacas de ECO. O campo de pesquisa encontra-se em aberto e tem um grande potencial para novos estudos e gerar publicações relevantes.
+Ao realizar uma revisão sistemática da literatura, os autores deste projeto identificaram que os modelos apresentados na literatura até o presente momento, ainda precisam de melhorar aspectos relacionados ao tempo necessário para realizar a análise, precisão dos modelos, análise conjunta de várias patologias cardíacas de acordo com a sua classificação de risco, entre outras. Ressaltando que as lacunas identificadas, foram confirmadas em diálogo com o responsável técnico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (1) . Integrantes: Ronaldo Martins da Costa - Coordenador / DE SIQUEIRA, VILSON SOARES - Integrante / Lucas Matsuno da Costa - Integrante / Lívian de Sousa Gonçalves - Integrante.
+2018 - 2020
+Desenvolvimento de uma plataforma para o diagnóstico auxiliado por computador na identificação do Glaucoma
+Descrição: Desenvolver uma plataforma para coleta e análise de vídeos da pupila/olho humano, aplicando técnicas de visão computacional e inteligência artificial que fornecerão subsídios para diagnóstico auxiliado por computador.
+A plataforma será capaz de interligar / atender a qualquer unidade de saúde do SUS através da instalação de equipamentos para filmagem nas unidades.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Ronaldo Martins da Costa - Coordenador / Oge Marques Filho - Integrante / Gang Hua - Integrante / Cristhiane Gonçalves - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado de Goiás - Auxílio
+										financeiro.
+2015 - 2021
+Estudo da Dinâmica Pupilar Padrão Padrão para Indivíduos Saudáveis
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (0) . Integrantes: Ronaldo Martins da Costa - Integrante / Cristhiane Gonçalvez - Coordenador.
+2014 - 2016
+Avaliação qualitativa de posicionamento de rede baseado em imagens utilizando visão computacional
+Projeto certificado pela empresa Companhia Energética de Goiás em 24/06/2014.
+Descrição: O principal objetivo deste projeto é auxiliar no processo de administração do Sistema de Informações Geográficas, auxiliando na identificando de regiões, pontos de distribuição, unidades consumidoras e fatores que podem prejudicar a distribuição ou mesmo a qualidade da energia elétrica fornecida pela Companhia de Energia Elétrica CELG. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Ronaldo Martins da Costa - Coordenador / Leandro Luís Galdino de Oliveira - Integrante / Anderson da Silva Soares - Integrante / Fabrízzio Alphonsus Alves de Melo Nunes Soares - Integrante.Financiador(es): Companhia Energética de Goiás - Auxílio
+										financeiro.
+2013 - 2016
+Estudo do comportamento do globo ocular e da íris humana perante a utilização de drogas ilícitas do alcool e a criação de uma base de vídeos para pesquisas científicas
+Descrição: O objetivo deste projeto é o desenvolvimento de um sistema computacional que realize avaliação dos movimentos, das características de textura, da pigmentação e outras informações da superfície da íris humana.
+A avaliação de diversas regiões da íris humana e sua relação com os movimentos realizados pelo globo ocular mediante estímulos têm demonstrado potencial fonte de informações para as mais diversas aplicações.
+Neste sentido, o projeto propõe a criação de tal sistema que quantifique e qualifique estas medições, utilizando-as como ferramenta de apoio a identificação indivíduos que fizeram uso de drogas ilícitos ou de álcool.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Ronaldo Martins da Costa - Coordenador.Financiador(es): Fundação de Amparo a Pesquisa do Estado de Goiás - Auxílio
+										financeiro.
+2010 - 2015
+Aplicação de Visão Computacional no auxílio ao diagnóstico por imagens e reconhecimento biométrico
+Descrição: Utilização de técnicas de visão computacional aplicada em auxílio a diagnóstico e problemas de reconhecimento biométrico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Ronaldo Martins da Costa - Coordenador / Leandro Luís Galdino de Oliveira - Integrante / Anderson da Silva Soares - Integrante / Fabrízzio Alphonsus Alves de Melo Nunes Soares - Integrante / Mayara Barbosa Viandelli Mundim - Integrante / Rogério Lopes Salvini - Integrante / Rejane Farias Ribeiro-Rotta - Integrante.
+1996 - 1997
+O crescimento da presença de empresas brasileiras na internet
+Descrição: Avaliar o aumento da presença de empresas brasileiras na internet do período de 1996 a 1997. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo Martins da Costa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1995 - 1996
+O perfil do profissional de informática na região de Bauru, SP
+Descrição: Avaliar o perfil técnico e acadêmico dos profissionais de informática na região de Bauru-SP. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo Martins da Costa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

@@ -1,0 +1,34 @@
+2015 - Atual
+Métrica para Segurança Automotiva via Fusão de Sensores
+Descrição: Estudo sobre as técnicas de fusão de sensores aplicados à segurança automotiva.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.
+2014 - 2014
+Sistema de Visão Computacional para Auxílio ao Processo de Certificação de Aviônicos
+Descrição: Projeto que visa desenvolver pesquisa aplicada ao problema da certificação de instrumentos (aviônicos) que servem à correta operação de uma aeronave. Este projeto está sendo desenvolvido em parceria com a Airbus Defense and Space/Alemanha.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.
+2014 - Atual
+Estudo sobre Fusão Biométrica Multimodal
+Descrição: Estudo sobre a aplicação de novas técnicas para a fusão de biometrias em nível de primitivas e de classificação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.
+2012 - Atual
+Detecção do Nível de Atenção Relativa de Motoristas
+Descrição: Sistema de visão computacional que mede a atenção e a consequente capacidade de reação de motoristas visando alertar os mecanismos de segurança veicular.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.
+2011 - 2013
+Otimização da Operação de PCHs
+Descrição: Trata-se do desenvolvimento de uma nova metodologia para o controle e operação de pequenas centrais hidrelétricas (PCHs).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.Número de produções C, T & A: 1
+2011 - 2013
+Sistema Embarcado para Reconhecimento de Expressões Faciais
+Descrição: Desenvolvimento de um novo sistema embarcado para o reconhecimento de expressões faciais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.
+2010 - 2013
+Estudo e Aplicação de Novas Tecnologias Educacionais para a Engenharia
+Descrição: Estudo e Aplicação de Novas Tecnologias Educacionais para a Engenharia.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandro Zimmer - Coordenador.
+2010 - 2012
+Sistema Multibiométrico Híbrido para a Verificação da Identidade baseada na análise comportamental da Íris
+Descrição: Desenvolvimento de um novo sistema multimodal biométrico híbrido para a verificação da identidade baseada em uma análise comportamental da íris.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.Financiador(es): Ministério do Planejamento, Orçamento e Gestão - Bolsa / Ministério da Educação e Cultura - Bolsa.Número de produções C, T & A: 8
+2010 - 2012
+Sistema de Biofeedback para Reabilitação Facial
+Descrição: Este projeto procura desenvolver um novo sistema retro-alimentado para a reabilitação facial de pacientes com a paralisia de Bell.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Alessandro Zimmer - Coordenador.Financiador(es): Ministério da Educação e Cultura - Bolsa.Número de produções C, T & A: 1
+2009 - 2013
+Sistema Biométrico Híbrido para a Verificação de Assinaturas Manuscritas
+Descrição: Este projeto trata do aprimoramento de um novo sistema de verificação de assinaturas híbrido on/off-line, em que os dados dinâmicos de referência são adquiridos a partir de um dispositivo especial de entrada de dados e servem de suporte ao sinal estático (imagem) correspondente. As assinaturas são segmentadas segundo a complexidade de seus traços constituintes, baseando-se em um modelo psicofísico delta-lognormal de reprodução da escrita manuscrita.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Zimmer - Coordenador.
+2006 - 2006
+Controle de Acesso Baseado em Biometria por Geometria da Mão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandro Zimmer - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Fundação da UFPR para o Desenvolvimento da Ciência, Tecnologia e Cultura - Cooperação.

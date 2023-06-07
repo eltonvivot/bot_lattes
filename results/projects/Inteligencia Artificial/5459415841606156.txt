@@ -1,0 +1,11 @@
+2003 - Atual
+DESENVOLVIMENTO DE UM SISTEMA DE VIDEO LOTERIA
+Descrição: OBJETIVO
+Desenvolvimento de Jogo interativo para máquinas de divertimentos eletrônicos (tipo video-loteria). 
+PROPOSTA
+Desenvolvimento de uma plataforma para jogos interativos. Para tal, o projeto possui uma plataforma composta pelos seguintes módulos:
+·	Desenvolvimento de software de raspadinha eletrônica
+·	Desenvolvimento do software do gerador aleatório configurável, baseado nas exigências do CODESC.
+·	Desenvolvimento da Interface de Hardware.
+·	Manual de utilização do software e do gerador aleatório. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Humberto Fioravante Ferro - Integrante / Marco Aurélio Benedetti Rodrigues - Coordenador / Ricardo Godoi Vieira - Integrante / Luiz Cláudio Duarte Dalmolin - Integrante / Ruan Cesar do Nascimento - Integrante.Financiador(es): Mhm Imports Ltda - Auxílio
+										financeiro.

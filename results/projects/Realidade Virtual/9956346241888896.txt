@@ -1,0 +1,60 @@
+2020 - Atual
+CLASSIFICAÇÃO DE IMAGENS DE SENSORIAMENTO REMOTO COM ANÁLISE BASEADA EM OBJETOS E TÉCNICAS DE APRENDIZADO DE MÁQUINA
+Descrição: A identificação dos elementos que compõem a superfície terrestre a partir de imagens de
+sensoriamento remoto é importante para mapeamento de diversos estudos ambientais,
+urbanos, agrícolas. A resolução espacial da imagem tem se tornado cada vez mais alta, tanto
+em imagens adquiridas a partir de plataformas orbitais quanto aerotransportadas, seja de
+veículos tripulados ou não. Essa possibilidade de mapear em detalhes requer técnicas mais
+robustas do que as tradicionais abordagens baseadas em pixel, que consideram apenas o valor
+numérico que corresponde à energia refletida pelo alvo, sem informação de contexto, tamanho,
+textura, forma e outros aspectos que são considerados pelo olho humano, mas não eram
+utilizados pelos métodos automáticos clássicos. A abordagem de análise de imagens baseada
+em objetos tem sido cada vez mais utilizada, justamente por considerar áreas homogêneas,
+definidas como objetos ou segmentos, em detrimento a abordagem por pixel. Tais objetos
+podem ser caracterizados com informações estatísticas, espaciais, texturais, espectrais, dados
+estes que serão os atributos de cada objeto. A partir destes atributos pode-se aplicar diversos
+métodos de aprendizado de máquina para mapear os componentes da paisagem. Neste
+trabalho, serão utilizadas imagens adquiridas a bordo de sensores de veículos aéreos não
+tripulados e de plataformas orbitais, como CBERS 4, Sentinel-2 e RapidEye, portanto de alta e
+média resolução espacial. Serão analisadas imagens de áreas urbanas e rurais da região Norte
+do Paraná, considerando apenas as bandas espectrais brutas e também com a inclusão de
+índices espectrais que realçam vegetação, corpos d?água e áreas construídas. As etapas
+seguintes do processamento envolvem a aplicação de segmentação, extração de atributos e
+classificação por métodos baseados em árvores de decisão e redes neurais. A fim de avaliar a
+acurácia dos mapas de uso e cobertura do solo produzidos, serão utilizadas métricas de
+exatidão e amostras obtidas a partir da ferramenta Collect Earth. Os resultados esperados
+envolvem diversos domínios de estudos ambientais que dependem de mapas de uso e
+cobertura da terra precisos, como modelagens climáticas, hidrológicas, análises agrícolas, de
+conservação e biodiversidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ligia Flávia Antunes Batista - Coordenador / PRISCILA CORREA DE ASSIS SOUZA - Integrante / Evanuelli Sabata Borazio Silva - Integrante.Número de produções C, T & A: 3
+2016 - Atual
+Análise multicritério como proposta para resolução de  conflitos de zoneamento territorial e conservação da paisagem
+Descrição: O objetivo geral deste projeto é mapear as áreas que devem ter como prioridade a conservação ambiental e as áreas que são mais viáveis ao desenvolvimento socioeconômico, por meio de análise multicritério, com técnicas de Geoprocessamento e Imagens de Sensoriamento Remoto. Os estudos envolvem, ainda:
+	a) Avaliar a fragmentação da paisagem na região de estudo, a partir de métricas propostas pela Ecologia de Paisagem;
+	b) Mapear as regiões em que as pressões antrópicas são mais intensas e sua localização em relação aos fragmentos de remanescentes florestais;
+	c) Identificar as áreas em que deve-se priorizar a conservação ou restauração da paisagem.
+	d) Gerar mapa síntese que apresente as regiões prioritárias para conservação e aquelas mais adequadas para desenvolvimento socioeconômico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ligia Flávia Antunes Batista - Coordenador / Bruna Henrique Sacramento - Integrante.Número de produções C, T & A: 1
+2015 - Atual
+ANÁLISE ESPACIAL DE INDICADORES DE SUSTENTABILIDADE PERTENCENTES À DIMENSÃO AMBIENTAL NA REGIÃO METROPOLITANA DE LONDRINA
+Descrição: O objetivo geral deste projeto é avaliar a distribuição espacial de indicadores de
+sustentabilidade da dimensão ambiental, da categoria saneamento, nos setores censitários dos municípios pertencentes à Região Metropolitana de Londrina. A meta principal do projeto é localizar, no município de Londrina, os bairros que merecem
+ações de políticas públicas prioritárias, para que possam melhorar os indicadores de sustentabilidade. A situação dos demais municípios da RML será comparada às condições gerais do município de Londrina.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ligia Flávia Antunes Batista - Coordenador.Número de produções C, T & A: 1
+2007 - 2012
+Modelo dinâmico de plantas aquáticas submersas: caso de plantas de um reservatório de Furnas
+Descrição: O foco do projeto de trabalho ora apresentado é a construção e simulação de um modelo espaço-temporal dinâmico para o crescimento de macrófitas aquáticas submersas em um dos reservatórios das usinas hidrelétricas da empresa FURNAS. Este estudo é importante pois permite prever e planejar o controle e a retirada da vegetação a fim de evitar a obstrução das turbinas, além de analisar o equilíbrio ecológico do ecossistema. Há muitas variáveis físico-químicas envolvidas nesse processo, as quais serão identificadas para compor o modelo. As abordagens teóricas a serem utilizadas, as quais fornecem os elementos básicos para representar características próximas às do ambiente alvo são: linguagem de modelagem de sistemas, proposta por Odum e autômatos celulares multi-escalares. Dados obtidos em levantamentos de campo serão utilizados como fonte para iniciar a simulação e também para validar os resultados obtidos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ligia Flávia Antunes Batista - Integrante / Nilton Nobuhiro Imai - Coordenador / Edivaldo Domingues Velini - Integrante.Número de produções C, T & A: 16
+2005 - 2007
+Bancos de Dados Geográficos e Técnicas de Mineração de Dados Espaciais
+Descrição: Representação de dados geográficos e aplicação de técnicas de mineração de dados espaciais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ligia Flávia Antunes Batista - Coordenador / Rafael Massi - Integrante.Número de produções C, T & A: 2
+2005 - 2005
+Estudo, implementação e aplicação de algoritmos de Mineração de Dados
+Descrição: Com a crescente automatização de processos e o grande volume de dados gerados por sistemas de informação em todas as áreas de aplicação, surge a necessidade de aproveitá-los para extrair conhecimento que possa ser útil para o processo de tomada de decisões, bem como permitir que se façam previsões com base nos dados existentes. Considerando este contexto, percebe-se a importância de conhecer, disseminar e aplicar os meios que possibilitam a extração de conhecimento, repassando-os aos alunos.
+Objetivo Geral: Estudar, analisar e implementar as técnicas existentes de Mineração de Dados (MD) aplicadas a conjuntos de informações dos quais necessita-se extrair padrões para obter conhecimento que auxilie no processo de tomada de decisões. 
+Objetivos Específicos:
+a) Estudar as principais abordagens de algoritmos de MD;
+b) Analisar quais as características relevantes dos algoritmos estudados;
+c) Implementar estas técnicas por meio de algoritmos que envolvam reconhecimento de padrões para extração de conhecimento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ligia Flávia Antunes Batista - Coordenador / Cibely Caroline Marengoni - Integrante / Patrícia Emília Pitoli - Integrante.Número de produções C, T & A: 2
+2001 - 2003
+GeNorP - Projeto Genesis do Norte do Paraná
+Descrição: Objetivos: Promover a criação de empreendimentos em software, tecnologia da informação e serviços de qualidade mundial, através de soluções inovadoras e customizadas, que excedam as expectativas da comunidade, assegurando o crescimento contínuo e retorno atrativo do capital investido. Desenvolver software de apoio para avaliação nos cursos de graduação com ênfase em Enfermagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (3)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Ligia Flávia Antunes Batista - Coordenador.Número de produções C, T & A: 1
+1999 - 1999
+Projeto ABEL - Ambiente Básico para a Escrita da Língua: área de Interfaces em Linguagem Natural
+Descrição: Projeto para Estudar técnicas que viabilizem a criação e manutenção de interfaces computacionais em Linguagem Natural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ligia Flávia Antunes Batista - Coordenador / André S. Vieira - Integrante / Wanderley Ravagnani Jr. - Integrante / Marisa Barreto - Integrante / Márcio Ulliana Lopes - Integrante / Anderson Kakihata - Integrante.Financiador(es): Universidade Estadual de Londrina - Cooperação.Número de produções C, T & A: 1

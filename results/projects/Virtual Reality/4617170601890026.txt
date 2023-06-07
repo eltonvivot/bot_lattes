@@ -1,0 +1,13 @@
+2014 - 2015
+Avaliadores de treinamento baseados em realidade virtual usando redes de probabilidade baseadas na distribuição Normal fuzzy
+Projeto certificado pelo(a) coordenador(a) Ronei Marcos de Moraes em 07/04/2017.
+Descrição: Os métodos de avaliação de treinamentos baseados em realidade virtual são úteis para que o futuro médico possa conhecer o nível das suas habilidades na realização de algum procedimento, o que é relevante na a área médica. Várias metodologias podem ser encontrados na literatura a partir de 1996.
+	Dentre os vários métodos propostos para a avaliação on-line de treinamentos realizados em ambientes de realidade virtual, está o método Fuzzy Naive Bayes que não admite uma distribuição específica de probabilidade fuzzy. Entretanto, a distribuição de probabilidade Normal com parâmtetros dados por números  fuzzy pode ser pesquisada com essa finalidade com vistas a criação de um método avaliação usando uma de rede probabilista fuzzy baseada nessa distribuição. Esse método será estudado e implementado, de modo que possam ser testado e aperfeiçoado e será avaliado quanto ao seu desempenho, usando-se um simulador de treinamento em coleta de medula óssea usando realidade virtual, já desenvolvido no Laboratório de Tecnologias para o Ensino Virtual e Estatística (LabTEVE) da UFPB.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jodavid de Araújo Ferreira - Integrante / Ronei Marcos de Moraes - Coordenador.
+2013 - 2014
+Análise Geoestatística de Dados e Aplicações: Geoestatística Aplicada a Dados Climáticos de João Pessoa.
+Projeto certificado pelo(a) coordenador(a) Ronei Marcos de Moraes em 07/04/2017.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jodavid de Araújo Ferreira - Integrante / Ronei Marcos de Moraes - Coordenador.
+2012 - 2013
+Análise Espacial e Espaço-Temporal da Morbi-mortalidade na Paraíba: Perfil Espacial e Espaço-Temporal do Dengue na Paraíba.
+Projeto certificado pelo(a) coordenador(a) Ronei Marcos de Moraes em 22/08/2012.
+Descrição: O objetivo deste projeto é utilizar modelos estatísticos espaciais e espaço-temporais para delinear o mapeamento dos casos de dengue ocorridos no estado da Paraíba no período de 2001 a 2011. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jodavid de Araújo Ferreira - Integrante / Ronei Marcos de Moraes - Coordenador.

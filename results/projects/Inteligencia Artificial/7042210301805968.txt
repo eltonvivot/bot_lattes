@@ -1,0 +1,33 @@
+2014 - Atual
+TRAJETÓRIAS CONCEITUAIS INTENCIONAIS NA EAD:  O ENSINO E A APRENDIZAGEM SUPORTADOS POR SISTEMAS  DE RECOMENDAÇÃO DE OBJETOS DE APRENDIZAGEM.
+Descrição: O escopo deste projeto que se apresenta tem por objetivo analisar os efeitos sobre o alinhamento entre a Intencionalidade Pedagógica e a Intencionalidade de Aprendizagem decorrente da aplicação de mecanismos de recomendação de objetos de aprendizagem em disciplinas de cursos baseados em e-Learning.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Eráclito de Souza Argolo - Coordenador / José Valdeni de Lima - Integrante.
+2014 - Atual
+INTERATIVIDADE COM OBJETOS DE APRENDIZAGEM MULTIMODAIS NAS TRAJETÓRIAS DE APRENDIZAGEM
+Projeto certificado pelo(a) coordenador(a) Liane Margarida Rockenbach Tarouco em 22/06/2016.
+Descrição: Projeto de Trajetórias de Aprendizagem.
+Sub-projetos:
+KIGB
+TV Digital
+Principais objetivos do projeto KIGB (KNOWING AND INTERACTING WHILE GAMING FOR THE BLIND) são:
+1. Projetar, implementar e avaliar um jogo móvel  multimodal para melhorar a cognição espacial em pessoas com deficiência visual
+2.  Desenvolver modelos mentais através de jogos para melhor conhecer e compreender estruturas espaciais e habilidades de navegação em pessoas com deficiência visual
+Principais Objetivos do Uma aplicação em tv digital para auxiliar os idosos na concretização do envelhecimento ativo
+A aplicação proposta tem a intenção de informar, oferecer recursos e abordagens diversificadas sobre como manter a autonomia e qualidade de vida durante o envelhecimento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (7) . Integrantes: Eráclito de Souza Argolo - Integrante / José Valdeni de Lima - Coordenador / Manuel Constantino Zunguze - Integrante / Felipe Becker Nunes - Integrante / Franco Bernardo Simbine - Integrante / Kelly Hannel - Integrante / Rosana Wagner - Integrante / Oscar Eduardo Patrón Guillermo - Integrante.
+2011 - 2013
+CULTURA, MEMÓRIA E IDENTIDADES NA REGIÃO DA BAIXADA MARANHENSE
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) . Integrantes: Eráclito de Souza Argolo - Integrante / Rickley Leandro Marques - Coordenador / Isabel Ibarra Cabrera - Integrante.Financiador(es): Universidade Federal do Maranhão - Campus V - Outra.
+2009 - 2011
+Busca da redução da complexidade algorítmica do algoritmo AKS e de testes de primalidade determinísticos ou probabilísticos da classe P
+Descrição: Tentativas de simplificações do algoritmo original AKS vizando, como diz o título, uma redução dessa complexidade. Para tanto, usaremos a abordagem clássica da fundamentação matemática do Pequeno Teorema de Fermat, e das literaturas relacionadas como os algoritmos da potência perfeita e da raiz inteira.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8) . Integrantes: Eráclito de Souza Argolo - Coordenador / Carlos Henrique Souza de Jesus - Integrante.
+2009 - 2010
+REDE PARAENSE DE PESQUISA EM TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO: LABORATÓRIO DE TECNOLOGIA DE SOFTWARE
+Descrição: O projeto visa a constituição do Laboratório de Tecnologia de Software no Parque de Ciência e Tecnologia do Guamá cujo foco está em Certificação de Qualidade de Produto e Processo de Software. O laboratório atenderá principalmente as empresas de base tecnológica na realização de treinamentos, testes, certificações e laudos na área de software, além de investigação e disseminação do conhecimento nos processos de implantação de qualidade de software. O projeto permitirá a pesquisadores e empreendedores situados no Pará, acesso à serviços de ponta em Qualidade de Software. Para isso, o foco do projeto é direcionado a cinco segmentos principais: a) Testes de Produtos de Software com base em normas internacionais (por exemplo ISO 9126); b) Implantação de Modelos de Maturidade nacionais (MPS.Br) e internacionais (CMMI e eSCM) nas organizações de desenvolvimento de software locais; c) Avaliação de Empresas segundo modelos de maturidade citados no item anterior; d) Proposta de ferramentais livres (modelos, padrões, ferramentas CASE, etc.) integrados com foco no atendimento dos resultados esperados das práticas constantes nos modelos de qualidade; e e)Treinamento de profissionais do Estado em Modelos de Maturidade nacionais e internacionais para atender ao mercado local, nacional e global.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eráclito de Souza Argolo - Integrante / Carla Alessandra Lima Reis - Integrante / Sandro Ronaldo Bezerra Oliveira - Integrante / Rodrigo Quites Reis - Coordenador / Cleidson Ronald Botelho de Souza - Integrante.Financiador(es): Fundação Amazônia Paraense de Amparo à Pesquisa - Auxílio
+										financeiro.
+2007 - 2008
+SIGMA - SISTEMA DE INFORMAÇÃO GEOGRÁFICA DO MUNICIPIO DE MARABÁ.
+Descrição: Desenvolvimento de um Sistema de informação georeferenciada da ocupação dos espaços urbanos do Município de Marabá no estado do Pará.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10) . Integrantes: Eráclito de Souza Argolo - Integrante / Leila Weitzel - Coordenador.Financiador(es): Universidade Federal do Pará - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1998 - 2003
+ENGENHARIA DE SOFTWARE COM APLICAÇÃO DE LINGUAGEM ORIENTADA A OBJETOS EM ELEMENTOS FINITOS
+Descrição: Este trabalho objetiva apresentar o emprego de conceitos de Programação Orientada a Objetos (POO) no desenvolvimento de um software de Elementos Finitos. Os objetivos gerais do trabalho são: estudo e análise sobre Programação Orientada a Objetos; estudo sobre a Linguagem Unificada de Modelagem (UML); aplicação dos conhecimentos obtidos na modelagem de um software para elementos finitos e conclusões do estudo realizado. O estudo da POO, paralelamente com a UML, tornou possível a utilização de técnicas e procedimentos adequados de programação possibilitando uma modelagem de qualidade superior e facilitando as futuras codificação e manutenção do software. A modelagem consiste na elaboração de diagramas que revelam as fronteiras do sistema e sua seqüência de desenvolvimento... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4) . Integrantes: Eráclito de Souza Argolo - Integrante / Gray Farias Moita - Coordenador / Henrique Elias Borges - Integrante / Fausto de Camargo Junior - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

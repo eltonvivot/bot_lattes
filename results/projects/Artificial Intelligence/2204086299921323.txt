@@ -1,0 +1,40 @@
+2009 - 2014
+Determinantes do Desempenho Escolar no Brasil
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Sandra Camargo Pinto Ferraz Fabbri - Coordenador / Ricardo Rodrigues Ciferri - Integrante / Marilde Terezinha Prado Santos - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2009 - 2014
+INCT - Sistemas Embarcados Críticos: Aplicações em Segurança e Agricltura
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Sandra Camargo Pinto Ferraz Fabbri - Integrante / José Carlos Maldonado - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Ministério da Ciência, Tecnologia, Inovações e Comunicações - Auxílio
+										financeiro.
+2009 - 2012
+Suporte automatizado para compreensão de código usando visualização e técnicas de leitura
+Descrição: O objetivo do projeto é investigar paradigmas de visualização e técnicas de leitura, e propor formas de combiná-las para facilitar a compreensão e inspeção de código. As estratégias identificadas serão exploradas no contexto de várias atividades de engenharia de software e domínios de aplicação. Com base na ferramenta CRISTA (vide SBES 2008) outras serão desenvolvidas para dar suporte a essas estratégias. As propostas serão avaliadas por meio de estudos experimentais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Sandra Camargo Pinto Ferraz Fabbri - Coordenador / Manoel Mendonça - Integrante / Daniela Cruzes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2011
+Web-PIDE: Uma Plataforma aberta de Integração e avaliação de Dados Educacionais
+Descrição: O objetivo do projeto é especificar e implementar uma plataforma aberta, intitulada Web-PIDE, para integrar e disponibilizar os dados educacionais do INEP, principalmente da educação superior, por meio de uma linguagem comum, já que tais informações estão distribuídas em diferentes bases de dados de maneira não uniformizada e de difícil reuso e integração com sistemas de avaliação institucional das universidades brasileiras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Sandra Camargo Pinto Ferraz Fabbri - Integrante / Maria da Graça Brasil Rocha - Integrante / Marcelo Turine - Coordenador / Edson Norberto Caceres - Integrante / Ricardo Rodrigues Ciferri - Integrante / Marilde Terezinha Prado Santos - Integrante / Henrique Mongelli - Integrante / Débora Paiva - Integrante.Financiador(es): Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2010
+Subsídios para atividades de VV&T no desenvolvimento de Software
+Descrição: Este projeto visa a agregar um grupo de pesquisa com o objetivo
+de explorar técnicas e critérios para as atividades de VV&T instanciados
+para diferentes paradigmas de desenvolvimento (Orientação a Objetos, Aspectos,
+Processos Ágeis, etc.) e para diferentes domínios de aplicação (Sistemas de
+Informação, Aplicações concorrentes, Sistemas de Tempo Real etc.). Estudos
+experimentais serão desenvolvidos com o intuito de avaliar as estratégias de -
+nidas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sandra Camargo Pinto Ferraz Fabbri - Integrante / Márcio Eduardo Delamaro - Integrante / José Carlos Maldonado - Coordenador / Paulo Cesar Masiero - Integrante / Simone do Rocio Senger de Souza - Integrante / Adenilso da Silva Simão - Integrante / Auri Marcelo Rizzo Vicenzi - Integrante / Ellen Francine Barbosa - Integrante / Elisa Yumi Nakagawa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2006
+PLAVIS : Plataforma para Validação e Integração de Software em Sistemas Espaciais
+Descrição: O objetivo desse projeto é determinar uma plataforma de teste para aplicações espaciais. Para tanto, diversos critérios e ferramentas de teste serão explorados e aplicados em estudos piloto.
+O projeto está sendo realizado em parceria com o INPE. As Instituições envolvidas são: ICMC/USP, UFSCar, UNICAMP, UEPG, UEM.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sandra Camargo Pinto Ferraz Fabbri - Integrante / Márcio Eduardo Delamaro - Integrante / José Carlos Maldonado - Coordenador / Tatiana Sugeta - Integrante / Simone do Rocio Senger de Souza - Integrante / Adenilso da Silva Simão - Integrante / Eliane Martins - Integrante / Ricardo Anido - Integrante / Maria de Fátima Mattielo Francisco - Integrante / Ana Maria Ambrosio - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Instituto de Ciências Matemáticas e de Computação - Cooperação / Universidade Estadual de Campinas - Cooperação / Universidade Estadual de Ponta Grossa - Cooperação / Universidade Federal de São Carlos - Cooperação / Centro Universitário Euripedes de Marília - Cooperação.
+2002 - 2004
+Readers II : Collaborative Research to Develop, Validate and Package Reading Techniques for Software Defect Detection
+Descrição: O objetivo do projeto é explorar técnicas de inspeção e teste por meio de experimentos controlados.
+É um projeto em parceria com a Universidade de Maryland, cuja coordenação nos EUA é do Prof. Victor Basili e no Brasil, do Prof. José Carlos Maldonado.
+Estão envolvidos, do lado nacional docentes das seguintes instituições: ICMC/USP, UFSCar, COPPE e UNIFACS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sandra Camargo Pinto Ferraz Fabbri - Integrante / José Carlos Maldonado - Coordenador / Forrest Shull - Integrante / Victor Basili - Integrante / Jeff Carver - Integrante / Manoel Mendonça - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia - Cooperação / Instituto de Ciências Matemáticas e de Computação - Cooperação / Universidade Salvador - Cooperação / Universidade Federal de São Carlos - Cooperação.Número de produções C, T & A: 5 / Número de orientações: 2

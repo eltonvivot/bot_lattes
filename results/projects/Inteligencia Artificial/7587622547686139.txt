@@ -1,0 +1,89 @@
+2018 - Atual
+Visualização de Neuroimagens Rotuladas para Ensino de Neuroanatomia
+Descrição: Este projeto faz parte do projeto Centro de Pesquisa, Inovação e Difusão (CePID) BRAINN coordenado pelo Prof. Fernando Cendes da Faculdade de Ciências Médicas da Unicamp. CePID BRAINN é financiado pela FAPESP (Processo 2013/07559-3). Aplicar em ensino de Anatomia as ferramentas de visualização interativa de neuroimagens com vistas 2D e 3D coordenadas, desenvolvidas pelo nosso grupo,  foi uma sugestão do público da mostra ExpoT&C da 67a. Reunião Anual da Sociedade Brasileira para o Progresso da Ciência realizada na Universidade Federal de São Carlos (2015). A ideia só se evoluiu com as interações diretas com os professores de Neuroanatomia que trabalham com o Prof. Enrico Ghizoni do Departamento de Neurologia da Faculdade de Ciências Médicas da Unicamp. Como contribuições científicas nesse projeto, espera-se (1) um procedimento aceitável para ensino de rotulação automática das estruturas anatômicas em neuroimagens e (2) uma interface que propicie estudos comparativos entre as peças e cortes anatômicos e os cortes em neuroimagens.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Wu Shin-Ting - Coordenador / Raphael Voltoline Ramos - Integrante / ANGELO, FELIPPE T. - Integrante.Número de produções C, T & A: 1 / Número de orientações: 1
+2017 - Atual
+Visualização Multimodal Exploratória de Neuroimagens para Planejamento Neurocirúrgico
+Descrição: Este projeto faz parte do projeto Centro de Pesquisa, Inovação e Difusão (CePID) BRAINN coordenado pelo Prof. Fernando Cendes da Faculdade de Ciências Médicas da Unicamp. CePID BRAINN é financiado pela FAPESP (Processo 2013/07559-3). Conta com a colaboração do Prof. Enrico Ghizoni do Departamento de Neurologia da Faculdade de Ciências Médicas da Unicamp. Prof. Enrico Ghizoni vislumbrou o potencial das ferramentas de visualização exploratória multimodal de neuroimagens, desenvolvidas pelo nosso grupo, no suporte ao planejamento neurocirúrgico. Considerando a fidedignidade das veias cerebrais superficiais como referências neuroanatômicas e a relevância da massa branca (fibras neurais) em funções cognitivas, espera-se como contribuições científicas (1) aprimorar a visualização da superfície cortical dos lobos temporais na região de fossa temporal, (3) co-registro de veias cerebrais superficiais com as estruturas neuroanatômicas, e (2) reconstrução e visualização interativa das fibras neurais a partir dos dados de difusão em neuroimagens em diferentes modos de fatiamento do cérebro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Wu Shin-Ting - Coordenador / Wallace Souza Loos - Integrante / Raphael Voltoline Ramos - Integrante / GHIZONI, ENRICO - Integrante / Alisson Vinicius Salvador de Lima - Integrante / Hítalo César Alves - Integrante / Daniel Xavier Silva - Integrante / Rodrigo Lacerda Benites - Integrante.Número de produções C, T & A: 9 / Número de orientações: 2
+2015 - Atual
+Visualização Não-Invasiva de Estruturas Cerebrais para Neuronavegação
+Descrição: Este projeto faz parte do projeto Centro de Pesquisa, Inovação e Difusão (CePID) BRAINN coordenado pelo Prof. Fernando Cendes da Faculdade de Ciências Médicas da Unicamp. CePID BRAINN é financiado pela FAPESP (Processo 2013/07559-3). Conta com a cooperação do Prof. Rickson Coelho Mesquita do Grupo de Neurofísica do Instituto de Física Gleb Wataghin da Unicamp. Prof. Rickson C. Mesquita viu nas ferramentas de visualização interativa de neuroimagens anatômicas, desenvolvidas pelo nosso grupo, as funcionalidades que ele precisava para complementar um sistema de neuronavegação em desenvolvimento pelo seu grupo. As ferramentas gráficas poderiam  guiar a colocação dos sensores sobre o couro cabeludo. Pesquisador em espectroscopia no infravermelho próximo (NIRS) e suas aplicações clínicas, Prof. Rickson conjetura que o grau de repetibilidade dos sinais amostrados pelos sensores NIRS aumenta com a acurácia no posicionamento desses sensores em relação aos seus alvos. Como suporte à validação dessa conjetura, espera-se como contribuições científicas (1) acoplamento das nossas ferraments (software) aos dispositivos periféricos de neuronavegação (hardware), (2) co-registro de volumes físicos e neuroimagens, (3) visualização interativa e acurada das estruturas neuroanatômicas subjacentes aos sensores, e (4) suporte à decisão na escolha das posições dos sensores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Wu Shin-Ting - Coordenador / Rickson Coelho Mesquita - Integrante / Raphael Voltoline Ramos - Integrante / José Angel Iván Rubianes Silva - Integrante.Número de produções C, T & A: 4 / Número de orientações: 1
+2013 - 2017
+Visualização Multimodal Exploratória de Neuroimagens
+Descrição: Este projeto faz parte do projeto Centro de Pesquisa, Inovação e Difusão (CePID) BRAINN coordenado pelo Prof. Fernando Cendes da Faculdade de Ciências Médicas da Unicamp. CePID BRAINN é financiado pela FAPESP (Processo 2013/07559-3). Como suporte ao diagnóstico e aos estudos para melhorar a compreensão dos mecanismos de plasticidade, danos e reparação em epilepsia e derrame cerebral, a proposta deste projeto é incrementar as funcionalidades já desenvolvidas pelo nosso grupo para explorar visualmente os indícios em neuroimagens de diferentes modalidades. Como contribuições científicas, espera-se (1) aprimorar a visualização de dados estruturais como os dados de difusão que revelam a conectividade neural, (2) aprimorar o co-registro (afim) de neuroimagens de diferentes modalidades, e (3) desenvolver uma modalidade de interações que propicie a análise do grau de concordância entre os indícios nas neuroimagens.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) . Integrantes: Wu Shin-Ting - Coordenador / José Elias Yaurí Vidalón - Integrante / Wallace Souza Loos - Integrante / VALENTE, AUGUSTO CAVALCANTE - Integrante / WATANABE, LIONIS DE SOUZA - Integrante / José Angel Iván Rubianes Silva - Integrante / VOLTOLINE, RAPHAEL - Integrante.Número de produções C, T & A: 12
+2013 - Atual
+Centro de Pesquisa, Inovação e Difusão (Cepids) - BRAINN
+Descrição: As questões centrais do nosso CEPID referem-se à investigação biológica dos mecanismos básicos que levam à epilepsia e ao derrame cerebral, assim como dos mecanismos de lesão e progressão associados a essas doenças, e estão relacionadas à prevenção, tratamento e reabilitação. Nossos objetivos são desenvolver novos métodos e técnicas para melhorar a compreensão dos mecanismos de plasticidade, danos e reparação em epilepsia e derrame cerebral, e de aplicar esses resultados para melhorar a prevenção, diagnóstico e tratamento. A principal motivação deste projeto surgiu da necessidade de abordar esses problemas biológicos relevantes e complexos, combinando a experiência de grupos de pesquisa com backgrounds distintos e complementares. Um dos múltiplos aspectos que revela a complexidade característica associada à pesquisa sobre epilepsia e derrames é o fato de que tais condições não são exclusivamente definidas, ou seja, não podem ser relacionadas a uma única doença ou síndrome. Esta multiplicidade de fatores biológicos relacionados à etiologia, sintomatologia, prevenção e tratamento da epilepsia e derrames indica a necessidade de investigação colaborativa, envolvendo diferentes áreas de expertise. Além disso, esta iniciativa prevê a criação de um novo ambiente para o desenvolvimento cientifico e tecnológico, novas aplicações clínicas, educação e interação com o setor empresarial. Nossa proposta será conduzida não só por avanços tecnológicos, mas por hipóteses sólidas e relevantes. A pesquisa para o desenvolvimento de novas tecnologias será impulsionada por fundamentos científicos e necessidades sociais claramente estabelecidos, a fim de fornecer aplicações relevantes para o mundo real. O nível de excelência dessa proposta é compatível com o fato de ser clinicamente importante, realista e altamente original do ponto de vista cientifico, combinando genética, neurobiologia, farmacologia, neuroimagem, ciências da computação, robótica, física e engenharia. Os resultados irão beneficiar pacientes com epilepsia, acidente vascular cerebral e outras doenças prevalentes, e contribuir substancialmente para discussões científicas em curso dentro de neurologia, psiquiatria e neurociência cognitiva. As colaborações, descritas no projeto, entre o CEPID aqui proposto e outros grandes centros de neurociência irão permitir acelerar o avanço de conhecimento diretamente relevante para todas as pessoas que sofrem de condições neurológicas altamente incapacitantes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Wu Shin-Ting - Integrante / Roberto de Alencar Lotufo - Integrante / Eleri Cardozo - Integrante / Fernando Cendes - Coordenador / Íscia Teresinha Lopes Cendes - Integrante / Gabriela Castellano - Integrante / Roberto José Maria Covolan - Integrante / Ricardo Ribeiro Gudwin - Integrante / Rickson Coelho Mesquita - Integrante.
+2011 - 2013
+Visualização Exploratória de Relações Espaciais Neuroanatômicas
+Descrição: A proposta deste projeto é desenvolver um sistema de
+  planejamento neuro-cirúrgico com base nos resultados já obtidos por
+  nosso grupo de pesquisa em fatiamentos orientados à anatomia do
+  cérebro. Os resultados foram avaliados em conjunto com os
+  neuro-cientistas, Prof. Dr. Fernando Cendes e Dra. Clarissa Lin
+  Yasuda, ambos integrantes do projeto temático CInAPCe financiado
+  pela agência FAPESP (Processo 2005/56578-4). Diferentemente dos
+  sistemas já desenvolvidos para visualização e manipulação de imagens
+  3D de cérebro, como 3DSlicer e FreeSurfer, o nosso sistema
+  proporciona explorações de cérebros em cortes paralelos ao
+  escalpo. Essa forma inovadora de exploração permite visualizar, no
+  ângulo em que é realizada a craniotomia, a extensão das lesões, os
+  tecidos sadios que poderão ser atingidos e as possíveis complicações
+  pós-cirúrgicas. Isso permite que os neuro-cirurgiões tenham uma
+  avaliação mais precisa de cada caso clínico. Como contribuições
+  científicas, espera-se obter resultados satisfatórios em
+  visualização multi-modal interativa e estudo de funções de
+  transferência apropriadas para distinguir partes cerebrais de
+  interesse à neuro-cirurgia. E como uma contribuição tecnológica, nós
+  nos empenharemos a transformar os resultados teóricos em um
+  protótipo de um visualizador interativo utilizável pelos
+  neuro-cirurgiões na sua rotina clínica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Wu Shin-Ting - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2010 - 2013
+Interagindo com Imagens
+Descrição: Hoje em dia uma boa visualização não se limita apenas a
+  imagens fotorealísticas ou a observar um conjunto de objetos em
+  cenas 3D sob distintos pontos de vista. Interesse por uma
+  visualização exploratória, através da qual usuários podem selecionar
+  e interagir com um ou mais objetos especÃ­ficos como se os estivessem
+  manuseando com as mãos, tem crescido nos últimos anos. No entanto,
+  os resultados são ainda incipientes, sendo o ní­vel de granulosidade
+  de interaçõo com os modelos 3D limitado às geometrias pré-definidas,
+  como malhas de deformação e planos de corte, além de serem fortemente
+  dependentes da aplicação. Este projeto visa a desenvolver novas
+  ferramentas gráicas interativas, independentes da aplicação que 
+  proporcionem interações investigativas dos dados apresentados na
+  tela do computador.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wu Shin-Ting - Coordenador.
+2004 - 2006
+MTK: Um Conjunto de Ferramentas para Construção de Interfaces Gráficas Interativas 3D em Estações Convencionais
+Descrição: A proposta deste projeto é analisar a viabilidade em
+acelerar os algoritmos de interação propostos pelo nosso
+Grupo de Computação de Imagens com uso de placas
+gráficas modernas que suportam API OpenGL no contexto de
+desenvolvimento de uma biblioteca aberta de ferramentas de apoio
+à construção de interfaces gráficas interativas 3D
+para estações de trabalho convencionais, MTK. 
+A concepção do projeto MTK, Manipulation Toolkit,
+surgiu em 1995 como uma tentativa para criar uma biblioteca aberta de
+ferramentas modulares a partir das quais pode-se construir elementos
+de interação complexos sem sacrificar o tempo de resposta destes
+elementos. Nesta época, foi lançada a interface OpenGL 
+como uma padronização de interfacegráfica para diferentes 
+placas gráficas produzidas por distintos fabricantes, tornando possível 
+a implementação de aplicativos interativos 3D totalmente independente 
+da plataforma de hardware. Quase simultaneamente, com o intuito de encurtar o
+tempo de programação para implementar aplicativos interativos, surgiram projetos
+de bibliotecas de mais alto nível como OpenInventor. O grande diferencial do projeto MTK em relação aos
+projetos como OpenInventor e seus similares é a separação entre os modelos dos objetos e o 
+fluxo de controle de interação. Acreditamos que este é o passo fundamental
+para aumentar a reusabilidade de uma bibilioteca de ferramentas de
+ suporte às interações 3D.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wu Shin-Ting - Coordenador / Harlen Costa Batagelo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+1996 - 1998
+PROSIM: Um Sistema para Prototipação e Síntese de Imagens Foto-realistas e Animação
+Descrição: PROSIM constitui um protótipo de ambiente gráfico
+interativo para a síntese de imagens foto-realistas e
+animação por computador. Particularmente, no presente contexto,
+o sistema PROSIM tem como objetivo a pesquisa e o desenvolvimento
+de técnicas para (1) o controle de animação de objetos articulados, não necessariamente 
+rígidos e (2) a criação de técnicas para apoio a manipulações diretas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wu Shin-Ting - Coordenador / Léo Pini Magalhães - Integrante / José Tarcísio Franco de Camargo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 20

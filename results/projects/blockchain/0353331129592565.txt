@@ -1,0 +1,53 @@
+2021 - Atual
+PROJETO PARAÍBA HUMANA E INTELIGENTE
+Descrição: Estudo sobre o Uso de Recursos Tecnológicos para Ensino Remoto e Híbrido durante a Pandemia. Essa meta objetiva levantar e analisar modelos tecnológicos adotados para Ensino Remoto e Híbrido no contexto nacional e internacional durante a pandemia com o objetivo de auxiliar na especificação e implantação de um conjunto de modelos e estratégias aplicáveis no cenário da SEECT/PB.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Denio Mariz Timoteo de Sousa - Integrante / Rostand Costa - Coordenador.Financiador(es): Fundação de Apoio à Pesquisa do Estado da Paraíba - Bolsa.
+2019 - Atual
+GT V4H - Video Síncrono para Teleconsultoria, Teleconsulta e Telediagnóstico em Telessaúde
+Descrição: O objetivo deste projeto é desenvolver uma plataforma de vídeo com suporte à transmissão síncrona e confidencial com arquitetura aberta e escalável para simplificar a integração de elementos de streaming em sistemas de telessaúde. O sistema permitirá a autenticação de participantes, preservação e recuperação dos vídeos com suporte a prova de existência, integridade e autenticidade com uso de certificados digitais e blockchain e a associação da mídia gravada com o prontuário eletrônico do paciente. A ideia é que os teleconsultores e profissionais de saúde possam utilizar recursos síncronos de vídeo para atividades de supervisão, teleconsultoria, teleconsulta, telediagnóstico e preceptoria dos residentes com foco na Atenção Básica e Primária em Saúde em localidades remotas de forma segura e confiável.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Denio Mariz Timoteo de Sousa - Integrante / LEMOS, GUIDO - Coordenador / Cicero I da Silva - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Bolsa.
+2011 - 2012
+GT-AVCS 2 Ambiente de Videocolaboração em Saúde - Fase II
+Descrição: O objetivo do projeto na primeira fase deste grupo
+consistiu em propor e desenvolver uma infraestrutura de software com
+gerência remota para captura e distribuição segura de múltiplos fluxos
+simultâneos a fim de prover suporte a diversos cenários de vídeo
+colaboração em saúde. Em sua segunda fase, o GT-AVCS 2 tem como foco
+aprimorar a plataforma desenvolvida para o serviço de transmissão de
+cirurgias ao vivo e, sobretudo, desenvolver serviços adicionais para o
+apoio à atividade de ensino e aprendizagem baseadas em colaboração e
+recuperação de informações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Denio Mariz Timoteo de Sousa - Integrante / Guido Lemos de Souza Filho - Integrante / Tatiana Aires Tavares - Coordenador / Erick Augusto Gomes de Melo - Integrante / Gustavo Henrique matos Bezerra Motta - Integrante / Danielle Rousy Dias da Silva - Integrante / Damian Schofield - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Bolsa.
+2010 - 2011
+GT-AVCS Ambiente de Videocolaboração em Saúde - Fase I
+Descrição: O avanço da tecnologia tem viabilizado serviços de
+Telemedicina/Telessaúde, permitindo o intercâmbio remoto de
+informações clínicas para o cuidado à saúde de pacientes e a educação
+de profissionais da saúde. A Rede Universitária de Telemedicina
+(Rute), iniciativa coordenada pela RNP, provê aquisição e implantação
+de soluções de videoconferência dedicadas a esse fim, porém, essas
+soluções apresentam um alto custo. Neste contexto, o GT-AVCS propõe
+uma infraestrutura de hardware e software com gerência remota para
+captura e distribuição segura de múltiplos fluxos simultâneos de vídeo
+e aúdio a fim de prover suporte a diversos cenários de colaboração
+remota em saúde. A solução proposta será uma alternativa de baixo
+custo e também permitirá a transmissão de múltiplos fluxos oriundos de
+diferentes fontes, o gerenciamento remoto dos fluxos transmitidos aos
+pontos distribuídos geograficamente e a interação entre os pontos
+conectados. A ideia é expandir a abrangência da Rute por permitir a
+integração de instituições que não dispõem de soluções dedicadas para
+videoconferência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Denio Mariz Timoteo de Sousa - Integrante / Guido Lemos de Souza Filho - Integrante / Tatiana Aires Tavares - Coordenador / Gustavo Henrique matos Bezerra Motta - Integrante / Geraldo Almeida - Integrante.
+2009 - 2013
+DINTER - Doutorado institucional em Ciências da Computação
+Descrição: Doutorado institucional CAPES. Instituição promotora: UFPE/Cin, Instituição receptora: IFPB. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Denio Mariz Timoteo de Sousa - Coordenador / Teresa Bernarda Ludermir - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2008 - 2012
+RH-TVDI - Programa Interinstitucional de Formação de Recursos Humanos em TV Digital
+Descrição: Programa de Formação de Recursos Humanos em TV Digital envolvendo a UFRN, UERN, UFPB e IFPB. Situação: Concluído; Natureza: Pesquisa. Integrantes: Denio Mariz Timoteo de Sousa - Coordenador / Guido Lemos de Souza Filho - Integrante / Aquiles Burlamaqui Medeiros - Integrante / Luiz Marcos Garcia Goncalves - Integrante / Ed Porto - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2009
+BEACON - Brasilian-European Consortium for DTT Services
+Descrição: BEACON is the acronym for Brazilian-European Consortium for DTT Services . It is a specific targeted research project on Digital Terrestrial Television carried out with the support of the European Commission under the Sixth Framework Programme Priority IST. Between 2007 and 2010 BEACON aims to develop innovative t-learning pilot services related to social inclusion in the State of Sao Paulo (Brasil) on the basis of pioneering research on interoperability between the European (DVB) and the Brazilian (SBTVD) Digital Terrestrial Television standards and the definition of a pedagogically sound methodology for distance learning through digital television. Ultimately the project will establish a Brasilian-European Consortium which will manage the exploitation of the assets and the services implemented by the project activities. Although e-learning is an all-encompassing term used in reference to learning through any electronic device , it is most commonly used for computer-enhanced learning. As a subset of e-learning, t-learning or learning through digital interactive television (IDTV) can prove highly beneficial however to regions where access to internet-enabled computers is significantly low. Research reveals that the large majority of today s households own a television rather than a computer. In the context of Latin-America these numbers are even more critical: while 95% of the Brasilian households have a television, less then 20% owns an internet-enabled computer. For the lowest economic classes (D and E) access to computers or internet is even lower than 2%. The exploitation of this potential is therefore undeniably important for the implementation of relevant educational policies. 
+Site: https://cordis.europa.eu/project/rcn/93667/factsheet/en. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Denio Mariz Timoteo de Sousa - Integrante / Guido Lemos de Souza Filho - Integrante / Guido Lemos Souza Filho - Coordenador.Financiador(es): European Commission - Cooperação.
+2005 - 2007
+Performance Evaluation of Radio Resource Management Algorithms For Multi-Access Networks
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denio Mariz Timoteo de Sousa - Coordenador.
+2002 - 2003
+Analysis of Access Selection Algorithms for Always Best Connection Networks
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denio Mariz Timoteo de Sousa - Coordenador.

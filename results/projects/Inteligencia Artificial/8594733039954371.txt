@@ -1,0 +1,66 @@
+2018 - Atual
+Mobilidade Urbana Inteligente
+Descrição: Projeto de pesquisa e desenvolvimento tecnológico, tratando aplicabilidade de temas de inteligência computacional para apoio e suporte à melhoria da mobilidade urbana. 
+Este projeto tem vínculos com a TH Ingolstadt, escola de engenharia da Alemanha, onde temos tido a oportunidade de participar de eventos (remotos e presenciais).
+Este tema está em consonância com atividades anteriores desenvolvidas com a BMW e com a TU Munique.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcio Lobo Netto - Coordenador / João Francisco Justo Filho - Integrante / Leopoldo Rideki Yoshioka - Integrante.
+2014 - 2015
+Global Drive - Truck (TUM)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Marcio Lobo Netto - Coordenador.
+2013 - 2014
+Global Drive - Liberty (TUM / BMW)
+Descrição: Estudo de novos conceitos de mobilidade. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Marcio Lobo Netto - Coordenador.Financiador(es): Continental A.G. - Auxílio
+										financeiro.
+2010 - 2011
+Global Drive - ESEER (TUM / Contnental)
+Descrição: Projeto sobre interfaces homem-máquina, no contexto de cabines de automóveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Marcio Lobo Netto - Coordenador.Número de produções C, T & A: 1
+2009 - 2010
+Global Drive - HMI (TUM / MAN)
+Descrição: Estudo e Desenvolvimento de paineis de instrumento em cabines de caminhões.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Marcio Lobo Netto - Coordenador.
+2008 - 2012
+Global Engineering Excellence Initiative - Global Internship
+Descrição: Programa de estágios globais, envolvendo a empresa alemã Continental A.G. (matriz e filiais em diferentes países) e Instituições de Ensino Superior de reconhecida competência na América, Europa e Ásia
+Programa desenvolvido a como consequência do estudo realizado em 2006. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Doutorado: (1) . Integrantes: Marcio Lobo Netto - Coordenador / Paulo Carlos Kaminski - Integrante.
+2006 - 2006
+Global Engineering Excellence Initiative - Study
+Descrição: Estudo sobre a engenharia no contexto global e sobre o ensino da engenharia considerando este cenário. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Lobo Netto - Coordenador / Paulo Carlos Kaminski - Integrante.Financiador(es): Continental A.G. - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2003 - 2006
+VIVO
+Descrição: Simulação de humanos artificiais
+Raciocínio Baysiano. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcio Lobo Netto - Coordenador.Número de produções C, T & A: 5
+2001 - 2003
+ALGA
+Descrição: Projeto de simulação de personagens virtuais
+Aprendizado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcio Lobo Netto - Coordenador.Número de produções C, T & A: 3
+2001 - 2003
+ALIVE
+Descrição: Artificial Life virtual lab. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Lobo Netto - Coordenador.Número de produções C, T & A: 3
+2000 - 2004
+WOXBOT
+Descrição: Simulacao de vida artificial com procedimentos evolucionários e algoritmos genéticos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcio Lobo Netto - Coordenador.Número de produções C, T & A: 7
+1994 - 1996
+PARAGRAPH - VWALLS - Ambiente de Computação Distribuida para Cálculo da Distribuição de Iluminação Global de Cenas em Computação Gráfica
+Descrição: Projeto: "PARAGRAPH - Virtual Walls" - Ambiente de Computação Paralela de Alto Desempenho para Visualização Interativa de Cenários Arquiteturais
+·	Local: Fraunhofer Institute for Computer Graphics (Fh-IGD) e Paderborn Center for Parallel Processing (PC2)
+·	Duração: outubro de 1994 a setembro de 1996
+·	Órgão financiador: BMBF (Alemanha)
+·	Coordenador: Prof. Dr. Burkhard Monien (PC2) / Dr. Christoph Hornung (Fh-IGD)
+·	Principais objetivos do projeto:
+a) Estudo de ambientes gráficos interativos de alto desempenho, baseado no uso de sistemas moderadamente paralelos;
+b) Desenvolvimento de um pacote de software para permitir a edição de cenários arquitetura altamente complexos, e posterior navegação interativa ("walkthrough") neste mesmo cenário virtual enquanto garantindo a geração de imagens de alta qualidade em tempo real;
+c) Desenvolvimento e implementação de programas paralelos para síntese de imagens, usando as técnicas de radiosidade e traçado de raios luminosos ("ray tracing").
+d) Integração dos diversos programas desenvolvidos numa única plataforma;
+e) Monitoração e balanceamento dinâmico de carga neste sistema integrado;
+f) Geração de vídeos de alta qualidade para escritórios de arquitetura.
+·	Atividades específicas do candidato:
+a) Participação na especificação do projeto;
+b) Paralelização do programa de síntese de imagens usando ray-tracing;
+c) Monitoração do sistema paralelo;
+e) Participação na integração do sistema final.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Marcio Lobo Netto - Integrante / Christoph Hornung - Integrante / Brigitta Lange - Integrante / Knut Menzel - Coordenador / Olaf Schmidt - Integrante.Financiador(es): Bundesministeriur fur Bildung und Forschung - Auxílio
+										financeiro.Número de produções C, T & A: 8
+1991 - 1996
+DOMAIN - Ambiente de Gerenciamento e Controle de Programas de Sintese Paralela de Imagens
+Descrição: Projeto DOMAIN
+projeto de pesquisa e desenvolvimento diretamente relacionado ao programa de doutorado do aluno Marcio Lobo Netto
+desenvolvido no FhG-IGD entre 1991 e 1996
+relacionado ao projeto PARAGRAPH - VWALLS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Marcio Lobo Netto - Coordenador / Christoph Hornung - Integrante / Brigitta Lange - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 8

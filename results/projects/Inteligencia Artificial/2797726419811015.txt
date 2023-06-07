@@ -1,0 +1,67 @@
+2020 - Atual
+Dados Abertos Governamentais e o COVID-19: políticas de implementação, analytics e tomada de decisão no Brasil.
+Descrição: Este projeto tem como objetivo principal analisar os meses de acontecimento da Pandemia de Sars-Cov-19 desde de dezembro de 2019 até que sua declaração como tal seja revogada pelos órgão principais de vigilância sanitária, quanto aos dados divulgados nos portais oficiais Brasil, assim observará os esforços do Brasil em controlar a doença por meio de uma combinação de governança forte, regulamentação estrita e participação espontânea da comunidade/cidadão no que concerne aos dados abertos do COVID-19. Há
+evidência de que a resposta tenha sido tardia em termos do governos federal e estadual no
+estágio inicial. Portanto, mesmo que a doença tenha sido confirmada como nova, as respostas
+coletivas na comunidade, em níveis de estado e federação foram significativos e para confirmar
+isso, nesse sentido, os dados abertos e sua transparência quanto à epidemia devem ser
+analisados de forma mais criteriosa e robusta possível.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / Marilena dos Reis Costa - Integrante.
+2020 - Atual
+Predição e Aprendizagem de Máquina para dados da Diabetes no Brasil
+Descrição: No entanto, a proposta deste projeto é desenvolver, com dados da saúde no Brasil, uma
+ferramenta de previsão baseada numa proposta intercomplementar entre métodos, onde se
+busque uma convergência de dados rotulados e não rotulados. Essa proposta exige o uso de
+métodos confiáveis, mais rápidos e econômicos para gerar informações sobre a probabilidade
+de um paciente ter diabetes, analisando as variáveis do diabetes e determinando uma
+combinação de classificadores para incrementar o sistema de previsão usando conjuntos de
+dados rotulados e não rotulados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / Antonio Carlos Vaz de Melo Júnior - Integrante.
+2019 - Atual
+DADOS ABERTOS, VIOLÊNCIA DOMÉSTICA E PROTEÇÃO: COMO MODELOS DE MACHINE LEARNING PODEM CONTRIBUIR PARA A PREDIÇÃO DE CRIMES CONTRA A MULHER
+Descrição: O objetivo deste projeto é analisar os efeitos dos dados das medidas protetivas sobre os índices de violência doméstica contra a mulher no Brasil. Os procedimen tos d e coleta de dados s e darão p or meio do M onitor da Violência , o Atlas da Violência, dados do Conselho Nacional de Justiça e do INFOPEN sistem a de informações estatísticas do sistema penitenciário brasileiro o Fórum Brasileiro de Segurança Pública, dados abertos do Ministério da Justiça e as s éries h ist óricas dos dados d o Anuário Brasileiro de Segurança Pública, e por fim, o portal de dados abertos mantidos pelo governo federal. A explicação e a predi ção envolvida n o estudo proposto nesse projeto , pode contribuir para o entendimento quanto a influência de varíav eis como gênero, devido a um aumento temporário na permissividade crise ec onômica que reduziu os
+níveis de renda e aumentou as desigualdades e, assim, aumenta a propensão à violência e a chance de vítimas de escapar em da violência, incluindo a saída de relacionamentos violentos ou a possibilidade de separar famílias em conflit o.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / Bruna Jeovana Soares da Silva - Integrante.
+2019 - Atual
+MIDAS - Mirante de Dados da Graduação da UESPI
+Descrição: O Objetivo deste projeto é conhecer os fenômenos de retenção, evasão e formação e os fatos relacionados na Universidade Estadual do Piauí
+A criação do Mirante de Dados da Graduação da UESPI parte de duas demandas a saber: primeiro, a necessidade de a Pró-Reitoria de graduação possuir dados integrados e consolidados para definir e estruturar políticas acadêmicas relativas à graduação como um todo, e assim atuar com maior proximidade ao docente e mais efetividade ao discente, por meio de informações precisas sobre evasão, retenção e diplomação, inicialmente, para dar suporte à decisão estratégica da instituição. 
+Ainda, em segundo lugar, o Mirante integrar-se-á ao grupo de pesquisa ESCADA (Estudos em Ciência e Análise de Dados em Administração/Campus Barros Araújo), certificado pelo CNPq e registrado na UESPI, no sentido de desenvolver estudos e análises dos dados para responder aos mais diversos questionamentos levantados pela Pró-Reitoria de Graduação e quaisquer setores da UESPI. O grupo de pesquisa se encarregará de dar suporte tanto analítico quanto de pessoal. Simultaneamente, o Mirante terá parceria com o Núcleo de Processamento de Dados, o que servirá de amparo para aprimoramento de decisões e operações de base analítica e estratégica.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thiago Assunção de Moraes - Coordenador / ANTONIO MESSIAS VALDEVINO - Integrante.
+2019 - Atual
+QUALIDADE DE VIDA E CONDIÇÕES DE CONSUMO NA MICRORREGIÃO DE PICOS, PIAUÍ.
+Descrição: O objetivo deste projeto é Analisar como as condições de consumo influenciam na satisfação com a qualidade de vida subjetiva na vida de consumidores da cidade de Picos, Piauí. Onde Serão coletados dados relativos à qualidade de vida e aspectos de consumo da cidade de Picos, Piauí, a partir de fontes como IBGE, Banco Central do Brasil, Institutos de Defesa do Consumidor e Câmaras de comércio. Será realizado um levantamento dos itens que possuam casos com dados perdidos (missing values) e observações atípicas (outliers) que possam, de alguma forma, comprometer a generalidade dos resultados. O objetivo desta fase é elaborar um modelo que vise responder as hipóteses abaixo relacionadas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / Gildete Azevedo de Sousa - Integrante.
+2019 - Atual
+TRANSPARÊNCIA E REPUTAÇÃO: UMA PROPOSTA DE FRAMEWORK PARA GOVERNO ABERTO
+Descrição: Este projeto objetiva Explicar os efeitos dos mecanismos de transparência governamental quanto a reputação organizacional no setor público. O estudo será realizado por meio de duas perspectivas a saber: primeiramente, a partir de estudos anteriores sobre Reputação Organizacional, considerando seus instrumentos de pesquisa, indicadores e parâmetros, verificando diferenças e similaridades, e, por fim, efetuando a validação da escala no contexto Brasileiro. Uma segunda etapa será o levantamento exploratório de práticas, indicadores e mecanismos de transparência relativos à gestão pública. Tais indicadores serão avaliados quanto uso, acesso, conhecimento e confiança e aplicação, para em seguida ser modelado com o que foi aplicado sobre reputação.
+O modelo hipotético a ser testado postula que a reputação da corporação pode ser medida usando as variáveis observadas que carregam fatores como Produtos /Serviços, Inovação, Local de Trabalho, Governança, Cidadania, Liderança e Performance para descreverem o fator reputação 'Reputação'. A abordagem metodológica baseada em dados apontará para um modelo específico, que refere-se ao caso de variáveis observáveis (ou atributos) ou representativos de um construto de reputação definido.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / Isabelle Ligia Silva Cabral - Integrante.
+2019 - Atual
+DADOS ABERTOS GOVERNAMENTAIS E SOCIEDADE
+Descrição: Coletivamente, existem três razões principais para a abertura de dados governamentais, que pautam a justificativa de se estudar o tema a fundo: Transparência - Para que se tenha uma sociedade democrática que funcione bem, os cidadãos e outras partes interessadas devem ser capazes de monitorar as iniciativas do governo e sua legitimidade. Valor social e comercial, onde os governos são um dos maiores produtores e coletores de dados em muitos domínios diferentes.  Ao publicar esses dados o governo incentiva as partes interessadas a inovar e criar novos serviços; e Governança Participativa, através da publicação de dados do governo, os cidadãos têm a oportunidade de participar ativamente em processos de governança, como tomada de decisão e formulação de políticas, em vez de esporadicamente votar em uma eleição a cada período de anos. As motivações acima, embora não sejam as únicas, são as bases para a maioria das iniciativas de dados abertos governamentais. Estes últimos atuam como uma política preventiva e dão às partes interessadas a oportunidade de examinar e reutilizar informações disponíveis de várias maneiras, incluindo a identificação de padrões nos dados e a criação de novos serviços. Isso resulta em uma maior responsabilização que, por sua vez, prejudica a corrupção. Além disso, pela criação de novos serviços com base em dados governamentais abertos, os usuários agregam valor aos dados, que também podem ser comercializados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Thiago Assunção de Moraes - Coordenador / Bruna Jeovana Soares da Silva - Integrante / Gildete Azevedo de Sousa - Integrante / Isabelle Ligia Silva Cabral - Integrante / RAÍLA Barros veloso Fontes - Integrante.
+2019 - Atual
+BIG DATA ANALYTICS E SAÚDE: PERSPECTIVAS ABDUTIVAS SOBRE OS DADOS DO CÂNCER NO BRASIL
+Descrição: Este projeto objetiva propor um modelo de predição de incidências do câncer no Brasil, os procedimentos de coleta de dados dar se ão por meio das plataformas a saber: o Sistema de Informação de Mortalidade (SIM) do DATASUS para obtenção regular de dados sobre a mortalidade no Brasil, contendo a base de dado s de Declaração de Óbito informatizada , ANS Tabnet com dados de consultas, operadoras, planos privados ,
+ressarcimento e demandas, Registro Hospitalar do Câncer (RHC) com dados sobre dianóstico,
+atendimento e sobrevida , IBGE , Cadastros de Estabelecimentos de Saúde (CNES) com dados
+de todos os estabelecimentos de saúd e, públicos, privados e conveniados em território
+nacional ; o sistema de informação ho spitalar do SUS, com os registros de internação hospitalar
+e o regist ros dos atendimentos financiados pelo SUS , o Sistema de Informação do Programa
+Nacional de Imunizações, com registros de surtos e epidemias; o Sistema de Informações
+Ambulatoriais do SUS, contendo os boletins de produção ambulatorial e as Autorizações de
+Procedimento d e Alto Cust o, e p or fim, o portal de dados abert os mantidos pelo governo
+federal. Os resultados buscados estão em campo acadêmico para impulsionar a aplicabilidade clínica e de políticas públicas, e gerenciais ntor importante a ser considerado é a aquisição
+geração e análise de dados de saúde de forma rápida e ininterrupta, o que
+contribuirá para o sucesso do Big Data na medicina , na saude públi ca e no uso
+dos recu r sos . Especificamente, o sensoriamento oferece um sólido conjunto de
+soluções para preencher essa lacuna.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / RAÍLA Barros veloso Fontes - Integrante.
+2014 - 2014
+Saúde cuidada, vida conservada: o marketing social aplicado às políticas públicas de saúde preventivas.
+Descrição: O projeto contará com um levantamento das políticas de saúde pública do município de Picos, e a partir da percepção do consumidor de seus serviços e sua consciência de saúde analisar como elas podem influenciar as campanhas promovidas por esse setor. Utilizará de entrevistas, observações e questionários tipo survey a partir dos construtos latentes de alerta para a própria saúde, autoconsciência de saúde, envolvimento e automonitoramento. Ao fim da coleta e interpretação dos dados haverá um evento aberto ao público-alvo interessado para apresentação dos resultados e propostas de estratégias de marketing social para o setor de saúde pública da região.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / Maria Ariela Almeida - Integrante.
+2014 - 2014
+Aprendizagem e Tecnologia: a gestão do conhecimento como aporte para aplicações gerenciais
+Descrição: Desenvolvimento de uma solução, em forma de ferramenta informatizada, para gestão do conhecimento, a partir do processo de aprendizagem, nos departamentos do Instituto Federal do Piauí.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / David Alves Luz - Integrante.
+2013 - 2014
+E-protec: Programa de manutenção do conhecimento na gestão pública
+Descrição: O projeto consiste no desenvolvimento de uma ferramenta informatizada de 
+apoio à gestão do conhecimento em órgãos públicos do estado do Piauí, 
+especificamente prefeituras municipais. As fases de análise e projeto da ferramenta 
+considerarão a ontologia formadora da teoria dos sistemas,  do processo de 
+aprendizagem e da gestão do conhecimento com vistas a mantê-lo como ativo 
+estratégico na organização, uma prefeitura de pequeno porte que gerencie uma cdade 
+de até 50 mil habitantes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Assunção de Moraes - Coordenador / Luciano Lima Ferreira - Integrante.

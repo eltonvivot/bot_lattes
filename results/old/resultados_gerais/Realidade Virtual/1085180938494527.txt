@@ -1,0 +1,25 @@
+2022 - Atual
+Construção de Pipelines Para Engenharia de Dados Em Robótica Educacional
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sebastiao Emidio Alves Filho - Coordenador / Gabriel Batistuta Urbano Lopes - Integrante.
+2021 - 2022
+Explorando  As Possibilidades  da Automação  Agrícola No  Incentivo  À Autoria Juvenil
+Descrição: PIBIC-Ensino Médio. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sebastiao Emidio Alves Filho - Coordenador.
+2021 - 2022
+Predição  de Desempenho Acadêmico  de Estudantes  de  Pós Graduação  Usando Mineração de Dados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sebastiao Emidio Alves Filho - Coordenador / MARCOS FONSECA DE OLIVEIRA JUNIOR - Integrante.
+2020 - 2021
+Predição de Desempenho Acadêmico de Estudantes Universitários Usando Mineração de Dados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sebastiao Emidio Alves Filho - Coordenador / MARCOS FONSECA DE OLIVEIRA JUNIOR - Integrante.Financiador(es): Universidade do Estado do Rio Grande do Norte - Bolsa.
+2019 - 2020
+Desempenho, Qualidade de Serviço e Eficiência Energética de Serviços Restful Em Clusters Computacionais de Baixíssimo Consumo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sebastiao Emidio Alves Filho - Coordenador / Valmilson Pereira da Silva - Integrante / Cleyton Carlos Santos Costa - Integrante.Financiador(es): Universidade do Estado do Rio Grande do Norte - Bolsa.
+2018 - 2019
+Desempenho e Eficiência  Energética de Aplicações Distribuídas Em Clusters Computacionais de Baixíssimo Consumo
+Descrição: Este  projeto  propõe  um  estudo  mais  aprofundado  sobre  o  desempenho  e eficiência  energética  de  aplicações  distribuídas  que  rodam  sobre  uma  infraestrutura  computacional  composta  por dispositivos  de  baixíssimo  consumo  de  energia  elétrica.  Para  isso  pretende-se  identificar os potenciais gargalos para  diferentes  tipos  de  aplicações  em  relação  a  entrada  e  saída, processamento,  memória  e  uso  da  rede, buscando  criar  estratégias  que  evitem  ou  atenuem  os  problemas  causados  pelas  limitações  do  hardware.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sebastiao Emidio Alves Filho - Coordenador / Ed Carlos Pessoa da Silva - Integrante.Financiador(es): Universidade do Estado do Rio Grande do Norte - Bolsa.
+2010 - 2011
+Utilização do paradigma grid computing em aplicações multimídias para o Sistema Brasileiro de TV Digital
+Descrição: É conhecido por todos que estudam aplicações multimídia o fato de que tarefas que envolvem tratamento de áudio e vídeo requerem bem mais recursos computacionais que os demais, especialmente processamento e memória. Dessa forma, quando falamos em configurações de hardware nesse contexto podemos presentar um limitante para a execução de determinados programas ou ainda a sua inviabilidade devido ao tempo de reposta que poderia interferir na qualidade de serviço. Um caso típico é o ambiente de TV Digital Interativa (TVDI) no sistema brasileiro, que permite o envio de apliações junto aos sinais de áudio e vídeo para que sejam executadas pelos telespectadores em seus settop boxes (STB's), que muitas vezes também possuem
+recursos limitados. O objetivo deste projeto é criar um middleware para dar suporte ao processamento de programas multimídia em forma de grid, sendo este administrado pelo próprio settop box de forma a permitir o gerenciamento dinâmico de nós de processamento. Espera-se ao final criar uma aplicação de referência para exemplificar o modelo de programação para a utilização do middleware, assim como para provar a eficácia do processamento distribuído em relação ao centralizado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Sebastiao Emidio Alves Filho - Coordenador / Aquiles Medeiros Filgueira Burlamaqui - Integrante / Cláudia Maria Fernandes Araújo Ribeiro - Integrante.
+2008 - 2009
+Desenvolvimento de um ambiente simulado para cooperação entre robôs
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sebastiao Emidio Alves Filho - Integrante / Diogo Pinheiro Fernandes Pedrosa - Coordenador.

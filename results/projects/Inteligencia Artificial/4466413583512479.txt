@@ -1,0 +1,21 @@
+2020 - Atual
+Projeto de Pesquisa Continuada
+Descrição: Pesquisa desenvolvida nas áreas de Engenharia de Software, Educação em Engenharia de Software e Desenvolvimento de Software Dirigido a Modelos. Gamificação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Inali Wisniewski Soares - Coordenador.
+2017 - 2019
+Projeto de Pesquisa Continuada
+Descrição: Pesquisa desenvolvida nas áreas de Engenharia de Software, Educação em Engenharia de Software e Desenvolvimento de Software Dirigido a Modelos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Inali Wisniewski Soares - Coordenador.
+2014 - 2016
+Projeto de Pesquisa Continuada
+Descrição: Pesquisa desenvolvida nas áreas de Engenharia de Software e Desenvolvimento de Software Dirigido a Modelos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Inali Wisniewski Soares - Coordenador.
+2012 - 2014
+Um perfil UML para modelagem de software embarcado baseado em RTOS
+Descrição: Projeto de Pesquisa desenvolvido na área de Engenharia de Software, Engenharia Dirigida a Modelos, e Sistemas Operacionais em Tempo Real (Real-Time Operating System - RTOS).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Inali Wisniewski Soares - Coordenador.
+2010 - 2012
+Definição de Modelos de Plataforma em MDA para auxiliar o processo de transformação de modelos.
+Descrição: Este projeto de pesquisa propõe a investigação e a proposição de um método para a construção de modelos de plataforma para permitir a transformação de modelos de acordo com plataformas específicas. O propósito do método é sistematizar o processo de criação e disponibilização de modelos de plataformas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Inali Wisniewski Soares - Coordenador.
+2008 - 2010
+Estudo da abordagem de Engenharia Dirigida a Modelos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Inali Wisniewski Soares - Coordenador.
+2005 - 2007
+EEXML - Evolução de Esquemas para XML.
+Descrição: O problema a ser abordado no presente projeto consiste na proposta de uma ferramenta que auxilie o administrador dos dados a efetuar a mudança do esquema, de forma a garantir a preservação da consistência de documentos antigos. Para isto, supõe-se que o administrador conta com a definição do esquema antigo, que deve ser mudado, e com um documento que não verifica esse esquema mas que deve verificar o novo esquema a ser proposto pela ferramenta. O documento em questão deve ser o resultado de uma seqüência de modificações em um documento válido (em relação ao esquema original)... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Inali Wisniewski Soares - Integrante / Josiane Michalak Hauagge - Integrante / Angelita Maria de Ré - Coordenador / Luciane Telinski Wiederman Agner - Integrante / Sandra Mara Guse Scós Venske - Integrante.

@@ -1,0 +1,21 @@
+2018 - Atual
+Estudo e aplicação de algoritmos de reconhecimento facial em ambientes universitários
+Descrição: O objetivo do projeto é estudar, comparar e melhorar algoritmos de reconhecimento facial e propor uma plataforma funcional e de baixo custo para aplicar em situações do meio universitário, podendo futuramente ser estendido a outros meios. Em princípio, a primeira situação a ser abordada será a de controle de presença em salas de aula e eventos universitários.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Roni Fabio Banaszewski - Coordenador / LUCAS NICOLÁS WENZEL VALLADARES - Integrante.
+2011 - 2015
+MALHA BRASIL - Soluções Logísticas com Uso de Multi-Agentes
+Descrição: O objetivo desta proposta de trabalho é desenvolver um ambiente computacional utilizando a tecnologia de multi-agentes, que permita a solução integrada de problemas de planejamento e programação logística da PETROBRAS. Em especial pretende-se desenvolver um simulador baseado em multi-agentes que resolva o problema de distribuição de derivados de petróleo e bicombustíveis em todo território nacional. Este problema de distribuição foi denominado malha Brasil.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roni Fabio Banaszewski - Integrante / Cesar Augusto Tacla - Integrante / ARRUDA, LÚCIA V. - Coordenador.
+2009 - 2014
+Projeto de Doutorado - Propostas de Mecanismos Baseados em Leilões Multiagentes com Aplicação no Segmento Downstream do Sistema Logístico da Indústria Petrolífera Brasileira
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Roni Fabio Banaszewski - Integrante / Jean Marcelo Simão - Integrante / Cesar Augusto Tacla - Coordenador / Lucia Valeria Ramos de Arruda - Integrante.
+2008 - 2011
+MAS-SCM: Soluções Logísticas com Uso de Multi-Agentes
+Descrição: O objetivo deste projeto é desenvolver competência na solução de problemas complexos utilizando a tecnologia de multi-agentes, particularmente desenvolver um sistema multi-agentes para a solução integrada de problemas de planejamento e programação logística da PETROBRAS. Projeto multi-institucional: UTFPR, UFF e UFCG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Roni Fabio Banaszewski - Integrante / Fernando Roberto Pereira - Integrante / Cesar Augusto Tacla - Integrante / Kelvin Elton Nogueira - Integrante / ARRUDA, LÚCIA V. - Coordenador / Luiz Carlos Felizari - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Outra.
+2007 - 2009
+Projeto de Mestrado - Paradigma Orientado a Notificações: Avanços e Comparações
+Descrição: Este projeto abordou o estudo da viabilidade e avanço de um paradigma de programação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roni Fabio Banaszewski - Integrante / Jean Marcelo Simão - Coordenador / Cesar Augusto Tacla - Integrante / Jardel Lucca - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 5
+2005 - 2007
+Estratégias de Apoio à utilização de Padrões em Desenvolvimento de Software Distribuído
+Descrição: O projeto contemplou o estudo de padrões de software para uso no desenvolvimento de um ambiente de desenvolvimento distribuído de software chamado DiSEN. Este projeto fez parte de um projeto maior denominado "Suporte à Reutilização em Ambientes Distribuídos de Desenvolvimento de Software" (Processo CNPq 506511/2004-9 do edital CNPq 31/2004).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Roni Fabio Banaszewski - Integrante / Marcos Antonio Quináia - Integrante / Elisa Hatsue Moriya Huzita - Coordenador / Marcos Aurélio Pedroso Leandro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 5
+2004 - 2004
+Um Estudo sobre Aplicações de Patterns de Usabilidade no Desenvolvimento de Aplicações para Web.
+Descrição: Estudo e aplicação de Padões de Usabilidade para Sistemas Web.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Roni Fabio Banaszewski - Integrante / Rodrigo Tomaz Pagno - Integrante / André Pinz Borges - Integrante / Fernando Takashi Itakura - Coordenador.Número de produções C, T & A: 1

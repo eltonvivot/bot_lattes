@@ -1,0 +1,28 @@
+2018 - 2019
+Estudo de um Sistema baseado em Processamento de Linguagem Natural para consulta a documentos institucionais do IFG
+Descrição: A quantidade de textos gerada diariamente no âmbito de qualquer empresa ou instituição tem crescido
+consideravelmente nos últimos anos. Com a digitalização dos vários processos de comunicação e registro
+de atos ou ações, cria-se um enorme volume de textos não estruturados que simplesmente não podem ser
+processados e interpretados de forma automática por computadores. Desta forma, surge a necessidade
+premente do uso de técnicas e algoritmos específicos que possam fazer a busca e extração de padrões
+para que, de alguma forma, as informações contidas nestes documentos possam ser processadas a fim de
+se gerar novos conhecimentos. No âmbito do IFG existem milhares de documentos institucionais com
+informações de extrema importância tanto para a comunidade interna quanto para a externa e que, para
+serem acessados e interpretados, necessitam de busca manual por parte do usuário. Contudo, muitos
+problemas podem ocorrer, como tempo prolongado para obtenção de resposta, uso de chaves de pesquisa
+incorretas, resultados inesperados, além de vários outros, que podem interferir na qualidade da resposta.
+Neste projeto propõe-se estudar diferentes técnicas de mineração de textos, com destaque para as tarefas
+de Processamento de Linguagem Natural, para extração de dados sobre diferentes entidades, como
+pessoas, empresas ou lugares, além de alguns dados específicos sobre os referidos documentos
+institucionais, com o objetivo de indexar os termos obtidos e permitir a busca automática pelos documentos
+que contenham tais termos. Para a execução deste projeto serão utilizadas as Portarias constantes do
+Boletim de Serviços disponibilizado publicamente na Web pelo IFG. Como resultado espera-se obter o
+índice construído a partir dos termos extraídos do referido corpus e uma interface Web que permita a
+realização de consultas simples sobre o Boletim de Serviços do IFG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gustavo de Assis Costa - Coordenador / Felipe Vinicius Cunha Nascimento - Integrante / João Paulo de Oliveira Souza - Integrante / Camilla Vanessa de Souza Bim - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - Atual
+GPGDM - Grupo de Pesquisa em Gestão de Dados e Metadados
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gustavo de Assis Costa - Integrante / Maria Salete Marcon Gomes Vaz - Integrante / José Simao de Paula Pinto - Coordenador.
+1998 - 2004
+SIAM: Sistemas de Informação em Ambientes de Computação Móvel - Projeto PRONEX/CNPq/MCT, Processo CNPq 66.4116/1997-3
+Descrição: Investigar o desenvolvimento de interfaces, estruturas de indexação e técnicas de contextualização de consultas para sistemas avançados de informação. Investigar o desenvolvimento de protocolos, sistemas operacionais, técncias de gerência da conexão e estratégias de localização de estações rádio-base voltados para comunicação móvel. Explorar a combinação de sistemas de informação avançados com comunicação móvel num contexto interdisciplinar no qual produtos concebidos em um sistema levam em conta as estratégias, restrições e quesitos técnicos impostos pela presença do outro sistema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (7)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Gustavo de Assis Costa - Integrante / Antônio Alfredo Ferreira Loureiro - Integrante / Nivio Ziviani - Integrante / Berthier Ribeiro Neto - Integrante / Carlos Camarão de Figueiredo - Integrante / Dorgival Olavo Guedes Neto - Coordenador / Edierley Batista Messias - Integrante / Pedro Ivo Alexandre de Oliveira - Integrante / Luciano Rodrigo de Paula Rocha - Integrante / Geraldo Robson Mateus - Integrante / Wagner Meira Júnior - Integrante / Claudionor José Nunes Coelho Júnior - Integrante / Alberto Henrique Frade Laender - Integrante / Arnaldo de Albuquerque Araújo - Integrante / Henrique Pacca Loureiro Luna - Integrante / Sérgio Vale Aguiar Campos - Integrante / Virgilio Augusto Fernandes Almeida - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3

@@ -1,0 +1,39 @@
+2022 - Atual
+Simulação de células a combustível do tipo PEM com uso de etanol ou de éter  dimetílico direto.
+Descrição: Tem-se por objetivo modelar, simular e comparar células a combustível com membrana trocadora de prótons com o uso de etanol ou de éter dimetílico direto. O modelo considera o escoamento do combustível, as perdas no ânodo e no cátodo, a membrana, o material dos eletrodos, a temperatura e a variação da concentração das espécies em relação à densidade de corrente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Álvaro Luiz de Bortoli - Coordenador.
+2019 - 2021
+Simulação da mistura molecular envolvendo reações químicas e combustão VI
+Descrição: Desenvolvem-se mecanismos cinéticos reduzidos para a simulação de chamas difusivas de misturas de representativos (surrogates) do biodiesel, incluindo a geração de poluentes, usando técnicas como REDIM, Análise de Sensibilidade e Inteligência Artificial (com e sem camadas).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Álvaro Luiz de Bortoli - Coordenador / PEREIRA, F.N. - Integrante.
+2019 - Atual
+Controle em malha fechada da intensidade de turbulência em escoamentos
+Descrição: Este projeto visa o desenvolvimento de modelos para o controle em malha fechada da intensidade de turbulência em jatos livres.  A pesquisa prevê o aprimoramento destes modelos para aplicações em escoamentos turbulentos reativos, com ou sem combustão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Álvaro Luiz de Bortoli - Coordenador / MÁRLESON RÔNDINER DOS SANTOS FERREIRA - Integrante.
+2017 - Atual
+Redes neurais artificiais na obtenção de mecanismos cinéticos reduzidos para biocombustíveis
+Descrição: Aplica-se Redes Neurais Artificiais (ANNs) na obtenção de mecanismos cinéticos reduzidos para a simulação de chamas difusivas de etanol e substitutos  (surrogates) do biodiesel. Treina-se ANNs usando bancos de dados termo-químicos que são representativos da composição da chama, uma vez que os mecanismos para combustão têm natureza hierárquica.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Álvaro Luiz de Bortoli - Coordenador / Felipe N. Pereira - Integrante.
+2016 - 2018
+Simulação da mistura molecular envolvendo reações químicas e combustão V
+Descrição: Desenvolvem-se mecanismos cinéticos reduzidos para a simulação de chamas difusivas de etanol e representativos (surrogates) do biodiesel usando técnicas como REDIM, Análise de Sensibilidade e Inteligência Artificial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Álvaro Luiz de Bortoli - Coordenador / Felipe N. Pereira - Integrante.
+2016 - 2016
+Estudo térmico de habitações com chaminés solares e/ou trocadores de calor terra-ar.
+Descrição: Realiza-se o estudo térmico de habitações com chaminés solares e/ou com trocadores de calor Terra-ar em coordenadas generalizadas usando o método de volumes finitos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Álvaro Luiz de Bortoli - Coordenador / JESÚS PERFECTO XAMÁN VILLASEÑOR - Integrante.
+2013 - 2015
+Simulação da mistura molecular envolvendo reações químicas e combustão IV
+Descrição: Desenvolvem-se mecanismos cinéticos reduzidos para a simulação em LES de chamas difusivas de hidrocarbonetos e biocombustíveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Mestrado acadêmico: (0)  / Doutorado: (7) . Integrantes: Álvaro Luiz de Bortoli - Coordenador / Felipe N. Pereira - Integrante / ANDREIS, G.S.L. - Integrante / CARPES, C.Q. - Integrante / RANON DE SOUZA GOMES - Integrante / MARCELO MARASCHIN DE SOUZA - Integrante / FÁBIO RONEI RODRIGUES PADILHA - Integrante / JEAN MONTEIRO DE PINHO - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 3
+2012 - 2014
+Modelagem numérica dos processos e padrões diagenéticos e seu impacto sobre a qualidade e heterogeneidade de reservatórios
+Descrição: Estudo e desenvolvimento de códigos numéricos e sistemas computacionais para modelagem numérica geoquímica da origem e evolução diagenética de reservatórios para a caracterização e previsão de suas heterogeneidades e qualidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Álvaro Luiz de Bortoli - Integrante / LUIZ FERNANDO DE ROS - Integrante / RENATA DE MATOS GALANTE - Integrante / CARLA MARIA DAL SASSO FREITAS - Integrante / ROMMULO VIEIRA CONCEIÇÃO - Integrante / MARA ABEL - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Outra.
+2011 - 2021
+Modelagem de células de combustível alimentadas por biocombustíveis
+Descrição: Modelagem de células de combustível alimentadas por hidrogênio e/ou bio-álcoois (metanol e etanol)  sem o emprego de platina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Álvaro Luiz de Bortoli - Coordenador / CARPES, C.Q. - Integrante / RANON DE SOUZA GOMES - Integrante / MARCELO MARASCHIN DE SOUZA - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2011 - 2014
+Desenvolvimento de mecanismos cinéticos reduzidos para a simulação de chamas de biodiesel
+Descrição: Desenvolve-se mecanismos cinéticos reduzidos para combustíveis de importante aplicação, como o biodiesel, facilitando a simulação de chamas destes combustíveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Álvaro Luiz de Bortoli - Coordenador / LÍGIA D. F. MARCZAK - Integrante / Nilson R. Marcílio - Integrante / ANDREIS, G.S.L. - Integrante / CLEITON BITTENCOURT DA PORCIÚNCULA - Integrante / ADRIANA RODRIGUES - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 1
+2010 - 2013
+Simulação da mistura molecular envolvendo reações químicas e combustão III
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Álvaro Luiz de Bortoli - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2007 - 2010
+Simulação da mistura molecular envolvendo reações químicas e combustão II
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Álvaro Luiz de Bortoli - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+2003 - 2006
+Simulação da mistura molecular envolvendo reações químicas e combustão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Álvaro Luiz de Bortoli - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

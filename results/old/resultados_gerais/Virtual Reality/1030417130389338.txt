@@ -1,0 +1,78 @@
+2022 - 2023
+Sistema de monitoramento e controle industrial baseado em iot para indústria 4.0 com foco no gerenciamento da produção e gestão de ativos -edital setec 67/2021
+Descrição: O presente projeto consiste em pesquisar sobre os avanços da tecnologia IoT na sociedade e na indústria com o intuito de conhecer e avaliar novas aplicações, que unem automatização de processos e controle de dados em redes inteligentes. Objetiva também o incremento da dimensão da aplicação em automação do IoT e do potencial do cenário tecnológico brasileiro e mundial..
+Situação: Em andamento; Natureza: Extensão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Rafael Silva do Nascimento - Integrante / ADRIANO JOSÉ XAVIER SANTIAGO - Integrante / JOÃO LUCAS MORAES DE LIMA, - Integrante / David Alisson Alves Ferreira - Integrante.
+2022 - Atual
+Desenvolvimento de uma máquina automática para distribuição de absorventes e combate à pobreza menstrual
+Descrição: O presente projeto desenvolve um equipamento eletromecânico de autoatendimento para fornecimento de absorventes e camisinhas descartáveis multimarcas, com formatos e tamanhos variados, tendo como objetivo suprir as necessidades urgentes do público feminino com celeridade e segurança. Através da comercialização direta através de um aplicativo, os usuários irão ter a facilidade da aquisição de absorventes variados com comodidade, agilidade, autonomia e privacidade. Os equipamentos poderão ser posicionados em banheiros coletivos localizados em Aeroportos, Shoppings, Supermercados, Eventos, Bares, Restaurantes e Instituições de Ensino. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Breno Morgan Modesto Sousa Silva - Integrante.Financiador(es): IFCE - Campus Maracanaú - Bolsa.Número de orientações: 1
+2019 - 2020
+Plataforma de supervisão com integração IoT com foco no setor de hotelaria da cidade de Fortaleza
+Descrição: A proposta deste projeto consiste no desenvolvimento de placas eletrônicas e um programa de supervisão capaz de acessar informações de um Hotel localizado em Fortaleza para diminuição de insumos como água e energia bem como o monitoramento dos setores. Utilizando uma abordagem down-to-up, onde serão desenvolvidas placas concentradoras de aquisição de dados para garantir o condicionamento de sinais de sensores e o envio correto pelo barramento de campo, serão desenvolvidos programas que recebem os dados pelo protocolo modbus em um supervisório construído em Visual Studio® C#. A implementação foi modelada para permitir a integração Iot (Internet of Things) através da gravação em banco de dados em nuvem, permitindo aplicações em Big Data que alavanquem a redução dos diversos insumos do Hotel, permitindo a expansão em outros pontos da rede hoteleira.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Magna Maria Vitaliano da Silva - Integrante.Financiador(es): IFCE - Campus Maracanaú - Bolsa.Número de produções C, T & A: 2
+2018 - 2019
+Plataforma Iot - Smart Building para redução do consumo de energia em instituições públicas de educação
+Descrição: O presente projeto tem como objetivo principal o desenvolvimento de uma plataforma integrada de controle de cargas elétricas através de um sistema supervisionado conectado à internet, através de aplicações em Iot (Internet of things) para Smart Buildings. O protótipo será implantado em instituições públicas de educação, cujo protótipo é constituído de uma estação central com base no microcontrolador PIC18F4550 e placas periféricas de desenvolvimento com base no dispositivo WiFi NodeMcu. As placas periféricas também são interligadas aos sensores de corrente que informam o valor medido em tempo real de corrente, permitindo a tomada de decisões quando a diminuição do consumo de energia. O resultado esperado é diminuição do consumo de energia das cargas em stand by em torno de 5% a 10% bem como uma redução considerável do consumo de energia devido ao desligamento de cargas desnecessárias como aparelhos de ar condicionados ligados desnecessariamente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Yasmin Peixoto Guimarães - Integrante.Número de produções C, T & A: 1
+2017 - 2018
+Desenvolvimento de uma bancada educacional para área de robótica pedagógica baseado em FPGA e na norma IEC 61131 - PIBIT edital 08/2016
+Descrição: O protótipo a ser desenvolvido tem como objetivo geral a construção de um braço robótico microcontrolado com 6 graus de liberdade, o qual receberá instruções de uma unidade computacional que utiliza uma interface de diagrama de blocos de funções (FBD) de acordo com a norma IEC 61131 e utilizando um circuito de controle baseado no FPGA Modelo EP2C5T144 da família CYCLONE II . O resultado esperado é uma bancada de robótica com custo inferior a 50% do valor de mercado, permitindo a construção de um projeto piloto acessível para práticas no âmbito da robótica em instituições de ensino técnico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Raul Gabriel Carvalho de Melo - Integrante.Número de produções C, T & A: 1
+2016 - 2017
+Dispositivo mecânico, microcontrolado e computacional para área de robótica pedagógica baseado na norma IEC 61131 - EDITAL Nº 03/2016 - PRPI
+Descrição: A proposta inicial do projeto é de desenvolver um braço manipulador robótico de baixo custo, com funcionamento similar a robôs industriais, apresentado uma forma de acesso facilitado e livre das barreiras econômicas impostas por plataformas robóticas de ensino disponíveis no mercado. O protótipo a ser desenvolvido tem como objetivo geral a construção
+de um braço robótico microcontrolado com 6 graus de liberdade, o qual
+receberá instruções de uma unidade computacional que recebe instruções em
+uma interface de diagrama de blocos de funções (FBD) de acordo com a norma
+IEC 61131 utilizando um circuito de controle baseado no microcontrolador
+PIC18F4550. O resultado esperado é um robô com custo inferior a 50% do
+valor de mercado, permitindo a construção de um projeto piloto acessível para
+práticas no âmbito da robótica em instituições de ensino técnico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Timbó Brito - Coordenador / Francisco Gleidson Nascimento de Queiroz - Integrante.Número de produções C, T & A: 1
+2016 - 2017
+Projeto de um seguidor solar microcontrolado baseado em visão omnidirecional - EDITAL Nº 01/2016 - PRPI
+Descrição: O desenvolvimento de sistemas que aumentam o rendimento dos painéis pode representar uma vantagem econômica e uma redução no tempo de amortização de projetos de painéis solares utilizados em operações descentralizadas ou até mesmo na interligação com a rede de elétrica.  Em vista disso, este projeto propõe o desenvolvimento de um protótipo de seguidor solar de único eixo horizontal para aumento do rendimento energético em comparação com sistemas fixos. Este sistema tem como princípio de funcionamento, o ajuste da posição de um painel fotovoltaico de acordo com o movimento aparente do Sol, minimizando as perdas de rendimento de sistemas fotovoltaicos devido à variação do ângulo de incidência dos raios solares. Segundo estudos realizados em outros trabalhos, aos quais servirão de referência para este, seguidores solares podem prover um rendimento de até 32% em relação aos sistemas fotovoltaicos com ângulo fixo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Timbó Brito - Coordenador / Bruno Alves de Sousa - Integrante.Número de produções C, T & A: 1
+2015 - 2016
+Desenvolvimento de um seguidor solar microcontrolado baseado em visão omnidirecional - Edital Nº 05/2014-PRPI ? PROINFRA/IFCE
+Descrição: O desenvolvimento de sistemas que aumentam o rendimento dos painéis pode representar uma vantagem econômica e uma redução no tempo de amortização de projetos de painéis solares utilizados em operações descentralizadas ou até mesmo na interligação com a rede de elétrica.  Em vista disso, este projeto propõe o desenvolvimento de um protótipo de seguidor solar de único eixo horizontal para aumento do rendimento energético em comparação com sistemas fixos. Este sistema tem como princípio de funcionamento, o ajuste da posição de um painel fotovoltaico de acordo com o movimento aparente do Sol, minimizando as perdas de rendimento de sistemas fotovoltaicos devido à variação do ângulo de incidência dos raios solares. Segundo estudos realizados em outros trabalhos, aos quais servirão de referência para este, seguidores solares podem prover um rendimento de até 32% em relação aos  sistemas fotovoltaicos com ângulo fixo. As informações da posição solar são  obtidas através de um sistema de rastreamento ativo baseado em visão omnidirecional que utiliza uma lente do tipo olho de peixe acoplada a uma câmera serial que envia sinal a uma placa microcontrolada que será responsável pelo processamento da imagem e estimação do ângulo de incidência dos raios solares, e assim envia um sinal de referência  de 0 a 5 V para um microcontrolador, responsável pelo controle de posição.  O sinal de correção é enviado para um servomotor CC com realimentação de posição por um encoder incremental. Por fim, testes e a validação do protótipo serão realizados para viabilidade do projeto de ordem econômica visando uma escala comercial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Jessyca Almeida Bessa - Integrante.
+2014 - 2015
+Retrofitting de planta de instrumentação através de mudança da estratégia de controle e melhoria da eficiência energética - Edital Nº 002/2014-PRPI PIBIC
+Descrição: O projeto proposto terá como objetivo principal a mudança da
+estratégia de controle através projeto de um inversor de frequência para controle do
+bombeamento em substituição a válvula de controle. Este inversor irá realizar o
+controle de vazão pela variação de velocidade do motor da bomba, permitindo maior
+eficiência em relação ao controle por válvula proporcional. Vários testes com
+diversos protótipos de inversores serão realizados e uma comparação final do
+sistema desenvolvido com o projeto original será realizada. Ganhos consideráveis
+de consumo de eletricidade entre 15% a 50% são esperados com a instalação do
+inversor, sendo monitorados através da instalação de transdutores potência.
+Características importantes podem ser adicionadas ao projeto como um
+monitoramento remoto em tempo real do consumo de energia através da rede
+Foundation Fieldbus conectada à Internet. Por fim, através da análise dos resultados
+do projeto, podem ser criados parâmetros para instalação em sistemas industriais de
+grande porte através e a concretização de parcerias com indústrias que desejarem
+uma melhoria em sistemas de bombeamento bem como maior desempenho e
+eficiência energética.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Rafael Silva do Nascimento - Integrante.Número de produções C, T & A: 1
+2013 - 2014
+Projeto de eficiência energética através da remodelagem da Estratégia de controle de uma planta industrial Foundation Fieldbus - EDITAL Nº 010/2013-PRPI ? PIBIC CNPq, FUNCAP e IFCE
+Descrição: A presente pesquisa desenvolve um projeto industrial para o melhoramento da eficiência energética, através da remodelagem da estratégia de controle de um sistema de bombeamento. O projeto original da planta industrial é constituído de uma válvula de controle proporcional que realiza o controle de vazão em malha fechada através de um medidor de vazão e uma válvula proporcional, interligados por uma rede industrial  Foudation Fieldbus. O projeto futuro terá como objetivo principal a mudança da estratégia de controle através do projeto e desenvolvimento de um inversor de frequência. Este inversor irá realizar o controle de vazão pela variação de velocidade do motor da bomba, permitindo maior eficiência em relação a válvula proporcional. Vários testes com diversos protótipos
+de inversores serão realizados e uma comparação final do sistema desenvolvido
+com o projeto original será realizada. Ganhos consideráveis de consumo de
+eletricidade entre 15% a 50% são esperados com a instalação do inversor, sendo
+monitorados através da instalação de transdutores de corrente e tensão.
+Características importantes podem ser adicionadas ao projeto como um
+monitoramento remoto em tempo real do consumo de energia através da rede
+Foundation Fieldbus conectada a Internet. Por fim, através da análise dos resultados
+do projeto, podem ser criados parâmetros para instalação em sistemas industriais de
+grande porte.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Timbó Brito - Coordenador / Renan de Araújo Farias - Integrante.
+2013 - 2014
+Identificação e projeto de um sistema de controle de temperatura microcontrolado - PAVPI IFCE 2013
+Descrição: Projeto visa desenvolver um sistema de controle realimentado de temperatura através da
+construção de um protótipo em pequena escala. Através da identificação da planta é possível ajustar os parâmetros do controlar e atingir maior eficiência energética e estabilidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Timbó Brito - Coordenador / Victor Kelvin Sousa Sabino - Integrante.Número de produções C, T & A: 1
+2010 - 2012
+(Bolsista DT1-CNPq) Previsão de potencial eólico visando operação integrada ótima de unidades geradoras de eletricidade: estudo de caso para o Nordeste do Brasil
+Descrição: OBJETIVOS 
+Geral:
+Estudo de previsão de potencial eólico visando gerenciamento ótimo da operação conjunta de parques eólicos com as fontes convencionais de energia.
+Específicos:
+- Levantamento do estado da arte dos métodos de previsão de velocidade do vento.
+- Levantamento de dados eólicos, históricos de medições;
+- Estudo de aplicação dos métodos de Redes Neurais Artificiais;
+- Estudo de previsão de eletricidade de aerogeradores;
+- Estudo da operação ótima do sistema de geração de eletricidade interligado;
+- Aplicação e adaptação dos métodos de previsão eólica ao sistema de geração de eletricidade interligado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Fábio Timbó Brito - Coordenador / Carvalho, Paulo C. M. - Integrante / Francisco Daniel Lima Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

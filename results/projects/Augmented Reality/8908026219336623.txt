@@ -1,0 +1,132 @@
+2021 - Atual
+Pesquisa e o desenvolvimento de solução para gestão sobre as áreas de cobertura de serviços da DELL por meio de informações baseadas em geolocalização Global Service Coverage Modernization (GCSM)
+Descrição: Este projeto tem por objetivo principal a pesquisa e o desenvolvimento de uma solução para gestão sobre as áreas de cobertura de serviços realizadas por parceiros da DELL por meio de informações baseadas em geolocalização. Esta solução deverá permitir que a equipe de negócios da DELL possa ter uma visão mais rica e contextualizada sobre os serviços prestados por parceiros da empresa em diversas partes do mundo. Este nova solução deve também atender novos requisitos funcionais e não funcionais para melhoria da gestão das informações de cobertura de serviços.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Coordenador / Paulo Antonio L. Rego - Integrante / Emanuele Santos - Integrante.
+2021 - Atual
+Gestão de segurança pública com foco em consciência situacional
+Descrição: O conceito de consciência situacional ilustra a percepção dos elementos no ambiente delimitado por um volume de tempo e espaço, a compreensão do seu significado e a projeção do seu estado no futuro próximo. Este conceito demanda um suporte adequado de ferramentas de gestão de informações que auxiliem seus usuários na percepção do contexto que lhes cerca. Este projeto se propõe a auxiliar no estabelecimento da consciência situacional aplicada à gestão da segurança pública no estado do Ceará, a partir da adequação e integração de ferramentas existentes, concepção de novas aplicações e alinhamento com a equipe de negócios da Superintendência de Pesquisa e Estratégia de Segurança Pública do Estado do Ceará (SUPESP). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Fernando Antonio Mota Trinta - Coordenador / SANTOS, EMANUELE - Integrante / Windson Viana de Carvalho - Integrante / MAIA, MARCIO E. F. - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Cooperação.
+2021 - Atual
+Pesquisa e Desenvolvimento de Tecnologia para Gerenciamento Automático de Peças da Dell Technologies
+Projeto certificado pela empresa DELL COMPUTADORES DO BRASIL LTDA em 21/04/2021.
+Descrição: O objetivo principal deste projeto é pesquisar e desenvolver uma solução tecnológica para
+implementar uma nova versão da aplicação SPMD. A nova versão visa redesenhar o SPMD
+atual, aprimorar sua interface do usuário, habilitar recursos de auditoria e melhorar o
+desempenho do sistema através de uma estratégia que faz o pré-calculo do mapeamento de
+produtos e peças compatíveis, além de fornecer recursos de IA para ajudar os usuários da SPMD
+na resolução de problemas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Integrante / REGO, PAULO A. L. - Coordenador.
+2020 - 2021
+Cerebrum 2.0: Integração de novas fontes de dados ao painel analítico da SSPDS-CE
+Descrição: Este novo projeto visa  estender as atividades para integração de novas bases de dados ao motor de busca de dados policiais e painel analítico Cerebrum. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Coordenador.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.
+2020 - 2021
+Pesquisa e Desenvolvimento de Infraestrutura Tecnológica de ETL e CEP para nova solução de Dell Digital Surveys em integração com o Dell data lake
+Descrição: O objetivo deste projeto é pesquisar desenvolver infraestrutura tecnológica para trabalhar na camada de ETL, que se integrará, inicialmente, a aplicação da Dell Digital Survey e ao Dell data lake por meio de tecnologias que suportem o consumo de grandes volumes de dados em tempo real, armazenando dados no data lake através de estruturas de dados modernas, como as de graph databases, provisionando dados para a aplicação de maneira fácil e rápida através de pipelines de dados, além de possibilitar publicação de dados em tempo real ou quase em tempo real para fins de ciência e análise de dados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Integrante / ROCHA, LINCOLN S. - Coordenador.
+2020 - Atual
+Monitoramento e Implantação de Aplicações Multicloud
+Descrição: A computação em nuvem é vista como um grande conjunto de recursos virtualizados, facilmente
+acessíveis e utilizáveis, dinamicamente reconfigurados para se ajustar a uma carga variável
+(escala), permitindo também uma utilização otimizada dos recursos. Esse conjunto de recursos é
+tipicamente explorado através de um modelo de pagamento por uso, no qual as garantias são
+oferecidas pelo provedor de infraestrutura através de acordos de nível de serviço personalizados.
+As aplicações criadas com base nos conceitos de nuvem obtêm vantagens em relação ao
+crescimento elástico, facilidade de atualização e manutenção e melhor uso de recursos, tal como o
+uso de abordagens multi-inquilino. No entanto, do ponto de vista da engenharia de software, ainda
+há muitos desafios para a criação de aplicações centradas na nuvem que precisam ser abordados.
+Nos últimos anos, vários trabalhos propuseram soluções vários e apresentaram cenários
+inovadores para aplicações em nuvem. Um deles é os das aplicações em múltiplas, onde os
+componentes são distribuídos em múltiplos provedores em função de fatores como o desempenho
+ou custo do provedor, permitindo o uso de serviços que melhor atendam as necessidades de uma
+aplicação, independentemente do provedor que oferta o serviço. Neste contexto, foi desenvolvida
+uma tese de Doutorado na UFC que auxilia a seleção dos provedores de nuvem para implantação
+de uma aplicação distribuída composta por micros serviços, por meio de uma arquitetura chamada
+PacificClouds. Apesar de completa, a PacificClouds focou mais no processo de seleção dos
+provedores para implantação dos micros serviços em função de critérios como desempenho ou
+custo. Este projeto visa dar continuidade à esta pesquisa a partir de algumas lacunas que não
+puderam ser devidamente preenchidas anteriormente, especialmente no que diz respeito ao
+monitoramento dos provedores e ações necessárias para implantação ou mesmo reimplantação
+das aplicações quando ocorrer mudanças. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fernando Antonio Mota Trinta - Coordenador / Carvalho, Juliana - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2018 - 2020
+Inteligência Científica e Tecnológica na Segurança Pública
+Descrição: De acordo com David H Bayley, a manutenção da ordem é a função essencial de um governo, não apenas a própria legitimidade do governo é em grande parte determinada por sua capacidade de manter a ordem, mas também a ordem funciona como critério para se determinar se existe de fato algum governo. Em consonância com essa visão, o Estado do Ceará tem investido intensamente em segurança pública, apesar dos crescentes índices de violência. Tendo em vista um melhor aproveitamento desses investimentos, utilizando como base a estruturação de parâmetros para identificação de pessoas e veículos, consolidação de políticas públicas em execução e suporte para tomada de decisão, propomos este projeto que tem como principal objetivo realizar estudos científicos com intuito de aplicar soluções tecnológicas de identificação humana (Civil e Criminal), identificação veicular, acompanhamento de pessoas e veículos, a fim de otimizar o patrulhamento ostensivo e comunitário.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Integrante / Márcio Espíndola Freire Maia - Integrante / José Antonio Macedo - Coordenador / REGO, PAULO A. L. - Integrante / gilvan maia - Integrante.
+2018 - 2019
+Uma solução para classificação e aferição de altura de saltos em atletas de volei por meio de computação vestível e aprendizado de máquina
+Descrição: O uso de recursos de computação para evolução no esporte é cada vez mais comum. Dispositivos
+vestíveis como pulseiras inteligentes ajudam tanto atletas profissionais quanto amadores a
+melhorar seus desempenhos, ao monitorar dados como batimentos cardíacos, tensão muscular,
+dentre outros. Sensores e recursos de vídeo também são utilizados para aprimorar as técnicas de
+um atleta, como na execução incorreta de um movimento. No caso do volei, um elemento
+importante é o ato de saltar. Atletas de volei saltam tanto para realizar ataques, quanto para
+bloqueios aos ataques do time adversário. Esta é uma ação repetida inúmeras vezes durante um
+jogo, e devido à sua importância, é necessário manter uma homogeneidade na altura dos saltos
+durante todo o jogo. Este projeto propõe o uso de sensores afixados aos trajes dos atletas de volei
+(especialmente os de praia) para inferência de seus saltos e suas respectivas alturas. Além disso, o
+projeto objetiva classificar os saltos como de ataque ou bloqueio, utilizando técnicas de
+aprendizado de máquina.
+Para isso, serão coletados dados de acelerômetros colocados na cintura e no pulso de voluntários
+no curso de educação física da Universidade Federal do Ceará. Estes dados serão analisados de
+modo a gerar um modelo de inferência. Com o modelo proposto, uma aplicação feita para
+smartphones Android receberá dados em tempo real para comparar com a base coletada, de modo
+a inferir se um determinado usuário que esteja utilizando os sensores realizou um salto, qual foi a
+altura e que tipo de salto foi realizado.
+O projeto busca estender um trabalho de mestrado já em andamento, onde apenas um sensor tem
+sido utilizado. Ressalta-se que a classificação do salto de forma automática é algo inédito na
+literatura, e espera-se que o protótipo a ser desenvolvido possa ser utilizado na vida real do atletas
+de volei de praia no Ceará e no Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fernando Antonio Mota Trinta - Coordenador / Francisco Anderson de Almada Gomes - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.
+2018 - Atual
+Uma Arquitetura descentralizada de suporte à computação em névoa com ênfase no offloading de processamento e dados contextuais
+Descrição: Fog Computing is defined as a scenario where a huge number of heterogeneous (wireless and sometimes autonomous), ubiquitous and decentralized devices communicate and potentially cooperate among themselves and with the network to perform storage and processing tasks without the intervention of third parties. These tasks may support basic network functions or new services and applications that run in a sandboxed environment. Fog Computing presents several challenges. One of them includes the management of complex tasks that are not well-supported by resource-constrained devices. In fact, this problem is not restricted to computing tasks only, but it can also comprises data that should not be stored in some IoT nodes. A promising technique to address this issue is offloading, an approach to increase performance and reduce the energy consumption by migrating processing or data from constrained devices into other infrastructure, with greater computing power and storage. In this project, we address this research topic and propose n an architecture to support data and computing offloading in Fog environments based on the microservices architectural style.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Fernando Antonio Mota Trinta - Coordenador / Vinícius Cardoso Garcia - Integrante / Lincoln Souza Rocha - Integrante / Sérgio Castelo Branco Soares - Integrante / Paulo Antonio L. Rego - Integrante / Thais Vasconcelos Batista - Integrante / Windson Viana de Carvalho - Integrante.
+2015 - 2016
+Implementação de uma plataforma de autoria para jogos colaborativos móveis
+Descrição: Um dos maiores desafios encontrados por educadores é motivar o aluno ao
+aprendizado. Uma abordagem promissora é o uso de jogos digitais como ferramenta de ensino.
+Experiências tem mostrado sucesso na aplicação de conceitos de jogos em práticas de ensino.
+Porém, um desafio para popularização de jogos educacionais é permitir que usuários,
+especialmente educadores, que não possuam habilidade em programação, desenvolvam seus
+próprios jogos. Para isso, ferramentas de autoria que permitam que usuários possam construir
+jogos baseados em modelos pré-definidos tem
+sido propostos.
+Neste contexto, este projeto pretende continuar o desenvolvimento de uma ferramenta de autoria
+para jogos no estilo de perguntas e respostas, onde o professor por criar seu material
+(questionários) e criar gincanas entre alunos. Na proposta inicial do projeto (PIBIC 2014/2015),
+alunos utilizariam dispositivos móveis para responder as perguntas. Estes alunos interagiam entre
+si como em uma corrida, onde quanto mais respostas certas, mais perto da linha de chegada.
+Porém, cada aluno/jogador pode interferir no comportamento do jogo de outro aluno, no intuito de
+dificultar que seu adversário chegue ao final da corrida. De modo inverso, alunos podem solicitar
+ajuda de outro aluno para solucionar um problema, permitindo que (a) o aluno que solicitou a ajuda
+possa superar um obstáculo e (b) recompensando o aluno que ajudou com bonificações.
+Na fase atual do projeto, toda a modelagem da solução já encontra-se concluída. A fase de
+implementação encontra-se em andamento. Devido à curva de aprendizado exigida ao bolsista em
+novos conceitos, projeto sofreu atrasos. Esta submissão visa permitir que o projeto venha a ser
+concluído com a extensão da bolsa de iniciação científica do aluno.
+O intuito final do projeto ainda é que esta ferramenta seja testada em escolas de Fortaleza, onde o
+modelo de uso de dispositivos móveis ainda carece de ferramentas personalizadas para ensino de
+determinadas matérias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fernando Antonio Mota Trinta - Coordenador / CARVALHO, WINDSON VIANA DE - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2016
+SLA4CLOUD - Measurement and SLA Management of Heterogeneous Cloud Infrastructures
+Descrição: The aim of the SLA4CLOUD project is to initiate a major collaboration between research groups of South America and France on Cloud Computing. We propose in this project (i) the development of different offers of Cloud Service with an SLA representation that could be used for offline and online negotiation in cloud environments; (ii) the implementation of a strategy for dynamic consolidations of virtual machines in order to reduce energy consumption without compromising performance requirements concerning availability and SLA violation; (iii) the development of a semi- or fully-automated security policy composition mechanism for composite services in Cloud, while maintaining consistency with the security policies of the external services; and (iv) a rule-based pricing system that implements the same intuitive ideas in the shape of policy-rules to improve the quality of service and to increase the global income of a Cloud Computing provider. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Integrante / Rossana Maria de Castro Andrade - Integrante / José Neuman de Souza - Coordenador / Nazim Agoulmine - Integrante / Javier Baliosian - Integrante / Danielo Gomes - Integrante.
+2014 - 2015
+Extending a Context Acquisition Middleware to the Mobile Cloud Paradigm: CAOS Project
+Descrição: Projeto para concepção de uma plataforma de software para auxiliar desenvolvedores de aplicações móveis na plataforma Android a realizar offloading de métodos e dados contextuais para infraestruturas de nuvem ou cloudlets. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Fernando Antonio Mota Trinta - Coordenador / Lincoln Souza Rocha - Integrante / Paulo Antonio L. Rego - Integrante / Francisco Anderson de Almada Gomes - Integrante / SOUZA, JOSE N. DE - Integrante.
+2013 - 2017
+GBraille: Estudo, Concepção e Avaliação de um Jogo Móvel para Auxiliar a Aprendizagem de Braille
+Descrição: As diretrizes do projeto GBraille são: 1. A criação e a consolidação de uma colaboração tecnológica e científica na temática de Tecnologias Assistivas entre as instituições de pesquisa e ensino UFC, PUCRS, IFCE e Universidad de Chile 2. A concepção e desenvolvimento de um jogo móvel multimodal que objetiva a melhoria da aprendizagem de Braille por pessoas com deficiência visual. 3. Adaptação de processos e ferramentas de teste de software para serem aplicado em software móvel e multimodal. Em caso de se mostrarem efetivos, possam também ser utilizados para acelerar o desenvolvimento de outros aplicativos móveis para pessoas com deficiência visual. 4. Avaliação de usabilidade do jogo proposto. 5. Avaliação do impacto do uso desse jogo móvel nos processos de aprendizagem de Braille em pessoas com deficiência visual e sua disponibilização gratuita para escolas e instituições.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Integrante / Windson de Carvalho Viana - Coordenador.
+2012 - 2013
+UbiStructure - Uma infra-estrutura de desenvolvimento e execução de aplicações ubíquas
+Descrição: O objetivo desse novo projeto, denominado UbiStructure, é utilizar as ideias que foram propostas durante o projeto MobiLine e criar um ambiente de desenvolvimento e execução para aplicações móveis e sensíveis ao contexto utilizando Linhas de Produtos de Software, que contemple os vários ciclos propostos no MobiLine. Para isso, muitas questões não tratadas anteriormente serão exploradas e tem enfoque nos aspectos de dependabilidade, qualidade de software, aquisição de contexto e de configuração otimizada de um produto (EDITAL UNIVERSAL - CNPq 14/2011, processo número 481417/2011-7 - R$ 109.730,56).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Antonio Mota Trinta - Integrante / Nabor Chagas Mendonça - Integrante / Vinícius Cardoso Garcia - Integrante / Rossana Maria de Castro Andrade - Coordenador / Windson de Carvalho Viana - Integrante / Claudia Maria Lima Werner - Integrante / José Neuman de Souza - Integrante / Jerffeson Teixeira de Souza - Integrante / Miguel Franklin de Castro - Integrante / Augusto José Venâncio Neto - Integrante / Paulo Henrique Mendes Maia - Integrante / Márcio Espíndola Freire Maia - Integrante / Lincoln Souza Rocha - Integrante / Atslands Rego da Rocha - Integrante / Carla Ilane Moreira Bezerra - Integrante / Fabiana Gomes Marinho - Integrante / Fernando Parente Garcia - Integrante / Eldanae Nogueira Teixeira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2012
+JiT Clouds - Uma proposta para ampliar a elasticidade de provedores de computação em nuvem baseada na federação de recursos computacionais amortizados
+Descrição: O paradigma da computação em nuvem permite o fornecimento de Tecnologia da Informação (TI) sob a forma de um serviço adquirido sob demanda. Entre os vários benefícios providos por esse novo paradigma, a elasticidade, que habilita o cliente a aumentar ou diminuir a capacidade de sua infraestrutura de TI sem qualquer custo adicional, é um dos mais importantes. Essa característica faz com que o ônus dos custos e riscos associados ao planejamento da capacidade da infraestrutura de TI passem do cliente para o provedor do serviço. O estado-da-prática em provimento de infraestrutura como um serviço (IaaS) impõe um limite a essa elasticidade, para que se possa garantir uma disponibilidade suficientemente elevada para os serviços e, ao mesmo tempo, manter os custos operacionais em um nível aceitável. Isso restringe o escopo das aplicações que poderiam se beneficiar do paradigma de computação em nuvem. Nesse projeto nós iremos investigar uma arquitetura alternativa para a construção de provedores de IaaS, onde os mesmos apenas incorrem em custos de propriedade quando os recursos usados para prover a sua infraestrutura são demandados pelos seus clientes, permitindo uma ampliação de algumas ordens de magnitude no limite que precisa ser imposto aos clientes. Além das questões relacionadas com o provimento de IaaS, serão estudadas questões relacionadas com o acoplamento com os outros níveis de computação em nuvem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Fernando Antonio Mota Trinta - Coordenador / Rodrigo Elia Assad - Integrante / Vinícius Cardoso Garcia - Integrante / Raimundo José Araújo Macêdo - Integrante / Taisy Weber - Integrante / Marco Aurélio Spohn - Integrante / Philippe Olivier Alexandre Navaux - Integrante / Antônio Tadeu Azevedo Gomes - Integrante / Altair Santin - Integrante / Hermes Senger - Integrante / César Marcondes - Integrante / Regina Moraes - Integrante / Marcos Barreto - Integrante / Cristiano Costa - Integrante / Reinaldo Gomes - Integrante / Francisco Vilar Brasileiro - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Bolsa.
+2010 - 2011
+Suporte ao desenvolvimento e execução de aplicações multiplataforma via serviços de middleware
+Descrição: Desenvolvimento de uma plataforma de middleware para adaptação de conteúdo em mútliplas plataformas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Fernando Antonio Mota Trinta - Coordenador.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2010
+Projeto ObjectWeb
+Descrição: Participação como pesquisador do projeto para criação de uma infra-estrutura de comunicação em grupo genérica para o middleware Jonatas, em convênio com a BULL e INRIA-França. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Fernando Antonio Mota Trinta - Integrante / Nabor Chagas Mendonça - Coordenador.
+2005 - 2007
+Projeto AmadeusMM
+Descrição: Desenvolvimento de uma plataforma de suporte (middleware) para Educação a Distância, utilizando recursos síncronos de comunicação (jogos, vídeo, áudio). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (5)  / Doutorado: (2) . Integrantes: Fernando Antonio Mota Trinta - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2006
+MMMOG
+Descrição: Criação de uma plataforma de suporte para Jogos Multiusuário Distribuídos para Dispositivos Móveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Fernando Antonio Mota Trinta - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 1

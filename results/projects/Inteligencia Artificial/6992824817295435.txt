@@ -1,0 +1,28 @@
+2014 - 2017
+Casa do Futuro
+Descrição: Projeto de P&D da AMPLA. Situação: Concluído; Natureza: Pesquisa. Integrantes: Reinaldo Castro Souza - Coordenador.
+2014 - Atual
+Estudo do Despacho Hidro-Térmico do Setor Elétrico Brasileiro
+Descrição: Projeto de P&D - Financiador: Duke Energy. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Reinaldo Castro Souza - Coordenador.
+2014 - Atual
+Desenvolvimento de modelos baseados em singular spectral analysis (ssa) e multivariate singular espectral analysis (mssa) para modelar séries de vazões e geração eólica no contexto do despacho hidro-térmico brasileiro
+Descrição: Neste edital, pretendemos dar continuidade aos desenvolvimentos realizados no projeto anterior, considerando a utilização da nova abordagem de extração de sinais de séries ruidosas
+conhecida na literatura com o SSA & MSSA (Singular Spectral Analysis & Multivariate Singular
+Spectral Analysis). Esta nova abordagem tem sido utilizada com o um a alternativa interessante e
+promissora no tratamento de séries com características fortemente ruidosas, com o é o caso das
+séries físicas de chuvas e vazões. No presente estudo, além das séries de vazões e/ou ENA,
+utilizarem os também esta abordagem na modelagem das séries de geração eólica a partir das
+séries de velocidade de vento, visto que, o crescimento acentuado deste tipo de geração
+certamente irá requerer que num futuro bem próximo tenham os que desenvolver o "despacho
+Hidro-térmico-Eólico" ótimo para o sistema interligado brasileiro (importante mencionar que, na
+versão atual, onde a geração eólica está próxima de 1% da geração total de energia no Brasil,
+esta é considerada no modelo de despacho de forma determinística ).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Reinaldo Castro Souza - Coordenador / Rodrigo Flora Calili - Integrante / Hossein Hassani - Integrante / Fernando Luiz Cyrino Oliveira - Integrante / José Francisco Moreira Pessanha - Integrante.
+2014 - Atual
+O tratamento da estocasticidade no problema de despacho hidro-térmico brasileiro através de modelos de séries temporais e simulação estocástica
+Descrição: Bolsa de Produtividade em Pesquisa do CNPq, renovação aprovada no mesmo nivel 1A em nov/2014 com vigência de 5 anos (até 2020). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Reinaldo Castro Souza - Coordenador.
+2013 - 2014
+Smart City, Implantação do Sistema Smart Grid na Cidade de Parintins (projeto piloto das distribuidoras da Eletrobrás)
+Descrição: Projeto de P&D - Financiador: Eletrobrás Piauí   Energia. Situação: Concluído; Natureza: Pesquisa. Integrantes: Reinaldo Castro Souza - Coordenador.
+2013 - Atual
+Inovicity: Um Novo Conceito de Relacionamento Consumidor x Concessionária
+Descrição: Projeto de P&D - Financiador: EP Bandeirantes e Escelsa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Reinaldo Castro Souza - Coordenador.

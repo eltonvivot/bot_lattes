@@ -1,0 +1,119 @@
+2022 - 2022
+Classificação de Imagens Radiográficas com COVID-19 baseados em descritores de Haralick
+Descrição: Neste projeto é apresentada uma proposta para desenvolvimento de algoritmo com o objetivo de avaliar os descritores de textura na descrição e classificação de imagens radiológicas. Desenvolver algoritmos para extração de características baseados em descritores de Haralick visando quantificar o comportamento dos diferentes padrões de lesões. Explorar diferentes distâncias e direção em matriz de co-ocorrência para representação dos descritores de características. Investigar o uso de algoritmos de aprendizado de máquina para classificação das imagens.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Letícia Machado Franco - Integrante.
+2022 - 2022
+Classificação de Lesões em Tecidos Histológicos da Cavidade Oral por Meio de Atributos Fractais e Coeficientes da Transformada Wavelet
+Descrição: O projeto apresenta uma proposta para investigar a dimensão fractal e suas combinações com diferentes funções wavelet-mãe a fim de classificar tecidos histológicos da cavidade bucal. Propor metodologias para extração de características baseada em geometria fractal e transformada wavelet para imagens histológicas. Serão tratados diferentes modelos de funções wavelet-mãe no proposto de avaliar o desempenho na fase de classificação dos tecidos histológicos da cavidade bucal; investigar o desempenho uso dos algoritmos de classificação para os grupos de tecidos histológicos; analisar estatisticamente a combinação de coeficientes wavelet e descritores fractais, visando quantificar os comportamentos presentes nas imagens dos diferentes padrões de lesões.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Leonando Luiz Soares Silva - Integrante.
+2022 - Atual
+Classif⁠icação de imagens radiográf⁠icas de COVID-19 ut⁠ilizando atributos de textura
+Descrição: Neste projeto é apresentada uma proposta para desenvolvimento de algoritmo com o objetivo de avaliar os descritores de textura na descrição e classificação de imagens radiológicas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Henrique Luiz de Oliveira Santos - Integrante.
+2021 - 2022
+Classificação de tecidos histológicos de mama usando canais de cores e descritores de Haralick
+Descrição: Neste projeto é apresentada uma proposta para desenvolvimento de algoritmo com o
+objetivo de avaliar os descritores de textura na descrição e classificação de imagens
+radiológicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Henrique Luiz de Oliveira Santos - Integrante.
+2021 - 2021
+Operações com matrizes e sua relação em processamento digital de imagens
+Descrição: As matrizes ordenam e simplificam os problemas, contribuindo para a resolução de vários tipos de questões, sendo utilizadas na Estatística, na Física Atômica, na Engenharia, na Administração, na Economia e outros. Neste projeto pretende-se estudar o conceito de matrizes e relacionar sua aplicação em imagens digitais, estimulando o aluno na pesquisa fazendo com que ele possa desenvolver um sentido crítico, ampliando sua formação em ambiente de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Kamylla Menezes Matsumoto - Integrante.
+2021 - 2021
+Avaliando métodos de seleção de características para classificação de tecidos histopatológicos de linfoma
+Descrição: Os linfomas malignos abrangem um grupo diversificado de neoplasias originárias dos linfócitos, o qual constituem cerca de 3-4% de todas as neoplasias malignas mais frequentes no mundo. O objetivo principal deste trabalho é investigar algoritmos de seleção de características para classificação de tecidos histopatológicos de linfoma. Pretende-se investigar os algoritmos de seleção: PCA, ICA e Relief, para seleção e descrição de características importantes para a classificação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandro Santana Martins - Coordenador / Eduardo Kessler Ustra - Integrante.
+2021 - Atual
+Estudo das Alterações Histológicas em Leucoplasias por meio da Classificação Polinomial
+Descrição: Sistemas de Apoio ao Diagnóstico podem contribuir na análise de lesões de tecidos histológicos da
+cavidade bucal. Por meio de técnicas computacionais é possível desenvolver algoritmos que
+possibilitam auxiliar os especialistas. Esse projeto propõe desenvolver métodos para análise e
+classificação de alterações de lesões provocadas pelas leucoplasias bucal. Na análise de imagens,
+uma etapa de segmentação baseada em modelo de redes convolucionais deve ser investigado
+para detecção da região dos núcleos. As informações obtidas por meio de descritores
+morfológicos e não morfológicos baseados em representações geométricas e textura serão
+usadas. Para a etapa de classificação, as informações serão avaliadas com um algoritmo de
+classificação polinomial. Nesta etapa, pretende-se investigar bases polinomiais para a etapa de
+classificação com os descritores. O resultado almejado é obter um sistema capaz de classificação
+de lesões presentes na cavidade bucal de imagens histológicas baseado em descritores
+morfológicos e não morfológicos, permitindo obter novas informações que possam fornecer o
+conhecimento aos especialistas. Esse projeto ainda permitirá avançar nas colaborações científicas
+de abordagem interdisciplinar entre as áreas de computação, biologia e medicina. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Leandro A. Neves - Integrante / PAULO ROGÉRIO DE FARIA - Integrante / Adriano Barbosa Silva - Integrante / Thaína Aparecida Azevedo Tosta - Integrante / Guilherme Freire Roberto - Integrante / Danilo César Pereira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2020 - 2021
+Investigação de atributos de textura para caracterização de COVID-19 em imagens radiográficas
+Descrição: Neste projeto é apresentada uma proposta para desenvolvimento de algoritmo com o
+objetivo de avaliar os descritores de textura na descrição e classificação de imagens
+radiológicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Pedro Afonso Oliveira - Integrante.
+2020 - 2021
+Analise de textura baseado em matriz de co-ocorrencia estrutural para caracterização de lesões do COVID-19
+Descrição: Neste projeto é apresentada uma proposta para desenvolvimento de algoritmo com o
+objetivo de avaliar as técnicas de matriz de co-ocorrência estrutural e algoritmo de aprendizado de máquina na descrição e classificação de imagens radiológicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Jose Lemos Neto - Integrante.
+2020 - 2020
+Investigação de métodos para classificação de alterações de lesões geradas pela COVID-19 em imagens radiográficas
+Descrição: Neste projeto é apresentado uma proposta que visa desenvolver um sistema computacional capaz de quantificar e classificar lesões geradas pela COVID-
+19 a partir de descritores fractais e transformada wavelet. Também será
+investigado algoritmos baseados em base polinomial e comparados com
+modelos clássicos de técnicas de aprendizado de máquina para classificação
+das lesões em imagens radiográficas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Leandro A. Neves - Integrante / Thaína Aparecida Azevedo Tosta - Integrante / Rodrigo Grassi Martins - Integrante / Danilo César Pereira - Integrante.Financiador(es): Instituto Federal do Triângulo Mineiro - Auxílio
+										financeiro.
+2020 - 2020
+Estudos de descritores de entropia no domínio wavelet para classificação de tecidos histológicos de linfoma
+Descrição: O projeto apresenta uma proposta para desenvolver um sistema computacional capaz de
+classificar tecidos histológicos de linfomas baseado em algoritmos polinomiais,
+descritores multiescala wavelet e entropia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Eduardo Kessler Ustra - Integrante.
+2019 - 2020
+O estudo de matrizes e suas aplicações
+Descrição: Os conteúdos de matrizes podem ser utilizados nas mais diversas situações reais e constitui-se em tabelas que designam com clareza certas situações, representando um grupo ordenado de números que se apresentam em linhas e colunas. As matrizes ordenam e simplificam os problemas, contribuindo para a resolução de vários tipos de questões, sendo utilizadas na Estatística, na Física Atômica, na Engenharia, na Administração, na Economia, enfim, na Matemática Pura e Aplicada. Os sistemas lineares aparecem também em aplicações de diversas áreas, como Administração, Economia, Sociologia, Ecologia, Demografia, Genética, Eletrônica, Engenharia e Física. O objetivo geral deste projeto é um estudo aprofundado das matrizes e sistemas lineares, complementando com suas diversas aplicações.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Pedro Afonso Oliveira - Integrante.
+2019 - 2019
+Estudo de Atributos Fractais em Coeficientes Wavelet para Imagens Histológicas de Linfoma
+Descrição: Neste projeto é apresentada uma proposta que visa desenvolver um sistema para classicação de tecidos histolóogicos de linfomas com descritores baseados em descritores multiescala wavelet e dimensão fractal para quanticar as diferentes grupos de linfomas: Linfoma Folicular (LF), Linfoma de Células Manto (LCM) e Leucemia Linfóide Crônica (LLC). As informações obtidas com os descritores baseados em funções wavelet-mãe com dimensão fractal serão avaliadas com algoritmos de classicação e o desempenho correspondente nas imagens de linfoma. O resultado pretendido é um sistema computacional capaz de quanticar as regiões de interesse, com a vantagem de fornecer o conhecimento aos especialistas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Zanchetta do Nascimento - Integrante / Alan Yasuhiro Nishida - Integrante.
+2018 - 2019
+Balanceamento de equações químicas com uso de matrizes
+Descrição: Os conteúdos de matrizes podem ser utilizados nas mais diversas situações reais e
+constitui-se em tabelas que designam com clareza certas situações, representando um grupo ordenado de números que se apresentam em linhas e colunas. As matrizes ordenam e simplificam os problemas, contribuindo para a resolução de vários tipos de questões. O objetivo geral deste projeto é abordar de modo aprofundado o estudo das matrizes, determinantes e sistemas lineares. Estudar os diversos métodos na resolução de sistemas lineares aplicando os teoremas principais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Guilherme Marques Marcelino - Integrante.
+2018 - Atual
+Métodos Baseados em Multiresolução para Detecção de Lesões em Imagens da Cavidade Bucal
+Descrição: As técnicas computacionais de processamento digital de imagens permite desenvolver algoritmos que possibilitam auxiliar os especialistas durante o processo de investigação de doenças. O uso de microscópio equipado com câmera digital tem possibilitado estudos de novos métodos para análise de tecidos histológicos da cavidade bucal. O presente projeto propõe desenvolver um sistema para análise e detecção de alterações de lesões da cavidade bucal. Uma nova abordagem de descritor baseado em transformada ripplet a ser desenvolvido para a descrição das lesões presentes em imagens histológicas. O resultado esperado é um sistema capaz de detectar de lesões presentes na cavidade bucal de imagens histológicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandro Santana Martins - Integrante / Leandro A. Neves - Integrante / PAULO ROGÉRIO DE FARIA - Integrante / Adriano Barbosa Silva - Integrante / Thaína Aparecida Azevedo Tosta - Integrante / Guilherme Freire Roberto - Integrante / Marcelo Zanchetta do Nascimento - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - Atual
+Identificação de Alterações Histológicas de Cavidade Bucal por Meio de Técnica Multiscala Curvelet e Geometria Fractal
+Descrição: O uso de microscópio equipado com câmera digital possibilita estudos de novas técnicas de processamento de imagens para análise de tecidos histológicos da cavidade bucal. Por meio de técnicas computacionais é possível desenvolver algoritmos que possibilitam auxiliar os especialistas durante o processo de investigação de doenças. O presente projeto propõe desenvolver um sistema para análise e classificação de alterações de lesões como hiperplásicas, displásicas, carcinomas in situ e carcinomas de cavidade bucal. A extração de características por meio de textura tem grande potencial para bons resultados em classificação de lesões no contexto de imagens histológicas. Um descritor pode explorar informações multiescalas baseados em frequência de sinais é a curvelet. A representatividade pode também ser investigada com técnicas não lineares, que quantificam comportamentos mais próximos aos fenômenos naturais, baseados em geometria fractal. Para tanto, nesse projeto pretende-se investigar coeficientes da transformada curvelet e geometria fractal para a definição de informações de textura na análise de lesões da cavidade bucal. Para etapa de classificação, as informações obtidas com os descritores serão avaliadas com um algoritmo de classificação polinomial. O resultado pretendido é um sistema capaz de classificação de lesões presentes na cavidade bucal de imagens histológicas baseado em descritores multiescala, permitindo obter novas informações que possam fornecer o conhecimento aos especialistas. Além disso, o projeto permitirá avançar nas colaborações científicas de abordagem interdisciplinar entre as áreas de computação, biologia e medicina.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandro Santana Martins - Integrante / Leandro A. Neves - Integrante / Marcelo Zanchetta do Nascimento - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - 2018
+Investigação de canais de cores para classificação de tecidos histológicos de mama
+Descrição: Neste projeto é apresentada uma proposta para desenvolvimento de algoritmo com o objetivo de avaliar a influência dos canais de cores na descrição e classificação de tecidos histológicos de mama.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Zanchetta do Nascimento - Integrante / Ana Gabriela Martins Silva - Integrante.
+2017 - 2018
+Investigação de diferentes funções wavalet-mãe na detecção de lesões em linfomas
+Descrição: Neste projeto é apresentada uma proposta que visa desenvolver um sistema para classificação de tecidos histológicos de linfomas com descritores multiescala wavelet que permita
+quanticar as diferentes grupos de linfomas: Linfoma Folicular (LF), Linfoma de Células
+Manto (LCM) e Leucemia Linfóide Crônica (LLC). As informações obtidas com os
+descritores baseados em funções wavelet mãe discreta e não decimada pela transformada
+discreta serão avaliadas com algoritmos de classicação e o desempenho correspondente
+nas imagens de linfoma. O resultado pretendido é um sistema computacional capaz de
+quanticar as regiões de interesse, com a vantagem de fornecer o conhecimento aos especialistas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Zanchetta do Nascimento - Integrante / Alan Yasuhiro Nishida - Integrante.
+2016 - 2020
+Investigação e aprimoramento de Classificadores Polinomiais baseado em descritores Wavelet para imagens histológicas
+Descrição: Neste projeto é apresentada uma proposta para desenvolver um sistema computacional capaz de classificar tecidos histológicos de linfomas baseado em algoritmos polinomiais e descritores multiescala wavelet. Além disso, será investigado novas funções polinomiais na classificação de forma a avaliar o desempenho e influencia na detecção das anormalidades presentes nas imagens histológicas de linfoma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandro Santana Martins - Coordenador / Marcelo Z. do Nascimento - Integrante / Leandro A. Neves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2017
+O USO DE MATRIZES NA INTERPRETAÇÃO DE IMAGENS DIGITAIS
+Descrição: Uma das tarefas mais importantes em aplicações envolvendo um sistema computacional é a análise ou a interpretação de imagens. A justificativa para o estudo de matrizes é sua aplicação em imagens digitais e a percepção do seu amplo uso no dia-a-dia, de maneira a ajudar o aluno a aprofundar os seus conhecimentos de matemática, processos e programas que auxiliem na resolução de problemas matemáticos. O objetivo do projeto foi estudar de modo aprofundado as matrizes relacionando sua aplicação com imagens digitais.
+Relatório final apresentado em julho de 2017. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Ana Gabriela Martins Silva - Integrante.
+2016 - 2017
+ESTUDO DE FUNÇÕES WAVELETS NA CLASSIFICAÇÃO DE IMAGENS HISTOLÓGICAS DE LINFOMA
+Descrição: O projeto apresenta uma proposta para desenvolver um sistema computacional capaz de classificar tecidos histológicos de linfomas baseado em algoritmos polinomiais e descritores multiescala Wavelet. Pontualmente, pretende-se propor metodologias para extração de características baseada em multiescala Wavelet para imagens histológicas com diferentes classes de linfoma; investigar o desempenho do algoritmo de classificação polinomial para os grupos de tecidos histológicos; discretizar as características mais relevantes para o classificador de acordo com o grau da base polinomial e os tipos de linfoma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandro Santana Martins - Coordenador / Alexandre de Cássio Vilarinho Filho - Integrante / Marcelo Zanchetta do Nascimento - Integrante.
+2015 - 2019
+Classificação de Tecidos Histológicos de Linfoma por Meio de Técnicas Não Lineares Multiescalas
+Descrição: Neste projeto é apresentada uma proposta para desenvolver um sistema computacional capaz de identificar, quantificar e classificar tecidos histológicos de linfomas, a partir de um método de segmentação não supervisionado e descritores de característica. Outro diferencial do projeto é o uso do algoritmo de classificação polinomial, explorando funções polinomiais ortogonais Então, será possível identificar os componentes histológicos e os atributos mais apropriados, com os intervalos correspondentes, para descrever os diferentes os diferentes tipos de linfoma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Alessandro Santana Martins - Integrante / Leandro A. Neves - Integrante / Marcelo Zanchetta do Nascimento - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2016
+MATRIZES E SISTEMAS LINEARES COM APLICAÇÕES
+Descrição: As matrizes estão presentes em nosso cotidiano, mas para que possamos enxergá-las é necessário o conhecimento de tais para entendermos suas funções. O aluno do ensino médio geralmente não tem oportunidade de aprofundar seus conhecimentos no ensino da matemática, nem acesso a programas que possam auxiliá-lo na resolução de problemas. O estudo de matrizes apresentado neste projeto proporciona ao aluno uma abordagem mais detalhada deste conteúdo e através da utilização de programas específicos na resolução de problemas, terá um melhor desempenho intelectual e critico com relação esta abordagem.
+Relatório Final apresentado em julho de 2016.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Coordenador / Gabriela Martins Figueira - Integrante.
+2009 - 2012
+Ecologia, Consevação e Manejo de Águas Superficiais
+Descrição: Projeto para criação de um Mestrado na Universidade do Estado de Minas Gerais - Campus de Frutal. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Integrante / Eduardo da Silva Martins - Integrante / Millôr Godoy Sabará - Coordenador / Eliana Aparecida Panarelli - Integrante / Allynson Takehiro Fujita - Integrante / Leandro Alves Neves - Integrante / Carla Fernanda de Marco - Integrante / Iracema Senise Caproni Anção Jamal - Integrante / Renata Colombo - Integrante.
+2008 - 2010
+Aproveitamento de subprodutos agro-industriais para produção de proteases com ação anticoagulante do leite: otimização de parâmetros fermentativos e caracterização bioquímica das enzimas
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Integrante / Eduardo da Silva Martins - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2006 - 2010
+Redes de Computadores e Modelagem de Estruturas Anatômicas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Santana Martins - Integrante / Márcio Andrey Teixeira - Integrante / Leandro A. Neves - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

@@ -1,0 +1,22 @@
+2015 - 2016
+RFSUS - Uma solução para atendimento e monitoramento de pacientes do SUS
+Descrição: Este projeto de pesquisa tem como objetivo prover uma automação para o
+Sistema Único de Saúde (SUS), possibilitando uma maior integração entre pacientes
+e médicos, através da utilização da tecnologia RFID (Radio-Frequency
+IDentification). Pretende-se desenvolver uma solução que utiliza cartões e
+outros dispositivos identificadores baseados em radiofrequência, através dos
+quais será possível realizar a integração entre informações dos pacientes e
+dados relacionados à avaliação de sua saúde, e.g. batimentos cardíacos,
+temperatura.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luis Paulo da Silva Carvalho - Coordenador / Vitor Campos - Integrante / André Almeida - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2015 - 2016
+Dívida Técnica - Estudos e Ferramentas
+Descrição: Projeto de Pesquisa com o intuito de desenvolver módulos para as ferramentas Repository Miner e Visminer Dashboard. Os módulos são responsáveis pelo cálculo de métricas sobre código-fonte de projetos de software e detecção de anomalias, Code Smells.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luis Paulo da Silva Carvalho - Coordenador / ISAAC DE JESUS SILVA - Integrante / MATHEUS SAMPAIO RODRIGUES SANTOS - Integrante.
+2015 - 2016
+Saúde Móvel - Solução de Software Móvel para Apoio ao Programa
+Descrição: Em 2011 o governo brasileiro lançou um programa social pelo qual pacientes do sistema publico de saúde são visitados em suas residências por profissionais de saúde, Programa Melhor em Casa. A intenção do programa é reduzir o congestionamento e os custos relacionados à manutenção de hospitais e clinicas publicas e dessa forma fornecer aos pacientes a oportunidade de serem tratados em um ambiente em que se sintam confortáveis. Considerando este cenário, é importante observar como softwares podem beneficiar profissionais que realizam missões em campo com o uso de instrumentos e mecanismos geográficos que mostram a localização de pacientes que devem ser tratados pelos profissionais de saúde do programa social mencionado acima. Para operacionalizar este tipo de sistema, Informações geográficas convencionais (e.g. localização por georeferência) são importantes, mas não são suficientes. Informações relacionadas ao tempo, atividades e dados pessoais também devem ser levados em consideração, a fim de melhorar este tipo de software através da adição de uma perspectiva humana. Por exemplo, os profissionais de saúde podem querer saber sobre o perfil de um determinado paciente, a fim de priorizar suas visitas, neste caso o software geográfico poderia mostrar mapas em que a localização dos pacientes que sofrem de condições de saúde crônicas teria destaque sobre outros pacientes, para isso podemos usar Contexto Computacional, uma área de estudo da ciência da computação que captura dados de um determinado ambiente para auxiliar na tomada de decisões sem que seja necessária uma total intervenção humana.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Paulo da Silva Carvalho - Coordenador / Cleiton Amorim Colqueiro - Integrante.Financiador(es): Instituto Federal da Bahia - Bolsa.
+2014 - 2015
+Drone MARMITA: um drone de baixo custo
+Descrição: Este projeto tem como objetivo cria rum drone quadrimotorizado capaz de realizar vôos automatizados e humano-assistidos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Luis Paulo da Silva Carvalho - Coordenador / André Almeida Santos - Integrante / Genival Alves - Integrante / Murilo Breno - Integrante / Eber Chagas - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2014 - 2015
+LUA-BC: Luneta Automatizada de Baixo Custo
+Descrição: Projeto apoiado pela Fapesb para a criação de uma luneta astronômica capaz de encontrar e focalizar automaticamente corpos celestes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luis Paulo da Silva Carvalho - Coordenador / Iane Macedo Carvalho - Integrante / Brena Fernandes Gomes - Integrante.Financiador(es): Instituto Federal da Bahia - Bolsa.

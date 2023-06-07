@@ -1,0 +1,201 @@
+2019 - Atual
+Modelagem fuzzy de redes tróficas: ecotoxicologia
+Descrição: Os sistemas ecológicos estão expostos e são influenciados por diversos distúrbios de ordem natural e antropogênica produzindo, por consequência, vários efeitos e estados de resposta em suas teias alimentares. A integração de conhecimentos de toxicologia e ecologia é imprescindível para um adequado monitoramento ambiental e para a avaliação dos riscos envolvidos. Assim, este estudo tem o objetivo de desenvolver uma aplicação computacional que aplique regras ecotoxicológicas em redes tróficas planctônicas e que permita entender os efeitos e mudanças na função e na estrutura dessas redes. CONTEXTO: PEC/COPPE Área de concentração: Sistemas Computacionais Linha de pesquisa: Modelagem Computacional de Redes Complexas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador / Gilberto Carvalho Pereira - Integrante / ESPÍNDOLA, ROGÉRIO P. - Integrante / Lucio Pereira de Andrade - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.Número de produções C, T & A: 1
+2019 - Atual
+Análise aleatória das propriedades físicas de modelo estrutural geomecânico
+Descrição: Em engenharia geotécnica, as incertezas como a variabilidade no espaço e no tempo e as incertezas inerentes às propriedades do solo (ou rocha) atraíram maior atenção de pesquisadores e engenheiros. 
+A incerteza aleatória representa a aleatoriedade natural de uma propriedade. Como uma característica importante, esse tipo de incerteza é irredutível e é conhecido como variabilidade natural ou variabilidade espacial no caso dos parâmetros do solo ou rocha, que variam no espaço.Ao lidar com incertezas em qualquer sistema, um modelo de incerteza é necessário. O modelo de incerteza consiste em uma coleção de dados de entrada, tratamento de incerteza, e a técnica pela qual a resposta do sistema é avaliada.CONTEXTO: PEC/COPPE Área de concentração: Sistemas Computacionais Linha de pesquisa: Tomada de Decisão, Análise de Incertezas e Riscos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador / ESPÍNDOLA, ROGÉRIO P. - Integrante.Número de produções C, T & A: 2
+2019 - Atual
+Análise e estimativas de extremos da dinâmica espaço-temporal de padrões atmosféricos: uma abordagem da mudança climática durante os últimos 40 anos entre a região sudeste do Brasil e a Península Antártica
+Descrição: Os padrões atmosféricos extremos cujos impactos destrutivos combinados com diversos fatores como, aumento da população em áreas urbanas, de poluentes atmosféricos e contaminantes marinhos, torna-se de vital relevância, já que são visíveis as alterações ambientais em diversas áreas. A variação natural do clima em escalas temporais e espaciais foi verificada nos últimos milhares de anos conforme testemunhos em geleiras da Antártica. Nos últimos 150 anos, os valores de temperatura começaram a subir mais rapidamente e o aquecimento global tornou-se uma preocupação mundial. A Antártica é uma região muito sensível às mudanças globais e sua localização é muito importante quando se analisa alterações climáticas globais. Entre a Península Antártica (PA) e a região sul do Brasil encontramos a maior taxa de formação de ciclones do Hemisfério Sul. A zona costeira sul-sudeste do Brasil é bastante vulnerável à ação de ciclones evoluindo ao longo da costa, induzindo à ocorrência de tempestades. A intensificação dos desastres naturais ocorridos no século XX e inicio do século XXI devido ao aumento de gases de efeito estufa na atmosfera, contribui, também, para a elevação do nível do mar. A proposta desta pesquisa é aplicar a Teoria de Valores Extremos (TVE) nas séries de reanálise do ERA-Interim de temperatura da água do mar, temperatura do ar, vento e pressão atmosférica dos últimos 40 anos (1979-2018) com o objetivo de analisar a dependência dessas variáveis ao longo da costa e a região oceânica entre PA e o sudeste do Brasil. Para modelar essas variáveis, será utilizado o software exTremes desenvolvido no National Center of Atmospheric Research (NCAR) com apoio de pesquisadores desse centro. Também serão realizadas análises estatísticas como tendência entre outras utilizando o software Statistica da Statsoft. Esse projeto é parte da pesquisa elaborada na tese de doutorado de (OLIVEIRA, 2009) onde foi usada uma base de dados ambientais para o período de 30 anos.CONTEXTO: PEC/COPPE Área de concentração: Sistemas Computacionais Linha de pesquisa: 
+Modelos de Dados & Conhecimento. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador / Marilia Mitidieri Fernandes de Oliveira - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.Número de produções C, T & A: 1
+2018 - Atual
+Cientista do Nosso Estado Redes Ecológicas Multicamadas: Uma Nova Abordagem para a Complexidade Natural
+Descrição: O campo emergente de "redes multicamadas" fornece uma estrutura natural para estender análises de sistemas ecológicos para incluir essas múltiplas camadas de complexidade, pois permite especificamente diferenciar e modelar conectividade "intralayer" e "interlayer". A estrutura fornece um conjunto de conceitos e ferramentas que podem ser adaptados e aplicados à ecologia, facilitando a pesquisa em alta dimensionalidade, sistemas heterogêneos na natureza. Aqui, define-se formalmente redes multicamadas ecológicas com base em uma revisão de abordagens anteriores e relacionadas, ilustra-se sua aplicação e potencial com análises de dados existentes e discute-se limitações, desafios e futuras aplicações. A integração da teoria das redes de multicamadas na ecologia oferece um potencial amplamente inexplorado para tratar ainda mais da complexidade ecológica, para finalmente fornecer novos insights teóricos e empíricos sobre a arquitetura e a dinâmica dos sistemas ecológicos.
+CONTEXTO: PEC/COPPE Área de concentração: Sistemas Computacionais Linha de pesquisa: Modelagem Computacional de Redes Complexas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador / Gilberto Carvalho Pereira - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.Número de produções C, T & A: 1
+2015 - Atual
+Cientista do Nosso Estado - Redes Ecológicas: Estrutura, Dinâmica e Sincronização
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2015 - Atual
+Cidades Inteligentes -Big Data para Smart Cities
+Descrição: FAPERJ. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2014 - 2015
+Desenvolvimento de Soluções de Data Science para Aplicações em Smart City: Estudo de Caso
+Descrição: Prefeitura da Cidade do Rio de Janeiro. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2013 - 2016
+Abordagem Big Data no Gerenciamento de Ambientes Aquáticos
+Descrição: FAPERJ. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2013 - 2015
+Avaliação de Técnicas de Mineração de Dados para Avaliação da Base de Dados GPOP
+Descrição: Petrobras. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador / EVSUKOFF, A - Integrante.
+2013 - 2015
+Projeto de Apoio ao Desenvolvimento do Sistema Tático a ser Embarcado
+Descrição: Marinha do Brasil. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2012 - 2015
+Pensa Rio - Modelagem e Simulação de Padrões de Mobilidade Humana com Aplicações ao Controle de Endemias e Previsão do Fluxo Urbano
+Descrição: FAPERJ. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2012 - 2015
+Desenvolvimento de Software de Mineração de Dados para Aplicações de Análise e Predição em Reservatórios de Petroleo
+Descrição: CENPES. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2012 - 2014
+Cientista do Nosso Estado
+Descrição: FAPERJ. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2012 - 2012
+Avaliação do Microsoft SQL Server para Modelos de Previsão
+Descrição: PEC 15965. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2011 - 2013
+Modelo de Previsão de Tempo de Restabelecimento para Priorização do Serviço em Função dos Indicadors ANEEL
+Descrição: PEC 14758. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2011 - 2013
+Apoio ao Desenvolvimento do Sistema Tático a ser Embarcado nos Navios NPa 500 T
+Descrição: PEC 14584. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2009 - 2011
+CNPQ     UNIVERSAL
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2009 - 2011
+Analise e Predição da Dinâmica Espaço Temporal de Sistemas Complexos: Uma abordagem da Mineração de dados para o Gerenciamento Ambiental
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2009 - 2011
+Cientista do Nosso Estado
+Descrição: FAPERJ. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2009 - 2011
+PNPD
+Descrição: CAPES. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2009 - 2010
+Obtenção de Informações da Variação do Nível do Mar na Bacia de Santos
+Descrição: PEC 12402. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2009 - 2010
+Consultoria para Aplicação de Mineração de Dados em SQL Server 2008 em Projeto de Desenvolvimento de Modelos de Séries Temporais
+Descrição: PEC 12707. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2008 - 2012
+Ferramentas de Mineração de Dados e Texto para Gestão do Atendimento a Clientes
+Descrição: PEC 12401. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2008 - 2012
+Ferramentas de Mineração de Dados ......Edital FUNTTEL Áreas Temáticas Prioritárias 02/2007
+Descrição: PEC 10131. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2008 - 2011
+Mineração na Web para Análise de Indicadores de Mercado
+Descrição: PEC 10197. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2008 - 2010
+Subprojeto ANPETRO-10056 Projeto Estruturante COPPE Rede Galileu
+Descrição: PEC 11268. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2008 - 2009
+Aperfeiçoamento do Protótipo de Previsão e Vazão com Incorporação de Precipitação: Modelo Fuzzy Recorrente
+Descrição: PEC 11495. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2007 - 2010
+Rede de Tecnologias Convergentes Portadoras de Futuro para o Setor de Petróleo e Gás Natural
+Descrição: ANPETRO 9656. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2006 - 2007
+Rede Temática - Metodologia de Busca de Tecnologias Convergentes
+Descrição: PEC Rede. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2006 - 2007
+Assessoria e Consultoria em Informática no que se refere à análise e programação para clientes da ACCENTURE
+Descrição: PEC 8078. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2006 - 2006
+Modelos de Dados e Extração de Conhecimento Para Estimativa da Necessidade de Mão-de-Obra
+Descrição: PEC 7872 A. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2006 - 2006
+Treinamento de Inteligência Artificial e Fractais
+Descrição: PEC 8475. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2006 - 2006
+Reconhecimento Contínuo de Padrões Operacionais em Campos Inteligentes
+Descrição: PEC 7423. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Assessoria e Consultoria em Informática no que se refere à análise e programação para clientes da ACCENTURE
+Descrição: PEC 008078. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Modelos de Dados e Extração de conhecimento
+Descrição: PEC 005892. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Reconhecimento contínuo de padrões operacionais em campos inteligentes
+Descrição: PEC 007423. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+PetroGrade
+Descrição: PEC 004425. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Estudo, Definição de Metodologia e Implementação de Sistema Computacional para o Estabelecimento de Tarifas de Gás Natural na Distribuição
+Descrição: PEC 004227. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Aplicação de Ferramentas de Data Mining na Área de Logística
+Descrição: PEC 005613. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Mineração de Banco de dados do comportamento de um Riser
+Descrição: PEC003772. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Consultoria para o emprego de técnicas da data mining para a elaboração de tarifa de gás natural na distribuição
+Descrição: PEC 003798. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2006
+Mineração de dados de combustíveis e estudo da composição de gasolinas e emissões de escapamento/consumo: modelos de correlação/predição
+Descrição: PEC 005248. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2005 - 2005
+Workshop de Data Mining
+Descrição: PEC 6099. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2004 - 2005
+Sistema de Monitoramento Remoto dos Impactos Ambientais das Atividades de E&P em Águas Profundas.
+Descrição: CTPETRO 6316. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2004 - 2005
+Modelos de Dados e Extração de conhecimento
+Descrição: PEC 5892. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2004 - 2004
+Preparação de Dados Para Mineração
+Descrição: CNPq / Edital Universal. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2004 - 2004
+Aplicação de Ferramentas de Data Mining na Área de Logística
+Descrição: PEC 5613. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2004 - 2004
+Mineração de dados de combustíveis e estudo da composição de gasolinas e emissões de escapamento/consumo: modelos de correlação/predição
+Descrição: PEC 5248. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2003 - 2003
+Modelos de Previsão de Carga Usando Técnicas de Mineração de Dados CNPq / CT ENERG
+Descrição: CNPq / CT ENERG. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2003 - 2003
+Estudo, Definição de Metodologia e Implementação de Sistema Computacional para o Estabelecimento de Tarifas de Gás Natural na Distribuição
+Descrição: PEC 4227. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2001 - 2002
+RECOPE - Sistemas Inteligentes para Engenharia
+Descrição: PEC 838. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2001 - 2001
+OTC 2001 Awards ? Projeto Roncador
+Descrição: PEC 2361. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2001 - 2001
+RECOPE - Processamento de Alto Desempenho Aplicado à Previsão do Tempo
+Descrição: PEC 839. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2001 - 2001
+Curso Workshop de Mineração de Dados
+Descrição: PEC 3539. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2001 - 2001
+Migração do Sistema SAT para WIN98
+Descrição: PEC 1418. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2001 - 2001
+Desenvolvimento de Terminal de Consulta e Sistemas Multimídia para DIPREX
+Descrição: PEC 1590. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2001 - 2001
+Desenvolvimento de um Terminal de Consulta Multimídia
+Descrição: PEC 1304. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2000 - 2001
+Desenvolvimento de Software Aplicativo para a Predição de Rochas
+Descrição: COPPETEC 328. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2000 - 2001
+Projeto Sistema Gráfico ITAIPU
+Descrição: COPPETEC150751. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2000 - 2001
+RECOPE
+Descrição: COPPETEC1029. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2000 - 2000
+RECOPE - Automação Industrial
+Descrição: COPPETEC 841. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+2000 - 2000
+Desenvolvimento de um Terminal de Consulta Multimídia
+Descrição: COPPETEC1304. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+1999 - 2003
+Aplicação de Redes Neurais para Predição da Resistência Mecânica das Rochas.
+Descrição: CT PETRO 710 (FINEP - Financiadora de Estudos e Projetos). Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+1999 - 2003
+Desenvolvimento de Metodologias de Análise de Risco Géológico na Exploração de Hidrocarbonetos
+Descrição: CT PETRO Nº 730  (FINEP - Financiadora de Estudos e Projetos). Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+1999 - 2001
+Cientista do Nosso Estado.
+Descrição: FAPERJ. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.
+1997 - 2004
+Tecnologia para Explotação dos Recursos do Mar e Sistemas Petrolíferos - PRONEX
+Descrição: PEC 1879  (PRONEX). Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Francisco Favilla Ebecken - Coordenador.

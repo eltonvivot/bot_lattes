@@ -1,0 +1,19 @@
+2020 - Atual
+PJ-017310 - Hospital 4.0
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ricardo da Silva Santos - Integrante / Samantha Longhi Simões de Almeida - Integrante / Elke Daemen - Coordenador / Ronny Mans - Integrante / Steffen van Leeuwen - Integrante / Bart Golsteijn - Integrante / Sergio Clemente - Integrante / Bas van den Heuvel - Integrante / Alexander Furnica - Integrante / Eran Simhon - Integrante.
+2018 - Atual
+Uso de Técnicas de Big Data no Estudo do Impacto de Deslocamento de Pacientes em Tratamento Oncológico
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (2) . Integrantes: Ricardo da Silva Santos - Coordenador / José Maria Parente de Oliveira - Integrante.
+2017 - 2019
+PJ-011752 ? Clinical Pathways on top of EMRs
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo da Silva Santos - Coordenador / Bruno Franco Mazza - Integrante / Samantha Longhi Simões de Almeida - Integrante.
+2013 - 2016
+(FAPESP 12/50394-2) SAT-TC (Sistema de Apoio ao Planejamento Terapêutico de Tumores Cerebrais)
+Projeto certificado pela empresa COMPUMEDICA INFORMATICA LTDA - ME em 14/03/2013.
+Descrição: A abordagem multidisciplinar para o planejamento terapêutico dos tumores, em especial dos tumores cerebrais, é uma prática cada vez mais utilizada mundialmente.
+Nas reuniões multidisciplinares, neuro-oncologistas, neurocirurgiões, radiologistas, patologistas, clínicos gerais, enfermeiros e outros profissionais envolvidos discutem o caso e decidem conjuntamente o plano terapêutico para o paciente. 
+Apesar da importância das reuniões, existem algumas barreiras que dificultam a sua concretização, dentre elas duas se destacam: a insuficiência de informações sobre o caso e a apresentação inadequada dos dados disponíveis aos membros da equipe. 
+Tais dificuldades constituem a motivação deste projeto de pesquisa, cujo objetivo é o desenvolvimento de um sistema computacional capaz de suprir a equipe multidisciplinar de informação relevante ao planejamento terapêutico de tumores cerebrais.
+A premissa do sistema é a integração dos diversos dados do paciente e, por meio de técnicas computacionais sofisticadas, a identificação automática das informações essenciais, ou seja, aquelas que podem influenciar o plano terapêutico e a adequada apresentação das mesmas aos membros da equipe. 
+O principal benefício é evitar que algum detalhe importante seja desconsiderado no momento do planejamento terapêutico, contribuindo, consequentemente, para a elaboração do melhor plano de tratamento para o paciente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Ricardo da Silva Santos - Coordenador / José Maria Parente de Oliveira - Integrante / Suzana Maria Fleury Malheiros - Integrante / Sergio Cavalheiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

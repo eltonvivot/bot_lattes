@@ -1,0 +1,88 @@
+2018 - Atual
+Cyber-Physical Systems Security through Robust Adaptive Possibilitistic Algorithms: a Cross Layered Framework
+Descrição: The project aims at developing a distributed nonlinear controller for transient stability enhancement. The new control layer will actuate on distributed energy storage systems, be robust to uncertainties in modelling and capable of compensating input time-delay while independent of operating conditions. Furthermore, the robust controller will not require exact knowledge of the system dynamics. Second, bad data analytics based on the innovation approach and cross-layered information provided by distributed software-defined network will be developed. The bad data analytics will consider the inherent interdependencies of the physical processes while providing a countermeasure. Third, an adaptive distributed robust machine learning approach will be developed. The overwhelming majority of supervised machine learning methods require large amounts of carefully labeled training data that is representative of the data distribution to be seen under test. However, in security applications, novel threats and malicious attacks are continuously being developed and attempted. Thus, approaches that rely on prior training data are unlikely to be robust in the case of behaviors never seen before, as would be the case in a rapidly changing threat environment. The novel distributed machine intelligence method that will be developed will be focused on being rapidly adaptive to identifying and distinguishing novel threats given even only one example of an anomalous novel threat.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Arturo Suman Bretas - Coordenador / Janise McNair - Integrante / Alina Zare - Integrante.Financiador(es): National Science Foundation - Auxílio
+										financeiro.
+2017 - 2017
+Estratégia de Controle Distribuído de Redes Inteligentes para melhoria da Estabilidade e da Segurança contra Ataques Cibernéticos
+Projeto certificado pelo(a) coordenador(a) Luís Fernando Costa Alberto em 15/05/2017.
+Descrição: Projeto e desenvolvimento de técnicas de controle distribuído para melhoria da estabilidade transitória e segurança de redes inteligentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Integrante / Luis Fernando Costa Alberto - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - Atual
+Research on the Applications of Power Electronics, Power Engineering and Control theory to Renewable Energy and Electrification of Transportation
+Descrição: Development of decentralized control strategies for distributed renewable energy resources and batteries storage systems integration on smart grids.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Arturo Suman Bretas - Coordenador / Sean P Meyn - Integrante / Shuo Wang - Integrante.Financiador(es): Nanjing SilverMicro Electronics Ltd - Auxílio
+										financeiro.
+2016 - Atual
+Distributed coordination for a smarter and sustainable power grid
+Descrição: The proposal deals with a complex CPS problem: developing distributed coordination techniques to regulate the grid by manipulating consumer demand while maintaining consumers' QoS at the same time.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Arturo Suman Bretas - Integrante / Sean P Meyn - Integrante / Prabir Barooah - Coordenador.Financiador(es): National Science Foundation - Auxílio
+										financeiro.
+2013 - 2014
+Proteção e Confiabilidade de Sistemas  Elétricos de Potência
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2015
+Modelagem, Análise e Otimização de Aterramento Impulsivo e em Altas Frequências
+Descrição: Estudo de novas técnicas para a modelagem, análise e otimização de ateramento impulsivo e em altas freqências. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador / Daniel da Silva Gazzana - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2012 - 2014
+Inserção da Geração Solar Fotovoltaica Urbana Conectada à Rede em Porto Alegre
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Integrante / Roberto Chouhy Leborgne - Integrante / Martin Cruz Rodriguez Paz - Integrante / Arno Krenzinger - Coordenador / Cesar Augusto Orozco Henao - Integrante / André Michel - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2011 - 2014
+Análise de Faltas em Sistemas Elétricos
+Descrição: Estudo e desenvolvimento de técnicas para análise de faltas em sistemas de transmissão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Arturo Suman Bretas - Coordenador / André D. Filomena - Integrante.Financiador(es): Companhia Estadual de Geração e Transmissão de Energia Elétrica - Matriz - Auxílio
+										financeiro.
+2010 - 2013
+Esquema Inteligente de Seletividade e Coordenação de Sistemas de Proteção
+Descrição: Estudo, desenvolvimento e teste de formulação inteligente para coordenação da proteção utilizada em sistemas elétricos de distribuição e sub-transmissão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Arturo Suman Bretas - Coordenador / Afonso Schambeck Netto - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2010 - 2013
+Monitoramento de Falhas em Sistemas de Transmissão/Subtransmissão
+Descrição: Estudo e desenvolvimento de novos algoritmos de detecção e caracterização de distúrbios para sistemas elétricos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador / Éderson da Silva Guimarães - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2009 - 2012
+Desenvolvimento e Implementação de um programa computacional destinado a análise das diversas etapas envolvidas no processo de estimação de estado em sistemas elétricos de potência
+Descrição: Estudo e desenvolvimento de estimador de estados para sistemas de distribuição.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador / Newton Geraldo Bretas - Integrante / João Bosco Augusto London Junior - Integrante / Saulo Augusto Ribeiro Piereti - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2009 - 2012
+Proteção e Restabelecimento de Sistemas Elétricos de Potência
+Descrição: Estudos de novas formulações para a proteção e restabelecimento de sistemas elétricos de potência. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2012
+Alocação Ótima de Medidores de Qualidade de Energia em Sistemas de Distribuição
+Descrição: Estudo e desenvolvimento de técnicas ótimas para a alocação de medidores de qualidade de energia em sistemas de distribuição.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador / Felipe Hernández García - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2008 - 2010
+Desenvolvimento de uma Metodologia para Gerenciar Indicadores de Qualidade da Energia Elétrica
+Descrição: Estudo e desenvolvimento de nova metodologia para gerenciamento de indicadores de qualidade de energia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Arturo Suman Bretas - Coordenador / Renato Gonçalves Ferraz - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+Afundamentos de Tensão em Sistemas de Distribuição
+Descrição: Estudo da influência de parâmetros do sistema nas técnicas de estimativa de afundamento de tensão em sistemas de distribuição.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador / Roberto Chouhy Leborgne - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2007 - 2010
+Detecção e Localização de Faltas em Sistemas Elétricos de Distribuição Subterrâneos Desequilibrados
+Descrição: Estudo e desenvolvimento de novas formulações para a detecção e localização de faltas em sistemas de distribuição subterrâneos desequilibrados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Arturo Suman Bretas - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2010
+Proteção à Distância Compensada para Linhas de Transmissão Paralelas e Detecção/Localização de Falhas em Sistemas de Distribuição Desequilibrados e Desregulamentados
+Descrição: Estudo de novas formulações matemáticas para a proteção de linhas de transmissão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Arturo Suman Bretas - Coordenador / Rodrigo Hartstein Salim - Integrante / Mariana Resener - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+Esquema Inteligente para o Diagnóstico de Falhas em Sistemas Elétricos de Distribuição Subterrâneos
+Descrição: Estudo e desenvolvimento de novas formulações para o Diagnóstico de Falhas em Sistemas de Distribuição Subterrâneos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Arturo Suman Bretas - Coordenador / Rodrigo Hartstein Salim - Integrante / Mariana Resener - Integrante / André Daros Filomena - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2006 - 2007
+Esquema inteligente para Localização de Falhas em Sistemas Elétricos Subterrâneos
+Descrição: Desenvolvimento de novas metodologias inteligentes para a localização de faltas em sistemas de distribuição subterrâneos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Arturo Suman Bretas - Coordenador / Rodrigo Hartstein Salim - Integrante / Mariana Resener - Integrante / Karen Rezende Caino de Oliveira - Integrante / André D. Filomena - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2005 - 2007
+Detecção e Localização de Faltas de Alta Impedância em Sistemas Elétricos de Distribuição
+Descrição: Estudo e Desenvolvimento de Formulações para a Detecção e Localização de Faltas de Alta Impedância em Sistemas de Distribuição. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Mestrado acadêmico: (2) . Integrantes: Arturo Suman Bretas - Coordenador / Miguel Moreto - Integrante / Luciano de Oliveira Pires - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2006
+Proteção em Sistemas de Distribuição na Presença de Geração Distribuída
+Descrição: Estudo do Impacto da Inserção de Geração Distribuída na Proteção de Sistemas de Distribuição.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Arturo Suman Bretas - Coordenador / Miguel Moreto - Integrante / Luciano de Oliveira Pires - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2003 - 2004
+Fault Diagnosis on Deregulated Distribution Systems using Artificial Neural Networks
+Descrição: Estudo e desenvolvimento de novas técnicas para a Localização de Faltas em Sistemas de Distribuição Ativos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arturo Suman Bretas - Coordenador / Nouredine Hadjsaid - Integrante.Financiador(es): Centre National de la Recherche Scientifique - Bolsa.
+2003 - 2003
+Restabelecimento Automático de Sistemas de Potência utilizando Redes Neurais Artificiais
+Descrição: Estudo e desenvolvimento de novas metodologias baseadas em RNA  para o restabelecimento de Sistemas Elétricos de Potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Arturo Suman Bretas - Coordenador / João Carlos Patines Junior - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2002 - 2003
+Restauração Automática de Sistemas Elétricos de Potênica
+Descrição: Estudo e Desenvolvimento de Novas Formulações para o Restabelecimento Automático de Sistemas Elétricos de Potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Arturo Suman Bretas - Coordenador / Maurício Valim Ceccon - Integrante / João Carlos Patines Junior - Integrante / Eduardo Schmidt Fernandes dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

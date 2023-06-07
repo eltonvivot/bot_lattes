@@ -1,0 +1,7 @@
+2017 - Atual
+IDENTIFICAÇÃO E RESOLUÇÃO DE CONFLITOS DE AERONAVES EM ROTA UTILIZANDO INTELIGÊNCIA ARTIFICIAL
+Descrição: O principal foco deste projeto de pesquisa é investigar os modelos existentes e desenvolver um modelo híbrido utilizando técnicas de Inteligência Artificial na detecção e resolução de conflitos longitudinais, relacionados ao espaçamento entre as aeronaves em rotas aéreas. Para isso, os seguintes objetivos secundários devem ser alcançados:
+?	Analisar as técnicas atuais empregas na detecção e resolução de conflitos de tráfego aéreo em rota.
+?	Desenvolver um simulador que permita reproduzir cenários de conflitos de tráfego aéreo em rota, tendo como base as Regras do Ar e Serviço de Tráfego Aéreo .
+?	Simular cenários de conflito de tráfego aéreo com a finalidade de obter dados e analisar o comportamento das aeronaves com as técnicas de IA investigadas.
+?	Comparar as técnicas utilizadas com ações que simulam o comportamento do controlador de tráfego aéreo na identificação e resolução de conflitos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Agnaldo Volpe Lovato - Coordenador.Número de produções C, T & A: 1

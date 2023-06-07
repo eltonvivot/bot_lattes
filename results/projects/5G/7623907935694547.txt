@@ -1,0 +1,42 @@
+2019 - Atual
+ESTUDO DE RESSOADORES DE ANEL DIVIDIDO E RESSOADORES DE ANEL DIVIDIDO COMPLEMENTARES NÃO CONVENCIONAIS PARA FABRICAÇÃO DE FILTROS PASSA-BANDA EM BANDA X PARA APLICAÇÕES EM RADAR
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernanda Rodrigues da Silva - Coordenador / Mateus Ferreira Belicio - Integrante / Emilly Lara Deiro - Integrante.
+2018 - 2019
+Estudo da Interferência do substrato com Metamaterial no desempenho das Antenas de Microfita
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernanda Rodrigues da Silva - Coordenador / FELIPE AMORIM DA SILVEIRA BIAZATTI - Integrante / FERNANDA ZOPELARE BRAGA ARAUJO - Integrante.
+2018 - Atual
+ESTUDO DE RESSOADORES DE ANEL DIVIDIDO E RESSOADORES DE ANEL DIVIDIDO COMPLEMENTARES NÃO CONVENCIONAIS PARA FILTROS PASSA-BANDA EM BANDA X PARA APLICAÇÕES EM RADAR
+Descrição: Neste trabalho é proposto o estudo de um Filtro Passa Banda compacto em guia de
+onda coplanar (CPW) utilizando diferentes ressoadores de anel dividido (Split Ring
+Resonator-SRR) e ressoadores de anel dividido complementar (Complementary Split
+Ring Resonator-CSRR) não convencionais. As características básicas do dispositivo
+proposto, como fator de qualidade, perda de inserção e rejeição fora de banda, serão
+consideradas para a operação do radar de banda X. O objetivo é reduzir o dispositivo
+proposto e analisar a estrutura que apresentará o melhor desempenho. Otimizando
+assim, o desempenho do dispositivo para aplicações em módulo de transceptores de
+radar em Banda X.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernanda Rodrigues da Silva - Coordenador / Lander Crispim - Integrante.
+2017 - 2018
+INVESTIGAÇÃO DA FREQUÊNCIA RESSONÂNCIA MAGNÉTICA PARA DIFERENTES PROJETOS E PARÂMETROS DE RESSOADORES DE ANEL DIVIDIDO (SRR-SPLIT-RING RESONATOR)
+Descrição: Neste projeto trata-se da investigação da ressonância magnética de ressoadores em
+anel dividido (SRR -split ring resonator). Para essa análise, se faz necessário, o estudo da
+dependência dos parâmetros geométricos do ressoador na frequência de ressonância.
+Deste modo, será desenvolvida uma sistemática para o dimensionamento e otimização
+do desempenho do referido ressoador, para aplicações na faixa de frequência de microondas.
+Estes estudos irão tomar como base observações experimentais, as quais serão realizadas
+utilizando equipamentos disponíveis no Laboratório de Microprocessador/Telecom da
+UNIFEI -Campus Itabira. Também serão analisados modelos e métodos matemáticos de
+predição da frequência de ressonância disponível na literatura, onde os resultados simulados
+serão comparados com os resultados obtidos experimentalmente, verificando a validação na
+predição da frequência de ressonância do ressoador. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fernanda Rodrigues da Silva - Coordenador / Karen Goncalves Campos - Integrante.
+2016 - 2017
+Aplicação de materiais recicláveis para construção do Tambor Mineiro, instrumento de percussão de Minas Gerais
+Descrição: Os tambores são utilizados desde as mais remotas eras da humanidade. Em Minas Gerais, especialmente na região do Mato Dentro, o tambor tem uma ligação histórica com a tradição do Congado, movimento que envolve música e religião. Com essas considerações, o presente trabalho tem como objetivo estudar o processo de concepção e fabricação do tambor mineiro com diferentes tipos materiais reciclados (lona de vinil e barricas de papelão) e compará-los com os tambores mineiros tradicionais fabricados com matérias tais como: madeira, couro de animal, pele sintética, etc. Para isso serão realizados testes acústicos dos instrumentos construídos por meio de uma plataforma portátil de aquisição de dados, cujo o objetivo será a criação de um processo de fabricação de tambores de qualidade e baixo custo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernanda Rodrigues da Silva - Coordenador / Fabian Leonardo Cabrera Riano - Integrante.
+2016 - 2017
+PROJETO E ANALISE DE ANTENAS FRACTAIS DE MICROFITA PARA APLICAÇÕES NA FAIXA DE MICROONDAS
+Descrição: A crescente demanda por antenas compactas/multibandas para aplicações em tecnologias
+sem fio fez com que o estudo de antenas com essas características se tornasse continuo. Este
+projeto apresenta uma proposta de diminuição de uma antena de microfita a partir da aplicação de
+geometria fractal, curva de Koch. Simulações com o software Ansoft Designer serão realizadas, o
+que auxiliará no projeto das antenas. A partir dessas simulações, protótipos de antenas poderão
+ser construídos. Para validar os resultados obtidos, serão realizadas comparações entre os
+resultados medidos e os simulados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fernanda Rodrigues da Silva - Coordenador / Fabian Leonardo Cabrera Riano - Integrante.

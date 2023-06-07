@@ -1,0 +1,24 @@
+2022 - Atual
+Atualização tecnológica dos laboratórios de Medidas Elétricas e Magnéticas, Eletricidade e Circuitos Elétricos
+Descrição: Este projeto tem por finalidade a aquisição de equipamentos exclusivamente para
+atualização tecnológica dos laboratórios das salas 07 e 09 do Laboratório de Engenharia
+Elétrica do Campus Maracanã da UERJ e permitir o desenvolvimento do projeto de
+desenvolvimento tecnológico. Esses instrumentos permitirão a formação de dois grupos
+de pesquisa especializados na área de Medidas Elétricas e Magnéticas, em sensores com
+técnicas de aprendizado de máquina, com previsão de publicação de resultados em
+congresso e em periódico, considerando o potencial de inovação científica e tecnológica
+da proposta.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (1) . Integrantes: Leonardo Alfredo Forero Mendoza - Coordenador.Financiador(es): Universidade do Estado do Rio de Janeiro - Auxílio
+										financeiro.
+2014 - Atual
+Octopus 3
+Descrição: O sistema OCTOPUS é o resultado de uma parceria de pesquisa e desenvolvimento, entre a Petrobras e o Laboratório ICA, que teve início em 2000. Trata-se de um sistema desenvolvido especificamente para a solução do problema de otimização de planos de drenagem. A partir da descrição de um reservatório (modelo de simulação), o sistema busca encontrar, por meio de um algoritmo genético, uma configuração de poços que maximize o VPL (Valor Presente Líquido) do projeto. No processo de busca pela melhor configuração, são levados em consideração a quantidade, o tipo (injetor ou produtor), a trajetória (vertical, horizontal ou direcional) e a localização dos poços.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (6)  / Doutorado: (2) . Integrantes: Leonardo Alfredo Forero Mendoza - Integrante / renato sayao - Integrante / KOHLER, MANOELA - Integrante / PACHECO, MARCO A. - Coordenador.
+2012 - 2014
+Octopus 2
+Descrição: O sistema OCTOPUS é o resultado de uma parceria de pesquisa e desenvolvimento, entre a Petrobras e o Laboratório ICA, que teve início em 2000. Trata-se de um sistema desenvolvido especificamente para a solução do problema de otimização de planos de drenagem. A partir da descrição de um reservatório (modelo de simulação), o sistema busca encontrar, por meio de um algoritmo genético, uma configuração de poços que maximize o VPL (Valor Presente Líquido) do projeto. No processo de busca pela melhor configuração, são levados em consideração a quantidade, o tipo (injetor ou produtor), a trajetória (vertical, horizontal ou direcional) e a localização dos poços.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Doutorado: (6) . Integrantes: Leonardo Alfredo Forero Mendoza - Coordenador / Manoela Kolher - Integrante / marco aurelio pacheco - Integrante.
+2011 - 2013
+SMARt: Sistema Modular de Apoio à Decisão para a Otimização do Scheduling em Refinarias de Petróleo
+Descrição: Descrição: Desenvolvimento de software de apoio à decisão para a Otimização do Scheduling em Refinarias de Petróleo. O sistema SMARt (Sistema Modular de Apoio à Decisão para a Otimização do Scheduling em Refinarias de Petróleo) empregará diversos modelos (Modelos Co-Evolucionários, Métodos Multicritério, Estatística, Grafos, Modelos da Programação Matemática, Componentes de Software Orientados a Objeto Reutilizáveis) para estabelecer a ordem de produção e as receitas de mistura de produtos a serem utilizadas, baseando-se em conhecimento constituído por: itens de recebimento (crus comprados) e de envio (produtos vendidos); topologia da planta; preços e limites de qualidade para cada tipo de produto; tipos de campanhas de cada unidade de processo; equações e regras de mistura; e armazenagem dos produtos.. 
+Situação: Em andamento; Natureza: Pesquisa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Alfredo Forero Mendoza - Coordenador / VELLASCO, MARLEY M.B.R. - Integrante / marco aurelio pacheco - Integrante.
+2010 - 2011
+APOGEU Sistema Inteligente de Apoio à Gestão de Contratação em Unidades de Suprimento da Light
+Descrição: Propõe-se um sistema inteligente de apoio à gestão de contratação de serviços que permitirá: a formação de preços padrão; análises mais apuradas de propostas; o aprimoramento da negociação de propostas; o acompanhamento mensal dos custos dos contratos; a inferência e o monitoramento de indicadores... Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Alfredo Forero Mendoza - Integrante / VELLASCO, M. M. B. R - Integrante / marco aurelio pacheco - Coordenador.

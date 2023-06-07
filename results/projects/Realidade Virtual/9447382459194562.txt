@@ -1,0 +1,54 @@
+2020 - Atual
+Tecnologia, Inovação e Sustentabilidade
+Descrição: O projeto em questão tem como objetivo acelerar a adoção, o desenvolvimento e a disseminação das tecnologias digitais em produtos, processos e serviços inteligentes para solução dos desafios do mercado, seja uma empresa, seja uma cidade ou outra entidade. Busca-se, em geral, soluções inovadoras desenvolvidas localmente como instrumento de evolução da sociedade brasileira, capaz de aumentar a competitividade da economia, fortalecer as cadeias produtivas e promover a melhoria da qualidade de vida das pessoas.
+Nesse sentido, busca: 
+a) Ampliar a força de trabalho qualificada nas tecnologias digitais capaz de promover a adoção de soluções inteligentes (smart solutions) desenvolvidas localmente para desafios do mercado.
+b) Despertar interesse dos jovens pesquisadores para as tecnologias digitais e as soluções inteligentes (smart solutions).
+c) Fortalecer o corpo técnico do ecossistema de inovação local dedicado às atividades de pesquisa, desenvolvimento e inovação digital e ao empreendedorismo inovador.
+Elo #1. Módulos inteligentes: compreendem os elementos constitutivos dos objetos inteligentes, contemplando desde componentes básicos, tais como processadores, sensores, atuadores, memórias, modems e baterias, até dispositivos mais complexos. Em algumas situações, podem atuar como gateways de dispositivos com limitada capacidade de processamento e comunicação. Os atores são fabricantes de: processadores, memórias, sensores, atuadores, agregadores / modems, SIM cards, entre outros.
+Durante o planejamento mais amplo do ecossistema de inovação regional de Passo Fundo, foram identificados 6 (seis) elos da cadeia de valor que servem atualmente de diretrizes para a ação investigativa e evolutiva de todos os atores que participam do ecossistema de inovação regional, cada qual com sua dinâmica e características próprias de atuação. São eles:
+Elo #1. Módulos inteligentes: compreendem os elementos constitutivos dos objetos inteligentes, contemplando desde componentes básicos, tais como processadores, sensores, atuadores, memórias, modems e baterias, até dispositivos mais complexos. Em algumas situações, podem atuar como gateways de dispositivos com limitada capacidade de processamento e comunicação. Os atores são fabricantes de: processadores, memórias, sensores, atuadores, agregadores / modems, SIM cards, entre outros.
+Elo #2. Objetos inteligentes: consistem nos elementos tangíveis com os quais interagimos no universo da IoT. Os atores são fabricantes de eletrodomésticos, veículos, estações de monitoramento, equipamentos de automação, entre outros.
+Elo #3. Conectividade: contempla fornecedores de equipamentos e prestadores de serviços de telecomunicações, que garantem a comunicação entre os elementos que compõem as soluções inteligentes (smart solutions). Os atores são provedores de soluções de PAN2 e NAN3, operadoras, MVNO, provedores de soluções de segurança para redes e de gestão de rede e fabricantes de equipamentos de rede.
+Elo #4. Habilitador: oferece os sistemas de suporte para coleta, armazenamento, transformação, análise, visualização dos dados e gerenciamento dos objetos inteligentes. Os atores são provedores de armazenamento de dados, orquestração de dados, middleware, analytics, controle dos endpoints e de soluções de gerenciamento de endpoints.
+lo #5. Integrador: combina diferentes sistemas, processos e objetos para atuarem conforme as regras de negócios do cliente. Na maioria dos casos, a integração é realizada por meio de interfaces padronizadas de programação de aplicativo (APIs). Os atores são provedores de: interfaces de APIs, orquestração de serviços e integração com sistemas back-end (ERP).
+Elo #6. Provedor de serviço: presta serviços inovadores para consumidores e empresas com base em solução end-to-end composta por hardware, software e conectividade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (7) . Integrantes: Vinícius Borges Fortes - Integrante / Thaisa Leal da Silva - Coordenador / Amilton Martins - Integrante / Marcia Capellari - Integrante / Suellen Sotille - Integrante / Ariane Pazinato - Integrante / Everton de Matos - Integrante / Fahad Kallil - Integrante / Marcos Roberto dos Santos - Integrante / Ralph Rassweiler Filho - Integrante.Número de produções C, T & A: 6
+2020 - Atual
+O Distrito Federal e a Governança da Internet: tecnologias e informação
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Vinícius Borges Fortes - Integrante / Rafael Santos de Oliveira - Integrante / Ana Claudia Farranha Santana - Coordenador / alexandre veronese aguiar - Integrante / Alvaro Sanchez Bravo - Integrante.Financiador(es): Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio
+										financeiro.
+2020 - Atual
+SiCReT II - Forense Digital, Ciência de Dados e Inteligência Artificial aplicadas em Laudos Periciais de Dispositivos Móveis
+Descrição: Associar Direito e Forense Digital com a Ciência de Dados e a Inteligência Artificial para avançar no desenvolvimento de ferramental jurídico e tecnológico voltado à análise de informações contidas nos laudos periciais de dispositivos móveis da Seção de Computação Forense da Polícia Científica do Paraná, desta forma auxiliando os Serviços de Inteligência e Policiamento Preditivo do Estado do Paraná.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Vinícius Borges Fortes - Integrante / Cinthia Freitas - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Outra.Número de produções C, T & A: 7
+2016 - Atual
+LAPH - Latin America Privacy Hub
+Descrição: O projeto tem como foco a discussão sobre o tema da proteção de dados pessoais e na garantia do direito fundamental à privacidade, especialmente à luz dos
+desafios colocados pelo rápido desenvolvimento da tecnologia e da globalização, o projeto Latin America Privacy Hub, incorporando a expertise de colaboradores de diversas
+áreas, inclusive o Direito, tendo uma abordagem multidisciplinar, especialmente com a sociologia, a economia, a geografia urbana, a ciência da computação e a segurança da
+informação, que constituem premissas formadoras de uma sustentabilidade tecnológica e democrática. Acredita-se que o pensamento inovador presente no projeto LAPH,
+associado à reunião de estudiosos e pesquisadores de uma ampla gama de disciplinas, pode colaborar com os futuros formuladores de políticas dos setores público e privado,
+ONGs, membros do Poder Judiciário e do Poder Legislativo, produzindo investigações científicas de alta qualidade e efeitos sobre a sociedade civil capazes de ampliar debates sobre o significado da ciberdemocracia. Ademais, o projeto LAPH pretende desenvolver suas atividades de forma neutra, transparente e sustentável, e é guiada pelos
+mais elevados padrões de ética e imparcialidade. Assim, o projeto LAPH tem elevada capacidade de construir redes e funcionar como ponto de articulação de temas tão relevantes e atuais para a sustentabilidade tecnológica e para a democracia contemporânea, como a privacidade e a proteção de dados na internet. O projeto conta com a
+participação de pesquisadores de Instituições brasileiras - PUC/PR, UnB-; e pesquisadores do exterior da VUB-Bélgica e da UNIZAR-Espanha. Além disso, o projeto busca
+introduzir o tema da privacidade e da segurança de dados nas perspectivas da web e da deep web, estabelecendo uma relação prática sobre atos jurisdicionais de quebra de
+sigilo de dados e a conotação tecnológica sobre normas jurídicas, apresentando reflexões e experiências sobre ações de natureza jurídica e tecnológica no uso de técnicas
+hacker e de fontes abertas na busca de evidências, constituição e preservação de provas em meio digital. Cabe destacar, ainda, que o pesquisador líder do projeto foi selecionado para participar do Teste Público de Segurança das Urnas Eletrônicas brasileiras, organizado pelo Tribunal Superior Eleitoral, trazendo para o projeto uma
+bagagem bastante significativa do tema segurança cibernética de dados. Instituições parceiras: PUCPR, UNIZAR, UnB e FGV.
+ 
+Pesquisadores: Vinícius Borges Fortes - Coordenador
+Salete Oro Boff (Atitus Educação) 
+Jose Renato Cella (Atitus Educação)
+Cinthia Obladen de Almendra Freitas (PUC-PR)
+Ana Claudia Farranha (Universidade de Brasília)
+Eduardo Magrani (FGV) 
+Fernando Galindo Ayuda (UNIZAR)
+Stefania Stefanelli (UNIPG)
+Mestrandos:
+Lucas Serafini    
+Mateus Segalin. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Vinícius Borges Fortes - Coordenador / Salete Oro Boff - Integrante / José Renato Cella - Integrante / Fernando Galindo Ayuda - Integrante / Ana Claudia Farranha Santana - Integrante / Cinthia Freitas - Integrante / Stefania Stefanelli - Integrante / Eduardo Magrani - Integrante.Número de produções C, T & A: 25 / Número de orientações: 5
+2013 - 2015
+NETS - Núcleo de Estudos em Tecnologia e Sociedade
+Descrição: O NETS ? Núcleo de Estudos em Tecnologia e Sociedade tem por objetivo desenvolver pesquisa e extensão interdisciplinares em temas como a regulação e governança da Internet, propriedade intelectual, inclusão digital, privacidade e proteção dos dados pessoais, acesso ao conhecimento, segurança da informação e transferência de tecnologia, investigando as implicações jurídicas, sociais, culturais e de tecnologia aplicada advindas do avanço das TIC?s ? Tecnologias da Informação e Comunicação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (5)  / Doutorado: (1) . Integrantes: Vinícius Borges Fortes - Integrante / Neuro José Zambam - Integrante / Salete Oro Boff - Coordenador.
+2011 - 2011
+Novas Tecnologias, marcos regulatórios e reconhecimento de direitos na diversidade cultural
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Vinícius Borges Fortes - Integrante / Neuro José Zambam - Integrante / Salete Oro Boff - Coordenador.Número de produções C, T & A: 5

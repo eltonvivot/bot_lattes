@@ -1,0 +1,12 @@
+2013 - 2014
+ABORDAGEM PBL NO ENSINO DE ENGENHARIA DE SOFTWARE
+Descrição: Definir e aplicar a metodologia de gestão de processos da abordagem PBL (Problem
+Based Learning) aplicada ao ensino de Engenharia de Software, com ênfase em
+desenvolvimento de sistemas em plataformas em nuvem (cloud computing), contemplando
+as etapas de modelagem, análise, melhorias e automação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Simone Cristiane dos Santos Lima - Coordenador / Matheus Soares Monteiro - Integrante / LINALDO LEITE FERREIRA JUNIOR - Integrante.
+2010 - Atual
+Um Framework para aplicação de PBL no ensino de Computação
+Descrição: O objetivo deste projeto é desenvolver um framework para aplicação de PBL em áreas consideradas relevantes pelo mercado na formação do profissional da área de Computação, em particular, no ensino da graduação e pós-graduação, desenvolvendo uma metodologia para implementação de PBL, apoiada por ferramentas de software e módulos de treinamento para docentes e discentes nesta abordagem.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1)  / Doutorado: (4) . Integrantes: Simone Cristiane dos Santos Lima - Coordenador / Gustavo Henrique da Silva Alexandre - Integrante / Ariane Rodrigues - Integrante / Bruno Rodrigues Bessa - Integrante / Agenor Marinho de Souza Neto - Integrante / Felipe Soares de Oliveira - Integrante.Financiador(es): Universidade Federal de Pernambuco - Outra.Número de produções C, T & A: 7
+2005 - 2006
+SONAR ? Sistemas ON-line de Aprendizagem em Redes
+Descrição: O projeto SONAR (Sistema ON-line de Aprendizagem em Redes) propôs um modelo inovador de ambiente de aprendizagem construído a partir do compartilhamento de conhecimento de pessoas que o utilizam, formando uma comunidade em torno de áreas de interesse destas pessoas. Este ambiente foi registrado com o nome de Trulog.com.br. A partir do nível de interesse de usuários por outros, a solução passa a promover pessoas que se destacam como contribuintes de conhecimento, formando uma rede de especialistas sobre os mais variados assuntos de relevância para a comunidade usuária da aplicação. Este ambiente é referenciado pelo nome de TruLog (www.trulog.com.br). A idéia chave do TruLog é responder a questão ?onde eu encontro pessoas que sabem sobre um determinado assunto??.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Simone Cristiane dos Santos Lima - Coordenador.

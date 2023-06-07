@@ -1,0 +1,29 @@
+2023-05-21 13:04:45 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:04:56 - Tentativa: 1 |	'Locator' object is not iterable
+2023-05-21 13:04:58 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:05:01 - Tentativa: 2 |	Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "http://dgp.cnpq.br/dgp/faces/consulta/consulta_parametrizada.jsf", waiting until "load"
+============================================================
+2023-05-21 13:07:24 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:07:33 - Tentativa: 1 |	'Locator' object has no attribute 'query_selector_all'
+2023-05-21 13:09:24 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:26:06 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:28:03 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:28:07 - Tentativa: 1 |	'NoneType' object has no attribute 'query_selector_all'
+2023-05-21 13:29:14 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:29:19 - Tentativa: 1 |	cannot unpack non-iterable ElementHandle object
+2023-05-21 13:29:39 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:29:48 - Tentativa: 1 |	cannot unpack non-iterable ElementHandle object
+2023-05-21 13:30:45 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:30:50 - Tentativa: 1 |	name 'i' is not defined
+2023-05-21 13:31:01 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:31:07 - Tentativa: 1 |	cannot unpack non-iterable ElementHandle object
+2023-05-21 13:32:17 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:32:26 - Tentativa: 1 |	cannot unpack non-iterable ElementHandle object
+2023-05-21 13:32:32 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:32:38 - Tentativa: 1 |	cannot unpack non-iterable ElementHandle object
+2023-05-21 13:33:28 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:33:34 - === FINALIZADO: 9 ===
+2023-05-21 13:33:44 - === INICIANDO NOVA EXECU플O: metaverso ===
+2023-05-21 13:33:51 - === FINALIZADO: 9 ===

@@ -1,0 +1,3 @@
+2014 - Atual
+Estudo da Componente de Realce de Bordas no Modelo de Superesolução em Imagens Digitais
+Descrição: O estudo corresponde ao entendimento de como o filtro passa-altas, no modelo em frequência de Superesolução em imagens digitais, afeta a qualidade das imagens restauradas. O estudo também propõe alternativas ao uso do filtro como os descritores de bordas baseados em modelos estatísticos fractais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Vitor Faiçal Campana - Integrante / Klaus Fabian Côco - Coordenador / Evandro Ottoni Teatini Salles - Integrante / Patrick Marques Ciarelli - Integrante.

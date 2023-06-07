@@ -1,0 +1,262 @@
+2022 - 2022
+Desenvolvimento de InclinÔmetro Multidrecionald de Baixo Custo
+Descrição: Um dos objetivos da neuroengenahria é poder mensurar os efeitos da paralisia 
+cerebral (PC), porém é necessário um equipamento que meça de forma objetiva a força 
+física, tenha a sensibilidade necessária e seja possível comprar no mercado, mas não 
+existe. Diante disso, o objetivo deste trabalho foi desenvolver um dinamômetro biomédico 
+para medir forças de preensão produzidas por ratos de laboratório. O equipamento será 
+utilizado em pesquisa de mestrado que utilizará ratos de laboratório pré-dispostos a PC, a fim de medir os efeitos nas forças produzidas pelos animais ao longo do tempo 
+submetidos as dosagens de medicamento que modele a PC, para assim poder verificar a 
+possível relação entre as forças de preensão com o grau de PC. Esse dinamômetro é 
+constituído por uma lâmina de aço inox e pelo circuito de condicionamento de sinais. A 
+lâmina metálica possui comprimento de 18,5 cm, largura de 1,5 cm e espessura 2 mm,
+onde foram colados dois extensômetros resistivos duplos (modelo pa-09-125ha-350-l8, 
+fabricante Excel sensor), formando uma ponte de Wheatstone que foi fixada a um suporte 
+de aço que permite ajustar a altura e a inclinação. A saída ponte de Wheatstone fica 
+ligada a um circuito de condicionamento de sinais com objetivo de amplificar e filtrar a 
+resposta analógica produzida pela força aplicada na lâmina. A calibração foi realizada 
+inicialmente através do carregamento individual de quatro massas conhecidas entre 0, 
+15,48 g, 31,53 g, 46,88 g até 62,47 g, que foram penduradas em fio de nylon fixado na 
+extremidade livre da lâmina. Posteriormente foi realizado o descarregamento individual de 
+cada massa até retornar a 0 g. A medição da resposta do dinamômetro foi realizada 
+através de um software conectado a saída do circuito de condicionamento de sinais que 
+gerou gráfico e tabela em Excel sobre a relação massa versus voltagem. Os resultados 
+obtidos mostraram que para uma massa de 31,53 g gerou 7,48 V, para 46,88 g resultou 
+11,12 V e por fim para 62,37 g mostrou 14,8 V sendo que o tempo de resposta foi de 0,3 
+s. Portanto, o trabalho poderá contribuir com novas pesquisas com animais e também 
+seres humanos futuramente, com objetivo de avaliar aplicação de força não invasiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / HORBACH, EDUARDO - Integrante.
+2020 - 2022
+Desenvolvimento de Dinamômetro Biomédico Para Avaliar os Efeitos da Paralisia Cerebral Modelada em Ratos por Meio das Forças Físicas
+Descrição: Alterações no sistema integrado do cérebro e da mão geram dificuldades para a 
+realização de tarefas funcionais, conforme observado em pacientes diagnosticados 
+com paralisia cerebral. O objetivo deste trabalho é desenvolver novo dinamômetro 
+biomético mecatrônico, e no futuro utilizar esse protótipo em ensaio pré-clínico, 
+preparando-o para desenvolvimento de ensaio clínico. O protótipo foi desenvolvido
+no laboratório de Engenharia Biomédica e Tecnologia Assistiva (ENGEBIO) da 
+FAMED é constituído por uma lâmina metálica de aço inox AISI 420 que mede 18,5 
+cm de comprimento, 1,5 cm de largura e 2 mm de espessura na qual o camundongo 
+aplica força em uma linha de nylon localizada na extremidade, dois strain gages
+duplos idênticos de modelo pa-09-125ha-350-l8 do fabricante Excel Sensors (Brasil) 
+que foram colados sendo um em cada face da lâmina, um circuito de 
+condicionamento de sinais Arduino contendo amplificador de ganho G = 10.000, filtro 
+de Butterworth de 4a ordem, um computador Sony Vaio FE15 i7 10a no qual foi 
+desenvolvido um software em Labview 2019 da empresa National Instruments para 
+processamento de informações geradas pela calibração estática e pelo teste de 
+resposta dinâmica realizados com massas padronizadas que produziram respostas 
+que foram apresentados na forma numérica e gráfica. Os principais resultados da 
+calibração foram: 15,48 g gerou 3,70 V, 31,53 g gerou 7,48 V e 62,47 g gerou 14,80 
+V enquanto que para o teste de resposta dinâmica a resposta foi de 0,3 s. O
+protótipo do novo dinamômetro biomédico foi desenvolvido levando-se em 
+consideração que há a necessidade de sensibilidade suficiente para testar as 
+variáveis de interesse em futuro ensaio clínico em crianças recém-nascidas com 
+condições de baixo peso, sistema neurológico em desenvolvimento, presença de 
+reflexos primitivos que demostram a presença do tônus muscular como por exemplo 
+o reflexo de moro e o reflexo de sucção. Estima-se que a partir dos dados de 
+simulação os resultados pré-clínicos contribuam para o aperfeiçoamento desse 
+protótipo em um dispositivo que seja um novo dinamômetro biomédico, contribuindo
+no diagnóstico e avaliação da paralisia cerebral em crianças. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josivaldo Godoy da Silva - Coordenador / HORBACH, EDUARDO - Integrante / Daniela Araújo de Almeida - Integrante.Número de produções C, T & A: 1 / Número de orientações: 1
+2020 - 2022
+EFEITO DOS RECURSOS ELETROFÍSICOS NA CICATRIZAÇÃO TECIDUAL EM MODELOS EXPERIMENTAIS DIABÉTICO E RENAL
+Descrição: O Diabetes Mellitus (DM), doença socioeconômica, é uma desordem metabólica lipoproteíca, 
+caracterizada pela hiperglicemia, decorrente da resposta secretória insuficiente ou deficiente do 
+hormônio insulina. Sendo uma das principais causas da Doença Renal (DR). Diversos 
+distúrbios advindos do diabetes são tratados por fisioterapeutas empregando recursos 
+eletrofísicos. O objetivo deste estudo foi avaliar o efeito dos recursos eletrofísicos na 
+cicatrização tecidual em modelos experimentais diabético e renal. Foram utilizados 64 
+camundongos, induzidos à estenose arteriovenosa (isquemia, 10 minutos, e reperfusão) e, 
+posteriormente, DM (150 mg/Kg, STZ, I.P.) divididos em grupos: G1 (n=8), G2 (n=24), G3 
+(n=6) e G4 (n=18). Posteriormente, os animais foram anestesiados e induzidos à lesão do nervo 
+tibial e tendão calcâneo comum do MPE por compressão, com auxílio de uma pinça hemostática 
+Kocher reta (15 segundos). Após, os animais foram tratados de acordo com os protocolos 
+terapêuticos de laserterapia (808 nm, 3 J/cm2
+, contínuo, 30 s, pontual), ILIB (660 nm, 6 minutos, 
+contínuo, pontual, intravascular ? a. femoral) e crioterapia (imersão, 10o C, 1 minuto). Foram 
+analisadas alterações metabólicas, visando estresse oxidativo e processo inflamatório. Ao 
+término do experimento, a análise macroscópica dos rins submetidos à I/R, revelou alterações 
+significativas em relação ao aspecto morfológico, volume e tamanho do rim esquerdo quando 
+comparado ao rim contralateral. O modelo diabético foi estabelecido por meio da injeção de 
+STZ na dose única (150 mg/kg, via I.P.), associada à oferta livre de dieta Rhoster hiperlipídica, 
+por 7 dias, e solução aquosa de glicose (10%), por 24 horas. Alterações macroscópicas, foram 
+observadas nos rins que sofreram isquemia de 10 minutos seguida de reperfusão. O aumento 
+dos níveis glicêmicos foi constatado após administração de dose única de STZ (150 mg/Kg, 
+I.P.). Viabilizando a indução de duplo modelo de doença animal. Aplicação de protocolo de 
+crioterapia por imersão e terapia ILIB sobre área de lesão neurotendínea, nos animais 
+acometidos por diabetes e doença renal, mostrou melhores resultados, redução do exsudato 
+inflamatório, presença de fibroblastos e organização das células de colágeno, quando 
+comparado aos efeitos de LBI. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Iandara Schetert Silva - Integrante / PATRÍCIA HENRIQUE SILVA - Integrante.Número de produções C, T & A: 1 / Número de orientações: 1
+2020 - 2022
+MODELO EXPERIMENTAL DE DIABETES MELLITUS E DOENÇA RENAL ASSOCIADOS EM CAMUNDONGOS
+Descrição: As doenças crônicas não transmissíveis, como a Diabetes Mellitus (DM), acometem uma 
+parcela importante da população. A DM trata-se de uma desordem metabólica lipoproteica, 
+caracterizada pela hiperglicemia, decorrente da resposta secretória insuficiente ou deficiente do 
+hormônio insulina, sendo ainda uma das principais causas para a Doença Renal (DR). Diante 
+da gravidade das complicações microvasculares causadas pela DM, assim como 
+cardiomiopatia, encefalopatia, retinopatia, neuropatia e nefropatia, justificou-se a realização 
+deste estudo. O objetivo deste estudo foi associar modelos de DM e DR em camundongos.
+Foram utilizados 64 camundongos (Mus musculus), adultos, fêmeas, da linhagem Swiss, 
+pesando em média 20 g, distribuídos em grupos: G1, controle (n=32) e G2, doença associada
+(n=32). Primeiramente, foram induzidos à estenose arteriovenosa (isquemia, 10 minutos e 
+reperfusão) do rim esquerdo os animais do G2, sendo observados por 14 dias, antes de 
+receberem estreptozotocina (STZ) e dieta. Após esse período foi administrado STZ, na dose de 
+150 mg/kg, via intraperitoneal, e solução aquosa de glicose (10%), por 24 horas, seguida de 
+dieta hiperlipídica por 7 dias. A evolução da DR foi observada utilizando-se tira teste de análise 
+urinária e da DM por meio da análise de glicemia em monitor digital glicêmico. Foi constatada 
+a isquemia e reperfusão, mediante observação das alterações de coloração, durante a cirurgia, 
+volume e tamanho do rim esquerdo, quando comparado ao rim contralateral. Observou-se 
+alterações renais iniciais em G2, nos primeiros 14 dias, aumento da densidade urinária, 
+alteração do pH, presença de glicose, proteínas e leucócitos, quando comparados ao G1. A DM
+foi constatada pela presença de hiperglicemia, a partir de 200 mg/dL, no 7º dia da indução. Os 
+animais do G2 apresentaram perda constante de peso, quando comparados ao G1. Foi possível 
+induzir e confirmar DM e DR associados, com baixa mortalidade e fácil execução, que permitiu 
+realizar modelos de lesão e cicatrização, proporcionando base para futuros estudos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Pâmela Henrique Silva - Integrante.
+2020 - Atual
+Desenvolvimento de tecnologia assistiva inteligente, utilizando trajetórias semânticas, para auxiliar pessoas com deficiência visual nos ambientes da universidade
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Luiz Fernando Delboni Lomba - Integrante.
+2019 - 2021
+Desenvolvimento Interdisciplinar de Novas Técnicas, Serviços, Tecnologias e Equipamentos Inovadores Aplicados em Saúde
+Descrição: Desenvolvimento interdisciplinar Técnicas, Serviços, Tecnologias e Equipamentos em Tecnologia Assistiva.
+A Tecnologia Assistiva é uma área interdisciplinar na qual médicos, fisioterapeutas e engenheiros trabalham juntos para desenvolver meios para incluir deficientes físicos na sociedade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Josivaldo Godoy da Silva - Coordenador / DESIRÉE FERRO SCAPINELLI - Integrante.Número de produções C, T & A: 1 / Número de orientações: 1
+2019 - 2020
+Desenvolvimento de Projeto e Implementação de VANT Rádio Controlado Para Competição SAE BRASIL ? AeroDesign
+Descrição: Consiste no desenvolvimento científico e tecnológico de VANTs para participar de competição no ITA.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Josivaldo Godoy da Silva - Coordenador.
+2019 - Atual
+Aplicação Web de apoio ao diagnóstico do carcinoma hepatocelular Ano de Início: 2020 (em andamento)
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Marcelo de Oliveira - Integrante.
+2019 - Atual
+TECNOLOGIA ASSISTIVA E QUALIDADE DE VIDA: O CASO DOS PACIENTES IDOSOS DOS CENTROS DE CONVIVÊNCIA DE CAMPO GRANDE/MS
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Fernanda Guerreiro de Paula - Integrante.
+2019 - Atual
+MODELO EXPERIMENTAL  DE DIABETES MELLITUS E DOENÇA RENALRENAL ASSOCIADO S  EM CAMUNDONGOS
+Descrição: O Diabetes Mellitus (DM), doença socioeconômica, é uma desordem metabólica lipoproteíca,
+caracterizada pela hiperglicemia, decorrente da resposta secretória insuficiente ou deficiente da 
+insulina. Sendo uma das principais causas da Doença Renal (DR). Diversos distúrbios advindos 
+do diabetes são tratados por fisioterapeutas empregando recursos físicos. O objetivo deste
+estudo será avaliar o efeito comparativo dos recursos físicos em modelos diabético e renal. 
+Serão utilizados 80 camundongos, induzidos à DM (55 mg/Kg, STZ, i.p.) e estenose 
+arteriovenosa (isquemia e reperfusão), divididos em grupos: G1 (n=10), G2 (n=30), G3 (n=10)
+e G4 (n=30). Após aplicação dos protocolos terapêuticos de laserterapia (830 nm, 8 J, contínuo, 
+48 s, pontual), ultrassom terapêutico (1 Mhz, pulsado, 20%, 100 Hz, 0,5 w/cm2
+, 3 minutos) e 
+crioterapia (imersão, 5oC, 15 minutos)serão analisadas alterações metabólicas, visando estresse 
+oxidativo e função renal. Acredita-se que os recursos empregados apresentem apenas efeitos
+benéficos locais, sem potencializar efeitos colaterais. Diante da escassez de estudos do emprego 
+de recursos físicos nestes pacientes, torna-se fundamental a realização deste estudo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Iandara Schetert Silva - Integrante / Pâmela Henrique Silva - Integrante.Número de produções C, T & A: 1
+2019 - Atual
+DESENVOLVIMENTO DE TECNOLOGIA ASSISTIVA INTELIGENTE, UTILIZANDO  TRAJETÓRIAS SEMÂNTICAS, PARA AUXILIAR PESSOAS COM DEFICIÊNCIA  VISUAL NOS AMBIENTES DA UNIVERSIDADE
+Descrição: Apesar do aparato legal que garante os direitos das pessoas com deficiência, são 
+necessárias ações que efetivem estes direitos. As pessoas com deficiência visual 
+representam quase 1/3 dos alunos com deficiência matriculados no ensino superior 
+e um dos problemas enfrentados por elas é a localização dos ambientes físicos da 
+universidade. As tecnologias assistivas inteligentes são recursos com capacidade 
+computacional, de comunicação por uma rede e com inteligência artificial, utilizadas 
+para auxiliar as pessoas com deficiência. Neste contexto, este projeto propõe o 
+desenvolvimento de uma tecnologia assistiva inteligente, utilizando trajetórias 
+semânticas, para auxiliar as pessoas com deficiência visual na localização e acesso 
+aos ambientes da escola. O recurso será um software para uso no smartphone, que 
+utilizará a localização das pessoas para criar as rotas de acesso aos ambientes. A 
+metodologia proposta está dividida em quatro partes, sendo que na primeira será 
+criado e validado o roteiro de visita à universidade e realizada a seleção dos 
+participantes da pesquisa, enquanto na segunda parte realizar-se-á a visita à 
+universidade com os participantes, para identificar os problemas que as pessoas 
+com deficiência visual têm para localizarem e acessarem os ambientes da cidade 
+universitária da UFMS. Na terceira fase, os dados obtidos nas visitas serão utilizados 
+para a modelagem e desenvolvimento do software. Por fim, a quarta fase validará o 
+uso do software, em laboratório e com um grupo de pessoas com deficiência visual 
+na UFMS.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Luiz Fernando Delboni Lomba - Integrante.Número de produções C, T & A: 1 / Número de orientações: 1
+2019 - Atual
+DESENVOLVIMENTO DE TECNOLOGIA ASSISTIVA INTELIGENTE, UTILIZANDO  TRAJETÓRIAS SEMÂNTICAS, PARA AUXILIAR PESSOAS COM DEFICIÊNCIA  VISUAL NOS AMBIENTES DA UNIVERSIDADE
+Descrição: Apesar do aparato legal que garante os direitos das pessoas com deficiência, são 
+necessárias ações que efetivem estes direitos. As pessoas com deficiência visual 
+representam quase 1/3 dos alunos com deficiência matriculados no ensino superior 
+e um dos problemas enfrentados por elas é a localização dos ambientes físicos da 
+universidade. As tecnologias assistivas inteligentes são recursos com capacidade 
+computacional, de comunicação por uma rede e com inteligência artificial, utilizadas 
+para auxiliar as pessoas com deficiência. Neste contexto, este projeto propõe o 
+desenvolvimento de uma tecnologia assistiva inteligente, utilizando trajetórias 
+semânticas, para auxiliar as pessoas com deficiência visual na localização e acesso 
+aos ambientes da escola.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Luiz Fernando Delboni Lomba - Integrante.
+2019 - Atual
+Desenvolvimento de Softwares Com Técnicas de Inteligência Artificial Para Análise de Imagens e Apoio ao Diagnóstico de Câncer de Mama
+Descrição: Desenvolver softwares com Técnicas Inovadoras de IA para Detecção de Tumores em Mamas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador.Número de orientações: 1
+2018 - Atual
+Desenvolvimento Interdisciplinar de Novas Técnicas, Serviços, Tecnologias e   Equipamentos Inovadores Aplicados em Saúde
+Descrição: Projeto de pesquisa guarda chuva na área de Tecnologia Assistiva e Engenharia Biomédica que visa propor novas tecnologias, serviços e técnicas inovadoras que permitam a inclusão social do deficiente físico e também propor novas técnicas de diagnóstico em saúde. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Rogério Salomão - Integrante / G. M. Lemos - Integrante / Laís Beatriz Gôngora Darzi - Integrante.
+2018 - Atual
+Implementação, Avaliação  de Equipamentos   Biomédicos e Testes com Pessoas
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Isabella Fenner Rondon - Integrante.
+2017 - 2018
+Determinação de Impactos Técnicos Devido a Injeção de Potência Oriunda de  Microgeradores em Circuito Secundário de Distribuição no Contexto  de Smart Grid
+Descrição: Gerar Simulações Computacionais Utilizando-se Software Gridlab-D de Companhia de Energia Elétrica dos Estados Unidos da América com Objetivo de Conhecer os Efeitos Benéficos e não Benéficos na Rede de Energia Elétrica de Distribuição Secundária de Energia Elétrica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Isabella Fenner Rondon - Integrante.
+2017 - Atual
+Determinação de Impactos Técnicos Devido a Injeção de Potência Oriunda de Microgeradores em Circuito Secundário de Distribuição no Contexto de Smart Grid
+Descrição: Existe atualmente um consenso de que as Redes Inteligentes ou Smart Grids possam favorecer a
+solução de diversos problemas das concessionárias distribuidoras de energia elétrica, tais como a
+gestão inteligente do carregamento e o gerenciamento automático na recuperação do fornecimento
+de energia etc. A implantação de Smart Grid poderá causar facilidades de acesso ao sistema elétrico
+por parte da microgeração distribuída seja solar, eólica ou microturbina a gás devido à substituição de
+medidores convencionais por medidores inteligentes, pelo melhor gerenciamento da energia e por
+legislação específica publicada pela ANEEL. Este trabalho tem por objetivo determinar os principais
+impactos técnicos relacionados à injeção de potência oriunda de microgeradores fotovoltaicos
+residenciais ligados em circuito secundário de distribuição de energia elétrica no contexto de Smart
+Grid. A análise acontecerá com o levantamento de cenários contendo crescente nível de penetração
+dos microgeradores onde serão avaliados as curvas de carga do consumidor e as perdas elétricas
+por meio do uso do software livre Gridlab-D que utiliza aspectos de Smart Grid no circuito secundário
+de distribuição de energia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Mayara Manoel Soares - Integrante.
+2017 - Atual
+Desenvolvimento de Dinamômetro Biomédico Eletrônico para a  Medição de Força de Preensão para Obter Informações de  Lesões ou Doenças que Afetam a Mão
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Adriane Melo Arakaki - Integrante.
+2017 - Atual
+Utilização de Baropodômetro Eletrônico de ultima geração para a determinação da progressão física de pacientes submetido ao método pilates
+Descrição: O Baropodômetro eletrônico é um aparelho constituído principalmente por sensores de pressão ou força, sendo utilizado para medir a distribuição pressórica estática durante a posição ortostática e para analisar comportamentos dinâmicos durante a marcha (FREITAS, 2008). Sendo assim, pode-se analisar diversos parâmetros, como a assimetria de descarga de peso nas regiões plantares, os deslocamentos e oscilações do centro de pressão dos pés, entre outros (ESTREMOTE, 2010). 
+Em vista do exposto, este projeto tem por objetivo utilizar o Baropodômetro eletrônico de ultima geração (FORERO, 2016) visando quantificar objetivamente e permitir a avaliação do método Pilates na prevenção da hérnia de disco lombar. Os resultados obtidos com o Baropodômetro determinarão de forma objetiva a eficácia do método Pilates.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Fernanda Guerreiro de Paula - Integrante.
+2017 - Atual
+Implementação, Avaliação  de Equipamentos   Biomédicos e Testes com Pessoas
+Descrição: O objetivo deste projeto de pesquisa "guarda-chuva"  é  implementar e avaliar equipamentos biomédicos inovadores para a realização de medições em pessoas que apresentem lesões nas mãos ou na coluna vertebral decorrente de acidente, doença, genética ou má postura. Na fase posterior a avaliação, cada equipamento  será testado com um grupo de pessoas que apresentem os problemas de saúde já definidos e que prejudicam a qualidade de vida. Todos os projetos são interdisciplinares pois envolvem as áreas das Engenharias e Saúde. Esses  projetos visam atender pessoas de ambos os sexos contidos numa faixa etária que varia de 10 até 100 anos.
+As pesquisas estão sendo realizadas no laboratório de Engenharia Biomédica e Tecnologia Assistiva - ENGEBIO, na Faculdade de Medicina da Universidade Federal de Mato Grosso do Sul - UFMS.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Adriane Melo Arakaki - Integrante / Fernanda Guerreiro de Paula - Integrante / Lucas Rosa Secco - Integrante.Número de produções C, T & A: 2 / Número de orientações: 3
+2017 - Atual
+Aprimoramento de um baropodômetro eletrônico e análise de estabiliometria em voluntários com escoliose?. Após análise e discussão os Conselheiros aprovaram por unanimidade a autorização para desenvolvimento do referido projeto
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Fernanda Guerreiro de Paula - Integrante.
+2017 - Atual
+Estimulação Elétrica Funcional Controlada Aplicada a Membros Inferiores e Superiores
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador.
+2017 - Atual
+Desenvolvimento Interdisciplinar de Novas Técnicas, Serviços, Tecnologias e Equipamentos Inovadores Aplicados em Saúde
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Josivaldo Godoy da Silva - Coordenador.
+2017 - Atual
+Desenvolvimento de Dinamômetro Mecatrônico para Avaliação Isocinética das Mãos dos Participantes
+Descrição: A mão é uma das partes  mais complexas do corpo e que permite ao ser humano inúmeras ações dentre elas a função de AVD (atividades da vida diária), como alimentação, higiene, vestuário e ações de AVP (atividades da vida prática) específicas, como dirigir um automóvel, escrever, etc. 
+A força muscular humana é um dos componentes fundamentais para a avaliação da forma física do indivíduo.  A medição objetiva das forças exercidas pela mão permitem documentar a recuperação de participantes submetidos à cirurgia nas mãos ou que tiveram a perda da mobilidade devido doença ou lesões provocadas por acidente. Esta medição  por ser realizada médicos, fisioterapeutas e terapeutas ocupacionais utilizando-se um dinamômetro biomédico.
+O dinamômetro biomédico é um aparelho que mede a força de preensão palmar do usuário sendo portanto indispensável para monitorar e conseqüente acompanhar a deterioração do estado físico ou a evolução de tratamento medicamentoso ou cirurgia aplicada em atleta de alto desempenho. 
+As informações fornecidas pelos dinamômetros palmares permitem que o usuário execute somente esforço isométrico o que gera limitação na sua utilização.  Várias pesquisas definem de forma distinta a posição de utilização do aparelho que deve ser adotada para a melhor obtenção de esforço pelo usuário considerando o porte, tamanho das falanges, tamanho palmar, peso corporal e outras características individuais. 
+Devido a falta de padrão na posição a ser adotada, a seleção aceita e indicada pela Sociedade Norte Americana de Terapeutas da Mão (ASTH) para utilização do dinamômetro consiste numa  forma fixa para qualquer indivíduo, independente do seu porte físico.
+Em busca de medições com qualidade superior, em vez de empregar um dinamômetro biomédico palmar isométrico o dinamômetro biomédico isométrico permitirá mapear os pontos de melhor rendimento ao longo do deslocamento palmar, proporcionando a elaboração de equação para calcular a distância de pressão de maior desempenho para cada usuário. 
+A implementação do dinamômetro isocinético também permitirá  análisar em separado o esforço em cada ponto de preensão, apontando onde se encontra o maior déficit muscular do usuário: falange proximal, medial ou distal, propiciando uma análise quantitativamente superior aos dinamômetros palmares comerciais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Lucas Rosa Secco - Integrante.
+2017 - Atual
+Simulação dos Efeitos Provocados pela Injeção de Potência Oriunda de Microgeradores Fotovoltaicos em Circuito Secundário de Distribuição no Contexto  de Smart  Grid
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Isabella Fenner Rondon - Integrante.
+2016 - 2018
+Características da ?Indústria 4.0? em Implantação na Europa, Vantagens e           Desvantagens para o Brasil e Meios para Tornar a Indústria Nacional Competitiva
+Descrição: Obter Parâmetros dos Efeitos da Indústria 4.0 no Sistema Produtivo do Brasil e Comparar com os Efeitos Produzidos na Europa. O objetivo é propor ajustes no sistema produtivo brasileiro de maneira a não gerar impactos sociais e gerenciais graves para o país.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / ROBERTO KAOURU - Integrante.
+2016 - Atual
+Determinação das Características Inovadoras da ?Indústria 4.0? em Implantação na Europa, as Consequências para o Brasil e Propostas para Tornar a Indústria Nacional Competitiva
+Descrição: A Alemanha é um país com pequena produção de commodities por isto está desenvolvendo o projeto
+da ?Indústria 4.0? que consiste em uma nova concepção de fábrica automatizada que visa aumentar
+o dinamismo, atualizar e potencializar as capacidades industriais visando tornar o país muito
+competitivo no cenário internacional do século XXI. A implantação deste novo conceito de fábrica
+será facilitado devido às condições econômicas adequadas e excelentes universidades com domínio
+em Engenharia Eletrônica, Engenharia Mecânica e Engenharia de Computação além de milhares de
+indústrias instaladas no país cujas filiais se distribuem ao longo do mundo e que poderão absorver os
+produtos industrializados advindos do projeto da Indústria 4.0. Este projeto de pesquisa tem por
+objetivo determinar às características inovadoras em desenvolvimento no projeto da Indústria 4.0, as
+consequências decorrentes para o Brasil caso não se insira no projeto e propor meios para tornar a
+indústria brasileira competitiva considerando a importância do projeto de Indústria 4.0. Estudos
+apontam que o projeto de Indústria 4.0 poderá integrar rapidamente todos os setores da indústria,
+facilitar a operacionalização e alavancar de forma definitiva a indústria alemã, deixando o país em
+situação economicamente muito privilegiada em todo o mundo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / Taiara Turri Brufatto - Integrante.
+2014 - Atual
+Desenvolvimento de Circuito de Condicionamento de Sinais com CI FPGA para a Determinação do Teor de Umidade em Óleo Isolante de Transformador Utilizando Transdutor Capacitivo
+Descrição: Consiste em desenvolver um circuito eletrônico com FPGA com objetivo de tratar o sinal gerado em transdutor que mede o teor de umidade em óleo isolante.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Josivaldo Godoy da Silva - Coordenador / André da Costa Borges da Silva - Integrante / Danilo Egídius Buzeti Florido - Integrante.Financiador(es): Universidade Federal de Mato Grosso do Sul - Auxílio
+										financeiro.
+2013 - 2015
+Desenvolvimento de Supervisório Com Software Labview para  Monitorar e Analisar Sinal Gerado por Transdutores   de Temperatura Instalados em Motor-Gerador  Utilizado em Sistema de Geração  de  Energia Elétrica
+Descrição: Consiste em Desenvolver Supervisório Capaz  de Monitorar temperaturas de sensor do tipo Termopar instalados em sistema Moto-Gerador operando com biogás.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Josivaldo Godoy da Silva - Coordenador / André da Costa Borges da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1 / Número de orientações: 1

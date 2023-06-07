@@ -1,0 +1,99 @@
+2022 - Atual
+Medidor Ultrassônico De Vazão Bifásica
+Descrição: Desenvolvimento de processamento de sinais ultrassônicos por inteligência artificial para caracterização de escoamentos bifásicos líquido-gás.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Mauricio de Melo Freire Figueiredo - Integrante / Tiago Ferreira Souza - Integrante / Caio César Silva Araújo - Integrante.Financiador(es): Fundação de Desenvolvimento da Pesquisa - Auxílio
+										financeiro.
+2018 - Atual
+Desenvolvimento de Sistemas de Controle de Bombas Centrífugas Submersas com Base em Ultrassom.
+Descrição: Este projeto de pesquisa científica e tecnológica visa o desenvolvimento de estratégias de controle de bombas centrífugas submersas e, possivelmente, do escoamento a sua jusante. Para este fim, serão empregadas, além das medidas convencionais de pressão,
+medidas ultrassônicas do escoamento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Silva, Flávio V. - Integrante.Financiador(es): Petrobras S/A - Auxílio
+										financeiro.
+2018 - Atual
+Desenvolvimento de sistema de caracterização de emulsão em linha com base em ultrassom
+Descrição: Este projeto de pesquisa visa o desenvolvimento de um sistema de monitoramento de emulsões de água em óleo com base em medidas ultrassônicas para aplicação em tempo real em processos e em equipamentos da indústria petrolífera.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Silva, Flávio V. - Integrante / Luís Fernando Mercier Franco - Integrante.Financiador(es): Petrobras S/A - Auxílio
+										financeiro.
+2016 - 2020
+Desenvolvimento de um protótipo industrial de uma sonda ultrassônica para identificação do padrão de escoamento e determinação da fração de gás de escoamentos multifásicos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Ricardo Dias Martins Carvalho - Integrante / Mauricio de Melo Freire Figueiredo - Integrante.
+2016 - 2017
+Conferências Mundiais: Intelligent Systems and Control/ Modelling, Simulation and Identification
+Descrição: Auxílio à realização dos seguintes eventos mundiais no Centro de Convenções da Unicamp, de 16 a 18 de agosto de 2016:
+- The 6th IASTED International Conference on Intelligent Systems and Control (ISC2016);
+- The 6th IASTED International Conference on Modelling, Simulation and Identification (MSI2016).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (30)  / Mestrado acadêmico: (20)  / Doutorado: (10) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Roger Josef Zemp - Integrante / Vival do Silveira Junior - Integrante / José Vicente Hallak D'Angelo - Integrante / Fabio Delatore - Integrante / Flavio Vasconcelos da Silva - Integrante / Maurício Bezerra de Souza Jr - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2015
+Detecção de vazamentos em escoamentos de gás e determinação de padrões de escoamentos e da concentração de gás em escoamentos multifásicos por meio de medidas acústicas e redes neurais
+Descrição: Projeto de Pesquisador Visitante ao pós-doutorando Ricardo Carvalho. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Maria Frattini Fileti - Coordenador / Ricardo Dias Martins Carvalho - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+2012 - 2014
+Utilização da técnica ultra-sônica e de redes neurais para determinação da concentração das fases dispersas e detecção da configuração de escoamentos multifásicos representativos da indústria petrolífera
+Descrição: Universidades participantes: UNIFEI/Itajubá, UFTPR, CEPETRO/UNICAMP
+Valor: R$1.115.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (5)  / Doutorado: (4) . Integrantes: Ana Maria Frattini Fileti - Integrante / Antonio Carlos Bannwart - Coordenador / Ricardo Dias Martins de Carvalho - Integrante.Financiador(es): Petrobras S/A - Auxílio
+										financeiro.
+2012 - 2014
+Detecção e localização de vazamentos em um sistema de tubulação de transporte e/ou distribuição de gás utilizando método acústico e redes neurais artificiais
+Descrição: Processo no. 2011/23571-8. Valor: R$89.770,95. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Flavio Vasconcelos da Silva - Integrante / Rejane Barbosa Santos - Integrante / Wellick Sanches de Almeida - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2012 - 2014
+Estudo da redução do consumo de energia em sistemas de refrigeração via automação inteligente
+Descrição: Processo no. 484481/2011-8. Valor: R$ 49.900,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Flavio Vasconcelos da Silva - Integrante / Ivan Carlos Franco - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2011 - Atual
+Adequação de infra-estrutura do Laboratório de Controle e Automação de Processos
+Descrição: Edital PRP/PRPG - valor R$ 38.400,00. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Ana Maria Frattini Fileti - Coordenador.Financiador(es): FAEPEX/UNICAMP - Auxílio
+										financeiro.
+2010 - 2013
+Desenvolvimento de bioprocessos de compostos bioativos de interesse biotecnológico
+Descrição: Edital PROCAD (Novas Fronteiras 21/2009)  de cooperação acadêmica, envolvendo Univ. Fed. Rural de PE (resp.), Univ. Federal do PR e UNICAMP. Montante: R$75 mil/instituição/ano.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Integrante / Elias Basile Tambourgi - Integrante / Flavio Vasconcelos da Silva - Integrante / Keila Aparecida Moreira - Coordenador / Luciana Porto de Souza Vanderberghe - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2009 - 2011
+Controladores inteligentes aplicados a um processo de polimerização em batelada
+Descrição: Projeto FAPESP no. 2008-10710-7
+Valor R$ 93.380,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Flavio Vasconcelos da Silva - Integrante / Manuela dos Santos Leite - Integrante.Número de produções C, T & A: 4
+2008 - 2009
+Convênio UNICAMP/FUNCAMP/MONSANTO DO BRASIL LTDA.
+Descrição: Avaliação do destino ambiental do herbicida glifosato. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ana Maria Frattini Fileti - Integrante / Nadia Regina Rodrigues - Coordenador.Financiador(es): Monsanto do Brasil - Auxílio
+										financeiro.
+2007 - 2009
+Monitoramento on line e controle digital de reatores químicos. Aplicação em processo biotecnológico.
+Descrição: Edital Universal CNPq - Processo no. 477195/2007-5 - Valor R$49mil. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador / Roger Josef Zemp - Integrante / Flavio Vasconcelos da Silva - Integrante / Wagner Freitas Campos - Integrante / Tatiana Lie Fujiki - Integrante / Manuela dos Santos Leite - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2007 - 2008
+Melhoria de serviços de difusão de conhecimento prestados pelo CPQBA
+Descrição: Difusão de conhecimentos e melhoria de serviços de educação prestados pelo Centro de Pesquisas à comunidade. - Processo no. 2006/57329-0 - valor R$40mil. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Maria Frattini Fileti - Coordenador / Vera Lúcia Garcia Rehder - Integrante / Maria da Graça Stuppielo Andrieta - Integrante / Marta Cristina Teixeira Duarte - Integrante / Glyn Mara Figueira - Integrante / Marili Villanova Rodrigues - Integrante / Pedro Melillo Magalhães - Integrante / Valéria Maia Oliveira - Integrante / João Ernesto de Carvalho - Integrante / Nadia Regina Rodrigues - Integrante / Mary Ann Foglio - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2006 - 2009
+Desenvolvimento de Processos biológicos, moleculares e biotecnológicos
+Descrição: PROCAD envolvendo a Univ. Católica de Pernambuco e a UNICAMP. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (6) . Integrantes: Ana Maria Frattini Fileti - Integrante / Elias Basile Tambourgi - Integrante / Galba Maria Campos-Takaki - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2006 - 2008
+Controle via redes neurais de colunas de absorção do processo de produção de etanol por fermentação
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2006 - 2008
+Consolidação do programa de pós-graduação em ciências biológicas da UFPE: biotecnologia de produtos e processos de origem química, vegetal e microbiológica
+Descrição: Edital MCT/CNPq/CT-Infra 07/2006 - CASADINHO
+Processo: 620156/2006-6. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Maria Frattini Fileti - Integrante / Elias Basile Tambourgi - Integrante / Galba Maria Campos-Takaki - Integrante / Nelson Duran - Integrante / Sueli Lins Galdino - Coordenador / Luana Cassandra B. B. Coelho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2006
+Desenvolvimento de sensor ótico para monitoramento on line de bolhas em tubulações da indústria química
+Descrição: R$20mil. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2004
+Monitoramento e controle de reator em polimerização em batelada por computador on-line
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador.Financiador(es): Fundação de Apoio ao Ensino, Pesquisa e Extensão - Auxílio
+										financeiro.
+2001 - 2003
+DESTILAÇÃO EM BATELADA: AUTOMAÇÃO E CONTROLE AVANÇADO VISANDO MELHORIA OPERACIONAL
+Descrição: valor: R$10000,00. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1999 - 2001
+Monitoramento de  Reator de Polimerização em Batelada por Computador On-line
+Descrição: valor: R$30000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1998 - 1999
+Válvula Controladora de Vazão por Computador
+Descrição: valor: R$950,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Ana Maria Frattini Fileti - Coordenador.Financiador(es): Fundação de Apoio 'a Pesquisa - Auxílio
+										financeiro.
+1998 - 1999
+Controle de um processo de neutralização de pH por computador on-line
+Descrição: valor: R$2000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Ana Maria Frattini Fileti - Integrante / João Alexandre Ferreira da Rocha Pereira - Coordenador.Financiador(es): Fundação de Apoio 'a Pesquisa - Auxílio
+										financeiro.

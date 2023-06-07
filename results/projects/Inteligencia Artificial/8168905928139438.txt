@@ -1,0 +1,173 @@
+2023 - Atual
+AQUISIÇÃO DE IMAGENS TÉRMICAS E USO DE INTELIGÊNCIA ARTIFCIAL PARA A IDENTIFICAÇÃO PRECOCE DOCÂNCER DE MAMA
+Descrição: AQUISIÇÃO DE IMAGENS TÉRMICAS E USO DE INTELIGÊNCIA ARTIFCIAL PARA A IDENTIFICAÇÃO PRECOCE DOCÂNCER DE MAMA. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Gilmar Guimaraes - Coordenador / Ana Paula Fernandes - Integrante / Gabriela Lima Menegaz - Integrante / Juliano R Cunha - Integrante / Jeferson Gomes - Integrante / Iria Maria Previtali Fagiani - Integrante.
+2021 - Atual
+Desenvolvimento De Técnicas Em Problemas Inversos Para A Detecção De Cancer De Mama Através Da Identificação De Propriedades Mecânicas.
+Descrição: Programa Pesquisador Mineiro - PPM
+O desenvolvimento de técnicas de problemas inversos que sejam capazes da modelagem, da obtenção de campos térmicos e das taxas de calor envolvidas em vários processos de bioengenharia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2)  / Doutorado: (5) . Integrantes: Gilmar Guimaraes - Coordenador / Márcio Bacci da Silva - Integrante / Ana Paula Fernandes - Integrante / Cleudmar Amaral Araújo - Integrante / Alisson Augusto Azevedo Figueiredo - Integrante / Gabriela Lima Menegaz - Integrante / Henrique Fernandes - Integrante / Jefferson Gomes do Nascimento - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2021 - Atual
+PROBLEMAS INVERSOS APLICADOS EM ENGENHARIA BIOMECÂNICA, PROCESSOS DE FABRICAÇÃO E EM SUPERFÍCIE DE MATERIAIS
+Descrição: Esta pesquisa é voltada ao estudo de problemas inversos que possam ter aplicação imediata
+em problemas de Engenharia. São estudados problemas térmicos decorrentes do
+processo bioquímico existente no corpo humano e de processos de fabricação como corte
+ortogonal, furação, soldagem ou recozimento. Os interesses são voltados ao aquecimento
+não distribuído regularmente em uma mama devido a uma eventual atividade de células
+tumorais, ao alto aquecimento na interface de corte de um processo de corte ortogonal,
+furação ou de uma peça sendo tratada termicamente em um forno de recozimento. Em
+todos esses processos a previsão do comportamento térmico é essencial. Nesse caso,
+tem em comum o fato de estarem presentes no modelo térmico fontes de calor não conhecidas,
+comportando-se, assim, como um problema inverso. Um problema adicional
+e importante que surge na obtenção desses modelos é a necessidade de obtenção de
+propriedades térmicas dos diversos meios em estudo. Por exemplo, a obtenção de propriedades
+térmicas de tecidos epiteliais, de ferramentas de corte, revestidas ou não ou
+de peças presentes no interior de fornos. Ou seja, a identificação térmica de amostras
+condutoras, não condutoras, regulares e irregulares é também imprescindível ao sucesso
+de qualquer modelo térmico. Este projeto também propõe o desenvolvimento de técnicas
+inversas para a medição de propriedades térmicas dos meios sólidos envolvidos
+nos processos em estudo. Observa-se ainda que a identificação de propriedades térmicas
+de tecidos epiteliais como os da mama representa um desafio científico de grandes
+proporções, uma vez que a identificação in vivo é essencial para a obtenção de modelos
+térmicos do corpo humano confiáveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (5) . Integrantes: Gilmar Guimaraes - Coordenador / Ana Paula Fernandes - Integrante / Gabriela Costa de Oliveira - Integrante / Gabriela Lima Menegaz - Integrante / Eduardo Peixoto de Oliveira - Integrante / José Ricardo Ferreira Oliveira - Integrante / Jose Aguiar Santos Junior - Integrante / Guilherme Ramalho Costa - Integrante / Jefferson Gomes do Nascimento - Integrante / Vinicius Soares - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - 2022
+Desenvolvimento de Técnica Experimental Baseada em Impedância Téermica para a Detecção Precoce do Câncer de Mama
+Descrição: O câncer de mama é um problema de saúde pública e de maior incidência e mortalidade nas mulheres no mundo. A sua detecção precoce é, portanto, essencial para redução das morbidades e mortalidades associadas. 
+Alguns dos métodos usados para caracterizar tecidos e órgãos e possibilitar a detecção e diagnóstico de anomalias, como os tumores, são a ultrassonografia, a ressonância magnética (MRI), e o PET. 
+Estudos têm mostrado que a exposição ao raio X durante o exame pode, em alguns casos, induzir o aparecimento do câncer de mama nas mulheres radiografadas. A ressonância magnética necessita de um longo tempo de exame e requer imobilidade do paciente. Pacientes com implantes metálicos não podem se submeter a estes exames. Estas limitações são também observadas no PET, além do seu alto custo. 
+As imagens de ultrassom possuem a dificuldade de obter imagens em pacientes obesos. A mamografia é a mais usada embora possua emissão de raio X, não ser indicada para cadeirantes, anãs ou pacientes jovens.
+Pesquisadores demostraram a possibilidade de detecção de câncer de mama a partir de um aumento de temperatura da mama. 
+O método de impedância térmica proposto é baseado na relação entre o aquecimento imposto ao corpo e a consequente variação de temperatura provocada por esse aquecimento. 
+Propõe-se assim, o desenvolvimento de uma técnica alternativa de baixo custo, rápida, com baixa dependência de operador e que possa detectar possíveis tumores com alta eficiência e  sensibilidade no diagnóstico do câncer de mama. A técnica representa uma alternativa para o rastreamento de tumores em toda população.
+Ela deve permitir o atendimento de mulheres jovens, para as quais a mamografia não é indicada, mulheres cadeirantes, de baixa mobilidade, anãs, além da população de baixa renda. 
+Com um custo baixíssimo por paciente, a técnica tem o potencial de política pública preservando milhares de vidas e proporcionando uma economia substancial aos cofres públicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (5) . Integrantes: Gilmar Guimaraes - Coordenador / Gabriela Lima Menegaz - Integrante / Alisson Figueiredo - Integrante / Eduardo Peixoto - Integrante / José Ricardo Ferreira Oliveira - Integrante / Iago Smanio Saad - Integrante / Vinicius Soares - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 13 / Número de orientações: 1
+2014 - 2018
+DESENVOLVIMENTO DE TÉCNICAS DE PROBLEMAS INVERSOS PARA OBTENÇÃO DE CAMPOS TÉRMICOS: DETECÇÃO PRECOCE DE CANCER DE MAMA (IMAGENS TÉRMICAS) E DE TEMPERATURA NA INTERFACE DE CORTE DURANTE PROCESSOS DE FABRICAÇÃO
+Descrição: Esta pesquisa é voltada ao estudo de problemas inversos que possam ter aplicação imediata em problemas de Engenharia. São estudados problemas térmicos decorrentes do processo bioquímico existente no corpo humano e de processos de fabricação como corte ortogonal, furação, soldagem ou recozimento. O interesse específico é voltado ao aquecimento não distribuído regularmente em uma mama devido a uma eventual atividade de células tumorais, o alto aquecimento na interface de corte de um processo de corte ortogonal, furação ou de uma peça sendo tratada termicamente em um forno de recozimento. 
+Em todos esses processos a previsão do comportamento térmico é essencial. Nesse caso, tem em comum o fato de estarem presentes no modelo térmico fontes de calor não conhecidas, comportando-se, assim, como um problema inverso.
+Um problema adicional e importante que surge na obtenção desses modelos é a necessidade de obtenção de propriedades térmicas dos diversos meios em estudo. Por exemplo, a obtenção de propriedades térmicas de tecidos epiteliais, de ferramentas de corte, revestidas ou não ou de peças presentes no interior de fornos. Ou seja, a identificação térmica de amostras condutoras, não condutoras, regulares e irregulares é também imprescindível ao sucesso de qualquer modelo térmico. Este projeto também propõe o desenvolvimento de técnicas inversas para a medição de propriedades térmicas de meios sólidos envolvidos nos processos em estudo.
+Observa-se ainda que a identificação de propriedades térmicas de tecidos epiteliais como os da mama representa um desafio científico de grandes proporções, uma vez que a identificação in vivo é essencial para a obtenção de modelos térmicos do corpo humano confiáveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (6)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Priscila Ferreira Barbosa de Souza - Integrante / Márcio Bacci da Silva - Integrante / Ana Paula Fernandes - Integrante / Cleudmar Amaral Araújo - Integrante / Alisson Augusto Azevedo Figueiredo - Integrante / Gabriela Lima Menegaz - Integrante / Henrique Fernandes - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2016
+Desenvolvimento De Técnicas De Problemas Inversos  Envolvendo Soluções Analíticas, Observadores Dinâmicos E  Imagens Termográficas. Aplicação Em Processos De  Fabricação E Biomecânica
+Projeto certificado pelo(a) coordenador(a) Ana Paula Fernandes em 23/04/2014.
+Descrição: O objetivo principal deste projeto é o desenvolvimento de técnicas de problemas inversos que sejam capazes da modelagem e da obtenção de campos térmicos e das taxas de calor envolvidas em vários processos de engenharia ou bioengenharia. A obtenção, identificação destes campos térmicos permitem assim, a economia de energia, o aumento e melhoria na qualidade de produção dos diversos processos envolvidos e a possível previsão de doenças devido à variação de temperatura corporal.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Ana Paula Fernandes - Integrante / Cleudmar Amaral Araújo - Integrante / Luís Henrique da Silva Ignacio - Integrante / Gabriela Lima Menegaz - Integrante.Financiador(es): (FAPEMIG) Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2013 - 2015
+Graphene Suspensions as High-Performance Metalworking Nanofluids for Advanced Manufacturing
+Descrição: The goal of this work is to study colloidal suspensions of graphene as advanced metalworking fluids. High performance machining involves extreme cutting temperatures and high-strain-rate deformations that not only limit the machining speed and life of the tool, but can also limit the life-cycle of the machined part by inducing thermal damage and residual stresses.
+The collaborative effort of both Universities can bring great advantages not only for this specific research project but also as a means to share knowledge in the area of heat transfer in machining, inverse problems or Nano fluids. The opportunities of establishing contacts among professors and graduate students certainly will bring future benefits.
+This project certainty will be inserted in scope of the Graduate Program of Mechanical Engineering at Federal University as research activities of doctorate or master students.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Márcio Bacci da Silva - Integrante / Jerry W. San - Integrante.
+2010 - 2012
+ESTUDO DE CAMPOS TÉRMICOS EM PROCESSOS ENVOLVENDO ALTAS TEMPERATURAS
+Descrição: Esta pesquisa é voltada ao estudo de problemas inversos que possam ter aplicação imediata em problemas de Engenharia. A abordagem principal representada pela modelagem térmica dos diversos problemas é, de fato, a interface que une estas aplicações. Esta interface se dá pelo estabelecimento particular de um problema térmico decorrente de um processo de fabricação que pode ser: um processo de usinagem ortogonal, um processo de furação, uma peça sendo tratada termicamente em um forno de recozimento.
+Todos estes processos ocorrem à alta temperatura e tem em comum a necessidade de se estabelecer o modelo térmico. Possuem em comum, ainda, a característica de se comportarem como um problema inverso, na medida que o calor imposto, gerado, ou consumido não são conhecidos e portanto de obtenção não trivial.
+Um problema adicional importante que surge na obtenção desses modelos é a necessidade de obtenção ou o uso de propriedades térmicas dos diversos meios em estudo como: ferramentas de corte, revestidas ou não. Assim, a identificação térmica de amostras condutoras, não condutoras, regulares e irregulares são também imprescindíveis ao sucesso de qualquer modelo térmico.
+Portanto, o objetivo principal deste projeto é o desenvolvimento de técnicas de problemas inversos que sejam capazes da modelagem e da obtenção de campos térmicos e das taxas de calor envolvidas em vários processos de engenharia sujeitos a alta temperatura. A obtenção, identificação destes campos térmicos permitem assim, a economia de energia, o aumento e melhoria na qualidade de produção dos diversos processos envolvidos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Márcio Bacci da Silva - Integrante / Ana Paula Fernandes - Integrante / Sousa, Priscila F.B. - Integrante / Borges, Valerio L. - Integrante / Fernando Costa Malheiros - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+USO DE SOLUÇÕES ANALÍTICAS NO DESENVOLVIMENTO DE NOVAS TÉCNICAS DE PROBLEMAS INVERSOS EM CONDUÇÃO DE CALOR
+Descrição: Esta pesquisa é voltada ao estudo de problemas inversos que possam ter aplicação imediata em problemas de Engenharia. Qualquer processo térmico tem a necessidade de se estabelecer o modelo térmico. Problemas térmicos decorrentes de processo de usinagem tem ainda a característica de se comportar como um problema inverso, na medida que o calor imposto, gerado, ou consumido não é conhecido e portanto de obtenção não trivial.
+Um problema adicional importante que surge na obtenção desses modelos é a necessidade de obtenção ou o uso de propriedades térmicas dos diversos meios em estudo como: ferramentas de corte, revestidas ou não, ou a identificação de um meio.  Assim, a identificação térmica de amostras condutoras, não condutoras, regulares e irregulares são também imprescindíveis ao sucesso de qualquer modelo térmico.
+Portanto, o objetivo principal deste projeto é o desenvolvimento de técnicas de problemas inversos que sejam capazes da modelagem e da obtenção de campos térmicos e das taxas de calor envolvidas em vários processos de engenharia sujeitos a alta temperatura. A obtenção, identificação destes campos térmicos permitem assim, a economia de energia, o aumento e melhoria na qualidade de produção de processo de usinagem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilmar Guimaraes - Coordenador / Priscila Ferreira Barbosa de Souza - Integrante / Márcio Bacci da Silva - Integrante / Ana Paula Fernandes - Integrante / Borges, Valerio L. - Integrante.
+2008 - 2010
+Desenvolvimento de modelos e técnicas experimentais em transferência de calor a serem aplicados em processos de fabricação envolvendo altas temperaturas e bioengenharia
+Descrição: 1.	Desenvolvimento de técnicas de problemas inversos para a determinação do  campo de temperatura na superfície de corte de ferramentas de usinagem. Investigação dos efeitos dos diversos suportes de ferramenta com o objetivo específico de economia de energia e redução no tempo de vida das ferramentas.
+2.	Investigação de problemas térmicos em processos de furação. Neste caso, o processo de furação pode também ser estendido a problemas de biomecânica como o caso da perfuração óssea de um fêmur ou a perfuração para um implante dentário.
+3.	Identificação da frente de soldagem e controle da profundidade de penetração de solda em tempo real através da técnica de problemas inversos em transferência de calor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador.Financiador(es): CAPES/MEC/PNPD - Auxílio
+										financeiro.
+2007 - 2009
+ESTUDO DE PROBLEMAS TÉRMICOS ENVOLVENDO PROCESSOS DE FURAÇÃO, SOLDAGEM E IDENTIFICAÇÃO DE PROPRIEDADES TÉRMICAS DE METAIS
+Descrição: Projeto - Edital  IC - CNPq 501732/2007-1 Valor - 21 600 Reais - Bolsa de IC. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gilmar Guimaraes - Coordenador / Sidney Araujo Mendonça - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+DESENVOLVIMENTO DE TÉCNICAS DE OTIMIZAÇÃO E PROBLEMAS INVERSOS EM CONDUÇÃO DE CALOR: APLICAÇÃO NO ESTUDO DE CAMPOS TÉRMICOS EM FERRAMENTAS DE USINAGEM E PROCESSOS DE SOLDAGEM - CNPQ304176/2006-0
+Descrição: CNPQ304176/2006-0 - Bolsa de Produtividade 
+Valor 75 576,00 Reais - 36 meses. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Gilmar Guimaraes - Coordenador / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante / Valtair A Ferraresi - Integrante / Priscila Ferreira Barbosa de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+2007 - 2009
+APLICAÇÃO DE PROBLEMAS INVERSOS EM BIOENGENHARIA: ESTUDO DE PROCESSOS TÉRMICOS DECORRENTES DA FURAÇÃO EM OSSOS FAPEMIG ? Tec 3366/07
+Descrição: ESTUDO DE PROCESSOS TÉRMICOS DECORRENTES DA FURAÇÃO EM OSSOS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Gilmar Guimaraes - Coordenador / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante / Priscila Ferreira Barbosa de Souza - Integrante / Ana Paula Fernandes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 7
+2007 - 2008
+Projeto - Bolsas no Exterior / Doutorado Sanduíche - SWE - CNPq-Florida International University-UFU
+Descrição: Projeto com a participação do Prof. George S Dulikravich
+Proc. - CNPq - 201559/2007-2
+Valor total - 46.194,40 Reais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Gilmar Guimaraes - Coordenador / Priscila Ferreira Barbosa de Souza - Integrante / George S. Dulikravich - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2008
+Desenvolvimento de Técnicas Experimentais para Aplicação na Análise Térmica de Processos de Solgagem e Usinagem.Edital Universal - FAPEMIG -
+Descrição: Edital Universal Fapemig
+Valor = 30 000 reais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Cristiene Vasconcleos Gonçalves - Integrante / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2006 - 2007
+Projeto FAPEMIG - Pós-doutorado Jr. I - Dra. Cristiene V. Gonçalves
+Descrição: Problemas Inversos Em Transferencia De Calor Com Fronteira Móvel: Aplicação Em Processos De Soldagem
+Vigência: 11/2006 ? 10/2007
+valor 48 000,00 Reais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Gilmar Guimaraes - Coordenador / Cristiene Vasconcleos Gonçalves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2005 - 2007
+Determinação dos Campos Térmicos em Processos de Usingaem e Identificação de Propriedades Termofísicas de Ferramentas de Corte
+Descrição: O Objetivo principal desse projeto é o desenvolvimento das técnicas de problemas inversos e determinação de propriedades termofísicas para a obtenção final da distribuição de temperatura e geração de calor que ocorrem em processos de usinagem. Proc. 507454/2004-9 Inicio 01/01/2005
+Bolsa DTI - Valor: 88 987,32 reais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Alisson Rocha Machado - Integrante / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante / Priscila Ferreira Barbosa de Souza - Integrante / Márcio Bacci da Silva - Integrante / Ana Paula Fernandes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2004 - 2005
+Infraestrutura de Apoio Técnico ao Laboratório de Transferência de Calor e Massa e Dinâmica dos Fluidos - LTCM
+Descrição: Apoio Técnico ao Laboratório em projetos de pesquisa
+	
+Todas as atividades relacionadas a confecção de bancadas experimentais e execução de experimentos deverão ser executadas com o apoio do Técnico Benedito dos Reis Caetano.
+	Por exemplo, 
+	1 - confecção (usinagem) de amostras de aço 
+	2 - construção de bancadas para a medição de propriedades térmicas
+	2 - construção de suporte para usinagem
+	3 - construção de suportes para a soldagem
+	4 - execução de testes de usinagem
+	5 - execução de testes de soldagem. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Gilmar Guimaraes - Coordenador / Alisson Rocha Machado - Integrante / Américo Scotti - Integrante / Márcio Bacci da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2003 - 2003
+Desenvolvimento de Modelo Matemático e Implementação Computatacioanl do Forno Rb2  - Projeto ACESITA/UFU
+Descrição: Desenvolvimento de um modelo matemático e implementação computacional de um progrma numérico para controle de fum forno de recozimento:Forno RB2 - Acesita. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Solidônio R Carvalho - Integrante.Financiador(es): Acesita Energética (Florasa) - Cooperação.Número de produções C, T & A: 2
+2002 - 2004
+Desenvolvimento De Técnicas De Otimização E Problemas Inversos Em Condução De Calor: Aplicação No Estudo De Campos Térmicos Em Ferramentas De Usinagem E Processos De Soldagem - CNPq - Proc. Nro. 523122/95 - 0
+Descrição: Estudo de problemas Inversos decorrentes de processos de usinagem e soldagem.
+Investigação de propriedades térmicas em materiais metálicos e não metálicos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Cristiene Vasconcleos Gonçalves - Integrante / Alisson Rocha Machado - Integrante / Aristeu da Silveira Neto - Integrante / Sandro M M Lima e Silva - Integrante / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 14
+2002 - 2004
+Desenvolvimento de Técnicas de Problemas Inversas em Transferência de  Calor: Aplicação em Processos de Usinagem e Soldagem - CNPq - 471680/2001-0
+Descrição: Objetivo principal:
+Desenvolver técnicas de problemas inversos para a determinação do campo de temperatura na superfície de corte de ferramentas de usinagem e investigar as fontes de geração de calor nas regiões primárias e secundárias na peça e ferramenta de usinagem. 
+Identificação da frente de soldagem e controle da profundidade de penetração de solda em tempo real através da técnica de problemas inversos em transferência de calor.
+Obtenção do fluxo de calor liberado e da distribuição de temperatura em um processo de soldagem MIG/MAG com pulsação térmica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / S. Gutts - Integrante / Alisson Rocha Machado - Integrante / Aristeu da Silveira Neto - Integrante / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante / Américo Scotti - Integrante / Juscelino Moura Americano - Integrante / Priscila Ferreira Barbosa de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 12
+2000 - 2002
+Determinação da Temperatura de Corte num Processo de Usinagem Usando Problemas Inversos - FAPEMIG/UU TEC1228/98
+Descrição: Desenvolvimento  de técnicas de otimização e problemas inversos para aplicação no estudo de campos térmicos decorrentes de processos de usinagem e soldagem.
+Desenvolvimento de tecnicas de estimativas de parâmetros para a identificação de propriedades térmicas de materiais metálicos e não metálicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Gilmar Guimaraes - Coordenador / Sandro M M Lima e Silva - Integrante / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 14
+2000 - 2002
+Desenvolvimento de Técnicas de Otimização e Problemas Inversos em Condução de Calor para a Aplicação no Estudo de Campos Térmicos em Ferramentas de Usinagem
+Descrição: Desenvolvimento  de técnicas de otimização e problemas inversos para aplicação no estudo de campos térmicos decorrentes de processos de usinagem e soldagem.
+Desenvolvimento de tecnicas de estimativas de parâmetros para a identificação de propriedades térmicas de materiais metálicos e não metálicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Gilmar Guimaraes - Coordenador / Cristiene Vasconcleos Gonçalves - Integrante / Aristeu da Silveira Neto - Integrante / Sandro M M Lima e Silva - Integrante / Solidônio R Carvalho - Integrante / Valério Luis Borges - Integrante / Américo Scotti - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 19
+1998 - 2000
+Desenvolvimento de Técnicas de Problemas Inversos e Otimização em Estimação de Parâmetros Termofísicos - CNPq - Proc. Nro. 523122/95 - 0
+Descrição: Desenvolvimento  de técnicas de otimização e problemas inversos para aplicação no estudo de campos térmicos decorrentes de processos de usinagem e soldagem.
+Desenvolvimento de tecnicas de estimativas de parâmetros para a identificação de propriedades térmicas de materiais metálicos e não metálicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Cristiene Vasconcleos Gonçalves - Integrante / E. F. Barbosa - Integrante / Ricardo Fortes de Miranda - Integrante / Alexandre Roberto de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 20
+1998 - 1998
+Desenvolvimento de Software para Aplicação em Isolamento Térmico - REENGE/CAPES
+Descrição: Desenvolvimanto de software para aplicação em isolamento termico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Alexander  Bento Melo - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 2
+1996 - 1998
+Obtenção de campos térmicos na interface peça/ferramenta durante um processo  de usinagem  - FAPEMIG . Nro. 1304/95
+Descrição: Obtenção de campos térmicos na interface peça/ferramenta durante um processo de usinagem. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Alisson Rocha Machado - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 14
+1996 - 1998
+Desenvolvimento De Técnicas De Problemas Inversos Em Condução De Calor Para A Aplicação No Estudo De Campos Térmicos Em Ferramentas De Usinagem - CNPq - Proc. Nro. 523122/95 - 0
+Descrição: Estudo de campos térmicos em ferramentas de usinagem e desenvolvimento de técnicas de estimativas de par6ametros. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Sandro M M Lima e Silva - Integrante / Lúcio Guimarães dos Reis - Integrante / Leonardo Caixeta de Castro Maia - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 13
+1994 - 1996
+Desenvolvimento de Técnicas Transientes para a Determinação de Condutividade térmica, Difusividade Térmica e Calor Específico de materiais não Metálicos - CNPq - Proc. Nro. 521212/EM/NV-6
+Descrição: Desenvolvimento de tecnicas de estimativas de parâmetros para a identificação de propriedades térmicas de materiais não metálicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Ricardo Fortes de Miranda - Integrante / Luisa Maria Caleiro Acerbi - Integrante / Antõnio Carlos Ferreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 10
+1989 - 1990
+Desenvolvimento de Trandutor de Fluxo de calor Baseado em Filmes de Níquel - CNPq  -  Proc . Nro 404 281/88-5/EM/FV/PQ
+Descrição: Desenvolvimento de um transdutor de fluxo de calor. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Lutero Carmo de Lima - Integrante / Ricardo Fortes de Miranda - Integrante / Antõnio Carlos Ferreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+1987 - 1988
+Construção e Avaliação de um Dispositivo de Placa Quente Compensada - CNPq  -  Proc. Nro 402070/87.9/EM/FV
+Descrição: desenvolvimento de um dispositivo de Placa quente compensada
+para obtenção da condutividade térmica de materiais não metálicose calibração de trasndutores de fluxo de calor. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Ricardo Fortes de Miranda - Integrante / Antõnio Carlos Ferreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1987 - 1988
+Desenvolvimento, Construção e Avaliação de uma Câmara Quente protegida CNPq - Proc. Nro 402071/87.5/EM/FV
+Descrição: Desenvolvimento de uma câmara quente protegida para a obtenção de coeficiente de película. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilmar Guimaraes - Coordenador / Ricardo Fortes de Miranda - Integrante / Antõnio Carlos Ferreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1

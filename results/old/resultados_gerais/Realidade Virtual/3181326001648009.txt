@@ -1,0 +1,5 @@
+2010 - 2013
+REGULADOR DE TENSÃO COM COMUTADOR ELETRÔNICO DE TAP (RECETII)
+Descrição: O objetivo deste projeto é o desenvolvimento de um Regulador de Tensão com Comutador Eletrônico de TAP baseado em unidades monofásicas, operando em média tensão (7.967 kV) para nível de corrente nominal (220 A). O circuito de comutação do regulador de tensão desenvolvido será baseado em semicondutores de potência (tiristores), tendo uma resposta em meio ciclo de onda (aproximadamente 8ms), muito superior ao tempo de resposta dos reguladores convencionais (8 segundos). O novo regulador poderá ainda comutar taps de forma não sequencial, fato que não ocorre nos reguladores convencionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Vitor Lemos Maia - Integrante / Mauricio Aredes - Coordenador / Mauro Sandro dos Reis - Integrante / Thiago Americano do Brasil - Integrante.Financiador(es): Bandeirante Energia - Auxílio
+										financeiro / ITB Equipamentos Elétricos - Cooperação / EDP Escelsa - Auxílio
+										financeiro.Número de produções C, T & A: 2 / Número de orientações: 2

@@ -1,0 +1,29 @@
+2020 - Atual
+Câmara Técnica de Tecnologia da Informação para monitoramento do Sars-Cov-2 (Covid 19)
+Descrição: Tem por objetivo elaborar plataformas computacionais para a geração de informações. Para tal, foi implementado um site onde se pode visualizar vários mapas e gráficos com atualizações em tempo real. As informações contidas no site registram também parte importante do trabalho do Comitê Técnico, Científico e Multidisciplinar de Assessoramento.
+Para tal, utiliza-se ferramentas de extração de dados baseadas em técnicas de Inteligência Artificial, mais precisamente o Pentaho. Na geração de mapas e gráficos está sendo utilizado o datawrapper.
+Pretende-se melhorar o site com outras metodologias tecnológicas para extração, tratamento e geração de informações. Bem como criar outras formas de acessar e transformar informações.
+http://covid.mucuri.ufvjm.edu.br/. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Lorena Sophia Campos de Oliveira - Coordenador / Wallinson Oliveira Schutte - Integrante / Luiz Fernando Alves Souza - Integrante / Francis Bento Marques - Integrante.
+2012 - Atual
+Desenvolvimento de um Sistema de Aurxílio ao Diagnóstico de Câncer de Mama Utilizando Redes Bayesianas
+Descrição: O trabalho visa, em primeiro lugar, o desenvolvimento de um formalismo matemático flexível de análise Câncer de Mama. Este proposta pretende também explorar de maneira original competências na área médica e tecnológica, tendo em vista a melhoria na qualidade dos serviços médicos. Fazendo com que o bolsista conheça e aprenda a trabalhar com temas interdisciplinares.
+O embasamento tecnológico utilizado para esta melhoria é o apoio de mecanismos da Inteligência Artificial, utilizados no sentido de formalizar as propriedades do conhecimento, isto é, aplicar os fundamentos de Redes Bayesianas, permitindo uma representação gráfica interativa.
+Com a implantação, de Redes Baysianas no diagnostico, pretende-se criar uma ferramenta de classificação. Com o intuito de auxiliar especialistas na decisão de fazer ou não uma biópsia, pois esse procedimento é bastante invasivo e pode causar danos físicos e psicológicos no paciente. É importante ressaltar que a necessidade de outras classificações referentes ao CM podem surgir no decorrer do trabalho.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Lorena Sophia Campos de Oliveira - Coordenador / Fernando Loopes Almeida - Integrante.
+2011 - Atual
+Grupo de Estudos e Pesquisa Aplicada do Mucuri (GEPAM)
+Descrição: http://dgp.cnpq.br/dgp/espelhogrupo/5762657165000789. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Lorena Sophia Campos de Oliveira - Integrante / Rodrigues, Jaior Lisboa - Coordenador / Jaqueline Silva - Integrante / Marcio Pereira - Integrante / Cezar Welter - Integrante / Deborah Farago Jardim - Integrante / Leandro Baroni - Integrante / Ronaldo Serafim Abreu Silva Manchester - Integrante.
+2011 - Atual
+INTELIGÊNCIA ARTIFICIAL: APLICAÇÃO DE REDES BAYESIANAS NO AUXÍLIO A DIAGNÓSTICO CARDÍACO
+Descrição: O trabalho visa, em primeiro lugar, o desenvolvimento de um formalismo matemático flexível de análise de ECG ambulatorial bem como outros trabalhos realizados pelo Grupo de Estudos e Pesquisa Aplicada do Mucuri GPAM, do departamento ICTM da UFVJM.  Essa proposta apresentará duas aplicações principais: 
+i) Telemedicina: o tele-monitoramento da atividade elétrica do coração, essa investigação científica será empregada no problema de auxílio ao diagnóstico médico e classificação de arritmias cardíaca observadas no ECG;
+ii) Pesquisa: a análise automática do ECG é uma linha de pesquisa onde o destaque é o estudo e implementação de um formalismo envolvendo o processamento de sinais ECG e a segmentação e classificação do batimento cardíaco. Tais trabalhos, desenvolvidos inicialmente em MATLAB©, irão se beneficiar da presente proposta e os resultados alcançados serão pouco a pouco integrados ao sistema desenvolvido.   
+Este proposta pretende também explorar de maneira original competências na área médica e tecnológica, tendo em vista a melhoria na qualidade dos serviços médicos. Fazendo com que o bolsista conheça e aprenda a trabalhar com temas interdisciplinares.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Lorena Sophia Campos de Oliveira - Coordenador / André Maciel - Integrante.Número de produções C, T & A: 3
+2008 - 2012
+QuoVadis project
+Descrição: QuoVadis project (funded by ANR-Ministère de la Recherche) whose one the goals is to propose an automatic ECG pathology detector taking part of the whole vital/emergency embedded system used so far for the patient at home. This project is also linked to a more general one dealing with a patient?s Televigilance platform  already working at the EPH department (TeleMeDom project based on two national funded and one European-funded RTD prejects).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lorena Sophia Campos de Oliveira - Integrante / Jerome Boudy - Coordenador.
+2008 - 2010
+Grupo de Pesquisa Processamento de Sinais e Telemedicina
+Descrição: http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=3873304ISZ83CK. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lorena Sophia Campos de Oliveira - Integrante / Rodrigo Varejão Andreão - Coordenador.
+1998 - 1999
+Agente Eagle
+Descrição: Projeto sobre Agentes na Educação, aprofundado posteriormente na Proposta de Tese de Doutorado do Professor José Carlos Tavares da PUC-Rio no projeto AulaNET).Projeto sobre Agentes Inteligêntes de Software na Internet (especificamente em softwares de busca).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lorena Sophia Campos de Oliveira - Integrante / José Carlos Tavares - Coordenador.Financiador(es): Universidade Católica de Petrópolis - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

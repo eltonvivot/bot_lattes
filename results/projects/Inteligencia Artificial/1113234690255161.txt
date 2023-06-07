@@ -1,0 +1,14 @@
+2009 - Atual
+INSTITUTO NACIONAL DE CIÊNCIA E TECNOLOGIA NAMITEC
+Descrição: O projeto (INCT NAMITEC) tem como objetivo principal realizar pesquisa e desenvolvimento em sistemas micro e nanoeletrônicos integrados inteligentes, que propiciem a realização de sistemas eletrônicos autônomos tais como redes de sensores inteligentes, sistemas embarcados e sistemas auto-ajustáveis, com várias aplicações em potencial, em particular em agricultura de precisão, no controle ambiental, em energia, na instrumentação biomédica, na indústria automotiva e aeroespacial e nas telecomunicações. 
+	Dentro desse contexto listamos os seguintes objetivos:
+?	Pesquisar e desenvolver sistemas em chip e sistemas de redes de sensores.
+?	Pesquisar e desenvolver metodologias e ferramentas de projeto e teste de circuitos integrados com baixo consumo de potência, tolerantes a falhas, incluindo circuitos analógicos, RF, digitais e sensores embarcados, bem como circuitos integrados com dispositivos nanoeletrônicos.
+?	Pesquisar e desenvolver dispositivos micro e nanoeletrônicos, fotônicos e optoeletrônicos, orgânicos, MEMS e NEMS e seus processos de integração e encapsulamento.
+?	Pesquisar materiais e técnicas de micro e nanofabricação necessários para a fabricação dos dispositivos e circuitos integrados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jose Camargo da Costa - Coordenador / J. G. GUIMARÃES - Integrante / Sandro Augusto Pavlik Haddad - Integrante / Ricardo Pezzuol Jacobi - Integrante / Jacobus Willibrordus Swart - Integrante / A. Romariz - Integrante / José Edil G. Medeiros - Integrante / STEFAN BLAWID - Integrante / ARTEMIS MARTI CESCHIN - Integrante.
+2005 - 2009
+DESENVOLVIMENTO DE GERADOR INTEGRADO DE NÚMEROS ALEATÓRIOS PARA APLICAÇÕES EM CRIPTOGRAFIA
+Descrição: Neste projeto foi implementado um circuito integrado para a geração de números aleatórios (RNG), o qual possa ser associado a um sistema eletrônico capaz de gerar e interpretar códigos digitais com segurança e confiabilidade.Foram investigados os processos de transporte de carga através de barreiras de potencial com dimensões nanométricas ( < 10,0 nm ) com comportamento aleatório bem como os processos de transporte de carga através de barreiras de potencial em junções semicondutoras.
+Os dispositivos de geração e os circuitos de conformação de sinal foram implementados em um mesmo C.I. monolítico em tecnologia CMOS , assim como circuitos de interfaceamento com um um processador digital, externo ao gerador de números aleatórios.
+O projeto foi desenvolvido em parceria com a empresa ZTEC, especializada em Sistemas de Comunicações e em equipamentos para a Segurança de Comunicações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Jose Camargo da Costa - Coordenador.Financiador(es): Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio
+										financeiro.Número de orientações: 1

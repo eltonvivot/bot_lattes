@@ -1,0 +1,25 @@
+2017 - Atual
+Desenvolvimento e aplicações dos modelos aditivos generalizados para locação, escala e forma
+Projeto certificado pelo(a) coordenador(a) Luiz Ricardo Nakamura em 09/04/2017.
+Descrição: Em todos os campos da ciência e tecnologia, a quantidade de dados vem crescendo rapidamente e analisá-los de maneira adequada tornou-se mais desafiador do que nunca. Comumente, os conjuntos de dados apresentam uma variável resposta univariada que pode ser explicada por uma ou mais variáveis explicativas. Em geral, esse tipo de problema é estudado por meio de modelos de regressão linear e não-linear clássicos e/ou modelos lineares generalizados (GLM) quando a normalidade da variável resposta não é constatada. Em alguns casos um pouco mais complexos, em que não só a variação residual deve ser considerada como uma variável aleatória, utilizam-se ainda os modelos lineares generalizados mistos (GLMM). Uma outra abordagem bastante utilizada são os modelos aditivos generalizados (GAM) e os modelos aditivos generalizados mistos (GAMM) que são um pouco mais flexíveis o GLM e o GLMM pois consideram funções não-paramétricas em seus modelos. Dois grandes problemas dos modelos supracitados são: i) a variável resposta, necessariamente, deve ser modelada por uma distribuição pertencente à família exponencial (no caso dos modelos de regressão linear e não-linear clássicos, a resposta sempre segue uma distribuição normal) e ii) apenas os parâmetros referentes à média e à variância (o segundo de maneira indireta) são modelados, ou seja, em casos em que são observados não somente problemas com a heterogeneidade dos dados como, por exemplo, dados extremamente assimétricos e/ou com curtose muito baixa ou alta, os GLM, GLMM, GAM e GAMM talvez não sejam as melhores opções disponíveis. Nesse contexto, os modelos aditivos generalizados para locação, escala e forma (GAMLSS) são uma interessante alternativa, uma vez que extinguem a pressuposição de que a variável resposta segue uma distribuição pertencente à família exponencial e é capaz de modelar todo e qualquer parâmetro da referida distribuição por meio de funções paramétricas e não-paramétricas. Este projeto tem como objetivos desenvolver métodos e ferramentas estatísticas para a análise de dados que necessitem da grande flexibilidade disponibilizada pelos modelos GAMLSS. Esses métodos serão implementados em funções para o software R, para que estejam disponíveis gratuitamente aos pesquisadores interessados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Ana Julia Righetto - Integrante / Luiz Ricardo Nakamura - Coordenador / Clarice Garcia Borges Demétrio - Integrante / Thiago Gentil Ramires - Integrante / Dimitrios Mikis Stasinopoulos - Integrante / Robert Albert Rigby - Integrante / Gustavo Thomas - Integrante.
+2013 - 2017
+The impact of choosing different meshes under INLA/SPDE  framework for geostatistical modelling
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Julia Righetto - Integrante / Paulo Justiniano Ribeiro Jr - Coordenador / Christel Faes - Integrante.
+2010 - 2013
+Avaliação de modelos geoestatísticos multivariados
+Descrição: Compreender a distribuição espacial de dados provenientes de fenômenos
+ocorridos no espaço, constitui um grande desafio para esclarecer questões centrais em
+diversas áreas do conhecimento, seja na parte do ambiente, de geologia, na agronomia,
+entre tantas outras áreas. Muitas vezes o interesse do pesquisador não está em apenas
+uma variável mas em estudar duas ou mais variáveis e desta forma, tem-se dois ou mais
+atributos para modelar. Ocorrendo evidências de que esses processos não são independen-
+tes e existindo explicação prática para isto, modelos multivariados devem ser propostos
+para o estudo. Neste trabalho, com enfase em metodologias de modelo multivariados
+estudou-se o Modelo Linear de Corregionalização, o modelo bivariado gaussiano de
+componente comum, modelo com métodos Bayesianos e um novo modelo proposto por
+Schlather, Gneiting & Kleiber (2011) denominado de Modelo Matérn Multivariado. Este
+último modelo foi programado no software R e um estudo de simulação foi realizado
+com esta programação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Ana Julia Righetto - Integrante / Paulo Justiniano Ribeiro Jr - Coordenador.
+2008 - 2009
+Análise de Regressão Linear: Abordagem Tradicional e Espacial em um Estudo de Caso.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Julia Righetto - Integrante / Vilma Mayumi Tachibana - Coordenador.

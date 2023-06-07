@@ -1,0 +1,29 @@
+2021 - Atual
+Desenvolvimento de Sistema de Segurança para Veículo Autônomo em Aplicação Agrícola
+Descrição: Este projeto está ligado ao programa federal ROTA 2030, suportado pelo Ministério da Ciência e Tecnologia, e tem por objetivo aumentar a competitividade do setor automotivo brasileiro nas áreas de desenvolvimento tecnológico de produto, inovação e capacitação de recursos humanos. E um dos grandes pilares do desenvolvimento no Brasil está na área de transporte pesado, principalmente  no off road (agrícola e mineração). Este projeto objetiva desenvolver métodos de validação e confiabilidade de sensores nos ambientes off-road, bem como o desenvolvimento de algoritmos de controle autônomo de um caminhão para operar na colheita de cana de açúcar. O trabalho é conduzido em parceria com UFABC, USP POLI e as empresas Mercedes Benz, Bosch e Grunner.
+ACORDO DE PARCERIA 27192.02.01/2021.02.00 - FUNDEP / 2021. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Edson Caoru Kitani - Coordenador / Marco Aurélio Froes - Integrante / Weslley Medeiros Torres - Integrante.Financiador(es): Fundação de Desenvolvimento da Pesquisa - Auxílio
+										financeiro.
+2016 - Atual
+Veículo Elétrico Autônomo
+Descrição: Projeto de pesquisa para implementar um veículo elétrico autônomo e fornecer uma plataforma de ensino e pesquisa para os graduandos do curso de Eletrônica Veicular e formentar também interesses no desenvolvimento de pesquis em Machine Learning e Deep Learning.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Edson Caoru Kitani - Coordenador / Fabio Delatore - Integrante / Weslley Medeiros Torres - Integrante.
+2016 - Atual
+Futuro da Mobilidade Urbana com Veículos Autônomos
+Descrição: Este projeto de pesquisa objetiva estudar os impactos do novo modal de mobilidade urbana baseado nos Veículos Autônomos. Procura-se compreender como adequar a sociedade a essa nova tendência mundial que cresce rapidamente e pode chegar ao Brasil por volta de 2020. Pretende-se estudar e modelar o comportamento do motorista urbano brasileiro e estudar a interação do veículos autônomo com os condutores humanos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Edson Caoru Kitani - Coordenador / Marco Aurélio Froes - Integrante / Weslley Medeiros Torres - Integrante / Denis Wolf - Integrante.
+2008 - 2010
+Modelagem e Reconstrução de Imagens de Face de Crianças e Pessoas Desaparecidas
+Descrição: O objetivo deste projeto é desenvolver um arcabouço computacional para predição do
+envelhecimento de uma imagem de face a partir de modelos estatísticos multivariados. Este
+projeto fundamenta-se na hipótese de que imagens de faces podem ser estudadas como um
+conjunto de características que formam um vetor em um espaço de alta dimensão. Portanto,
+similaridades podem ser estudadas como um problema de estatística multivariada. A partir desta
+hipótese, estudam-se as características visuais capturadas por modelos estatísticos lineares, bem
+como a capacidade de generalização e predição de informações que não necessariamente
+pertencem a um conjunto de treinamento. Se um modelo de representação pode ser extraído dos
+conjuntos de treinamentos, estuda-se a hipótese de que as variações nesse modelo podem ser
+transferidas para imagens de faces que não necessariamente pertencem ao conjunto de
+treinamento. Esta transferência mostraria como se comportaria uma imagem de face quando se
+navega no hiper-plano das informações discriminantes que, neste projeto, caracteriza-se pela
+progressão da idade. Espera-se, com isto, auxiliar no processo de recuperação de crianças e
+pessoas desaparecidas, uma vez que se dispõe de uma metodologia de predição de
+envelhecimento automático.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Edson Caoru Kitani - Integrante / CARLOS EDUARDO THOMAZ - Coordenador / Gilson Antonio Giraldi - Integrante / Paulo Sergio Silva Rodrigues - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

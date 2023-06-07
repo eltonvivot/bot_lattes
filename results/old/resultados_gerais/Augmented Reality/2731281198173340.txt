@@ -1,0 +1,15 @@
+2007 - 2008
+Implantação do processo ipPROCESS no laboratório LINCS
+Descrição: Planejamento da implantação, organização e hierarquia de cargos, organização do espaço físico, avaliação técnica dos colaboradores do laboratório, realização de treinamentos e acompanhamento das áreas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (7) . Integrantes: Francielle Silva dos Santos - Coordenador / André Aziz Camilo de Araújo - Integrante / Millena Almeida - Integrante.Financiador(es): Laboratório para a Integração de Circuitos e Sistemas - Bolsa.
+2007 - Atual
+Engenharia de Processos - Melhoria contínua do ipPROCESS
+Descrição: Elaboração de padrão inicial para documentação dos projetos entregue aos clientes baseado nos padrões SRS e VSIA.
+Revisão e redefinição dos templates do processo para o LINCS.
+A migração do ipPROCESS para a ferramenta EPF
+Instanciação e acompanhamento da utilização do ipPROCESS nos projetos internos.
+Estruturação das avaliações de processo (ipPROCESS) internas na ferramenta Appraisal Assistant.
+Realização de avaliações internas da execução dos projetos em andamento, verificando se os mesmos utilizavam o fluxo definido pelo ipPROCESS
+Criação dos fluxos de contratação (pré-projeto) e subcontratação (de terceiros) no ipPROCESS.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Francielle Silva dos Santos - Coordenador / Daniele Patrícia dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2006 - 2006
+IPQUALITY
+Descrição: Identificação e análise de atributos de qualidade para soft IP-cores (funcionalidade e documentação do usuário). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Francielle Silva dos Santos - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

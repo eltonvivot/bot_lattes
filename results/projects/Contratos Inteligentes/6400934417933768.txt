@@ -1,0 +1,175 @@
+2022 - Atual
+Desenvolvimento de metodologias para levantamento de recursos eólicos costeiros e marinhos
+Projeto certificado pela empresa CAMARGO SCHUBERT ENGENHEIROS ASSOCIADOS S/C LTDA em 21/12/2022.
+Descrição: O Brasil possui um enorme potencial eólico offshore mas ainda não possui nenhuma turbina instalada no mar. A procura desta fonte vem aumentando e atualmente há 66 projetos de parques eólicos offshore em fase de licenciamento ambiental no IBAMA.
+Isto deflagra a necessidade de inventariar o recurso eólico, o qual encontra obstáculos nos custos associados às medições oceânicas. O custo de instalação de torres anemométricas no oceano é superior a R$12 milhões. Boias instrumentadas com perfiladores de vento podem chegar a R$4 milhões. Somam-se os custos de manutenção e o risco de vandalismo.
+Este projeto irá desenvolver e validar métodos de baixo custo e risco para o levantamento dos recursos eólicos. O problema a ser abordado é o desenvolvimento de metodologias que combine medições contínuas costeiras com menores períodos de levantamento offshore. O método é destinado a parques eólicos situados até 20 milhas náuticas da costa. Uma hipótese a ser investigada é que funções de transferência entre os ventos costeiros e offshore podem ser estabelecidas empiricamente, de forma que o registro costeiro possa ser empregado na reconstrução dos ventos de regiões offshore, onde a função de transferência foi determinada. Os métodos serão validados na costa do Maranhão, onde a direção do vento predomina do setor oceânico para o continente. Nesta região uma grande campanha de medições na região costeira encontra-se em andamento, gerando importantes dados sobre o regime de ventos. O projeto será realizado em três fases. Na 1a fase, os ventos serão medidos por três perfiladores instalados em pontos costeiros. Na 2a fase, um LIDAR será embarcado para medições de transectos oceânicos. Na 3ª fase dois LIDAR realizarão estações fixas costeiras (praia) e offshore (LIDAR em navio), enquanto outro LIDAR embarcado realizará transectos transversais à costa. O conjunto de dados permitirá uma correlação do comportamento da camada limite atmosférica costeira e offshore até a altura de 300 metros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / Denivaldo Lopes - Integrante / Shigeaki Leite de Lima - Integrante / Denisson Queiroz Oliveira - Integrante / Audalio Rebelo Torres Junior - Integrante / Clovis Bosco de Oliveira - Integrante / Felipe Pimenta - Integrante / Arcilan Assireu - Integrante / Francisco Albuquerque - Integrante / DE FREITAS, RAMON M. - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2020 - Atual
+MERGE - Microgrids for Efficient, Reliable and Greener Energy
+Descrição: As microrredes estão desempenhando no mundo um papel crescente na evolução do sistema elétrico tradicional em direção a uma rede mais distribuída e moderna. Embora as microrredes geralmente sejam implantadas em comunidades remotas e bases militares para fornecer independência e resiliência energética, elas agora estão fornecendo esses benefícios para comunidades locais, campi de universidades e até mesmo centros de manufatura. Por outro lado, os consumidores de energia elétrica no Brasil sofrem interrupção no fornecimento em uma média de 14,35 horas por ano (2017) causando um impacto de R$ 477,16 milhões. As microrredes com certeza serão uma alternativa para ao combate a interrupção, mas devido ao seu grande potencial gerarão benefícios em diversos aspectos. Uma microrrede adequadamente planejada pode reduzir perdas, aumentar a eficiência e criar novos modelos de negócios. Estima-se que cerca de R$ 3,2 bilhões fluirão no mercado de microrredes no Brasil até 2025 e os gastos com implementação global devem chegar a quase US $ 112 bilhões até 2026. 
+As diferentes tecnologias referentes a fontes renováveis distribuídas, armazenamento de energia, gestão da demanda, medição inteligente e sensoriamento, veículos elétricos, sistemas de comunicação avançados, sistemas de gestão e otimização dos recursos distribuídos, etc., aparecem de forma independente e com diferentes níveis de maturidade técnica e comercial. As microrredes surgem com a função principal de coordenar e fundir as diferentes tecnologias em uma única plataforma. Como resultado dessa operação coordenada surge a possibilidade de operar as microrredes de forma isolada da rede principal, uma vez que o projeto de uma microrrede já inclui recursos físicos e de gestão para viabilizar essa operação.
+Nesse contexto, este projeto busca desenvolver conhecimento para antecipar oportunidades, fundamentar normas, sugerir padrões, enfrentar ameaças e gerar valor agregado por meio do estudo da implantação de aplicações reais.  Serão desenvolvidas, testadas e operadas microrredes tanto em modo normal (conectado) quanto de emergência (ilhada). Além disso será feita a integração com rede de distribuição para aumentar eficiência, confiabilidade, qualidade de serviço e qualidade de energia. A integração também permitirá reduzir as perdas, emissões de gases de efeito estufa e entre outros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / José Gomes de Matos - Integrante / Silvangela  Lima - Integrante / Shigeaki Leite de Lima - Integrante / Luiz Antonio Souza Ribeiro - Integrante / Denisson Queiroz Oliveira - Integrante.Financiador(es): Companhia Piratininga de Força e Luz - Matriz - Bolsa.
+2020 - Atual
+EOSOLAR - Avaliação dos Efeitos Micrometeorológicos em Diferentes Escalas Temporais e Espaciais no Planejamento e Operação de Parques Eólicos e Fotovoltaicos
+Descrição: Mapear e avaliar o potencial eólico e solar do Estado do Maranhão em diferentes escalas temporais e espaciais usando dados medidos por técnicas inovadoras, produzindo dados condizentes com as tendências da evolução da indústria de geração de eletricidade
+Utilizar metodologias inovadoras e equipamentos modernos objetivando melhor acurácia
+Estudar o potencial eólico acima de 200 m turbinas de grande altura. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Integrante / Denivaldo Lopes - Integrante / Shigeaki Leite de Lima - Integrante / Denisson Queiroz Oliveira - Coordenador / Clovis Bosco de Oliveira - Integrante / Felipe Pimenta - Integrante / Arcilan Assireu - Integrante / TORRES, AUDALIO REBELO - Integrante / Francisco Albuquerque - Integrante.Financiador(es): Equatorial Energia - Remuneração.
+2020 - Atual
+CLA-GRID - Microrrede com fontes de energia renováveis para melhorar a resiliência, a confiabilidade e a qualidade da energia no Centro de Lançamento de Alcântara
+Projeto certificado pela empresa Companhia Energetica do Maranhão em 29/03/2022.
+Descrição: O objeto geral deste projeto é pesquisar, desenvolver, implementar e testar uma microrrede com fontes de energia renováveis, a ser instalada em uma área com cargas críticas e estratégicas dentro de um Centro de Lançamento Aeroespacial (CLA). A especificidade desta aplicação demanda alto nível de automação, confiabilidade e qualidade de energia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Integrante / Silvangela  Lima - Integrante / Luiz Antonio Souza Ribeiro - Coordenador / Clovis Bosco de Oliveira - Integrante / DE MATOS, JOSE GOMES - Integrante.Financiador(es): Equatorial Energia - Cooperação.
+2018 - Atual
+MICRORREDES COM FONTES RENOVÁVEIS DIVERSIFICADAS
+Descrição: Nesta proposta damos continuidade as pesquisas do projeto universal anterior, comfocos a aprofundamentos específicos.Ainclusão da geração de energia a partir de
+correntes de maré na diversificação de microrredes preferencialmente isoladas é abordada, quanto aos benefícios da complementariedade comas fontes ?clássicas?
+solar e eólica. Os efeitos de diversificação e complementariedade tambémserão analisados e avaliados para os sistemas de armazenamento, tanto para microrredes
+isoladas e microrredes resilientes conectadas à rede. Estes estudos devembalizar a precificação da flexibilidade operacional atribuída a estas redes de uma forma mais
+racional, contribuindo para a sustentabilidade das microrredes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Mestrado profissional: (1)  / Doutorado: (2) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - Atual
+INSTITUTO NACIONAL DE CIÊNCIA E TECNOLOGIA EM ENERGIAS OCEÂNICAS E  FLUVIAIS
+Descrição: O tema alvo deste INCT é considerado estratégico para o desenvolvimento energético do Brasil. Os investimentos de pesquisa em energias oceânicas e fluviais nos últimos anos tem sido irrelevante no País, desestimulando a formação de recursos humanos e as atividades de pesquisa nas universidades. Esta visão está complemente conflitante com os enormes esforços e investimentos que são realizados na Europa para desenvolver técnicas para extrair energia dos oceanos e de rios com pequenas quedas, dos potenciais remanescentes de bacias hidrográficas já exploradas, de potenciais hidrocinéticos e de sistema não convencionais para geração de hidroeletricidade . O setor energético brasileiro tem concentrado seu interesse no petróleo, gás, hidroeletricidade de grande porte e recentemente, de forma ainda tímida, em energia eólica. Os indicadores de crescimento da carga e as dificuldades ambientais para construir novas usinas hidrelétricas estão levando a um aumento da participação dos combustíveis fósseis na geração de energia, colocando o Brasil na curiosa posição de andar na contramão das tendências mundiais. Pouco se conhece do potencial oceânico no Brasil; a pouca informação disponível está em estudos globais realizados do exterior.
+Através desta proposta pretende-se aglutinar os poucos grupos de pesquisa no Brasil com trabalhos em energia no mar, fluviais de baixas quedas e hidrocinéticas ou atividades aderentes, para deflagrar um processo de colaboração consistente interinstitucional coma valiosa colaboração de especialistas internacionais que decorra na geração de conhecimento, elaboração de protótipos e a formação de recursos humanos em energia oceânicas e fluviais de baixas quedas e hidrocinéticas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (6)  / Mestrado profissional: (1)  / Doutorado: (3) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / José Gomes de Matos - Integrante / Shigeaki Leite de Lima - Integrante / Segen  F. Estefen - Integrante / Denisson Queiroz Oliveira - Integrante / Maamar El-Robrini - Integrante / Audalio Rebelo Torres Junior - Integrante / TIAGO FILHO, GERALDO LÚCIO - Integrante / Francisco Sávio Mendes Sinfronio - Integrante / Francisco José Silva Dias - Integrante / Felipe Pimenta - Integrante.Financiador(es): (CAPES) Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Auxílio
+										financeiro / (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2018
+micro-redes elétricas inteligentes com participação de fontes renováveis não convencionais
+Descrição: A competitividade, a demanda por confiabilidade e robustez das redes de energia elétrica, além da precificação destes serviços de uma forma que representem fielmente sua qualidade, com diversificação de opções e com a participação ativa do consumidor neste mercado, são elementos que formam um novo cenário para as redes de energia elétrica, formulando novos desafios tecnológicos e estruturais.  Neste escopo se encontra inserido este Projeto, com a pretensão de contribuir para a operação flexível, econômica e segura das redes inteligentes, além de investigar as necessidades de novas estruturas de mercados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / José Gomes de Matos - Integrante / Shigeaki Leite de Lima - Integrante / Clovis Bosco de Oliveira - Integrante.Financiador(es): (FAPEMA) Fundação de Amparo à Pesquisa ao Desenvolvimento Científico e Tecn - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2014 - 2019
+Redes Elétricas Inteligentes com  penetração de fontes intermitentes
+Descrição: Pesquisa  dos problemas de operação de redes elétricas inteligentes com foco nas microrredes na presença de fontes renováveis intermitentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Mestrado profissional: (2)  / Doutorado: (3) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / José Gomes de Matos - Integrante / Shigeaki Leite de Lima - Integrante / Luiz Antonio Souza Ribeiro - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2015
+Pesquisa e Desenvolvimento para a Implantação de uma Usina-Laboratório Maremotriz na Barragem do Bacanga
+Descrição: O potencial da energia oceânica, especialmente aquele disponibilizado pelas
+marés no interior de rios e estuários, vem sendo considerado como uma fonte
+promissora para incremento da potência instalada e diversificação da matriz
+energética. A energia maremotriz se caracteriza por ser renovável, livre de
+poluição, além de ser completamente previsível.
+Muito embora o potencial energético total das marés em todo o mundo é da ordem
+de 2 TW, e uma energia anual disponível da ordem de 500 TWh a 1000 TWh
+, apenas cerca de 20 lugares do mundo são adequados para exploração
+desta fonte de energia.
+No Brasil, as maiores amplitudes de marés se encontram na costa norte,
+especificamente no Maranhão, Pará e Amapá. Estudos encomendados pela
+ELETROBRÁS  na década de 80 revelaram alguns locais potencialmente
+favoráveis à exploração da energia maremotriz. 
+A baía do Bacanga constitui um caso especial. Em 1973, foi concluída a
+construção de uma barragem que tinha como um de seus objetivos a diminuição
+da distância entre a capital São Luís e o porto de Itaquí. Na época, pensou-se
+também em utilizar a barragem para implementação de um sistema de geração de
+energia elétrica a partir das marés.
+Objetivo
+Realizar trabalhos de pesquisa e desenvolvimento que alicercem a implantação de
+uma usina-laboratório maremotriz no estuário do rio Bacanga (São Luís/MA), que
+envolva a geração de eletricidade utilizando a energia proveniente das marés.
+Trata-se de um projeto de grande porte, multidisciplinar e multi-instituicional, com
+os seguintes objetivos específicos:
+ Levantar o potencial extraível atual do Estuário Alvo, restrições físicoambientais
+e socioeconômicas e conjugar estes aspectos para desenhar a
+solução mais adequada que atenda estes requisitos;
+ Pesquisar e desenvolver turbina-piloto de baixa queda que atenda os
+requisitos acima;
+ Pesquisar e desenvolver sistema de integração de energia usina pilotorede
+elétrica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / Shigeaki Leite de Lima - Integrante / Segen  F. Estefen - Integrante / Sergio Augusto Trovão Santos - Integrante / Pedro Bezerra Neto - Integrante / Rafael M. Ferreira - Integrante / Márcio Costa Fernandes Vaz dos Santos - Integrante / TIAGO FILHO, GERALDO LÚCIO - Integrante / BARKETT BOTAN, ANTONIO CARLOS - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 11
+2010 - 2011
+Diagnóstico de Falhas em Transformadores de Potência
+Descrição: Convênio CNPq/Universidade do Porto - 2009. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Integrante / Vladimiro Miranda - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+2007 - 2010
+Problemas de Alocação em Sistemas de Energia Elétrica
+Descrição: Brasil, Argentina e Chile são países de América do sul com características de problemas comuns.
+Encontra-se nestes três países o maior volume de produção cientifica e tecnológica do cone sul,
+com importante participação do Governo para o fomento da mesma, e uma significativa relação
+de colaboração universidade empresa, especialmente do âmbito da energia elétrica.
+O Chile foi um dos países que liderou o processo de desregulamentação do setor elétrico, na
+década de 80. Logo, tem uma experiência acumulada de mais de 25 anos com o novo modelo, o
+qual passou por ajustes objetivando seu aperfeiçoamento. Na seqüência, a Argentina iniciou o
+processo de desverticalização do seu setor elétrico, seguido pelo Brasil, na segunda metade da
+década de 90.
+O projeto conjunto possibilita a oportunidade de interagir pesquisadores com vivencias e
+experiências complementares no que se refere a este processo. Para o Brasil, a experiência
+acumulada pelo Chile é de grande valia, como subsídio para abordar alguns problemas ainda não
+resolvidos satisfatoriamente no setor elétrico. Para a Argentina e o Chile, a experiência de
+trabalhos realizados no Brasil com um sistema interligado de dimensões continentais se apresenta
+como um importante benefício neste trabalho de colaboração.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / Ricardo Bernardo Prada - Integrante / Miguel Arias-Albornoz - Integrante / Alberto Vargas - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2006 - 2008
+Alocação de Custos de Perdas e de Potência Reativa
+Descrição: Este Projeto focaliza a problemática da alocação dos custos devido a perdas e pelo serviço
+de potência reativa. Recentes publicações  mostram que estes problemas têm
+formulações parecidas e podem ser abordadas através de metodologias similares e eventualmente,
+através de uma abordagem unificada.
+A idéia chave por trás destes problemas é que cada agente do mercado precisa conhecer a
+utilização que ele faz do sistema de transmissão, para assim saber quanto, exata e justamente,
+deve pagar pelos serviços envolvidos. Especificamente, cada agente precisa conhecer sua
+responsabilidade nas perdas no sistema de transmissão, já que estas constituem uma significativa
+(3% a 7% do total de geração) quantidade de potência que deve ser gerada para atender a
+demanda. Já que este custo adicional deve ser dividido entre todos os usuários da rede, existe a
+necessidade de alocar perdas e fluxos para aqueles usuários de uma maneira sistemática.
+Por outro lado, na abordagem do suprimento de potência reativa como um serviço ancilar
+para o suporte da tensão, é necessário resolver dois problemas:
+i) definição de uma metodologia de cálculo do preço da potência reativa para pagamento aos
+provedores;
+ii) definição de uma metodologia de cálculo da alocação dos custos do serviço entre os
+usuários.
+Este Projeto concentra-se neste segundo problema: uma metodologia justa e adequada de
+alocação de custos pode ajudar os participantes de mercado a fazer investimentos apropriados e
+eficientes de fontes de potência de reativa, tais como compensadores estáticos, FACTS,
+compensadores síncronos, etc. Desta forma poderia ser disponibilizadas ao operador do sistema
+mais ferramentas, fortalecendo a segurança de sistema.
+A potência reativa pode ser fornecida por geradores síncronos, motores síncronos e
+capacitores, sendo que o custo varia dependendo do provedor e local. Além disto, a potência
+reativa não pode transmitida a longas distâncias, pois resultará em que cargas com demanda
+igu. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2007
+Aplicação de Técnicas Inteligentes em Sistemas de Potência Operando em Ambiente Competitivo
+Descrição: Neste Projeto foi dada continuidade à aplicação de técnicas inteligentes ? especificamente
+técnicas evolutivas e lógica fuzzy ? na solução de problemas de sistemas de potência em
+ambiente competitivo. O Trabalhos concentraram-se nas seguintes linhas
+- Alternativas metodológicas para a alocação de perdas e acesso ao serviço de transmissão;
+- A Potência reativa como um serviço ancilar: Metodologias de alocação do custo de geração;
+- Pré-despacho de potência ativa (Unit commitment ) baseado no lucro;
+- Melhoria de algoritmos de resolução.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador.Financiador(es): Não informado / CNPq - Auxílio
+										financeiro.
+2004 - 2010
+Injeção de energia na rede do Campus da UFMA de fonte eólica
+Descrição: Instalação de uma unidade piloto de energia eólica de 10kW com injeção na rede do Campus da UFMA, para estudos de balanço energético e eficiencia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / José Gomes de Matos - Integrante / Luiz Antonio Souza Ribeiro - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2002 - 2004
+Algoritmos Evolutivos Estendidos para Aplicações em Sistemas de Potência
+Descrição: O objetivo global deste projeto é  a  pesquisa e  desenvolvimento de algoritmos  eficientes baseados  na Evolução Simulada,  a partir  da  inclusão  de extensões e novos operadores, assim como a utilização de multiprocessamento,  para  serem  aplicados a  problemas de sistemas de potência,  tanto na transmissão  como distribuição. 
+Objetivos Especificos:
+Aperfeiçoamento dos algoritmos evolutivos  aplicados a  sistemas de potência; 
+Aplicação das técnicas  evolutivas  a outros  problemas   de sistemas de potência;
+Modelagem  de variáveis  nebulosas  em algoritmos evolutivos e  metodologias híbridas.
+ Isto   envolve  o desenvolvimento de propostas evolutivas  que  propendam:
+Maior  competitividade:  Isto implica  a redução dos horizontes de tempo  em que são resolvidos  os problemas   utilizando técnicas evolutivas.   A  introdução de  variantes  evolutivas  assim como considerar  as particularidades  do problema, somado   à utilização de  processamento paralelo,  são    alternativas que serão consideradas.
+Melhores soluções:   a maioria  dos problemas encontrados em sistemas de potência  são não lineares e não convexos.   Tipicamente, as ferramentas tradicionais de otimização  conseguem  identificar  um ótimo  local.   As técnicas evolutivas tem  a capacidade potencial de atingir o  ótimo global,  porém  do ponto de vista prático e realizável, estamos interessados em soluções  locais  de melhor  qualidade.
+Confiabilidade  no desempenho:  as ferramentas  baseadas  na evolução devem  fornecer boas soluções  e  com baixo desvio padrão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2002 - 2004
+Técnicas Evolutivas para Aplicações em Sistemas de Potência em Ambiente Competitivo
+Descrição: Como tem sido relatado até agora,  resultados muitos positivos  das aplicações  evolutivas  a  sistemas  de potências - especificamente  ao   problema de despacho  de potência reativa e alocação de capacitores em redes de distribuição -  foram  encontrados.   Contudo,  ainda  está em andamento o  sub-projeto de otimização da confiabilidade  em sistemas de distribuição. Devido a sua relevância  e a   vigência  do tema neste novo cenário do setor elétrico,  é proposta sua continuidade no presente projeto, haja vista  que sua formulação foi revista.   Por outro lado, a experiência do Grupo de  quatro anos na temática,  nos leva a estender  o leque de aplicações  para  os novos problemas  surgidos pela  restruturação do setor elétrico.  Este processo veio a  incorporar  complexidade adicional aos clássicos problemas  de sistemas de potência e à  formulação de  outros novos.  A experiência adquirida até agora, assim como  a formação de uma significativa massa critica mínima são  também elementos motivadores para a continuidade  das pesquisas nesta área. 
+Logo neste  novo Projeto, tem-se fixado  três grandes metas:
+Aumentar a competitividade dos algoritmos evolutivos   em aplicações de   sistemas de potência; 
+Aplicação das técnicas  evolutivas  a problemas   de sistemas de potência em ambiente competitivo;
+Pesquisar novas correntes evolutivas e técnicas híbridas
+ A primeira  grande  meta    envolve  o desenvolvimento de propostas evolutivas  que  propendam:
+Maior  competitividade:  Isto implica  a redução dos horizontes de tempo  em que são resolvidos  os problemas   utilizando técnicas evolutivas.   No Projeto anterior mostrou-se  que  novos operadores  junto com  a utilização de  processamento paralelo,  contribuem  significativamente no aumento da competitividade.
+Melhores soluções:   Está relacionada com a capacidade dos algoritmos de  ao mesmo tempo varrer grandes áreas do  espaço de busca, mas retendo   capacidade de busca local.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 8
+2000 - 2003
+Utilização Eficiente de Fontes Alternativas de Energia
+Descrição: O Objetivo principal deste Projeto é realizar pesquisa, simulação e avaliação de desempenho de sistemas fotovoltaicos e eólicos visando sua utilização eficiente e segura.
+Objetivos Específicos:
+1. Modelar, estudar e analisar sistemas fotovoltaicos visando a obtenção da operação de máxima eficiência dos mesmos;
+2. Estudar mecanismos que permitam uma operação segura e um controle simples de sistemas fotovoltaicos, visando minimizar a manutenção e maximizar a vida útil de seus componentes.
+3. Modelar, estudar e analisar sistemas eólicos visando a obtenção da operação de máxima eficiência dos mesmos, quer operando isolados ou em conjunto com sistemas fotovoltaicos e/ou a rede convencional.
+4.- Transferir os resultados obtidos  para  melhorar  a utilização  das unidades baseadas em energia alternativas  já instaladas   pelo PRODEEM  no Estado, assim  como   auxiliar   na instalação  de novos  equipamentos  no atendimento  a  comunidades carentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / Nelson José Camelo - Integrante / Allan Kardec  Duailibe Barros - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+1998 - 2001
+Sistema de Avaliação  de Segurança em Tempo Real
+Descrição: Pesquisa e desenvolvimento de  um sistema computacional  que avalie de maneira eficiente o nivel de segurança  estática,  do ponto de vista  de potência ativa e reativa, de um sistema de potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Osvaldo Ronald Saavedra Mendez - Coordenador / Julio Cesar Mendes - Integrante.Financiador(es): Banco do Nordeste do Brasil - Auxílio
+										financeiro.Número de produções C, T & A: 15

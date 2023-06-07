@@ -1,0 +1,86 @@
+2017 - 2019
+Método e Aparato para Geração Dirigida de Vetores de Teste para Depuração Pós-Silício
+Descrição: Com o aumento expressivo da produtividade no projeto de Circuitos Integrados (CI) ocorrido nas últimas décadas, o "Gap de Produtividade", que foi o principal obstáculo a ser vencido pela indústria de microeletrônica, deixou de ser o foco das atenções e o ciclo de desenvolvimento se deslocou de uma abordagem centrada no projeto para uma abordagem centrada na verificação. Garantir o funcionamento correto do sistema passa a ser o grande problema enfrentado no desenvolvimento de um SoC (System-on-Chip) moderno, consumindo mais de 70% dos recursos disponíveis. A validação e verificação pré-silício têm sido exploradas exaustivamente pela indústria e academia com o intuito de evitar que erros de projeto se propaguem até a implementação física. A vantagem dessas abordagens está na observabilidade quase perfeita dos sinais envolvidos, que são disponibilizados pelas ferramentas de simulação e pelas ferramentas de análise estática de código. Apesar do alto nível de maturidade atingido pelos métodos pré-silício, erros de projeto ainda são comumente encontrados após a fabricação. Mais do que erros de projeto, no entanto, situações relacionadas ao funcionamento físico do sistema podem levar a eventos quase impossíveis de serem antecipados durante as etapas pré-silício. Por exemplo, o aquecimento acima do previsto em uma área do chip pode adicionar atrasos em sinais naquela região, aumentando o tempo de propagação do caminho crítico que pode levar a um comportamento errôneo na lógica. Assim, a depuração pós-silício é uma etapa essencial do ciclo de desenvolvimento, que soma-se às etapas pré-silício para aumentar a confiabilidade do processo. A principal dificuldade da depuração pós-silício reside na baixa observabilidade dos sinais envolvidos e métodos que independam da estrutura interna do sistema são imperativos para o sucesso desta etapa. Neste trabalho, será proposta e caracterizada uma abordagem caixa-preta de depuração pós-silício onde a busca por estados de erro é modelada como um problema de otimização e os vetores de teste são iterativamente refinados em malha fechada de forma a dirigir o sistema a estados mais propensos a comportamento errôneo. Para isto, as propriedades formais do sistema serão combinadas a funções de penalidade, criando funções heurísticas que, por construção, quando possuem um mínimo de valor 0 (zero) indicam uma violação da propriedade. Minimizando-se estas funções, determina-se a existência ou não de uma falha de funcionamento. Será construído um aparato para depuração pós-silício utilizando kits de FPGAs e kits de desenvolvimento de sistemas embarcados para que o método seja validado utilizando-se implementações físicas de SoCs. Em especial, pretende-se validar filtros digitais ponto-fixo, que são particularmente sensíveis à implementação. Como resultado do trabalho, além da formação de recursos humanos e de produção acadêmica, espera-se a publicação de uma patente para o método e aparato desenvolvidos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Alair Dias Júnior - Coordenador / Rodrigo Oliveira - Integrante / Luiza Agostinho Pena - Integrante.
+2014 - 2018
+Protótipo de Redes Corporais Sem Fio
+Descrição: Este projeto tem por objetivo o desenvolvimento de um sistema computacional para a implementação de um nó de Rede Corporal Sem Fio, também chamadas de WBAN (Wireless Body Area Network), implementando uma prova de conceito através da prototipagem rápida em FPGA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (6) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador / Hugo Vinicius Bitencourt - Integrante / Vanderley Pereira da Silva - Integrante / Rogério Pozza - Integrante / Flávio Laper - Integrante / Caio Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2013
+Utilização de Fontes de Energia Ambiental Alternativas para Rede de Sensores Sem Fio
+Descrição: Análise de fontes ambientes de energia elétrica alternativa e a implementação de sistemas de
+captura e armazenamento para utilização em nós sensores. Um dos problemas destas fontes é
+que não fornecem energia continuamente, e portanto, um sistema de armazenamento se torna
+mandatório. Deste modo alguns desafios de projeto precisam ser solucionados, tais como
+características da conversão da energia alternativa, química e capacidade de
+baterias,características de armazenamento de supercapacitores. (Probic/Pibic 2010
+). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador / Adriano Borges da Cunha - Integrante / Rodrigo Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2012 - 2013
+Caracterização  de um Conversor Analógico/Digital Sigma-Delta de 12 bits Implementado em Silício
+Descrição: PROGRAMA INSTITUCIONAL DE BOLSAS DE INICIAÇÃO DE TECNOLOGIA  INDUSTRIAL BÁSICA - BITIB. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador / Fernando Daldegan - Integrante / Gustavo Almeida de Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2012 - 2013
+Projeto e validação de uma rede de sensores sem fio para captação de sinais cardíacos em camundongos
+Descrição: Este projeto propõe o projeto e validação de uma Rede de Sensores Sem Fio para a captação de sinais cardíacos em camundongos, de modo a mensurar especificamente a freqüência cardíaca, parâmetro de grande importância em vários estudos da área biológica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Adriano Borges da Cunha - Coordenador / Alberto de Figueiredo Gontijo - Integrante / Rosilene Siray Bicalho - Integrante / Afonso Liberato Braga - Integrante.
+2012 - 2013
+Modelagem de uma Rede de Sensores Sem Fio com a Capacidade de Captura de Energia Solar para Implementação em Simuladores.
+Descrição: Este projeto propõe a modelagem de uma RSSF com a capacidade de captura de energia solar para implementação em simuladores, de modo a viabilizar a simulação mais realística de tais redes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Adriano Borges da Cunha - Coordenador.
+2012 - 2013
+Inclusão e Validação de um Modelo Comportamental de Baterias Alcalinas em Simuladores de Rede de Sensores Sem Fio
+Descrição: O desenvolvimento e a implantação de protótipos de nós sensores para analisar o desempenho de uma RSSF exige um grande esforço e tem um alto custo financeiro. Consequentemente, a simulação é fundamental para estudar tais redes e está sendo a maneira mais comum de teste de novas aplicações e protocolos na evolução deste campo de pesquisa. Este fato trouxe um crescimento do número de ferramentas de simulação disponíveis para a modelagem de RSSF. Apesar disso, trabalhos recentes sobre o desenvolvimento de algoritmos e protocolos em RSSF ainda utilizam modelos de energia ideais, pois esses modelos são as únicas alternativas disponíveis em simuladores para RSSF. O problema é que esses modelos de energia ideais estão muito longe do comportamento real de baterias e, portanto, podem resultar em erros significativos da estimação de energia desses dispositivos. Este projeto propõe a inclusão e a validação de um modelo comportamental de baterias alcalinas em simuladores de RSSF, que leva em conta o efeito da taxa de descarga, o efeito de relaxação e a retenção de capacidade, de modo a se obter resultados mais próximos do comportamento real de baterias alcalinas e substituir os modelos ideais utilizados atualmente nos simuladores para RSSF.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Adriano Borges da Cunha - Coordenador.
+2011 - 2013
+Projeto de Redes de Sensores Sem Fio em Silício
+Descrição: Bolsista Programa Pesquisador Mineiro PPM-V, Fapemig. (TEC-PPM-00630-11).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.
+2010 - 2013
+Projeto de um Sistema em Chip para Rede de Sensores Sem Fio
+Descrição: Bolsista de Produtividade, nível 2, (308726/2009-0) PQ-2009 CNPq.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2011
+Automação de uma Bancada de Testes Digitais
+Descrição: PROGRAMA INSTITUCIONAL DE BOLSAS DE INICIAÇÃO DE TECNOLOGIA  INDUSTRIAL BÁSICA - BITIB. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2010 - 2011
+Desenvolvimento, Implementação e Validação de um Agente de Otimização Cross-Layer em Redes de Sensores Sem Fio Conscientes de Captura de Energia do Ambiente
+Descrição: Propõe o desenvolvimento, implementação e validação de um agente de otimização
+"cross-layer" para RSSF conscientes de captura de energia do ambiente, de modo a alcançar o melhor desempenho possivel do ponto de vista de eficiência energética para tais redes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Adriano Borges da Cunha - Coordenador / Lucas Alexandre Amorim Silva - Integrante / Marcio Fantini Miranda - Integrante.
+2009 - 2013
+DHBH - Associação Design House Belo Horizonte
+Descrição: Edital 59/2008. Processo no. 578862/2008-5.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (4)  / Mestrado acadêmico: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador / Antonio Otavio Fernandes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+Projeto de Sistemas Computacionais Integrados em Silício
+Descrição: Bolsista Programa Pesquisador Mineiro PPM-III, Fapemig. (TEC-PPM-00586-09).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2010
+Desenvolvimento e Validação de um Sistema Eletrônico Baseado em Redes de Sensores Sem Fio para Captação de Sinais Cardíacos em Camundongos
+Descrição: Descrição: Este projeto propõe a construção de um sistema eletrônico para captação de sinais cardíacos em camundongos baseado em RSSF, de modo a mensurar especificamente a freqüência cardíaca, parâmetro de grande importância em vários estudos da área biológica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Adriano Borges da Cunha - Integrante / Alberto de Figueiredo Gontijo - Integrante / Rosilene Siray Bicalho - Coordenador.
+2008 - 2011
+Projeto de um Sistema em Chip para Rede de Sensores Sem Fio
+Descrição: CNPq Projeto Universal 2008 Faixa C, processo no. 481427/2008 2.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+Geração de Módulos de Propriedade Intelectual Utilizando UML
+Descrição: .Edital Universal 2007, processo no. APQ-3998-6.01/07. Fapemig. Situação: Concluído; Natureza: Pesquisa. Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2007 - 2010
+Projeto de Sistemas Computacionais em Chips
+Descrição: Bolsista de Produtividade, nível 2, (310797/2006-3) PQ-2006 CNPq.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+Geração de Módulos de Propriedade Intelectual Utilizando Diagramas UML
+Descrição: Projeto de Bolsas de Iniciação Científica, CNPq. Processo no. 504990/2007-1.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2008
+Sistema de Desenvolvimento para Rede de Sensores Sem Fio
+Descrição: Edital Jovens Doutores, processo no. EDT 205/05. Fapemig.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2004 - 2006
+Projeto de Sistemas Computacionais em Chips
+Descrição: Projeto Recém Doutor - UFMG. Prór-Reitoria de Pesquisa/UFMG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Diógenes Cecilio da Silva Junior - Coordenador.Financiador(es): Fundação de Desenvolvimento da Pesquisa - Auxílio
+										financeiro.
+2003 - 2006
+Brazil-IP
+Descrição: Consórcio para a Formação de Talentos Humanos na Concepção e Projeto de Sistemas Digitais e Propriedade Intelectual Geracao de talentos em projeto de circuitos integrados. Rede de cooperacao inter-institucional para o desenvolvimento de circuitos integrados complexos. Processo no. 552078/02-6.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (30)  / Especialização: (0)  / Mestrado acadêmico: (15)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Edna Barros - Coordenador / Guido Araujo - Integrante / Ricardo Jacobi - Integrante / Wang Chau - Integrante / Ney Calazans - Integrante / Elmar Melcher - Integrante / Falvio Wagner - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2003 - 2005
+Sensornet
+Descrição: Arquitetura, Protocolos, Gerenciamento e Aplicações em Redes de Sensores Sem Fio. Finep. Processo no. 55.2111/2003-0.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Diógenes Cecilio da Silva Junior - Integrante / Claudionor Jose Nunes Coelho Junior - Integrante / Antonio Otavio Fernandes - Integrante / Antonio Alfredo Ferreira Loureiro - Integrante / Jose Marcos Silva Nogueira - Coordenador / Mário Fernando Montenegro Campos - Integrante / Geraldo Robson Mateus - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

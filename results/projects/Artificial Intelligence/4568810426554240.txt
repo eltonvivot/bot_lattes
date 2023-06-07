@@ -1,0 +1,22 @@
+2010 - 2011
+Classificação de Imagens de Sattélite utilizando Mapas Auto-organizáveis de Kohonen segmentados com informações espectrais e espaciais
+Descrição: O objetivo principal deste trabalho é explorar as características e propriedades do SOM na construção de uma metodologia de classificação não-supervisionada de imagens de sensoriamento remoto. O ponto chave do método de classificação proposto é realizar o processo de análise de agrupamentos das imagens através de um conjunto de protótipos do SOM, ao invés de trabalhar diretamente com os padrões originais das cenas.
+Para atender tal objetivo, os seguintes procedimentos serão adotados: 
+?	Avaliar a aplicabilidade de métodos de segmentação automática do SOM, particularmente daqueles baseados em técnicas de morfologia matemática e em métodos de agrupamentos hierárquicos;
+?	Propor a utilização de índices de validação de agrupamentos na determinação automática do número de agrupamentos, bem como da melhor partição para o conjunto de dados das imagens;
+?	Aplicar técnicas de análise de textura em imagens para avaliar e filtrar amostras de treinamento e/ou protótipos do SOM que correspondem a regiões de transição entre classes de cobertura terrestre;
+?	Incorporar informações espaciais a respeito dos protótipos do SOM em critérios de fusão de agrupamentos, além das informações de distância multiespectral.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcio Leandro Goncalves - Coordenador.Financiador(es): PUC Minas - Auxílio
+										financeiro.
+2006 - 2007
+Aplicação de Mapas Auto-organizáveis de Kohonen na Classificação Automática de Imagens Multiespectrais de Sensoriamento Remoto
+Descrição: O objetivo geral deste projeto é aplicar o Mapa Auto-organizável de Kohonen para realizar a classificação automática de imagens multiespectrais de sensoriamento remoto sem que haja a participação de um especialista em imagens durante este processo.
+Pretende-se especificamente utilizar a Rede Neural de Kohonen para a obtenção dos agrupamentos dos dados presentes na imagem, e posteriormente, aplicar e desenvolver métodos de segmentação automática dos grupos de dados obtidos pelo Mapa de Kohonen. Dessa forma, o número de classes de cobertura terrestre presente na imagem poderá ser determinado sem a necessidade de intervenção do usuário ou de uma analista em imagens, que nas abordagens convencionais guia manualmente o processo de escolha e definição dessas classes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcio Leandro Goncalves - Coordenador.Financiador(es): PUC Minas - Auxílio
+										financeiro.
+2003 - 2004
+Implementação de Redes Neurais Artificiais em Ambiente de Processamento Distribuído
+Descrição: O objetivo deste projeto é desenvolver algoritmos de treinamento de redes neurais artificiais para ambientes de processamento paralelo e distribuído. Especificamente, pretende-se paralelizar o algoritmo backpropagation (para treinamento de redes neurais MLP) e o algoritmo de aprendizagem de Kohonen utilizando a ferramenta PVM.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Leandro Goncalves - Coordenador.
+2001 - 2002
+Um estudo preliminar sobre a aplicação de Redes Neurais Artificiais na estimativa de safras de café
+Descrição: O presente trabalho tem como propósito principal realizar um estudo introdutório sobre a aplicação de Redes Neurais Artificiais na previsão de safras de café, procurando avançar no entendimento de modelos neurais que possam melhorar a previsão de parâmetros importantes na cultura agrícola do café, particularmente dos seus rendimentos e safras.
+Nesse sentido, o trabalho apresenta como objetivos específicos: coletar dados,  parâmetros e informações diversas sobre a cultura do café (informações de caráter agrometeorológico, tecnológico, fisiológico ou até mesmo a  combinação destas) para  determinação de possíveis variáveis previsoras. Tais variáveis deverão ser estudadas, bem definidas e modeladas de forma adequada para seu emprego e difusão. Especificamente, pretende-se ainda realizar um estudo no que  diz respeito ao conhecimento do tamanho das séries de dados ou conjunto de valores necessários para a previsão agrícola do café e sua adequação às arquiteturas e topologias de redes neurais existentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcio Leandro Goncalves - Coordenador.Financiador(es): PUC Minas - Auxílio
+										financeiro.

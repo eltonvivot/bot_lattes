@@ -1,0 +1,47 @@
+2021 - Atual
+Alocação de recursos humanos em uma grade de horário educacional utilizando satisfação de restrições
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador.
+2018 - 2022
+Sistema de apoio à decisão para avaliação de risco e monitoramento de pacientes com HAS e Diabetes Mellitus na atenção básica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador / Eliana Ofelia Llapa-Rodriguez - Integrante.
+2018 - Atual
+Exploração de Modelos de Inteligência Artificial baseados em Aprendizado Profundo
+Descrição: Apresentamos neste projeto uma proposta de fortalecimento da área de Computação Inteligente do mestrado em Ciência da Computação da Universidade Federal de Sergipe. Relacionamos na equipe executora dois pesquisadores locais e dois pesquisadores de programas de pós-graduação nível 6, formando uma equipe em que todos atuam numa área comum - Aprendizado de Máquina - sub-área de Computação Inteligente. Ao longo do primeiro ano, estamos prevendo realizar várias missões de trabalho docente, que envolvem participações em bancas de defesa de dissertação e realizações de seminários em cursos de pós-graduação. Também prevemos realizar quatro missões discentes a serem realizadas no segundo semestre de 2018... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Alberto Estombelo Montesco - Integrante / Leonardo Nogueira Matos - Coordenador / Paulo Salgado Gomes de Mattos Neto - Integrante / Andre Carlos Ponce de Leon Ferreira de Carvalho - Integrante.
+2015 - 2017
+Estudo computacional do comportamento social
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador / Hector Julian Tejada Herrera - Integrante.
+2015 - 2017
+Estudo computacional da morfologia neuronal
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Carlos Alberto Estombelo Montesco - Integrante / Hector Julian Tejada Herrera - Coordenador.
+2015 - 2017
+Aprendizagem de Máquina : Algoritmos Avançados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador.
+2015 - 2016
+Fisica Computacional
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Alberto Estombelo Montesco - Integrante / Emerson Luis de Santa Helena - Coordenador.
+2012 - 2015
+Paralelização de algoritmos de aprendizagem não supervisionada utilizando GPU
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador.
+2012 - 2015
+Desenvolvimento de um framework para execução paralela de algoritmos aplicados em inteligência artificial baseado em arquitetura GPU
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador / Marco Tulio chela - Integrante.
+2012 - 2014
+Sistema de Apoio à Decisão baseado em Diretrizes
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador.
+2011 - 2016
+Fundamentos para Análise e Caracterização de sinais fMRI
+Descrição: Estudar os fundamentos matématicos para poder realzar uma análise e caracterização de dados (sinais) de fMRI.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador.
+2010 - 2013
+Extração do padrão da resposta hemodinâmica subjacente em imagens funcionais por ressonãncia magnética utilizando analise exploratória.
+Descrição: Pretende-se, neste trabalho, desenvolver uma metodologia para extração e caracterização da resposta hemodinâmica subjacente, utilizando uma análise exploratória nos dados de imagens funcionais por ressonância magnética (functional Magnetic Resonance Imaging - fMRI). Pretende-se obter vantagem da própria estrutura espaço-temporal dos dados de fMRI, juntando as vicissitudes de ambas características. Ainda, consideraremos extrair, nessas condições, somente a componente desejada (ou de interesse) baseado na estrutura espaço-temporal intrínseca dos dados. O método matemático será baseado na análise exploratória dos dados, sem o uso de hipótese(modelo ou sinal referência) sobre o sinal da resposta hemodinâmica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador / Draulio Barros de Araújo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2011
+Detectar e caracterizar o ruído e artefatos não-vocais do sinal de voz de um dispositivo móvel
+Descrição: Na maioria dos processamentos de reconhecimento de fala têm um problema em comum,
+a existência de muito ruído e/ou artefatos na fala registrada que impossibilita o processo
+de reconhecimento e tornando mais complexo esse processo. Quando se efetua algum
+procedimento de reconhecimento, sobre um sinal ruidoso ou que contenham artefatos,
+terá pouco sucesso em determinar as características apropriadas que permitirão o
+reconhecimento da voz. Sob esse ponto de vista este projeto visa caracterizar o sinal de voz registrado por um dispositivo móvel (celular) focando nas
+componentes de ruído e/ou artefatos existentes no sinal digital com o intuito de deixar o
+sinal com melhor qualidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Estombelo Montesco - Coordenador / Leonardo Nogueira Matos - Integrante / Hendrik Teixeira Macedo - Integrante / Giovanny Fernando Lucero Palma - Integrante.

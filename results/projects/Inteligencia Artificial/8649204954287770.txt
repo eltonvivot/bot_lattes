@@ -1,0 +1,100 @@
+2020 - Atual
+Extração de informação e classificação em textos jurídicos
+Descrição: A demanda por softwares capazes de aumentar a eficiência de operadores do direito, tais como escritórios de advocacia, tribunais, órgãos legislativos e administrativos, tem crescido vertiginosamente. O objetivo neste projeto consiste no desenvolvimento de uma plataforma online para processamento automático de textos de natureza jurídica, utilizando técnicas de processamento de textos e aprendizagem de máquina. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / André Câmara Alves do Nascimento - Integrante.
+2019 - Atual
+Aplicação de algoritmos de inteligência computacional para resolução de problemas reais
+Descrição: Um grande impulso no desenvolvimento algorítmico é o design de modelos algorítmicos para resolver problemas cada vez mais complexos. Sucessos enormes foram alcançados através da modelagem de inteligência biológica e natural, resultando nos chamados ?sistemas inteligentes?. Esses algoritmos inteligentes incluem redes neurais artificiais, computação evolutiva, inteligência de enxames, sistemas imunológicos artificiais e sistemas difusos. Juntamente com a lógica, raciocínio dedutivo, sistemas especialistas, raciocínio baseado em casos e sistemas simbólicos de aprendizado de máquina, esses algoritmos inteligentes fazem parte do campo da Inteligência Artificial (IA). Olhando apenas para esta ampla variedade de técnicas de IA, a IA pode ser vista como uma combinação de várias disciplinas de pesquisa, por exemplo, ciência da computação, fisiologia, filosofia, sociologia e biologia. Diante deste cenário, esse projeto propõe a utilização de algoritmos de inteligência computacional para aplicações em diferentes áreas do conhecimento como dados educacionais, jurídicos e biológicos. Os resultados serão analisados com medidas e bases de dados tradicionais na literatura da área.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / André Câmara Alves do Nascimento - Coordenador / MELLO, RAFAEL FERREIRA - Integrante.
+2018 - 2020
+NOVAS ABORDAGENS PARA A OTIMIZAÇÃO DE PROBLEMAS DISCRETOS COM MUITOS OBJETIVOS CONFLITANTES USANDO TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL
+Descrição: Muitos problemas desafiantes nos dias atuais envolvem a otimização de muitos objetivos
+conflitantes, dentre os quais podem ser citados: definição da topologia física em redes de
+telecomunicações considerando custo, robustez, desempenho, gasto energético; planejamento de
+transporte público considerando mais de um modal, custos e tempo de viagem; arquitetura para
+redes neurais e máquinas de aprendizagem profunda considerando o custo computacional,
+complexidade da arquitetura e acurácia. A lista completa de problemas de otimização sujeito a
+muitos objetivos conflitantes é extensa e permeia diversos outros domínios de aplicação como os
+encontrados em problemas sociais e biológicos, por exemplo. Problemas de otimização
+envolvendo muitos objetivos conflitantes são computacionalmente dispendiosos e geralmente têm
+sido apoiados por meta-heurísticas de otimização global. Um dos algoritmos mais promissores para
+tratar este tipo de problema é o NSGAIII, especialmente quando 4 ou mais objetivos conflitantes
+são considerados. Além disso, os algoritmos meméticos, que fazem uso de busca local no
+contexto de uma metaheurística de otimização global, tem demonstrado serem promissores para
+vários tipos de problemas. Por outro lado, Ciência das redes é uma área de investigação
+interdisciplinar que estuda redes complexas presentes em diferentes domínios de aplicação.
+Avanços importantes na Ciência das Redes estão relacionados com a proposição de modelos de
+geração de redes para criar grafos com propriedades topológicas semelhantes às propriedades
+encontradas em redes do mundo real. Neste sentido, quando os problemas de otimização para
+muitos objetivos são subclassificados para problemas discretos ou combinatoriais, nos quais seja
+possível modelar a relação entre as variáveis de decisão como uma estrutura em rede, as diversas
+técnicas de Inteligência Artificial podem ser combinadas com os avanços em Ciência das Redes
+para obter soluções de qualidade superior. No entanto, poucos estudos foram conduzidos neste
+sentido e diversas questões ainda estão em aberto. Esta proposta tem como objetivo principal
+propor novas abordagens para a otimização de problemas discretos, incluindo as redes
+geométricas que consideram a posição dos nós terminais como variáveis de decisão, tanto por
+meio de etapas de pré-processamento (que funcionam de forma offline), quanto por meio da
+otimização simultânea da posição dos nós e da topologia da rede. São objetivos específicos do
+projeto: propor modelos canônicos para geração de grafos geométricos que considere uma função
+de preferência para posições dos nós terminais; apresentar novas abordagens de otimização de
+redes geométricas que considera a otimização da posição de nós terminais em operadores de
+busca local de algoritmos de otimização iterativos; generalizar a proposta e ilustrar a aplicabilidade
+das abordagens obtidas em estudos de casos reais relacionados com redes relevantes para a
+sociedade, como otimização de redes de telecomunicações de alta capacidade, redes de
+transporte público e arquiteturas para máquinas de aprendizagem profunda.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Danilo Ricardo Barbosa de Araújo - Coordenador / Joaquim Ferreira Martins Filho - Integrante.Financiador(es): Universidade Federal Rural de Pernambuco - Auxílio
+										financeiro.
+2018 - 2020
+Utilização de técnicas de mineração de dados para extrair learning analytics em ambientes virtuais de aprendizagem no Brasil
+Descrição: O desenvolvimento da Internet proporcionou o surgimento de várias alternativas para melhorar serviços de saúde, segurança, educação, entre outros. Dentro da área de educação foram criados ambientes virtuais para proporcionar maior interação entre professores e alunos. Contudo, a adoção desses ambientes também gerou em um massivo aumento da quantidade de dados que precisam ser analisados. Por isso, se faz necessário a criação de ferramentas automáticas para auxiliar o processamento destes dados. Neste contexto, a área de learning analytics propõe técnicas de mineração de dados e de texto para extrair informações úteis de ambientes educacionais. Contudo, a aplicação dessas técnicas depende do contexto em que elas vão ser aplicadas, por exemplo: do ambiente educacional utilizado, das informações que devem ser extraídas, das metodologias pedagógicas locais. Diante deste cenário, esse projeto propõe a criação de learning analytics direcionadas para o contexto universitário brasileiro. Para alcançar esse objetivo é preciso realizar um estudo detalhado do contexto educacional brasileiro e como estão sendo utilizados os ambientes virtuais de aprendizagem no país.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (2) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Rodrigo Nonamor Pereira Mariano de Souza - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Taciana Pontual da Rocha Falcão - Integrante / Rafael Dueire Lins - Integrante / Juliana Regueira Basto Diniz - Integrante / Rodrigo Lins Rodrigues - Integrante.
+2018 - Atual
+Utilização de mineração de texto e learning analytics para análise de dados educacionais
+Descrição: Devido a grande procura por cursos a distância, a utilização de ambientes virtuais de aprendizagem tem aumentado consideravelmente a geração de dados que devem ser acompanhados pelos professores. Com isso, o acompanhamento individual dos alunos nesses ambientes é cada vez mais difícil, acarretando na falta de interesse, o que implica piora do desempenho ou até mesmo a evasão do aluno. Diante disto, faz-se necessário a aplicação de técnicas computacionais para auxiliar professores nesse acompanhamento. Dentro deste contexto, desde a década passada vem se desenvolvendo técnicas de learning analytics para extrair de forma automática informações de dados gerados em ambientes virtuais utilizados para o ensino. A proposta deste projeto de pesquisa é utilizar técnicas de mineração de texto para auxiliar o professor nas ferramentas relacionadas à produção de texto, como fórum e correção de redações e envio de feedback personalizado. Isto pode ajudar o professor na condução de cursos a distância, reduzir o índice de evasão dos alunos e dar uma resposta mais detalhada e efetiva na correção de redações. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Taciana Pontual da Rocha Falcão - Integrante / Ana Paula Carvalho Cavalcanti Furtado - Integrante / André Câmara Alves do Nascimento - Integrante.
+2017 - 2021
+Otimização de design de algoritmos de Inteligência Computacional
+Descrição: Otimizar  um  algoritmo  para  solucionar  um  dado  problema  é  uma  tarefa  desafiadora  devido  à 
+variedade de possíveis  escolhas de design  e  a  falta de  instrução  em  como  escolher  e ou  combinar 
+estes designs. A tarefa de otimização de algoritmos torna-se imprescindível pois o bom desempenho 
+de um determinado algoritmo, no geral, depende do ajuste adequado de parâmetros e  componentes 
+deste  algoritmo.  Por  este motivo,  têm-se  aumentado  o  interesse  na  automatização  do  processo  de 
+ajuste de algoritmos através do uso de abordagens da inteligência computacional, objetivando tornar 
+o design de algoritmos mais independente da intervenção humana. 
+A proposta deste projeto de pesquisa é utilizar abordagens focadas na seleção e ou geração de designs 
+de  algoritmos  de  inteligência  computacional  na  resolução  de  problemas  reais.  Isto  pode  ajudar  o 
+projetista e ou pesquisador na condução da escolha do algoritmo mais adequado para o seu problema 
+sem a necessidade de realizar experimentos de tentativa e erro para melhor ajustá-lo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Péricles Barbosa Cunha de Miranda - Coordenador / Ricardo Bastos Cavalcante Prudencio - Integrante / Ricardo Martins Abreu Silva - Integrante / Adenilton José da Silva - Integrante / Filipe Rolim Cordeiro - Integrante.
+2014 - 2016
+Investigações Teóricas e Empíricas sobre a Patrulha Multiagente
+Descrição: O problema da Patrulha Multiagente (MAP) tem várias aplicações potenciais, mas, em especial, este problema surgiu motivado por aplicações de segurança (e.g. patrulha policial, patrulha com robôs). O interesse de pesquisadores pela MAP tem crescido, o que provocou o surgimento de diversas variantes do problema.
+Em trabalhos recentes, agrupamos as variantes em duas grandes classes: EOMAP (Patrulha Orientada a Eventos) e TMAP (Patrulha Temporal). Esta pesquisa visa estudar a TMAP, que são as definições de Patrulha Multiagente mais simples, sem modelos de eventos.
+Nesta pesquisa, pretendemos desenvolver novos algoritmos da TMAP, tanto 3 aproximados (com fator de aproximação comprovado formalmente) como heurísticos (construídos com técnicas de IA diversas). Também pretendemos estudar soluções para o problema pela ótica multi-objetivo, que não existe na literatura. Por fim, pretendemos investigar o inter-relacionamento entre a TMAP e a EOMAP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Rodrigo Nonamor Pereira Mariano de Souza - Integrante / Pablo Azevedo Sampaio - Coordenador / Cláudio Tadeu Cristino - Integrante / Luciano Demétrio Santos Pacífico - Integrante / Geber Lisboa Ramalho - Integrante / Patrícia Cabral de Azevedo Restelli Tedesco - Integrante / Alessandro Nazário da Rocha - Integrante / Cleberson Barbosa das Chagas - Integrante / José Bartolomeu Alheiros Dias Neto - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2013 - 2016
+Meta-Aprendizado e Algoritmos de Otimização para Seleção de Parâmetros com Múltiplos Objetivos - Edital Universal Processo (470970/2013-8)
+Projeto certificado pelo(a) coordenador(a) Ricardo Bastos Cavalcante Prudencio em 30/05/2017.
+Descrição: Esse projeto investiga a combinação de técnicas de recomendação de parâmetros baseadas em meta-aprendizado para inicialização de algoritmo de otimização. Experimentos serão realizados em estudos de casos considerando multiplos objetivos na otimização de parâmetros. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (4) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Ricardo Bastos Cavalcante Prudencio - Coordenador / Luciano Souza Soares - Integrante / Carlos Alexandre Barros Mello - Integrante / André Câmara - Integrante / Diana Cavalcanti - Integrante.
+2013 - 2016
+Técnicas de Meta-Aprendizado para Seleção de Algoritmos
+Projeto certificado pelo(a) coordenador(a) Ricardo Bastos Cavalcante Prudencio em 30/05/2017.
+Descrição: O projeto investigas diferentes aspectos associados ao problema de seleção de algoritmos em diferentes domínios, com o foco no uso da abordagem de meta-aprendizado. São abordados no projeto os problemas de seleção e construção de meta-exemplos e técnicas para recomendação de algoritmos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (4) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Ricardo Bastos Cavalcante Prudencio - Coordenador / Luciano Souza Soares - Integrante / Carlos Alexandre Barros Mello - Integrante / André Câmara - Integrante.
+2011 - 2013
+Arquitetura Híbrida para Otimização Multi-Objetivo de SVMs
+Descrição: Vem sendo dada grande atenção às Máquinas de Vetores de Suporte (SVMs) devido à sua fundamentação teórica e seu bom desempenho quando comparadas a outros algoritmos de aprendizado em diferentes aplicações. Porém, seu bom desempenho depende fortemente da escolha adequada de seus parâmetros de controle. Embora a utilização de algoritmos de otimização e busca automatizem a seleção de parâmetros de SVM, ela pode se tornar inviável caso o número de parâmetros a serem selecionados aumente consideravelmente. Uma alternativa é o uso de Meta-Aprendizado (MA), que trata a tarefa de seleção de parâmetros como uma tarefa de aprendizado supervisionado. Cada
+exemplo de treinamento para oMA (meta-exemplo) armazena características de problemas passados e o desempenho obtido pelas conﬁgurações de parâmetros candidatas. Este conjunto de meta-exemplos forma a meta-base, sendo esta utilizada para auxiliar no módulo de sugestão ou meta-aprendiz. O meta-aprendiz tem a função de prever as conﬁgurações de parâmetros mais adequadas para um problema novo baseado em suas características. Deste modo, MA se torna uma alternativa menos custosa comparada aos algoritmos de otimização, pois faz uso de execuções passadas no processo de sugestão. Neste trabalho, as sugestões do meta-aprendiz são utilizadas como soluções iniciais da técnica de busca, sendo esta responsável pelo reﬁnamento das soluções sugeridas.
+Neste trabalho, foi criada uma arquitetura híbrida multi-objetivo, que combina MA com algoritmos de otimização, inspirados em enxames de partículas, com múltiplos objetivos aplicado ao problema de seleção de parâmetros de SVMs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (3) . Integrantes: Péricles Barbosa Cunha de Miranda - Integrante / Ricardo Bastos Cavalcante Prudencio - Coordenador / Andre Carlos P. L. F. Carvalho - Integrante / Carlos Soares - Integrante.
+2009 - 2010
+Particle Swarm Optimization Simulation Shell (PSS)
+Descrição: A tarefa de encontrar soluções para problemas de otimização é, na maioria
+das vezes, bastante difícil. A meta-heurística de otimização por enxame de
+partículas tem ganho muita atenção da comunidade científica por sua efetividade.
+Por isso, figura como uma das mais utilizadas na categoria dos algoritmos
+evolutivos, mais especificamente algoritmos baseados em comportamentos sociais.
+A existência de uma ferramenta que facilite a realização de pesquisas e análise dos
+resultados de novas propostas é de grande valia. O PSS
+(Particle Swarm Optimization Simulation Shell) é uma ferramenta de propósito geral
+para simulação de algoritmos de otimização por enxame de partículas. A referida
+ferramenta incorpora os mais importantes conceitos acerca do PSO, de forma que
+pode ser configurada para simular o comportamento das mais variadas instâncias do
+algoritmo. Incorpora conceitos de topologia de comunicação, mecanismos de
+atualização de velocidades, funções de teste e outras variações do PSO.
+Implementa ferramentas de análise de resultados, reforçando para a comunidade a
+necessidade da realização de análises estatísticas mais completas e confiáveis. As
+funcionalidades da ferramenta são testadas em dois estudos de caso, onde ela se
+mostrou bastante eficaz tanto na geração dos dados como em sua posterior análise.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Péricles Barbosa Cunha de Miranda - Coordenador / Emanoel Francisco Barreiros - Integrante / Carmelo José Albanez Bastos Filho - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.Número de produções C, T & A: 1

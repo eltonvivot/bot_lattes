@@ -1,0 +1,39 @@
+2016 - 2018
+Uso de métodos computacionais avançados para estimativa de reatividade e para segurança cibernética de sistemas de instrumentação e controle em sistemas energéticos nucleares
+Descrição: A utilização do Filtro de Kalman (KF), um estimador ótimo para sistemas lineares, e os
+filtros derivados, tais como o filtro estendido de Kalman (EKF), não é comum na área
+nuclear. Este trabalho irá implementar uma ferramenta para estimativa da reatividade, usando
+uma abordagem estocástica, em diferentes posições do núcleo de reatores nucleares, durante
+operação normal (Hot Full Power ? HFP) e quando a potência zero (Hot Zero Power ? HZP),
+a partir de medições ruidosas, utilizando-se sistemas digitais de instrumentação e controle
+(I&C), para mitigar ou minimizar a incerteza e erros durante a medição. A medição da
+reatividade é realizada, nos reatores nucleares (Nuclear Power Plant ? NPPs), utilizando-se o
+método determinístico de cinética pontual inversa (inverse point kinetic - IPK), que não leva
+em conta a natureza estocástica das interações do fluxo de nêutrons com a matéria. O método
+IPK também será modelado para benchmark.
+Além disso, o uso de ferramentas de estimativa de estado em segurança cibernética
+também não é comum. Este trabalho visa a implementação de ferramentas de estimativa de
+estado na segurança cibernética como opção de defesa de ponto contra ataques cibernéticos
+em sistemas digitais de automação e I&C em NPPs. Além de atividades de simulação, será
+implementada uma bancada do tipo hardware-in-the-loop (HIL), utilizando-se programmable
+logic controllers (PLC) e field programmable gate array (FPGA). O HIL será uma
+oportunidade para simular as condições de centrais nucleares, com base nos modelos
+desenvolvidos e adicionando o hardware necessário para a tarefa de controle, utilizando-se
+sistemas digitais de I&C. O comportamento da NPP será simulado por meio de modelos a
+serem desenvolvidos utilizando os códigos nucleares RELAP 5 ou/e PARCS 3D.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: José Roberto Castilho Piqueira - Coordenador / José Jaime da Cruz - Integrante / Rodney Busquim - Integrante / Jose Osvaldo de Souza Guimaraes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2016 - Atual
+Use of State Estimation Methods for Instrumentation and Control Cyber Security Assessment in Nuclear Systems
+Descrição: O projeto estuda a aplicação das ferramentas de identificação de sistemas e controle adaptativo ao controle e segurança de plantas nucleares.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: José Roberto Castilho Piqueira - Coordenador / José Jaime da Cruz - Integrante / Guimarães, Osvaldo - Integrante / Rodney Busquim - Integrante.Financiador(es): International Atomic Energy Agency - Cooperação.
+2012 - 2014
+Projeto temático: Fluxo Crítico de Calor para Reatores de Água Pressurizada
+Descrição: Especificação, ensaios, análise de dados de correlações de Fluxo Crítico de Calor para Reator de Água Pressurizada até 50 MWt. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: José Roberto Castilho Piqueira - Coordenador / José Jaime da Cruz - Integrante / Joao Francisco Justo Filho - Integrante / GUIMARÃES, O. - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 10
+2012 - 2014
+Sincronismo em redes de osciladores dissipativos
+Descrição: Estudar problemas relativos às redes de osciladores com termos dissipativos determinando regiões dos espaços de parâmetros correspondentes a estados síncronos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Roberto Castilho Piqueira - Coordenador.Financiador(es): Consorcio Internacional: USP, University of North Carolina, University of S - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2007 - 2009
+Projeto de Pesquisa Regular - Redes Mutuamente Conectadas para a Distribuição de Sinais de Relógio
+Descrição: Estudo de redes mutuamente conectadas para distribuição de sinais de relógio envolvendo montagens de circuitos, estudos analíticos e simulação computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: José Roberto Castilho Piqueira - Coordenador / Luiz Henrique Alves Monteiro - Integrante / Rodrigo Carareto - Integrante / Andre Alves Ferreira - Integrante / Atila Madureira Bueno - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 15

@@ -1,0 +1,19 @@
+2012 - 2012
+Análise de Imagens com Redes Neurais Artificiais (RNA) para Detecção de Problemas na Pavimentação de Estradas e Rodovias
+Descrição: A partir da análise, processamento e classificação de imagens de estradas e rodovias, esta pesquisa de Iniciação Científica propõe o estudo e utilização de Redes Neurais Artificiais (RNA's) com a finalidade de automação da detecção de falhas na pavimentação de estradas, tais como: buracos, rachaduras, problemas com erosão e etc. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Nilton Cesar Furtado Canto - Coordenador / Daniel Pereira dos Santos - Integrante / Dayvid Ribeiro Correia - Integrante / Thiago Bezerra de Souza - Integrante.
+2011 - 2012
+Estudo da Aplicação de Lógica Fuzzy em controles de temperatura
+Descrição: desenvolvimento e avaliação de um controlador fuzzy
+otimizado para o controle de temperatura em um sistema industrial. Será utilizado
+um PLC (controlador lógico programável) da Rockwell, família 5000 (Compactlogix
+ou Controllogix). Estes controladores são programáveis através da interface de
+software FuzzyDesigner da Rockwell Software.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Nilton Cesar Furtado Canto - Coordenador.Número de produções C, T & A: 3
+2010 - 2011
+Estudo da Aplicação de Mapas Auto-organizáveis para Mineração de Textos
+Descrição: projeto visa o desenvolvimento e/ou aperfeiçoamento de métodos de extração de conhecimento a partir de arquivos textos comuns, baseados em liguagem natural. Em particular, propõe-se o desenvolvimento de uma rede neural de duas camadas, denominada mapa auto-organizável, para extração de relações importantes em uma base de dados pública.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Nilton Cesar Furtado Canto - Coordenador / Renato José Sassi - Integrante.Número de produções C, T & A: 1
+2010 - 2011
+Objetos de Aprendizagem para o Ensino de Produção de Textos a Deficientes Visuais
+Descrição: Neste projeto, propõe-se o desenvolvimento de material didático digital para o apoio ao ensino de língua portuguesa, em particular, ao estudo da produção de textos aos portadores de deficiência visual. O projeto contempla a criação de um ambiente web acessível, segundo os padrões propostos pela World Wide Web Consortium (W3C 2008), e a utilização do conceito de objetos de aprendizagem (Alsubaie & Alshawi 2009) para a construção de componentes agrupáveis e reutilizáveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Nilton Cesar Furtado Canto - Integrante / Erika Inoue Nagase - Coordenador.
+2009 - 2010
+Utilização de Algoritmos Genéticos em Problemas de Satisfação de Restrições
+Descrição: O projeto visa o desenvolvimento e/ou aperfeiçoamento de métodos de solução, baseados em computação evolutiva, para problemas de satisfação de restrições oriundos de sistemas de produção. Em particular, o desenvolvimento de um algoritmo para solução e otimização do problema de corte de lâminas de vidro, o qual consiste em determinar o arranjo de peças a serem cortadas maximizando a utilização da lâmina e respeitando as restrições impostas pelo fluxo de produção e cronogramas de entregas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Nilton Cesar Furtado Canto - Coordenador / Renato José Sassi - Integrante.Financiador(es): Universidade Nove de Julho - Remuneração.Número de produções C, T & A: 5

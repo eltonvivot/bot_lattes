@@ -1,0 +1,46 @@
+2022 - Atual
+Análise de Séries Temporais Climáticas para Predição de Impactos e Eventos Adversos
+Descrição: O estudo de séries temporais que envolvam dados climáticos, tais como temperatura, incidência
+de chuvas, ventos ajudam a caracterizar o comportamento da natureza em cada estação do ano.
+A análise do histórico destes parâmetros pode sugerir a existência de padrões de comportamento,
+sendo possível buscar prever tendência de secas, chuvas fortes, ondas de calor ou frio. Estes
+fenômenos podem ter seus efeitos potencializados em regiões de grande densidade populacional
+ou ainda com a ocupação do solo de maneira impensada e inadequada. Este projeto propõe a
+criação de ferramentas computacionais para análise de série temporais que levam em
+consideração o uso e ocupação do solo, modelo de elevação do terreno e demais parâmetros
+geográficos relevantes a fim de prever cenários com potencial de geração de sinistros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Marconi de Arruda Pereira - Coordenador / Clodoveu Augusto Davis Junior - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2021 - Atual
+Processos de Cruzamento Socioambiental e Monitoramento de Áreas de Seguro Agrícola no Brasil
+Descrição: Realização de pesquisas envolvendo o cruzamento socioambiental e o monitoramento de áreas de seguro agrícola no Brasil, por meio da junção de esforços das partícipes acima qualificadas e da execução de seu Plano de Trabalho, elaborado para esse fim.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) . Integrantes: Marconi de Arruda Pereira - Integrante / Fernando Augusto Teixeira - Coordenador / André Hirsch - Integrante / Daniel Calbino - Integrante / Gabriel Pereira - Integrante / Glauciana da Mata Ataíde - Integrante / Gustavo Eduardo Marcatti - Integrante / Ivair Gomes - Integrante / Renato Vinícius Oliveira Castro - Integrante / Webert Saturnino Pinto - Integrante / Fernando Martins Pimenta - Integrante / Francielle da Silva Cardozo - Integrante / Marcela Costa Ferreira - Integrante / José Rogério de Almeida Júnior - Integrante / Tarlei Aparecido Gomes - Integrante / Leonardo Prado - Integrante / Andréa Cristina Rodrigues dos Santos - Integrante.Financiador(es): Ministério da Agricultura, Pecuária e Abastecimento - Outra.
+2017 - 2018
+Desenvolvimento de um sistema computacional para o processamento de dados laboratoriais relativos a ensaios de infraestrutura de transportes e obras geotécnicas
+Projeto certificado pela empresa GEOMINAS GEOLOGIA E CONSTRUTORA LTDA em 17/03/2017.
+Descrição: O projeto visa desenvolver um sistema computacional para o processamento de dados laboratoriais relativos a ensaios geotécnicos e de controle tecnológico. O sistema abarcará 6 (seis) módulos, sendo cada módulo relativo a uma área tecnológica da geotecnia e/ou obras de infraestrutura. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marconi de Arruda Pereira - Coordenador / Tales Moreira de Oliveira - Integrante / Victor Augusto Nascimento - Integrante.Financiador(es): GEOMINAS ? GEOLOGIA E CONSTRUTORA LTDA ? EPP - Bolsa.
+2013 - 2015
+Desenvolvimento de um Sistema de Informação  Multimídia para Recuperação de Imagens e Vídeos
+Descrição: Este projeto propõe a partir da análise de diferentes gêneros textuais,  imagéticos 
+e audiovisuais, o estabelecimento de critérios para a sua descrição e indexação em um 
+banco de dados de informações multimidiáticas. A recuperação efetiva de informações
+relevantes  é uma necessidade inerente  a  pesquisas em diversas áreas da ciência. 
+Tendo em vista um universo cada vez maior de  documentos, vídeos,  imagens,  os 
+sistemas de recuperação informação podem  se apresentar como  fortes  aliados aos 
+pesquisadores, minimizando o tempo despendido para a constituição de um corpus 
+de pesquisa.  Sendo assim, este projeto visa estudar formas de proceder ao 
+arquivamento, à classificação e à descrição de material visual ou audiovisual,  bem 
+como a sua disponibilização para pesquisadores. Neste cenário, fundamentando -se 
+em  teorias  da  análise do discurso, da semiótica  e  da  recuperação de informação, 
+propõe-se a constituição de modelos de indexação e   estabelecimento de  metadados 
+verbais e visuais  que constituirão formas de recuperação de informação no banco de 
+dados criado. O diálogo constante entre duas áreas de conhecimento, os Estudos de 
+Linguagens e a Ciência da Computação, durante todas as etapas da pesquisa 
+proposta, permitirá uma análise reflexiva sobre as diferentes abordagens possíveis 
+de  objetos particulares e que são marcados pela complexidade . Cabe ainda ressaltar 
+que  a pesquisa representa uma das mais importantes frentes de estudo e pesquisa 
+que vem sendo desenvolvida  no Grupo PIIM (Pesquisas Interdisciplinares em 
+Informação Multimídia).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Marconi de Arruda Pereira - Integrante / Giani David Silva - Integrante / Flávio Luis Cardeal Pádua - Coordenador / Wagner Ferreira de Barros - Integrante / Lilian Aparecida Arão - Integrante / Juliana Lopes Ferreira Sabino - Integrante / Celso Luiz de Souza - Integrante / Alfredo Luiz da Costa Miranda - Integrante / Leila Aparecida Anastácio - Integrante / Felipe Leandro Andrade da Conceição - Integrante / Letícia Santana Gomes - Integrante / Izabela Cristina Sampaio de Assis - Integrante / Cristiano Fraga Guimarães Nunes - Integrante.Financiador(es): Centro Federal de Educação Tecnológica de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2010
+Desenvolvimento de Sistema de Suporte a Decisão para Gestão da Qualidade dos Recursos Hídricos
+Descrição: Este trabalho propõe utilizar técnicas de geoprocessamento para armazenar e manipular dados espacializados possibilitando uma rápida obtenção de parâmetros de qualidade e quantidade de água para a aplicação do modelo de Streeter-Phelps, visando possibilitar a simulação da qualidade de água ao longo de um curso d água. Pretende-se desenvolver um sistema georreferenciado de suporte a decisão para gestão sistemática e integrada dos recursos hídricos com objetivo de fornecer uma ferramenta de suporte à decisão aos órgãos gestores competentes. Os objetivos específicos são: a)regionalizar a vazão mínima de sete dias de duração e período de retorno de 10 anos (Q7,10) para a bacia do Rio Paraibuna; b)espacializar, utilizando técnicas de geoprocessamento, os parâmetros relacionados às características do escoamento, necessários a alimentação do modelo de qualidade de água de Streeter-Phelps; c)implementar o modelo matemático de Streeter-Phelps para obter a curva de depleção de oxigênio do rio, em um sistema georreferenciado, servindo de ferramenta de suporte a decisão em processos de outorga da qualidade de água, para o órgão ambiental competente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marconi de Arruda Pereira - Integrante / Celso Bandeira de Melo Ribeiro - Coordenador / Demetrius David da Silva - Integrante / José Homero Pinheiro Soares - Integrante / Hygor Aristides Victor Rossini - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

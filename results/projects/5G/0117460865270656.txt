@@ -1,0 +1,60 @@
+2022 - Atual
+Redes ópticas Elásticas para o uso Eficiente da Largura de Banda
+Descrição: Edital Universal - Chamada CNPq/MCTI/FNDCT Nº 18/2021 - Faixa A - Grupos Emergentes. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Karcius Day Rosario Assis - Coordenador / Alex Ferreira dos Santos - Integrante / Raul Camelo de Andrade Almeida Júnior - Integrante / Brigitte Jaumard - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2022 - Atual
+Smart City Planning Using Optimization Techniques
+Descrição: The Alan Turing Institute Cooperation Project.
+More than half of the world?s inhabitants live in cities, and it is expected that the 
+urban population will double by the mid-century. Although each city is unique, city?s 
+officials are facing many similar challenges like gathering and analysing data for taking better. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Karcius Day Rosario Assis - Coordenador / Dimitra Simeonidou - Integrante.Financiador(es): UK Research and Innovation/Alan Turing Institute - Auxílio
+										financeiro.
+2022 - Atual
+5G Clarity
+Descrição: 5G-CLARITY will develop and demonstrate a beyond 5G system for private networks integrating 5G, Wi-Fi, and LiFi technologies, and managed through AI based autonomic networking.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Karcius Day Rosario Assis - Integrante / SIMEONIDOU, D. - Integrante / Haiyuan Li - Integrante / Shuangyi Yan - Coordenador / Hilary Frank - Integrante.
+2013 - 2015
+Planejamento e Otimização de Redes Ópticas Elásticas Baseadas na Tecnologia O-OFDM ? PORTO
+Descrição: Este projeto de pesquisa e cooperação internacional será executado no prazo de 24 meses entre o Departamento de Eng. Elétrica (DEE) da Escola Politécnica da Universidade Federal da Bahia (UFBA) e o Instituto de Telecomunicações - Instituto Superior Técnico (IT-IST) de Lisboa. O Projeto será em cooperação e tem a co-participação das seguintes intituições brasileiras: Universidade Federal de Pernambuco-UFPE, Universidade Federal do ABC e Universidade de Pernambuco-UPE.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (8) . Integrantes: Karcius Day Rosario Assis - Coordenador / Hélio Waldman - Integrante / Raul Camelo Almeida Jr. - Integrante / Joaquim Filho - Integrante / Carmelo Jose Albanez Bastos Filho - Integrante.Financiador(es): Fundação para a Ciência e a Tecnologia - Cooperação / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2012 - 2013
+O Conceito SLICE: Estudo de uma Nova Arquitetura para o Planejamento de Redes Ópticas
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Karcius Day Rosario Assis - Coordenador.
+2011 - 2013
+Gerenciamento de Redes Ópticas
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Karcius Day Rosario Assis - Coordenador.
+2010 - Atual
+Redes Ópticas Transparentes, Translúcidas e Elásticas
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Karcius Day Rosario Assis - Integrante / André C. B. Soares - Integrante / Gilvan Martins Durães - Integrante / Giozza, William Ferreira - Coordenador / DE SOUSA, RAFAEL TIMOTEO - Integrante.
+2008 - 2013
+Rede de Cooperação Universitária para Ensino Superior e Pesquisa Avançada em TV Digital e seus Cenários Interdisciplinares de Evolução
+Descrição: Este projeto constitui uma ampla rede de colaboração científica envolvendo pesquisadores, laboratórios e entidades com ativa participação no desenvolvimento da TV digital no Brasil, sobretudo na pesquisa do Sistema Brasileiro de TV Digital SBTVD. O objetivo é constituir um programa de formação de recursos humanos e pesquisa avançada com características interdisciplinares e visão de longo prazo, aproveitando as especialidades de seus membros... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Karcius Day Rosario Assis - Integrante / Hélio Waldman - Integrante / Celso Setsuo Kurashima - Coordenador / Itana Stiubiener - Integrante / Guiou Kobayashi - Integrante / Ivan Roberto Casella - Integrante / Rodrigo Reina Munoz - Integrante / Claudio Luis de Camargo Penteado - Integrante / Christiane Marie Schweitzer - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2008 - 2009
+Pró-Equipamentos (edital Capes 01/2007)
+Descrição: Projeto onde foi adquirido um roteador óptico para dar suporte a rede experimental do projeto Kyatera. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Karcius Day Rosario Assis - Integrante / Hélio Waldman - Coordenador / Marcelo Z. Nascimento - Integrante / Gélio M. Ferreira - Integrante / Carlos Kamienski - Integrante.Financiador(es): Universidade Federal do ABC - Auxílio
+										financeiro.
+2008 - 2008
+Metodologia de dimensionamento de redes ópticas transparentes sob tráfego dinâmico com garantia de SLA
+Descrição: Atualmente, a infra-estrutura da maioria das redes de transporte de telecomunicações é implementada com redes ópticas opacas cujos nós comutadores processam as informações transportadas no domínio eletrônico. A conversão opto-eletrônica em nós intermediários permite uma maior granularidade e flexibilidade na provisão de serviços de média e baixas velocidades. Entretanto quando se trata de prover serviços para um tráfego dinâmico de alta velocidade em longas distâncias, (e.g., aplicações do tipo e-science), esse processamento eletrônico intermediário resulta geralmente num gargalo de desempenho e custo. Em redes ópticas transparentes, a comutação é realizada inteiramente no domínio óptico comandada dinamicamente por algoritmos de alocação e roteamento de comprimento de onda, e de estratégias de conversão de comprimentos de onda. Além de otimizar desempenho e custo com relação às redes opacas, o desenvolvimento de redes ópticas transparentes traz outras exigências, como por exemplo, servir aplicações com requisitos customizados de QoS e de capacidade de recuperação em caso de falhas. As técnicas de sobrevivência usuais precisam ser reformuladas para atender essas novas demandas customizadas. Este trabalho visa investigar de uma maneira integrada esses diferentes problemas envolvidos no planejamento, dimensionamento e operação de redes ópticas transparentes, considerando a provisão de serviços sob tráfego dinâmico com requisitos customizados definidos em SLAs (Service Level Agreement)... Situação: Concluído; Natureza: Pesquisa. Integrantes: Karcius Day Rosario Assis - Integrante / William Giozza - Coordenador / André C. B. Soares - Integrante / J. Maranhao - Integrante / José Roberto de Almeida Amazonas - Integrante / Gilvan Martins Durães - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2007 - 2009
+Programas de Inovação Tecnológica / TIDIA - Projeto KyaTera / Redes Ópticas
+Descrição: Projeto de conectividade óptica que irá fazer medidas em um link experimental de fibra óptica entre Santo André (UFABC) e Campinas (UNICAMP). O projeto faz parte do programa TIDIA/Kyatera da FAPESP, e o valor total de financiamento é R$135.000,00. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Karcius Day Rosario Assis - Coordenador / Hélio Waldman - Integrante / William Giozza - Integrante / Gélio M. Ferreira - Integrante / Carlos Kamienski - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2006 - 2007
+PlanoW: Planejamento e Otimização de Sistemas de Redes Ópticas e  Redes Wireless
+Descrição: : O projeto tem por objetivo desenvolver uma metodologia para planejamento de redes ópticas e redes wireless através de técnicas exatas de Programação Linear e de técnicas heurísticas. Especificamente, pretendemos utilizar redes neurais, que tem sido amplamente estudada pela literatura atual, sendo apontada como uma boa alternativa para resolver problemas dinâmicos, os quais têm grande aplicabilidade no planejamento das modernas redes de telecomunicações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado profissional: (1) . Integrantes: Karcius Day Rosario Assis - Coordenador / William Giozza - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2005 - 2006
+O Suporte ao Tráfego de Dados pela Rede Óptica, bolsa FAPESB DTR 2 (Desenvolvimento Tecnológico Regional 2
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Karcius Day Rosario Assis - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2004 - 2006
+PLANOTIM
+Descrição: O objetivo geral deste projeto é o desenvolvimento de uma metodologia e ferramenta integrada para o planejamento e otimização de topologias e do roteamento em redes ópticas, com as seguintes atividades específicas:
+1) Especificação de uma metodologia integrada para o planejamento e otimização de redes ópticas no contexto GMPLS;
+2) Desenvolvimento de uma ferramenta de software integrando a ferramenta SimRWA desenvolvida pelo GRO-NUPERC e o software comercial ILOG CPLEX;
+3) Extensão do estudo de algoritmos de roteamento e alocação de comprimentos de onda em redes com conversão esparsa e parcial de l;
+4) Avaliação de algoritmos e heurísticas para o projeto e reconfiguração da topologia virtual em camadas imediatamente superiores à camada de conectividade fotônica;
+5) Estudo e especificação de estratégias e protocolos de proteção e restauração para redes ópticas em malha no contexto GMPLS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karcius Day Rosario Assis - Integrante / William Giozza - Coordenador / André C. B. Soares - Integrante.Financiador(es): Universidade Estadual de Campinas - Cooperação / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.Número de produções C, T & A: 1
+2000 - 2004
+Optical Networking- Unicamp/Ericsson S.A
+Descrição: Projeto de pesquisa na área de redes ópticas durante o período de 2000 à 2004. Alguns objetivos do projeto foram: a) pesquisa sobre planejamento roteamento e alocação de comprimento de onda em redes ópticas(efetivado) b) criação de um laboratório de pesquisa na área de comunicações ópticas (efetivado www.optinet.fee.unicamp.br) c) Intercâmbio de alunos (efetivado) d) geração de publicações (efetivado).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4)  / Doutorado: (4) . Integrantes: Karcius Day Rosario Assis - Integrante / Hélio Waldman - Coordenador / José Renato Paula Naves - Integrante / Marcio S. Savasini - Integrante.Financiador(es): Ericsson do Brasil Comércio e Indústria S/A - Outra.Número de produções C, T & A: 11

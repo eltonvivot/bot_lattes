@@ -1,0 +1,4 @@
+2012 - 2015
+Raciocínio Espacial Colaborativo para Múltiplos Robôs
+Descrição: O objetivo desta proposta de pesquisa é desenvolver um novo formalismo de raciocínio espacial qualitativo, que denominamos Raciocínio Espacial Colaborativo, capaz de inferir fatos sobre as informações perceptuais provenientes de múltiplos agentes. Este formalismo será aplicado na interpretação de cenas a partir de múltiplos pontos de vista em um sistema com múltiplos robôs heterogêneos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Flavio Tonidandel - Integrante / Reinaldo Augusto da Costa Bianchi - Integrante / Murilo Fernandes Martins - Integrante / Paulo Eduardo Santos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

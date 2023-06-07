@@ -1,0 +1,152 @@
+2021 - Atual
+Rede de Inteligência Artificial Aplicada ao Diagnóstico por Imagem
+Descrição: Este projeto propõe a aplicação de técnicas de Inteligência Artificial no diagnóstico médico a partir de imagens de ressonância magnética. São propostos quatro subprojetos. Os três primeiros são diretamente relacionados com o diagnóstico por imagem: Avaliação de risco de câncer de mama a partir de ressonância magnética; Aceleração de ressonância magnética em Neurologia através de super-resolução e remoção de ruído; e Estimação do volume de líquido amniótico para Medicina Fetal. O quarto subprojeto, Convergência entre IA e Computação Distribuída de Alto Desempenho, tem como objetivo prover a infraestrutura computacional adequada para os demais subprojetos e o funcionamento da rede de forma geral. Nosso projeto poderá permitir o diagnóstico precoce de importantes enfermidades e representar progresso importante para a Ciência e Tecnologia fluminenses.
+Coordenador: Roberto Imbuzeiro Oliveira
+Vice-Coordenador: Gilson Antonio Giraldi. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Integrante / Pablo Javier Blanco - Integrante / Roberto Imbuzeiro Moraes Felinto de Oliveira - Coordenador / Heron Werner Júnior - Integrante / Bruno Richard Schulze - Integrante / Guilherme Ost de Aguiar - Integrante.
+2020 - Atual
+Processamento e Segmentação de Imagens e Vídeos para Vigilância e Geração de Mapas de Cobertura e Uso do Solo da Região de Petrópolis
+Descrição: A geração de um mapeamento espacial sobre o uso e a cobertura do solo é fundamental para fornecer subsídios necessários para tomada de decisões no que diz respeito ao correto manejo dos recursos naturais envolvidos. Por outro lado, a vigilância para acompanhamento de atividades ilegais ou eventos naturais é outra demanda crescente no contexto da preservação de recursos naturais e da biodiversidade. Cientes destas questões, os pesquisadores do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) e do Laboratório Nacional de Computação Científica (LNCC), vêm desenvolvendo ações integradas para obter um levantamento atualizado das ações humanas referentes a utilização do solo e da distribuição espacial da vegetação da Área de Proteção Ambiental da região da cidade de Petrópolis, a qual compreende uma área de 68.224,29 hectares, no bioma da Mata Atlântica. Neste sentido, este projeto envolve as seguintes atividades: a) Processamento de imagens georreferenciadas obtidas por veículo aéreo não tripulado (VANT); b) Geração de ortomosaico de imagens; c) Segmentação da cobertura e uso do solo atual proveniente das informações das ortoimagens; d) Análise de vídeos para detecção de eventos de interesse para preservação ambiental. Todas essas etapas são computacionalmente custosas sendo que as etapas (a), (c) e (d) vêm sendo executadas aplicando aprendizagem profunda. No caso (c) estamos trabalhando com as redes U-Net e Segnet com o objetivo de segmentar o ortomosaico gerado do item (b), em diferentes regiões, de acordo com o tipo de uso do solo. Para o item (d) estamos desenvolvendo uma metodologia de sumarização de vídeo composta por técnicas de processamento de sinais, agrupamento e redes neurais profundas que pode ser utilizada para minimizar o trabalho humano na análise e identificação de eventos. A etapa (b) será desenvolvida usando softwares apropriados para geoprocessamento. Assim, do ponto de vista científico, este projeto visa: (1) Pesquisa de novas técnicas para segmentação de imagens via aprendizagem profunda; (2) Desenvolvimento de uma nova metodologia para sumarização de vídeo. Por outro lado, a disponibilização de mapas de cobertura e uso do solo atualizados vai permitir a gestão ambiental adequada e fornecer subsídios para desenvolvimento sustentável da região.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Gilson Antonio Giraldi - Coordenador / Eden Pereira da Silva - Integrante / André de Souza Brito - Integrante / Jose Marcato Junior - Integrante / Wesley Gonçalves - Integrante.Número de orientações: 1
+2020 - Atual
+FORMAÇÃO DE DOUTORES EM ENGENHARIA ELÉTRICA NAS ÁREAS DE SAÚDE E ENERGIA
+Descrição: Este projeto objetiva a cooperação científica entre o programa de pós-graduação em
+Engenharia Elétrica do Centro Universitário FEI ? FEI (Instituição de Origem) e os programas de
+pós-graduação em Engenharia Elétrica da Faculdade de Engenharia Elétrica e de Computação da
+Universidade Estadual de Campinas ? Unicamp (Instituição de Destino), e o programa de pósgraduação
+em Modelagem Computacional do Laboratório Nacional de Computação Científica ?
+LNCC (Instituição de Destino). Por intermédio deste projeto, será realizado o intercâmbio de
+docentes e discentes das instituições envolvidas, objetivando a formação de doutores nas áreas
+estratégicas de Energia e Saúde. O projeto será desenvolvido em duas áreas fundamentais, Energia e Saúde, cada uma relacionada com uma das instituições de destino. Na colaboração na área de Energia com o Centro de Componentes Semicondutores e
+Nanotecnologias da FEEC da Unicamp, os objetivos deste projeto são: 1 ? Fabricação de nanofios
+transistores em tecnologia SOI para aplicações de baixa potência; e 2 ? Fabricação de células
+solares no substrato de lâminas SOI visando à confecção de sistemas autônomos.
+Na colaboração na área de Saúde com o Laboratório Nacional de Computação Científica,
+os objetivos deste projeto são: 1 ? Modelagem matemática, reconhecimento de padrões e
+computação gráfica de imagens médicas e biosinais; e 2 ? Realidade Virtual, Realidade Aumentada e Reconstrução 3D de imagens médicas. O projeto tem como coordenadr geral o Prof. Marcelo Antonio Pavanello (FEI), tendo como coordenador local na Unicamp o Prof. José Alexandre Diniz e no LNCC o Prof. Gilson Antonio Giraldi. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (10) . Integrantes: Gilson Antonio Giraldi - Integrante / Paulo Sérgio Rodrigues - Integrante / Carlos E. Thomaz - Integrante / Marcelo Antonio Pavanello - Coordenador / Jose Alexandre Diniz - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2018 - Atual
+Processamento e Análise de imagens georreferenciadas obtidas por veículos aéreos não tripulados
+Descrição: Projeto desenvollvido no ambito do Acordo de Cooperação Técnica entre INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE (ICMBio ) e o LABORATÓRIO NACIONAL DE COMPUTAÇÃO CIENTÍFICA (LNCC),  visando a realização de ações integradas para processamento, classificação, análise de imagens e disponibilização de resultados em um sistema on-line sobre as relações de uso do solo no território da Área de Proteção Ambiental (APA) de Petrópolis. A aquisição das imagens será feita pela equipe do Pesquisador Victor Paulo Azevedo Valente da Silva
+ do ICMBio, Vice-Coordenador do projeto,responsável pela coordenação das atividades de aquisição de dados e aprimoramento dos instrumentos de gestão e ordenamento da região.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Coordenador / Sérgio de Siqueira Bertoche - Integrante / Victor Paulo Azevedo Valente da Silva - Integrante / Leonardo Martins Gomes - Integrante / André de Souza Brito - Integrante / Raul Queiroz Feitosa - Integrante.
+2018 - Atual
+VISCARB - ATLAS DIGITAL INTERATIVO COM VISUALIZAÇÃO 3D  DE ANÁLOGOS EM VÁRIAS ESCALAS E MODELAGEM MULTIESCALAR
+Descrição: Este projeto tem propósito central de subsidiar o entendimento de processos de fratura e carstificação dos reservatórios carbonáticos, bem como auxiliar na construção de modelos geológicos mais realistas, através do desenvolvimento de um sistema computacional (Atlas Geológico Interativo) capaz de acomodar dados em diferentes escalas, tendo o modelo virtual de afloramentos como âncora. Por fim, a modelagem desses reservatórios deverá incorporar aspectos de porosidade, permeabilidade, rugosidade,  além da grande variedade de reações de dissolução e neoformação de minerais. Em particular, um dos objetivos da equipe do LNCC é a construção de modelos de acoplamento hidro-geomecanico  capazes de  descrever possíveis  colapsos da caverna durante a recuperação de hidro carbonetos . Tal metodologia vem sendo desenvolvida no contexto dos modelos de elementos discretos aplicados a cenários de colapso. O objetivo é simular a carga limite de colapso da caverna devido a retirada de fluido do seu interior.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Coordenador / Márcio Murad - Integrante / Liliane Rodrigues de Almeida - Integrante / Eduardo Lucio Mendes Garcia - Integrante / Patricia de Araujo Pereira - Integrante / Tuane Vanessa Lopes - Integrante / Josué dos Santos Barroso - Integrante / Aline Cristina da Rocha - Integrante / Jeane Macedo de Oliveira Ramos - Integrante / Luiz Gonzaga da Silveira Junior - Integrante.
+2017 - Atual
+Cálculo de propriedades equivalentes em domínios análogos aos reservatórios carbonáticos do pré-sal brasileiro
+Descrição: Devido a extensão do pré-sal, simulações na escala onde ocorrem as heterogeneidades são extremamente caras computacionalmente e difíceis de serem realizadas. Neste cenário técnicas de upscaling para o cálculo de propriedades equivalentes em escalas menores, cuja magnitude seja capaz de incorporar  detalhes geológicos, tornam-se mandatórias.
+Na abordagem desenvolvida neste projeto, os grandes objetos, que exercem influência direta sobre o escoamento,  são incorporados explicitamente ao modelo computacional  mesoscópico, enquanto os objetos de menor dimensão, que ocorrem em maior frequência, são homogeneizados e substituídos por um contínuo equivalente com propriedades hidrodinâmicas  computadas através do processo de upscaling. Nesta linha de pesquisa, desenvolvemos uma metodologia baseada em técnicas de processamento de imagens digitais para extrair informações sobre as micro fraturas e usar tais informações para determinar a permeabilidade equivalente da matriz porosa  que na escala meso é tratada como um contínuo equivalente. Estamos também trabalhando com técnicas de 'Discrete Element Modelling' com objetivo de desenvolver um sistema integrando simulacao e animação, o qual possa incorporar informações provenientes de simulações de materiais com caracteristicas granulares onde as interações entre particulas sao consideradas explicitamente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Gilson Antonio Giraldi - Integrante / Eduardo da Silva Castro - Integrante / Patrícia A. Pereira - Integrante / Márcio Murad - Coordenador / Liliane Rodrigues de Almeida - Integrante.
+2016 - Atual
+Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica (INC-MACC)
+Descrição: Realizar pesquisa e desenvolvimento em computação científica e suas aplicações na medicina, em especial a modelagem e simulação computacional dos sistemas fisiológicos que integram o corpo humano; promover o desenvolvimento do processamento de imagens médicas, da visualização científica e da realidade virtual no desenvolvimento de aplicativos médicos orientados para a diagnose auxiliada por computador, tratamento, planejamento cirúrgico, treinamento e credenciamento médico; empregando as mais modernas técnicas de comunicação e transmissão multimídia desenvolver e gerenciar ambientes computacionais de alto desempenho que atendam às necessidades da medicina assistida por computação científica do País; formar recursos humanos e promover transferência de tecnologia e inovação para a área da saúde assistida por computação científica. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Integrante / Paulo Sérgio Rodrigues - Integrante / Antonio Lopes Apolinário - Integrante / Carlos E. Thomaz - Integrante / Luiz A. Pereira Neves - Integrante / Jaime S. Cardoso - Integrante / Denise Guliato - Integrante / Gastão Florêncio Miranda Junior - Integrante / Vinícius Moreira Mello - Integrante / Tiene A. Filisbino - Integrante / Josildo Pereira da Silva - Integrante / Leandro Tavarez da Silva - Integrante / Rodrigo Luis de Souza da Silva - Integrante / Luciano Rebouças - Integrante / Perfilino Eugenio Ferreira Junior - Integrante / Jose Eduardo Krieger - Coordenador / Marcelo Daniel Brito Faria - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2016
+The computational power of restricted quantum and cIassical models
+Descrição: Neste projeto, vamos
+analisar a computação quântica do ponto de vista da complexidade
+computacional e teoria dos autômatos finitos. Nossos principais objetivos da pesquisa são: (1) encontrar novos
+algoritmos clássicos e quânticos,  (2) apresentar novos resultados de
+separação, (3) dar a caracterização de classes de complexidade
+definidas pelos modelos limitados, (4) provar novos resultados de
+impossibilidade, e (5) encontrar algumas aplicações dos nossos novos
+resultados e métodos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Coordenador / Renato Portugal - Integrante / ABUZER YAKARYILMAZ - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2014 - Atual
+Aquisição, interpretação e reconhecimento de sinais cognitivos em jogos de xadrez
+Projeto certificado pelo(a) coordenador(a) Carlos Eduardo Thomaz em 18/12/2016.
+Descrição: O xadrez tem atraído ao longo das últimas décadas o desenvolvimento de
+diversos trabalhos acadêmicos em áreas distintas do conhecimento científico. Este projeto tem
+como finalidade entender o processo de aquisição, interpretação e reconhecimento de sinais
+cognitivos em jogos de xadrez para compreender como aspectos distintos da cognição humana
+interagem entre si para execução desta tarefa mental complexa. 
+Para isto, serao adquiridos os movimentos oculares e os sinais de eletroencefalografia de enxadristas com diferentes níveis de experiência para reconhecer possíveis padrões cognitivos visuais e de
+mapeamento cerebral durante jogadas específicas de uma partida, justificadas verbalmente pelos
+próprios enxadristas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Integrante / Carlos E. Thomaz - Coordenador / Fábio Theoto Rocha - Integrante / Wilson da Silva - Integrante / Davy Maurice D?Israel - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2016
+Instituto Nacional de Ciência e Tecnologia / Medicina Assistida por Computação Científica
+Descrição: O Projeto INCT/MACC (Medicina Assistida por Computação Científica), aprovado pelo edital 15/2008 do INCT.No período 2009 - 2013 o INCT - MACC focará suas atividades de P&D visando, por
+um lado, permitir a imediata integração e incorporação dos conhecimentos e das tecnologias já amadurecidas e desenvolvidas pelos pesquisadores participantes e,
+por outro lado, ser o elemento catalisador para o surgimento de novos
+conhecimentos em áreas relevantes da saúde e para o desenvolvimento de novos
+aplicativos a serviço da medicina no País. Assim, os seguintes temas serão
+abordados:
+1. Modelagem e simulação computacional de sistemas fisiológicos complexos
+(MSCO) com ênfase no
+i) Sistema Cardiovascular Humano. Para poder atender os temas mais
+relevantes neste tópico serão realizadas as seguintes atividades:
+ii) Modelagem e simulação do sistema cardiovascular propriamente dita.
+iii) Modelagem e simulação computacional para quantificação automática de
+propriedades mecânicas e da cinética de determinadas regiões do
+músculo cardíaco desenvolvendo, inclusive, índices para auxílio a
+diagnóstico e terapia por parte do clínico.
+iV) Modelagem Computacional do Sistema Cardiovascular Humano em
+pacientes com Doença Isquêmica do Coração: Estudo piloto da estrutura
+da parede arterial e fisiopatologia de segmentos arteriais de coronárias
+por modelagem computacional do sistema cardiovascular utilizando
+dados obtidos por técnicas de imagem em pacientes com doença
+cardíaca isquêmica incluindo a modelagem e simulação computacional
+dos efeitos da angioplastia com stents.
+vi) Métodos de Domínios Imersos para a modelagem e simulação
+computacional de problemas complexos de interação sólido-fluido
+(válvulas cardíacas, stents, etc.).
+vii) Modelagem Multi-Escala na simulação computacional do comportamento
+de tecidos biológicos.
+viii) Métodos de Lattice Boltzmann na modelagem das equações de Navier-
+Stokes para o escoamento do sangue.
+iX) Modelagem e Métodos Numéricos Multi-Es. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Integrante / Raul Feijóo - Coordenador / Jauvane C Oliveira - Integrante / Bruno Schulze - Integrante / Antonio Lopes Apolinário - Integrante / A.A. Novotny - Integrante / Luiz A. Pereira Neves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2012
+Rede de Cooperação para Análise de Dados e Modelagem Computacional em Bioengenharia Craniofacial
+Descrição: Neste projeto pretendemos criar uma rede de cooperação acadêmica para estimular o desenvolvimento de métodos para análise, classificação e segmentação de imagens médicas, visualização científica e previsibilidade de resultados para a geração de próteses craniofaciais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (3)  / Mestrado acadêmico: (3)  / Mestrado profissional: (3)  / Doutorado: (3) . Integrantes: Gilson Antonio Giraldi - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2008
+ESTILISTA DIGITAL: UMA SOLUÇÃO PARA CRIAÇÃO DE MODA E CONFECÇÃO BASEADA EM ESBOÇOS
+Descrição: Projeto envolvendo técnicas de modelagem computacional, modelagem geométrica e computação gráfica para edição de modelos para a indústria Têxtil.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Integrante / Antonio Lopes Apolinário Júnior - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Remuneração.
+2006 - Atual
+Técnicas de Estatística Multivariada para Classificação de Imagens
+Descrição: Neste projeto temos dois objetivos principais. Primeiramente,  vamos estudar novas possibilidades para seleção de componentes principais a partir dos hiperplanos separadores fornecidos pelo SVM e pelo LDA
+Em seguida, vamos desenvolver estudos teóricos comparativos entre LDA e SVM envolvendo os seguintes temas: 1) funções Kernels; 2) Aplicações em imagens  de ressonância do cérebro e faces.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Integrante / Paulo Sérgio Rodrigues - Integrante / Carlos E. Thomaz - Coordenador.Financiador(es): FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS - Cooperação / Laboratório Nacional de Computação Científica - Cooperação.
+2005 - 2010
+Modelagem e Simulação Computacional do Sistema Cardiovascular Humano
+Descrição: Pesquisa de métodos computacionais e modelos de simulação para estudo do sistema cardiovascular humano. Desenvolvimento de softwares baseados em técnicas de computação  e modelagem computacional para apoio a atividades médicas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Integrante / Raul Feijóo - Coordenador / Jauvane C de Oliveira - Integrante / Pablo Javier Blanco - Integrante.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro.
+2005 - Atual
+Sistema Integrado para Reconstrução de Superfícies Traumáticas e Previsibilidade de Resultados para Manufatura de Próteses Craniofaciais
+Descrição: Este projeto tem por objetivo desenvolver tecnologia nacional e de inovação para reconstrução tridimensional de ossos craniofaciais e previsibilidade de resultados. Através do aprimoramento de técnicas de reconstrução, utilizadas no LNCC e na Escola de Engenharia da USP de São Carlos, é possível a construção de sistemas que atendam aos requisitos da manufatura dessas próteses.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilson Antonio Giraldi - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Hospital Santa Tereza - Cooperação / Universidade de São Paulo - Cooperação.
+2005 - Atual
+Visualização e Análise de Dados em Hemodinâmica Computacional e Animação de Fluidos - Bolsa de Produtividade CNPq
+Descrição: As atividades deste projeto estão relacionadas envolvem animação computacional de
+fluidos, modelos deformáveis, aplicações de equações diferenciais ao processamento
+de imagens e visualização científica.
+Especificamente, vamos dar continuidade aos trabalhos que vêm sendo realizados em aplicações de equações tipo difusão-reação em processamento de imagens e modelos deformáveis para extração de superfícies em imagens médicas 3D. Além das técnicas de difusão tradicionais baseadas em equações diferenciais, serão também explorados métodos de difusão baseados em autômatos celulares  para processamento de imagens.
+Por outro lado, pretendemos explorar métodos Lagrangeanos para desenvolver técnicas de animação de fluidos para computação gráfica. Esta área demanda conhecimentos em equações de fluidos, bem como técnicas de visualização científica para fazer o pós-processamento dos campos obtidos, gerando ao final, o efeito visual desejado. As técnicas de visualização utilizadas nesta área (Volume Rendering, LIC e Splatting) constituem temas atuais de pesquisa em visualização científica. Com relação à visualização cietífica em particular, daremos também continuidade aos trabalhos que exploram computação em grade na visualização de grandes volumes de dados. A técnica de traçado de partículas está sendo implementada para este ambiente. Em seguida será utilizado uma implementação de volume rendering para memória distribuida, em ambiente de grade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Gilson Antonio Giraldi - Coordenador / Paulo Sérgio Rodrigues - Integrante / Algemiro Augusto da Silva Neto - Integrante / Antonio Lopes Apolinário - Integrante.Financiador(es): Laboratório Nacional de Computação Científica - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - Atual
+Visualização Científica e Segmentação de Imagens Aplicadas à Hemodinâmica Computacional
+Descrição: Nas últimas décadas, observou-se um interesse crescente na utilização de métodos computacionais no estudo da hemodinâmica. 
+A pesquisa em hemodinâmica computacional pode ser dividida em 4 etapas básicas: (1) Processamento de imagens médicas para extração das geometrias das artérias; (2) Geração de malhas; (3) Simulação numérica do fluxo sangüíneo; (4) Visualização dos dados gerados. 
+As atividades deste projeto se referem ás etapas (1) e (4). As metas principais do mesmo são a pesquisa e o desenvolvimento de técnicas para extração da geometria das artérias e visualização de dados em hemodinâmica computacional.
+Por extração de geometrias, também chamado reconstrução de superfícies, entendemos extração de uma superfície que represente a parede (interna ou externa) da artéria de interesse. Para este fim, pode-se utilizar  crescimento de regiões, métodos do tipo cubos marchantes ou  modelos deformáveis. Recentemente, temos demonstrado a eficiência da combinação de um tipo particular  de modelo deformável (a T-superfície) com métodos do tipo cubos marchantes. Esta  é uma linha de pesquisa que pretendemos continuar no âmbito deste projeto.
+Do ponto de vista da visualização de dados, um aspecto fundamental é sua representação. Temos dados representados em malhas regulares (imagens tomográfica) e em malhas não-estruturadas (dados gerados nas simulações).
+Com relação ao tipo dos dados, estes podem ser escalares (intensidade de imagem e pressão), vetoriais (velocidade do sangue) e tensoriais (gradiente do campo de velocidades), bi ou tridimensionais, estacionários ou dependentes do tempo. A ordem de grandeza dos mesmos, pode facilmente chegar a GigaBytes, superando portanto a capacidade de memória dos computadores convensionais.
+Assim, dois fatores se destacam na visualização: custo computacional (tempo de geração de cada imagem) e limitação de memória principal disponíveis nos computadores convencionais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gilson Antonio Giraldi - Coordenador.Financiador(es): Laboratório Nacional de Computação Científica - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2015
+Visualização Científica, Análise de Imagens e Realidade Virtual
+Descrição: Este projeto visa pesquisa e desenvolvimento nas áreas de visualização científica e análise de imagens. Seus objetivos principais seguem abaixo:
+Objetivos:
+- Pesquisa de novas metodologias para segmentação/visualização,
+- Desenvolvimento de aplicativos gráficos para dispositivos tradicionais (2D), usando as    bibliotecas de classes do Visualization Toolkit (Vtk) [Schroeder at al. (1998)]
+- Desenvolvimento de novas técnicas para animação de fluidos.
+- Desenvolvimento de aplicativos usando dispositivos de Realidade Virtual. 
+- Desenvolvimento de modelos de terrenos para simulação da dinâmica de águas.
+- Desenvolvimento de um CAVE de baixo custo baseado em um cluster de PCs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Gilson Antonio Giraldi - Coordenador / Antonio Lopes Apolinário Junior - Integrante / Raul Feijóo - Integrante / Antonio Salgado - Integrante / Jauvane C Oliveira - Integrante / Rodrigo Luiz S Silva - Integrante / Paulo Sérgio Rodrigues - Integrante / Adilson Vicente Xavier - Integrante / Algemiro Augusto da Silva Neto - Integrante.Número de produções C, T & A: 18
+2001 - 2016
+Informação Quântica
+Descrição: A informação quântica estuda métodos para caracterizar, transmitir, armazenar, compactar e manipular a informação contida em estados quânticos. Trata-se de um tema amplo e multidisciplinar, que teve um desenvolvimento acelerado nos últimos anos, motivado de um lado pelo seu interesse fundamental, e de outro pelas perspectivas de aplicação em computação quântica, telecomunicação e criptografia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Gilson Antonio Giraldi - Integrante / Jean Faber - Integrante / Renato Portugal - Coordenador.
+2001 - 2002
+Visualização Científica e Segmentação de Imagens Aplicadas ao Estudo da  Hemodinâmica do Sistema Cardiovascular Humano
+Descrição: Este projeto visa pesquisa e desenvolvimento de tecnicas para segmentacao e arterias em imagens tomograficas, bem como a implementacao de aplicativos para visualizacao de dados numericos gerados nas simulacoes da hemodinamica do sistema arterial.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilson Antonio Giraldi - Coordenador / Raul Feijóo - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.

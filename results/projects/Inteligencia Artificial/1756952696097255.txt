@@ -1,0 +1,117 @@
+2021 - Atual
+Formal Verification of Relay-based Railway Interlocking Systems
+Descrição: Railway Interlocking Systems (RISs) are the part of the Railway Signalling Systems responsible for detecting the trains positions and control the track-side equipment in a safe manner. Despite the existence of Computer-controlled RISs, the relay-based implementation is still used in the majority of the installations. This choice can be explained by the historical success of this technology in addition to its lower complexity and unequivocally defined fault modes. Since a failure on these systems may cause dangerous consequences like collisions or derailments, they are considered as safety-critical systems. Thus, the RISs must be safety proved before their implementation and use.
+This project aims at providing an approach to formally model and verify of Relay-based RISs using CSP. As a consequence, the system verification to be proposed in this project will have the potential to avoid the existence of safety, reliability and availability problems on the implementation of RISs.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcel Vinicius Medeiros Oliveira - Coordenador / Dalay Israel de Almeida Pereira - Integrante / Paulo Eneas Rolim Bezerra - Integrante.
+2021 - Atual
+Pesquisa aplicada e formação de recursos humanos em tecnologias para desenvolvimento de software voltadas para automação comercial e vendas
+Projeto certificado pela empresa GERTEC BRASIL LTDA em 19/05/2022.
+Descrição: O problema técnico-científico que este projeto pretende endereçar consiste em pesquisar, aprimorar e aplicar estratégias para implementar requisitos de usabilidade, segurança, escalabilidade e interoperabilidade no desenvolvimento de soluções inovadoras de automação comercial e vendas que serão instaladas em equipamentos com sistema operacional Android.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (2) . Integrantes: Marcel Vinicius Medeiros Oliveira - Integrante / Itamir de Morais Barroca Filho - Coordenador / Fagner Dias - Integrante / ENRICO LUIGI OLIVIERO - Integrante / ISAQUE BARBOSA MARTINS - Integrante / JONATHAN ALBERTO TOLEDO SILVA - Integrante / JORDAN MARQUES DE ALMEIDA RAMOS - Integrante / RAMON SANTOS MALAQUIAS - Integrante.Financiador(es): GERTEC - Cooperação.
+2019 - Atual
+FormAr - Formalização de Arquiteturas de Software para Aplicações Críticas de Cidades Inteligentes
+Descrição: Software architectures play a significant role in the development of software-intensive systems as they contribute to the achievement of both business goals and quality requirements. Using an architecture description language (ADL)1, we can achieve more concrete descriptions that can be used as models at design time or runtime as well as support software architecture documentation, maintenance, evaluation, and evolution. Nevertheless, usually, they lack a complete formal semantics and integration of their original tool support with a formal verification engine. The main advantage of adopting a formal approach is precisely determining if a software system can satisfy properties and constraints related to requirements and check the accuracy and correctness of architectural designs. In this work, we provide a formal semantics for SysADL, a SysML profile for expressing architecture descriptions using the well-known and consolidated abstractions from the ADL community. Furthermore, we transparently integrate this formalization into SysADL Studio, an eclipse-based tool for SysADL. This integration allows the automatic formal verification of SysADL models in which users are unaware of the formal details of the analysis. SysADL has been used in the architectural specification of Smart Cities applications.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Marcel Vinicius Medeiros Oliveira - Coordenador / Augusto Sampaio - Integrante / Thais Vasconcelos Batista - Integrante / Jair Cavalcante Leite - Integrante / Everton Ranielly de Sousa Cavalcante - Integrante / Flavio Oquendo - Integrante.
+2018 - Atual
+CSP2VHDL
+Descrição: CSP is a formalism that can be used to specify distributed reactive systems. It has a large tool support (i.e the FDR model checker) that allows users to formally verify properties such as deadlock freedom and refinement of systems specified in CSP. However, after such verification, there is still the need to implement the system itself, and for this, we still need a link between CSP and a practical programming language. This project aims at the automatic generation of hardware, more specifically FPGA's from CSP specifications. For this, we target at the automatic generation of VHDL projects from CSP specifications.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcel Vinicius Medeiros Oliveira - Coordenador / Luciano Alexandre de Farias Silva - Integrante.
+2014 - Atual
+Modelling, Analysis, Simulation and Implementation of Robotic Applications
+Projeto certificado pelo(a) coordenador(a) Augusto Cezar Alves Sampaio em 05/03/2020.
+Descrição: This project aims at creating a systematic and rigorous methodology to specify, verify, design
+and implement robotic applications. The idea is to build on the RoboCalc project
+( https://www.cs.york.ac.uk/circus/RoboCalc/ ), already under development at York and led
+by Ana Cavalcanti, Jin Timmis, and Jim Woodcock. Currently, the RoboCalc project offers the
+following facilities:
+● A state machine based notation (RoboChart) to model individual robots;
+● A translation from RoboChart to the process algebra CSP to use the FDR tool in
+background for the purpose of functional analyses (both of classical properties as
+deadlock and livelock, as well as doman specific properties); and
+● RoboTool, implemented as an Eclipse plugin, to support the model edition and
+analysis as described in the previous items.
+The aim is to extend this scope with facilities for simulation and implementation of robot
+applications. We also plan to evolve RoboChart with features to specify swarm robots.
+Finally, we will also consider modelling of the environment and develop three case studies.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcel Vinicius Medeiros Oliveira - Integrante / Ana Lúcia Caneca Cavalcanti - Integrante / Jim Woodcock - Integrante / Augusto Sampaio - Coordenador / Alexandre Cabral Mota - Integrante / Juliano Manabu Iyoda - Integrante / Adolfo Duran - Integrante / Pedro R. G. Antonino - Integrante.
+2011 - 2020
+COMPASS
+Descrição: The design of innovative products and services that take advantage of Systems of Systems
+(SoS) technology is in its infancy. It is hampered by the complexity caused by the heterogeneity 
+and independence of SoS constituent systems and the difficulty of communication between diverse 
+stakeholders. The state of the art in SoS engineering lacks models  and  tools  that  help  
+developers  to  make  trade-off  decisions  during  design  and evolution, and assist in working 
+out and recording precise contracts between constituents and the global SoS. This leads to 
+sub-optimal design and expensive rework during integration and in service.
+COMPASS will augment existing industry tools and practice with an underlying modelling language in 
+which SoS architectures and contracts can be expressed. A formal semantic foundation ? the first to 
+be developed specifically for SoS engineering ? will enable this language to support analysis of 
+global SoS properties. The language and methods will be supported by an open, extendible tools 
+platform with integrated prototype plug-ins for model construction, dynamic analysis by simulation 
+and test automation, static analysis by model- checking and proof, and links to an established 
+architectural modelling language (SysML). These strengthened foundations and tools will support 
+enhanced methods guidelines that help users embed this new technology in industrial SoS practice.
+Technical advances in COMPASS are focussed on industry needs evaluated through substantial 
+industry-led case studies in three diverse and complementary areas. These will be augmented by 
+challenge problems solicited from a range of SoS stakeholders and developer organisations through a 
+special interest group. The open platform, tools plug-ins, semantics, development guidelines, 
+industry case study experience and challenge problems will ensure that COMPASS‟s outputs can be 
+readily exploited by SoS developers and stakeholders as
+well. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcel Vinicius Medeiros Oliveira - Coordenador / Augusto Sampaio - Integrante / Alexandre Cabral Mota - Integrante / Juliano Manabu Iyoda - Integrante.
+2011 - 2016
+Confiabilidade e Segurança em Software Crítico Embarcado
+Descrição: Sistemas Embarcados têm se tornado cada vez mais comuns no suporte a execução de atividades críticas, tais como controle, monitoração e tomada de decisões, onde falhas podem resultar em perdas ou injúrias a pessoas, ao meio ambiente ou a negócios.  Tais sistemas se enquadram  no quinto grande desafio da SBC que tem como enfoque o desenvolvimento tecnológico de qualidade de sistemas. O objetivo deste projeto é prover fundamentação teórica e tecnologia para o desenvolvimento de software crítico embarcado correto e seguro, com base na aplicação de técnicas de modelagem formal, transformação, geração automática, verificação de modelos e validação através de teste de software. Serão considerados aspectos  e conceitos  tais como abstração, tradução de linguagens, independência de plataforma, verificação de propriedades temporais e análise probabilística.  As soluções serão aplicadas, prioritariamente, ao domínio aeronáutico, através de cooperação com a empresa Embraer, e de material de transporte metroferroviário,  através de uma colaboração com a empresa AeS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Marcel Vinicius Medeiros Oliveira - Coordenador / Augusto Sampaio - Integrante / David Deharbe - Integrante / Anamaria Martins Moreira - Integrante / Martin Alejandro Musicante - Integrante / Alexandre Cabral Mota - Integrante / Patricia Duarte de Lima Machado - Integrante.
+2008 - 2010
+Combinando Técnicas de Métodos Formais e Teste na Construção de Sistemas Embarcados de Tempo Real
+Descrição: Neste projeto focaremos no uso combinado de métodos formais e técnicas de teste baseado em modelos para sistemas embarcados de tempo real. O principal objetivo é compartilhar conhecimentos e experiências para promover avanços conjuntos nesta área de pesquisa. Em particular, procuramos com este projeto promover o desenvolvimento tecnológico de qualidade de sistemas corretos e seguros. O projeto considerará as seguintes direções de pesquisa: (1) investigação de modelos de sistemas de software heterogêneos com características tais como não-determinismo, tempo e interrupção; (2) desenvolvimento de padrões de modelagem para sistemas embarcados utilizando formalismos baseados em estados e processos; (3)proposta de padrões de desenvolvimento baseado em refinamento de modelos baseados em estados e processos; (4) geração  automática de código para hardware e software; (5) testes a partir de modelos parciais, considerando sua geração a partir de casos de teste abstratos e comportamento observável; (6) aprimoramento de técnicas atuais para a geração de casos de teste considerando critérios semânticos de cobertura além dos critérios de  cobertura estrutural, bem como relações de conformidade pertinentes e critérios de cobertura de verificação de
+modelos; (7) investigação das relações de conformidade com base em falha e divergência em álgebras de processo; (8) proposta de estratégias para a seleção automática de casos de teste com base em funções de similaridade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Marcel Vinicius Medeiros Oliveira - Integrante / Augusto Sampaio - Coordenador / David Deharbe - Integrante / Anamaria Martins Moreira - Integrante / Alexandre Cabral Mota - Integrante / Juliano Manabu Iyoda - Integrante / Flávia de Almeida Barros - Integrante / Franklin de Souza Ramalho - Integrante / Marcelo Bezerra d'Amorim - Integrante / Patricia Duarte de Lima Machado - Integrante / Paulo Henrique Monteiro Borba - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2008 - 2010
+Verified Software Repository - UK Computer Science Grand Challenges
+Descrição: Proposto no Reino Unido, este projeto busca a geração de um corpo significante de programas verificados que têm especificações externas precisas, especificações internas completas, e provas mecânicas da corretude com respeito a uma teoria correta de programação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcel Vinicius Medeiros Oliveira - Coordenador.
+2006 - 2012
+CSP2HC
+Descrição: CSP is a formalism that can be used to specify distributed reactive systems. It has a large tool support (i.e the FDR model checker) that allows users to formally verify properties such as deadlock freedom and refinement of systems specified in CSP. However, after such verification, there is still the need to implement the system itself, and for this, we still need a link between CSP and a practical programming language. This project aims at the automatic generation of hardware, more specifically FPGA's from CSP specifications. For this, we target at the Handel-C programming language. 
+Handel-C is a programming language designed to enable the compilation of programs into synchronous hardware. Handel-C is not a hardware description language though; rather it is a programming language aimed at compiling high level algorithms directly into gate level hardware (FPGA).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcel Vinicius Medeiros Oliveira - Integrante / Jim Woodcock - Coordenador / Andrew Butterfield - Integrante.Número de produções C, T & A: 2
+2006 - 2008
+Suporte ao Cálculo de Refinamentos de Programas Concorrentes
+Descrição: A grande maioria dos desenvolvimentos de software de hoje não
+utilizam as teorias e formalismos existentes.  Esta falta de uso
+de formalismos aumenta os custos de desenvolvimento de softwares
+confiáveis de custo relativamente baixos.  As màs experiências com
+as técnicas informais constituem a principal razão para o uso de
+métodos formais no processo de desenvolvimento de software.
+Nas últimas décadas duas escolas têem desenvolvido técnicas
+formais para um desenvolvimento de software preciso, correto, e
+consciso.  Porém, elas tomaram abordagens diferentes: uma delas
+focou sua atenção aos aspectos dos dados do sistemas, enquanto a
+outra focou nos aspectos de comportamento do sistema.  Muitas
+tentativas foram feitas para trazerem estas duas escolas juntas.
+Porém, até onde sabemos, nenhuma delas tem um cálculo de
+refinamentos relacionado. É exatamente esta falta de cuporte ao
+refinamento com um estilo calculacional que motivou a criação de
+Circus, o qual caracteriza sistemas como processos, os quais
+agrupam construtores que descrevem o comportamento dos dados e do
+controle.
+Na nossa tese de doutourado, nós provemos um cálculo de
+refinamento para Circus; este cálculo suporta o desenvolvimento
+formal de uma especificação abstrata centralizada para uma
+especificação concreta distribuída.  Além disso, nós provemos uma
+estratégia de tradução de Circus para Java e apresentamos um
+estudo de caso de escala industrial. Como resultado do nosso
+trabalho, além das leis e de uma estratégia de refinamento, um
+protótipo de um provador de teoremas para Circus foi desenvolvido.
+Este protótipo implementa a versão final da semântica de Circus e
+provê algumas das leis em forma de teoremas que podem ser usados
+em desenvolvimentos futuros.
+Um dos objetivos deste projeto de pesquisa é a definição de um
+conjunto completo de leis de refinamento com o qual podemos ter
+certeza que se o refinamento não for possível, então a
+especificação concreta realmente n. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcel Vinicius Medeiros Oliveira - Coordenador / Artur Oliveira Gomes - Integrante / Alessandro Cavalcante Gurgel - Integrante / Cristiano Gurgel de Castro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2004 - 2005
+Formal Derivation of State-Rich Reactive Programs using Circus
+Descrição: The lack of formalism in most software developments can lead to a loss of precision and correctness in the resulting software.  Formal techniques of program development have been developed in the past decades and can tackle this problem.  Two different approaches have been taken: one focuses on data aspects, and the other focuses on behavioural aspects of the systems.  Some combined languages have already been proposed to  integrate these two approaches; however, as far as we know, none of them, apart from Circus, includes a
+refinement calculus. 
+This work presents a method that can be applied in order to achieve a formal derivation of state-rich reactive programs, using Circus, in a calculational style.  It extends the existing Circus refinement strategy to reach Java  implementation and formalises its refinement calculus. For that we proposed and mechanised a
+denotational semantics for Circus, which was used to prove over one-hundred and forty refinement laws, many of which were suggested by an industrial case study on which we worked. As far as we know, this is the only mechanised semantics for languages like Circus; the mechanisation of the Circus semantics and its theoretical
+basis, the Unifying Theories of Programming, are the basis for a theorem prover for \Circus. A translation  strategy from Circus to Java is also an important part of this work. 
+Our method is illustrated by the case study: a safety-critical fire control system.  So far, this is the largest case study on the Circus refinement calculus.  We present the refinement of its abstract centralised specification to a concrete distributed one, and then its translation to Java, using our translation strategy. We believe that this industrial case study provides empirical evidence that the formal development of state-rich reactive processes using Circus is possible in both theory and practice.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Marcel Vinicius Medeiros Oliveira - Integrante / Ana Lúcia Caneca Cavalcanti - Integrante / Jim Woodcock - Coordenador / Manuela Xavier - Integrante / Augusto Sampaio - Integrante / Andrew Butterfield - Integrante / Leonardo Freitas - Integrante.Financiador(es): University of York - Bolsa / Engineering and Physical Sciences Research Council - Bolsa.Número de produções C, T & A: 17
+1999 - 2000
+ArcAngel: a Tactic Language For Refinement
+Descrição: Morgan's refinement calculus is a successful technique for developing software in a precise and consistent way.  This technique, however, can be hard to use, as developments may be long and repetitive.  Many authors have pointed out that a lot can be gained by identifying commonly used development strategies, documenting  them as tactics, and using them as single transformation rules.  Also, it is useful to have a notation for describing derivations, so that they can be analysed and modified.  In this project, we developed ArcAngel, a language for defining such refinement tactics; we developed the language, its semantics, and some of its algebraic laws.  Apart from Angel, a general-purpose tactic language that we extended, no other tactic language has a  denotational semantics and proof theory of its own.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcel Vinicius Medeiros Oliveira - Integrante / Ana Lúcia Caneca Cavalcanti - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4

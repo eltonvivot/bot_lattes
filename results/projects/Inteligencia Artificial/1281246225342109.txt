@@ -1,0 +1,49 @@
+2022 - Atual
+Análise em larga escala de RNA não codificantes em Procariotos Diazotróficos
+Descrição: Análise em larga escala de RNA não codificantes em Procariotos Diazotróficos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Dieval Guizelini - Coordenador / Alexandre Rossi Paschoal - Integrante / RODRIGO LANGOWSKI - Integrante.Número de orientações: 1
+2021 - Atual
+Desenvolvimento de Metodologias e Tecnologias para a Produção de Material Multimidiáticos
+Descrição: Desenvolvimento de metodologias e tecnologias para aperfeiçoamento dos processos de ensino
+aprendizagem, mediado por tecnologias da informação e comunicação, aplicadas ao ensino presencial,
+ao ensino híbrido e a educação a distância. O processo de ensino-aprendizado poderá ocorrer
+independentemente de tempo e espaço, dando ênfase à autoaprendizagem, com ou sem mediação
+docente, e de recursos didáticos sistematicamente organizados, apresentados em diferentes meios
+tecnológicos de informação e comunicação, utilizados isoladamente ou combinados, e veiculados pelos
+diversos meios de comunicação, tornando desta forma, mais democrático o acesso a uma capacitação
+continuada de qualidade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Dieval Guizelini - Coordenador / Sandramara Scandelari Kusano de Paula Soares - Integrante / . Mario de Paula Soares Filho - Integrante.
+2021 - Atual
+Classificação de Open Read Frames (ORF) em Genomas de organismos Eucariotos para predição de anotações gênica
+Descrição: As regiões gênicas são regiões do genoma que codificam proteínas e outros tipos de RNAs. Os métodos de predição in silico em organismos procariotos apresentam taxas próximas a 96% das regiões verdadeiramente codificantes, mas com valores muito alto de falsos-positivos. Entretanto, em eucarioto essas taxas são muito inferiores, além disso, em eucariotos a complexidade é maior, normalmente os organismos possuem mais cromossomos e a densidade gênica conhecida é muito inferior a densidade gênica observada em procariotos. As regiões gênicas de eucariotos ainda são formadas por sequências interpostas ou intervenientes, onde os introns são removidos principalmente por splicing de RNA durante a produção do mRNA. Neste projeto, estamos estudando a aplicação de reconhecimento de padrões para identificação e classificação das regiões codificantes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Dieval Guizelini - Coordenador / Razer Anthom Nizer Rojas Montaño - Integrante / LUÍS SÉRGIO DA SILVA JOPPERT - Integrante.Número de orientações: 1
+2012 - Atual
+Estratégias para montagem de genomas de procariotos, explorando informações a priori
+Descrição: Análise dos dados e da aplicações computacionais que afetam a montagem de genomas procariotos e desenvolvimento de protocolo de montagem.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Dieval Guizelini - Coordenador / Roberto Tadeu Raittz - Integrante / Maria Berenice Reynaud Steffens - Integrante / Fábio de Oliveira Pedrosa - Integrante.Número de produções C, T & A: 9 / Número de orientações: 2
+2011 - Atual
+Banco de Dados e Mineração de Dados em Bioinformática
+Descrição: Modelagem de dados biológicos complexos definindo arquiteturas de banco de dados para o gerenciamento de grandes volumes de informação e estratégias de mineração de dados objetivando contribuir com a geração de novos conhecimentos no campo das Ciências Biológicas. BANPESQ: 2011025406. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Dieval Guizelini - Integrante / Roberto Tadeu Raittz - Integrante / Maria Berenice Reynaud Steffens - Integrante / Jeroniza Nunes MARCHAUKOSKI - Coordenador / DANHYLO ALMEIDA RAMOS - Integrante / KELLY RAFAELA OTEMAIER - Integrante / ROBERT ADONIAS COSTA GOMES - Integrante.Número de produções C, T & A: 7
+2010 - 2018
+Versão Off-line do Conteúdo de um Curso
+Descrição: Módulo de Visualização e Consulta de Conteúdo de Curso Previamente Criados e Desenvolvidos no ambiente virtual de aprendizagem. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Dieval Guizelini - Coordenador / Sandramara Scandelari Kusano de Paula Soares - Integrante / Mario de Paula Soares Filho - Integrante / Jeroniza Nunes MARCHAUKOSKI - Integrante / LUCAS FERRARI DE OLIVEIRA - Integrante.Número de produções C, T & A: 1
+2010 - 2018
+Gerenciamento dos Planos de Aula e Acompanhamento de Execução
+Descrição: Permitir o cadastro dos planos de aulas dos docentes e o acompanhamento da execução.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Dieval Guizelini - Coordenador / Roberto Tadeu Raittz - Integrante / Sandramara Scandelari Kusano de Paula Soares - Integrante / Mario de Paula Soares Filho - Integrante / Jeroniza Nunes MARCHAUKOSKI - Integrante / LUCAS FERRARI DE OLIVEIRA - Integrante.
+2010 - Atual
+Mineração de dados em bancos de dados de genomas de procariotos
+Descrição: A proposta do projeto é criar e manter um banco de dados relacional para mineração de dados em genomas. O banco vai ser populado com informações de DNA e proteinas oriundas de bases de dados mundialmente reconhecidas, principalmente do GenBank®. Técnicas de mineração de dados serão utilizadas, para obter relações entre as informações biológicas, que atualmente não podem ser obtidas diretamente nas bases de dados de acesso público da internet. BANPESQ: 2010024428. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4) . Integrantes: Dieval Guizelini - Integrante / Roberto Tadeu Raittz - Coordenador / Michelly Alves Coutinho Gehlen - Integrante / Liu Un Rigo - Integrante / Fabio de Oliveira Pedrosa - Integrante / Jeroniza Nunes MARCHAUKOSKI - Integrante / Juliana Helena Tibães - Integrante / DANHYLO ALMEIDA RAMOS - Integrante / KELLY RAFAELA OTEMAIER - Integrante / LUCAS FERRARI DE OLIVEIRA - Integrante / RICARDO VIALLE - Integrante.
+2009 - Atual
+Banco de Dados Biológico no Modelo Relacional para Mineração de Dados em Genomas Completos de Procariotos Disponibilizados pelo NCBI Genbank
+Descrição: Desenvolvimento de um esquema de banco de dados relacional e ferramentas para analise (parser) e carga dos dados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Dieval Guizelini - Coordenador / Roberto Tadeu Raittz - Integrante / Fabio de Oliveira Pedrosa - Integrante / Jeroniza Nunes MARCHAUKOSKI - Integrante.Número de produções C, T & A: 4 / Número de orientações: 3
+2008 - 2018
+Sistema de Classificação de Bactérias por Redes Neuro-Fuzzy com Base em Características Extraídas das Seqüências de Genes de 16s rRNA utilizando SIBILA (Servidor de Redes Neurais)
+Descrição: Análise de seqüências de Genes de 16s rRNA para obtenção de características que possibilitem o treinamento de redes neurais. Treinamento de redes neurais para classificação filogenética de seqüências desconhecidas. BANPESQ: 2009023677. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Dieval Guizelini - Integrante / Roberto Tadeu Raittz - Integrante / Jeroniza Nunes MARCHAUKOSKI - Coordenador / LEANDRO MORENO - Integrante.
+2008 - 2018
+Análise de possibilidade para  incorporação de sistemas de regras no SAPIEnS - BANPESQ: 2008022468
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Dieval Guizelini - Coordenador.
+2008 - Atual
+SIBILA - SERVIDOR DE REDES NEURAIS
+Descrição: Desenvolvimento de aplicação servidora para treinamento de redes neurais e classificação de padrões. BANPESQ: 2008022469. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Dieval Guizelini - Coordenador / Roberto Tadeu Raittz - Integrante / Jeroniza Nunes MARCHAUKOSKI - Integrante / ALICE FELTRIN - Integrante.Número de produções C, T & A: 1
+2003 - 2011
+Engenharia reversa do Sistema SAPIEnS - BANPESQ: 2003013314
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Dieval Guizelini - Coordenador.
+2003 - 2007
+Análise técnica de itens de avaliações que envolvem conhecimentos do Ensino Fundamental e Médio
+Descrição: Análise técnica de itens de avaliações que envolvem os conhecimentos do ensino fundamental e médio. Transferência técnica de tecnologia. Definição do novo modelo de seleção ao ingresso nos cursos de graduação. Desenvolvimento de modelos de identificação de competências e habilidades para cargos executivos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Dieval Guizelini - Coordenador / Dartagnan Baggio Emerenciano - Integrante / Mildred Ballin Hecke - Integrante.

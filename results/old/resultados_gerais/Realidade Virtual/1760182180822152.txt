@@ -1,0 +1,37 @@
+2012 - 2013
+Projeto de uma Fábrica de Software no IFAL
+Descrição: Atualmente, estudantes com diferentes perfis ingressam nos cursos Graduação para formação de profissionais na área de TI. Alguns almejam obter uma experiência acadêmica mais profunda, outros, uma melhor qualificação profissional. Com o objetivo de fornecer uma experiência prática aos estudantes, permitindo a troca de conhecimentos entre os mesmos, surgiu a idéia de criar uma fábrica de software, formada pelos professores e alunos de graduação do curso de Sistema de Informação. A intenção é criar um ambiente de desenvolvimento de software que simule a complexidade de atendimento de uma demanda real de sistemas, afim de que os alunos possam colocar em prática os conhecimentos adquiridos no curso, adquirindo experiência no desenvolvimento de softwares. Almeja-se que os produtos de software desenvolvidos pela fábrica de software do IFAL sejam derivados tanto dos trabalhos de pesquisa dos professores vinculados à fábrica, quanto de demandas do mercado. Dessa forma o projeto da fábrica de software pretende capacitar alunos e docentes para o desenvolvimento de pesquisas básicas e aplicadas, além de fomentar e motivar o próprio corpo docente no desenvolvimento das pesquisas de suporte aos projetos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador / Mônica Ximenes Carneiro da Cunha - Integrante / Bruno Rodrigues Bessa - Integrante.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Alagoas - Bolsa.Número de orientações: 2
+2012 - 2012
+Desenvolvimento de sistemas para monitoramento de transportes públicos na cidade de Maceió
+Descrição: Este projeto visa criar um site leve e acessível de qualquer aparelho celular com acesso a Internet que alie conceitos modernos de informática para auxiliar a usuários de transportes coletivos no monitoramento dos horários da passagem dos mesmos nos pontos de parada, diminuindo assim a ociosidade dos passageiros pela espera do mesmo. A princípio o sistema funcionaria da seguinte forma: o usuário em poder de um aparelho com acesso a internet acessaria o site, o mesmo definiria através de um mapa contido em 
+sua interface em conjunto com o GPS embutido no celular do usuário, um raio de ação no qual listaria todos os pontos de parada próximos à localização do usuário. Após esta etapa o usuário selecionaria o ponto de parada desejado para pegar a condução e informaria o código da rota (que viria associado ao nome do coletivo), o sistema por sua vez calcularia uma estimativa do horário de passagem do ônibus pelo ponto selecionado. O projeto procura contemplar a resolução de um dos muitos contratempos a que os usuários de transportes coletivos se submetem todos os dias, seja na ida ao trabalho ou escola, ou para o próprio lazer; que é a espera em pontos de paradas por transportes coletivos. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador / Mônica Ximenes Carneiro da Cunha - Integrante.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Alagoas - Bolsa.
+2010 - 2010
+Estratégia de testes de unidade para o desenvolvimento de sistemas de informação: O caso do projeto SIGA-EDU
+Descrição: O SIGA-EDU é um projeto que tem o objetivo de planejar e desenvolver um sistema integrado de gestão acadêmica com tecnologias livres e de forma colaborativa para os IFET´s. O SIGA-EDU lida com um sistema grande e complexo, com várias tecnologias distintas para o desenvolvimento web, onde há a necessiadde de desenvolver uma estratégia de testes de unidade para o projeto considerando sua arquitetura e características, assim como escolher um arcabouço adequado para realizar testes de unidade. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador / VALTER SOUZA JÚNIOR, - Integrante / MAILSON DOS SANTOS FILHO - Integrante / Marcílio F Souza Junior - Integrante / Richardson da Silva Nogueira - Integrante.Número de orientações: 1
+2008 - 2009
+Bioidentidade
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador.
+2008 - 2009
+Empresa Junior
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador.
+2008 - 2009
+Avaliação de Sistemas de Educação a Distância
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador.
+2008 - 2009
+Prontuário Eletrônico do Paciente
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador.
+2007 - 2008
+BioIdentidade
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador.
+2007 - 2008
+vórum
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador.
+2007 - 2008
+Prontuário Eletrônico - Queimados
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Rubens Gomes Nunes Filho - Coordenador.
+2001 - 2001
+SHART-WEB
+Descrição: O projeto ShartWeb tem como objetivo disponibilizar na web um ambiente colaborativo de ensino/aprendizagem de harmonia musical basado em sistemas multiagentes. (Subprojeto MathNet - ProTeM-CC - PTI - PEDU/1999).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Ricardo Rubens Gomes Nunes Filho - Integrante / Evandro de Barros Costa - Coordenador / Emerson Ferreira de Araújo Lima - Integrante / Fernando Maia Assunção - Integrante / Hyggo Oliveira de Almeida - Integrante / Klebson dos Santos Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+1999 - 2001
+MATH-NET
+Descrição: O tema central do projeto Math_net é a concepção e o desenvolvimento de um modelo computacional para Ambientes Interativos de Ensino/Aprendizagem Cooperativa com base em múltiplos agentes artificiais e humanos, dispostos em uma estrutura de rede de computadores. Pretende-se com isso, investigar e desenvolver um ambiente interativo e distribuído de suporte à aprendizagem cooperativa e colaborativa, integrando alunos, professores e sistemas computacionais. A pesquisa e o desenvolvimento de tal ambiente serão realizados por um consórcio constituído por professores e pesquisadores das Universidades Federais de Alagoas (UFAL), de Santa Catarina (UFSC) e do Maranhão (UFMA). Além disso, contará com o apoio da Secretaria de Educação do Estado de Alagoas e da Fundação de Amparo à Pesquisa de Alagoas (FAPEAL), que auxiliariam principalmente no provimento das condições básicas para implantação e experimentação do ambiente a ser concebido. (ProTeM-CC - PTI - PEDU/1999). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo Rubens Gomes Nunes Filho - Integrante / Evandro de Barros Costa - Coordenador / Hyggo de Oliveira Almeida - Integrante / Emerson Ferreira de Araújo Lima - Integrante / Klebson Santos Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1

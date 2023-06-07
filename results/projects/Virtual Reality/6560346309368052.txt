@@ -1,0 +1,170 @@
+2022 - Atual
+DESENVOLVIMENTO DE GAMIFICAÇÃO PARA USUÁRIOS DA PLATAFORMA CORPORATIVA ?UNIVERSIDADE VOALLE?
+Descrição: O presente projeto, desenvolvido na UFSM juntamente com o Grupo Voalle, almeja desenvolver um framework de gamificação para o ambiente virtual da Universidade Voalle. Nesse sentido, serão pesquisados e desenvolvidos elementos que atendem a estratégia de gameficação em ambientes de aprendizagem empresariais, visando um maior engajamento por parte do público alvo ( funcionários da empresa e clientes) . Os protótipos gamificados serão avaliados focando na avaliação de desempenho dos cursistas, inclusive considerando o "gaming the system".. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Roseclea Duarte Medina - Coordenador / BECKER NUNES, FELIPE - Integrante / DE SOUZA OLIVEIRA, PAULO HENRIQUE - Integrante / Andrey de Moraes Nunes - Integrante / Guilherme Poletti da Costa - Integrante / Augusto Pagnossim Frigo - Integrante / Gabriely Machado Menezes - Integrante / Maria Rita Barnaski - Integrante.
+2019 - 2022
+DESENVOLVIMENTO DE SOLUÇÃO E-HEALTH UTILIZANDO IOT: TECNOLOGIA PARA PRÁTICA PEDAGÓGICA EM EDUCAÇÃO FÍSICA
+Descrição: A Tecnologia da Informação, especialmente a Internet das Coisas (IoT), está em grande ascensão nos últimos anos, auxiliando as mais diversas áreas. Essa tecnologia, aliada a Educação, possibilita criar ferramentas educacionais que podem acelerar o aprendizado e o desenvolvimento de estudantes. Diante do problema de pesquisa, este projeto tem por objetivo desenvolver uma solução e-Health completa para monitoramento da frequência cardíaca dos estudantes de Educação Física do Instituto Federal Farroupilha campus São Vicente do Sul. A pesquisa proposta terá abordagem quali-quantitativa, de finalidade aplicada, tendo como procedimento a pesquisa-ação. Como resultado serão criados 3 (três) produtos de inovação tecnológica, sendo cinta peitoral, FOG - base transceptora e aplicação web. Após o desenvolvimento, juntamente com os professores e alunos, serão executados os testes de usabilidade da tecnologia criada, que possibilitarão monitorar as condições físicas dos estudantes, identificando os pontos de repouso, atividade e recuperação, permitindo assim demonstrar ao estudante a sua evolução de atividade física através da prática pedagógica utilizando a tecnologia criada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (1)  / Doutorado: (0) . Integrantes: Roseclea Duarte Medina - Coordenador / POHLMANN GONÇALVES, DENIS - Integrante.
+2017 - 2020
+SIoT - Smart Classroom
+Descrição: Resumo
+Óculos, relógios, geladeiras, fogões, carros têm sido vistos ou implementados como objetos inteligentes, isso tornou-se comum principalmente em meados de 2014, onde esses objetos inteligentes integram o dia a dia das pessoas, o que cria um novo estilo de vida derivado da fase da IoT (Internet of Things). Dentro desse contexto, surge a iniciativa de não apenas ter-se a IoT nas coisas abstratas da vida humana e sim o interesse em integrar a IoT na educação, ou seja, utilizar essa tecnologia para auxiliar no processo educativo das pessoas. A sala de aula objetiva tornar o processo de aprendizado o melhor possível, isto é, integrá-la ao dia a dia acadêmico dos alunos e professores a fim de fornecer uma melhor forma de aprendizagem. O cenário educativo SIoT a ser desenvolvido possui uma divisão baseada em 3 camadas, conforme ilustrado, que permite separar os diferentes níveis de tratamento dos processos ocorridos neste ambiente. O processo inicia com a interação do aluno com o ambiente por meio da sua identificação com um dispositivo específico, que poderá ser um sensor, smartphone, câmera, etc. A proposta do cenário educativo SIoT irá contar com sensores de temperatura, presença e biométrico, esses sensores irão colaborar com a automatização de rotinas burocráticas como lançamento de aulas e marcação de presença, tendo suas informações tratadas e integradas com o Ambiente ubíquo ? Ava adaptado e integrado ao sistema acadêmico da instituição.
+Objetivos
+Realizar um referencial teórico sobre sensores e atuadores; Desenvolver estudos base sobre IoT, além da cloud, e Fog; Ampliar o conhecimento em ambientes ubíquos, e a integração do sistema acadêmico ao SIoT; Elaborar uma sala de aula com sensores e atuadores que auxiliam no processo de aprendizado, sensores em acesso a sala para registro de presença, por exemplo; Analisar a eficiência da implementação da sala de aula; Propor/implementar um ambiente ubíquo junto ao contexto da IoT (integração dos atores como sensores, Cloud, Ava, Fog);
+Justificativa
+Uma maior integração do ambiente de aprendizado com o sistema acadêmico ou de um campus é o que se espera, isto é, tornar um ambiente ubíquo de aprendizado e motivar estes ambientes não apenas na SIoT. Partindo da premissa de um cenário mais amplo, em que se pretende iniciar o processo de automação de um campus inteligente, este projeto contribuiu diretamente na resolução de desafios envolvendo a criação de salas de aula responsivas, que se adaptem ao contexto de um cenário de aprendizado e sistemas externos, possibilitando facilitar e automatizar processos corriqueiros deste ambiente e permita colaborar para a melhoria dos processos de ensino e aprendizagem. A realização deste ambiente irá demandar a larga utilização da infraestrutura de rede, pois os sensores estarão enviando dados para serem validados a cada interação do aluno ou professor no ambiente SIoT. Pensando nisso, com o uso da Fog Computing teremos uma baixa latência para as respostas, e uma menor utilização da rede da instituição; sendo assim, após o tratamento das informações coletadas pelos sensores pela Fog, só então os mesmos serão enviados para a Cloud.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (16)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (1)  / Doutorado: (0) . Integrantes: Roseclea Duarte Medina - Coordenador / Rafael Raffaelli - Integrante / José Victor Viriato - Integrante / Joao Octavio Barros Silva - Integrante / ÉDER PAULO PEREIRA - Integrante / IVÂNIA ALINE FISCHER - Integrante / MARCELO DA SILVA DE AZEVEDO - Integrante / Edson L Padoim - Integrante / Laiser dos Santos Melo - Integrante / FERNANDO PAIM DA SILVA - Integrante / FRANCIELLE VASCONCELLOS PEREIRA - Integrante / HENRIQUE MAYER - Integrante / MOISÉS GOULART DE OLIVEIRA - Integrante / VINÍCIUS TEIXEIRA - Integrante / KELVIN TEIXEIRA FLORIANO - Integrante / LEONARDO MELLO FOLETTO - Integrante / KELI TAUANA PRASS RUPPENTHAL - Integrante / RAFAEL NEVES ALMEIDA - Integrante / VITORIA KUNTZ PONCIO - Integrante / LARISSA SOUTO DEL RIO - Integrante / MARCELO HENRIQUE CONCEIÇÃO - Integrante.Número de produções C, T & A: 28
+2017 - 2019
+IoT Moodle
+Descrição: O projeto IoT Moodle prevê a integração de um sistema de sensores, infravermelho e RFID ao Moodle,  em contextos onde o mesmo é  utilizado como ferramenta de apoio as aulas presenciais. O sistema fará a  notificação aos alunos do material didático especifico selecionado para um determinado dia-tópico, bem como registrará a presença do aluno nesta disciplina. 
+Por esse modelo o professor realizará o cadastramento do material didático pelo moodle, como é feito na maioria das disciplinas ofertadas.  O sistema de sensores estrão instalados nas entradas das salas de aula, onde o sensor infravermelho estará capturando objetos movimentando-se e ativará a antena RFID através de uma plataforma Arduino ou Raspberry. O sistema RFID verificará a leitura dos dados, caso exista, verificando se os dados capturados se referem a um aluno cadastrado, caso ele possua uma disciplina presencial no horário determinado e conteúdo didático o sistema irá gerar uma notificação utilizando a tecnologia Web Service e o aplicativo Moodle Mobile e concomitantemente , fará o registro de uma pré-presença na disciplina.
+Outra integração será a utilização de RV aumentada e óculos de RV (VRBOX)  em determinados materiais a serem disponibilizados no ambiente.Dessa forma espera-se iniciar a preparação  do AVA Moodle institucional para a nova Internet das Coisas (IoT).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Rafael Raffaelli - Integrante.
+2016 - 2019
+Cloud Aid
+Descrição: Cloud computing provides several benefits to
+users, mainly cost reduction and elasticity. However, researches
+have shown it is possible to perform side-channel attacks in cloud
+environments, in order to steal cryptographic keys and other
+sensitive data, what makes users vulnerable. Researches show
+there is still need for developing security tools to address this
+question. This way, this work presents a combination of proactive
+(analyzing virtual machine instantiation) and reactive (triggering
+configurable countermeasures) mechanisms in order to mitigate
+this security threat.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Ricardo Bianchim Gomes - Integrante.
+2016 - 2017
+Realidade Virtual +VRBOX
+Descrição: Nos últimos anos inúmeras pesquisas vêm exploram o potencial da Realidade Virtual (RV) no contexto educacional, com o objetivo de proporcionar um ambiente 3D para complementar o ensino tradicional. Estes ambientes mitigam o desinteresse dos alunos, pois possibilitam a imersão dos mesmos, desta forma, geram um aprendizado ativo e um maior envolvimento dos alunos. Aliado a isso, nos últimos anos tornou-se acessível o uso de Head Mounted Display (HMDs), também conhecido como Óculos de Realidade Virtual (OVR/VRBOX). Este dispositivo pode aumentar de forma significativa a imersão dos
+usuários em relação a RV discutida anteriormente. Assim, se combinado com os benefícios dos ambientes virtuais para o ensino/aprendizado espera-se que o HMDs venha se tornar um instrumento relevante para o contexto da educação e treinamento.
+Assim, o objetivo deste projeto é avaliar a viabilidade do uso de OVR/VRBOX como instrumento
+fomentador de engajamento no processo de construção do conhecimento nos Mundos Virtuais e Jogos 3D. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Aderson de Carvalho - Integrante.
+2012 - 2016
+Qualidade do contexto
+Descrição: Qualidade do contexto. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Felipe Becker Nunes - Integrante.Número de produções C, T & A: 12
+2012 - 2015
+Pervasive Learning: Adaptação dos estilos de aprendizagem de acordo com a consciência do contexto do aprendiz
+Descrição: Pervasive Learning: Adaptação dos estilos de aprendizagem de acordo com a consciência do contexto do aprendiz. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Roseclea Duarte Medina - Coordenador / Henrique Sobroza Pedroso - Integrante / Ricardo Bianchim Gomes - Integrante / Alexandre Robaina Donato - Integrante / Cássio da Silva Libraga - Integrante.
+2012 - 2014
+Ubiquitous Learning: utilização das tecnologias da computação Ubíqua para o desenvolvimento de recursos educacionais com total mobilidade e adaptação do sistema ao contexto computacional dos estudantes
+Descrição: Ubiquitous Learning: utilização das tecnologias da computação Ubíqua para o desenvolvimento de recursos educacionais com total mobilidade e adaptação do sistema ao contexto computacional dos estudantes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Roseclea Duarte Medina - Coordenador / Ricardo Bianchim Gomes - Integrante / Vinicius Leal Trindade - Integrante / Alexandre Robaina Donato - Integrante / Sandro Lemos Oliveira - Integrante.
+2012 - 2014
+SISTEMA DINÂMICO PARA DETECTAR A EXPERIÊNCIA DO ALUNO
+Descrição: SISTEMA DINÂMICO PARA DETECTAR A EXPERIÊNCIA DO ALUNO. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Camila Cerezer Possobom - Integrante.
+2012 - 2014
+Detecção do nível de conhecimento dos alunos em AVAs
+Descrição: Detecção do nível de conhecimento dos alunos em AVAs. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Andreia Rosangela Kessler Muhlbeier - Integrante.Número de produções C, T & A: 1
+2011 - 2013
+Base de conhecimento e contexto de expertise integrados a um Help Desk sensível ao contexto
+Descrição: Base de conhecimento e contexto de expertise integrados a um Help Desk sensível ao contexto. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Taciano Balardin De Oliveira - Integrante.Número de produções C, T & A: 1
+2010 - 2013
+Moodle - Ubíquo - desenvolvimento de um ambiente virtual de aprendizagem sensível ao contexto do aprendiz e tecnológico
+Descrição: Moodle - Ubíquo - desenvolvimento de um ambiente virtual de aprendizagem sensível ao contexto do aprendiz e tecnológico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Catiane Priscila Barbosa Arenhardt - Integrante.Número de produções C, T & A: 1
+2010 - 2012
+Estudo de tecnologias para computação móvel, pervasiva e baseada em contexto aplicadas em AVAs
+Descrição: Estudo de tecnologias para computação móvel, pervasiva e baseada em contexto aplicadas em AVAs. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Sandra Dutra Piovesan - Integrante.
+2010 - 2012
+Gerenciamento de redes de forma pervasiva e sensível ao contexto
+Descrição: Gerenciamento de redes de forma pervasiva e sensível ao contexto. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Erico Marcelo Hoff Do Amaral - Integrante.
+2010 - 2011
+M-SEA: um ambiente de aprendizagem móvel adaptado
+Descrição: M-SEA: um ambiente de aprendizagem móvel adaptado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Sandra Dutra Piovesan - Integrante.
+2010 - 2010
+Usando o "Scratch" para o desenvolvimento de objetos multimídia
+Descrição: Usando o "Scratch" para o desenvolvimento de objetos multimídia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Bruno Giacomelli Ilgenfritz - Integrante.
+2009 - 2011
+A informática como ferramenta educacional
+Descrição: A informática como ferramenta educacional. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador / Isabel Teresinha Fantinel da Silva - Integrante.
+2009 - 2011
+As mídias (impressa e computador) e o uso das mesmas por alunos deficientes visuais
+Descrição: As mídias (impressa e computador) e o uso das mesmas por alunos deficientes visuais. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador / Celer Teresinha dos Passos Pohlmann - Integrante.
+2009 - 2010
+M-Learning na Web 3.0: Uma arquitetura para gerenciamento de objetos de aprendizagem móveis
+Descrição: Desenvolvimento de um repositório de objetos educacionais para utilização em dispositivos móveis ( smartphones e pdas), utilizando ontologias e web semantica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Fabio Franciscatto - Integrante.Número de produções C, T & A: 10
+2009 - 2010
+O uso das novas tecnologias nos processos educativos - um desafio para os educadores
+Descrição: O uso das novas tecnologias nos processos educativos - um desafio para os educadores. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador / Sandra Mariza Soares Busnelo - Integrante.
+2009 - 2010
+A influência e tendência do MSN (Messeger) na comunicação e interação entre os adolescentes
+Descrição: A influência e tendência do MSN (Messeger) na comunicação e interação entre os adolescentes. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador / Elizete Maria Pillon Ortiz - Integrante.
+2009 - 2009
+Estudo comparativo de padrões abertos de apoio ao aprendizado baseado em WEB no projeto e desenvolvimento de objetos educacionais
+Descrição: Estudo comparativo de padrões abertos de apoio ao aprendizado baseado em WEB no projeto e desenvolvimento de objetos educacionais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Ricardo Donato Iop - Integrante.
+2009 - 2009
+Um estudo sobre os meios de transmissão para a comunicação entre o DATALOGGER CR 1000 e um servidor aplicado para a telemetria em mecanização agrícola
+Descrição: Um estudo sobre os meios de transmissão para a comunicação entre o DATALOGGER CR 1000 e um servidor aplicado para a telemetria em mecanização agrícola. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Jaziel S. Lobo - Integrante.
+2008 - 2010
+AVAM - Ambiente Virtual de Aprendizagem Móvel Adaptado ao Estilo Cognitivo do Aluno utilizando método e técnicas de hipermídia adaptativa sob a perpectiva da teoria da carga cognitiva
+Descrição: Ambiente Virtual de Aprendizagem Móvel Adaptado ao Estilo Cognitivo do Aluno utilizando método e técnicas de hipermídia adaptativa sob a perpectiva da teoria da carga cognitiva. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Patricia Mariotto Mozzaquatro - Integrante.Número de produções C, T & A: 12
+2008 - 2010
+Telemetria
+Descrição: Utilização de telemetria na mecanização agricola utilizando redes de sensores sem fio com acesso remoto wireless e telefonia móvel. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Fernando Beux Dos Santos - Integrante.Financiador(es): Secretaria de Ciência e Tecnologia do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2008 - 2010
+REVIM MOBILE
+Descrição: Repositório de Vídeos para o AVA Moodle Mobile, utilizando Mineração da Dados e Agente Inteligente de Conversação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Patric da Silva Ribeiro - Integrante.Número de produções C, T & A: 8
+2008 - 2010
+Telemetria para transmissão de dados de desempenho de máquinas agrícolas visando o gerenciamento
+Descrição: Telemetria para transmissão de dados de desempenho de máquinas agrícolas visando o gerenciamento. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (8) . Integrantes: Roseclea Duarte Medina - Coordenador / Oni Reasilvia de Almeida Sichonany - Integrante / Ïria Brucker Roggia - Integrante / Fabio Franciscatto - Integrante / Fernando Beux Dos Santos - Integrante / José Fernando Schlosser - Integrante / Patricia Mariotto Mozzaquatro - Integrante / Paula Machado dos Santos - Integrante / Ivan Alexandre Paiz Tierno - Integrante / Adriano Vargas Vieira - Integrante / Leonardo Basso Brondani - Integrante / Fabricio Coradini Piovesan - Integrante / Rodrigo Domingues - Integrante / Andre Luis Casali - Integrante / Leandro Hernandes Manica - Integrante / Alexandre Russini - Integrante / Pietro Furian Araldi - Integrante / Gustavo Heller Nietiedt - Integrante / Ulisses Giacomini Frantz - Integrante / Alberi Francisco Barbosa - Integrante / Manoel Zeri da Silveira Martins - Integrante / Sergio Augusto Piccini Borges - Integrante.Número de produções C, T & A: 1
+2008 - 2009
+Redes de Sensores Sem Fio
+Descrição: Redes de Sensores Sem Fio - da coleta dos dados a transmissão. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Ivan Alexandre Paiz Tierno - Integrante.
+2008 - 2009
+Aprendizagem com mobilidade: adaptação de ferramentas integrantes do ava TIDIA - AE para o acesso em dispositivos móveis
+Descrição: Aprendizagem com mobilidade: adaptação de ferramentas integrantes do ava TIDIA - AE para o acesso em dispositivos móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Patricia Mariotto Mozzaquatro - Integrante.
+2008 - 2009
+Interface adaptativas em ambientes virtuais de aprendizagem acessados por dispositivos móveis
+Descrição: Interface adaptativas em ambientes virtuais de aprendizagem acessados por dispositivos móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Fabio Franciscatto - Integrante.
+2008 - 2009
+Qual o melhor dispositivo móvel para adaptação de um ambiente virtual de aprendizagem?
+Descrição: Qual o melhor dispositivo móvel para adaptação de um ambiente virtual de aprendizagem?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Patric Ribeiro - Integrante.
+2008 - 2008
+Padronização SCORM no desenvolvimento de objetos de aprendizagem para dispositivos móveis
+Descrição: Padronização SCORM no desenvolvimento de objetos de aprendizagem para dispositivos móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Fabio Franciscatto - Integrante.
+2008 - 2008
+Técnicas e protocolos de roteamento para utilização de redes sem fio de sensores móveis
+Descrição: Técnicas e protocolos de roteamento para utilização de redes sem fio de sensores móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Fernando Beux Dos Santos - Integrante.
+2008 - 2008
+Uma adaptação do ambiente virtual de aprendizagem TIDIA - AE para o acesso em dispositivos móveis
+Descrição: Uma adaptação do ambiente virtual de aprendizagem TIDIA - AE para o acesso em dispositivos móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Patricia Mariotto Mozzaquatro - Integrante.
+2007 - 2009
+RIVED - Desenvolvimento de Objetos Educacionais
+Descrição: Desenvolvimentos de objetos educacionais utilizando técnicas como simulação e animação computacional. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (3) . Integrantes: Roseclea Duarte Medina - Coordenador / Deisi Sangoi - Integrante / Roberto Cassol - Integrante.Financiador(es): Ministério da Educação - Bolsa.
+2007 - 2008
+M-Learning
+Descrição: M-Learning. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador.
+2007 - 2008
+Transmissão de dados em redes de sensores sem fio
+Descrição: Transmissão de dados em redes de sensores sem fio. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Roseclea Duarte Medina - Coordenador / Patrick Pivotto Viera - Integrante / Valdir Stumm Júnior - Integrante / Rodrigo Dewes - Integrante.
+2007 - 2008
+ICP-UFSM
+Descrição: ICP-UFSM: Infra-Estrutura de chaves públicas para Universidade Federal de Santa Maria. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Roseclea Duarte Medina - Coordenador / Diego Friederich - Integrante / Rodrigo André Scholz - Integrante.
+2007 - 2008
+Desenvolvimento de objetos de aprendizagem para dispositivos móveis: iniciação a M-Learning
+Descrição: Desenvolvimento de objetos de aprendizagem para dispositivos móveis: iniciação a M-Learning. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Leandro Ramos de Oliveira - Integrante.
+2007 - 2008
+Projeto Campus Wireless
+Descrição: Projeto Campus Wireless. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Diego Friederich - Integrante.
+2007 - 2007
+DESENVOLVIMENTO DE UM SISTEMA DE GERÊNCIA DOS DADOS COLETADOS EM EXPERIMENTOS MICROMETEOROLÓGICOS
+Descrição: DESENVOLVIMENTO DE UM SISTEMA DE GERÊNCIA DOS DADOS COLETADOS EM EXPERIMENTOS MICROMETEOROLÓGICOS - SGDM. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Leandro de Almeida Rodrigues - Integrante.
+2006 - 2007
+Capacitação à distância para o desenvolvimento de conteúdos educacionais e digitais nas áreas das ciências da natureza e matemática do ensino médio nacional
+Descrição: Capacitação à distância para o desenvolvimento de conteúdos educacionais e digitais nas áreas das ciências da natureza e matemática do ensino médio nacional. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador / Deisi Sangoi - Integrante / Rosiclei Aparecida Cavichioli Lauermann - Integrante / Edgardo Gustavo Fernandez - Integrante / Ricardo Fajardo - Integrante / Juliana Maria Fachinetto - Integrante / Denise Olkoski - Integrante / Brenda Neves Porto - Integrante / João Antonio Fogliatto - Integrante / Alexandro Klein dos Santos - Integrante / Suzana Amaral Sangoi - Integrante / Henrique Moraes Ramos - Integrante / Ana Luiza de Freitas Kessler - Integrante / Evelin Santos Teixeira - Integrante.
+2006 - 2007
+Design de produtos para aprender: uma abordagem do design ergonômico para o aprendizado nas interfaces humano-tecnológicas
+Descrição: Design de produtos para aprender: uma abordagem do design ergonômico para o aprendizado nas interfaces humano-tecnológicas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador / Carlos Gustavo Hoesel - Integrante / Melania de Melo Casarin - Integrante / André Krusser Dalamazzo - Integrante.
+2006 - 2007
+Gerenciamento via Web de servidor de DNS BIND
+Descrição: Gerenciamento via Web de servidor de DNS BIND. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Leandro Isaias Lucca - Integrante.
+2006 - 2007
+DigRender
+Descrição: DigRender - Renderizador de interface gráfica para Web em múltiplas linguagens para PHP com orientação a objetos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Carlos Edmilson da Silva Maia - Integrante.
+2006 - 2007
+Estudo comparativo de padrões abertos de apoio ao aprendizado baseado em WEB no projeto e desenvolvimento de objetos educacionais
+Descrição: Estudo comparativo de padrões abertos de apoio ao aprendizado baseado em WEB no projeto e desenvolvimento de objetos educacionais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Ricardo Donato Iop - Integrante.
+2005 - 2005
+Desenvolvimento de um agente inteligente para detecção de gargalos de um sistema de jogos on-line
+Descrição: Desenvolvimento de um agente inteligente para detecção de gargalos de um sistema de jogos on-line. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Roseclea Duarte Medina - Coordenador / Henrique Vicentini - Integrante.
+2003 - 2003
+Escrita Colaborativa via WEB: o EQUITEXT - Interface para portadores de necessidades especiais
+Descrição: No projeto foi desenvolvida uma customização da interface do EQUITEXT com a finalidade de tornar o editor acessível aos PNEs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Roseclea Duarte Medina - Coordenador / Cleuza Maria Maximino Carvalho Alonso - Integrante / Rafael Gressler Milbradt - Integrante / Marcos Vinícius B de Souza - Integrante / Rafael Kempfer - Integrante.Financiador(es): Universidade Federal de Santa Maria - Bolsa.
+1992 - 1996
+Projeto RA - Radioastronomia
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Roseclea Duarte Medina - Coordenador.

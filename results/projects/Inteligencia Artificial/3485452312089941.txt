@@ -1,0 +1,3 @@
+2021 - Atual
+Veículos não tripulados autônomos
+Descrição: Há uma grande gama de utilidades possíveis para veículos não tripulados, por exemplo: monitoramento de plantações e rebanhos, mapeamento geográfico e segurança. O meio em que se locomovem é fundamental para definição da autonomia possível, equipamento e controles necessários, além das possíveis aplicações. Muitos destes veículos utilizam como módulo de controle equipamentos baseados em placas Arduino, que são de programáveis e de baixo custo. Este projeto busca estudar e desenvolver veículos não tripulados de propósito geral controlados por equipamentos do tipo Arduino.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Rogério Güths - Coordenador.

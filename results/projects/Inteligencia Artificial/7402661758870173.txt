@@ -1,0 +1,78 @@
+2021 - Atual
+ALFABETIZAÇÃO AUTÔNOMA POR MEIO DO AUDIOVISUAL MEDIADA POR APLICATIVO MÓVEL
+Descrição: Segundo a Pesquisa Nacional por Amostra de Domicílios (PNAD), o Brasil tem cerca de
+onze milhões de analfabetos. Já o número de celulares ativos é de cerca de duzentos e trinta
+milhões, segundo dados da 30ª Pesquisa Anual de Administração e Uso de Tecnologia da
+Informação nas Empresas, da Fundação Getúlio Vargas de São Paulo (FGV-SP). O uso de
+aplicativos móveis nem sempre depende da alfabetização do usuário, devido ao uso intensivo
+da comunicação audiovisual interativa. Diante desse cenário, propõe-se o desenvolvimento de
+um aplicativo móvel voltado para a alfabetização de jovens e adultos, que utilize a linguagem
+audiovisual em conjunto com o método analítico global de alfabetização.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcos Rodrigues Pinto - Coordenador / Gabriela do Vale Oliveira - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Bolsa.
+2019 - Atual
+mpacto do Uso de Games na Aprendizagem Matemática
+Descrição: Após a popularização dos telefones móveis, foi possível observar a disseminação de games
+portáteis, notadamente entre jovens em idade escolar. Uma vez que os celulares são cada vez
+mais acessíveis a esses jovens, cabe avaliar o seu potencial uso como ferramenta de apoio à
+aprendizagem matemática. A aprendizagem matemática representa um desafio quase
+intransponível para grande parte dos estudantes, e intransponível para tantos outros. Isso
+fomenta por parte dos pesquisadores uma busca constante de melhoria do desempenho de
+estudantes na disciplina matemática, recorrendo a diversas técnicas e ferramentas de apoio,
+entre elas, os games para celular. Este trabalho busca identificar os jogos que podem ser
+considerados com potencial para este uso e indicar de que modo tal uso pode ser feito, tendo
+em vista conteúdos de matemática.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Rodrigues Pinto - Coordenador / Gabriela do Vale Oliveira - Integrante.
+2019 - Atual
+Desenvolvimento de aplicativos voltados para a aprendizagem de matemática elementar
+Descrição: As dificuldades com a disciplina de matemática elementar envolvem desde a apatia do aluno até
+os materiais disponíveis para o aprendizado. Uma das formas mais eficazes para o
+desenvolvimento da aprendizagem em matemática é a prática de exercícios e a resolução de
+problemas. No entanto, o fator tempo tem se revelado uma enorme barreira, sendo em muitos
+casos uma simples questão de escolha do próprio aluno. O desenvolvimento de aplicativos
+voltados para a aprendizagem de conceitos e técnicas matemáticas por meio de jogos pode atrair
+a escolha de uso do tempo do aluno por esta atividade além de reforçar a prática de exercícios e
+estimular a resolução de problemas. Este projeto visa o desenvolvimento de jogos para celulares
+Android e a disponibilização dos mesmos para os alunos especialmente de matemática elementar
+e outros alunos e usuários de maneira geral que tenham interesse no tema.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Rodrigues Pinto - Coordenador / José Carlos Sousa Martins - Integrante.
+2019 - Atual
+Apropriação de Técnicas de Aprendizagem pelos Alunos do Ensino Fundamental no Município de Canindé
+Descrição: Muitos estudos têm sido desenvolvidos em torno das técnicas de ensino, que procuram
+melhorar o desempenho dos docentes em sala de aula, em suas atividades de ensino. Mas estes
+estudos mantêm o foco no professor e não necessariamente no aluno, o qual muitas vezes
+desconhece os meios pelos quais teria um melhor desempenho. Os resultados investigação
+sobre a apropriação de técnicas de aprendizagem pelos alunos poderão indicar as medidas
+necessárias para melhoria do desempenho escolar no nível fundamental, o que impactaria
+positivamente os níveis seguintes da vida escolar. Com esse intuito, proceder-se-á uma pesquisa
+quantitativa e qualitativa sobre uma amostra da população escolar do município de Canindé, no
+nível fundamental. As técnicas investigadas serão aquelas consideradas mais populares,
+mapeadas por estudiosos em educação e divulgadas por diversos meios, inclusive pela internet.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Rodrigues Pinto - Coordenador / Samara Alves Marcolino - Integrante.
+2018 - 2019
+Aplicação de Matrizes Inteiras de Ordem 2 e Determinante Igual a 1 na Encriptação de Mensagens
+Descrição: A encriptação de mensagens é cada vez mais relevante na sociedade atual,
+embora o ato de encriptar mensagens tenha registros de mais de 4.500 anos. Este
+projeto pretende desenvolver um sistema para cifrar mensagens curtas por meio de
+chave pública, ou assimétrica, que utilize matrizes inteiras de determinante igual 1,
+portanto, possuindo inversa. Para isso, serão definidos dois conjuntos, quais sejam,
+um alfabeto e um anel de inteiros, e uma função bijetiva entre eles. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Rodrigues Pinto - Coordenador / Carlos Vinícius Ramos Silva - Integrante / Diego Willian Maia Brito - Integrante.Financiador(es): Instituto Federal do Ceará - Bolsa.
+2018 - Atual
+SIMULAÇÃO DE CONTAMINAÇÃO DE ÁGUAS SUBTERRÂNEAS POR BTEX
+Descrição: Segundo estudo do Serviço Geológico do Brasil, realizado no ano de 1998, o
+município de Jaguaruana, no estado do Ceará, contava com 60 poços tubulares,
+naquele ano, dos quais 12 eram públicos e 48 eram privados. No ano de 2018, esse
+número deve ser maior, especialmente devido à prolongada estiagem entre 2011 e
+2018. Adicionalmente, no ano de 2018, o município conta com 4 postos de gasolina,
+e há o quinto posto em vias de iniciar suas operações. Este projeto visa simular a
+contaminação das águas subterrâneas por BTEX, cuja principal fonte são
+vazamentos de tanques de postos de combustíveis, para avaliar os impactos de um
+possível vazamento, sugerir medidas preventivas e processos de remediação em
+caso de vazamento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcos Rodrigues Pinto - Coordenador / Geisa Mayara da Silva - Integrante.
+2015 - 2017
+Simulação/Otimização Multiobjetivo do Projeto de Redes de Distribuição de Água por Algoritmos Evolucionários Multipopulaçã
+Descrição:  O dimensionamento econômico de redes de distribuição de água constitui­se em um problema
+19/05/2015 Currículo Lattes
+https://wwws.cnpq.br/cvlattesweb/pkg_impcv.trata 3/4
+altamente estocástico e de grande relevância para a área de saneamento básico, a qual é colocada como um dos subcomponentes no cálculo do Índice de Desenvolvimento Humano. Um dimensionamento econômico pode representar de fato na viabilização de projetos de extrema importância para diversas localidades. O estudo se dá no âmbido da aplicação de algoritmos estocásticos, métodos heurísticos de busca por soluções que, não se tendo a garantia de se obter a solução ótima, garante­se que se tenha uma boa solução dentre a vasta maioria de configurações. A dificuldade na obtenção da rede ótima se dá justamente quando se tem restrições em trechos específicos de uma rede e mesmo no atendimento da restrição hidráulica básica, o que coloca o problema na classe dos problemas chamados NP­difícil. Outra dificuldade apresentada no estudo é decorrente da indisponibilidade de dados referentes a compras de condutos feitas pela Companhia de Água e Esgoto do Ceará, a qual tem negado o fornecimento de dados, alegando não os possuir. Esses dados seriam utilizados para estimar as taxas de quebra dos condutos ao longo da vida útil de determinada rede. Os resultados parciais mostram que uma abordagem de objetivo simples, mais frequente na literatura, tem convergido sempre para uma rede que tem seu custo de manutenção mais alto ao longo do tempo de vida útil da rede. A publicação de resutados similares com uma rede de distribuição de água específica está na terceira rodada de correções em revista especializada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (3) . Integrantes: Marcos Rodrigues Pinto - Coordenador / Marco Aurélio Holanda de Castro - Integrante / OYRTON AZEVEDO DE C M JUNIOR - Integrante / ROGERIO CAMPOS - Integrante / José Valmir Farias Maia Júnior - Integrante / João Marcelo Costa Barbosa - Integrante.Número de produções C, T & A: 2
+2014 - 2015
+Otimização de Redes de Distribuição de Água
+Descrição: O projeto visa ao desenvolvimento de uma ferramenta e sua aplicação ao problema de otimização de redes de distribuição de água.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marcos Rodrigues Pinto - Coordenador.Financiador(es): Fundação Edson Queiroz - Bolsa.Número de produções C, T & A: 1
+2009 - 2010
+Aplicação de Métodos Evolucionários ao Problema de Remediação de Águas Subterrêneas
+Descrição: A otimização de sistemas de bombeamento e tratamento consistem em um problema não linear e não convexo. Dessa forma é preciso investigar métodos capazes de fornecer soluções ótimas para esses problemas. Dentre as técnicas que podem ser aplicadas a esse problema, a otimização evolucionaria vem obtendo bastante êxito. No entanto o incoveniente do alto custo computacional parece estar sempre presente. Além da crescente capacidade computacional, pesquisas vêm sendo realizadas afim de contornar esse inconveniente. Dentre as propostas apresentadas, pretende-se trabalhar a técnica multipopulação com algoritmo evolucionário multiobjetivo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Rodrigues Pinto - Coordenador.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2

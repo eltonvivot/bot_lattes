@@ -1,0 +1,104 @@
+2017 - Atual
+Evaluation of the occupancy of frequency bands of 24.25 to 27.5 GHz, 27.5 GHz to 31.8 GHz and 31.8 GHz to 33.4 GHz in Brazil focusing the 5G market
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador / MARLENE SABINO PONTES - Integrante / MARTA PUDWELL CHAVES DE ALMEIDA - Integrante / Carlos Vinicio Rodriguez Ron - Integrante.Financiador(es): Intel Semicondutores do Brasil - Auxílio
+										financeiro.
+2016 - Atual
+Desenvolvimento de novas técnicas para avaliação do serviço de banda larga móvel
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador / MARLENE SABINO PONTES - Integrante / MARTA PUDWELL CHAVES DE ALMEIDA - Integrante / Carlos Vinicio Rodriguez Ron - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2014 - Atual
+Caracterização do Canal de Propagação para Sistemas Móveis 4G e Rádios Cognitivos (Bolsa PP)
+Descrição: Este projeto compreende duas linhas de pesquisa complementares. A primeira é a modelagem teórica e caracterização experimental do canal de propagação com variação espaço- temporal em diferentes tipos de região. Na segunda linha de pesquisa serão desenvolvidas e testadas técnicas para a detecção de intervalos espectrais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (4) . Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 8
+2013 - 2015
+Modelagem tecnológica de Parceria Público Privada de Banda Larga para o Governo do Estado do Rio de Janeiro
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Integrante / MARLENE SABINO PONTES - Coordenador / MARTA PUDWELL CHAVES DE ALMEIDA - Integrante / Flávio José Vieira Hasselmann - Integrante / Carlos Vinicio Rodriguez Ron - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2013 - 2015
+Desenvolvimento do Portal Rio Estado Digital versão 2.0
+Descrição: Este projeto objetiva o desenvolvimento da versão 2.0 do Portal Rio Estado Digital. Inaugurado em março de 2010. O Portal serve, através da Rede WiFi Rio Estado Digital, a diversas comunidades e regiões do Rio de Janeiro, disponibilizando Internet gratuita, cursos de inclusão digital e profissional, oficinas culturais, apoio ao uso de serviços de e-Gov, noções de empreendedorismo e notícias de interesse geral. O Portal registrou, até o momento, mais de 800 mil acessos, um número expressivo que comprova o inequívoco acerto da iniciativa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador / MARLENE SABINO PONTES - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2013 - Atual
+Suporte técnico ao projeto de modernização da rede de telecomunicações via satélite do COMAER - Sistema TELESAT
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Integrante / MARLENE SABINO PONTES - Coordenador / MARTA PUDWELL CHAVES DE ALMEIDA - Integrante / Carlos Vinicio Rodriguez Ron - Integrante.Financiador(es): Ministério da Aeronáutica - Auxílio
+										financeiro.
+2013 - Atual
+Studies of the potential of ASA (Authorized Spectrum Access) for use in mobile communications in Brazil
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador / MARLENE SABINO PONTES - Integrante / MARTA PUDWELL CHAVES DE ALMEIDA - Integrante / Carlos Vinicio Rodriguez Ron - Integrante.Financiador(es): Qualcomm do Brasil - Auxílio
+										financeiro.
+2012 - 2015
+Caracterização do Canal de Propagação para Sistemas Móveis 4G e Rádio Cognitivo (Universal)
+Descrição: Objetivos 
+- Realização de campanhas de medição do canal de propagação em ambientes abertos e fechados, em bairros do Rio de Janeiro com características urbanas densas, urbanas, suburbanas e rurais. 
+- Criação de um banco de dados destas medidas, com acesso e visualização com mapas georeferenciados. 
+- Modelagem de canal de rádio propagação com variações aleatórias no tempo e espaço, em ambientes abertos e fechados, considerando efeitos de reflexão, difração e transmissão dos sinais. 
+- Desenvolvimento de modelos de previsão de cobertura e cálculo de interferências em sistemas de radio acesso em banda larga, através de métodos determinísticos e sem-empíricos. 
+- Desenvolvimento e aplicação em campo de técnicas detecção de intervalos espectrais (white spaces) para aplicações em sistemas de rádio cognitivo. 
+-Avaliação da eficiência de uso do espectro eletromagnético através da aplicação destas técnicas em medições realizadas em regiões urbanas, suburbanas e rurais no Estado do Rio de Janeiro. 
+- Criação de um banco de dados e análise estatística da ocupação do espectro nas regiões da medições. 
+-Simulação da operação de rádios cognitivos com usuários secundários com base nos resultados estatísticos de ocupação do espectro.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (4) . Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador / MARLENE SABINO PONTES - Integrante / Carlos Vinicio Rodriguez Ron - Integrante / GONSIOROSKI, LEONARDO H. - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 28
+2012 - 2014
+Ferramenta para Cálculos de Enlace de Comunicações por Satélite
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador / Carlos Vinicio Rodriguez Ron - Integrante / GONSIOROSKI, LEONARDO H. - Integrante.Financiador(es): Brasilsat Harald - Auxílio
+										financeiro.
+2010 - 2016
+Projeto PLATCOG - Plataforma teórica e experimental de sistemas rádio cognitivos para subsidiar aspectos normativos e regulatórios
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Luiz Alencar Reis da Silva Mello - Integrante / Marta Pudwell Chaves - Integrante / MARLENE SABINO PONTES - Integrante / Rodolfo Sabóia Lima de Sousa - Coordenador / Carlos Vinicio Rodriguez Ron - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2010 - 2014
+Caracterização do Canal de Propagação para Redes de Acesso Sem Fio de Banda Larga (Bolsa PP)
+Descrição: Objetivos do projeto de pesquisa
+?	Realização de medidas de propagação em ambientes urbanos para a caracterização da perda de propagação e dos efeitos dispersivos devidos ao multipercurso em sistemas de comunicação ponto-área.
+?	Desenvolvimento técnicas e ferramentas de software para geração de séries temporais de atenuação por chuvas na faixa de ondas milimétricas a partir de modelos estocásticos, com aplicações no planejamento de sistemas ponto-a-ponto e ponto-multiponto
+?	Desenvolvimento de algoritmos para a previsão da disponibilidade, cálculo de desempenho e degradação por interferências em sistemas de rádio acesso em banda larga.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (4) . Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 64
+2009 - Atual
+Instituto Nacional de Ciência e Tecnologia em Comunicações Sem Fio - INCT-CSF
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (11) Doutorado: (8) . Integrantes: Luiz Alencar Reis da Silva Mello - Integrante / GLÁUCIO LIMA SIQUEIRA - Integrante / EMANOEL PAIVA DE OLIVEIRA COSTA - Integrante / Cássio Gonçalves Rego - Integrante / Hasselmann, Flavio - Integrante / José Ricardo Bergmann - Integrante / Fernando Moreira - Integrante / João Chrisóstomo Weil - Integrante / Gervásio Protásio Cavalcante - Integrante / ADAILDO GOMES D ASSUNCAO - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2011
+Planejamento de Redes de Rádio Acesso em Banda Larga - Medidas de Propagação, Modelos e Ferramentas Computacionais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador / MARLENE SABINO PONTES - Integrante / Marta Pudwell Chaves - Integrante / Carlos Vinicio Rodriguez Ron - Integrante / Marco Antonio Grivet Mattoso Maia - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2007
+Assessment of radiowave propagation for communication and navigation systems in tropical and sub-tropical areas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): European Space Agency - European Space & Technology Centre - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2004 - 2005
+Parametrização do Canal de RF para TV Digital
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Financiadora de Estudos e Projetos / FINEP - Auxílio
+										financeiro.
+1997 - 2002
+PRONEX CETUC-MCT
+Descrição: Coordenação do Sub-projeto de Rádio Propagação. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro.
+1997 - 2000
+Caracterização dos Efeitos de Multipercurso em Enlaces Rádio Digitais
+Descrição: Medidas e Modelamento da Propagação em Enlaces Satélite. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Empresa Brasileira de Telecomunicações S/A - Auxílio
+										financeiro.
+1994 - 1996
+Medidas de Atenuação por Chuvas em Enlaces Convergentes
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.
+1994 - 1995
+Medidas de Propagação em Minas Gerais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Telecomunicacoes de Minas Gerais S/A - Auxílio
+										financeiro.
+1988 - 1989
+Medidas de Propagação em Santa Catarina
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Telecomunicações de Sta. Catarina S.A. - Auxílio
+										financeiro.
+1987 - 1998
+Pesquisa Aplicada em Sistemas de Comunicação Via Satélite
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento CPqD/Telebrás - Auxílio
+										financeiro.
+1987 - 1989
+Medidas de Propagação no Paraná
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Telecomunicacoes do Parana S/A - Auxílio
+										financeiro.
+1986 - 1987
+Medidas de Propagação no Mato Grosso
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Telecomunicacoes de Mato Grosso do Sul S/A - Auxílio
+										financeiro.
+1985 - 1998
+Pesquisa Aplicada em Sistemas Rádio Digitais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Alencar Reis da Silva Mello - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento CPqD/Telebrás - Auxílio
+										financeiro.

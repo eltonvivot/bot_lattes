@@ -1,0 +1,282 @@
+2020 - 2022
+COMPORTAMENTO DA CORROSÃO POR FRESTAS EM LRC (Ligas Resistentes à Corrosão)
+Projeto certificado pelo(a) coordenador(a) Eleani Maria da Costa em 20/08/2021.
+Descrição: Este projeto faz parte da primeira fase de um desenvolvimento tecnológico (em três fases), cujo objetivo geral é determinar os limites de aplicação de ligas resistentes à corrosão (LRC) em ambientes com baixo teor de oxigênio.
+O objetivo principal do projeto proposto é investigar a influência de fatores ambientais na resistência à corrosão por frestas em ligas resistentes à corrosão (LRC) ou ?CRAs? (do inglês: Corrosion Resistant Alloys), mas em condições de oxigênio igual a zero. Os dados obtidos servirão como ponto de partida das atividades a serem realizadas na próxima fase do desenvolvimento citado acima.
+Os objetivos específicos do projeto incluem:
+-	Montar um sistema experimental para avaliar a resistência à corrosão por frestas;
+-	Avaliar o desempenho de diferentes CRAs na corrosão por frestas
+-	Investigar a influência de fatores ambientais combinados e individuais, tais como pH, concentração de íons cloreto e temperatura na resistência à corrosão por frestas em CRAs;
+-	Utilizar técnicas eletroquímicas para a determinação de parâmetros eletroquímicos como potencial de circuito aberto (?OCP?), potencial de corrosão (?Ecorr?), potencial de fresta (?Ecrev?) e potencial de repassivação (?Erep?).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carlos Alexandre dos Santos - Integrante / Eleani Maria da Costa - Coordenador / Dedavid, Berenice A. - Integrante / Natália Feijo Lopes - Integrante.Financiador(es): EQUINOR - Auxílio
+										financeiro.
+2020 - 2021
+AP - PUCRS - HP do Brasil - EP3DP20 3D Printing
+Descrição: Para esta proposta, a previsão de duração é de 11 meses, com ofertas de capacitação em Modelagem CAD, Simulação CAD/CAE e Impressão 3D em dois níveis de conteúdos durantes os semestres letivos de 2020, ou seja, uma edição com conteúdo básico entre Março e Julho (1º Semestre/2020), e uma edição com conteúdo avançado entre Agosto e Dezembro de 2020 (2º Semestre/2020).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Filipi Damasceno Vianna - Integrante / Anderson Silva - Integrante.Financiador(es): HP DO BRASIL - Auxílio
+										financeiro.
+2019 - 2020
+AGT - PUCRS - HP do Brasil - EP ? 3D Printing
+Descrição: Em 2019, pretende-se dar continuidade à capacitação técnica profissional que agregue conhecimentos para aperfeiçoamento e desenvolvimento do RH da empresa e de futuros profissionais oriundos da comunidade acadêmica, viabilizando assim uma plataforma de capacitação de futuros usuários de Projetos e Impressão 3D (3D Printing).
+Para esta proposta, a previsão de duração é de 11 meses, com ofertas de capacitação durantes os semestres letivos, ou seja, uma edição entre Março e Julho (1º Semestre/2019), e outra entre Agosto e Dezembro de 2019 (2º Semestre/2019).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Filipi Damasceno Vianna - Integrante.Financiador(es): Hewlett-Packard Brasil - Matriz - Auxílio
+										financeiro.
+2018 - 2022
+MULTIPUCRS - Ampliação de Infraestrutura Multiusuária de Pesquisa na PUCRS (Edital CHAMADA PÚBLICA CT-INFRA - PROINFRA 02/2014 )
+Descrição: O projeto INFRAPUCRS tem como objetivo viabilizar a ampliação da infraestrutura multiusuária, buscando atender a áreas estratégicas para desenvolvimento e qualificação da pesquisa nas unidades universitárias e nos Programas de Pós­Graduação da PUCRS. A proposta consiste de quatro (04) subprojetos, envolvendo as áreas de Ciências Exatas e da Terra e Engenharias, Ciências Biológicas e Ciências da Saúde. São eles: SUBPROJETOS NANOMAT, SIEMA, NEUROBIOS E BIOMARC. A implantação da infraestrutura de pesquisa proposta neste projeto terá um impacto significativo no desempenho dos Programas de Pós­Graduação e na qualificação dos projetos de pesquisa e das publicações científicas. Além disso, o projeto contribuirá para uma maior integração do ensino de graduação e pós­graduação, para o sistema de iniciação científica, na geração de novos produtos e processos, no uso compartilhado de equipamentos e recursos, bem como nas novas estruturas de pesquisa que estão em fase de implantação na PUCRS.
+O pesquisador é sub-coordenador do Sub-projeto SIEMA. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Alexandre dos Santos - Integrante / Ricardo Meurer Papaléo - Integrante / Carla Denise Bonan - Coordenador / Régis Gemerasca Mestriner - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2018 - 2018
+AGT - PUCRS - HP do Brasil - EP ? 3D Printing
+Descrição: A proposta apresenta como objetivo geral, desenvolver uma plataforma para capacitação de usuários/operadores na tecnologia 3D Printing (Impressão 3D). 
+Para isto, como objetivos específicos, foram definidos: 
+?	Desenvolver e validar processos de construção e execução de impressão de sólidos 3D; 
+?	Estruturar materiais didáticos e treinamentos para construção e execução de impressão de sólidos 3D; e 
+?	Desenvolver um ambiente Virtual para treinamento da operação da Impressora 3D HP Jet Fusion. 
+Os usuários dos materiais e ambiente virtual poderão desenvolver habilidades no processo de 3DP, o que facilitará operações em sistemas reais. Entre os tópicos a serem abordados, destacam-se: 
+?	Modelagem 3D de sólidos 
+1.	Entendimento da construção de sólidos 3 
+2.	Modelagem com os diferentes softwares de modelagem 3D 
+3.	Preparação dos sólidos 3D para impressão (suportes, enchimentos, texturas) 
+4.	Exportação dos arquivos para impressão (formatos, passos, otimização) 
+5.	Solução de problemas 
+?	Plataforma de Simulação das Impressoras 3D Jet Fusion HP 
+1.	Levantamento de Requisitos 
+2.	Definição de Cenários para o Treinamento 
+3.	Projeto do Simulador para Treinamento 
+4.	Modelagem dos objetos do cenário 
+5.	Desenvolvimento de Protótipo 
+6.	Documentação 
+?	Validação e Testes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Filipi Damasceno Vianna - Integrante / Marcio Sarroglia Pinho - Integrante / Fernando de Oliveira Lemos - Integrante.Financiador(es): Hewlett-Packard Brasil - Matriz - Auxílio
+										financeiro.
+2017 - 2020
+EDITAL UNIVERSAL CNPq - Desgaste-Corrosão em Ligas Metálicas Utilizadas em Motores Diesel na Presença de Biodiesel
+Descrição: O presente projeto tem como objetivo a realização de ensaios de desgaste e desgaste-corrosão em um tribômetro tipo Pino-Disco para análises tribológica e corrosivas em materiais à secos e submersos, neste caso na presença de diesel comercial, biodiesel e misturas diesel-biodiesel. O equipamento de teste foi desenvolvido tendo como referência a norma ASTM G99 ? 95a (Standard Test Method for Wear Testing with a Pin-on-Disk Apparatus). Pretende-se adaptá-lo para a realização também de ensaios de desgaste-corrosão. Os resultados serão obtidos mediante ensaios de desgaste e desgaste-corrosão de ligas dos sistemas Alumínio-Silício, Alumínio-Cobre, Alumínio-Silício-Magnésio, Alumínio-Zinco-Magnésio, em condições à seco, na presença de diesel comercial (B7) e na presença de misturas diesel-biodiesel (B20, B50, B75 e B100), com rotação variável de 50 rpm e 300 rpm, e forças de 5 N a 10 N durante períodos variáveis de ciclos. As análises terão como finalidade fazer um comparativo do desgaste e da corrosão das ligas em estudo, utilizadas em motores diesel, em diferentes soluções. Após os ensaios serão analisados os parâmetros tribológicos e corrosivos das microestruturas.
+OBJETIVOS ESPECÍFICOS:
+- Aprimorar o sistema de instrumentação e controle do dispositivo pino-disco monitorando os parâmetros operacionais durante os ensaios e permitindo a realização de testes de desgaste-corrosão;
+- Acompanhar ensaios de desgaste e desgaste-corrosão utilizando diesel comercial e biodiesel produzido a partir de óleo de fritura usado adicionado ao diesel comercial;
+- Estabelecer relações entre as ligas estudadas, as condições estruturais na condição bruta de solidificação e tratadas termicamente, e as propriedades de resistência ao desgaste e corrosão em diferentes condições.
+A presente proposta tem o objetivo fundamental de aprimorar um tribômetro para análise de desgaste e desgaste-corrosão em materiais metálicos [VERDI, 2011; CASTRO, 2015]. O equipamento de teste foi desenvolvido tendo como referência a norma ASTM G99 ? 95a, permitindo ensaios à seco e ensaios submersos em soluções. Objetiva-se a adequação do dispositivo para realização de ensaios de tribo-corrosão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Maiquel Moraes Lopes - Integrante / Litiele dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2018
+EDITAL 100k Strong in the Americas - STUDENT EXCHANGE BETWEEN RICE UNIVERSITY (USA) AND PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL (BRAZIL) FOCUSED ON ENGINEERING DESIGN PROCESSES
+Descrição: This proposal seeks to enhance a collaboration between Rice University1 and Pontifícia
+Universidade Católica do Rio Grande do Sul1 by instituting a cross-cultural model for solving
+grand challenges. Faculty exchanges and a study abroad program will focus on the application of
+the engineering design process in the mechanical engineering and bioengineering fields. At
+PUCRS, the program will be adopted into the School of Engineering (FENG) at LABFAB
+(Laboratory of Fabrication), in cooperation with CRIALAB, an experimental laboratory for
+creativity located at the Science and Technology Park (TECNOPUC), a scientifically and
+technological park that fosters research and innovation by means of simultaneous interaction
+between academia, private institutions and government. At RICE, the main activities of the
+program will be developed in the Oshman Engineering Design Kitchen (OEDK) of the George
+R. Brown School of Engineering.
+The specific aims of the program are to:
+1. Initiate international student exchange programs to solve engineering challenges:
+We will develop an exchange program focused on an enhanced cross-cultural engineering
+design program. This program will allow students from both institutions to collaborate on
+authentic engineering design challenges proposed by industry and community partners,
+and to learn to work in an international engineering environment.
+2. Initiate faculty exchange programs to develop engineering design courses: We will
+start an exchange program for faculty from both institutions to share and learn best
+practices in engineering design education. From this exchange, we will develop a crosscultural
+engineering design program.
+3. Develop an engineering design facility at PUCRS: We will work collaboratively to
+build and to certify a Laboratory of Fabrication (LABFAB) at PUCRS that is inspired by
+RICE?s successful engineering design studio, the Oshman Engineering Design Kitchen
+(OEDK).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Maria Oden - Integrante / Luis Humberto Villwock - Integrante.Financiador(es): Partners of the Americas Foundation - Auxílio
+										financeiro.
+2016 - 2017
+AGT-PUCRS - FUNDAÇÃO ALPHAVILLE - Instalação de Unidade produtora de Biocombustíveis no TECNOPUC/Viamão
+Projeto certificado pela empresa Grupo Alpha Ville em 14/06/2017.
+Descrição: Readequação básica do espaço físico disponibilizado no TECNOPUC ? VIAMÃO / RS para instalação da unidade produtora de biocombustíveis
+Instalação da unidade produtora de biocombustíveis no TECNOPUC ? VIAMÃO / RS
+Realizar a reciclagem de óleo de fritura usado e outros óleos em biodiesel, cabendo à  FUNDAÇÃO ALPHAVILLE o desenvolvimento de atividades sociais junto à comunidade no entorno do empreendimento Alphaville ? Zona Sul de Porto Alegre / RS
+O projeto prevê a readequação básica do espaço físico cedido no TECNOPUC ? VIAMÃO para instalação da unidade produtora de biocombustíveis a ser cedido, através de comodato, pela empresa SOCIALTEC - PRO MEIO AMBIENTE CONSULTORIA LTDA. A readequação do espaço físico será de forma básica em termos de infraestrutura, como piso, paredes laterais, adequação de instalação elétrica e hidráulica. Valor Total R$ 138.000,00  - Bolsa Dr. R$ 60.000,00 - Insumos - R$ 78.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Marcus Serafin - Integrante / Ronaldo Silvestre da Costa - Integrante.Financiador(es): Fundação Alphaville - Bolsa / Fundação Alphaville - Auxílio
+										financeiro.
+2016 - 2017
+AGT - PUCRS - RANDON - Apoio ao Laboratório de Fabricação (LABFAB) da Faculdade de Engenharia da PUCRS
+Descrição: Apoio financeiro às atividades de P&D do Laboratório de Fabricação (LABFAB) da Faculdade de Engenharia da PUCRS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Edemar Antônio Wolf de Paula - Integrante.
+2016 - 2016
+AGT-PRESTSERV-PUCRS-GWTK - Análises Metalúrgicas em Amostras de Indústria Metal-Mecânica
+Descrição: Análises metalúrgicas em Amostras de Indústria Metal-Mecânica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Thiago Mugica Ribeiro - Integrante.Financiador(es): GWTK Engenharia de Desenvolvimento - Auxílio
+										financeiro.
+2015 - 2016
+AGT-PRESTSERV-PUCRS-EngGram - Proposta da EngGram para a Faculdade de Engenharia para Desenvolvimento da Pesquisa no Laboratório de Materiais de Construção Civil/FENG - Utilização de RCC's no concreto para aplicação na construção civil
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Alexandre dos Santos - Coordenador.Financiador(es): EnGGram - Tecnologia & Sustentabilidade - Auxílio
+										financeiro.
+2012 - 2016
+PEC-PG Programa de Estudantes-Convênio de Pós-Graduação
+Descrição: DESENVOLVIMENTO DE UM MODELO MATEMÁTICO EM DIFERENÇAS FINITAS PARA PREVISÃO DA FORMAÇÃO ESTRUTURAL DE AÇOS NO ENSAIO DE TEMPERABILIDADE JOMINY
+Total do projeto: 1 bolsa de doutorado pleno por 48 meses (R$ 105.600,00). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Cesar Nunura Nunura - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 1
+2012 - 2014
+AGT - PUCRS - SULGÁS - Mapeamento das Emissões de Poluentes em Motores de Veículos Pesados Operando com Diesel Comercial e GNV Fornecido pela Sulgás
+Descrição: Projeto de Cooperação Técnico-Científica - Recursos R$ 71.298,97. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Ronaldo Silvestre da Costa - Integrante / Cristiane Soares Abreu - Integrante / Marcus Seferin - Integrante.
+2012 - 2013
+AGT-PUCRS-TERMOLAR - CARACTERIZAÇÃO MICROESTRUTURAL DE AMPOLAS DE AÇO INOXIDÁVEL DE GARRAFAS TÉRMICAS DA EMPRESA TERMOLAR
+Descrição: O presente Convênio tem por objetivo promover a integração entre os partícipes (PUCRS e TERMOLAR) para a busca de conhecimento relacionado à investigação, mapeamento e desenvolvimento de uma base de conhecimento sobre as prováveis causas e conseqüências do processo corrosivo e outros decorrentes do processo de fabricação ou do uso, de ampolas de aço inoxidável de garrafas térmicas, bem como a caracterização microestrutural das chapas e juntas soldadas. Total do projeto: R$ 28.059,92. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Gabriel Stefan Wolf Januz - Integrante.Financiador(es): Termolar - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2010 - 2015
+Edital FINEP - PROMOBIO - INTERAÇÃO UNIVERSIDADE-ESCOLAS PARA A PESQUISA E DISSEMINAÇÃO DE SABERES SOBRE OS BIOCOMBUSTÍVEIS E O PETRÓLEO
+Descrição: Objetivo Principal: organizar uma rede para a realização de ações de ensino, pesquisa e extensão na área de biocombustíveis, (especificamente biodiesel e etanol), envolvendo docentes e graduandos da PUCRS, alunos e professores dos ensinos médio e técnico e empresas do setor de biocombustíveis.
+Objetivos Específicos:
+- criar e apoiar Núcleos de Experimentação Científica em produção e desempenho de biocombustíveis e sustentabilidade (ambiental, econômica e social);
+- apoiar a realização de projetos de pesquisa nas áreas dos Núcleos de Experimentação científica;
+- promover ações de educação continuada para professores das escolas de nível médio;
+- inserir empresas do setor de biocombustíveis (produção e equipamentos) no processo;
+- promover e apoiar atividades de caráter científico, tais como feira de ciências, oficinas, concursos de projetos de pesquisa, maratona científico-cultural e mostra de trabalhos escolares. 
+- organizar uma exposição temática no no MCT - PUCRS
+Total do projeto: R$ 996.818,48. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Carlos Alexandre dos Santos - Integrante / Eleani Maria da Costa - Integrante / Sandra Einlofth - Integrante / Marcus Serafin - Coordenador / Rosane Ligabue - Integrante / Ronaldo Silvestre da Costa - Integrante / Jeane Dullius - Integrante / Sérgio Barboza Rahde - Integrante / Miguel Orlandi - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+Edital RHAE - CNPq - Testes de Desempenho em Motores: Biodiesel Produzido em Usina Piloto a Partir de Óleo de Fritura Usado
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Carlos Alexandre dos Santos - Integrante / Ronaldo Silvestre da Costa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2010 - 2011
+AGT-PUCRS-DSM - Projeto Piloto - Análise do dos parâmetros do processo de secagem de polímeros na DSM
+Descrição: Análise da secagem de polímeros na DSM com o objetivo de identificar a influência das variáveis do processo, sobre a causa da aderência do polímero no secador de leito fluidizado. Objetiva-se o mapeamento das condições atuais do processo no que diz respeito às temperaturas do sistema die-plate e do sistema de insuflamento dos gases. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Jose Rogério Navajas Fazzi - Integrante.Financiador(es): DSM Elastomers Americas - Auxílio
+										financeiro.
+2007 - 2009
+EDITAL CNPq No. 027/2006  - CONVÊNIOS BILATERIAIS DE COOPERAÇÃO INTERNACIONAL  -  Desenvolvimento de novas tecnologias para os tratamentos térmicos de aços (modelos numéricos e práticas experimentais)
+Descrição: Cooperação internacional de Ciência, Tecnologia e Inovação entre o Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) ? Brasil, e a Universidad de Los Andes ? Colômbia
+INSTITUIÇÃO EXECUTORA NACIONAL
+Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) - Brasil
+INSTITUIÇÃO EXECUTORA ESTRANGEIRA
+Universidad de Los Andes - Colômbia
+INSTITUIÇÃO CO-EXECUTORA 
+Núcleo de Engenharia de Materiais Metálicos (NUCLEMAT) da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) - Brasil
+PROPONENTE
+Jaime Alvares Spim Junior. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Alexandre dos Santos - Integrante / Jaime Alvares Spim - Coordenador / Carlos  Frick - Integrante / Berenice Anina dedavid - Integrante / Cesar Nunura Nunura - Integrante / Wilson Hormazza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Departamento Administrativo de Ciencia, Tecnología e Innovación - Auxílio
+										financeiro.
+2006 - 2008
+EDITAL MCT/CNPq 02/2006 - UNIVERSAL  : Solidificação Unidirecional Ascendente para Obtenção de Lingotes de Silício Policristalino com Estruturas Grosseiras Colunares para Aplicação em Dispositivos Fotovoltaicos
+Descrição: Esse projeto se insere no conjunto de atividades de pesquisa do Núcleo de Engenharia de Materiais Metálicos da Faculdade de Engenharia da PUCRS, cujos objetivos principais são:
+? Construção de um dispositivo experimental de solidificação unidirecional ascendente in-situ para temperaturas de até 1550oC;
+? Definição e escolha dos fornecedores nacionais de silício metálico, grau metalúrgico, que servirá de matéria prima para o processo de fusão / solidificação;
+? Obtenção de lingotes de silício policristalino, com quatro polegadas de diâmetro e comprimento aproximado de duzentos milímetros;
+? Aplicação das técnicas metalúrgicas tradicionais de purificação e crescimento por fusão zonal horizontal para a obtenção de lingotes de silício de grau PV e baixa densidade de defeitos;
+? Implementação do potencial energético fotovoltaico do Brasil, através da fabricação de lâminas de silício policristalina, com qualidade estrutural (baixo índice de defeitos) e custo reduzido, a partir do silício grau metalúrgico nacional;
+? Monitoração completa e análise de resíduos de processo, desde a limpeza do silício grau metalúrgico até a obtenção dos lingotes;
+? Corte dos lingotes para a obtenção de lâminas que serão utilizadas nos dispositivos fotovoltaicos para geração de energia solar;
+? Caracterização das lâminas em relação à quantidade de impurezas presentes, densidade de discordâncias e tamanho de grão médio por unidade de área;
+? Dopagem das lâminas e verificação do rendimento das mesmas nos dispositivos fotovoltaicos;
+? Transferência da metodologia desenvolvida através dos recursos humanos envolvidos no projeto.
+? Formação de recursos humanos - alunos bolsistas das faculdades de engenharia mecânica, engenharia metalúrgica e física que participam do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Cleison Luis Webber - Integrante / Arthur B Beskow - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2008
+EDITAL FAPERGS No. 003/2006-06-01 : PROJETO CASADINHO (FAPERGS-FINEP) Cooperação entre programas de pós-graduação para o desenvolvimento e consolidação da linha de pesquisa ?SÍNTESE, PROCESSOS E ANÁLISE DE MATERIAIS
+Descrição: EDITAL FAPERGS NÚMERO 003/2006-06-01 PROGRAMA DE APOIO A COOPERAÇÃO ENTRE CURSOS DE PÓS GRADUAÇÃO STRICTO SENSU ?CASADINHOS? ?PAPG
+PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA E TECNOLOGIA DE MATERIAIS ?PGETEMA DA PUCRS
+E
+PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA METALÚRGICA, MINAS E MATERIAIS-PPGEMM DA UFRGS (PROGRAMA CONSOLIDADO)
+COORDENADOR SOLICITANTE: ELEANI MARIA DA COSTA
+Contempla uma bolsa de Pós-Doutorado (12 meses). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Carlos Alexandre dos Santos - Integrante / Jaime Alvares Spim - Integrante / Carlos  Frick - Integrante / Eleani Maria da Costa - Coordenador / Berenice Anina dedavid - Integrante / Cleison Luis Webber - Integrante / Arthur Bortolin Beskow - Integrante / Sandra Einlofth - Integrante / Carlos Ferreira - Integrante / Carlos Carone - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / PUCRS - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2006 - 2007
+AGT - PUCRS -MUNDIAL : Estudo e Levantamento de Fatores que Influenciam na Qualidade do Produto através de Análise Metalográfica e Ensaios Mecânicos - Convênio de Cooperação, Intercâmbio Tecnológico-Científico e o Desenvolvimento de Recursos Humanos
+Descrição: Objetivos do presente Convênio de Cooperação Técnica e Científica celebrado entre as partes. são:
+1.1. Estudar os fatores que influenciam o fluxo de produção através de ensaios mecânicos e metalográficos de amostragem.
+1.2. Desenvolver métodos para o controle de qualidade, dedicados às peças metálicas, produzidas pela Mundial. S.A, adequados ao fluxo de produção industrial, através de ensaios mecânicos e metalograficos por amostragem.
+1.3. Formação e qualificação de Recursos Humano na área.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alexandre dos Santos - Integrante / Eleani Maria da Costa - Integrante / Berenice Anina dedavid - Coordenador / Cesar Nunura Nunura - Integrante.Financiador(es): Mundial S.A. - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2005 - 2008
+PROJETO PAPPE, financiado pela FAPERGS, com parceria de cooperação entre o Laboratório de Fundição e a Empresa Andreas Stihl - RS, com título: Desenvolvimento de Ligas de Magnésio para Motores de Combustão em Máquinas Portáteis de Jardinagem e Silvicultur
+Descrição: PROGRAMA: PAPPE ? FASE I (EDITAL N. 007/2004)
+TÍTULO: "DESENVOLVIMENTO DE LIGAS LEVES (MAGNESIO) PARA APLICACAO NA INDÚSTRIA DE FABRICACAO DE MAQUINAS PORTATEIS"
+PROCESSO nº 0407080
+DESENVOLVIMENTO DE LIGAS LEVES (MAGNÉSIO)
+EXECUÇÃO:
+- Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) - RS - Prof. Dr. Jaime Alvares Spim Jr.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Integrante / Jaime Alvares Spim - Coordenador / Carlos  Frick - Integrante / Thiago Ferri - Integrante / Arlan dos Santos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2005 - 2006
+Projeto Auxílio a Pesquisa:PROPOSTA E DEFINIÇÃO DE PRODUTO DE SOFTWARE DE LC PARA A AFP-GERDAU (CHARQUEADAS) - TECNOLOGIA APLICADA , junto a Universidade Federal do Rio Grande do Sul, Centro de Tecnologia, Laboratório de Fundição
+Descrição: SIMULAÇÃO DA SOLIDIFICAÇÃO AO LONGO DO PROCESSO DE LINGOTAMENTO CONTINUO EM FUNÇÃO DAS CONDIÇÕES DE CONTORNO DE TRANSFERÊNCIA DE CALOR DO EQUIPAMENTO LC DA AFP ? GERDAU (VEIO 3)
+A.) Monitorização do comportamento da solidificação e transferência de calor nos moldes da AFP-GERDAU (seções 240 molde linear e 150 molde parabólico);
+B.) Monitorizações no pirômetro óptico instalado abaixo do rolo de pé; levantamento de seqüência de análises Baumann para observação da morfologia de solidificação e comparação com resultados gerados no simulador;
+C.) Seqüência de corridas executadas com os moldes monitorizados e, levantamento de dados e informações de processo (Baumann, Temperatura de Superfície) para os diferentes moldes;
+D.) Levantamento sincronizado dos defeitos apresentados nas corridas com as temperaturas de lingotamento monitorizadas nos moldes e ao longo da máquina;
+E.) Classificação dos defeitos apresentados os quais tem origem em defeitos provenientes da casca sólida;
+F.) Estabelecimento de correlações numéricas entre os defeitos e os valores de temperatura, composição química do aço, molde, velocidade de lingotamento e taxas de resfriamento;
+EXECUÇÃO:
+- Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) - RS - Prof. Dr. Jaime Alvares Spim Jr.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Integrante / Amauri Garcia - Integrante / Jaime Alvares Spim - Coordenador / Carlos  Frick - Integrante / Paulo C. Fernandes - Integrante / Edir Santos - Integrante / Vinicius Karlinski - Integrante / Wilson Fogazzi - Integrante / Luis Coccian Spinosa - Integrante / Cícero Santos - Integrante.Financiador(es): Gerdau Aços Finos Piratini - Auxílio
+										financeiro.Número de produções C, T & A: 7
+2004 - 2005
+Projeto de Pós-Doutorado - FAPESP no: 04/01608-3:
+Descrição: Esse projeto tem como objetivo a otimização de um modelo matemático de controle da solidificação no lingotamento contínuo de aços através do levantamento de condições de transferência de calor metal lingotado / sistema de refrigeração em um molde industrial obtidas a partir do desenvolvimento e aplicação de uma metodologia experimental. Este projeto dará continuidade a atividades de pesquisa dirigidas ao processo de lingotamento contínuo de aços  que vêm sendo realizadas no Projeto Temático FAPESP (processo no 2001/01342-5): Modelagem e Simulação da Solidificação de Metais, em desenvolvimento no Departamento de Engenharia de Materiais da Faculdade de Engenharia Mecânica da Universidade Estadual de Campinas, coordenado pelo Prof. Dr. Amauri Garcia. O projeto prevê a realização de aferições finais no programa de simulação do processo de lingotamento contínuo de aços, o qual vem sendo desenvolvido pelo proponente e equipe técnica, com dados experimentais que serão obtidos na máquina de lingotamento contínuo da usina siderúrgica Aços Finos Piratini, situada em Charqueadas, Rio Grande do Sul. A máquina opera com 3 (três) veios, seção transversal de 150x150 e 240x240 mm, panelas de 65 toneladas de capacidade, distribuidor para 12 toneladas. A distância linear até o inicio do oxicorte é de 24 m. Em relação aos sistemas de refrigeração, o maior controle ocorre no molde, existindo sensores de temperatura na entrada e saída do circuito de água e manômetros posicionados na entrada e saída de cada molde. Para as zonas de sprays, cada região tem o seu próprio circuito de água, apresentando válvula de controle de vazão, controlador de pressão e um medidor de fluxo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Amauri Garcia - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 4
+2004 - 2004
+Projeto de Interação Industrial para Desenvolvimento Cooperativo de Tecnologia Aplicada - Projeto 6 Sigma - LAFUN e REXAN
+Descrição: Objetivos:
+-  Redução do índice de refugo com o aumento dos índices internos (sigma-) de avaliação do processo.
+-  Levantamento sistemático das condições de processamento e condições de produto da REXAM S.A.. 
+-  Estabelecimento de correlações entre as características e a qualidade do produto de entrada (bobinas) com os defeitos observados no processamento da fabricação de latas de alumínio. 
+A metodologia de desenvolvimento deverá seguir três etapas, distribuídas conforme segue: 
+1.)  Levantamento das condições da matéria prima.
+2.)  Levantamento das condições de processo.
+3.)  Levantamento das condições de ferramental.
+EXECUÇÃO:
+- Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) - RS - Prof. Dr. Jaime Alvares Spim Jr.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Integrante / Amauri Garcia - Integrante / Jaime Alvares Spim - Coordenador / Carlos  Frick - Integrante / Lírio Schaeffer - Integrante / Wilson Fogazzi - Integrante / Vinicius Paz - Integrante.Financiador(es): Rexan Beverage Can - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2003 - 2004
+Projeto Auxílio a Pesquisa: DESENVOLVIMENTO DAS ROTINAS PARA DETERMINAÇÃO DO COEFICIENTE DE TRANSFERÊNCIA DE CALOR NA INTERFACE METAL/MOLDE PARA O LC, junto a Universidade Federal do Rio Grande do Sul, Centro de Tecnologia, Laboratório de Fundição
+Descrição: ESTUDO E OTIMIZAÇÃO DOS MOLDES NO EQUIPAMENTO DE LC
+A.) Estudar e monitorar o comportamento da solidificação e transferência de calor nos moldes da AFP-GERDAU (seções 240, 180 e 150 mm, molde curvo e parabólico);
+B.) Fornecer equações empíricas quanto à conduta de transferência de calor nas diferentes configurações de molde do processo LC da AFP-GERDAU; 
+C.) Correlação empírica da conduta de processamento/solidificação no molde, para aços hipo e hiper peritéticos.
+2. METODOLOGIA:
+A metodologia de desenvolvimento do projeto consiste das etapas descritas abaixo, as quais serão executadas em fases dispostas no cronograma físico, dentro do Laboratório de Fundição - LAFUN/UFRGS em parceria com a Universidade Estadual de Campinas UNICAMP/FEM, e na Empresa Aços Finos Piratini - GERDAU.
+Etapas:
+* Levantamento atualizado da literatura no que concerne aos estudos realizados quanto à monitorização e moldes para LC; considerações técnicas sobre as diferenças de transferência de calor entre moldes curvos e parabólicos; Solidificação de aços hipo-peritéticos e hiper-peritéticos em molde de LC (RESPONSABILIDADE: LAFUN); 
+  Estabelecimento do projeto do molde monitorizado, com a identificação dos pontos estratégicos de inserção de termopares e da seqüência de operações para a preparação dos moldes (RESPONSABILIDADE: LAFUN E AFP-GERDAU);
+  Estabelecimento do projeto para a instalação fixa de um pirômetro óptico abaixo do rolo de pé (RESPONSABILIDADE: LAFUN E AFP-GERDAU); 
+EXECUÇÃO:
+- Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) - RS - Prof. Dr. Jaime Alvares Spim Jr.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Integrante / Amauri Garcia - Integrante / Jaime Alvares Spim - Coordenador / Carlos  Frick - Integrante / Paulo C. Fernandes - Integrante / Rodrigo Beloc - Integrante / Valmor Carnino - Integrante.Financiador(es): Gerdau Aços Finos Piratini - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2003 - 2003
+Projeto Auxílio a Pesquisa: LEVANTAMENTO DE BANCO DE DADOS E PARÂMETROS FÍSICOS PARA OS AÇOS DA AÇOS FINOS PIRATINI GERDAU, junto a Universidade Federal do Rio Grande do Sul, Centro de Tecnologia, Laboratório de Fundição
+Descrição: LEVANTAMENTO DE BANCO DE DADOS E PARÂMETROS FÍSICOS PARA OS AÇOS DA AÇOS FINOS PIRATINI GERDAU
+O projeto consiste no levantamento das informações físicas dos aços fabricados pela empresa. Parâmetros como: temperatura solidus e liquidus, temperaturas de transformação estado sólido, tensões de escoamento e ruptura em altas temperaturas e a relação dessas variáveis com a composição química de cada aço deverão ser mapeados nesse projeto. Os resultados gerados nesse projeto deverão ser implementados no software InALC da Aços Finos Piratini GERDAU, para a simulação de condições reais do processo e eventual aumento de produtividade com a redução de defeitos observados nos tarugos. 
+2. METODOLOGIA:
+A  metodologia de desenvolvimento do projeto consiste das etapas descritas abaixo, as quais serão executadas em fases dispostas no cronograma físico, dentro do Laboratório de Fundição - LAFUN/UFRGS em parceria com a Universidade Estadual de Campinas UNICAMP/FEM, e na Empresa Aços Finos Piratini - GERDAU.
+Etapas:
+* Levantamento das faixas de composição química das qualidades dos aços produzidos no LC Piratini/GERDAU. Objetiva-se nesse projeto o levantamento completo das informações relevantes para a qualidade de 6 (seis) aços;
+* Desenvolvimento das metodologias experimentais, para determinação das temperaturas de transformação. Nessa etapa objetiva-se a utilização do equipamento GLEEBLE da empresa Piratini/GERDAU. Objetiva-se nesse projeto a determinação da rotina de execução da tomada de dados; 
+* Levantamento experimental dos parâmetros mecânicos (curvas   x  ) para altas temperaturas;
+  Correlação entre os valores de temperaturas de transformação e parametros mecânicos com a composição química;
+  Entrega do primeiro grupo de dados 6 (seis) aços.
+EXECUÇÃO:
+- Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) - RS - Prof. Dr. Jaime Alvares Spim Jr.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Integrante / Amauri Garcia - Integrante / Jaime Alvares Spim - Coordenador / Carlos  Frick - Integrante / Paulo C. Fernandes - Integrante / Rodrigo Beloc - Integrante / Edir Santos - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2005
+Projeto FAPESP - TEMÁTICO, processo no 2001/01342-5: Modelagem e Simulação da Solidificação de Metais, sob coordenação do Prof. Dr. Amauri Garcia
+Descrição: O objetivo geral desta proposta de projeto consiste na integração das atividades de pesquisa de grupos atuantes, de forma direta ou correlata, na área de Solidificação de Metais e Ligas, dentro das seguintes instituições: Departamento de Engenharia de Materiais: DEMA-UNICAMP (proponente), Escola de Engenharia de São Carlos - EESC, Universidade Federal do Rio Grande do Sul -UFRGS e Instituto Superior Técnico de Lisboa- IST (participantes), e Instituto de Pesquisas Tecnológicas - IPT e Faculdade de Engenharia Química de Lorena -FAENQUIL (colaboradoras). O núcleo central dessa iniciativa se localizará no DEMA-UNICAMP, que já apresenta um histórico anterior de interação em pesquisas com cada uma dessas instituições. Esse projeto, desenvolvido a partir desse núcleo, permitirá a consolidação dessa interação interinstitucional, através de atividades de pesquisa centradas no tema modelagem e simulação da solidificação. Serão 03 sub-projetos, cujo direcionamento a cada uma das instituições envolvidas dependerá do histórico anterior e das tendências e interesses de pesquisa vigentes em cada uma.O sub-projeto 01 aborda o lingotamento contínuo de tarugos, blocos e placas de aços, o lingotamento contínuo horizontal de não-ferrosos e o lingotamento contínuo de tiras. Modelos matemáticos serão desenvolvidos para a análise da solidificação ao longo desses processos, buscando-se uma generalização em sua formulação de tal forma que possam ser aplicados às diferentes geometrias lingotadas.O sub-projeto 02 analisará a influência dos fluxos de calor e de espécies ao longo da solidificação, sobre a formação da macroestrutura e da microestrutura. Pretende-se desenvolver modelos numéricos que acoplem transferência de calor e transferência de massa, e que permitam trazer uma maior compreensão dos efeitos da cinética de solidificação sobre a redistribuição do soluto. O sub-projeto 03 aborda o estudo dos tratamentos superficiais que se utilizam do Laser como fonte de calor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (8)  / Mestrado profissional: (0)  / Doutorado: (14) . Integrantes: Carlos Alexandre dos Santos - Integrante / Amauri Garcia - Coordenador / Noé Cheung - Integrante / José Maria do Vale Quaresma - Integrante / José Eduardo Spinelli - Integrante / Marco Olívio Sotelo - Integrante / Wislei Riuper Ramos Osório - Integrante / Maria Clara Ierardi Fillipini - Integrante / Jaime Alvares Spim - Integrante / Fabiano Rogério Rossini - Integrante / Marcolino Fernandes Neto - Integrante / Claúdio Siqueira - Integrante / Fernado Sá - Integrante / Ivaldo Ferreira Leão - Integrante / Eduardo de Souza Neto - Integrante / Eugenio Liborio Fortaleza - Integrante / Newton Silva Santos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 28
+2001 - 2004
+Projeto de Pós-Doutorado - FAPESP no: 00/14314-7: "Modelagem Matemática da Solidificação e Aplicação de Estratégias de Controle Inteligente nas Etapas de Resfriamento do Lingotamento Contínuo de Aços"
+Descrição: A aplicação de técnicas de otimização e controle, tais como algoritmo genético, busca heurística, lógica fuzzy, redes neurais, sistemas especialistas, entre outras, trabalhando em conjunto com modelos matemáticos de simulação, já é uma realidade e está se tornando cada vez mais comum nas indústrias modernas. Dessa forma, o desenvolvimento de um algoritmo de controle para o equipamento do processo de lingotamento contínuo de aços, seja de tarugos, blocos, placas ou tiras, é de fundamental importância para o sucesso operacional, onde variáveis como temperatura de vazamento, velocidade de lingotamento, vazão de água de refrigeração para as regiões do molde e do resfriamento secundário e geometria do lingote afetam diretamente na qualidade do produto final.
+Esse projeto tem como objetivo o desenvolvimento de um programa aplicativo consistindo de: um modelo matemático de solidificação do processo de lingotamento contínuo de aços, um algoritmo de otimização de parâmetros de equipamento e processo (resfriamento primário e secundário) em função da melhoria de qualidade e produção, e um algoritmo de controle baseado em lógica fuzzy para atuação no sistema de refrigeração da máquina de lingotamento. Durante o trabalho de doutorado do solicitante, foi desenvolvido um modelo matemático de solidificação pela técnica de diferenças finitas trabalhando em conjunto com estratégias de otimização dos parâmetros de entrada do processo (algoritmos genéticos). O modelo permite obter informações do fechamento do poço líquido ou ponto final de solidificação e do comportamento térmico de qualquer região no interior do metal, buscando sempre um comportamento térmico mais homogêneo da temperatura na superfície do lingote e a completa solidificação antes da região de desempeno e corte. Assim, objetiva-se a continuidade do desenvolvimento desse modelo matemático na forma de um software para interfacear com estratégias de controle inteligentes (técnicas de controle fuzzy) .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Amauri Garcia - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 8
+2001 - 2002
+Projeto Auxílio a Pesquisa: IMPLEMENTAÇÃO DO SOFTWARE DE SIMULAÇÃO INTELIGENTE PARA A MÁQUINA DE LINGOTAMENTO CONTÍNUO GERDAU, junto a Universidade Federal do Rio Grande do Sul, Centro de Tecnologia, Laboratório de Fundição
+Descrição: IMPLEMENTAÇÃO DO SOFTWARE DE SIMULAÇÃO INTELIGENTE PARA A MÁQUINA DE LINGOTAMENTO CONTÍNUO GERDAU
+O projeto consiste na implementação de um software de simulação para o processo de lingotamento contínuo do equipamento da Aços Finos Piratini - GERDAU.  O software executará a busca inteligente da melhor condição de processamento do equipamento, e deverá responder à otimização da temperatura visando à melhoria da qualidade na produção de determinados tipos de aços. 
+METODOLOGIA:
+A metodologia de desenvolvimento do projeto consiste das etapas descritas abaixo, as quais serão executadas em fases dispostas no cronograma físico, dentro do Laboratório de Fundição-LAFUN/UFRGS em parceria com a Universidade Estadual de Campinas UNICAMP/FEM, e na Empresa Aços Finos Piratini - GERDAU.
+Etapas:
+* Levantamento dos dados do equipamento LC Piratini/GERDAU;
+* Desenvolvimento das metodologias experimentais na planta, para determinação dos valores médios (valores constantes) dos coeficientes de transferência de calor das diversas etapas de resfriamento do equipamento LC (Molde, Sprays e Rad. Livre);
+* Adaptação do software para as condições específicas do equipamento LC;
+* Aferição da execução de simulação no equipamento LC;
+* Implementação das técnicas de otimização nos parâmetros do processo (Inteligência Artificial);
+* Ajustes finais na primeira versão do software;
+* Treinamento de usuários, documentação e tutorial de utilização do software;
+* Entrega do pacote final e conclusão da primeira fase de projeto.
+EXECUÇÃO:
+- Laboratório de Fundição (LAFUN) do Centro de Tecnologia (CT) da Universidade Federal do Rio Grande do Sul (UFRGS) - RS - Prof. Dr. Jaime Alvares Spim Jr.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Integrante / Amauri Garcia - Integrante / Marco Olívio Sotelo - Integrante / Jaime Alvares Spim - Coordenador / Carlos  Frick - Integrante / Paulo C. Fernandes - Integrante / Rodrigo Beloc - Integrante / Edir Santos - Integrante / Tiago Ferraz Machado - Integrante.Financiador(es): Gerdau Aços Finos Piratini - Auxílio
+										financeiro.Número de produções C, T & A: 6
+1998 - 2000
+Projeto de Auxílio à Pesquisa - FAPESP, processo no 98/12641-9: Correlação Entre Condições de Solidificação, Microestrutura e Propriedades Mecânicas, sob coordenação do Prof. Dr. Amauri Garcia
+Descrição: A possibilidade da imposição de uma ampla gama de condições operacionais em processos de fundição e lingotamento, tem como decorrência direta, a geração de uma diversidade de estruturas de solidificação. Parâmetros estruturais como tamanho de grão e espaçamento interdendrítico são bastante influenciados pelo comportamento térmico do sistema metal/molde durante a solidificação, impondo consequentemente, uma correlação estreita entre este e a microestrutura resultante.
+As propriedades mecânicas de uma liga em seu estado bruto de solidificação dependem do arranjo microestrutural que se define no processo de solidificação. Nestas condições, tamanho de grão, espaçamento interdendríticos, eventuais porosidades, produtos segregados e outras fases, é que irão definir o comportamento mecânico da liga representado por tensões e/ou deformações. Expressões que correlacionem  o comportamento mecânico com parâmetros da microestrutura são muito úteis para se buscar uma forma de planejamento prévio das condições de solidificação, em função de um determinado nível de resistência mecânica que se pretenda alcançar, ou seja estabelecer um caminho de programação da microestrutura e das propriedades mecânicas. Nesse particular, a literatura apresenta relações entre o limite de escoamento do material com o tamanho de grão, como a conhecida equação de Hall-Petch. O objetivo
+ O objetivo do presente projeto consiste portanto em percorrer todo esse caminho, desde o levantamento experimental dos coeficientes de transferência de calor metal/molde , passando pela caracterização microestrutural após a solidificação e culminando com a determinação experimental das propriedades mecânicas decorrentes, e estabelecer expressões que permitam o cálculo de propriedades mecânicas em função das condições de solidificação impostas pelo sistema metal/molde. Cabe também mencionar que o referido projeto dará suporte fundamental a uma tese de doutorado e um trabalho de mestrado, ambos em desenvolvimento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Carlos Alexandre dos Santos - Integrante / Amauri Garcia - Coordenador / Noé Cheung - Integrante / José Maria do Vale Quaresma - Integrante / Wisley Riuper Ramos Osório - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 10
+1997 - 2001
+Projeto de Doutorado - FAPESP, processo no 97/10043-1: "A Inserção de Técnicas de Inteligência Artificial na Modelagem Matemática do Lingotamento Contínuo de Aços", sob orientação do Prof. Dr. Amauri Garcia
+Descrição: O controle da qualidade dos produtos obtidos pelos processos de lingotamento contínuo não pode ser alcançado sem um amplo conhecimento dos processos, englobando parâmetros e variáveis de influência tais como equipamento, metal lingotado, comportamento de cada componente do sistema, do sistema de refrigeração e condições operacionais. O presente trabalho apresenta o desenvolvimento de um algoritmo computacional (software) empregado na maximização da qualidade do produto do lingotamento contínuo de aços em função do comportamento térmico do lingote. Um modelo matemático de solidificação desenvolvido em diferenças finitas opera integrado com um algoritmo genético de busca trabalhando dentro de determinados critérios metalúrgicos. Os resultados do modelo foram inicialmente validados com resultados experimentais e da literatura especializada, e posteriormente acoplado a um método de otimização, tendo como respostas um relatório que apresenta os gráficos referentes à evolução da temperatura da superfície do lingote e do fechamento do poço líquido no equipamento. É também desenvolvido um modelo matemático de solidificação para o processo Twin-Roll. O modelo emprega diferenças finitas, e possibilita a determinação do comportamento térmico do metal na região entre os rolos. Os resultados obtidos foram comparados com resultados de outros modelos existentes na literatura, e apresentaram ótima concordância. Por se tratar de um trabalho inserido em uma rede de pesquisa com o Instituto de Pesquisas Tecnológicas/SP, foram realizadas também vários estudos, ensaios e análises na máquina piloto de lingotamento contínuo de tiras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre dos Santos - Coordenador / Amauri Garcia - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 10

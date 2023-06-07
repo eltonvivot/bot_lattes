@@ -1,0 +1,15 @@
+2012 - 2014
+Desenvolvimento do Protótipo Digital do Centro de Controle de um Reator Produtor de Radioisótopos
+Descrição: O projeto conceitual e básico do sistema instrumentação e controle visa
+estabelecer os critérios gerais relacionados aos requisitos funcionais, arquitetura,
+especificação dos equipamentos dos subsistemas monitoração e controle, e
+proteção, bem como estabelecer diretrizes e requisitos funcionais aplicáveis na
+definição das salas e do arranjo físico das áreas do centro de controle do reator
+produtor de radioisótopos. O projeto desse centro de controle deve ser baseado
+em normas de fatores humanos/ergonomia e utilizar uma abordagem centrada na
+ergonomia participativa, enfatizando a participação de um grupo multidisciplinar
+durante a fase do projeto conceitual e básico. O projeto de pesquisa teve como
+objetivo desenvolver uma maquete digital do centro de controle. Este protótipo
+será utilizado no processo de verificação da alocação dos requisitos funcionais e
+dos aspectos ergonômicos durante o projeto conceitual e básico desse centro,
+sendo utilizado também na validação do seu projeto arquitetônico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gabriel de Lima Gonçalves - Integrante / Paulo V. R. Carvalho - Coordenador / Isaac José Antonio Luquetti dos Santos - Integrante / Marcos Santana  Farias - Integrante.

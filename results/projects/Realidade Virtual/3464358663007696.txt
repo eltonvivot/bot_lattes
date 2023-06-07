@@ -1,0 +1,23 @@
+2021 - Atual
+Metodologias ativas e TDICS na educação
+Descrição: Metodologias ativas são processos de aprendizagem em que os alunos participam ativamente da construção do conhecimento. O principal objetivo deste modelo de ensino é incentivar os alunos para que aprendam de forma autônoma e participativa, a partir de problemas e situações reais. A proposta é que o estudante esteja no centro do processo de aprendizagem, participando ativamente e sendo responsável pela construção de conhecimento. Esse Projeto visa  capacitar professores e desenvolver metodologias de ensino que possam ser aplicadas no ensino remoto e Híbrido. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (1) . Integrantes: Eduardo Cardoso Moraes - Coordenador / Jairo Jose de Souza - Integrante.
+2018 - 2020
+GERARTIFAL: DESENVOLVIMENTO DE UM SISTEMA RESPONSIVO PARA O PROGRAMA ARTIFAL
+Descrição: Desenvolver um sistema responsivo que auxilie na divulgação do programa ARTIFALCampus Maceió e das atividades deste, nas inscrições de alunos no programa, na realização de testes de verificação de conhecimento prévio dos alunos que desejam se inscrever no programa para que os monitores tenha conhecimento do nível técnico dos alunos antes do período letivo, no acesso dos alunos a informações sobre horários e turmas em que foram inseridos, no armazenamento, compartilhamento e acesso a
+materiais de ensino e partituras utilizadas tanto nos projetos, quanto nos grupos
+artísticos que envolvem o programa, utilizando conceitos e ferramentas avançadas de
+programação web, para criar um sistema atrativo ao usuário, e acessível por diferentes plataformas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Eduardo Cardoso Moraes - Coordenador / Jerlyson Feliciano Santos - Integrante.
+2018 - Atual
+CONTROLE POR DISPOSITIVOS MÓVEIS PARA A AUTOMAÇÃO RESIDENCIAL
+Descrição: Este projeto visa o desenvolvimento de um protótipo de um sistema de automação residencial, onde o usuário poderá configurar, gerenciar e adequar o contexto de acordo
+com as suas preferências. Neste projeto busca-se desenvolver uma solução de baixo
+custo com dispositivos móveis e microcontroladores.
+A Internet das Coisas (do inglês Internet of Things (IoT)) emergiu dos avanços de vá-
+rias áreas como: Sistemas embarcados, microeletrônica, comunicação e sensoriamento.
+De fato, a IoT tem recebido bastante atenção tanto da academia quanto da indústria,
+devido ao seu potencial de uso nas mais diversas áreas das atividades humanas. A automação residencial aumenta o grau de acessibilidade de uma residência, pois permite
+que o ambiente seja um agente proativo e aja de maneira inteligente, se antecipando as
+diversas situações com soluções que beneficiam seus usuários. Uma interface Web será
+desenvolvida para o controle e gerenciamento dos dispositivos. A pesquisa será realizada no campus Maceió e tem um viés social que é o uso de tecnologias para reduzir o
+custo da energia elétrica por meio de um melhor controle. O sistema desenvolvido será
+disponibilizado de forma gratuita para a sociedade. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Cardoso Moraes - Coordenador / Isabela Molina de Albuquerque - Integrante.

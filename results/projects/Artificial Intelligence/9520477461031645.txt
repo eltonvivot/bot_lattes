@@ -1,0 +1,36 @@
+2019 - Atual
+Deep learning aplicado ao meio jurídico e de controle
+Descrição: Investigação do potencial de aplicação e limitações de técnicas de deep learning no contexto de tribunais de justiça e tribunais de contas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador / Alexandre Lima - Integrante.
+2019 - Atual
+Tutores inteligentes na resolução de questões matemáticas
+Descrição: Investigação do uso de tutores inteligente no ensino de matemática, focando no suporte e na descoberta das dificuldades e limitações dos estudantes ao solucionar questões matemáticas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador / Alan Santana - Integrante.
+2019 - Atual
+Programação tangível no desenvolvimento do pensamento computacional
+Descrição: Este projeto investiga o uso de objetos tangíveis para o ensino de pensamento computacional, bem como para o desenvolvimento de jogos digitais e habilidades de programação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador / Jéssica Laisa - Integrante / JAIRO CARNEIRO - Integrante.
+2019 - Atual
+Soluções para avaliações adaptativas
+Descrição: Este projeto investiga soluções que auxiliem no desenvolvimento de avaliações cuja quantidade e temas das questões varie de acordo com o desempenho do estudante no próprio teste.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador / Emerson Alencar - Integrante.
+2018 - Atual
+Design colaborativos de jogos digitais na educação
+Descrição: Este projeto investiga o uso de técnicas de IA colaborativa para o desenvolvimento de jogos digitais no contexto educacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador / Wendell Oliveira - Integrante / KATIA GOMES DA CUNHA - Integrante.
+2012 - 2013
+Suporte estatístico e computacional ao projeto e análise de experimentos controlados
+Projeto certificado pelo(a) coordenador(a) Uira Kulesza em 21/04/2019.
+Descrição: Este projeto tem como objetivo principal prover a indústria e a comunidade científica com uma infraestrutura computacional Web capaz de suportar a realização de experimentos controlados realizados na academia e na indústria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Integrante / Uira Kulesza - Coordenador.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2011 - Atual
+Jogos educativos digitais e educação
+Descrição: Este projeto tem como objetivo investigar o uso de jogos educativos digitais em diferentes níveis de escolaridade, bem como métodos para sua integração em projetos pedagógicos de cursos, olimpíadas de conhecimento, e no sistema educacional como um todo. Para isto, estão sendo realizados estudos dentro da UFRN, os quais depois serão levados para a rede de ensino básica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador.
+2009 - 2010
+Análise de Produtividade e Estimativa de Esforço de Desenvolvimento de Software
+Descrição: O bom planejamento é uma prática fundamental para o sucesso de uma empresa na maioria das áreas de negócio existentes. No caso particular do desenvolvimento de software, é de grande importância que os gerentes consigam estimar e acompanhar com precisão o custo e prazos dos projetos, desde sua concepção até a sua finalização. Historicamente, diversos projetos de software foram interrompidos devido a atrasos nos seus prazos de entrega e devido ao custo real do projeto, ainda que apenas parcialmente executado, já ter superado significativamente o custo estimado no início do mesmo.
+A proposta deste projeto é desenvolver uma ferramenta para estimativa de esforço de projetos de software baseada em técnicas estatísticas e de aprendizagem de máquina, bem como desenvolver métodos de análise de produtividade que auxiliem os gerentes a identificar pontos de melhora em seus processos de desenvolvimento de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador.
+2009 - Atual
+Framework para Projeto e Avaliação de Estudos Experimentais em Engenharia de Software
+Descrição: Experimentos controlados são mecanismos poderosos disponíveis para encontrar evidências acerca dos benefícios e limitações das tecnolgias propostas pela academia ou já existentes na indústria de software. Entretanto, seus custos e a falta de conhecimento no assunto por pesquisadores na área de software faz com que resultados de certos experimentos não sejam executados ou sejam mais limitados do que deveriam.
+O objetivo principal deste trabalho é desenvolver um framework que forneça um suporte computacional para a formalização, elaboração, comparação e consolidação de projetos de estudos experimentais em engenharia de software. Estes tipos de estudos são utilizados para se analisar e comparar cientificamente as novas tecnologias propostas pela academia e pela indústria, sendo assim de fundamental importância a elaboração de projetos experimentais eficientes, ou seja, que maximizem a chance de detecção do real efeito das tecnologias investigadas, mesmo com os limitados recursos disponíveis para serem usados nos experimentos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Eduardo Henrique da Silva Aranha - Coordenador / Paulo Henrique Monteiro Borba - Integrante / Cristiano Ferraz - Integrante / Uirá Kulesza - Integrante / Marília Aranha Freire - Integrante / Gustavo Sizilio - Integrante.
+2005 - 2008
+Modelos de Estimativas de Esforço e de Capacidade de Teste
+Descrição: Desenvolvimento e avaliação de modelos de estimativa de esforço de execução de testes manuais. Para isso, são investigados os fatores que tem influência na produtividade e custo de teste, bem como a adequação de técnicas estatísticas e de aprendizado de máquina para a criação dos modelos e o uso de simulação para modelagem de incerteza e variabilidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eduardo Henrique da Silva Aranha - Integrante / Paulo Henrique Monteiro Borba - Coordenador.
+2001 - 2002
+Uma Linguaguem para Especificação de Testes de Aceitação para Sistemas Web
+Descrição: Desenvolvimento de uma linguagem para especificação em alto nível de testes de aceitação para sistemas Web, permitindo reuso, modularidade e geração de código entre artefatos de requisitos, implementação e testes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eduardo Henrique da Silva Aranha - Integrante / Paulo Henrique Monteiro Borba - Coordenador.

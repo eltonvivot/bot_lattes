@@ -1,0 +1,60 @@
+2020 - Atual
+Predição do Mercado Financeiro Brasileiro com Redes Profundas e Análise de Sentimentos
+Descrição: Jan 2020- Jan 2021: Sistema de apoio à decisão, aplicado ao mercado
+financeiro brasileiro, combinando Redes Neurais Artificiais e análise de
+sentimento em mídias sociais, desenvolvido para o português brasileiro.
+Apoio: Amazon Web Services (AWS)? Projeto de Cooperação.
+Participação: Integrante.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ana Estela Antunes da Silva - Integrante / Carosia, Arthur - Coordenador / COELHO, G P - Integrante.Financiador(es): Amazon Web Services - Outra.
+2019 - Atual
+Desenvolvimento de ferramenta de apoio à revisão sistemática de literatura
+Descrição: Este projeto tem como objetivo geral apoiar o processo de revisão sistemática científica. 
+Para tanto pretende-se realizar a extração de partes de artigos científicos de determinada área e comparar tais artigos em termos de suas metodologias e resultados.
+Artigos semelhantes deverão ser agrupados e sumarizados.
+A partir daí, pretende-se apresentar ao usuário artigos que possam contribuir com sua pesquisa. 
+A principal contribuição é a indicação de artigos semelhantes separados por área para que o usuário possa tomar a decisão de escolher os artigos mais interessantes para sua pesquisa.
+As técnicas utilizadas serão: word embeddings, aprendizado com redes profundas e sumarização.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Ana Estela Antunes da Silva - Coordenador / Pedro Artico - Integrante / Gustavo Bartz - Integrante.
+2019 - Atual
+Descoberta de padrões de comportamento de poluentes do ar de cidades do Estado de São Paulo e análise do relacionamento destes a doenças respiratórias
+Descrição: Este projeto utiliza a tarefa de agrupamento da mineração de dados, na identificação de concentrações semelhantes para os poluentes atmosféricos no Estado de São Paulo, por meio das estações de monitoramento observadas pela CETESB - Companhia Ambiental do Estado de São Paulo. Para as regiões de maiores índices de poluição, será feita a  extração de padrões existentes por meio de regras de associação.  Para isso será utilizada uma extensão do algoritmo ARMADA para mineração de regras de associação espaço-temporais. Os principais resultados das regras de associação serão relacionados ao número de internações hospitalares por doenças respiratórias.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ana Estela Antunes da Silva - Coordenador / Angela Rosa Locateli de Godoy - Integrante.
+2018 - Atual
+Smart Campus Unicamp
+Descrição: O Smart Campus tem como objetivo utilizar o conceito de Internet das Coisas na Unicamp de modo a obter informações para uma inteligência de controle mais eficiente e tomada de ações mais assertivas, tornando o dia a dia no campus mais produtivo. Objetos inteligentes fornecem informações úteis do campus que poderão ser utilizadas em diferentes oportunidades. Tais informações auxiliarão o processo de tomada de decisão que trará aumento de eficiência nos serviços prestados. Além disso, o uso destas informações auxiliarão o desenvolvimento de projetos em prol da comunidade universitária em áreas como segurança, locomoção, vivência e qualidade de vida
+O Smart Campus surgiu como um projeto, em 2016, dentro do Planejamento Estratégico da Prefeitura Universitária e foi selecionado pela Coordenadoria Geral da Universidade (CGU) para ser acompanhado no GePlanes, uma assessoria técnica para gestão estratégica, gestão por processos e gestão de projetos da Unicamp. Em 2021, se tornou uma célula de trabalho vinculada à área da Informática da Prefeitura, permitindo a continuidade dos projetos iniciados e a criação de uma área de referência para ações de IoT na Universidade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Estela Antunes da Silva - Integrante / Ricardo Barbosa - Integrante / Rafael Pereira de Sousa - Coordenador.
+2017 - 2017
+Brazilian Conference on Intelligent Systems 2017
+Descrição: Auxílio a Pesquisa - Participação em Reunião Científica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Estela Antunes da Silva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2014 - 2018
+DEVASSES - Design, Verification and VAlidation of large-scale systems
+Descrição: Projeto internacional DEVASSES, apoiado pela International Research Staff Exchange Scheme (IRSES) - Marie Curie Actions, em que participam a Universidade Estadual de Campinas (UNICAMP ? Brasil), a Universidade Federal de Alagoas (UFAL ? Brasil), a Universidade de Florença (UNIFI ? Itália) e a Universidade de Coimbra (UC ? Portugal) com o objetivo de projetar, verifcar e validar sistemas de larga escala.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Ana Estela Antunes da Silva - Integrante / Regina Lucia de Oliveira Moraes - Integrante / Marco Vieira - Coordenador.Financiador(es): Universidade de Coimbra - Auxílio
+										financeiro.
+2012 - 2014
+Sistemas Inteligentes de apoio à decisão baseados em computação paralela
+Descrição: O projeto propõe estudos para o avanço das pesquisas de sistemas de apoio à decisão (SAD) baseados em algoritmos inteligentes desenvolvidos para arquiteturas de processamento de alto desempenho. Os algoritmos inteligentes têm como objetivo a solução de problemas semiestruturados de mineração de dados e texto, otimização e multiagentes voltados para o processo de tomada de decisão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (4) . Integrantes: Ana Estela Antunes da Silva - Coordenador / Antonio Carlos Zambon - Integrante / Gisele Busichia Baioco - Integrante / André Leon Sampaio Gradvohl - Integrante / Guilherme Palermo Coelho - Integrante / Luis Antonio de Santa-Eulalia - Integrante.Financiador(es): Faculdade de Tecnologia - Unicamp - Auxílio
+										financeiro.
+2009 - 2011
+"SONAR: Sistema de Inteligência Competitiva e Prospecção de Negócios para Organizações Agroindustriais",
+Descrição: projeto PIPE II Fapesp .
+Objetivo: Desenvolvimento de software para captação e análise de informações para inteligência antecipativa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Mestrado acadêmico: (1) . Integrantes: Ana Estela Antunes da Silva - Integrante / José Martins Júnior - Integrante / Alexandre Rodrigues da Silva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2009 - 2010
+Modelagem e Criação de Base de Conhecimento para o Processo de Mineração de Dados da Ferramenta Kira
+Descrição: Esse é um projeto de iniciação científica com o propósito de elicitar o conhecimento necessário para a escolha de tarefas de mineração de dados. As tarefas que devem ser estudados e inseridas na base de conhecimento são as tarefas de associação e classificação. Essa base de conhecimento deve representar as regras necessárias para direcionar a escolha de uma dessas duas tarefas de mineração de dados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Estela Antunes da Silva - Coordenador.Financiador(es): conselho nacional de pesquisa e desenvolvimento - Bolsa.
+2008 - 2009
+Um sistema para autoria de regras de interação baseadas no modelo M-FORUM
+Descrição: O objetivo específico do projeto é implementar uma ferramenta que permita a inclusão de regras do modelo M-forum para quaisquer domínios de aplicação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Estela Antunes da Silva - Coordenador.
+2003 - Atual
+Investigação de Técnicas de Mineração de Dados
+Descrição: Mineração de dados é uma área de pesquisa com crescente demanda devido aos diferentes aspectos a serem investigados nos dados das aplicações, para a descoberta de novos conhecimentos. Pretende-se investigar os seguintes aspectos: desenvolvimento de algoritmos para extração de regras de associação multirelacionais e multirelacionais quantitativas, tratamento de aspectos temporais de regras de associação, investigação de novas aplicações e de requisitos para apoiar a mineração de dados. 
+Ver: http://dgp.cnpq.br/buscaoperacional/detalhelinha.jsp?grupo=1696103S4DLU6F&seqlinha=1. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) . Integrantes: Ana Estela Antunes da Silva - Integrante / Marina T Pires Vieira - Coordenador.
+2002 - 2004
+Técnicas e Conceitos Avançados de Computação e de Sistemas Inteligentes Voltados ao Tratamento de Problemas de Bioinformática.
+Descrição: Aplicar uma metodologia integrada baseada em um conjunto de técnicas derivadas de diferentes áreas, visando a resolução dos seguintes problemas: reconstrução de árvores filogenéticas, análise de padrões de expressão gênica, comparações funcionais intra-específicas e inter-específicas e seqüenciamento de genomas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (5) . Integrantes: Ana Estela Antunes da Silva - Integrante / Fernando José VonZuben - Coordenador / H Knidel - Integrante / Rafael Santos Mendes - Integrante / Ivan L. M. Ricarte - Integrante / Marco Aurélio A. Henriques - Integrante.Financiador(es): conselho nacional de pesquisa e desenvolvimento - Auxílio
+										financeiro.
+2000 - 2001
+Desenvolvimento de um Modelo de Avaliação de Especificação de Requisitos de Software Utilizando a Teoria dos Conjuntos Fuzzy - Módulo Modelagem Fuzzy
+Descrição: Capacitar o aluno no desenvolvimento de técnicas de modelagem de lógica nebulosa. O objetivo principal é o de aplicar a Teoria Fuzzy a um conjunto de atributos da fase de Extração de Requisitos da Engenharia de Software.
+Esta ligação proporciona a associação entre técnicas da área de Inteligência Artificial e Engenharia de Software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ana Estela Antunes da Silva - Coordenador / Carlos Eduardo Gardenal - Integrante.Financiador(es): Fundo de Apoio a Pesquisa e Iniciação Científica - Bolsa.Número de produções C, T & A: 1
+1999 - 2000
+Estudo de Algumas Técnicas e Algoritmos de Data Mining
+Descrição: Capacitar o aluno no estudo e comparação de Técnicas de Mineração de Dados. O objetivo foi o de estudar diversas técnicas de Associação e Agrupamento e comparar suas vantagens, desvantagens e demonstrar as áreas de sua utilização.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ana Estela Antunes da Silva - Coordenador / Priscila Kely de Lima Pinto - Integrante.Financiador(es): Fundo de Apoio a Pesquisa e Iniciação Científica - Bolsa.Número de produções C, T & A: 2

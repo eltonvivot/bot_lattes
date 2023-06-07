@@ -1,0 +1,14 @@
+2011 - 2015
+SISTEMA MODULAR DE COMPUTAÇÃO PERVASIVA PARA AMBIENTES MEDICO-HOSPITALARES
+Descrição: Desenvolver de forma completa uma interface modular para realização de computação pervasiva, para ser acoplada em equipamentos médico-hospitalares. O módulo proposto contará com os dispositivos de hardware, bem como rotinas e protocolos de software ao menos essenciais para a implantação completa de um ambiente de computação pervasiva ou, em situações onde tal ambiente não possa ser implementado, o sistema proposto oferecerá condições para realização de aplicações em telemedicina.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rubem Dutra Ribeiro Fagundes - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2005 - 2006
+Desenvolvimento de software para pesquisas em Psicologia Cognitiva Experimental
+Projeto certificado pelo(a) coordenador(a) Valeria de Oliveira Thiers em 05/06/2014.
+Descrição: Desenvolvimento integrado de uma ferramenta computadorizada que possa ser empregada para gerar experimentos em Psicologia, de forma a: - facilitar a aplicação de testes; - minimizar a oportunidade de erros pela apresentação dos estímulos; - facilitar o registro das respostas, tanto em tempo de reação, como com relação ao mapeamento da respostas dadas... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Rubem Dutra Ribeiro Fagundes - Integrante / Valéria de Oliveira Thiers - Coordenador / Graciela Inchausti de Jou - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2008
+Projeto AED (FINEP)
+Descrição: Desenvolvimento de um sistema desfibrilador cardíaco inteligente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Rubem Dutra Ribeiro Fagundes - Coordenador / Luís Vitório Cargnini - Integrante / Diogo Scolari - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Bolsa.Número de produções C, T & A: 2
+2004 - 2006
+PROJETO LM em parceria com o Instituto Genius
+Descrição: Desenvolvimento de um modelo de linguagem para sistemas de reconhecimento de voz de vocabulário extenso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rubem Dutra Ribeiro Fagundes - Coordenador / Daniel Barros Júnior - Integrante.Número de produções C, T & A: 1

@@ -1,0 +1,16 @@
+2008 - 2010
+SICAS: Sistema Inteligente de Controle Ativo de Semáforos
+Descrição: A pesquisa visa o acionamento adaptativo de semáforos diante de uma dada circunstância temporal momentânea do fluxo de veículos, seja ele em vias de 2 ou 3 tempos. O Projeto se resume à elaboração de uma pista com veículos, robôs autônomos móveis Esses terão velocidades controladas de acordo com o fluxo e situação em que se encontram os semáforos. Tanto os carros como semáforos serão controlados remotamente a partir de uma tecnologia sem fios.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Rafael Luis Teixeira - Coordenador / Boina, V. C. - Integrante / Mateus Milanez - Integrante / Elton - Integrante.Financiador(es): Fundo de Apoio à Ciência e Tecnologia do Município de Vitória - Auxílio
+										financeiro.
+2003 - 2006
+Dinâmica de Sistemas Mecatrônicos, CNPq Proc. 500989/2003-6, Auxílio Integrado
+Descrição: Estudo do comportamento dinâmico de sistemas mecânicos que incorporam dispositivos de controle eletromecânicos, com aplicação a máquinas rotativas, veículos e materiais inteligentes. . 
+Francisco Paulo Lepore Neto - Coordenador.
+Integrantes: JOSE FRANCISCO RIBEIRO - VALDER STEFFEN JUNIOR - MARCELO BRAGA DOS SANTOS - RAFAEL LUIZ TEIXEIRA 
+Finaciador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Doutorado: (5) . Integrantes: Rafael Luis Teixeira - Coordenador.
+2001 - 2003
+Estudo do comportamento dinâmico de veículos mono e bi articulados, FAPEMIG TEC 142397
+Descrição: Estudo da din6amica de veículos em escala real e de modelos em escala reduzida. Construção de uma bancada experimental e desenvolvimento de técnicas de modelagem dinâmica, instrumentação e monitoração.
+Francisco Paulo Lepore Neto - Coordenador.
+Integrantes: JOSE FRANCISCO RIBEIRO - VALDER STEFFEN JUNIOR - VERA LUCIA D S FRANCO-/ RAFAEL LUIS TEIXEIRA - Sérgio Butkewitsch -José Antonio Ferreira Borges - 
+Finaciador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Rafael Luis Teixeira - Coordenador.

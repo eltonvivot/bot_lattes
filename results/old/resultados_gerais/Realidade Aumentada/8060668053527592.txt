@@ -1,0 +1,25 @@
+2018 - Atual
+Extração de características por meio de benchmarks sintéticos e profiling em arquiteturas heterogêneas
+Descrição: Este projeto tem por objetivo investigar as técnicas de benchmark e profiling em sistemas heterogêneos a fim de extrair um conjunto de características de configuração e de compilação e runtime a serem aplicados em autotuners de frameworks de otimização alto nível.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Tony Alexander Hild - Coordenador.
+2017 - Atual
+Tráfego de máquinas em sistema de plantio direto manejado com gesso agrícola e desenvolvimento de protótipo para monitorar camada superficial compactada
+Descrição: O tráfego dos rodados das máquinas interfere inicialmente nas propriedades físicas do solo, com aumento da densidade do solo e resistência a penetração, principalmente na camada superficial do solo, repercutindo em compactação do solo devido redução da porosidade do solo. É oportuno estudar a atuação do tráfego das máquinas em Latossolo Bruno que pode apresentar alta velocidade de resiliência devido chuvas frequentes na região, amplitude térmica em conjunto com atuação dos níveis elevados de matéria orgânica. O objetivo do projeto é estudar a compactação do solo em Latossolo Bruno manejado com gesso agrícola sob sistema plantio direto na região Centro-Oeste do Paraná, em Guarapuava, gerada pelo tráfego de rodado de máquinas, semelhante a proporcionada pelos rodados das máquinas de grande porte e com elevada largura de operação em sistema de plantio direto no município de Guarapuava/PR, e desenvolver protótipo para verificar patinagem (rotação) dos rodados do trator em solo com e sem tráfego.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Tony Alexander Hild - Integrante / Mauro Miazaki - Integrante / Leandro Rampim - Coordenador / Marcelo Marques Lopes Müller - Integrante / Cristiano André Pott - Integrante / Aline Marques Genú - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2013
+Estudo e implementação do algoritmo de detecção de bordas Canny otimizada com SSE e OpenMP
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Tony Alexander Hild - Coordenador.Número de produções C, T & A: 2
+2011 - 2012
+Aumentando o desempenho do processamento de imagens utilizando técnicas de otimização da arquitetura de memória
+Descrição: Utilização de técnicas de otimização de memória cache e de latency hiding em processadores com instruções SIMD. Situação: Concluído; Natureza: Pesquisa. Integrantes: Tony Alexander Hild - Coordenador.
+2010 - 2011
+Aumentando o desempenho do processamento de imagens utilizando técnicas de otimização da arquitetura de memória
+Descrição: Utilização de técnicas de otimização de memória cache e de latency hiding em processadores com instruções SIMD. Situação: Concluído; Natureza: Pesquisa. Integrantes: Tony Alexander Hild - Coordenador.Número de produções C, T & A: 1
+2009 - 2010
+Processamento paralelo de imagens utilizando processadores multi-core e GPGPUs
+Descrição: Estudar e paralelização de algoritmos de processamento de imagem utilizando técnicas de processamento paralelo em GPGPUs. Situação: Concluído; Natureza: Pesquisa. Integrantes: Tony Alexander Hild - Coordenador.Número de produções C, T & A: 1
+2008 - 2009
+Criação de Cluster de Alto Desempenho para Computação Científica e Estudo de Adaptação de Algoritmos para Processamento Paralelo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Tony Alexander Hild - Coordenador / Guilherme Mazur - Integrante.Número de produções C, T & A: 1
+2007 - 2008
+Estudo e Projeto de um Cluster para Computação de Alto Desempenho
+Descrição: Estudo e implementação de tecnologias de Cluster de Computação para aplicação em sistemas de alto desempenho. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Tony Alexander Hild - Integrante / Luiz Antonio Carraro - Integrante / Diego Gadens dos Santos - Integrante / Gisane Aparecida Michelon - Coordenador.Número de produções C, T & A: 2

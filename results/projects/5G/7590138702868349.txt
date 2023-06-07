@@ -1,0 +1,26 @@
+2021 - Atual
+Sistema de Comunicações Críticas para o município de Niterói
+Descrição: O objetivo principal é desenvolver o Projeto Básico de um Sistema de Comunicações Críticas, com especificações e desempenho apropriados para implementação no município de Niterói, considerando as peculiaridades da cidade nos mais variados aspectos, tais como densidade populacional, possíveis ameaças, agências usuárias da tecnologia, integração com órgão estaduais e federais etc, e, sobretudo, alinhado ao Plano Estratégico Niterói Que Queremos (NQQ) e às vertentes tecnológicas da
+área.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Alberto Gaspar Guimarães - Coordenador / Clayton Jones Alves da Silva - Integrante / Pedro Vladimir Gonzalez Castellanos - Integrante / Carlos Alberto Malcher Bastos - Integrante / Milton Martins Flores - Integrante.Financiador(es): Prefeitura de Niterói - Auxílio
+										financeiro.
+2008 - 2010
+Técnicas Avançadas para Investigação e Combate aos Efeitos Seletivos de Canal em Sistemas de Transmissão Digital Sem Fio
+Descrição: Este projeto visa à obtenção de melhorias de desempenho na transmissão digital
+em canais sem fio seletivos em freqüência e variantes no tempo, através da da
+investigação e modelagem do canal e da proposição de estratégias e técnicas inovadoras
+para transmissão e recepção, tendo como foco principal, mas não exclusivo, as
+transmissões via rádio-enlaces nas faixas de HF e VHF.
+        Serão propostas e investigadas novas estratégias de transmissão em blocos com
+equalização no domínio da freqüência e esquemas de turbo equalização robustos a erros
+de estimação de parâmetros do canal. Serão ainda propostas técnicas de transmissão
+adaptativa, explorando o emprego de preditores dos parâmetros de adaptação para lidar
+com o atraso na transmissão destes parâmetros e com a variabilidade do canal.
+        O trabalho também contemplará a realização de medidas de propagação visando
+a conhecer melhor as características dos canais de HF e VHF nas condições físicas e
+geográficas de nosso país. Os resultados destas medidas (sondagens) de parâmetros dos
+canais serão a base para o estabelecimento ou adaptação de modelos para simulação e
+avaliação de desempenho em software e hardware.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alberto Gaspar Guimarães - Integrante / Ernesto Leite Pinto - Coordenador / Juraci Ferreira Galdino - Integrante / Maurício Henrique Costa Dias - Integrante.
+2006 - 2007
+Desenvolvimento de novos esquemas de recepção em sistemas de transmissão digital na faixa de HF (High-Frequency)
+Descrição: O uso da propagação ionosférica em HF apresenta características vantajosas para o provimento de comunicações em diversas situações específicas, em particular, em áreas como a Amazônia e no contexto de aplicações militares. Sistemas de transmissão em HF têm como desafio principal a obtenção de taxas de transmissão mais elevadas, que viabilizem o uso de serviços de comunicações como e-mail e navegação modo texto à comunidades ou tropas remotamente localizadas. O estudo proposto se concentrará nesta questão, procurando pesquisar e propor novos esquemas de equalização, decodificação e estimação do canal, no âmbito da transmissão HF. Técnicas como turbo-equalização e algoritmos de Monte-Carlo (filtro de partícula e suas variantes), atualmente pesquisadas para aplicação em outros sistemas de transmissão, serão consideradas no cenário de enlaces ionosféricos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alberto Gaspar Guimarães - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.

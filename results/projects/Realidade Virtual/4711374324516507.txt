@@ -1,0 +1,101 @@
+2018 - 2019
+Computação no ensino de educação musical
+Descrição: Este projeto visa o desenvolvimento de aplicações móveis que ajam como facilitadores do aprendizado de educação musical por jovens.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Tarcísio Rocha - Integrante.
+2013 - 2016
+Um sistema para o apoio ao Ensino de  Assistência em Enfermagem
+Descrição: Desenvolvimento de um sistema para o apoio ao ensino da assistência em Enfermagem. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Marcos Barbosa Dósea - Integrante / Divaldo Lyra Jr - Integrante.
+2012 - 2013
+Refatoramento de Programas para Migração entre Estrutura de Dados
+Descrição: Este projeto visa desenvolver métodos e ferramentas para a refatoração de estruturas de dados em programas orientados a objetos. Projeto inserido dentro do âmbito do INES.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maciel de Almeida e Silva - Integrante / Paulo Borba - Integrante / Márcio Cornélio - Integrante / Augusto César Alves Sampaio - Integrante / Tiago Massoni - Coordenador / Rohit Gheyi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2022
+Otimização em Engenharia de Software
+Descrição: Este projeto visa desenvolver, aplicar e avaliar algoritmos de otimizazação em diversos problemas da Engenharia de Software dentro dos domínios de Evolução de Software, Desenvolvimento Baseados em Componentes, Requisitos e Testes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2016
+PV-UFS: Paciente Virtual para o Ensino de Assistência Farmaceutica
+Descrição: Desenvolvimento de um  sistema para apoiar o ensino de Assist~encia Farmaceutica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Marcos Dósea - Integrante / Divaldo Lyra Jr - Integrante.Número de produções C, T & A: 6
+2010 - 2013
+Refatoração Sincronizada de Programas Anotados com especificações Formais
+Descrição: A assimilação das necessidades de evoluçãao em projetos de software que fazem uso de especificação
+e modelagem ainda é difícil e custosa na prática. No caso de refatoração de programas, por exemplo,
+modelos abstratos em conformidade com os programas tornam-se inconsistentes; técnicas como
+engenharia round-trip e MDA (Model-Driven Architecture) lidam parcialmente com o problema, já
+que estabelecem perda da abstração desejável em especificações. Este projeto pretende propor, formalizar,
+implementar e avaliar uma abordagem prática de refatoração de especificações que geram
+refatorações de programas autoáticas, mantendo sua conformidade. Especificações e ódigo-fonte
+serão localizados em umúnico artefato, utilizando Java e a linguagem de especificação JML (Java
+Modeling Language), facilitando sua adoção da abordagem. Como complemento, iremos denir
+um caálogo de refatorações de programas que permanecem corretos mesmo com especificações
+JML presentes, formando assim uma metodologia de refatoraçào completa. A equipe brasileira
+colaboraá com parceiros americanos - Gary Leavens e David Naumann - com os quais á possui
+grande experiência de cooperação em projetos anteriores (COOP, DARE-COOP); Leavens é inclusive
+o idealizador da linguagem JML. Como resultado, pretendemos definir uma metodologia
+de refatoração de especificações e programas com alto índice de automatização, uma ferramenta
+que daá suporte à metodologia e estudos de caso documentados, aém de publicações em veículos
+internacionais reconhecidos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maciel de Almeida e Silva - Integrante / Augsto Sampaio - Coordenador / Paulo Borba - Integrante / David Naumann - Integrante / Márcio Cornélio - Integrante / Tiago Massoni - Integrante / Rohit Gheyi - Integrante / Gary Leavens - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2016
+Ferramentas de Evolução e Refatoração Automática
+Descrição: O objetivo deste projeto de pesquisa é contribuir para aperfeiçoar o processo de desenvolvimento de software, em particular de atividades ligadas à evolução, com ênfase na automatização destas atividades, através de ferramentas desenvolvidas com base em técnicas rigorosas de engenharia de software. Desta forma, queremos possibilitar aumentos significativos de produtividade e qualidade do resultado final de equipes de software, principalmente no que concerne à manutenção preventiva, trazendo vantagens competitivas. Este projeto se insere nas açõs do INES (INCT para Engenharia de Software).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maciel de Almeida e Silva - Integrante / Augsto Sampaio - Integrante / Paulo Borba - Integrante / Márcio Cornélio - Integrante / Tiago Massoni - Integrante / Rohit Gheyi - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2014
+Desenvolvimento Distribuído Orientado a Linhas de Produto de Software
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Leila Maciel de Almeida e Silva - Integrante / Silveira, Gledson Elias - Coordenador / Valéria GonçalvesSoares - Integrante / Vaninha Vieira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2008 - 2019
+Instituto Nacional de Ciência e Tecnologia para Engenharia de Software
+Descrição: Este projeto tem como objetivo geral a promoção de pesquisa e desenvolvimento na área de Engenharia de Software com o objetivo de estabelecer marcos referenciais para a implementação de fábricas de software fidedigno com alta produtividade e corretude. O instituto promoverá pesquisa integrada coordenando os esforços e competências das diversas instituições e laboratórios de pesquisa envolvidos. As principais linhas de pesquisa a serem desenvolvidas são: 1) Reuso, Linhas de produto, 2) Verificação e Validação de sistemas, 3) Técnicas de Evolução e Refactoring, 4) Desenvolvimento Dirigido por Modelos, Linguagens de Domínio Especifico, 5) Engenharia de Software Experimental.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maciel de Almeida e Silva - Integrante / Augsto Sampaio - Integrante / Márcio Cornélio - Integrante / Sílvio Meira - Coordenador / Sérgio Soares - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Refatoração de Programas Baseada em Especificações Formais
+Descrição: O objetivo deste projeto de pesquisa é contribuir para aperfei çoar o processo de desenvolvimento de software, em particular de atividades ligadas à evolução, com ênfase em refatoração sincronizada de modelos e programas. Projeto multi-institucional liderado pelo Centro de Informática (UFPE), tendo o Departamento de Sistemas e Computação (UPE) e o Departamento de Computação (UFS) como instituições colaboradoras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leila Maciel de Almeida e Silva - Integrante / Augsto Sampaio - Coordenador / Paulo Borba - Integrante / Márcio Cornélio - Integrante / Tiago Massoni - Integrante / Rohit Gheyi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2008 - 2010
+Algoritmos de Agrupamentos Baseados em Grafos no contexto da Quimiotaxonomia
+Descrição: O objetivo do projeto é investigar algoritmos de agrupamento baseados em grafos que produzam resultados de boa qualidade para classificação de plantas segundo seus compostos químicos constituintes. O trabalho é estratégico para a área de produção de fármacos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador.Financiador(es): Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2005 - 2007
+e-Patite: Um Sistema para Triagem de Doadores de Sangue Sujeitos à Presença de Hepatite
+Descrição: Desenvolvimento de uma aplicação Web para dar suporte às rotinas de triagem realizadas na Liga de Hepatite.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Alberto Costa Neto - Integrante / Rita Kalile Almeida Andrade - Integrante / Maurício Soares Pacheco - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Sergipe - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2004 - 2006
+Metodologias para o Desenvolvimento de Sistemas Mecatrônicos
+Descrição: A proposta deste trabalhar é investigar metodologias de desenvolvimento de sistemas mecatrônicos, que considerem a junção de práticas de engenharia de software e engenharia de produto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Aline Andrade - Integrante.Número de produções C, T & A: 5
+2003 - 2004
+AbADeS-TI - Abordagens Algébricas para o Desenvolvimento de Sistemas e Tecnologia da Informação
+Descrição: Prevê-se o desenvolvimento de metodologias baseadas na semântica algébrica para
+o desenvolvimento de sistemas escritos em uma linguagem orientada a objetos. Prevê-se 
+a construção de aplicações médicas e de recuperação da informação dentro da área de TI.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Rita Kalile Almeida Andrade - Integrante / Sueane Santos Bomfim - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2002 - 2003
+SisPesqUFS: Um Meta-Engenho de Busca para a Recuperação de Documentos na Web
+Descrição: Pretende-se desenvolver um meta-engenho de busca com ênfase na qualidade dos resultados retornados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Thiago Alves Costa - Integrante / Antônio José Santana - Integrante / Rômulo Augusto Nogueira de O Passos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Sergipe - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 11
+2001 - 2005
+DareCo-op: Development and Applications of Refinement Calculus for Object-Oriented Programming
+Descrição: Prevê-se a investigação de uma semântica formal para uma linguagem orientada a objetos.
+Somos membro deste projeto. A coordenação é de Augusto Sampaio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Integrante / Augsto Sampaio - Coordenador / Ana Cavalcanti - Integrante / Paulo Borba - Integrante / David Naumann - Integrante / Antônio Carvalho Júnior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 8
+2001 - 2003
+AbADeS: Abordagens Algébricas para o Desenvolvimento de Sistemas
+Descrição: Prevê-se o desenvolvimento de metodologias baseadas na semântica algébrica para
+o desenvolvimento de sistemas escritos em uma linguagem orientada a objetos, bem 
+como de sistemas embarcados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Sandberg Marcel Santos - Integrante / Manoel Messias da Silva Menezes Júnior - Integrante / Andre Luis Meneses Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Universidade Federal de Sergipe - Remuneração / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 11
+2001 - 2002
+Uma Abordagem Algébrica para o Particionamento de Sistemas em Co-design
+Descrição: O objetivo deste projeto é estender a metodologia proposta por Leila Silva (2000) para incluir 
+estruturas mais complexas da linguagem occam. Pretende-se também automatizar provas das regras propostas na estratégia original.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Sandberg Marcel Santos - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2001 - 2002
+RICR: Recuperação da Informação e Cálculo de Refinamento
+Descrição: O projeto dividia-se em dois módulos: Recuperação da Informação e Cálculo de Refinamento.
+No módulo de Recuperação da Informação prevê-se a construção de um meta-engenho de
+busca com ênfase na qualidade dos resultados retornados.
+No módulo de Cálculo de Refinamento prevê-se a investigação de uma semântica formal 
+para uma linguagem orientada a objetos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Coordenador / Thiago Alves Costa - Integrante / Antônio José S Santana - Integrante / Romulo Augusto de O Passos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 9
+1995 - 1997
+Projeto Integrado de Hardware e Software (PISH)
+Descrição: Destina-se à concepção de uma metodologia forma para o particionamento de
+hardware e software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leila Maciel de Almeida e Silva - Integrante / Edna Barros - Coordenador / Manuel Eusébio Lima - Integrante / Ricardo Jacobi - Integrante / Ney Calazans - Integrante / Augsto Sampaio - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 11

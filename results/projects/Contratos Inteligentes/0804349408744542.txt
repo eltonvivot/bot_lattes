@@ -1,0 +1,16 @@
+2022 - Atual
+Desenvolvimento De Subsistema De Alimentação Autômato Para Rede De Sensores Sem Fio Voltadas Para Aplicações Externas Em Zonas Rurais E Urbanas
+Descrição: as redes de sensores sem fio, são o futuro das aquisições de dados, porém há um problema, os sensores precisam ser alimentados com energia elétrica, então surge a necessidade de se desenvolver um subsistema que seja capaz de alimentar os sensores.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Mauro Sergio Silva Pinto - Coordenador / ítalo Roberto do Nascimento Lima - Integrante.Financiador(es): Universidade Estadual do Maranhão - Bolsa.
+2021 - 2022
+Efeitos da Alta Penetração de Fontes de Energia Solar Fotovoltaica e Eólica Introduzida ao Problema de Armazenamento de Energia em Sistemas de Energia Elétrica
+Descrição: trata-se de uma pesquisa que se dedica a verificar os efeitos, positivos e negativos em sistema de potência com alta penetração eólica, adicionado o efeito de armazenamento relevante.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Mauro Sergio Silva Pinto - Coordenador / Luís Victor Belo Ferreira - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.Número de produções C, T & A: 1
+2020 - 2021
+Análise do Armazenamento de Energia em Alta Potência na Penetração Eólica em Sistemas de Potência com Alto Nível de Integração
+Descrição: este projeto de iniciação científica propoe a introdução de uma abordagem matemática para a simulação computacional para o problema de sistemas de potência com alta penetração eólica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Mauro Sergio Silva Pinto - Coordenador / Luciano Silva de Arruda - Integrante.
+2018 - Atual
+MODELAGEM E CONTROLE DE UM SISTEMA HIDROCINÉTICO UTILIZANDO GERADOR DE INDUÇÃO DUPLAMENTE ALIMENTADO
+Descrição: realização de modelagem matemática e computacional do sistema hidrocinético com utilização do gerador de indução duplamente alimentado (Dfig), este sistema é composto por diversos componentes: turbina, transmissão, rotor, estator, retificador (RSC), inversor (GSC) e controles para o sistema de conversão. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Mauro Sergio Silva Pinto - Coordenador / Reginaldo Nunes da Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Auxílio
+										financeiro.
+2018 - Atual
+detecção de rampa eólica
+Descrição: algoritmo para detecção de rampas eólicas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Mauro Sergio Silva Pinto - Coordenador / TARCÍSIO LIMA - Integrante.

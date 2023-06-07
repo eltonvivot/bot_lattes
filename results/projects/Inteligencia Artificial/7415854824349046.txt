@@ -1,0 +1,56 @@
+2023 - Atual
+Aplicação de técnicas de manufatura aditiva para produção de objetos simuladores para tomografia computadorizada
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Integrante / Paulo Roberto Costa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2022 - Atual
+Física e instrumentação de altas energias com o LHC-CERN
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Integrante / Marcelo Gameiro Munhoz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de SP - Auxílio
+										financeiro.
+2022 - Atual
+Redes neurais aplicadas à geração de modelos de mama para dosimetria em modalidades de imagens por raios X
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Alessandra Tomal - Coordenador / Jean Rinkel - Integrante / HITALO RODRIGUES MENDES - Integrante / COSTA, PAULO R - Integrante / Mario Antonio Bernal Rodriguez - Integrante / MASSERA, RODRIGO T. - Integrante / Carlos Shimizu - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de SP - Auxílio
+										financeiro.
+2022 - Atual
+Redes neurais aplicadas à geração de modelos de mama para dosimetria em modalidades de imagens por raios X
+Descrição: Bolsa de produtividade PQ 2. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2020 - 2022
+Desenvolvimento de técnicas de caracterização por raios X e aplicação em neurociência quantitativa
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Integrante / Jean Rinkel - Coordenador / rickson coelho mesquita - Integrante / Mario Antonio Bernal Rodriguez - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de SP - Auxílio
+										financeiro.
+2019 - Atual
+Estudo da interação de partículas carregadas pesadas com o DNA usando métodos computacionais
+Descrição: Auxílio à Pesquisa - Apoio a Jovens Pesquisadores - Fase 2. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Integrante / Jean Rinkel - Integrante / Mario Antonio Bernal Rodriguez - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de SP - Auxílio
+										financeiro.
+2019 - Atual
+P&D&I em Metrologia das Radiações na Área da Saúde
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Integrante / NICOLUCCI, P - Integrante / Paulo Roberto Costa - Integrante / E. M. Yoshimura - Integrante / Denise Yanikian Nersissian - Integrante / Linda Viola Ehlin Caldas - Coordenador / Letícia Lucente Campos Rodrigues - Integrante / Alessio MangiarottI - Integrante / Maria da Penha Albuquerque Potiens - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de SP - Auxílio
+										financeiro.
+2016 - 2018
+Desenvolvimento e implementação de metodologias para otimização de técnicas de imagens em radiologia digital
+Descrição: A radiologia diagnóstica tem experimentado notáveis avanços nas últimas décadas, com o desenvolvimento de receptores de imagem digitais. A migração da radiologia convencional para a digital tem ocorrido de forma expressiva, como resultado das vantagens na utilização de receptores digitais e da melhoria alcançada na qualidade da imagem. Entretanto, estudos de otimização ainda são necessários, visando identificar condições que forneçam a melhor qualidade de imagem, e que ao mesmo tempo reduzam a dose de radiação absorvida pelo paciente. O principal objetivo deste trabalho é estabelelcer e implementar uma metodologia para estudar as condições ótimas de exposição para diferentes técnicas de imagens, através da implementação de uma memetologia em equipamentos clínicos. Este projeto contempla o estudo de otimização da em radiologia digital, englobando basicamente três tipos de exames radiográficos, radiologia digital geral (radiografia de tórax e ortopédica), mamografia digital e radiologia pediátrica. Em ambos os casos, os estudos dosimétricos e da qualidade da imagem serão realizados por simulação Monte Carlo. Além disso, o estudo será realizado experimentalmente em equipamentos de raios X clínicos, onde serão desenvolvidos e testados métodos para otimização das técnicas, utilizando materiais simuladores. Os resultados obtidos contribuirão para a identificação de condições em que se pode melhorar a qualidade da imagem obtida, e reduzir o risco associado à exposição do paciente à radiação ionizante. Os resultados obtidos neste estudo permitirão caraterizar receptores digitais e avaliar os mais adequados para cada tipo de exame radiográfico. Desta forma, o presente projeto está diretamente relacionado com a área de Física Médica, em particular área de radiologia diagnóstica experimental, formação das imagens médicas, modelagem computacional de processos de interação, espectrometria de raios X e caracterização de detectores. Assim, seu desenvolvimento contribuirá para a implementação de uma nova linha de pesquisa do Departamento de Física Aplicada do Instituto de Física Gleb Wataghin, que contribuirá para o fortalecimento do Grupo de Física Radiológica Médica (GFRMd) além de poder contribuir para a formação de recursos humanos nestas áreas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Alessandra Tomal - Coordenador / Paulo Roberto Costa - Integrante / Mario Bernal - Integrante / NESTor de Barros - Integrante / Rodrigo Menezes Jales - Integrante / Beatriz Regina Alvares - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2016 - 2017
+Linha Auxílio à Pesquisa - FAEPEX-UNICAMP
+Descrição: Linha Auxílio à Pesquisa - número da solicitação 3251/16.  Auxílio financeiro da Pró-Reitoria de Pesquisa - Fundo de Apoio ao Ensino, à Pesquisa e à Extensão - FAEPEX-UNICAMP, 2016.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador.
+2015 - 2015
+Linha Auxílio à Pesquisa - FAEPEX-UNICAMP
+Descrição: Linha Auxílio à Pesquisa - número da solicitação 2046/15.  Auxílio financeiro da Pró-Reitoria de Pesquisa - Fundo de Apoio ao Ensino, à Pesquisa e à Extensão - FAEPEX-UNICAMP, 2015. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador.
+2014 - 2015
+Auxílio financeiro FAEPEX-UNICAMP (Linha PAPDIC)
+Descrição: Estudos Dosimétricos e de Qualidade da Imagem em Mamografia Digital}.  Auxílio financeiro da Pró-Reitoria de Pesquisa - Fundo de Apoio ao Ensino, à Pesquisa e à Extensão - FAEPEX-UNICAMP (Linha PAPDIC - Número da solicitação 0483/14) 2014. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador.
+2013 - 2017
+Projeto Unversal CNPq: Estudos dosimétricos e de qualidade da imagem em mamografia digita (Processo 483170/2013-5)
+Descrição: Este projeto de pesquisa contempla o estudo dosimétrico e da qualidade da imagem para a otimização das condições de exposição utilizadas em mamografia digital. Os resultados obtidos contribuirão para a identificação de condições em que se pode melhorar a qualidade da imagem obtida com a menor dose, visando reduzir o risco associado à exposição do paciente à radiação ionizante. Adicionalmente, diferentes receptores de imagens digitais, disponíveis comercialmente e propostos na literatura, serão avaliados e caracterizados, visando avaliar os mais adequados para cada tipo de exame radiográfico. Desta forma, o presente projeto está diretamente relacionado com a área de radiologia diagnóstica experimental, formação das imagens médicas e caracterização de detectores.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - Atual
+OTIMIZAÇÃO DE TÉCNICAS DE IMAGENS DIGITAIS DA MAMA: MAMOGRAFIA DIGITAL E TOMOSSÍNTESE DA MAMA
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador.
+2011 - 2013
+Otimização da mamografia digital e da tomossíntese da mama utilizando modelos semianalíticos - FAPESP 2011/01167-0
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador / Martin Eduardo Poletti - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2003 - 2004
+Estudo dos modos transversais num laser de He-Ne
+Descrição: Iniciação Científica. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador / Júlio Flemming Neto - Integrante.Financiador(es): PIBIC/CNPq/UEPG - Bolsa.
+2002 - 2003
+Atividade óptica e modos Laguerre-Gaussianos
+Descrição: Iniciação Científica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Tomal - Coordenador / Júlio Flemming Neto - Integrante.Financiador(es): PIBIC/CNPq/UEPG - Bolsa.

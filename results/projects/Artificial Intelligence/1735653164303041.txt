@@ -1,0 +1,109 @@
+2018 - Atual
+Métodos Computacionais Inovadores para Análise e Projeto de Sistemas Offshore
+Descrição: Projeto "Cientista do Nosso Estado" financiado pela FAPERJ -  Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro.
+ Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás
+ Linha de Pesquisa: Estruturas e Sistemas Offshore. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.
+2016 - 2020
+Ferramenta Numérica Integrada de Elementos Finitos 2D e 3D para Análise Mecânica e Geomecânica (AMG)
+Descrição: Desenvolvimento e atualização de ferramenta numérica integrada 2D e 3D de Elementos Finitos para Análise Mecânica e Geomecânica (AMG). Consolidar e implementar diversas novas funcionalidades específicas no simulador AMG, avançando além do atual estado da técnica e fazendo com que apresente diferenciais que o tornam único para a solução de diferentes problemas na área de Engenharia Submarina, incluindo: aplicação nas simulações de capacidade de carga de estacas tipo torpedo; soluções para controle de flambagem termomecânica de dutos; modelos de interação solo-duto; avaliação estrutural de dutos rígidos HP-HT, dentre outros.
+Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás.
+Linha de Pesquisa: Estruturas e Sistemas Offshore.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador / Bruno Martins Jacovazzo - Integrante / Mauro Henrique Alves de Lima Jr. - Integrante / Jhonathan Jhefferson de Sousa Ribeiro - Integrante / Marco Tulio Cicero Araujo Fernandes - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Cooperação.
+2016 - Atual
+Desenvolvimento, Implementação e Aplicação de Novas Metodologias para Modelagem, Simulação Numérica e Projeto de Risers de Perfuração através da interface RiserWeb
+Descrição: Este projeto trata do desenvolvimento, implementação e aplicação de novas metodologias para modelagem, simulação numérica, síntese e otimização orientadas ao projeto e à verificação da segurança operacional e integridade de colunas de riser, SCPS (Sistema de Cabeça de Poço Submarina) e outros componentes de sistemas de perfuração, completação e intervenção em poços de petróleo offshore. As metodologias são orientadas para a análise de diversas situações, incluindo operação normal e deriva por blackout. Essas novas metodologias de modelagem e simulação são consolidadas e disponibilizadas na ferramenta computacional com interface Web denominada RiserWeb.
+Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás
+Linhas de Pesquisa: Estruturas e Sistemas Offshore. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador / Fabrício Nogueira Correa - Integrante / Tiago Sten Freitas - Integrante / Juliana Souza Baioco - Integrante / leonardo tadeu ribeiro pereira - Integrante / Ausberto Rivera Medina - Integrante / Bruno Pinto Alves - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Cooperação.
+2016 - Atual
+Desenvolvimentos em Métodos para Avaliação da Integridade Estrutural de Dutos Submarinos HT/HP (IntegriDutos)
+Descrição: Este projeto trata do desenvolvimento de novos métodos para avaliação da integridade estrutural de dutos rígidos submarinos para altas temperaturas e pressões (HT/HP) considerando os níveis 2 e 3 da norma DNV RP-F116, e também a avaliação da confiabilidade estrutural.  Diversos aspectos sao levados em conta, incluindo o enterramento do duto; comprimento e distribuição de trechos em vão livre; avaliação de estados-limite de tensão e movimentação do duto ao longo do tempo. 
+Os métodos serão implementados na ferramenta computacional IntegriDutos (em ambientes Desktop e Web), de forma a torná-la capaz de armazenar e tratar as informações relevantes obtidas ao longo da vida operacional dos dutos, em consonância com o Regulamento Técnico do Sistema de Gerenciamento da Segurança Operacional de Sistemas Submarinos (SGSS) da ANP. Os dados são obtidos nas inspeções as-laid (após o lançamento), as-built (após o teste hidrostático), e inspeções regulares realizadas periodicamente durante a operação.
+Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás
+Linha de Pesquisa: Integridade Estrutural aplicada à indústria do petróleo e gás. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador / Luiza de Mesquita Ortiz - Integrante / Carl Horst Albrecht - Integrante / Rosane Martins Alves - Integrante / Henri Sidney Ndiaga Ndione - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Cooperação.
+2014 - 2017
+Métodos Computacionais para Análise e Projeto  de Sistemas para Produção de Petróleo Offshore
+Descrição: Projeto "Cientista do Nosso Estado" financiado pela FAPERJ -  Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro.
+Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás
+Linhas de Pesquisa: Estruturas e Sistemas Offshore. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.
+2013 - 2016
+Desenvolvimento de Algoritmos para Modelagem de Sistemas de Produção de Petróleo Offshore
+Descrição: Programa FAPERJ  ?APOIO A PROJETOS TEMÁTICOS NO ESTADO DO RIO DE JANEIRO ? 2013?. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2010 - 2013
+Desenvolvimento de Métodos Computacionais para Análise e Projeto de Sistemas para Produção de Petróleo Offshore
+Descrição: Projeto "Cientista do Nosso Estado" financiado pela FAPERJ -  Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador.
+2009 - Atual
+Métodos computacionais para síntese e otimização de projetos conceituais de sistemas submarinos para produção de petróleo offshore.
+Descrição: Pesquisa e desenvolvimento em novas metodologias para automatizar a síntese de sistemas submarinos. O objetivo é obter uma ferramenta computacional capaz de gerar rotas otimizadas para dutos de exportação; e também de gerar automaticamente alternativas para arquitetura e disposição espacial de árvores de natal, manifolds, UTAs e outros equipamentos submarinos; para locação da plataforma; e também as gerar rotas dos dutos (flexíveis ou rígidos) interligando os componentes. 
+Para tanto, emprega uma metodologia que incorpora algoritmos de otimização evolutiva como o Algoritmo Genético (AG), o Método de Enxame de Partículas (PSO), e de Evolução Diferencial (DE). Os Algoritmos são adaptados para lidar com as especificidades do problema, com alta dimensionalidade e restrições não-lineares expressas em métricas, unidades e ordens de grandeza diferentes.
+Como benefícios, a pesquisa levará à maximização do valor gerado pelo sistema de produção, obtendo arranjos otimizados, avaliados por critérios de engenharia e de custos (CAPEX, OPEX, ABEX). Isto resulta em projetos mais eficientes, obtidos em menor tempo, com aumento na eficiência e produção durante operação do sistema submarino, e significativa redução dos custos associados.
+Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás
+Linha de Pesquisa: Estruturas e Sistemas Offshore.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador / Beatriz de Souza Leite Pires de Lima - Integrante / Ian Nascimento Vieira - Integrante / Albrecht, Carl Horst - Integrante / DE LUCENA, RODRIGO RIBEIRO - Integrante / Juliana Souza Baioco - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Outra.Número de produções C, T & A: 13
+2004 - Atual
+Novos Métodos de Avaliação e Monitoração de Integridade de Plataformas Flutuantes para Produção de Petróleo Offshore
+Descrição: Efetuar uma série de estudos e novos desenvolvimentos relacionados a metodologias de avaliação e monitoração da integridade de sistemas de ancoragem de plataformas flutuantes. As metodologias sao baseadas na geração de modelos numéricos por retroanálise, que inicialmente foram empregados para gerar diagramas de "offset" ou passeio da plataforma flutuante sob ação de cargas ambientais. Esses métodos evoluíram na proposta do sistema de monitoração ?numérica? de trações em linhas de ancoragem implementado com sucesso no FPSO de Cascade-Chinook instalado no Golfo do México, e posteriormente estendido à plataforma P-09 compondo seu Sistema de Monitoração de Trações (SMT). Em seguida, chegou-se à proposta de uma metodologia inovadora para identificação de eventos de rompimento de linhas de ancoragem, também baseada em simulações numéricas com modelos as-laid. Os novos estudos envolvem a avaliação e a generalização desta última metodologia para diferentes tipos de sistemas flutuantes; a incorporação de novos recursos e aprimoramentos na metodologia, incluindo a identificação do calado da plataforma através de simulações numéricas; e a avaliação de uma alternativa mais complexa e possivelmente mais precisa para a identificação de rompimento, baseada no uso de dados ambientais medidos ou simulados. Uma vez validados os resultados da metodologia, esta será implementada no SMT de modo a obter um procedimento automatizado para detecção de eventos de rompimento de linha, podendo ser aplicado a todas as plataformas flutuantes da Petrobras. 
+Outros métodos de avaliação e monitoração da integridade de sistemas flutuantes também são propostos e estudados, incluindo o cálculo automático do consumo de vida à fadiga das linhas de ancoragem; e um sistema piloto para previsão de eventos de ?roll? excessivo.
+Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás
+Linha de Pesquisa: Integridade Estrutural aplicada à indústria do petróleo e gás.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador / Fabrício Nogueira Correa - Integrante / Carl Horst Albrecht - Integrante / DE ARAÚJO NETO, ELÓI DANIEL - Integrante / Rodrigo Moretti Kochem - Integrante / Guilherme Romar Borzachiello - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Cooperação.
+2001 - 2004
+CTPETRO'2001 - Interação de Defeitos em Dutos Corroídos
+Descrição: Projeto CTPETRO ANP/FINEP/Petrobras. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Breno Pinheiro Jacob - Coordenador / Paulo Fernando Neves Rodrigues - Integrante / Paulo Roberto Santos Machado Junior - Integrante / Leonardo Cabral Pereira - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Pontifícia Universidade Católica do Rio de Janeiro - Cooperação / Laboratório Nacional de Computação Científica - Cooperação / Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2003
+CTPETRO'2001: Metodologias e Algoritmos Numéricos para a Análise e Projeto de Risers
+Descrição: Projeto CTPETRO ANP/FINEP/Petrobras. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Breno Pinheiro Jacob - Integrante / Gilberto Bruno Ellwanger - Integrante / Edison Castro Prates de Lima - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2000 - 2011
+TPN - Tanque de Provas Numérico: Análise Acoplada de Sistemas Flutuante, Linhas de Ancoragem e Risers na Exploração de Petróleo Offshore
+Descrição: Subprojeto "Desenvolvimentos para Análise Estrutural de Linhas de Ancoragem e Risers", 
+do Projeto CTPETRO ANP/FINEP/Petrobras.
+Coordenacao geral: Kazuo Nishimoto (USP), Marcos Donato Ferreira (Petrobras).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Breno Pinheiro Jacob - Coordenador / Eduardo Setton - Integrante / Luciano Tardelli Vieira - Integrante / Fabrício Nogueira Correa - Integrante / Ana Paula Costa - Integrante / Leonardo Toscano - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Pontifícia Universidade Católica do Rio de Janeiro - Cooperação / Universidade de São Paulo - Cooperação / Instituto de Pesquisas Tecnológicas do Estado de São Paulo - Cooperação.Número de produções C, T & A: 4
+1999 - 2001
+CTPETRO'99 - Ancoragem com Complacência Diferenciada
+Descrição: Projeto CTPETRO ANP (Agência Nacional do Petróleo)/FINEP/Petrobras. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1999 - 2001
+CTPETRO'99 - Análise de Dados de Experimentos com Risers Rígidos
+Descrição: Projeto CTPETRO - ANP/FINEP/PETROBRAS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1999 - 2001
+CTPETRO'99 - Estudos para a Monitoração do Steel Catenary Riser na plataforma P-18
+Descrição: Projeto CTPETRO ANP (Agência Nacional do Petróleo)/FINEP/Petrobras. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1998 - Atual
+Novos Métodos e Algoritmos para Modelagem, Simulação Numérica e Projeto de Sistemas de Produção de Petróleo Offshore
+Descrição: Este projeto trata do estudo e desenvolvimento de novos métodos de modelagem numérica, e algoritmos de solução de problemas estáticos e dinâmicos não-lineares. Os métodos e algoritmos são especializados para a aplicação na simulação numérica, análise e projeto de diferentes tipos de sistemas de produção de petróleo offshore, incluindo plataformas flutuantes; sistemas de ancoragem e risers; dutos flexíveis e rígidos; equipamentos submarinos na fase de transporte e instalação; e outros componentes envolvidos em atividades de produção de petróleo no mar, em situações de produção, instalação, movimentação e avaria. Os métodos e algoritmos são implementados no sistema computacional SITUA-Prosim, que vem sendo empregado na indústria do petróleo para diferentes atividades de projeto de sistemas offshore. O SITUA-Prosim incorpora um conjunto de ferramentas computacionais (numéricas e gráficas), integrando os módulos de análise do programa Prosim (baseado em um solver de Elementos Finitos para análise estática e dinâmica não-linear) com a interface gráfica especializada SITUA, para a geração de modelos numéricos e o tratamento/visualização dos resultados. Seu desenvolvimento representa a consolidação de pesquisas que vêm sendo realizadas pelo LAMCSO/COPPE/UFRJ em colaboração com o CENPES-Petrobras ao longo das últimas décadas.
+Contexto PEC/COPPE: 
+Área de Concentração: Petróleo & Gás
+Linha de Pesquisa: Estruturas e Sistemas Offshore.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Breno Pinheiro Jacob - Coordenador / Fabrício Nogueira Correa - Integrante / Bruno da Fonseca Monteiro - Integrante / Mauro Henrique Alves de Lima Jr. - Integrante / Daniel da Costa e Silva Coutinho - Integrante / Carl Horst Albrecht - Integrante / Jhonathan Jhefferson de Sousa Ribeiro - Integrante / josé pedro gonçalves de carvalho - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Cooperação.
+1997 - 1999
+RECOPE - Redes Cooperativas de Pesquisa, Rede de Automação Industrial
+Descrição: Sub-rede: Simulação e Visualização em Engenharia - Disciplina de Engenharia Oceânica:
+Tópico: Comportamento de Unidades Flutuantes de Produção de Petróleo em Águas Profundas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1993 - 2001
+Laboratório de Métodos Computacionais em Engenharia
+Descrição: Projeto Integrado de Pesquisa, apoiado pelo CNPq. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Breno Pinheiro Jacob - Integrante / Alvaro L G A Coutinho - Integrante / José Luiz Drummond Alves - Integrante / Nelson F F Ebecken - Integrante / L. Landau - Coordenador / Gilberto Bruno Ellwanger - Integrante / Edison Castro Prates de Lima - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1983 - Atual
+Projetos de Pesquisa, Desenvolvimento e Consultoria para a Indústria do Petróleo, na área de Métodos Computacionais e Sistemas Offshore, através da Fundação COPPETEC
+Descrição: Participação e coordenação de diversos projetos de pesquisa, desenvolvimento, consultoria e projeto, através da Fundação COPPETEC, para o Centro de Pesquisas e Desenvolvimento (CENPES) e outras unidades da Petrobras, a partir de Março/83.
+Desde então, já foram contratados e concluídos cerca de setenta projetos. 
+Alguns destes projetos estão relacionados neste currículo, no módulo "Produção Técnica", subgrupo "Trabalhos Técnicos". 
+Os projetos podem ser enquadrados em dois grupos principais:
+1) Desenvolvimento de Métodos Computacionais: novas formulações e procedimentos de solução mais eficientes para problemas estruturais não-lineares estáticos e dinâmicos; métodos de otimização.  
+2) Aplicações na Análise e Projeto de Sistemas Offshore: desenvolvimento de novas concepções para sistemas estruturais empregados na exploração de petróleo offshore, e no estabelecimento de metodologias de projeto de sistemas offshore.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Breno Pinheiro Jacob - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.

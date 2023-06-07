@@ -1,0 +1,47 @@
+2020 - Atual
+Sistemas baseados em Blockchain: de modelos de desempenho à novas aplicações (Blockchain systems: from models to new apps)
+Descrição: Processo: 440069/2020-3. Chamada: Chamada CNPq/Amazon AWS No. 032/2019 - Acesso às Plataformas de Computação em Nuvem da Amazon AWS. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alex Borges Vieira - Coordenador / Glauber Dias Conçalves - Integrante / Saulo M. R. Ricci - Integrante / Heder Soares Bernardino - Integrante.
+2019 - 2020
+SADI - Sistema de Análise de Dados para IdMs
+Descrição: Análise de dados é um tópico importante para tomada de decisões. Em especial, a análise de dados relacionada à autenticação e autorização de grandes redes se torna um desafio, dado o enorme volume de dados envolvido. Nota-se que o eduroam, um dos principais serviços RNP em gestão de identidade, não tem ferramentas de análise associadas a ele. Neste sentido, a corrente proposta cobre toda cadeia de análise de dados, no contexto desse serviço. Serão cobertos, de forma integrada, os aspectos de aquisição de dados, caracterização e aprendizado. Assim, resumidamente, a partir de um serviço RNP, administradores e gestores dos serviços federados de autenticação poderão acompanhar ao vivo o perfil de seus usuários, a saúde do serviço oferecido e, ainda serem alertados por possíveis comportamentos anômalos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2) . Integrantes: Alex Borges Vieira - Coordenador / Edelberto Franco Silva - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2018 - Atual
+NET-IOT - DE SENSORES A ANÁLISE DE DADOS
+Descrição: FAPEMIG APQ-02955-18 - Depois dos computadores e da Internet em si, Internet das Coisas (IoT) é anunciada como uma nova era. Entretanto, IoT já é, atualmente, associada a muito mais que coisas e sensores. Os dados gerados e a capacidade de empresas de tratá-los passa a ser um dos grandes focos de pesquisa. O tema é tão complexo que até empresas tradicionais são forçadas a evoluir e fazer novas parcerias. Nesse sentido, o projeto conta com três linhas de pesquisa principais: (I) sensores e sistemas embarcados; (II) transmissão de dados e redes de computadores e (III) aplicações e ciência de dados. Esses tópicos são tratados desde a da comunicação do meio físico até o usuário final (incluindo a captura da informação por sensores e a transferência destes por redes de comunicação) até as aplicações que processam os dados para extração de informação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3) . Integrantes: Alex Borges Vieira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - 2020
+INECiD (Projeto FAPESP 2015/24493-1 Chamada MCTI/MC/CGI/FAPESP
+Descrição: O projeto ``INECiD: Internet e a Nova Era de Ciência de Dados'' apresenta duas vertentes principais. A primeira delas, inclui a caracterização do comportamento de usuários e carga de trabalho que impactarão o futuro da Internet. A segunda vertente de pesquisa trata da criação de ferramentas de suporte a sistemas baseados em grandes volumes de dados a partir de um único objeto matemático, de forma a permitir uma modelagem integrada de tais sistemas, simplificando a análise de objetos de larga escala. Este projeto envolve as seguintes instituições: LNCC e UFJF.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Alex Borges Vieira - Integrante / Artur Ziviani - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - 2019
+Avaliação De Eventos E Serviços De Grande Escala Na Internet
+Descrição: O mundo espera por uma nova era de serviços orientados a dados na Internet, uma tendência que já se iniciou, mas todas as expectativas apontam para um crescimento ainda bastante significativo do volume de dados nos próximos anos. Enquanto a Internet e seus serviços evoluem, o padrão de uso da Internet também muda drasticamente. Frente a tais mudanças, as caracterizações e modelos atuais, sobretudo acerca do comportamento dos usuários e tráfego, podem não refletir o futuro próximo da Internet. Caracterizações mal realizadas e modelos imprecisos podem induzir erros e prejuízos, tanto na criação de aplicações quanto no planejamento de capacidade da estrutura necessária de serviços e comunicações. Para o futuro da Internet, questões relativas a armazenamento, interconexão, busca e organização serão desafiadoras e só poderão ser transpassadas com auxílio de caracterizações e modelos acurados. Este projeto apresenta duas vertentes principais. A primeira delas, inclui a caracterização do comportamento de usuários e carga de trabalho que impactarão o futuro da Internet. Dessa forma, pesquisadores, desenvolvedores e provedores de serviço terão um arsenal para a próxima onda da Internet, a nova era de Ciência de Dados, cujo principal impulsionador nesse contexto é o fenômeno conhecido por Internet das coisas (IoT). Como instância inicial, serão caracterizadas aplicações de transmissão de vídeo na Internet durante grandes eventos. A segunda vertente de pesquisa trata da criação de ferramental matemático que possibilite a modelagem e análise simplificada de grandes volumes de dados, geralmente associados à IoT. Mais precisamente, serão criadas estruturas de dados apropriadas para a análise de IoT, capazes de retratar o grande volume de dados que se espera nessas redes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Alex Borges Vieira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2014 - 2016
+Studying the Impact of Network Failures on User Behavior
+Descrição: Microsoft Azure Research Award 2014. 
+Valor estimado em recursos recebidos $40.000,00.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Alex Borges Vieira - Coordenador.
+2013 - 2016
+ACa: Análise e Caracterização de Sistemas de Computação em Redes de Computadores.
+Descrição: Chamada Pública MCTI/CNPq Nº 14/2013 - Universal / Universal 14/2013 - Faixa A - até R$ 30.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Alex Borges Vieira - Coordenador.
+2013 - 2015
+DESENVOLVIMENTO DE SOFTWARE DE CONTROLE E ALGORITMOS DE ROTEAMENTOPARA UMA ESTAÇÃO DE SENSORIAMENTO SUBAQUÁTICA.
+Descrição: Iniciação científica - UFJF. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alex Borges Vieira - Coordenador.
+2013 - 2015
+MePassA: Medições Passivas e Ativas de Sistemas de Armazenamento de Arquivos na Internet.
+Descrição: FAPEMIG Edital 01/2013 ? Demanda Universal. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Alex Borges Vieira - Coordenador.
+2013 - 2014
+DINAMICIDADE EM SISTEMAS DE COMPUTAÇÃO.
+Descrição: Iniciação científica - UFJF. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alex Borges Vieira - Coordenador.
+2012 - 2013
+IMPACTO DA DINÂMICA E DA ESTRUTURA TOPOLÓGICA DE SISTEMAS COMPLEXOS NO PROCESSO DE DIFUSÃO DE INFORMAÇÃO
+Descrição: Iniciação científica - UFJF. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alex Borges Vieira - Coordenador.
+2012 - 2013
+ANÁLISE DIVERSIDADE DE CAMINHOS NA INTERNET: UMA COMPARAÇÃO DE 5 ANOS.
+Descrição: Iniciação científica UFJF. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alex Borges Vieira - Coordenador.
+2011 - 2012
+QUALIDADE E SEGURANÇA PARA VÍDEO AO VIVO EM P2P
+Descrição: Projeto para trabalhar aspectos de segurança contra ataques a sistemas de transmissão ao vivo em P2P, garantido a qualidade do vídeo e o baixo custo inerente de sistemas P2P.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Alex Borges Vieira - Coordenador / Rafael Barra de Almeida - Integrante / Leonardo Chinelate Costa - Integrante.
+2011 - 2012
+CARACTERIZAÇÃO DE PARTICIPANTES OPORTUNISTAS EM SISTEMAS DE TRANSMISSÃO AO VIVO EM P2P.
+Descrição: Caracterização dos participantes de sistemas P2P e redes dinâmicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Alex Borges Vieira - Coordenador / Francisco Henrique Ferreira - Integrante.

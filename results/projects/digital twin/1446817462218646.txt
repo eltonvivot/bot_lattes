@@ -1,0 +1,87 @@
+2023 - Atual
+OTIMIZAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA UTILIZANDO TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL E COMPUTAÇÃO EM NUVEM
+Descrição: Este projeto de pesquisa, visa aplicar as ferramentas de inteligência artificial e computação em nuvem aplicado sobre uma rede de abastecimento de água no Laboratório de Eficiência Energética e Hidráulica em Saneamento da Universidade Federal da Paraíba (LENHS/UFPB).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Heber Pimentel Gomes - Integrante / Altamar Alencar Cardoso - Integrante / Petronio Ferreira de Melo - Integrante / Marcio Miranda Cordula - Integrante.
+2022 - Atual
+[INICIAÇÃO CIENTÍFICA] Otimização de Sistemas de Abastecimento de Água utilizando Técnicas de Inteligência Artificial
+Descrição: Com o avanço da tecnologia, e os novos conceitos de Industria 4.0, tem surgido tecnologias habilitadoras como análise de grandes volumes de dados, sensores virtuais, modelos de sistemas, aplicações de internet das coisas (IoT), entre outros. Todas estas novas ferramentas estão sendo incorporadas no dia a dia das empresas, e especificamente no setor de abastecimento de água e saneamento estas ferramentas procuram otimizar os sistemas, atendendo as demandas de operação otimizada e as demandas dos usuários. Neste cenário, este projeto de pesquisa, visa aplicar as ferramentas de inteligência artificial sobre uma rede de abastecimento de água do Laboratório de Eficiência Energética e Hidráulica em Saneamento da Universidade Federal da Paraíba.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / José Hélio Bento da silva - Integrante / Lucas Dantas de Oliveira - Integrante / Júlio Martins da Silva Neto - Integrante / Mario Lira de Freitas - Integrante.
+2022 - Atual
+Otimização de Sistemas de Abastecimento de Água utilizando Técnicas de Inteligência Artificial
+Descrição: EDITAL N° 09/2021 Demanda Universal FAPESQ-PB. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Carlos Alberto de Souza Filho - Integrante / HEBER PIMENTEL GOMES - Integrante.
+2022 - Atual
+Otimização de Sistemas de Abastecimento de Água utilizando Técnicas de Inteligência Artificial
+Descrição: Bolsista em Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora ? DT. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Juan Moises Mauricio Villanueva - Coordenador.
+2021 - 2022
+[INICIAÇÃO CIENTÍFICA] Transdutores Ultrassônicos e suas Aplicações em Energia Eólica
+Descrição: Projeto e desenvolvimento de sistemas de medição da velocidade do vento utilizando transdutores ultrassônicos. Serão desenvolvidos algoritmos para a estimação do Time-of-Flight baseado em técnicas de processamento digital de sinais e inteligência artificial. Neste projeto se tem dois planos de trabalho: a) ESTIMAÇÃO DO TEMPO DE TRÂNSITO ULTRASSÔNICO UTILIZANDO INTELIGÊNCIA ARTIFICIAL; b) MODELAGEM DE UM SISTEMA DE MEDIÇÃO DA VELOCIDADE DO VENTO UTILIZANDO TRANSDUTORES ULTRASSÔNICOS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / José Hélio Bento da silva - Integrante / Lucas Dantas de Oliveira - Integrante.Número de produções C, T & A: 4
+2020 - 2021
+Otimização de Sistemas de Abastecimento de Água e Saneamento por meio de Automação Inteligente
+Projeto certificado pela empresa Companhia de Água e Esgotos da Paraíba  em 16/02/2020.
+Descrição: Desenvolvimento de técnicas de automação inteligente para a otimização de sistemas de abastecimento de água e saneamento na rede de distribuição da empresa CAGEPA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Euler Cássio Tavares de Macêdo - Integrante / Cícero da Rocha Souto - Integrante / Ademar Virgolino da Silva Netto - Integrante / Carlos Alberto de Souza - Integrante.Número de produções C, T & A: 4
+2020 - 2021
+[INICIAÇÃO CIENTÍFICA] Análise de Grandes Volumes de Dados (Big Data Analytics) de Curvas Demanda de Subestações de Energia Elétrica
+Descrição: Análise de dados de subestações de energia elétrica para a detecção e correção de outliers das curvas de demanda para um posterior uso na previsão de demanda.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Vitor de Sousa França - Integrante / Virginia Vieira Aires - Integrante.
+2020 - 2021
+[INICIAÇÃO CIENTÍFICA] Otimização de Sistemas de Abastecimento de Água e Saneamento por meio da Automação Inteligente
+Descrição: Aplicação de técnicas de inteligência artificial para a otimização de sistema hidráulicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Luiz Felipe Rodrigues Goncalves - Integrante.
+2019 - 2020
+[INICIAÇÃO CIENTIFICA] Análise de Grandes Volumes de Dados (Big Data Analytics) de Curvas Demanda de Subestações de Energia Elétrica
+Descrição: Plano 1. Detecção e correção de outliers de curvas de demanda usando técnicas de inteligência artificial
+Plano 2. Previsão de demanda de energia considerando os efeitos da temperatura e pluviomêtros (Chuvas). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Ricardo Wagner Correia Guerra Filho - Integrante / Sharon Raphaela Oliveira Simoes de Sousa - Integrante.Financiador(es): Universidade Federal da Paraíba - Bolsa.Número de produções C, T & A: 1
+2018 - 2021
+CIUDADES INTELIGENTES TOTALMENTE INTEGRALES, EFICIENTES Y SOSTENIBLES	(CITIES)
+Descrição: Descrição: CYTED Red 518RT0558 (2018-2021). 
+Situação: Em andamento; Natureza: Pesquisa/Rede Temática.
+Instituição parceira: Universidad de Valladolid, UVa, Espanha.
+http://www.cyted.org/es/content/518rt0558-integrantes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Juan Moises Mauricio Villanueva - Integrante / Jose Mauricio R. de Souza - Integrante / Euler Cássio Tavares de Macêdo - Integrante / Fabricio Braga Soares de Carvalho - Integrante / Yuri Percy Molina Rodriguez - Coordenador / Alexsandro José Virgínio dos Santos - Integrante.
+2018 - 2019
+[INICIAÇÃO CIENTÍFICA] Transdutores Ultrassônicos e suas Aplicações em Energia Eólica
+Descrição: Plano 1. Modelagem Dinâmica de Anemômetros Ultrassônicos, Termo-Resistivos e Caneca (tipo Concha)
+Plano 2. Modelagem de Turbinas Eólicas com Estratégias de Controle DFIG. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Felipe Augusto Oliveira dos Santos - Integrante / Lucas Yuri Henrique de Araújo - Integrante.Financiador(es): Universidade Federal da Paraíba - Bolsa.Número de produções C, T & A: 2
+2018 - 2019
+[INICIAÇÃO CIENTÍFICA] Análise de Grandes Volumes de Dados (Big Data Analytics) de Curvas Demanda de Subestações de Energia
+Descrição: Plano 1. Previsão de demanda de energia considerando os efeitos da temperatura
+Plano 2. Detecção e correção de outliers de curvas de demanda usando técnicas de inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Isaac Emmanuel Azevedo de Medeiros - Integrante / Manuella Rocha Moury Fernandes Barros - Integrante.Número de produções C, T & A: 2
+2017 - 2018
+[INICIAÇÃO CIENTÍFICA] Transdutores ultrassônicos e suas aplicações em energia eólica
+Descrição: Aplicação de transdutores ultrassônicos para o projeto de anemômetros ultrassônicos de 2 eixos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Ricardo Wagner Correia Guerra Filho - Integrante / Felipe Augusto Oliveira dos Santos - Integrante / Leonardo Boulitreau de Menezes Martins Marques - Integrante.Número de produções C, T & A: 1
+2016 - 2017
+[INICIAÇÃO CIENTÍFICA] Medição de velocidade de vento utilizando transdutores ultrassônicos baseado em técnicas de fusão de dados
+Descrição: Sistemas de medição de fluxo de ar para aplicações em energia eólica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Felipe Augusto Oliveira dos Santos - Integrante / Rafael Macedo Marques Gouveia - Integrante / João Salvio da Silva Junior - Integrante.Número de produções C, T & A: 4
+2015 - 2016
+Desenvolvimento de um Sistema de Monitoramento e Modelagem de Baterias Aplicadas em Sistemas Fotovoltaicos
+Projeto certificado pelo(a) coordenador(a) Euler Cássio Tavares de Macêdo em 01/05/2016.
+Descrição: Modelagem de Baterias e Implementação de um BMS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Integrante / Euler Cássio Tavares de Macêdo - Coordenador / Lucas Vinicius Hartmann - Integrante / Yuri Percy Molina Rodriguez - Integrante.
+2013 - 2014
+[PIBIC-EM] Estudo Comparativo de Instrumentos de Medição de Velocidade de Vento (Anemômetros) para a Estimação do Potencial Eôlico
+Descrição: Este projeto visa realiza o estudo, classificação e análise comparativo dos anemômetros para aplicações de energia eólica com a finalidade de relacionar suas incertezas de medição da velocidade do vento com a exatidão na estimação da densidade do potencial eólico (DPV).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Juan Moises Mauricio Villanueva - Coordenador / JOÃO BERNARDO DA SILVA FILHO - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2013 - 2014
+[INICIAÇÃO CIENTÍFICA] Medição de Velocidade de Vento utilizando Transdutores Ultrassônicos baseados em Técnicas de Fusão de Dados
+Descrição: - Análise de Incertezas
+- Técnicas de fusão de dados
+- Túnel de Vento
+- Transdutores Ultrassônicos
+- Sistemas Embarcados de Medição. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Lucas de Morais Toledo - Integrante / João Soares Farias Neto - Integrante / Rafael Duarte Limeira - Integrante.Número de produções C, T & A: 1
+2013 - 2014
+[INICIAÇÃO CIENTÍFICA] Sistemas de Evento Discretos para Modelagem de Sistemas Embarcados de Medição
+Descrição: Modelagem de sistemas embarcados usando Redes de Petri. Aplicações em energia eólica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Bruno Fernandes dos Santos - Integrante.Número de produções C, T & A: 1
+2013 - 2014
+[PIBIC-EM] Caracterização de Sensores Termo-Resistivos para Apliações em Redes de Sensores de Radiação Solar
+Descrição: Este projeto visa realizar o estudo da caracterização estática e dinâmica de sensores termo-resistivos dos tipos NTC e PTC.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Juan Moises Mauricio Villanueva - Coordenador / FRANCISCO DAS CHAGAS FERNANDES DE ALMEIDA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2011 - 2014
+Red iberoamericana para el desarrollo de la televisión digital terrestre y las aplicaciones interactivas (RITDT)
+Descrição: Fortalecer os grupos de pesquisa que existem em Ibero-América ao redor do desenvolvimento das aplicações interativas para a Televisão Digital Terrestre, para fomentar a inclusão digital em nossa região, identificando o desenvolvimento destas aplicações prioritariamente no campo da saúde e educação.
+CYTED Red 511RT0428. Situação: Concluído; Natureza: Pesquisa. Integrantes: Juan Moises Mauricio Villanueva - Integrante / Daniel Díaz Ataucuri - Coordenador.
+2010 - 2012
+Sistema de Medição de Múltiplas Fases de Níveis em Reservatórios e Análise de Incertezas utilizando Sensores Ultrassônicos
+Descrição: Medição de múltiplas fase de nível em reservatórios. Transformada Wavelet. Transdutores Ultrassônicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Jose Luciano Guzman - Integrante / Carlos Tizsa - Integrante / INGAROCA, NESTOR S. CASTRO - Integrante.Número de produções C, T & A: 2
+2010 - 2011
+Aplicação Interativa para o Setor Educação usando Ginga-NCL e Configuração do Middleware Ginga-NCL
+Descrição: Estudo da arquitetura do middleware ginga-ncl para a implementação de aplicações interativas no setor educação baseadas na linguagem de programação NCL.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Jean Gerald Leon Huaca - Integrante / Alejandro José Llanos Garcia - Integrante.
+2009 - 2010
+Seguridade Wireless Implementando o Algoritmo de Encriptação AES em FPGA
+Descrição: Implementação do Algoritmo de Encriptação AES em um FPGA para sistemas sem fio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Juan Moises Mauricio Villanueva - Coordenador / Edson Ticona - Integrante / Leonid Huancachoque - Integrante / Jorge Rufino Fernandez Herrera - Integrante.Financiador(es): Universidad Nacional de Ingeniería - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2001
+Aplicações do Processador Digital de Sinais DSP568L11 na Área de Sismologia
+Descrição: Análise de sinais sísmicas em tempo real utilizando o processador digital de sinais DSP568L11.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juan Moises Mauricio Villanueva - Integrante / Jorge del Carpio Salinas - Coordenador / Ronaldo Perez Cedano - Integrante.Financiador(es): Universidad Nacional de Ingeniería - Auxílio
+										financeiro.

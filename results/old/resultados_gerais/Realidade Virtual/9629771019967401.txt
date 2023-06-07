@@ -1,0 +1,20 @@
+2018 - Atual
+Desenvolvimento e Implantação Comercial de Estações de Recarga de Veículos Elétricos com Soluções para V2H/V2G
+Descrição: O projeto propõe uma continuação do P&D n°5697-0414/2014, denominado "Sistema de Recarga Rápida com Armazenamento Híbrido-Estacionário de Energia para Abastecimento de Veículos Elétricos no Conceito de Redes Inteligentes", categorizado como "Desenvolvimento Experimental", a fim de prosseguir na cadeia de inovação proposta pelo programa de P&D da ANEEL, seguindo para a fase "Cabeça de Série", já com vistas de levar novas tecnologias ao mercado nacional.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thiago Jeremias - Integrante / Marco Aurélio Gianesini - Coordenador / Marcio dos Santos Lautert - Integrante / Roberto Kinceler - Integrante / Maria de Loudes Machado - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Outra.
+2018 - Atual
+Desenvolvimento e certificação de aerogerador nacional de 3,3 MW de acoplamento direto, com gerador síncrono de ímãs permanentes e conversor de potência plena
+Descrição: Fabricação, a construção, a montagem, o comissionamento, a operacionalidade e a certificação de um aerogerador de fabricação nacional WEG, com potência nominal de 3,30 MW ou outra potência. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thiago Jeremias - Integrante / Marco Aurélio Gianesini - Integrante / Roberto Kinceler - Coordenador / Luiz Afonso Pereira Athaide Filho - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Outra.
+2015 - 2017
+Sistema de Recarga Rápida com Armazenamento Híbrido-Estacionário de Energia para Abastecimento de Veículos Elétricos no conceito de Redes Inteligentes
+Descrição: objetivo geral do projeto é desenvolver um modelo original e viável de eletroposto para carregamento rápido de veículos elétricos, inserido no contexto de uma cidade inteligente. O projeto abrange a pesquisa e o desenvolvimento de soluções técnicas e comerciais e a implantação de um eletroposto Piloto. O trabalho a ser realizado será no sentido de encontrar soluções com os seguintes requisitos básicos: (1) possam se  iabilizar no curto e médio prazo, (2) minimizem o impacto da recarga de veículos elétricos na rede de distribuição; (3) possam servir na operação da rede, (3) sejam sustentáveis do ponto de vista ambiental 4 (4) gerem oportunidades de de novos negócios para a CELESC.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Jeremias - Integrante / Marco Aurélio Gianesini - Coordenador / Sylvio Luiz Reibnitz - Integrante / Marcio dos Santos Lautert - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.
+2014 - 2016
+Controles para funções não críticas em refrigeradores
+Descrição: A proposta inicial é trabalhar sobre um sistema capaz de controlar as rotinas de degelo existentes nos refrigeradores
+frost-free, de forma que este degelo ocorra somente fora dos períodos mencionados, utilizando-se de sistemas offline
+de deslocamento de horário de pico. Entende-se que isto trará enorme benefício considerando que o processo de
+degelo utiliza resistências da ordem de 200W a 500W e a realocação do degelo de um número de refrigeradores
+frost-free, para o período noturno por exemplo, já trará grande impacto no perfil da demanda de energia residencial. Na
+segunda fase deste projeto será realizado uma análise de como o sistema de realocação do deforst operaria caso a
+informação do custo real de energia estivesse disponível em tempo real (Online).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Jeremias - Integrante / Marcio dos Santos Lautert - Coordenador / Mario Cesar Machado Junior - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.

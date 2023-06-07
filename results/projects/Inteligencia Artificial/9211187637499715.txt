@@ -1,0 +1,16 @@
+2017 - Atual
+Utilização de medidas de complexidade para análise de séries temporais econômico-financeiras
+Descrição: Complexidade é um tema bastante abrangente. Não existe uma definição fechada sobre complexidade, contudo, um consenso sobre seu significado é o de sistema formado por várias partes que interagem de maneira não linear, de tal forma que o método analítico não é suficiente para descrever o sistema, uma vez que não se pode separá-lo em elementos independentes. Algumas propriedades genéricas lhe são características, como auto-organização e propriedades emergentes. A complexidade pode ser observada numa região intermediária entre a ordem total e a completa desordem. Em geral, sistemas complexos aparecem naturalmente na biologia (ex. comportamento cerebral), na economia (ex. funcionamento dos mercados), na computação (ex. problemas da teoria da informação), etc. O presente projeto buscará comparar e analisar algumas medidas de complexidade, como entropia (Shannon, Rényi), medida de Lempel Ziv, informação mútua e medidas de fractalidade, aplicadas a séries temporais econômico-financeiras.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antonio Fernando Crepaldi - Coordenador.
+2015 - 2017
+Comparação e análise de técnicas para abordar não linearidade em correlações de séries temporais econômico-financeiras não estacionárias
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Fernando Crepaldi - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2010 - 2013
+Aplicação de matrizes de correlação e teoria de redes na análise de problemas sócio-econômicos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Fernando Crepaldi - Coordenador.
+2008 - 2010
+Utilização de modelos baseados em agentes no estudo de problemas econômicos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Fernando Crepaldi - Coordenador.
+2001 - 2007
+Análise e Previsão de Séries Temporais Empíricas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Fernando Crepaldi - Coordenador.

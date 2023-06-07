@@ -1,0 +1,33 @@
+2014 - 2016
+PESQUISA E DESENVOLVIMENTO DA ENGENHARIA DIRIGIDA POR MODELOS PARA SUPORTAR DATABASE MERGING NO CONTEXTO DA COMPUTAÇÃO EM NUVEM
+Descrição: Esta proposta de pesquisa científica visa abordar métodos, processos, modelos e frameworks para suportar a integração de bases de dados heterogêneas conforme uma abordagem baseada na engenharia dirigida por modelos e computação em nuvem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador / Marcus Carvalho - Integrante / Pablo Matos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Auxílio
+										financeiro.
+2012 - 2014
+Pesquisa e Inovação Tecnológica em Sistemas Computacionais baseado em Computação em Nuvem e Sistemas Embarcados: aplicação em sistemas de energia elétrica
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Auxílio
+										financeiro.
+2011 - 2014
+Uma abordagem baseada em engenharia dirigida por modelos e computação em nuvem para desenvolvimento tecnológico de qualidade: aplicação em Telemedicina
+Descrição: Este projeto tem por objetivo criar uma metodologia baseada na engenharia dirigida por modelos para suportar o desenvolvimento de sistemas de software baseados na computação em nuvem, oferecendo sistemas de software que sejam disponíveis, corretos, seguros, escaláveis, persistentes e ubíquos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2013
+Pesquisa e Inovação Tecnológica em Engenharia Dirigida por Modelos: Desenvolvimento de Sistemas Embarcados para Telemedicina
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Auxílio
+										financeiro.
+2010 - 2013
+Um Framework para Suportar o Co-Design de Hardware/Software: Aplicação da Engenharia Dirigida por Modelos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador / Zair Abdelouahab - Integrante / Daniela Claro - Integrante / Cleonilson Protásio - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+Geração Semi-Automática de Especificação de Correspondências entre Metamodelos: Aplicação em MOF/QVT
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Auxílio
+										financeiro.
+2008 - 2010
+FINEP - Aplicações e Desenvolvimento Tecnológico em Telemedicina baseado em Sistemas de Auxílio ao Diagnóstico Médico e em Sistemas Móveis
+Descrição: Este projeto objetiva desenvolver um ECG móvel de baixo custo e um software para dispositivos móveis que analisará os resultados obtidos com o ECG móvel.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Denivaldo Cicero Pavão Lopes - Integrante / Eugênio L. M. Garcia de Medeiros - Integrante / Francisco José da Silva e Silva - Integrante / Allan Kardec Duailibe Barros Filho - Coordenador / José de Albuquerque de Figueiredo Neto - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2007 - 2008
+FAPEMA - Estudo e Aplicação da Engenharia Dirigida por Modelos
+Descrição: Projeto voltado para o estudo de correspondência entre metamodelos e definição de transformação de modelos. Aplicação em plataformas como J2ME.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador / José Geraldo de Sousa Junior - Integrante / BRUNO SEABRA NOGUEIRA MENDONÇA LIMA - Integrante.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Bolsa.Número de produções C, T & A: 1
+2005 - 2007
+PROSET/CT-Info/CNPq - Estudo e Desenvolvimento de Ferramentas para a Engenharia Dirigida por Modelos
+Descrição: Projeto financiado pelo CNPq. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Denivaldo Cicero Pavão Lopes - Coordenador / Alan Porto Bontempo - Integrante / José Geraldo de Sousa Junior - Integrante / BRUNO SEABRA NOGUEIRA MENDONÇA LIMA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4

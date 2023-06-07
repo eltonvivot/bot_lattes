@@ -1,0 +1,7 @@
+2010 - 2012
+Desenvolvimento e Aplicações de Técnicas de Realidade Aumentada em interfaces Tangiveis
+Descrição: Desenvolver e testar técnicas de Realidade Aumentada em superfícies tangíveis do tipo mesa (tabletop). O projeto envolve o teste de varias APIs de Realidade Aumentada como: ARToolKit, FlarToolKit e ARToolKit++. Tinha como foco a plataformas móvel Symbian S60.
+Atualmente optou-se pelo uso da API AndAR para a plataforma móvel Android.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Rodrigues Jorge - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2011
+Desenvolvimento de interface tangível para aplicações multidisciplinares
+Descrição: Descrição: Atualmente há um grande esforço para o desenvolvimento de novas modalidade de interface. Com o principal propósito de tornar a utilização de sistemas computacionais o mais natural possível, as interfaces tangíveis surgem com o grande diferencial de se utilizar a manipulação direta de representações digitais, tornando a experiência menos impactante e extremamente atrativa ao usuário. O presente projeto busca a construção de um protótipo de interface tangível e implementação de técnicas que atuem sobre tal modalidade de interface, visando sua aplicação multidisciplinar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Fábio Rodrigues Jorge - Integrante / Leonardo Castro Botega - Coordenador / Adriel Radicchi - Integrante / Augusto Luengo - Integrante / Kevin Seirey - Integrante.

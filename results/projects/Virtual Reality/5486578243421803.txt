@@ -1,0 +1,90 @@
+2021 - Atual
+Solucoes embarcadas de Deep learning e Edge Computing aplicadas a Industria 4.0
+Descrição: Dentro do paradigma da Industria 4.0, se propõe aqui o desenvolvimento de um sistema embarcado e distribuído, que se comunica via IIoT, para efetivar a detecção de rasgo usando imagens do tapete da correia com uso de algoritmos de Inteligência Artificial.
+Os principais requisitos da implementação são:
+? Operação em tempo real;
+? Processamento e tomada de decisão locais sem dependência de conectividade;
+? Sistema computacional de baixo custo, baixo consumo energético e pequenas dimensões.
+? Uso de blockchain para consolidar a assertividade e a segurança do sistema a partir de contratos inteligentes
+Esses requisitos estão alinhados ao paradigma de Edge Computing, Inteligência Artificial e Blockchain aplicados no contexto da Industria 4.0.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (4) . Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador / KLIPPEL, EMERSON - Integrante / Natalia C Meira - Integrante / Karine Nogueira Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2016 - 2020
+Sistema de Teleoperação para Monitoramento de Correias Transportadoras
+Projeto certificado pela empresa ASSOCIACAO INSTITUTO TECNOLOGICO VALE - ITV em 12/08/2016.
+Descrição: A REDE "Teleoperação Avançada" tem por principal objetivo investigar o problema da operação remota de equipamentos de mineração visando ao aumento da segurança e da produtividade. Assim como os desafios, as tarefas e aplicações específicas das técnicas de teleoperação são bastante diversas. A REDE se propõe a abordar duas questões distintas: A teleoperação de escavadeiras e o monitoramento de correias transportadoras.
+Tais frentes foram priorizadas levando-se em conta a dificuldade técnica de se desenvolver uma escavadeira verdadeiramente autônoma, dada a complexidade inerente da tarefa, e a criticidade das correias transportadoras para as operações da VALE.
+No caso das escavadeiras, a teleoperação parece ser a maneira mais promissora tecnológica e economicamente de reduzir a exposição humana aos riscos associados à operação. O desafio associado às correias transportadoras é diferente e está associado à manutenção desses equipamentos vitais para o transporte do material produzido. Como a estrutura de suporte das correias frequentemente não está no nível do solo, a tarefa de inspeção, seja no porto, seja na mina, muitas vezes implica em trabalho em altura, o que além de aumentar o custo de cada inspeção, aumenta o risco da atividade. A possibilidade de se inspecionar tais estruturas remotamente e de forma automatizada reduz os custos operacionais, viabiliza inspeções mais frequentes, o que por sua vez a prevenir falhas potencialmente catastróficas e perdas operacionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador / Saul Delabrida - Integrante / Rafael Ferreira Vitor - Integrante / D'ANGELO, THIAGO - Integrante / Luis Uzerda - Integrante / Andrea Bianchi - Integrante / Regivaldo Carvalho - Integrante / NASCIMENTO, RICHARDSON - Integrante / Breno Keller - Integrante / Hector Azpurua - Integrante.Número de produções C, T & A: 4
+2016 - Atual
+Automacao para Industria 4.0
+Descrição: Neste projeto sao desenvolvidas frentes de pesquisa sobre automacao para a industria 4.0, abordando o uso de Blockchain, Inteligencia Artificial e Retrofit em novas solucoes de campo para a industria. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador / Celio Marcio Soares Ferreira - Integrante / Charles Garrocho - Integrante / Jorge Sa Silva - Integrante / SILVA, MATEUS - Integrante / Carlos Frederico Marcelo da Cunha Cavalcanti - Integrante / LINS, THEO SILVA - Integrante / Debora Lage Moreira Barbosa - Integrante.Número de produções C, T & A: 15
+2015 - Atual
+Wearable Appliances
+Descrição: Desenvolvimento de pesquisa para computacao vestivel com foco em novas tecnologias vestiveis de baixo custo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (3) . Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador / DELABRIDA, SAUL - Integrante / D'ANGELO, THIAGO - Integrante / Mateus Silva - Integrante / Rodolfo Labiapari Mansur Guimarães - Integrante / RIBEIRO, SERVIO - Integrante / AMORIM, VICENTE J. P. - Integrante.Número de produções C, T & A: 22
+2013 - 2017
+Smart-CPMAT: Configurando edifícios inteligentes com redes de sensores sem fio
+Projeto certificado pelo(a) coordenador(a) Andre Luiz Lins de Aquino em 17/07/2013.
+Descrição: Para a implementação de soluções de monitoramento e controle de um edifício inteligente, podemos utilizar diferentes abordagens, métodos e modelos. No entanto, tais abordagens consideram soluções e validações específicas para cada problema. Devido a essa especificidade, a comparação entre diferentes soluções, técnicas empregadas, a proposição e validação de novas técnicas torna-se uma tarefa difícil. Nessa direção, esse projeto vislumbra o desenvolvimento de um testbed, chamado de Smart-CPMAT, para implantação de diferentes dispositivos presentes num edifício inteligente combinado com a implementação de um arcabouço que possa padronizar e ser utilizado como base para: projeto, desenvolvimento, teste e validação de soluções para o monitoramento de edifícios inteligentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto Rabelo Oliveira - Integrante / Alejandro C Frery - Integrante / André L. L Aquino - Coordenador / Alvaro Rodrigues Pereira Junior - Integrante / Joubert de Castro Lima - Integrante / Frederico Gadelha Guimarães - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Alagoas - Cooperação.
+2012 - 2016
+KITT ? Kit de Infotenimento e Transporte Tecnológico.
+Projeto certificado pela empresa Seva Engenharia Eletrônica em 28/02/2013.
+Descrição: O objetivo deste projeto é criar um framework para integrar hardware e software em um ambiente de infotenimento veicular. Este ambiente é exigido pelos compradores de carros atualmente como um diferencial para o conforto no veículo, além de trazer funcionalidades de interesse privado, como diagnostico remoto do carro. Para descrever este novo tipo de aplicação é usado o termo ?infotenimento para veículos? ? in-vehicle infotainmen ? ou ?IVI?, que é associado a um sistema integrado de informações e entretenimentos veicular, exigido pelos compradores de carros atualmente. Os recursos e aplicações geralmente incluem:
+Entretenimento para o assento traseiro (filmes, jogos, TV, rede social etc)
+Navegação com GPS
+Rádio/CD
+Serviços baseados em localização
+Conectividade   interna para dispositivos móveis
+Comunicações externas via Internet
+O IVI consiste de um computador de bordo, com uma interface confortavel ao motorista e aos passageiros. Propomos neste projeto o uso do sistema operacional Android. O Android oferece novas possibilidades para o desenvolvimento de aplicações, permitindo o uso de um ambiente de desenvolvimento gratuito e aberto a modificações, além de usar o Linux, com código fonte livre. Este fator é essencial para garantir a segurança e confiabilidade do sistema usado no IVI. Além disso, ele possui um conjunto de API que permitem o rápido acesso ao hardware do IVI e coleta de informações da rede de sensores do carro, sem afetar a segurança ou invasões do sistema veicular.  Atualmente os carros começaram a ser fabricados com o suporte a uma rede de sensores interna, chamada de CAN ? Controller Area Network ? a qual permite um relatório completo da situação do carro. O IVI atua como um integrador que comunica com a CAN ao mesmo tempo que permite acesso a internet e entrenimento do carro. O IVI servira como portal de acesso a estes dados, sendo que sua interface deve ser preparada de forma a não prejudicar a direção do carro. Ele também deve permitir. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4) . Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador / Johnnatan Messias - Integrante / Lucas Schmidt - Integrante / Fabricio Benevenuto - Integrante / Ricardo Creonte Câmara de Meira Santos - Integrante / Ricardo Pagoto Marinho - Integrante / SILVA, MAURICIO J. - Integrante.Financiador(es): Seva Engenharia Eletrônica - Auxílio
+										financeiro.Número de produções C, T & A: 40
+2012 - 2016
+Padrões de Projeto Android
+Projeto certificado pela empresa Seva Engenharia Eletrônica em 28/02/2013.
+Descrição: Este projeto tem como objetivo o estudo e criação de padrões de projetos aplicados a computação móvel ciente de contexto. O objetivo especifico será o estudo dos equipamentos portáteis, como tablets e celulares, com o sistema operacional Android e a proposição de uma série de estudos dentro da coleta de informações do contexto do dispositivo. Este contexto é definido como a capacidade de coleta de informações dos sensores e a interação com o usuário.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4) . Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador / Johnnatan Messias - Integrante / Lucas Schmidt - Integrante.Financiador(es): Seva Engenharia Eletrônica - Auxílio
+										financeiro.
+2011 - 2014
+(CIA) - Construindo Cidades Inteligentes: da Instrumentação dos Ambientes ao desenvolvimento de Aplicações
+Descrição: Cidades Inteligentes é um conceito relacionado à oferta de serviços de informação e comunicação para solucionar os problemas dos cidadãos em seus conglomerados urbanos, e de garantir uma melhor gestão pública. Uma cidade inteligente necessita de soluções para vários problemas, como: trânsito, vigilância, atendimento de emergência, monitoramento ambiental, saúde, educação e inclusão digital, bem como permite uma maior eficiência e transparência na gestão pública. Para suportar essas soluções os diversos dados urbanos precisam ser coletados e disseminados através de infraestruturas de comunicação, que por sua vez exigem formas integradas, heterogêneas, e inteligentes de comunicação sem fio. Além disso, tanto a comunicação como as aplicações precisam ser eficientes em energia em situação de sobrecarga e emergência. Neste contexto, o presente projeto se propõe a construir uma infraestrutura de instrumentação, computação e comunicação para viabilização de Cidades Inteligentes, abrangendo desde a aquisição dos dados urbanos brutos por meio de tecnologias de redes de sensores e internet das coisas, a comunicação, o armazenamento, e o acesso a esses dados através de diferentes tecnologias e protocolos de redes sem fio, até a construção de aplicações que se beneficiem de toda essa infraestrutura, suportando uma melhor gestão pública e do meio ambiente e agregando valor ao cidadão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto Rabelo Oliveira - Integrante / Sérgio de Oliveira - Coordenador / Noemi Rodriguez - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2011 - 2013
+AudiInfo - informação personalizada em forma de áudio via Web
+Descrição: O AudiInfo consistirá de um sistema com múltiplas funcionalidades e com um grande objetivo: levar informação personalizada em forma de áudio para usuários Web. O AudiInfo permitirá que seus usuários ouçam músicas, estações de rádio tradicionais, canais de rádio de outros usuários e textos pela Web. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador / Alvaro Rodrigues Pereira Junior - Integrante / Tiago Garcia de Senna Carneiro - Integrante / Joubert de Castro Lima - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2013
+Um arcabouço para monitoramento de minas utilizando redes de sensores sem fio Edital Fapemig 01/2009 - Universal - Processo APQ-00577-09
+Descrição: Este projeto consiste no desenvolvimento de um arcabouço para aquisição de dados em minas utilizando redes de sensores sem fio. Esse arcabouço prevê um conjunto de soluções para o problema de aquisição de dados, inferência, manutenção e gerenciamento das minas utilizando as redes de sensores. Basicamente, o arcabouço define quatro etapas para o desenvolvimento de uma solução de monitoramento: (i) definição de um modelo conceitual para a caracterização das aplicações de minas; (ii) definição de benchmarks para o projeto da rede em ambientes de mineração, visando a caracterização e adequação das tecnologias de comunicação, processamento e armazenamento; (iii) a disponibilização de uma API com as soluções de infraestrutura da rede e processamento dos dados, os algoritmos disponíveis na API serão validados através de mecanismos estatísticos e/ou modelos de simulação; e (iv) um processo para implantação das soluções em ambientes reais. O desenvolvimento desse arcabouço possui diversos desafios, dentre eles podemos destacar: (i) o desenvolvimento de uma solução inovadora para a área de mineração; (ii) o desenvolvimento de um sistema de aquisição de dados e supervisão de uma mina através da utilização da tecnologia de redes de sensores; e (iii) o desenvolvimento de software embarcado através da utilização de sensores nos diferentes ambientes das minas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto Rabelo Oliveira - Integrante / Alejandro C Frery - Integrante / André L. L Aquino - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2010 - 2013
+?Cloud Tourism - Desenvolvimento de framework de aplicações turisticas usando computação ubiqua na cidade de Ouro Preto?
+Descrição: A computção ubíqua é caracterizada pela presença de dispositivos portáteis com uma considervel capacidade de processamento, com recursos para comunicao sem fio e armazenamento de dados. Esses dispositivos se popularizaram como handhelds, PDAs, e, atualmente, como smartphones e celulares de grande capacidade computacional. Esses dispositivos vêm sendo usados em aplicações que envolvem indústria, medicina, uso pessoal, etc. Assumindo essa popularidade, a proposta deste projeto baseada no desenvolvimento de um framework para criação de aplicações móveis de apoio ao turista na cidade de Ouro Preto. Essas aplicações devem usar os recursos disponíveis nestes dispositivos portáteis aliando com uma infra-estrutura de comunicação sem fio existente. Este projeto contempla o desenvolvimento de um sistema de acesso ao turista utilizando a tecnologia Bluetooth, com a oferta de serviços e informações online de acordo com o perfil e interesses do turista. O sistema combinar tecnologias de computação móvel com uma estrutura de rede sem fio para apresentar aos visitantes informções adaptadas aos seus contextos pessoais e ambientais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Ricardo Augusto Rabelo Oliveira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2007 - 2009
+Projeto Mobilis
+Descrição: Edital CNPq 027/2006 processo no. 490817/2006-8
+Objetivos gerais e específicos da proposta
+7.1 Objetivos gerais
+Este projeto tem como objetivos gerais:
+? Integrar grupos brasileiros da área de computação ubíqua, juntamente com o grupo
+alemão;
+? Projetar, desenvolver e avaliar um middleware que pode ser usado no
+desenvolvimento de soluções para computação ubíqua;
+? Projetar e avaliar um estudo de caso desse middleware
+Os objetivos específicos deste projeto são:
+? Estimular a integração de pesquisadores e alunos de pós-graduação e graduação
+das instituições executora, co-executora e colaboradoras que têm interesse na área
+de computação ubíqua;
+? A partir das experiências e resultados já obtidos dos grupos brasileiros e alemão,
+pretende-se projetar, desenvolver e avaliar um middleware que pode ser usado no
+desenvolvimento de soluções para computação ubíqua, considerando o contexto;
+? Disponibilizar esse middleware para a comunidade acadêmica onde poderá ser
+usado para o ensino e pesquisa;
+? Projetar e avaliar como estudo de caso desse middleware um serviço de notificação
+como mostrado na figura 2;
+? Formar nos próximos dois anos, pelo menos quatro alunos de doutorado e quatro
+de mestrado das instituições brasileiras participantes do projeto;
+? Publicar nos próximos dois anos, pelo menos seis trabalhos em periódicos
+internacionais e pelo menos 12 em conferências internacionais ? todos eles em
+bons veículos de qualidade. Essas publicações devem refletir a cooperação
+internacional;
+? Publicar um livro em inglês sobre o tema deste projeto. Em particular este objetivo
+já foi discutido em uma conferência via Internet entre os membros do Brasil e da
+Alemanha e, possivelmente, vamos começar a trabalhar nesse projeto muito em
+breve.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4)  / Doutorado: (4) . Integrantes: Ricardo Augusto Rabelo Oliveira - Integrante / Antonio Alfredo Loureiro - Coordenador / Rainer Pereira Couto - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.

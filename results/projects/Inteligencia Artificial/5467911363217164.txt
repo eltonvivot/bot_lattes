@@ -1,0 +1,58 @@
+2009 - 2013
+MCAL - Mixed-Content Automatic Layout
+Descrição: Atualmente, o processo de distribuição de conteúdo em uma página impressa é uma
+tarefa dos editores e diagramadores. Apesar de algumas aplicações oferecerem ferramentas
+para dar suporte a este processo, e de já existirem publicações no sentido de suprir estas
+necessidades, o trabalho ainda não é completamente automático.
+Tentando aumentar a automatização destas tarefas, em 2008 o projeto APL (Automatic Page
+Layout) apresentou um algoritmo capaz de diagramar conteúdo em uma ou mais página de
+jornal. Considerando o algoritmo desenvolvido, o projeto MCAL tem os seguintes objetivos
+para o ano de 2009:
+- Estudar variações sobre o problema originalmente estudado: realizar a distribuição
+respeitando áreas reservadas na página para itens especiais (cabeçalhos e rodapés, por
+exemplo); fazer escolha automática entre conteúdos opcionais, ou seja, adaptar a
+quantidade de conteúdo ao tamanho de página disponível; permitir uma distribuição
+balanceada do conteúdo obtido de várias fontes em várias páginas (por exemplo, para uma
+aplicação blog-to-print ou mail-to-print); permitir uma fácil configuração do algoritmo
+para gerar a saída de acordo com as necessidades especificadas;
+- Definição da infra-estrutura para construção dos algoritmos a serem experimentados;
+- Definição das abordagens de distribuição de conteúdo a serem exploradas;
+- Prototipagem das abordagens;
+- Teste e avaliação das estratégias propostas;
+- Validação das estratégias e divulgação dos resultados em congressos de renome desta área
+de pesquisa.
+Estes objetivos devem ser atingidos através da adaptação dos algoritmos que já foram
+desenvolvidos no ano de 2008. Essencialmente, deve-se continuar usando algoritmos gulosos
+ou algoritmos baseados em programação dinâmica, que tem apresentado a melhor combinação de
+qualidade de resultados e eficiência. Estas adaptações devem ser apoiadas em prototipação
+e teste das abordagens, comparando-se seus resultados e eficiência. Além. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Joao Batista Souza de Oliveira - Integrante / Isabel Harb Manssour - Coordenador / Ricardo Farias Bidart Piccoli - Integrante / Mauricio Souza Klein - Integrante / Alexandre Kazuo Seki - Integrante / Aline Duarte Riva - Integrante / Felipe Castilhos - Integrante.Financiador(es): Hewlett-Packard Brasil - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2008 - 2009
+APL - Automatic Page Layout
+Descrição: O projeto tem por objetivo desenvolver algoritmos capazes de distribuir itens em uma página de dispositivo de saída, dispondo-os de forma automática. Restrições de posicionamento e de aspect ratio devem ser respeitadas, e toda a área da página deve ser utilizada. Ilustrações também devem ser suportadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Joao Batista Souza de Oliveira - Integrante / Isabel Harb Manssour - Coordenador / Ricardo Farias Bidart Piccoli - Integrante / Mauricio Souza Klein - Integrante / Alexandre Kazuo Seki - Integrante.Financiador(es): Hewlett Packard Brasil S A - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2003 - 2006
+CPSE - Centro de Pesquisa em Software Embarcado
+Descrição: Este projeto tem por finalidade desenvolver tecnologias em duas areas de aplicacao distintas:
+-- Desenvolvimento de tecnologia para aplicacoes em redes sem fio (wireless)
+-- Pesquisa de solucoes na area de producao de documentos digitais, especialmente
+documentos de conteudo dinamico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2) . Integrantes: Joao Batista Souza de Oliveira - Integrante / Paulo Henrique de Souza Schneider - Integrante / Andrei Oliveira da Silva - Integrante / Daniel Waldman - Integrante / Fabricio D'Avila Cabral - Integrante / Ana Cristina Benso da Silva - Coordenador / Felipe Rech Meneguzzi - Integrante / Leonardo Luceiro Meirelles - Integrante / Fernando Tarla Martins Mano - Integrante.Financiador(es): Hewlett Packard Brasil S A - Cooperação.Número de produções C, T & A: 5
+2003 - 2006
+Visualizacao de grafos em escala
+Descrição: Este projeto se propõe a estudar o problema da visualização de
+conjuntos de dados que não tem um representação visual
+intrínseca, tais como tuplas de valores sem uma sequência
+temporal e sem uma interpretação física direta. Isto será feito
+através da aplicação de técnicas de otimização contínua onde uma
+função descrevendo a desorganização dos dados é minimizada para
+que a representação visual a ser obtida seja a mais organizada
+possível. Especificamente, espera-se que padrões existentes nos
+dados sejam tornados perceptíveis depois da etapa de
+pré-processamento através da otimização. Depois de reconhecidos
+os padrões, este conhecimento será usado na produção de imagens
+representando os dados e seus relacionamentos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Joao Batista Souza de Oliveira - Coordenador / Paulo Henrique de Souza Schneider - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+1997 - 1999
+Aplicacoes de Informatica em Controle Automatico
+Descrição: Este projeto visa estudar aplicacoes de algoritmos de otimizacao global na
+area de controle eletrico e determinar a eficiencia deste tipo de abordagem
+a problemas de controle.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Joao Batista Souza de Oliveira - Coordenador / Edward Scott Meadows Junior - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.

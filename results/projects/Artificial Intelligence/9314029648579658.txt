@@ -1,0 +1,101 @@
+2022 - Atual
+FAPERJ Cientista do Nosso estado - Utilização Eficiente de Nuvens Computacionais como Alternativa Econômica para Computação de Alto Desempenho
+Descrição: Aplicações estratégicas para o país, como as da  área de petróleo, meteorologia e biologia, dependem de computação de alto desempenho (High Performance Computing - HPC) para processar grandes quantidades de dados. 
+Nuvens computacionais têm surgido como uma alternativa de baixo custo para HPC, oferecendo um conjunto de recursos virtualizados que podem ser rapidamente provisionados e dinamicamente escalonáveis. Porém, ainda existem diversas barreiras para seu uso. Uma delas está em fazer uso eficiente e escalável dos recursos e da alocação das máquinas virtuais (MVs), o que produz impacto direto no desempenho e no custo financeiro. Além disso, as nuvens são  propensas a falhas e para satisfazer os acordos de nível de serviço, a tolerância a falhas de MVs em nuvens é uma grande preocupação. 
+Um outro aspecto importante das nuvens no contexto de  computação de alto desempenho  é a oferta de Graphics Processing Units (GPUs) nesses ambientes. 
+ GPUs provaram ser uma plataforma poderosa e eficiente para acelerar uma grande classe de aplicativos com uso intensivo de computação. Por esse motivo, muitos datacenters de larga escala são baseados em arquitetura heterogênea, que inclui CPUs e GPUs, para atender aos requisitos de alto desempenho e throughput de dados. Seguindo essa tendência,  as GPUs também estão sendo usadas em nuvens computacionais. A exploração de GPUs nas nuvens, por meio da virtualização da GPU, permite que dispositivos físicos sejam logicamente desacoplados de um nó computacional e compartilhados por qualquer aplicativo, resultando em redução de custos monetários, economia de energia e mais flexibilidade.
+Nesse cenário, o compartilhamento eficiente de uma GPU por diferentes aplicativos é um recurso indispensável.  fim de  permitir melhor aproveitamento do uso das GPUs, é necessário tratar a questão da concorrência  e escalonamento de kernels neste ambiente.Nesse contexto, este  projeto   trata das questões de gerências de recursos, CPUs e GPUs.
+inicio 23 de maio de 2022. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador.
+2022 - Atual
+Univesal CNPQ Otimização de Custos Computacionais de Aplicações de Alto Desempenho de Bioinformática em Nuvens de Computadores
+Descrição: inicio em 24 de marco de 2022, fim em 31 de marco de 2025 - Faixa B - Grupos consolidados
+Aplicações de importância estratégica nacional, como empregadas na indústria de Petróleo e Gás, meteorologia e áreas
+de biodiversidade e saúde, dependem de Computação de Alto Desempenho (High Performance Computing - HPC) para
+fornecer resultados precisos rapidamente. Muitos problemas atuais dependem cada vez mais da manipulação de volumes
+de dados sem precedentes, o que torna a solução em tempo hábil cada vez mais desafiador e caro.
+Bem estabelecida na área de serviços distribuídos, oferecendo conjuntos pré-configurados de instâncias virtualizadas
+que podem ser facilmente provisionadas e dimensionadas dinamicamente sob demanda, a computação em nuvem se
+transforma continuamente, sendo uma alternativa mais barata do que centros de computadores convencionais. Ao
+compartilhar recursos, as nuvens oferecem aos usuários diversas vantagens em relação a uma infraestrutura dedicada,
+em particular, uma redução significativa de custos, acesso a hardware de última geração e nenhuma preocupação com
+manutenção. No entanto, apesar das vantagens, uma série de desafios ainda precisam ser enfrentados, incluindo:
+escolha e adaptação .de conjuntos apropriados de instâncias para maximizar desempenho; como tornar a execução da
+aplicação impermeável à interferência devido ao compartilhamento de recursos na nuvem.
+Este projeto visa aprimorar o gerenciamento de execução de aplicações HPC na nuvem. Usando aplicações de
+bioinformática como estudo de caso, o projeto foca em aspectos que impactam no desempenho e custo financeiro sem
+violar acordos de nível de serviço, incluindo: a adoção da elasticidade vertical de recursos para o uso eficiente e
+escalável de cada instância virtual(máquinas virtuais ou containers); o escalonamento dinâmico de tarefas da
+aplicação nas instâncias virtuais, e; robustez por meio de mecanismos de tolerância a falhas para lidar com falhas
+ou revogações de recursos de nuvem.A computação em nuvem mais eficiente beneficia provedores, usuários, sociedade e
+meio ambiente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (5) . Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador / Eugene Francis Vinod Rebello - Integrante / Boeres, Cristina - Integrante / Alba Cristina  M. A. de Melo - Integrante / daniel oliveira - Integrante / edson borin - Integrante.
+2020 - 2022
+BioCloud ? Um Framework para Execução Eficiente de Aplicações de Biotecnologia em Múltiplas Plataformas da Nuvem AWS
+Descrição: O presente projeto de pesquisa visa resolver o problema de alocação e gerência de recursos na nuvem Amazon AWS para aplicações HPC de biotecnologia, minimizando o tempo de execução e maximizando a disponibilidade, sem violar acordos de SLAs, de modo a executar aplicações eficientemente e com custos financeiros menores para o usuário. Nesse sentido, serão consideradas tanto instâncias permanentes (on demand) como transientes (spot), bem como múltiplos tipos de recursos computacionais (CPU, GPU e FPGA), aumentando o leque de alternativas explorado. O uso coordenado destas múltiplas instâncias será gerenciado numa forma dinâmica e autônoma. Neste sentido, será investigado o uso de agentes inteligentes para auxiliar nas decisões de elasticidade (tanto horizontal quanto vertical). Em termos do modelo de computação em nuvens públicas, além do uso só de máquinas virtuais, será estudado a viabilidade do uso de containers dentro das instâncias em comparação com implementações utilizando os serviços de containers e de kubernetes já oferecidos pelo próprio AWS e o conceito de serverless computing com AWS Fargate versus AWS Lambda. Porém, as diferentes abordagens, tecnologias, e instâncias estarão ?escondidas? do usuário final através de um gateway científico (portal web) com um gerenciador de workflows atrelando os recursos necessários da nuvem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (4) . Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Eugene Francis Vinod Rebello - Integrante / Bentes, C. - Integrante / Boeres, Cristina - Integrante / Maria Emília Machado Telles Walter - Integrante / alba cristina magalhâes alves de melo - Coordenador.
+2019 - Atual
+FAPERJ APQ 1 - Gerência de Recursos em  Nuvens Computacionais para Execução de Aplicações de Alto Desempenho
+Descrição: Aplicações estratégicas para o país, como as da  área de petróleo, meteorologia e biologia, dependem de computação de alto desempenho  (HPC) para processar grandes quantidades de dados. Nuvens computacionais têm surgido como uma alternativa de baixo custo para HPC, oferecendo um conjunto de recursos virtualizados que podem ser rapidamente provisionados e dinamicamente escalonáveis. Porém, ainda existem diversas barreiras para seu uso. Uma delas está em fazer uso eficiente e escalável dos recursos e da alocação das máquinas virtuais (MVs), o que produz impacto direto no desempenho e no custo financeiro. Além disso, as nuvens são  propensas a falhas e para satisfazer os acordos de nível de serviço, a tolerância a falhas de MVs em nuvens é uma grande preocupação.Um outro aspecto importante das nuvens no contexto de  computação de alto desempenho  é a oferta de Graphics Processing Units (GPUs) nesses ambientes. 
+ GPUs provaram ser uma plataforma poderosa e eficiente para acelerar uma grande classe de aplicativos com uso intensivo de computação. Por esse motivo, muitos datacenters de larga escala são baseados em arquitetura heterogênea, que inclui CPUs  multicore e GPUs, para atender aos requisitos de alto desempenho e throughput de dados. Seguindo essa tendência,  as GPUs também estão sendo usadas em nuvens computacionais. A exploração de GPUs nas nuvens, por meio da virtualização da GPU, permite que dispositivos físicos sejam logicamente desacoplados de um nó computacional e compartilhados por qualquer aplicativo, resultando em redução de custos monetários, economia de energia e mais flexibilidade.
+Nesse cenário, o compartilhamento eficiente de uma GPU por diferentes aplicativos é um recurso indispensável.
+Ainda assim, as GPUs não são dispositivos multiprogramados com um sistema operacional como as CPUs.  A fim de  permitir melhor aproveitamento do uso das GPUs, é necessário tratar a questão da concorrência  e escalonamento de kernels neste ambiente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (3) . Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador.Financiador(es): FAPERJ - Outra.
+2018 - Atual
+CAPES PRINT - Gerência de Recursos em Nuvens para Execução de Aplicações de Alto Desempenho
+Descrição: Projeto CAPES PRINT - O projeto visa resolver o problema de alocação e gerência de recursos em nuvens de computadores para aplicações HPC, minimizando o tempo de execução, consumo de energia e maximizando a tolerância a falhas, sem violar acordos de nível de serviço (SLA), e usando aplicações da biologia como estudo de caso. Tradicionalmente a computação em nuvem tem sido usada para compartilhamento de dados e serviços de uso geral, entretanto esta também tem aparecido como uma alternativa promissora para executar aplicações de HPC (High Performance Computing), mais recentemente. Este paradigma computacional oferece diversas vantagens quando comparado a uma infraestrutura dedicada, tais como o rápido provisionamento de recursos e significativa redução de custos operacionais.
+Entretanto, alguns desafios devem ser superados para reduzir a diferença entre o desempenho oferecido por uma infraestrutura dedicada e pelas nuvens. Overheads introduzidos pela camada de virtualização, heterogeneidade de hardware e altas latências de rede afetam negativamente o desempenho da aplicações HPC. Além disso, provedores de nuvens, geralmente adotam políticas de compartilhamento de recursos que podem reduzir ainda mais o desempenho de tais aplicações. Tipicamente, um servidor físico pode hospedar várias máquinas virtuais que podem causar contenção no acesso a recursos compartilhados, como cache e memória principal, reduzindo significativamente seus desempenhos.
+Além disso, a seleção de máquinas virtuais e sua configuração manual é tarefa bastante complexa para cientistas que desenvolvem aplicações HPC e não são experts em ferramentas de administração de nuvens. Os escalonadores de aplicações que possuem diversas políticas que variam de acordo com a função objetivo como minimizar o tempo de execução total, minimizar a demanda por energia, mantendo uma garantia de nível de serviço com o usuário, entre outras, tem papel fundamental para garantir a eficiência da execução de tais aplicações. A fim de alavancar o uso de nuvens para execução de aplicações HPC, este projeto visa tratar esses diversos aspectos. A importância do uso de nuvens para execução de aplicações HPC, pode ser observada por algumas iniciativas, tal como o UberCloud, que tem oferecido serviço de HPC na nuvem, onde os usuários podem discutir a experiência de usar tal ambiente. Como estudo de caso consideramos principalmente experimentos na área de bioinformática e, em especial, a genômica comparativa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador / Cristina Boeres - Integrante / Eugene Francis Vinod Rebello - Integrante / José Viterbo Filho - Integrante / Eduardo Uchoa - Integrante / Artur Pessoa - Integrante / claude tadonki - Integrante / FROTA, YURI - Integrante / DE OLIVEIRA, DANIEL - Integrante / Igor Monteiro Moraes - Integrante.
+2012 - 2015
+Program STIC-AmSud - Federated Cloud Computing for Bioinformatics: Infrastructure, Algorithms and Applications
+Descrição: Institutions
+Université Paris-Sud/INRIA-Saclay, France
+Coordinator: Christine Eisenbeis
+Mines ParisTech, France
+Coordinator: Claude Tadonki
+Universidade de Brasilia, Brazil
+Coordinator: Maria Emília Machado Telles Walter
+Universidade Federal Fluminense, Brazil
+Coordinator: Lúcia Drummond
+EMBRAPA-Genetic Resources and Biotechnology (CENARGEN), Brazil
+Coordinator: Roberto Coiti Togawa
+Universidad de Santiago de Chile, Chile
+Coordinator: Mario Inostrosa-Ponta
+International Project Coordinator: Maria Emília Machado Telles Walter
+		Bioinformatics is an interdisciplinary field that involves computer science, biology, mathematics and statistics [Mount04]. Its main goal is to analyze biological sequence data and genome content in order to obtain the function/structure of the sequences as well as evolutionary information, among others. Due to astonishing advances in the DNA sequencing techniques, genomic sequences have been obtained in an extremely high rate in recent years. These sequences are stored into large genomic databases, for further analysis. 
+		One of the main problems of Bioinformatics today is how to process genomic data at the rate it is being produced. Usually, Bioinformatics applications are modeled as workflows that combine the execution of several tasks according to the purposes of each project. Some of the tasks composing a workflow are very often processed at different laboratories and therefore collaborative techniques are highly desirable.
+		In this scenario, cloud computing appears as a very attractive solution for executing Bioinformatics applications efficiently and cooperatively. Cloud computing delivers an infrastructure, platform and/or software as services that are available to consumers in a pay-as-you-go model, similar to the way in which we currently obtain services from public utility services such as the electrical grid. As benefits of the cloud computing paradigm, we can cite: (i) low operation cost due to pay-. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Maria Emília Machado Telles Walter - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2012 - 2015
+Visualização científica aplicada a área de Petróleo
+Descrição: Projeto FAperj Pensa-RIO. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador / Criistiana Bentes - Integrante / Ricardo Farias - Integrante.
+2010 - 2012
+Denvolvimento de Aplicações e Técnicas de Otimização de Desempenho para Novas Arquiteturas com Multi e Many-cores
+Descrição: Projeto Universal CNPq. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador / Cristiana Bentes - Integrante / Ricardo Farias - Integrante.
+2009 - 2011
+Cultivando colaborações em grades computacionais para alavancar avanços científicos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Felipe França - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2009 - 2011
+Projeto Integrado de Aplicações de Geofísica para as Arquiteturas Atuais de Processamento de Alto Desempenho
+Descrição: Este projeto faz parte de um convênio UFF-Petrobrás e tem como objetivo principal  aperfeiçoar a versão paralela de uma  aplicação já existente no CENPES, que modela a propagação de ondas sísmicas. Neste sentido, a equipe envolvida atuará tanto na otimização dos procedimentos da aplicação alvo, particularmente no que diz respeito ao aproveitamento das diferentes tendências atuais em computação de alto desempenho, quanto na proposta e implementação de novos procedimentos que tornem a modelagem computacional mais precisa, robusta e eficiente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Cristina Boeres - Coordenador / Alexandre Domingues Gonçalves - Integrante / Bernardo B. Labronici - Integrante.Financiador(es): Petrobrás - Cooperação.
+2008 - 2010
+Projeto Pesquisa do Edital CAPES - Procad Novas Fronteiras 01/2008
+Descrição: Projeto de Pesquisa entre o IC-UFF , DE & DCC-UFPB e UFPE: Otimização de consultas espaciais baseada em ontologias e clusterização. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Luiz S Ochi - Coordenador / Lucídio Cabral Formiga - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2009
+Projeto FAPERJ Pensa-Rio "Redes em Malha e Comunicação em Grupo como Suporte à Inclusão Digital no Estado do Rio de Janeiro"
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador / Célio Vinícius Neves de Albuquerque - Integrante.
+2006 - 2008
+Projeto FAPERJ APQ1 "Algoritmos Distribuídos Aplicados a Problemas de Otimização Combinatória"
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Lúcia Maria de Assumpção Drummond - Coordenador / Anna D. Santos - Integrante.
+2005 - 2007
+Integridade -Desenvolvimento em Middleware pra Grids Computacionais sobre a Rede GIGA - patrociando pela RNP (PROJETO GIGA)
+Descrição: A minha parte do projeto trata do desenvolvimento de aplicações distribuídas para soluções de problemas de otimização combinatória considerando os problemas de balanceamento de carga e tolerância a falhas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Eugene Francis Vinod Rebello - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2002 - 2008
+Projeto Universal: Estruturas Aleatórias e Transições de Fase em  Sistemas Computacionais
+Descrição: A minha parte no projeto consiste  em desenvolver um modelo baseado em  autômatos celulares para resolver o problema de Clusterização. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Valmir C Barbosa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2002 - 2004
+Projeto CTINFO: Tecnologias Avançadas de Computação para Segurança Pública
+Descrição: A minha contribuição no projeto foi desenvolver modelos de autômatos celualres seqüenciais e paralelos para simução de problemas sociais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Virgílio Almeida - Coordenador.Financiador(es): Financiadora de Estudos e Projetos / FINEP - Auxílio
+										financeiro.
+1996 - 1999
+Projeto PAIOL: Parallelism, Artificial Intelligence and Implementation of Logic - Rede COOPERNET-Programa ALFA
+Descrição: Projeto de Pesquisa do Programa ALFA (America Latina Formação Academica) em colaboração com a Comunidade Européia. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lúcia Maria de Assumpção Drummond - Integrante / Luiz S Ochi - Coordenador.

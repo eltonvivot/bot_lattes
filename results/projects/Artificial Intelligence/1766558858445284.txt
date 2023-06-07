@@ -1,0 +1,106 @@
+2021 - Atual
+Centro de Pesquisa em Inteligência Artificial Brazilian Institute of Data Science (BI0S)
+Descrição: O Centro de Pesquisa em Inteligência Artificial - Brazilian Institute of Data Science (BI0S) tem como principal objetivo contribuir com o desenvolvimento científico-tecnológico e social em duas áreas estratégicas no plano nacional: Saúde (trilha focal) e Agropecuária (Agro, trilha secundária). Na Trilha Saúde, o foco de atuação do BI0S se dará no enfrentamento de problemas associados à saúde da mulher nos diversos momentos de seu ciclo de vida. Numa primeira etapa, os principais problemas que serão abordados estão relacionados à morte materna e neonatal e à mortalidade precoce de mulheres por doenças preveníveis e potencialmente curáveis, como o câncer de colo e câncer de mama. Na trilha Agro, o objetivo principal é ampliar a disponibilidade e a qualidade de informações úteis para a tomada de decisões na agropecuária, tanto em escala local como regional, ou mesmo global, com soluções para a agricultura de precisão, e abordando também problemas tais como os impactos das mudanças climáticas. Além das trilhas Saúde e Agro, o BI0S conta com uma trilha de Método, cujo objetivo é subsidiar as frentes de aplicação com ferramentas de IA. Finalmente, cabe destacar que a atuação em duas trilhas temáticas posiciona o BI0S como um centro capaz de abordar problemas transversais de grande interesse atual e que se encontram na fronteira entre as trilhas Saúde e Agro, como as relações entre uma determinada estratégia de cultivo e seus efeitos na saúde humana.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Integrante / Leonardo Martins - Integrante / Alexandre Gori Maia - Integrante / Marcelo Pereira da Cunha - Integrante / Rodrigo Lanna F. Silveira - Integrante / Ivette Luna - Integrante / João Marcos Travassos Romano - Coordenador / Henrique Sarp - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2020 - Atual
+Modelo de Inferência baseado em Regras Nebulosas para Previsão de Dados Simbólicos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador.
+2020 - Atual
+Towards a mechanistic and multi-scale understanding of the Amazon resilience to droughts
+Descrição: O objetivo principal do projeto é criar um framework de qualificação e quantificação da resiliência da Amazônia à seca, a partir de um aprofundamento do conhecimento que existe sobre a resposta de diferentes espécies da floresta à seca em diferentes escalas temporais. Para alimentar este objetivo, o projeto é dividido em três partes: 1) trabalho de campo para a coleta de dados de campo na Floresta Nacional de Tapajós, em Santarém (PA); 2) modelagem de processos e interações entre solo-planta-atmosfera; 3) elaboração do framework utilizando os resultados de 1 e 2.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Integrante / Marina Hirota - Coordenador / Rodrigo Rocha - Integrante / Flávia Marquitti - Integrante / Bernardo M. Flores - Integrante / Cleiton Eller - Integrante / Adriane Esquivel-Muelbert - Integrante / Leandro Giacomin - Integrante / Rafael S. Oliveira - Integrante / Peter Groenendijk - Integrante / Guilherme Mazzochini - Integrante / Ying Fan - Integrante / Caio Mattos - Integrante / Gonzalo Miguez-Macho - Integrante.
+2017 - 2019
+Modelagem Nebulosa Adaptativa Aplicada à Séries Temporais Intervalares
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2015
+Sistemas Evolutivos Aplicados a Modelos Econômicos e Financeiros
+Descrição: O objetivo deste projeto de pesquisa é desenvolver novas contribuições na área de modelagem de sistema dinâmicos não lineares usando sistemas fuzzy. Especial atenção será dada ao desenvolvimento de uma classe de algoritmos e técnicas de análise para modelagem adaptativa. Mais especificamente, o objetivo do projeto é desenvolver algoritmos evolutivos associados aos sistemas fuzzy, pois estes algoritmos definem de forma autônoma a estrutura dos modelos simultaneamente ao ajuste dos parâmetros sendo, portanto, abordagens promissoras para a construção de modelos não-lineares e adaptativos. O projeto também objetiva a aplicação desses novos algoritmos à modelagem econômica e financeira.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2012
+Sistemas Evolutivos Aplicados a Modelos Econômicos e Financeiros
+Descrição: Projeto de pós-doutorado desenvolvido no Machine Intelligence Institute, Iona College, NY, USA, em 2012, sub a supervisão do Prof. Dr. Ronald R. Yager.
+Este projeto tem como objetivo o estudo e análise de modelos dinâmicos aplicados a modelos econômicos e financeiros. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador / Ronald Yager - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2010 - 2012
+Uma Análise da Relação entre Crescimento Econômico e Desenvolvimento dos Mercados Financeiros e de Capitais no Brasil
+Descrição: A relação entre o desenvolvimento dos mercados financeiros e de capitais e o crescimento econômico se constitui em tema amplamente apresentado na literatura econômica. Apesar de ser esta relação comprovada empiricamente por diversos estudos, não existe consenso a respeito da direção de causalidade. O objetivo do trabalho aqui proposto é aprofundar a análise da relação entre desenvolvimento financeiro, em especial do mercado de capitais, e crescimento econômico no Brasil. Para tanto, serão realizados procedimentos econométricos de séries temporais, no que tange a análise de co-integração e testes de causalidade de Granger.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rosangela Ballini - Coordenador / Mendonça, A. R. R. - Integrante / Rodrigo Lanna F. Silveira - Integrante / Ivette Luna - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+Modelo de Otimização do Despacho Interligado Nacional
+Descrição: O objetivo do projeto é implementar e testar uma política operativa baseada em modelo determinístico a usinas individualizadas alimentado por previsão de vazões para a operação energética de médio prazo do Sistema Interligado Nacional (SIN). O modelo, denominado ODIN (Otimização do Despacho Interligado Nacional), é baseado em modelagem determinística, individualizada e não-linear, sendo uma alternativa metodológica ao modelo NEWAVE que é estocástico, equivalente e linearizado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (5) . Integrantes: Rosangela Ballini - Integrante / Marinho Andrade - Integrante / Makoto Kadowaki - Integrante / Secundino  Soares - Coordenador / Takaaki Ohishi - Integrante / Ricardo Menezes Salgado - Integrante / Mônica de Souza Zambelli - Integrante / Luna, Ivette - Integrante.
+2010 - 2012
+Sistemas Adaptativos Fuzzy em Modelagem, Controle e Otimização de Processos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: Rosangela Ballini - Integrante / Fernando Antonio Campos Gomide - Coordenador.
+2010 - 2012
+CONSTRUÇÃO DE CARTEIRAS DE AÇÕES COM DIFERENTES ESTRATÉGIAS:  UM ESTUDO COM AÇÕES BRASILEIRAS NO PERÍODO DE 1996 A 2009
+Descrição: Bolsas No País/Iniciação Científica - Edital MCT/CNPq no. 12/2010 IC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rosangela Ballini - Coordenador / Felipe Muller Ziliotti - Integrante / Tainara Farias Vieira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2010
+Recurrent fuzzy neural computation: Modeling, learning and application
+Descrição: Processo No. 2010/06871-5
+Programas Regulares/Auxílio Financeiro/Participação em Reunião Científica ou Tecnológica/ Reunião no Exterior - Fluxo Contínuo. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador / Fernando Antonio Campos Gomide - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2009 - 2012
+Modelagem Fuzzy Funcional Evolutiva Para Previsão de Séries Temporais
+Descrição: Este projeto de pesquisa visa dar continuidade ao trabalho que vem sendo
+realizado ao longo dos últimos anos na investigação de modelos de redes neurais e 
+sistemas fuzzy, visando desenvolver modelos capazes de descrever sistemas dinâmicos não-lineares. Especial atenção foi dada aos algoritmos evolutivos associados aos modelos neurais e fuzzy, pois estes algoritmos  definem de forma automática a estrutura dos modelos e a atualização dos parâmetros sendo, portanto,
+promissoras abordagens para a construção de modelos não-lineares e adaptativos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2009
+Modelagem Preditiva de Variáveis Causais Para Demanda de Energia Elétrica
+Descrição: Trabalho técnico e científico na área de sistemas de energia elétrica, visando a previsão do consumo de energia por classe de consumo, no estado da Bahia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Rosangela Ballini - Coordenador / Ivette Luna Huamaní - Integrante / Luciana Martinez - Integrante / Elias de Oliveira Sampaio - Integrante / Regina Lúcia Pires Moreira - Integrante / Márcio Berbert Voss - Integrante / Vinícius de Campos Cerqueira - Integrante / Vinícius Fantini Ferreira - Integrante / Marcelli Mariano de Oliveira - Integrante / Ricardo Geoffroy - Integrante.Financiador(es): Companhia de Eletricidade do Estado da Bahia - Auxílio
+										financeiro.
+2007 - 2009
+Metodologia e Técnicas de Geração de Cenários
+Descrição: Este projeto visa apresentar propostas de metodologias para a geração de cenários, recuperando com isso a literatura contemporânea sobre o assunto e, ao mesmo tempo, sistematizando a experiência da proponente em trabalhos técnicos de previsão. Assim, a proposta consiste em combinar uma reflexão conceitual sobre a incerteza e o planejamento com a demonstração de técnicas auxiliares na organização e na sistematização das informações. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2008
+Previsão do Despacho de Geração por Patamar de Carga
+Projeto certificado pelo(a) coordenador(a) Secundino Soares Filho em 10/03/2014.
+Descrição: Trabalho técnico e científico na área de sistemas de energia elétrica, visando a previsão do despacho de geração por patamar de carga em base semanal das usinas do sistema interligado nacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Rosangela Ballini - Integrante / Makoto Kadowaki - Integrante / Secundino  Soares - Coordenador / Takaaki Ohishi - Integrante / Ivette Luna Huamaní - Integrante / Mônica de Souza Zambelli - Integrante / Leonardo Martins - Integrante.
+2005 - 2006
+Novas Abordagens Metodológicas nos Estudos de Mercado a Curto, Médio e Longo Prazos
+Descrição: Trabalho técnico e científico na área de sistemas de energia elétrica com o objetivo de implementar um Sistema de Análise  de Mercado (SAM) para a CPFL permitindo estudar o comportamento da carga própria, do mercado e de outras variáveis importantes para a área de mercado da CPFL, acompanhar dia-a-dia a evolução da carga própria e do mercado e realizar previsões de curto prazo da carga própria e previsões de curto e médio prazo do mercado da CPFL. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Integrante / Secundino  Soares - Integrante / Takaaki Ohishi - Coordenador / Ricardo Menezes Salgado - Integrante / Marcos Leone Filho - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Auxílio
+										financeiro.
+2004 - 2008
+Metodologias de Previsão Para Sistemas de Energia
+Descrição: Projeto Temático que tem como objetivo o desenvolvimento de estratégias e algoritmos de previsão de séries temporais, especificamente, séries de vazões e de demanda de energia, utilizando redes neurais fuzzy e metodologias de agrupamento. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Rosangela Ballini - Integrante / Fernando Gomide - Coordenador / Makoto Kadowaki - Integrante / Secundino  Soares - Integrante / Takaaki Ohishi - Integrante / Ricardo Menezes Salgado - Integrante / Ivette Luna Huamaní - Integrante / Marina Hirota - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 30
+2004 - 2007
+Planejamento e Programação da Operação
+Descrição: Trabalho técnico e científico na área de sistemas de energia elétrica, com o objetivo de dar prosseguimento e aprofundamento do programa de pesquisa para gerência da operação do parque gerador brasileiro. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Rosangela Ballini - Integrante / Marinho Andrade - Integrante / Makoto Kadowaki - Integrante / Secundino  Soares - Coordenador / Takaaki Ohishi - Integrante / Ivette Luna Huamaní - Integrante / Marcelo Cicogna - Integrante / Thyago Carvalho Marques - Integrante / Erinaldo Faria dos Santos - Integrante / Mônica de Souza Zambelli - Integrante / Anastácio Sebastian Arce Encina - Integrante / Aníbal Tavares de Azevedo - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Operador Nacional do Sistema - Auxílio
+										financeiro.
+2004 - 2005
+Geração de Cenários Usando Algoritmo de Agrupamento para Gestão de Risco na Comercialização de Energia Elétrica
+Descrição: 2004/03606-8 - Bolsa no País - Regular - Iniciação Científica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rosangela Ballini - Coordenador / Elton Mário de Lima - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2003 - 2007
+Redes Neurais como Modelos de Séries Temporais: Uma Aplicação Para Previsão de Vazões
+Descrição: Processo No. 2002/13873-4-Bolsa no País - Regular - Doutorado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Rosangela Ballini - Coordenador / Secundino  Soares - Integrante / Ivette Luna - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2003 - 2006
+Geração de Cenários Usando Algoritmo de Agrupamento e Previsão Fuzzy - Aplicação ao Estudo de Mercado de Energia de Curto e Médio Prazo
+Descrição: Projeto de Mestrado financiado pela FAPESP. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Rosangela Ballini - Coordenador / Elton Mário de Lima - Integrante / Fernando Antonio Campos Gomide - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2002 - 2004
+Modelos de Previsão para Sistemas de Energia Elétrica
+Descrição: Desenvolvimento de estratégias e algoritmos de previsão de séries temporais utilizando redes neurais nebulosas e metodologia de agrupamento. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Rosangela Ballini - Integrante / Fernando Gomide - Integrante / Makoto Kadowaki - Integrante / Secundino  Soares - Coordenador / Takaaki Ohishi - Integrante / Ricardo Menezes Salgado - Integrante / Marina Hirota Magalhães - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2002
+Modelos de Previsão de Vazões para o Rio Paranapanema
+Descrição: Trabalho técnico e científico na área de sistemas de energia elétrica, com desenvolvimento de um programa computacional para previsão de vazões das usinas do rio Paranapanema. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rosangela Ballini - Integrante / Makoto Kadowaki - Integrante / Secundino  Soares - Coordenador.Financiador(es): Duky Energy Geração Paranapanema - Auxílio
+										financeiro.
+2001 - 2001
+Multi-step-ahead monthly streamflow forecasting by a neurofuzzy network model
+Descrição: Processo No. 2001/03777-9 Auxílio Reunião Exterior
+9th Intern Fuzzy Systems Association - Vancouver - Canadá. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador / Secundino  Soares - Integrante / Marinho Gomes Andrade - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2001 - 2001
+Previsão de Carga Horária, Diária, Semanal e Mensal
+Projeto certificado pelo(a) coordenador(a) Secundino Soares Filho em 15/03/2014.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Integrante / Makoto Kadowaki - Integrante / Secundino  Soares - Coordenador / Takaaki Ohishi - Integrante.
+2000 - 2004
+Planejamento e Programação da Operação de Sistemas de Energia Elétrica
+Descrição: Projeto Temático de Equipe da FAPESP para o estudo do Planejamento e Programação da Operação de Sistemas de Energia Elétrica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Rosangela Ballini - Integrante / Luciana Martinez - Integrante / Secundino Soares - Coordenador / Adriano A F M Carneiro - Integrante / Makoto Kadowaki - Integrante / Marinho G Andrade - Integrante / Takaaki Ohishi - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2000 - 2002
+Estudos em Planejamento da Operação de Sistemas de Energia Elétrica
+Descrição: Desenvolvimento, implementação e testes de metodologias de planejamento e programação da operação de sistemas de energia elétrica especialmente voltadas para sistemas com predominância de geração hidrelétrica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Integrante / Secundino  Soares - Coordenador / Takaaki Ohishi - Integrante / Marcelo Cicogna - Integrante / Luciana Martinez - Integrante.
+2000 - 2002
+Estrutura e Algoritmo de Aprendizado para Modelos de Redes Neurais Nebulosas Dinâmicas
+Descrição: Projeto de pós-doutorado desenvolvido na Faculdade de Engenharia Elétrica e de Computação, Unicamp, sob a supervisão do prof. Fernando Gomide.
+Este projeto teve como objetivo o desenvolvimento da estrutura e algoritmo de rede neuro-fuzzy recorrente aplicada para previsão de séries temporais. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rosangela Ballini - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.

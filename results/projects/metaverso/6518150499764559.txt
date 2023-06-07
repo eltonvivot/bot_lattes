@@ -1,0 +1,6 @@
+2014 - Atual
+Dinâmica e controle de manipuladores robóticos que opera em bases não inerciais
+Descrição: Sistemas robóticos e telerrobóticos que operem sobre base não inercial e a especificação de um robô planar para sua possível construção em colaboração com a indústria nacional. A pesquisa é centrada em manipuladores robóticos. O Projeto foi submetido e aprovado pela CAPES no Programa Professor Visitante Sênior CAPES-ITA (Edital no. 035/2013). O projeto é implementado do Departamento de Mecânica Aeronáutica do ITA.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Maurício Nacib Pontuschka - Integrante / DA FONSECA, IJAR M. - Coordenador.
+2008 - Atual
+FDIR - Software de Detecção, Isolação e Recuperação de Falhas em Subsystems de Controle de Atitude e Órbita (AOCS)
+Descrição: Definição de riscos e ocorrências de falhas em um AOCS (Attitude and Orbit Control Subsystem) específico, estabelecendo critérios do FDIR, bem como algoritmos, sua codificação, teste e implementação para executar as funções de detecção, isolação e recuperação de falhas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Maurício Nacib Pontuschka - Integrante / Elcio Jeronimo de Oliveira - Integrante / Ijar Milagre da Fonseca - Coordenador.Número de produções C, T & A: 1

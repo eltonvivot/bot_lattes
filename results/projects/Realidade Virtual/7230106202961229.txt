@@ -1,0 +1,130 @@
+2022 - Atual
+DEMOCRACIA EM PERIGO: Como combater os efeitos e estratégias da desinformação na mídia social na Eleição de 2022
+Descrição: A desinformação na mídia social tem aparecido como um problema sério no Brasil, com grande destaque nas pesquisas
+para os riscos envolvidos para os processos e instituições democráticas no País. Neste âmbito, as duas perguntas de
+pesquisa que guiam a proposta são: Quais são os efeitos da desinformação na mídia social nas campanhas eleitorais no
+Brasil? Que ações podemos tomar para evitar que essa desinformação interfira na própria democracia do País? Neste
+contexto, nossa proposta foca (1) o monitoramento das campanhas realizadas pelos candidatos à presidência e
+governadores em todos os estados da federação no Twitter, Facebook, WhatsApp e Instagram; (2) o monitoramento das
+conversações públicas nas mesmas plataformas de mídia social sobre a temática das eleições; (3) a identificação
+desinformação que circula nesses âmbitos, suas estratégias e como ela se espalha e; (4) a proposição de possíveis
+soluções para combater os efeitos dessa desinformação, através de produtos e estratégias. Para isso, propomos os
+seguintes métodos: Coleta de dados através da API das plataformas de mídia social ou de ferramentas com acesso a
+esta API (Monitor de WhatsApp, CrowdTangle, Social Feed Manager). (2) Análise de Dados: Combinação de métodos
+mistos, a partir de Análise de Conteúdo, Análise Crítica de Discurso; e Análise de Redes Sociais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5)  / Doutorado: (10) . Integrantes: Raquel da Cunha Recuero - Coordenador / Marislei da Silveira Ribeiro - Integrante / Laura Storch - Integrante / Suely Fragoso - Integrante / REJANE POZOBON - Integrante / Marcelo Ruschel  Trasel - Integrante / Luciana Carvalho - Integrante / Paulo Cajazeira - Integrante / Lucas Missau - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3 / Número de orientações: 8
+2020 - Atual
+EM BUSCA DAS FAKENEWS: Conversações Políticas eDesinformação na Mídia Social Brasileira
+Descrição: Neste contexto, a proposta apresentada aqui pretende, a partir de dados obtidos de canais
+de mídia social como o Twitter, Facebook e WhatsApp, investigar as conversações políticas 
+e analisar os problemas levantados. A partir desta pesquisa, esperamos ser capazes de
+contribuir para a construção de políticas públicas que possam guiar trabalhos educativos
+visando ampliar a cidadania e a participação política no País, evitando a construção de bolhas
+de desinformação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (4) . Integrantes: Raquel da Cunha Recuero - Coordenador / Gabriela Zago - Integrante / SOARES, FELIPE BONOW - Integrante / Paula Viegas - Integrante / Luís Ricardo Huttner - Integrante / Carolina Bonoto - Integrante / GABRIELA MELLO SILVA - Integrante / GRACIELE SILVEIRA - Integrante / GABRIELA PEREIRA - Integrante / GIELE SODRÉ - Integrante / maurilio Hofflman - Integrante / Caroline Santos - Integrante / Juliana Raimundo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 27 / Número de orientações: 2
+2019 - 2020
+Online Violence and Its Effects on Political Engagement on Twitter
+Descrição: The goal of the study is to better understand the online dynamics of violence against women and minority representatives running for political offices in Canada, with a focus on their use of Twitter, a popular communication and information platform amongst the Canadian public, politicians, and elected officials. The study will provide research-based evidence for policymakers, governing stakeholders, researchers, and social media intermediaries working on addressing current knowledge gaps and challenges associated with online violence against women and minorities. It will also help us examine the capabilities and overall effectiveness of Twitter?s platform-based guardianship (i.e., automated and human-led content moderation) and discuss current policy responses to online violence.
+This new project is funded as part of the The Digital Ecosystem Research Challenge, an initiative that supports academic research into the impacts and uses of digital media during the 2019 Federal Election in Canada. Candidates from Canada and around the world were encouraged to submit projects which aim to understand the digital media ecosystem in order to foster increased digital literacy among Canadians. The winning projects focus on topics ranging from environmental politics, to political advertising. For a full description of the winning projects, visit the Digital Ecosystem Research Challenge?s website. The Digital Ecosystem Research Challenge is made possible in part by Canadian Heritage and the Government of Canada?s Canada History Fund grant.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Raquel da Cunha Recuero - Integrante / Felipe Soares - Integrante / Anatoliy Gruzd - Coordenador.Financiador(es): Governo Canadense - Outra.Número de produções C, T & A: 5
+2019 - Atual
+Desinformação e Cidadania na Mídia Social: Como combater as campanhas de 'fake news'?
+Descrição: Neste contexto, o presente projeto de cooperação visa unir pesquisadores que têm dedicado-se a esta pesquisa no Programa de Pós Graduação em Comunicação da Universidade Federal do Rio Grande do Sul (PPGCOM/UFRGS) e da City University of London, permitindo o intercâmbio de trabalho, ideias e experiências para encontrar soluções para a questão.
+A questão de pesquisa que guia este projeto, portanto, é: ?Como os processos de desinformação intencional e não intencional que acontecem hoje no ecossistema da mídia social no Brasil? Que tipo de soluções podem ser propostas??. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Raquel da Cunha Recuero - Coordenador / Marco Toledo Bastos - Integrante / Felipe Soares - Integrante / Paula Viegas - Integrante / Luís Ricardo Huttner - Integrante / Carolina Bonoto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Outra.Número de produções C, T & A: 31 / Número de orientações: 2
+2019 - Atual
+Visual Misinformation in Global Perspective: Platforms, Devices, and Users
+Descrição: Visual misinformation threatens the integrity of online political discourse. While most
+research on misinformation has analyzed textual content, digital communication combines text,
+audio, and visuals, and users are more likely to pay attention to, recall, and share visual
+messages than text. Hence, visual misinformation is more likely than textual misinformation to
+weaken communities by distorting public opinion, fueling polarization, and creating a general
+climate of mistrust. Studying visual misinformation is thus crucial to understand the conditions
+under which digital media affect democratic debate and governance in complex societies.
+This project will shed light on how visual memes can spread misinformation based on
+survey experiments in a diverse global sample of eight countries in five continents. First, we
+will test whether visual memes are more effective than text in leading users to recall factually
+inaccurate content, believe that information, and share it online. Secondly, we will assess how
+individual traits influence users? willingness to recall, believe in, and share misinforming
+visual memes. Thirdly, we will uncover how specific digital platforms facilitate or hinder
+visual misinformation. Fourthly, we will shed light on the different effects that result from
+engaging with visual misinformation with mobile devices versus personal computers. Finally,
+by comparing eight diverse countries in five continents, we will investigate how particular
+institutional, media, and societal characteristics shape these phenomena, as well as
+highlighting the similarities and differences in such patterns across a variety of contexts.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Raquel da Cunha Recuero - Integrante / Cristian Vaccari - Coordenador / Patricia Rossini - Integrante / Igino Gagliardoni - Integrante / Michael Chan - Integrante / Shria Dvir - Integrante / Nicole Stremlau - Integrante / Janet Steele - Integrante.
+2019 - Atual
+Social Media Analytics for Society and Crisis Communication
+Descrição: RISE_SMA forms an interdisciplinary, international network combining excellent scholars and practitioners to enable vigorous knowledge sharing and to develop solutions for contemporary challenges for Social Media Analytics (SMA).
+Advanced theoretical approaches and methods of analysing social media data are especially relevant for two domains addressed in RISE_SMA: society and crisis communication. Recently, social media communication gained immense impact on society and decision-making at all levels. It offers potential for new forms of public discourses, but also challenges societal cohesion phenomena like fake news and vicious social bots.
+During uncertain events such as natural disasters or human-made crises, social media communication plays an increasingly important role for citizens and emergency service agencies. RISE_SMA attempts to uncover communication patterns and suggest best practices to seek and share information in precarious situations.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (10)  / Doutorado: (10) . Integrantes: Raquel da Cunha Recuero - Integrante / Adriana Amaral - Integrante / Ronaldo Henn - Integrante / Stefan Stieglitz - Coordenador / Tim A. Majchrzak - Integrante / Jaziar Radianti - Integrante / Michael Emmerich - Integrante / Suzan Verberne - Integrante / Frank Takes - Integrante / Christoph Fuchß - Integrante / Sigurd Paulsen - Integrante / Axel Bruns - Integrante / Jean Burgess - Integrante / Deborah Bunker - Integrante / Budi Nurani Ruchjana - Integrante.Financiador(es): European Union Control Association - Cooperação.
+2018 - 2020
+FILTROS-BOLHA E CIRCULACAO DE INFORMACOES NA MIDIA SOCIAL
+Descrição: Projeto sobre a circulação de informações na mídia social durante as eleições de 2018. Busca analisar o papel dos filtros dentro das eleições e das decisões do eleitor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Raquel da Cunha Recuero - Coordenador / Gabriela Zago - Integrante.Número de produções C, T & A: 32 / Número de orientações: 2
+2017 - 2020
+A Violência Discursiva contra a Mulher na Midia Social
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 9
+2017 - 2019
+O Discurso de Gênero na Mídia Social: Mapeamento da Violência contra as Mulheres no Twitter
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 7
+2016 - 2017
+Projeto Monitor das Eleições: Mapeando as eleições municipais de Porto Alegre e Pelotas
+Descrição: O projeto Monitor das Eleições entra em sua terceira eleição, observando como a midia social reflete as eleições para a prefeitura de Pelotas/RS e Porto Alegre/RS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Raquel da Cunha Recuero - Coordenador / Mabel Teixeira - Integrante / Felipe Soares - Integrante.
+2015 - 2017
+Game On - Violência, Discurso e Jogos
+Projeto certificado pelo(a) coordenador(a) Suely Dadalti Fragoso em 10/03/2016.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Raquel da Cunha Recuero - Integrante / Suely Fragoso - Coordenador.Número de produções C, T & A: 2
+2014 - 2016
+Mapeando as conversações em rede das Eleições Presidenciais de 2014
+Descrição: O projeto busca compreender os sites de rede social (Twitter e Facebook) como instâncias de esfera pública e suas influências no processo eleitoral. Busca-se mapear os discursos e as redes em torno dos candidatos e compreender sua reverberação e legitimação nessas ferramentas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Raquel da Cunha Recuero - Coordenador / Gabriela da Silva Zago - Integrante / Marco Toledo Bastos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2014 - 2016
+Violência, Ódio e Conversação nos Sites de Rede social: Estudo do Facebook
+Descrição: Mapeamento de conversações e discursos de ódio no Facebook. Observa-se especialmente as formas de difusão desses discursos dentro das ferramentas de sites de rede social e sua influência na sociedade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 9
+2012 - 2016
+O ESPALHAMENTO DO ÓDIO E DA VIOLÊNCIA EM CONVERSAÇÕES NO FACEBOOK E SEU IMPACTO NO COTIDIANO DOS ATORES SOCIAIS
+Descrição: A presente proposta busca construir uma abordagem para o fenômeno contemporâneo do espalhamento do ódio e da violência (em suas diversas formas) nos sites de rede social, de modo especial, no Facebook. O objetivo é compreender como e por quais razões a violência é mimetizada e espalhada, as suas formas e seus impactos no cotidiano (também offline) dos atores sociais. Para tanto, propomos uma metodologia qualitativa baseada em um estudo de caso. Como produto principal, busca-se oferecer subsídios para a compreensão dos mecanismos, do impacto e para a criação de políticas de combate e educação da violência nos sites de rede social.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Raquel da Cunha Recuero - Coordenador / Paula Rickes Viegas - Integrante / Suelen Freda - Integrante / Letícia Schinestsck - Integrante / Pricilla Farina Soares - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2011 - 2013
+As Redes nas Redes:  Difusão de Informações, Conversação  e Redes Sociais no Twitter
+Descrição: O foco do projeto é analisar como os processos de apropriação dos valores nas redes sociais na Internet, aqui compreendidos como capital social, influenciam os processos de constituição dessas redes e seus decorrentes efeitos, tais como a difusão de informações e a conversação. Nesse contexto, focamos o Twitter como objeto escolhido. O Twitter é um site que não é habitualmente colocado como um site de rede social (Boyd e Ellison, 2007), mas que pode ser compreendido como tal porque permite as duas qualidades atribuídas a esses sites: a construção de um perfil individual e a publicização das redes sociais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Raquel da Cunha Recuero - Coordenador.Número de produções C, T & A: 10
+2010 - 2012
+A Violência como discurso nos sites de Rede Social na Internet
+Descrição: O projeto visa observar e discutir o discurso da violência no Orkut sob diversos aspectos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Raquel da Cunha Recuero - Coordenador / ERNST-PEREIRA, Aracy - Integrante.Financiador(es): Universidade Católica de Pelotas - Bolsa.Número de produções C, T & A: 2
+2008 - 2010
+Diga-me com quem falas e dir-te-ei quem és - Conversação e as Redes Sociais na Internet
+Descrição: O projeto busca estudar como a estrutura e a organização das chamadas conversações mediadas pelo computador, síncronas ou assíncronas, dentro de sites de redes sociais. Busca compreender como se dá a estrutura conversacional (negociação dos turnos, reparo, estratégias de direcionamento. coerência e reparo), mas também sua organização, compreendida como os valores trocados (capital social, laços sociais) nessas conversações e sua influência nas redes sociais adjacentes a tais trocas. Por fim, busca-se validar a análise de conversação como método empírico para o mapeamento das redes sociais que emergem das diversas ferramentas na Internet.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Universidade Católica de Pelotas - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2006 - 2008
+Memes e comunidades virtuais: como a informacao se espalha nas redes sociais
+Descrição: Projeto que visa estudar a difusão de informações em comunidades de weblogs, fotologs e orkut.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador / Rafael Varela - Integrante.Financiador(es): Bolsa Uol Pesquisa - Bolsa / Universidade Católica de Pelotas - Bolsa.Número de produções C, T & A: 12
+2006 - 2008
+Difusão de Informações em Redes Sociais na Internet
+Descrição: Projeto que visa estudar como se dá a difusão de informações através das estruturas das redes sociais na Internet.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Universidade Católica de Pelotas - Remuneração / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 24
+2005 - 2006
+A dinamica das redes sociais na internet: estudo do Orkut, Weblogs e Fotologs
+Descrição: Projeto que visa estudar a estrutura e função, bem como capital social e dinâmica de redes sociais na Internet.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador / Rebeca da Cunha Recuero - Integrante.Financiador(es): Universidade Católica de Pelotas - Bolsa / Bolsa Uol Pesquisa - Bolsa.Número de produções C, T & A: 14
+2004 - 2004
+Hipertexto cooperativo: um estudo da escrita coletiva na Web
+Descrição: O projeto tem por objetivo construir um modelo de estudo que permita estudar a dinâmica das redes sociais, fundamentalmente em três exemplos (weblogs, orkut e fotologs), focando a interação mediada por computador como fundamento da rede e procurando compreender como as relações sociais estruturam-se nesses espaços.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador / Maria Clara Jobst de Aquino - Integrante / William Carneiro da Silva - Integrante.Financiador(es): Universidade Católica de Pelotas - Bolsa / Bolsa Uol Pesquisa - Bolsa.Número de produções C, T & A: 7
+2003 - 2004
+Tendencias no jornalismo Online: weblogs e jornalismo opinativo
+Descrição: Trata-se de um projeto de continuidade do estudo da influência dos weblogs no jornalismo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador / Bruno Leites - Integrante / Raquel Bierhals - Integrante.Financiador(es): Universidade Católica de Pelotas - Bolsa / Universidade Católica de Pelotas - Remuneração.Número de produções C, T & A: 2
+2003 - 2004
+Hipertexto Cooperativo - Co-Link
+Descrição: Estudo do hipertexto cooperativo na Web.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Raquel da Cunha Recuero - Integrante / Alex Fernando Teixeira Primo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.Número de produções C, T & A: 7
+2002 - 2003
+Gênero, Identidade e Comunidades Virtuais
+Descrição: Estudo de como se constitui a identidade nas comunidades virtuais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Universidade Católica de Pelotas - Remuneração.Número de produções C, T & A: 3
+2002 - 2003
+Webrings: Weblogs e Comunidades Virtuais
+Descrição: Estudo da formação de comunidades virtuais através dos Weblogs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Universidade Católica de Pelotas - Remuneração.Número de produções C, T & A: 4
+2002 - 2003
+Weblogs - Diários na Rede. Um estudo dos Usos dos Weblogs em Jornalismo.
+Descrição: Projeto que busca observar como o fenômenos dos weblogs é atualmente utilizado pelos jornalistas e que reflexos este uso tem no jornalismo online. Também ambiciona observar como os weblogs influenciam as pautas e as matérias dos jornalistas que os mantêm.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Universidade Católica de Pelotas - Remuneração.Número de produções C, T & A: 5
+2002 - 2003
+Comunidades Virtuais - Um Estudo da Construção da Identidade e do Gênero através da Comunicação Mediada por Computador
+Descrição: Projeto que faz um estudo comparativo entre as comunidades virtuais encontradas sob vários Virtual settlements, buscando obervar como se estabelece a identidade dos membros da comunidade e como esta identidade é sustentada, bem como uma observação da estruturação dessas comunidades.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raquel da Cunha Recuero - Coordenador.Financiador(es): Universidade Católica de Pelotas - Remuneração.Número de produções C, T & A: 4
+2002 - 2003
+Hipertexto Cooperativo - Um estudo da escrita coletiva na Web
+Descrição: O projeto é conjunto entre os professores Dr. Alex Primo e Ms Raquel Recuero. Destina-se ao estudo das potencialidades do Hipertexto Cooperativo, conceito de Primo (2003, online), partindo de um estudo sobre várias formas de constituição de uma "web viva".. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Raquel da Cunha Recuero - Coordenador / Alex Fernando Teixeira Primo - Integrante / Ricardo Matsumura de Araújo - Integrante / Maria Clara Jobst de Aquino - Integrante.Financiador(es): Universidade Federal do Rio Grande do Sul - Cooperação / Universidade Católica de Pelotas - Auxílio
+										financeiro / Universidade Católica de Pelotas - Bolsa.Número de produções C, T & A: 6

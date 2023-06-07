@@ -1,0 +1,37 @@
+2021 - Atual
+Onto-mQoL: Temporal Representations for Ontology-based and Holistic Reasoning in the Mobile Quality of Life Domain
+Descrição: Ontologies are commonly used as forms of knowledge representation. However, they still presenting limitations to model domains that require broad forms of temporal reasoning. Our study was motivated by the real need to extend static ontologies with diverse time concepts, relations and properties. Therefore, it uses the n-ary relations as basis for temporal structures, which minimally modifies the original ontology, and extends this structure with a generic set of time concepts (moments and intervals), time concept properties (precise and uncertain), time relations (interval-interval, interval-moment, and moment-moment), and time relation properties (qualitative and quantitative).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Clauirton de Albuquerque Siebra - Coordenador / Katarzyna Wac - Integrante.
+2019 - 2021
+Suporte ao Condicionamento Aeróbio de Pacientes com Lesão Medular
+Descrição: Utilização de sistemas computacionais como suporte ao condicionamento físico de pacientes com lesão medular. O projeto envolve técnicas de prototipação em hardware, monitoramento de variáveis físicas, e uso de dispositivos de rastreamento de movimentos em 3D.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Clauirton de Albuquerque Siebra - Integrante / Elaine Souto - Coordenador.
+2019 - 2021
+PRINT - Innovation in Materials, Products and Process Associated with Environmental Conservation and Sustainability
+Descrição: Desenvolvimento de um protocolo de gerenciamento de demanda no domínio das energias renováveis, aplicado em pequenas comunidades de agricultores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Clauirton de Albuquerque Siebra - Coordenador.
+2014 - 2021
+Melhoria de Processos da Engenharia de Software via Técnicas de Inteligência Artificial
+Descrição: Investigação de técnicas de Inteligência Artificial, como Redes Neurais e Planejamento Inteligente, as quais possam ser utilizadas em diversas etapas do processo de desenvolvimento de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Clauirton de Albuquerque Siebra - Coordenador / Andre Santos - Integrante / Fábio Silva - Integrante / Tatiana B. Gouveia - Integrante.
+2010 - 2014
+Uma Camada Semântica Para Prover Serviços em TV Digital
+Descrição: Desenvolvimento de uma camada semântica que atribua significado ao conteúdo desta plataforma, possibilitando o desenvolvimento de aplicações como sistemas de recomendação e busca.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Clauirton de Albuquerque Siebra - Integrante / Natasha Lino - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2007 - 2013
+Desenvolvimento de uma Arquitetura Autônoma para de Testes de Handsets
+Descrição: Investigação do uso de componentes de automação na especificação de uma arquitetura baseada em computação autonômica, a qual seja capaz de controlar e monitorar o processo de testes de rede para handsets. Financiada pelo Instituto de Formento SOFTEX (Centro de Excelência em Tecnologia de Software do Recife).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Clauirton de Albuquerque Siebra - Coordenador.Financiador(es): CIn/Samsung - UFPE - Remuneração.Número de produções C, T & A: 10
+2007 - 2010
+RTSCup - Um Simulador para Estratégias em Tempo Real
+Descrição: Especificação e implementação de um simulador para jogos de estratégia em tempo real.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5) . Integrantes: Clauirton de Albuquerque Siebra - Integrante / Geber Lisboa Ramalho - Coordenador.Número de produções C, T & A: 4
+2006 - 2007
+Comando e Controle de Constelações de Satélites através de Planejamento Inteligente
+Descrição: Integração de conceitos da teoria temporal baseada em intervalos em uma arquitetura de planejamento colaborativa, de modo que tal arquitetura possa atender os requisitos de um sistema de controle para constelações de satélites.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Clauirton de Albuquerque Siebra - Coordenador.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2006 - 2006
+Infrastructure Development for a London-based Disaster Test Scenario
+Descrição: Desenvolvimento de um modelo de informação geográfico baseado em parte da City of London (um dos bairros de Londres), de modo que tal informação possa ser usado no simulador RoboCup. O objetivo é usar este cenário na análise e melhoramento da eficiência de times de emergência em situações de desastre. Parte do projeto e-Response.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Clauirton de Albuquerque Siebra - Integrante / Austin Tate - Coordenador / Jeff Dalton - Integrante / Stuart Aitken - Integrante.Financiador(es): Artificial Intelligence Applications Institute - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2002 - 2004
+CoAKTinG (Collaborative Advanced Knowledge Technologies in the Grid)
+Descrição: Avançar o estado da arte em espaços colaborativos de mediação para e-Science distribuída através da aplicação de tecnologias avançadas do conhecimento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Clauirton de Albuquerque Siebra - Integrante / Austin Tate - Coordenador / Stuart Aitken - Integrante / Natasha Lino - Integrante / Stephe Potter - Integrante.Financiador(es): Engineering and Physical Sciences Research Council - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2005
+I-Rescue  (parte do projeto I-X)
+Descrição: Desenvolvimento de uma arquitetura de planejamento que disponibiliza capacidades de raciocínio, comunicação e visualização de informações através do desenvolvimento de plug-ins baseados em gerenciamento de restrições. Estudo de casos direcionados para o domínio de suporte a situações de resgate (I-Rescue). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Clauirton de Albuquerque Siebra - Integrante / Austin Tate - Coordenador / Stephe Potter - Integrante / Helen Wollan - Integrante.Financiador(es): Defense Advanced Research Projects Agency - Auxílio
+										financeiro.Número de produções C, T & A: 9

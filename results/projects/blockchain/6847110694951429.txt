@@ -1,0 +1,10 @@
+2013 - 2015
+Demanda Universal FAPEMIG 2012 - MODELAGEM E CONTROLE DE SISTEMAS NÃO LINEARES POR BASE DE FUNÇÕES ORTONORMAIS GENERALIZADAS COM FUNÇÕES INTERNAS
+Descrição: Este projeto visa o desenvolvimento e aplicação de novas metodologias e algoritmos para a identificação de sistemas dinâmicos lineares e não lineares utilizando modelos BFO; Utilização dos modelos desenvolvidos em estratégias de controle, com particular ênfase para controladores preditivos; 
+Aplicações das técnicas de modelagem e controle em casos de estudo reais e de simulação. Implementação dos algoritmos de controle em sistemas embarcados ou de automação para o 
+controle de plantas industriais ou plantas industriais de pequeno porte presentes nos laboratórios da instituição. Além disse, pretende-se investigar e demonstrar o correto funcionamento das técnicas  propostas na modelagem e controle de sistemas complexos, como sistemas de levitação magnética.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Jeremias Barbosa Machado - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2011
+Projeto Universal - CNPq
+Descrição: Este projeto propõe o estudo, desenvolvimento, aprimoramento e aplicações de ferramentas matemáticas e computacionais para a modelagem, otimização e controle preditivo de sistemas dinâmicos lineares e não lineares através de modelos com estrutura dinâmica baseada em séries de funções ortonormais, tais como as funções de Laguerre, Kautz e funções de base ortonormal generalizadas (GOBF).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Jeremias Barbosa Machado - Integrante / Ricardo José Gabrielli Barreto Campello - Coordenador / Wagner Caradori do Amaral - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

@@ -1,0 +1,44 @@
+2021 - Atual
+Análise de perfil e da percepção dos estudantes sobre a universidade por meio de técnicas de aprendizado de máquina
+Descrição: Programa Institucional de Bolsas de Iniciação Científica (PIBIC)
+Os estudantes devem ter a melhor experiência universitária possível, pois dedicarão alguns
+anos de suas vidas na instituição de ensino superior (IES) para o desenvolvimento de suas
+habilidades técnicas e formação pessoal. A presente pesquisa tem como objetivo a aplicação de
+técnicas de aprendizado de máquina para agrupar e classificar os estudantes de acordo com as suas
+percepções sobre a estrutura e recursos da universidade, bem como entender o comportamento dos
+alunos em atividades internas e externas à instituição. Para isso, serão aplicadas técnicas de
+agrupamento e de classificação em um conjunto de dados formado a partir de instrumento de coleta
+composto por, inicialmente, 40 questões, divididas em cinco seções principais: (i) Parte informativa
+sobre a pesquisa e aceite/recusa do Termo de Consentimento Livre e Esclarecido (TCLE); (ii)
+Perguntas gerais sobre a situação do estudante na universidade; (iii) Questões sociodemográficas
+para um melhor entendimento sobre cada indivíduo; (iv) Informações sobre rotinas de estudos e
+bem-estar físico e mental, e; (v) Avaliação da estrutura e experiência de aprendizagem. Entende-se que as técnicas de aprendizagem de máquina possam encontrar padrões ocultos nestes conjuntos
+de dados, encontrando informações relevantes que ultrapassam as limitações da estatística
+tradicional. Os possíveis resultados poderão auxiliar na melhoria da experiência universitária dos
+estudantes em termos de aprendizagem, convívio social e qualidade de vida.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Bruno Samways dos Santos - Coordenador / Edmilson Homma Junior - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.
+2021 - Atual
+Técnicas de aprendizagem de máquina para a descoberta de conhecimento sobre inovação com foco em empresas prestadoras de serviços
+Descrição: Programa Institucional de Iniciação Científica e Tecnológica (PIVICT).
+A inovação pode estar presente em produtos e processos em empresas pertencentes a áreas
+distintas, diferentes portes e localizadas nas mais diversas regiões. A presente pesquisa tem como
+objetivo a aplicação de técnicas de aprendizado de aprendizado de máquina, com foco no
+agrupamento de que possuam características similares de inovação na região de Londrina. Para
+isso, um instrumento de coleta de dados será formatado e distribuído, avaliando principalmente as
+variáveis quantitativas a partir das diretrizes recomendadas no Manual de Oslo e também por (DA
+SILVA; HARTMAN; DOS REIS, 2008) como também as características sobre porte, tempo de
+existência, área de atuação, entre outros. A distribuição do questionário será realizada no formato
+digital (Google forms), a partir de convite formalizado que partirá da instituição de ensino (IES),
+afirmando que há um compromisso da análise destes dados apenas para fins de pesquisa, mantendo
+o sigilo. Entende-se que com as técnicas de agrupamento, os algoritmos conseguirão encontrar as
+similaridades dentro de cada grupo (ou cluster), assim com as diferenças entre os grupos formados.
+Neste contexto, informações relevantes poderão ser destacadas a partir de uma análise estatística
+comparativa de grupos de forma a entender melhor as características de cada empresa, focando no
+comprometimento com a inovação. O desfecho pode mostrar quais são as principais características
+das empresas consideradas inovadoras, servindo de referência para outras que pretendem
+desenvolver o seu lado inovador, aumentando a sua competitividade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Bruno Samways dos Santos - Coordenador / Ana Paula Barbosa de Morais - Integrante / Matheus Santos Dias - Integrante.
+2020 - Atual
+Grupo de Pesquisa em Otimização e Mineração de Dados - GPOMD
+Descrição: O grupo de pesquisa tem como principal objetivo a aplicação de técnicas de otimização (incluindo heurísticas e metaheurísticas) na linha de pesquisa de "otimização", enquanto que a linha de "mineração de dados" visa a descoberta de informações úteis a partir de técnicas de aprendizado de máquina (machine learning). 
+Os principais campos explorados na otimização são: problemas de sequenciamento de produção; problema de roteamento de veículos (VRP); lot sizing; localização de facilidades.
+Para a mineração de dados, busca-se principalmente encontrar informações em problemas de classificação e agrupamento (clusterização), com aplicações em: saúde pública; serviços; indústria; opinião pública, entre outros.
+O professor Bruno dos Santos atua, especificamente, na linha de mineração de dados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Bruno Samways dos Santos - Coordenador / Rafael Henrique Palma Lima - Integrante / Daniele Gonçalves de Toledo Luchetta Raminelli - Integrante / Edmilson Homma Junior - Integrante / Marlon Alves Bomfim - Integrante / Ricardo Franco de Almeida Filho - Integrante / Amauri Ornellas da Silva - Integrante / Gustavo Cruz Rigonati - Integrante / Ana Paula Barbosa de Morais - Integrante / Matheus Santos Dias - Integrante.

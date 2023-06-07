@@ -1,0 +1,24 @@
+2008 - 2011
+Inclusão Pré-Digital: Aplicação e Avaliação de uma Abordagem Lúdica de Introdução à Ciência da Computação em Escolas Públicas do Estado da Bahia
+Descrição: Nosso entendimento e a base desse projeto têm por objetivo demonstrar a viabilidade de
+repassar os conceitos essenciais da área de computação para alunos do ensino fundamental, sem a
+necessidade da existência de computadores ou laboratórios de informática. Dessa forma, este
+projeto visa capacitar alunos e professores da rede estadual de ensino em formação básica de
+informática, mediante o desenvolvimento de atividades lúdicas e eficientes que promovam a
+absorção dos conceitos fundamentais da computação através de elementos didáticos que dispensem
+o computador. Um dos alicerces desse projeto será a tradução, adaptação de conteúdo e realizações
+de atividades propostas no livro Computer Science Unplugged [BEL 2007] dos professores Tim
+Bell, Ian Whitten, Matt Fellows da Universidade de Canterbury, Nova Zelândia. Os autores foram
+contactados pelo coordenador proponente desse projeto a respeito e informaram o seu apoio a
+feitura de versão em língua portuguesa e disponibilização de seu conteúdo de forma livre, acessível
+e de baixo custo para a comunidade. Por isso, a realização do presente projeto permitiria a
+disseminação desse conteúdo e atividades em âmbito nacional. Além disso, até o nosso
+conhecimento, desconhecemos relatos anteriores da aplicação das atividades pedagógicas propostas
+nesse livro em escolas brasileiras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Débora Abdalla Santos - Integrante / Aline Andrade - Integrante / Luciano Barreto - Coordenador / Anna Friedericka Schwarzelmüller - Integrante.
+2004 - 2018
+OntoUFBA
+Descrição: Este projeto visa o estudo do uso de ontologias como forma de representação do conhecimento que dá sustentabilidade ao desenvolvimento de sistemas semânticos e da web semântica, utilizando como estudo de caso o desenvolvimento  da OntoUFBA, uma ontologia destinada à representação do conhecimento organizacional da Universidade Federal da Bahia (UFBA).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Débora Abdalla Santos - Coordenador.Número de produções C, T & A: 7
+2002 - 2005
+Raciocínio Automático usando Lógica de Descrições
+Descrição: A pesquisa proposta neste projeto objetiva investigar aspectos da teoria da prova  para as lógicas de descrições (description logic), priorizando o método de dedução lógica chamado Dedução Natural como mecanismo de raciocínio automático.  Este  estudo viabilizará o aperfeiçoamento de mecanismos de busca de informações mais eficientes,  principalmente no que se refere aos aspectos semânticos das informações,  altamente relevantes para sistemas baseados em conhecimento em ambientes de redes, como a Internet.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Débora Abdalla Santos - Coordenador.Financiador(es): Universidade Federal da Bahia - Auxílio
+										financeiro.Número de produções C, T & A: 7

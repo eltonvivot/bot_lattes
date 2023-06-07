@@ -1,0 +1,25 @@
+2019 - Atual
+Estudo, desenvolvimento e simulação em tempo real de componentes existentes em uma rede inteligente para fins didáticos
+Descrição: Este projeto propõe-se a estudar, desenvolver e validar simulações em tempo real (Hardware-in-the-loop) de elementos existentes em uma rede inteligente. Dentre os quais, destacam-se o estudo de soluções para o processamento de energias renováveis. A validação das simulações serão realizadas com o desenvolvimento de um protótipo trifásico de múltiplas configurações. Os exemplos produzidos tem por objetivo contribuir para o enriquecimento didático de disciplinas relacionadas a eletrônica de potência, controle e programação de microcontroladores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adriano Ruseler - Coordenador.
+2017 - 2018
+Interface para a integração de conversores estáticos com a plataforma industrial da internet das coisas
+Descrição: Este projeto tem o objetivo de estudar e desenvolver soluções para a conexão de conversores estáticos com a internet das coisas (IoT) industrial. Soluções conectadas são empregadas em geração distribuída e em redes inteligentes, na qual se faz necessário um processamento adequado tanto local quanto central das grandezas elétricas. Sistemas de Supervisão e Aquisição de Dados (SCADA) foram empregados por muitos anos, neste projeto, busca-se utilizar os conceitos desenvolvidos para a internet das coisas (IoT), como por exemplo o uso do protocolo MQTT, ideal para aplicações embarcadas por necessitar de pouco poder de processamento. Em vias práticas, o projeto está situado em utilizar soluções disponíveis e desenvolver software tendo como hardware a placa BeagleBone Green, a qual possui um processador ARM-Cortex e duas unidades de processamento em tempo real (PRUs), ideal para aplicações embarcadas que além de utilizar Linux, precisam de processamento em tempo real dedicado. Outro objetivo do projeto é a comparação das plataformas IoT disponíveis e modos de operação na falta de conexão com a internet.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Adriano Ruseler - Coordenador.
+2016 - 2017
+Desenvolvimento e Implantação de Microrredes Inteligentes: Estratégias de Controle para Integração de Sistema e Gerenciamento de Energia
+Descrição: Este projeto é prioritariamente de pesquisa aplicada. Seu objetivo principal é a compreensão e o controle da interação entre as formas de microgeração mais promissoras, dispositivos de armazenamento de energia e cargas típicas. O tema é recente, envolve tecnologias em fase de desenvolvimento e posicionamento no mercado e, portanto, não é pretensão do projeto tornar as redes economicamente viáveis em sua totalidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Ruseler - Integrante / Marcelo Lobo Heldwein - Coordenador / Victor Maryama - Integrante.
+2014 - 2014
+MARINHA - Modelagem Matemática e Simulação Numérica
+Descrição: Modelagem matemática do GEP - Gerador Elétrico de Propulsão com dois enrolamentos
+trifásicos independentes ligados em estrela e defasados entre si de 30 graus; Realização de
+arquivo no PSIM, para a simulação do GEP - Gerador Elétrico de Propulsão; Modelagem e
+simulação do GEP associado ao REP - Retificador Elétrico de Propulsão de 12 pulsos;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Adriano Ruseler - Integrante / Ivo Barbi - Coordenador / Telles Brunelli Lazzarin - Integrante / Daniel Flores Cortez - Integrante / Rodrigo de Souza Santos - Integrante.
+2010 - 2011
+Conversor CC-CC isolado de alta frequência e alto Rendimento
+Descrição: As atividades desenvolvidas consistem em revisar e estudar as etapas realizadas previamente no projeto do conversor FB-ZVS-PWM-PS com retificação síncrona, e participar ativamente da parte experimental. As etapas realizadas previamente são:
+- Estudo analítico do conversor FB-ZVS-PWM-PS com retificação síncrona
+- Dimensionamento do protótipo
+- Simulações numéricas
+- Construção do protótipo
+- Testes em laboratório
+- Reprojeto e testes finais
+- Documentação técnica final. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Adriano Ruseler - Integrante / BARBI, IVO - Coordenador / Romero Leandro Andersen - Integrante.Financiador(es): Fundação do Ensino da Engenharia em Santa Catarina - Bolsa.

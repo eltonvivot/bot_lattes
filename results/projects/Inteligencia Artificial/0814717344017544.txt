@@ -1,0 +1,130 @@
+2016 - Atual
+APRENDENDO, ADAPTANDO E ALINHANDO ONTOLOGIAS: METODOLOGIAS E ALGORITMOS
+Descrição: Ontologias t^em sido amplamente utilizadas na representa c~ao de conceitos e relacionamentos entre conceitos
+em v arios dom nios, e em estrat egias bem sucedidas de integra c~ao de dados. Como consequ^encia, o aumento
+no n umero de ontologias distintas representando o mesmo dom nio tem sido percebido, exigindo assim, abordagens
+de integra c~ao e interoperabilidade que lidem com a heterogeneidade sem^antica e permitam, ent~ao,
+uma comunica c~ao e ciente e livre de erros entre os diferentes artefatos. A area de pesquisa de alinhamento
+de ontologias vem estudando formas de identi car automaticamente correspond^encias entre as entidades de
+duas ou mais ontologias permitindo assim estabelecer um alinhamento como proposta para o problema da
+heterogeneidade sem^antica. Anualmente, abordagens de alinhamento s~ao avaliadas considerando diferentes
+pares de ontologias e seguindo uma metodologia de nida pela Ontology Alignment Evaluation Initiative
+(OAEI). Como resultado dessa avalia c~ao, desa os correntes da area s~ao revistos e novos desa os estabelecidos.
+Dentre esses, encontram-se os que indicam a necessidade por abordagens que envolvam o usu ario de
+maneira e caz e que lidem com a evolu c~ao do conhecimento representado pelas pr oprias ontologias sendo
+alinhadas. O projeto de pesquisa aqui proposto foca nesses desa os, avaliando as abordagens existentes
+e propondo metodologias e algoritmos para aprender automaticamente ontologias, obter adapta c~oes para
+ontologias existentes para que estas passem a representar a evolu c~ao do conhecimento de forma dedigna, e
+para obter alinhamentos de melhor qualidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Kate Cerqueira Revoredo - Coordenador / FERNANDA BAIÃO - Integrante / FLAVIA SANTORO - Integrante.Financiador(es): Universidade Federal do Estado do Rio de Janeiro - Auxílio
+										financeiro.
+2016 - Atual
+Evoluindo alinhamentos de ontologias: metodologias e algoritmos
+Descrição: Ontologias tem sido amplamente utilizadas na representação de conceitos e relacionamentos entre conceitos em vários
+domínios, em estratégias bem sucedidas de integração de dados. Como consequência, o aumento no número de
+ontologias distintas representando o mesmo domínio tem sido percebido, exigindo assim, abordagens de integração de
+dados e interoperabilidade entre aplicações que lidem com a heterogeneidade semântica e permitam, então, uma
+comunicação eficiente e livre de erros entre os diferentes artefatos. A área de pesquisa de alinhamento de ontologias
+vem estudando formas de identificar automaticamente correspondências entre as entidades de duas ou mais ontologias
+permitindo assim estabelecer um alinhamento como proposta para o problema da heterogeneidade semântica.
+Anualmente, abordagens de alinhamento são avaliadas considerando diferentes pares de ontologias e seguindo uma
+metodologia definida pela Ontology Alignment Evaluation Initiative (OAEI). Como resultado dessa avaliação, desafios
+correntes da área são revistos e novos desafios estabelecidos. Dentre esses, encontra-se o que indica a necessidade
+por abordagens que lidem com a evolução do conhecimento representado pelas próprias ontologias sendo alinhadas. O
+projeto de pesquisa aqui proposto foca nesse desafio, avaliando as abordagens existentes e propondo metodologias e
+algoritmos tanto para obter ontologias revisadas que representem a evolução do conhecimento de forma fidedigna
+quanto para evoluir o alinhamento existente buscando alinhamentos de melhor qualidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Kate Cerqueira Revoredo - Coordenador / FERNANDA BAIÃO - Integrante / Jerome Euzenat - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2015 - 2015
+RISE BPM: Propelling Business Process Management by Research and Innovation Staff Exchange Activity
+Descrição: RISE_BPM networks world-leading research institutions and corporate innovators to develop new horizons for Business
+Process Management (BPM). BPM is a boundary-spanning discipline focused on division and re-integration of day-today
+work in organisations and on analysis of process data for organisational decision-making. Recent break-through
+innovations in Social Computing, Smart Devices, Real-Time Computing, and Big Data Technology create a strong
+impetus for propelling BPM into a pervasive corporate topic that enables design of entirely new products and services. All
+RISE_BPM consortium members possess excellent expertise in distinct aspects of the BPM lifecycle, ranging from
+Strategy and Modelling to Implementation and Analysis of business processes. RISE_BPM networks this complementary
+knowledge to create a unique environment for BPM research and innovation. The research activities are organised with
+reference to the design-science paradigm, including joint activities for analysing technological enablers and societal
+impact factors, as well as designing innovative IT artefacts for the BPM lifecycle. Staff secondments and joint events
+promote a cumulative exchange of knowledge in a think-pair-square-share approach that networks large-scale research
+capabilities and innovation projects carried out by the involved organisations. Key objectives of RISE_BPM are (a) to
+propel BPM research into the era of Social Computing, Smart Devices, Real-Time Computing, and Big Data Technology;
+(b) to enable companies to develop new products and services for designing and analysing business processes; and (c)
+to supply the involved staff with a unique intellectual environment for accumulating boundary-spanning knowledge and
+skills that refer to the entire BPM lifecycle. RISE_BPM extends the established administrative structures of the European
+Research Center for Information Systems (ERCIS) by involving additional BPM thought leaders and corporate
+innovators.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Coordenador.Financiador(es): FAPERJ - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2015 - Atual
+INTEGRATING BUSINESS PROCESS AND ORGANIZATIONAL DECISION MAKING THROUGH ONTOLOGY
+Descrição: An improper integration of business processes and organizational decision making causes a massive loss
+of money in organisations (Brazilian and European). Decisions lack connection to detailed evidence, and
+are insuffi ciently implemented into organizational processes. Log from di fferent Information Systems, tacit
+information from business specialists, documents about the process are source of process evidence, which
+when analyzed can help decision making. However, these evidences come in diff erent format, structured and unstructured, from di fferent source and are usually in a huge amount. Therefore, mechanisms for integrating all these sources and then explicit and represent the knowledge are demanding. On the other hand, ontology has been widely used as knowledge representation artifact through expliciting domain concepts, relationships and axioms and in strategies for data integration. Approaches for knowledge representation through ontology, either manually or automatic have been proposed in the literature. In this project, we investigate the bene ts for organizational decision making of the use of ontology for integrating di fferent sources of process data and as a formalism for knowledge representation.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Deutscher Akademischer Austauschdienst - Bolsa.
+2015 - Atual
+RISE BPM: Propelling Business Process Management by Research and Innovation Staff Exchange Activity
+Descrição: Horizon 2020 - Research and Innovation Framework Programme. RISE_BPM networks world-leading research institutions and corporate innovators to develop new horizons for Business Process Management (BPM). BPM is a boundary-spanning discipline focused on division and re-integration of day-to-day work in organisations and on analysis of process data for organisational decision-making. Recent break-through innovations in Social Computing, Smart Devices, Real-Time Computing, and Big Data Technology create a strong impetus for propelling BPM into a pervasive corporate topic that enables design of entirely new products and services. All RISE_BPM consortium members possess excellent expertise in distinct aspects of the BPM lifecycle, ranging from Strategy and Modelling to Implementation and Analysis of business processes. RISE_BPM networks this complementary knowledge to create a unique environment for BPM research and innovation. The research activities are organised with reference to the design-science paradigm, including joint activities for analysing technological enablers and societal impact factors, as well as designing innovative IT artefacts for the BPM lifecycle. Staff secondments and joint events promote a cumulative exchange of knowledge in a think-pair-square-share approach that networks large-scale research capabilities and innovation projects carried out by the involved organisations. Key objectives of RISE_BPM are (a) to propel BPM research into the era of Social Computing, Smart Devices, Real-Time Computing, and Big Data Technology; (b) to enable companies to develop new products and services for designing and analysing business processes; and (c) to supply the involved staff with a unique intellectual environment for accumulating boundary-spanning knowledge and skills that refer to the entire BPM lifecycle. RISE_BPM extends the established administrative structures of the European Research Center for Information Systems (ERCIS) by involving additional BPM thought leaders and corporate innovators... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Doutorado: (4) . Integrantes: Kate Cerqueira Revoredo - Integrante / FERNANDA BAIÃO - Integrante / FLAVIA SANTORO - Coordenador.
+2015 - Atual
+REFINAMENTO E ALINHAMENTO DE ONTOLOGIAS: METODOLOGIAS E ALGORITMOS
+Descrição: Ontologias tem sido amplamente utilizadas na representacao de conceitos e relacionamentos entre conceitos em varios domınios, em estrategias bem sucedidas de integracao de dados. Como consequencia, o aumento no numero de ontologias distintas representando o mesmo domınio tem sido percebido, exigindo assim, abordagens de interacao de dados e interoperabilidade entre aplicacoes que lidem com a heterogeneidade semantica e permitam, entao, uma comunicacao eficiente e livre de erros entre os diferentes artefatos. A area de pesquisa de alinhamento de ontologias vem estudando formas de identificar automaticamente correspondencias entre as entidades de duas ou mais ontologias permitindo assim estabelecer um alinhamento como proposta para o problema da heterogeneidade sem antica. Anualmente, abordagens de alinhamento sao avaliadas considerando diferentes pares de ontologias e seguindo uma metodologia definida pela Ontology Alignment Evaluation Initiative (OAEI). Como resultado dessa avaliacao, desafios correntes da area sao revistos e novos desafios estabelecidos. Dentre esses, encontram-se os que indicam a necessidade por abordagens que envolvam o usuario de maneira eficaz e que lidem com a evolucao do conhecimento representado pelas proprias ontologias sendo alinhadas. O projeto de pesquisa aqui proposto foca nesses desafios, avaliando as abordagens existentes e propondo metodologias e algoritmos tanto para obter ontologias revisadas que representem a evolucao do conhecimento de forma fidedigna quanto para obter alinhamentos de melhor qualidade... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Kate Cerqueira Revoredo - Integrante / Vinícius Lopes - Integrante / Fernanda Araujo Baião Amorim - Coordenador / Jerome Euzenat - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2017
+Geração Automática de Texto: Métodos e Aplicações
+Descrição: A validação de modelos de processos de negócio normalmente é executada por analistas de negócio. Estes podem ler facilmente o modelo, porém não detêm conhecimento aprofundado do negócio. Em contrapartida, especialistas de domínio conhecem o domínio do negócio, porém não detêm conhecimento sobre modelagem. Para estes, é mais fácil ler um texto em linguagem natural. Por este motivo, tanto o modelo de processo, quanto o texto descritivo, são artefatos necessários para permitir uma comunicação natural entre os especialistas e os analistas de negócio. Este projeto busca desenvolver uma métodos e técnicas para geração de textos a partir de modelos e vice-versa. As propostas serão avaliadas em cenários reais, através de empresas e estudos de caso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Kate Cerqueira Revoredo - Coordenador / Leonardo Azevedo - Integrante / Henrik Leopold - Integrante / raphael de almeida rodrigues - Integrante.Número de produções C, T & A: 2 / Número de orientações: 1
+2014 - 2015
+Refinamento Automático de Ontologias
+Descrição: Este projeto investiga algoritmos para refinamento automático de ontologias, onde essas são representadas tanto através de linguagens lógias, como as lógicas de descrição, quanto probabilísticas, como as redes Bayesianas relacionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3) . Integrantes: Kate Cerqueira Revoredo - Coordenador / FERNANDA BAIÃO - Integrante / Felipe Leão - Integrante / wander vasconcellos - Integrante / danielle Gilaberte - Integrante / raphael melo - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 2 / Número de orientações: 1
+2012 - Atual
+Adaptação e Melhoria de Processos de Negócios através de Conhecimento Contextual
+Descrição: Um desafio que, ainda hoje, é discutido tanto pela comunidade acadêmica quanto pela indústria, está relacionado à habilidade de uma organização em responder a mudanças em seus processos de forma eficiente e efetiva. A Gestão de Processos de Negócios é uma abordagem capaz de prover conhecimento e oportunidades de contínua avaliação do trabalho executado pelas pessoas em uma organização. Observa-se a necessidade não só de apoiar a realização das atividades em um processo, mas de customizar ou adaptar processos genéricos para torná-los aplicáveis a contextos específicos. Esta tarefa exige experiência e envolve o conhecimento sobre diversos aspectos do negócio, do ambiente, das pessoas e das tecnologias utilizadas. Este projeto de pesquisa tem como objetivo ampliar o cenário de uso de contexto em processos de negócios, visando não somente o apoio à realização de atividades, mas ao suporte à adaptação e melhoria destes processos. Especificamente, serão tratadas as questões de identificação de contexto em processos de negócios, identificação de padrões e modelos, raciocínio, análise de dados históricos e adaptação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Kate Cerqueira Revoredo - Integrante / FERNANDA BAIÃO - Integrante / FLAVIA SANTORO - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2013
+Redes Sociais de Pesquisa em Sistemas de Informação
+Descrição: Compreende o desenvolvimento de soluções voltadas à caracterização da pesquisa em Sistemas de Informação no Brasil, a análise de sua configuração e potencialidades, bem como sua divulgação e conseqüente difusão à Sociedade. A base desta proposta está nas possibilidades de mineração, visualização e análise de estruturas de redes sociais de pesquisadores, instituições, grupos e temáticas de pesquisa em SI. As redes estudadas, bem como as análises obtidas podem servir de fonte de informação para a estruturação de um portal de pesquisa em SI para divulgação e navegação pela Sociedade dos grupos, instituições, temáticas de pesquisa, produção e resultados, fomentando e incentivando o interesse geral pela área... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Kate Cerqueira Revoredo - Integrante / Renata Mendes de Araujo - Coordenador / Vania Maria Felix Dias - Integrante / Carlos Alberto Vieira de Campos - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2010 - 2011
+Aprendizado de Lógicas de Descrição Probabilísticas
+Descrição: Lógicas de descrição têm recebido intensa atenção na literatura
+por oferecerem um excelente balanço entre expressividade e
+complexidade, com aplicação na representação de conhecimento
+médico e lingüístico, bem como na codificação de informações na
+rede semântica. Em geral, elas combinam conceitos, papéis e
+indivíduos, usando operadores booleanos e quantificadores
+restritos. Entretanto, não representam incertezas que são
+comumente encontradas em aplicações. Por isso, um significativo
+número de propostas pode ser encontrado na literatura, onde
+lógicas de descrição são combinadas com raciocínio sob incerteza.
+O objetivo deste projeto de pesquisa é especificar lógicas de
+descrição probabilísticas com bom equilíbrio entre expressividade
+e complexidade e então propor algoritmos de inferência e
+aprendizado automático para elas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Kate Cerqueira Revoredo - Coordenador / josé eduardo ochoa luna - Integrante / Fabio G. cozman - Integrante / Felipe Leão - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2009 - 2015
+Aprendizado de Lógicas de Descrição Probabilísticas
+Descrição: Tem por objetivo o desenvolvimento de algoritmos de inferência e aprendizado de lógicas de descrição probabilísticas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Kate Cerqueira Revoredo - Coordenador / Felipe Leão - Integrante / raphael melo - Integrante / Marcius Armada - Integrante.Número de produções C, T & A: 12 / Número de orientações: 5
+2009 - 2014
+INCT em Ciência da WEB
+Descrição: Este projeto propõe a criação do Instituto Brasileiro de Pesquisa em Ciência da Web, que integrará 10 instituições brasileiras congregando esforços para melhor compreender e planejar a Web. O Instituto possui como missões: 1. Fazer avançar a pesquisa científica em linhas associadas à Ciência da Web, nas quais os pesquisadores do Instituto vêm produzindo contribuições de qualidade para as comunidades científicas nacional e internacional; 2. Educar profissionais e pesquisadores, para garantir inovação e promover colaboração interdisciplinar; 3. Transferir conhecimento para todos os setores da sociedade através de programas educacionais abrangentes; e 4. Transferir conhecimento para a indústria e o setor de serviços através de programas específicos, incluindo residências no Instituto. O programa de pesquisa do Instituto está organizado em 5 camadas: Pessoas e Sociedade , Tecnologias de Software para Aplicações na Web , Gerenciamento de Dados da Web , Infraestrutura da Web e Fundamentos da Ciência da Web . O Instituto congregará cerca de 100 pesquisadores doutores, com alto perfil de produção, liderados por 6 pesquisadores sênior. A equipe de pesquisa conta com: 7 pesquisadores com nível máximo de bolsa de produtividade do CNPq (1A), 3 detentores Ordem Nacional do Mérito Científico na classe Grã-Cruz, 6 detentores Ordem Nacional do Mérito Científico na classe Comendador, 4 membros da Academia Brasileira de Ciências, e um total de 55 bolsistas de produtividade de pesquisa do CNPq. O Instituto certamente congrega o grupo de pesquisadores mais representativo em Ciência da Computação no Brasil, com relevância nacional e internacional. Conta com 106 colaboradores de várias instituições. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Integrante / Carlos José Pereira de Lucena - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2009 - 2012
+LOGPROB: Lógica Probabilística --- Fundamentos e Aplicações Computacionais
+Descrição: Projeto Temático Fapesp de pesquisa em Logica e Probabilidade, sob o processo 2008/03995-5, aprovado com início em 02/2009. Coordenador: Marcelo Finger. No valor de R$324324.80 mais bolsas... Situação: Concluído; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Integrante / Fabio G. cozman - Integrante / Renata Wassermann - Integrante / Paulo Eduardo Santos - Integrante / Anna Helena Reali Costa - Integrante / Jerônimo Cordoni Pellegrini - Integrante / Marcelo Finger - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2009 - 2009
+Aprendizado de Lógicas de Descrição Probabilísticas
+Descrição: Tem sido grande o interesse em combinar lógicas de descrição com incertezas, definindo lógicas de descrição probabilísticas. O objetivo deste trabalho será o de estudar formas automáticas de aprender sentenças nessas lógicas a partir de bases de dados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2007 - 2009
+PFORTE: Revisão de Teorias Probabilísticas Relacionais a partir de Exemplos
+Descrição: rojeto CNPq Edital MCT/CNPq 15/2007 - Universal - Faixa B, R$ 49.982,64 , Processo: 472202/2007-3, Revisao de Modelos Probabilisticos Relacionais a partir de Exemplos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Integrante / Gerson Zaverucha - Coordenador.
+2006 - 2009
+Algoritmos: engenharia e fundamentos
+Descrição: Este projeto pretende abarcar um amplo espectro
+indo desde fundamentos até aplicações de caráter altamente
+tecnológico, com formação de pessoal capacitado. Um dos itens
+considerados por este projeto é o desenvolvimento de algoritmos de
+revisão de teoria.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Integrante / Paulo Augusto Silva Veloso - Coordenador.
+2003 - 2005
+Desenvolvimento e Aplicações de Redes Bayesianas em Séries Temporais
+Descrição: CNPq 477413/2003-0 , Edital Universal Desenvolvimento e Aplicações de Redes Bayesianas em Séries Temporais (TBayes) Coordenador. Valor 19965,00 reais por 2 anos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kate Cerqueira Revoredo - Integrante / Gerson Zaverucha - Coordenador.

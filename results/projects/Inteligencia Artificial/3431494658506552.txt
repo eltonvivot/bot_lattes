@@ -1,0 +1,20 @@
+2014 - Atual
+PRODUÇÃO DE RECURSOS EDUCACIONAIS DIGITAIS
+Descrição: 1.	Identificação da proposta
+1.1.	Objetivo de projeto
+Produzir material de Análise de Modelos de Regressão Linear para ser utilizado em futuros cursos Semipresenciais ou de Ensino a Distância (EaD), via ambiente virtual de aprendizagem (Moodle).
+1.2.	Indicação de Cursos/Áreas de Conhecimento que podem ser beneficiadas com o recurso educacional
+ 	Todos os cursos que tem a disciplina de Probabilidade e Estatística ou disciplinas e outras que possuem o tópico regressão na ementa, como por exemplo: Engenharia Eletrônica, Engenharia Elétrica, Engenharia de Controle e Automação, Engenharia Mecânica, Engenharia Civil, Engenharia de Computação, Bacharelado em Arquitetura e Urbanismo, Bacharelado em Química, Bacharelado em Sistema de Informação, Licenciatura em Matemática, Bacharelado em Administração, dentre outros.  
+1.3.	Tecnologias utilizadas
+Editoração de Documentos, Ambiente Virtual de Aprendizagem (Moodle). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maiko Fernandes Buzzi - Coordenador / Gabrielly Halas - Integrante.
+2014 - Atual
+Natural Language Generation for Weather Forecast
+Descrição: O presente projeto busca criar um método de geração automática de textos descritivos sobre o tempo a partir das saídas dos modelos que normalmente são interpretados pelo meteorologista, que por sua vez descreve como será o clima num dado período de tempo, ou seja, se busca uma descrição da previsão de tempo sem a necessidade da intervenção constante do meteorologista.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Maiko Fernandes Buzzi - Coordenador / Cesar Beneti - Integrante.
+2009 - 2013
+Metodologias de Avaliação de Segurança e Monitoramento de Taludes Terrestres
+Descrição: O presente projeto de pesquisa tem como objetivo avaliar metodologias que permitam consolidar diretrizes de gerenciamento de riscos geotécnicos em taludes terrestres. Para tanto, o projeto contemplará o estudo das informações de investigação geotécnica e instrumentação, disponíveis em duas encostas da Serra do Mar paranaense nas quais há dutos da Transpetro instalados. Este projeto trata de parceria da UFPR/CENPES-Petrobrás, sendo financiado com recursos de pesquisa desta empresa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maiko Fernandes Buzzi - Coordenador / Alessander Kormann - Integrante / Eduardo Dell'Avanz - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2006 - 2013
+AIEVC - Análise de incertezas e estimação de valores de controle para o sistema de monitoração geotécnico-estrutural na barragem de Itaipu
+Descrição: O principal objetivo deste projeto é estudar e quantificar as incertezas relacionadas à análise do comportamento geotécnico-estrutural da barragem de ITAIPU, baseando-se em informações de projeto, construção e operação da obra, dando especial atenção aos dados advindos do sistema de monitoração de ITAIPU, visando a segura operação da maior hidrelétrica do mundo. Também pretende-se desenvolver modelos de previsão dos valores de controle para as condições de carregamento normal (CCN) de operação dos instrumentos lá instalados, a fim de serem utilizados pela equipe responsável pela segurança da barragem, bem como reavaliar os valores de controle para condições de carregamentos extremos (CCE). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Maiko Fernandes Buzzi - Integrante / Andrea Sell Dyminski - Coordenador / Anselmo Chaves Neto - Integrante / Alessander Kormann - Integrante / Ney A. Nascimento - Integrante / cristovão Fernandes - Integrante / Mildred Ballin Hecke - Integrante / Eduardo Dell Avanz - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

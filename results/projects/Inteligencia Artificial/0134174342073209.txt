@@ -1,0 +1,19 @@
+2022 - Atual
+Desenvolvimento de métodos e algoritmos para análise de ondas acústicas dispersivas em poços preenchidos por fluido
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Tobias Heimfarth - Coordenador.
+2022 - Atual
+Desenvolvimento de métodos e algoritmos para obtenção da permeabilidade de rochas em poços preenchidos por fluido através de medidas acústicas do modo Stoneley
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Tobias Heimfarth - Coordenador.
+2020 - 2021
+Desenvolvimento de algoritmo de processamento de dados para imageamento sônico de estruturas geológicas em poços.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Tobias Heimfarth - Integrante / Pablo Diniz Batista - Integrante / Odilon Divino Damasceno Couto Junior - Coordenador.
+2019 - Atual
+Propagação de ondas acústicas dispersivas em poço preenchido por fluido: análise computacional para processamento de sinais e modelagem numérica.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Tobias Heimfarth - Integrante / Pablo Diniz Batista - Integrante / Odilon Divino Damasceno Couto Junior - Coordenador.
+2016 - 2016
+Desenvolvimento de algoritmos para o processamento de sinais em ondas dispersivas.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Tobias Heimfarth - Integrante / Pablo Diniz Batista - Coordenador / Odilon Divino Damasceno Couto Junior - Integrante.
+2010 - 2012
+Desenvolvimento de microsensores magnéticos tipo fluxgate em tecnologia planar
+Descrição: Fluxgates são magnetômetros vetoriais com grande sensibilidade, perdendo somente para SQUIDs, mas operam a temperatura ambiente. Originalmente estes sensores foram desenvolvidos com tamanho e consumo energético incompatível com muitas tecnologias, limitando o seu uso. Para solucionar este problema alguns tipos de microfluxgates já foram propostos na literatura utilizando a tecnologia de filmes finos. Baseado em trabalhos anteriores onde foram obtidos os melhores parâmetros para a eletrodeposição de ligas de NiFe e NiFeCo este projeto propõe a construção de sensores funcionais utilizando tecnologia planar de modo a testar o material ferromagnético assim como os novos layouts propostos. Estes dispositivos primeiramente serão feitos ainda em escala macro por facilidade mas são, ao contrário dos macrofluxgates convencionais, diretamente escalonáveis. Depois de um estudo sistemático das características de cada sensor macro, somente os que apresentarem melhor performance serão miniaturizados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Tobias Heimfarth - Integrante / MULATO, MARCELO - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

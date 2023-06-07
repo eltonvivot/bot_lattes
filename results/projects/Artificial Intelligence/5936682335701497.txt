@@ -1,0 +1,134 @@
+2022 - Atual
+ProCoReS - Caracterização e Modelagem de Processos de Contágio em Redes Sociais de Diferentes Domínios
+Descrição: ********Projeto Universal CNPq - Chamada CNPq/MCTI/FNDCT Nº 18/2021 - Faixa B - Grupos Consolidados. 
+Redes sociais são a base da organização da sociedade, formadas por 2 elementos: pessoas e suas conexões (ex. familiar, amizade, trabalho). Tal combinação resulta em estruturas simples ou extremamente complexas. Em especial, conexões representam padrões de ligações que podem ser efêmeras/duradouras, casuais/intensas e pessoais/anônimas. Atreladas a elas, estão processos de contágio ou fluxos que passam pelas ligações entre as pessoas -- ex., doença, dinheiro, conhecimento, comportamento, obesidade. Para modelar redes e contágio, a maioria das soluções atuais utiliza grafos. Porém, eles não são totalmente realistas, e novos modelos de processos de contágio devem permitir: representação de diferentes classes de indivíduos e conexões, ligação entre processos e ocorrência concomitantes, e conexões com dois ou mais indivíduos ao mesmo tempo. Entender como conexões são formadas e como os tipos de fluxos permeiam tais redes é fundamental para entender como nossa sociedade se organiza e evolui. O objetivo é propor modelos matemáticos, estatísticos, de agentes e de aprendizado de máquina que consideram: múltiplos aspectos complexos de processos de contágio social e parametrização através de fontes de dados (ex., redes sociais online, mobilidade, colaborações). Tais modelos devem permitir classes de indivíduos e relacionamentos; modelar a co-ocorrência, causalidade e ligação entre processos de contágio; e representar multi-relacionamentos... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Clodoveu Davis - Integrante / COUTO DA SILVA, ANA PAULA - Coordenador.
+2021 - Atual
+Centro de Inovação em Inteligencia Artifical para a Saúde (CIIA- Saude)
+Descrição: ******* Edital FAPESP/MCTI/CGI-Br *********
+Pesquisa e o desenvolvimento de soluções avançadas de inteligência artificial (IA), capazes de auxiliar profissionais de saúde no diagnóstico e tratamento de doenças, e orientar gestores de saúde na programação de ações de prevenção e organização da assistência à saúde. Isso permitirá a otimização dos recursos e melhora da atenção à saúde da população no Brasil.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Wagner Meira - Integrante / Virgilio A. F. Almeida - Coordenador.
+2021 - Atual
+Captar-Libras: Sistema de Comunicação por vídeos para surdos aplicado ao pré-atendimento médico
+Descrição: Pesquisa e desenvolvimento de métodos e técnicas de IHC, Visão Computacional (VC) e Inteligência Artificial (IA) que viabilizem a comunicação entre surdos e profissionais de saúde, no contexto de pré-atendimento médico, sem a necessidade de um intérprete.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Erickson Rangel Nascimento - Integrante / Mario Fernando Montenegro Campos - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Outra.
+2020 - 2021
+Covid Data Analytics
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 07/07/2022.
+Descrição: Este projeto tem por objetivo monitorizar, modelar e analisar a pandemia do coronavírus através da construção de uma plataforma de coleta, enriquecimento, análise e modelagem conjunta de dados oriundos da web, das redes sociais e de outras fontes tradicionalmente utilizadas em estudos epidemiológicos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Wagner Meira - Coordenador / Ana Paula Couto Silva - Integrante.
+2020 - Atual
+SINDH - Conhecimento
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 03/02/2022.
+Descrição: O objetivo geral deste projeto é realizar um trabalho de pesquisa e desenvolvimento de plataforma que potencialize o atendimento realizado pela Ouvidoria Nacional de Direitos Humanos, pelos canais do Disque Direitos Humanos (Disque 100), da Central de Atendimento à Mulher (Ligue 180) e Direitos Humanos Brasil (canais digitais), por meio da revisão, proposição e implantação de formulários de atendimento e de avaliação de riscos de vida de vítimas de violações e de encaminhamento e acompanhamento das manifestações registradas... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Meira - Coordenador / Adriano Pereira - Integrante / COUTO DA SILVA, ANA PAULA - Integrante.
+2020 - Atual
+Programa de Capacidades Analíticas do Ministério Público do Estado de Minas Gerais - MPMG
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 03/02/2022.
+Descrição: Consultoria técnica especializada para prestação de serviços de pesquisa e desenvolvimento na área da Inteligência Artificial Aplicada e soluções de Big Data, vinculada ao escopo do Programa de Capacidades Analíticas do MPMG, incluindo transferência de conhecimento, por meio de mentoring e operação assistida... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Wagner Meira - Coordenador / Anisio - Integrante.Financiador(es): Ministerio Público do Estado de Minas Gerais - Cooperação.
+2019 - Atual
+Ciência de Dados aplicada à Informação Estratégica e Inteligência em Saúde
+Descrição: Este projeto é desenvolvido pelo Departamento de Ciência da Computação da UFMG (DCC/UFMG) em parceria com DEMAS/SE/MS através do TED 79/2017, e tem como objetivos gerais desenvolver competências, habilidades e estrutura para promover ações de sistematização e disseminação em ciência de dados aplicada à informação estratégica e inteligência em saúde, para o Ministério da Saúde, para o SUS e a para Sociedade... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Wagner Meira - Coordenador / Adriano Pereira - Integrante / Ana Paula Couto Silva - Integrante.
+2018 - 2020
+ATMOSPHERE: Adaptive, Trustworthy, Manageable, Orchestrated, Secure, Privacy-assuring, Hybrid Ecosystem  for REsilient Cloud Computing
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 23/04/2018.
+Descrição: ***********Chamada H2020-EUB-2017 (EU-Brazil Joint Call) ****************
+ATMOSPHERE is a project aiming at the design and development of an ecosystem of a framework,
+platform and application of next generation trustworthy cloud services on top of an intercontinental hybrid and federated resource pool. The framework considers a broad spectrum of properties and their measures. The platform supports the building, deployment, measuring and evolution of trustworthy cloud resources, data network and data services. The platform is demonstrated on a sensitive scenario to build a cloud-enabled secure and trustworthy application related to distributed telemedicine.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Francisco Brasileiro - Coordenador.
+2017 - Atual
+Novos Algoritmos para Geração Automática de Fluxos de tarefas em Aprendizado de Máquina
+Descrição: ****************** EDITAL PPM XI FAPEMIG 02/2017 *****************************
+Nos últimos anos, o interesse da comunidade científica e da indústria em técnicas de aprendizado de máquina cresceu virtuosamente. Porém, para um leigo na área, utilizar os métodos disponíveis de forma eficaz para extrair conhecimento de bases de dados é um desafio, pois é preciso ter conhecimento de uma variedade de métodos e seus parâmetros. Isso porque, de acordo com o teorema da generalização do aprendizado, não existe algoritmo que seja o melhor para qualquer base de dados. 
+Além de ser uma tarefa difícil, a escolha dos melhores algoritmos e seus parâmetros é massante, pois envolve testar manualmente uma infinidade de combinações possíveis.
+Esse projeto propõe métodos capazes de gerar automaticamente o que chamamos de fluxos de tarefas para resolver problemas de aprendizado de máquina. Fluxos são definidos como sequências de passos a ser seguidos para resolver com sucesso uma tarefa em uma base de dados específica, como as técnicas de pré-processamento e o algoritmo mais apropriado e seus parâmetros.
+Iremos modelar dois tipos de algoritmos de programação genética (PG) para gerar automaticamente fluxos de tarefas customizados para uma base de dados específica: PG baseada em gramática e PG semântica. Enquanto a modelagem do primeiro tipo de método é direta, existem muitos desafios na concepção do segundo método.
+Assim, esse projeto contribuirá também para melhorar o processo de busca de algoritmos de PG semântica. Em particular, trataremos do problema de escalabilidade desses métodos. A escalabilidade é um problema porque esses métodos atuam sobre um espaço semântico, cujo número de dimensões é definido de acordo com o tamanho do conjunto de dados de treinamento. Para resolver esse problema, iremos propor várias formas de realizar uma amostragem do espaço de dados. Como resultados, além dos dois métodos mencionados, geraremos um protótipo de uma ferramenta que permitirá que qualquer usuário leigo seja capaz de gerar o melhor fluxo para sua base de dados de interesse.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Coordenador / Alex Alves Freitas - Integrante / Alex Guimaraes de Sa - Integrante / Walter J G S Pinto - Integrante.
+2017 - Atual
+INCT Cyber: Instituto Nacional de Ciência e Tecnologia para uma Sociedade Massivamente Conectada
+Descrição: A missão do Instituto Nacional de Ciência e Tecnologia para uma Sociedade Massivamente Conectada: Uma Abordagem Ciberfı́sica e Social (INCT-Cyber) é entender e desenvolver princı́pios cientı́ficos e tecnologias necessárias para as interações futuras entre seres humanos, computadores e o mundo fı́sico. Os princı́pios que norteiam o INCT-MCS são: (1) desenvolver sistemas e tecnologias necessárias para construir sistemas ciberfı́sicos complexos que as pessoas possam usar com grande confiança; (2) acelerar a implantação de sistemas ciberfı́sicos e sociais em uma sociedade massivamente conectada através do desenvolvimento de métodos, ferramentas e componentes de software e hardware baseados em princı́pios transversais, validados por meio protótipos e cenários de teste; (3) transferir os resultados cientı́ficos e tecnológicos alcançados para a indústria.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Virgilio A. F. Almeida - Coordenador.
+2016 - 2019
+MASWeb: Models, Algorithms and Systems for the Web
+Projeto certificado pelo(a) coordenador(a) Nivio Ziviani em 12/08/2016.
+Descrição: *****Edital FAPEMIG-PRONEX*****
+Dada a escala exponencial de crescimento da Web, o surgimento de novas aplicações e serviços está limitado por aspectos de infra-estrutura de software e hardware. Portanto, o estudo dos diversos aspectos que envolvem a Web extrapola as atividades tradicionais de geração de conteúdo e criação de novos serviços, demandando o desenvolvimento de novas tecnologias que permeiam as suas diversas camadas bem como o entendimento da sociedade que utiliza os seus serviços. Dentro deste contexto, O projeto foi proposto para estudar os diversos fenômenos relacionados com a Web, tendo como objectivo desenvolver modelos, algoritmos e novas tecnologias que permitam aumentar a integração da Web com a sociedade, tornando mais efetiva e segura a distribuição de informação, como também mais eficazes e eficientes os serviços disponíveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Nivio Ziviani - Coordenador.
+2016 - 2019
+BIGSEA: Europe- Brazil Collaboration of Big Data Scientific Research Through Cloud-Centric Applications
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 03/02/2022.
+Descrição: EUBra-BIGSEA (Europe ? Brazil Collaboration of BIG Data Scientific Research through Cloud-Centric Applications)  aims at providing an abstract framework for the development of distributed Big Data applications. Multiple data models will be supported (e.g. data streams, multidimensional data, etc.) and efficient mechanisms will ensure privacy and security, on top of a QoS-aware layer for the smart and rapid provisioning of resources in a cloud-based environment.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Meira - Coordenador.
+2015 - 2017
+CONVERSE: Busca por Correlações Entre Dados Virtuais e Reais: Aplicações na Área de Saúde
+Descrição: *******************Edital Programa Pesquisador Mineiro - PPM IX *******************
+O monitoramento de eventos em redes sociais já mostrou o potencial das informações disponíveis nestas redes para prever eventos (i) em um curto espaço de tempo (e.g. eleições) ou (ii) enquanto eles acontecem (e.g. epidemias). Porém, uma questão que ainda não foi respondida é: dado o que conhecemos sobre o indivíduo e o que/como ele se expressa nas redes sociais, seria possível fazer previsões e intervenções de comportamento de mais longo prazo, como em questões relacionadas à saúde? Mais que isso, seria possível utilizar estes dados como um ''espelho'' do mundo real? Existe uma forma de, tendo disponíveis estes dados, correlacioná-los com a realidade?
+Existem diversos desafios computacionais para migrarmos da análise de eventos bem definidos e com atores bem delineados, como uma eleições ou uma epidemia, para cenários mais amplos. Monitoramento de eventos específicos não necessariamente precisam ter foco em usuários, e podem considerar apenas as mensagens sendo postadas, independente de quem as poste. No contexto da saúde, análises deste tipo também podem ser feitas, mas para fazer correlações com o mundo real, precisamos conhecer os "hábitos" dos usuários e, portanto, os métodos utilizados devem ter a capacidade de identificar estes usuários.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2014 - 2018
+Bioinformática Estrutural de Proteínas: modelos, algoritmos e aplicações biotecnológica
+Descrição: ***Edital CAPES 51/2013 (Biologia Computacional )****
+Este projeto propõe-se enfrentar dois desafios biotecnológicos de grande relevância nacional. O primeiro envolve a ricina, uma potente fitotoxina encontrada na mamoneira. Co-produtos da produção do óleo de mamona podem conter quantidades letais de ricina. Além do risco de intoxicação animal e humana do bagaço, isso tem dificultado sua reutilização e reciclagem, em especial no semiárido nordestino. A ricina preocupa também pelo seu potencial uso como arma química. Portanto, há forte apelo para se encontrar meios efetivos de neutralizar, inibir e/ou detectar a ricina. O segundo envolve a modelagem de celulases multifuncionais, capazes de degradar eficientemente a lignocelulose, composto base para a produção de biocombustíveis de segunda geração, os quais têm por princípio a utilização de subprodutos de plantas que não podem ser usados na alimentação humana.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Raquel Melo Minardi - Coordenador.
+2013 - 2016
+Métodos Evolucionários para Geração Automática de Algoritmos de Aprendizado
+Descrição: ***********Universal CNPq 14/2013********************
+O principal objetivo desse projeto é utilizar um algoritmo evolucionário para gerar automaticamente um algoritmo de classificação baseado em Redes Bayesianas. O algoritmo será validado em três contextos: considerando bases de dados específicas, conjuntos de bases com características semelhantes e bases de dados genéricas. Além disso, estudaremos como melhorar a generalização dos algoritmos criados.
+O objetivo a longo prazo é que possamos criar métodos evolucionários capazes de geral algoritmos de classificação genéricos, capazes de substituir (parcialmente) um design humano.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Coordenador.
+2013 - 2015
+Métodos Evolucionários em Mineraçăo de Dados: Aprendizado Semi-Supervisionado para Dados Web
+Descrição: *****PPM (Programa Pesquisador Mineriro) VII - Edital Fapemig 03/2013 *****
+Esse projeto propőe um conjunto de métodos baseados em aprendizado (semi-) supervisionado para resolver diversos problemas envolvendo dados provenientes da Web, embora outras fontes de dados também possam ser utilizadas com pequenas adaptaçőes. O projeto destaca vários outros sub-projetos que tratam de problemas relevantes dentro da parte de mídias sociais, tais como análise de opiniăo, agrupamento e caracterizaçăo de usuários por interesse. Porém, seu prinicpal objetivo é estudar como métodos evolucionários podem auxiliar nessas tarefas, principalmente quando combinados com abordagens semi-supervisionadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2014
+Mineração de Dados Guiada por Modelos de Conhecimento
+Descrição: O objetivo geral desse projeto é melhorar algoritmos de mineração de dados, em particular mineração de textos e grafos por meio da exploração de modelos de conhecimento para aumentar sua efetividade e paralelização, de tal que forma que eles possam escalar melhor.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Meira - Coordenador.
+2012 - 2013
+Métodos Bio-inspirados para Aprendizado Semi-supervisionado
+Descrição: *** Edital MCT/CNPq No.14/2011- Universal*****
+O principal objetivo desse projeto e projetar e desenvolver novos metodos bioinspirados
+para resolver problemas de aprendizado utilizando uma abordagem de classicação
+semi-supervisionada, com foco em algoritmos de programação genética e colônias de formigas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2013
+Agrupamento e Caracterização de Usuários em Redes Sociais
+Descrição: *****Edital FIAT/FAPEMIG*****
+O Objetivo desse projeto é Identificar grupos de consumidores de carros da FIAT, bem como de carros de empresas concorrentes,  utilizando dados do Twitter.   Várias dimensões poderão ser utilizadas nesse processo, incluindo faixa etária, sexo, classe social, etc.
+Os grupos identificados serão então caracterizados a partir de seu comportamento no Twitter, como sendo simples consumidores ou geradores ativos de informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Fiat Automoveis - Matriz - Bolsa.
+2011 - 2013
+Métodos Evolucionários em Mineração de Dados: Classificação e Agrupamento de Dados Web
+Descrição: Programa Pesquisador Mineiro
+Edital EDITAL FAPEMIG 03/2011. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2010 - 2011
+InCrivel - Incorporando Credibilidade a Algoritmos de Mineração de Dados
+Descrição: *****Edital Universal CNPq*****
+O principal objetivo desse projeto é estimar a credibilidade de exemplos presentes em um conjunto de treinamento, determinando o quanto cada exemplo deve contribuir para criação de um modelo de classificação. Programação genética está sendo utilizada para gerar funções de credibilidade baseadas em um conjunto de fatores que definem se um exemplo é confiável ou não.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+C5 - Centro de Competências em Comunidades de Cooperação e Conhecimento
+Descrição: http://www.c5.dcc.ufmg.br/
+O projeto C5 foi criado com o objetivo de estudar o comportamento dos usuários e das comunidades de pessoas com interesses comuns formadas nas redes sociais da Web. Ele está focado na análise do Peabirus, uma rede de negócios que nasceu de um projeto financiado pelo governo do estado de Minas Gerais.
+O C5 irá gerar uma metodologia de avaliação, tanto qualitativa quanto quantitativa, para dados provenientes dessas redes. Nosso principal objetivo é identificar, caracterizar e entender padrões de comportamento das pessoas nas redes e das comunidades das quais elas participam.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Meira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2011
+EMCHi: Evolução de Modelos de Classificação Hierárquica
+Descrição: *****Edital PPP - Programas Primeiro Projetos*****
+Esse projeto tem como principal objetivo desenvolver modelos de classificação hierárquica baseados em algoritmos evolucionários. Além disso, ele também investigará métricas eficazes para avaliação de métodos hierárquicos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2011
+Incorporando Modelos de Conhecimento a Algoritmos de Mineração de Dados Escaláveis
+Descrição: Projeto de cooperação com o INRIA, foca em quatro linhas de pesquisa: (1) modelagram de conhecimento,  (2) mineração de texto, (3) mineração de grafos, (4) paralelização de algoritmos de mineração de dados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Meira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2009
+Algoritmos Evolucionários para Criação de Novos modelos de Classificação Hierárquica
+Descrição: Edital PRPQ. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Coordenador.Financiador(es): Santander - Bolsa.
+2008 - Atual
+Instituto Nacional de Ciência e Tecnologia para Web - InWeb
+Descrição: www.inweb.org.br
+Os Institutos Nacionais de Ciência e Tecnologia deverão ocupar posição estratégica no Sistema Nacional de Ciência e Tecnologia (SNCT) desenvolvendo programas de pesquisas consistentes e prioritários para o desenvolvimento científico e tecnológico e, particularmente, para a sociedade. O ICNT Web é uma rede integrada de pesquisadores de quatro instituições, coordenada pelo prof. Virgilio Almeida, do Departamento de Ciência da Computação da UFMG. A Web é o maior sistema de informação e comunicação já construído, e interfere de forma significativa nas atividades humanas. O INCT Web foi criado para projetar e desenvolver sistemas, tecnologias e aplicações que permitam explorar as possibilidades de uso da Web no futuro de forma benéfica para a sociedade. O INCT Web visa estudar e entender os fundamentos científicos e tecnológicos da Web, bem como suas repercussões sociais, para propor e desenvolver sistemas e tecnologias que poderão compor a Web do futuro.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Virgilio A. F. Almeida - Coordenador / Nivio Ziviani - Integrante.
+2007 - 2008
+Linfoma - Data Mining e Analise de Imagens PET
+Descrição: Esse projeto tem como objetivos pre-processar imagens de exames PET e usar tecnicas de data mining e processamento de imagens para auxiliar no prognostico de pacientes com linfoma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Gisele Lobo Pappa - Integrante / Hugues Talbot - Coordenador / Michel Meignan - Integrante / Emmanuel Itti - Integrante.Financiador(es): Ecole Superieure d'Ingenieurs en Eletrotechniquee et Eletronique - Bolsa / Hospital Henri Mondor - Cooperação.
+2003 - 2007
+Uso de Programacao Genetica baseada em Gramaticas para Construir Automaticamente Algoritmos de Inducao de Regras
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Alex Alves Freitas - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2001 - 2002
+Uso de data mining para redução do número de testes aplicados em celulares durante sua produção
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Celso Kaestner - Coordenador.Financiador(es): Motorola Industrial Ltda. - Bolsa.
+2000 - 2000
+Utilizando a Biblioteca JPDA para construcao de Depuradores Java
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gisele Lobo Pappa - Coordenador.
+1998 - 1999
+PVM - Construindo Maquinas Virtual Paralelas para Auxiliar no Ensino De Programacao Concorrente
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gisele Lobo Pappa - Integrante / Flavio Arnaldo Braga da Silva - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

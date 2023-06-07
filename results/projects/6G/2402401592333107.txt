@@ -1,0 +1,170 @@
+2022 - Atual
+INTERCONEXÃO DE SIMULADORES EM TEMPO REAL ATRAVÉS DE REDES GEOGRÁFICAS  DISTRIBUÍDAS (GD)
+Descrição: O objetivo principal do projeto é investigar a interoperabilidade de dois simuladores em
+tempo real (TR) para identificar e avaliar a limitação de simulações geograficamente distribuídas (GD). Os principais desafios decorrentes da implementação da simulação GD foram identificados como o método de interface e o meio de comunicação utilizado para a realização da interface. Essas questões serão abordadas para indicar o potencial e a capacidade de executar uma simulação GD com diferentes instalações de laboratórios TR.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Robson F. S. Dias - Coordenador / Emanuel L. van Emmerik - Integrante / Felipe Dicler - Integrante / Gabriel S. Antero - Integrante / José F. L. de Oliveira - Integrante / João M. T. do Amaral - Integrante / Paolo C. Erazo Huera - Integrante / Luan L. dos Santos - Integrante / Thamiris B. de Paula - Integrante.
+2022 - Atual
+Algoritmos para Processamento de Sinais em Sistemas Distribuídos
+Descrição: Este projeto visa a desenvolver métodos de aprendizado distribuído que podem ser utilizados quando nós de uma rede têm a capacidade computacional necessária para processar dados localmente e a capacidade de comunicação para compartilhar dados e estimativas com seus vizinhos. A coleta de dados de vários sensores pode melhorar o desempenho e a robustez da rede utilizando diversidade e cooperação entre os agentes. No entanto, os recursos necessários para transmitir todos os dados para uma unidade central capaz de processá-los de forma centralizada pode ser proibitivo e ineficiente, principalmente para redes grandes e complexas. O processamento descentralizado dos dados oferece a vantagem da diversidade juntamente com a redução dos requisitos de comunicação. Além dos ganhos de desempenho, as redes distribuídas oferecem maior confiabilidade no caso de nós defeituosos ou links quebrados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador / MARTINA MARQUES JARDIM - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.
+2022 - Atual
+Uso de geoprocessamento e inteligência artificial para monitoramento de ecossistemas no campo
+Descrição: A Organização das Nações Unidas, através dos ODS (Objetivos de Desenvolvimento Sustentável), está fazendo um apelo ao mundo para que sejam realizadas ações para acabar com a pobreza e preservar o meio ambiente. Em especial, o ODS 2 - Fome Zero e Agricultura  Sustentável é o de maior interesse ao agronegócio, que precisa aumentar a produção preservando o meio ambiente e respeitando o ODS 15  - Vida Terrestre. Assim, um dos grandes desafios da expansão da agricultura está não somente na questão econômica, mas também em como não causar danos ao planeta.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador / Sergio Lima Netto - Integrante / Adriana T. Kauati - Integrante / Luiz Wagner Pereira Biscainho - Integrante / Diniz, P.S.R. - Integrante / DA SILVA, EDUARDO A.B. - Integrante / joao baptista de oliveira e souza filho - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2021 - 2021
+Parecer Técnico sobre nulidade da patente PI0100211-2
+Descrição: Elaborar um relatório técnico na forma de parecer de especialista em telecomunicações sobre possível nulidade da patente PI0100211-2.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2021 - 2021
+Parecer Técnico sobre infração da patente BR122015006261-6
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre possível não infração e nulidade de patente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2021 - 2021
+Parecer Técnico sobre infração da patente PI9809830-6
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre possível não infração e nulidade de patente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2021 - Atual
+Pareceres Técnicos sobre as patentes BR 122019018229-9 e PI 0714641-8
+Descrição: Esta proposta refere-se a análise e emissão de parecer sobre a possível infração das patentes BR 122019018229-9 e PI 0714641-8.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2021 - Atual
+Ensino Híbrido e Ativo: Perspectivas e Aplicações em áreas da Engenharia na COPPE/UFRJ
+Descrição: O projeto visa a dar apoio para o desenvolvimento de cursos de engenharia na COPPE/UFRJ, em formato híbrido, incorporando técnicas de aprendizado ativo, sala de aula invertida, multimodalidade, etc. Busca desenvolver competência comunicativa para o formato híbrido, e produzir cursos de alta qualidade com alcance que ultrapasse os limites dos campi da UFRJ. Para tanto, monta uma equipe multidisciplinar, com vasta experiência em EaD, que conta com o apoio de alunos de graduação e pós-graduação, além da colaboração de uma rede de professores do exterior e também de outras unidades federativas do Brasil. A prova de conceito é uma suite de cursos para inteligência artificial e aprendizado de máquina, que incorpora cursos básicos, como álgebra linear e probabilidades e processos estocásticos, até os cursos mais avançados de inferência e aprendizado estatístico. Além da produção dos cursos, o projeto promoverá também o debate e palestras sobre o ensino de engenharia e o ensino híbrido na pós-graduação.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador / Lavínia Maria Sanabio Alves Borges - Integrante / Edmundo Albuquerque de Souza e Silva - Integrante / Jean David Job Emmanuel Marie Caprace - Integrante / Carlos Eduardo Bielschowsky - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2020 - 2021
+Parecer Técnico sobre não Infração da Patente PI0100211-2
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre possível não infração e nulidade de patente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2020 - 2021
+Parecer Técnico sobre Infração das Patentes PI9913409-8, PI9810325-3, PI9913292-3, PI9913715-1, PI9811615-0, PI0617648-8, PI0617640-2, BR122013013048-9.
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre possível não infração e nulidade de patente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2020 - 2020
+Parecer Técnico sobre Não-Infração e Nulidade da Patente PI9710792-1
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre possível não infração e nulidade de patente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2019 - Atual
+Monitoramento de Poços de Petróleo e da Produção por Meio de Inteligência Artificial
+Projeto certificado pelo(a) coordenador(a) Sergio Lima Netto em 23/03/2020.
+Descrição: A produção de petróleo está sujeita a diversos eventos indesejáveis, principalmente em cenários offshore. Esses eventos geram efeitos negativos, tais como quedas no potencial produtivo, paradas de poços ou de todo sistema de produção ou ainda danos em equipamentos e instalações. Um monitoramento eficiente e preventivo é importante para impedir a ocorrência desses eventos ou, pelo menos, para minimizar seus efeitos. 
+Atualmente, o monitoramento conta com sensores instalados tanto nos poços, quanto nas instalações de superfície. Caso alguma medição apresente comportamento anormal, um alarme é enviado aos operadores, que avaliam os possíveis riscos.
+Um sistema de inteligência artificial capaz de detectar (e possivelmente classificar) rapidamente esses eventos por meio do monitoramento constante das variáveis medidas representaria um grande avanço, pois possibilitaria intervenções antecipadas para evitar ou sanar os problemas apontados.
+Nesse trabalho, propõe-se avaliar o uso de técnicas de inteligência artificial para gerar, com base em dados de produção coletados ou simulados, classificadores capazes de detectar eventos indesejáveis em poços de petróleo ou nas instalações de superfície.  O foco do estudo será para os eventos indesejáveis em poços de petróleo, relacionados à área de Elevação e Escoamento. Contudo, como as condições de elevação e escoamento e das instalações de superfície se influenciam mutuamente, também serão usadas as variáveis e estudados os eventos relacionados às instalações de superfície.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Sergio Lima Netto - Coordenador / Eduardo Antônio Barros da Silva - Integrante / Carla L. Pagliari - Integrante / Murilo Bresciani de Carvalho - Integrante.
+2018 - 2020
+Projeto de Metodologias Big Data Aplicadas à Otimização de Processos
+Descrição: O objetivo deste projeto é usar técnicas de BigData para agregar valor e atualizar modelos matemáticos usados em Controle, Otimização e Monitoração de processos. A partir de uma análise inicial da qualidade dos dados usados, serão desenvolvidos modelos lineares esparsos para os processos de interesse. Após isto, o será feito um levantamento exaustivo destes modelos para as plantas de interesse. A partir desta análise, será determinado como estes modelos variam com as condições de operação das plantas, e esta variação, que equivale a uma não linearidade do modelo, será modelada através do desenvolvimento de modelos lineares para os parâmetros dos modelos anteriores (meta-modelos). Espera-se que estes meta-modelos consigam dar conta da variação dos modelos obtidos com as condições de operação. Serão também desenvolvidas, usando técnicas de aprendizado de máquina, a detecção automática destas variações, e também a atualização automática destes modelos. Será também implementado um aplicativo que facilite o uso das técnicas desenvolvidas em situações práticas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Sergio Lima Netto - Integrante / Eduardo Antônio Barros da Silva - Coordenador / joao baptista de oliveira e souza filho - Integrante.
+2018 - 2020
+Processamento de Sinais Aplicado em Predição, Detecção e Diagnóstico de Falhas Durante a Perfuração de Poços
+Descrição: Uso de algoritmos e técnicas de processamento de sinais para modelagem, estimação, detecção e classificação de falhas durante perfuração de poços de petróleo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador / Sergio Lima Netto - Integrante / Eduardo Antônio Barros da Silva - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2018 - 2018
+Parecer Técnico sobre Infração das Patentes PI9809830-6, PI9810376-8 e PI9814565-7
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Licks Advogados - Auxílio
+										financeiro.
+2018 - 2018
+Parecer Técnico sobre Infração das Patentes PI9811615-0, PI9913292-3, PI9913715-1, PI9810325-3, PI9913409-8, PI9809830-6, PI9810376-8, e PI9814565-7
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Licks Advogados - Auxílio
+										financeiro.
+2018 - 2018
+Parecer Técnico sobre Infração das Patentes PI9810325-3, PI9913409-8, PI9811615-0, PI9913715-1, PI9913292-3, PI9814565-7, PI9809830-6, PI9810376-8, PI9811639-8 e PI9807585-3
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Auxílio
+										financeiro.
+2018 - 2018
+Parecer Técnico sobre Infração da Patente PI0407728-9
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2018 - 2018
+Parecer Técnico sobre Infração da Patente PI0407728-8
+Descrição: Elaborar um relatório técnico na forma de parecer de especialista em engenharia eletrônica
+sobre possível infração da patente PI0407728-8.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Daniel Advogados - Auxílio
+										financeiro.
+2018 - 2018
+Parecer Técnico sobre Infração da Patente PI9807585-3
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Remuneração.
+2017 - 2019
+Projeto de Aplicação de Técnicas de Big Data e Analytics para Identificação de Problemas Operacionais em Poços, Linhas e Plataformas de Produção
+Projeto certificado pelo(a) coordenador(a) Sergio Lima Netto em 04/07/2018.
+Descrição: Desenvolver metodologias para extração de informação em sistemas com grandes quantidades de dados (Big Data) e aplicação de técnicas baseadas em dados (Data Analytics) para aplicação na: identificação de problemas de poços em linhas de produção, manutenção de equipamentos baseada na condição e minimização de perdas da produção.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Sergio Lima Netto - Coordenador / Eduardo Antônio Barros da Silva - Integrante / Thiago de M. Prego - Integrante / Amaro Azevedo de Lima - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2017 - 2018
+O&G Condition Monitoring: DP Vessel, Closed Ring Power System fault detection
+Descrição: Uso de algoritmos e técnicas de processamento de sinais e algoritmos de aprendizado de máquina para detecção e classificação de falhas em sistemas de geração de energia embarcados em plataformas com posicionamento dinâmico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador / Sergio Lima Netto - Integrante / Eduardo Antônio Barros da Silva - Integrante / José Antonio Apolinário Junior - Integrante / Wallace Alves Martins - Integrante.Financiador(es): Siemens Ltda. - Auxílio
+										financeiro.
+2017 - 2018
+Parecer Técnico sobre Infração das Patentes PI9810376-8, PI9809830-6 e PI9814565-7
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Licks Advogados - Auxílio
+										financeiro.
+2017 - 2017
+Parecer Técnico Sobre Infração das Patentes PI9705747-9, PI0008800-5, PI0114706-47, PI-9901046-1
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Licks Advogados - Auxílio
+										financeiro.
+2017 - Atual
+BRANORTECH: uma cooperação Brasil-Noruega em processamento de sinais aplicado
+Descrição: O presente projeto aborda processamento de sinais aplicado, mais especificamente três tópicos gerais: arranjos de sensores, comunicações subaquáticas e manutenção responsiva (ou condition-based), esta última com maior foco à indústria de gás & óleo. objetiva o desenvolvimento e o reforço dos laços de cooperação entre instituições educacionais do Brasil e da Noruega. Serão ao total quatro instituições associadas ao projeto: no Brasil o Instituto Militar de Engenharia (IME) e sua parceira local a Universidade Federal do Rio de Janeiro (UFRJ) e na Noruega a University College of Southeast Norway (USN) e sua parceira local a Norwegian University of Science and Technology (NTNU). Adicionalmente, a USN conta com a firma norueguesa SNIPOS AS como parceira de empreendimento. As atividades desta proposta objetivadas pelas instituições parceiras são: mobilidade de estudantes e participação deles em atividades de pesquisa do projeto, facilitação do envolvimento de alunos em projetos de Pesquisa & Desenvolvimento, visitas de estudo para docentes, minicursos, oficinas e seminários de palestrantes, orientadores dos setores público e privado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Antonio L. L. Ramos - Integrante / APOLINARIO, J. A. - Coordenador / NETTO, SERGIO L. - Integrante / Carla L. Pagliari - Integrante / DINIZ, PAULO S. R. - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2017 - Atual
+Processamento de Sinais: Teoria e Métodos
+Descrição: Pesquisa básica e aplicada em processamento de sinais para comunicações.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2016 - 2017
+Otimização de Processos com Base no Tratamento Massivo e Contínuo de Séries de Dados
+Descrição: O objetivo é especificar e implementar mecanismos automatizados que possibilitem o tratamento massivo e contínuo de séries de dados tendo em vista a otimização de processos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Bruno Carlos da Cunha Costa - Integrante / Fabio A. M. Porto - Integrante / Alex L. Bordignon - Integrante / Wagner dos Santos Vieira - Integrante / Paulo de Figueiredo Pires - Coordenador.Financiador(es): EMC BRASIL CENTRO DE PESQUISAS E DESENVOLVIMENTO LTDA. - Remuneração.Número de produções C, T & A: 3
+2016 - 2016
+Parecer Técnico Sobre Infração das Patentes PI9913409-8 e PI9810325-3
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Licks Advogados - Auxílio
+										financeiro.
+2016 - 2016
+Parecer Técnico sobre Infração das Patentes PI9811615-0, PI9913292-3 e PI9913715-1
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Licks Advogados - Auxílio
+										financeiro.
+2015 - 2018
+Processamento Multidimensional de Sinais e Informação com Aplicações em Telecomunicações e em Engenharia Biomédica - PSITEB
+Descrição: Projeto aprovado no âmbito do Edital CAPES/COFECUB no. 19/2014, renovado para o biênio 2017-2018.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / João Cesar Moura Mota - Coordenador / Gerard Favier - Integrante.
+2015 - 2016
+Estudo de Consciência Situacional
+Descrição: Estudo amplo sobre consciência situacional (CS) e técnicas de processamento de sinais que ampliam CS.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador / Eduardo Antônio Barros da Silva - Integrante / Wallace Alves Martins - Integrante / NETTO, SERGIO L. - Integrante.Financiador(es): Siemens Ltda. - Outra.
+2015 - 2015
+Parecer Técnico sobre Infração das Patentes PI9810376-8 e PI9809830-6
+Descrição: Confecção de parecer de especialista em engenharia eletrônica sobre validade e possível infração de patentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Licks Advogados - Auxílio
+										financeiro.
+2014 - 2018
+Processamento de Sinais para Aplicação em Defesa
+Descrição: Pró-Defesa Nº. dos Processos: 23038.009094/2013-83 e 2992/2013.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Sergio Lima Netto - Integrante / Eduardo Antônio Barros da Silva - Coordenador / APOLINARIO, J. A. - Integrante / Carla L. Pagliari - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Outra.
+2014 - 2018
+Aplicações Industriais de Processamento de Sinais: Monitoramento, Modelagem e Otimização
+Descrição: Programa Edital 29/2014 - Apoio às Instituições de Ensino e Pesquisa Sediadas no Estado do Rio de Janeiro. Nº.do Processo: E-26/010.002897/2014. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Sergio Lima Netto - Integrante / Luiz Wagner Pereira Biscainho - Integrante / José Antonio Apolinário Junior - Integrante / Wallace Alves Martins - Integrante / DA SILVA, EDUARDO A.B. - Integrante / Carla L. Pagliari - Integrante / DINIZ, PAULO S. R. - Coordenador / Alessandro James Salvaterra Dutra - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2014 - 2017
+Comunicações Submarinas - CSUB
+Descrição: Encomenda Transversal. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Marcus Vinícius da Silva Simões - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 8
+2014 - 2016
+Processamento de Sinais para Estimação, Detecção e Comunicações
+Descrição: Uso de técnicas avançadas de processamento de sinais para estimação de parâmetros, detecção de eventos e projeto de transceptores para comunicações, incluindo estimação de DoA, identificação de sistemas não-lineares, detecção de eventos em redes distribuídas e com cooperação, antenas adaptativas, sistemas PLC, e comunicações submarinas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 26
+2013 - 2016
+Sinais, Multimídia e Telecomunicações
+Descrição: Apoio às Engenharias - Rio de Janeiro Nº. do Processo: E-26/111.080/2013. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Luiz Wagner Pereira Biscainho - Integrante / Wallace Alves Martins - Integrante / DA SILVA, EDUARDO A.B. - Integrante / NETTO, SERGIO L. - Integrante / DINIZ, PAULO S. R. - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2013 - 2016
+Sinais, Multimídia e Telecomunicações
+Descrição: Pesquisa em processamento de sinais aplicado a sistemas de comunicações. Apoio a Projetos Temáticos no Estado do Rio de Janeiro Nº. do Processo: E-26/110.187/2013.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Luiz Wagner Pereira Biscainho - Integrante / DA SILVA, EDUARDO A.B. - Integrante / NETTO, SERGIO L. - Integrante / MARTINS, WALLACE - Integrante / DINIZ, PAULO S. R. - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2013 - 2014
+Comunicação Acústica Submarina em Águas Profundas
+Descrição: Projeto e avaliação de desempenho de transceptores MIMO (multiple-input multiple-output) em canais acústicos submarinos em águas profundas. Neste projeto serão analisados transceptores multiportadora e multitaxa com diversidade espaço-temporal usualmente empregados em comunicações sem-fio em faixa de rádio-frequência (microondas). O canal acústico submarino será modelado levando em conta o desvanecimento provocado por gradiente de pressão, variação de salinidade e temperatura, bem como multipercurso provocado por reflexões e refrações.
+O projeto conta com uma bolsa de mestrado, fruto da parceria UFRJ/CENPES no âmbito do Edital 293/2012.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador / Bruno Leonardo da Silva Bronsato - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Bolsa.
+2013 - 2013
+Subsea Communications
+Projeto certificado pelo(a) coordenador(a) Paulo Sergio Ramirez Diniz em 04/07/2018.
+Descrição: Consultoria técnica para o levantamento do estado presente da pesquisa e das tecnologias de comunicações submarinas, além da compreensão sobre o direcionamento futuro dessas tecnologias. Nº. do Processo: 17413.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Paulo Sergio Ramirez Diniz - Coordenador / Bruno Leonardo da Silva Bronsato - Integrante / Wallace Alves Martins - Integrante / Felipe M. Costa - Integrante / Camila Maria Gabriel Gussen - Integrante / Jonathan N. Gois - Integrante.Financiador(es): GE Centro Brasileiro de Pesquisas - Auxílio
+										financeiro.
+2012 - 2015
+Processamento de Sinais e Otimização para Sistemas de Comunicações
+Projeto certificado pelo(a) coordenador(a) Paulo Sergio Ramirez Diniz em 08/02/2013.
+Descrição: O projeto de pesquisa propõe investigar assuntos relacionados a processamento de sinais e suas aplicações sendo dada ênfase especial aos problemas de telecomunicações ainda sem solução definitiva. Esses estudos visam à comunicação em banda larga através de canais seletivos na frequência. Por outro
+lado, o presente projeto engloba também o estudo de algoritmos de processamento de sinais de uso geral e sempre objetivando a solução de problemas práticos envolvendo projeto de filtros, sistemas adaptativos e compressão de dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Marcello Luiz Rodrigues de Campos - Integrante / Diniz, P.S.R. - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+Filtros Adaptativos com Baixo Consumo e Cooperação Seletiva em Processamento de Sinais Distribuídos
+Descrição: Este projeto trata do desenvolvimento, da análise e da aplicação de algoritmos adaptativos robustos
+com baixa complexidade computacional e suas aplicações em: beamforming adaptativo,
+identificação de sistemas não-lineares esparsos, e redes distribuídas de sensores. A robustez
+dos algoritmos visa a garantir operação consistente, mesmo quando a implementação emprega
+aritmética de baixa precisão, ou quando há incertezas quanto à modelagem do ambiente. A
+baixa complexidade computacional visa a proporcionar a implementação com baixo consumo
+de energia, maior sustentabilidade e melhor desempenho para aplicações de alta demanda. As
+aplicações de interesse incluem, mas não estão limitadas às seguintes: comunicações móveis,
+sistemas MIMO com antenas distribuídas, radar e guerra eletrônica, meio-ambiente e saúde,
+mecânica e acústica e smart grids.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (3) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 14
+2011 - 2013
+Filtros Adaptativos L1-Ótimos Esparsos e com Cooperação Seletiva em Redes Distribuídas
+Descrição: Este projeto apresenta a motivação pelo estudo e pesquisa na área de processamento de sinais para comunicações em geral, e filtragem adaptativa com restrições aplicada ao projeto de estimadores esparsos e algoritmos com cooperação seletiva em redes de sensores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Marcello Luiz Rodrigues de Campos - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 16

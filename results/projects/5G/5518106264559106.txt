@@ -1,0 +1,18 @@
+2019 - Atual
+PD-00063-3054/2019: Thermovision - Inspeção termográfica automatizada de linhas de distribuição de energia através da combinação da técnica de Deep-Learning e múltipla visão em um veículo terrestre.
+Descrição: Projeto de desenvolvimento de Cabeça de Série de equipamento de termovisão para inspeção de
+redes de distribuição, instalado em veículo, dotado de câmeras de monitoramento e sistema de
+inteligência artificial aplicados ao processamento de imagens ópticas e termográficas, capaz de
+realizar a detecção automática de pontos quentes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Silvio Renato Messias de Carvalho - Integrante / Yuzo Iano - Coordenador.
+2009 - 2011
+STB-Scan
+Descrição: Monitoramento e coleta de dados de sistemas baseados em radiodifusão. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Silvio Renato Messias de Carvalho - Integrante / Yuzo Iano - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2007 - 2009
+Estação Experimental de TV Digital Terrestre
+Descrição: Este trabalho consiste na elaboração de um software funcional, ou seja, uma API (Application Programming Interface), desenvolvida na linguagem C++, de algoritmos de medida do PDP - Power Delay Profile (detalhado no item 4 deste) de sinais oriundos de transmissões de TV Digital dentro do ambiente do padrão ISDB-TB - International Standard Digital Broadcasting - Terrestrial Brazilian [4]. Portanto, basicamente, os requisitos contemplados no software são:
+?	Ler arquivos de RF digitalizados no teste de campo;
+?	Aplicar a(s) técnica(s) de medição do PDP;
+?	Mostrar em tabela e/ou gráfico o PDP obtido;
+?	Realizar análises e testes em lotes de arquivos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Silvio Renato Messias de Carvalho - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

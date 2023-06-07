@@ -1,0 +1,65 @@
+2014 - 2014
+Remodelando a História: Divulgação de tecnologia 3D para preservação e disseminação do patrimônio cultural
+Descrição: Este projeto proposto parte da oportunidade de trazer para o Brasil a exposição "Resha-
+ping History: a future to our past"e realizar um workshop aberto ao público, contando
+com palestrantes internacionais e nacionais envolvidos em casos bem sucedidos de aplica-
+ção de tecnologia 3D aplicadas a preservação e divulgação do patrimônio cultural.
+A exposição original foi produzida no âmbito do consórcio 3D-COFORM, financiado pela
+União Europeia no período de 2009-2012, onde 19 parceiros uniram experiências e exper-
+tise em todos os aspectos da tecnologia 3D para o setor de herança cultural, implemen-
+tando estudos que abrangeram desde a digitalização 3D até a visualização dos acervos
+digitalizados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Ricardo Guerra Marroquim - Integrante / Ricardo Marroquim - Coordenador / Matteo Dellepiane - Integrante / Roberto Scopigno - Integrante / Asla Medeiros e Sá - Integrante / Paulo Cezar Pinto Carvalho - Integrante / David Arnold - Integrante / Karina Rodriguez Echavarria - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2013 - 2017
+Métodos de reconstrução, texturização e visualização aplicados à preservação da herança cultural
+Descrição: Esta proposta visa desenvolver pesquisa no tema de digitalização e visualização de artefatos históricos
+no contexto nacional. Três áreas são abordadas neste projeto, reconstrução, texturização e
+visualização de modelos 3D, mais especificamente, de bens históricos. O ponto central de todas as
+metas e objetivos é desenvolver algoritmos e métodos que sejam robustos e eficientes, além de
+intuitivos, para que possam ser utilizados por pessoas não especialistas da área de computação gráfica.
+De forma geral, o objetivo é desenvolver meios para que profissionais da área de museologia e restauro
+possam criar suas próprias réplicas sem a contratação de empresas ou a dependência de auxílios
+permanentes de outros profissionais. Ferramentas deste tipo são de grande importância no âmbito da
+preservação do patrimônio histórico nacional. Na área de reconstrução o objetivo é realizar a extração
+de primitivas (planos, cilindros, esferas, etc.) com apoio do usuário. Neste caso, o objetivo é que com
+poucos gestos intuitivos o usuário seja capaz de guiar o sistema na extração de primitivas, e no
+preenchimento de partes faltantes no modelo digital. Este tipo de representação é especialmente
+importante para instrumentos mecânicos, onde o interesse específico deste projeto está nos
+instrumentos científicos históricos. Após a geometria, o passo seguinte é adicionar informação de cor
+aos modelos digitais. Este projeto prevê a continuação da pesquisa desenvolvida nos últimos anos
+sobre projeção e alinhamento de fotos no modelo geométrico. O esforço atual reside em criar métodos
+eficientes para processar o alinhamento logo após o registro da fotografia, focando em um sistema a
+ser utilizado in-situ, e não a posteriori no laboratório. Por último, a parte de visualização aborda o tema
+de visualizações técnicas de equipamentos mecânicos, gerando ilustrações de cortes e vistas
+explodidas de forma automática. Além do objetivo de avançar o estado da arte do ponto de vista de
+técnicas computacionais, o objetivo também é a integração com grupos e profissionais da área de
+restauro e museologia. A longo prazo, este projeto considera a inserção tecnológica no meio histórico
+cultural, buscando prover métodos e ferramentas uteis e práticas para outros profissionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Ricardo Guerra Marroquim - Integrante / Ricardo Marroquim - Coordenador / Matteo Dellepiane - Integrante / Antonio Alberto Fernandes de Oliveira - Integrante / Claudio Esperança - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2013 - 2014
+Técnicas de Reconstrução Facial 3D para Forenses
+Descrição: O objetivo deste projeto é realizar pesquisas no tema de reconstrução de superfícies
+aplicada às ciências forenses, em especial, à técnica de reconstrução facial.
+No contexto de digitalização, o objetivo geralmente é a geração de réplicas 3D, para que
+se possa documentar, anotar ou realizar estudos com o modelo virtual. Diferentemente,
+o foco da reconstrução facial é obter o rosto de um indivíduo a partir apenas do seu crâ-
+nio. Apesar de ser uma técnica importante para o reconhecimento de vítimas, existe uma
+grande carência de métodos automáticos, visto que a maior parte do trabalho ainda é exe-
+cutada de forma manual (seja com o objeto físico ou digital) e baseada em conhecimentos
+implícitos e subjetivos. Neste sentido, o desafio principal é transferir a caracterização
+do que é um rosto humano para os algoritmos (semi-)automáticos de reconstrução de
+superfícies.
+Mais especificamente, esta proposta destina-se a formular uma metodologia científica para
+reconstrução facial digital, traduzindo o conhecimento em regras que possam ser descritas
+geometricamente a fim de guiar métodos de reconstrução de superfícies. Neste trabalho
+é proposto o uso de geração de superfícies implícitas a partir de funções de base radiais
+hermetianas (HRBFs) para representar o tecido mole do rosto reconstruído.
+Este projeto conta com a parceria do Instituto Médico Legal do Rio de Janeiro. Visto o
+interesse de construir um laboratório de reconstrução facial no IML, o investimento em
+tecnologias de custo acessível e que atenda aos requisitos específicos dos especialistas é de
+extrema importância.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Ricardo Guerra Marroquim - Integrante / Ricardo Marroquim - Coordenador / Andreia Breda - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2009 - 2015
+Tecnologia de digitalização com geração de modelos virtuais aplicada ao restauro de instrumentos científicos históricos
+Descrição: O objetivo deste projeto é realizar pesquisas na automatização da modelagem de peças mecânicas e a inserção da tecnologia no processo de restauro de instrumentos científicos. O Rio de Janeiro conta com a unica equipe especializada no Brasil neste tipo de restauro, e apenas poucos foram realizados até hoje. O conhecimento ainda é passado essencialmente através do aprendizado prático, por isso é essencial que as atividades sejam documentadas e acessíveis para futuras campanhas e na formação de novos especialistas. Apesar da tecnologia de digitalização já ser utilizada em diversos meios, como por exemplo no auxílio às atividades relacionadas a bens culturais, não existe ainda esta integração quando se trata de instrumentos científicos históricos. Este projeto visa,  através do restauro de um círculo meridiano pertencente ao acervo do MAST (Museu de Astronomia e Ciências Afins), pesquisar meios onde a tecnologia de modelagem e digitalização possam facilitar e apoiar a tarefa de restauro, documentação e exibição ao público destes instrumentos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Ricardo Guerra Marroquim - Integrante / Claudio Esperança - Integrante / Marcus Granato - Integrante / Marcio Rangel - Integrante / Matteo Dellepiane - Integrante / Roberto Scopigno - Integrante / Antonio Alberto Fernandes de Oliveira - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 6

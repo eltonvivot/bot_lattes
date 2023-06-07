@@ -1,0 +1,103 @@
+2020 - Atual
+IMPLEMENTAÇÃO DE TESTES RÁPIDOS POR MEIO DE NANOTECNOLOGIA PARA O NOVO CORONAVÍRUS NO BRASIL
+Descrição: A parceria público privada (PPP) envolve o desenvolvimento de dois protóripos comerciais de sensors para o diagnóstico do virus SARS-CoV-2 em saliva.
+O primeiro teste a ser produzido será o biofotônico, já testado em cancer de mama, zika, dengue e
+outros. 
+O segundo protótipo, já testado em diversas doenças, incluindo hanseníase, leishmaniose,
+zika, dengue, entre outras, mostrou-se ser universal e será redirecionado para o diagnóstico do
+COVID-19.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Cleumar da Silva Moreira - Integrante / pedro victor eugenio de souza - Integrante / Luiz Ricardo Goulart Filho - Coordenador / Luciana Machado Bastos - Integrante / Natassia Caroline R Corrêa - Integrante / Mario Machado Martins - Integrante / Paula de Souza Santos - Integrante / Lara Vecchi - Integrante / Emilia Resende Vaz - Integrante / Robinson Sabino da Silva - Integrante / Fabiana Almeida Araújo Santos - Integrante / Cláudia Mendonça Rodrigues - Integrante / Fernanda Van Petten V Azevedo - Integrante / Mariana Alves Pereira Zóia - Integrante / Tafarel Andrade de Souza - Integrante / Thaíse Gonçalves Araújo - Integrante / Ana Flávia Oliveira Notário - Integrante / Irineu Francisco Delfino S Massala - Integrante.
+2018 - 2019
+Sistema de Monitoramento de pH utilizando Fibras Ópticas e o Fenômeno da Ressonância de Plásmons de Superfície
+Projeto certificado pelo(a) coordenador(a) Rossana Moreno Santa Cruz em 18/02/2021.
+Descrição: Este trabalho tem como objetivo realizar a caracterização, através de simulações, dos parâmetros mais adequados à construção de um sensor RPS em fibra óptica para a medição de pH. Além de avaliar o sistema desenvolvido para ser utilizado na medição do pH, em relação à eficiência do sensor, sensibilidade, precisão e exatidão dos resultados obtidos, também será realizada uma comparação com outros sistemas já estudados, para a validação do sistema proposto. Para a caracterização do sensor, será realizada uma investigação de parâmetros como: configurações e tipos de fibras ópticas (de sílica ou plástico, convencional multimodo, monomodo ou microestruturada), quantidade de modos de propagação, comprimento da região sensora, espessura do filme fino metálico e ângulo de incidência. Desta forma, este estudo vem contribuir com as pesquisas relacionadas a sensores RPS em fibra óptica já em andamento, realizadas pelo Grupo de Sensores e Biossensores Ópticos (GSBiO - IFPB), e com as pesquisas existentes na literatura utilizando sensores ópticos RPS para a medição de pH, discutindo aspectos de construção e resultados de testes experimentais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cleumar da Silva Moreira - Integrante / ROSSANA MORENO SANTA CRUZ - Coordenador / Edson dos Santos Bandeira Júnior - Integrante.
+2018 - Atual
+Indicadores de sustentabilidade e Indicadores microbiológicos para Monitoramento de ambientes
+Descrição: Verificar a aplicação de Indicadores de sustentabilidade como a Pegada ecológica, eficiência energética e produção de resíduos como instrumentos norteadores para ações e estratégias de conscientização e educação ambiental que possam minimizar o impacto causado ao meio ambiente.  Assim como, realizar pesquisa microbiológica de ambientes com o intuito de detectar bactérias indicadoras de contaminação ambiental e/ou possíveis focos de transmissão de bactérias patogênicas (virulentas e resistentes).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado profissional: (6) . Integrantes: Cleumar da Silva Moreira - Integrante / Adriana dos Santos Franco - Integrante / Adriane Borges Cabral - Coordenador.
+2017 - Atual
+Projeto e Construção de Biossensores Baseados na Ressonância de Plásmons de Superfície em Fibras Ópticas Convencionais e Microestruturadas
+Descrição: Este projeto propõe a realização de uma investigação teórico-prática dos biossensores, baseados na
+Página 1 de 6
+ressonância de plásmons de superfície, em fibras ópticas convencionais e microestruturadas. Para tanto,
+serão realizadas simulações computacionais, utilizando softwares que empreguem técnicas como a dos
+elementos finitos, aliadas à construção dos dispositivos utilizando nanopartículas e filmes finos metálicos,
+para acoplamento dos fótons incidentes e os plásmons de superfície na camada metálica. Essas ferramentas
+computacionais de simulação permitirão a obtenção rápida e precisa do comportamento do dispositivo final.
+No modelamento, serão simuladas as variações no comportamento do sensor a partir de métodos precisos
+com o intuito de que seja caracterizado, detalhadamente, o sistema biossensor e seu funcionamento,
+simulando desde a incidência da luz na fibra óptica e sua interação com as camadas, até a obtenção do nível
+de potência óptica de saída. Associado a esse estudo teórico, propõe-se também a construção dos
+dispositivos, utilizando como substrato tanto as fibras ópticas convencionais como as microestruturadas,
+além do uso de técnicas especiais para a deposição química das nanopartículas de metal. Para os testes
+experimentais, inicialmente, serão utilizados analitos não-biológicos para a verificação do efeito RPS e a
+comprovação do método de construção realizado. Posteriormente, os analitos serão substituídos por
+substâncias biológicas para a análise criteriosa de sua composição, tanto para os biochips com fibras ópticas
+convencionais como para as fibras ópticas microestruturadas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Cleumar da Silva Moreira - Coordenador / Antonio Marcus Nogueira Lima - Integrante / ROSSANA MORENO SANTA CRUZ - Integrante / Eliton Souto de Medeiros - Integrante / NEFF, HELMUT - Integrante.
+2017 - Atual
+PROJETO E DESENVOLVIMENTO DE BIOSSENSOR ÓPTICO BASEADO NA RESSONÂNCIA DE PLÁSMONS DE SUPERFÍCIE LOCALIZADA
+Descrição: O projeto proposto apresenta o estudo computacional e testes experimentais de sensores baseados na técnica de Ressonância de Plásmons de Superfície Localizada (LSPR - Localized Surface Plasmon Resonance) com substâncias não-biológicas. A proposição não é inovadora no sentido de apresentar novas teorias ou proposições experimentais. Todavia, apresenta a proposição de uso de modelamento em coadunação com a comprovação experimental e, dessa forma, permite englobar aspectos ainda não tratados na literatura para construções de sensores dessa natureza usando substratos em prismas e fibras ópticas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Cleumar da Silva Moreira - Coordenador / ROSSANA MORENO SANTA CRUZ - Integrante / Talita Brito Silva - Integrante / Rávilla Raianni Silva Leite - Integrante / Sara de Freitas Lima - Integrante.
+2016 - 2017
+Análise Computacional e Caracterização de Fibras Ópticas Microestruturadas para a Construção de Biossensores RPS
+Projeto certificado pelo(a) coordenador(a) Rossana Moreno Santa Cruz em 03/11/2020.
+Descrição: Este projeto propõe uma investigação teórica e computacional dos parâmetros necessários ao desenvolvimento de biossensores em fibra óptica microestruturada, baseados na técnica de Ressonância de Plásmons de Superfície (RPS). Para tanto, serão analisados a geometria da fibra óptica microestruturada e os parâmetros de propagação da luz em seu interior, levando em consideração aspectos como confinamento de energia, índice de refração, área modal, dispersão, birrefringência, perdas de confinamento, dentre outros, a fim de que se obtenha um modelo computacional detalhado da caracterização da fibra óptica microestruturada a ser utilizada para a fabricação do biochip óptico (estrutura sensora). Pretende-se desenvolver um modelo de biossensor RPS em fibra óptica microestruturada que possa ser aplicado na solução de problemas de saúde pública, contribuindo para o avanço no estudo da engenharia biomédica aliada à fotônica e permitindo novas opções para solucionar problemas de saúde com maior rapidez, baixo custo e simplicidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cleumar da Silva Moreira - Integrante / ROSSANA MORENO SANTA CRUZ - Coordenador / Márcia Fernanda da Silva Santiago - Integrante.
+2016 - 2017
+Uso combinado de ressonância de plásmons de superfície e espectroscopia de fluorescência para aplicações biológicas
+Descrição: A tecnologia de ressonância de plásmons de superfície ou SPR (Surface Plasmon Resonance) apresenta algumas limitações, especialmente para a detecção de analitos de tamanho reduzido e com baixas concentrações.
+Com vistas à solução dessa restrição tecnológica, uma das proposições que vem sendo estudada nas últimas décadas é o uso combinado do fenômeno SPR à espectroscopia de fluorescência. Os dispositivos gerados por essa combinação são conhecidos como dispositivos SPFS (Surface Plasmon-enhanced Fluorescence Spectroscopy). Usando tais dispositivos, há uma tendência para o desenvolvimento de ferramentas de diagnóstico mais precisas, como nos testes laboratoriais remotos ou point-of-care (POC).
+Uma outra possibilidade do uso dos dispositivos SPFS é sua integração para o ensino multidisciplinar de áreas do conhecimento, como a Engenharia e a Biologia. Obviamente, possuindo uma plataforma de desenvolvimentos e testes poder-se-á apresentar aspectos relevantes das técnicas imunológicas (relação anticorpo-antígeno), das técnicas de instrumentação eletrônica e uso de hardware digital para processamento de informações com o uso de softwares para criação de interfaces e comunicação das informações remotamente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Cleumar da Silva Moreira - Coordenador / Ingrid Vitória de Lima Monteiro - Integrante / Francisco Carlos de Carvalho Júnior - Integrante.
+2014 - 2016
+Treinamento para competições regional e nacional da Olimpíada do Conhecimento na ocupação de Instrumentação e Controle de Processo
+Descrição: O projeto proposto tem como objetivo geral preparar a equipe que participará das etapas regional (Paraíba) e Nacional da Olimpíada do Conhecimento (OC) na ocupação de Instrumentação e Controle de Processo nos anos de 2015 e 2016, respectivamente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cleumar da Silva Moreira - Coordenador / Robério Paredes - Integrante / Rafael Franklin Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Estudo e desenvolvimento de uma microbomba para biosensores baseados na ressonância de plásmons de superfície
+Projeto certificado pelo(a) coordenador(a) Arlindo Garcia de Sa Barreto Neto em 29/06/2015.
+Descrição: 1. Desenvolver uma plataforma de caracterização e teste para o fio de SMA;
+2. Desenvolver um mecanismo para refrigeração forçada dos atuadores;
+3. Refazer a modelagem dinâmica da microbomba usando uma metodologia
+multifísica através da técnica de elementos finitos, de forma a estudar o nível
+de oscilação e a taxa de fluxo provocado por uma dada sequência de
+acionamento.
+4. Testar novas sequências de acionamento;
+5. Avaliar outras configurações de montagem;
+6. Avaliar qual a menor dimensão geométrica da microbomba mantendo-se o
+mesmo tubo, de modo a succionar, isto é, seja autoescorvante;
+7. Avaliar a substituição de um único fio de SMA por um feixe, com diâmetro
+inferior;
+8. Desenvolver um modelo numérico para o atuador de SMA, usando elementos
+finitos;
+9. Avaliar a durabilidade e robustez desse tipo de microbomba;
+10.Desenvolver uma plataforma de teste para medir a vazão, o nível de
+oscilação do fluido e a formação de bolha de ar;
+11.Acoplar a microbomba ao biosensor PPBIO e realizar testes para substâncias
+biológicas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cleumar da Silva Moreira - Integrante / Antonio Marcus Nogueira Lima - Integrante / Franz Helmut Neff - Integrante / Arlindo G S Barreto Neto - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Desenvolvimento de biossensores por SPR para diagnóstico de leishmaniose
+Descrição: O objetivo geral da presente proposta é construir um biossensor baseado na ressonância de plásmons de superfície ou SPR (Surface Plasmon Resonance) para a detecção de leishmaniose.
+Diante desse cenário, a detecção de Leishmaniose, usando o biochip PPBIO e peptídeos como elementos biocatalizadores, requer que os seguintes objetivos específicos sejam alcançados:
+1.	Preparar a superfície do elemento sensor, através de, por exemplo, polimento e annealing (recozimento) para a redução de tensões mecânicas residuais (associadas à presença de birrefringência);
+2.	Depositar filme fino de ouro, testando para os prismas fabricados, através de processo de moldagem por injeção, com alguns materiais poliméricos (PC, PMMA e Topas®). Também realizar a verificação da espessura do filme fino de ouro depositado;
+3.	Construir e aplicar os circuitos eletrônicos de geração e detecção do sinal luminoso, utilizando fontes monocromáticas ou policromáticas. Também nessa etapa, o processamento e visualização do sinal deverão ser implementados usando processador digital;
+4.	Construir o sistema microfluídico, com possibilidade para manipulação automática das amostras, usando bomba e autosampler construído, conforme protocolo de detecção a ser seguido;
+5.	Funcionalização do filme fino de ouro com peptídeos específicos para detecção da Leishmânia;
+6.	Coletar amostras de soro de pacientes e cães com Leishmaniose Visceral (LV) e Leishmaniose Tegumentar Americana (LTA) de áreas endêmicas;
+7.	Testar e comparar as amostras com método analítico de referência (ELISA). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Cleumar da Silva Moreira - Coordenador / Antonio Marcus Nogueira Lima - Integrante / Eliton Souto de Medeiros - Integrante / Lúcio Roberto Cançado Castellano - Integrante / Paulo Rogério Ferreti Bonan - Integrante / Ronaldo Rodrigues Sarmento - Integrante / Luiz Ricardo Goulart - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+Biossensores ópticos baseados no principio de ressonância de plásmons de superfície para aplicações biológicas
+Descrição: Caracterizar prismas ópticos, usando investigações teórica e experimental, em termos da rugosidade e birrefringência. Desenvolver uma plataforma de testes para os biossensores PPBIO caracterizados e otimizados. Realizar testes com plataformas existentes, como o SPREETA e a plataforma implementada para o biosensor SPR polimérico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Cleumar da Silva Moreira - Coordenador / Elmar Uwe Kurt Melcher - Integrante / Antonio Marcus Nogueira Lima - Integrante / Arlindo G S Barreto Neto - Integrante / Leiva Oliveira - Integrante / Rogério Fernandes - Integrante / Joacy Vicente Ferreira - Integrante / Edison Camilo de Moraes Junior - Integrante / Robert Fischer - Integrante.
+2012 - 2014
+Caracterização, otimização e plataforma de testes para biochip óptico usando a ressonância de plásmons de superfície
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Cleumar da Silva Moreira - Coordenador / Antonio Marcus Nogueira Lima - Integrante / Franz Helmut Neff - Integrante / Arlindo G S Barreto Neto - Integrante / Leiva Oliveira - Integrante.
+2012 - 2013
+Sistema supervisório para gerenciamento operacional em sistemas de potência usando algoritmos genéticos e hardware configurável
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Cleumar da Silva Moreira - Integrante / Roberta Vieira Vilhena Lopes - Coordenador / Roberto Jose Correia da Silva - Integrante / Manoel Agamemnon Lopes - Integrante / Jean Jacques Bittencourt da Rocha - Integrante / Leide Araújo - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.
+2007 - 2009
+Plataforma de Teste para Biosensores
+Descrição: O objetivo do projeto é o desenvolvimento de uma plataforma automatizada de teste para biossensores. Três tipos de transdutores serão utilizados na plataforma, sendo selecionados automaticamente por um mecanismo apropriado. Dois desses transdutores são construídos pelas empresas Nomadics (SPREETA), e VIR (VIRChip), e o outro é baseado na tecnologia SRM (surface plasmon resonance (SPR) / high resolution in situ dc-sheet resistance monitoring).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Cleumar da Silva Moreira - Integrante / Antonio Marcus Nogueira Lima - Coordenador / Franz Helmut Neff - Integrante / Arlindo G S Barreto Neto - Integrante / Fernanda Loureiro - Integrante / José Sérgio da Rocha Neto - Integrante / Carlos Alberto de Souza Filho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - Atual
+Biosensores
+Projeto certificado pelo(a) coordenador(a) Antonio Marcus Nogueira Lima em 27/08/2013.
+Descrição: Modelagem, análise, projeto e construção de protótipos de sistemas de instrumentação eletrônica baseados em biosensores ópticos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (5) . Integrantes: Cleumar da Silva Moreira - Integrante / Antonio Marcus Nogueira Lima - Coordenador / Franz Helmut Neff - Integrante / Arlindo G S Barreto Neto - Integrante.

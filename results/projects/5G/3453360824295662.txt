@@ -1,0 +1,18 @@
+2015 - 2016
+Pesquisa e Desenvolvimento de Sistema Microeletromecânicos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Giovani Bulla - Integrante / Eduardo Rhod - Integrante / Willyam Hasenkamp - Coordenador.
+2015 - 2016
+Projeto de antenas reconfiguráveis para Rádio Definido por Software
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Giovani Bulla - Coordenador / Eduardo Rhod - Integrante / Willyam Hasenkamp - Integrante / Vinícius Gabriel Linden - Integrante.
+2012 - 2015
+Desenvolvimento de Amplificador Miniaturizado para Sistema GSM
+Descrição: O Objetivo principal deste projeto de pesquisa é desenvolver um amplificador miniaturizado para sistema GSM. O produto final deste será um protótipo de um amplificador cujo circuito de adaptação foi miniaturizado usando tecnologias como DGS, EBG, metamaterial, etc. Neste sentido este projeto se propõe a avançar as pesquisas que estão sendo realizadas no que tange a aplicações de tecnologias de miniaturização em circuitos de microondas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Giovani Bulla - Coordenador.Financiador(es): Secretaria da Ciência, Inovação e Desenvolvimento Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2000 - Atual
+EFEITOS BIOLOGICOS DO CAMPOS ELETROMAGNETICOS
+Projeto certificado pelo(a) coordenador(a) Alvaro Augusto Almeida de Salles em 12/05/2017.
+Descrição: Dar continuidade ao estudo dos campos eletromagnéticos absorvidos pelos usuários dos telefones celulares portáteis, utilizando o Método das Diferenças 
+Finitas no Domínio Tempo (FDTD). Assim, será feita uma optimização no algoritmo já desenvolvido onde serão melhorados diversos aspectos importantes para a 
+pesquisa, como: fonte emissora (antena), borda absorvedora (utilizar diferentes configurações), convergência (truncamento), entre outros. 
+Um segundo aspecto a ser abordado é o desenvolvimento de novas antenas, por exemplo, antenas diretivas em tecnologias planares (microstrip, CPW, etc),para aplicações em telefonia móvel. Alguns objetivos seriam melhorar a comunicação com as ERBs mais próximas e também reduzir a Taxa de Absorção Específica (SAR) na cabeça do usuário, com isso reduzindo o consumo de bateria.
+Finalmente, deve-se desenvolver tambem um modelo para todo o corpo humano. Então será possivel simular a absorção de energia eletromagnética não ionizante em qualquer região do corpo. Isto deverá ser útil por exemplo, na simulação dos efeitos no corpo, dos campos eletromagnéticos próximos as linhas de alta tensão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Giovani Bulla - Integrante / Alvaro Augusto Almeida de Salles - Coordenador / Claudio Enrique Fernández Rodriguez - Integrante.

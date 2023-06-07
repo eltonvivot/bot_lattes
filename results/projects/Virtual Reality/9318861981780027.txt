@@ -1,0 +1,166 @@
+2021 - Atual
+BRIDGE - Análise de risco em fases iniciais de exploração de reservatórios de petróleo e gás
+Descrição: Este projeto de Pesquisa, Desenvolvimento e Inovação que se pretende realizar tem como objetivos desenvolver e implementar uma ferramenta integrada e multidisciplinar de análise de risco e avaliação de incerteza de alvos (i.e. leads e/ou prospetos) identificados em fases iniciais de exploração. Os estágios iniciais de pesquisa de recursos minerais, nomeadamente de petróleo e gás, são normalmente caracterizados com ausência de dados de poço. Assim, dadas as informações típicas disponíveis nos estágios iniciais de uma fase de exploração - dados de reflexão sísmica e o conhecimento geológico sobre a área em análise.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / Vanessa Cerqueira Koppe - Integrante / Marcel Antonio Arcari Bassani - Integrante / Áttila Leães - Integrante / PERONI, RODRIGO DE LEMOS - Integrante / Leonardo Azevedo - Integrante / Amilcar Soares - Integrante / NIQUINI, FERNANDA GONTIJO FERNANDES - Integrante.Financiador(es): PETROGAL BRASIL - Auxílio
+										financeiro.
+2021 - Atual
+MODELAGEM DE FÁCIES COM CADEIAS DE MARKOV 3D
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Vanessa Cerqueira Koppe - Integrante / Diego Machado Marques - Integrante / Juliana Charão Marques - Integrante.Financiador(es): Petroleo Brasileiro S.A - Outra.
+2019 - Atual
+Desenvolvimento de Workflow para Modelagem Geomecânica de Reservatórios a partir de Dados Sísmicos e de Poço
+Descrição: A modelagem geomecânica de reservatórios tem se tornado uma ferramenta cada vez mais desenvolvida e utilizada pela indústria, devido a sua ampla capacidade de fornecer informações sobre o comportamento do reservatório em relação a capacidade de produção, a qual está diretamente ligada ao fluxo do hidrocarboneto dentro do reservatório por meio da porosidade da rocha, fraturas e falhas. Esses dois tipos de porosidade são geneticamente distintos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (3) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / Paulo Salvadoretti - Integrante / Andre Cezar Zingano - Integrante.Financiador(es): PETROGAL BRASIL - Auxílio
+										financeiro.
+2018 - Atual
+Análise de incerteza em processos exploratórios no Sistema Integrado de Geologia e Geofísica ? SIGEO
+Descrição: A carência de métodos estocásticos aplicados à modelagem de reservatórios complexos de petróleo e gás natural tem levado a um hiato tecnológico entre as práticas em uso no país e no exterior. As decisões durante as fases de exploração e de engenharia de reservatórios, de um modo geral, necessitam da adequada compreensão do modelo geológico para diminuir as incertezas das locações e perfurações de poços exploratórios.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Vanessa Cerqueira Koppe - Integrante / Pericles Lopes Machado - Integrante / Áttila Leães - Integrante.Financiador(es): Petroleo Brasileiro S.A - Auxílio
+										financeiro.
+2017 - 2019
+Desenvolvimento de metodologias e soluções computacionais para gerenciamento distribuído de projetos em modelagem e estimativa de recursos minerais usando uma abordagem de Big Data
+Descrição: Em um projeto para modelagem e estimativa de um depósito mineral há uma série de arquivos
+gerados:
+1. arquivos de dados;
+2. relatórios;
+3. parâmetros usados em softwares.
+Se os arquivos são acessados por mais de um indivíduo, um procedimento de acesso aos
+dados se torna necessário para garantir segurança e boa gestão do projeto.
+Em um pequeno grupo de usuários, é comum surgir um método no qual o arquivo é transmitido
+via e-mail. Um usuário recebe o arquivo, efetua modificações e repassa novamente para outra
+pessoa ou grupo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Alexandre Boucher - Integrante / Pericles Lopes Machado - Integrante / Áttila Leães - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2018
+AUTOMATED CALIBRATION OF ESTIMATION PARAMETERS BASED ON TARGET BLOCK GRADE DISTRIBUTIONS AND APPLICATIONS OF IMPLICIT BOUNDARY SIMULATIONS FOR THE ASSESSMENT OF GEOLOGICAL UNCERTAINTY
+Descrição: For many practitioners the selection of estimation parameters results from individual experience with specific deposit types, relying extensively on personal judgment.  For an operating mine, past reconciliation information may be considered.  However, for new projects with no mining history, benchmarks to similar deposits have often been used to determine parameters to be used for estimation.
+Other practitioners have developed specific methodologies to select estimation parameters.  Vann et al. (2003) developed a methodology for selection of parameters known as Quantified Kriging Neighborhood Analysis (QKNA) which relies on:  a) slope of regression of true versus estimated block grade, b) weight of the mean for a simple kriging, c) distribution of kriging weights and 4) the kriging variance.  This methodology results in estimation parameters that will produce block estimates that are a good representation of the mean.  However, the resultant distribution of blocks is overly smoothed and is unusable to characterize tonnage and grade above mining cutoff grades. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Marcel Antonio Arcari Bassani - Integrante / RICARDO JOSÉ HUNDELSHAUSSEN RUBIO - Integrante / Pericles Lopes Machado - Integrante / Roberto Rolo - Integrante.Financiador(es): NEWMONT - Auxílio
+										financeiro.
+2016 - 2018
+Sistemas distribuídos aplicados no desenvolvimento de implementações eficientes de algoritmos fundamentais de geoestatística
+Descrição: O tempo é um recurso caro e limitado. E, por isso, na ciência da computação, foi desenvolvida
+a análise de algoritmos, que é um campo de estudo dedicado ao desenvolvimento
+de técnicas para resolução eficiente dos mais diversos tipos de problemas computacionais
+que existem no dia-a-dia da vida humana. Além disso, muito capital intelectual e financeiro
+é investido no aprimoramento dos computadores, uma das principais ferramentas que
+melhoraram significativamente a qualidade da vida humana, reduzindo o tempo para execução
+de tarefas repetitivas (como cálculos numéricos em modelos matemáticos aplicados
+nos mais diversos campos de estudo ou fabricação dos mais diferentes tipos de produtos).
+Portanto, é função fundamental da engenharia e da ciência encontrar soluções que
+poupem tempo e recursos. Mas, resolver um problema computacional de forma correta,
+eficiente e elegante exige uma combinação de diversos fatores, como entendimento dos
+conceitos envolvidos, capacidade da tecnologia e recursos disponíveis (capital, maquinário,
+software, entre outros). Em computação, isso se traduz na sinergia entre a infra-estrutura
+computacional instalada e a disponibilidade de software que utilize plenamente esse
+potencial. O que se tem visto na prática é que há um descompasso entre a evolução do
+hardware e do software 1 (WIRTH, 1995) - fato conhecido como Lei de Wirth - , ou seja,
+muitos sistemas fundamentais que resolvem problemas críticos da humanidade ainda não
+usam totalmente a capacidade dos computadores modernos. Geralmente, isso é devido a
+natureza complexa do problema que muitas vezes dificulta a adaptação da solução para se
+utilizar mais intensamente uma infra-estrutura computacional moderna. Ainda, existe o
+fator financeiro que limita significativamente a substituição de softwares defasados, já que
+o custo de modernização pode ser proibitivo. Mas, existem situações em que as soluções
+clássicas precisam ser revistas e novas soluções, que ofereçam maior flexibilidade e usem
+de forma mais eficiente os recursos disponíveis, precisam ser desenvolvidas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Pericles Lopes Machado - Integrante.
+2014 - 2020
+Desenvolvimento de metodologias para Engenharia Legal e Perícia Ambiental para Aplicações em Engenharia de Minas e Ambiental
+Descrição: O projeto de pesquisa visa o desenvolvimento de novas metodologias utilizando os Veículos Aéreos Não Tripulados com sensores embarcados com o objetivo de mapeamento espacial de áreas em que uma alta resolução seja essencial. A metodologia proposta pretende preencher lacunas espaciais e temporais na produção de dados através de sensores remotos convencionais (sobrevoo com aeronaves tripuladas ou orbitais), servindo como suporte à Engenharia Legal e à Perícia Ambiental de áreas de mineração, áreas de significativo impacto ambiental ou quaisquer outras áreas em que se necessite de um mapeamento detalhado e atual. O projeto também apoiará a formação de recursos humanos de alto nível em áreas tecnológicas de engenharia com notória carência no pais: engenharia de minas e ambiental. Também, espera-se promover a interção e integração de múltiplos grupos em distintas instituições de ensino e na PF do Brasil. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Joao Felipe Coimbra Leite Costa - Integrante / Filipe Schmitz Beretta - Integrante / Lemos Peroni, Rodrigo - Coordenador / GEORGE OLUNFUMILAYO GASPER - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2014 - 2017
+Um novo método de simulação de teores de minério: caminhos randômicos multidirecionais
+Descrição: Os métodos de simulação geoestatística são construídos para gerar L (L = 1,...,L) modelos estocásticos de qualquer atributo de um depósito mineral, reproduzindo seus momentos estatísticos de 1ª e 2ª ordem. Geralmente, os métodos estocásticos utilizam a técnica de simulação de Monte Carlo (Halton, 1970 e Isaaks, 1990) para a construção dos modelos numéricos. Nessa técnica, os modelos de incerteza dos atributos de interesse, nas localizações não medidas são amostradas aleatoriamente L vezes, construindo o conjunto de valores simulados. Uma amostragem desse tipo em cada localização da malha resulta em uma realização (um modelo estocástico) da distribuição espacial da variável de interesse. A repetição desse processo garante o acesso a vários modelos numéricos ou realizações do atributo mineral estudado.
+Teoricamente, os métodos estocásticos reproduzem tão bem o espaço de incerteza da variável de interesse quanto maior for o número L de realizações executadas. Porém, na prática, esse número é função da distribuição estatística dos dados originais, necessitando ser maior ou menor, conforme as características intrínsecas dos dados. O importante é que o número L de tiragens aleatórias seja grande o suficiente para garantir que o espaço de incerteza do atributo medido seja caracterizado, atendendo ao objetivo almejado. Entretanto, frequentemente, L precisa ser tão grande que essa técnica pode se tornar computacionalmente muito intensa. Dependendo da situação, esse procedimento pode exigir muito tempo de processo e armazenamento em disco (HD), tornando-se proibitivoseu uso rotineiro em atividades de modelagem geológica e planejamento de lavra de curto prazo voltadas à produção. Nesses casos, ainda existem problemas em relação à manipulação dos arquivos resultantes, pois o procedimento de simulação é apenas uma etapa do processo de análise de risco.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador.
+2013 - 2019
+Pesquisa e implementação de métodos de geoestatistica computacional para o Sistema Integrado de Geologia e Geofisica-SIGEO
+Descrição: A carência de métodos geoestatísticos avançados aplicados a modelagem de reservatórios complexos - sistemas carbonáticos - de petróleo e gás naturaltem levado a um hiato tecnológico entre as práticas em uso no país e no exterior.
+As decisões durante as fases de exploração e de engenharia de reservatórios, de um modo geral, necessitam de adequada compreensão do modelo geológicopara diminuir as incertezas na locações e perfurações de poços exploratórios. A geoestatística multiponto a partir de "imagens de treinamento" temcontribuído decisivamente na compreensão dos modelos geológicos mais complexos, sendo muito pouco utilizada no Brasil. Adicionalmente, sãoutilizados dados secundários, como os dados sísmicos, obtidos a partir de intensivas campanhas de exploração geofísica, para melhorar o conhecimento dosmodelos e identificar as áreas mais favoráveis para acumulação de hidrocarbonetos. 
+Embora as ferramentas disponíveis atualmente tenham sido utilizadascom relativo sucesso, necessita-se de avanços nas atuais soluções para modelagem de reservatórios complexos, levando em consideração, além dos dadosgeológicos, múltiplos atributos sísmicos correlacionados. A geoestatística assume papel decisivo na integração dessas informações.A meta desse projeto é desenvolver novas metodologias buscando uma melhoria dos modelos geológicos integrando dados primários e secundários pormeio da geoestatística.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / Paulo Salvadoretti - Integrante / Vanessa Cerqueira Koppe - Integrante / Lemos Peroni, Rodrigo - Integrante.Financiador(es): Petroleo Brasileiro S.A - Auxílio
+										financeiro.
+2013 - 2013
+36th APCOM
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / RODRIGO PERONI - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - Atual
+Estudos de Geoestatistica
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (4)  / Mestrado acadêmico: (6)  / Doutorado: (4) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador.Financiador(es): Companhia Vale do Rio Doce - Outra.
+2012 - 2016
+Novos metodos geoestatisticos aplicados a estimativas de variaveis composicionais em depositos minerais
+Projeto certificado pela empresa Companhia Vale do Rio Doce em 10/04/2013.
+Descrição: Os investimentos e o planejamento econômico na mineração requerem o entendimento, quantificação e avaliação de riscos na determinação de teores e tonelagens de minério. O planejamento de lavra e as operações em usinas de beneficiamento também requerem a estimativa de teores e tonelagens. A geoestatística proporciona as ferramentas necessárias para realizar essas estimativas utilizando adaptações das técnicas clássicas de regressão. Também, permite avaliar os riscos envolvidos pela geração de diferentes cenários equiprováveis por meio de simulações estocásticas. Nas investigações geológicas que proporcionam as informações para a avaliação de depósitos, geralmente são amostradas múltiplas variáveis, seja pelo seu interesse econômico, por serem de importância no posterior processo de beneficiamento ou porque auxiliam no entendimento e definição do modelo geológico. Em muitas ocasiões, algumas dessas variáveis apresentam correlação entre si e a consideração conjunta delas nas estimativas ou na determinação do espaço de incerteza, proporciona um modelo mais consistente com a natureza do fenômeno estudado.O minério de ferro, assim como o de manganês e fosfato (entre outros), são exemplos de casos nos quais é necessário determinar múltiplas variáveis para a caracterização do minério. No caso do minério de ferro, com uma demanda em constante aumento, dada pelo crescimento da indústria siderúrgica, a qualidade final do produto não está dada somente pelo teor de ferro, mas também pelos teores de outros componentes que intervém no posterior processo siderúrgico. Além disso, as frações granulométricas devem ser estritamente controladas para atender as especificações do produto. Portanto, múltiplas variáveis devem ser estimadas de modo tal, que os teores nos modelos de blocos dos depósitos satisfaçam os balanços de massa entre as frações granulométricas e a estequiometria para as espécies químicas. Esses sistemas são altamente complexos apresentando múltiplas variáveis correlaci. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Paulo Salvadoretti - Integrante / Maria Noel Boezio - Integrante / Celeste Queiroz - Integrante / Diniz Tamantini Ribeiro - Integrante / Vládia Cristina G. de Souza - Integrante / João Dirk - Integrante / Luciano Nunes Capponi - Integrante / Veiga, D. C. - Integrante / Abichequer, L.A. - Integrante / Lilian GRABELLOS - Integrante.
+2011 - 2019
+Novas Metodologias para Estimativas de Teores em Depositos Minerais de Fosfato, Ferro e Manganes: como resolver adequadamente a estilmativa de variaveis composicionais?
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Paulo Salvadoretti - Integrante / Maria Noel Morales Boezio - Integrante / Diniz Tamantini Ribeiro - Integrante / Luciana Arnt Abichéquer - Integrante / Vládia Cristina G. de Souza - Integrante / Luciano Nunes Capponi - Integrante / Marcelo Vidigal - Integrante / Diego Campos da Veiga - Integrante / João Dirk Vieira Reuwsatt - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2014
+Proposição Geoestatistica para quantificação da variabilidade do minerio em blendagem e pílhas e homegeneização
+Descrição: Na tese de doutoramento, pretende-se dar continuidade ao trabalho realizado na dissertação de mestrado onde foram aplicadas técnicas de coestimativa utilizando diferentes modelos de corregionalização. A partir da experiência prévia utilizando múltiplas variáveis procura-se dar solução ao problema da aplicabilidade das técnicas multivariadas no âmbito industrial. Assim, o objetivo geral para a tese de doutoramento é a o desenvolvimento para implementação na industria mineral de técnicas de coestimativa e cossimulação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Diego Marques - Integrante.
+2010 - 2017
+Novas tecnologias geoestatisticas e geofisicas aplicadas a questões de planejmen
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2014
+Novas tecnologias de realidade virtual aplicadas a modelagem de depositos minerais e a lavra de minas
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / A. C  Zingano - Integrante / JAIR CARLOS KOPPE - Integrante / RODRIGO PERONI - Integrante.
+2009 - 2013
+Execução de serviços de serviços de consultoria tecnica para supervisionar orientar e acompanhar os trabalhos de reservas e planejamento de lavra realizado pela Fosfertil para o Complexo de Catalão CMC
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / RODRIGO PERONI - Integrante.
+2009 - 2011
+Utilização de novo metodo(FPG) para solução de problemas na estimativa e classificação de recursos de minerio aurifero
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / MACHADO, Rochana da Silva - Integrante / MIIGUEL ARMONY - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2010
+Desenvolvimento das operações de lavra em mina de cobre na KCM na Zambia
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / Bruno Grudzinski - Integrante / Rodrigo Luis Karas - Integrante.
+2008 - 2011
+Perfilagem geofísica e métodos geoestatísiticos combinados para melhorar a precisão e acuracidade da estimativa de recursos minerais
+Descrição: O objetivo principal desse estudo é avaliar a técnica de perfilagem geofísica como uma ferramenta de correlação estratigráfica e estimativa de densidade e teores, para obtenção de parâmetros (informações) importantes na avaliação de depósitos metálicos metamórficos (formações ferríferas) e depósitos sedimentares de carvão. Assim, é possível complementar as informações advindas da coleta e análise de testemunhos de sondagem. O estudo também investigará a possibilidade de estimar a densidade das litologias quando os furos de sondagem encontram-se com o revestimento metálico já instalado. Adicionalmente, será investigada a krigagem dos indicadores como um método de estimativa que permite a incorporação de dados secundários, obtido por perfilagem geofísica, sem desconsiderar o erro associado ao valor. Isto atenderá a lacuna técnica necessária para incoporar sistematicamente os dados geofísicos na geração de modelos de teores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / MARCELO C GODOY - Integrante / Paulo Salvadoretti - Integrante / José Adolfo Carvalho Júnior - Integrante / Vanessa Cerqueira Koppe - Integrante / Diniz Tamantini Ribeiro - Integrante / Taigo de Almeida - Integrante / João Dirk - Integrante / Breno Gorelik - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Avaliar a perfilagem geofísica e a geoestatística aplicadas para uma melhor delineação de corpos de minério e estimativa de recursos minerais: uma solução para determinação da densidade in situ de minério de ferro.
+Descrição: A estimativa de recursos de depósitos minerais depende de um correto modelo geológico, de uma boa estimative geoestatística dos teores e densidades. Este ultimo parâmetro físico, i.e. densidade é constantemente negligenciada nas estimativas, sendo tomado valores médios para as litologias que formam o depósito em algumas amostras coletas. Este procedimento comum na indústria mineral gera severos erros nas estimativas de recursos e reservas, uma vez que a correta densidade em cada parte do depósito deveria ser modelada a exemplo do que é feito por exemplo com teores.
+Em minério de ferro, este problema toma proporções enormes já que as massas mineradas anualmente são enormes e a metodologia vigente para estimar a densidade do minério e das rochas estéril é bastante precária.
+Os registros geofísicos obtidos têm como característica proporcionar diferenciação, via contraste de propriedades físicas, entre minério e estéril em furos de sondagem. A utilidade deste instrumento de definição de litologias cresce quando a recuperação de testemunhos de sondagem é deficiente, como ocorre em determinadas situações envolvendo o minério de ferro friável.
+A perfilagem geofísica de furo vem sendo cada vez mais empregada por empresas de mineração, devido ao baixo custo de aquisição de dados e confiabilidade nos parâmetros medidos. Pesquisas são realizadas para obter-se o máximo aproveitamento possível das informações oriundas de perfilagem geofísica. Dados qualitativos e quantitativos do minério perfilado são buscados a partir dos parâmetros ou combinação dos parâmetros medidos.
+Os dados qualitativos obtidos através dos parâmetros medidos por perfilagem geofísica podem ser empregados para avaliação de depósitos minerais. Apesar de confiáveis, os dados de perfilagem geofísica não apresentam a mesma precisão quando comparados com dados obtidos por sondagem testemunhada ou outros métodos de amostragem direta. Por isso, as informações obtidas por geofísica, normalmente, são utilizadas c. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / Tiago Webber - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2008
+Projeto de prestação de serviços e desenvolvimento de metodologias para aplicação na área de engenharia de minas.
+Descrição: Pesquisa Mineral e Lavra de Minas. Instituições associadas Financiadoras : Golder Associates Inc, Copelmi Mineração Ltda. Valor do projeto: R$ R$ 92.584,99. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / RODRIGO PERONI - Integrante.Financiador(es): Companhia Vale do Rio Doce - Auxílio
+										financeiro / Copelmi Mineracao Ltda - Auxílio
+										financeiro / Golder Associates Brasil Consultoria e Projetos - Auxílio
+										financeiro / Mineração Caraiba - Auxílio
+										financeiro / Mineração Rio do Norte - Auxílio
+										financeiro / Votorantim Metais Zinco - Auxílio
+										financeiro.
+2006 - 2009
+APERFEIÇOAMENTO DA ESTRATÉGIA DE HOMOGENEIZAÇÃO DE MINÉRIOS UTILIZANDO SIMULAÇÃO GEOESTATÍSTICA
+Descrição: Pesquisa Mineral e Lavra de Minas . Instiruições Associadas Financiadoras: Datamine Latin America
+Valor do Projeto: R$ 168.000,00 (48 meses) ou R$ 42.000,00 (2007) ? 3.500/mês
+a partir de 2009 R$ 12.000/ano. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante.Financiador(es): Datamine Latin America Comercio e Serviços - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2005 - 2005
+Metodologia geoestatística para projeto de pilha de homogeneização de minério
+Descrição: Desenvolvimento de procedimentos geoestatísticos para avaliação da variabilidade de minério in situ e incorporação no projeto de pilhas de homegeneização.
+Patrocínio da Minerações Brasileiras Reunidas - MBR (CAEMI). R$ 68.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador.Financiador(es): Minerações Brasileiras Reunidas - Auxílio
+										financeiro.
+2004 - 2004
+Inventario dos recursos de carvao in situ - projeto Irui - CRM
+Descrição: Metodologia de avaliação para realizar inventario dos recursos de carvao in situ - projeto Irui - CRM. Períodp de 5 meses. R$ 24.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / José Antonio Kurcevicz - Integrante / Paul Cezanne - Integrante.Financiador(es): Companhia Riograndense de Mineração - Auxílio
+										financeiro.
+2004 - Atual
+Desenvolvimento de metodologias de avaliação e simulação de depósitos  minerais de Ferro, Cobre, Manganês, Ouro, Bauxita, Caulim, Niquel
+Descrição: Estudos geoestatísticos;Pesquisa Mineral e Lavra de Minas. 
+Empresas Financiadoras Associadas: Companhia Vale do Rio Doce, Companhia Siderurgica Nacional, Minerações Brasileiras Reunidas, Mineração Rio do Norte, Datamine Latin America, Anglo American, Yamana Gold Inc., Votorantim Metais, Carbonífera Criciúma Ltda.) Valor do Projeto R$ 737.181,54 (em 2008) (R$ 158.273,74-Bolsas, R$ 578.890,80-Aux. Financeiro. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / JAIR CARLOS KOPPE - Integrante / Vládia Cristina G. de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação Luiz Englert - Auxílio
+										financeiro / Minerações Brasileiras Reunidas - Auxílio
+										financeiro / Mineração Rio do Norte - Auxílio
+										financeiro / Anglo Gold Ashanti - Auxílio
+										financeiro / Yamana Desenvolvimento Mineral - Auxílio
+										financeiro / Votorantim Metais Zinco - Auxílio
+										financeiro / Carbonífera Criciúma S.A - Auxílio
+										financeiro / Companhia Vale do Rio Doce - Auxílio
+										financeiro / Companhia Siderúrgica Nacional - Auxílio
+										financeiro.
+2003 - 2005
+Desenvolvimento de procedimentos amostrais e de homogeneização do minério do projeto Seival
+Descrição: Desenvolvimento de procedimentos amostrais e de homogeneização do minério do projeto Seival, RS. R$ 49.975,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Paulo Salvadoretti - Integrante / Vanessa Koppe - Integrante / Tiago Webber - Integrante / Leandro José de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2003 - Atual
+Estudos em Geoestatística
+Descrição: Projeto de pesquisa envolvendo 3 teses de doutorado e duas de mestrado, 4 graduandos com bolsa de inciação científica.
+Patrocínio do projeto CVRD no valor de R$ 168.000,00/ano no período 2003-2009, no total de R$ 1.016.000,00. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Joao Felipe Coimbra Leite Costa - Coordenador / Fernando Gambin - Integrante / Luis Eduardo de Souza - Integrante / Fabricio de Souza - Integrante / Maria Noel Morales Boezio - Integrante / Diego Marques - Integrante.Financiador(es): Companhia Vale do Rio Doce - Auxílio
+										financeiro.Número de produções C, T & A: 1

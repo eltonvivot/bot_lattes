@@ -1,0 +1,11 @@
+2022 - Atual
+Aplicações Baseadas em Blockchain: Monitoramento, Modelos e Compromissos entre Custos e Benefícios
+Descrição: Blockchain é uma tecnologia disruptiva baseada em transações distribuídas e contratos inteligentes que permitem o aumento da confiança entre pessoas e organizações e, ao mesmo tempo, redução de intermediações e burocracia.
+A proposta deste projeto foca em três tópicos de pesquisa: 
+(I) desenvolvimento de técnicas para monitoramento de DApps em diferentes redes blockchain;
+(II) desenvolvimento de modelos baseados em inteligência artificial para identificação de perfis de usuários e DApps; e
+(III) análises dos compromissos entre custos e benefícios de DApps em diferentes redes blockchains, considerando custos com infraestrutura computacional e os benefícios providos ao usuário em termos de desempenho da rede.
+Esses tópicos se auto-complementam e oferecem desafios de pesquisas cujas advindas contribuições científicas avançarão no estado da arte em torno do tema e servirão de substrato para inovação tecnológica com benefícios sociais e econômicos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Glauber Dias Gonçalves - Coordenador.
+2022 - Atual
+Serviços Inteligentes para Predição de Índices de Criminalidade Urbana Baseado em Fontes de Dados Abertas Geradas por Usuários na Web
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Glauber Dias Gonçalves - Coordenador / SAUL SOUSA DA ROCHA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

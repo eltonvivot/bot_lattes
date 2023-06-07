@@ -1,0 +1,137 @@
+2022 - Atual
+Strongly Resonant All-dielectric Metasurfaces based on quasi-dark and toroidal modes (StReAM)
+Descrição: StReAM will investigate the physics of all-dielectric SRM, shedding light on aspects such as the influence of resonator shape and material, external excitation and the symmetry and cluster geometry on the manifestation of dark and toroidal modes. Generic design rules will be devised for the engineering of SRM with target properties directly exploitable in applications such as non-linear harmonic generation, polarization control/splitting, lasing, and sensing. Based on this knowledge, StReAM will demonstrate experimentally proof-of-concept prototypes, focusing on the case study of near-infrared SRM for refractometric sensing.
+The successful implementation of the project is based on the complementarity of the partners? know-how. The metasurface analysis will be accelerated by numerical and analytical tools mastered by UNICAMP and verified by means of full-wave simulations. Prototypes of the optimized SRM will be fabricated in the micro- and nano-fabrication facilities and clean rooms of CNR-IMM and characterized at UNICAMP to provide a solid proof-of-concept. 
+Such a synergistic approach will enable a direct collaboration of the two partners on the physics and applications of SRM based on dark or toroidal modes, outlining the motivation and the added value of the project.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (4) . Integrantes: Victor Dmitriev - Integrante / Hugo E. H. Figueroa - Coordenador / Gabriel Felipe Barros - Integrante / Silvio Domingos Silva Santos - Integrante / Dimitrius Zografopoulos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Cooperação.
+2021 - Atual
+INVESTIGAÇÃO E METODOLOGIA DE ANÁLISE DE CONCENTRAÇÃO DE OZÔNIO EM  HIDROGRERADORES COMO FERRAMENTA DE MANUTENÇÃO PREDITIVA
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Victor Dmitriev - Coordenador / Licinius D. S. Alcantra - Integrante / Ronaldo de Freitas Zampolo - Integrante / Fernando de S. Brasil - Integrante / Rodrigo Melo e Silva de Oliveira - Integrante.
+2021 - Atual
+Investigação teórica e experimental de modos escuros e toroidais em metasuperfícies ressonantes.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Victor Dmitriev - Coordenador.
+2020 - Atual
+DISPOSITIVOS PLASMÔNICOS BASEADOS EM GRAFENO E FOSFORENO PARA REGIÃO TERAHERTZ
+Descrição: As atividades a serem seguidas por este projeto versam no
+projeto de dispositivos fotônicos e plasmônicos baseados em grafeno,
+fosforeno e outros materiais bidimensionais. Nós pretendemos investigar
+teoricamente o acoplamento de polaritons de plasma de superfície (SPP) em
+nano-fitas de grafeno entre si ou entre guias de onda e ressonadores
+espacialmente separados por uma certa distância, com a finalidade de projetar
+dispositivos plasmônicos para região de THz. Usando o método de elementos
+finitos, ilustraremos numericamente a propagação e modulação de ondas SPP
+em de guias de onda de grafeno. O acoplamento de ondas SPP pode ser
+empregado para projetar dispositivos optoeletrônicos como: acopladores
+direcionais, divisores de potência, filtros e chaves eletromagnéticas,
+circuladores, comutadores, interferômetros ultracompactos, entre outros. Ao
+longo deste projeto, serão realizadas investigações baseadas em análises
+teóricas e em simulações computacionais, tendo em vista a obtenção de um
+conhecimento muito mais profundo sobre os fenômenos destacados e a
+aplicação desta tecnologia no desenvolvimento de componentes para sistemas
+de comunicações na região de terahertz.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Victor Dmitriev - Coordenador / Wagner Castro - Integrante / Cristiano Braga - Integrante / Olivia de Nazaré dos Santos - Integrante / Jordan Aleixo Martins Da Cruz - Integrante / LUIZ ASSUNÇÃO - Integrante.
+2017 - 2020
+Desenvolvimento de novos dispositivos baseados em grafeno, outros materiais bidimensionais e cristais fotônicos bidimensionais para utilização em sistemas de comunicaçõe
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Victor Dmitriev - Coordenador / Karlo Q. da Kosta - Integrante / Clerisson Nascimento - Integrante / Daimam Zimmer - Integrante / Gianni Masaki Tanaka Portela - Integrante / Leno Martins - Integrante / Wagner Ormanes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2016
+Nanosensores plasmônicos para caracterização de biomoléculas e nanopoluentes
+Descrição: Neste projeto serão fabricados nano sensores biológicos baseados em estruturas planares compostas por metal, dielétricos e nanopartículas metálicas (nanoantenas). O biosensor de nanoantena que será considerado neste projeto é composto por uma camada de filme fino de metal, uma camada espaçadora de bio-elementos, onde serão depositados os QDs, e uma segunda bio-camada espaçadora onde serão depositadas as nanoantenas. O método da função diádica de Green de um meio multicamada planar, junto com o Método dos Momentos (MoM), e o software Comsol que utiliza o método dos elementos finitos (FEM) serão utilizados para análise teórica do referido problema. Particularmente serão feitos os seguintes estudos: variação da curva de ressonância plasmônica da refletividade da estrutura com a presença das nanoantenas, variação da taxa de emissão radiativa e não radiativa dos QDs em função da distancia entre eles e as nanoantenas, e a variação da taxa de emissão radiativa e não radiativa dos QDs em função de toda a estrutura. Ao final do projeto pretende-se obter uma nova estrutura teórica e experimental de um sensor biológico para análise e caracterização de nanoparticulas metálicas. A mesma estrutura irá ser otimizada teoricamente para o potential desenvolvimento de microscópios SPR em modalidade de emissão acoplada as plasmon superficiais para detecção de interações moleculares.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Victor Dmitriev - Coordenador / Karlo Queiros da Costa - Integrante / Tommaso Del Rosso - Integrante / Omar Pandoli - Integrante / Gustavo Leite Silvano - Integrante / Janilson Leão de Souza - Integrante / Tiago Wanzeler - Integrante.
+2013 - 2015
+DISPOSITIVOS NANOELETRÔNICOS E NANOFOTÔNICOS BASEADOS EM NANOFITAS DE GRAFENO
+Descrição: Um dos objetivo gerais deste projeto é investigar e projetar desenvolver novos tipos de dispositivos nanoeletrônicos, a exemplo de diodos e transístores, cristais fotônicos, bem como dispositivos fotovoltaicos e nanoantenas baseadas em grafeno. Isso, considerando questões práticas de geometria, materiais e alimentação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (6) . Integrantes: Victor Dmitriev - Coordenador / Gianni Portela - Integrante / Fernando A. P. Gomes - Integrante / Clerisson Nascimento - Integrante / B. W. Martins - Integrante / André Lages - Integrante / Karlo Costa - Integrante / SANTOS DA COSTA Ewerton - Integrante / Leonardo de Souza Mendes - Integrante / Daimam Zimmer - Integrante / Raphael Batista - Integrante / Carlos Rafael Marques dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2015
+Desenvolvimento de um Sistema de Monitoramento e Diagnóstico On-Line de Descargas Parciais nos
+Descrição: O projeto objetiva desenvolver e validar um sistema para avaliar o estado dielétrico dos enrolamentos estatóricos dos hidrogeradores da Usina Coaracy Nunes, no Amapá, através do Monitoramento de Descargas Parciais (DP's) e Temperatura. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Victor Dmitriev - Coordenador.Financiador(es): Centrais Elétricas do Norte do Brasil - Auxílio
+										financeiro.
+2012 - 2014
+Desenvolvimento de um isolador óptico baseado no efeito de propagação unidirecional de ondas em cristais fotônicos 2D e de um circulador óptico com geometria X
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Victor Dmitriev - Coordenador / Gianni Portela - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+Estudo teorico de nanotubos de carbono e de nitreto de boro intercalados para nanoeletronica
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Victor Dmitriev - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+Dispositivos eletromagnéticos baseados em metamateriais, utilizados em sistemas de telecomunicações e defesa
+Descrição: Este projeto tem como alvo o emprego de metamateriais no desenvolvimento de dispositivos eletromagnéticos: guias de onda, absorvedores, nanoantenas, filtros e coberturas de invisibilidade. A caracterização destes dispositivos será conduzida pelos cálculos de parâmetros capazes de deduzir a eficiência dos dispositivos, tais como: índices de perdas, refletância, transmitância e índice de refração. A síntese destes dispositivos, no entanto, não será limitada ao processo de caracterização, também é pretendido otimizar a operação destes dispositivos, de forma que sejam obtidas contribuições efetivas para a funcionalidade destes através das disposição das estruturas que os constituem.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Victor Dmitriev - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2008 - 2012
+Antenas e Modelos de Propagação Eficientes para o SBTVD-T
+Descrição: O nosso projeto se insere na chamada camada física do sistema de
+telecomunicações do SBTVD-T, envolverá o desenvolvimento de antenas de
+microondas incluindo circuladores e materiais cerâmicos correspondentes, assim
+como também, modelos de propagação em florestas, ambientes urbanos e mistos.
+O Sistema Brasileiro de Televisão Digital Terrestre ? SBTVD-T, começou a operar
+recentemente, porém, sem uma funcionalidade de grande importância, a chamada
+interatividade permanente, através da qual os telespectadores poderão interagir
+efetivamente com a programação das emissoras. Isto permitirá a participação dos
+mesmos em debates, pesquisas de opinião, e também, cursos de educação a
+distância. Para a implementação desta facilidade faz-se necessário escolher a
+tecnologia a ser utilizada no chamado sistema de retorno. Uma forte candidata é a
+tecnologia WiMax, ou equivalente, também se cogita o uso da telefonia celular, isto
+naturalmente demandará o uso de freqüências de microondas e consequentemente
+faz-se necessário o estudo e desenvolvimento de antenas para essas faixas de
+freqüência, que apresentem como principais características: portabilidade
+(miniaturização), banda-larga de operação e múltiplas funcionalidades. Visando a
+miniaturização das antenas, serão exploradas cerâmicas especiais com alta
+permissividade e baixas perdas. Por outro lado, visando o aproveitamento da
+mesma antena como receptora/transmissora, circuladores compactos com baixa
+perda de inserção serão também desenvolvidos usando cerâmicas magnéticas. As
+cerâmicas mencionadas constituem uma frente de estudo e serão desenvolvidas
+com tecnologia totalmente nacional. Já na parte de propagação nos focaremos na
+faixa de UHF, porém dando ênfase aos ambientes encontrados no Brasil, em
+particular, floresta amazônica, ambientes urbanos e mistos (urbano-floresta), os
+quais têm sido pouco explorados na literatura. Consideramos estas três frentes de
+trabalho cruciais para o desenvolvimento científ. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Victor Dmitriev - Coordenador / Hugo E. H. Figueroa - Integrante / Antonio S. B. Sombra - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2008 - 2011
+Dispositivos nanoplasmonicos para sistemas de telecomunicações
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Victor Dmitriev - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Análise Teórica e Otimização de Circuitos Ópticos Integrados Baseados em Cristais Fotónicos para Sistemas de Telecomunicações
+Descrição: Este projeto tem como alvo o emprego de cristais fotônicos no desenvolvimento de dispositivos ópticos passivos: guias de onda, chaveadores e moduladores de potência óptica, nanocavidades, circuladores, isoladores e acopladores ópticos. A caracterização destes dispositivos será conduzida pelos cálculos de parâmetros capazes de deduzir a eficiência dos dispositivos, tais como: índices de perdas, grau de confinamento e isolação, fator de qualidade, velocidade de chaveamento, volume modal efetivo e coeficiente de acoplamento. A síntese destes dispositivos, no entanto, não será limitada ao processo de caracterização, também é pretendido otimizá-los, de forma que sejam obtidas contribuições efetivas para o aumento da densidade de integração de circuitos ópticos integrados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (6) . Integrantes: Victor Dmitriev - Coordenador.Financiador(es): Fundação Amazônia Paraense de Amparo à Pesquisa - Auxílio
+										financeiro.
+2008 - 2010
+Modelagem de nanoantenas pelo metodo da função de Green
+Descrição: Modelar pelo método da função de Green nanoantenas aplicadas na área de amplificação de campo óptico próximo. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Victor Dmitriev - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2008
+Identificação de Pontos de Monitoramento em Transformadores de Potencial, Bobinas de Bloqueio e Pára-Raios de Forma a Diagnosticar Iminência de Falhas nestes Equipamentos e Especificação de Sensores para Utilização em Sistemas de Monitoramento
+Descrição: Objetiva o estudo de um sistema viável economicamente, para automação operacional de equipamentos da Subestação de Transmissão de TBE, que auxilie a manutenção operacional, permitindo um funcionamento mais preciso e custos reduzidos, aumentando a confiabilidade do sistema elétrico e reduzindo as interrupções não programadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Victor Dmitriev - Coordenador / Rubem Farias - Integrante / Gianni Portela - Integrante / Eduardo T. Tuma - Integrante / Jurandyr N. Garcez - Integrante / Maria do S. M. Sacramento - Integrante / Roger R. da Silva - Integrante / Michele V. Almeida - Integrante.Financiador(es): Transmissoras Brasileiras de Energia - Auxílio
+										financeiro.
+2005 - 2008
+Desenvolvimento e Validação Experimental de um Software para Simulação do Transiente Térmico de cabos OPGW Submetidos a Curto-Circuito
+Descrição: O projeto tem como objetivo desenvolver um modelo matemático eletromagnético dos regimes de curto-circuito e de descarga atmosférica nos cabos OPGW no intuito de evitar possíveis danos nos mesmos como, por exemplo, a destruição dos arames de armação, o que acabaria por comprometer a integridade do cabo. Também será feita a implementação computacional para tal modelo matemático.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Victor Dmitriev - Integrante / Vanderson Geraldo Aranha da Silva - Integrante / Luciana Pereira Gonzalez - Integrante / Joao T. Pinho - Coordenador / Kellen D. C. Gomes - Integrante / Orlando de A. P. Júnior - Integrante.Financiador(es): Pirelli S/A Companhia Industrial Brasileira - Auxílio
+										financeiro.
+2005 - 2007
+Desenvolvimento de sensor óptico para monitoramento de  descargas parciais em hidrogeradores
+Descrição: A ocorrência de descargas parciais nos sistemas isolantes dos equipamentos de alta tensão é um sintoma de fragilidade na suportabilidade dielétrica e cuja evolução pode vir a acarretar graves conseqüências para o equipamento e o sistema elétrico.
+Nesse projeto pretende-se avaliar a possibilidade de aplicaçao de sensores ópticos na avaliação da intensidade e localização de descargas parciais em hidrogeradores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Victor Dmitriev - Coordenador / Williams Massayuki Kawakatsu - Integrante / Tiago Carvalho Martins - Integrante / Karlo Q. da Kosta - Integrante.Financiador(es): Centrais Elétricas do Norte do Brasil - Auxílio
+										financeiro.
+2005 - 2007
+Novas antenas Lineares e de Microfita de Banda Larga Compactas
+Descrição: Este projeto de pesquisa tem como objetivo a análise teórica e experimental de antenas lineares e de microfita. Para análise teórica serão utilizados métodos numéricos como método dos momentos (MoM) e o método das diferenças finitas no domínio do tempo (FDTD). Em cooperação com ITA (Instituto Tecnológico de Aeronáutica, Prof. Laçava) nos desenvolvemos um protótipo de antena de microfita e medimos os parametros desta antena. Este trabalho foi feito durante a visita técnica do Karlo Queiroz da Costa do Laboratório de Antenas de Departamento de Telecomunicações, divisão de Engenharia Eletrònica, Instituto Tecnológico de Aeronáutica, São José dos Campos, no período de 07 a 21 de fevereiro  de 2006. Durante esta visita, foram feitas algumas medições para comparação com dados teóricos.  
+Uma tese de doutorado foi defendida: Karlo Queiroz da Costa  ?Análise teórica de novos tipos de antenas lineares de banda larga e de dimensões reduzidas?,  2007, orientador: Victor Dmitriev. 
+Uma dissertação de mestrado foi defendida: Dilermando Ramalho Melo ´´Otimização da largura de banda de uma antena monopolo dobrada compacta (BFMA) para uso em banda larga`` 2007, orientador: Victor Dmitriev.
+Dois trabalhos de conclusão do curso (TCC): 
+a) ´´Abordagem em FDTD para analise de uma antena de microfita retangular alimentada via L-probe``, 2006, estudante Anderson Oliveira Silva, orientador: Victor Dmitriev,
+b) ´´Otimização da largura de banda de antenas lineares compostas utilizando algoritmo genérico``, 2006, estudante Luis Paulo do Vale Matos,   orientador: Victor Dmitriev.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Victor Dmitriev - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2010
+Desenvolvimento de programas computacionais para análise de dispositivos e sistemas para redes de comunicações óticas e móveis
+Descrição: Trata-se de um projeto integrado de pesquisa, que vem sendo apoiado pelo CNPq desde 1996 (bolsa de pesquisa) e que em 2002 também recebeu recursos do PNOPG, nas seguintes áreas. Sistemas e Dispositivos para Redes Sem Fio: Radiocomunicação em Sistemas Móveis, Sistemas Irradiantes, Modelamento Matemático para Predição de Radiopropagação, Planejamento de Sistemas Celulares, Modelamento de Tráfego em Sistemas Celulares, Aplicações sobre IP e Qualidade de Serviço. Aplicações em Redes de Sensores. Sistemas e Dispositivos para Comunicações Ópticas: Análise e Otimização de Dispositivos Óticos Baseados em Guias com Multicamadas Dielétricas; Análise de Propagação de Pulsos em Fibras Ópticas; Análise e Projetos de Redes Ópticas e Redes de Acesso: Sistemas Integrados Rádio-Fibra e Redes Híbridas Fibra - Cabo Coaxial.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Victor Dmitriev - Integrante / Marco José de Sousa - Integrante / André Mendes Cavalcante - Integrante / João Weyl - Coordenador / Gervasio P. dos Santos Cavalcante - Integrante / Rubem G. Farias - Integrante / Carlos R. L. Frances - Integrante / Renato R. Almeida - Integrante / Andre M. D. Ferreira - Integrante / Cassandra N. do Amaral - Integrante / Claudomiro de S. de Sales JR - Integrante / Elaine de Sena Lelis - Integrante / Aldilene O. Maia - Integrante / Rodrigo C. Rosal de Souza - Integrante / Roberto M. Rodrigues - Integrante / André M. L. Miranda - Integrante / Solon V. de Carvalho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2006
+Desenvolvimento de um sistema para análise e visualização do comportamento transiente dos sistemas de aterramento de subestações
+Descrição: Este projeto trata-se de um trabalho de pesquisa contratado pela ELETRONORTE junto a UFPA e é desenvolvido no Laboratório de Eletromagnetimo Aplicado e no Labotatório de Análise Numérica, com os seguintes temas:: Desenvolvimento de ambiente computacional para análise e visualização do comportamento transiente de sistemas de aterramento, usando-se o método das diferenças finitas no domínio do tempo. Desenvolvimento de um software para caracterização de solos de multicamadas e otimização dos sistemas de aterramento. Desenvolvimento de um ambiente computacional para análise de sistemas de aterramento usando-se o método dos momentos. Desenvolvimento de técnicas práticas especificas para determinação de potenciais de toque e de passo, assim como, da coleta de dados necessários para a realização de diagnósticos sobre sistemas de aterramento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Victor Dmitriev - Integrante / Carlos Leónidas da Silva Souza Sobrinho - Integrante / João Weyl - Coordenador / Ronaldo Oliveira dos Santos - Integrante / Karlo Q. da Kosta - Integrante / Claudomiro de S. de Sales JR - Integrante / Ubiratan H. Bezerra - Integrante / Eduardo T. Tuma - Integrante / Ipojucan L. de Carvalho - Integrante / Marcos E. C. Garcia - Integrante / Pablo Costa - Integrante.Financiador(es): Centrais Elétricas do Norte do Brasil - Auxílio
+										financeiro.
+2003 - 2004
+DESENVOLVIMENTO DE SINALIZADOR PARA IDENTIFICAÇÃO DE FALHAS EM ISOLADORES POLIMÉRICOS DE LINHA DE TRANSMISSÃO ? SIFIP
+Descrição: - Identificar a ocorrência de corrente de fuga através de isoladores poliméricos
+- Desenvolvimento de soistema der sinalização para identificação de isoladores poliméricos com defeito. Situação: Concluído; Natureza: Pesquisa. Integrantes: Victor Dmitriev - Integrante / Karlo Q. da Kosta - Integrante / Petrônio V. Júnior - Coordenador.Financiador(es): Centrais Elétricas do Pará - Auxílio
+										financeiro.
+2002 - 2004
+Comunicações sem fio para região amazônica: desenvolvimento de modelos e medidas
+Descrição: O projeto envolve atividades de pesquisa para o desenvolvimento de modelos, algoritmos e programas computacionais, para o estudo do canal de propagação de sistemas móveis operando em ambientes urbanos e suburbanos, característicos da região amazônica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Victor Dmitriev - Coordenador / Carlos Leónidas da Silva Souza Sobrinho - Integrante / João Weyl - Integrante / Gervasio P. dos Santos Cavalcante - Integrante / Luis A. H. Guedews de Oliveira - Integrante / Andre M. Cavalcante - Integrante / Rubem G. Farias - Integrante / Gláucio H. da Silva Carvalho - Integrante / Carlos R. L. Frances - Integrante / Evaldo G. Pelaes - Integrante.Financiador(es): Ericsson do Brasil Comércio e Indústria S/A - Auxílio
+										financeiro.

@@ -1,0 +1,35 @@
+2020 - 2021
+Edital 03/2020 - Análise preditiva para identificação de alunos suscetíveis à evasão escolar
+Descrição: O presente projeto pretende desenvolver uma ferramenta computacional de identificação dos alunos com maior chance de evasão escolar, no âmbito do IF Sudeste MG, por meio do cruzamento de múltiplas bases de dados (matrículas, trancamentos cancelamentos e transferências), utilizando mineração de dados para o cruzamento de informações.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Emerson Augusto Priamo Moraes - Coordenador / Ricardo Costa Pinto e Santos - Integrante / Leonardo Martins Rodrigues - Integrante.
+2020 - 2021
+Um sistema de informação para valoração de tecnologias do IF Sudeste MG
+Descrição: O objetivo deste projeto é desenvolver um sistema de informação para valorar, de maneira automatizada, as referidas tecnologias, garantindo que os métodos de trabalho se tornem mais ágeis e reduzindo o esforço manual para completar as etapas desta atividade. Destaca-se que no âmbito da valoração de tecnologias, não são encontrados sistemas disponíveis para este fim. A definição de uma metodologia de valoração das tecnologias do IF Sudeste MG foi tratada em projeto anterior e este atual projeto pode se caracterizar como seu complemento e continuidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Emerson Augusto Priamo Moraes - Coordenador / Flávia Couto Ruback Rodrigues - Integrante.
+2019 - 2020
+Sistema on line verificador de Fake News
+Descrição: Edital 14/2018 - PIBICTI. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Emerson Augusto Priamo Moraes - Coordenador.
+2019 - 2020
+EDITAL 04/2019 ? PROPPI Definição de Metodologia de Valoração de Tecnologias e Patentes Adequada ap IF Sudeste MG
+Descrição: Identificar a metodologia de valoração de tecnologias e patentes mais adequada ao Instituto Federal do Sudeste de Minas Gerais.
+Projeto vinculado ao grupo de pesquisa "Inovação e Transferência de Tecnologias", registrado no CNPq.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Emerson Augusto Priamo Moraes - Integrante / Luciano Polisseni Duque - Coordenador.
+2019 - 2019
+Programa IF Sudeste MG INTERNACIONAL
+Descrição: Orientação nas atividades de mobilidade internacional referentes ao Programa IF Sudeste MG INTERNACIONAL.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Emerson Augusto Priamo Moraes - Coordenador.
+2017 - Atual
+Equipamento Biométrico de baixo custo
+Descrição: O uso de biometria espalha-se em diversas áreas: pontos eletrônicos, caixas bancários, autenticação em softwares e hardwares. 
+Este projeto visa o desenvolvimento de um equipamento de leitura biométrica de baixo custo. Que possa ser utilizado por empresas e setores que não possuem recursos financeiros para comprar uma solução corporativa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Emerson Augusto Priamo Moraes - Coordenador / Sandro Roberto Fernandes - Integrante / Filipe Andrade La-Gatta - Integrante.
+2014 - 2015
+Estratégias de tecnologia da informação utilizadas como forma de pesquisa de mercado aplicado nas empresas metalúrgicas da cidade de Juiz de Fora
+Descrição: Estratégias de tecnologia da informação utilizadas como forma de pesquisa de mercado aplicado nas empresas metalúrgicas da cidade de Juiz de Fora. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Emerson Augusto Priamo Moraes - Coordenador / Camila Acácio de Paiva - Integrante / Everton Franco Teixeira - Integrante.
+2013 - 2014
+App IFJF: Um Guia Virtual com Realidade Aumentada
+Descrição: Este projeto tem como objetivo principal o desenvolvimento de aplicativos (app) para dispositivos móveis. O aplicativo principal a ser desenvolvido é o App IFJF: Um Guia Virtual com Realidade Aumentada. O App IFJF irá proporcionar para o usuário um guia do campus Juiz de Fora, aproveitando as funções de GPS que o equipamento já possui integrado e, usando sua câmera, exibir recursos de Realidade Aumentada, que irá proporcionar uma maior interação entre o usuário e o local onde ele se encontra.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Emerson Augusto Priamo Moraes - Integrante / Sandro Roberto Fernandes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - 2014
+Passeio Virtual 3D: realidade virtual no IFJF
+Descrição: Passeio Virtual 3D: realidade virtual no IFJF. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Emerson Augusto Priamo Moraes - Integrante / Sandro Roberto Fernandes - Coordenador.
+2013 - 2014
+Desenvolvimento de uma ferramenta de análise de estimativa de esforço na produção industrial têxtil de vestuário utilizando métodos probabilísticos baseados em redes Bayesianas.
+Descrição: DESENVOLVIMENTO DE UMA FERRAMENTA DE ANÁLISE DE ESTIMATIVA DE ESFORÇO NA PRODUÇÃO INDUSTRIAL TÊXTIL DE VESTUÁRIO UTILIZANDO MÉTODOS PROBABILÍSTICOS BASEADOS EM REDES BAYESIANAS.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Emerson Augusto Priamo Moraes - Coordenador / Eduardo Medeiros - Integrante.
+2012 - 2012
+Análise de modelo de Governança de Tecnologia da Informação mais adequado ao IFET campus Juiz de Fora
+Descrição: Este trabalho tem como objetivo analisar os modelos de governança de TI existentes e fazer um estudo no campus Juiz de Fora do Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais para identificar qual modelo (ou modelos) é(são) o(s) mais adequado(s) para implantação pelo setor de Tecnologia de Informação da instituição, considerando todo o contexto de transformação e ampliação consequente da expansão da rede federal de ensino.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Emerson Augusto Priamo Moraes - Coordenador.

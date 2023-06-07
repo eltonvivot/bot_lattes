@@ -1,0 +1,153 @@
+2021 - Atual
+INVASION: Internet via comunicação por luz visível sem fio
+Descrição: O projeto de pesquisa visa gerar conhecimento e inovação, atacando grandes pro-
+blemas na Internet e desenvolvendo tecnologias que viabilizem a Internet. O principal tema
+abordado é a Internet via comunicação por luz visível sem fio que potencialmente pode aumen-
+tar a vazão de dados, e é alternativa para o problema de espectro lotado. A recente pandemia
+causada pelo corona vírus fez com que os serviços de streaming de vídeo, como Netflix, Glo-
+boplay, Facebook e YouTube, reduzissem a resolução dos vídeos transmitidos para não causar
+impacto na Internet. Isso vem a reforçar a necessidade por tecnologias viabilizadoras da Inter-
+net que aumentem a largura de banda. A comunicação por luz visível sem fio se apresenta como
+a alternativa mais promissora, devido ao espectro que possui, potencialmente disponibilizando
+maior largura de banda para comunicação de dados, como vídeo. No entanto, para que isso
+aconteça, é necessário que a pesquisa avance nessa área, desenvolvendo modelos, algoritmos,
+protocolos e protótipos. Esses são os principais objetivos desse projeto de pesquisa. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador / Omprakash Gnawali - Integrante / Marcos A. M. Vieira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Outra.
+2019 - Atual
+MAP: Modelos, Algoritmos e Protocolos para diversas redes sem fio
+Descrição: O objetivo desta pesquisa é desenvolver modelos, algoritmos e protocolos para diversas redes
+sem fio, como as redes de sensores terrestres, redes aquáticas, redes veiculares, etc., facilitando
+o trabalho do homem, aumentando sua produtividade e melhorando a qualidade de vida. Mo-
+delos, algoritmos e protocolos são importantes para as diversas atividades do homem. Modelos
+permitem descrever o mundo real e ser usado para investigar e melhorar diversos aspectos, como
+a comunicação, entrega de dados, etc. Algoritmos permitem executar procedimentos que solu-
+cionam problemas e automatizam processos. Protocolos permitem trocar informações e oferecer
+novos serviços para a humanidade. Neste projeto são tratados problemas em diversos ambientes
+que podem se beneficiar das redes sem fio. O mérito intelectual desta proposta aparece na pesquisa fundamental para desenvolver novas teorias, algoritmos, protocolos e ferramentas causando
+impacto na sociedade. Estes projetos também apresentam a possibilidade de colaborações entre
+diversas áreas da Ciência e o potencial para o desenvolvimento econômico, ambiental, tecnológico
+e social.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - 2021
+PAI: Protocolos e Algoritmos Inteligentes para Redes Sem Fio
+Descrição: PAI: Protocolos e Algoritmos Inteligentes para Redes Sem Fio.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Outra.
+2015 - 2021
+SiCRA - Sistemas Computacionais para Redes Aquáticas
+Descrição: O objetivo deste projeto é desenvolver a pesquisa multidisciplinar em Sistemas Computacionais
+para Redes Aquáticas, causando impacto social, impacto na formação de
+alunos, interagindo com a comunidade, formando um núcleo de excelência de pesquisa.
+O projeto de Sistemas Computacionais para Redes Aquáticas ocorre em duas frente principais:
+através do desenvolvimento de hardware e software. O hardware é composto por
+nós sensores que possuem capacidade de sensoriamento, comunicação e processamento.
+Eles podem medir grandezas físicas (como temperatura, turbidez, poluição, etc.). Outro
+hardware é uma plataforma computacional que age como interface da rede (nó gateway),
+suportam os nós sensores na água e fazem a comunicação entre terra e água. O software é
+formado pela pilha de protocolos que garante a comunicação e permite a troca de dados e
+a cooperação de entidades computacionais em redes de sensores aquáticas, facilitando o
+trabalho do homem, aumentando sua produtividade e melhorando a qualidade de vida. O
+mérito intelectual desta proposta aparece na pesquisa fundamental para desenvolver novas
+teorias, algoritmos, protocolos e ferramentas causando impacto em diversas áreas da
+Ciência. Tendo em vista a vasta área de aplicação, como monitoração do meio ambiente
+e controle da qualidade água, este projeto apresenta uma forte contribuição econômica
+e social. Além disso, o projeto apresenta caráter multi-disciplinar, envolvendo diversas
+áreas da Ciência como Computação, Redes, Sistemas Embutidos, envolve parcerias interinstitucionais
+(UFMG, UFV, UFJF).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador / Marcos Augusto Menezes Vieira - Integrante / Alex Borges Vieira - Integrante / José Augusto Nacif - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2019
+Federated Union of Telecommunications Research Facilities (FUTEBOL)
+Descrição: The overall objective of the FUTEBOL project is to develop and deploy research infrastructure, and an
+associated control framework for experimentation, in Europe and Brazil, that enables experimental
+research at the convergence point between optical and wireless networks.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Integrante / Marcos Augusto Menezes Vieira - Integrante / José Marcos S. Nogueira - Coordenador / Daniel F. Macedo - Integrante.
+2014 - 2017
+MoReLit - Monitoramento Remoto de Linhas de alta Tensão
+Descrição: Projeto CEMIG/ANEEL de pesquisa e desenvolvimento que visa o desenvolvimento de um equipamento de monitoração remota de linhas de alta tensão. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Integrante / Antônio Alfredo F. Loureiro - Integrante / José Marcos S. Nogueira - Coordenador / Luiz Henrique A. Correia - Integrante / Daniel F. Macedo - Integrante / CAMPOS, Mario - Integrante.
+2014 - 2017
+AR: Algoritmos de Roteamento para Redes Aquáticas
+Descrição: O projeto consiste no desenvolvimento de algoritmos para as redes de sensores aquáticas,
+principalmente protocolos de roteamento geográficos para aplicações de monitoração, como
+plataformas de petróleo e hidrelétricas.
+O protocolo de roteamento é muito importante em redes de computadores porque elé é um
+algoritmo distribuído responsável pela escolha dos caminho que as mensagens devem seguir
+para chegarem ao destino final. Sem o correto funcionamento do protocolo de roteamento,
+não é possível entregar mensagens, interrompendo o serviço da rede.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador / Marcos Augusto Menezes Vieira - Integrante / Antônio Alfredo F. Loureiro - Integrante / Alex Borges Vieira - Integrante / José Augusto Nacif - Integrante / Rodolfo W. L. Coutinho - Integrante / Gustavo Pantuza - Integrante / Rafael Antonio - Integrante.
+2014 - 2016
+PC-RSA: Protocolos de Comunicação para Rede de Sensores Aquáticas
+Descrição: O objetivo desta pesquisa é desenvolver protocolos de comunicação para permitir a
+troca de dados e a cooperação de entidades computacionais em redes de sensores aquáticas,
+facilitando o trabalho do homem, aumentando sua produtividade e melhorando
+a qualidade de vida. Como instância inicial deste projeto, será tratado o problema de
+desenvolvimento de um protocolo de acesso ao meio para a transmissão de dados de
+aplicações como o monitoramento de plataformas de petróleo e hidrelétricas. O mérito
+intelectual desta proposta aparece na pesquisa fundamental para desenvolver novas
+teorias, algoritmos, protocolos e ferramentas causando impacto em diversas áreas da ciência.
+Tendo em vista a vasta área de aplicação como exploração de gás e petróleo,
+monitoração do meio ambiente, controle da qualidade água, geração de energia, este
+projeto apresenta uma forte contribuição econômica e social.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador / José Augusto Nacif - Integrante.
+2014 - 2015
+RFP Brazil Beyond Silicon Computers, the Photonic Processor and Memories Study
+Descrição: Recently, one of the main reasons for the large computational development has been the continued miniaturization of transistors size. However, the miniaturization of the electronic components is quickly approaching it s physical limits. Therefore, in order to maintain the advancement of processors performance, there is the need of new alternative technologies and materials to be investigated. Thus, nanocomputing aims to study nanostructures and nanodevices for the development of a new generation of computers, with innovative and efficient architectures. Among the possible solutions we can highlight the semiconductor nanodevices. In this work Photonic Crystal are investigated which can enable the development of a future generation of computers that use light as a state instead of the electric charge applied in conventional processors. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Integrante / Omar Parnaíba - Coordenador.
+2013 - 2015
+SENUREVE: Serviços na Nuvem para Redes Veiculares
+Descrição: Uma VANET (Vehicular Ad-hoc Network) é uma rede ad-hoc formada por veículos equipados com dispositivos de processamento, sensoriamento, comunicação sem fio e interfaces homem-máquina. Uma VANET será um grande passo para a construção de sistemas de transporte inteligentes. A computação em nuvem define um conjunto de recursos virtuais facilmente usáveis e acessíveis tais como hardware, plataformas de desenvolvimento e serviços. Estes recursos podem ser dinamicamente re-configurados para se ajustarem a uma carga variável, permitindo a otimização do uso dos recursos. O objetivo desta proposta é propor serviços de disseminação de informação para passageiros através de computação em nuvem... Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Integrante / Antônio Alfredo F. Loureiro - Coordenador.
+2012 - 2015
+Comunicação e Cooperação em Novos Ambientes
+Descrição: O objetivo desta pesquisa é tratar a comunicação e a cooperação de entidades computacionais
+em novos ambientes (redes aquáticas, redes veiculares, redes áereas, redes em esgoto, redes
+inteligentes em linhas de transmissão), facilitando o trabalho do homem, aumentando sua produtividade
+e melhorando a qualidade de vida. Comunicação e cooperação aparecem em várias áreas
+de pesquisa e, em cada uma delas, com particularidades. Como instância inicial deste projeto,
+serão tratados problemas em um ambiente específico, as redes de sensores aquáticas. Apesar de
+ser uma área específica, ela apresenta problemas clássicos da Ciência da Computação. O mérito
+intelectual desta proposta aparece na pesquisa fundamental para desenvolver novas teorias, algoritmos,
+protocolos e ferramentas causando impacto em diversas áreas da ciência. Estes projetos
+apresentam a possibilidade de colaborações entre diversas áreas da Ciência e o potencial para o
+desenvolvimento econômico, ambiental, tecnológico e social.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.
+2012 - 2015
+ASA: Algoritmos para rede de sensores aquáticas
+Descrição: O objetivo desta pesquisa é desenvolver algoritmos para
+tratar a comunicação e a cooperação de entidades computacionais em redes de sensores aquáticas,
+facilitando o trabalho do homem, aumentando sua produtividade e melhorando a qualidade de vida.
+Como instância inicial deste projeto, será tratado
+o problema de desenvolvimento de um protocolo de roteamento para o monitoramento de plataformas de petróleo e hidrelétricas. O mérito
+intelectual desta proposta aparece na pesquisa fundamental para desenvolver
+novas teorias, algoritmos, protocolos e ferramentas causando impacto em
+diversas áreas da ciência. Tendo em vista a vasta área de aplicação como exploração de gás e petróleo,
+monitoração do meio ambiente, controle da qualidade água, geração de energia, este projeto apresenta uma forte contribuição econômica e social.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.
+2012 - 2014
+ROTI - Robótica Teleimersiva
+Descrição: Este projeto tem por objetivo principal investigar o problema da utilização de veículos robóticos semi-autônomos em procedimentos de inspeção e monitoração de ambientes e estruturas de difícil acesso ao ser humano. Os desafios impostos por esse problema são inúmeros cujas abordagens envolvem, além da Robótica, diversas outras áreas do conhecimento. Muito embora os esforços atuais em robótica sejam direcionados para a realização de tarefas de modo totalmente autônomo, a complexidade envolvida em muitas atividades ainda requer a participação ativa de especialistas, não necessariamente em cooperação com agentes robóticos. Idealmente, deseja-se prover a esse especialista uma experiência de interação com ambiente remoto (i.e. remoto não necessariamente apenas quanto à distância física, mas quanto à possibilidade de acesso) de forma mais natural possível. Isso requer que o robô que atua em tal ambiente real possua autonomia suficiente para execução de tarefas como desvio de obstáculos, controle de trajetória e capacidade planejamento de movimento (motion planning) para que o posicionamento de sensores da carga paga (payload, ou seja, a instrumentação necessária à inspeção) comandado pelo usuário seja adequadamente coordenado com o movimento do veículo robótico. Portanto, grosso modo, o problema apresenta duas facetas principais: i) a obtenção eficiente de informação do ambiente remoto e suporte à interação física com esse ambiente e ii) a disponibilização ao usuário de um ambiente que lhe propicie a sensação mais realística possível de estar interagindo diretamente com o ambiente remoto. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Integrante / CAMPOS, Mario - Coordenador.
+2011 - 2013
+SIS-RSA: SISTEMAS COMPUTACIONAIS PARA REDES DE SENSORES AQUÁTICAS
+Descrição: O objetivo desta pesquisa é desenvolver um protótipo de hardware e software embutido para
+tratar a comunicação e a cooperação de entidades computacionais em redes de sensores aquáti-
+cas, facilitando o trabalho do homem, aumentando sua produtividade e melhorando a qualidade
+de vida. Como instância inicial deste projeto, será tratado o problema de desenvolvimento de
+um protótipo específico permitindo o desenvolvimento das redes de sensores aquáticas. O mé-
+rito intelectual desta proposta aparece na pesquisa fundamental para desenvolver novas teorias,
+algoritmos, protocolos e ferramentas causando impacto em diversas áreas da ciência. Tendo
+em vista a vasta área de aplicação como exploração de gás e petróleo, monitoração do meio
+ambiente, controle da qualidade água, este projeto apresenta uma forte contribuição econômica
+e social.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.
+2011 - 2012
+AquaNode: Prototipação de um nó sensor para rede de sensores aquáticas
+Descrição: O objetivo desta pesquisa é desenvolver um protótipo de hardware para tratar a comunicação
+e a cooperação de entidades computacionais em redes de sensores aquáticas,
+facilitando o trabalho do homem, aumentando sua produtividade e melhorando a
+qualidade de vida. Como instância inicial deste projeto, será tratado o problema de desenvolvimento
+de um protótipo específico permitindo o desenvolvimento das redes de
+sensores aquáticas. O mérito intelectual desta proposta aparece na pesquisa fundamental
+para desenvolver novas teorias, algoritmos, protocolos e ferramentas causando impacto
+em diversas áreas da ciência. Tendo em vista a vasta área de aplicação como exploração
+de gás e petróleo, monitoração do meio ambiente, controle da qualidade água, este
+projeto apresenta uma forte contribuição econômica e social.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.
+2009 - 2010
+Agentes Inteligentes: Cooperação, Comunicação e Segurança
+Descrição: A area de agentes inteligentes tem recebido muita atenc~ao nos ultimos anos. Basicamente,
+um agente e uma entidade que percebe o ambiente a sua volta utilizando seus sensores e
+age nesse ambiente atraves dos atuadores. Esse paradigma aplica-se tanto a ambientes
+reais, como e o caso dos agentes roboticos quanto a ambientes completamente virtuais,
+como e o caso de agentes de software, muito comuns na internet.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.
+2008 - 2010
+RoboSense: Cooperação entre Robôs Móveis e Redes de Sensores Sem Fio
+Descrição: Este projeto tem por objetivo investigar o problema da cooperação entre agentes móveis autônomos terrestres e aéreos e redes de nós sensores sem fio estáticas e móveis (RSSFE e RSSFM), levando-se em conta aspectos dinâmicos e estocásticos. Trata-se de um problema de grande interesse pela redução significativa nas restrições determinísticas e estáticas normalmente impostas em diversas abordagens clássicas na literatura de RSSF. Em um grande número de trabalhos tipicamente assume-se que os nós são estáticos e a comunicação ocorre de maneira determinística. Ao se possibilitar o deslocamento do nó sensor no ambiente várias considerações precisam ser feitas para que o funcionamento correto da rede possa ser garantido. Um dos problemas que naturalmente surge é a localização espacial do nó, que será incerta devido a incertezas de atuação e da própria medida do deslocamento. Essas incertezas são inerentes aos próprios sensores de posição e atuadores responsáveis pelo deslocamento, que também são contaminados por ruídos. Esse problema insere-de entre os grandes desafios da computação lançados pela SBC que trata dos sistemas disponíveis, corretos, seguros, escaláveis, persistentes e ubíquos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.
+2003 - 2005
+SensorNet: Arquitetura, Protocolos, Gerenciamento e Aplicações em Redes de Sensores Sem Fio.
+Descrição: Este projeto teve como objetivo pomover a pesquisa, desenvolvimento e inovação tecnológica na área de redes de sensores sem fio que possam ser aplicadas nas áreas ambiental, biotecnológica, industrial, de transportes e de segurança e fortalecer os grupos de pesquisa já existentes nas áreas de computação ubíqua, comunicação sem fio, otimização, robótica móvel, sistemas embutidos e sistemas distribuídos das entidades proponentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Filipe Menezes Vieira - Coordenador.

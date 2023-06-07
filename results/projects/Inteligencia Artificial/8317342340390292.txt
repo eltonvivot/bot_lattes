@@ -1,0 +1,11 @@
+2014 - Atual
+GeoXBRL
+Descrição: A new approach to Financial Audit.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marcio Alexandre Pereira da Silva - Coordenador / Paulo Caetano da Silva - Integrante / Valéria Cesário Times - Integrante.
+2013 - 2014
+Forensic LMDQL
+Descrição: An approach to financial analysis over multidimensional data, through dimensional queries, for detecting low believability (e.g. errors or frauds) in XBRL-based financial filings. The sourcecode has been available at http://sourceforge.net/projects/xbrlframework/ and http://xbrlframework.wordpress.com/.
+More details: https://sourceforge.net/p/xbrlframework/wiki/. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Alexandre Pereira da Silva - Integrante / Paulo Caetano da Silva - Coordenador.
+2012 - Atual
+XBRL Framework
+Descrição: Headed by PhD Paulo Caetano da Silva, XBRL Framework is a tool set which has been developed to attend XBRL solutions. Project members are masters students and professors (PhD) of the GESA (Software Engineering Group and Applications) of Salvador University.
+Site: http://xbrlframework.wordpress.com. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (8) Doutorado: (2) . Integrantes: Marcio Alexandre Pereira da Silva - Integrante / Paulo Caetano da Silva - Coordenador.

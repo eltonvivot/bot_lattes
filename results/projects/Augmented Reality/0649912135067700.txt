@@ -1,0 +1,40 @@
+2017 - Atual
+Uso e otimização de ferramentas acústicas, estruturais e semânticas para diagnóstico de psicose
+Descrição: Projeto de cooperação internacional com a empresa Boehringer Ingelheim GmbH. O CNPJ informado é da filial brasileira pois a matriz não tem CNPJ.
+ASU / UFPE/ UFRN and UBA academic collaboration project
+Both groups ask BI for unrestricted gift-funding the academic collaboration in order to support the advancement of methods and knowledge in the field, analyzing data already collected to develop, optimize and combine methodologies: 
+November 2016 ? December 2019
+Description:
+Combine and optimize tools from three domains of speech: acoustic (ASU), structural (UFPE, UFRN) and semantic (UBA).
+1.	Map one set of attributes from a domain on the other two domains, sharing data already collected in each participating laboratory
+2.	Development of the scientific methods and their combination (eg. testing new approaches, algorithms)
+3.	Calculate multiple linear regressions with the 3 domains (acoustic, structural, semantic)
+4.	Calculate how much redundancy is there across domains (clustering, PCA etc)
+5.	Develop algorithms for processing of speech signal to extract acoustic features that have been shown in the literature to correlate with psychosis
+6.	Cleaning and using the data already collected by the South American team, evaluate and rank the acoustic features based on their ability to classify this population
+7.	Extend the speech graph model to integrate the acoustics within the representation
+8.	Develop a multi-modal machine learning model that integrates the data from the acoustics, the structural, and the semantics
+9.	Evaluate the algorithms on existing data available at ASU and UFRN
+10.	Face to face meeting and participation in congress
+11.	New data generation and/or use of available datasets. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador / Copelli, Mauro - Integrante / MOTA, NATÁLIA B - Integrante / SLEZAK, D. F. - Integrante / Gabriela Simabucuru - Integrante.
+2016 - Atual
+Corticalização de memórias durante o sono: mecanismos eletrofisiológicos, genéticos e epigenéticos
+Descrição: Projeto Universal do CNPq. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador.
+2006 - Atual
+Bases neurais da ação dos fármacos psicodélicos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador / Souza, Annie. C. - Integrante / Felipe Cini - Integrante.
+2006 - Atual
+Expressão de fatores de plasticidade através do ciclo sono vigília
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador / SOUZA, ANNIE C. - Integrante / DANIEL, ALMEIDA-FILHO - Integrante / Golbert, Daiane C.F. - Integrante.
+2006 - Atual
+Psiquiatria Computacional
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador / Mota, Natalia B. - Integrante / Thiago Felipe Fonseca Nunes de Oliveira - Integrante.
+2006 - Atual
+Neuroeducação
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador / Mota, Natalia B. - Integrante / Janaina Weissheimer - Integrante / Ana Raquel Torres - Integrante.
+2006 - Atual
+Investigação das bases neurais do sonho
+Descrição: O "resto diurno" - presença de memórias despertas nos sonhos - é um conceito centenário que permanece controverso na neurociência. Mesmo no nível psicológico, ainda não está claro como as imagens da vigília cedem aos sonhos. Os resíduos visuais e afetivos são aprimorados, modificados ou apagados no início do sono? Quais são os correlatos neurais dessas transformações? Para responder a essas questões combinamos semântica quantitativa, marcadores EEG do sono e múltiplos despertares após estímulos de referência, como imagens e jogos de computador.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador / Mota, Natalia B. - Integrante / Daniel Soares Brandão - Integrante.
+2005 - Atual
+Investigação eletrofisiológica e optogenética do ritmo teta hipocampal através do ciclo sono-vigília
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sidarta Tollendal Gomes Ribeiro - Coordenador / Souza, Annie. C. - Integrante / ALMEIDA-FILHO, DANIEL G. - Integrante / Priscilla Kelly - Integrante.

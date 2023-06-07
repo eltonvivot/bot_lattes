@@ -1,0 +1,16 @@
+2018 - 2021
+Experimento e simulação numérica para avaliação da formação de borra em tanques de armazenamento de petróleo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Raphael Ribeiro Cruz Santos - Integrante / José Roberto Nunhez - Coordenador / Guilherme José de Castilho - Integrante / Luiza Baptista Fernandes - Integrante / Reynaldo Pires da Fonseca - Integrante.
+2013 - 2018
+Dilution rate investigation in stratified flows: experimental studies and numerical simulations using OpenFOAM
+Descrição: Escoamentos devido a diferença densidade entre fluidos, chamado de corrente de gravidade, foram estudadoscom o propósito de compreender como os mecânismos de mistura e diluição ocorrem e como podem ser simulados com aplicação de fluido dinâmica computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Raphael Ribeiro Cruz Santos - Integrante / Sávio S. V. Vianna - Coordenador.
+2011 - 2013
+Desenvolvimento de um Sistema Supervisório e Identificação Utilizando Redes Neurais Artificiais do Processo de Polimerização de Estireno
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Raphael Ribeiro Cruz Santos - Coordenador / Roger Josef Zemp - Integrante.
+2009 - 2010
+Desenvolvimento de um Sensor Virtual Baseado em Modelo Fenomenológico do Processo de Destilação
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Raphael Ribeiro Cruz Santos - Integrante / Cristiane Holanda Sodré - Coordenador / William Gonçalves Vieira - Integrante.Financiador(es): Universidade Federal de Alagoas - Bolsa.
+2008 - 2009
+Contribuição na elaboração de Inferenciador Computacional de processos para Reatores de Hidrotratamento de Diesel: Aplicação de Análise de Sensibilidade Paramétrica
+Descrição: O principal objetivo do projeto é desenvolver analisadores virtuais aplicados a uma unidade de Hidrotratamento do Diesel permitindo a inferência de variáveis de difícil medição. A utilização de analisadores virtuais poderá colabora na implantação de estratégia de controle avançado e otimização de processo. A proposta envolve desenvolver estratégias para a construção de sensores virtuais para o processo de hidrotratamento do Diesel. Serão desenvolvidas ferramentas computacionais elaboradas para todas as etapas de construção de um sensor virtual: seleção de variáveis, filtragem, detecção de erros grosseiros. A etapa de modelagem será desenvolvida baseadas em Técnicas de inteligência artificial( Redes Neurais)... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Raphael Ribeiro Cruz Santos - Integrante / Frede de Oliveira Carvalho - Integrante / Sérgio Lucena - Coordenador / Filipe Alves Coelho - Integrante / Nélson Medeiros de Lima Filho - Integrante / Jornande Dias da Silva - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

@@ -1,0 +1,56 @@
+2019 - Atual
+Analysis of Medical Images Using Local Entropy in Deep Convolutional Networks
+Descrição: This project proposes the study and development of "mathematical-computational" tools for the analysis of medical images combining deep neural networks, local entropy and classic texture descriptors. Deep convolutional neural networks have been presented as the best tool for extracting local image descriptors. However, for some tasks involving image analysis, such as classifying textures for example, the use of fully-connected layers may not be the most efficient approach. In addition, the loss function of a neural network has several local minimums, of which few are good generalizers. Thus, the task of training the network to find minima that are good generalizers can be costly computationally. With this in view, this project proposes to train a neural network through an approach using the concept of Local Entropy.
+Thus, it is expected that the loss function minimization algorithm will be biased to the minima that are good generalizers, reducing the training computational cost. In addition, the project proposes the use of classic texture descriptors associated with neural networks in order to improve the accuracy of medical image analysis. From the learning rate point of view, we expect to obtain a descriptor that requires much less data than the neural networks currently used in medical applications. In relation to robustness, our descriptor will be compared to other classifiers used in the literature as SVM, LDA, KNN etc.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Antonio Elias Fabris - Coordenador / João Batista Florindo - Integrante.
+2015 - Atual
+Human-Computer Interfaces Applied to Numerical Solution of the Plateau Problem
+Descrição: In this Project we shall obtain a code in Matlab to solve the Problem of Plateau numerically, and the code will include human-computer interface. The Problem of Plateau has applications in areas of knowledge like, for instance, Computer Graphics. The solution method will be the same one of the Surface Evolver, but the difference will be a complete graphical interface with the user. This will enable us to implement other kinds of interface like ocular mouse, voice, touch, etc. To date, Evolver does not include any graphical interface, which restricts its use by the scientific community. Specially, its use is practically impossible for most of the Physically Challenged People.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Antonio Elias Fabris - Integrante / Ivana Soares Bandeira - Integrante / Valério Ramos Batista - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2014 - Atual
+A Computational Framework for Robust Estimation of the Structure of Interest Rate Term through B-Splines
+Descrição: This project aims to propose a new theoretical approach for predicting the dynamics of the term structure of interest rates from the yield curve model (Constrained smoothing B-splines for the term structure of interest rates, Moura and Laurini, 2010). Using B-Splines we will build time series of interest rate curves with a better fit to the data to ensure the no-arbitrage conditions. We will build a computer program that aimed to be robust from a financial point of view and could also be possible to be used in practice.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Antonio Elias Fabris - Coordenador / Eduardo Phillipe Mineo - Integrante / Marcelo Moura - Integrante.
+2013 - 2015
+Human-Computer Interfaces Applied to Numerical Solution of the Plateau Problem
+Descrição: In this Project we shall obtain a code in Matlab to solve the Problem of Plateau numerically, and the code will include human-computer interface. The Problem of Plateau has applications in areas of knowledge like, for instance, Computer Graphics. The solution method will be the same one of the Surface Evolver, but the difference will be a complete graphical interface with the user. This will enable us to implement other kinds of interface like ocular mouse, voice, touch, etc. To date, Evolver does not include any graphical interface, which restricts its use by the scientific community. Specially, its use is practically impossible for most of the Physically Challenged People.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Antonio Elias Fabris - Coordenador / Valério Ramos Batista - Integrante / Ivana Soares Bandeira - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2012 - Atual
+2D/3D Point Containment Algorithms and Applications
+Descrição: The point containment predicate which specifies if a point is part of a mathematically defined shape is one of the most elementary operations in computer graphics and is a natural way to perform the many raster calculations. Our research aims to: (1) provide robust and efficient point containment algorithms for 2D/3D discrete objects whose main characteristics are low complexity, simple data structures and suitability for hardware implementation; and, (2) discover an efficient way to apply these algorithms in several important processes such as filling, stroking, anti-aliasing, geometric modeling, volume rendering, game development, image processing, geographic information systems (GIS), etc.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antonio Elias Fabris - Coordenador / Valério Ramos Batista - Integrante / Lucas de Oliveira Lyra - Integrante.
+2003 - 2003
+A global signal propagation technique for the modeling of plants
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2001 - 2001
+On the quality rendering of curves for genetic output discrete devices
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2000 - 2000
+Parallelization of filling algorithms on distributed memory machines using the point containment paradigm
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1998 - 1998
+Stroking discrete polynomial bezier curves via point containment paradigm
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1997 - 1998
+Algoritmos geométricos discretos: complexidade e aplicações
+Descrição: Este projeto apresenta técnicas para contrapor uma das maiores desvantagens dos algoritmos baseados no teste interior/exterior  (?point containment?): o comportamento quadrático com respeito à resolução. Foram desenvolvidos algoritmos eficientes para as duas operações básicas da linguagem PostScript, a saber: preenchimento de regiões e ?stroking?.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador / LUCIANO SILVA - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1997 - 1997
+Anti-aliasing of curves by discrete prefiltering
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1997 - 1997
+High quality rendering of two-dimensional continuous curves
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1996 - 1999
+Antialiasing de curvas
+Descrição: Este projeto diz respeito à produção de imagens de alta qualidade para um dispositivo de saída matricial arbitrário. Pré-filtragem é geralmente considerada a abordagem ideal para antialiasing mas tem sido difícil de ser implementada com exatidão para geometrias complexas tais como curvas ou para uma escolha arbitrária de filtros. Em [4], o solicitante desenvolveu uma técnica para antialiasing de curvas bidimensionais contínuas que não só evita os problemas geométricos e numéricos encontrados em técnicas anteriores, mas também permite o uso de uma classe genérica de filtros o que a torna aplicável a diferentes dispositivos de saída. Neste projeto serão investigadas as questões de antialiasing de regiões fechadas e antialiasing de curvas de Bezier racionais; uma implementação mais eficiente do que a efetuada em [4]; o uso de "Read-Modify-Write (lerping)" e de técnicas A-Buffer.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1996 - 1996
+Cooperação IME-USP / School of information Systems - Unviersity of East Anglia, UK
+Descrição: Neste projeto estudamos a produção de imagens de alta qualidade para um dispositivo de saída matricial arbitrário. Foram investigadas as questões de antialiasing de regiões fechadas e antialiasing de curvas de Bézier racionais. As técnicas  desenvolvidas tiveram profundas influências em Desktop publishing e CAD relativamente ao  problema de aliasing para curvas concatenadas e regiões fechadas, principalmente no que se refere à produção de imagens de alta qualidade em dispositivos de baixa resolução.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Elias Fabris - Coordenador / Robin Forrest - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1984 - 1986
+Collocation Methods for Ordinary Differential Equations
+Descrição: A characterization of a number of collocation schemes particularly useful for solving stiff  nonlinear ODE are determined. These approximations are piecewise polynomial functions of order $m + k$  possessing $m - 1$ continuous derivatives. They are determined by collocation, i.e., by the requirement that they satisfy the differential equation at k points in each subinterval, together with the m side conditions.  We also  provide results on stability criteria and optimal error estimation with numerical results to validate the theoretical analysis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Antonio Elias Fabris - Integrante / Ivan de Queiroz Barros - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

@@ -1,0 +1,10 @@
+2021 - Atual
+Inteligência Artificial para análise e interpretação de dados e sinais em Engenharia Elétrica e Mecânica.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3) . Integrantes: Dennis Lozano Toufen - Coordenador.Número de produções C, T & A: 2 / Número de orientações: 3
+2020 - Atual
+Análise de danos de radiação ionizantes em componentes eletrônicos e seus efeitos em circuitos elétricos.
+Descrição: Este projeto tem como objetivo o estudar o impacto em diversos circuitos elétricos dos efeitos das radiações ionizantes em dispositivos eletrônicos. Sabe-se que estes dispositivos quando submetidos a danos de radiação tem suas curvas características alteradas ou são destruídos. A partir das alterações esperadas e através de simulações e protótipos, estudar-se os impactos nos circuitos e sistemas dos danos de radiação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Dennis Lozano Toufen - Coordenador.
+2014 - 2019
+ESTUDO DE COMPORTAMENTOS NÃO LINEARES EM ATUADORES PARA PNEUMÁTICA PROPORCIONAL.
+Descrição: O projeto visa estudar a não linearidade presente em um sistema de pneumática proporcional com controle em malha fechada para futura aplicação em controle. Para isso um posicionador pneumático de 60 cm de curso será utilizado como planta de experimentos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Dennis Lozano Toufen - Coordenador.Financiador(es): Instituto Federal de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1

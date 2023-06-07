@@ -1,0 +1,38 @@
+2020 - Atual
+Mobility in Urban Computing: Characterization, Modeling and Applications (MOBILIS)
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thiago Henrique Silva - Integrante / Antonio Alfredo Ferreira Loureiro - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2019 - Atual
+GoodWeb: Uso de Sensoriamento Social para Aprimorar a Qualidade de Vida em Cidades e Alavancar Novos Serviços
+Descrição: Processo 2018/23011-1 - FAPESP. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Mestrado profissional: (3)  / Doutorado: (2) . Integrantes: Thiago Henrique Silva - Coordenador / Aline Carneiro Viana - Integrante / Antonio Alfredo Ferreira Loureiro - Integrante / leandro aparecido villas - Integrante / Rodrigo Minetto - Integrante / Rafael F. D.da Silveira - Integrante / Vinícius F S Mota - Integrante.
+2019 - Atual
+Smart city concepts in Curitiba low-carbon transport and mobility in a digital society
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Thiago Henrique Silva - Integrante / LUDERS, RICARDO - Coordenador.Financiador(es): Vinnova - Outra.
+2019 - Atual
+5G-D2D: Modelos, algoritmos e protótipos aplicados à comunicação dispositivos-a-dispositivo para quinta geração de redes móveis
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Mestrado profissional: (2)  / Doutorado: (2) . Integrantes: Thiago Henrique Silva - Integrante / MOTA, VINÍCIUS F.S. - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2019 - Atual
+MobNext: Mobilidade, Algoritmos e Protocolos de comunicação para a próxima geração de redes móveis
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Mestrado profissional: (2)  / Doutorado: (3) . Integrantes: Thiago Henrique Silva - Integrante / MOTA, VINÍCIUS F.S. - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - 2020
+Projeto de Serviços e Aplicações para IoT
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Henrique Silva - Integrante / Antonio Alfredo Ferreira Loureiro - Coordenador / leandro aparecido villas - Integrante / Leonardo Barbosa - Integrante / Daniel L Guidoni - Integrante / Heitor Ramos - Integrante / Italo Fernando Scotá Cunha - Integrante.
+2017 - 2020
+Integração de Dados Urbanos da Web com Redes Veiculares para o Provimento de Sistemas de Transporte Inteligentes
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Henrique Silva - Integrante / Guidoni, Daniel - Integrante / Loureiro, A. A. F. - Integrante / leandro aparecido villas - Coordenador / Richard W. Pazzi - Integrante / Eduardo Cerqueira - Integrante.
+2017 - 2020
+EMBRACE - Leveraging Human Behavior and Uncertainty in 5G Networks to Build Robust Resource Allocation and Services Orchestration Models.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (5) . Integrantes: Thiago Henrique Silva - Integrante / Vaz de Melo, P. O. S. - Integrante / Loureiro, A. A. F. - Coordenador / Aline Carneiro Viana - Integrante / Cedric ADJIH - Integrante / Kleber Vieira Cardoso - Integrante / Vinicius da Cunha Martins Borges - Integrante / Anelise MUNARETO - Integrante / Mauro FONSECA - Integrante.
+2016 - 2019
+Projeto UrbComp: Caracterização, Modelagem e Utilização do Comportamento Social Urbano e da Dinâmica de Cidades com Redes de Sensoriamento Participativo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Mestrado profissional: (2)  / Doutorado: (1) . Integrantes: Thiago Henrique Silva - Coordenador / Jussara Almeida - Integrante / Antonio Alfredo Ferreira Loureiro - Integrante / Ana Paula Gomes Ferreira - Integrante / leandro aparecido villas - Integrante / Pedro Olmo Stancioli Vaz de Melo - Integrante / Alexandre reis graeml - Integrante / Mozart Sindeaux - Integrante / Willi Muller - Integrante / Frances A Santos - Integrante / Luiz Celso Gomes Jr - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2016
+SENUREVE: Serviços na Nuvem para Redes Veiculares
+Descrição: Descrição: Uma VANET (Vehicular Ad-hoc Network) é uma rede ad-hoc formada por veículos equipados com dispositivos de processamento, sensoriamento, comunicação sem fio e interfaces homem-máquina. Uma VANET será um grande passo para a construção de sistemas de transporte inteligentes. A computação em nuvem define um conjunto de recursos virtuais facilmente usáveis e acessíveis tais como hardware, plataformas de desenvolvimento e serviços. Estes recursos podem ser dinamicamente re-configurados para se ajustarem a uma carga variável, permitindo a otimização do uso dos recursos. O objetivo desta proposta é propor serviços de disseminação de informação para passageiros através de computação em nuvem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (12) . Integrantes: Thiago Henrique Silva - Integrante / Antonio Alfredo Ferreira Loureiro - Coordenador.
+2013 - 2015
+iCities: Desenvolvimento de Serviços de nova Geração Inteligentes e Aplicações para Cidades Inteligentes
+Descrição: Descrição: O projeto de pesquisa iCities visa à construção de uma infraestrutura para viabilização de cidades inteligentes, abrangendo desde o sensoriamento urbano, o armazenamento desses dados, a comunicação, até a construção de aplicações que se beneficiem de toda essa infraestrutura. Nesse contexto, problemas como a aquisição de dados nas redes veiculares, redes de sensores sem fio e redes de veículos aéreos não tripulados, bem como dados sociais reunidos a partir de cidadãos e visitantes através de seus dispositivos de comunicação e suas mensagens postadas nas redes sociais devem ser armazenados e utilizados por aplicações com o objetivo de prover uma base de dados com diferentes informações sobre a cidade. A pesquisa do presente projeto tem como objetivo a concepção de soluções para vários problemas, como: trânsito, vigilância, atendimento de emergência e monitoramento ambiental. Inovações científicas e técnicas no projeto iCities visam permitir a melhoria dos serviços prestados aos cidadãos, especialmente no caso de grandes eventos, como a próxima Copa do Mundo e as Olimpíadas que serão realizados no Brasil em 2014 e 2016, respectivamente... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Thiago Henrique Silva - Integrante / Maia, Guilherme - Integrante / LOUREIRO, ANTONIO A. F. - Integrante / Felipe Domingos da Cunha - Integrante / leandro aparecido villas - Coordenador / Richard W. Pazzi - Integrante / Eduardo Oliveira Mucelli - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

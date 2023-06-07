@@ -1,0 +1,20 @@
+2014 - 2017
+Desenvolvimento de redes sinérgicas para aplicações em redes de distribuição de energia
+Descrição: Desenvolvimento de redes sinérgicas para aplicações em redes de distribuição de energia. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Alexandre Meireles do Nascimento - Integrante / Claudio Hortencio - Coordenador.Financiador(es): Agência Nacional de Energia Elétrica - Cooperação.
+2011 - 2016
+SUPERCABO - Desenvolvimento de Tecnologia de Cabos Supercondutores de Alta Temperatura para Sistemas Elétricos de Potência
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Especialização: (2) . Integrantes: Carlos Alexandre Meireles do Nascimento - Coordenador.Financiador(es): Agência Nacional de Energia Elétrica - Outra.
+2007 - 2009
+PeD162 - Aplicação do Modelamento da Camada Limite Atmosférica na Ampacidade de Linhas Aéreas de Transmissão
+Descrição: O cálculo da ampacidade de linhas aéreas de transmissão deve ser feito de forma correta para que seja definida a temperatura de projeto adequada, garantindo-se a mínima distância dos cabos ao solo em atendimento às normas de segurança. Por outro lado, este mesmo cálculo é importante para que se possa saber qual a máxima potência que pode ser transmitida durante a operação diária da linha. No entanto, este cálculo é complexo, pois depende de condições ambientais, as quais variam ao longo do dia e ao longo da linha.
+Na literatura, há duas formas de se efetuar este cálculo quanto à natureza dos dados: método determinístico e o método estatístico. No primeiro, consideram-se constantes a velocidade do vento, as temperaturas típicas e os índices de radiação solar para região sem considerar a sazonalidade climática anual, que são extrapolados para toda a extensão da linha.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Carlos Alexandre Meireles do Nascimento - Coordenador.
+2005 - 2007
+PeD-110 Sistema Optico de Monitoramento de LTs
+Descrição: Sistema Optico de Monitoramento de LTs. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alexandre Meireles do Nascimento - Integrante / CLAUDIO HORTENCIO - Coordenador.
+2001 - 2005
+ped-063: "Acidentes com Linhas de Transmissão ? Estudo da camada Limite do vento"
+Descrição: Desenvolvimento de metodologia computacional para utilização e análise de dados climatológicos básicos na camada limite da atmosfera para projetos de linhas de transmissão e subtransmissão da CEMIG. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Alexandre Meireles do Nascimento - Coordenador / Ramon Molina Valle - Integrante.
+1999 - 2001
+ped-006 "Aplicação de Tecnologias de Monitoramento em Tempo Real para aumentar a capacidade de transmissão em LTs aéreas"
+Descrição: Este projeto aplica-se às linhas aéreas de transmissão e é baseado no monitoramento de algumas condições físicas do cabo, como por exemplo: temperatura do cabo, tensão mecânica e altura cabo-solo. As principais variáveis ambientais, tais como, velocidade do vento e temperatura ambiente são também  monitoradas em tempo real, para aferição dos modelos de cálculos utilizados pelos programas de análise de carregamento elétrico.
+Serão adquiridos os sistemas de monitoramento em tempo real disponíveis comercialmente no mercado mundial e um sistema em fase de desenvolvimento, para verificar qual sistema melhor se adapta às condições operativas do sistema de transmissão da CEMIG ou para quais aplicações os sistemas são viáveis economicamente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Alexandre Meireles do Nascimento - Coordenador.Número de produções C, T & A: 2

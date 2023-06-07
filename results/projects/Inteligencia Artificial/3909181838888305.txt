@@ -1,0 +1,12 @@
+2011 - 2013
+(FACEPE PRONEM 2010) MCAEXPLORE: Ambiente para Modelagem, Análise e Exploração de Arquiteturas Multi-Cores Considerando Aspectos de Desempenho e Consumo de Energia
+Descrição: Este projeto visa construir um ambiente de para modelagem, análise e exploração de arquiteturas multi-cores. A minha contribuição ao projeto é o desenvolvimento de metodologias e técnicas que possibilitem a modelagem em alto nível de abstração de sistemas e sua posterior implementação de forma sistemática conservando os requisitos de desempenho e consumo de energia da especificação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Adriano Augusto de Moraes Sarmento - Integrante / Edna Barros - Coordenador / Cristiano Araújo - Integrante / Manoel Eusébio de Lima - Integrante / Silva-Filho, Abel G. - Integrante / Aluizio Fausto Ribeiro Araújo - Integrante / Paulo Sérgio Nascimento - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2004 - 2006
+MERCED - Market Enabler for Retarget-able COTS Components in Embeddeb Dommain
+Descrição: Projeto europeu para o desenvolvimento de framework para criação, armazenamento e manipulação de compoonentes de software para sistemas embarcados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Adriano Augusto de Moraes Sarmento - Integrante / Wander Cesario - Integrante / Ahmed Amine Jerraya - Coordenador / Lobna Kriaa - Integrante / Wassim Youssef - Integrante / Anne-Marie Fouilliart - Integrante / Phillippe Kajfasz - Integrante.Financiador(es): Centre National de la Recherche Scientifique - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2003 - 2005
+SystemC'mantic
+Descrição: Projeto francês que se destinava ao desenvolvimento de ferrramentas para o suporte de um fluxo de projeto de sistemas embarcados baseados em SystemC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Adriano Augusto de Moraes Sarmento - Integrante / Wander Cesario - Integrante / Ahmed Amine Jerraya - Coordenador / Lobna Kriaa - Integrante / Anne-Marie Fouilliart - Integrante / Emanuel Vaumorin - Integrante / Philippe Coussy - Integrante / Frederic Blanc - Integrante.Financiador(es): Centre National de la Recherche Scientifique - Auxílio
+										financeiro.Número de produções C, T & A: 2

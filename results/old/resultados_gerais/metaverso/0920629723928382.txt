@@ -1,0 +1,57 @@
+2022 - Atual
+Manutenção preventiva de equipamentos e agendamento automatizado de profissionais
+Descrição: A manutenção preditiva se baseia na aplicação sistemática de técnicas de análise,
+utilizando-se de meios de supervisão para reduzir ao mínimo a manutenção preventiva
+e diminuir a manutenção corretiva. Uma das propostas deste projeto é o desenvolvimento de algoritmos relacionados à manutenção preventiva de equipamentos utilizando algoritmos de IA (Inteligência Artificial) 
+Ainda com relação às atividades relacionadas ao monitoramento e controle de
+processos de produção e operação, o agendamento de funcionários pode
+demandar um tempo considerável e gerar inconsistências, conflitos de horários,
+apresentando dependência de revisão e confirmação das informações. A análise destas questões envolvendo agendamento de profissionais também é foco deste projeto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (4) . Integrantes: Flávio Henrique Teles Vieira - Coordenador / Leonardo da Cunha Brito - Integrante / Alisson Assis Cardoso - Integrante / Henrique Pires Corrêa - Integrante / DANIEL PORTO QUEIROZ CARNEIRO - Integrante / Carlos Daniel Bezerra - Integrante / LOPES, HUDSON H. S. - Integrante / VITTOR GOMES DE LIMA - Integrante.
+2021 - Atual
+Algoritmos Inteligentes para Inspeção de Veículos Automotores
+Descrição: Neste projeto, busca-se soluções para a geração de dados sintéticos através de modelos 3D de veículos automotores para auxiliar no treinamento de modelos de segmentação semântica. Além disso, busca-se a criação de um sistema de recomendação de peças de veículos automotores.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Flávio Henrique Teles Vieira - Integrante / Alisson Assis Cardoso - Integrante / ANDERSON DA SILVA SOARES - Coordenador / DANIEL PORTO QUEIROZ CARNEIRO - Integrante.
+2020 - Atual
+Alocação de Recursos em Redes sem Fio Utilizando Algoritmos Baseados em Aprendizagem de Máquina
+Descrição: Espera-se que a tecnologia de comunicação de Quinta Geração (5G) venha facilitar a implantação de outras tecnologias revolucionárias, como veículos autônomos, casas e cidades inteligentes, realidade virtual móvel e streaming de vídeo 4K. Entretanto, a alocação de recursos eficiente em redes sem fio multiusuário de Quinta Geração, com recursos compartilhados, é uma tarefa que demanda estudos sobre modelagem do canal, comportamento do tráfego, consumo de energia, comunicação entre um número elevado de dispositivos, entre outros fatores. Há portanto, questões em aberto quanto à provisão eficiente de serviços para essas redes sem fio.
+Este projeto de pesquisa propõe algoritmos e métodos relacionados à alocação dinâmica de recursos em redes sem fio da próxima geração e à provisão de parâmetros de QoS (Qualidade de Serviço) nessas redes sem fio. Objetiva-se neste projeto, propor esquemas de alocação e controle de blocos de recursos e de escalonamento de usuários considerando características de redes 5G e posteriores, como ondas milimétricas, MIMO (Multiple-Input Multiple-Output) Massivo, Beamforming (Conformação de Feixe), diferentes técnicas de modulação como NOMA (Non-Orthogonal Multiple Access) e extensões do OFDM (Orthogonal Frequency Division Multiplexing), comunicação D2D (Device-to-Device) e redes de acesso por rádio em nuvem. Serão propostos e implementados algoritmos de controle de fluxos, alocação de recursos e escalonamento de usuários baseados em aprendizagem de máquina como sistemas fuzzy (nebuloso), aprendizagem por reforço e aprendizagem profunda (Deep Learning).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (5) . Integrantes: Flávio Henrique Teles Vieira - Coordenador / Rodrigo P Lemos - Integrante / Sergio Granato de Araújo - Integrante / FLÁVIO G. C. ROCHA - Integrante / Alisson Assis Cardoso - Integrante / Marcelo Stehling de Castro - Integrante / Marcus Vinícius Gonzaga Ferreira - Integrante / Henrique Pires Corrêa - Integrante / Kleber Vieira - Integrante / Vinicius da Cunha Martins Borges - Integrante / Gilberto Lopes Filho - Integrante / ANDERSON DA SILVA SOARES - Integrante / DANIEL PORTO QUEIROZ CARNEIRO - Integrante / Carlos Daniel Bezerra - Integrante / Matheus Matos Vaconcelos - Integrante / caio santos gomes - Integrante / BEZERRA, CARLOS D. - Integrante.Número de produções C, T & A: 2
+2020 - Atual
+ESTUDO E PROPOSTA DE METODOLOGIAS PARA O PLANEJAMENTO DE SISTEMAS DE DISTRIBUIÇÃO CONSIDERANDO RECURSOS ENERGÉTICOS DISTRIBUÍDOS
+Descrição: Os critérios de planejamento e operação de sistemas elétricos de potência vem mudando constantemente a partir do surgimento de novas tecnologias de geração, transmissão e distribuição de energia, da imposição de novas regras na operação, da participação mais ativa do consumidor no setor, entre outros. Os recursos energéticos distribuídos (RED) formam parte fundamental desse novo cenário de operação das redes elétricas, sendo mais visíveis na distribuição. Existem inúmeras definições para os RED e, em geral, tais recursos são compostos por geração distribuída (GD), armazenamento de energia, veículos elétricos (VE), projetos de eficiência energética e/ou gerenciamento pelo lado da demanda. Neste projeto de pesquisa, o escopo da análise é restrito ao planejamento e operação de recursos de geração distribuída conectada à rede, estações de recarga para veículos elétricos e sistemas de armazenamento de energia a serem instalados nas subestações. Sendo assim, propõe-se o estudo das metodologias existentes para análise envolvendo o problema considerado bem como a proposta de novas metodologias que tentem contribuir com as pesquisas na área. Serão realizadas simulações em sistemas testes de pequeno e médio porte encontrados na literatura técnica e se possível, serão realizados alguns testes em sistemas reais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Flávio Henrique Teles Vieira - Integrante / Igor Kopkak - Integrante / Lina Paola Garces Negrete - Coordenador / DE ALMEIDA, MARIA LEONOR S. - Integrante / JESUS MARIA LOPEZ LEZAMA - Integrante / MARCELO ESCOBAR DE OLIVEIRA - Integrante / GELSON ANTONIO ANDREA BRIGATTO - Integrante.
+2015 - 2020
+Validação de Arquiteturas de Automação na Rede de Distribuição via Técnicas Avançadas de Self-Healing e Diferentes Tecnologias de Comunicação, dentro do Conceito Smart Grid
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Flávio Henrique Teles Vieira - Integrante / Sergio Granato de Araújo - Coordenador / Getúlio Antero de Deus Júnior - Integrante.
+2015 - 2020
+PROJETO 51 TELHADOS EM NOVA VENEZA-GO: SISTEMA SOLAR FOTOVOLTAICO DE MICROGERAÇÃO DISTRIBUÍDA CONECTADA À REDE DE BAIXA TENSÃO DA CELG-D EM 51 UNIDADES CONSUMIDORAS (UCS) DENTRO DO CONCEITO DE REDES ELÉTRICAS INTELIGENTES
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Flávio Henrique Teles Vieira - Integrante / Sergio Granato de Araújo - Integrante / Getúlio Antero de Deus Júnior - Integrante / Marcelo Stehling de Castro - Coordenador.
+2012 - 2013
+Aplicação da rede inteligente (smartgrid) na supervisão do fornecimento de energia elétrica em média e baixa tensão utilizando diferentes tecnologias de comunicação
+Descrição: Este projeto foi elaborado com o intuito de atender a demandas das áreas comercial e de engenharia da CELG ,
+auxiliando a implementação prática de projetos de inovação tecnológica desenvolvidos nestes setores, contribuindo para
+a migração da rede atual da CELG a uma condição "pré-Smartgrid".. Situação: Concluído; Natureza: Pesquisa. Integrantes: Flávio Henrique Teles Vieira - Integrante / Sergio Granato de Araújo - Coordenador / Getúlio Antero de Deus Júnior - Integrante / Marcelo Stehling de Castro - Integrante.
+2012 - Atual
+OTIMIZAÇÃO DE REDES ELÉTRICAS INTELIGENTES (SMART GRIDS) UTILIZANDO DIFERENTES TECNOLOGIAS DE COMUNICAÇÕES
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Flávio Henrique Teles Vieira - Coordenador / Gustavo Batista de Castro Souza - Integrante / Rafael Ribeiro de Carvalho Vaz - Integrante.
+2011 - 2015
+RECONHECIMENTO AUTOMÁTICO DE PÁSSAROS
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Flávio Henrique Teles Vieira - Integrante / Rodrigo P Lemos - Integrante / Bruno Lopes de Abreu - Integrante / Paulo César Miranda Machado - Coordenador.
+2011 - Atual
+Autenticação Biométrica Utilizando Modelos Estatísticos e Sistemas Inteligentes
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Flávio Henrique Teles Vieira - Coordenador.
+2008 - 2020
+Provisão de Qualidade de Serviço em Redes de Comunicações Baseada em Modelagem de Tráfego e Algoritmos para Estimação de Recursos Necessários
+Descrição: Projeto envolve estudo de modelagem de tráfego e cálculo de rede para desenvolvimento de algoritmos para alocação de recursos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) . Integrantes: Flávio Henrique Teles Vieira - Coordenador / Rodrigo P Lemos - Integrante / Lígia Maria Carvalho Sousa - Integrante / JEFERSON WILIAN DE GODOY STÊNICO - Integrante / Scheila Guedes Garcez - Integrante / Sergio Granato de Araújo - Integrante / Flávio Geraldo Coelho da Rocha - Integrante / Célio Costa Sobrinho Júnior - Integrante.
+2008 - 2009
+Modelo Prático de Gerência para Plataformas de Telecomunicações Envolvendo Tecnologia PLC
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Flávio Henrique Teles Vieira - Integrante / Sergio Granato de Araújo - Coordenador / Thiago Lara Vasques - Integrante / Diogo Nunes de Oliveira - Integrante.Financiador(es): Companhia Energética de Goiás - Bolsa.
+2007 - 2007
+Provisão de Qualidade de Serviço para Tráfego de Redes Através de Estimação de Banda Efetiva e do Cálculo de Rede Considerando Características Multifractais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Flávio Henrique Teles Vieira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2004 - 2006
+Modelagem fuzzy aplicada ao controle de tráfego de redes
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Flávio Henrique Teles Vieira - Coordenador / Lee Luan Ling - Integrante / Lígia Maria Carvalho Sousa - Integrante.Número de produções C, T & A: 3
+2004 - 2005
+Modelagem Multifractal aplicada à Predição de Tráfego
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Flávio Henrique Teles Vieira - Coordenador / Lee Luan Ling - Integrante / Bianchi, G.R. - Integrante.Número de produções C, T & A: 2
+2004 - 2005
+Estimação de Expoentes de Holder (regularidade de tráfego) e aplicações
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Flávio Henrique Teles Vieira - Coordenador / Lee Luan Ling - Integrante / Christian Jorge - Integrante.Número de produções C, T & A: 2

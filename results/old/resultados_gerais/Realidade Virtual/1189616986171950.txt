@@ -1,0 +1,25 @@
+2023 - Atual
+Dizzy Ears
+Descrição: To study how virtual and augmented reality can be applied to facilitate vestibular therapy treatment like vertigo, dizziness, anxiety disorder, stress, labyrinthitis. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rogério Eduardo da Silva - Coordenador / Mahdiyya Dharas - Integrante / Jacque P.C. Landry - Integrante / James Finney - Integrante.
+2012 - 2013
+D.R.A.M.A. - Developing Rational Agents to Mimic Actors
+Descrição: This project aims at combining several fields like artificial intelligence, psychology and real actors' practice to create autonomous digital actors that are believable agents capable of autonomously interpreting scripts, suggesting appropriate acting performances relying on specialized knowledge and learning from the animators to improve their suggestions.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) . Integrantes: Rogério Eduardo da Silva - Coordenador / Kariston Pereira - Integrante / Claudio Cesar de Sá - Integrante.Número de produções C, T & A: 15
+2004 - 2006
+Dispositivo de Visualização Quase Imersivo
+Descrição: Esta pesquisa visa buscar subsídios para fundamentar o projeto de um sistema para projeção de imagens multiresolução em tela ampla de baixo custo para simular o efeito percebido na retina do olho humano ao captar luz e formar uma imagem, ou seja, a região de interesse (foco) da imagem é representada com uma resolução significativamente superior do que a região periférica. Tal sistema trabalharia com dois projetores multimídia convencionais de diferentes resoluções para a composição de uma imagem que, quando vista pelo observador, permitirá a investigação da percepção imersão e profundidade para aplicação em ambientes de realidade virtual sem a necessidade do uso de equipamentos especiais como óculos obturadores estéreos (shutter glasses).
+          O dispositivo de visualização multi-resolução proposto aqui, chamado de ?Dispositivo Quase Imersivo? (principalmente porque não se sabe o grau de imersão que será alcançado em uma primeira versão, sem estereoscopia) terá os seguintes princípios:
+           1. Tela plana de larga escala (será experimentado o uso de materiais alternativos de baixo custo como tecidos finíssimo, para atender o quesito custo);
+           2. Parte retangular central projetada com maior e Melhor Resolução (MR);
+           3. Restante da tela projetada em mais Baixa Resolução (BR) com outro dispositivo mais barato;
+           4. Projeção traseira (para permitir o usuário se aproximar da tela) e evitar sombras;
+           5. A sombra do projetor MR será a sua própria área de projeção;
+           6. Observador(es) centralizado(s);
+           7. Projetores MR e BR convencionais;
+           8. Posição de visualização com grande conforto (para permitir várias horas de trabalho contínuo);
+           9. Imagem lateral dissolve para preto do anteparo.
+           10. Experimentar a possibilidade de usar Técnicas de Ilusão de Ótica para promover a percepção e imersão e profundidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rogério Eduardo da Silva - Coordenador / Marcelo da Silva Hounsell - Integrante / Gean Alex Pereira - Integrante / Anderson Marcondes - Integrante.
+2004 - 2005
+Ferramentas Computacionais para Simulação de Dinâmica de Fluidos
+Descrição: O projeto consiste da construção de uma ferramenta para simulação computacional para escoamento de um fluido. Para tal, estudos de técnicas de dinâmica de fluidos computacional se faz necessário.
+A ferramenta ser desenvolvida deverá ser capaz de permitir a discretização de uma malha de pontos (no domínio do problema) e, a partir dessa malha, simular o deslocamento de um fluido sobre o ambiente. Entende-se por simular o deslocamento de um fluido como sendo a determinação numérica de aspectos como velocidade, pressão e temperatura nos diferentes pontos que compõem a malha original.
+Tais informações permitem uma melhor compreensão do fenômenos envolvido no problema, permitindo assim, a sugestão de melhoramento em certas características do mesmo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rogério Eduardo da Silva - Coordenador / Gilmário Barbosa dos Santos - Integrante / David Daniel e Silva - Integrante.

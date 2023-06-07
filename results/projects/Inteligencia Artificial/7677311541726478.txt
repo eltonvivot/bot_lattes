@@ -1,0 +1,97 @@
+2022 - Atual
+Controle Cooperativo de Enxame de Veículos Aéreos não Tripulados Especializados no Monitoramento e Detecção de Falhas na Indústria 4.0.
+Descrição: Valendo-se dos conceitos da indústria 4.0, é proposta uma solução de monitoramento para ambientes industriais utilizando um sistema de sensoriamento cooperativo baseado em enxame de veículos aéreos não tripulados. Esta solução apresenta como diferencial a total integração ao sistema de gerenciamento e controle da planta industrial. Os drones podem ser acionados por rotinas de prevenção de riscos, detecção de perturbações na produção, ou em caso de emergências que necessitem localizar de forma rápida e segura a falha. Eles serão utilizados em situações anômalas e transitórias, na qual poderia ser necessária uma readequação total da rede de sensores ou arcar com tempo de máquinas paradas. Drones com captura de imagens de alta resolução serão utilizados para o mapeamento, localização e planejamento de trajetórias no ambiente dinâmico industrial. Serão ainda o foco deste trabalho o controle cooperativo, a comunicação entre agentes, a capacitação e treinamento da equipe e a integração com a indústria. Aprovado na Chamada CNPq/MCTI/FNDCT 18/2021 - Faixa A.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Vinícius Abrão da Silva Marques - Coordenador / Aniel S. Morais - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2020 - 2021
+Tecnologias Inteligentes na Formação Educacional
+Descrição: Atividades de divulgação e popularização da ciência que visam contribuir significativamente para o
+desenvolvimento científico e tecnológico e a inovação do País. Os eventos e atividades tem abrangência estadual e tem como tema ?Inteligência artificial: a nova fronteira da ciência brasileira?. 
+Projeto CNPq - Processo: 440659/2020-5
+Chamada CNPq/MCTIC Nº 03/2020 - SEMANA NACIONAL DE CIÊNCIA E TECNOLOGIA. Situação: Concluído; Natureza: Pesquisa. Integrantes: Vinícius Abrão da Silva Marques - Integrante / Paulo Bauduino Flabes Neto - Integrante / Marcos Shimano - Integrante / Júlia Bertelli Duarte - Integrante / Willian Baunier de Melo - Integrante / Carlo José Freire de Oliveira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2020 - Atual
+Robôs Autônomos
+Descrição: Projeto de pesquisa com intuito de desenvolver metodologias de simulação de robôs em ambiente ROS/GAZEBO, e implementar as soluções desenvolvidas em robôs reais. Foco da pesquisa nos seguintes temas: Perception, Localization, Mapping, Trajectory Planning, Autonomous Manipulation, Machine Learning applied to robots.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Vinícius Abrão da Silva Marques - Coordenador / Paulo Bauduino Flabes Neto - Integrante / Marcos Shimano - Integrante / Willian Baunier de Melo - Integrante.
+2019 - Atual
+Dispositivo para avaliação de forças exercidas na água
+Descrição: O estudo faz parte da Linha de Pesquisa intitulada: Inovação Tecnológica para pessoas com deficiências ou disfunções, do Grupo de Pesquisa CNPq PROMOVER: atenção integral à pessoa com disfunções. O protótipo é composto por um compartimento impermeável para os sensores (1), uma placa de aquisição de sinais (2), sensores de força (3) e uma comunicação por fio com potencial para ser wireless. Baseado nos testes realizados, o protótipo construído proporciona bons resultados de medidas, usabilidade e de estanqueidade. Portanto, este dispositivo está pronto para ser utilizado na obtenção de forças dentro da água. O aprimoramento de design será a próxima etapa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Marcos Massao Shimano - Integrante / Suraya Gomes Novais Shimano - Coordenador.
+2018 - Atual
+Desenvolvimento de projetos Biomecânicos utilizando prototipagem rápida
+Descrição: O desenvolvimento de Projetos Biomecânicos é uma área diretamente relacionada com a
+engenharia mecânica, que vai desde a criação de próteses complexas de membros inferiores até
+o desenvolvimento de equipamentos utilizados para estudar o comportamento mecânico de
+materiais e tecidos biológicos. Todo o conhecimento gerado nesta área pode ajudar diretamente
+na qualidade de vida de pessoas que apresentam algum tipo de incapacidade ou inabilidade, em
+decorrência de alguma deficiência física. Portanto, o objetivo deste projeto será desenvolver
+protótipos Biomecânicos utilizando a tecnologia de prototipagem rápida.
+MODALIDADE: EDITAL 001/2018 - DEMANDA UNIVERSAL
+PROCESSO FAPEMIG N. : APQ-02927-18
+PRAZO DE EXECUÇÃO DO PROJETO: 36 MESES.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vinícius Abrão da Silva Marques - Integrante / Marcos Massao Shimano - Coordenador.
+2017 - 2020
+Desenvolvimento De Uma Prótese Mioelétrica De Baixo Custo
+Descrição: Apesar dos avanços tecnológicos atuais, os modelos de prótese de antebraço  no mercado são de elevados custos, os quais não são acessíveis para a maioria das pessoas que necessitam. Diante deste cenário, o objetivo deste trabalho é desenvolver uma prótese mioelétrica de um antebraço humano, construída a partir de prototipagem rápida com impressora 3D. Serão realizados testes de bancada para verificar a robustez, repetibilidade dos movimentos e confiabilidade do circuito eletrônico responsável por captar os sinais mioelétricos e controlar a prótese. Espera-se que seja obtido um protótipo que possa ser utilizado em breve por pessoas amputadas.
+CADASTRADO na Pró Reitoria de Pesquisa e Pós Graduação da Universidade Federal do Triângulo Mineiro sob o número de registro C49/2017.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Vinícius Abrão da Silva Marques - Coordenador / Marcos Massao Shimano - Integrante.
+2016 - 2017
+Análise Do Consumo De Energia De Robôs Humanoides
+Descrição: Desde o início da robótica, vários estudos teóricos e experimentais têm sido realizados com o objetivo de desenvolver equipamentos autônomos para executar diversas atividades em ambientes abertos e fechados. Tais atividades são perfeitamente adequadas para os robôs móveis, pois eles são capazes de se locomoverem evitando os obstáculos existentes. Dentre os robôs móveis destaque-se o estudo dos robôs humanoides, que são robôs com aparência semelhante à humana, possuindo duas pernas, dois braços, um tronco e uma cabeça conectada a um pescoço. O objetivo deste trabalho é estudar o movimento de robôs humanoides através de modelos teóricos e computacionais que descrevem o seu comportamento cinemático e dinâmico. Será avaliado o consumo de energia dos atuadores os quais movem as pernas do robô segundo uma trajetória desejada. Diferentes trajetórias serão simuladas de maneira a otimizar o consumo de energia dos atuadores. Esta trabalho visa contribuir para o projeto de robôs humanoides, sendo que esta é uma das principais linhas de pesquisas mundiais e que também estão alinhadas com o interesse da Engenharia Mecânica da UFTM.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vinícius Abrão da Silva Marques - Coordenador / Fabio Lúcio Félix - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2014 - 2015
+Modelagem Numérico Computacional da Dinâmica Longitudinal do Veículo BAJA da Universidade Federal do Triângulo Mineiro.
+Descrição: Tendo como base a competições BAJA/SAE, constatou-se a imprescindível necessidade em otimizar a relação de transmissão final do veículo aliando a máxima força de tração com a máxima aceleração e velocidade. Ressalta-se que nas competições existem provas diferenciadas, como subida de rampa, tração de carga, velocidade e aceleração, provas que exigem alta força de tração, bem como a máxima aceleração a uma distância de 30 metros e a máxima velocidade em 100 metros.
+Dessa forma, o dimensionamento de uma relação de transmissão para o projeto BAJA torna-se um desafio para equipes competidoras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Paulo Bauduino Flabes Neto - Coordenador / Victor Leonardo Moura Vieira da Silva - Integrante.
+2014 - 2015
+Controle Adaptativo De Estabilidade De Um Veículo Aéreo Do Tipo Quadrirrotor
+Descrição: O objetivo deste projeto é manter um helicóptero robô do tipo quadrirrotor em voo estável pairado. As pesquisas principais estarão voltadas para a área de controle adaptativo de estabilidade do drone, exigindo a elaboração de uma programação capaz de unir algoritmos baseados no giroscópio e acelerômetro, e capaz de, a partir destes valores, deixar o veículo aéreo estabilizado mesmo com a influência de fatores externos em ambientes abertos, como o vento ou um choque físico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Vinícius Abrão da Silva Marques - Coordenador / Ricardo Humberto de Oliveira Filho - Integrante / César Fernandes Sousa - Integrante.
+2014 - 2015
+Análise de Elementos Finitos e Otimização de Topologia em Estruturas de Engenharia
+Descrição: Este projeto de pesquisa tem por objetivo a aplicação da análise de elementos finitos para avaliação e projeto de 3 diferentes tipos de estruturas em engenharia mecânica: chassis de um veículo mini baja de competição, longarina e perfis da asa de um avião de pequeno porte para competição Aerodesign e as células de uma prótese cardiovascular (stent) usada em angioplastia das artérias coronárias. O método dos elementos finitos será empregado para avaliação da distribuição de tensões nestes 3 tipos de aplicações e posteriormente para o melhoramento do projeto estrutural. Em conjunto com o MEF será utilizada também a técnica de otimização topológica para o melhoramento da distribuição de massa destes tipos de estruturas... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Ricardo Humberto de Oliveira Filho - Integrante / Marcos Shimano - Integrante / Tobias Anderson Guimarães - Coordenador.
+2013 - 2014
+Adequação Do Método Do Tubo De Ondas Estacionárias Para A Obtenção Do Coeficiente De Absorção Sonora E Da Perda De Transmissão Sonora De Materiais
+Descrição: Esse trabalho tem por objetivo estudar e aprimorar o método do tubo de
+impedância para obtenção experimental do coeficiente de absorção sonora e da
+perda de transmissão sonora de materiais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Ricardo Humberto de Oliveira Filho - Coordenador / Renato Nunes Cunha - Integrante / Rodrigo Gomes Caetano - Integrante.
+2013 - 2014
+Análise computacional da suspensão dianteira para veículos off road. Modelo duplo ?A?
+Descrição: O objetivo deste trabalho foi realizar um estudo de simulação do
+sistema de suspensão tipo duplo ?A? utilizado pela equipe Zebu Baja UFTM no
+seu terceiro protótipo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Ricardo Humberto de Oliveira Filho - Integrante / Marcos Shimano - Coordenador / Fernando Lima de Assis Junior. - Integrante.
+2013 - 2014
+Estudo do comportamento mecânico de materiais compósitos.
+Descrição: São testados vário tipos de fibras e materiais com diferentes tipos de resinas. São feitos ensaios mecânicos e físicos para determinar o comportamento do compósitos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Vinícius Abrão da Silva Marques - Coordenador / Marcos Massao Shimano - Integrante.
+2013 - 2014
+Caracterização acústica de materiais: medição do coeficiente de absorção sonora In Situ
+Descrição: Este trabalho apresenta uma forma vantajosa, dentre os métodos existentes, para
+se obter o coeficiente de absorção sonora de um material qualquer. O método in
+situ é regulamentado pela norma internacional ISO 13472-1, citada em diversos
+artigos e discutido por Garai (1993). A aplicação do método em acústica de salas,
+no interior de automóveis e aviões pode vir a despertar o interesse de diversos
+ramos da indústria e servir como um parâmetro inicial de análise e comparação,
+tendo em vista a confiabilidade do resultado final. Ademais, a medição in situ
+considera condições reais de acúmulo de sujeira, montagem da amostra, possui
+maiores mobilidade, além de custo reduzido, quando comparado aos demais
+métodos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Ricardo Humberto de Oliveira Filho - Coordenador / Renato Nunes Cunha - Integrante / Rodrigo Gomes Caetano - Integrante.
+2013 - 2014
+Projeto e construção de um sistema de suspensão traseira para um veículo BAJA SAE ? Parte 2
+Descrição: Este trabalho tem como objetivo o desenvolvimento de um modelo
+computacional que aborde características geométricas e estruturais do sistema
+de suspensão traseira do veículo BAJA-SAE, levando em consideração as
+necessidades gerais da equipe, identificação dos tipos de esforços aos quais
+este sistema será submetido, análise dos possíveis materiais utilizados na
+fabricação e por fim a concepção do mecanismo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Ricardo Humberto de Oliveira Filho - Coordenador / Letícia Bueno do Amaral - Integrante / Rafael Waechter - Integrante.
+2013 - 2014
+Projeto e construção de um sistema de suspensão traseira para um veículo BAJA SAE ? Parte 1
+Descrição: O projeto da suspensão desenvolvida para o veículo Mini-Baja na UFTM levou
+ao estudo de diversos tipos de mecanismos utilizados em suspensões
+automotivas, de forma a escolher e dimensionar o sistema a ser utilizado na
+suspensão traseira do protótipo, avaliando principalmente os parâmetros de
+estabilidade e resistência necessários à competição Baja SAE BRASIL, além de
+garantir a viabilidade de construção de acordo com os recursos disponíveis.A análise do mecanismo propicia observar seu movimento diante da
+transposição de obstáculos, avaliando as variações dos ângulos e posições das
+barras que o compõe, permitindo o levantamento dos dados necessários para a
+adequação e escolha dos materiais e formas das peças.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Ricardo Humberto de Oliveira Filho - Coordenador / Letícia Bueno do Amaral - Integrante / Rafael Waechter - Integrante.
+2009 - 2010
+Avaliação das condições acústicas em sala de aula nas escolas da cidade de Uberlândia-MG, Processo FAPEMIG Nro.  TEC 1949/06
+Descrição: Realização de análise de sensibilidade para classificar a contribuição das principais fontes nos níveis de ruído simulados para as escolas e através das simulações, propor medidas de controle para a mitigação dos níveis de ruído das plantas estudadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Doutorado: (1) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Ricardo Humberto de Oliveira Filho - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2007 - 2010
+Identificação de Fontes Sonoras, Modelagem Acústica e Estudo de Medidas para o Controle do Ruído Gerado na REGAP (Refinaria Gabriel Passos, Petrobrás, Betim)
+Descrição: Parceria firmada entre Universidade Federal de Uberlândia / Petrobrás, desenvolvendo as atividades de identificação e simulação dos níveis de ruído ali gerados, visando à atenuação de tais níveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Doutorado: (1) . Integrantes: Vinícius Abrão da Silva Marques - Integrante / Marcus Antonio Viana Duarte - Coordenador / Ricardo Humberto de Oliveira Filho - Integrante.Financiador(es): REGAP, Refinaria Gabriel Passos - Bolsa.

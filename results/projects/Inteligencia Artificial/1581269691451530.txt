@@ -1,0 +1,1638 @@
+2022 - Atual
+Sistema Inteligente para Produção Indoor de Bioativos para Fitomedicamento
+Descrição: 409651/2022-2. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Glauco Vieira Miranda - Coordenador / Arlete Terezinha Beuren - Integrante / Edicléia Aparecida Bonini e Silva - Integrante / pedro luiz  de paula filho - Integrante / Gloria Patricia López Sepúlveda - Integrante / Andreine Aline Roos - Integrante / Domingos Tabajara de Oliveira Martins - Integrante / Claudio Biazus - Integrante / Wesley Klewerton Guez Assunção - Integrante / Pedro João Soares Rodrigues - Integrante / Mateus Daniel Almeida Mendes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2022 - Atual
+MELHORAMENTO DE PLANTAS PARA NUTRACÊUTICOS. BIOATIVOS E FRAGR NCIAS COM TECNOLOGIAS 4.0 PARA AMBIENTES CONTROLADOS E ILUMINADOS ARTIFICIALMENTE
+Descrição: Existem oportunidades para aumentar a produtividade e a diversidade das plantas para produzir nutracêuticos,
+bioativos, fragrâncias, entre outros componentes, combinando avanços em controles ambientais, iluminação, fenômica,
+internet das coisas e inteligência artificial com o melhoramento genético permitindo que novas variedades sejam
+obtidas para o novo cenário de ambiente fechado e iluminado artificialmente (CEA). As cultivares desenvolvidas para
+o campo não estão adaptadas e otimizadas para produzir os bioativos eficientemente como no CEA. A combinação da nova
+infraestrutura, novos protocolos para obter cultivar e a aprendizagem profunda de máquina possibilitam patentes e
+parcerias com a indústria criando uma plataforma disruptiva globalizada de produção CEA. A produção em CEA de
+hortaliças por meio de fábricas verticais tem recebido grande aporte de recursos no exterior. Os objetivos deste
+projeto são obter cultivares com maior porcentagem de bioativos, nutracêuticos e fragrâncias, otimizar técnicas de
+manejo para produção com aprendizagem profunda de máquinas e desenvolver infraestrutura tecnológica e protótipos
+para CEA. Para isto, serão escolhidas espécies vegetais com nutracêuticos, bioativos e fragrâncias adaptáveis ao CEA
+também considerando aspectos mercadológicos e de sustentabilidade. O melhoramento das plantas será realizado pela
+introdução e a seleção de genótipos para rendimento e produção de metabólitos secundários em CEA. Genótipos
+superiores serão cruzados e selecionados para os produtos. Estudos fitotécnicos, fisiológicos e bioquímicos vão ser
+realizados em genótipos contrastantes em resposta aos efeitos ambientais controlados. Todos os parâmetros do CEA
+serão monitorados e controlados por atuadores e sensores e manejados pela inteligência artificial.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Glauco Vieira Miranda - Coordenador / Ana Raquel Ribeiro e Souza - Integrante / Giani Carla Ito - Integrante / Edicléia Aparecida Bonini e Silva - Integrante / Leiliane Pereira de Rezende - Integrante / pedro luiz  de paula filho - Integrante / RAFAEL SIMONI - Integrante / Adilson Schmidt - Integrante / Deborah Catherine de Assis Leite - Integrante / Diogo Marujo - Integrante / Everton Coimbra de Araújo - Integrante / Fabricio Correia de Oliveira - Integrante / Luciano Oliveira Geisenhoff - Integrante / Rejane Barbosa de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de orientações: 2
+2021 - Atual
+TECNOLOGIA DE PRODUÇÃO INDOOR DE PLANTAS COM ILUMINAÇÃO ARTIFICIAL
+Descrição: A indústria de plantas medicinais e fitoterápicos possui excelentes oportunidades de inovação pois é socialmente correta, percebida pelos usuários como saudável,  preserva a flora brasileira, é apoiada em todas as esferas governamentais e possui atrativos econômicos pelo tamanho e o crescimento de mercado atual e futuro. As plataformas de produção indoor com iluminação artificial estão sendo validadas para o aumento da produtividade e qualidade de bioativos. Assim, o objetivo deste projeto é desenvolver tecnologia de produção em ambientes fechados iluminados artificialmente e em aeroponia para hiper acelerar o ciclo da planta, aumentar a produtividade com a mais alta qualidade de matéria prima vegetal utilizando os mínimos recursos renováveis e reduzindo perdas. 
+No primeiro ano, será pesquisada a chaguinha ou capuchinha (Tropaeolum majus) que é uma PANC (Planta Comestível Não Convencional) e medicinal e que devido ao baixo rendimento industrial de extração dos princípios ativos não existe medicamento comercial e também, como alternativa para a diversificação de produtos para sistemas de produção em hidroponia para a comercialização de flores. Nos dois anos seguintes serão trabalhadas as espécies, chapéu-de-couro (Echinodorus grandiflorus) e arnica-do-mato (Solidago microglossa). 
+Os experimentos serão realizados sequencialmente com duração mensal em ambiente fechado na Hidroponia Montresol/UTFARM em Santa Helena, PR: seleção da qualidade e intensidade de luz; seleção de temperaturas diurnas/noturnas; seleção de fotoperíodo; concentração de CO2; densidade de plantas/m2; nutrição mineral e condutividade elétrica de solução; seleção de ecótipos da espécie obtidos de diferentes regiões e cruzamento de ecótipos mais produtivos. As plantas serão avaliadas para o crescimento e  desenvolvimento da parte vegetativa, reprodutiva e radicular.Também serão coletados dados fotográficos do crescimento das plantas pelas câmeras e os dados dos sensores e atuadores para temperatura de água e solo, umidade do ar, concentração de CO2, luminosidade, condutividade elétrica da solução nutritiva entre outras.  Pretende-se publicar três artigos científicos e orientar um estudante de graduação por ano.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / pedro luiz  de paula filho - Integrante / Gustavo Fernando Pinheiro da Silva - Integrante / RAFAEL SIMONI - Integrante.Número de orientações: 1
+2020 - 2021
+FITOFARMÁCIA 4.0 Vertical Smart PhytoPharmacy
+Descrição: o objetivo do projeto é o desenvolvimento de um ambiente de produção de plantas fechado inteligente sendo automaticamente controlado, monitorado e ajustado e ainda preditivo para hiper-acelerar o metabolismo de plantas medicinais e fitoterápicas visando a alta produtividade do seu princípio ativo de alto valor agregado causando impacto social positivo de interesse industrial pela repetibilidade dos resultados e segurança sanitária.  Para isso, será desenvolvido o protótipo (MVP/Produto Minimamente Viável) com tecnologias IoT (internet das Coisas) e IA (Inteligência Artificial) e ainda, calibrar o seu uso para a produção vegetal e previsibilidade de uma planta medicinal, o manjericão italiano.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / Leiliane Pereira de Rezende - Integrante / pedro luiz  de paula filho - Integrante.
+2019 - 2022
+Melhoramento de soja e desenvolvimento do sistema de produção de sementes certificadas para agricultores familiares
+Descrição: O objetivo desse projeto são: desenvolver o programa de melhoramento participativo de soja para os agricultores assistidos pelas prefeituras dos municípios do Oeste do Paraná; inovar pelo registro e proteção cultivares de soja com titularidade da UTFPR; pesquisar métodos de seleção eficientes em populações de soja; desenvolver um modelo de parceria público-privado; e integrar estudantes do curso de Agronomia no desenvolvimento de pesquisa nas propriedades agrícolas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Glauco Vieira Miranda - Coordenador / NADIA GRACIELE KROHN - Integrante.
+2019 - 2022
+Avaliação de cultivares de soja na safra e cultivares de milho na safrinha na Região Oeste do Paraná
+Descrição: As empresas de melhoramento tem lançados diversos cultivares anualmente e esses não são comparados em um mesmo experimento nas mesmas condições de manejo para a produtividade, tolerância às doenças e insetos. O objetivo desse projeto é comparar cultivares de soja e híbridos de milho comerciais de diferentes empresas na safrinha na região Oeste do Paraná e disponibilizar os resultados aos agricultores e cooperativa para tomada de decisão na escolha do cultivar. Para isso, os híbridos de milho serão instalados dois experimentos com e sem aplicação de fungicidas em blocos casualizados com três repetições e parcelas com duas linhas de cinco metros durante os anos 2020 e 2021. Os cultivares de soja, por sua vez, serão comparados em um experimento em blocos casualizados com três repetições com parcelas de quatro linhas e cinco metros. Também serão instalado em campo uma coleção de germoplasma de soja para caracterização quanto aspectos agronômicos e potencial para melhoramento. Para ambas culturas, serão avaliadas diversas características relacionadas direta e indiretamente aos componentes de produção além de avaliação da severidade das doenças com ocorrência natural na região. Para o milho, os tratos culturais serão aqueles utilizados rotineiramente pelos agricultores como espaçamento de 0,50 m entre fileiras e população de plantas ao redor de 60 mil plantas/ha. Para a soja, será utilizado o espaçamento de 0,45 m e população de 250 mil plantas/ha. Serão controlados preventivamente os insetos e as sementes tratadas antes do plantio. As plantas daninhas também serão controladas para evitar a competição com as plantas de milho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Glauco Vieira Miranda - Coordenador / NADIA GRACIELE KROHN - Integrante / Erisson Mateus Weber Braun - Integrante / Patrick Machado - Integrante / Alison de Meira Ramos - Integrante / Maria Eduarda Vilas Boas Alves - Integrante / João Pedro Manzano Hubner - Integrante.Financiador(es): Universidade Tecnológica Federal do Paraná - Cooperação.
+2012 - 2016
+Regiões genômicas associadas com absorção pós-florescimento nitrogênio em milho
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Lucimar Rodrigues Oliveira - Integrante.
+2012 - 2016
+Variabilidade genética e herdabilidade da remobilização e absorção pós-florescimento de nitrogênio em milho
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Lucimar Rodrigues Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2015
+Spacial Patterns of aBC10 expression in Rice, Brachypodium dystachion and sugarcane and its effcts on ferulate content and transport
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / marcelo ehlers loureiro - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2011 - 2013
+Identificação de regiões genômicas associadas com absorção pós-florescimento de nitrogênio em milho
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Lucimar Rodrigues Oliveira - Integrante / Ivo Ribeiro da Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2010 - 2013
+Herdabilidade da absorção pós-florescimento de nitrogênio em milho tropical
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Lucimar Rodrigues Oliveira - Integrante / Ivo Ribeiro da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2012
+Melhoramento de milho para eficiênicas de usos de nitrôgenio e água
+Descrição: Aprovado CNPQ  Ed 292008 CTAgrPlant processo 402056/2008-6. Situação: Concluído; Natureza: Pesquisa. Integrantes: Glauco Vieira Miranda - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+Rede de Pesquisa, Desenvolvimento e Inovação em Bioetanol: Produção, Processos e Uso do Produto Final
+Descrição: FAPEMIG Sub-projeto Melhoramento de sorgo para eficiência no uso da água. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Glauco Vieira Miranda - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2012
+Associação entre QTL do sistema radicular e da eficiência ao uso de nitrogênio em milho
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2011
+Caracterização e melhoramento de cultivares e desenvolvimento de sistemas produtivos de canola para biodiesel na safrinha
+Descrição: 574271/2008-2 CNPQ Ed 282008 CTTransver. Situação: Concluído; Natureza: Pesquisa. Integrantes: Glauco Vieira Miranda - Coordenador / Leandro Vagno de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+Associação entre Quantitative Trait Loci  do sistema radicular e da eficiência ao uso do nitrogênio em milho
+Descrição: O aumento da eficiência no uso do nitrogênio (EUN) pela planta pode ser obtido pela maior eficiência do metabolismo desse nutriente e ainda aumentada devido ao sistema radicular com melhor distribuição das raízes no solo, otimizando a absorção de água e dos nutrientes. Em muitas situações, a sobreposição dos QTL (Quantitative trait loci) para características radiculares com os QTL para produtividade tem sugerido a possibilidade do papel dos QTL radiculares na determinação dos QTL de produtividade. Além disso, diversos estudos revelam que a extensão e a natureza da variação genética da arquitetura do sistema radicular têm profunda implicações no aumento da eficiência do uso da água e de nutrientes das culturas ou para aumento da produtividade sob estresse abiótico. Portanto, os objetivos desse projeto são validar os QTL?s de EUN obtidos noutra população de milho em projeto de pesquisa anterior, identificar QTL?s do sistema radicular de milho e associá-los com QTL?s da EUN e ainda, identificar a arquitetura do sistema radicular de milho mais adequada para ambientes com estresse de baixo nitrogênio. Para isso, será utilizada uma população de milho F2:3 contrastante para eficiência na utilização de nitrogênio. Serão avaliadas características relacionadas ao sistema radicular em casa-de-vegetação e aos componentes primários da produção e fisiológicas em campo em condições contrastantes de nitrogênio. Serão determinadas as diferentes definições de eficiência nutricional. Pretende-se com esse trabalho integrar informações obtidas de marcadores moleculares, parâmetros fisiológicos e produtividade de grãos em campo para aumentar a eficiência da seleção de linhagens de milho em estresse abiótico por meio de estratégias não comuns na rotina do melhoramento de milho como o sistema radicular inicial do milho e a eficiência de uso de nitrogênio (EUN). Também, pretende-se formar um pesquisador D. S. para prosseguir carreira científica com inserção internacional, orientar dois estu. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador.
+2009 - 2010
+Melhoramento ambiental e genético do milho em regiões com estresses abióticos no Brasil e Moçambique
+Descrição: Ed 122008 CNPQ Pró-África Cham1 Visita Exploratória 490390/2008-0. Situação: Concluído; Natureza: Pesquisa. Integrantes: Glauco Vieira Miranda - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2009
+Desenvolvimento de cultivares e recursos genéticos de milho, com enfoque regional, tolerantes aos estresses e com valor agregado de uso
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Glauco Vieira Miranda - Integrante / Lauro José Moreira Guimarães - Integrante / Paulo Evaristo de Oliveira Guimarães - Coordenador.
+2007 - 2012
+Abordagem Genética, Fisiológica e Molecular do Sistema Solo-Planta para a Eficiência no Uso de Fósforo
+Descrição: A adubação fosfatada, é realizada principalmente com fosfatos solúveis, atingindo dosagens de fósforo muito superiores às necessidades das culturas, pois a maior parte do adubo adicionado torna-se indisponível devido ao processo de adsorção deste íon no solo, aumentando significativamente os custos de produção. Em solos ácidos e alcalinos a precipitação e fixação de P são responsáveis pela baixa eficiência dos fertilizantes fosfatados solúveis. Adicionalmente, esse nutriente não é renovável, sendo derivado da exploração de reservas sedimentares ou magmáticas, cujas estimativas de exploração aos custos atuais deverão durar até o ano de 2050 (Vance et al., 2003). Assim, uma alternativa que contribuiria para uma solução efetiva e sustentável deste problema seria explorar a variabilidade genética disponível para gerar cultivares mais eficientes no uso de fósforo e implementar uma combinação de práticas de manejo do solo e da sua biologia, associadas ao uso desses cultivares. A equipe proponente vem desenvolvendo estudos genéticos e fisiológicos para a eficiência no uso de fósforo há cerca de 20 anos. Neste período centenas de genótipos de milho, sorgo e arroz foram avaliados tanto ?per se? quanto em cruzamento, utilizando os critérios de eficiência de utilização e absorção de P propostos por Moll et al. (1982) e produção de grãos em níveis contrastantes de fósforo (Anexo 2). Adicionalmente, tais genótipos têm sido avaliados em experimentos de fisiologia vegetal, estudos de herança e para o desenvolvimento de populações estruturadas para o estudo de médias de geração e para o mapeamento de regiões genômicas associadas com a característica (QTLs), ressaltando a existência de variabilidade genética para a eficiência na utilização de P nessas espécies, que precisa ser criteriosamente estudada para ser efetivamente incorporada em programas de melhoramento genético. Dessa forma, o presente projeto busca reunir competências nas diversas áreas do conhecimento em instituições co. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / Maria José V Vasconcelos - Coordenador.Financiador(es): Empresa Brasileira de Pesquisa Agropecuária - Auxílio
+										financeiro.
+2007 - 2009
+Melhoramento de milho: desenvolvimento de cultivares e seleção assistida por marcadores
+Descrição: Os recentes avanços na biotecnologia, tem proporcionado aos melhoristas, novas e eficientes ferramentas para selecionar características genéticas monogênicas e quantitativas. Entre essas destacam-se os marcadores moleculares, QTL, bancos genéticos eletrônicos e a transformação de plantas. No entanto, apesar da comprovação da eficiência dessas tecnologias e da enorme quantidade de informações disponíveis têm-se utilizado pouco em rotinas de programas de melhoramento. Uma interessante forma de aumentar o uso dessas técnicas é treinando os futuros melhoristas na utilização durante a sua formação profissional. Assim, o objetivo desse projeto é identificar e avaliar marcadores moleculares SSR para seleção de linhagens de milho para a eficiência de uso de nitrogênio (EUN) e fósforo (EUP) e doenças foliares (DFM) nas rotinas do programa de melhoramento. As atividades serão divididas por característica (EUN, EUP e DFM ) sendo cada ano realizado uma, abrindo possibilidade de trocar o bolsista de Iniciação Científica quando o mesmo formar. A estratégia de ação desse projeto será o levantamento de informações  de genes candidatos associados à EUN, EUP e DFM em banco eletrônicos (maizegdb e outros) e literatura internacional por meio do Sistema Capes Periódicos. Depois será encomendado primers flanqueadores desses genes ou associados e esses serão avaliados para as características de interesse nas linhagens de milho previamente avaliadas para tolerância em nível de campo ou casa-de-vegetação. Essas linhagens verificadoras e outras serão novamente avaliadas para cada uma das três características em casa-de-vegetação ou campo e associado o seu desempenho com a informação molecular. Pretende-se com esse projeto obter materias vegetais e tecnologia para a posterior utilização em rotina no programa de melhoramento de milho. Além disso, pretende-se preparar o estudante de graduação para perceber a importância da formação científica para a resolução de problemas relacionados a agronom. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Leandro Vagno de Souza - Integrante / Sergio Yoshimitsu Motoike - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+Melhoramento de milho: estabelecimento de protocolos de transformação de plantas e conversão de linhagens elites para regeneração in vitro
+Descrição: O estabelecimento de eficientes protocolos para transformação de plantas de milho e a identificação e desenvolvimento de linhagens endogâmicas com capacidade de regeneração em meios de cultura, aproveitando as oportunidades surgidas com a transformação de plantas, proporcionam ao programa de melhoramento de milho um novo diferencial competitivo para o lançamento de cultivares inovadores. Os principais pré-requisitos para o sucesso da transformação de plantas são a regeneração in vitro das plantas, a forma de introdução do DNA exógeno e a funcionabilidade do DNA introduzido. Em milho, ocorre baixa freqüência de células transformadas por volta de 0,01% exigindo alta eficiência do processo de regeneração do tecido-alvo para obtenção de plantas transgênicas. Essa baixa porcentagem ocorre porque os pré-requisidos não são totalmente atendidos devido a falta de aptidão das linhagens elites em serem mantidas e regeneradas em meios de cultura e os protocolos serem específicos para cada linhagem necessitando ser ajustado para cada novo background genético das linhagens do programa de melhoramento. Os processos de introdução de genes, Agrobacterium ou biobalística, ainda apresentam a necessidade de calos em cultura de tecidos para a introdução do DNA exógeno. Por outro lado, tem ocorrido o surgimento contínuo de novos procedimentos para otimização da transformação de plantas alguns até dispensando o uso de regeneração in vitro das plantas. Assim, os objetivos do projeto são estabelecer e otimizar o protocolo de transformação de plantas de milho mediado por Agrobacterium e biobalística e converter linhagens elites do Programa de Melhoramento da UFV para regeneração em meios de cultura. Para isso serão realizados experimentos para a obtenção de calos a partir de embriões imaturos e partes da planta, experimentos para selecionar linhagens de milho do Programa quanto a produção e regeneração de calos e blocos de cruzamento. Pretende-se com esse projeto obter materias vegetais, tec. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Glauco Vieira Miranda - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Melhoramento de milho para eficiência nutricional em baixos e altos teores de nitrogênio e fósforo disponíveis no solo.
+Descrição: As utilizações do nitrogênio (N) e do fósforo (P) na agricultura estão associadas às questões econômicas, sociais e ambientais relacionadas com a sustentabilidade do agroecossistema. O germoplasma selecionado em baixo grau de estresses abióticos (limitações de clima e solo) não se mostra adequado para ser utilizado sem limitações em condições de estresses de ambientes. A compreensão dos processos moleculares, bioquímicos e fisiológicos envolvidos na tolerância à deficiência de nitrogênio e fósforo e suas interações, como os níveis de atividade das diferentes enzimas envolvidas no metabolismo de N e P, é o primeiro passo para o melhoramento genético visando à obtenção de cultivares eficientes no uso de nutrientes. Assim, para se obter estes cultivares eficientes é fundamental a identificação mais detalhada dos aspectos relacionados com a fisiologia, bioquímica e genética molecular das plantas. Portanto, os objetivos desse projeto são: Determinar a variabilidade genética das linhagens de milho para eficiência nutricional; Determinar a eficiência nutricional de N e P das linhagens de milho em alta e baixa disponibilidade de N e P em campo e ambiente controlado; Identificar características radiculares e atividade de enzimas que tenham correlação com a eficiência e nutricional de linhagens de milho em alta e baixa disponibilidade de N e P; Identificar o controle genético para características radiculares e metabolismo enzimático associados a eficiência nutricional em alta e baixa disponibilidade de N e P; Correlacionar as características do sistema radicular e atividades enzimáticas com a produtividade de grãos obtida em alta e baixa disponibilidade de N e P. Os experimentos de casa de vegetação e câmara de crescimento serão realizados na Universidade Federal de Viçosa (UFV). Os experimentos de campo serão instalados nas estações experimentais da UFV em Capinópolis, Florestal e em Coimbra, MG.  Em todos os experimentos serão avaliadas 10 linhagens de milho em geração S6 e. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / Geraldo Antônio Andrade de Araújo - Coordenador / João Carlos Cardoso Galvão - Integrante / Aurelio Vaz de Melo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2006 - 2009
+Melhoramento de milho para estresses abióticos: Identificação de Quantitative Trait Loci  (QTLs) e genes candidatos associados à eficiência de uso de nitrogênio em milho
+Descrição: A utilização do nitrogênio na agricultura está associada às questões econômicas, sociais e ambientais relacionadas com a sustentabilidade do agroecossistema. Considerável proporção dos produtores de milho, no Brasil, trabalha em solos com baixa disponibilidade de nutrientes, principalmente nitrogênio e fósforo. Embora o uso de fertilizantes nitrogenados esteja aumentando nessas regiões, o nitrogênio provavelmente continuará sendo um importante fator limitante da produção para a cultura do milho, pois a relação entre o preço dos fertilizantes nitrogenados e preço de venda dos grãos é alta e vem aumentando, limitando o seu uso (Gerner e Harris, 1993 e Agrianual, 2005). Mesmo se as dificuldades econômicas para a adoção de maiores quantidades de fertilizantes nitrogenados forem superadas, e a deficiência nutricional deixar de ser um fator limitante da produção, poderemos vir a ter que conviver com outros tipos de problemas decorrentes do uso de fertilizantes, principalmente nas áreas da saúde e do meio ambiente, devido ao grande potencial poluidor do nitrogênio. O germoplasma selecionado em condições de baixo grau de estresses abióticos (limitações de clima e solo) não se mostra adequado para ser utilizado sem limitações em condições de estresses de ambientes (Cecarelli, 1996; Witcombe, et al., 1996, CGIAR, 1999). Isso ocorre, pois os genes que controlam a produtividade em condições de estresses abióticos são diferentes daqueles para condições ótimas (Atlin e Frey, 1989). A compreensão dos processos moleculares envolvidos na tolerância à deficiência de nitrogênio, como os níveis de atividade das diferentes enzimas envolvidas no metabolismo de N, é o primeiro passo para o melhoramento genético visando à obtenção de cultivares eficientes no uso de N (Lam et al., 1996). Assim, para se obter estes cultivares eficientes é fundamental a identificação mais detalhada dos aspectos relacionados com a fisiologia, bioquímica e genética molecular das plantas e também das característ. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / Cosme Damião Cruz - Integrante / Lauro José Moreira Guimarães - Integrante / Elto Eugênio Gomes e Gama - Integrante / Ivanildo E Marriel - Integrante / Claudia Teixeira  Guimarães - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2006 - 2009
+Desenvolvimento de cultivares de milho com alta eficiência no uso de nitrogênio.
+Descrição: O desenvolvimento de cultivares de milho com maior eficiência no uso de nitrogênio (EUN) é considerado como a grande contribuição do melhoramento vegetal para agricultura sustentável. Os objetivos deste trabalho são: estudar o controle genético da eficiência no uso do nitrogênio na cultura do milho e avaliar a atividade das enzimas glutamina sintetase (GS) e nitrato redutase (NR) e determinar a relação destas com a eficiência no uso do nitrogênio e com a produtividade de grãos na cultura do milho, sob diferentes manejos fito técnicos. Para isso, no primeiro ano será feita a discriminação de linhagens endogâmicas quanto a EUN, sendo selecionadas linhagens contrastantes quanto a EUN em alto e baixo N. As linhagens selecionadas serão cruzadas em esquema de dialelo parcial, e as combinações híbridas serão avaliadas em alto e baixo nitrogênio em condições de campo e em casa de vegetação, selecionando híbridos com diferentes EUN em alto e baixo N. No segundo ano, os híbridos selecionados no ano anterior serão avaliados sob quatro populações de plantas, e ainda submetidas a dois níveis de nitrogênio. Em todos os ensaios serão avaliados caracteres agronômicos, atividades das enzimas NR e GS, as eficiências de absorção e utilização e a EUN. Com a realização deste trabalho espera-se: definir o controle genético da eficiência no uso do nitrogênio na cultura do milho, identificar a(s) característica(s) secundárias (fisiológicas, morfológicas, bioquímicas) com maior potencial para serem utilizadas na seleção e desenvolvimento de cultivares de milho com maior EUN, determinar a relação das enzimas GS e NR com a eficiência no uso do nitrogênio e com a produtividade de grãos na cultura do milho, sob diferentes manejos fito técnicos (populações de plantas e adubação nitrogenada) e desenvolver híbridos de milho com alta eficiência no uso do nitrogênio e tolerante ao estresses por deficiência de nitrogênio e a altas populações de plantas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / João Carlos Cardoso Galvão - Coordenador / Leandro Vagno de Souza - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2006 - 2007
+Melhoramento de milho: obtenção de transgênico para o gene da  antranilate sintase
+Descrição: O processo seletivo do melhoramento de plantas tem-se tornado mais eficiente com o passar do tempo pela incorporação de técnicas de ciências como a estatística, genética, biologia e informática. A seleção de plantas se baseou inicialmente na seleção fenotípica, depois se concentrou na variância genotípica e atualmente está focada no DNA, por meio da identificação e função dos genes. Com o advento da biotecnologia novas oportunidades no melhoramento surgiram com a construção de genes para diferentes objetivos como a tolerância à seca e aos herbicidas, biofármacos, tolerância aos insetos, incrementos nos teores de aminoácidos ou vitaminas, etc...  Essa oportunidade é identificada na enzima antranilato sintase (AS) que modificada pode aumentar o teor livre de triptofano em até 5,5 vezes (contra 30% do melhoramento tradicional) e a resistência ao 5-methyl-Trp (5MT, composto tóxico para as plantas). Os genes AS codificando para a subunidade α da enzima clonada de Arabidopsis são designados ASA1 e ASA2. A catálise da antranilato sintase (AS) é a primeira reação da biossíntese do Trp na conversão de chorismato para antranilato. A AS é um ponto de controle nos processos de obtenção de Trp nas células vegetais, nos níveis de atividade enzimática, na inibição de feedback da respectiva atividade enzimática, e na seleção de resistência ao 5MT. A cultura de tecidos tornou-se uma das maneiras eficientes de estudar os mecanismos regulatórios da biossíntese de aminoácidos e para a seleção para resistência a análogos tóxicos como o 5MT. Assim, o objetivo desse projeto é transformar plantas de milho com o gene AS2 para permitir maior controle da expressão e verificar sua manifestação no aumento do teor de triptofano e resistência ao produto tóxico 5MT. Para isso, pretende-se utilizar embriões imaturos para transformar plantas de milho por meio bombardeamento de partículas e por Agrobacterium tumefacians utilizando o promotor 35S do vírus do mosaico da couve-flor e o gene marcado. Situação: Concluído; Natureza: Pesquisa. Integrantes: Glauco Vieira Miranda - Coordenador / Jack Windholm - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / University of Illinois - System - Cooperação.
+2005 - 2010
+Melhoramento de milho para estresses abióticos: programa de desenvolvimento de cultivares
+Descrição: Obter híbridos e variedades de milho que otimizem a interação genótipo x ambiente;
+Desenvolver novos cultivares com produtividade de 5 a 10% superior aos cultivares atualmente utilizados em ambientes de estresses abióticos.
+Disponibilizar esses cultivares para empresa regional de sementes visando o desenvolvimento e sustentabilidade social, econômica, e agroecológica da região oriental de Minas Gerais, Espírito Santo e Rio de Janeiro.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2008
+Inovação UFV Híbridos e variedades de milho e milho-pipoca para o mercado regional de sementes.
+Descrição: Elaborar protótipo e testar híbridos e variedades de milho e milho pipoca para o mercado regional de sementes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Serviço de Apoio às Micro e Pequenas Empresas de Belo Horizonte - Auxílio
+										financeiro / Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Auxílio
+										financeiro.
+2005 - 2007
+Seleção de linhagens de milho para tolerância ao baixo fósforo no solo.
+Descrição: As condições de estresses abióticos são aquelas em que a produtividade é limitada por condições climáticas ou por fatores nutricionais. A quase totalidade das culturas anuais de grãos no Brasil está exposta a estes limitantes. Assim, os principais objetivos deste projeto são: 1) desenvolver e avaliar metodologias de seleção para estresse de baixo fósforo em casa-de-vegetação para programas de melhoramento de milho; 2) identificar linhagens de milho tolerantes para estresses de baixos P.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Leandro Vagno de Souza - Integrante / Ciro Maia Brito - Integrante / Rodrigo Cabral - Integrante.
+2005 - 2006
+Seleção de cultivares de milho para produção de palha visando a agregação de valores na agricultura familiar
+Descrição: 1) Incentivar o uso da palha de milho no artesanato. 2) Identificar cultivares de milho com alta produtividade e qualidade de palha. 3) Selecionar genitores para o programa de melhoramento, visando a obtenção de cultivares superiores para a agregação de valores na agricultura familiar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Leandro Vagno de Souza - Integrante / Helder Médice Júnior - Integrante / Jeferson Julio de Andrade - Integrante.
+2004 - 2007
+Herança e parâmetros genéticos da eficiência nutricional na cultura do milho em ambientes de etresses e não estresses de nitrogênio e fósforo
+Descrição: Estudar o controle genético da eficiência nutricional na cultura do milho. Quantificar a influência das inter-relações nitrogênio e fósforo na seleção e no estudo de parâmetros genéticos estatísticos na cultura do milho. Avaliar o potencial de germoplasma comercial de milho como genitores para condições de estresses e não estresses de nitrogênio e fósforo. Identificar características secundárias e o tipo de eficiência nutricional mais promissoras para auxiliar no processo de seleção. Aumentar a eficiência nutricional de uma população de polinização aberta.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador.
+2004 - 2006
+Avaliação de testadores na seleção de linhagens endogâmicas de milho
+Descrição: O objetivo do trabalho será avaliar o potencial de quatro testadores de diferentes bases genéticas quanto à capacidade de combinação e discriminação de 19 linhagens endogâmicas de milho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Anderson Afonso Doná - Integrante / Moacil Alves de Souza - Integrante / José Eustáquio de Souza Carneiro - Integrante.
+2004 - 2005
+Consórcio milho-leguminosas no sistema de plantio direto orgânico.
+Descrição: Projeto de Pesquisa número 50109152581
+Modalidade:IC Título: 
+Consórcio milho-leguminosas no sistema de plantio direto orgânico. 
+Palavras Chave: 
+Zea mays/ Milho orgânico/ Nitrogênio Objetivos: 
+Avaliar a produção de fitomassa e grãos de milho, bem como o controle de plantas daninhas, em cultivo de milho exclusivo e consorciado com leguminosas, no sistema de plantio direto orgânico. 
+Autores: Participação Nome Titulação Depto 
+1º autor João Carlos Cardoso Galvão DS DFT 
+2º autor Joyce de Souza Faluba Estudante - Graduação DFT 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Ricardo Henrique Silva Santos DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+UFV/Estação Experimental de Coimbra/Coimbra/MG Data de Início: 
+01/08/2004 Término Previsto: 
+31/07/2005 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CNPq 2892 
+ Valor Total: 
+2892 Data de Registro: 
+08/07/2004 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / João Carlos Cardoso Galvão - Coordenador / Ricardo Henrique Silva Santos - Integrante / Joyce de Souza Faluba - Integrante.
+2004 - 2005
+Influência do tipo de debulha e das condições de armazenamento na qualidade de sementes de dois cultivares de milho-pipoca
+Descrição: avaliar os efeitos da debulha manual e mecânica na qualidade fisiológica das sementes de milho-pipoca em armazenamento em câmara fria e convencional. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador.
+2003 - 2007
+Melhoramento de milho para condições de estresse de fósforo e toxidez por alumínio em solo sob altas temperaturas
+Descrição: Projeto 50105452726 registrado na UFV. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / Izabel Cristina dos Santos - Integrante / João Carlos Cardoso Galvão - Integrante / Rodrigo Ribeiro Fidelis - Integrante.
+2003 - 2007
+Sistemas alternativos para manejo de plantas daninhas em plantio direto orgânico.
+Descrição: Projeto de Pesquisa número 50109453306
+Modalidade:DS Título: 
+Sistemas alternativos para manejo de plantas daninhas em plantio direto orgânico. 
+Palavras Chave: 
+Zea mays/ Leguminosa/ Adubação orgânica Objetivos: 
+O manejo das plantas daninhas em sistema de plantio direto orgânico constitui-se num dos maiores desafios tecnológicos para a agricultura conservacionista da atualidade; nesse sentido, o objetivo deste trabalho é definir um conjunto de medidas que, integradas, possam reduzir a população de plantas daninhas a níveis que interfiram na produtividade da cultura do milho sob sistema de plantio direto orgânico. 
+Autores: Participação Nome Titulação Depto 
+1º autor João Carlos Cardoso Galvão DS DFT 
+2º autor Anastácia Fontanetti Estudante - Doutorado DFT 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Lino Roberto Ferreira DS DFT 
+5º autor Izabel Cristina dos Santos DS  
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+Estação Experimental de Coimbra/MG Data de Início: 
+01/08/2003 Término Previsto: 
+01/07/2007 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CNPq 75216 
+ Valor Total: 
+75216 Data de Registro: 
+24/05/2005 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / Izabel Cristina dos Santos - Integrante / João Carlos Cardoso Galvão - Coordenador / Lino Roberto Ferreira - Integrante / Anastácia Fontanetti - Integrante.
+2003 - 2006
+Melhoramento de milho para condições de estresse de baixos nitrogênio e fósforo.
+Descrição: Desenvolver métodos de seleção de linhagens de milho para baixos estresse de nitrogênio e fósforo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador.
+2003 - 2006
+Introdução, desenvolvimento e avaliação de germoplasma de milho para sudoeste de Goiás e cerrado de Minas Gerais.
+Descrição: Projeto de Pesquisa número 50105651773
+Modalidade:PA Título: 
+Introdução, desenvolvimento e avaliação de germoplasma de milho para sudoeste de Goiás e cerrado de Minas Gerais. 
+Palavras Chave: 
+Melhoramento genético/ Milho/ Genética Objetivos: 
+Introduzir, desenvolver e avaliar cultivares de milho no sudoeste de Goiás e cerrado de Minas Gerais. Identificar cultivares adaptadas às condições edafoclimáticas da região e resistentes aos principais estresses para serem utilizadas como progenitores em programas de melhoramento. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+3º autor Edésio Fialho dos Reis DS  
+4º autor Izabel Cristina dos Santos DS  
+5º autor José Mauro Valente Paes DS  
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Minas Gerais e Goiás Data de Início: 
+01/08/03 Término Previsto: 
+31/07/07 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 8776,8 
+ Valor Total: 
+8776,8 Data de Registro: 
+24/07/03 Concluído? Não Data de Conclusão:. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Izabel Cristina dos Santos - Integrante / João Carlos Cardoso Galvão - Integrante / Edésio Fialho dos Reis - Integrante / Jose Mauro Valente Paes - Integrante.
+2003 - 2006
+Índices de estresse hídrico diário e sensibilidade da cultura do milho à salinidade.
+Descrição: Projeto de Pesquisa número 50310452444
+Modalidade:DS Título: 
+Índices de estresse hídrico diário e sensibilidade da cultura do milho à salinidade. 
+Palavras Chave: 
+Salinidade do solo/ Zea mays L./ Índice de estresse hídrico diário (WSDI) Objetivos: 
+Analisar o efeito da salinidade do solo no desenvolvimento da cultura do milho, com base no índice diário de estresse hídrico (WSDI). 
+Autores: Participação Nome Titulação Depto 
+1º autor Paulo Afonso Ferreira PhD DEA 
+2º autor Giovanni de Oliveira Garcia Estudante - Doutorado DEA 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Marco Antônio Oliva Cano DS DBV 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.03.02.00-0: Ciências Agrárias - Engenharia Agrícola - Engenharia de Água e Solo Linha de Pesquisa: 
+DEA-010: Manejo de Água/Planta em Solos Salinos 
+Local de Execução: 
+UFV Data de Início: 
+01/09/2004 Término Previsto: 
+30/03/2005 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 20000 
+CNPq 54252 
+BOLSAS/CNPq 15408 
+ Valor Total: 
+89660 Data de Registro: 
+01/06/2004 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / Giovanni de Oliveira Garcia - Integrante / Paulo Afonso Ferreira - Coordenador / Marco Antônio Oliva Cano - Integrante.
+2003 - 2005
+Seleção de genótipos de milho adaptados nas regiões de baixa altitude e com estresse de baixo nitrogênio.
+Descrição: Projeto de Pesquisa número 50101451377
+Modalidade:DS Título: 
+Seleção de genótipos de milho adaptados nas regiões de baixa altitude e com estresse de baixo nitrogênio. 
+Palavras Chave: 
+Zea mays (L.)/ Estresse abiótico/ Análise multivariada Objetivos: 
+Seleção de genótipos de milho com base em características morfo-fisiológicas avaliadas em campo e em técnicas estatísticas para regiões de baixa altitude e com estresse de baixo nitrogênio. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor Ricardo Gonçalves Silva Estudante - Doutorado DFT 
+3º autor João Carlos Cardoso Galvão DS DFT 
+4º autor Maurício Bernardes Coelho DS  
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.05-9: Ciências Agrárias - Agronomia - Melhoramento Vegetal Linha de Pesquisa: 
+GEN-001: Melhoramento Vegetal 
+Local de Execução: 
+Paracatu e Unaí/MG Data de Início: 
+01/08/03 Término Previsto: 
+31/07/05 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 32400 
+BOLSAS/CNPq 51498,72 
+ Valor Total: 
+83898,72 Data de Registro: 
+13/02/03 Concluído? Não Data de Conclusão:. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Ricardo Gonçalves Silva - Integrante / Maurício Bernardes Coelho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2003 - 2005
+Melhoramento de milho para condições de baixos nitrogênio e fósforo
+Descrição: As condições de estresses abíoticos são aquelas em que a produtividade é limitada por condições climáticas ou por fatores nutricionais. A quase totalidade das culturas anuais de grãos, no Brasil, está exposta a estes limitantes. Assim, os principais objetivos deste projeto são: 1)Desenvolver e avaliar metodologias de seleção para estresse de baixo fósforo em casa-de-vegetação e em campo para programas de melhoramento de milho; 2) Desenvolver e avaliar metodologias de seleção para estresse de baixo nitrogênio em condições de campo para programas de melhoramento de milho; 3) Determinar as interrelações dos estresses nutricionais (P e N) na seleção de germoplasma de milho; 4) Identificar o controle genético dos diferentes conceitos de eficiências fisiológica, agronômica e agrofisiológica; 5) Identificar populações e linhagens de milho tolerantes para estresses de baixos P e N. Para atingir estes objetivos, constituíram-se de uma equipe multidisciplar e experiente e pretende-se avaliar populações e híbridos em condições de campo com alto e baixo N e P e em ensaios com condições ambientes controladas. Este trabalho pode gerar resultados de grande interesse na comunidade científica que vai aumentar a eficiência da seleção dos programas de melhoramento para condições de estresses minerais considerando a interação nitrogênio e fósforo. Vai viabilizar e adaptar metodologias desenvolvidas por fisiologistas e especialistas em solos para a seleção em nível de campo. Pode identificar populações de milho contrastantes quanto à eficiência no uso de nitrogênio que permite trabalhos posteriores para identificação de regiões genômicas que controlam as características e prospecção de genes. Fornecerá subsídios para a indicação de cultivares para as regiões em que estão sendo avaliados e a geração de híbridos e variedades de polinização aberta com a possibilidade de proteção viabilizando novos recursos para a execução de pesquisas para o Programa Milho UFV ®.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / Izabel Cristina dos Santos - Integrante / João Carlos Cardoso Galvão - Integrante / Leandro Vagno de Souza - Integrante / Fernando Roberto Eckert - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2003 - 2005
+Aplicação de doses de molibdênio nas culturas do milho comum e pipoca.
+Descrição: Projeto de Pesquisa número 50109353183
+Modalidade:MS Título: 
+Aplicação de doses de molibdênio nas culturas do milho comum e pipoca. 
+Palavras Chave: 
+Milho/ Molibdênio/ Doses Objetivos: 
+Avaliar, tanto no milho comum quanto no milho pipoca, a dose de molibdênio capaz de promover acúmulos deste micronutriente nas sementes, em níveis que possam suprir as necessidades da planta na geração subseqüente, além de determinar o efeito do molibdênio tanto na produtividade quanto na qualidade das sementes. 
+Autores: Participação Nome Titulação Depto 
+1º autor Geraldo Antônio de Andrade Araújo DS DFT 
+2º autor André Ribeiro Teixeira Estudante - Mestrado DFT 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor João Carlos Cardoso Galvão DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/08/2003 Término Previsto: 
+01/07/2005 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CNPq 17955 
+ Valor Total: 
+17955 Data de Registro: 
+01/04/2005 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Geraldo Antônio Andrade de Araújo - Integrante / João Carlos Cardoso Galvão - Integrante / André Ribeiro Teixeira - Integrante.
+2003 - 2005
+Seleção de genitores de milho em sistema orgânico de cultivo.
+Descrição: Os objetivos são: avaliar, em sistema orgânico de cultivo, o potencial de cultivares comerciais de milho como genitores; determinar o controle genético para as características avaliadas, visando à obtenção de cultivares que tenham maior potencial para o melhoramento; identificar fontes de variabilidade para prosseguir o programa de melhoramento de mlho neste sistema de cultivo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Izabel Cristina dos Santos - Integrante / João Carlos Cardoso Galvão - Integrante / Lucimar Rodrigues Oliveira - Integrante.
+2003 - 2005
+Épocas de adubação nitrogenada e redução de espaçamento entre fileiras em cultivares de milho.
+Descrição: Avaliar o efeito do espaçamento entre fileiras, a adubação de cobertura e cultivares de milho na importância relativa e sua biomassa das plantas daninhas; avaliar a redução do espaçamento entre fileiras e épocas de adubação nitrogenada nos componentes de produção de cultivares de milho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Lino Roberto Ferreira - Integrante / Manuel Mota dos Santos - Integrante.
+2003 - 2004
+Sistema de plantio direto no cultivo de milho verde orgânico.
+Descrição: Nas cidades da microrregião do Vale do Piranga, o milho é comumente comercializado na forma de espigas verdes, para consumo cozido, assado ou para ser processado como mingau, pamonha, sorvetes, etc. É cada vez maior a procura por alimentos orgânicos, que estão disponíveis em supermecados, lojas de produtos naturais, feiras e restaurantes. Se além de colocar no mercado espigas de boa qualidade, o produtor oferecesse milho-verde orgânico, certamente o valor de venda seria maior em comparação com as espigas produzidas a partir do milho comum,  o que aumentaria a renda dos agricultores. Por isso, os objetivos deste projeto são:       a) avaliação, sob sistema orgânico de produção e nas condições edafoclimáticas da microrregião do Vale do Piranga, de características agronômicas e de pós-colheita de cultivares de milho-verde; b) comparação de desempenho de produtos e sistemas alternativos para manejo de pragas, doenças, plantas daninhas e adubação no cultivo de milho sob sistema orgânico; c) identificação de genitores e do controle genético de características de pós-colheita para a produção de milho verde; e d) treinamento de técnicos e agricultores da região do Vale do Piranga na produção de milho sob sistema de cultivo orgânico. Para isso serão instalados experimentos e com base nos resultados obtidos serão instaladas unidades demonstrativas para realização de dias-de-campo e treinamentos sobre sistemas orgânicos de produção de milho verde.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Izabel Cristina dos Santos - Integrante / João Carlos Cardoso Galvão - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2003 - 2004
+Estimação de parâmetros genéticos estatísticos em populações de milho em diferentes condições ambientais
+Descrição: Projeto de Pesquisa número 50105352355
+Modalidade:MS Título: 
+Estimação de parâmetros genéticos estatísticos em populações de milho em diferentes condições ambientais. 
+Palavras Chave: 
+Melhoramento/ Estresse abiótico/ Milho Objetivos: 
+Avaliar cultivares comerciais de milho como genitores para condições de estresse abióticos. Estimar parâmetros genéticos sob condições de estresses abióticos e estudar o controle genético das principais características quando os genótipos são submetidos a condições ambientais adversas. Estudar correlações entre ambientes, correlação de uma mesma característica em diferentes ambientes e correlações entre parâmetros genéticos e verificar a eficiência de seleção baseada em parâmetros genéticos, como herdabilidade e capacidade geral e específica de combinação, sob diferentes condições ambientais. Estimar o índice de concordância da seleção de genótipos sob diferentes condições de estresses abióticos e comparar estratégias de seleção sob condições de estresses abióticos. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor Lauro José Moreira Guimarães Estudante - Mestrado DFT 
+3º autor João Carlos Cardoso Galvão DS DFT 
+4º autor Moacil Alves de Souza DS DFT. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Lauro José Moreira Guimarães - Integrante / Moacil Alves de Souza - Integrante.Número de produções C, T & A: 1
+2003 - 2004
+Seleção de germoplasma de milho sob condições de compactação de camadas de solo e estresse hídrico.
+Descrição: Estudar os efeitos individuais e interação dos estresses de seca e da compactação do solo na seleção dos genótipos de milho. Incorporação da avaliação de cultivares eficientes em ambientes do solo compactado e estresse hídrico no Programa Milho. Identificar cultivares de milho com potencial para melhoramento em condições de solo compactado e estresse hídrico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Leandro Vagno de Souza - Integrante / Reinaldo Bertolla Cantarutti - Integrante / Marcelo Oliveira Soares - Integrante.Número de produções C, T & A: 1
+2002 - 2005
+Critérios de seleção de testadores para programa de melhoramento de milho.
+Descrição: Definir critérios para seleção de testador em programa de melhoramento de milho. Identificação da divergência genética das linhagens para sintetizar híbridos comerciais de milho; avaliar a capacidade de combinação para a melhor escolha do testador; quantificar o potencial produtivo dos híbridos de milho para cada testador.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Adilson Deitos - Integrante.Número de produções C, T & A: 1
+2002 - 2004
+Análise dialélica e comportamento de cultivares de milho em condições de estresses climáticos.
+Descrição: Caracterizar o ambiente de pesquisa, aproximando as condições de pesquisas da realidade agronômica; avaliar o potencial de germoplasmas comerciais de milho como genitores para condições de estresses; estudar o controle gênico e a herdabilidade, para características avaliadas, em cada tipo de ambiente (favorável e sob estresse); avaliar o comportamento e a eficiência de germoplasma de milho em condições de estresse; definir qual a melhor estratégia de desenvolvimento de cultivares para condições de estresse.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador.
+2002 - 2004
+Critérios de seleção de testadores para programa de melhoramento de milho.
+Descrição: Projeto de Pesquisa número 50101351690
+Modalidade:MS Título: 
+Critérios de seleção de testadores para programa de melhoramento de milho. 
+Palavras Chave: 
+Zea mays/ Divergência genética/ Capacidade de combinação Objetivos: 
+Definir critérios para seleção de testador em programa de melhoramento de milho. Identificação da divergência genética das linhagens para sintetizar híbridos comerciais de milho; avaliar a capacidade de combinação para a melhor escolha do testador; quantificar o potencial produtivo dos híbridos de milho para cada testador. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor Adilson Deitos Estudante - Mestrado DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+Coimbra/Capinópolis/MG Data de Início: 
+01/04/02 Término Previsto: 
+31/03/04 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 18100 
+ Valor Total: 
+18100 Data de Registro: 
+14/07/03 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Adilson Deitos - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 1
+2002 - 2003
+Resgate, adaptação e avaliação de germoplasma de milho em condições de estresse por deficiência de nitrogênio para agricultura familiar.
+Descrição: Coletar e preservar no mínimo 30 populações locais de milho; avaliar o comportamento de germoplasmas de milho em condições de estresses por deficiência de nitrogênio; comparar o comportamento de germoplasmas locais de milho, comerciais e experimentais do Programa Milho UFV; resgatar e preservar germoplasmas locais de milho para evitar a contaminação irreversível destes com os cultivares modernos; valorizar a cultura local e fazer intercâmbio maior entre pesquisador e o agricultor da microrregião de Viçosa/MG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Leandro Vagno de Souza - Integrante / Joyce de Souza Faluba - Integrante.Número de produções C, T & A: 1
+2002 - 2003
+Avaliação de germoplasma de milho em condições de estresse por deficiência de fósforo.
+Descrição: Identificar cultivares de milho com potencial para melhoramento em condições de estresses por deficiência de fósforo; incorporação da avaliação de estresse por deficiência de fósforo na rotina do Programa Milho UFV; estimar o controle genético em condições de estresses por deficiência de fósforo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Leandro Vagno de Souza - Integrante / Marcelo Oliveira Soares - Integrante.Número de produções C, T & A: 1
+2001 - 2004
+Repetibilidade dos estimadores de estabilidade de produção de clones de cana-de-açúcar avaliados em Minas Gerais.
+Descrição: Projeto de Pesquisa número 50105750729
+Modalidade:DS Título: 
+Repetibilidade dos estimadores de estabilidade de produção de clones de cana-de-açúcar avaliados em Minas Gerais. 
+Palavras Chave: 
+Interação Genótipo x Ambiente/ Seleção de Clones/ Melhoramento Genético Objetivos: 
+Avaliar a repetibilidade dos estimadores de estabilidade de produção; comparar as vantagens e desvantagens de diferentes métodos de estabilidade fenotípica na seleção de clones de cana-de-açúcar. 
+Autores: Participação Nome Titulação Depto 
+1º autor Márcio Henrique Pereira Barbosa DS DFT 
+2º autor Irlane Toledo Bastos Estudante - Doutorado DFT 
+3º autor Cosme Damião Cruz DS DBG 
+4º autor Glauco Vieira Miranda DS DFT 
+5º autor Luiz Alexandre Peternelli PhD DPI 
+ 
+Vinculado? Sim Financiado? Sim Convênio: 
+CNPq 
+Área CNPq: 
+5.01.03.05-9: Ciências Agrárias - Agronomia - Melhoramento Vegetal Linha de Pesquisa: 
+GEN-001: Melhoramento Vegetal 
+Local de Execução: 
+Usinas e destilarias de Minas Gerais Data de Início: 
+01/03/01 Término Previsto: 
+04/04/05 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 10800 
+CNPq 9997,76 
+BOLSAS/FAPEMIG 51456 
+ Valor Total: 
+72253,76 Data de Registro: 
+01/08/02 Concluído? Não Data de Conclusão:. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / Cosme Damião Cruz - Integrante / Marcio Henrique Pereira Barbosa - Coordenador / Irlane Toledo Bastos - Integrante / Luiz Alexandre Peternelli - Integrante.
+2001 - 2004
+Análise multivariada AMMI e SREG BIPLOT aplicada à interação genótipos x ambientes
+Descrição: Projeto de Pesquisa número 50101351308
+Modalidade:MS Título: 
+Análise multivariada AMMI e SREG BIPLOT aplicada à interação genótipos x ambientes. 
+Palavras Chave: 
+Estabilidade/ Adaptabilidade/ Milho-pipoca Objetivos: 
+Avaliar as metodologias AMMI e SREG, comparando-as com outros modelos tradicionais com relação às suas capacidades de discriminação de genótipos com base em suas respostas diferenciais nos ambientes. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor Heraldo Namorato de Souza Estudante - Mestrado DFT 
+3º autor Cosme Damião Cruz DS DBG 
+4º autor Carlos Sigueyuki Sediyama PhD DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.05-9: Ciências Agrárias - Agronomia - Melhoramento Vegetal Linha de Pesquisa: 
+GEN-001: Melhoramento Vegetal 
+Local de Execução: 
+Viçosa/MG Data de Início: 
+15/08/01 Término Previsto: 
+31/07/03 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 17100 
+BOLSAS/CNPq 13765,88 
+ Valor Total: 
+30865,88 Data de Registro: 
+18/12/02 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Cosme Damião Cruz - Integrante / Carlos Sigueyuki Sediyama - Integrante / Heraldo Namorato de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2001 - 2004
+Aplicação de marcadores moleculares e morfológicos para caracterização, manutenção e melhoramento de milho.
+Descrição: Projeto de Pesquisa número 50105649894
+Modalidade:PA Título: 
+Aplicação de marcadores moleculares e morfológicos para caracterização, manutenção e melhoramento de milho. 
+Palavras Chave: 
+Marcadores Moleculares/ Milho/ Germoplasma/ DNA/ Fingerprint/ Grupos Heteróticos Objetivos: 
+Construir um banco de dados baseados na caracterização morfológica e molecular de milho que irá auxiliar no melhoramento e proteção legal de cultivares. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+3º autor Derly José Henriques da Silva DS DFT 
+4º autor Newton Portilho Carneiro PhD  
+5º autor Ramiro Vilela de Andrade MS  
+6º autor Isabel Regina Prazeres de Souza DS  
+ 
+Vinculado? Não Financiado? Sim Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/ Viçosa/ Capinópolis/Coimbra/Ponte Nova/MG Data de Início: 
+01/07/01 Término Previsto: 
+30/06/03 
+Fontes de Financiamento: Entidade Valor 
+PRODETAB 498845 
+ Valor Total: 
+498845 Data de Registro: 
+03/05/01 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Derly José Hernandes da Silva - Integrante / Newton Portilho Carneiro - Integrante / Claudia Teixeira  Guimrães - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Empresa Brasileira de Pesquisa Agropecuária - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2003
+Épocas e partição da aplicação de molibdênio via foliar na cultura do feijoeiro.
+Descrição: Projeto de Pesquisa número 50106451008
+Modalidade:DS Título: 
+Efeito dos níveis de molibdênio aplicado na folha sobre diversas características do feijoeiro. 
+Palavras Chave: 
+Phaseolus vulgaris L./ Conteúdo de Molibdênio/ Tamanho de Semente Objetivos: 
+Determinação da dose capaz de promover o acúmulo de Mo na semente do feijoeiro, em quantidade suficiente para próxima geração, bem como determinar a influência do tamanho da semente sobre o acúmulo desse nutriente na mesma e estabelecer o nível crítico do nutriente na folha e na semente. 
+Autores: Participação Nome Titulação Depto 
+1º autor Geraldo Antônio de Andrade Araújo DS DFT 
+2º autor Uberlando Tiburtino Leite Estudante - Doutorado DFT 
+3º autor Clibas Vieira DS DFT 
+4º autor Rogério Faria Vieira DS  
+5º autor Glauco Vieira Miranda DS DFT 
+6º autor Alexandre Cunha de Barcellos Ferreira DS  
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-006: Nutrição Mineral e Adubação de Plantas 
+Local de Execução: 
+Estação Experimental de Coimbra/MG Data de Início: 
+01/03/00 Término Previsto: 
+01/02/04 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 51436 
+ Valor Total: 
+51436 Data de Registro: 
+27/11/02 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / Geraldo Antônio Andrade de Araújo - Coordenador / Clibas Vieira - Integrante / Rogério Faria Vieira - Integrante / Alexandre Cunha de B Ferreira - Integrante / Uberlando Tiburtino Leite - Integrante.Número de produções C, T & A: 1
+2001 - 2003
+Formação de coleção núcleo de milho e avaliação de germoplasma visando tolerância a estresse de baixo fósforo.
+Descrição: Formação de uma coleção núcleo, identificação de grupos heteróticos e avaliação de genótipos em relação a estresse de baixo fósforo, a partir dos acessos pertencentes ao banco de germoplasma de milho da EMBRAPA Milho e Sorgo, Sete Lagoas/MG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Coordenador / Cosme Damião Cruz - Integrante / Ronaldo Rodrigues Coimbra - Integrante / Derly José Hernandes da Silva - Integrante.Número de produções C, T & A: 3
+2001 - 2003
+Controle genético do uso de nitrogênio pelo germoplasma de milho local e melhorado.
+Descrição: Determinar níveis de adubação e critérios de seleção que possibilitem a obtenção de híbridos de milho eficientes no uso de nitrogênio. Obter métodos agronômicos, bioquímicos ou fisiológicos para a avaliação de híbridos de milho para a eficiência de nitrogênio. Identificar híbridos de milho e sua respectiva variabilidade genética na eficiência do uso de nitrogênio para condições de baixos insumos (agricultura familiar) e eficientes no uso do nitrogênio para condições ótimas (agricultura empresarial).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Izabel Cristina dos Santos - Integrante / João Carlos Cardoso Galvão - Integrante / Rodrigo Ribeiro Fidelis - Integrante.Número de produções C, T & A: 1
+2001 - 2003
+Respostas de híbridos de milho superprecoce, precoce e normal à aplicação de nitrogênio no sistema plantio direto.
+Descrição: Verificar o efeito do parcelamento e da época de aplicação de nitrogênio em híbridos de milho superprecoce, precoce e normal no sistema plantio direto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Paulo Roberto Gomes Pereira - Integrante / Ernani Luiz Agnes - Integrante / Raimundo Nonato Carvalho Rocha - Integrante.Número de produções C, T & A: 1
+2001 - 2002
+Dinâmica populacional de plantas daninhas, propriedades físicas e químicas do solo e produtividade de milho e feijão nos sistemas de plantio direto e convencional.
+Descrição: Projeto de Pesquisa número 50101349583
+Modalidade:MS Título: 
+Influência dos sistemas de plantio sobre as culturas de milho e feijão, dinâmica populacional de plantas daninhas e propriedades físicas e químicas do solo. 
+Palavras Chave: 
+Plantio Direto/ Propriedades do Solo/ Plantas Daninhas Objetivos: 
+Comparar o sistema de plantio direto e preparo convencional para milho-silagem e milho-grão, em sucessão com a cultura do feijão, avaliando produtividade, propriedades do solo e dinâmica populacional de plantas daninhas, principalmente de tiririca. 
+Autores: Participação Nome Titulação Depto 
+1º autor Lino Roberto Ferreira DS DFT 
+2º autor Adriano Jaketaitis Estudante - Mestrado DFT 
+3º autor Antonio Alberto da Silva DS DFT 
+4º autor Ernani Luiz Agnes DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/11/00 Término Previsto: 
+01/11/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 17000 
+ Valor Total: 
+17000 Data de Registro: 
+31/10/00 Concluído? Sim Data de Conclusão: 
+03/08/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Antônio Alberto da Silva - Integrante / Lino Roberto Ferreira - Integrante / Adriano Jakelaitis - Integrante / Ernani Luiz Agnes - Integrante.Número de produções C, T & A: 1
+2001 - 2002
+Resposta do maracujazeiro amarelo (Passiflora edulis Sims. var. flavicarpa Degener) à irrigação e ao potássio.
+Descrição: Projeto de Pesquisa número 50309350037
+Modalidade:MS Título: 
+Resposta do maracujazeiro amarelo (Passiflora edulis Sims. var. flavicarpa Degener) à irrigação e ao potássio. 
+Palavras Chave: 
+Maracujazeiro Amarelo/ Irrigação/ Potássio Objetivos: 
+Avaliar a influência da irrigação e do potássio sobre a produtividade e qualidade físico-química dos frutos do maracujazeiro amarelo; avaliação da capacidade de recuperação do potencial produtivo do maracujazeiro amarelo subirrigado; e determinação da viabilidade econômica da cultura do maracujazeiro amarelo cultivado sob condições de fertirrigação. 
+Autores: Participação Nome Titulação Depto 
+1º autor Márcio Mota Ramos DS DEA 
+2º autor Gessionei da Silva Santana Estudante - Mestrado DEA 
+3º autor Antonio Alves Soares PhD DEA 
+4º autor Gilberto Bernardo de Freitas DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.03.02.01-9: Ciências Agrárias - Engenharia Agrícola - Irrigação e Drenagem Linha de Pesquisa: 
+DEA-009: Manejo de Água na Agricultura Irrigada 
+Local de Execução: 
+Visconde do Rio Branco/MG Data de Início: 
+01/03/01 Término Previsto: 
+30/04/02 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 16000 
+BOLSAS/CNPq 8700 
+ Valor Total: 
+24700 Data de Registro: 
+13/07/01 Concluído? Sim Data de Conclusão: 
+04/04/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Gessionei da Silva Santana - Integrante / Gilberto Bernades de Freitas - Integrante / Márcio Mota Ramos - Coordenador / Antonio Alves Soares - Integrante.Número de produções C, T & A: 1
+2000 - 2003
+Melhoramento de milho em condições de estresses abióticos.
+Descrição: Projeto de Pesquisa número 50105649167
+Modalidade:PA Título: 
+Melhoramento de milho em condições de estresses abióticos. 
+Palavras Chave: 
+Estresse Mineral/ Seleção/ Nitrogênio Objetivos: 
+A metodologia e os cultivares obtidos com o melhoramento genético do milho em condições de estresses abióticos devem ser específicas para estas condiçoes. Assim, os objetivos deste projeto são: 1) determinar as interrelações dos estresses nutricionais (P e N) e desenvolver e avaliar metodologias de seleção condições de estresses abióticos para programas de melhoramento de milho; 2) determinar a variabilidade genética de populações e linhagens de milho para condições de estresses abióticos; 3) identificar, por meios molecular e agronômico, novos grupos heteróticos e seus respectivos testadores para linhagens e populações de milho ampliando a base genética do germoplasma disponível para o Programa Milho UFV; 4) estimar os parâmetros genéticos de linhagens e suas respectivas populações em duas gerações. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+3º autor Roberto Ferreira de Novais PhD DPS 
+4º autor Cosme Damião Cruz DS DBG 
+5º autor Reinaldo Bertola Cantarutti DS DPS 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Viçosa/Coimba/MG Data de Início: 
+01/08/00 Término Previsto: 
+31/07/03 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22818,96 
+ Valor Total: 
+22818,96 Data de Registro: 
+24/05/01 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Cosme Damião Cruz - Integrante / João Carlos Cardoso Galvão - Integrante / Reinaldo Bertolla Cantarutti - Integrante / Roberto Ferreira  de Novaes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa / Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2000 - 2003
+Obtenção e seleção de linhagens e híbridos de milho eficientes no uso de nitrogênio.
+Descrição: Determinar níveis de adubação e critérios de seleção que possibilitem a obtenção de linhagens e híbridos de milho eficientes no uso de nitrogênio. Obter métodos agronômicos, bioquímicos ou fisiológicos para a avaliação de linhagens e híbridos de milho para a eficiência de nitrogênio. Identificar linhagens e híbridos de milho e sua respectiva variabilidade genética na eficiência do uso de nitrogênio para condições de baixos insumos (agricultura familiar) e eficientes no uso de nitrogênio e fósforo para condições ótimas (agricultura empresarial).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador.Número de produções C, T & A: 1
+2000 - 2002
+Efeitos imediatos e latentes da debulha e da classificação de sementes de milho-pipoca (Zea mays L.).
+Descrição: Projeto de Pesquisa número 50107350273
+Modalidade:MS Título: 
+Efeitos imediatos e latentes da debulha e da classificação de sementes de milho-pipoca (Zea mays L.). 
+Palavras Chave: 
+Milho-Pipoca/ Dano Mecânico/ Armazenamento Objetivos: 
+Avaliar o efeito da debulha e da classificação em tamanho de sementes de milho-pipoca sobre a sua qualidade fisiológica durante o armazenamento. 
+Autores: Participação Nome Titulação Depto 
+1º autor Eduardo Fontes Araújo DS DFT 
+2º autor Verônica Carneiro Estudante - Mestrado DFT 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Múcio Silva Reis DS DFT 
+5º autor João Carlos Cardoso Galvão DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-007: Produção e Tecnologia de Sementes 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/03/00 Término Previsto: 
+01/03/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CNPq 17436 
+ Valor Total: 
+17436 Data de Registro: 
+05/09/01 Concluído? Sim Data de Conclusão: 
+02/04/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / João Carlos Cardoso Galvão - Integrante / Eduardo Fontes Araújo - Coordenador / Verônica Carneiro - Integrante / Múcio Silva Reis - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Resposta do milho tratado com homeopatia à lagarta Spodoptera frugiperda.
+Descrição: Projeto de Pesquisa número 50110249148
+Modalidade:AP Título: 
+Resposta do milho tratado com homeopatia à lagarta Spodoptera frugiperda. 
+Palavras Chave: 
+Homeopatia/ Milho Doce (Zea mays L.)/ Lagarta-do-Cartucho do Milho (Spodoptera frugiperda) Objetivos: 
+A homeopatia é uma ciência iniciada pelo médico alemão Samuel Hahnemann. O Ministério da Agricultura aprovou os preparados homeopáticos como insumos agrícolas. O milho ocupa, hoje, no Brasil, a maior extensão da área cultivada dentre todos os produtos agrícolas. São fatores limitantes para o sucesso dessa cultura a ocorrência de pragas como a lagarta do cartucho Spodoptera frugiperda. A homeopatia promove o equilíbro e a harmonia da vida nos seres vivos, sendo que os medicamentos homeopáticos são preparados a partir de substâncias naturais, portanto, não há riscos de contaminação nem do homem nem da natureza. Os objetivos deste trabalho são avaliar os efeitos das homeopatias sobre o comportameno da lagarta Spodoptera frugiperda com relação a herbivoria das plantas de milho e observar a interação das homeopatias em ambientes já cultivados. 
+Autores: Participação Nome Titulação Depto 
+1º autor João Carlos Cardoso Galvão DS DFT 
+2º autor Glauco Vieira Miranda DS DFT 
+3º autor Vicente Wagner Dias Casali PhD DFT 
+4º autor Eraldo Rodrigues de Lima MS DBA 
+5º autor Ângela Alves de Almeida Graduado DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-010: Plantas Medicinais, Aromáticas e Homeopatia 
+Local de Execução: 
+UFV/Viçosa/MG Data de Início: 
+14/04/00 Término Previsto: 
+31/07/01 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22108 
+ Valor Total: 
+22108 Data de Registro: 
+12/05/00 Concluído? Sim Data de Conclusão: 
+31/07/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (1)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Vicente Wagner Dias Casali - Integrante / João Carlos Cardoso Galvão - Coordenador / Ângela Alves de Almeida - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Maturidade fisiológica de sementes de milho-pipoca (Zea mays L.).
+Descrição: Projeto de Pesquisa número 50107350653
+Modalidade:MS Título: 
+Maturidade fisiológica de sementes de milho-pipoca (Zea mays L.). 
+Palavras Chave: 
+Milho-Pipoca/ Maturação/ Qualidade de Sementes Objetivos: 
+Estudar e avaliar o processo de maturação de sementes de milho-pipoca, variedade DFT2, com a finalidade de determinar e caracterizar a época da maturidade fisiológica das sementes e de avaliar sua tolerância ao retardamento da colheita. 
+Autores: Participação Nome Titulação Depto 
+1º autor Eduardo Fontes Araújo DS DFT 
+2º autor Andréia Márcia Santos de Souza David Estudante - Mestrado DFT 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Denise Cunha Fernandes dos Santos Dias DS DFT 
+5º autor João Carlos Cardoso Galvão DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-007: Produção e Tecnologia de Sementes 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/08/00 Término Previsto: 
+01/08/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 17456 
+ Valor Total: 
+17456 Data de Registro: 
+09/05/02 Concluído? Sim Data de Conclusão: 
+22/11/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2000 - 2002
+Exsudação radicular do herbicida imazapyr em plantas de eucalipto cultivadas em hidroponia e em solo.
+Descrição: Projeto de Pesquisa número 50101349651
+Modalidade:MS Título: 
+Exsudação radicular do herbicida imazapyr em plantas de eucalipto cultivadas em hidroponia e em solo. 
+Palavras Chave: 
+Exsudação Radicular/ Chopper NA/ Controle de Brotação Objetivos: 
+Avaliar a exsudação radicular o imazapyr na aplicação "over the top" das mudas de Eucalyptus grandis, em cultivo hidropônico e em solo, e quando aplicado na região cambial de árvores da mesma espécie. 
+Autores: Participação Nome Titulação Depto 
+1º autor Lino Roberto Ferreira DS DFT 
+2º autor Carlos Magno Magalhães da Silva Estudante - Mestrado DFT 
+3º autor Francisco Affonso Ferreira DS DFT 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/02/00 Término Previsto: 
+01/02/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CNPq 17376 
+ Valor Total: 
+17376 Data de Registro: 
+27/11/00 Concluído? Sim Data de Conclusão: 
+01/03/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Lino Roberto Ferreira - Coordenador / Francisco Affonso Ferreira - Integrante / Carlos Magno Magalhães da Silva - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Interferência e controle de plantas daninhas na cultura de café (Coffea arabica L.).
+Descrição: Projeto de Pesquisa número 50101349750
+Modalidade:MS Título: 
+Interferência e controle de plantas daninhas na cultura de café (Coffea arabica L.). 
+Palavras Chave: 
+Commelina/ Herbicida/ Carfentrazone Objetivos: 
+Avaliar, em condições semicontroladas, a interferência sobre mudas de café causada por diversas espécies de plantas daninhas que ocorrem com maior freqüência em lavouras desta cultura no Brasil; avaliar, em condições semicontroladas, o efeito de misturas e de novos herbicidas (carfentrazone, ghyphosate potássico) no controle de Commelina difusa e Commelina benghalensis; avaliar o efeito do 2,4-D sobre o "vingamento" de frutos e produtividade do cafeeiro. 
+Autores: Participação Nome Titulação Depto 
+1º autor Antonio Alberto da Silva DS DFT 
+2º autor Cláudio Pogotto Ronchi Estudante - Mestrado DFT 
+3º autor Lino Roberto Ferreira DS DFT 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/03/00 Término Previsto: 
+01/02/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 17536 
+ Valor Total: 
+17536 Data de Registro: 
+16/02/01 Concluído? Sim Data de Conclusão: 
+15/03/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Antônio Alberto da Silva - Coordenador / Lino Roberto Ferreira - Integrante / Claudio Pagotto Ronchi - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Caracterização morfológica e agronômica de 36 acessos de Taro (Colocasia esculenta (L.) Schott) do banco de germoplasma de hortaliças da Universidade Federal de Viçosa.
+Descrição: Projeto de Pesquisa número 50109350274
+Modalidade:MS Título: 
+Caracterização morfológica e agronômica de 36 acessos de Taro (Colocasia esculenta (L.) Schott) do banco de germoplasma de hortaliças da Universidade Federal de Viçosa. 
+Palavras Chave: 
+Inhame/ Descritores/ Genótipos Objetivos: 
+Caracterizar, morfológica e agronomicamente, acessos de Taro do BGH/UFV de forma qualitativa e quantitativa, definindo um padrão para cada acesso. Avaliar a vida útil pós-colheita via quantificação das perdas de peso, brotação e degradação de amido. 
+Autores: Participação Nome Titulação Depto 
+1º autor Mário Puiatti DS DFT 
+2º autor Francisco Hevilásio Freire Pereira Estudante - Mestrado DFT 
+3º autor Derly José Henriques da Silva DS DFT 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/08/00 Término Previsto: 
+01/08/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CNPq 17436 
+ Valor Total: 
+17436 Data de Registro: 
+05/09/01 Concluído? Sim Data de Conclusão: 
+12/08/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Mario Puiatti - Coordenador / Derly José Hernandes da Silva - Integrante / Francisco Hevilásio Freire Pereira - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Avaliação do comportamento de milho na região sul do Estado de Mato Grosso com análises de estabilidade e adaptabilidade e utilização de técnicas multivariada
+Descrição: Projeto de Pesquisa número 50101448634
+Modalidade:DS Título: 
+Avaliação do comportamento de milho na região sul do Estado de Mato Grosso com análises de estabilidade e adaptabilidade e utilização de técnicas multivariada. 
+Palavras Chave: 
+Milho/ Comportamento/ Estabilidade Objetivos: 
+Avaliação do comportamento de genótipos de milho cultivados em sucessão às outras culturas, enfocando fatores de produtividade, resistência às pragas e doenças e a estabilidade e adaptabilidade; discriminação dos genótipos em diferentes ambientes, segundo metodologias de análises multivariada. 
+Autores: Participação Nome Titulação Depto 
+1º autor Antônio Américo Cardoso DS DFT 
+2º autor Devanir Mitsuyuki Murakami Estudante - Doutorado DFT 
+3º autor Cosme Damião Cruz DS DBG 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.05-9: Ciências Agrárias - Agronomia - Melhoramento Vegetal Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+Mato Grosso Data de Início: 
+01/03/00 Término Previsto: 
+01/03/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 51498,72 
+ Valor Total: 
+51498,72 Data de Registro: 
+07/06/99 Concluído? Sim Data de Conclusão: 
+13/11/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Cosme Damião Cruz - Integrante / Antônio Américo Cardoso - Coordenador / Devanir Mitsuyuki Murakami - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Efeito da chuva sobre a eficiência de controle de Brachiaria decumbens e Bidens pilosa por diferentes formulações de glifosate.
+Descrição: Projeto de Pesquisa número 50101350526
+Modalidade:MS Título: 
+Efeito da chuva sobre a eficiência de controle de Brachiaria decumbens e Bidens pilosa por diferentes formulações de glifosate. 
+Palavras Chave: 
+Sal potássico de N-(fosfonometil) glicina/ Sal de isopropilamina de N-(fosfonometil) glicina/ Sal de amônio de N-(fosfonometil) glicina Objetivos: 
+Avaliar os efeitos de doses crescentes dos diferentes sais de glifosate disponíveis no Brasil sobre as plantas de Brachiaria decumbens e Bidens pilosa, quando submetidas a diferentes intervalos sem chuva após a aplicação desses produtos. 
+Autores: Participação Nome Titulação Depto 
+1º autor Antonio Alberto da Silva DS DFT 
+2º autor Ricardo Câmara Werlang Estudante - Mestrado DFT 
+3º autor Lino Roberto Ferreira DS DFT 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/08/00 Término Previsto: 
+01/08/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 17346 
+ Valor Total: 
+17346 Data de Registro: 
+04/03/02 Concluído? Sim Data de Conclusão: 
+24/07/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Antônio Alberto da Silva - Integrante / Lino Roberto Ferreira - Integrante / Ricardo Câmara Werlang - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Uso de preparados homeopáticos no controle da lagarta-do-cartucho Spodoptera frugiperda (J. E. Smith, 1797) (Lepidoptera: Noctuidae) em plantas de milho.
+Descrição: Projeto de Pesquisa número 50110350625
+Modalidade:MS Título: 
+Uso de preparados homeopáticos no controle da lagarta-do-cartucho Spodoptera frugiperda (J. E. Smith, 1797) (Lepidoptera: Noctuidae) em plantas de milho. 
+Palavras Chave: 
+Homeopatia/ Milho (Zea mays L.)/ Lagarta-do-Cartucho Spodoptera frugiperda Objetivos: 
+Avaliar os efeitos da homeopatia sobre o comportamento da lagarta-do-cartucho Spodoptera frugiperda (J. E. Smith, 1797) (Lepidoptera: Noctuidae) com relação ao consumo e oviposição em plantas de milho. Observar a interação e a sustentabilidade da homeopatia em ambientes já cultivados. 
+Autores: Participação Nome Titulação Depto 
+1º autor João Carlos Cardoso Galvão DS DFT 
+2º autor Ângela Alves de Almeida Estudante - Mestrado DFT 
+3º autor Vicente Wagner Dias Casali PhD DFT 
+4º autor Glauco Vieira Miranda DS DFT 
+5º autor Eraldo Rodrigues de Lima DS DBA 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-010: Plantas Medicinais, Aromáticas e Homeopatia 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/08/00 Término Previsto: 
+31/08/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 17376 
+ Valor Total: 
+17376 Data de Registro: 
+22/04/02 Concluído? Sim Data de Conclusão: 
+25/10/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Vicente Wagner Dias Casali - Integrante / João Carlos Cardoso Galvão - Coordenador / Ângela Alves de Almeida - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Influência dos sistemas de plantio sobre as culturas de milho e feijão, dinâmica populacional de plantas daninhas e propriedades físicas e químicas do solo.
+Descrição: Projeto de Pesquisa número 50101349583
+Modalidade:MS Título: 
+Influência dos sistemas de plantio sobre as culturas de milho e feijão, dinâmica populacional de plantas daninhas e propriedades físicas e químicas do solo. 
+Palavras Chave: 
+Plantio Direto/ Propriedades do Solo/ Plantas Daninhas Objetivos: 
+Comparar o sistema de plantio direto e preparo convencional para milho-silagem e milho-grão, em sucessão com a cultura do feijão, avaliando produtividade, propriedades do solo e dinâmica populacional de plantas daninhas, principalmente de tiririca. 
+Autores: Participação Nome Titulação Depto 
+1º autor Lino Roberto Ferreira DS DFT 
+2º autor Adriano Jaketaitis Estudante - Mestrado DFT 
+3º autor Antonio Alberto da Silva DS DFT 
+4º autor Ernani Luiz Agnes DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/11/00 Término Previsto: 
+01/11/02 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 17000 
+ Valor Total: 
+17000 Data de Registro: 
+31/10/00 Concluído? Sim Data de Conclusão: 
+03/08/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Antônio Alberto da Silva - Integrante / Lino Roberto Ferreira - Integrante / Adriano Jakelaitis - Integrante.Número de produções C, T & A: 1
+2000 - 2002
+Identificação de fontes de resistência aos enfezamentos causados por molicutes em milho.
+Descrição: Projeto de Pesquisa número 50105350235
+Modalidade:MS Título: 
+Identificação de fontes de resistência aos enfezamentos causados por molicutes em milho. 
+Palavras Chave: 
+Enfezamentos/ Resistência/ Milho Objetivos: 
+Diante da importância dos enfezamentos como fator limitante da produção de milho nos plantios "safrinha" e da carência de informações na literatura no tocante aos enfezamentos em relação a germoplasmas tropicais nos estudos genéticos relacionados com a resistência a essas doenças e o desenvolvimento de métodos de seleção em milho para elevar a resistência aos enfezamentos com a síntese de populações resistentes é de extrema importância para gerar conhecimentos que poderão ser utilizados em futuras pesquisas e o lançamento de cultivares resistentes aos enfezamentos que podem garantir o sucesso dos plantios "safrinha". 
+Autores: Participação Nome Titulação Depto 
+1º autor João Carlos Cardoso Galvão DS DFT 
+2º autor Ricardo Gonçalves Silva Estudante - Mestrado DFT 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Elizabeth de Oliveira DS  
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+DFT/UFV/EMBRAPA/CNPMS Data de Início: 
+01/03/2000 Término Previsto: 
+01/02/2002 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/FAPEMIG 17376 
+ Valor Total: 
+17376 Data de Registro: 
+08/08/2001 Concluído? Sim Data de Conclusão: 
+02/04/2002. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / João Carlos Cardoso Galvão - Coordenador / Ricardo Gonçalves Silva - Integrante / Elizabeth de Oliveira - Integrante.Número de produções C, T & A: 1
+2000 - 2001
+Efeito da irrigação e de diferentes doses de nitrogênio sobre a taxa de florescimento, frutificação e qualidade físico-química do fruto do maracujazeiro amarelo.
+Descrição: Projeto de Pesquisa número 50336349530
+Modalidade:MS Título: 
+Efeito da irrigação e de diferentes doses de nitrogênio sobre a taxa de florescimento, frutificação e qualidade físico-química do fruto do maracujazeiro amarelo. 
+Palavras Chave: 
+Marcujazeiro/ Irrigação/ Adubação Nitrogenada Objetivos: 
+Determinar a função de produção do maracujazeiro em relação aos níveis de irrigação e doses de adubação nitrogenada, na região da zona da mata mineira; determinar a viabilidade técnica e econômica da irrigação, na zona da mata mineira, para o maracujazeiro amarelo; avaliar a influência da irrigação e da adubação nitrogenada na taxa de florescimento, frutificação e qualidade físico-química do maracujazeiro amarelo. 
+Autores: Participação Nome Titulação Depto 
+1º autor Antonio Alves Soares PhD DEA 
+2º autor Marcus Alexandre Nakashima de Melo Estudante - Mestrado DEA 
+3º autor Everardo Chartuni Mantovani DS DEA 
+4º autor Gilberto Bernardo de Freitas DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Sim Convênio: 
+ 
+Área CNPq: 
+5.03.02.00-0: Ciências Agrárias - Engenharia Agrícola - Engenharia de Água e Solo Linha de Pesquisa: 
+DEA-036: Ciência da Irrigação 
+Local de Execução: 
+Fazenda Experimental da Sementeira/UFV Data de Início: 
+05/01/00 Término Previsto: 
+28/02/01 
+Fontes de Financiamento: Entidade Valor 
+FAPEMIG 31131 
+SALÁRIOS 16000 
+ Valor Total: 
+47131 Data de Registro: 
+18/09/00 Concluído? Sim Data de Conclusão: 
+28/06/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Gilberto Bernades de Freitas - Integrante / Antonio Alves Soares - Coordenador / Everardo Charturi Mantovani - Integrante / Marcus Alexandre Nakashima de Melo - Integrante.Número de produções C, T & A: 1
+2000 - 2001
+Depressão endogâmica e erosão genética de cultivares de milho.
+Descrição: Projeto de Pesquisa número 50105649186
+Modalidade:PA Título: 
+Depressão endogâmica e erosão genética de cultivares de milho. 
+Palavras Chave: 
+Melhoramento Genético/ Milho/ Depressão Endogâmica Objetivos: 
+Os produtores de milho da região de Viçosa reaproveitam as sementes de milho híbrido de um ano para o outro. Este fato apresenta a desvantagem de reduzir ainda mais as baixas produtividades, devido a endogamia, e causa erosão genética pela substituição dos cultivares locais pelos modernos. Por outro lado, o reaproveitamento das sementes apresenta a vantagem destes cultivares modernos cruzarem com os locais e crioulas produzindo novos cultivares locais. Os objetivos deste projeto são quantificar as perdas na produtividade devido ao reaproveitamento de sementes (sementes de paiol), oriundas de híbridos comerciais; quantifica a depressão endogâmica em cultivares locais; verificar a existência de novas variedades locais; e comparar o comportamento produtivo de variedades crioulas, locais e comerciais. Serão avaliados oito híbridos comerciais, oito híbridos comerciais autofecundados (sementes já disponíveis), doze variedades de paiol e oito variedades crioulas. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+3º autor Eduardo Fontes Araújo DS DFT 
+4º autor Eny do Carmo Silva Estudante - Graduação DFT 
+5º autor Fernanda Fátima Caniato Estudante - Graduação DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Viçosa/Coimbra/MG Data de Início: 
+01/08/00 Término Previsto: 
+31/07/01 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22818,96 
+ Valor Total: 
+22818,96 Data de Registro: 
+18/05/00 Concluído? Sim Data de Conclusão: 
+31/07/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Eny do Carmo Silva - Integrante / João Carlos Cardoso Galvão - Coordenador / Fernanda Fátima Caniato - Integrante / Eduardo Fontes Araújo - Integrante.Número de produções C, T & A: 1
+1999 - 2002
+Desenvolvimento de populações de milho eficientes no uso de nitrogênio e tolerantes à seca.
+Descrição: Projeto de Pesquisa número 50105648869
+Modalidade:PA Título: 
+Desenvolvimento de populações de milho eficientes no uso de nitrogênio e tolerantes à seca. 
+Palavras Chave: 
+Melhoramento Vegetal/ Milho/ Estresse Abiótico Objetivos: 
+Identificar os melhores cultivares para o sistema produtivo de baixos insumos; obter uma cultivar de milho comum que seja eficiente no uso de nitrogênio e tolerante à seca; obter, por meio de ciclos sucessivos de seleção, populações ou compostos eficientes no uso de nitrogênio e tolerante à seca que, posteriormente, sejam úteis para extração de linhagens; identificar estratégias e metodologias de seleção eficientes em condições de estresse; comparar metodologias de seleção em condições de estresse e sem estresse; avaliar a eficiência da seleção direta e indireta de características secundárias no aumento da produção; avaliar delineamentos estatísticos para as condições de estresse; avaliar a endogamia, a heterose e a capacidade de combinação dos cultivares; obter o cultivar com base nos princípios da agricultura sustentável; diminuir o risco da fome no meio rural; diminuir a erosão genética causada pela perda dos cultivares locais. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+3º autor Geraldo Antônio de Andrade Araújo DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Viçosa/Coimbra Data de Início: 
+01/10/99 Término Previsto: 
+30/09/02 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22818,96 
+ Valor Total: 
+22818,96 Data de Registro: 
+18/05/01 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Geraldo Antônio Andrade de Araújo - Integrante / João Carlos Cardoso Galvão - Integrante.
+1999 - 2002
+Plasticidade fenotípica, interação genótipo x ambiente e caracterização morfoisozimática em acessos de Eclipta alba (L.) Hassk.
+Descrição: Projeto de Pesquisa número 20201448751
+Modalidade:DS Título: 
+Plasticidade fenotípica, interação genótipo x ambiente e caracterização morfoisozimática em acessos de Eclipta alba (L.) Hassk. 
+Palavras Chave: 
+Plasticidade Fenotípica/ Eclipta alba/ Plantas Medicinais Objetivos: 
+Analisar as alterações morfoisozimáticas; estudar as interações genótipo x ambiente; determinar a plasticidade fenotípica. 
+Autores: Participação Nome Titulação Depto 
+1º autor Vicente Wagner Dias Casali PhD DFT 
+2º autor Nair Bizão Estudante - Doutorado DFT 
+3º autor Fernando Luiz Finger PhD DFT 
+4º autor Luiz Cláudio de Almeida Barbosa PhD DEQ 
+5º autor Glauco Vieira Miranda DS DFT 
+6º autor Paulo Roberto Cecon DS DPI 
+ 
+Vinculado? Sim Financiado? Não Convênio: 
+FUNARBE 1713 
+Área CNPq: 
+2.02.03.00-4: Ciências Biológicas - Genética - Genética Vegetal Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+Viçosa/MG Data de Início: 
+01/08/99 Término Previsto: 
+31/12/02 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 39299,32 
+BOLSAS/PICD 33287,8 
+ Valor Total: 
+72587,12 Data de Registro: 
+14/06/02 Concluído? Sim Data de Conclusão: 
+17/07/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Glauco Vieira Miranda - Integrante / Vicente Wagner Dias Casali - Coordenador / Fernando Luiz Finger - Integrante / Paulo Roberto Cecon - Integrante / Nair Bizão - Integrante.
+1999 - 2002
+Potencial do Ethyl-Trinexapac como regulador de crescimento e de florescimento em grama-batatais (Paspalum-notatum Fluegge).
+Descrição: Projeto de Pesquisa número 50101349907
+Modalidade:MS Título: 
+Potencial do Ethyl-Trinexapac como regulador de crescimento e de florescimento em grama-batatais (Paspalum-notatum Fluegge). 
+Palavras Chave: 
+Gramado/ Poda/ Florescimento Objetivos: 
+Eficiência do Ethyl-Trinexapac como regulador de crescimento vegetativo e florescimento em grama-batatais. 
+Autores: Participação Nome Titulação Depto 
+1º autor Lino Roberto Ferreira DS DFT 
+2º autor Francisco Cláudio Lopes de Freitas Estudante - Mestrado DFT 
+3º autor José Geraldo Barbosa DS DFT 
+4º autor Antonio Alberto da Silva DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/04/99 Término Previsto: 
+01/08/01 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 15212,64 
+ Valor Total: 
+15212,64 Data de Registro: 
+15/05/01 Concluído? Sim Data de Conclusão: 
+01/03/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Antônio Alberto da Silva - Integrante / Lino Roberto Ferreira - Coordenador / Francisco Affonso Ferreira - Integrante / Francisco Cláudio Lopes de Freitas - Integrante.Número de produções C, T & A: 1
+1999 - 2001
+Adaptabilidade e estabilidade de cultivares de milho-pipoca.
+Descrição: Projeto de Pesquisa número 50109349734
+Modalidade:MS Título: 
+Adaptabilidade e estabilidade de cultivares de milho-pipoca. 
+Palavras Chave: 
+Adaptabilidade/ Estabilidade/ Milho-Pipoca Objetivos: 
+Determinar a época ideal para o plantio do milho-pipoca na região de Viçosa, Minas Gerais; identificar a adaptabilidade e estabilidade dos cultivares; determinar a existência da interação época x cultivar. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor Hélber Veras Nunes Estudante - Mestrado DFT 
+3º autor João Carlos Cardoso Galvão DS DFT 
+4º autor Roberto de Aquino Leite DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+Estação Experimental de Coimbra/MG Data de Início: 
+01/08/99 Término Previsto: 
+01/08/01 
+Fontes de Financiamento: Entidade Valor 
+BOLSAS/CAPES 17356 
+ Valor Total: 
+17356 Data de Registro: 
+06/02/01 Concluído? Sim Data de Conclusão: 
+15/02/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / HELBER VERAS NUNES - Integrante / Roberto de Aquino Leite - Integrante.Número de produções C, T & A: 1
+1999 - 2001
+Crescimento, horário de colheita, composição do óleo essencial, teores de óleo e de tanino em Porophyllum ruderale (Jacq.) Cassini.
+Descrição: Projeto de Pesquisa número 50110349535
+Modalidade:MS Título: 
+Crescimento, horário de colheita, composição do óleo essencial, teores de óleo e de tanino em Porophyllum ruderale (Jacq.) Cassini. 
+Palavras Chave: 
+Plantas Medicinais/ Princípios Ativos/ Couve Cravinho Objetivos: 
+Quantificar o crescimento, as produções de óleo e de tanino; determinar o melhor horário de colheita e a composição do óleo essencial. 
+Autores: Participação Nome Titulação Depto 
+1º autor Vicente Wagner Dias Casali PhD DFT 
+2º autor Máira Christina Marques Fonseca Estudante - Mestrado DFT 
+3º autor Luiz Cláudio de Almeida Barbosa PhD DEQ 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Sim Financiado? Não Convênio: 
+FUNARBE CONV.1609/95 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-010: Plantas Medicinais, Aromáticas e Homeopatia 
+Local de Execução: 
+Viçosa-MG Data de Início: 
+01/08/99 Término Previsto: 
+31/08/01 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22818,96 
+BOLSAS/CAPES 17376 
+ Valor Total: 
+40194,96 Data de Registro: 
+11/07/01 Concluído? Sim Data de Conclusão: 
+01/08/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Vicente Wagner Dias Casali - Coordenador / Luiz Cláudio de Almeida Barbosa - Integrante / Máira Christina Marques Fonseca - Integrante.Número de produções C, T & A: 1
+1999 - 2001
+Crescimento e vigor de sementes de alfacae e pimentão tratadas com as homeopatias phosphorus e kalium phosphoricum.
+Descrição: Projeto de Pesquisa número 50110148532
+Modalidade:IC Título: 
+Crescimento e vigor de sementes de alfacae e pimentão tratadas com as homeopatias phosphorus e kalium phosphoricum. 
+Palavras Chave: 
+Sementes/ Hortaliças/ Homeopatia Objetivos: 
+Determinar os efeitos da homeopatia na germinação de alface e pimentão; determinar as dinamizações que exercem influência na germinação; quantificar o efeito da homeopatia na expressão do vigor das sementes. 
+Autores: Participação Nome Titulação Depto 
+1º autor Vicente Wagner Dias Casali PhD DFT 
+2º autor Emiliano Henriques Estudante - Graduação DFT 
+3º autor Eveline Mantovani Alvarenga MS DFT 
+4º autor Denise Cunha Fernandes dos Santos Dias DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Sim Financiado? Sim Convênio: 
+CEE 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-010: Plantas Medicinais, Aromáticas e Homeopatia 
+Local de Execução: 
+Viçosa/MG Data de Início: 
+15/06/99 Término Previsto: 
+01/03/01 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 25988,26 
+CEE - CENTRO DE ENSINO E EXTEN 958 
+ Valor Total: 
+26946,26 Data de Registro: 
+27/05/99 Concluído? Sim Data de Conclusão: 
+01/03/01. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Vicente Wagner Dias Casali - Coordenador / Denise Cunha Fernandes dos Santos Dias - Integrante / Emiliano Henriques - Integrante / Eveline Mantovani Alvarenga - Integrante.
+1999 - 2000
+Espécies, clima e mecanismos de produção em consórcio de olerícolas
+Descrição: Projeto de Pesquisa número 50109148473
+Modalidade:IC Título: 
+Espécies, clima e mecanismos de produção em consórcio de olerícolas. 
+Palavras Chave: 
+Consórcios/ Clima/ Mecanismos de Produção Objetivos: 
+Estudar o crescimento, desenvolvimento e produção de olerícolas em consórcio; levantar indicadores dos mecanismos de produção envolvidos no desempenho dos consórcios; estudar os efeitos das condições climáticas sobre o desempenho dos consórcios. 
+Autores: Participação Nome Titulação Depto 
+1º autor Ricardo Henrique Silva Santos DS DFT 
+2º autor Kalil Siqueira da Luz Estudante - Graduação DFT 
+3º autor Mário Puiatti DS DFT 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/09/99 Término Previsto: 
+30/09/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 10080 
+ Valor Total: 
+10080 Data de Registro: 
+25/05/99 Concluído? Sim Data de Conclusão: 
+30/09/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Mario Puiatti - Integrante / Ricardo Henrique Silva Santos - Coordenador / Kalil Siqueira da Luz - Integrante.
+1998 - 2005
+Introdução e avaliação de germoplasma de milho para condições estresses abióticos.
+Descrição: Projeto de Pesquisa número 50105648133
+Modalidade:PA Título: 
+Introdução e avaliação de germoplasma de milho para condições estresses abióticos. 
+Palavras Chave: 
+Melhoramento Genético/ Milho/ Genética/ Estresse Mineral/ Estresse Climático/ Nitrogênio Objetivos: 
+Identificar materiais adaptados às condições edafoclimáticas das áreas com estresses abióticos; obter informações do comportamento produtivo e fitossanitário de cultivares visando a recomendação e a identificação de progenitores para formar novos cultivares. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+3º autor João Carlos Cardoso Galvão DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+Viçosa/Coimbra/Ponte Nova/MG Data de Início: 
+01/10/98 Término Previsto: 
+30/09/03 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 8776,8 
+ Valor Total: 
+8776,8 Data de Registro: 
+27/04/01 Concluído? Não Data de Conclusão:. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante.
+1998 - 2003
+Obtenção e avaliação de híbridos de milho para condições de estresses abióticos.
+Descrição: Projeto de Pesquisa número 50105648359
+Modalidade:PA Título: 
+Obtenção e avaliação de híbridos de milho para condições de estresses abióticos. 
+Palavras Chave: 
+Melhoramento Genético/ Milho/ Híbridos/ Estresse Mineral/ Estresse Climático Objetivos: 
+Escolher genitores para a formação de uma população-base de milho comum, a qual será utilizada em programas de melhoramento. Utilizando-se os resultados da análise dialélica, será estimada a capacidade geral de combinação de cinco populações de milho, a heterose em híbridos intervarietais e a depressão endogâmica em cada população. As populações que apresentarem maior complementação gênica, menor concentração de genes deletérios e maior valor genético aditivo serão escolhidas para o programa de melhoramento para tolerância ao baixo N. Além disso, as populações serão combinadas para a formação de compostos para estresses abitóticos (baixo N e insumos). 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Viçosa/Coimbra/MG Data de Início: 
+01/08/98 Término Previsto: 
+31/07/03 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22818,96 
+ Valor Total: 
+22818,96 Data de Registro: 
+27/04/01 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante.
+1998 - 2003
+Avaliação de variedades de milho pipoca em diferentes épocas de semeadura na Zona da Mata de Minas Gerais.
+Descrição: Projeto de Pesquisa número 50105648240
+Modalidade:PA Título: 
+Avaliação de variedades de milho pipoca em diferentes épocas de semeadura na Zona da Mata de Minas Gerais. 
+Palavras Chave: 
+Melhoramento Genético/ Milho/ Época de Plantio Objetivos: 
+Adquirir informações do comportamento de cultivares de milho pipoca nas condições edafoclimáticas na região de Viçosa/MG. Introduzir uma nova cultura que tenha um alto grau de rendimento econômico e baixo custo de produção. Obter informações sobre possíveis progenitores para o programa de melhoramento. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+3º autor Geraldo Antônio de Andrade Araújo DS DFT 
+4º autor Anderson Afonso Doná Estudante - Graduação  
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Viçosa/MG Data de Início: 
+01/08/98 Término Previsto: 
+31/07/03 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 8776 
+ Valor Total: 
+8776 Data de Registro: 
+28/06/02 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Geraldo Antônio Andrade de Araújo - Integrante / João Carlos Cardoso Galvão - Integrante / Anderson Afonso Doná - Integrante.Número de produções C, T & A: 1
+1998 - 2002
+Melhoramento genético do milho pipoca em Minas Gerais.
+Descrição: Projeto de Pesquisa número 50105648152
+Modalidade:PA Título: 
+Melhoramento genético do milho pipoca em Minas Gerais. 
+Palavras Chave: 
+Melhoramento Genético/ Milho/ Genética Objetivos: 
+Obter populações para início do programa de melhoramento, estimar parâmetros genéticos; estudar a divergência genética e a capacidade produtiva; avaliar a capacidade combinatória; melhoramento intrapopulacional para a capacidade de expansão. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor Cosme Damião Cruz DS DBG 
+3º autor João Carlos Cardoso Galvão DS DFT 
+4º autor José Marcelo Soriano Viana DS DBG 
+5º autor Geraldo Antônio de Andrade Araújo DS DFT 
+6º autor Pedro Crescêncio de Souza Carneiro DS DBG 
+ 
+Vinculado? Não Financiado? Sim Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Viçosa/Coimbra/Ponte Nova/Mg Data de Início: 
+01/08/98 Término Previsto: 
+31/12/02 
+Fontes de Financiamento: Entidade Valor 
+FAPEMIG 24000 
+ Valor Total: 
+24000 Data de Registro: 
+16/05/01 Concluído? Não Data de Conclusão:. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Cosme Damião Cruz - Integrante / João Carlos Cardoso Galvão - Integrante / José Marcelo Soriano Viana - Integrante / Pedro Crescêncio de Souza Carneiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+1998 - 2002
+Influência da temperatura e do filme plástico sobre a conservação pós-colheita de espigas de milho-verde de dois híbridos.
+Descrição: Projeto de Pesquisa número 50103348667
+Modalidade:MS Título: 
+Influência da temperatura e do filme plástico sobre a conservação pós-colheita de espigas de milho-verde de dois híbridos. 
+Palavras Chave: 
+Pós-Colheita/ Híbridos/ Milho-Verde Objetivos: 
+Avaliar o comportamento pós-colheita dos híbridos DINA e AG 1051 (ambos recomendados para milho-verde), avaliando-se a perda de água, as modificações nos terores de açúcares nos grãos, o efeito da temperatura e diferentes embalagens no armazenamento das espigas. 
+Autores: Participação Nome Titulação Depto 
+1º autor João Carlos Cardoso Galvão DS DFT 
+2º autor Ricardo Figueiredo Braz Estudante - Mestrado DFT 
+3º autor Fernando Luiz Finger PhD DFT 
+4º autor Glauco Vieira Miranda DS DFT 
+5º autor Mário Puiatti DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-003: Fisiologia e Manejo Pós-Colheita de Produtos Hortícolas 
+Local de Execução: 
+UFV Data de Início: 
+01/03/98 Término Previsto: 
+01/02/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 33600 
+BOLSAS/CNPq 17378 
+ Valor Total: 
+50978 Data de Registro: 
+05/07/99 Concluído? Sim Data de Conclusão: 
+04/04/02. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Ricardo Figueiredo Braz - Integrante / Mario Puiatti - Integrante.Número de produções C, T & A: 1
+1998 - 2001
+Avaliação de famílias de meios-irmãos da população DFT-1 ribeirão de milho pipoca.
+Descrição: Projeto de Pesquisa número 50105348685
+Modalidade:MS Título: 
+Avaliação de famílias de meios-irmãos da população DFT-1 ribeirão de milho pipoca. 
+Palavras Chave: 
+Seleção Recorrente/ Milho Pipoca/ Meios-Irmãos Objetivos: 
+Estimar componentes de variância genética e ambiental na população DFT-1 ribeirão de milho pipoca, para selecionar famílias de meios-irmãos que poderão proporcionar um maior ganho de seleção no programa de melhoramento. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor Ronaldo Rodrigues Coimbra Estudante - Mestrado DFT 
+3º autor João Carlos Cardoso Galvão DS DFT 
+4º autor Cosme Damião Cruz DS DBG 
+5º autor José Marcelo Soriano Viana DS DBG 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+Coimbra/MG/UFV Data de Início: 
+01/01/1998 Término Previsto: 
+01/12/1999 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 1129,3 
+ Valor Total: 
+1129,3 Data de Registro: 
+13/07/1999 Concluído? Sim Data de Conclusão: 
+11/02/2000. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Cosme Damião Cruz - Integrante / João Carlos Cardoso Galvão - Integrante / José Marcelo Soriano Viana - Integrante / Ronaldo Rodrigues Coimbra - Integrante.Número de produções C, T & A: 1
+1998 - 2000
+Avaliação de famílias S2 da população Nitroflint de milho comum.
+Descrição: Projeto de Pesquisa número 50105648358
+Modalidade:PA Título: 
+Avaliação de famílias S2 da população Nitroflint de milho comum. 
+Palavras Chave: 
+Melhoramento Genético/ Milho/ Nitrogênio Objetivos: 
+A cultura do milho nesta região destaca-se como a 14ª de maior destaque no Brasil em termos de importância da cultura para a propriedade rural. No entanto, os produtores de milho não utilizam a adubação de cobertura com nitrogênio em níveis adequados para aumentar o rendimento por área. O presente trabalho tem por objetivo obter uma cultivar de milho comum que seja bastante eficiente na transferência de nitrogênio absorvido para os grãos. Além disso, pretende-se que este novo cultivar seja adequado à agricultura sustentável, como se pretende implementar na região por meio de plantio direto entre outras medidas fitotécnicas. A nova variedade vai ser obtida por meio de seleção entre e dentro de famílias S2 da população Nitroflint considerada eficiente na absorção e transferência de nitrogênio. 
+Autores: Participação Nome Titulação Depto 
+1º autor Glauco Vieira Miranda DS DFT 
+2º autor João Carlos Cardoso Galvão DS DFT 
+3º autor Geraldo Antônio de Andrade Araújo DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-005: Melhoramento de Plantas e Biotecnologia 
+Local de Execução: 
+UFV/Viçosa/Coimbra Data de Início: 
+01/08/98 Término Previsto: 
+31/07/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22818,96 
+ Valor Total: 
+22818,96 Data de Registro: 
+17/03/99 Concluído? Sim Data de Conclusão: 
+31/07/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Geraldo Antônio Andrade de Araújo - Integrante / João Carlos Cardoso Galvão - Integrante.
+1998 - 2000
+Influência da aplicação de dois polímeros hidroabosorventes sobre a retenção de água em dois tipos de solos.
+Descrição: Projeto de Pesquisa número 50336349402
+Modalidade:MS Título: 
+Influência da aplicação de dois polímeros hidroabosorventes sobre a retenção de água em dois tipos de solos. 
+Palavras Chave: 
+Condicionador de Solo/ Curva de Retenção/ Polímero Hidroabsorvente Objetivos: 
+Avaliar a influência de dois polímeros hidroabsorventes na retenção de água de dois tipos de solos. 
+Autores: Participação Nome Titulação Depto 
+1º autor Rubens Alves de Oliveira DS DEA 
+2º autor Lucimar Silva Rezende Estudante - Mestrado DEA 
+3º autor Mauro Aparecido Martinez PhD DEA 
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.03.02.00-0: Ciências Agrárias - Engenharia Agrícola - Engenharia de Água e Solo Linha de Pesquisa: 
+DEA-036: Ciência da Irrigação 
+Local de Execução: 
+DEA/UFV Data de Início: 
+01/08/98 Término Previsto: 
+31/07/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 15400 
+ Valor Total: 
+15400 Data de Registro: 
+04/08/00 Concluído? Sim Data de Conclusão: 
+30/11/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Lucimar Rodrigues Oliveira - Integrante / Rubens Alves de Oliveira - Coordenador / Mauro Aparecido Martinez - Integrante.Número de produções C, T & A: 1
+1998 - 2000
+Caracterização e competição entre linhagens de Catimor (Coffea arabica L.).
+Descrição: Projeto de Pesquisa número 50109348816
+Modalidade:MS Título: 
+Caracterização e competição entre linhagens de Catimor (Coffea arabica L.). 
+Palavras Chave: 
+Café/ Melhoramento Genético/ Descritores Objetivos: 
+Realizar competição de linhagens quanto à produção; determinar correlação entre caracteres e avaliar os descritores morfológicos utilizados. 
+Autores: Participação Nome Titulação Depto 
+1º autor Ney Sussumu Sakiyama PhD DFT 
+2º autor Liv Soares Severino Estudante - Mestrado DFT 
+3º autor Antonio Alves Pereira DS  
+4º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+Martins Soares/MG Data de Início: 
+01/03/98 Término Previsto: 
+01/02/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 28800 
+BOLSAS/CNPq 17388 
+ Valor Total: 
+46188 Data de Registro: 
+24/09/99 Concluído? Sim Data de Conclusão: 
+27/03/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Liv Soares Severino - Integrante / Antônio Alves Pereira - Integrante / Ney Sussumu Sakiyama - Integrante.Número de produções C, T & A: 1
+1998 - 2000
+Crescimento e produção de dois clones de mandioquinha-salsa (Arracacia xanthorrhiza Bracroft) em função de tipo de muda, pré-enraizamento e época de cultivo.
+Descrição: Projeto de Pesquisa número 50109348999
+Modalidade:MS Título: 
+Crescimento e produção de dois clones de mandioquinha-salsa (Arracacia xanthorrhiza Bracroft) em função de tipo de muda, pré-enraizamento e época de cultivo. 
+Palavras Chave: 
+Arracacia/ Mandioquinha-Salsa/ Pré-Enraizamento Objetivos: 
+Avaliar o crescimento e rendimento de dois clones de mandioquinha-salsa utilizando diferentes tipos de mudas, com ou sem pré-enraizamento, em épocas distintas de plantio. 
+Autores: Participação Nome Titulação Depto 
+1º autor Mário Puiatti DS DFT 
+2º autor Ramon Emilio Gil Leblanc Estudante - Mestrado DFT 
+3º autor Maria Aparecida Nogueira Sediyama DS  
+4º autor Fernando Luiz Finger PhD DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-009: Técnicas Culturais 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/08/98 Término Previsto: 
+01/08/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 30429,28 
+BOLSAS/EXTERIOR 64800 
+ Valor Total: 
+95229,28 Data de Registro: 
+01/02/00 Concluído? Sim Data de Conclusão: 
+14/12/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Fernando Luiz Finger - Integrante / Maria Aparecida Nogueira Sediyama - Integrante / Ramon Emilio Gil Leblanc - Integrante / Mário Puiatti - Coordenador.Número de produções C, T & A: 1
+1997 - 2001
+Potencial alelopático do sorgo (Sorghum bicolor L.) sobre a Brachiaria brizantha.
+Descrição: Projeto de Pesquisa número 50101348095
+Modalidade:MS Título: 
+Potencial alelopático do sorgo (Sorghum bicolor L.) sobre a Brachiaria brizantha. 
+Palavras Chave: 
+Alelopatia/ Sorgo (Sorghum bicolor L.)/ Sorgoleona Objetivos: 
+Coleta e quantificação dos exsudatos radiculares do sorgo; avaliar efeitos alelopáticos do sorgo sobre a Brachiaria em laboratório (placas de petri) e casa de vegetação (cultivo hidropônico); verificar influência da palhada do sorgo sobre a Brachiaria. 
+Autores: Participação Nome Titulação Depto 
+1º autor Francisco Affonso Ferreira PhD DFT 
+2º autor Juliana Carvalho Rodrigues Estudante - Mestrado DFT 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Ricardo Henrique Silva Santos Estudante - Mestrado DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+DFT/UFV Data de Início: 
+01/03/1997 Término Previsto: 
+01/08/1999 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 27000 
+BOLSAS 2172 
+ Valor Total: 
+29172 Data de Registro: 
+05/11/1998 Concluído? Sim Data de Conclusão: 
+14/02/2000. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Integrante / Francisco Affonso Ferreira - Coordenador / Ricardo Henrique Silva Santos - Integrante / Juliana Carvalho Rodrigues - Integrante.Número de produções C, T & A: 1
+1997 - 2000
+Desenvolvimento e teste de mecanismo e método para distribuição de calcário ao longo do perfil do solo adaptado para o sistema de plantio direto.
+Descrição: Projeto de Pesquisa número 50104348154
+Modalidade:MS Título: 
+Desenvolvimento e teste de mecanismo e método para distribuição de calcário ao longo do perfil do solo adaptado para o sistema de plantio direto. 
+Palavras Chave: 
+Calagem/ Mecanismo distribuidor em Sulco/ Plantio Direto Objetivos: 
+Desenvolver e testar mecanismo e métodos para distribuição de calcário ao longo do perfil, em sistema de plantio direto; avaliar a correção do solo promovida pelo mecanismo; avaliar a produção da cultura do milho, comparada ao método comumente utilizado no sistema plantio direto. 
+Autores: Participação Nome Titulação Depto 
+1º autor Caetano Marciano de Souza DS DFT 
+2º autor Fábio Ribeiro Pires Estudante - Mestrado DFT 
+3º autor João Carlos Cardoso Galvão DS DFT 
+4º autor Daniel Marçal de Queiroz PhD DEA 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-004: Manejo Integrado de Culturas, Resíduos Orgânicos e Solos, e Conservação de Solos e Água 
+Local de Execução: 
+Coimbra/MG Data de Início: 
+01/08/97 Término Previsto: 
+01/02/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 10500 
+BOLSAS 2172 
+ Valor Total: 
+12672 Data de Registro: 
+03/12/98 Concluído? Sim Data de Conclusão: 
+24/01/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Fábio Ribeiro Pires - Integrante / Caetano Marciano de Souza - Integrante.Número de produções C, T & A: 1
+1997 - 2000
+Efeito de reduções de distância entre linhas e doses de Imazamox sobre a interferência de plantas daninhas na cultura da soja (Glycine max (L.) Merrill).
+Descrição: Projeto de Pesquisa número 50101348360
+Modalidade:MS Título: 
+Efeito de reduções de distância entre linhas e doses de Imazamox sobre a interferência de plantas daninhas na cultura da soja (Glycine max (L.) Merrill). 
+Palavras Chave: 
+Competição/ Herbicida/ Espaçamento Objetivos: 
+Determinar o período em que a cultura deve permanecer sem interferência de plantas daninhas; espaçamento entre linhas que propicie menor infestação de plantas daninhas; combinação de espaçamento com as épocas de aplicação e a dose; avaliar o efeito destes fatores sobre o rendimento e características agronômicas da soja. 
+Autores: Participação Nome Titulação Depto 
+1º autor Lino Roberto Ferreira DS DFT 
+2º autor Helena Bousada de Melo Estudante - Mestrado DFT 
+3º autor Antonio Alberto da Silva DS DFT 
+4º autor Valterley Soares Rocha DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+Coimbra/UFV Data de Início: 
+01/09/97 Término Previsto: 
+01/02/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 7200 
+BOLSAS/CNPq 14655,88 
+ Valor Total: 
+21855,88 Data de Registro: 
+17/03/99 Concluído? Sim Data de Conclusão: 
+12/04/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / Antônio Alberto da Silva - Integrante / Lino Roberto Ferreira - Integrante / Valterley Soares Rocha - Integrante / Helena Bousada de Melo - Integrante.Número de produções C, T & A: 1
+1997 - 2000
+Seletividade de misturas de imidazolinonas aplicadas em pré e pós-emergência para a cultura do milho imicorn e eficiência das mesmas no controle de plantas daninhas
+Descrição: Projeto de Pesquisa número 50101348362
+Modalidade:MS Título: 
+Seletividade de misturas de imidazolinonas aplicadas em pré e pós-emergência para a cultura do milho imicorn e eficiência das mesmas no controle de plantas daninhas. 
+Palavras Chave: 
+Milho (Zea mays)/ Herbicida/ Tolerância Objetivos: 
+Avaliar a tolerância do milho imicorn aos herbicidas e misturas de herbicidas derivados do grupo químico das imidazolinonas; verificar a melhor época de aplicação (pré ou pós-emergência) desses produtos no controle de diferentes espécies de plantas daninhas e a persistência dos mesmos no solo. 
+Autores: Participação Nome Titulação Depto 
+1º autor Lino Roberto Ferreira DS DFT 
+2º autor Marcus Vinícius de Castro Figueiredo Estudante - Mestrado DFT 
+3º autor Antonio Alberto da Silva DS DFT 
+4º autor João Carlos Cardoso Galvão DS DFT 
+5º autor Glauco Vieira Miranda DS DFT 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+5.01.03.00-8: Ciências Agrárias - Agronomia - Fitotecnia Linha de Pesquisa: 
+DFT-001: Plantas Daninhas, Alelopatia, Herbicidas e Resíduos 
+Local de Execução: 
+Horta Velha/UFV Data de Início: 
+01/09/97 Término Previsto: 
+01/02/00 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 7200 
+BOLSAS/CNPq 14655,88 
+ Valor Total: 
+21855,88 Data de Registro: 
+17/03/99 Concluído? Sim Data de Conclusão: 
+12/12/00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Antônio Alberto da Silva - Integrante / Lino Roberto Ferreira - Integrante / Marcus Vinicius de Castro Figueiredo - Integrante.Número de produções C, T & A: 1
+1997 - 1999
+Capacidade produtiva, adaptabilidade e estabilidade de híbridos de famílias endogâmicas de milho (Zea mays L.) obtidas em programas de seleção recorrente recíproca.
+Descrição: Projeto de Pesquisa número 20205348221
+Modalidade:MS Título: 
+Capacidade produtiva, adaptabilidade e estabilidade de híbridos de famílias endogâmicas de milho (Zea mays L.) obtidas em programas de seleção recorrente recíproca. 
+Palavras Chave: 
+Milho/ Híbridos de Famílias Endogâmicas/ Seleção Recorrente Recíproca Objetivos: 
+Avalir o potencial de programas SRR no melhoramento de populações a serem usadas para extração de linhagens, visando a produção de híbridos. Isto será feito a partir da avaliação do comportamento de híbridos das famílias endogâmicas de milho obtidas de programas SRR. 
+Autores: Participação Nome Titulação Depto 
+1º autor José Marcelo Soriano Viana DS DBG 
+2º autor Maria Teresa Gomes Lopes Estudante - Mestrado DBG 
+3º autor Glauco Vieira Miranda DS DFT 
+4º autor Paulo Roberto Cecon DS DPI 
+ 
+Vinculado? Não Financiado? Não Convênio: 
+ 
+Área CNPq: 
+2.02.01.00-1: Ciências Biológicas - Genética - Genética Quantitativa Linha de Pesquisa: 
+GEN-005: Genética Quantitativa 
+Local de Execução: 
+DBG/UFV Data de Início: 
+01/03/97 Término Previsto: 
+30/01/99 
+Fontes de Financiamento: Entidade Valor 
+SALÁRIOS 22818,96 
+BOLSAS/CNPq 17388,48 
+ Valor Total: 
+40207,44 Data de Registro: 
+16/12/98 Concluído? Sim Data de Conclusão: 
+01/02/99. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glauco Vieira Miranda - Coordenador / João Carlos Cardoso Galvão - Integrante / Paulo Roberto Cecon - Integrante / Maria Teresa Gomes Lopes - Integrante.Número de produções C, T & A: 1

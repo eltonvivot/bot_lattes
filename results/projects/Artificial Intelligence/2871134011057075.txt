@@ -1,0 +1,41 @@
+2018 - 2020
+Sistema inteligente para bicicletas (smart bykes)
+Descrição: Propõe-se neste projeto de pesquisa o desenvolvimento de um sistema inteligente a ser embarcado em bicicletas, tipo um computador de bordo, orientado
+a plataforma, construído a partir de um microcontrolador de baixo custo. Algumas das funcionalidades a serem oferecidas pelo sistema inteligente,
+monitoradas com o uso de sensores específicos, poderão ser: registro e apresentação da velocidade da bicicleta em tempo real; apresentação da
+distância total percorrida; localização e apresentação de data e hora atuais; indicação da proximidade de obstáculos e/ou de aproximação de objetos;
+exibição das informações para o usuário via display gráfico LCD; indicação da velocidade máxima; registros das velocidades durante o percurso; registro
+da velocidade de aproximação de obstáculos; registro de velocidade de aproximação de objetos ou de outros dados considerados críticos ou essenciais
+tais como a velocidade do vento, a poluição ambiental e a qualidade do ar respirado. Adicionalmente, o sistema incorporará um conjunto
+transmissor/receptor para comunicação de dados por protocolo LoRaWan que lhe permitirá através de Gateways, estrategicamente colocados no percurso
+ou nas áreas de tráfego, uma interconexão permanente entre o computador de bordo instalado em sua bicicleta com computadores de bordo instalados
+em bicicletas que façam parte da rede de interconexão (grupos de ciclistas ou usuários de um sistema de fornecimento ou aluguel de bicicletas por
+exemplo). Pelo Gateway ou gateways instalados será também possível que todas as informações fornecidas pelo sistema inteligente sejam acessadas,
+monitoras e até controladas por computadores ou dispositivos móveis autorizados através de sistemas aplicativos especificamente desenvolvidos para
+este fim.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Alberto Nicolau de Oliveira - Coordenador / Samaherni Morais Dias - Integrante.
+2018 - 2020
+Implementação de Funções de Proteção de Sistemas Elétricos em um Controlador Digital de Sinais (dsPIC)
+Descrição: As funções de proteção de sistemas elétricos, objetos deste trabalho, serão obtidas por meio da linguagem de programação C, com implementação de
+software e hardware em uma placa de desenvolvimento com um Controlador Programável Digital de Sinais (dsPIC) da MICROCHIP. Essas funções de
+proteção serão incorporadas ao Gerenciador Inteligente de Instalações Elétricas de Baixa Tensão (GIEBT) que está sendo desenvolvido em outro trabalho
+de pesquisa. O GIEBT será instalado em quadros de distribuição de energia elétrica, monofásicos (110 V ou 220 V) ou trifásicos (380 V) e será capaz de
+monitorar as variáveis: tensões de entrada da rede, corrente e temperatura de cabos e fios condutores, temperatura e umidade do quadro de distribuição
+ou força. A partir destas informações, todas disponibilizadas por meios de comunicação com ou sem fio, o GIEBT poderá atuar na instalação de forma
+inteligente. As funções de proteção, propostas neste trabalho, que serão implementadas, no dsPIC do GIEBT, são: fuga de corrente para terra (função DR,
+em sistema com neutro aterrado); desequilíbrio de corrente I2/I1 (condutor partido ou carga desequilibrada, em circuito trifásico), sobretensão sustentada
+(acima de um valor limite estabelecido por norma) e subtensão sustentada (abaixo de um valor limite estabelecido por norma). Qualquer uma dessas
+grandezas medidas que apresentar valor fora do limite pré-estabelecido (parametrizado) poderá acionar um dispositivo de chaveamento automático, por
+meio do GIEBT, que desligará o circuito monitorado, assim, protegendo os usurários e o próprio sistema elétrico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Alberto Nicolau de Oliveira - Integrante / Marcos Antonio Dias de Almeida - Coordenador / JOSE LUIZ DA SILVA JUNIOR - Integrante.
+2018 - 2020
+Desenvolvimento de end devices e Gateways para IoT em tecnologia de comunicação LoRa em diferentes plataformas de hardware embarcado na busca de dispositivos de alta performance e baixo custo
+Descrição: Propõe o desenvolvimento de componentes transmissores e receptores (end points ou end devices e Gateways) de baixo custo e de confiabilidade e
+eficiência elevadas para implementação de sistemas baseados na modulação LoRa e sua variante LoRaWAN para uso em sistemas voltados a IoT
+(internet das Coisas). Pretende-se especificamente desenvolver gateways em plataformas variadas como ESP-32 e Raspberry Pi e end devices,
+associando componentes de tecnologia LoRa a microcontroladores de baixo baixo e alta performance, para uso como end points, com os quais, os
+gateways poderão se comunicar para trocas de dados oriundos, por exemplo, de diferentes redes de sensores. Além de ampliar o uso do protocolo
+LoRaWan em projetos atualmente em desenvolvimento, pretende-se testar os dispositivos propostos em dois novos aplicativos, que comprovem toda a
+potencialidade e eficiência desta nova tecnóloga de comunicação de baixa potencia mas, de muito longo alcance.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Alberto Nicolau de Oliveira - Coordenador / Hélio de Sousa Peres - Integrante / MATHEUS VINÍCIUS MEDEIROS DE SOUZA - Integrante.
+2011 - 2018
+Estudo de uma Missão Espacial para Coleta de Dados Ambientais baseada em Nano Satélites
+Descrição: O objetivo principal deste projeto é conceber uma solução para o Sistema Brasileiro de Coleta de Dados Ambientais ? SBCD, baseada no uso de nano satélites (satélites de 1 a 10 kg) e em tecnologias emergentes nos ramos da eletrônica e de telecomunicações. Este projeto permitirá a capacitação de recursos humanos e a agregação de especialistas no Centro Regional do Nordeste ? CRN do Instituto Nacional de Pesquisas Espaciais ? INPE para realizar um estudo detalhado de uma missão espacial para
+coleta de dados ambientais em todos os seus componentes. Para realização da missão, é preciso o envolvimento de competências complementares das Instituições de Ciência e Tecnologia (ICTs) locais e cooperação com as principais agências espaciais do mundo, no intuito de capacitar nova geração de especialistas. A través do projeto, procura-se atrair pesquisadores da Universidade Federal do Rio Grande do Norte (UFRN), agregando diversas competências técnicas e científicas para capacitação no setor espacial e desenvolvimento de uma constelação de nano satélites de baixo custo. A lém da garantia de continuidade da missão Coleta de Dados Ambientais e a capacitação de novos especialistas, a execução do projeto possibilita o  desenvolvimento de tecnologias espaciais, incorporando os avanços da nanotecnologia, informática, microeletrônica e telecomunicações. Dito de outra forma, o projeto irá promover a inovação tecnológica na região, podendo gerar impactos indiretos no sistema local de ciência e tecnologia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: José Alberto Nicolau de Oliveira - Coordenador / David Simonetti Barbalho - Integrante / Manoel Jozeane Mafra de Carvalho - Integrante / Guilherme Reis Pereira - Integrante / Roberto Carlos Moro Filho - Integrante / Bráulio Silva Barros - Integrante / Daniel Nelson Maciel - Integrante / Mário Marcos Quintino da Silva - Integrante / Petrônio Noronha de Souza - Integrante / Marco A ntonio Chamon - Integrante / Sebastiao Eduardo Corsatto Varotto - Integrante / Moisés Cirilo de Brito Souto - Integrante / Hélio de Sousa Peres - Integrante / Maria de Fátima Mattiello-Francisco - Integrante / Samaherni Morais Dias - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

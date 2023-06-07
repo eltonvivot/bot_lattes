@@ -1,0 +1,60 @@
+2018 - Atual
+Desenvolvimento de solução para auxiliar no processo de prevenção de lesões por pressão em pessoas com mobilidade reduzida
+Descrição: As lesões por pressão (LPP) são feridas causadas pela redução da circulação sanguínea por
+períodos constantes e repetitivos ao pressionar o corpo humano contra uma superfície dura. É
+uma patologia que necessita de cuidados diários de prevenção e promoção da saúde para que
+sejam evitadas incidências. Tal problemática motivou uma tese doutoral sobre como auxiliar
+cadeirantes a realizarem suas atividades diárias de prevenção das lesões por pressão. Tendo
+como resultado a criação de um modelo de práticas colaborativas gamificadas que subsidiam a
+realização das atividades cotidianas de prevenção das lesões por pressão por meio da interação
+entre cadeirantes em um cenário que mescla redes sociais e jogos. Destarte, para validar o
+referido modelo criou-se um protótipo para dispositivos móveis Android e iOS chamado
+ColaborAtiva utilizando uma plataforma de desenvolvimento online. Esse protótipo foi validado
+por 13 pesquisadores e 16 cadeirantes quanto a suas funcionalidades, usabilidade (System
+UsabilityScale - SUS), experiência do usuário (User Experience Questionnaire - UEQ) e
+capacidade de promoção do sistema (Net Promoter Score - NPS). Além disso, forneceram
+sugestões e críticas para contribuir na melhoria do software e legitimar que a gamificação
+interferiu positivamente na execução das práticas colaborativas. Com base nas manifestações
+realizadas pelos participantes pretende-se atende-las, quando possível, nesta proposta.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (6) . Integrantes: Josemar Rodrigues de Souza - Coordenador / Marco Antonio Costa Simões - Integrante / Romero Freire - Integrante / Jorge Alberto Prado de Campos - Integrante / Robson Marinho - Integrante / Ana Patrícia Fontes Magalhães Mascarenhas - Integrante.Financiador(es): Universidade do Estado da Bahia - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2015 - Atual
+Computação Aplicada
+Descrição: Com a perspectiva de implantação do programa de Mestrado em Computação Aplicada na UNEB, foi criado em 2015 o projeto guarda-chuva Pesquisa em Computação Aplicada. O referido projeto deverá abrigar os futuros projetos de pesquisa, que deverão ter, sempre que possível, a participação de pelo menos dois professores do programa, sendo um da linha de pesquisa Tecnologias Computacionais e o outro da linha de pesquisa Computação Interdisciplinar.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Josemar Rodrigues de Souza - Coordenador / Murilo do Carmo Boratto - Integrante / Leandro Santos Coelho de Souza - Integrante / Lynn Rosalina Gama Alves - Integrante / Alfredo Matta - Integrante / Hugo Saba Pereira Cardoso - Integrante / Diego Frias - Integrante / Jorge Alberto Prado de Campos - Integrante / Artur Henrique Kronbauer - Integrante / Dinani Gomes Amorim - Integrante / Eduardo Manuel de Freitas Jorge - Integrante / Jose Roberto de Araujo Fontoura - Integrante / Monica de Souza Massa - Integrante / Ricardo José Rocha Amorim - Integrante.
+2012 - Atual
+Cadeira de rodas inteligente com interface flexível
+Descrição: Desenvolver uma cadeira de rodas inteligente, com plataforma genérica: hardware / software. Para ser montado em cadeiras de rodas elétricas comerciais, com arquitetura modular: Sistema Multi-Agent. Fácil integração com sensores, atuadores e módulos. Flexível. Planejamento de alto nível. Simulação e Mixed-Reality. Controle semi-autônomo, compartilhado e manual. Baixo impacto visual e ergonômico e custo relativamente baixo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Josemar Rodrigues de Souza - Coordenador / Marco Antonio Costa Simões - Integrante / Luís Paulo Reis - Integrante / Alan Deivite Guimarães da Silva - Integrante / Flavio Sapucaia - Integrante / Leone da Silva de Jesus - Integrante.Número de produções C, T & A: 1
+2010 - 2014
+Cluster de Computadores
+Descrição: Implementar e implantar Cluster de Computadores para dar suporte a diferentes tipos de aplicações, analisando até que ponto as soluções disponíveis atualmente são válidas, e propor desenvolvimentos novos que proporcionem a funcionalidade necessária e disponibilizar um conjunto significativo de aplicações piloto que poderão ser utilizadas como demonstradores da tecnologia Clusters de Computadores para sua difusão e utilização  no âmbito da Industria, Governo e Universidades.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Josemar Rodrigues de Souza - Coordenador.
+2006 - 2008
+506PI0293 - Tecnologia Grid como motor del desarrollo regional. Código UNESCO: 330406
+Descrição: Objetivos generales: 
+El objetivo general del proyecto es el desarrollo de la infraestructura hardware y software necesaria para la gestión de los recursos computacionales de manera transparente al usuario. El fin perseguido es el de facilitar el acceso a dichos recursos por parte de investigadores no especialistas en computación con la puesta en marcha de aplicaciones en áreas de salud y gestión medioambiental. Parte importante de este cometido es la generación de capacidades técnicas y cognitivas en el área de computación grid en la región iberoamericana, en particular potenciando la formación de recursos humanos. Los logros del proyecto quedarán disponibles para toda la comunidad iberoamericana.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josemar Rodrigues de Souza - Integrante / Armando de Giusti - Integrante / Mauricio Marin - Integrante / Mario Díaz - Integrante / Xavier Ochoa Chehab - Integrante / Vicente Hernandez - Integrante / Juan Touriño - Integrante / Tomas Margalef Burrul - Integrante / José Luis Gordillo Ruiz - Integrante / Benjamín Barán - Integrante / Jesus Martin Silva Fernandez - Integrante / Héctor Cancela - Integrante / Jose Aguilar - Integrante / Francisco Tirado Fernández - Coordenador / José Edison Aedo - Integrante.Financiador(es): Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2003 - 2006
+NSL - Núcleo de Software Livre
+Descrição: Pesquisar, difundir a cultura e implementar a utilização do Software Livre na UNEB - Universidade do Estado da Bahia.
+Este projeto funciona no Centro de Pesquisa Tecnológica da UNEB (CPT). Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josemar Rodrigues de Souza - Coordenador.
+2002 - 2008
+LPAD - Laboratório de Processamento de Alto Desempenho
+Descrição: Possibilitar a iniciação científica dos alunos e contribuir para a formação continuada dos professores da UNEB. Prestar à comunidade acadêmica, industrial, comercial e governamental serviços com qualidade na área de simulações, utilizando Processamento de Alto Desempenho.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josemar Rodrigues de Souza - Coordenador / Marco Antonio Costa Simões - Integrante.
+2001 - 2006
+CEBACAD - Centro Baiano de Computação de Alto Desempenho
+Descrição: O Centro Baiano de Computação de Alto Desempenho (CEBACAD) tem por missão possibilitar a iniciação científica dos alunos do Curso de Bacharelado em Informática, contribuir para a formação continuada dos professores da UCSal e prestar à comunidade acadêmica, industrial, comercial e governamental serviços com qualidade, na área de informática e em especial no campo das simulações, utilizando computação serial, paralela e distribuída. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (6) . Integrantes: Josemar Rodrigues de Souza - Coordenador / Emilio Luque Fadón - Integrante / Dolores Rexachs - Integrante / Marcelo Soares Souza - Integrante / Andre Chagas de M. Reboucas - Integrante / Adhvan Furtado - Integrante / Eduardo Argollo - Integrante / Edmilson Santana - Integrante / Angelo Duarte - Integrante / Leandro S. Coelho de Souza - Integrante / Osmar Ribeiro Leão - Integrante / Tiago Silveira de Andrade Cajahyba - Integrante / Lorrene Carolline Nunes Vieira - Integrante / Milene Michelli - Integrante / João Gilberto - Integrante.Financiador(es): Universitat Autònoma de Barcelona - UAB - Cooperação.
+2001 - 2006
+Projeto Quirón
+Descrição: Resumo: O Projeto Quirón, é o resultado do esforço de duas Universidades sediadas no Brasil e Espanha, todas com experiência na construção de redes corporativas e Máquinas Paralelas Virtuais de estações de trabalho e que se uniram para montar uma infra-estrutura que permita o desenvolvimento de novos experimentos e ofereça condições para colocar em prática uma série de projetos já em andamento nessa área. Fazem parte desse esforço: Universidade Autónoma de Barcelona - UAB e Universidade Católica do Salvador - UCSal.
+Origem do nome do projeto: O nome Quirón, tem origem na Mitologia Grega: "Quirón, era o mais velho e sábio dos centauros, essa maravilhosa raça que era metade homem e metade cavalo. Quando a força bruta de sua parte traseira começava a debilitar-se, a	cabeça do centauro com barba branca já havia acumulado muito conhecimento e experiência, e suas mãos tinham a rara habilidade de tocar numa arpa dourada, a música com a qual dava sábios conselhos à raça humana." Ele morava em uma gruta elevada nos lados rochosos e nevados do monte Pelión. [1]
+Referência
+[1] Moncrieff, A. R. Hope. Mitología Clásica. Tradução da 1ª Edição (1907) por Pilar Serrano. EDIMAT LIBROS, S.A. Madrid ? Es. 2000.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Josemar Rodrigues de Souza - Coordenador / Emilio Luque Fadón - Integrante / Dolores Rexachs - Integrante / Marcelo Soares Souza - Integrante / Andre Chagas de M. Reboucas - Integrante / Adhvan Furtado - Integrante.Financiador(es): Universitat Autònoma de Barcelona - UAB - Cooperação / Universidade Católica do Salvador - Cooperação / Universitat Autònoma de Barcelona - UAB - Auxílio
+										financeiro / Universidade do Estado da Bahia - Cooperação.Número de produções C, T & A: 15
+1997 - 2001
+REMA Salvador, Rede metropolitana de alta velocidade - Salvador
+Descrição: REMA Salvador, Rede metropolitana de alta velocidade - Salvador, é o resultado do esforço de seis instituições sediadas nesta capital, todas com larga experiência na construção de redes corporativas e que se consorciaram para montar uma infra-estrutura de alta velocidade que permita o desenvolvimento de novos experimentos e ofereça condições para colocar em prática uma série de projetos já em andamento na área de geoprocessamento, educação a distância, telemedicina, cursos, bibliotecas virtuais, entre outros.
+Os parceiros desse consórcio são:
+UFBA - Universidade Federal da Bahia
+Governo do Estado da Bahia
+TELEBAHIA
+CONDER - Companhia de Desenvolvimento da Região Metropolitana de Salvador
+PMS - Prefeitura Municipal do Salvador
+UCSal - Universidade Católica do Salvador. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josemar Rodrigues de Souza - Coordenador / Marcelo Soares Souza - Integrante / Edmilson Santana - Integrante.Financiador(es): Universidade Federal da Bahia - Cooperação.

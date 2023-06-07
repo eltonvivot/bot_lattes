@@ -1,0 +1,19 @@
+2019 - 2019
+Sistema para Medição de Força com 4 Canais
+Descrição: Este projeto de pesquisa, envolvendo a Agência Unesp de Inovação - AUIN, a Fundunesp, a  Procter & Gamble Industrial e Comercial Ltda - P&G (Louveira, SP), e o campus da Unesp em Guaratinguetá, consistiu no desenvolvimento de um sistema composto por hardware e software para aquisição, registro e apresentação em mostrador alfanumérico dos sinais de força (quatro canais independentes) provenientes de sensores instalados em corpo de prova específico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Samuel Euzédice de Lucena - Integrante / Samuel E. de Lucena - Integrante / Leonardo Mesquita - Coordenador.Financiador(es): Fundação para o Desenvolvimento da UNESP - Outra.
+2016 - Atual
+Aquisição e Análise Espectral de Sinal de Vibração
+Descrição: Solução em desenvolvimento para adquirir sinal proveniente de acelerômetro colado à carcaça de motor de indução, com o objetivo de detectar precocemente falha nos rolamentos do motor. As falhas serão detectadas por análise espectral do sinal de vibração, realizada por um DSP dedicado.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Samuel Euzédice de Lucena - Integrante / Samuel E. de Lucena - Coordenador / Lukas Keusch - Integrante.
+2008 - 2008
+Desenvolvimento de Controlador com Tecnologia ARM
+Descrição: Este projeto de pesquisa consistiu de consultoria para o desenvolvimento de controlador com tecnologia ARM (microcontroloadores de 32 bits com arquitetura Harvard), para a ACEG - Associacao Comercial e de Empresas de Guaratingueta, SP.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Samuel Euzédice de Lucena - Integrante / Samuel E. de Lucena - Coordenador.Financiador(es): Fundacao de Apoio a Pesquisa, Ensino e Extensao - Bolsa.
+2007 - 2008
+Aquisição e Processamento de Sinais de Balança Eletrônica a Célula de Carga Extensométrica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Samuel Euzédice de Lucena - Integrante / Samuel E. de Lucena - Coordenador.Financiador(es): Fundação de Apoio a Pesquisa Ensino e Extensão - Bolsa.
+1998 - 1999
+Testador de Eletrocardiografo e Monitor Cardiaco
+Descrição: Projeto de pesquisa desenvolvido para a Gazzell Industria e Comercio de Eletrico-Eletronicos Ltda, que custeou as despesas com materiais e servicos durante o projeto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Samuel Euzédice de Lucena - Integrante / Samuel E. de Lucena - Coordenador.
+1995 - 2002
+Acionamento e Controle de Viscosímetro e Reômetro Rotativos com Motor de Passo
+Descrição: Projeto de pesquisa financiado pela Fundunesp, sob o processo número 303/2002-DFP. Bem adquirido (torquimetro) incorporado ao patrimônio da Unesp - campus de Guaratinguetá. Situação: Concluído; Natureza: Pesquisa. Integrantes: Samuel Euzédice de Lucena - Coordenador.Financiador(es): Fundação para o Desenvolvimento da UNESP - Auxílio
+										financeiro.

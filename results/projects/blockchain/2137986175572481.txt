@@ -1,0 +1,119 @@
+2022 - Atual
+Inteligência Artificial em Finanças Digitais e Cryptomercados: Desafios e Oportunidades
+Descrição: A Inteligência Artificial (IA) e campos relacionados, como aprendizado de máquina e robótica,
+estão mudando o mundo, como o conhecemos. Isso também vale para a área financeira. Além
+disso, o progresso da  digitalização nas finanças criou novos mercados, especialmente os chamados criptomercados, que incluem Bitcoin, Ethereum e muitos outros criptoativos. Tais ativos são caracterizados por alta volatilidade e diferentes visões sobre sua viabilidade e métodos de avaliação. Recentes avanços em IA, como aprendizado profundo, trazem novas oportunidades para inovação e pesquisa. No entanto, também existem muitas armadilhas em ambientes financeiros para agentes autônomos, que muitas vezes são incompreendidas ou simplesmente desconhecidas por muitos profissionais e pesquisadores de IA. Decisões financeiras podem ser muito mais difíceis do que reconhecer rostos ou dirigir carros, porque os padrões em finanças geralmente evoluem com o passar do tempo e quais informações são relevantes podem mudar drasticamente com os ativos financeiros. Nesta iniciativa, pretendemos (1) esclarecer e descrever o ambiente financeiro para pesquisadores e praticantes de IA, incluindo as várias armadilhas (2) desenvolver procedimentos conceituais e metodológicos para enfrentar esses problemas tanto nos tradicionais quanto nos criptomercados (3) identificar ou criar ferramentas de apoio à aplicação dos procedimentos definidos. Este projeto se beneficia de trabalhos recentes e relevantes publicados na intersecção das áreas de Economia e Computação. De fato, a ACM criou um grupo de interesse especial para incentivar pesquisas na interface entre economia e computação, incluindo Finanças, Inteligência Artificial e muitas outras áreas. Iniciativas como esta podem beneficiar ambas as áreas e podem ter impacto em aplicações práticas não apenas como solução baseada em IA para problemas financeiros, mas também podem contribuir para o desenvolvimento ou aprimoramento de novos algoritmos de IA.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Attilio Sbrana - Integrante / Ricardo Gabriel Pontes Lins - Integrante / Gustavo de Freitas Fonseca - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de orientações: 3
+2021 - Atual
+Deep Reinforcement Learning Applied to Portfolio Allocation: A Low Dimensional Approach
+Descrição: It is well known that the investment activity may be divided in two parts:
+First making predictions about future movements of the financial assets and
+second allocating among them, building a diversified portfolio. However,
+most of the approaches of machine learning for investing concerns only
+about one of them, predicting returns with a naive portfolio allocation or
+building allocation strategies irrespective to the predictions of returns. In
+order to face that problem, this paper uses a supervised learning algorithm
+to predict stock returns and on top of that fits a low dimensional deep reinforcement learning algorithm to perform allocations based on the supervised
+learning beliefs and covariance structures estimates. The paper presents
+a methodology to estimate covariances based on the asset pricing theory.
+With that, we build an allocation framework that does not rely on heuristics
+for risk minimization, rather learns from the data the optimal allocations for
+noisy estimates of statistics. Results suggest that the framework is capable
+of control the portfolio volatility.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Fidel Esteves do Nascimento - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2021 - Atual
+Modeling autonomous agents based on Behavioral Finance for Cryptomarkets
+Descrição: The high volatility
+of cryptocurrencies is a fact observed since its inception and that will certainly continue
+to occur. One of the reasons for such volatility is the short-term behavior of economic
+agents involved in this market, overreacting (overreacting) to price changes and
+excessive risk-seeking behavior, due to significant losses or expectations of exaggerated
+gains. We intend to study this aspect by model economic agents based on Prospect theory,
+which incorporates divergent aspects of the expected utility maximization theory (MEU
+theory). In previous work, we have indicated that in certain situations simulations
+with agents based on prospect theory can better adjust to real market data than those
+based on MEU theory. Prospect theory is a formalization proposed by Kahnmeman
+and Tversky that contemplates biases in human decisions, which are not explainable by
+MEU theory, such as confirmation bias, representativeness bias, framing bias and overconfidence
+(a.k.a cognitive bias). There are studies that indicate the possibility of these
+biases occurring in the financial market, including making people more susceptible to
+Ponzi schemes . We intend to verify if such biases can also be observed and eventually
+identified in cryptomarkets.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Ricardo Gabriel Pontes Lins - Integrante.
+2020 - Atual
+Deep Learning for Financial Time Series Modeling
+Descrição: This project aims at applying and comparing time series
+forecasting models based on deep learning while introducing novel neural network
+architectures through recent improvements from the literature as well a through Neural
+Architecture Search (NAS). Therefore, this project seeks to address the need for optimizing
+models for applications in high-complexity, real world time-series problems, thus,
+extracting the full forecasting potential of these models and offering insights into the
+influence of model optimization in these applications.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Attilio Sbrana - Integrante.
+2020 - Atual
+Deep Reinforcement Learning Algorithms for Autonomous Trading in Cryptocurrency Market
+Descrição: Algorithmic trading has gained territory in financial markets. In 2019, a study
+showed that approximately 92% of trading in the Forex market was performed by trading
+algorithms and 99.9% of the orders were executed electronically. It is is deeply connected
+to quantitative analysis. Quantitative analysis uses historical market data and try to
+detect statistically significant patterns in the desired financial instruments and then derive
+indicators and heuristics to be ready to trade. The applicability of Machine Learning or,
+more specific, Deep Reinforcement Learning, in quantitative algorithmic trading agents
+has gained visibility in the last few years, however the profitability of such solutions are
+unknown. Although an automated strategy may sound fancy or may provide the
+feeling that it is potentially profitable, in essence, it is all about how good a strategy is. If
+a designed strategy overfits some specific market condition and period, or if it trades in a
+manner that operational costs could invalidate any profitability, it seems like that strategy
+is of no use, whether automated or not. That is pretty much what happens in quantitative
+finance, more specifically when it comes to financial decisions using Machine Learning,
+where the rate of failure is high . Thus, when designing an automated trading system
+using Deep Reinforcement Learning, it is crucial to adopt some techniques such as
+early stop, dropouts and other types of regularization to prevent overfitting [38, 39]. A
+very interesting application of algorithmic trading may be on the cryptocurrency market.
+Cryptocurrency market had 106 million crypto users around the world in January
+2021 [40]. Cryptomarkets are also known as one of the most volatile markets in terms of
+price movements, meaning that there may be several trading opportunities but also great
+risks. The ability to perform in a profitable and consistent way is crucial in this kind
+of market, which certainly requires some form of risk control. Building consistent automated
+trading in cryptomarkets require dealing with those aspects: control for overfitting,
+control risks and adapting to market in order to improve performance. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Gustavo de Freitas Fonseca - Integrante.
+2019 - Atual
+Metodologia para ajuste de hiperparâmetros em detectores de objetos de interesse de defesa em imagens aéreas
+Descrição: Object detection in aerial imagery (ODAI) is important in several areas, such as defense,
+environmental monitoring, land use inspection and even tracking of sea and land routes.
+With the evolution of the results obtained in the detection of natural objects, researchers
+in the field of computer vision have directed their efforts towards ODAI, which requires
+detectors able to deal with arbitrary orientations, large variations in aspect ratios, densely
+clustered objects, multiple classes and instances per image. Publications on the detectors
+with the highest accuracies usually only show the best performing configuration in the
+tests. In this report, we propose a methodology based on design of experiments (DOE), to
+perform hyperparameter tuning of a detector. The tuning aims to explore configurations
+with higher accuracies than the initial configuration and to achieve good results in the
+case of the addition of classes to the initial data set. Our proposal focuses specifically on
+the detection of objects with potential interest for air defense systems, such as aircraft,
+harbors, ships, and storage tanks. The detection of these objects is often challenging
+because in the context of the application explored there is the possibility of intentional
+camouflage use by opposing forces. We present a case study with the Rotation-equivariant
+detector (ReDet), focused on defense-related objects and using the proposed methodology.
+Preliminary results show promising performance.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Luciano Severo Bittencourt - Integrante.Financiador(es): COMANDO DA AERONAUTICA - Remuneração.
+2018 - Atual
+Ciência de Dados - Programa de Internacionzalicação Institucional CAPES PRINT-ITA
+Descrição: O Programa de Internacionzalicação Institucional PRINT-ITA busca aumentar o grau de cooperação internacional do ITA com instituições renomadas internacionalmente, através da cooperação em projetos de pesquisas. Dentro destes projetos, destacamos o projeto Data Science PRINT-ITA.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Paulo Andre Lima de Castro - Coordenador / José Maria Parente - Integrante / Carlos Henrique Costa Ribeiro - Integrante / Paulo Marcelo Tasinaffo - Integrante / Elton Sbruzzi - Integrante / Ana Carolina Lorena - Integrante / Filipe Verri - Integrante / Mariá Cristina Vasconcelos Nascimento Rosset - Integrante / Renato César Sato - Integrante / Rodrigo A. Scarpel - Integrante / Maria Fasli - Integrante / Elisan dos Santos Magalhães - Integrante / Marcos Máximo - Integrante / Daniel Aloise - Integrante / MICHEL CARLO RODRIGUES LELES - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2017 - 2019
+Anomalies Identification in stock market based on Probabilistic Machine Learning
+Descrição: Financial operations involve a significant amount of resources and can directly or indirectly affect the lives of virtually all people. For the efficiency and transparency in this context, it is essential to identify financial crimes and to punish the responsible. However, the large number of operations makes it unfeasible for analyzes made exclusively by humans. Thus, the application of automated data analysis techniques is essential. Within this scenario, this work presents a method that identifies anomalies that may be associated with operations in the stock exchange market prohibited by law. Specifically, we seek to find patterns related to insider trading. These types of operations can generate big losses for investors. In this work, publicly available information by the SEC and CVM, based on real cases on BOVESPA, NYSE and NASDAQ stock exchanges, is used as a training base. The method includes the creation of several candidate variables and the identification of relevant variables. With this definition, classifiers based on decision trees and Bayesian networks are constructed, and, after, evaluated and selected. The computational cost of performing such tasks can be quite significant, and it grows quickly with the amount of analyzed data. For this reason, the method considers the use of machine learning algorithms distributed in a computational cluster. In order to perform such tasks, we use the Weka framework with modules that allows the distribution of the processing load in a Hadoop cluster. The use of a computational cluster to execute learning algorithms in a large amount of data has been an active area of research, and this work contributes to the analysis of data in the specific context of financial operations. The obtained results show the feasibility of the approach, although the quality of the results is limited by the exclusive use of publicly available data. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Anderson Rodrigo Barretto Teodoro - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 2
+2016 - 2018
+Análise Autônoma de Investimento: Uma Abordagem Multiagente Discreta.
+Descrição: Since early days of computer science, researchers ask themselves where is the line that separates
+tasks machine can do from those only human beings can really accomplish. Several tasks were pointed as impossible to machines and later conquered by new advances in Artificial Intelligence. Nowadays, it seems we are not far from the day when driving cars will be included among the tasks machines can do in an efficient way. Certainly, even more complex activities will be dominated by machines in the future. In fact, there is significant research effort to make investment analysis become one those activities. In this paper, we propose a probabilistic approach for autonomous investment analysis (AIA) that deals with three dimensions of complexity (nature of assets, multiple analysis algorithms per asset and horizon of investment, non-stationary nature of the environment). This approach is based in multiple autonomous agents, discretization of AIA problem and its modelling as a classification problem. This approach breaks down the complexity faced by AIA in problems that can be addressed by a group of agents that work together to provide intelligent and customized investment
+advices for individuals. We present an implementation of such approach and the results achieved by using it will historic data from Brazilian stock market. We believe that such approach may contribute to development of AIA. Furthermore, this approach allows an easy integration with algorithms and techniques already developed, that may help to solve part of the problem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Andre Lima de Castro - Coordenador / Jaime Simão Sichman - Integrante / Ronald Annoni Junior - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2014 - 2016
+MADEC: UMA ARQUITETURA MULTIAGENTE IMUNOINSPIRADA PARA IDENTIFICAR EXFILTRAÇÃO DE INFORMAÇÕES POR CÓDIGOS MALICIOSOS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Rafael Salema Marques - Integrante.Financiador(es): Departamento de Ciência e Tecnologia Aeroespacial - Remuneração.Número de produções C, T & A: 2
+2013 - 2014
+UM MÉTODO PARA  ANÁLISE DISTRIBUIDA DE DADOS PARA DETECÇÃO DE ANOMALIAS NO CONTEXTO DE OPERAÇÕES FINANCEIRAS.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Andre Lima de Castro - Coordenador / Anderson Rodrigo Barreto Teodoro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2012 - 2013
+Modeling agent's decision process based on Prospect Theory
+Descrição: It is well known that human beings do not always behave as expected utility theory (EUT) based agents.
+In fact, there are several eects that are inconsistent with basic tenets of EUT. Alternative theories have
+been proposed and perhaps the most well studied is Prospect Theory (PT).  In this project, we developed a computational model for decision making process based on Prospect Theory. We used this model
+to create agents to populate an articial market with PT and EUT agents. It was used to predict real market behavior for short periods and the predictions made by SPT and EUT agents were compared. In our simulated results, SPT agents provided more accurate predictions in crisis periods than EUT agents.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Andre Lima de Castro - Coordenador / Simon Parsons - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 2

@@ -1,0 +1,39 @@
+2019 - Atual
+IoT Cocoa ? Sistema de Controle e Acompanhamento para a Produção de Cacau Gourmet com suporte a Blockchain
+Descrição: Esta peojeto propõe desenvolver um mecanismo para investigação e produção de cacau gourmet, apoiado por tecnologias modernas como Internet das Coisas e Blockchain, que seja capaz de acompanhar o processo de fermentação e secagem de amêndoas de cacau, catalogando dados e interferindo, caso seja necessário, no processo de fermentação e secagem, com o objetivo de se obter valores ótimos que permitam compor um cacau de qualidade. Será desenvolvido um middleware, um sistema web e criada uma prova de conceito para validação, simulando-se cargas de trabalho com o Omnet para avaliar o desempenho. Os conjuntos de dados gerados pelos experimentos serão submetidos a técnicas de Ciência de dados para análise, correlações e possíveis predições. Esta pesquisa será feita em parceria com o Grupo de pesquisa em sistemas distribuídos da UFBA ? GAUDI.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Jauberth Weyll Abijaude - Coordenador / Fabiola Gonçalves Pereira Greve - Integrante / Aprígio Augusto Lopes Bezerra - Integrante / Hellan Viana - Integrante / Levy Santiago - Integrante / Janio Carvalho - Integrante / Álvaro Vinícius de Souza Coelho - Integrante / Noberto Hess - Integrante / Henrique Serra - Integrante.Financiador(es): Universidade Estadual de Santa Cruz - Outra.
+2017 - 2018
+IoTÁgua ? Monitoramento Inteligente de Consumo de água
+Descrição: A internet das coisas (IoT) traz uma grande mudança para o cotidiano e bem-estar das pessoas. Sensores e plataformas ligadas à internet transformam a rotina de forma transparente e gradativa. A fim de realizar o monitoramento do consumo de água e criar uma base de dados para estudos futuros, esta pesquisa tem por objetivo construir um sistema interligado à internet que controla o processo de abastecimento residencial e monitora o consumo individualizado de todas as torneiras. Este processo tem como base a Internet das Coisas e será capaz de verificar o nível do reservatório, medir o fluxo de água e acionar as válvulas solenoides quando necessário usando um middleware. O foco desta pesquisa é o desenvolvimento do hardware e software que possam contemplar estas atividades.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jauberth Weyll Abijaude - Coordenador / Péricles de Lima Sobreira - Integrante.
+2017 - Atual
+Desenvolvimento de um Software para Gerenciamento e Aplicação de Capacitação à Distância, apoiado nos benefícios de usabilidade da tecnologia de Telas Sensíveis ao Toque
+Descrição: Descrição: Registro PROPP 00220.1300.766 (PROJETO COM FOMENTO EXTERNO). O projeto tem como objetivo o desenvolvimento de um software para Gerenciamento e Aplicação de Capacitação à Distância, apoiado nos benefícios de usabilidade da tecnologia de telas sensíveis ao toque (touch screens). Este projeto, com fomento externo, foi beneficiado pela Lei de Informática (que conforma as leis 8.248/91, 10.176/01, 11.077/04 e 13.023/14), e desenvolvido em parceria entre a empresa Waytec Tecnologia Em Comunicação e a Universidade Estadual de Santa Cruz.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jauberth Weyll Abijaude - Coordenador / Maria Angélica Motta Dórea - Integrante / Péricles de Lima Sobreira - Integrante / Aprígio Augusto Lopes Bezerra - Integrante.Financiador(es): Waytec Tecnologia em Comunicacão - Cooperação.
+2016 - 2018
+Aplicação do Conceito de Internet das Coisas em Sistemas Patrimoniais
+Descrição: No presente trabalho propõe-se mudar a perspectiva dos sistemas patrimoniais, ampliando os horizontes de atuação para o ambiente de IoT (Internet das Coisas), proporcionando aos objetos inventariados a possibilidade de auto descobrir, auto publicar-se,  informar a sua localização e o seu histórico de movimentaçãos humana.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Jauberth Weyll Abijaude - Coordenador / José Alfredo Santos de Souza - Integrante / Francisco Bruno Sousa Oliveira - Integrante.
+2015 - Atual
+FOGGY ? « Quando a Computação em Nuvem e a Computação em Névoa se Encontram » (When the Cloud meets the Fog Computing)
+Descrição: O projeto FOGGY visa fomentar pesquisas na Computação em Nuvem, sob o ângulo da Computação em Névoa,
+através do estudo e proposição de técnicas, modelos, algoritmos, protocolos e middleware de computação distribuída,
+buscando contribuir com o estado-da-arte em questões fundamentais como segurança, tolerância a falhas,
+confiabilidade, processamento analítico de dados, descoberta, endereçamento, nomenclatura, mapeamento de
+endereço x nomes, além de migração entre dispositivos e serviços em névoa e nuvens. Os avanços obtidos podem ser aplicados em diferentes domínios e sobretudo à
+implementação do paradigma de Internet das Coisas, além de aplicações de Vídeo sob Demanda.
+A pesquisa será desenvolvida a partir de cinco grandes eixos, traduzidos nas seguintes metas:
+Meta 1: Névoa e Internet das Coisas
+Meta 2: Nuvem e Vídeo sob Demanda
+Meta 3: Nuvem e Processamento Analítico Prescritivo
+Meta 4: Tolerância a Falhas na Nuvem
+Meta 5: Rede de pesquisa e formação de pessoas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Especialização: (1)  / Mestrado acadêmico: (2) Doutorado: (6) . Integrantes: Jauberth Weyll Abijaude - Coordenador / Fabiola Gonçalves Pereira Greve - Integrante / Antonio Augusto Teixeira Ribeiro Coutinho - Integrante / Cátia Mesquita Brasil Khouri - Integrante / Clésio Rubens de Matos - Integrante / Fábio Moura - Integrante / Francisco Bruno Sousa Oliveira - Integrante / Genaro Fernandes de Carvalho Costa - Integrante / Maycon Leone Maciel Peixoto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro / Universidade Estadual de Santa Cruz - Cooperação.
+2008 - 2008
+Implementação de rede sem fio no Campus da UESC
+Descrição: Implementação de uma rede sem fio no campus da UESC para estudo de protocolos de roteamento. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Jauberth Weyll Abijaude - Coordenador.Financiador(es): Universidade Estadual de Santa Cruz - Cooperação / Eclipse do Brasil - Auxílio
+										financeiro.
+2007 - 2007
+Análise e Customização de softwares de benchmark
+Descrição: Pesquisa e customização de softwares de benchmark para ambiente livre.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Jauberth Weyll Abijaude - Coordenador.Financiador(es): Ibracomp computadores - Auxílio
+										financeiro.
+2007 - 2007
+Laboratório de Redes sem Fio Mesh da UESC (WUESC_mesh)
+Descrição: Implementação do I laboratório de redes sem fio da Uesc voltado apra estudos do ambiente mesh.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Jauberth Weyll Abijaude - Coordenador.Financiador(es): Eclipse do Brasil - Auxílio
+										financeiro.

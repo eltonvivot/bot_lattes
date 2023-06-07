@@ -1,0 +1,18 @@
+2022 - Atual
+Detecção de produtos alimentícios usando Visão Computacional como apoio a pessoas com deficiência visual na realização de tarefas diárias
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rúbia Eliza de Oliveira Schultz Ascari - Coordenador / Maria Luiza Medeiros de Freitas - Integrante.
+2021 - Atual
+Identificação e classificação de espécies de plantas empregando Visão Computacional e Aprendizado de Máquina
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rúbia Eliza de Oliveira Schultz Ascari - Coordenador.
+2021 - Atual
+Mapeamento nas universidades federais brasileiras da situação de inclusão de alunos cegos em cursos de Matemática e Engenharia
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rúbia Eliza de Oliveira Schultz Ascari - Integrante / Eliane Maria De Bortoli Favero - Integrante / Teodora Pinheiro Figueroa - Coordenador.
+2011 - 2012
+Repositório de Artefatos de Software
+Descrição: Estudo sobre reuso de artefatos de software, com o objetivo de gerar um modelo conceitual de repositório de artefatos (documentos, componentes e procedimentos) a fim de facilitar sua recuperação e reuso. Esse modelo tem como base técnicas de classificação como vocabulário controlado, com classificação por palavras-chave, descrição textual e enumeração ou hierárquica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rúbia Eliza de Oliveira Schultz Ascari - Integrante / Beatriz Terezinha Borsoi - Coordenador / Eliane Maria De Bortoli - Integrante.
+2010 - 2012
+Estimativa de prazo de projetos de software utilizando inteligência computacional
+Descrição: O objetivo principal do projeto é desenvolver um sistema que utilize Lógica fuzzy, para realizar estimativa de prazo de projetos de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Rúbia Eliza de Oliveira Schultz Ascari - Integrante / Beatriz Terezinha Borsoi - Coordenador / Kathya Silvia Collazzos Linares - Integrante.
+2009 - 2011
+Metodologias e processos de software
+Descrição: Estudar metodologias e processos de desenvolvimento de software, com interesse em definir processos para fábricas de pequeno porte.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rúbia Eliza de Oliveira Schultz Ascari - Integrante / Beatriz Terezinha Borsoi - Coordenador / Soelaine Rodrigues Ascari - Integrante.

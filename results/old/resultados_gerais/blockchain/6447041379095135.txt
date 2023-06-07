@@ -1,0 +1,22 @@
+2020 - Atual
+P&D DE3055 ? Desenvolvimento de Sistema de Monitoração de Múltiplos Parâmetros Aplicado a Elementos de Distribuição de Energia Elétrica Subterrâneos
+Descrição: O projeto tem como objetivo inventar, especificar, desenvolver, testar em laboratório e em campo um sistema de monitoramento baseado em tecnologia óptica de sensoriamento conhecida como FBG (Fiber Bragg Grating) para monitoração de múltiplos parâmetros de elementos de distribuição de energia elétrica subterrânea.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ismael Mattos Andrade Avila - Integrante / Luiz Acácio G. Rolim - Integrante / Fabio Bassan - Coordenador.
+2019 - 2021
+PD-02866-0506 - Marketplace Descentralizado para Comercialização de Energia Elétrica Baseado em Blockchain
+Descrição: O projeto abordou a aplicação do paradigma tecnológico introduzido pela tecnologia Blockchain, emergente em diversos setores da economia, na formação de novos mercados para a comercialização da energia elétrica proveniente da geração distribuída (GD). O projeto explorou a aplicação da tecnologia na concepção, desenvolvimento de infraestrutura de software, testes e avaliação de um Modelo de Mercado Transacional para comercialização de energia diretamente entre consumidores e prosumidores no ambiente da GD.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ismael Mattos Andrade Avila - Integrante / Luiz Acácio G. Rolim - Coordenador.
+2019 - 2020
+P&D 0645 Cemig-D Aneel
+Projeto certificado pela empresa Companhia Energética de Minas Gerais em 17/07/2019.
+Descrição: O P&D 0645 busca conceber e testar uma solução de integração informacional de diversas áreas corporativas e seus respectivos sistemas de SW por meio de ontologias que fundamentem a interoperabilidade semântica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Ismael Mattos Andrade Avila - Coordenador / Livia Marangon Duffles Teixeira - Integrante / Elizete José Alves - Integrante / Yara Rodrigues Lopes - Integrante / Mauricio B. Almeida - Integrante.
+2019 - Atual
+P&D DE3070 - Atendimento dos Movers Digitais por meio de Visão Computacional, Reconhecimento, Síntese e Biometria de Voz
+Descrição: Pesquisa sobre novos modelos de interação dos clientes com os serviços das concessionárias  CPFL e pela RGE por meio de dispositivos celulares, dentro dos esforços de aumento da digitalização dos canais de atendimento disponibilizados aos clientes. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ismael Mattos Andrade Avila - Coordenador / Lesandra Priebe Kobus - Integrante / Adilson Batistel - Integrante.
+2019 - Atual
+CS3060 - Eletromobilidade e Recursos Energétcos Distribuídos: Plataforma para Ambientes Urbanos Inteligentes e Modelos de Negócios Viabilizadores
+Descrição: O PeD desenvolve e testa na prática uma plataforma de gestão de recursos energéticos distribuídos, em particular aqueles que estabelecem uma infraestrutura de recarga de veículos elétricos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ismael Mattos Andrade Avila - Integrante / Marcos de Carvalho Marques - Integrante / Anderson Delcio Parreira - Coordenador.
+2015 - 2018
+PD-0405-1508/2015 - Metodologia para desenvolver e implantar modelos de mecanização com focos na construção e manutenção de redes de distribuição, considerando redes elétricas inteligentes e abordagem de design thinking
+Descrição: O projeto concebeu, implementou e testou uma metodologia para desenvolver e implantar modelos de mecanização com focos na construção e manutenção de redes de distribuição, considerando redes elétricas inteligentes e abordagem de design thinking. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ismael Mattos Andrade Avila - Coordenador / Elizete José Alves - Integrante / Adilson Batistel - Integrante / Lesandra P. Kobus - Integrante.
+2014 - 2016
+P&D D439 - Agência automatizada  inclusiva Cemig
+Descrição: Pesquisa e desenvolvimento de soluções de interação inovadoras para automatização dos serviços com vistas ao atendimento dos clientes da Cemig Distribuição, incluindo pessoas com deficiência visual, auditiva, baixo letramento e idosos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ismael Mattos Andrade Avila - Integrante / Robson Eudes Duarte - Integrante / Henrique Meira Costa - Integrante / Claudinei Martins - Coordenador.

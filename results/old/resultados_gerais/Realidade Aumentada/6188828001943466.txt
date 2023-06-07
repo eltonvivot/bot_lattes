@@ -1,0 +1,7 @@
+2012 - 2013
+Ginga Internacional - Evolução e padronização do Middleware Ginga Convênio PUC-Rio
+Descrição: Descrição: O projeto visa o trabalho continuado para a evolução e promoção do Middleware Ginga internacionalmente, como padrão de fato e de direito. Para tanto, os seguintes objetivos específicos são definidos: 1. Relatoria de recomendações associadas à Questão 13 do Grupo de Estudos 16 do ITU-T; 2. Criação e consolidação de uma rede de pesquisa em middleware nos países da América Latina; 3. Criação de Comunidade Ginga Internacional de software livre; 4. Especificação e implementação de uma Suíte de Testes de Conformidade para o Ginga-NCL, em código aberto, para aprovação ITU-T; 5. Aperfeiçoamento da implementação de referência ITU-T H.761; 6. Divulgação do middleware Ginga em países que consideram a adoção do ISDB-Tb.. 
+Situação: Em andamento; Natureza: Pesquisa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Samuel da Costa Alves Basilio - Integrante / Luiz Fernando Gomes Soares - Coordenador / Marcelo Ferreira Moreno - Integrante.
+2009 - 2010
+MCT (CTIC) GingaFrEvo & GingaRAP - Evolução do Middleware Ginga para Múltiplas Plataformas (Componentização) & Ferramentas para Desenvolvimento e Distribuições de Aplicações Declarativas
+Descrição: Evolução do Middleware Ginga para Múltiplas Plataformas (Componentização) & Ferramentas para Desenvolvimento e Distribuições de Aplicações Declarativas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Samuel da Costa Alves Basilio - Coordenador.

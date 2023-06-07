@@ -1,0 +1,33 @@
+2015 - Atual
+Governança Inteligente de Sistemas de Saúde
+Descrição: Projeto Financiado pela FINEP para estudo de soluções computacionais para a governança de sistemas públicos de saúde.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo Fernandes Ramos - Coordenador / Antonio Mauro Barbosa de Oliveira - Integrante.
+2011 - 2011
+Estudos de Ampacidade em Transmissão de Alta Tensão
+Descrição: Desenvolvimento de modelo matemático de estimativa de temperatura na superfície de condutores de alta tensão. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo Fernandes Ramos - Coordenador.
+2011 - 2011
+Sistema de Monitoramento Metereológico para Tomada de Decisões em Centro de Operações da Companhia de Eletricidade do Maranhão
+Descrição: Sistema de Auxilio a Decisões baseado em Dados Metereologico composto por unidades de sensoriamento, remotas e autônomas, de clima, integrados a uma rede de sensores sem fio e uma estação base, contendo software de estimação baseado em modelagem estocástica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo Fernandes Ramos - Coordenador.
+2011 - Atual
+Auxílio ao desenvolvimento de uma ferramenta de reconhecimento de padrões em bancos de dados da área de seguros de saúde.
+Descrição: Desenvolvimento de ferramenta computacional de análise de riscos em seguro de saúde. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo Fernandes Ramos - Coordenador.
+2010 - 2010
+DESENVOLVIMENTO DE APLICATIVO PARA QUIOSQUE MULTIMIDIA E INTERFACE DE PDV EM LIGUAGEM RUBY
+Descrição: Projetar e implementar software para exposição de conteúdo em quiosques  interativos que possam usar os produtos Daruma(hardware) como base.
+Tornar disponível aplicativo (software) para quiosques a serem produzidos pela Daruma.
+Desenvolver uma camada de software que forneça serviços em alto nível a aplicações de automação comercial heterogêneas em linguagem Ruby.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo Fernandes Ramos - Coordenador.
+2010 - 2010
+Modelo de Previsão de Necessidade de Acompanhamento Médico
+Descrição: Modelo computacional que usa redes neurais artificiais para a previsão de pacientes que deverão utilizar procedimentos de alta complexidade. Parceria com a DYAD associados. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo Fernandes Ramos - Coordenador.
+2009 - 2009
+Camada de Adaptação  para Aplicações de Automação Comercial Heterogêneas
+Descrição: Projeto e Implantação de Camada de Adaptação  para Aplicações de Automação Comercial Heterogêneas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo Fernandes Ramos - Coordenador.
+2007 - Atual
+S2GPR- Sistema Governamental de Gestão por Resultados
+Descrição: Desenho dos processos e sistemas de informação do governo do estado do ceará. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (8)  / Mestrado profissional: (2)  / Doutorado: (1) . Integrantes: Ronaldo Fernandes Ramos - Coordenador.Financiador(es): Governo do Estado do Ceará - Cooperação.
+2006 - 2007
+SUMIS - Sistema de Monitoramento de Isoladores
+Descrição: Sistema de Monitoramento de Isoladores de Alta Tensão Usando Telemetria e Técnicas de Inteligência Artificial. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Ronaldo Fernandes Ramos - Integrante / Andre Luiz Carneiro de Araujo - Integrante / Antônio Themoteo Varela - Coordenador / Paulo Régis Carneiro de Araújo - Integrante / Edson da Silva - Integrante.Financiador(es): Companhia Hidro Elétrica do São Francisco - Auxílio
+										financeiro.
+2005 - 2007
+Ferramentas Multimídia para Plataforma de Ensino a Distancia para Concessionarias de Energia Eletrica
+Descrição: Ferramentas Multimídia para Plataforma de Ensino a Distancia para Concessionarias de Energia Eletrica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Ronaldo Fernandes Ramos - Integrante / Antonio Serra - Integrante / Giovanni Barroso - Coordenador / José Marques Soares - Integrante.

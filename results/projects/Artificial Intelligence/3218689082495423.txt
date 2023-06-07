@@ -1,0 +1,25 @@
+2021 - Atual
+PoLiVirUS
+Descrição: Desenvolvimento de uma plataforma multiplex para detecção de doenças virais via aprendizado de máquina.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / Juan Carlos González Pérez - Coordenador.
+2021 - Atual
+Triagem de materiais
+Descrição: Por meio de técnicas de aprendizado de máquina, busca-se novos materiais para diferentes aplicações nas áreas de física e química.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / Caetano Rodrigues Miranda - Integrante / Julio Romano Meneghini - Coordenador.
+2020 - Atual
+Metodologia de detecção rápida de vírus sem o uso de marcadores biológicos
+Descrição: Esse projeto visa o desenvolvimento de uma tecnologia capaz de diagnosticar infecções virais em geral com o uso de espectroscopia óptica e inteligência artificial. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / Juan Carlos González Pérez - Coordenador / Lídia Maria de Andrade - Integrante / Flávio Guimarães da Fonseca - Integrante / Maria Ivonete Nogueira da Silva - Integrante.
+2020 - Atual
+Predições de ligação de pósitron com átomos e moléculas via aprendizado de máquina
+Projeto certificado pelo(a) coordenador(a) Jose Rachid Mohallem em 16/09/2020.
+Descrição: Técnicas de aprendizado de máquina são usadas para verificar todos os dados teóricos e experimentais da ligação de pósitrons a átomos e moléculas em geral, bem como para prever a ligação de novos complexos polares desconhecidos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / MOHALLEM, JOSÉ R. - Coordenador.
+2018 - 2019
+Correções não adiabáticas de moléculas triatômicas
+Descrição: Energias rovibracionais para a molécula de H3+ e D3+ são obtidas usando um modelo físico capaz de incorporar nos cálculos efeitos não adiabáticos. Para isso, foi proposto uma superfície de massa que depende das coordenadas relativas dos núcleos atômicos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / José Rachide Mohallen (Orientador) - Coordenador / Leonardo Gabriel Diniz - Integrante / Monika Stanke - Integrante / Ludwik Adamowicz - Integrante / Alexander Alijah - Integrante.
+2016 - 2017
+Produção de listas de linhas de energias com grande acurácia para moléculas primordiais e isotopólogos.
+Descrição: Com o uso de um modelo físico que leva em conta efeitos de acoplamento de estados eletrônico, e desse modo, efeitos não adiabáticos, energias de estados rovibracionais são obtidas para todos os estados permitidos (lista de linhas completas). Aqui, o foco foi sistemas moleculares importantes para o estudo do universo primordial. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / José Rachide Mohallen (Orientador) - Coordenador / Leonardo Gabriel Diniz - Integrante / Monika Stanke - Integrante / Ludwik Adamowicz - Integrante / Alexander Alijah - Integrante.
+2014 - 2015
+Um modelo para correções não-adiabáticas de moléculas leves
+Descrição: Em cálculos moleculares, os efeitos de acoplamento de estados eletrônicos são levados em consideração supondo que, longe de cruzamentos evitados e interseções cônicas, durante o processo rovibracional molecular, parte da nuvem eletrônica se move junto com os núcleos. Desta forma, é possível calcular energias muito precisas. Com base na teoria de átomos em moléculas (AIM), é proposto aqui um modelo para determinação das frações eletrônicas que participam da vibração e rotação das moléculas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / José Rachide Mohallen (Orientador) - Coordenador.
+2012 - 2014
+Estudo da interação de pósitron com moléculas apolares
+Descrição: Foram estudadas as interações de pósitron - antipartícula de elétron - com átomos e moléculas apolares. Um modelo físico descrevendo essas interações foi elaborado e a partir daí, as energias de ligação são calculadas para determinados sistemas com grande concordância com os resultados experimentais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Paulo Henrique Ribeiro Amaral - Integrante / José Rachide Mohallen (Orientador) - Coordenador.

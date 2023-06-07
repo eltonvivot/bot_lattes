@@ -1,0 +1,7 @@
+2011 - 2012
+Mapeamento automático de Áreas Cafeeiras utilizando extratores de textura em imagens multiespectrais de Sensoriamento Remoto.
+Descrição: As culturas cafeeiras e a vegetação natural (matas) possuem informações espectrais similares que dificultam a classificação automática. A extração de características de textura das imagens diferenciam essas duas classes. A inserção dessas características em métodos de classificação de imagens de Sensoriamento Remoto aumenta o desempenho de sistemas classificadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexsandro Cândido de Oliveira Silva - Integrante / Wilian Soares Lacerda - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2011
+Identificação de áreas cafeeiras por meio de geotecnologia e abordagens automáticas
+Descrição: Este projeto tem como função a definição de um sistema de classificação automática de imagens de satélite que seja adequado para a identificação e mapeamento do uso e ocupação das terras, com ênfase na cultura do café, por meio de um modelo de Redes Neurais Artificiais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexsandro Cândido de Oliveira Silva - Integrante / Tatiana Grossi Chquiloff Vieira - Coordenador / Margarete Marin Lordelo Volpato - Integrante / Helena Maria Ramos Alves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

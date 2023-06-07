@@ -1,0 +1,97 @@
+2021 - 2021
+Investigações em tecnologias digitais voltadas à inovação em Educação em Ciências e Matemática
+Descrição: Ações teóricas e práticas de pesquisa voltadas à produção de conhecimentos sobre tecnologias digitais e inovação, associados à Educação Científica e Matemática.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Thaísa Jacintho Müller - Coordenador / Lori Viali - Integrante / Regis Alexandre Lahm - Integrante.
+2019 - 2019
+Atenção e Aprendizagem Significativa: limites e possibilidades da Neuroeducação
+Descrição: Este projeto tem como objetivo geral estabelecer possíveis relações da atenção do aluno ao realizar determinadas atividades com a sua aprendizagem significativa. Para isto, os participantes da pesquisa serão convidados a responder uma lista de exercícios de forma ?tradicional? e outra utilizando a tecnologia, com apoio de algum aplicativo a ser usado em seu dispositivo móvel.
+Neste sentido, estabelecem-se, então, os seguintes objetivos específicos:
+- verificar se ocorrem diferenças entre os níveis de atenção dos estudantes enquanto resolvem questões em uma lista impressa, e usando o dispositivo móvel;
+- utilizar o headset da marca Neurosky explorando suas potencialidades para medir atenção do aluno;
+- analisar as percepções dos estudantes quanto aos possíveis elementos distratores e quanto às dificuldades encontradas, em relação aos seus níveis de atenção, enquanto resolvem a lista impressa;
+- analisar as relações entre os níveis de atenção dos estudantes e os indícios de Aprendizagem Significativa.
+Os participantes da pesquisa serão professores e estudantes voluntários da Escola de Ciências da PUCRS. Os estudantes deverão autorizar a publicação de seus dados e os seus nomes serão preservados no anonimato. 
+Para medir os níveis de atenção dos participantes da pesquisa, usar-se-á três aparelhos de EEG, do tipo headset, da marca Neurosky que grupo de pesquisa vinculado a esse projeto já possui. Os aparelhos contam com a tecnologia Bluetooth, o que permite, por meio de um aplicativo específico, obter dados referentes aos níveis de atenção dos sujeitos durantes a realização de exercícios.
+A maioria das medidas será obtida com smartphones Android de propriedade dos componentes do grupo de pesquisa.  Para a obtenção dessas medidas, usa-se o aplicativo Effective Learner, que pode ser utilizado com o headset, disponível nas lojas virtuais da Apple (iOS) e Google (Android).
+A pesquisa passará pelas seguintes etapas de coleta de dados:
+(1) resolução de exercícios em uma lista impressa;
+(2) resolução de exercícios diferentes daqueles apresentados no item anterior; porém, do mesmo conteúdo, utilizando um aplicativo em dispositivo móvel;
+(3) entrevista livre com cada sujeito sobre as suas impressões das etapas anteriores, mas respeitando os dois temas centrais: elementos distratores e dificuldades encontradas.
+Posteriormente, serão feitas análises qualitativas dos dados obtidos nas entrevistas e também análises quantitativas com vistas a auxiliar na identificação do nível de aprendizagem do aluno. Serão consideradas as avaliações do aluno ao longo do semestre, os testes realizados especificamente para o projeto e o que mais for possível levantar de dados quantitativos. A partir destes dados, serão realizados testes estatísticos para verificar se há diferença significativa no rendimento dos alunos quando trabalham das duas diferentes formas apresentadas e se há evidências, também significativas, de que os níveis de atenção influenciaram (positivamente ou negativamente) no aprendizado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thaísa Jacintho Müller - Coordenador / Marcelo Vettori - Integrante.Financiador(es): Bolsa Pesquisa Aluno - PUCRS - Bolsa.
+2017 - 2020
+INTERAGINDO COM OS NÚMEROS COMPLEXOS: UM ORGANIZADOR PRÉVIO PARA OS ACADÊMICOS DE ENGENHARIA ELÉTRICA
+Descrição: Por meio da investigação deste projeto, pretende-se auxiliar os professores de Engenharia Elétrica, compartilhando uma rota de aprendizagem e um Objeto de Aprendizagem Multimodal (OAM), como um organizador prévio , rompendo com o ensino meramente expositivo e uma aprendizagem mecânica, para propiciar uma aprendizagem ativa e significativa dos processos de análise de circuitos elétricos em corrente alternada. Além de auxiliar os professores, busca-se propiciar que os acadêmicos se envolvam ativamente e construam novos conhecimentos a partir da interação no OAM.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Thaísa Jacintho Müller - Coordenador / Isolda Gianni de Lima - Integrante / Cassiano Scott Puhl - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2017 - 2018
+Desenvolvimento de Sistema Educacional em Software Livre
+Descrição: A Pontifícia Universidade Católica do Rio Grande do Sul vem, desde 2009, investindo na produção de Objetos de Aprendizagem. Muitos objetos foram construídos focados nos conteúdos em que os alunos historicamente apresentam maiores dificuldades. Porém, houve a necessidade de mudar a tecnologia utilizada, de modo a torná-la mais acessível e minimizar os riscos de que seja descontinuada. Deste modo, este projeto baseia-se na construção de objetos educacionais em software livre, como R/RStudio e wordpress.
+Sendo assim, dentro do projeto está contemplada a assistência ao Laboratório de Aprendizagem (LAPREN), responsável pela produção e manutenção dos Objetos de Aprendizagem, desenvolvidos para atender os estudantes que procuram atendimento extraclasse. Dado que muitos alunos ingressantes na Universidade apresentam lacunas em conteúdos da Educação Básica, os Objetos de Aprendizagem construídos também pelos alunos da pós-graduação poderão fornecer apoio ao trabalho realizado no LAPREN.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thaísa Jacintho Müller - Coordenador.Financiador(es): Bolsa Pesquisa Aluno - PUCRS - Bolsa.
+2015 - 2017
+Redução de dimensionalidade e modelagem histórica
+Projeto certificado pelo(a) coordenador(a) Filipe Jaeger Zabala em 14/10/2016.
+Descrição: Projeto de pesquisa vinculado ao Grupo de Estudos Avançados Renz-Silveira (GEARS), da Pontifícia Universidade Católica do Rio Grande do Sul, para redução de dimensionalidade de bases de dados da empresa Netwall, intermediado pela AGT (agência de gestão tecnológica da PUCRS).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Thaísa Jacintho Müller - Integrante / Filipe Jaeger Zabala - Coordenador / Luiz Eduardo Ourique - Integrante / Rossana Fraga Benites - Integrante / Sérgio Kakuta Kato - Integrante / Débora Lunkes Kunz - Integrante / Kai Wang - Integrante.
+2014 - 2014
+Análise de Erros de Alunos de Cálculo Diferencial e Integral I utilizando Recursos Tecnológicos
+Projeto certificado pelo(a) coordenador(a) Marilene Jacintho Müller em 14/05/2015.
+Descrição: 1 CARACTERIZAÇÃO DO TEMA
+Este projeto tem sua origem no trabalho desenvolvido pela professora Thaísa
+Jacintho Müller, no programa de Doutorado em Informática na Educação da
+Universidade Federal do Rio Grande do Sul, intitulado ?Objetos de Aprendizagem
+Multimodais e Ensino de Cálculo: uma proposta baseada em análise de erros?.
+Partindo-se da detecção de dificuldades dos alunos ingressantes em cursos
+da área de ciências exatas, que possuem a disciplina de Cálculo Diferencial e
+Integral I em sua grade curricular, pretende-se desenvolver estratégias de auxílio a
+estes alunos em suas dificuldades, com o apoio de recursos tecnológicos. Portanto,
+o tema do projeto tem como foco as dificuldades em Cálculo e as possibilidades de
+auxiliar os alunos por meio de recursos tecnológicos.
+Em um primeiro momento, a ideia é, então, criar-se um espaço comum a
+todos os alunos matriculados nesta disciplina, no primeiro semestre de 2014
+(repetindo-se o procedimento também no segundo semestre) por meio da plataforma
+Moodle. Este espaço será um canal de comunicação entre as professoras
+orientadoras do projeto e os alunos de todas as turmas de Cálculo Diferencial e
+Integral I. A partir daí, será implementado um software que auxilie na detecção dos
+erros mais frequentes, cometidos por estes alunos em conteúdos de Matemática
+Básica, uma vez que na pesquisa de Doutorado mencionada acima, algumas
+análises já foram realizadas e concluiu-se que estes são, de fato, os maiores
+obstáculos que se apresentam aos alunos ingressantes em disciplinas de Cálculo.
+De modo especial, destacou-se a aplicação da propriedade distributiva da
+multiplicação sobre a adição, motivo pelo qual já foi desenvolvido um Objeto de
+Aprendizagem sobre o assunto.
+O software a ser criado permitirá uma análise progressiva de erros, de modo
+que através de algumas perguntas, com nível de dificuldade crescente e
+organizadas conforme a disposição habitual de conteúdos (ou seja, considerando
+aqueles tomados comumente como pré-requisitos de outros), será possível
+identificar onde se encontram as maiores dificuldades de cada aluno. Após esta
+etapa, o aluno será convidado a participar de atividades de apoio, que envolverão,
+por exemplo, a utilização do Objeto de Aprendizagem sobre a propriedade
+distributiva (que já foi detectado como um dos mais frequentes) e outros materiais a
+4
+serem criados ou já existentes no repositório Dspace da Universidade ou outras
+fontes.
+Será utilizada a tecnologia Sylverlight, por permitir comunicação direta com o
+Moodle, facilitando a aplicação dos testes e o armazenamento dos resultados.
+Como base teórica para o desenvolvimento deste projeto, são utilizadas as
+ideias de Ausubel sobre aprendizagem significativa, sistematizadas em textos como
+Ausubel, Novak e Hanesian (1980), Ausubel (2003), Moreira (1997, 2011a, 2011b),
+entre outros.
+O estudo da teoria da aprendizagem significativa justifica-se pela
+aproximação com o que acontece com o aprendizado em Cálculo e, de modo geral,
+em Matemática. Pode-se dizer que o aluno aprende a partir de subsunçores e, se
+tem problemas relacionados a conteúdos pré-requisitos para o Cálculo, não
+conseguirá aprender os conceitos dessa disciplina.
+Também são evocadas ideias de Tall e Vinner (1981) e Tall (1986), sobre
+imagem do conceito, definição do conceito e organizadores genéricos, constructos
+que vêm sendo usados por alguns autores que investigam dificuldades em Cálculo.
+(PINTO, 1999; REZENDE, 2003; GIRALDO, 2004).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thaísa Jacintho Müller - Integrante / Marilene Jacintho Müller - Coordenador / Otoniel Felipe da Silva - Integrante.Número de produções C, T & A: 3
+2008 - 2010
+Alternativas para a Melhoria do Ensino e Aprendizagem de Matemática
+Descrição: Pretendemos, com o presente projeto,  compreender a realidade das escolas e planejar, aplicar e avaliar situações de ensino e aprendizagem que propiciem o desenvolvimento de conhecimentos, habilidades e competências. A nossa meta, além de proporcionar a construção do conhecimento visa, também, a proporcionar aos alunos condições para compreender o mundo, para atuar no mercado de trabalho ou seguir seus estudos, encarando o conhecimento como comportamento que dá origem à ação com impacto na realidade e na sociedade (D?AMBROSIO, 2002). Desta forma a sala de aula passaria a ser um espaço de construção de saberes, tanto dos alunos, quanto dos professores e estaria sendo construída uma forma de ensinar e aprender em que o aluno seja o agente de sua própria aprendizagem e o professor o organizador e o mediador da mesma. 
+  Pesquisas que procuram soluções semelhantes têm sido realizadas em programas de pós-graduação em universidades brasileiras como, por exemplo, na Universidade Federal do Rio Grande do Norte (NUÑEZ e RAMALHO, 2004) e na Universidade Estadual Paulista (BICUDO e BORBA, 2004) e  discutidas em encontros e congressos de Educação Matemática (VIII IX EGEM, 2006; V CIBEM, Portugal, 2005; VIII Simpósio de Educación Matemática, Argentina, 2006). Essas publicações, cada vez mais, têm nos estimulado a criar grupos colaborativos de pesquisa (PEREZ, 1999). A nossa equipe ( integrantes do grupo de pesquisa) vem se reunindo, desde abril de 2005, realizando estudos. 
+Nessa perspectiva buscamos responder com o presente projeto:
+Como situações contextualizadas de ensino e aprendizagem contribuem para a construção do conhecimento matemático e para o desenvolvimento capacidades e de habilidades dos alunos?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5) . Integrantes: Thaísa Jacintho Müller - Integrante / Ruth Portanova - Coordenador / Marilene Jacintho Müller - Integrante / Cármen Regina Jardim de Azambuja - Integrante / Helena Maria Antoniazzi - Integrante / Mara Lúcia Müller Botin - Integrante / Mercedes Matté da Silva - Integrante / Neda da Silva Gonçalves - Integrante / Vera Lúcia Martins Lupinacci - Integrante / Paula Chaves Carvalho - Integrante / Gertrudes Regina Todeschini Hoffmann - Integrante / Neuza Maria Morajano Maia - Integrante / Viviane de Oliveira Mello - Integrante.
+2005 - 2007
+Melhoria do Ensino e Aprendizagem de Matemática na Educação Básica
+Descrição: As dificuldades detectadas em alunos ingressantes na Universidade nas diversas áreas de Matemática e, em especial, na Álgebra e na Geometria levam-nos a buscar alternativas para a melhoria do seu ensino, tanto na Universidade como na Educação Básica.
+Para tal,  propomo-nos a :
+"promover, dentro da Universidade, um amplo debate para analisar juntamente com alunos do Curso de Licenciatura em Matemática da PUCRS e professores da Educação Básica os conteúdos de Álgebra desenvolvidos e a metodologia usada em sala de aula, nas duas realidades, com o objetivo de  levantar os problemas e propor alternativas de solução.
+"aprofundar o estudo da Geometria do Táxi e montar seqüências de atividades, a serem aplicadas a alunos de Licenciatura em Matemática, a professores e alunos da Educação Básica, visando chegar à compreensão dos problemas evidenciados no ensino e aprendizagem da Geometria e encontrar caminhos que gerem possíveis soluções e transformações no contexto em que são produzidos.
+"Produzir  material instrucional,  em forma de textos, vídeos ou cd,  a ser utilizado na formação inicial e continuada de professores.
+É intenção que o projeto  seja o embrião de uma parceria permanente do grupo de pesquisa com escolas da rede pública, no sentido de promover a troca de experiências entre Universidade e Escola.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (2)  / Mestrado acadêmico: (5) . Integrantes: Thaísa Jacintho Müller - Integrante / Ruth Portanova - Coordenador / Marilene Jacintho Müller - Integrante / Cármen Regina Jardim de Azambuja - Integrante / Glei Ivane Gutierre Borges - Integrante / Helena Maria Antoniazzi - Integrante / Liege Furini Carvalho - Integrante / Monica Bertoni dos Santos - Integrante / Neda da Silva Gonçalves - Integrante / Rosane Lopes Jardim - Integrante / Danielle Kaiser Sauter - Integrante / Fernanda Moser - Integrante / Katia Henn Gil - Integrante / Marcele Elisa Altenhofen - Integrante / Silvana Lumertz Model - Integrante / Paula Chaves Carvalho - Integrante.

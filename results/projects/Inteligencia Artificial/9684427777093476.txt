@@ -1,0 +1,39 @@
+2018 - Atual
+Estudo do fluxo de permeado e do número de Reynolds de várias soluções no processo de microfiltração tangencial via modelos neurais
+Descrição: Este projeto de pesquisa tem por objetivo desenvolver uma ferramenta alternativa para estudar o desempenho de membranas cerâmicas em processos de separação. Mais especificamente, pretende-se programar um modelo neural capaz de estimar o fluxo de permeado de várias soluções no processo de microfiltração tangencial: emulsões de óleo vegetal/água, bebida à base de açaí, soro de leite, vinhaça, mistura bifásica de água/ácido oleico, água/ácido palmítico, misturas de guar e xantanaentre outras, bem como para identificar cada uma dessas soluções. Ainda, pretende-se avaliar o número de Reynolds dessas soluções a fim de verificar a estabilidade do escoamento durante o processo de microfiltração tangencial.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Erica Regina Filletti Nascimento - Coordenador / Juliana Maria da Silva - Integrante / Renata N. Haneda - Integrante / Roberta Delcolle - Integrante / Camila Proni - Integrante / Gabriela Dias Benevenuto - Integrante / Beatriz Haddad Regonha - Integrante / André Arthur Bueno da Silva - Integrante / Thiago Dotti Trida Santos - Integrante / Vinicius Liberato Erler - Integrante.Financiador(es): PIBIC  -Reitoria UNESP - Bolsa / PIBITI - Reitoria UNESP - Bolsa.
+2017 - Atual
+Aplicações de Redes Neurais Artificiais
+Descrição: Este projeto de pesquisa tem por objetivo utilizar Redes Neurais Artificiais (RNAs) para estimar parâmetros e classificar padrões em problemas de Física, Química e Engenharia. Em particular, pretende-se estudar e desenvolver uma nova ferramenta computacional baseada em redes neurais para: 
+- estimar a energia total para o modelo de Hubbard nos regimes de interação, magnetização e densidade, especialmente naqueles de fraca interação; 
+- estimar a densidade de grãos a partir de imagens digitais de soja, grãos de bico, feijão e milho; 
+- predizer a fração de impurezas em misturas de bagaço de cana de açúcar, de solo e de material vegetal, também a partir de imagens digitais; 
+- auxiliar no diagnóstico do Transtorno do Espectro do Autismo - TEA, baseado na escala CARS-BR: sem autismo, autismo leve/moderado e autismo grave;;
+- classificar amostras de tecido capilar humano em função do gênero (masculino ou feminino), em função da faixa etária (criança, adulto e idoso), em relação à presença de pigmentação (cabelos originais ou descoloridos) em relação à cor (loiro, preto, grisalho, castanho e branco) e em relação ao tratamento químico (cabelo virgem, alisado ou com tintura);
+- auxiliar no aperfeiçoamento do processo de secagem;
+- estimar densidade, viscosidade e teor de sólidos de tintas à base de solventes das indústrias gráficas, a partir de espectroscopia de infravermelho de amostras de tintas branca e preta;
+- estudar o
+comportamento da fltração de água no processo de irrigação localizada, analisando a
+estmatva da massa de sólidos suspensos (argila e silte) retda acumulada ao fnal da fltração
+para avaliar o desempenho dos fltros utlizados. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Erica Regina Filletti Nascimento - Coordenador / Vivian Vanessa França Henn - Integrante / Bruna Gava Florian - Integrante / Fabíola Manhas Verbi Pereira - Integrante / Lucas Janoni dos Santos - Integrante / Tamires Messias Berto - Integrante / Caio Amaral Custódio - Integrante / Mônica Cardoso Santos - Integrante / Wesley Nascimento Guedes - Integrante / Fábio Carvalho Scarel - Integrante.Financiador(es): PIBIC  -Reitoria UNESP - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2014 - 2018
+Teoria do Funcional da Densidade e Aplicações em Sólidos e Átomos Frios
+Descrição: Neste projeto usaremos redes neurais artificiais para tentar otimizar o funcional da densidade. Ainda, o desenvolvimento deste projeto fortalecerá o grupo de Pesquisa Teórica e Computacional em Física e Matemática do Instituto de Química da Unesp de Araraquara. Edital MCTI/CNPQ/Universal 14/2014, processo n. 448220/2014-8.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Erica Regina Filletti Nascimento - Integrante / Ricardo de Sá Teles - Integrante / Flávio Andrade Faria - Integrante / Vivian Vanessa França Henn - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2018
+Competência Mecânica e Fragilidade do Osso Trabecular
+Descrição: A fragilidade da estrutura trabecular desempenha um papel importante para o risco de fratura por fragilidade de um paciente. O estudo da qualidade da estrutura trabecular e da sua competência mecânica é fundamental para se estimar o grau de fragilidade estrutural e por conseguinte o risco de fratura osteoporótica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Erica Regina Filletti Nascimento - Integrante / Waldir Leite Roque - Coordenador / Kátia Arcaro - Integrante / Isabella Ferreira Occhipinti - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2012 - 2017
+Desenvolvimento de Modelos Neurais para Estimar Parâmetros dos Processos de Filtração Tangencial e Remoção de Partículas em Correntes Gasosas
+Descrição: Projeto de pesquisa com o objetivo de estimar e analisar parâmetros de dois diferentes processos de engenharia (filtração tangencial e captura de partículas em correntes gasosas), por meio de Redes Neurais Artificiais (RNAs). Edital Universal CNPq 14/2011 Proc. 475390/2011-3.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Erica Regina Filletti Nascimento - Integrante / Juliana Maria da Silva - Coordenador / Antonio LuizVenezuela - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2009
+Sistema de Identificação de Padrões de Escoamento Bifásico em Oleodutos, Gasodutos e Linhas de Vapor
+Descrição: Projeto de inovação tecnológica - PIPE - FAPESP n. 07/01264-0. Auxílio de R$ 98.240,00 + bolsa PE-3. 
+Local de execução: NET&F (Núcleo de Engenharia Térmica e Fluidos) - EESC -USP, São Carlos.
+Coordenadora: Érica Regina Filletti Nascimento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Erica Regina Filletti Nascimento - Coordenador / Paulo Seleghim Jr. - Integrante / Marcelo Selli - Integrante / Oscar Maurício Hernandez Rodriguez - Integrante / Jorge Nicolau dos Santos - Integrante / Grazieli Luiza Costa Carósio - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2005
+DESENVOLVIMENTO DE SONDAS DE MONITORAMENTO ACÚSTICO PARA ESCOAMENTOS MULTIFÁSICOS
+Descrição: Proc. CNPq - Proset - Ctpetro No. 500101/2002-7  R$ 20.000,00 + bolsas SET-6B, ITI-1B e ITI-1A, 
+coordenadora Érica Regina Filletti Nascimento.
+Local de execução: NET&F (Núcleo de Engenharia Térmica e Fluidos) - EESC -USP, São Carlos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Erica Regina Filletti Nascimento - Coordenador / Paulo Seleghim Jr. - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

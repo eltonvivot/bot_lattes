@@ -1,0 +1,82 @@
+2022 - Atual
+INTEGRAÇÃO DE DADOS GEOESPACIAIS PARA DESENVOLVIMENTO DE UM SMART CAMPUS
+Projeto certificado pelo(a) coordenador(a) Luciene Stamato Delazari em 31/01/2023.
+Descrição: Este projeto tem por objetivo a aplicação do conceito de Smart Cities em um campus universitário, para construir um Smart Campus. O projeto será desenvolvido com a participação da UFPR, UFU e UFAM, de modo que estabeleça um modelo de dados, a partir do modelo existente do UFPR CamusMap, que possa ser aplicado a outras universidades. A partir dos resultados obtidos com o desenvolvimento do projeto UFPR CampusMap pretende-se integrar dados de diferentes sensores (RPAS, câmeras 360o e smartphones). Considerando que o UFPR CampusMap permite o gerenciamento de espaço outdoor e indoor, desde 2014, e que serão incluídas aplicações de LBS (exclusivo à navegação pessoal) e cadastro ambiental, então o problema de pesquisa consiste em como criar representações, tanto indoor com outdoor, que atendam a comunidade acadêmica (gestores, docentes, técnicos, discentes, e sociedade civil que transita pelo campus) nos diferentes contextos de uso do CampusMap, para tarefas de gestão, manutenção e infraestrutura, pesquisas e monitoramento ambiental, navegação pessoal e monitoramento de atividades do campus. Assim, parte-se da hipótese que a integração de dados de diferentes sensores considerando os diferentes contextos de uso do CampusMap, permitirá gerar representações tridimensionais, associadas a mapas de alta qualidade geométrica e com localização precisa durante o acesso ao sistema, que apoiarão os usuários incluindo aspectos que podem impactar um Smart Campus (meio ambiente, seus cidadãos e suas atividades, planejamento, cadastro, fatores ambientais e pesquisa). Os resultados serão apresentados utilizando o sistema UFPR CampusMap como referência. Para tal, serão realizadas pesquisas envolvendo os seguintes aspectos: investigar a potencialidade do uso do posicionamento GNSS com dados brutos obtidos a partir de smartphones, com sistema de processamento em nuvem, com estratégias de melhoria na qualidade do posicionamento para atender às demandas relacionadas às Smart Cities; utilizar a tecnologia BIM (Building Information Modeling) para integrar de forma estruturada dados de modelagem tridimensional interna e externa com informações quantitativas e qualitativas em um Sistemas de Informações Geográficas para gestão inteligente e auxílio à navegação; analisar como as variáveis visuais e o grau de realismo das representações virtuais perspectivas influenciam a percepção de símbolos e a separação figura-fundo nos dispositivo de visualização; analisar como as representações virtuais perspectivas afetam o processo cognitivo dos usuários em diferentes contextos de uso e ambientes (indoor, outdoor e transição) relacionadas a estratégias de navegação, interação e memorabilidade; levantar e discutir os requisitos para uma aplicação multiuso de visualização cartográfica que considere todo o potencial de monitoramento, preservação e ações sócio-ambientais de um campus, para além das tradicionais atividades em um campus urbano; avaliar interface multiuso prévia para CampusMap, sob o aspecto de diferentes contextos de uso. Com o desenvolvimento dessa pesquisa serão disponibilizadas diversas informações sobre o espaço através de um dataset que engloba imagens brutas e processadas, modelos digitais 3D, bases de dados para uso em ambiente SIG, dados cadastrais do interior dos edifícios, além de diversos produtos derivados. Tais informações serão úteis para que o gerenciamento dos recursos na universidade seja feito de modo sustentável e racional seguindo os princípios de gestão de Smart Cities... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: André Luiz Alencar de Mendonça - Integrante / Luciene Stamato Delazari - Coordenador / Marcio Augusto Reolon Schmidt - Integrante / Tiago Lima Rodrigues - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2021 - Atual
+Campus Map UFAM - Pesquisa, Monitoramento e Tecnologia de mapeamento no Campus UFAM
+Descrição: A partir do conceito de engenharia de requisitos, busca-se desenvolver um banco de dados geográfico 
+que subsidie a criação de diversos produtos de mapeamento indoor e outdoor, dentro de um campus universitário, incluindo mapas tradicionais
+e produtos cartográficos mais modernos como interfaces em realidade virtual e aumentada, mapas
+tridimensionais e animações.  O objetivo principal é criar bases de dados e produtos que possam colaborar
+com estudos científicos, ferramentas de monitoramento ambiental, florestal e social, além de questões
+relacionadas a segurança e gestão do espaço universitário como um todo. O projeto já conta
+com modelagem de dados, fase inicial do desenvolvimento, uma vez que deriva das atividades do CAMPUS MAP UFPR,
+com projeto conjunto via CNPQ. Inicialmente as ações concentraram-se em investigar, por meio de pesquisa participativa, 
+as necessidades tuais e potenciais dos atores da comunidade acadêmica, além da projeção de atuais e futuros
+usos de produtos derivados da base cartográfica. Considera-se desde o uso para rotas indoor
+(como a localização de salas e usos agendados) e outdoor (direções para alcançar determinado
+setor da universidade) até a exploração do potencial de turismo e atividades comunitárias como
+trilhas florestais e identificação de espécies de interesse, como frutíferas ou árvores de interesse científico.
+Concomitantemente vem sendo realizadas atividades de mapeamento básico, como o
+desenvolvimento de voos aerofotogramétricos e identificação de feições básicas dentro do fragmento, como forma de
+pesquisar a aplicabilidade do mapeamento moderno para a realidade de um ambiente que mescla
+uma área protegida ambientalmente e, o trânsito da comunidade acadêmica e agregados para
+atividades intrínsecas de uma universidade do porte da UFAM. Prevem-se como resultados, desde o
+documento de requisitos das aplicações, a modelagem de dados levantados dentro do
+campus, levantamento aéreo georreferenciado, recomendações de práticas de gestão e monitoramento
+até interfaces para acesso, visualização e consulta de dados, tanto para smartphones quanto para web e apps em geral.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: André Luiz Alencar de Mendonça - Coordenador / Luciene Stamato Delazari - Integrante / Rosana Barbosa de Castro Lopes - Integrante / SCHMIDT, MARCIO AUGUSTO REOLON - Integrante.Número de produções C, T & A: 1
+2018 - Atual
+Monitoramento do desmatamento urbano em Manaus ? AM utilizando Veículo Aéreo Não Tripulado - VANT
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: André Luiz Alencar de Mendonça - Coordenador / Elisabete Brocki - Integrante / Antônio Estanislau Sanches - Integrante / Carina Coelho Lyra - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Auxílio
+										financeiro.
+2017 - Atual
+VISUALIZAÇÃO CARTOGRÁFICA TRIDIMENSIONAL EM TEMPO REAL APLICADA A NAVEGAÇÃO EM DISPOSITIVOS MÓVEIS
+Descrição: Desenvolver e avaliar uma simbologia tridimensional para a navegação e guiagem com uso de técnicas da cartografia tridimensional aplicada à realidade aumentada em dispositivos móveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: André Luiz Alencar de Mendonça - Integrante / SCHMIDT, Marcio Augusto Reolon - Coordenador / Delazari, Luciene Stamato - Integrante / Edson Angoti Júnior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - Atual
+AVALIAÇÃO DO PAPEL DA INTERATIVIDADE NO USO DE MAPAS APLICADOS À QUESTÕES AMBIENTAIS
+Descrição: O presente projeto tem como objetivo mensurar e avaliar o papel de diferentes níveis de interatividade em
+mapas/interfaces cartográficas construídas para o contexto de análises ambientais no setor florestal e para análise de resíduos em ambientes urbanos. Para tanto faz-se necessário considerar não apenas os
+dispositivos para os quais as interfaces são projetadas, mas também os seus usuários e as particularidades
+dos contextos de uso. Para alcançar este objetivo serão propostos diferentes testes, considerando um
+continuum de varíaveis: de usuários ordinários a especialistas; de ambientes in situ a análises ex situ; de
+respostas de tomada de decisão à produção de conhecimento. A metodologia terá como pressuposto básico
+a garantia de validade ecológica no design das avaliações e a mensuração de elementos de usabilidade e
+aceitabilidade do mapa. O design do método prevê ainda o isolamento da variável ?níveis de interatividade?
+como elemento-chave para quantificação e análise de outros fatores sendo influenciados e modificados
+durante o uso. Os níveis de interatividade devem variar da mera visualização de mapas estáticos até a
+alteração pelo usuário de princípios de projeto cartográfico, como simbologia, edição ? aos moldes de
+sistemas VGI (Volunteer Geographic System) - e modificação de parâmetros para mapas animados
+(dinâmicos). Os instrumentos de coleta e levantamento do uso devem incluir desde métodos derivados da
+engenharia de usabilidade, como aplicação de questionários, observação, análise de uso e data logging, até
+uso de instrumentos cognitivos, como a análise da carga de trabalho. Com os resultados, espera-se obter
+conhecimento sólido acerca da metodologia mais adequada para realização de testes desta natureza, bem
+como um entendimento quantificável acerca de como o projeto cartográfico pode melhor aproveitar os
+elementos de interatividade e sua influência na aceitabilidade e efetividade para o uso de mapas voltados à
+diferentes contextos de análise ambiental.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1) . Integrantes: André Luiz Alencar de Mendonça - Coordenador / SCHMIDT, Marcio Augusto Reolon - Integrante / Delazari, Luciene Stamato - Integrante / Diuliana Leandro - Integrante / Vagner Braga Nunes Coelho - Integrante / Elisabete Brocki - Integrante / Antônio Estanislau Sanches - Integrante / Fabiani das Dores Abati Miranda - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2017
+PROJETO CARTOGRÁFICO PARA MAPAS INTERATIVOS APLICADOS À QUESTÕES AMBIENTAIS
+Descrição: Estudos recentes da Cartografia incluem a necessidade de se avaliar o papel da interatividade no uso de interfaces cartográficas. Este trabalho visa analisar o estudo de caso de projetos de mapas aplicados ao setor ambiental considerando aspectos relacionados a usos, usuários e contextos, além de ferramentas de interatividade no processo de se fazer/utilizar mapas digitais aplicados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: André Luiz Alencar de Mendonça - Coordenador.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2016 - 2017
+ANÁLISE DE DISTORÇÕES PARA MENSURAÇÕES E REPRESENTAÇÕES
+Descrição: Projeto de iniciação científica que visa a análise de precisão de medidas e representações cartográficas aplicadas ao estudo de mapas no interior do Amazonas. O projeto tem como objetivo definir formas ótimas de representação cartográfica para mapeamento de fenômenos de interesse na região estudada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: André Luiz Alencar de Mendonça - Coordenador.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2012 - 2015
+MODELAGEM E VISUALIZAÇÃO CARTOGRÁFICA TRIDIMENSIONAL EM TEMPO REAL APLICADA A ESFORÇOS GEOTÉCNICOS
+Descrição: Desenvolver e avaliar uma simbologia tridimensional para a visualização de esforços diferenciais em obras civis e geotécnicas com uso de técnicas da cartografia tridimensional aplicada à realidade aumentada. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: André Luiz Alencar de Mendonça - Integrante / Delazari, Luciene Stamato - Integrante / Marcio Augusto Schmidt - Coordenador / Karla Maria Wingler Rebelo - Integrante / Maria Ligia Chuerubim - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2015
+AVALIAÇÃO DE INTERFACES, CONTEXTOS DE USO E USUÁRIOS DE MAPAS
+Projeto certificado pelo(a) coordenador(a) Luciene Stamato Delazari em 30/01/2013.
+Descrição: Estudo da relação entre os usuários, os mapas e os usos associados a estes. Trata-se de um campo de pesquisa que se utiliza de conceitos advindos de outras ciências - da informática, das ciências da interação (campo do design) e das ciências sociais, em especial na relação entre tecnologia e sociedade para analisar e compreender como se dá a interação entre os usuários e a cartografia, através do seu principal produto que é o mapa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: André Luiz Alencar de Mendonça - Integrante / SCHMIDT, Marcio Augusto Reolon - Integrante / Delazari, Luciene Stamato - Coordenador / Claudia Robbi Sluter - Integrante / Daniel Rodrigues dos Santos - Integrante / Corné Van Elzakker - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Outra.
+2009 - 2015
+Atlas Social Interativo do Estado do Paraná
+Projeto certificado pelo(a) coordenador(a) Luciene Stamato Delazari em 05/04/2018.
+Descrição: A produção do Atlas Social do Estado do Paraná, sobre o sistema descentralizado e participativo da assistência social e sua receptividade sócio política nos Municípios Paranaenses, tem como objetivo dar visibilidade ao contexto social, político, econômico e cultural que determina a prática dos Conselhos e dos Gestores, sob o ponto de vista geo-político, étnico e socio-econômico. A produção do Atlas Social do Estado do Paraná, sobre o sistema descentralizado e participativo da assistência social e sua receptividade sócio política nos Municípios Paranaenses, tem como objetivo dar visibilidade ao contexto social, político, econômico e cultural que determina a prática dos Conselhos e dos Gestores, sob o ponto de vista geo-político, étnico e socio-econômico. Propõe-se o desenvolvimento de um sistema, denominado Atlas Social, composto de mapas temáticos. Este sistema permite que o usuário possa inserir informações, que são automaticamente classificadas. Deste modo, pode-se considerar que o Atlas Social avança para um sistema cartográfico especialista, no sentido que o usuário é guiado durante a execução do sistema. O desenvolvimento de sistemas cartográficos especialistas, em áreas onde o usuário é não especializado em cartografia contribui para as análises espaciais à medida que previne que decisões incorretas de projeto cartográfico, e consequentemente, de geração de mapas, sejam tomadas... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: André Luiz Alencar de Mendonça - Integrante / SCHMIDT, Marcio Augusto Reolon - Integrante / Delazari, Luciene Stamato - Coordenador / Claudia Robbi Sluter - Integrante.
+2004 - 2004
+PEX - Diagnóstico do Potencial de Produção dos Pequenos Extratores de Produtos Florestais ao longo da estrada AM-010 - Estado do Amazonas
+Situação: Desativado; Natureza: Pesquisa. Integrantes: André Luiz Alencar de Mendonça - Integrante / José de Moura Brandão - Coordenador.
+2003 - 2004
+Avaliação da influência da adubação em mudas de pau-rosa estabelecidas em clareiras
+Descrição: PIBIC - CNPQ. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Luiz Alencar de Mendonça - Integrante / Paulo de Tarso Barbosa Sampaio - Coordenador / Gil Vieira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

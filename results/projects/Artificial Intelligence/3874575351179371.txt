@@ -1,0 +1,156 @@
+2023 - Atual
+ENGLISH LEVEL ASSESSMENT
+Descrição: Automated analysis of videos recorded by candidates, extraction of the transcript and evaluation of the English Level. Extraction of information to improve the matching between a candidate and a job and classification of the text from the transcript into categories, including personal information, designation, objective, education, related experience, skills. 
+Using the English videos recorded by the candidate, extract the transcript to check the English Level of candidate automatically, based on some international proficiency tests such as IELTS, TOEIC (Pronunciation, Fluency, Grammar, Coherence, Vocab, Overall).
+Also, use videos to build Named Entities to the labor market context. These entities will be used to classify the text from transcript as, for example, Personal Information, Designation¸ Objective, Education, Related Experience, Soft Skills (Deep and Shallow), Hard Skills (Transversal and Specialized), References, Language Skills, Awards Achievements, Language Skills, Hobbies Interests, Certifications, Side Projects, Code, and so on. All these entities will be used to complement the candidate profile, for instance, build a bio and Word Cloud. Also, it will be used to improve the semantic searches of candidates.
+Moreover, the transcript will be used to identify sentiments such as trust, surprise, sadness, joy, fear, disgust, anticipation, anger. It will be used to classify the quality of video avoiding miss conceptions about the candidate.
+Finally, related to that, extract the images of videos to detect sensitive content. For example, anything that may cause offence to a reader or user, particularly in relation to religion, race, gender, politics, sexuality, disability, or vulgar language.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everton Gomede - Coordenador.
+2023 - Atual
+STABLE MATCH PROBLEM
+Descrição: Automated analysis of available job descriptions and candidate profiles to match candidates and jobs and increase the matching accuracy of the top 10 candidates that applied to a specific job to 80%; and processing of unbalanced datasets of job and candidate information and improving the quality of recommendations by decreasing the declined offer rate from 14% to 5%.   
+Semantic searches of candidate profiles allowing query of candidates using descriptive language in addition to keywords, to recommend candidates for a job based on similarity rather than set criteria.
+The current matching system, the algorithm to select the best candidates for a job, is Rule-based Matching (Eliminatory, Classificatory, Based on Job Side) and considering some part of available data. 
+Thus, using available data created by candidates and companies, extract the Job Embedding Model to represent the job and, the Candidate Embedding Model to represent the candidate. From the candidate side will used the dimensions of Experience (Sector, Size, Years, Unicorn, Job Jumpers), English (Level, Verbal Communication, Written Communication, Public Speaking), Education (Formal, Complementary), Certification (Relevance, Updated), Economic (Salary, Benefits) Language (Others), Behavior (Review, Updates, Courses, Mocks, Screening, Jobs, Interviews, Offers), Highlighted (Skills, Projects, Roles), Code Challenge (Skills, Updated, Score).
+These embeddings will be used to build the Recommender Systems, to recommend jobs to candidates and candidates for jobs. The problem of job search and job recommendation is little different from a general information retrieval/recommendation task. Job seekers frequently use general-purpose search engines and online social networks to search for jobs. Those factors such as the large amount of textual data, the reciprocal and temporal nature of vacancies, and the fact that these systems deal with personal data does require a tailored approach, and the sheer volume of contributions make it clear that this application area should not be neglected.
+Moreover, the embedding will be used in Semantic Search, a technique to determine whether two or more elements have similar meaning, in that case, job and candidate. Semantic matching is a core component of this search process as it finds the query, document pairs that are most similar.
+Besides, these embedding will be used to Stable Matches with unbalanced dataset (job, candidate). The companies and applicants contain some distracting asymmetries. Each applicant is looking for a single company, but each company is looking for many applicants; moreover, there may be more (or, as is sometimes the case, fewer) applicants than there are available slots for jobs. Finally, each applicant does not typically apply to every company. This strategy will be used to improve the quality of recommendations. 
+Finally, explore what makes automated decision making legitimate, situated in bureaucratic decision making and its mechanical application of formalized rules. This will be used to improve the fairness of automated recommended system.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everton Gomede - Coordenador.
+2021 - Atual
+DIMENSÕES, CONCEITOS E PROCESSOS INOVADORES NAS SMART CITIES
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everton Gomede - Coordenador / André Luis Azevedo Guedes - Integrante.
+2021 - Atual
+GESTÃO ESTRATÉGICA DA CADEIA DE SUPRIMENTOS APLICADA A MOBILIDADE URBANA
+Descrição: O presente projeto tem como objetivo propor soluções de caráter estratégico para o aperfeiçoamento de metodologias, técnicas e tecnologias associando as
+melhores práticas de Supply Chain Management ao conceito de Smart City com enfoque em Mobilidade Urbana.
+O crescimento das cidades associado a movimentação de pessoas, serviços, insumos e produtos acabados por meio dos diferentes meios de distribuição, têm sinalizado às
+organizações e governos a necessidade de resolverem os desafios promovidos por um contexto de necessidades de uma vida urbana balanceada, tendo como princípio básico a sustentabilidade. Ademais, o planejamento urbano deve prever número possível de pessoas no espaço e satisfazer as necessidades de vida, trabalho, movimentação e
+outras atividades, com necessidade de infraestrutura.
+O Plano de Mobilidade Urbana tornou-se o instrumento de efetivação da Política Nacional de Mobilidade (BRASIL, 2012). Diante dessa determinação, os municípios com mais
+de vinte mil habitantes estão obrigados a entregar o Plano de Mobilidade Urbana (PMU), como condição para receber recursos federais destinados a projetos de mobilidade
+urbana. Além de estar integrado ao Plano Diretor de Desenvolvimento Urbano (BRASIL, 2012), o PMU deve apresentar ações para materializar os objetivos e metas que
+pretendem resolver os problemas e as necessidades da população, identificados por meio de diagnósticos e da participação dos atores sociais (OLIVEIRA, 2012 apud
+MACHADO; PICCININI, 2018).
+As maiores beneficiadas são as comunidades onde o projeto é desenvolvido, com especial enfoque nas regionalidades, em alinhamento aos objetivos do desenvolvimento
+sustentável, em especial, ao ODS 11 (Cidades e Comunidades Sustentáveis), ODS 9 (Indústria, inovação e infraestrutura) e ao ODS 8 (Trabalho decente e crescimento
+econômico). Os territórios devem ser visualizados sob a ótica da gestão integrada, com sistemas de pessoas interagindo e usando serviços de infraestrutura urbana, como
+internet, energia, transportes, segurança, saúde e tantos outros em prol do desenvolvimento econômico e a melhoria da qualidade de vida da população.
+A metodologia envolve a elaboração de produtos e processos inovadores disseminados na forma de: (1) artigos, patentes, registros de propriedade intelectual, projetos
+técnicos; (2) desenvolvimento de aplicativos, de materiais didáticos e instrucionais e de produtos, processos e técnicas; (3) produção de softwares, estudos de caso, manual de
+operação técnica; (4) protocolo experimental ou de aplicação em serviços; (5) projeto de aplicação ou adequação tecnológica, protótipos para desenvolvimento ou produção de
+instrumentos e equipamentos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everton Gomede - Integrante / Fabrício da Costa Dias - Coordenador / Elizabeth Ferreira Da Silva - Integrante / Luiz Henrique Paloschi Tome - Integrante.
+2021 - Atual
+INFRAESTRUTURA DE REDE INTELIGENTE
+Descrição: O objetivo deste projeto de pesquisa é modelar uma estrutura baseada em redes complexas ótima para comportar o fluxo de dados em cidades inteligentes. A
+motivação baseia-se na redução de desperdício de processamento, transporte e armazenamento de dados em computação de borda e nuvem.
+A maioria dos aplicativos de big data para cidades inteligentes exigem redes inteligentes conectando seus componentes, incluindo equipamentos de residentes, como carros,
+dispositivos de casa inteligente e telefones inteligentes. Essa rede deve ser capaz de transferir com eficiência os dados coletados de suas fontes para onde os dados para big
+data são coletados, armazenados e processados e de transferir as respostas de volta para as diferentes entidades que precisam delas na cidade inteligente.
+O suporte de qualidade de serviço (QoS) na rede é extremamente importante para aplicativos de big data em tempo real para cidades inteligentes. Nesses aplicativos, todos
+os eventos de aplicativos distribuídos devem ser transferidos em tempo real para onde possam ser processados. Esses eventos podem ser transferidos de suas fontes como
+eventos brutos ou como eventos filtrados ou agregados.
+Todos os eventos atuais gerados, filtrados e agregados podem ser transferidos para um ponto de processamento centralizado ou para pontos de processamento intermediários
+distribuídos na rede inteligente para pré-processamento ou para filtragem e agregação adicionais antes de serem transferidos para a unidade de tomada de decisão principal. A
+abordagem centralizada é boa se os eventos gerados atualmente não forem enormes e não houver limitações nos recursos de rede usados para transferir tais eventos.
+A abordagem distribuída é mais adequada para grandes eventos, de forma que é ineficiente e às vezes impossível transferir todos os eventos gerados para um único local
+dentro de limites de tempo e desempenho aceitáveis. A filtragem e a agregação serão importantes nesse caso, especialmente para cidades inteligentes, pois podem ajudar a
+reduzir a quantidade de tráfego de rede gerado e acelerar o processamento de dados. Isso pode ser feito nas fontes de eventos e nos pontos intermediários usando uma
+abordagem em malha aberta ou em malha fechada.
+Na abordagem de malha aberta, as políticas de filtragem e agregação são predefinidas, enquanto na abordagem de malha fechada, as políticas de filtragem e agregação são
+definidas interativamente com base nos eventos e decisões atuais, sistema atual e recursos de rede ou políticas de aplicativo de cidade inteligente externa. Em ambas
+abordagens, a filtragem e a agregação de eventos devem ser feitas sem comprometer a integridade, precisão e exatidão dos dados que estão sendo agregados. Isso é
+importante para preservar a qualidade do processo de tomada de decisão nas aplicações de big data em tempo real.
+Os procedimentos metodológicos utilizados passam por uma revisão de trabalhos sobre o tema, bem como se utiliza de técnicas de simulação e redes complexas no sentido
+de permitir extrair conclusões sobre o objeto de pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everton Gomede - Coordenador / Fabrício da Costa Dias - Integrante / Luiz Henrique Paloschi Tome - Integrante.
+2021 - Atual
+DESENVOLVIMENTO E AVALIAÇÃO DE TECNOLOGIAS DIGITAIS NA SAÚDE
+Descrição: O objetivo deste projeto é desenvolver e avaliar tecnologias digitais para vigilância e previsão de doenças e agravos em saúde. O ODS 3 da Agenda 2030 para o
+Desenvolvimento Sustentável para a melhoria das condições de vida das populações do qual o Brasil se tornou signatário, tem por objetivo principal a saúde da população e
+metas específicas para redução da mortalidade materno-infantil e combate a doenças infectocontagiosas (como a AIDS, tuberculose, a malária, a hepatite etc.) e redução das
+mortes prematuras por doenças crônicas não transmissíveis (e.g hipertensão e diabetes).
+As doenças cardiovasculares são as principais causas de morbimortalidade no Brasil. Os principais fatores de risco para o desenvolvimento das doenças cardiovasculares
+envolvem a Hipertensão arterial sistêmica (HAS) e Diabetes mellitus (DM). A HAS acomete de 11 a 20% da população adulta e com mais de 20 anos e 40% das vítimas de
+infarto agudo do miocárdio apresentam hipertensão associada. A prevalência da DM é de 7,6% na população adulta e afeta todas as faixas etárias dos indivíduos, ambos os
+sexos, independente da raça ou condições socioeconômicas. Estas doenças quando diagnosticadas de forma precoce, pode-se adotar medidas que evitam as complicações
+destas doenças ou é possível retardar a progressão, caso essas doenças já forem existentes.
+Os pacientes com HAS e/ou DM são avaliados de forma individual quanto ao risco de desenvolvimento de doenças cardiovasculares por meio da estratificação segundo riscos
+e podem ser classificados como baixo, médio ou alto. Por conseguinte, é possível compreender os variados riscos dos pacientes e conhecer as diferentes necessidades. Neste
+sentido, podemos citar que pacientes com HAS e com alto risco cardiovascular, necessitam de maior cuidado clínico e apoio para adesão de tratamentos. Em contrapartida,
+pacientes com HAS com baixo ou médio risco de doenças cardiovasculares, se beneficiam mais com ações de promoção à saúde, prevenção e autocuidado. Identificar os
+riscos de cada usuário auxilia as equipes de Atenção Básica a adaptar ações, conforme as necessidades e é possível utilizar da melhor forma os recursos do serviço de saúde.
+Atualmente, a estratificação segundo riscos é realizada pelo médico e de modo manual. Desta forma, essa estratificação demanda tempo e manutenção das informações
+adequadamente atualizadas torna-se um desafio. Vivenciamos uma era de desenvolvimento tecnológico e os recursos de informação na saúde são desenvolvidos no Sistema
+Único de Saúde (SUS) para atender as necessidades de informações. Essas ferramentas de informação são empregadas no apoio aos serviços de saúde pública para a
+prevenção e promoção à saúde, no controle de doenças, na vigilância e monitoramento, nas atividades de gestão e repasse de recursos financeiros.
+A Vigilância em saúde pública depende muito de técnicas estatísticas que exigem tempo para as análises e inferências, assim como as ações que são exigidas na Gestão dos
+Sistemas e Serviços de saúde. As tecnologias digitais (e-health, tecnologias cognitivas, wearables etc) têm sido amplamente estudadas na vigilância e previsão de doenças,
+como inteligência artificial, análise de dados, incluindo Big Data ou tecnologias de simulação. O uso dessas tecnologias exige uma abordagem sistêmica a fim de ter um
+impacto positivo nos resultados de saúde pública.
+O projeto tem o objetivo de construir uma ferramenta tecnológica em saúde onde é possível estabelecer interface usuário de saúde com doença crônica e profissional da
+saúde. Para o profissional da saúde, neste recurso, será possível conhecer qual o grau de risco do paciente com HAS e/ou DM; qual paciente necessita de maior assistência
+do serviço de saúde; realizar o monitoramento e a rastreabilidade deste paciente; quais exames foram realizados e os resultados entre outros ações. Para o usuário, será
+possível ter acesso ao pla. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everton Gomede - Coordenador / Laise Nayana Sala Elpidio - Integrante / Vanessa Indio Do Brasil da Costa - Integrante.
+2021 - Atual
+ALGORITMOS AVANÇADOS
+Descrição: O objetivo deste projeto é criar uma taxonomia de algoritmos para o tratamento massivo de dados (acima de 1TB) endereçando problemas como processamento
+em tempo real (streaming) para técnicas modernas de ambientes analíticos como Data Lake, Delta Lake, ELT, entre outras. A motivação está na possibilidade de lidar com
+dados originados de sensoriamento com alto fluxo de dados por unidade de tempo e habilitar a menor latência possível em acionadores. Vive-se a era de Big Data: ciência,
+engenharia e tecnologia estão produzindo fluxos de dados cada vez maiores a cada segundo. Olhando para as redes sociais, o comércio eletrônico, os dados astronômicos e
+biológicos, o fenômeno de big data aparece em todos os lugares e apresenta oportunidades e desafios para cientistas da computação e matemáticos. Comparando com os
+algoritmos tradicionais, vários problemas precisam ser considerados: um conjunto de dados massivo é muito grande para ser armazenado; mesmo um algoritmo de tempo O
+(n2) é muito lento; os dados podem mudar com o tempo e os algoritmos precisam lidar com as mudanças dinâmicas dos dados. Consequentemente, algoritmos de streaming,
+dinâmicos e distribuídos são necessários para a análise de big data. Algoritmos padrão usados em aplicativos regulares podem não ser suficientes ou eficientes o suficiente
+para lidar com aplicativos de big data devido a seus requisitos exclusivos e necessidade urgente de processamento de alto volume em alta velocidade. Por exemplo, a maioria
+dos algoritmos de mineração de dados disponíveis não são muito adequados para aplicações de mineração de dados grandes, pois seu projeto é baseado em conjuntos de
+dados limitados e bem definidos. Os aplicativos de big data para cidades inteligentes precisarão implementar algoritmos avançados e mais sofisticados para lidar com big data
+de forma eficiente. Alguns desses algoritmos precisam ser projetados para suporte a aplicativos em tempo real, enquanto outros podem ser projetados para processamento em. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everton Gomede - Coordenador / Fabrício da Costa Dias - Integrante / Luiz Henrique Paloschi Tome - Integrante.
+2020 - Atual
+DESENVOLVIMENTO E APLICAÇÃO DE NOVAS TECNOLOGIAS PARA AS CIDADES INTELIGENTES
+Descrição: Sob a perspectiva do desenvolvimento das cidades é fundamental o acesso de todos os cidadãos à tecnologias que possibilitem melhorias em áreas como
+educação, saúde, segurança, infraestrutura, mobilidade, entre outras dimensões. As tecnologias para as cidades inteligentes compreendem a aplicação prática de saberes
+técnicos além dos conhecimentos acadêmicos e as novas habilidades exigidas pela evolução da sociedade na forma de novos processos, dispositivos, procedimentos e
+sistemas, entre outros, desenvolvidos para resolver um problema em uma área específica da cidade. A melhoria da qualidade de vida da população é o principal fator que
+motiva a aplicação de novas tecnologias nos projetos propostos. A proliferação de tecnologias para as cidades possibilita o desenvolvimento econômico e acadêmico, conectando quatro principais atores importantes da inovação: as academias, o empresariado, a sociedade civil organizada e os governos. Alinhado à Agenda 2030 para o
+Desenvolvimento Sustentável das Organizações das Nações Unidas, em particular aos Objetivos do Desenvolvimento Sustentável de número 8 (TRABALHO DECENTE E
+CRESCIMENTO ECONÔMICO), de número 9 (INDÚSTRIA, INOVAÇÃO E INFRAESTRUTURA) e de número 11 (CIDADES E COMUNIDADES SUSTENTÁVEIS), este projeto
+objetiva o desenvolvimento sustentável e a aplicação de tecnologias para a melhoria do potencial de inovação nas áreas das cidades. A transdisciplinaridade e a
+interdisciplinaridade poderão ser alcançadas com a adoção de novas tecnologias em todos os campos de uma cidade, que muitas vezes podem ser desenvolvidas a baixo
+custo com o apoio dos agentes envolvidos. A metodologia envolve a elaboração de produtos e processos inovadores disseminados na forma de: (1) artigos, patentes, registros
+de propriedade intelectual, projetos técnicos; (2) desenvolvimento de aplicativos, de materiais didáticos e instrucionais e de produtos, processos e técnicas; (3) produção de
+softwares, estudos de caso, manual de operação técnica; (4) protocolo experimental ou de aplicação em serviços, proposta de intervenção em procedimentos urbanos ou rurais
+ou de serviço pertinente para a governança das cidades; (5) projeto de aplicação ou adequação tecnológica, protótipos para desenvolvimento ou produção de instrumentos e
+equipamentos; e, (6) Tecnologias Sociais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (16)  / Doutorado: (3) . Integrantes: Everton Gomede - Integrante / André Luis Azevedo Guedes - Coordenador / Fabrício da Costa Dias - Integrante / Elizabeth Ferreira Da Silva - Integrante / Aparecida Laino Entriel - Integrante / Beatriz Barreto Brasileiro Lanza - Integrante.
+2020 - Atual
+PLATAFORMAS DE PROCESSAMENTO DE BIG DATA E GESTÃO DE DADOS
+Descrição: O objetivo deste projeto de pesquisa é estruturar um conjunto de ferramentas para suportar o processamento em lotes (batch) e tempo real (streaming) para dados
+estruturados, semiestruturados e não estruturados. A motivação está na obtenção e tratamento de dados que possam ser utilizados para tomada de decisão para cidades
+inteligentes.
+A principal vantagem dos aplicativos de cidade inteligente é que eles geram grandes volumes de dados em uma variedade de formatos e de muitos setores diferentes, como
+tráfego, energia, educação, saúde, manufatura entre diversos outros. Esses dados são gerados e coletados em grandes quantidades e de forma regular, oferecendo uma visão
+em tempo real do que está acontecendo na cidade a qualquer momento, sendo a janela temporal realizada em lotes ou tempo real.
+Para garantir a utilização adequada e útil desses dados em aplicativos de cidade inteligente, é importante ter ferramentas de gerenciamento de big data adequadas e eficazes
+no local para o processamento em lote e em tempo real. O gerenciamento de big data inclui o desenvolvimento e a execução de arquiteturas, políticas, práticas e
+procedimentos que gerenciam adequadamente todas as necessidades do ciclo de vida dos dados ao longo de seu uso em aplicativos de cidade inteligente.
+Como os dados vêm de diferentes fontes com diferentes formatos, há necessidade de recursos avançados de gerenciamento de dados que levem ao reconhecimento dos
+diferentes formatos e fontes de dados, estruturando, gerenciando, classificando e controlando todos esses tipos e estruturas. O gerenciamento de big data para aplicativos de
+cidades inteligentes também deve fornecer manuseio escalonável para dados massivos para suportar aplicativos offline, bem como processamento de baixa latência para servir de forma eficaz em aplicativos em tempo real.
+Os aplicativos de big data para cidades inteligentes precisam realizar análises de dados que geralmente requerem grande capacidade de processamento. Isso leva à
+necessidade de plataformas de software e hardware escaláveis e confiáveis. As plataformas de software para cidades inteligentes devem oferecer recursos de computação de
+alto desempenho, ser otimizadas para o hardware que está sendo usado, ser estáveis e confiáveis para os diferentes aplicativos de dados intensivos em execução, precisam
+suportar processamento de fluxo, fornecer altos níveis de resiliência a falhas e apoiadas por uma equipe e um fornecedor bem treinados e capazes.
+Existem diferentes plataformas de software disponíveis para análise de big data, como Hadoop Mapreduce, Azure Synapse, Azure Data Bricks, entre outras que fornecem o
+processamento de fluxo exigido por aplicativos de big data em tempo real, como transportes inteligentes em uma cidade inteligente. Essas plataformas funcionam bem em
+sistemas de cluster que podem fornecer uma plataforma de hardware poderosa e escalonável para atender aos requisitos de aplicativos de big data para cidades inteligentes.
+O big data também pode ser processado na nuvem usando a plataforma de big data como serviço (PaaS) e a infraestrutura como serviço (IaaS). Isso livrará os proprietários
+de aplicativos do custo de proteger plataformas dedicadas, o que geralmente é muito caro e permite que eles usem plataformas testadas e altamente confiáveis oferecidas
+pelos provedores de serviços em nuvem.
+Os procedimentos metodológicos utilizados passam por uma revisão de trabalhos sobre o tema, bem como se utiliza de ferramentas de computação em nuvem para
+processamento analítico no sentido de permitir extrair conclusões sobre o objeto de pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado profissional: (4)  / Doutorado: (1) . Integrantes: Everton Gomede - Coordenador / André Luis Azevedo Guedes - Integrante / Fabrício da Costa Dias - Integrante.
+2018 - 2020
+Solução Inteligente para Gestão em Terapia Intensiva
+Descrição: Descrição: O projeto tem por objetivo a criação de soluções capazes de prover informações referentes ao risco do paciente intensivo em tempo real. Além disso, as soluções criadas devem ser capazes de antever trajetórias de risco, auxiliando o intensivista na tomada de decisão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (6)  / Doutorado: (3) . Integrantes: Everton Gomede - Integrante / Adriano Alonso Veloso - Coordenador / Renato Ferreira - Integrante / Nívio Ziviani - Integrante / Nazareno Andrade - Integrante / Saulo Saturnino - Integrante / Fabio Cappabianco - Integrante.
+2017 - 2020
+Laboratório Gaia - integração dos frameworks e aplicativos Gaia de governança de TIC e de gerenciamento de projetos de software
+Descrição: Este projeto de pesquisa visa, além da consolidação do laboratório gaia como um laboratório de pesquisa em governança de TIC e gerenciamento de projetos de software, integrar os diversos frameworks e aplicativos desenvolvidos pelos pesquisadores do laboratório referentes aos tópicos citados. a integração possibilitará um melhor gerenciamento dos frameworks existentes (risco, recursos humanos, lições aprendidas, estimativas, catálogo de serviços, verificação e validação) e dos aplicativos (avaliação diagnóstica, PDTI, gerenciamento de portfólio de projetos, apontamentos, lições aprendidas, catálogo de serviços, etc.). Também possibilitará um direcionamento para os próximos aplicativos no que tange ao padrão de desenvolvimento e estrutura do banco de dados. Quanto aos frameworks, a integração possibilitará uma melhor implantação dos mesmos e a redução de redundâncias entres os frameworks. Por fim, espera-se que a integração traga uma melhor visibilidade por parte de uma empresa ou órgão público sobre a sua real situação quanto a maturidade da governança de TIC e do gerenciamento de seus projetos de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Everton Gomede - Integrante / BARROS, RODOLFO MIRANDA DE - Coordenador.
+2015 - 2020
+Laboratório Gaia - Integração dos Frameworks E Aplicativos Gaia De Governança De Tic E De Gerenciamento De Projetos De Software
+Descrição: Este projeto de pesquisa visa, além da consolidação do laboratório gaia como um laboratório de pesquisa em governança de tic e gerenciamento de projetos de software, integrar os diversos frameworks e aplicativos desenvolvidos pelos pesquisadores do laboratório referentes aos tópicos citados. A integração possibilitará um melhor gerenciamento dos frameworks existentes (risco, recursos humanos, lições aprendidas, estimativas, catálogo de serviços, verificação e validação) e dos aplicativos (avaliação diagnóstica, pdti, gerenciamento de portfólio de projetos, apontamentos, lições aprendidas, catálogo de serviços, etc). Também possibilitará um direcionamento para os próximos aplicativos no que tange ao padrão de desenvolvimento e estrutura do banco de dados. Quanto aos frameworks, a integração possibilitará uma melhor implantação dos mesmos e a redução de redundâncias entres os frameworks. Por fim, espera-se que a integração traga uma melhor visibilidade por parte de uma empresa ou órgão público sobre a sua real situação quanto a maturidade da governança de tic e do gerenciamento de seus projetos de software... Situação: Concluído; Natureza: Pesquisa. Integrantes: Everton Gomede - Integrante / Mario Lemes Proença Jr. - Integrante / BARROS, RODOLFO MIRANDA DE - Coordenador / Bruno Bogaz Zarpelão - Integrante.

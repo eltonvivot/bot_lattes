@@ -1,0 +1,10 @@
+1996 - Atual
+Reconstrução do fluxo de nêutrons pino a pino
+Descrição: Desenvolvimento de um método, com base no método perturbativo dos pseudo-harmônicos, para reconstruir o fluxo de nêutrons em assemblies heterogêneos, usando a solução de cálculos nodais nos quais os assemblies são tomados como homogêneos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antonio Carlos Marques Alvim - Integrante / SILVA, F.C. - Coordenador.
+1996 - Atual
+Código de Difusão 2D
+Projeto certificado pelo(a) coordenador(a) Fernando Carvalho da Silva em 18/08/2017.
+Descrição: Desenvolvimento de um método nodal com base numa expansão polinomial do fluxo de nêutrons no interior do núcleo do reator, com a finalidade de elaborar um programa computacional (código) para resolver numericamente a equação de difusão de nêutrons bidimensional a dois grupos de energia. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antonio Carlos Marques Alvim - Integrante / Fernando Carvalho da Silva - Coordenador / Jorge Luiz Cachoeira Chapot - Integrante.
+1995 - Atual
+Análise de acidentes considerando incertezas
+Descrição: Utilização de metodologia d incertezas no código computacional RELAP5/MOD3.2 para realizar análises de segurança de reatores tipo PWR do tipo"best estimate".. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antonio Carlos Marques Alvim - Coordenador / Ronaldo Célem Borges - Integrante / FRUTUOSO E MELO, P.F. - Integrante.

@@ -1,0 +1,8 @@
+2017 - 2019
+Métodos Alternativos de Sintonia de Controladores Não Lineares utilizando Informação Dinâmica de Sistemas de Propulsão
+Descrição: Este projeto tem como objetivo o desenvolvimento de técnicas de sintonia de controladores não
+lineares aplicados à robótica móvel, utilizando as informações dinâmicas do próprio sistema a controlar.
+Com esta abordagem, pretende-se melhorar o desempenho e reduzir o consumo de energia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sandro Battistella - Integrante / Edson R. de Pieri - Integrante / Carlos Henrique Farias dos Santos - Coordenador / Romeu Reginato - Integrante / Mohamed Hassan Abdali - Integrante.
+2012 - Atual
+Grupo de Pesquisa em Robótica
+Descrição: Aplicação de sistemas de controle, técnicas de inteligência artificial e sistemas a eventos discretos em robótica móvel terrestre, subaquática e aérea.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Sandro Battistella - Integrante / Carlos Henrique Farias dos Santos - Coordenador / Cairo Lúcio Nascimento Júnior - Integrante / Camilo Alexandre Furlanetto - Integrante / João Alberto Fabro - Integrante / Marcos Fonseca Mendes - Integrante / Guilherme de Oliveira Kunz - Integrante.

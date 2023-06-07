@@ -1,0 +1,30 @@
+2012 - 2013
+Desenvolvimento de filtros digitais de imanges para plataformas para o IOS
+Descrição: Projeto visando a implementação dos filtros de remoção de linhas e selecionadores do grupo de pesquisa de Processamento Digital de Imagens da EST/UEA na plataforma IOS da Apple.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Eden Freitas Ramos - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2012 - 2013
+Identificação Fabricantes de canetas esfereográficas através de Processamento Digital de Imagens
+Descrição: Projeto visando a identificação do fabricando de uma caneta esfereográrica através das médias e desvio-padrão das componentes RGB.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Antonio Carlos Ayres Camara - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2011 - 2012
+Geração de texturas para substituição de áreas danificadas em documentos envelhecidos
+Descrição: Projeto visando a análise estatística de livros da biblioteca da EST/UEA com vista a encontrar uma fórmula para a geração de textura através do parâmetro de envelhecimento do documento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Darlisson Marinho de Jesus - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2011 - 2012
+Identificação de tintas de canetas através de histogramas normalizados
+Descrição: Projeto visando a possibilade e identificação de tintas de canetas esfereográficas através dos histogramas normalizados das componentes RGB.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Antonio Carlos Ayres Camara - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2010 - 2011
+Remoção de selecionador através do realce de contraste
+Descrição: Desenvolvimento de um novo filtro para remoção de selecionadores através da análise da média e do desvio padrão das componentes RGB.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Diego de A. Barros - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2010 - 2011
+Extração de texto afetado por selecionador em documentos digitalizados
+Descrição: Projeto visou o desenvolvimento de algortimos para a criação de resumos de textos afetados por selecionadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Victor Matheus de S. Pereira - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.Número de produções C, T & A: 1
+2010 - 2010
+Análise da probabilidade de não detecção de erros de códigos detectores de erro de 32 bits utilizados em protocolos TCP/IP
+Descrição: Projeto visando encontrar as probabilidades de não detecção de erros da extensão de 32 bits do Internet Checksum.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Táina Martins do Nascimento - Integrante / Francisco Valmilson Araújo de Oliveira - Integrante.Número de produções C, T & A: 1
+2009 - 2010
+Filtros Digitais Determinísticos para Remoção de Áreas com Selecionador em Documentos Digitalizados
+Descrição: Projeto voltado para a análise de documentos afetados por selecionadores, visando a sua remoção por algoritmos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Victoria Carolina de Souza Mattos - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.Número de produções C, T & A: 2
+2009 - 2010
+Filtros Digitais Estatísticos para Remoção de Áreas com Selecionador em Documentos Digitalizados
+Descrição: Projeto visando a restauração de áreas afetadas por selecinadores com o uso de fontes de markov.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Winsber Ferreira Wasques - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2009 - 2010
+Ambiente de aplicação de Filtros Digitais para Remoção de Áreas com Selecionador em Documentos Digitalizados
+Descrição: Projeto com o intuito de desenvolver o ambiente para a plicação dos filtros em imagens digitalizadas do grupo de pesquisa de processasmento digital de imagens da EST/UEA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ricardo da Silva Barboza - Coordenador / Anderson Gadelha Fontoura - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.

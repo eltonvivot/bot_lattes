@@ -1,0 +1,3 @@
+2011 - Atual
+Webduino e RVA:a criação de uma rede de sensores aplicada ao Ensino de Ciências
+Descrição: Projeto de desenvovimento de um Weblab destinado ao ensino de Ciências. Este laboratorio estará baseado no uso do Arduino e seus Shields. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Cristiane Rodrigues Caetano Tavolaro - Integrante / Marisa Almeida Cavalcante - Coordenador / Elio Molisani - Integrante / José Neres de Almeida Junior - Integrante / Mario Madureira Fontes - Integrante / Bruno Stabile dos Santos - Integrante / Hector Costa Rebouças - Integrante.

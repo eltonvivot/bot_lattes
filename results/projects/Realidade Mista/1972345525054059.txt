@@ -1,0 +1,104 @@
+2022 - Atual
+Mapeamento de Espécies Florestais Nativas Empregando Dados Remotamente Situados
+Descrição: O emprego de dados remotamente situados para o mapeamento de estádios sucessionais e
+espécies arbóreas em florestas (sub)tropicais é uma tarefa complexa, devido à diversidade
+florística e espectral presentes. Nas últimas décadas verificou-se um avanço das geotecnologias
+voltadas para o monitoramento dos recursos florestais, como a disponibilidade de dados com alta
+resolução espacial e espectral e métodos de classificação sofisticados. Além da aquisição de
+imagens de alta resolução espacial e espectral, câmeras multiespectrais a bordo de veículos
+aéreos não tripulados (VANT/Drone) operando em formato de quadro permitem produzir nuvens
+de pontos tridimensionais (3D). Este estudo implementará o mapeamento de espécies arbóreas
+em um ambiente de floresta subtropical do sul do Brasil: a) o uso de imagens multiespectrais
+adquiridas por Drone e sua nuvem de pontos fotogramétrica (PPC) combinado com dados Light
+Detection and Ranging (LiDAR) e; b) o uso de imagensmultiespectrais adquiridas por Drone e
+informações da PPC para o delineamento de copas de árvores individuais (ITC) e para a
+classificação semiautomática de 5 espécies arbóreas dominantes em três fragmentos de floresta
+subtropical totalizando 80 ha. Para ambos os objetivos, serão testados diferentes conjuntos de
+dados contendo bandas do espectro visível/infravermelho próximo (VNIR), atributos derivados da
+PPC, modelo de altura de dossel (CHM) e outros atributos extraídos de dados multiespectrais (e.
+g., textura, índices de vegetação-VIs, e fração de ruído mínimo-MNF). Para a classificação de
+espécies arbóreas, dois algoritmos de aprendizado de máquina convencionais, SVM e RF, e um
+classificador de aprendizagem profunda, rede neural convolucional (CNN), serão testados em uma
+abordagem baseada em pixels. Além destes, também será testada uma nova abordagem SVM para
+lidar com o conjunto de amostras desbalanceadas, o SVM ponderado (wSVM). Para o
+delineamento das ITCs, são propostos três métodos: dois utilizando bandas multiespectrais, o
+algoritmo multirresolução por crescimento de regiões (MRG) e o itcIMG, e o terceiro método
+utilizando a nuvem de pontos PPC, denominado corte multiclasse seguido de corte recursivo
+(MCRC). Os algoritmos serão treinados em dois dos três fragmentos florestais e para o terceiro fragmento será aplicado o conceito de transferência de conhecimento. Serão obtidas para todos
+os três mapeamentos as métricas de acurácia e precisão tais como Matriz de Confusão, Precisão,
+Recall e Índice Kappa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Marcos Benedito Schimalski - Coordenador / Veraldo Liesenberg - Integrante / Carla Talita Pertille - Integrante / Thiago Floriani Stepka - Integrante / Natalia Sasso Pinheiro - Integrante / Olavo Ferreira Ribeiro - Integrante.
+2017 - Atual
+Extração de Parâmetros Biofísicos e Químicos de Plantas Empregando Sensoriamento Remoto
+Projeto certificado pela empresa KLABIN S.A. em 19/04/2021.
+Descrição: O surgimento de doenças e pragas é um dos principais fatores que afetam o crescimento das
+plantas. Em Santa Catarina a ocorrência de vespa da madeira e clorose tem gerado prejuízos ao
+setor madereiro. Recentemente, uma espécie de primata o Sapajus nigritus (Goldfuss),
+popularmente conhecido como macaco-prego, está atingindo plantios florestais de Pinus spp. Há
+relatos de danos causados por macacos-prego a plantios comerciais de Pinus spp. no Sul do
+Brasil desde a década de 1950 (LIMA, 1993; KOEHLER; FIRKOWSKI, 1996; ROCHA, 2000).
+Entretanto, a frequência e a intensidade dos danos aumentaram a partir da década de 1990. Nos
+últimos anos, os danos vêm sendo registrados na região Sul e Sudeste, especialmente nos
+estados do Paraná e Santa Catarina, e em menor intensidade, nos estados do Rio Grande do Sul e
+São Paulo (LIEBSCH; MIKICH, 2009; MIKICH; LIEBSCH, 2009; MIKICH; LIEBSCH, 2014). Segundo
+Hill (2000), espécies como S. nigritus são frequentemente tratadas como pragas ou pestes, uma
+vez que acarretam perdas aos produtores, incluindo perdas financeiras. Contudo, Santos et al.
+(2007) indicam que o termo adequado ao se referir a esse animal seja ?populações problema?,
+tendo em vista que os danos são localizados e causados por grupos ou populações, e não pela
+espécie como um todo. Dessa forma, é possível perceber a importância do monitoramento das
+populações de macacos-prego, bem como a avaliação do seu impacto sobre áreas florestais. Tais
+informações podem subsidiar eventuais programas de manejo da espécie voltados à conservação
+dos fragmentos florestais e da produção florestal e futuras análises econômicas do prejuízo
+causado por esse primata (LIBESCH et al., 2015). Inserida nessa temática, uma alternativa para
+esse cenário envolve a utilização de técnicas de Sensoriamento Remoto. Essa ciência dispõe de
+metodologias que podem ser usadas para quantificação, detecção de plantas atacadas e monitoramento de áreas acometidas pelo macaco-prego. Diante disso, a implementação da
+tecnologia conhecida como Unmanned Aerial Vehicles (UAV), ou seja, Veículos Aéreos Não
+Tripulados (VANT), possibilitou uma nova fonte de dados remotamente situados. Esses
+equipamentos possuem diversas vantagens, como leveza e baixo custo. Além disso, são
+operacionalmente fáceis de implementar como plataformas seguras. Adiciona-se a este cenário
+uma grande opção de plataformas espaciais que captam imagens digitais de ultra alta resolução
+espacial. Neste contexto, este projeto pretende implementar algoritmos computacionais e
+metodologias capazes de processar imagens digitais aéreas e orbitais possibilitando o
+diagnóstico de povoamentos florestais atacados pela população problema. Destaca-se a
+possibilidade de obtenção de patentes com potencial inovador uma vez que o diagnóstico
+proposto será obtido para cada árvore do talhão. Essa pesquisa conta com fomento aprovado
+pelo Edital 05/2018/FAPESC de Pesquisa Aplicada. Os recursos disponíveis para a implementação
+das atividades estão disponíveis. O projeto aprovado pela agência de fomento é apresentado nos
+anexos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Marcos Benedito Schimalski - Coordenador / LIESENBERG, VERALDO - Integrante / Carla Talita Pertille - Integrante / Gabriela de Oliveira - Integrante / Vitória da Silva de Souza - Integrante / Nathália Pereira Fiuza de Carvalho - Integrante.
+2012 - Atual
+Comparação das Variáveis Dendrométricas por meio da Fotogrametria Terrestre e do Método Tradicional dos Levantamentos Florestais.
+Descrição: A Fotogrametria de Curta de Distância tem aplicações em diferentes setores entre Arqueologia, Arquitetura, Mecânica entre outras. Esta técnica possibilita a extração de informações tridimensionais sobre os objetos registrados nas imagens digitais. A pesquisa está testando metodologias da Fotogrametria visando a extração automatizada de informação 3D e comparar com os métodos tradicionais utilizados em operações dendrométrica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Marcos Benedito Schimalski - Coordenador / Marcos Felipe Nicolleti - Integrante / Patrícia Silva - Integrante / Arthur Bratti Schimdt - Integrante.
+2012 - Atual
+Quantificação de Estoques de Carbono e Biomassa em Florestas Naturais Empregando Reconhecimento de Padrões e Imagens Satelitais
+Descrição: Este projeto visa aprimorar metodologias e métodos que possibilitem estimar de maneira indireta a carga de carbono presente em florestas naturais na região serrana de Lages. Estão sendo utilizados dados multiespectrais e informações oriundas de observações de campo visando classificar a carga de carbono presente nas florestas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Marcos Benedito Schimalski - Coordenador / Raul Silvestre - Integrante / Marcos Felipe Nicolleti - Integrante.
+2011 - 2012
+Classificação de Dados LiDAR Empregando Estatística Multivariada
+Descrição: Este projeto aprimorou rotinas computacionais que possibilitaram a classificação de dados LiDAR sem a necessidade de dados espectrais. A nuvem de pontos foi classificada de acordo com a cobertura do solo do local imageado. Também foram aprimoradas rotinas para filtragem de pontos no terreno (MDT).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Marcos Benedito Schimalski - Coordenador / Paulo Paulo Pereira - Integrante / Eliana Turmina - Integrante.Financiador(es): Universidade do Estado de Santa Catarina - Bolsa.
+2010 - 2011
+Implementação de Algoritmos de Classificação de Imagens Satelitais baseado em Estatística Multivariada
+Descrição: AA proposta desta pesquisa é o desenvolvimento de  metodologias  automatizadas capazes de extrair as classes temáticas relacionadas com a cobertura do solo a partir de imagens obtidas por sensores remotos, sem a necessidade de uma fonte adicional de informações. Como região de testes foi escolhida uma área de  transição entre o ambiente urbano e o rural localizada nas proximidades de cidade de  Canoinhas no estado de Santa Catarina. O reconhecimento de padrões será  empregado no desenvolvimento dos algoritmos de classificação, sendo escolhidas para  os testes a  Função Discriminante Linear de Fisher  e a Função Quadrática. Inicialmente, será compilada a base cartográfica temática do local com o auxílio da  fotointerpretação de imagens satelitais e reambulação (inspeção) de campo. A partir desta base serão selecionadas e então obtidas amostras das classes temáticas a partir  da segmentação das imagens satelitais, tornando possível o ajuste das funções de discriminação. O processo termina com a classificação das imagens satelitais e determinação dos índices de acerto para cada função empregada.  Como cofatores das funções de discriminação escolheram-se os índices normalmente empregados na classificação orientada a objetos, citando como exemplos a entropia, textura, vizinhança e informações espectrais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcos Benedito Schimalski - Coordenador / Tamara Mokwa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Bolsa.
+2010 - 2011
+Mapeamento da Cobertura do Solo do Município de Irineópolis e Determinação do Passivo  Ambiental/econômico
+Descrição: A ausências de políticas públicas voltadas ao monitoramento dos recursos naturais favoreceu a ocorrência dos passivos ambientais, isto é, áreas de preservação permanente (APP) degradadas por atividades agrosilvipastoris. Neste cenário, o planalto norte catarinense e mais especificamente o município de Irineópolis experimentou um aumento considerável de sua fronteira agrícola em detrimento a conservação das APP. O projeto em desenvolvimento visa detectar as áreas agrícolas e silviculturais que avançaram sobre as APP e que constituem-se em contravenção penal. Empregando-se imagens digitais obtidas pela plataforma orbital ALOS, técnicas de processamento digital de imagem e de geoprocessamento, a pesquisa delimitará os passivos ambientais no município de Irineópolis e fornecerá subsídios para que a comunidade local elabore políticas públicas voltadas a recuperação destes recursos naturais e que também impacte da menor maneira possível as atividades desenvolvidas nestas áreas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcos Benedito Schimalski - Coordenador / Jaine Ariely Cubas - Integrante / Carlos Roberto Rodrigues da Silva - Integrante.Financiador(es): Prefeitura Municipal de Irineópolis - Auxílio
+										financeiro.
+2008 - 2011
+Projeto de Aptidões Agrícolas do Município de Canoinhas
+Descrição: A pressão sobre os recursos naturais renováveis exercida pela atividade agrícola e pastoril tem exigido das autoridades o estabelecimento de programas para diagnóstico e monitoramento das atividades antrópicas. A aptidão agrícola é um parâmetro norteador e constitui-se em ferramenta funcional para o diagnóstico e direcionamento das atividades humanas. As atividades que estão sendo desenvolvidas pelo projeto prevêem a determinação dos parâmetros referentes a cobertura do solo municipal através de técnicas de processamento de imagens digitais obtidas por plataformas espaciais. Adicionalmente, estão sendo obtidas 300 amostras de solo distribuídas em toda a área municipal e que fornecerão índices de fertilidade e aproveitamento do solo. Estas informações primárias serão inseridas em um Sistema de Informações Geográficas (GIS) que possibilitará o cruzamento das informações obtidas além de considerar o efeito da declividade e o passivo ambiental, caracterizado pela delimitação das áreas de preservação permanente. Como resultado final mais importante, destaca-se um mapa temático que delimitará classes de aptidão do solo  e que servirá para o delineamento de políticas públicas e de desenvolvimento voltadas ao uso racional dos recursos naturais renováveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Marcos Benedito Schimalski - Coordenador / Kamila Grossl - Integrante / Heloísa Inês Dias - Integrante.Financiador(es): Prefeitura Municipal de Canoinhas - Auxílio
+										financeiro.
+2008 - 2009
+Imageamento SAR Aplicado ao Gerenciamento Antrópico e Natural
+Descrição: Pesquisa Científica Aplicada ao Desenvolvimento de metodologias e técnicas de Sensoriamento Remoto Orbital com imagens RADAR visando o monitoramento agrícola e ambiental no planalto norte catarinense.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Marcos Benedito Schimalski - Coordenador / Jefferson Schick - Integrante.Financiador(es): Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2001 - 2005
+Banco de Sementes Nativas das Florestas Ambrófilas Mistas do Rio Uruguai e Paraná
+Descrição: Implantação dos Bancos de Sementes Nativas nas Flonas de Guatambú e de Três Barras. Censo florestal. Elaboração do banco de dados, Implentação do GIS para as áreas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcos Benedito Schimalski - Integrante / Laerte Bonetes - Integrante / Luiz Cláudio Fossati - Coordenador / José Hilário Koehler - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2001 - 2004
+Determinação dos Parâmetros Qualitativos e Quantitativos da Bacia Hidrográfica do Rio Canoinhas
+Descrição: Quantificação da quallidade da água do Rio Canoinhas, elaboração da base cartográfica atualizada e implementação do GIS. Análise do qualidade da água. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcos Benedito Schimalski - Integrante / Reinhardt Sievers - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Auxílio
+										financeiro.
+2001 - 2002
+Determinação da Degradação dos Rios do Bugre, Tigre e Pardos
+Descrição: Levantamento de campo com coleta de dados, espacialização da degradação e montagem do GIS na plataforma Spring.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcos Benedito Schimalski - Coordenador.Financiador(es): Prefeitura Municipal de Três Barras - Bolsa.
+1996 - 1997
+Nivelamento geométrico de primeira ordem com níveis ópticos mecânicos e eletrônicos, estudo da refração nivelítica
+Descrição: Obtenção de informações de campo com nível de primeira ordem visando o nivelamento geométrico de precisão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcos Benedito Schimalski - Integrante / João Hipólito Xavier - Integrante / Isabel Franco do Lago - Integrante / Pedro Luiz Faggion - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1

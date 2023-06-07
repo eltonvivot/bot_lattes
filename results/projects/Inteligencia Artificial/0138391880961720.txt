@@ -1,0 +1,51 @@
+2022 - Atual
+Aperfeiçoamento de sistema de avaliação automática da qualidade da cimentação de poços de petróleo
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Integrante / João Crisósthomo de Queiroz Neto - Integrante / Alfredo Moisés Vallejos Carrasco - Integrante / Victor Rolando Ruiz Ahón - Coordenador.
+2021 - Atual
+Desenvolvimento de um Sistema Utilizando Inteligência Artificial para a Previsão do Tipo de Abandono Permanente
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Coordenador / camila abelha - Integrante / Victor Rolando Ruiz Ahón - Integrante.
+2020 - Atual
+Estudo de materiais para cimentação e tamponamento permanente de poços
+Descrição: Os poços de petróleo estão sujeitos a ambientes com alta pressão e temperaturas que variam de 150 a 4 °C, além de substâncias corrosivas que estão presentes no reservatório. Sendo assim, nesse projeto serão estudados: materiais (pastas de cimentação) resistentes a ambientes hostis para a operação segura do poço durante sua vida útil; e materiais para tamponamento de poços que atingiram o fim de sua vida produtiva, que devem ser fechados e selados de maneira permanente, com a finalidade de não ter escape posterior de fluidos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Coordenador / Camila Aparecida Abelha Rocha - Integrante.
+2020 - Atual
+Uso de Inteligência Artificial para o desenvolvimento de uma correlação para a viscosidade de emulsões de petróleo.
+Descrição: Com a evolução da vida produtiva de um campo de petróleo, observa-se frequentemente um aumento da produção de água associada (principalmente nas formas livre e emulsionada). A emulsão é geralmente formada a partir de uma grande variação de pressão durante a passagem em válvulas choke na cabeça do poço ou da mistura turbulenta em linhas de transporte produção. Essas emulsões são principalmente do tipo água em óleo (A/O), e podem possuir volumes de água maiores que 60%
+Inúmeros fatores afetam o comportamento reológico das emulsões, como a densidade do petróleo, a fração de água, a taxa de cisalhamento, temperatura, distribuição de tamanho de gotas e tipo e concentração de emulsificantes. Tendo isso em vista, o escoamento de petróleo muitas vezes não é bem representado pelas equações existentes, pois a maioria das equações não leva em conta a variação da viscosidade com a temperatura em função de propriedades de natureza química.
+Serão utilizadas técnicas de digitalização como inteligência artificial e mineração de dados para desenvolver um modelo que relacione a viscosidade de emulsões de água em petróleo com a densidadeo ºAPI, taxa de taxa de cisalhamento, temperatura e teor de água.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Coordenador.
+2018 - 2019
+Estudo da Influência da Frequência de Campos Elétricos na Melhoria da Separação de Emulsões de Água-em-Óleo
+Descrição: A aplicação de campos elétricos é uma técnica econômica e de baixo custo em relação às demais tecnologias de desestabilização, normalmente empregada na indústria do petróleo para desestabilizar a emulsão nas fases de óleo e água. A tecnologia atualmente disponível faz uso de grandes separadores envolvendo tempo de residência prolongado, introduzindo assim elevados custos de operação. Isso decorre do fato da abordagem de projeto atual baseia-se principalmente na migração lenta de gotas de água. Há, portanto, um espaço substancial para melhorar as tecnologias de separação existentes, estudando o processo de eletrocoalescência e, por meio da otimização dos equipamentos, será possível reduzir o tamanho dos separadores e torná-los mais eficientes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Integrante / Edson Hirokazu Watanabe - Coordenador.
+2018 - Atual
+Métodos e Dispositivos Analíticos Portáteis para Determinação de Agrotóxicos em Plataforma on line: Apoio à Confirmação e Detalhamento de Diagnósticos de Intoxicação de Trabalhadores Rurais e Mapeamento de Risco
+Descrição: A região serrana fluminense é o principal produtor de hortifrutigranjeiros do
+Estado do Rio de Janeiro e um dos mais representativos centros de produção de
+hortaliças e flores do Brasil. Nas décadas de 1980/1990 esta região foi considerada uma
+das áreas mais contaminadas por agrotóxicos no Brasil, com grande número de registros
+de suicídios associados ao uso de substâncias da classe dos anticolinesterásicos. Apesar
+deste cenário alarmante, a população rural desta região composta por produtores
+agrícolas de perfil familiar, não conta com hospitais públicos municipais com estrutura
+para a realização ou encaminhamento de material dos pacientes para análises que
+confirmem a presença de agrotóxicos e/ou seus metabólitos. Por conta disso, os
+diagnósticos consideram a exposição por agrotóxicos apenas como provável causa ou
+agravante do quadro clínico dos pacientes destas regiões agrícolas. Este fato prejudica
+o tratamento, seu monitoramento e seus registros junto à vigilância Ambiental em
+Saúde. É fundamental, ao trabalho da vigilância Ambiental em Saúde, relacionar
+precisamente os casos clínicos aos efeitos dos agrotóxicos em populações expostas. Por
+isso, aliado a métodos e equipamentos analíticos (biossensores) para a determinação
+de agrotóxicos em tempo hábil (para o tratamento dos pacientes) é necessário inserir
+tal informação à plataformas onde estes dados não ficarão armazenados apenas como
+uma informação arquivada. A comunicação entre dados ambientais e clínicos sobre
+agrotóxicos permitirá definir cenários de exposições e riscos desses agentes tóxicos
+sobre a saúde das populações. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Integrante / João Paulo Machado Torres - Coordenador / Monica Santana Vianna - Integrante.Financiador(es): FAPERJ - Auxílio
+										financeiro.
+2017 - 2019
+Separação de água e óleo emulsionados por eletrocoalescência com tensão e frequência controlados e interface de acompanhamento labview
+Descrição: Ao longo da vida útil de um poço de produção de petróleo, além da produção do óleo propriamente dito, ocorre também a coprodução de produtos como água e gás. Esta mistura passa pela formação rochosa do reservatório, atravessa os canhoneados, sobe pela coluna de produção e segue para Unidade Estacionária de Produção (UEP). Durante este trajeto, tal mistura é submetida à intensa turbulência, a qual fornece energia suficiente para dispersão da água no petróleo, formando assim uma emulsão de água em óleo, ou, mais simplificadamente, emulsão A/O. Além disto, a produção de água tende a aumentar com o envelhecimento do poço (seja pela elevação da água de formação ou pela produção da água de poços injetores), sendo a presença de emulsão A/O, portanto, uma realidade na indústria de óleo e gás. Dentre os diversos problemas que a presença desta emulsão pode causar ao longo da cadeia produtiva do petróleo, pode-se citar a corrosão nas linhas, bombas e outros equipamentos, os custos extras associados ao transporte, bombeamento e aquecimento. Dessa forma, fica evidente a necessidade e o interesse em remover ou mitigar a quantidade de água que chega à plataforma. Além disso, em alguns casos é empregado o processo de dessalgação de óleo com relativo alto teor de sal a partir da injeção de água e posterior retirada do mesmo. Em todos os casos, a retirada à água do óleo de forma eficaz e eficiente é uma demanda da indústria do petróleo. No cenário atual, diversas técnicas para promover ou melhorar a quebra de emulsões A/O são usadas. Alguns exemplos típicos incluem o uso de desemulsificante, ajustes de pH, sedimentação gravitacional ou por campo centrífugo, filtração, aquecimento e a utilização de campo elétrico. Do ponto de vista de eficiência energética e volume de equipamento, no entanto, a quebra da emulsão por eletrocoalescência, isto é, com o auxílio de forças geradas por um campo elétrico, é considerada a melhor técnica dentre aquelas supracitadas. Contudo, a dificuldade na modelagem das forças atuantes nas gotas de água, acoplada à dinâmica do separador em si, fazem com que o mecanismo de desemulsificação por eletrocoalescência ainda não seja perfeitamente compreendido. Forças eletrostáticas são as mais fortes interações em física da matéria condensada. Atualmente, é possível verificar que a extensão de polarização iônica entre uma interface de dois líquidos pode ser dinamicamente controlada a partir da escolha apropriada da magnitude e frequência do campo elétrico externo aplicado à emulsão. É conhecido, portanto, o efeito de eletrocoalescência de partículas aquosas na polarização de uma interface água-óleo a partir da aplicação de um campo elétrico conhecido. No entanto, cada emulsão apresenta valores de frequência e campo críticos distintos, a partir dos quais não existe mais o efeito da coalescência.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Integrante / Thiago Americano Do Brasil - Integrante / NELE, MÁRCIO - Integrante / Edson Hirokazu Watanabe - Coordenador.
+2015 - 2016
+Desenvolvimento de processos para quebra de emulsões de água em óleo utilizando eletrocoalescência e micro-ondas
+Descrição: Estabelecer relações entre a tratabilidade de emulsões de água em óleo por
+eletrocoalescência e eletrocoalescência associada a micro-ondas em função das condições
+de processo e as propriedades das emulsões.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Integrante / Márcio Nele - Coordenador.Número de produções C, T & A: 1
+2014 - 2017
+Modelagem, Simulação e Investigação Experimental da Eletrocoalescência
+Descrição: Avaliação do efeito de campos externos sobre emulsões de água-em-óleo do ponto de vista microscópico e macroscópico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Troner Assenheimer de Souza - Integrante / Márcio Nele - Coordenador / PINTO, JOSÉ CARLOS - Integrante.

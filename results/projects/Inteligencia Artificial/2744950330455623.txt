@@ -1,0 +1,23 @@
+2015 - 2016
+medidas e métodos  de compressão do sinal de eletrocardiograma
+Descrição: medida do grau complexidade do sinal de eletrocardiograma, com tecnica de Lempel Ziv, para detecção e previsão de arritmias e morte. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denys Emilio Campion Nicolosi - Coordenador / Pier Marco Ricchetti - Integrante.
+2015 - 2016
+COMPRESSÃO DE SINAIS DE ELETROCARDIOGRAMA: PROCESSOS ADAPTATIVOS E NÃO ADAPTATIVOS DE COMPRESSÃO E SUA CARACTERIZAÇÃO
+Descrição: Nesta pesquisa será analisado o processo da compressão de sinais adaptativa e não adaptativa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denys Emilio Campion Nicolosi - Coordenador / Pier Marco Ricchetti - Integrante.
+2009 - 2013
+Simulador Físico do Sistema Cardiovascular.
+Projeto certificado pelo(a) coordenador(a) Jeison Willian Gomes da Fonseca em 04/10/2013.
+Descrição: simulador hemodinâmico de um coração natural para testar desempenho de coração artificial. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denys Emilio Campion Nicolosi - Integrante / Aron J. Pazin de Andrade - Integrante / Julio Cesar Lucchi - Integrante / Jeison Willian Gomes da Fonseca - Coordenador.
+2008 - 2012
+APLICAÇÃO DE TÉCNICAS MATEMÁTICAS AVANÇADAS PARA AUXÍLIO A DIAGNÓSTICO EM IMAGENS, NA DETECÇÃO DE FRATURAS EM ENDOPRÓTESES (STENTS) EM ÁREA VASCULAR PERIFÉRICA
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denys Emilio Campion Nicolosi - Coordenador / Pier Marco Ricchetti - Integrante.
+2008 - 2012
+DETECÇÃO DE BORDAS EM IMAGENS DE ECOCARDIOGRAFIA UTILIZANDO REDES NEURAIS ARTIFICIAIS
+Descrição: desenvolvimento de detector de borda de imagens cardíacas obtidas por por ultrassom onde se aplica redes neurais para realizar detecção do contorno do ventrículo esquerdo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denys Emilio Campion Nicolosi - Coordenador / eduardo wu - Integrante.Número de produções C, T & A: 1
+2006 - Atual
+tele-eletrocardiografia
+Descrição: Diagnostico de ECG a distancia por tecnica wireless. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Denys Emilio Campion Nicolosi - Integrante / Cantidio Moura Campos Neto - Coordenador / Faustino F A C França - Integrante.Financiador(es): secretaria de saude do estado de sao paulo - Cooperação.
+1998 - Atual
+CORAÇÃO ARTIFICIAL ELETROMECANICO
+Descrição: Desenvolvimento de um dispositivo de suporte a vida para pacientes candidatos a transplante. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denys Emilio Campion Nicolosi - Coordenador / Aron J. Pazin de Andrade - Integrante / Jeison Willian Gomes da Fonseca - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Instituto Dante Pazzanese de Cardiologia - Auxílio
+										financeiro.

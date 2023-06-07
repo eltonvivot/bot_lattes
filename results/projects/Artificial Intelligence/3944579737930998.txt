@@ -1,0 +1,45 @@
+2021 - Atual
+Um sistema de recomendação personalizada de conteúdo em um ambiente inteligente de aprendizagem: uma abordagem baseada em ontologia e agente conversacional
+Descrição: A recomendação de OAs é convenientemente tratada pelos sistemas de recomendação de recursos educacionais por meio de técnicas de filtragem. Atualmente, essas técnicas são combinadas para melhorar a recomendação de OAs, contudo, ainda há gargalos nesses sistemas, que são os problemas cold-start, esparsidade de ratings e o fato de eles não
+considerarem durante a recomendação os múltiplos conceitos que o estudante precisa aprender. Neste trabalho, visa-se amenizar esses problemas por meio de um sistema de recomendação personalizada.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Fabiano Azevedo Dorça - Coordenador / Alessandro Vivas - Integrante / Clarivando F. Belizário Júnior - Integrante / Luciana Pereira Assis - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de orientações: 1
+2020 - Atual
+A inteligência artificial como recurso tecnológico na aplicação de tarefas para o desenvolvimento de atenção compartilhada em crianças com autismo
+Descrição: O objetivo geral da proposta é desenvolver uma abordagem computacional para intervenção que permita a interação do aluno com autismo, com idade entre 4 e 5 anos, com déficit em atenção
+compartilhada (AC) e dificuldades sócio-comunicativas. Projeto desenvolvimento em cooperação interinstitucional da FACOM/UFU, FACED/UFU e UFSCAR.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Fabiano Azevedo Dorça - Coordenador / Nassim Chamel Elias - Integrante / Valéria Peres Asnis - Integrante / Nathália Assis Valentim - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de orientações: 1
+2014 - 2016
+Desenvolvimento de uma Estratégia de Ensino apoiada em Processos de Decisão Markovianos para Ambientes Virtuais de Aprendizagem
+Projeto certificado pelo(a) coordenador(a) Carlos Roberto Lopes em 31/05/2016.
+Descrição: A inserção das tecnologias no âmbito escolar tem se acentuado. O estado brasileiro tem criado
+diversos programas para popularizar a inclusão tecnológica nas escolas. Entretanto há algumas
+contradições quando a estes programas, que na maioria é destinada a compra de equipamentos. A
+capacitação docente e também o desenvolvimento de sistemas, que tornem o aprendizado mais
+eficiente, não tem a mesma atenção. Para superar tais deficiências é possível utilizar novas
+tecnologias. Visando propiciar um ensino de qualidade, o que implica em apresentar conteúdos
+adequados ao perfil do estudante, educadores podem fazer uso de ambientes virtuais de
+aprendizagem. É importante nestes sistemas ter-se implementado uma política pedagógica ótima,
+que leve a escolha da melhor ação pedagógica considerando o estado cognitivo e afetivo do aluno.
+Neste projeto será investigada a adoção de processos de decisão markovianos parcialmente
+observáveis na implementação de uma política pedagógica. Este método permite a definição de
+políticas para tomada de decisão em ambientes onde as ações são seqüenciais, os estados imprecisos
+e seus efeitos incertos. Um ambiente educacional apresenta todas estas características: o conteúdo
+instrucional é uma seqüência de objetos de aprendizagem,o estado afetivo e cognitivo do estudante é
+impreciso e existe incerteza no resultado que deverá ser alcançado após a apresentação de um
+objeto de aprendizagem. Um Processo de decisão markoviano parcialmente observável além de
+definir a ação que maximiza o resultado imediato, também é capaz de selecionar esta ação
+considerando a maximização de resultados futuros. Ao final do projeto ter-se-á um sistema
+educacional apoiado por computador, baseado em uma arquitetura inteligente e de tal maneira que
+esta seja uma ferramenta geral para propiciar a adaptabilidade do conteúdo ao estudante em cursos
+de educação a distância ou presencial.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano Azevedo Dorça - Integrante / Carlos Lopes - Coordenador / Márcia Aparecida Fernandes - Integrante / arlindo josé de souza junior - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2014 - Atual
+Desenvolvimento de uma abordagem para recuperação e recomendação personalizada de objetos de aprendizagem baseada em estilos de aprendizagem em sistemas adaptativos e inteligentes para educação.
+Descrição: Este trabalho propõe o desenvolvimento de uma abordagem para geração de conteúdo de hipermídia adaptado às preferências de estilos de aprendizagem dos estudantes, levando em consideração os objetivos de aprendizagem, o nível de conhecimento, os interesses, dificuldades e aprendizagem, dentre outras especificidades cognitivas  do estudante.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fabiano Azevedo Dorça - Coordenador.Financiador(es): Universidade Federal de Uberlândia - Auxílio
+										financeiro.
+2006 - 2009
+NES Núcleo de Engenharia de Software
+Descrição: O NES foi oficialmente fundado em Março de 2006, com o objetivo de envolver os alunos do curso de Sistemas de Infomação do Unipam em projetos de pesquisa e aplicação prática na área de Engenharia de Software. Desde sua criação, o núcleo tem publicado artigos em congressos regionais, além de ter gerado diversos trabalhos de conclusão de curso nesta instituição.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (11) . Integrantes: Fabiano Azevedo Dorça - Coordenador.Número de produções C, T & A: 14
+2002 - Atual
+Grupo de Inteligência Artificial
+Descrição: Este projeto visa o avanço em pesquisas na área de Inteligência Artificial, onde três dissertações de mestrado já foram produzidas por integrantes do grupo. O grupo tem publicado trabalhos em eventos científicos nacionais e internacionais. As atividades desenvolvidas pelos membros do grupo se estendem a cursos de graduação e pós-graduação. Os trabalhos de iniciação científica e mestrado são voltados para o desenvolvimento de software que visa atender aos anseios da comunidade científica e dos setores industriais e empresariais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabiano Azevedo Dorça - Coordenador / Carlos Lopes - Integrante / Márcia Aparecida Fernandes - Integrante / Robson S. Lopes - Integrante.Número de produções C, T & A: 11

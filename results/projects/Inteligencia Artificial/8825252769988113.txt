@@ -1,0 +1,28 @@
+2021 - Atual
+Modelagem e Utilização de Teoria da Mente em Sistemas Multiagentes
+Descrição: O objetivo desse projeto de pesquisa está centrado no estudo sobre a modelagem e utilização de teoria da mente em sistemas multiagentes. Teoria da mente possibilita a modelagem e simulação da mente (atitudes mentais) de outros indivíduos, comportamento presente na inteligência humana e de fundamental interesse em ser replicado em agentes inteligentes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alison Roberto Panisson - Coordenador / Heitor Henrique da Silva - Integrante / ROCHA, MICHELE - Integrante.
+2021 - Atual
+ArgAI - ARGumentation applied to Artificial Intelligence
+Descrição: O objetivo desse projeto de pesquisa está centrado no desenvolvimento de técnicas de inteligência artificial mais transparentes que visam melhorar a vida das pessoas, em particular, no desenvolvimento de técnicas que utilizam argumentação. Dessa forma, técnicas de inteligência artificial poderiam ter um papel mais abrangente em nossa sociedade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Alison Roberto Panisson - Coordenador / Giovani Farias - Integrante / Bordini, Rafael H. - Integrante / Debora Cristina Engelmann - Integrante / Ádrian Simon - Integrante.
+2019 - Atual
+Aplicação de Técnicas de Argumentação para uma Inteligência Artificial mais Transparente e Humanitária
+Descrição: Desenvolver técnicas de inteligência artificial mais transparentes que visam melhorar a vida das pessoas, em particular, utilizando técnicas de argumentação. 
+Argumentação é uma linha de pesquisa multidisciplinar que ganhou força na comunidade de inteligência artificial nos últimos anos, devido sua aplicação em técnicas de tomada de decisão e raciocínio lógico, bem como comunicação semântica entre computador-computador e humano-computador. Entre
+as vantagens da utilização de argumentação estão a transparência no processo de tomada
+de decisão por máquina e a facilidade de interpretar, analisar e comunicar essas tomadas
+de decisões. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alison Roberto Panisson - Coordenador / Rafael Heitor Bordini - Integrante.
+2015 - 2017
+Argumentação e Confiança em Sistemas Multiagentes
+Projeto certificado pelo(a) coordenador(a) Rafael Heitor Bordini em 06/11/2019.
+Descrição: Durante um processo de argumentação, várias metainformações podem ser utilizadas para ponderar (dar peso à) argumentos. Nesse projeto, investigamos o uso da metainformação de confiança, modelando sistemas computacionais baseados nas tecnologias de sistema multiagentes, em que argumentos vindos de fontes mais confiáveis possuem maior peso em um processo de argumentação (diálogos e raciocínio). Essas tecnologias podem ser usadas, inclusive, na detecção de fakenews.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Alison Roberto Panisson - Integrante / Rafael Heitor Bordini - Coordenador / Victor S. Melo - Integrante.Número de produções C, T & A: 1
+2013 - 2015
+SeaTeaMS - Semantic Technologies and Multi-Agent Systems for Team Interaction
+Descrição: This project aims to use semantic and multi-agent techniques to create a programming framework and software toolkit supporting the development of applications that mediate the interactions in groups of people. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Alison Roberto Panisson - Integrante / Giovani Farias - Integrante / Artur Freitas - Integrante / Felipe Meneguzzi - Integrante / Renata Vieira - Integrante / Daniela Schmidt - Integrante / Moser Silva Fagundes - Integrante / Bordini, Rafael H. - Coordenador.Financiador(es): Samsung Eletrônica da Amazônia - Auxílio
+										financeiro.
+2013 - Atual
+SMART - Sistemas Multiagentes, Robótica e Tecnologias Semânticas
+Projeto certificado pelo(a) coordenador(a) Rafael Heitor Bordini em 26/05/2019.
+Descrição: The SMART research group produces internationally leading research in Artificial Intelligence, especially in the areas of multi-agent systems and domain-specific knowledge representation using formal ontologies. Overall, the group aims to employ the techniques it develops in the production of innovative technology for the social good and sustainability.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Especialização: (1)  / Mestrado acadêmico: (4) Doutorado: (4) . Integrantes: Alison Roberto Panisson - Integrante / Renata Vieira - Integrante / Rafael Heitor Bordini - Coordenador / Schmidt, Daniela - Integrante / Débora Cristina Engelmann - Integrante / Juliana Damasio Oliveira - Integrante / Tabajara Krausburg Rodrigues - Integrante / Tulio Lima Basegio - Integrante / Vitor Miguel Xavier Peres - Integrante.
+2011 - 2012
+Sisalert - sistema de previsão de risco de epidemias de doenças de plantas
+Descrição: Pesquisas relacionadas a previsão de epidemias e estudo de tecnologias para o estudo das mesmas, bem como a disponibilização de informações através de portais, etc.... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alison Roberto Panisson - Integrante / jaqson Dalbosco - Coordenador / Eduardo Becker da Luz - Integrante.Financiador(es): Universidade de Passo Fundo - Bolsa.

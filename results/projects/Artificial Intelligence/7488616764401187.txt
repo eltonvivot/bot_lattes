@@ -1,0 +1,9 @@
+2011 - 2016
+Identificação de Obras Musicais
+Descrição: Este projeto se insere no contexto geral do que se passou a chamar recentemente de Data Science que procura combinar técnicas associadas à quantidade massiva de dados (Big Data). O objetivo é permitir a quantificação analítica dos dados e aqui existe uma peculiaridade: pesquisa e aplicações são interconectadas.
+O objetivo é o estudo de similaridades de canções com o fim de arrecada direitos autorais. Os aspectos matemáticos e computacionais do projeto são:
+1. A decomposição de sinais com o uso de análise de Fourier, 
+2. A interpretação de sinais em termos de elementos da música ocidental,
+3. Técnicas de similaridade, local e global, que fazem uso de álgebra linear computacional,
+4. Estudo de recorrência interpretando o sinal como um sistema dinâmico discreto não-linear,
+5. O uso de mapas de difusão, baseados em cadeias de Markov, para determinar agrupamentos de músicas similares (clustering).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Geovan Tavares dos Santos - Integrante / Luis Gustavo Nonato - Integrante / Marco Antonio Grivet - Coordenador / Rodrigo Fernandes de Melo - Integrante.

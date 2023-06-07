@@ -1,0 +1,130 @@
+2020 - Atual
+Sistema de Apuração e Simulação do FID
+Descrição: 1. Automatizar a apuração dos eventos de mudanças de estado operativos e/ou disponibilidades, tendo como principais entradas:
+. Dados hidrológicos: níveis montante e jusante e vazões vertidas;
+. Dados de geração: programado, realizado e restrições de transmissão;
+. Documentos de intervenções ?SGI?;
+. Dados do sistema de apuração do ONS ?SAMUG?;
+. Integração com os sistemas supervisórios disponíveis na SAE, por exemplo, o SAGE.
+. Relatório diário de operação.
+. Criação de um sistema editor de regras ou equações dinâmico no tempo.
+. Possibilidade de particionar eventos.
+. Dados oriundos da CCEE para apuração do resultado financeiro
+. Simulação de cenários futuros de FID x PLD considerando o período de concessão e distribuição de probabilidade de eventos.
+2. Simular a apuração dos eventos de mudanças de estado operativos e/ou disponibilidades, podendo mudar quaisquer um dos parâmetros acima mencionados:
+. Parametrização de cenários a serem simulados repetidas vezes;
+. Poder gravar os diversos cenários simulados;
+. Identificar os eventos a serem corrigidos em eventuais solicitações de expurgos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Alessandro de Lima Castro - Integrante / Tales Pulinho Ramos - Integrante / Alexandre Bessa - Integrante / HONORIO, LEONARDO M. - Integrante / OLIVEIRA, MARCOS T. B. - Integrante / carlos henrique nascimento sant'ana - Integrante / OLIVEIRA, ELISA - Integrante / Lucas Reis Conceição - Integrante.
+2019 - Atual
+Gerenciamento de Recursos Energéticos Distribuídos para Prestação de Novos Serviços à Rede Elétrica
+Descrição: Os principais objetivos do presente projeto de pesquisa e desenvolvimento são:
+> Levantamento de normas que regulamentam integração de Recursos Energéticos Distribuídos (RED) e sua potencial participação em serviços ancilares no sistema interligado nacional (SIN), identificação das lacunas e as proposições. 
+> Modelagem dos diversos tipos de REDs (veículo elétrico, gerador distribuído, armazenamento de energia, demanda controlável), utilizando quando possível, banco de dados bem estabelecidos na comunidade cientifica como os encontrados em ferramentas como DigSilent power factory, openDSS, Matlab, Python e etc.
+> Modelagem de rede de distribuição de energia contendo grande número de conexões de RED, permitindo avaliar os impactos tais como fluxo reverso, oscilações de tensão e limitantes térmicos nos condutores, utilizando quando possível, ferramentas de simulação bem estabelecidas na comunidade cientifica. 
+> Desenvolvimento de ferramenta capaz de indicar dimensionamento e localização ótimas para os diferentes tipos de RED que permitam melhoria na eficiência de operação do sistema, maximizando participação em provável mercado de serviço ancilar.
+> Identificação de modelos de atuação como agregador, combinando os efeitos das REDs coordenados para regulação dos parâmetros operacionais da distribuição
+> Identificação do impacto da integração de RED no sistema interligado nacional (SIN) e como o efeito agregado de REDs coordenados pode ser modelada como Virtual Power Plant (VPP).
+> Desenvolvimento da plataforma web de simulação de gestão ativa de rede sendo esta capaz de indicar os pontos ideais de conexões de REDs que maximizam participação em serviços ancilares e que maximiza absorção de injeções provenientes de REDs por meio do controle coordenado da capacidade agregada. 
+> Avaliação de impacto agregado pela alta penetração de REDs no planejamento da operação do Sistema Interligado Nacional (SIN). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (6)  / Doutorado: (4) . Integrantes: André Luís Marques Marcato - Coordenador / Janaína Oliveira - Integrante / João Alberto Passos Filho - Integrante / Ivo Chaves da Silva Junior - Integrante / TOMIM, MARCELO AROCA - Integrante / DANTAS, MARIO A. R. - Integrante.
+2018 - Atual
+Análise Estocástica de Perdas Técnicas em Sistemas de Energia - EMG (Energisa Minas Gerais) e EPB (Energisa Paraíba)
+Descrição: Desenvolver um sistema baseado em cloud-computing que demonstra o impacto da estocasticidade da geração distribuída no cálculo das metas de perdas técnicas a serem atingidas pelas empresas distribuidora durante o ciclo de revisão tarifária. Especificamente, para o caso da Energisa Minas Gerais serão avaliados os impactos da conexão de pequenas centrais hidrelétricas nos sistemas de alta, média e baixa tensão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Cristina M.B. Castro - Integrante / João Alberto Passos Filho - Integrante / Ivo Chaves da Silva Junior - Integrante.
+2018 - Atual
+Estudos de Metodologias para a Conexão Usinas Eólicas Off-Shore de Grande e Pequeno Porte - Aspectos Elétricos e Energéticos
+Projeto certificado pelo(a) coordenador(a) João Alberto Passos Filho em 19/11/2018.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Integrante / Pedro Gomes Barbosa - Integrante / Carlos Augusto Duque - Integrante / João Alberto Passos Filho - Coordenador / Marcelo Aroca Tomim - Integrante / Ricardo Mota Henriques - Integrante / IVO, C. S. - Integrante / WILLER, LEONARDO DE OLIVEIRA - Integrante.
+2017 - 2019
+Modelo de Otimização Para o Modelo SMAP Utilizando Técnicas Bio-Inspiradas
+Descrição: O Modelo SMAP (Soil Moisture Active Passive) é um modelo chuva vazão que é utilizado pelo Operador Nacional do Sistema para gerar a previsão de vazões de curto prazo. Este projeto visa corrigir otimamente os parâmetros de entrada do Modelo SMAP de forma que as vazões observadas se aproximem das vazões calculadas pelo modelo. Para tanto foi utilizado a técnica de otimização bio-inspirada "bat search algorithm". O modelo computacional desenvolvido será distribuído para todos os agentes do Sistema Interligado Nacional (SIN) a partir de janeiro de 2018.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Ivo Chaves da Silva Junior - Integrante / carlos henrique nascimento sant'ana - Integrante.
+2017 - Atual
+Otimização Aplicada ao Planejamento da Operação de Sistemas de Energia de Grande Porte e Patrulhamento por Enxame de Robôs
+Descrição: Chamada 02/2017 da FAPEMIG - Programa Pesquisador Mineiro - PPM XI. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador.
+2016 - 2018
+Modelo MDDH+: Ferramentas Estocásticas Apli- cadas às Fontes Alternativas, Modelagem do Comportamento da Demanda de Médio/Longo Prazo e Análise de Risco de Mercado
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Tales Pulinho Ramos - Integrante / Rafael Bruno da Silva Brandi - Integrante / Cristina M.B. Castro - Integrante / Bruno Henriques Dias - Integrante / João Alberto Passos Filho - Integrante / Ivo Chaves da Silva Junior - Integrante.
+2015 - 2018
+Técnicas de Otimização Aplicadas ao Planejamento da Operação de Sistemas de Energia
+Descrição: Projeto referente a Bolsa de Produtividade em Pesquisa do CNPq - Nível 2 - Comitê EE - Engenharia Elétrica e Biomédica (Processo: 307819/2014-0). Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador.
+2014 - 2017
+Sensoriamento remoto de áreas do entorno de reservatório utilizando veículo aéreo não tripulado
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: André Luís Marques Marcato - Integrante / Daniel Silveira Discini - Integrante / Leonardo Olivi - Integrante / Thiago Vieira Nogueira Coelho - Integrante / Alexandre Teixeira Menezes - Integrante / Alexandre dos Santos Bessa - Coordenador.Financiador(es): Duke Energy International, Geração Paranapanema - Cooperação.
+2013 - 2015
+Modelo de Otimização do Despacho Hidrotérmico FASE 2
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: André Luís Marques Marcato - Coordenador / Tales Pulinho Ramos - Integrante / Rafael Bruno da Silva Brandi - Integrante / Bruno Henriques Dias - Integrante / João Alberto Passos Filho - Integrante / Ivo Chaves da Silva Junior - Integrante.Financiador(es): Duke Energy Geração Paranapanema - Outra.
+2013 - 2015
+Técnicas De Otimização Para Aprimoramentos No Planejamento Da Operação Hidrotérmica E No Algoritmo De Localização E Mapeamento Simultaneos De Robôs Móveis
+Descrição: Edital 03/2013 ? Programa Pesquisador Mineiro - PPM VII (PPM-00488-13). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: André Luís Marques Marcato - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2013 - 2015
+Desenvolvimento de Modelo para Simulação de Transitórios Eletromecânicos e Termodinâmicos para Avaliação Integrada em Plantas de Co-Geração
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2) . Integrantes: André Luís Marques Marcato - Coordenador / João Alberto Passos Filho - Integrante / Manuel Arturo Rendón - Integrante / Ivo Chaves da Silva Junior - Integrante / TOMIM, MARCELO AROCA - Integrante / Marco Aurélio Alves - Integrante / Marcelo Assato - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Outra.
+2012 - 2015
+(Edital 16/2010 - Programa de Apoio a Nucleos Emergentes de Pesquisa) - Novo Modelo de Otimização para o Despacho Hidrotérmico
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Edimar José de Oliveira - Integrante / Ivo da Silva Chaves Jr - Integrante / Leonardo Willer de Oliveira - Integrante / Luiz Antônio Fonseca Manso - Integrante / João Alberto Passos Filho - Integrante / Marcelo Aroca Tomim - Integrante / Flávio Wanderson Gomes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2013
+Otimização da produção e distribuição de Gás Natural considerando efeitos do pré-sal e insumos concorrentes sobre a Política de Operação Hidrotérmica
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Ivo da Silva Chaves Jr - Integrante / Tales Pulinho Ramos - Integrante / Rafael Bruno da Silva Brandi - Integrante.Financiador(es): Duke Energy Geração Paranapanema - Auxílio
+										financeiro.
+2012 - 2013
+Modelo de Otimização do Despacho Hidrotérmico - Abordagem: PDE e PDDE (Sistemas Equivalentes) com Consideração de Aversão ao Risco e Tratamento Estocástico da ENA
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: André Luís Marques Marcato - Coordenador / Tales Pulinho Ramos - Integrante / Rafael Bruno da Silva Brandi - Integrante.Financiador(es): Duke Energy Geração Paranapanema - Outra.
+2010 - 2011
+PROJETO ESTRATEGICO ANEEL - Modelo de Otimização do Despacho Hidrotérmico - Abordagem: PDE e PDDE (Sistemas Equivalentes) com a Consideração de Aversão ao Risco e Tratamento Estocástico da ENA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Edimar José de Oliveira - Integrante / José Luiz de Rezende Pereira - Integrante / Paulo Augusto Nepomuceno Garcia - Integrante / Ivo da Silva Chaves Jr - Integrante / Tales Pulinho Ramos - Integrante / Rafael Bruno da Silva Brandi - Integrante / Bruno Henriques Dias - Integrante / João Alberto Passos Filho - Integrante / Marcelo Aroca Tomim - Integrante / Flávio Wanderson Gomes - Integrante.Financiador(es): Duke Energy Geração Paranapanema - Auxílio
+										financeiro / Companhia Energética de São Paulo - Matriz - Auxílio
+										financeiro / Companhia Energética de Minas Gerais - Auxílio
+										financeiro / Companhia Paulista de Força e Luz - Auxílio
+										financeiro / Companhia Piratininga de Força e Luz - Matriz - Auxílio
+										financeiro / Companhia Energética Manauara - Auxílio
+										financeiro / Central Geradora Termelétrica Fortaleza - Auxílio
+										financeiro / Centrais Elétricas Cachoeira Dourada S.A. - Auxílio
+										financeiro / AES Uruguaiana Empreendimentos - Auxílio
+										financeiro / Companhia Estadual de Geração e Transmissão de Energia Elétrica - Matriz - Auxílio
+										financeiro / Light - Auxílio
+										financeiro / Bandeirante Energia S.A. - Auxílio
+										financeiro / Enerpeixe S.A. - Auxílio
+										financeiro / BAESA - Energética Barra Grande S.A. - Auxílio
+										financeiro / ENERCAN - Campos Novos Energia S.A. - Auxílio
+										financeiro / Ceran - Companhia Energetica Rio das Antas - Auxílio
+										financeiro / Itiquiria Energética S.A. - Auxílio
+										financeiro / Eletropaulo Metropolitana Eletricidade de São Paulo S.A. - Auxílio
+										financeiro / Rio Grande Energia - Auxílio
+										financeiro / AES Tietê/ANEEL - Auxílio
+										financeiro.
+2009 - 2011
+Desenvolvimento de um Protótipo, Denominado Módulo Portátil, para Proteção dos Sistemas Elétricos em Subestações
+Situação: Desativado; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Helio Antônio da Silva - Integrante / Paulo Augusto Nepomuceno Garcia - Integrante.Financiador(es): CEMIG Distribuidora - Auxílio
+										financeiro.
+2008 - 2011
+Planejamento Eletro-Energético - Uma Interface entre Operação à Usinas Individualizadas e a Rede Básica
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / José Luiz de Rezende Pereira - Integrante / Marcelo Lobosco - Integrante / Marcelo Bernardes - Integrante / Rodrigo Weber - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2009
+Plataforma Computacional com Metodologias para Planejamento Integrado Gás-Eletricidade
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador.Financiador(es): Duke Energy Geração Paranapanema - Auxílio
+										financeiro.
+2007 - 2008
+ESTIMATIVA DAS TAXAS DE DEGRADAÇÃO DAS FRAÇÕES DE CARBOIDRATOS E DAS FRAÇÕES NITROGENADAS
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Integrante / Pedro Braga Arcuri - Coordenador / Jailton da Costa Carneiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2006 - 2009
+Cooperação Técnica Entre a UFJF e o CEPEL no âmbito do Projeto SUISHI-O
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador.Financiador(es): Centro de Pesquisas de Energia Elétrica - Auxílio
+										financeiro.
+2006 - 2008
+Técnicas Inteligentes Aplicadas à Otimização do Despacho Hidrotérmico do Sistema Interligado Nacional (SIN)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador.Financiador(es): Duke Energy Geração Paranapanema - Auxílio
+										financeiro.
+2006 - 2007
+Priorização do Programa de Manutenção nas Unidades Geradoras de Energia utilizando Teoria das Opções Reais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador / Alessandro de Lima Castro - Integrante / Haroldo Faria - Integrante / Luiz Eduardo Brandão - Integrante.Financiador(es): Light - Auxílio
+										financeiro.
+2005 - 2006
+Modelo Gerador de Séries Sintéticas de Energia Afluente a Sistemas Equivalentes
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador.Financiador(es): Duke Energy Geração Paranapanema - Auxílio
+										financeiro.
+2005 - 2006
+ESTRATÉGIAS PARA O PLANEJAMENTO DA EXPANSÃO E CÁLCULO DE ENERGIA GARANTIDA ATRAVÉS DE TÉCNICAS INTELIGENTES
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Marques Marcato - Coordenador.Financiador(es): Duke Energy Geração Paranapanema - Auxílio
+										financeiro.

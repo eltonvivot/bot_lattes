@@ -1,0 +1,51 @@
+2023 - Atual
+Qualidade da aplicação realizada por drones de pulverização em culturas perenes e anuais
+Descrição: A aplicação de defensivos agrícolas utilizando drones tem se tornado uma prática cada vez mais comum em culturas perenes e anuais, oferecendo benefícios como maior eficiência na aplicação, redução de custos e minimização do impacto ambiental. No entanto, para garantir a qualidade da aplicação realizada por drones, é necessário avaliar a uniformidade da distribuição do produto nas plantas e o controle da deriva. Espera-se que o uso de drones permita uma aplicação mais precisa e eficiente de defensivos agrícolas, resultando em redução de custos, maior produtividade e minimização do impacto ambiental. Outra vertente pe a obtenção de informações importantes sobre as melhores práticas de aplicação de defensivos agrícolas com drones, bem como sobre a eficácia e segurança dessa prática em diferentes culturas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Adão Felipe dos Santos - Coordenador / DALYSE TOLEDO CASTANHEIRA - Integrante / DÓRIA, JOYCE - Integrante / Ana Claudia Costa Baratti - Integrante / Thiago Orlando Costa Barboza - Integrante / Jessica Elaine Silva - Integrante / Matheus ardigueri - Integrante / Guillerme F C SOUZA - Integrante / mario lucio villela de Resende - Integrante / Edson Ampélio Pozza - Integrante / Marcelo araujo j ferraz - Integrante / octavio P costa - Integrante.
+2021 - Atual
+Uso de inovações técnologicas para o suporte à tomada de decisão em sistemas agrícolas
+Descrição: A otimização de processos agrícolas tem ganhado destaque nos últimos anos, principalmente pela possibilidade da integração de sistemas inteligentes que auxiliam na tomada de decisão com as máquinas. Dessa forma, os trabalhos do nosso grupo de pesquisa têm sido focados na melhoria das operações, desde o preparo do solo até a colheita com ênfase no uso de sistemas inteligentes e zonas de manejo. Esse projeto tem como foco a utilização de técnicas de machine learning, redes neurais artificiais e indices de vegetação em diversas etapas do processo de produção visando o delineamento de zonas de manejo para aumentar a produtividade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adão Felipe dos Santos - Coordenador / Rouverson Pereira da Silva - Integrante / PEDRO FRANCISCO LOPES GIOVANI - Integrante / ANA CAROLINA COSTA CALOGI - Integrante.
+2021 - Atual
+Inteligência artificial e sensoriamento remoto aplicados na melhoria da estimativa da maturação de amendoim em campo
+Descrição: A identificação da maturação é feita raspando manualmente 200 vagens as quais são
+classificadas através do método Hull-scrape. Embora este método seja um bom indicador de
+maturação, é trabalhoso, subjetivo e a amostragem não fornece boa compreensão da
+variabilidade espacial da maturação em escala comercial, o que pode reduzir qualidade e/ou
+aumentar as perdas na colheita. Estudos recentes de pesquisadores do Brasil e dos EUA
+apontaram que imagens de satélites é uma potente ferramenta para mapear a variabilidade da
+maturação nos campos de amendoim. Entretanto, ressalta-se que é fundamental associar os
+valores de índices de vegetação com o acúmulo de graus dias (AGD) das plantas para melhor
+acurácia na estimativa. Porém, pouco se sabe sobre o AGD das plantas de amendoim no Brasil.
+Assim, considerando essa lacuna, este projeto visa criar um modelo de predição da maturação e
+produtividade de amendoim em Minas Gerais utilizando inteligência artificial e dados provenientes
+de modelos de circulação global (NASA-Power) e imagens multiespectral aérea. Para tanto, a
+primeira etapa desse projeto será desenvolvida utilizando dados de duas safras de áreas
+provenientes do estado de São Paulo e do estado da Georgia, EUA. Essa etapa será fundamental,
+uma vez que ainda não se tem dados suficientes para criar um modelo específico para MG. Além
+disso, no momento da implementação do modelo no estado já será conhecida as melhores
+variáveis de entrada com base na performance das outras regiões. Espera-se que com este
+projeto seja possível realizar a previsão da maturação e produtividade de amendoim de forma
+remota para as áreas desejadas, alavancando a produção no estado juntamente com as outras
+duas regiões envolvidas neste projeto. Os resultados deste projeto poderão ser utilizados em
+diversos países produtores de amendoim, colocando o Brasil na vanguarda do desenvolvimento
+de tecnologias para produção de amendoim, ampliando a rede de pesquisas sobre a cultura do
+amendoim.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Adão Felipe dos Santos - Coordenador / Rouverson Pereira da Silva - Integrante / Mailson Freire de Oliveira - Integrante / George Vellidis - Integrante / Jarlyson Brunno Costa Souza - Integrante / Cristiane Pilon - Integrante / Taynara Tuany Borges Valeriano - Integrante / Sabrina De Souza Pinto Regina - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2016
+QUALIDADE DAS OPERAÇÕES AGRÍCOLAS MECANIZADAS NA CULTURA DO AMENDOIM COM USO DO DIRECIONAMENTO AUTOMÁTICO
+Projeto certificado pelo(a) coordenador(a) Antonio Tassio Santana Ormond em 06/12/2017.
+Descrição: Os benefícios do piloto automático são inúmeros, porém, podem ser ainda maiores na cultura do amendoim, visto que uma das principais queixas dos operadores é a dificuldade em manter o trator alinhado com a fileira da cultura no momento do arranquio, o que pode ser reduzido quando se realiza a semeadura e o arranquio com a utilização do Piloto Automático. Nesse sentido serão realizados dois estudos, sendo o primeiro para avaliar o erro de paralelismo na operação de arranquio, mediante projeto para a sua execução, com direcionamento automático com sinal via satélite (RTX). No segundo busca-se identificar os principais problemas que afetam a operação de arranquio, para que em projetos futuros esses possam ser estudados com mais detalhes, empregando-se técnicas de agricultura de precisão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Adão Felipe dos Santos - Integrante / Rouverson Pereira da Silva - Coordenador / Antonio Tassio Santana Ormond - Integrante / Mayara Cristina Teodoro Lopes - Integrante.
+2012 - 2013
+IDENTIFICAÇÃO DE GENITORES DE SOJA TOLERANTES AO ALUMÍNIO
+Descrição: O projeto teve como objetivo identificar a dose de Alumínio mais adequada para estudos genéticos envolvendo a cultura da soja para condições do cerrado tocantinense;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Adão Felipe dos Santos - Coordenador / Julio César do Valle - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2012
+DISSIMILARIDADE GENÉTICA ENTRE GENÓTIPOS DE SOJA TIPO ALIMENTO EM VARZEA IRRIGADA
+Descrição: O projeto tem como objetivo Avaliar o desempenho agronômico de cultivares de soja de diferentes ciclos fenológicos cultivados em várzea irrigada;
+Identificar os cultivares de soja mais promissores para as condições específicas das várzeas irrigadas do Estado de Tocantins;
+Quantificar o teor de proteína e óleo extraídos dos grãos de soja;
+Quantificar a variabilidade genética entre os cultivares de soja;
+Promover o agrupamento dos genótipos em função da dissimilaridade genética e dispersão dos escores; 
+Indicar a contribuição relativa das características na dissimilaridade genética;
+Identificar combinações híbridas superiores promissoras na seleção de progênies.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Adão Felipe dos Santos - Coordenador / Emerson de castro Ferraz - Integrante / Helio Bandeira Barros - Integrante / SANTOS, W. R. - Integrante / Juara Leme de Oliveira - Integrante / MOURA, S. G - Integrante / Aristoteles Capone - Integrante.
+2009 - 2010
+PRODUTIVIDADE DE ÓLEO NA SUCESSÃO SOJA ? GIRASSOL: ASPECTOS TÉCNICOS
+Descrição: Avaliar os caracteriíticas agronômicas de diferentes cultivares de Girassol, enfatizando a produtividade final de óleo, em diferentes épocas de semeadura em sucessão a cultura da soja.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Adão Felipe dos Santos - Coordenador / Emerson de castro Ferraz - Integrante / Elonha Rodrigues dos Santos - Integrante / Aristoteles Capone - Integrante / Helio Bandeira Barros - Integrante.

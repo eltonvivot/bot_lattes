@@ -1,0 +1,22 @@
+2019 - 2020
+SCRATCH FOR ARDUINO: uma proposta metodológica para o desenvolvimento do pensamento computacional com auxílio da robótica educacional no ensino médio
+Descrição: O pensamento computacional (PC) é um modo de pensar nas formulações de problemas e suas soluções, que devem ser representadas de forma generalizada e executadas por agentes de processamentos distintos (Cuny; Snyder; Wing, 2010). O PC tem como base a busca por maneiras alternativas para resolver problemas reais, compreender o comportamento humano e projetar sistemas embasando-se nos conceitos da ciência da computação (WING, 2006).
+São princípios norteadores do PC definidos pelas organizações International Society for Technology in Education (ISTE) e America Computer Science Teachers Association (CSTA): coleta de dados, análise de dados, representação de dados, decomposição de problema, abstração, algoritmos, automação, paralelização e simulação (VALENTE, 2016).
+Vários autores têm se dedicado ao aprimoramento do PC na educação. (Albuquerque, et al., 2016; Kalil, et al., 2013; Pereira; Franco, 2018; Zanetti; Oliveira, 2015).
+Há muitos trabalhos sobre o uso da ferramenta Scratch que para o desenvolvimento do PC (França; Amaral, 2013; Ramos; Teixeira, 2015; Rodriguez et al., 2015), sua utilização proporciona fácil manuseio por pessoas iniciantes na programação de maneira a substituir as linhas de código por blocos, porém, o uso do Scratch for Arduino (S4A) vai além, por permitir a prototipagem e desenvolvimento de projetos na plataforma Arduino a partir da interação do aluno em tempo real com dispositivo físico (KALIL et al., 2013).
+Oriundo do Scratch, o S4A é um ambiente para se programar de forma simplificada a plataforma Arduino. Sua interface é similar à do Scratch, exceto por adicionar blocos de ações para gerenciamento de sensores e atuadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (4) . Integrantes: Rogério Pereira de Sousa - Coordenador / Karoline Araújo Nascimento - Integrante / Charles França de Sousa - Integrante / CALAÇA DE SOUSA, CLAUDIANY - Integrante / Alan Silva - Integrante / ELIELTON PEREIRA DE SANTANA - Integrante.
+2016 - 2017
+SAGIR - Sistema Autonômico para Controle de Irrigação aplicado ao cultivo de Lactuca sativa
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rogério Pereira de Sousa - Integrante / Ramásio Ferreira Melo - Coordenador.
+2016 - 2017
+Rede de Sensores sem Fio Aplicada ao Monitoramento da Atividade Bovina
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rogério Pereira de Sousa - Integrante / Ramásio Ferreira Melo - Coordenador.
+2014 - 2018
+PIBID
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (24) . Integrantes: Rogério Pereira de Sousa - Coordenador.
+2014 - 2017
+Sistema Autonômico de Controle e Gerenciamento de Irrigação
+Descrição: O projeto visa fornecer um serviço aos produtores que alcance um melhor desempenho na produção e no processo de irrigação das cultivares, identificando os dados edafoclimáticos como: temperatura e umidade ambiente, umidade do solo, dados esses obtidos e fornecidos em tempo hábil. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Rogério Pereira de Sousa - Integrante / Ramásio Ferreira Melo - Coordenador / Josenilson Dias Araújo - Integrante.
+2014 - 2016
+Classificação Linear de Bovinos : Criação de modelo de decisão na conformação de tipo "true type" como auxiliar na tomada de decisão na seleção de bovinos leiteiros
+Descrição: Modelo de classificação baseado em regras de associação entre características de conformação e lógica fuzzy para auxiliar na tomada de decisão .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Rogério Pereira de Sousa - Coordenador / Ramásio Ferreira Melo - Integrante / Moisés Laurence de Freitas Lima Júnior - Integrante / Wislayne Aires Moreira - Integrante / Rayllon Rodrigues Sousa Reis - Integrante / Pedro Araújo Cortez - Integrante / Vanessa Batista Almeida da Silva - Integrante / Jairo Oliveira Silva Pereira - Integrante.

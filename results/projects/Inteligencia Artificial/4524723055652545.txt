@@ -1,0 +1,142 @@
+2021 - Atual
+Aprendizagem de Máquinas: Novas Abordagens e Aplicações (Projeto PQ 2021-2023)
+Descrição: Neste projeto de pesquisa tanto (𝑖) são descritas as atividades concluídas e a serem
+concluídas referentes ao projeto atualmente em execução e que cobre o período de
+Março/2018 a Fevereiro/2021; quanto (𝑖𝑖) é apresentada uma série de novas propostas de
+atuação na área de aprendizagem de máquinas para o horizonte dos próximos três anos
+(Março/2021 a Fevereiro/2024). Assim, o projeto aqui proposto pode ser entendido como
+uma continuação natural do projeto atualmente em desenvolvimento, sendo resultado do
+amadurecimento do grupo de pesquisa do proponente. Para o período entre Março/2021
+a Fevereiro/2024, são apresentadas duas linhas de atuação relacionadas à computação
+suave (soft computing). A primeira é uma continuação da linha de pesquisa atual que objetiva
+(1) abordar problemas relacionados ao tamanho dos modelos em aprendizagem de
+máquinas; enquanto, a segunda visa (2) tratar da utilização de métodos que aprimoram
+o desempenho dos modelos, por exemplo, pela adição da capacidade de rejeição. Essa
+rejeição, em geral, é realizada para não influenciar no processo de decisão em sistemas
+de auxílio ou ainda para postergar o processo de decisão para modelos mais adequados a
+resolver o problema de interesse. O problema associado ao tamanho dos modelos decorre
+do emprego das técnicas de aprendizagem de máquinas nas mais diversas plataformas,
+sejam de alta capacidade computacional (tal como a nuvem) ou com escassos recursos
+computacionais (tal como Arduíno). Em plataformas com recursos limitados como este,
+a capacidade de processamento e de armazenamento são limitadas e, assim, os modelos
+de aprendizagem de máquinas a serem embarcados devem ser os mais reduzidos possíveis.
+Logo, um problema relevante a ser abordado neste projeto refere-se ao tamanho dos
+modelos, pois sabe-se que quanto menor é um modelo, menos tempo de processamento
+é requerido para que a tarefa a que se propõem seja realizada. Modelos reduzidos são
+particularmente interessantes em sistemas com requisitos de tempo real. Além do problema
+supracitado e das técnicas que visam a redução de modelos para fins de uso de tais
+modelos, por exemplo, em sistemas com recursos computacionais limitados; faz-se necessário
+destacar problemas relacionados à capacidade do modelos em termos de desempenho
+e falta de flexibilidade para, por exemplo, optar por não tomar uma decisão quando o
+nível de confiança no processo de tomada de decisão for baixo. Neste contexto, técnicas
+de classificação com opção de rejeição também são abordadas e se fazem relevante deste
+projeto. Do exposto, ressalta-se que objetivo desse projeto de pesquisa é obter modelos
+reduzidos e/ou aprimorados em diversas arquiteturas de redes neurais artificiais. Para
+tal, novos métodos serão desenvolvidos e métodos promissores serão adaptados entre arquiteturas.
+Os métodos desenvolvidos neste projeto de pesquisa serão primordialmente
+aplicados em problemas de medicina diagnóstica disponibilizados pelo Instituto do Câncer
+do Ceará (ICC), bem como por problemas que podem ser encontrados em outros repositórios
+de bases de dados. No corpo do projeto são apresentadas possíveis proposições
+para implementação e evidências de sua viabilidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Wellington Dantas de Almeida - Integrante / MARINHO, FELIPE - Integrante / Yves Augusto Lima Romero - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2020 - Atual
+Sistema Inteligente para Recomendação de Produtos de Moda
+Descrição: Sistemas de recomendação na área de fabricação e venda de vestuário se faz necessário para otimização do tempo de venda e aumento do tíquete médio de venda em lojas de vestuário. Assim, neste projeto tem-se por objetivo o desenvolvimento de um sistema de recomendação de produtos a serem oferecidos para os clientes
+de lojas de vestuários; bem como visa-se ainda o desenvolvimento de um sistema de recomendação de peças a serem produzidas para auxiliar o designer de peças das fábricas de roupas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Lucas Silva de Sousa - Integrante / Victor Ribeiro Prata - Integrante.
+2019 - Atual
+Sistema de Rastreabilidade de Produtos e Agrupamentos baseado em Blockchain
+Descrição: O projeto visa o desenvolvimento em nuvem de um sistema de rastreamente e controle de ciclo de vida e de uso de produtos e itens de produtos. Nesse projeto, a tecnologia de blockchain é utilizado para rastreamento de produtos, itens de produtos ou mesmo de agregações em itens de produto, denominados packs. O processo de rastreamente envolve o uso de codigos em 2D (mais especificamente QRCode) para conter as informações de identificação de produtos e itens de produtos rastreados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Danilo Avilar Silva - Integrante / Saulo Anderson Freitas de Oliveira - Integrante / Lucas Silva de Sousa - Integrante / Victor Ribeiro Prata - Integrante / Alisson Gomes Linhares - Integrante / Carlos Henrique Leitão Cavalcante - Integrante / Luan Sousa Cordeiro - Integrante / Cidcley Teixeira de Souza - Integrante / Lucas Queiroz Wagner - Integrante / RONEY REIS DE CASTRO E SILVA - Integrante / Mateus Alves Vieira Neto - Integrante / João Helder Alves e Silva - Integrante / Bruno Alves de Mesquita - Integrante / Edilaine Santiago de Oliveira Nascimento - Integrante / Ernani Andrade Leite - Integrante / IVINA CARLOS DE ASSIS SANTOS - Integrante / Joao Claudio Nunes Carvalho - Integrante / Nilo Cesar Costa Fernandes - Integrante.
+2018 - 2020
+Métodos de Aprendizagem de Máquinas para Obtenção de Modelos Reduzidos (Projeto PQ 2018-2020)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador.
+2018 - 2019
+Sistema em Nuvem com aplicativo Móvel para Interação Colaborador-Empresa (App do Colaborador)
+Descrição: O projeto visa desenvolver um sistema com grande volume dados armazenado (big data) em nuvem integrado a um sistema mobile para mostrar/atualizar informação de colaboradores. Esse sistema deve capturar informações para entrada de dados em funcionalidades com base em OCR.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Lucas Silva de Sousa - Integrante / Carlos Hairon Ribeiro Gonçalves - Integrante / José Alberth Vasconcelos Florêncio - Integrante / Carlos Henrique Leitão Cavalcante - Integrante / Renan Silva Ribeiro - Integrante / Tiago Alexandre Francisco De Queiroz - Integrante / Gabriela de Carvalho Barros Bezerra - Integrante / Nivardo Albuquerque Leitão de Castro - Integrante / Kauê Francisco Marcelino Menezes - Integrante / Italus Rodrigues Do Prado - Integrante / David Paulo Magalhães Araújo - Integrante / Davi Alves Leão - Integrante.
+2018 - 2019
+Sistema Inteligente para Detecção de Próxima Funcionalidade e Fluxos de Trabalhos em Software Contábil com Múltiplas Funcionalidades (SIGA)
+Descrição: Projeto que objetiva predizer funcionalidades a partir de funcionalidades anteriores em sistemas desktop, visa ainda detectar fluxos de trabalhos (sequencias de funcionalidades) recorrentemente utilizados por usuários do sistema e, por fim, visa realizar o mapeamento entre entradas para funcionalidades com base em entradas anteriores. A informação usada nesse projeto tem grande volume de dados (big data) e armazenado em nuvem. Para resolver este problema técnicas de inteligência artificial, mais especificamente de aprendizagem de máquinas, devem ser aplicadas para realizar tal recomendação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Amauri Holanda de Souza Júnior - Integrante / Luan Souza Cordeiro - Integrante / Victor Ribeiro Prata - Integrante / Carlos Henrique Leitão - Integrante / Açucena De Gois Parente - Integrante / Alisson Gomes Linhares - Integrante / Elder Dos Santos Teixeira - Integrante / Alan Rabelo Martins - Integrante.
+2016 - 2016
+Redes Neurais RBF aplicadas ao Diagnóstico de Patologias da Coluna Vertebral
+Descrição: Neste projeto redes neurais artificiais compostas de funções de base radial são utilizadas para diagnóstico de patologias da coluna vertebral.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Luan Souza Cordeiro - Integrante.
+2016 - Atual
+Smart&Green: Um Arcabouço de Internet das Coisas para Agricultura Inteligente
+Descrição: The Internet of Things enables real-world objects are connected to the Internet and communicate with each other autonomously, to provide services for people and things. Precision agriculture is one of application domains that can be benefited from the Internet of things. One of the challenges in agriculture in Brazil is meeting the growing demand for food due to both increasing and aging population and rural-urban migration (less than 10% of the population will live in the countryside in two decades). With the advent of the Internet of Things, through the sensor networks, agricultural areas can be connected to the Internet, providing real-time monitoring of the data. In the precision agriculture domain, the use of resources such as pesticides, fertilizers, and water can be optimized. Internet of things enables obtaining information that can support making decisions about irrigation management, such as the required amount of water or the appropriate selection of the irrigation technique. This kind of decision is important because approximately 70% of water availability in Brazil is used for irrigation activities and, therefore, the value of water as a public and finite resource is latent in irrigation management. In this project, we propose, specify and design an Internet of Things framework, using a wireless sensor network as infrastructure for smart agriculture applications domain. The principal purpose of the proposed framework is monitoring and controlling agricultural areas and providing a support decision making for smart agriculture applications... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Integrante / Atslands Rego da Rocha - Coordenador / Danielo G. Gomes - Integrante / Rubens Sonsol Gondim - Integrante.
+2015 - 2016
+VisiHPC- Computação de Alto Desempenho para Visão Computacional e Definição de Contextos
+Descrição: (PROINFRA-PPG) Modernos procesadores gráficos (GPUs)(ASPLOS, 2010) evoluíram e hoje
+são multiprocessadores paralelos completamente programáveis em
+linguagens de alto-nível. Devido à natureza da carga de trabalho relacionada
+aos processamentos gráficos, algoritmos de visão computacional podem tirar
+proveito do poder de processamento desses dispositivos. Um problema
+interessante que pode se beneficiar muito bem do alto desempenho inerente
+do paralelismo é a detecção de faces ou de pessoas. Este projeto de
+pesquisa tem por objetivo identificar os principais gargalos (bottlenecks)
+relacionados ao processo de identificação biométrica para definição de
+contextos de ambientes. Como resultado, este trabalho pretende definir um
+ambiente de baixo custo mas com elevado poder computacional adequado à
+casas inteligentes que sejam sensíveis ao contexto de usuários. Para isso, os
+algoritmos que exijam sobre-processamento são entregues às GPUs e, desta
+forma, tem seus tempos de resposta acelerados. Este projeto, portanto, visa
+viabilizar e ampliar o leque de aplicações que a computação de alto
+desempenho proporciona à domótica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Elias Teodoro da Silva Júnior - Integrante / Antonio Wendell de O. Rodrigues - Integrante / Pedro Pedrosa Rebouças Filho - Integrante.
+2014 - 2016
+Desenvolvimento de software e plataforma de simulação de rede de sensores sem fio em comunicação acústica submarina
+Descrição: O Brasil vem investindo na expansão do território nacional e captação de recursos minerais, como o petróleo da camada pré-sal. Somente a Petrobras investiu 42,9 bilhões de dólares no ano de 2012. Este cenário cria uma nova necessidade na qual o país está começando a investir, o da robótica aquática. O estado do Ceará, de acordo com a FINEP, é um dos estados que está mais avançado em robótica aquática. Entre os projetos em execução no estado, pode-se destacar uma iniciativa acadêmica industrial por uma rede de P&D e a empresa ARMTEC que estão trabalhando em projetos de robótica autônoma submarina e de superfície. O projeto é oriundo de uma parceria entre o IFCE, a UNIFOR e a ARMTEC no desenvolvimento de tecnologia de comunicação submarina para atendimento de demandas do setor de P&G. Entre os desafios existentes, a área de comunicação acústica ainda é pouco estudada no Brasil. O presente projeto traz uma abordagem incremental no desenvolvimento de uma rede de comunicação acústica aplicada a rede heterogenia de robôs aquáticos e unidades fixas de comunicação. Entre os resultados esperados tem-se o estudo e desenvolvimento de simulador por modelagem computacional de redes de sensores sem fio (RSSF) por comunicação acústica subaquática considerando diferentes topologias de RSSF e modelagem multivariável para cálculo da atenuação do sinal no canal de acesso ao meio. O projeto gerará um simulador físico em processamento paralelo utilizando módulos microcontrolados/microprocessados para gerar uma rede análoga a RSSF em comunicação acústica subaquática. O foco deste projeto é consolidar a inserção do IFCE em uma dos campos mais críticos para controle ambiental e de produção de energia em ambientes aquáticos, como é o caso da camada pré-sal. Para a execução deste projeto de pesquisa e inovação, haverá a cooperação entre o IFCE, a Universidade Fortaleza e a empresa ARMTEC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Ajalmar Rêgo da Rocha Neto - Integrante / Francisco José Alves de Aquino - Coordenador / Antônio Roberto Lins de Macedo - Integrante / José Wally Mendonça Menezes - Integrante / Régis Cristiano Pinheiro Marques - Integrante / Antônio Roberto Menescal de Macêdo - Integrante / Henrique Sokal - Integrante / Erick Moura de Abreu - Integrante.
+2014 - 2016
+Estudo de falhas em isoladores em linhas de transmissão de média e alta tensão
+Descrição: Estudo de falhas em isoladores em linhas de transmissão de média e alta tensão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Integrante / Francisco José Alves de Aquino - Integrante / Danilo Avilar Silva - Integrante / Elias Teodoro da Silva Júnior - Coordenador / André Luiz Carneiro de Araújo - Integrante / Antônio Alves Melo Júnior - Integrante / Jônatas Holanda Nogueira de Aquino - Integrante / Kaio Jonathas A. Gurgel - Integrante.
+2014 - 2016
+Classificação Robusta aplicada à Equalização de Canais de Comunicação
+Descrição: O problema de equalização de canais de comunicação pode ser modelado como um
+problema de reconhecimento de padrões. Para tal, pode-se definir uma sequência inicial de
+bits a serem transmitidos pelo canal de modo que se saiba exatamente os valores a serem
+recebidos no receptor. Seguindo este raciocínio, uma base de dados pode ser obtida que contenha
+os diversos pares de entrada e saída desejados para fins de treinamento de classificadores de
+padrões. Classificadores de margem larga, tais como as Máquinas de Vetores-Suporte, possuem
+a vantagem de tanto buscar a minimização do risco empiríco quanto a minimização do risco
+estrutural, diferentemente de diversos outros classificadores que visam apenas a minimização do
+risco empírico no processo de treinamento do classificador. Duas técnicas associadas podem ser
+aplicadas com sucesso em diversos tipos de problemas para tornar o classificador mais robusto,
+a saber: (𝑖) classificação com opção de rejeição e (𝑖𝑖) reconhecimento de padrões com base em
+classificadores leves, ou seja, de baixo custo computacional. O objetivo desse projeto é, portanto,
+obter classificadores esparsos de padrões com base em máquinas de vetores de suporte para fins
+de equalização de canais de comunicação em ambientes com recursos computacionais escassos.
+Alguns dos resultados esperados são: o aprimoraramento do processo de equalização de canais de
+comunicação e detecção de erros; a proposição de novos métodos para obtenção de Máquinas de
+Vetores-Suporte com conjuntos reduzidos e com capacidade de rejeição de aplicabilidade geral.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador.
+2014 - 2015
+Equalização de Canais de Comunicação via Classificadores Esparsos com Opção de Rejeição
+Descrição: Este projeto tem por objetivo equalizar Canais de Comunicação via Classificadores Esparsos com Opção de Rejeição a fim de se propor novos algoritmos para detecção de erro, bem como para propor modelos mais adequados a sistema que possuem recursos computacionais escassos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador.
+2014 - 2014
+Sistema Inteligente para Elaboração de Horário de Aulas por Computação Evolutiva
+Descrição: O Problema de Quadro de Horário (PQH, em inglês Schedule Timetabling Problem),
+segundo (SCHAEFER, 1999), diz respeito a alocação de aulas em um conjunto de
+horários, de tal maneira que diversas restrições sejam satisfeitas. De uma forma geral,
+este tipo de problema envolve um conjunto de disciplinas e professores que devem ser organizados
+em uma tabela de aulas semanal. Este problema complexo e bastante comum
+no meio acadêmico insere-se numa classe de problemas de difícil solução via modelagem
+exata, ou seja, através de técnicas matemáticas clássicas quando são consideradas restrições
+em termos de dias de trabalho para professores, aulas geminadas, diversos cursos
+sendo considerados ao mesmo tempo, cursos com diversos semestres, dentre outros. Este projeto tem por objetivo o desenvolvimento de um sistema inteligente capaz
+de gerar automaticamente um quadro de horários de aulas que atenda as restrições
+do Instituto Federal do Ceará (IFCE), bem como também possa ser utilizado pelos diversos
+componentes da comunidade, tais como escolas públicas municipais e estaduais.
+A inteligência necessária a ser inserida no sistema surge da utilização de Algoritmos Genéticos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Shara Shami Araújo Alves - Integrante / Kleber de Melo Mesquita - Integrante.
+2013 - 2014
+Máquinas de Vetores-Suporte aplicadas ao Diagnóstico de Patologias da Coluna Vertebral.
+Descrição: Máquinas de vetores-suporte minimizam o risco empírico e estrural no processo de treinamento. Logo, tais técnicas de aprendizagem são particularmente interessantes de serem aplicadas em problemas da área médica, tal como no diagnóstico de patologias da coluna vertebral.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Camila Rodrigues de Morais - Integrante.
+2013 - Atual
+Applde Developer Academy - IFCE
+Descrição: O projeto Apple Developer Academy, anteriormente denominado BEPID, ocorre em parceria com a Apple. Neste projeto são formados desenvolvedores classe mundial nas plataformas Apple (iOS, iPad, Apple Watch e MacOS). A formação técnica dura 2 anos e vai desde conhecimentos básicos de programação, inteligência artificial, Inteligência das Coisas ao Aprendizado Baseado em Desafios. No projeto são desenvolvidos diversos aplicativos e produtos que pertencem aos alunos. O projeto já foi renovado e deve continuar rendendo frutos no próximo quadriênio. Mais informações em: http://developeracademy.ifce.edu.br/. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Integrante / Carlos Hairon Ribeiro Gonçalves - Integrante / Antonio de Barros Serra - Coordenador.
+2010 - 2012
+Inovação Tecnológica em Software de Gestão Aplicado à Saúde Suplementar: aplicações de ferramentas de Business Intelligence (BI)
+Descrição: Desenvolver softwares inovadores capazes de realizar ação pró-ativa em sistemas de saúde suplementar através de ferramentas de Business Intelligence (BI), incorporando ferramentas de mineração de dados, tais como support vector machine (SVM) e redes neurais artificiais (RNAs).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Ajalmar Rêgo da Rocha Neto - Coordenador / Guilherme de Alencar Barreto - Integrante / Amauri Holanda de Souza Júnior - Integrante / Ronaldo Fernandes Ramos - Integrante / Márcio de Oliveira Mota - Integrante / Hélio Augusto Mazza - Integrante.Financiador(es): Dyad & Associados - Cooperação / Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2011
+SINPATCO - Sistema Inteligente para Diagnóstico de Patologias da Coluna Vertebral
+Descrição: Este projeto foi financiado pelo CNpQ para realização de estágio doutoral binacional. Desta forma, houve a realização de doutorado sanduíche de brasileiro em Portugal, bem como a realização de doutorado sanduíche de português no Brasil. A coolaboração ocorreu a partir da parceria da Universidade Federal do Ceará através do Program de Pós-Graduação em Engenharia de Teleinformática e a Faculdade de Engenharia da Universidade do Porto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Integrante / Guilherme de Alencar Barreto - Coordenador / Jaime S. Cardoso - Integrante / Ricardo Sousa - Integrante / João César Moura Mota - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2006
+SMM - Samsung Mobile Mouse
+Descrição: Este projeto tem como objetivo a integração entre o computador e um dipositivo celular, o qual teria o papel de um periférico específico de computador.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Integrante / Outros - Coordenador.
+2005 - 2006
+Callcenter - Sistema de Callcenter para Epson do Brasil
+Descrição: Este projeto tem como objetivo automatizar o atendimento de callcenter da Epson do Brasil, de forma que exista uma integração entre o sistema e a central de recebimento de chamdas telefônicas para automatizar o antedimento ao cliente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ajalmar Rêgo da Rocha Neto - Integrante / Outros - Coordenador.

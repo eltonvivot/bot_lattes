@@ -1,0 +1,23 @@
+2021 - Atual
+Detecção de COVID-19 em imagens de TC de pulmão através de técnicas de Inteligência Artificial
+Descrição: Projeto apresentado pelo Programa de Pós-Graduação em Engenharia Elétrica e Computação da Universidade Federal do Ceará e tem como objetivo criar sistema de auxílio diagnóstico para especialistas com identificação automática de regiões de infecção em imagens de TC de tórax. A metodologia utilizada neste projeto inclui pesquisa bibliográfica, estudos conceituais, analíticos e testes experimentais a serem utilizados na modelagem, implementação e validação das imagens de tomografia computadorizada de pulmão aplicados em um classificador dos pacientes com ou sem presença de COVID-19.
+Pesquisa delimitada em 5 etapas que incluem pesquisa bibliográfica, levantamento e organização de base de imagens que serão processadas, estudo e seleção de técnicas de transferência de aprendizado, estudo e seleção de técnicas de segmentação de imagens e implementação dos classificadores e análise clínica dos resultados obtidos. Período previsto do estudo de agosto/2020 a julho/2023.
+Serão analisadas TC de banco de imagens do HRN. Os produtos resultantes serão submetidos ao processo de registro de software do INPI.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Márcio André Baima Amora - Integrante / Iális Cavalcante de Paula Júnior - Coordenador / Jarbas Joaci de Mesquita Sá Junior - Integrante.
+2008 - 2009
+Monitoramento e Diagnóstico Inteligente de Transformadores de Rede de Distribuição de Energia Elétrica
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Márcio André Baima Amora - Integrante / Otacílio da M. Almeida - Coordenador / Cícero Marcos Tavares Cruz - Integrante / Fábio R. Barbosa - Integrante / Francisco A. P. Aragão - Integrante / Paulo R. O. Braga - Integrante / Arthur P. S. Braga - Integrante.
+2006 - 2007
+Desenvolvimento de Ferramentas Inteligentes e Adaptativas para o Monitoramento e Diagnóstico de Falhas Incipientes em Transformadores de Potência de Grande Porte
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Márcio André Baima Amora - Integrante / Otacílio da M. Almeida - Coordenador / Fábio R. Barbosa - Integrante / Paulo R. O. Braga - Integrante.
+2002 - 2003
+Controle Coordenado das Unidades Térmicas e Hidráulicas do Sistema de Geração do Amapá
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Márcio André Baima Amora - Integrante / Ubiratan Holanda Bezerra - Coordenador.
+2001 - 2002
+Monitoramento da Qualidade de Tensão em Redes de Distribuição de Energia
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Márcio André Baima Amora - Integrante / Ubiratan Holanda Bezerra - Coordenador / Edgar M. A - Integrante.
+2001 - 2002
+Redução das Perdas Técnicas e a Melhoria da Qualidade de Serviço no Sistema de Distribuição Metropolitano de Belém
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Márcio André Baima Amora - Integrante / Ubiratan Holanda Bezerra - Coordenador / Edgar M. A - Integrante.
+1994 - 1995
+Pesquisa de Implementação e Otimização de Usinas Maré-Motrizes
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Márcio André Baima Amora - Integrante / Raimundo Rosemiro P Ribeiro - Coordenador.

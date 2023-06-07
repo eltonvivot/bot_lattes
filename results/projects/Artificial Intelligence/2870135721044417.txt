@@ -1,0 +1,25 @@
+2022 - Atual
+PD-00063-3087/2022 - Desenvolvimento de plataforma computacional para monitoramento dos movimentos durante a execução de serviços no sistema elétrico baseado em imagens e inteligência artificial
+Descrição: Plataforma de software, smart câmeras e dispositivos destinados à identificação, prevenção e controle de riscos relacionados a ocorrências de danos materiais ou físicos utilizando Inteligência Artificial e Gamificação aplicadas ao setor elétrico. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Fambrini - Integrante / Diogo Gará Caetano - Coordenador.
+2019 - Atual
+CS3054 Thermovision - Inspeção termográfica automatizada de linhas de distribuição de energia através da combinação da técnica de Deep-Learning e múltipla visão em um veículo terrestre.
+Projeto certificado pela empresa DIOGO GARA CAETANO 04456305665 em 07/02/2020.
+Descrição: Descrição: Cabeça de Série de sistema de termovisão para inspeção de redes de distribuição, instalado em veículo, dotado de câmeras de monitoramento e sistema de inteligência artificial aplicados ao processamento de imagens ópticas e termográficas, capaz de realizar a detecção automática de elementos da rede elétrica e suas temperaturas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3)  / Doutorado: (8) . Integrantes: Francisco Fambrini - Integrante / Yuzo Iano - Coordenador / Diogo Gará Caetano - Integrante / Rangel Arthur - Integrante / João Von Zubem - Integrante / MOYA, CLODOALDO JOSE - Integrante / Abel A. D. Rodriguez - Integrante / Guilherme Mazzoni - Integrante / Guilherme Ferreti Rissi - Integrante.
+2016 - 2019
+Sistema de aquisição e registro de sinais de neurônios in vitro em matriz de microletrodos
+Projeto certificado pela empresa MARCO ANTONIO NARDY 66157390620 em 30/01/2022.
+Descrição: O objetivo do projeto é a o desenvolvimento e a construção de um equipamento para captação e registro de sinais elétricos provenientes de culturas de neurônios in vitro cultivados em MEA (Multi Electrode Array).
+Situação: Em andamento; Natureza: Pesquisa. 
+Linha de fomento:	Auxílio à Pesquisa - Pesquisa Inovativa em Pequenas Empresas - PIPE
+Vigência:	01 de agosto de 2016 - 30 de abril de 2017
+Empresa atuante: MARCO ANTONIO NARDY ME
+Projeto de pesquisa é relativo ao Processo n.14/50201-5, financiado pelo PIPE (FAPESP), valor: R$ 159.000,00. 
+Integrantes: Jose Hiroki Saito - Coordenador e Beneficiário / Francisco Fambrini - Integrante / Marco Antonio Nardy- Integrante / José Mauricio Muniz Leme- Integrante.
+Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) - Auxílio financeiro.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Francisco Fambrini - Integrante / José Hiroki Saito - Coordenador.
+2014 - 2018
+Sistema de Detecção Automática de Pontos Quentes a Partir de uma Imagem Térmica (Thermovision)
+Projeto certificado pela empresa Companhia Paulista de Força e Luz em 08/02/2017.
+Descrição: Este trabalho está atualmente em desenvolvimento (31/01/2017) e faz parte do projeto de P&D ANEEL DE3014 - "Sistema de Detecção Automática de Pontos Quentes a Partir de uma Imagem Térmica (Thermovision)", firmado entre as Distribuidoras do Grupo CPFL Energia e a UNICAMP - Universidade Estadual de Campinas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Francisco Fambrini - Integrante / Yuzo Iano - Coordenador / Frank Cabello - Integrante / Abel Alejandro Rodrigues - Integrante / Rosivaldo Ferrarezi - Integrante / Julio Leon - Integrante / Nathana Luiza Monteiro Silva - Integrante / Guilherme Mazoni - Integrante / Diogo Gará Caetano - Integrante / Rangel Arthur - Integrante.
+2012 - 2015
+Desenvolvimento de equipamento para Registros e Estímulos elétricos em Matrizes Multi Eletrodo (MEA)
+Descrição: Trata-se do desenvolvimento de um equipamento para registro e estimulos de matrizes biológicas de neurônios em superfícies de vidro construidas com tecnologia de circuitos integrados - MEA - Multi Electrode Arrays. Projeto de Mestrado sob orientação do prof. Dr. José Hiroki Saito, iniciado em Janeiro de 2012 com previsão de término para o segundo semestre de 2013. Vinculado à Faccamp - Faculdade de Campo Limpo Paulista - SP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Francisco Fambrini - Integrante / José Hiroki Saito - Coordenador.

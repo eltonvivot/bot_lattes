@@ -1,0 +1,39 @@
+2021 - Atual
+Teoria estrutural e algorítmica de grafos: otimização combinatória e classes de grafos
+Projeto certificado pelo(a) coordenador(a) Murilo Vicente Gonçalves da Silva em 19/04/2023.
+Descrição: Universal CNPq. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (17)  / Mestrado acadêmico: (10)  / Doutorado: (5) . Integrantes: André Luiz Pires Guedes - Integrante / Murilo Vicente G da Silva - Coordenador / Jair Donadelli Jr - Integrante / Jaime Cohen - Integrante / André Luís Vignatti - Integrante / Alexandre Prusch Züge - Integrante / Leandro Montero - Integrante / GROSHAUS, MARINA - Integrante / Leandro Miranda Zatesko - Integrante / Sheila Morais de Almeida - Integrante / CARMO, RENATO - Integrante / Cleiton Almeida dos Santos - Integrante / Cândida Nunes da Silva - Integrante / Flávia Bonomo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2022
+Teoria   de   Grafos:  Otimização   Combinatória,   Complexidade Computacional, Algoritmos e Classes
+Descrição: Projeto do Edital Universal do CNPq - chamada Nº 01/2016
+Resumo:
+Problemas   de  teoria   dos   grafos,   alguns  considerados   difíceis
+(NP-difíceis), serão estudados e classes de grafos em que tais problemas
+admitem  soluções   eficientes  serão  pesquisados.    Estudaremos  suas
+complexidades computacionais,  seus algoritmos e buscaremos  por classes
+de grafos  nas quais o comportamento  do ponto de vista  de complexidade
+possa  ser determinado.   Propomos  o estudo  de:  soluções exatas  para
+problemas  NP-difíceis;   dois  problemas   de  coloração   de  arestas,
+restringindo   a  classes   específicas   e   buscando  determinar   sua
+complexidade; problemas  relacionados com o grafo  biclique; um problema
+relacionado com conectividade, e  técnicas espectrais para algoritmos em
+grafos.    Estes  problemas   se   enquadram  na   área  de   otimização
+combinatória.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (4)  / Doutorado: (5) . Integrantes: André Luiz Pires Guedes - Coordenador / Murilo Vicente G da Silva - Integrante / Jair Donadelli Jr - Integrante / Renato José da Silva Carmo - Integrante / Jaime Cohen - Integrante / André Luís Vignatti - Integrante / Alexandre Prusch Züge - Integrante / GROSHAUS, MARINA - Integrante / Silvio Luiz Bragatto Boss - Integrante / Cleverson Sebastião dos Anjos - Integrante / Leandro Miranda Zatesko - Integrante / Mario Leston Rey - Integrante / Sheila Morais de Almeida - Integrante / Francisco Soulignac - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2015
+14MATH-06- DISMATH-Matemática discreta: problemas de partição em grafos
+Descrição: Projeto de colaboração internacional entre pesquisadores de universidades do Brasil, Argentina e França. MATH-AMSUD. Listados apenas os coordenadores de cada país.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luiz Pires Guedes - Integrante / Simone Dantas - Coordenador / Bernard Ries - Integrante / Marina Groshaus - Integrante / MACHADO, RAPHAEL C. S. - Integrante / SASAKI, DIANA - Integrante.
+2011 - Atual
+Arquitetura de Interface e Interação em Libras
+Descrição: O projeto procura, desde 2006, construir o arcabouço conceitual para o desenvolvimento de ferramentas e aplicações de apoio à inclusão e ao desenvolvimento social das comunidades Surdas do Brasil. O projeto envolve tanto as questões intrinsecamente relacionadas à interação usuário-sistema propriamente ditas quanto aquelas relacionadas com o processamento adequado da Libras como língua natural, tais como o modelo fonológico da Libras, os dicionários mono e bilíngues com busca pelos componentes dos sinais e o tradutor Português - Libras, além de aplicações não menos importantes de apoio ao ensino da Libras e ao letramento (leitura e escrita críticas) de Surdos em Língua Portuguesa. Como caso particular insere-se o estudo para o desenvolvimento de uma aplicação de auxílio à especificação do conhecimento linguístico associado a duas línguas naturais como insumo a uma ferramenta livre de tradução automática.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luiz Pires Guedes - Integrante / GARCIA, LAURA S. - Coordenador.
+2005 - 2007
+PAEDA - Pseudo-Aleatoriedade em Estruturas Discretas e Algoritmos
+Descrição: Estudo de objetos pseudo-aleatórios, considerando tanto os problemas teóricos fundamentais da área como também os problemas práticos. Do lado teórico, enfatiza-se os problemas extremais tipo Turán para grafos e hipergrafos, teoria de Ramsey, e lema de regularidade de Szemerédi. Do lado aplicado, a influência dos geradores de números pseudo-aleatórios no desempenho de algoritmos probabilísticos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: André Luiz Pires Guedes - Integrante / Jair Donadelli Jr - Integrante / Renato José da Silva Carmo - Integrante / Yoshiharu Kohayakawa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 14
+2002 - Atual
+ARG - Algorithm Research Group (ARG - PESQUISA EM ALGORITMOS)
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (11)  / Doutorado: (2) . Integrantes: André Luiz Pires Guedes - Integrante / Murilo Vicente G da Silva - Integrante / Jair Donadelli Jr - Integrante / Renato José da Silva Carmo - Coordenador / Jaime Cohen - Integrante / Marina Groshaus - Integrante / André Luís Vignatti - Integrante.
+2002 - Atual
+IMAGRAFO - Aplicação de Teoria dos Grafos e Geometria Computacional em Computação de Imagens
+Descrição: Aplicação de Teoria dos Grafos e Geometria Computacional em Computação de Imagens
+A área de computação de imagens apresenta uma extensa variedade de problemas combinatórios, tendo em vista uma grande quantidade de dados a serem manipulados. Portanto devemos encontrar soluções que consigam processar esses dados em tempo adequado à aplicação e sem comprometer a qualidade do resultado. O objetivo deste projeto é investigar as formas de uso de teoria dos grafos e geometria computacional em computação de imagens. Em especial, pretende-se contribuir de forma significativa para o desenvolvimento de novas técnicas de segmentação, reconstrução e representação tridimensional, bem como indexação e armazenamento de imagens e modelos, para aplicação em sistemas de recuperação de imagens por conteúdo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Luiz Pires Guedes - Coordenador.Número de produções C, T & A: 14

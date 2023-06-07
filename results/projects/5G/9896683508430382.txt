@@ -1,0 +1,17 @@
+2017 - 2021
+Pesquisa Aplicada em Redes de Acesso Sem Fio em Banda Larga e sistemas de Radiodifusão
+Descrição: O projeto visa investigar aspectos como cobertura, ambiente de propagação e qualidade esperada que afetam a análise da propagação de sinais em radiofrequência em sistemas de comunicação sem fio para acesso (nas diferentes faixas de frequência) e diferentes aplicações (como por exemplo sistemas de Radiodifusão, sistemas 5G e Internet das Coisas). 
+Este projeto ainda prevê apontar as principais linhas de estudo para alinhamento das politicas públicas e regulamentação necessária que viabilize a implantação de redes de comunicação eficientes com o objetivo de que o mercado possa aproveitar um ambiente de desenvolvimento de negócios em redes de telecomunicações confiáveis e seguras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Vinicio Rodríguez Ron - Integrante / Rodolfo Saboia Lima - Coordenador.
+2010 - 2015
+Pesquisa Aplicada em redes de acesso sem fio banda larga
+Descrição: Realizar de campanhas de medidas de canal em ambientes internos e externos em cidades brasileiras com características urbanas densas, urbanas, suburbanas e rurais e concentração de medidas em banco de dados com acesso via ftp e visualização web com mapas georeferenciados.
+Modelar o canal de rádio propagação móvel para ambientes externos e internos com e sem visada direta entre o transmissor e o receptor.
+Modelagem de canal interno na interface dos ambientes externos/internos.
+Modelos de previsão de cobertura com métodos determinísticos e semi-empíricos.
+Desenvolvimento de técnicas de projeto e ferramentas computacionais para o planejamento, coordenação e otimização de redes banda larga sem fio.
+Estudo de técnicas automáticas de posicionamento de estações rádio base em função da qualidade do canal de comunicação e otimização de canais com uso de algoritmos genéticos e redes neurais.
+Avaliações de uso eficiente de espectro para aplicações de governo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Vinicio Rodríguez Ron - Coordenador.Financiador(es): Pontifícia Universidade Católica do Rio de Janeiro - Auxílio
+										financeiro / Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.
+2010 - 2010
+SISTEMAS DE ACESSO BANDA LARGA SEM FIO ? MEDIDAS DE PROPAGAÇÃO, CARACTERIZAÇÃO DE CANAL DE RADIOPROPAGAÇÃO E MODELAMENTO DE CANAL.
+Descrição: Este é um trabalho de alta relevância metrológica para a Divisão de Metrologia em Telecomunicações do Inmetro por apresentar campanhas de medição e análise de sistemas de comunicação de banda larga sem fio, sendo estes passíveis de regulação compulsória de parâmetros como emissão de espúrios, interferências, radiação não-ionizante e confiabilidade das informações transmitidas e recebidas por estes sistemas, além de certificação de equipamentos e dispositivos utilizados no mercado nacional.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Vinicio Rodríguez Ron - Coordenador.

@@ -1,0 +1,7 @@
+2019 - Atual
+Poços + Inteligente
+Descrição: Desenvolvimento de plataforma para mobilidade elétrica contemplando:
+- Sistemas inteligentes para estimativa de autonomia de veículos elétricos e recomendação de recarga;
+- Sistemas para gerência e operação de serviço de bicicletas elétricas compartilhadas
+- Sistemas para gerência e operação de serviço de compartilhamento de veículos elétricos
+- Ambientes de geração distribuída e armazenamento de energia para recarga de veículos elétricos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabiano Costa Teixeira - Coordenador.

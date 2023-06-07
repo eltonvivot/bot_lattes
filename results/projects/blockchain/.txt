@@ -1,0 +1,79 @@
+2017 - Atual
+Credibilidade do Banco Central do Brasil
+Descrição: Construir índices de credibilidade do Banco Central do Brasil baseado na ancoragem das expectativas de inflação de longo prazo. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Nascimento de Oliveira - Coordenador / Wagner Gaglianone - Integrante.
+2017 - Atual
+Desenvolvimento Financeiro e Eficácia da Política Monetária
+Descrição: Investigar a relação entre o desenvolvimento financeiro e a eficácia da política monetária no Brasil. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Fernando Nascimento de Oliveira - Coordenador.
+2012 - Atual
+A Estrutura a termo da taxa de juros como previsora da taxa de inflação no Brasil
+Descrição: Motivação Prever o  PIB e inflação usando a estrutura a termo das taxas de juros.
+Metodologia e dados: a serem definidos. 
+Referências
+Andrew Ang, Geert Bekart, and Min Wein (2008) ?The Term Structure of Real Rates
+and Expected Inflation? The Journal Of Finance ? Vol. LXIII, No. 2.  
+Bernanke, Ben and Kuttner, Keneth (2005) ?What Explains the Stock Market´s Reaction to Federal Reserve Policy? WP 10402 NBER. 
+Balsofia, Chiona and Wickens, Mike (2007) ?Macroeconomic Sources of Risk in the Term Structure? Working Paper 1329 CESIFO. 
+Campbell, John Y. (1995) ?Some Lessons from then Yiel Curve? Journal of Economic Perspective 9;129-152. 
+Canova, Fabio and Gianni de Nicolo (2000) ?Stock returns, term structure, inflation and real activity: An international perpective? . 
+Davis, E. Phillips and Gabriel Fagan (1997) ?Are Financial spreads indicators of future inflation and output growth in EY countries?? Journal of applied Econometrics 6:701-714.
+Estrella, Arturo (2005) ?The Yield Curve as a Leading Indicator: Frequently Asked Questions? Federal Reserve Bank of New York.
+Estrella, Arturo and Gigas Hardouvellis (1991) ?The Term Structure as a predictor of real economic activity? Journal of Finance 46:555-576.
+Estrella, Arturo and Frederic S. Mishkin (1998) ?Predicting US Recessions Financial Variables as leading Indicators? Review of Economics and Statistics, 80:45-61.
+Harvey, Campbell R. (1988) ?The Real term structure and consumption growth? Journal of Financial Economics 22 (December): 305-333.
+Kozicki, Sharon (1997) ?Predicting real growth and inflation with the yiel spread? Federal Reserve Bank of Kansas City Economic Review 82:39-57.
+Mody, Ashoka and mark P. Taylor (2004) ?Financial Predictors of real activity and financial accelerator? Economics Letter 82:167-172.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Nascimento de Oliveira - Coordenador.
+2012 - Atual
+Política Monetária e Governança Corporativa
+Descrição: De acordo com pesquisas recentes em finanças, é importante distinguir entre diferentes características de governança das firmas quando analisamos suas políticas de financiamento. Ao mesmo tempo, recentes pesquisas em economia monetária indicam diferentes impactos da política monetária em vários tipos e classes de ativos (Bernanke e Gertler (1995)). A ideia neste trabalho seria trabalhar com uma mistura das duas visões e investigar se a política monetária tem impactos diferentes no comportamento das firmas com diferentes níveis de governança (Oliner and Rudebush (1996a, 1996b) and Kashyap, Stein and Wilcox (1993, 1996)).
+Objetivo: Estudar se a política monetária tem impactos diferentes no comportamento das firmas com diferentes níveis de governança 
+Metodologia e dados: amostra de 370 empresas, de 21 setores econômicos distintos de empresas listads no Bovespa entre os anos de 2000 e 2012. Metodologia a ser definida.
+Referências: 
+Kashyap, A.K., J.C. Stein and D.W. Wilcox, 1993, Monetary policy and credit conditions: Evidence from the composition of external finance, The American Economic Review, 83, 78-98.
+Kashyap, A.K., J.C. Stein and D.W. Wilcox, 1996, Monetary policy and credit conditions: Evidence from the composition of external finance: reply, The American Economic Review, 86, 310-14. 
+Oliner, S.D. and G.D. Rudebusch, 1996a, Is there a broad channel for monetary policy?, Federal
+Reserve Bank of San Francisco Economic Review, 1, 4 - 13.
+Oliner, S.D. and G.D. Rudebusch, 1996b, Monetary policy and credit conditions: Evide Evidence from the composition of external finance: comment, The American Economic Review, 86, 300-309.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (2) . Integrantes: Fernando Nascimento de Oliveira - Coordenador.
+2012 - Atual
+Os Impactos das Mudanças Inesperadas da SELIC no Mercado Acionário Brasileiro
+Descrição: Os objetivos fundamentais da política monetária são expressos em termos de variáveis macroeconômicas, tais como produção e inflação. No entanto, a influência da política monetária sobre estas variáveis é indireta. Os efeitos mais diretos das ações de política monetária estão relacionados aos mercados financeiros. Ao afetar os preços das ações, a política monetária não antecipada modifica o comportamento dos agentes econômicos. 
+Em particular no caso das firmas, é fato conhecido na Literatura que o seus investimentos  e os preços das ações estão positivamente correlacionados no tempo e no corte transversal. A explicação tradicional para isto é o fato que estes preços refletem racionalmente a produtividade marginal do capital. O modelo que descreve isto é o Q marginal de Tobin (Hayashi (1982) e Boivin, Kiley e Mishking (2010)) Outra possível explicação está relacionada ao fato do mercado de ações ter algum elemento de irracionalidade. Isto implicaria que os preços das ações não mais refletiriam a produtividade marginal do capital, fato que teria efeitos sobre o padrão de emissões de ações das firmas e, portanto, sobre seus investimentos (Baker, Stein e Wurgler (2003)). 
+Portanto, nosso trabalho ao procurar entender bem as relações entre a política monetária não antecipada e os preços das ações contribui para a melhor compreensão dos mecanismos de transmissão de política monetária no Brasil. Isto é tanto útil para o Banco Central do Brasil, que pode aumentar a eficácia de suas políticas monetárias, quanto para os agentes privados que irão reagir a novos incentivos em suas escolhas econômicas.    
+Objetivos: Vamos analisar como (se) choques não antecipados de política monetária afetam os preços das ações e como (se) isto se reflete nos investimentos feitos pelas firmas no Brasil.
+Metdologia e dados: a serem definidos.
+Referências
+Barry Bosworth, 1975. "The Stock Market and the Economy," Brookings Papers on Economic Activity, Economic Studies Program,. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Nascimento de Oliveira - Coordenador.Número de produções C, T & A: 1
+2012 - Atual
+Crises Financeiras e o Produto Potencial
+Descrição: Os impactos de crises financeiras podem ser também observados na oferta agregada. Restrições de crédito podem restringir a produção corrente, ao reduzir o capital de giro, e a produção futura, ao restringir o investimento e o estoque de capital. Estes efeitos se manifestariam em uma redução do produto potencial e em um aumento da utilização da capacidade instalada que se segue ao período de crise financeira e recessão econômica, de modo que as pressões inflacionárias seriam mais fortes nestes períodos do que em outros períodos econômicos.
+Objetivo: Apresentar evidências a partir de um estudo em painel de países emergentes se pressões inflacionárias nestes países tendem a ser maiores durante a recuperação econômica que se segue a uma recessão e crise financeira comparada aos períodos em que estas não ocorrem.  Isto indicaria uma queda no produto potencial destes países em seguida a crises financeiras. 
+Metodologia e Dados: A serem definidos. 
+Prazo: Junho de 2013
+Referências: 
+Barrell, R., Davis, E.P., Karim, D., Liadze, I., 2010. The Effects of Banking Crises on
+Potential Output in OECD Countries. Mimeo.
+Benati, L., 2012. Estimating the financial crisis? impact on potential output.
+Economics Letters 114, 113?119.
+Bernanke, B.S., Lown, C.S., 1991. The credit crunch. Brookings Papers on Economic
+Activity 1991, 205?247.
+Bijapur, M., 2010. Does monetary policy lose effectiveness during a credit crunch?
+Economics Letters 106, 42?44.
+Blinder, A.S., 1987. Credit rationing and effective supply failures. Economic Journal
+97, 327?352.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Nascimento de Oliveira - Coordenador.Número de produções C, T & A: 2
+2012 - Atual
+Mecanismos de Transmissão de Política Monetária
+Descrição: Estudar os mecanismos de transmissão de politica monetária no Brasil tanto do ponto de vista teteórico quanto do ponto de vista empírico. Está ligado à linha de pesquisa de Modelagem Macroeconômica do Mestrado Profissionalizante de Economia do IBMEC/RJ.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Nascimento de Oliveira - Coordenador / Marcelo de Albuquerque Melo - Integrante.Número de produções C, T & A: 6
+2009 - Atual
+Dinâmica da Inflação e da Taxa de Câmbio Nominal
+Descrição: Estudar a dinâmica da inflação brasileira e da taxa de câmbio nominal.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fernando Nascimento de Oliveira - Coordenador.Número de produções C, T & A: 1
+1997 - Atual
+Evidências empíricas e teóricas quanto às decisões de investimento e financiamento pelas firmas
+Descrição: O objetivo deste projeto é caracterizar fatos estilizados das Finanças Corporativas brasileira e latino-americana quanto as decisões de investimento e financiamento pelas firmas. Está relacionado à linha de pesquisa de Finanças e Controladoria do Mestrado Profissional de Administração do IBMEC/RJ. 
+Algumas evidências de interesse são:
+2.a) Cálculo da taxa de desconto para avaliação de ações e de projetos empresariais brasileiros;
+2.b) Estudos empíricos do efeito da taxação sobre a decisão de investimento e financiamento;
+2.c) Estudos empíricos dos efeitos da política de dividendos sobre o preço das ações;
+2.d) Retornos de longo prazo, ações corporativas e finanças comportamentais;
+2.e) Efeitos de problemas de agência e no preço das empresas;
+2.f) Evidências empíricas no mercado de controle de empresas.
+Além de produzir artigos científicos, artigos de divulgação, relatórios de pesquisa nas áreas de atuação dos membros, esta linha pretende realizar seminários para discussão de trabalhos técnicos e acadêmicos.
+O mestrado profissionalizante, com o seu requisito da tese, terá papel fudamental no desenvolvimento deste projeto, na medida em que os mestrandos orientarem suas dissertações para a produção de evidências empíricas para o mercado nacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (6) . Integrantes: Fernando Nascimento de Oliveira - Coordenador / José Valentim - Integrante.Número de produções C, T & A: 22

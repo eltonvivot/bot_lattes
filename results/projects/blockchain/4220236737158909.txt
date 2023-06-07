@@ -1,0 +1,71 @@
+2022 - Atual
+Desenvolvimento de Middleware Adaptativo Usando Teoria de Controle
+Descrição: O objetivo geral deste projeto é desenvolver uma solução para implementação e execução
+de sistemas de middleware adaptativos que usa princípios e mecanismos de teoria de
+controle e computação autonômica. Esta solução estenderá a versão atual do
+gMidArch incorporando a ?controlabilidade? como elemento de primeira classe no
+desenvolvimento do middleware.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (6) . Integrantes: Nelson Souto Rosa - Coordenador / Nelson S  Rosa - Integrante / André Gustavo Pereira da Silva - Integrante / David Júnio Mota Cavalcanti - Integrante / Wellison Raul Mariz Santos - Integrante / Daniel da Cruz Brandão - Integrante / Anderson Melo de Morais - Integrante / Vladimir Gualberto da Silva - Integrante / Josival dos Santos Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2018 - 2021
+MidArch: Um Framework de Middleware Adaptativo Baseado em Métodos Formais
+Descrição: O objetivo geral deste projeto é desenvolver uma solução para implementação (framework)
+e execução (ambiente de execução) de sistemas de middleware adaptativos. A solução proposta deve ser projetada para executar adaptações
+baseadas em verificações formais e realizadas de forma segura. O framework
+proposto deverá combinar estratégias de desenvolvimento de middleware (e.g., padrões
+de projeto arquiteturais), o uso leve (lightweight) de técnicas formais integradas ao desenvolvimento
+e a execução do middleware, e mecanismos de estruturação do middleware
+que facilitem a sua adaptação. Ao final do projeto, o framework deverá reduzir o tempo
+e o esforço de implementação de sistemas de middleware adaptativos e integrará modelos
+formais que garantam maior precisão e segurança nas adaptações realizadas em
+tempo de execução. Por sua vez, o ambiente de execução será responsável por executar
+e adaptar o middleware dinamicamente, i.e., sem a sua parada completa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Nelson Souto Rosa - Integrante / Nelson S  Rosa - Coordenador / Gláucia Melissa Medeiros Campos - Integrante / Adalberto Ribeiro Sampaio Junior - Integrante / David Júnio Mota Cavalcanti - Integrante / Wellison Raul Mariz Santos - Integrante / Edmundo Matheus Barbosa Santana - Integrante.
+2017 - 2020
+Reconfiguração Dinâmica de Middleware para Nuvem Baseada em Métodos Formais
+Descrição: O objetivo geral desta proposta é projetar e implementar um mecanismo de reconfiguração
+dinâmica de middleware, chamado MIstRAL, apoiado no uso de métodos formais.
+O mecanismo proposto será utilizado para implementar sistemas de middleware adaptativos
+para nuvem e guiará o processo de adaptação utilizando notações e ferramentas
+formais como tecnologia de software. Neste caso, os métodos formais serão utilizados de
+forma lightweight, ou seja, desenvolvedores de middleware e de aplicações distribuídas
+que se utilizem do mecanismo proposto se beneficiarão do uso de métodos formais, mas
+não precisarão estar cientes deste uso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Nelson Souto Rosa - Coordenador / Tércio de Morais Sampaio Silva - Integrante / André Gustavo Pereira da Silva - Integrante / Edmundo Matheus B Santana - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+Modelagem e Execução de Composição de Serviços Cientes de Qualidade em Nuvens Computacionais
+Descrição: O objetivo geral desta proposta é desenvolver um ambiente de (1) modelagem e (2) execução de aplicações orientadas a serviço cientes de qualidade em ambientes de computação em nuvem. A ?ciência de qualidade? refere-se ao fato de que o desenvolvedor poderá fazer anotações que definam a qualidade exigida dos serviços usados na aplicação. Por exemplo, definindo que um determinado serviço realize a funcionalidade que lhe é exigida, mas que também seja ?seguro? ou ?confiável?. O ambiente proposto consistirá de dois componentes principais que auxiliarão no desenvolvimento e a na execução: um editor para definição da composição de serviços anotada com requisitos de qualidade (desenvolvimento) e uma infra-estrutura de suporte à execução desta composição em uma nuvem computacional (execução).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Nelson Souto Rosa - Integrante / Nelson S  Rosa - Coordenador / Fernando Antonio Aires Lins - Integrante / Júlio César Damasceno - Integrante / Tércio de Morais Sampaio Silva - Integrante / Diego Liberalquino Soares Lima - Integrante.
+2010 - 2010
+SSC4CLoud: Security Service Composition for Cloud
+Descrição: O objetivo principal deste projeto é permitir que pessoas possam criar processos de negócio na nuvem implementados por composições de serviços e anotados com requisitos de segurança e informações sobre serviços. Para alcançar este objetivo principal, os seguintes objetivos específicos precisam ser atingidos:
+(a) construir ferramentas de modelagem, transformação de modelos e  implantação de composições de serviço na nuvem compuational,
+(b) realizar mecanismos de segurança no ambiente da nuvem computacional
+(c) usar o ambiente de teste do Open Cirrus para avaliar a escalabilidade da solução; e
+(d) disponibilizar a solução como um serviço na nuvem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Nelson Souto Rosa - Coordenador / Fernando Antonio Aires Lins - Integrante / Bryan Stephenson - Integrante / Jun Li - Integrante / Andre Ricardo da Silva Souza - Integrante / Bruno Leornardo Barros da Silva - Integrante / Robson Wagner Albuquerque de Medeiros - Integrante / Davi Aragão - Integrante.
+2009 - 2009
+Sec-MoSC: Security Model Oriented Service Composition
+Descrição: O objetivo deste projeto é tratar requisitos não-funcionais de segurança e privacidade na composição de serviços. Para alcançar este objetivo geral, alguns objetivos específicos precisam ser alcançados: 
+(1)	criar modelos para expressar requisitos de segurança/privacidade de processos de negócio e modelos para descrever a qualidade de serviço de segurança/privacidade providas por serviços; 
+(2)	avaliar e compor serviços que atendam aos requisitos de segurança e privacidade definidos nos modelos; 
+(3)	mapear os requisitos de segurança e privacidade em políticas e ações concretas que devem ser distribuídas e incluídas nos serviços e na composição; 
+(4)	definir mecanismos de monitoramento de requisitos de segurança e privacidade da composição em tempo de execução; e
+(5)	definir métodos de avaliação experimental da pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Nelson Souto Rosa - Coordenador / Fernando Antonio Aires Lins - Integrante / Júlio César Damasceno - Integrante / Bryan Stephenson - Integrante / Jun Li - Integrante / Hamid Motahari - Integrante.
+2008 - 2010
+S4S: Monitoramento Remoto de Ambientes Usando Redes de Sensores Sem-Fio
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Nelson Souto Rosa - Coordenador / Jobson Ronan Jerônimo da Silva - Integrante / Rita C. A. Lima - Integrante / Igor Marques - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2008 - 2008
+MoSC: Composição de Serviços Baseada em Modelos
+Descrição: No contexto de SOC/SOA, SaaS, composição de serviços e evolução composicional, este projeto tem dois objetivos gerais: propor um mecanismo para composição de serviços baseada em modelos; e definir os requisitos necessários à evolução deste tipo de composição.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Nelson Souto Rosa - Integrante / Nelson S  Rosa - Coordenador / Fernando Antonio Aires Lins - Integrante / Júlio César Damasceno - Integrante / Andre Ricardo da Silva Souza - Integrante / Bruno Leornardo Barros da Silva - Integrante.
+2007 - 2009
+Projeto e Implementação de Framework de Middleware
+Descrição: O objetivo geral deste projeto é desenvolver um framework para a implementação de middleware orientados por princípios de arquitetura de software. Os elementos utilizados como base para o framework são elementos arquiteturais que incluem componentes (elementos de computação), conectores (elementos de comunicação), configuração (composição de componentes e conectores) e estilos (restrições na composição composição). Este framework funcionará como uma pré-implementação para a construção de middleware.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Nelson Souto Rosa - Coordenador / Osmany Barros de Freitas - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2007 - 2009
+Toolkit Para Desenvolvimento de Middleware Ubíquo para Dispositivos Móveis
+Descrição: O objetivo geral deste projeto é a construção de um conjunto de ferramentas (Toolkit) para desenvolvimento de frameworks de aplicações e de middleware para dispositivos móveis. A adoção de frameworks permite um aumento da produtividade no desenvolvimento de aplicativos e serviços para usuários finais, desenvolvidos sobre plataformas de distribuição (middleware) também geradas com o toolkit. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Nelson Souto Rosa - Coordenador / Gledson Elias da Silveira - Integrante / André Elias Assad - Integrante.Financiador(es): Não informado / Financiadora de Estudos e Projetos - Bolsa.
+2003 - 2005
+Um Modelo de Customização de Middleware
+Descrição: O objetivo geral deste projeto é definir um modelo de customização para middlewares. A customização neste caso refere-se a forma de composição dos serviços fornecidos pelo middleware para atender os requisitos não-funcionais definidos pela aplicação. 
+Os objetivos específicos do projeto são:
+* definir um conjunto de serviços básicos necessários às aplicações distribuídas que possam ser combinados para definir serviços mais avançados;
+* propor um modelo (semi-)formal que possa ser adotado para especificar os serviços e suas interações, permitindo a verificação da corretude da customização, i.e., verificar se a customização do middleware viola a semântica da aplicação;
+* implementar o modelo proposto em um middleware real (.e.g, CORBA, EJB, .NET, DCOM, etc.) para validar o modelo; e
+* analisar o uso de arquitetura de software dinâmica distribuídas que podem ser implementadas nos middlewares customizados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Nelson Souto Rosa - Coordenador / Marcos Andre da Silva Costa - Integrante / Mardoqueu de Souza Vieira - Integrante.Número de produções C, T & A: 5

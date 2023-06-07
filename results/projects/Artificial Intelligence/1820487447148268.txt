@@ -1,0 +1,124 @@
+2023 - Atual
+Dinâmica de Sistemas Complexos Biológicos, Mentais e Sociais (apoio CNPq)
+Descrição: De modo simplista, define-se sistema complexo como aquele formado por uma coleção de elementos com dinâmica própria conectados por um grafo aleatório com topologia não trivial. Nos próximos anos, deseja-se dar continuidade às pesquisas relacionadas com a bolsa de produtividade vigente, estudando sistemas complexos biológicos, mentais e sociais, considerando adaptatividade e heterogeneidade na dinâmica dos elementos conectados e/ou na topologia do acoplamento. Nesses trabalhos, a serem feitos de maneira analítica e numérica, busca-se investigar como estruturas topológicas afetam comportamentos coletivos e como a dinâmica dos nós altera as topologias das redes subjacentes. Pretende-se lidar com redes neurais, processos mentais e redes sociais. Almeja-se:explorar a relação entre topologia e sincronismo em desordens neurológicas (como autismo, doença de Parkinson, epilepsia, esquizofrenia, mal de Alzheimer); investigar as propriedades e as leis de formação de redes neurais sadias; estudar a geração de padrões espaciais espirais relacionados a cardiopatias e neuropatias; propor algoritmos de processamento de imagem e de otimização inspirados em neuroplasticidade e sincronismo; compreender o papel da emoção em momentos de tomada de  decisão; estabelecer os fundamentos matemáticos de uma consciência artificial; e determinar medidas de controle que minimizem a propagação de doenças contagiosas (como COVID-19 e sarampo), psicopatologias (como depressão) e de comportamentos considerados indesejados pela sociedade (como corrupção, divulgação de notícias falsas, injustiça e racismo).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (6) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - 2023
+Dinâmica de Sistemas Complexos Heterogêneos Biológicos e Sociais (apoio CNPq)
+Descrição: De modo simplista, define-se sistema complexo como aquele formado por uma
+coleção de elementos com dinâmica própria conectados por um grafo aleatório com
+topologia não trivial. Nos próximos anos, deseja-se dar continuidade às pesquisas
+relacionadas com a bolsa de produtividade vigente, estudando sistemas complexos
+biológicos e sociais, considerando adaptatividade e heterogeneidade na dinâmica
+dos elementos conectados e/ou na topologia do acoplamento. Nesses trabalhos, a
+serem feitos de maneira analítica e numérica, busca-se investigar como estruturas
+topológicas afetam comportamentos coletivos e como a dinâmica dos nós altera
+as topologias das redes subjacentes. Pretende-se lidar com redes neurais e com sociais.
+Almeja-se:explorar a relação entre topologia e sincronismo em desordens neurológicas
+(como autismo, doença de Parkinson, epilepsia, esquizofrenia, mal de Alzheimer);
+investigar as propriedades e as leis de formação de redes neurais sadias; estudar
+a geração de padrões espaciais espirais relacionados a cardiopatias e neuropatias;
+propor algoritmos de processamento de imagem e de otimização inspirados em
+neuroplasticidade e sincronismo; e determinar medidas de controle que minimizem
+a propagação de doenças contagiosas e de comportamentos considerados indesejados
+pela sociedade (como corrupção, divulgação de notícias falsas, injustiça e racismo).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (6) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - Atual
+Computation and Dynamics of Deterministic Automata Networks (apoio CAPES, CONICYT (Chile), e CNRS e MAEDI (França).)
+Projeto certificado pelo(a) coordenador(a) Pedro Paulo Balbi de Oliveira em 11/12/2018.
+Descrição: Almeja-se relacionar teoria dos autômatos, sistemas dinâmicos discretos e engenharia de sistemas, com o objetivo de aprofundar a compreensão atual sobre aspectos computacionais e dinâmicos de autômatos celulares binários e redes booleanas. Esse estudo apoia-se em métodos computacionais e analíticos. Métodos computacionais fornecem dados empíricos por meio de simulações; métodos analíticos permitem traduzir esses dados em expressões formais. Assim, visa-se lidar com autômatos celulares e/ou redes booleanas, a fim de estudar suas capacidades e limitações computacionais, bem como a dinâmica global decorrente da ação de suas funções locais de atualização de estado, sejam elas síncronas ou assíncronas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (6) . Integrantes: Luiz Henrique Alves Monteiro - Integrante / Pedro Paulo Balbi de Oliveira - Coordenador / Eric Goles Chacc - Integrante / Kévin Perrot - Integrante / Marco Montalva-Medel - Integrante / Eurico Prospero Ruivo - Integrante / Pedro Montealegre - Integrante / Adrien Richard - Integrante.
+2015 - 2019
+Dinâmica de Sistemas Complexos Biológicos e Elétricos (apoio CNPq)
+Descrição: De modo simplista, define-se sistema complexo como aquele formado por uma coleção de elementos conectados por um grafo (aleatório) com topologia não trivial. Nos próximos anos, deseja-se dar continuidade às pesquisas relacionadas com a bolsa de produtividade vigente, estudando sistemas complexos biológicos e elétricos. Nesses trabalhos, a serem feitos de maneira analítica e numérica, busca-se investigar como estruturas topológicas afetam comportamentos coletivos e como a dinâmica dos nós altera as topologias das redes subjacentes. De fato, dinâmica e topologia podem se influenciar e determinar a função e a evolução dos sistemas em estudo. Pretende-se lidar com redes neurais, sociais e de telecomunicações. Essas possuem similaridades com relação à dinâmica dos nós e à topologia dos grafos correspondentes. Em telecomunicações, assume-se que os nós são malhas de sincronismo de fase (PLLs). Em sistemas neurais, considera-se que os nós são neurônios descritos por osciladores de fase (que se assemelham a modelos de PLLs) e por autômatos celulares. Em redes sociais, autômatos celulares devem ser empregados em estudos epidemiológicos, com cada célula do reticulado representando um indivíduo da população hospedeira. Com isso, almeja-se: explorar a relação entre topologia e sincronismo em desordens neurológicas (como autismo, doença de Parkinson, epilepsia, esquizofrenia, mal de Alzheimer); investigar as propriedades e as leis de formação de redes neurais sadias; estudar a geração de padrões espaciais espirais relacionados a cardiopatias; estabelecer critérios para projetos de redes de telecomunicações síncronas (baseadas em TDM ou em IP); propor algoritmos de processamento de imagem e de otimização inspirados em neuroplasticidade e sincronismo; determinar medidas que minimizem a propagação de doenças contagiosas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (6) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - Atual
+Acoplamento de Osciladores em Problemas de Engenharia
+Descrição: A análise de modelos matemáticos que representam sistemas físicos em geral é de ampla utilidade no desenvolvimento de projetos de Engenharia Elétrica. Frequentemente, a avaliação experimental de um sistema real é mais difícil e mais cara do que estudos teóricos e, quando tal sistema ainda não existe fisicamente, somente um estudo teórico é possível. A Teoria de Sistemas Dinâmicos abrange um conjunto de técnicas que são fundamentais para essas análises. Propõe-se estudar modelos matemáticos relacionados com sistemas de Engenharia de Telecomunicações e Engenharia de Computação. Em Engenharia de Telecomunicações, os modelos normalmente tratam de dispositivos e a intenção é prever os possíveis comportamentos em condições operacionais, determinando os efeitos, sobre sua dinâmica, das variações dos valores dos parâmetros que os caracterizam. Em Engenharia de Computação, pretendem-se estudar sistemas conexionistas, como autômatos celulares e redes neurais, que se relacionam com as bases da Inteligência Artificial. Essa abordagem também é conveniente para estudar a propagação de hábitos, informações e doenças contagiosas. De fato, o estado de saúde de uma pessoa pode ser considerado um oscilador, que varia entre um estado saudável e um estado doente. Essa ideia pode ser extrapolada para a propagação de uma notícia, em que o conhecimento de um indivíduo oscila entre ignorante e ciente. Objetivo: Caracterizar a dinâmica de um conjunto de osciladores acoplados, em diversos problemas de interesse em Engenharia de Telecomunicações e Engenharia de Computação, envolvendo malhas de sincronismo de fase (PLLs), autômatos celulares e redes neurais. Determinar as soluções estacionárias e periódicas e as respectivas estabilidades, a partir de cálculos analíticos e simulações numéricas. Investigar a possibilidade de bifurcações e comportamento caótico. Solucionar problemas práticos (como reconhecimento de padrões, previsão e controle de epidemias, projeto de redes de telecomunicações síncronas) usando redes de osciladores. Este projeto está vinculado ao Programa de Pós-graduação em Engenharia Elétrica e Computação da Universidade Presbiteriana Mackenzie.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (5) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador / Ricardo Fukuda Marques - Integrante / Brian Lee Mayer - Integrante / Raul Loula - Integrante / Douglas Yamamoto Charcon - Integrante / André Pires dos Santos - Integrante / Adalberto de Paula Baccili Junior - Integrante.
+2011 - 2015
+Relacionando Dinâmica e Topologia em Redes Biológicas e Elétricas (apoio CNPq)
+Descrição: Pretende-se estudar analítica e numericamente redes biológicas e elétricas, investigando como suas estruturas topológicas afetam o comportamento coletivo e como a dinâmica 
+dos seus nós influencia as topologias. Embora de naturezas diferentes, redes biológicas e 
+elétricas, como redes neurais, sociais e de telecomunicações, têm muito em comum: 
+seus nós são osciladores que podem exibir comportamentos dinâmicos semelhantes, e 
+encontram-se similaridades também nas propriedades topológicas de tais redes. Em 
+telecomunicações, considera-se que os nós são malhas de sincronismo de fase (PLLs). Em 
+sistemas neurais, assume-se que os nós são neurônios descritos em termos de 
+osciladores de fase (que se assemelham a modelos de PLLs) e em termos de autômatos celulares. Em redes sociais, autômatos celulares devem ser empregados em estudos 
+epidemiológicos, com cada célula do reticulado correspondendo a um indivíduo da população. O principal objetivo dos trabalhos a serem realizados é relacionar a evolução temporal (local) dos nós com o padrão de conectividade (global) da rede. Com isso, 
+almeja-se: explorar a relação entre topologia e sincronismo em desordens neurológicas
+(como autismo, doença de Parkinson, epilepsia, esquizofrenia, mal de Alzheimer);
+investigar as propriedades e as leis de formação de redes neurais sadias; estudar a 
+geração de padrões espaciais espirais relacionados a cardiopatias; estabelecer critérios para projetos de redes de telecomunicações síncronas (baseadas em TDM ou em IP); propor algoritmos de otimização inspirados em neuroplasticidade e sincronismo; determinar 
+medidas que minimizem a propagaçãoo de doenças contagiosas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (5) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2011
+Redes Neurais, Sociais e de Telecomunicações: Modelos e Aplicações (apoio CNPq)
+Descrição: Deseja-se realizar estudos analíticos e numéricos em redes neurais, em redes sociais e em redes de telecomunicações. Embora de naturezas diferentes, tais redes têm muito em comum: cada nó pode ser visto como um oscilador e podem-se usar equações similares para descrever a atividade desses nós. Em telecomunicações, redes de malhas de sincronismo de fase (PLLs) devem ser analisadas. Em sistemas neurais, pretende-se investigar modelos de neurônios formulados em termos de osciladores de fase (que se assemelham a modelos de PLLs que, por sua vez, se assemelham a modelos de pêndulos) e em termos de autômatos celulares. Em redes sociais, autômatos celulares devem ser empregados em estudos epidemiológicos, com cada célula do reticulado correspondendo a um indivíduo da população. O principal objetivo é determinar o comportamento dinâmico espaço-temporal dessas redes, cujas unidades estão acopladas em topologias tanto regulares quanto aleatórias. Com isso, pretende-se: estabelecer critérios para projetos de redes de telecomunicações síncronas (baseadas em TDM ou em IP); investigar maneiras de controlar doenças neurológicas (como depressão alastrante, epilepsia, doença de Parkinson); relacionar sincronismo de disparos neurais e a topologia de conexão de redes neurais; elaborar máquinas com inspiração biológica para processamento de imagens; determinar medidas que minimizem a propagação de doenças contagiosas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (3) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2008
+Dinâmica Espaço-Temporal Síncrona em Estruturas Corticais e em Redes de Telecomunicações (apoio CNPq)
+Descrição: Propõe-se realizar estudos analíticos e numéricos 
+sobre a dinâmica de osciladores que formam redes 
+de telecomunicações e redes neurais. Em 
+telecomunicações, redes de malhas de sincronismo 
+de fase (?phase-locked loops?, PLLs) devem ser 
+analisadas. Em sistemas neurais, pretende-se 
+investigar variações das equações de Wilson-Cowan 
+e do modelo de Hopfield, que descrevem a atividade
+de populações acopladas formadas por neurônios 
+excitatórios e inibitórios; e modelos de 
+osciladores de fase, pelos quais se representa a 
+atividade de cada neurônio que constitui a rede 
+(esses modelos de osciladores de fase 
+assemelham-se a modelos de PLLs que, por sua vez, 
+assemelham-se a modelos de pêndulos). A fim de se 
+levar em consideração, explicitamente, a 
+influência da localização espacial de cada 
+oscilador sobre a dinâmica da rede, pretende-se 
+lidar não apenas com modelos baseados em equações 
+diferenciais e equações de diferenças, mas também 
+com modelos baseados em equações a derivadas 
+parciais e autômatos celulares. Os principais 
+objetivos são investigar a propagação de ondas em 
+meios excitáveis e determinar as condições para a 
+ocorrência de sincronismo global e local, em meios
+uni e bidimensionais, cujas unidades interligam-se
+através de diversas topologias de acoplamento, 
+regulares e aleatórias. Tais resultados servem de 
+base: para projetos de redes de telecomunicações 
+síncronas; para a compreensão do funcionamento do 
+córtex visual e do córtex olfativo, o que pode 
+levar ao desenvolvimento de máquinas capazes de 
+reconhecer imagens e de distinguir odores; e para 
+a elaboração de protocolos de controle de crises 
+epiléticas através de estimuladores eletrônicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (7) Doutorado: (1) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 37
+2003 - 2007
+Causas e Correlações da Variação Fisiológica: Papel dos Gradientes Ambientais e Comportamentais em Diferentes Níveis de Organização (apoio FAPESP)
+Descrição: Procura-se responder a questões sobre fisiologia evolutiva, como: 1) Qual a contribuição dos ajustes fisiológicos e comportamentais para a expansão distribucional de vertebrados ectotérmicos? 2) Quais as correlações ecológicas da variância fisiológica em diferentes níveis de
+organização? 3) Qual o escopo da plasticidade fenotípica e do potencial para diferenciação morfo-fisiológica intra-genérica em vertebrados ectotérmicos?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Luiz Henrique Alves Monteiro - Integrante / José Guilherme Chaui Berlinck - Integrante / Carlos Arturo Navas - Coordenador / José Eduardo Pereira Wilken Bicudo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2003 - 2004
+Autômatos Celulares: Estudos Teóricos e Aplicações (apoio Mackpesquisa)
+Descrição: Propõe-se estudar aspectos teóricos de autômatos celulares, tais como a análise de seu comportamento dinâmico e o relacionamento com equações a derivadas parciais; aplicações em criptografia e epidemiologia; e a caracterização de sua evolução através de parâmetros de previsão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Luiz Henrique Alves Monteiro - Integrante / Pedro Paulo Balbi de Oliveira - Integrante / Gina Maira Barbosa de Oliveira - Coordenador.Financiador(es): Mackpesquisa - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2002 - 2005
+Estudos sobre o Comportamento Dinâmico de Redes de Osciladores Biológicos e Eletrônicos (apoio CNPq)
+Descrição: Estudos sobre redes de osciladores acoplados 
+baseiam-se, normalmente, em simulações numéricas. 
+Em geral, nesses estudos, assume-se que a 
+atividade de cada oscilador é descrita por uma 
+equação diferencial de primeira ordem. Tais redes 
+podem exibir ou sincronismo global,ou regiões que 
+se sincronizam em freqüências distintas, ou
+comportamento caótico. Neste projeto, propõe-se 
+estudar, numerica e analiticamente, o 
+comportamento dinâmico de redes formadas por 
+osciladores governados por equações diferenciais
+de primeira, segunda e terceira ordens. A 
+pretensão é responder a duas questões: (1) Que 
+relação há entre a arquitetura de acoplamento e 
+os padrões espaço-temporais exibidos pela rede? A
+teoria sobre topologias ``small worlds'' pode 
+fornecer pistas para se chegar a uma resposta. (2) De que maneira atrasos, heterogeneidades e ruídos 
+afetam os padrões espaço-temporais de cada
+arquitetura? Teoricamente, essa questão exige a 
+análise de equações diferenciais estocásticas, 
+com atrasos, acopladas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (1) . Integrantes: Luiz Henrique Alves Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 26
+2000 - 2002
+O Problema do Tamanho Relativo do Compartimento de Linfócitos B: uma Abordagem Comparativa e Teórica (apoio FAPESP)
+Descrição: Propõe-se estudar as relações alométricas entre massa corpórea e tamanho do sistema imunitário através de duas abordagens: (1) empírica, pela observação da dinâmica da resposta terciária em vertebrados ectotermos-heterotermos submetidos a diferentes doses secundárias de antígeno e sob diferentes regimes termais; (2) teórica, pelo desenvolvimento de um modelo matemático que represente a dinâmica das subpopulações de linfócitos B ocupando o compartimento dessas células.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Henrique Alves Monteiro - Integrante / José Guilherme Chaui Berlinck - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Instituto de Biociências USP - Cooperação.Número de produções C, T & A: 2

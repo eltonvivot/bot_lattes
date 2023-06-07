@@ -1,0 +1,390 @@
+2019 - Atual
+Ensaios Hidrodinâmicos Aplicados a Sistemas Marítimos
+Descrição: Este projeto tem como principal objetivo a melhoria e aperfeiçoamento de um Núcleo de Hidrodinâmica Experimental do TPN/USP. O laboratório é integrado à Rede Temática de Laboratórios de Ensaios com Aplicação na Indústria de Óleo, Gás e Energia, para ações destinadas à elaboração de estudos e ao desenvolvimento de projetos de sistemas oceânicos. O foco principal do projeto é em estudos específicos que a Petrobras têm como demanda e também em melhorias de procedimentos experimentais. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Kazuo Nishimoto - Coordenador / Claudio M P Sampaio - Integrante / Pedro Cardoso de Mello - Integrante / Isabela Frazão Alberto - Integrante / Kam Yu Kang - Integrante / Oygres Siqueira Pereira - Integrante / Maria Eduarda Felippe Chame - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2016 - 2021
+Numerical and Experimental Investigations on Hidrodynamics Int. and Operational Risks
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): National University of Singapore - Cooperação.
+2016 - 2018
+Particle-based numerical offshore tank
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Integrante / Cheng Liang Yee - Coordenador.Financiador(es): Office of Naval Research Global EUA - Outra.
+2015 - 2016
+Serviço de teste físico por meio de ensaio em tanque de provas e cálculo numérico no cluster do TPN do Conceito de Unidade Estacionária de Produção Utilizando Risers Rígidos em Catenária desenvolvido pela Petrobras
+Descrição: Construção de modelo de Otimização Numérico-matemática do Conceito de Unidade Estacionária de Produção Utilizando Risers Rígidos em Catenária. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2015 - 2015
+Investigação do VIV em Vão Livre de Duto
+Descrição: Sabendo-se que o fenômeno de VIV pode ter impacto importante na estimativa de vida útil de dutos dispostos horizontalmente junto ao leito oceânico, o presente projeto de pesquisa tem como principais objetivos: [1] Construir gráficos da variação da resposta in-line e cross-flow do fenômeno de VIV agindo em vãos livres de dutos, semelhantes aos apresentados nas Figuras 4.1 e 4.4 do documento DNV-RP-F105, porém baseados nas condições específicas de operação na Bacia de Campos; [2] Verificar a efetividade de supressores do tipo strake que recobrem parcialmente a superfície do duto; [3] Verificar a efetividade de anteparos triangulares montados simultaneamente à montante e jusante do vão livre.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2014 - 2018
+Ensaios hidrodinâmicos aplicados a sistemas marítimos de produção
+Descrição: Melhoria e aperfeiçoamento de um Núcleo de Hidrodinâmica Experimental do TPN/USP, interligado à Rede Temática de Integração de Laboratórios de Ensaios com Aplicações na Indústria de Óleo, Gás e Energia, para ações destinadas à elaboração de estudos e ao desenvolvimento de projetos de sistema oceânicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3) . Integrantes: Kazuo Nishimoto - Coordenador / Claudio M P Sampaio - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2014 - 2015
+Construção de Anexo ao TPN para Simulador Marítimo de Manobras
+Descrição: Desenvolvimento de sistemas de simulação em tempo real, com o refinamento dos modelos de manobra e navegação, inclusão de modelos de colisão, capacitação e construção de um sistema do tipo full-bridge contendo as mais modernas tecnologias e com arquitetura de hardware flexível e que permita múltiplos usuários. Consiste no desenvolvimento de software e hardware para o sistema completo de realidade virtual imersivo para a simulação de embarcações em ambiente portuário, offshore e fluviais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / TANNURI, EDUARDO A. - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2013 - 2018
+Metodologia integrada para dimensionamento e análise de sistemas de produção em águas ultra-profundas.
+Descrição: Método para dimensionamento e análise de sistemas de produção em águas ultra-profundas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / TANNURI, EDUARDO A. - Integrante.
+2013 - 2018
+Desenvolvimento de tecnologias para a aplicação na indústria de petróleo e gás e sua cadeia produtiva
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / TANNURI, EDUARDO A. - Integrante.
+2013 - 2016
+Consideração do VIM (Movimentos Induzidos por Vórtices) em projeto de sistemas flutuantes de produção de óleo e gás offshore
+Descrição: O presente projeto tem como objetivo a realização de estudos considerando o VIM (movimentos induzidos por vórtices) em projetos de sistemas flutuantes de produção de óleo e gás offshore, inclusive na presença concomitante de ondas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2013 - 2016
+MPS III - Simulação de Sloshing e Green Water.
+Descrição: O presente projeto tem como objetivo das continuidade às pesquisas realizadas pela equipe do Tanque de Provas Numérico sobre o desenvolvimento e aplicação de simulados baseados em método de partículas MPS (Moving Particle Semi-Inplicited Method) para investigar os fenômenos hidrodinâmicos não lineares ligados à produção de óleo e gás.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2013 - 2014
+Infraestrutura Portuária em Áreas Remotas
+Descrição: Este documento apresenta a proposta de TPN-USP ao CENPES-Petrobrás para o desenvolvimento conceitual de terminal offshore baseado em estrutura flutuante de grande porte (VLFS). As análises aqui propostas consistem na determinação dos melhores locais de instalação da unidade visando a otimizar a logística das operações, em um determinado cenário proposto, e o dimensionamento da estrutura flutuante, garantindo a viabilidade técnico-econômica de sua utilização. As análises com relação à viabilidade técnica contemplarão a hidrodinâmica do casco, ancoragem, estabilidade e estrutura da unidade, sendo também analisada a viabilidade do transbordo entre embarcações e o VLFS, este auxiliado pela presença de um dispositivo de proteção das ondas do mar, por exemplo, um quebra-mar flutuante, o qual também será dimensionado. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2012 - 2017
+FLNG - Desenvolvimento Tecnológico e Oparacional do Sistema FLNG para águas profundas.
+Descrição: O presente projeto tem como objetivo a realização de atividades para a investigação de vários fenômenos relacionados ao sistema FLNG, lidando com o estudo dos efeitos das escalas no fenômeno de sloshing e desenvolvendo ferramentas computacionais para simular o comportamento do FLNG em alto mar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (24)  / Mestrado acadêmico: (22)  / Doutorado: (2) . Integrantes: Kazuo Nishimoto - Coordenador / Claudio M P Sampaio - Integrante.Financiador(es): Frade Japão Petróleo Ltda - Outra.
+2012 - 2013
+Desenvolvimento de projeto conceitual de um navio ecológico eficiente para compor a frota de navios aliviadores da PETROBRAS - NAVE²
+Descrição: O presente projeto tem como objetivo a realização de atividade para desenvolver um projeto conceitual de navio ecológico eficiente capaz de atender o perfil operacional do armador e que apresente excelente desempenho nas condições geográficas e ambientais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Claudio M P Sampaio - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2012 - 2013
+Estudos de forma exploratória o fenômeno de VIV em uma linha em catenária sob à ação de uma correnteza lineamente variável com a profundidade
+Descrição: O presente projeto tem como objetivo a realização de atividade para estudar de forma exploratória o fenômeno de VIV (vibrações induzidas por vórtices) em linha lançada em catenária e submetida à ação de uma correnteza linearmente variável com a profundidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / FUJARRA, ANDRÉ L. C. - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2012 - 2013
+Desenvolvimento de tres modelos 3D em estereoscopia para utilização em treinamentos de técnicos e manutenção
+Descrição: O presente projeto tem como objetivo a realização de atividades para desenvolver 3 modelos 3D em estereoscopia para utilização em treinamentos de técnicos e manutenção.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): VALE S/A - Auxílio
+										financeiro.
+2012 - Atual
+Pesquisa e análise de navios com sistema de controle automático (TPN-DP)
+Descrição: Sistema de Posicionamento Dinâmico para navios com controle autônomo. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Integrante / TANNURI, EDUARDO A. - Coordenador.
+2011 - 2014
+Avaliação de Embarcações de Alto Desempenho para o Transporte de Santos
+Descrição: O presente projeto tem como objetivo a realização de atividades de verificação, avaliação e comparação alternativas de embarcações de alto desempenho capazes de atender os requisitos econômicos, geográficos e ambientais da exploração/produção da Bacia de Santos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Claudio Mueller Sampaio - Integrante.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2011 - 2012
+Desenvolvimento e Aplicação do Simulador Baseado em MPS para o Estudo dos Escoamentos Multifásicos e Geração Fluído-Estrutura.
+Descrição: O presente projeto tem como objetivo a realização de atividades para desenvolvimento de um simulador baseado em MPS para estudo dos escoamentos multifásicos e geração fluído-estrutura.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2011 - 2012
+Análises Navais Referentes à Fase de projeto Básico do Terminal de Regaseificação de GNL da Baía de Todos os Santos (TRBA)
+Descrição: O presente projeto tem como objetivo a realização de atividades visando fornecer acesso técnico para a modelagem e análise de um sistema multi-corpos no simulador TPN.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2011 - 2012
+Avaliação Experimental para Auxílio no Desenvolvimento de Sistema de Produção de Petróleo para Operar no Pré-Sal com Casco Monocoluna.
+Descrição: O presente projeto tem como objetivo a realização de atividades para analisar os resultados experimentais com aqueles obtidos numericamente, focados no comportamento em ondas de unidades do tipo monocoluna.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2011 - 2011
+Desenvolvimento de Capacitação em Estratégia em Apoio Logístico Integrado para a Marinha do Brasil
+Descrição: O presente projeto tem como objetivo a realização de atividades para contribuir para o desenvolvimento de uma estratégia de manutenção dos futuros submarinos nucleares brasileiros.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Claudio M P Sampaio - Integrante.Financiador(es): Coordenadoria Geral do Programa de Desenvolvimento de Submarino com Propuls - Auxílio
+										financeiro.
+2010 - 2010
+Estudo Experimental do Comportamento da Plataforma Semi-Submersível - P55 - Sob Ação do Fenômeno de Vortex-Induced Motion - VIM
+Descrição: O presente projeto tem como objetivo a realização de atividades visando estudar experimentalmente o comportamento dinâmico da plataforma semi-submersível - P55 submetida à ação do fenômeno VIM - Vortex-Induced Motion. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2010 - 2010
+Análise do Sistema Definitivo de Produção para o Golfo do México utilizando Plataforma do Tipo Monocoluna
+Descrição: O presente projeto tem como objetivo estudar e investigar o sistema submarino de produção antecipada com diferentes configurações em um MPSO (Monocolumn floater Production, Storage and Offloading unit), o qual opera em condições severas incluindo furacões.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2010 - Atual
+Laboratório Tanque de Provas Numérico
+Descrição: O presente projeto tem como objetivo a realização de atividades visando suprir despesas diversas junto ao Laboratório de Tanque de Provas Numérico.
+Diversos Patrocinadores. Valor do Auxílio: Variável.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.
+2009 - 2009
+Análise do Sistema de Transbordo entre Embarcações e Unidades Flutuantes.
+Descrição: O presente projeto tem como objetivo a realização de atividades de pesquisa visando analisar o sistema de transbordo entre embarcações e unidades flutuantes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2009 - 2009
+Estudos dos Efeitos da Correnteza e do Atracamento de Embarcações em Sistemas de Posicionamento de Portos Flutuantes na Bacia Amazônica.
+Descrição: O presente projeto tem como objetivo estudar a interação fluido-estrutura que aparece em portos flutuantes quando estes estão sujeitos a diferentes níveis de correnteza encontradas nos mais variados rios que compõe a Bacia Amazônica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Sólido Engenharia Ltda. - Auxílio
+										financeiro.
+2008 - 2010
+?Implantação de infraestrutura de computação de alto desempenho para o número da grade a ser instalada no TPN da USP?.
+Descrição: O presente projeto tem como objetivo a realização de atividades para a expansão e modernização da capacidade de processamento do Tanque de Provas Numérico, para que este possa se integrar de forma adequada à grade computacional proposta dentro do contexto da Rede Temática de Computação Científica e Visualização (GRID-BR).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2008 - 2009
+?Ensaios para aquisição de coeficientes hidrodinâmicos e aerodinâmicos para rebocadores oceânicos de operação offshore?.
+Descrição: O presente projeto tem como objetivo a realização de atividades de ensaio para obtenção de coeficientes hidrodinâmicos e aerodinâmicos para rebocadores oceânicos de operação offshore.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2008 - 2009
+Avaliação dos Sistemas Flutuantes de proteção de Pilares de Hidrovia
+Descrição: O presente projeto tem como objetivo a realização de atividades visando avaliar por meio de análises numéricas, dos sistemas de ancoragens dfos flutuantes de proteção de pilares em hidrovias do Estado de São Paulo, com o intuíto de avaliar os projetos já existentes, bem como, também, sugerir eventuais mudanças nesses projetos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Instituto de Pesquisas Tecnológicas do Estado de São Paulo - Auxílio
+										financeiro.
+2008 - 2009
+Desenvolvimento de Novos Modelos no Simulador Tanque de Provas Numérico
+Descrição: O presente projeto tem como objetivo a realização de atividades visando o desenvolvimento de novos modelos no simulador Tanque de Provas Numérico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2008 - 2008
+Análise Hidrodinâmica do Sistema Acoplado com Cilindro Flutuante Interno para Contemplação Seca
+Descrição: O presente projeto tem como objetivo a realização de trabalhos visando a análise hidrodinâmica do sistema acoplado com cilindro flutuante interno para contemplação seca (projeto de concepção e análise experimental).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2008 - 2008
+Estudo Experimental do Comportamento de Plataforma Mono-Coluna sob à Ação do fenômeno de VIM Vortex Induced Motion
+Descrição: O presente projeto tem como objetivo a realização de atividades visando analisar o estudo experimental do comportamento dinâmico de plataformas mono-colunas submetidas à ação do fenômeno VIM Vortex Induced Motion.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2008 - 2008
+Avaliação Preliminar do Sistema de Proteção contra Impacto de Troncos dos Navios-Patrulha
+Descrição: O presente projeto tem como objetivo a realização de uma avaliação preliminar simplificada das características dos sistema de proteção de hélices, através de análise comparativa entre as freqüências naturais de excitação da hélice.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Marinha do Brasil - Auxílio
+										financeiro.
+2008 - 2008
+Estudo da Ação de Rebocadores em Operações Offshore
+Descrição: O presente projeto tem como objetivo o desenvolvimento de atividades visando a realização de análises experimentais de operações offshore e análises de ação de rebocadores.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2007 - 2015
+Desenvolvimento de um novo conceito de plataforma de petróleo
+Descrição: Desenvolvimento de um novo conceito de plataforma de petróleo para viabilizar a utilização de risers do tipo SCR (Steel Catenary Riser).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Marcio Michiharu Tsukamoto - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2007 - 2008
+Validação do Conceito do Sistema Acoplado FPSO-TLWP
+Descrição: O presente projeto tem como objetivo a realização de atividades, tais como ensaios do sistema acoplado FPSO - TLWP com modelos reduzidos, bem como, também, realizar a calibração do modelo numérico utilizando resultados dos ensaios efetuados. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Fabio Tadao Matsumoto - Integrante / André de Farias Gallina - Integrante / Fabiano Pinheiro Rampazzo - Integrante / Edgard Borges Malta - Integrante.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2007 - 2008
+Serviços de Análise Acoplada do Sistema FPSO - Bóia de Sub-Superfície em LDA de 2800 m no Tanque de Provas Numérico
+Descrição: O presente projeto tem como objetivo a realização de atividades visando analisar de forma acoplada o sistema FPSO-SSB-Risers no tanque de Provas Numérico a fim de verificar a sua viabilidade técnica para a profundidade de 2800 m, bem como, verificar a vida em fadiga dos SCRs.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2007 - Atual
+Projeto de Sistemas Oceânicos Não Convencionais para Exploração de Óleo e Gas
+Descrição: Brasil vem batendo recordes mundiais de produção de óleo e gás em águas profundas e desenvolvimento de novas tecnologias para atingir estes marcos. A USP tem sido parceiro de várias destas tecnologias.
+Notadamente, pode-se destacar os seguintes sistemas:
+1-	Plataformas do tipo Semisubmersivel de mínimo movimento vertical;
+2-	plataformas do tipo Monocoluna ? MONOBR;
+3-	plataformas do tipo casco de navio ? FPSOBR;
+4-	plataformas FPDSO ;
+5-	plataformas acopladas TLP-FPSO;
+6-	sistema de ancoragem do tipo Taut;
+7-	sistema de riser em catenária livre, etc.
+Assim, este projeto de pesquisa tem finalidade de desenvolver novos conceitos de sistemas de oceânicos para exploração de petróleo e gás que possa atuar em águas profundas e ultra-profundas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Eduardo Tanuri - Integrante / Gerson Machado - Integrante / Edgard Borges Malta - Integrante / Fabiano Pinheiro Rampazzo - Integrante / Fabio Tadao Matsumoto - Integrante / Rodolfo Gonçalves - Integrante / André L C Fujarra - Integrante / Felipe Rateiro Pereira - Integrante.
+2006 - 2009
+Modelos Hidrodinâmicos e Método de Partículas - MPS.
+Descrição: O presente projeto tem como objetivo a adequação do simulador numérico DYNASIM para torná-lo mais robusto e também possibilitar a análise de novos sistemas, implementando novos modelos hidrodinâmicos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2006 - 2009
+Rede Temática em Computação Científica e Visualização na USP.
+Descrição: O presente projeto tem como objetivo a implantação de um Núcleo de Computação Científica e Visualização na USP, voltada à indústria de Petróleo e Gás de Energias Renováveis, para ações destinadas à elaboração de estudos e ao desenvolvimento de projetos de P&D.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2006 - 2008
+Estudo da P55 com Modelo Acoplado no TPN.
+Descrição: O presente projeto tem como objetivo a realização de atividades visando a realização de serviços e estudos da plataforma 55 com modelo acoplado no tanque de provas numérico (benchmark).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2006 - 2008
+Avaliação de Sistemas Propulsivos para um Navio-Tanque Ecológico
+Descrição: Analisar as vantagens e desvantagens de diferentes procedimentos de projeto hidrodinâmico de casco, através da avaliação de alternativas para o arranjo do sistema propulsivo de navios tanque que operem nos portos brasileiros.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2006 - 2007
+Estudo de Efeitos Hidrodinâmicos Não Lineares no Dimensionamento do MONOBR.
+Descrição: O presente projeto tem como objetivo a realização de atividades para identificar efeitos não lineares hidrodinâmicos e obter soluções para que possa eliminar os efeitos não desejáveis para o casco MONOBR considerando todos os aspectos do projeto como estabilidade, estrutura, arranjo geral, etc.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): epusp - Auxílio
+										financeiro.
+2006 - 2007
+Modelagem da Operação de Instalação de Ríser Rígido, em catenária, por reboque.
+Descrição: O presente projeto tem como objetivo a realização de atividades visando a modelagem da operação de instalação de ríser rígido, em catenária, por reboque.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Marcio Michiharu Tsukamoto - Integrante / André de Farias Gallina - Integrante / Edgard Borges Malta - Integrante.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - 2007
+Estudo da influência do estado de mar e correnteza sobre o AIRGAP de plataformas semi-submersíveis.
+Descrição: O presente projeto tem como objetivo analisar o comportamento da plataforma P18, relativo ao airgap e comparar com os resultados dos ensaios em modelo reduzido realizados para o projeto da P51, a fim de obter informações adicionais sobre o airgap desta plataforma e sobre a hidrodinâmica do problema de wave run-up neste tipo de estrutura.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2006 - 2007
+Simulação Numérica de Risers do FPSO P34
+Descrição: O presente projeto tem como objetivo a realização de atividades visando analisar a simulação numérica de risers do FPSO, através de uma ferramenta que permite análises acopladas, no TPN, tendo como vantagem o processamento paralelo que possibilita análises mais rápidas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2006 - 2006
+Análise experimental e análise de instalação e construção ? Plataforma do tipo monocoluna para completação seca em águas ultraprofundas
+Descrição: Realização de uma análise experimental e análise de instalação e construção da plataforma de tipo monocoluna para completação seca em águas ultraprofundas - monodry. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2005 - 2007
+Implantação de Calibrador Hidrodinâmico do Tanque de Provas (CH - TPN)
+Descrição: Desenvolver o CH ? TPN (Tanque de Provas Numérico) que possui gerador-absorvedor de ondas para obtenção de parâmetros hidrodinâmicos e calibração dos modelos numéricos do TPN.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2005 - 2006
+Projeto de concepção do sistema acoplado para produção de petróleo
+Descrição: Desenvolver o projeto conceitual composto de produção de petróleo, através de uma investigação sobre as possíveis alternativas para o acoplamento do sistema, bem como, sua viabilidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2005 - Atual
+Modelos numéricos dos fenômenos hidro-elásticos utilizando dinâmica de partículas
+Descrição: Atualmente, existem diversos métodos numéricos que representam a interação fluido-estruturas. No entanto, maioria dos modelos numéricos para esta finalidade utiliza os métodos baseados em descretização do espaço onde ocorre o fenômeno (método Euleriano).
+Com o desenvolvimento acelerado do sistema computacional, os métodos baseados em dinâmica de partículas (método Lagrangeano) estão mostrando excelentes resultados para representar fenômenos dos meios contínuos, principalmente fenômenos hidro-elasticos.
+Assim, na área de engenharia naval e oceânica, onde há diversos fenômenos relacionados a interação fluido-estruturas, pode ser um método bastante promissor, porém o código numérico deve ser desenvolvido baseado em tecnologia existente de computação de alto desempenho.
+Os principais fenômenos que podem ser representados pelo método na área são:
+Ondas extremamente não linear, dinâmica de corpos flutuantes com liquido interno, fenômeno de vazamento de óleo devido a avaria do casco, estudo de estabilidade dinâmica após a avaria de compartimentos, etc.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Kazuo Nishimoto - Coordenador / Liang Yee Cheng - Integrante / Marcio Michiharu Tsukamoto - Integrante / alexandre simos - Integrante / Igor Carvalho - Integrante / Alberto Dimas Oliveira Suzano - Integrante / Oscar Brito - Integrante / Guilherme Rueda - Integrante / Carlos Y. Endo - Integrante / Davi Deodoro - Integrante / Mariana - Integrante / Nicolas - Integrante / Muriel - Integrante.Financiador(es): Fundação de Apoio à Universidade de São Paulo - Auxílio
+										financeiro.
+2004 - 2007
+Ensaio e análise de risco de linhas de ancoragem e de risers do Sistema MONOBR
+Descrição: Realização de ensaio e análise do casco MONOBR, no Tanque de Provas Numéricos, com as condições ambientais utilizadas pela Petrobrás/CENPES para análise de risers e linha de ancoragem. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / clovis arruda martins - Integrante.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2004 - 2006
+Apoio tecnológico com a finalidade de aprofundar as análises metodológicas de incorporação de reservas
+Descrição: Visa a formação de uma frente de pesquisa em uma nova metodologia de avaliação de reservatórios, denominada abordagem bayesiana, que utiliza conceitos de probabilidade condicional para determinar a relevância de cada característica do reservatório e através dela avaliar a eficiência dos projetos que estão por trás do fator de recuperação de cada campo produtivo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2004 - 2006
+Projeto de Concepção - Plataforma do tipo monocoluna para complementação seca em águas ultraprofundas
+Descrição: Desenvolver uma plataforma do tipo Monocoluna para produção em complementação seca que consiga atender as especificações técnicas para operação em águas ultraprofundas, com maior segurança contra acidentes e que tenham possibilidade de processar o óleo, gás e exportar a produção através de dutos ou acoplada a um sistema de armazenamento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2004 - 2005
+Simulação de Docagem do Módulo do Submarino em Dique Flutuante
+Descrição: Simular o processo de transporte do módulo do submarino para Dique Flutuante e visualizar as principais restrições e limitações que eventualmente poderão ocorrer nesse processo e orientar na solução dos problemas que podem ocorrer.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Arsenal de Marinha do Rio de Janeiro - Auxílio
+										financeiro.
+2004 - 2005
+Análise de riser de captação de água salgada para plataforma P-19
+Descrição: Visa analisar o novo sistema de dutos de captação de água salgada verificando se há possível interferência com outros risers e a dinâmica do sistema para estimativa de vida de fadiga do sistema.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): GASOIL Serviços Ltda. - Auxílio
+										financeiro.
+2004 - 2005
+Estudo da viabilidade e otimização do casco FPS de forma de navio (P53) para águas ultra-profundas
+Descrição: Desenvolver estudos de viabilidade de um novo sistema FPS (Floating Production System) em forma de navio, para águas ultra-profundas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / clovis arruda martins - Integrante.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2004 - 2005
+Ensaios de validação de tração dinâmica em linhas de amarração heterrogêneas
+Descrição: Avaliar o comportamento dinâmico de duas linhas de amarração conhecidas, cujas extremidades emersas estarão submetidas à ação de um movimento circular harmônico e de um movimento de translação com menor frequência, emulando os efeitos dinâmicos de primeira e segunda ordem de um sistema.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2004 - 2005
+Análise técnico-econômica preliminar do casco - FPSOBR - Projeto de Concepção
+Descrição: Visa a incorporação e adequação do casco para a construção do FPSOBR, no Brasil, ainda na fase de projeto de concepção da plataforma e que consiga atender a especificações técnicas para operações em águas profundas, economicamente viáveis, com segurança contra acidentes e que tenham possibilidade de processar o óleo, gás e exportar a produção através de navios aliviadores.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2004 - 2004
+Ensaio de modelo reduzido para medição dos coeficientes aerodinamicos da P-53
+Descrição: O projeto visa verificar os coeficientes aerodinamicos da P53 utilizando tanque de reboque do IPT. Estes coeficinetes são utilizados para inserir no TPN para simulação do sistema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Kazuo Nishimoto - Coordenador / alexandre simos - Integrante / Andre fujarra - Integrante.Financiador(es): Petroleo Brasileiro - Cooperação.
+2004 - 2004
+Ensaios de medição dos coeficientes aerodinâmicos do sistema da plataforma P53
+Descrição: Estabelecer procedimentos para o desenvolvimento de ensaios para a medição das forças de vento atuantes sdobre o sistema da plataforma P53.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2004 - 2004
+Redimensionamento do MONOBR para atendimento da base de projeto da P-55
+Descrição: Redimensionar o MONOBR para atender as bases do projetos da P-55 considerando o estudo de construção do MONOBR no mundo, ainda na fase de projeto de concepção da plataforma e consiga atender as especificações técnicas para operação em águas ultraprofundas (até 3000m), com maior segurança contra acidentes e que tenham possibilidade de processar o óleo e gás e, exportar a produção através de outros.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2006
+Simulações numéricas utilizando o programa TPN
+Descrição: Simulações de modelos com um ou mais plataformas de petróleo sujeito a diversas condições ambientais ancoradas e ligadas com risers de produção. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador / Marcio Michiharu Tsukamoto - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2003 - 2005
+Desenvolvimento do sistema de visualização científica em forma de realidade virtual para TPN
+Descrição: O projeto TPN gerou varias tecnologias inovadoras e uma delas é a visualização dos resultados da simulação numérica na forma de realidade virtual 3D-stereo.
+O presente projeto visa dar continuidade ao desenvolvimento de visualizaçào cientifica na forma de realidade virtual desenvolvendo diversas facilidades no codigo tpnView.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (2)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Kazuo Nishimoto - Coordenador / Denis Taniguchi - Integrante / Antonio Augusto Russo - Integrante / Gabriel Winckler - Integrante / Henrique Gaspar - Integrante / GUilherme Psiaia - Integrante / Igor Carvalho - Integrante.Financiador(es): Petroleo Brasileiro - Cooperação.Número de produções C, T & A: 2
+2003 - 2005
+Serviços de Análise do Air-Gap das Plataformas P-51 e P-52 em ondas e correntezas
+Descrição: Serviços de Análise do Air-Gap das Plataformas P-51 e P-52 em ondas e correntezasObjetivo :Obtenção de explicações científicas e metodologia de análise de air-gap de uma plataforma SS de produção. Os ensaios em tanque de provas e alguns métodos numéricos serão utilizados para atingir este objetivo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2004
+Estudo de viabilidade construtiva do mono casco no Brasil
+Descrição: Existem diversos tipos de unidades flutuantes para exploraÇào de petróleo e gás. No entanto, não existe ainda em operação unidades com casco do tipo monocoluna. Mas existem algumas concepções deste tipo de casco.
+A PETROBRAS junto com a USP vem desenvolvendo uma unidade do tipo monocoluna que possa ser utilizado no Brasil chamado MONOBR. O presente projeto visa desenvolver metodologia de construir em algum estaleiro ou canteiro de obra do Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Kazuo Nishimoto - Coordenador / Daniel Cueva - Integrante / Marcos Cueva - Integrante / Felipe Campos - Integrante / Gerson Machado - Integrante.Financiador(es): Petroleo Brasileiro - Cooperação.Número de produções C, T & A: 3
+2003 - 2004
+Desenvolvimento de casco monocoluna para unidades de produção em águas ultraprofundas
+Descrição: Desenvolvimento de um casco monocoluna para unidade de produção que consiga atender as especificações técnicas para operações em águas profundas (até 300 metros).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2004
+Desenvolvimento de rotinas numéricas para cálculos de forças hidrodinâmicas no tanque de provas numérico (TPN -HIDRO)
+Descrição: Desenvolver modelos hidrodinâmicos utilizados no TPN, adequados para cluster de PCs, que represente adequadamente as forças hidrodinâmicas em escala real. Para atingir este objetivo, serão focados, inicialmente, o desenvolvimento da paralelização do Waint e implementação efetiva no código de TPN para calcular efeito de difração de dois ou mais corpos na forças de ondas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2004
+Estudo da viabilidade construtiva do casco monocoluna no Brasil
+Descrição: Incorporar o estudo da construção do MONOBR no Brasil, ainda em fase do projeto de concepção da plataforma e que consiga atender as especificações técnicas para operação em águas ultraprofundas (até 3000 metros), economicamente viável, com maior segurança contra acidentes e que tenham possibilidade de processar o óleo, gás e exportar a produção através de dutos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2004
+Manutenção do Sistema SAIL - Programa Dynasim/2003
+Descrição: Desenvolvimento e adequação do simulador numérico DYNASIM já utilizado em diversos projetos de ancoragem da Petrobrás, tornando-o mais robusto e também possibilitando a análise de novos sistemas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Fundação Padre Leonel França - Auxílio
+										financeiro.
+2003 - 2004
+Estudo dos modelos de elementos finitos no TPN e ensaios em escala reduzida
+Descrição: Realização de estudos e análises dos diversos tipos de mangotes, que tem sido padrão no FPSO do Espadarte, utilizando os modelos de elementos finitos, a serem realizados no Tanque de Provas Numéricos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2003
+Estrutural Estática e Dinâmica da Bóia Submersa
+Descrição: Aproveitamento das bóias de ancoragem já existentes para a construção de um sistema de apoio de risers flexíveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2003
+Análise do comportamento de alívio
+Descrição: A partir de dados utilizados na simulação do FPSO Espadarte no Tanque de Provas Numérico, analisar o comportamento de alívio e as condições ambientais a serem consideradas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2003 - 2003
+Verificação Estrutural Estática e Dinâmica da Bóia Submersa
+Descrição: Aproveitamento das bóias de ancoragem já existentes para a construção de um sistema de apoio de risers flexíveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2002 - 2006
+Implementação de Modelos Hidrodinâmicos dos Navios no Sistema PIN/PROSIM
+Descrição: Adequar o simulador numérico PROSIM, já utilizado para diversos projetos de ancoragem da Petrobrás, tornando-o mais robusto do ponto de vista hidrodinâmico, além do acoplamento com a dinâmica das linhas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Fundação Coordenação de Projetos, Pesquisas e Estudos Tecnológicos - Auxílio
+										financeiro.
+2002 - 2004
+Manutenção do Sistema SAIL - Programa Dynasim/2002
+Descrição: Adequar o simulador numérico Dynasim, já utilizado para diversos projetos de ancoragem da Petrobrás, tornando-o mais robusto do ponto de vista hidrodinâmico além do acoplamento com a dinâmica de linhas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2002 - 2004
+Sistema Computacional de Auxílio para Lançamento de Linhas no BGL1
+Descrição: Auxiliar a adequação dos programas PREA3D e PROSIM para atender o processo de instalação de linhas BGL.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2002 - 2004
+Solução para sanar interferência dos risers
+Descrição: Verificar a interferência com os risers próximos ao duto de captação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): GASOIL Serviços Ltda. - Auxílio
+										financeiro.
+2002 - 2004
+Ensaios de obtenção de coeficientes hidrodinâmicos para análise de sistema de ancoragem do FPSOO
+Descrição: Obter e validar coeficientes hidrodinâmicos de amortecimento viscoso em movimentos planos e componentes de forças necessárias para simulação do sistema do DYNASIM e TPN com a realização dos ensaios controlados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2002 - 2003
+Desenvolvimento de Casco Mono Coluna para unidades de produção em águas ultra-profundas
+Descrição: Este projeto visa desenvolver uma nova geometria de casco de uma unidade de produçào de petróleo. A platafroma do tipo monocoluna tem a caracteristica geometrica que minimiza os movimentos verticas da platafroma para utilização de risers do tipo SCRs. 
+Este projeto deu a origem ao MONOBR considerado inovação tecnologica na área de petroleo e gás.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Kazuo Nishimoto - Coordenador / Daniel Cueva - Integrante / Marcos Cueva - Integrante / Fernando Torres - Integrante / Felipe Campos - Integrante / Kelly Takano - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Petroleo Brasileiro - Cooperação.Número de produções C, T & A: 3
+2002 - 2003
+Obtenção de coeficientes hidrodinamicos
+Descrição: O presente projeto visa obter os coeficientes de manobra de FPSOs para serem utilizados nos simuladores numéricos DYNASIM e TPN. Os ensaios foram conduzidos no Japão - NMRI e uyilizou-se duas tecnicas de ensaios: 1) PMM e 2) yaw rotating. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Kazuo Nishimoto - Coordenador / Carlos Hakio Fucatu - Integrante / Marcio Michiharu Tsukamoto - Integrante / Carlos Umeda - Integrante.Financiador(es): Petroleo Brasileiro - Cooperação.Número de produções C, T & A: 6
+2002 - 2003
+Sistema de mediação em escala real do FPSO com aliviador
+Descrição: Auxiliar o IPT na campanha de mediação em escala real de um FPSO com navio Aliviador, dimensionando os equipamentos adequados para mediação, assim como estimado os valores de fundos de escala dos sensores que serão colocados a bordo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Fundação Coordenação de Projetos, Pesquisas e Estudos Tecnológicos - Auxílio
+										financeiro.
+2002 - 2002
+Avaliação de risco na operação de ? OFFLOADING ? do FPSO
+Descrição: O presente projeto tem como objetivo desenvolver um estudo da possibilidade de choque do aliviador com a jaqueta, assim como avaliar os riscos na operação de ?Offloading? do FPSO, no Bloco BM-C-8, Projeto Polvo na Bacia de Campos, RJ.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Devon Energy - Auxílio
+										financeiro.
+2001 - 2004
+Avaliação hidrodinâmica do casco dos Navios Patrulha Classe GRAJAÚ
+Descrição: Avaliação hidrodinâmica do casco dos Navios Patrulha Classe GRAJAÚ e avaliação dos efeitos de incrustações no casco e propulsores.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Marinha do Brasil - Auxílio
+										financeiro.
+2001 - 2003
+Ensaios em tanque de reboque para levantamento de coeficiente hidrodinamicos da P-50
+Descrição: O presente projeto visa adquirir os coeficientes hidrodinâmcos neessários para o  levantamento de coeficiente hidrodinamicos da P-50. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Kazuo Nishimoto - Integrante / alexandre simos - Coordenador / Andre fujarra - Integrante / João Sparano - Integrante.Financiador(es): Petroleo Brasileiro - Cooperação.Número de produções C, T & A: 1
+2001 - 2003
+Embarcações Ancoradas
+Descrição: Efetuar estudo de dinâmica de embarcações ancoradas em águas profundas utilizando DYNASIM.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2001 - 2003
+Ensaios de Validação e Obtenção de Dados para Análise de Sistema de Ancoragem do P50 utilizando Dynasim2001
+Descrição: Estudo de dados do sistema P-50 e preparação dos modelos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2001 - 2001
+Estudo de Dinâmica de BGL1 (Barcaça de instalação de linhas) com Sistema de Posicionamento Dinâmico
+Descrição: Realização de ensaios de araste da parte submersa e emersa do BLG com arranjo atualizado, considerado todas as incidências de correnteza e de vento; analisar e verificar a potência necessária do sistema de posicionamento dinâmico do BLG para operar na Bacia de Campos; adequar o simulador numérico DYNASIM - Mathlab, já utilizado para os diversos projetos de ancoragem da Petrobrás, para analisar o sistema de posicionamento dinâmico do BGL 1 com forças de correnteza e ventos obtidas no IPT.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+2000 - 2004
+TANQUE DE PROVAS NUMERICO
+Descrição: O projeto tem por objetivo sintetizar os desenvolvimentos efetuados nestes últimos vinte anos nas Universidades e nos Institutos de Pesquisas, na modelagem do comportamento de sistemas oceânicos, elaborar novos modelos e implementar um sistema computacional que permita efetuar a simulação do comportamento de sistemas flutuantes acoplados às linhas de amarração e "risers", considerando as interações existentes, e que possibilite a visualização dos resultados obtidos. Projeto de aproximadamente R$ 3.000.000,00 com participação das Universidades PUC-RJ, COPPE-UFRJ e IPT-SP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Kazuo Nishimoto - Coordenador / Isaias Quaresma Masetti - Integrante / João Paulo Julian Matsuura - Integrante / Carlos Hakio Fucatu - Integrante / Roberto Edward Cruz - Integrante / Marcos Donato Ferreira - Integrante / Marcelo R Martins - Integrante / Eduardo Setton - Integrante / Marcio Michiharu Tsukamoto - Integrante / Alexandre Kuroiva - Integrante / clovis arruda martins - Integrante / alexandre simos - Integrante / Andre fujarra - Integrante / antonio a russo - Integrante / Breno Pinheiro Jacob - Integrante / Ivan meneses - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 8
+2000 - 2004
+Numérico para Cálculo de Dinâmica de Linhas
+Descrição: Desenvolver método relacionado à Dinâmica de Linhas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Fundação Coordenação de Projetos, Pesquisas e Estudos Tecnológicos - Auxílio
+										financeiro.
+2000 - 2001
+Avaliação hidrodinamica do casco dos navios - patrulha classe
+Descrição: O presente projeto visa investigar o desempenho hidrodinâmico do navio patrulha da classe GRAJAU.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Kazuo Nishimoto - Coordenador / Cheng Liang Yee - Integrante / Kazuo Hirata - Integrante / Claudio Mueller Prado Sampaio - Integrante / Antonio Augusto Russo - Integrante / Antonio Lleda - Integrante / Etore Apolonio Barros - Integrante.Financiador(es): Marinha do Brasil - Cooperação.Número de produções C, T & A: 2
+2000 - 2000
+Estudo da Viabilidade e Otimização de Casco de FPDSO - Floating Prodution Drilling Storage Offloading para Águas Profundas
+Descrição: Desenvolvimento de um sistema FPDSO Floating Prodution Drilling Storage Offloading, para exploração de petróleo, utilizando ferramentas computacionais desenvolvidas pela entidade proponente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): E P Petrobrás - Auxílio
+										financeiro.
+1999 - 2001
+Análise acoplada de movimentos do FPSO e de linhas de ancoragem - Sistema Dynasim
+Descrição: O objetivo desta pesquisa é fazer análise comparativa entre resultados dos ensaios realizados no MARINTEK com os resultados obtidos pelo conjunto de programas DYNASIM e PREADYN. Este projeto antecede o acoplamento de dois programas de análise.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Kazuo Nishimoto - Coordenador / Carlos Hakio Fucatu - Integrante / Eduardo Setton - Integrante / Fabio Habe - Integrante / Marcio Michiharu Tsukamoto - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 5
+1999 - 2001
+Projeto de Hidrodinâmica
+Descrição: O objetivo deste projeto é desenvolver e validar os modelos hidrodinâmicos numéricos, analiticos e experimentais utilizados em simulações de dinâmica de sistemas oceânicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Kazuo Nishimoto - Coordenador / José Augusto Penteado Aranha - Integrante / Carlos Hakio Fucatu - Integrante / Alexandre Kuroiva - Integrante / Eduardo Tanuri - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1998 - 2004
+Comportamento em ondas de embarcações de alto desempenho
+Descrição: O projeto de pesquisa tem como objetivos o desenvolvimento de ferramentas analítico-numéricas para a estimativa do comportamento em ondas de embarcações de alto desempenho e o desenvolvimento de tecnologia experimental para verificação e comparação deste desempenho. O projeto envolve estudos no domínio da freqüência e simulações no domínio do tempo, estudo numérico sobre impacto de outros fenômenos não-lineares em ondas irregulares e, finalmente, uma ampla gama de ensaios com modelos reduzidos, modelos rádio-controlados e com navio real. O projeto envolve dois tipos de embarcação: navio de deslocamento e de semi-planeio. (AU) 
+Assunto(s):	
+Hidrodinâmica de navios e sistemas oceânicos
+Projetos Temáticos
+Bolsa(s) vinculada(s):	
+02/02289-3 - Projeto de embarcações de alto desempenho: estudo do comportamento estrutural dos materiais compostos
+00/01121-6 - Arquiteturas de controle aplicadas a robôs móveis oceânicos
+00/01229-1 - Comportamento em ondas de embarcações de alto desempenho.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Kazuo Nishimoto - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1998 - 2000
+Estudo de dinâmica de embarcações ancoradas em águas profundas utilizando DYNASIM
+Descrição: O objetivo desta pesquisa é adequar o simulador numérico DYNASIM, já utilizado para diversos projetos de ancoragem da Petrobrás, tornando-o mais robusto hidrodinamicamente, além do acoplamento com a dinâmica das linhas; assim os principais objetivos são: Implementação de N-corpos no DYNASIM; Implementação de modelo semi-empírico de efeito de sombra; Acoplamento com modelos de linhas analíticos e numéricos; Consolidar PREA3D como interface do DYNASIM e Testar e validar DYNASIM com os resultados dos ensaios.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Kazuo Nishimoto - Coordenador / Carlos Hakio Fucatu - Integrante / Eduardo Setton - Integrante / Ivan Menezes - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.Número de produções C, T & A: 1
+1998 - Atual
+Estudo de Características Hidrodinâmicas de Embarcações de Alta Velocidade
+Descrição: objetivo desta pesquisa é analisar o desempenho hidrodinâmico de um casco de embarcação de alta velocidade, como resistência ao avanço, comportamento em ondas e manobrabilidade. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Kazuo Nishimoto - Coordenador / Cheng Liang Yee - Integrante / Kazuo Hirata - Integrante / Claudio Mueller Prado Sampaio - Integrante / Antonio Augusto Russo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Outra.Número de produções C, T & A: 4

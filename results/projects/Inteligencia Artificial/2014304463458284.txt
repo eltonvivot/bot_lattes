@@ -1,0 +1,108 @@
+2022 - Atual
+FAPESP - Centro Paulista de Estudos da Transição Energética (CPTEn)
+Descrição: Processo FAPESP: 2021/11762-5
+Projeto Multiciplinar
+Transição para energias renováveis e bioenergia, para redes digitais e consumo inteligente e para a transição para cidades inteligentes. 
+Participo como Pesquisadora Associada (PA) - Eixo 8 - Municípios Inteligentes - Educação e Sociedade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Integrante / Huigo Enrique Herrnandez-Figueria - Integrante / E Outros - Integrante / Luiz Carlos Pereira - Coordenador.
+2021 - Atual
+FAPESP - MCTI/MC- Brazilian Institute of Data Science (BIOS)
+Descrição: Processo FAPESP: 20/09838-0 
+Projeto Multidisciplinar
+O Centro de Pesquisa em Inteligência Artificial - Brazilian Institute of Data Science (BI0S) tem como principal objetivo desenvolver soluções de estado da arte em ciência dos dados e inteligência artificial (IA), propondo soluções para problemas relevantes e conectando a academia, empresas, startups, a sociedade e o setor público em um ecossistema integrado de inovação.
+Partoicipo  como pesquisadora associada atrelado ao grupo do Prof Dr Hugo Enrique Hernandez Figueroa na disseminação do assunto na Educação e Sociedade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Integrante / Hugo E. Hernandez - Integrante / E Outros - Integrante / João Marcos Travassos Romano - Coordenador.
+2018 - Atual
+Desenvolvimento de tecnologias IoT para sensoriamento agrícola
+Descrição: Desenvolvimento de tecnologias IoT para sensoriamento agrícola:
+Projeto de Ensino SAE: O Projeto propõe o desenvolvimento de sensores para aferição de dados no cultivo agrícola, através de software e hardware. Os sensores desenvolvidos tem objetivos interdisciplinares, abrangendo áreas dos cursos de Engenharia de Telecomunicações e os cursos de Informática, ambos ministrados no próprio campus do projeto. Desde 2018.... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (32)  / Doutorado: (1) . Integrantes: Marli de Freitas Gomes Hernandez - Coordenador / Luiz Ariovaldo Fabri Junior - Integrante / Osvaldo Neto Torezan - Integrante.Financiador(es): Serviço de Apoio ao Estudante - UNICAMP - Bolsa.
+2017 - 2018
+Resoluções de Sistemas  Lineares de Grande Porte  em Arquitetura Multinúcleos e GPUs
+Descrição: O objetivo deste projeto é
+desenvolver novos precondicionadores, explorando técnicas ILU (decomposição
+incompleta LU), para resolver sistemas lineares esparsos de grande porte com
+características não Hermitianas. Os precondicionadore serão para resolução de sistemas
+lineares usando o método clássico iterativo Bi Gradiente Conjugado Estabilizado
+(BCGStab) com a recém proposta de programação granulada. Os esquemas numéricos a
+serem desenvolvidos, serão para serem executados em sistemas computacionais
+híbridos compostos de processadores multinúcleos (várias centenas de núcleos) e GPUs.
+A Aplicação inédita deste esquema de cálculo à área de eletromagnetismo de modo a
+obter o máximo de vantagens em rapidez e desempenho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.
+2015 - 2018
+Criação de Conteúdos para Oficinas de Robótica
+Descrição: O Projeto propõe o desenvolvimento de conteúdos para uma oficina de robótica de baixo custo. Os conteúdos propostos tem o objeto interdisciplinar, onde será conectado,como por exemplo, alguns tópicos de teoria da física com a prática da robótica. O projeto visa criar ferramentas de baixo custo que possa auxiliar professoras a usarem essas ferramentas e conteúdos para desmistificar a complexabilidade da compreensão dos conceitos da física. Abaixo serão listados alguns conteúdos de interesse a serem desenvolvidos. - Óptica. - Motores. - Transformação de energias. - Resistência. - Geração de energia. - entre outros tópicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9)  / Doutorado: (1) . Integrantes: Marli de Freitas Gomes Hernandez - Coordenador / Luiz Ariovaldo Fabri Junior - Integrante.Financiador(es): Serviço de Apoio ao Estudante - UNICAMP - Bolsa.
+2014 - Atual
+Capacitar moradores de comunidades rurais para produção de energia elétrica através da tecnologia solar fotovoltaica, utilizando as metodologias do Ensino Não-Formal e PBL
+Descrição: Neste trabalho, apresentamos uma nova abordagem de ensino para geração de energia
+elétrica utilizando a tecnologia solar fotovoltaica como ferramenta tecnológica, e as
+metodologias de Ensino Não-Formal e PBL (do inglês "Problem By Project") como
+ferramentas metodológicas de ensino. Estas ferramentas estão sendo utilizadas para
+capacitar moradores do acampamento rural Elisabeth Teixeira a produzirem sua
+própria energia elétrica, com baixo custo, visando possibilitar o acesso à energia elétrica
+e também automatizar sua produção agrícola familiar. Por meio de aulas expositivas,
+aulas práticas e teóricas e possíveis que os próprios moradores deem manutenção no
+sistema solar fotovoltaico e possam ser replicadores da capacitação entre outras
+comunidades rurais. Acredita-se que ações podem ser estimuladas com a Educação não
+Formal (ENF) como metodologia de intervenção para inclusão, empoderamento de
+comunidades rurais. O desafio da pesquisa é buscar soluções de baixo custo para
+melhorar a qualidade de vida para transformar a comunidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marli de Freitas Gomes Hernandez - Coordenador / Hugo Enrique Hernandez Figueroa - Integrante / Luiz Ariovaldo Fabri Junior - Integrante.
+2013 - 2015
+Computação Científica
+Descrição: O objetivo aqui é desenvolver softwares utilizando Computação Científica para simulações em telecomunicações, sob a orientação da Profa. Marli. Há três temas sendo desenvolvidos no momento.?Simulação dos Efeitos Não-Ionizantes da Radiação Eletromagnética na Cabeça Humana?. ?Simulação de Guias Fotônicos Planares e Fibras Ópticas via Elementos Finitos?.?Algoritmos Genéticos Aplicados ao Projeto de Arranjos de Antenas?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.Financiador(es): Serviço de Apoio ao Estudante - UNICAMP - Bolsa.
+2010 - 2014
+Dispositivos Nanofotônicos em Silício para Comunicações Ópticas
+Descrição: CONVÊNIO INTERNACIONAL BILATERAL CNPq/NSF - Edital 015/2009
+Objetivos Gerais:
+I. Desenvolver know-how e formar recursos humanos no projeto e
+fabricação de dispositivos nanofotônicos em silício, tanto passivos como
+ativos.
+II. Estabelecer um relacionamento de colaboração científica, efetiva e
+duradoura entre os grupos de Profs. Michal Lipson e Alexander Gaeta, da
+Universidade de Cornell, líderes mundiais na tecnologia nanofotônica de
+Silício, e os grupos da UNICAMP e UFABC que atuam na área de óptica
+integrada, vinculados ao CePOF (Centro de Pesquisas em Óptica e
+Fotônica), e ao INCT FOTONICOM (Fotônica para Comunicações
+Ópticas).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Marli de Freitas Gomes Hernandez - Integrante / Hugo Enrique Hernandez Figueroa - Coordenador / Leonardo L Bravo-Roger - Integrante / Hugo Luis Fragnito - Integrante / Michal Lipson - Integrante / Newton Cesário Frateschi - Integrante / Michel Zamboni Rached - Integrante / Arismar Cerqueira Sodré Junior - Integrante.Financiador(es): National Science Foundation - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2010 - 2013
+APLICACAO DE COMPUTACAO DE ALTO DESEMPENHO EM PROBLEMAS INTERDISCIPLINARES. (FINEP)
+Descrição: Este projeto de pesquisa está associado à proposta submetida à FINEP que visa criar e consolidar a infraestrutura necessária para pesquisa na mais nova Unidade de Ensino, Pesquisa e Extensão da Universidade Estadual de Campinas (UNICAMP) - a Faculdade de Tecnologia(FT).  O presente projeto de pesquisa propõe utilizar computação de alto desempenho no estudo de problemas interdisciplinares de interesse da FT. Devido ao seu alto poder computacional e alto custo, o cluster solictiado não está  restrito a um único projeto de pesquisa, principalmente numa Unidade de Pesquisa em implantação. Dessa forma, a aquisição deste equipamento permitirá o desenvolvimento de vários projetos de pesquisa em diferentes áreas de interesse da FT.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (3) . Integrantes: Marli de Freitas Gomes Hernandez - Integrante / Elaine Cristina Catapani Poletti - Integrante / Vitor Rafael Coluci - Coordenador / Luiz Camolesi Júnior - Integrante / Varese Salvador Timóteo - Integrante / André Franceschi de Angelis - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2010 - 2012
+CHAMADA PÚBLICA MCT/FINEP/CT-INFRA ? INFRAESTRUTURA EM CAMPI ESTADUAIS E MUNICIPAIS - 03/2009 - Faculdade de Tecnologia - UNICAMP
+Descrição: Essa proposta visa criar e consolidar estrutura de pesquisa para grupos de pesquisa associado ao  Programa de Mestrado da Faculdade de Tecnologia da UNICAMP.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Integrante / Vitor Rafael Coluci - Coordenador / Professores do Programa de Pós-Graduação da FT - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2010 - 2011
+Desenvolvimento de Material Pedagógico Para Melhorar o Ensino da Matemática
+Descrição: O objetivo é  desenvolver técnicas e materiais pedagógicos para melhorar o aprendizado da Matemática. O intuito aqui é iniciar o bolsista no mundo das ciências e fazer com que ele passe a entender e gostar mais da Matemática. Com isso, ele estará vendo a sua importância e de como é fácil aprende-la.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+2010 - 2011
+Experimentos em Física Usando Materiais Disponíveis de Baixo Custo e Simulações
+Descrição: O objetivo é  desenvolver técnicas e materiais pedagógicos para melhorar o aprendizado da física. O intuito aqui é iniciar o bolsista no mundo das ciências e fazer com que ele passe a entender e gostar mais da física. Com isso, ele estará vendo a sua importância e de como é fácil aprende-la.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2009 - 2010
+Resoluções de Sistemas Lineares de Grande Porte em Arquiteturas  Multi-Núcleos GPUs e FPGAs
+Descrição: Hoje em quase todas as áreas de ciência e tecnologia, são necessários simuladores CAD (Computer Aided Design). Os ?corações? desses CADs são compostos de rotinas numéricas, que em muitas aplicações necessitam resolver problemas de Equações Diferenciais Parciais (EDP) usando métodos numéricos, os quais costumam demandar a resolução de inúmeros sistemas lineares. Muitos desses sistemas geram matrizes na ordem de 106 por 106 ou maiores, que podem ser cheias ou esparsas, bem condicionadas ou mal condicionadas. O objetivo aqui é desenvolver novas combinações de métodos iterativos  com métodos diretos, para resolução esses tipos de sistemas lineares de grande porte com matrizes não-simétricas e não-hermitianas, executados em computadores de alto desempenho com processadores multi-núcleos e/ou com GPUs, de modo a tirar o máximo de vantagens em rapidez e desempenho. Os testes serão em processadores multi-núcleos e Unidade de Processamento Gráfico GPU (Grafics Processing Unit ) disponíveis no mercado e posteriormente um protótipo de multi-núcleos em FPGA (Field Programmable Gate Array).. As rotinas com melhores desempenhos desenvolvidas aqui deverão fazer parte de um CAD para simulação de problemas eletromagnéticos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.Financiador(es): Fundo de Apoio Ao Ensino, à Pesquisa e à Extensão - Auxílio
+										financeiro.Número de produções C, T & A: 9
+2009 - 2010
+Desenvolvimento de Material Pedagógico Para Melhorar o Ensino da Matemática.
+Descrição: Matemática é uma das disciplinas mais odiadas pelos alunos. Os índices de reprovações nessa disciplinas são os maiores. Alunos falam que matemática é só "decoreba", outros dizem que matemática é "maçante" e que nunca conseguem aprender. Dizem até que matemática é coisa de outro mundo. Na matemática, quando não se entende um assunto, o que se pode fazer é utilizar materiais palpáveis, assim como desenhos, botões, sementes, palitos de madeiras, recortes de cartolinas ou qualquer outro material disponível para o aprendizado. Isso faz com que o aluno visualize melhor as fórmulas, teoremas ou técnicas de como resolver problemas. Dessa forma, o aluno não só entende melhor o assunto, como também, memoriza mais fáceis as fórmulas. Observa-se que uma vez entendendo bem o assunto, não há necessidade de decorar todas as fórmulas. Com poucos cálculos e formas geométricas, reencontram as fórmulas que estão necessitando, essa situação pode se dar em uma prova ou um trabalho que envolve cálculos matemáticos. O objetivo é  desenvolver técnicas e materiais pedagógicos para melhorar o aprendizado da Matemática. O intuito aqui é iniciar o bolsista no mundo das ciências e fazer com que ele passe a entender e gostar mais da Matemática. Com isso, ele estará vendo a sua importância e de como é fácil aprende-la.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+2009 - Atual
+FAPESP - Instituto Nacional de Ciência e Tecnologia Fotônica para Comunicações Ópticas (INCT Fotonicom)
+Descrição: Participo do projeto como pesquisadora e divulgadora nas escolas de ensino fundamental, médio e superior. A proposta apresentada ao Conselho Nacional de Pesquisa (CNPq) pela Universidade Estadual de Campinas ? Unicamp e Instituições Associadas: A proposta visa a criação de um Instituto Nacional de pesquisa, educação e transferência de conhecimento para sociedade e a indústria, com foco na área de fotônica para comunicações ópticas. O Instituto será sediado na Universidade Estadual de Campinas (UNICAMP). O Instituto desenvolverá pesquisas fundamentais em fotônicaárea , ciências dos materiais, dispositivos e sistemas, redes ópticas, bem como estudos aplicados por demanda de empresas. Estudos em andamento conduzidos por seus membros envolvem fibras ópticas microestruturadas, lasers semicondutores de microcavidades, sistemas de comunicação óptica, óptica não linear em fibras e guias de onda, modelagem e fabricação de estruturas fotônicas e guias. A principal missão do Instituto é estabelecer um Programa de longa duração para o desenvolvimento nacional das comunicações ópticas através de melhoras nos sistemas de pesquisa e de educação superior, na transferência de conhecimento para a sociedade e na interação academia-empresa. 
+Equipe: Hugo E.H. Figueroa e outros desde 2009.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Integrante / Hugo Enrique Hernandez Figueroa - Coordenador / Outros - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2012
+Resoluções de Sistemas Lineares de Grande Porte em Arquiteturas  Multi-Núcleos GPUs e FPGAs
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.
+2007 - 2011
+Otimização não-linear PDE restrito aplicado em  imagens captada por espalhamento inverso
+Descrição: Problemas de otimização não-linear PDE restrito, (PDE, do inglês partial diferential equations), são oriundos de inúmeras áreas e com inúmeras aplicações. Podem ser aplicados em: trajetória de aeronaves (foguetes, aviões, ônibus espaciais, ou até mesmo, mísseis); predição ou controle de colônias de animais nas florestas, levando em conta os fatores climáticos, doenças e presa-predador; previsão de catástrofes, assim como tufões, tsunamis, etc.; e problemas de espalhamento inverso (emite onda  um determinado meio e recebe a resposta a ser decodificada para imagem) assim como tomografia ótica, sonar, ultrasom, sensoreamento remoto e muito mais. Como se vê as aplicações são multidisciplinares (medicina, telecomunicações, saneamento ambiental, construção civil,  aeroespacial e muito mais O objetivo desse trabalho de pesquisa, é desenvolver algoritmos e/ou softwares robustos e eficientes em tempo e memória computacionais, para resolver problemas de otimização parciais  restritos de grande porte, que envolve equações diferenciais. Para resolver esse tipo de problema, primeiro discretiza-se e resolve-se as PDE, e a seguir aplica-se o processo de  otimização.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.
+2004 - 2005
+Computação Científica Aplicada
+Descrição: Computação científica é uma área multidisciplinar que une a computação e a matemática numérica para desenvolver ferramentas computacionais  numéricas poderosas para resolver  e / ou simular problemas de engenharia, física, biotecnologia, meio ambiente e muitos outros. Em certas áreas da ciência ou  empenharia, experimentos,  são extremamente dispendiosos, perigosos ou até mesmo anti-éticos com os que envolvem animais ou seres humanos. A computação científica, permite simulação do experimento quase perfeita ou até  mesma perfeita. Na engenharia, a simulação de um produto e de como ele comporta, antes do seu desenvolvimento,  contribui para que  ele  seja concebido   com  qualidade e a baixo custo.
+O objetivo aqui  foi formar profissionais ou pesquisadores na  área de computação científica através  de trabalhos de iniciação científica,  sob a orientação da  Profa. Marli  três estudardes do Curso Tecnologia da  Informática ? CESET ? UNICAMP desenvolveram temas relacionados á  computação científica. Os projetos desenvolvidos foram financiados pelo Programa  Institucional de Bolsa  de Iniciação Científica ? PIBIC ? CNPq/SAE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.
+2003 - 2004
+Simulação dos Efeitos Não-Ionizantes da Radiação Eletromagnética na Cabeça Humana
+Descrição: O presente projeto teve como objetivo dar continuidade aos trabalhos de simulação do efeito da radiação eletromagnética na cabeça humana. Utilizou-se a priori, cálculos feito em um domínio 2D, porém viu-se a necessidade de migrar o trabalho para um ambiente
+3D, mais próximo da realidade. Para que isso fosse possível, houve a necessidade de implementar uma nova malha-base para os cálculos de SAR (Specific Absorption Rate) em cada ponto da cabeça humana determinados por esta malha. O desenvolvimento do
+projeto até o presente momento consistiu em gerar uma malha baseada em cálculos FDTD (diferenças finitas no tempo), agora em 3D, para tornar o projeto ainda mais
+próximo da realidade. Os cálculos foram feitos a partirdos  cálculos 2D anteriormente executados, fazendo as alterações necessárias para validar a forma 3D. À partir da geração da malha, é possível calcular os valores de SAR em cada ponto da cabeça humana, distribuída pela malha, em diversas situações e ambientes. FDTD - SAR - Poluição Eletromagnética. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marli de Freitas Gomes Hernandez - Coordenador.

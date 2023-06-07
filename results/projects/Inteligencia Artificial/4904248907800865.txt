@@ -1,0 +1,27 @@
+2008 - 2018
+REGER - rede de gerenciamento de energia
+Descrição: Pesquisa e desenvolvimento de técnicas, modelos e aplicações computacionais com vistas a se desenvolver uma arquitetura de centros de controles virtuais e aplicativos avançados de apoio à decisão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Luiz Corrêa Lima - Coordenador / Luiz Antonio Cordeiro Pereira - Integrante / Ayru Leal de Loiveira Filho - Integrante.
+2006 - 2007
+PHASORMON - Phasor Application Proof of Concept
+Descrição: Pesquisa e desenvolvimento de técnicas de exploração de medições fasoriais para melhorar a qualidade do processo de decisão em centros de controle de energia elétrica. Inclui o desenvolvimento de aplicativos tipo prova-de-conceito.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Corrêa Lima - Coordenador.
+2006 - 2007
+QUALICIM - modelagem padronizada de redes elétricas
+Descrição: Qualificação em Modelagem avançada de sistemas elétricos para centros de controle.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Corrêa Lima - Coordenador / Luiz Antonio Cordeiro Pereira - Integrante.
+2002 - 2006
+SAGEWEB - arquitetura WEB para aplicações de centros de controle
+Descrição: Pesquisa e desenvolvimento de métodos, técnicas, e suporte computacional na área de ciência da computação e tecnologias de informação, visando à concepção de uma arquitetura adequada para integração facilitada e padronizada de aplicações computacionais corporativas aos sistemas de informação de centros de controle de energia elétrica... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Luiz Corrêa Lima - Coordenador.
+1993 - 1996
+SAGE-SCADA - Arquitetura para Sistema Aberto
+Descrição: Pesquisas e desenvolvimento para a concepção de um sistema aberto de Gerenciamento de Energia para aplicação em centros de controle de energia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Luiz Corrêa Lima - Coordenador.
+1990 - 1992
+NOVAGER - Nova Geração de Centros de Controle
+Descrição: Pesquisa e desenvolvimento de métodos, técnicas, modelos e algoritmos em engenharia elétrica, ciência da computação, tecnologias de informação, visando à concepção de uma nova geração de centros de controle de energia elétrica com o potencial de resolver os problemas inerentes aos sistemas similares existentes na época.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Luiz Corrêa Lima - Coordenador.
+1989 - 1992
+SVSPP - Shunt-VAR Support Planning Program
+Descrição: Desenvolvimento de técnicas e modelos computacionais de otimização e artefatos de software com vistas a prover uma ferramenta de planejamento de sistemas elétricos de potência focada na alocação ótima de fontes de energia retiva.Desenvolvido para a empresa Bonneville Power Administration - Portland, Oregon, EUA.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Corrêa Lima - Integrante / Sérgio Granville - Coordenador.
+1986 - 2000
+SAGE-EMS - Análise de Redes para Sistema EMS
+Descrição: Pesquisa e desenvolvimento de métodos, técnicas, modelos e algoritmos em engenharia elétrica, visando à concepção de um conjunto de ferramentas de auxílio à operação em centros de controle de energia elétrica de maneira a compor um Sistema de Gerenciamento de Energia (EMS)... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Luiz Corrêa Lima - Integrante / Luiz Antonio Cordeiro Pereira - Coordenador.
+1977 - 1985
+SAR - Aplicações de Análise de Redes para Centros de Controle
+Descrição: Pesquisa e desenvolvimento de métodos, modelos computacionais e software para análise de redes elétricas de potência com vistas a aplicação em centros de controle de empresas de energia elétrica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4) . Integrantes: Luiz Corrêa Lima - Coordenador / Brian Stott - Integrante.

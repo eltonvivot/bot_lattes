@@ -1,0 +1,65 @@
+2020 - Atual
+Projeto ALEX: Concepção e Implementação de uma plataforma virtual distribuida de ensino-aprendizagem híbrido baseada na Web3
+Descrição: Ambientes Virtuais de Aprendizagem (AVA) tornaram-se uma ferramenta crucial na realidade da educação do Brasil e do mundo após a pandemia. O uso destes ambientes permite que professores e estudantes possam mediar processos de ensino-aprendizagem num formato totalmente à distância ou híbrido, ou mesmo como um suporte para um formato presencial. No entanto, todos os ambientes hoje tem uma forte dependência de uma boa conectividade e se sustentam nos moldes da Web 2.0, centrada no modelo cliente-servidor, tornando-se o servidor que hospeda um determinada AVA um ponto central de falha.
+A nova geração da Web, a Web3, é formada por um conjunto de tecnologias emergentes envolvendo inovações como a tecnologia blockchain e as redes peer-to-peer de armazenamento. Desta forma, cria-se uma nova plataforma para o desenvolvimento de aplicações distribuídas que pretendem tornar o uso da Internet mais descentralizado, inclusivo, e que dê controle e propriedade das informações à seus usuários.
+O Projeto ALEX é um esforço de pesquisa e desenvolvimento visando criar um AVA ao redor da Web3, pensando em cenários de educação híbrida ou à distância. A plataforma do ALEX herdará as características que a nova Web3 trás inerentemente consigo: uma arquitetura distribuída, resiliente à falhas e com o senso de apropriação da informação à seus usuários. Desta forma, o projeto está sendo construído para suportar a distribuição de informações que serão geradas dentro da plataforma, de forma transparente à seus usuários. Materiais didáticos, interações entre professores e estudantes, projetos, entre outros,
+estarão sempre disponíveis, mesmo em um cenário que possua baixa ou nenhuma conectividade. Sendo uma aplicação distribuída (DApp), o projeto ALEX pretende dar suporte à professores e estudantes em processos de ensino-aprendizagem de forma a manter sua continuidade mesmo em um cenário com r estrições tecnológicas e de conectividade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Fabio Paraguaçu - Integrante / Márcio Robério da Costa Ferro - Integrante / Marcio André Fernandes  Martins - Integrante.Financiador(es): Banco do Nordeste do Brasil - Auxílio
+										financeiro.
+2019 - 2020
+A.L.E.X (ACTIVE LEARNING EXPERIENCE): UMA PLATAFORMA DE SUPORTE À APRENDIZAGEM ATIVA VISANDO O DESENVOLVIMENTO DE COMPETÊNCIAS PROFISSIONAIS ATRAVÉS DE CONTEXTOS AUTÊNTICOS
+Descrição: A.L.E.X(Active Learning Experience) é uma plataforma web que tem como objetivo primário conceber suporte a alunos e professores para a aplicação de metodologias de ensino e aprendizagem ativa. além disso, procura-se oferecer uma janela de interação entre alunos e o mercado de trabalho apresentando o perfil dos alunos contendo informações sobre suas competências, habilidades e conhecimentos considerados relevantes para o mercado. a plataforma busca estruturar de maneira sistemática métodos de avaliação,           organização e aplicação de projetos nas instituições de ensino com o intuito de incentivar e auxiliar a aplicação da aprendizagem ativa. assim, a plataforma surge como uma ferramenta alternativa às plataformas tradicionais, como SIGAA, Moodle, entre outras, que são inspiradas por processos bem definidos no Método Tradicional de Ensino (MTE).  
+Desta forma, estimula-se em seus usuários o desenvolvimento de habilidades e conhecimentos como: auto aprendizagem, colaboração, proatividade, compromisso e outras competências do Século XXI(BENDER, 2015), tomando como base para as metodologias  constatadas cientificamente como: Aprendizagem baseada em projetos (ABPj), Aprendizagem baseada em problemas (ABP) e  Flipped Classroom (Aula invertida) .. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Filipe Simões Mota - Integrante.
+2019 - 2020
+P 3 BL: UM MODELO PARA A APRENDIZAGEM BASEADA EM COMPETÊNCIAS ATRAVÉS DE PROBLEMAS E PROJETOS AUTÊNTICOS
+Descrição: Esta pesquisa investiga o uso de métodos ativos nos modelos tradicionais de ensino
+atualmente estabelecidos. Esta pesquisa é realizada a partir de um levantamento bibliográfico, que
+se refere aos fundamentos da aprendizagem ativa e, em seguida, enfoca a aprendizagem baseada
+em competências através de problemas e projetos (P³BL). Neste sentido, o projeto centra-se em
+trabalho em equipe, aprendizagem independente (autonomia), iniciativa, colaboração, dedicação,
+etc., e como podem ser incorporadas em modelos e práticas. Associado ao ambiente virtual de
+aprendizagem. Portanto, este projeto tem um vínculo direto com ALEX, outro projeto PIBITI desta
+edição, onde foi desenvolvida a versão inicial do protótipo e modelo da plataforma .Portanto, aqui,
+apresentamos os resultados obtidos a partir do protótipo e as ideias propostas durante este processo
+de pesquisa. Assim, este projeto visa um estudo aprofundado dos diversos métodos de
+aprendizagem ativa, assim como a concepção de um modelo que vislumbre a implementação de
+metodologias de aprendizagem ativa, tais como a Aprendizagem por Problemas e Projetos e a
+Aprendizagem por Competências. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Keylla Rubyana Simões da Silva - Integrante.
+2019 - 2020
+ITSKILLS: INVESTIGANDO E DEFININDO UM FRAMEWORK DE COMPETÊNCIAS PARA PROFISSIONAIS DE TECNOLOGIA DA INFORMAÇÃO
+Descrição: Esta pesquisa procurou investigar o conceito de competências e sua relação com  o mercado de Tecnologia de Informação (TI), pensando nos papéis profissionais definidos atualmente. A partir de um levantamento bibliográfico, identificou-se uma divergência entre a visão dos educadores, empregadores e alunos, quanto ao que se espera de profissionais recém egressos dos ambientes acadêmicos. Pesquisou-se também sobre o movimento da Aprendizagem Baseada em Competências (ABC), que cresce no mundo, mas muito incipiente no Brasil. Neste  sentido, o projeto teve como foco desenvolver uma ferramenta, chamada Competence Studio, que permita definir com precisão as competências relacionadas a um perfil profissional, usando a notação de competências S.M.A.R.T. Desta forma, este projeto teve forte relação com o projeto ALEX, um ambiente de aprendizagem ativa. Uma versão inicial do protótipo da plataforma foi prototipada, incluindo o Competence Studio como um módulo. Portanto, apresentamos aqui os resultados adquiridos do protótipo e das ideias geradas no decorrer desta pesquisa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Natália Lopes - Integrante.
+2019 - 2020
+FLIPLAB: UM AMBIENTE PARA A CRIAÇÃO DE UMA CULTURA DE APRENDIZAGEM ATIVA NO PROCESSO DE ENSINO-APRENDIZAGEM DOS CURSOS DE INFORMÁTICA DO IFAL
+Descrição: Esta pesquisa teve como objetivo investigar como a abordagem de aprendizagem invertida (Flipped Learning), pode ser aplicada dentro de um ambiente virtual de aprendizagem. Desta forma, o projeto tem um vínculo com a plataforma ALEX, um ambiente de suporte às metodologias ativas através de atividades presenciais e à distância, seguindo o do princípio de que o aluno deve ter autonomia sobre a construção do seu conhecimento. Ao adicionar elementos da aprendizagem invertida na plataforma, agrega-se recursos como um plano de aprendizagem, trilhas dentro de interações que poderão ser usados por professores e alunos. Por fim, a introdução de um elemento importante para combater a pandemia que vivemos foi adicionado: permitir que todo um plano de aprendizagem seja armazenado de maneira totalmente offline, eliminando a necessidade de conectividade constante e permitindo que o estudante conduza seu processo de ensino-aprendizagem no seu tempo e espaço.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Pedro Miguel de M.V da Silva - Integrante.
+2015 - 2016
+PBLEXPERT:   UM   ESTUDO   SOBRE   AMBIENTES  VIRTUAIS  E  FERRAMENTAS  TECNOLÓGICAS  DE  APOIO  AO  ENSINO  E  A PRENDIZAGEM  BASEADA  EM   PROBLEMAS   E   PROJETOS   NA   ÁREA   DE  TECNOLOGIA DA INFORMAÇÃO E ENGENHARIA
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Jacinto Duarte da Costa - Coordenador.
+2014 - 2016
+Evolução do Mínimo Produto Viável (MVP) da Plataforma Eng para um framework  gameficado baseado em mundos virtuais dinâmicos, focados na melhoria da gestão do  aprendizado e do conhecimento empresarial.
+Descrição: A inicial motivação da construção do MVP da Plataforma Eng surgiu da necessidade de disponibilizar para os órgãos 
+públicos uma plataforma tecnológica inovadora como uma poderosa ferramenta de apoio para uma gestão pública 
+integrada. Possibilitando a todos os órgãos públicos uma plataforma única de comunicação, onde poderão debater temas 
+inerentes, promovendo a melhoria e otimização das ações e programas públicos. Promovendo, também, um enorme 
+ganho no potencial de produção coletiva, uma vez que os órgãos públicos poderão compartilhar informações entre si de 
+forma instantânea e atemporal, gerando maior celeridade na criação e execução de projetos comuns que envolvam 
+unidades distintas. 
+O MVP foi testado com o seu mínimo conjunto de funcionalidades tais como: Perfil pessoal, Grupos de Trabalho, 
+compartilhamento de conteúdos, contatos profissionais e busca de contatos com filtros inteligentes, chat, envio de 
+mensagens, compartilhamento de arquivos, imagens e vídeos e um ambiente administrativo, em alguns desafios voltados 
+ao empreendedorismo e inovação e pela Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL) como 
+plataforma central de gestão de conhecimento e comunicação, possibilitando a troca de conhecimento e aprendizado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Breno Jacinto Duarte da Costa - Integrante / Bruno Bessa - Coordenador / Francisco Vital - Integrante / Russel Davis - Integrante.
+2013 - 2015
+Mapeamento dos Atendimentos Móveis de Urgência do SAMU-AL a partir de um Sistema de Informações Georreferenciadas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Jacinto Duarte da Costa - Integrante / Marcilio Ferreira Junior - Coordenador.
+2013 - 2014
+EasyPrivacy: Um protótipo de aplicação para a popularização do uso da criptografia de chave pública
+Descrição: Um protótipo de aplicação para a popularização do uso da criptografia de chave pública. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Djanilson Alves - Integrante.
+2013 - 2014
+GPI-FAPRAME ? GESTÃO DE PROPRIEDADE INTELECTUAL E A FÁBRICA DE  PROTOTIPAÇÃO
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Emerson Gomes - Integrante.
+2013 - 2014
+AVALIAÇÃO E ANÁLISE DE VIABILIDADE DE REDES MESH COMUNITÁRIAS PARA  INCLUSÃO-DIGITAL ATRAVÉS DE TELECOMUNICAÇÃO HUMANITÁRIA E ACESSO  À INTERNET
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Lucas Falcão - Integrante.
+2012 - 2013
+Roteamento em Redes Mesh para Países em Desenvolvimento e Redes de Emergência
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Jacinto Duarte da Costa - Coordenador / Santiago STAVISKI - Integrante.Financiador(es): Instituto Federal de Alagoas - Matriz - Auxílio
+										financeiro.

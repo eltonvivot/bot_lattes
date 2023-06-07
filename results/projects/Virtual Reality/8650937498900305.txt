@@ -1,0 +1,21 @@
+2013 - Atual
+Desenvolvimento de uma Plataforma Robótica para Reabilitação Baseada na Fusão entre Exoesqueleto e Andador Robótico (WALKTrainer)
+Descrição: O principal objetivo do projeto WALKTrainer é desenvolver e validar uma plataforma
+robótica que sirva de apoio às terapias de reabilitação de pacientes. Esse objetivo será
+alcançado com o desenvolvimento da plataforma robótica que consiste em: (1) um
+andador inteligente e (2) um exoesqueleto monoarticulado, controlada por uma interface
+que servirá de canal de comunicação entre os paciente e a terapia de reabilitação. A
+plataforma desenvolvida no âmbito do projeto WALKTrainer permitirá que o usuário
+experimente marcha autônoma em um ambiente real de reabilitação já que permitirá que
+o usuário realize a terapia fora de laboratórios. A plataforma robótica consiste de um
+andador inteligente que suporta o peso do paciente, além de dar estabilidade à sua
+marcha, e de um exoesqueleto que controlará as articulações do membro inferior do
+paciente. O peso do esqueleto humano define o seu desenvolvimento ósseo, e como
+resultado, a marcha patológica induz deformações esqueléticas durante o
+desenvolvimento. WALKTrainer proporcionará ao paciente uma estrutura que
+reabilitará o seus padrões de marcha e evitará as deformações ósseas. 
+Chamada de Projetos MEC/MCTI/CAPES/CNPQ/F APS No 61/2011. Programa Ciência Sem Fronteiras. Bolsas No País: Modalidade Pesquisador Visitante Especial.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Andrés Cifuentes García - Integrante / Carmilo Arturo Rodríguez Díaz - Integrante / Teodiano Bastos - Coordenador / Anselmo Frizera Neto - Integrante / Eduardo Rocon - Integrante.
+2012 - Atual
+Desenvolvimento de uma rede de sensores ZigBee para monitoramento da reabilitação de membro inferior
+Descrição: Descrição: Este Projeto de Pesquisa visa o desenvolvimento de um sistema de avaliação motora para o estudo e monitoramento dos membros inferiores baseado na análise da informação gerada a partir de sensores inerciais em eletromiografia superficial (sEMG). Esta proposta tem o foco na reabilitação da marcha, partindo da importância da capacidade de caminhar para a qualidade de vida e para a participação na vida social e econômica. Todas estas capacidades são, sem dúvida alguma, afetadas negativamente por patologias neurológicas como lesões da medula espinhal, AVC ou lesões cerebrais traumáticas. O sistema que se pretende desenvolver permitirá a medição das variáveis cinemáticas de membros inferiores e da atividade elétrica associada à ativação muscular tanto em laboratório como fora do mesmo. Propõe-se uma plataforma baseada em uma rede de área pessoal sem fio que integra diferentes parâmetros de cinemática e um sistema de aquisição de sEMG. Será realizada a avaliação de algoritmos de fusão diferentes sensores (acelerômetros, giroscópios, magnetômetros) atualmente objeto de investigação para a obtenção de informação relevante ao estudo da marcha e suas fases. 
+CNPq-Universal 14/2012.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Andrés Cifuentes García - Integrante / Carmilo Arturo Rodríguez Díaz - Integrante / Manuel Ricardo Alfonso - Integrante / Anselmo Frizera Neto - Coordenador / Arlindo Elias - Integrante.

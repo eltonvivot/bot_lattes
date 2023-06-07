@@ -1,0 +1,241 @@
+2016 - 2016
+INNOVATION, TECHNOLOGY AND EQUITY IN HEALTH - INTEQ-Health
+Descrição: SUB-PROJETO
+Laboratório de Tecnologias Digitais na Formação em Saúde - LaTeS
+EQUIPE:
+Coordenador
+Raimundo José de Araújo Macêdo, UFBA/UFSB
+[lattes: http://lattes.cnpq.br/9840346055970503]
+[URL: www.macedo.ufba.br]
+Demais membros
+Alirio Santos Sá, UFBA/UFSB
+[http://lattes.cnpq.br/8529510757160217]
+David Cavallo, UFSB [professor titular visitante]
+[http://www.lasid.ufba.br/public/DavidCavalloCVJanuary2014-pt-br.pdf]
+Sérgio Gorender, UFBA/UFSB
+[http://lattes.cnpq.br/8771587306163921]
+1. Objetivos
+O projeto LaTeS irá explorar a relação entre as Tecnologias de Informação e Comunicação (TICs) e a formação em saúde, em dois sentidos. De um lado, as TICs são utilizadas como instrumentos de ensino-aprendizagem, visando a melhor qualidade, através de ambientes virtuais de aprendizagem, e o maior alcance geográfico através da interação remota via redes de computadores. De outro lado, o projeto disporá de meios para preparar estudantes para a fluência tecnológica cada vez mais necessária na prática do profissional de saúde.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Raimundo José de Araújo Macêdo - Integrante / Gorender, Sergio - Integrante / DE SÁ, ALÍRIO SANTOS - Integrante / Naomar Monteiro de Almeida Filho - Coordenador.
+2015 - 2019
+Cooperação Sociedade Brasileira de Computação (SBC) e International Federation for Information Processing (IFIP
+Descrição: Apoio à Cooperação entre a Sociedade Brasileira de Computação (SBC) e International Federation for Information Processing (IFIP. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2015 - Atual
+INFRAESTRUTURA TECNOLÓGICA PARA CIDADES INTELIGENTES APLICADAS À SAÚDE
+Descrição: Título do Projeto: INFRAESTRUTURA TECNOLÓGICA PARA CIDADES INTELIGENTES APLICADAS À SAÚDE
+Palavras Chaves
+: cidades inteligentes / sistemas ciber-físicos / internet das coisas / e-health Resumo do Projeto
+Selecionado no EDITAL FAPESB TIC 013/2015
+Valor aprovado: CR$ 952.400,00
+Equipe:
+Alguns não puderam ser cadastrados na submissão, mas foram convidados e serão da equipe - marcados com * na lista abaixo
+Coordenação: Raimundo José de Araújo Macêdo
+UFSB
+Alírio Santos de Sá  (computação)
+Antônio José Costa Cardoso * (saúde)
+Bilzã Marques de Araújo * (computação)
+Jane Mary de Medeiros (saúde)
+Naomar Monteiro de Almeida Filho (saúde)
+Raimundo José de Araújo Macêdo (computação)
+Sérgio Gorender (computação)
+ 
+UFBA
+Aline Santos Andrade * (computação)
+Flávio Morais de Assis Silva (computação)
+Paul Denis Etienne Regnier (computação)
+IFBA
+Allan Edgard Silva (computação)
+Handerson Jorge Dourado Leite (eletrônica)
+Sandro Santos Andrade (computação
+ 
+Western University, Canada
+Miriam Akemi Manabe Capretz (computação)
+ 
+University of Luxemboug, Luxemboug \
+Paulo Esteves Veríssimo * (computação)
+ 
+Resumo:
+Esta proposta de pesquisa tem como objetivo geral o projeto, implementação e avaliação de uma infraestrutura de comunicação e computação que suporte de forma escalável, interoperável e confiável a execução de sistemas distribuídos voltados para assistência à saúde, dentro das caracteristicas encontradas nos sistemas ciberfísicos e Internet das Coisas. A pesquisa aborda questões relevantes relacionadas à infraestrutura de tais sistemas, identificando os desafios introduzidos pelo uso destas tecnologias em sistemas de e-health (asistência à saúde) e apresentando propostas de soluções efetivas que viabilizam um avanço no estado-da-arte nesta área. Em particular, aborda-se questões fundamentais como garantias temporais em redes de comunicação sem fio, roteamento e agregação de dados de sensores, integração de dispositivos e sistemas distribuídos (middleware), modelos e mecanismos de coordenação distribuída e mecanismos inteligentes para ajuda a diagnósticos coletivos e individuais.
+Do ponto de vista científico/tecnológico, os desafios estão dentro do contexto da Internet das Coisas  e dos Sistemas Ciberfísicos. O projeto desses sistemas distribuídos complexos e de larga escala ainda é um problema em aberto. Nos Sistemas Ciberfísicos, dispositivos embarcados (e.g., sensores e atuadores) e computadores de proposito geral estão interligados em rede formando uma nova família de sistemas automatizados, para a qual a computação e os processos do mundo físico interagem e se influenciam mutuamente. Em particular, em Sistemas Médicos CiberFísicos, redes de bio-sensores podem ser usados para monitorar dados clínicos dos pacientes, estes dados são coletados por um sistema de assistência à saúde (healthcare), o qual executam algoritmos de análise e diagnósticos sobre os dados coletados, podendo gerar ações de forma automática (atuadores) ou alerdando o sistema de saúde (médicos, hospitais, etc)
+Para avaliação da infra-estrutura desenvolvida neste projeto, serão desenvolvidas duas aplicações protótipos. A primeira aplicação terá foco no monitoramento de comunidades remotas, como aldeias indígenas e comunidades quilombolas, em uma perspectiva de saúde coletiva. Será baseada no desenvolvimento de diferentes agentes de software que irão executar em sensores e dispositivos computacionais heterogêneos, para a coleta e análise de dados. Este monitoramento permitirá acompanhar as condições ambientais, de higiene, alimentação, saúde, tanto em indivíduos como na coletividade. A segunda aplicação terá o foco no monitoramento remoto de pessoas idosas, com dificuldade de locomoção ou com doenças crônicas. Serão considerados o uso de sensores "vestíveis" (weareable sensors), em comunicação com computadores localizados no domicílio, par. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Doutorado: (5) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Sandro Santos Andrade - Integrante / Alírio Santos de Sá - Integrante / Gorender, Sergio - Integrante / FREITAS, ALLAN EDGARD SILVA - Integrante / Naomar Monteiro de Almeida Filho - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2014 - 2016
+NextSAUDE - NUCLEOS DE EXCELÊNCIA EM INTEROPERABILIDADE SEMÂNTICA DE SISTEMAS DE SAÚDE
+Descrição: NextSAUDE é um projeto a ser implantado no IFCE Aracati constituído de Núcleos de Excelência em Interoperabilidade Semântica de Sistemas de Saúde, envolvendo universidades e centros renomados de pesquisa, desenvolvimento e inovação nacionais (IFCE, FIOCRUZ-Ce, UFES, UESPI, UFPB, UFPE, UFC, UFBA, PUC-Rio). O objetivo do NextSAUDE é desenvolver soluções especializadas e gerar inovações tecnológicas de interoperabilidade para o Sistema Único Saúde (SUS), no contexto da construção do Barramento de Serviços (tecnologia SOA) de Saúde e da estratégia de interoperabilidade do Sistema Cartão Nacional de Saúde, com a interveniência do DATASUS, adaptado às necessidades do Ministério da Saúde . 
+Situação: Em andamento; Natureza: Pesquisa. 
+Alunos envolvidos: Graduação: (8) / Especialização: (0) / Mestrado acadêmico: (1) / Mestrado profissional: (2) / Doutorado: (1) . 
+Coordenador: - Coordenador / Césao Olavo de Moura Filho
+Financiador: Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+A participação da UFBA envolve aspectos de Tolerância a Falhas? Os estudantes envolvidos são das outras instituições. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (2)  / Doutorado: (1) . Integrantes: Raimundo José de Araújo Macêdo - Integrante / Antônio Mauro Barbosa de Oliveira - Coordenador / Cesar Olavo - Integrante.
+2010 - 2014
+Dependable Mechanisms for Dynamic Networks
+Descrição: Edital CNPq No 015/2009 - Convênios Bilaterais de Cooperação Internacional
+CNPq/INRIA
+Período: Maio 2010 - Julho 2014
+Universidades Envolvidas:
+UFBA - Universidade Federal da Bahia
+LIP6 - Laboratoire D'Informatique de Paris 6
+USP - Universidade de São Paulo
+Rennes 2 - Universite Rennes 2 - INRIA-IRISA/Rennes
+Coordenador Brasileiro: Raimundo José de Araéjo Macêdo, UFBA
+Coordenador Francês: Achour Mostefaoui, INRIA-IRISA/Rennes
+Equipe do Projeto:
+? Prof. Raimundo Macêdo (LaSiD/UFBA)
+? Prof. Achour Moustefaoui (coordenador francês)
+? Prof. Michel Raynal (INRIA-IRISA/Rennes, France)
+? Prof. Pierre Sens (Projet Regal (INRIA/LIP6), Paris, France)
+? Prof. Adjunto Sergio Gorender (LaSiD/UFBA, Salvador, Brazil)
+? Prof. Assistente Luciana Arantes (Projet Regal(INRIA/LIP6), Paris, France)
+? Prof. Assistente Gael Thomas (Projet Regal (INRIA/LIP6), Paris, France)
+? Prof. Assistente Julien Sopena (Projet Regal (INRIA/LIP6), Paris, France)
+? Prof. Associado Alfredo Goldman (IME-USP, Sao Paulo, Brazil)
+? Allan Freitas (doutorando, LaSiD/UFBA, Salvador, Brazil)
+? Alirio Sá (doutorando, LaSiD/UFBA, Salvador, Brazil)
+? Sandro Andrade (doutorando, LaSiD/UFBA, Salvador, Brazil)
+? Damien Imbs (doutorando, INRIA-IRISA/Rennes)
+? Paulo Floriano (mestrando, IME-USP, Sao Paulo, Brazil)
+? Marcio Vinicius dos Santos (mestrando, IME-USP, Sao Paulo, Brazil)
+Resumo:
+Este projeto trata da investigação dos desafios de confiabilidade ("dependability") advindos dos chamados sistemas distribuídos dinâmicos característicos das novas tecnologias de redes de computadores, tais como redes móveis ad-hoc (MANET), redes veiculares ad-hoc (VANET), "Worldwide Interoperability for Microwave Access" (WiMax), "Airborn Networks", "DoD Global Information Grid", "peer-to-peer" (P2P) etc. As aplicações típicas desse tipo de rede têm uma característica em comum: são altamente dinâmicas em suas composições - em termos de membros participantes e recursos disponíveis em da. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Michel Raynal - Integrante / Achour Mosteafaoui - Integrante / Sérgio Gorender - Integrante / Sandro Santos Andrade - Integrante / Alírio Santos de Sá - Integrante / Allan Edgard Silva Freitas - Integrante / Pierre Sens - Integrante / Alfredo Goldman - Integrante / Luciana Arantes - Integrante / Gael Thomas - Integrante / Julien Sopena - Integrante / Damien Imbs - Integrante / Marcio Vinicius dos Santos - Integrante / Université Paris 6 - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Institut National de Recherche en Informatique et en Automatique - Siège - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2010 - 2014
+Mecanismos de Suporte à Dependabilidade para Ambientes de Computação em Nuvem
+Descrição: Computação em nuvem é um modelo de computação distribuída em que recursos computacionais podem ser acessados sobre demanda através da Internet. Para tanto, uma coleção de computadores trabalham de forma coordenada, de modo a passar para o usuário a visão de um único computador altamente disponível. Tal paradigma vem se tornando uma solução promissora, permitindo grande economia para corporações e indivíduos, que passam a pagar apenas pelos serviços utilizados ao invés de toda a infraestrutura de TI. Para assegurar que o ambiente de computação em nuvem forneça o serviço de forma correta e com alta disponibilidade, em especial em configurações de alta escala, os mecanismos de coordenação subjacentes têm que dinamicamente reconfigurar o ambiente em função de falhas e/ou disponibilidade de recursos, de forma a garantir a qualidade de serviço especificada em acordos previamente firmados (SLA). Para tanto, mecanismos de dependabilidade (dependability) precisam ser disponibilizados, idealmente dotados de habilidades de auto-gestão, uma vez que o dinamismo natural da nuvem inviabiliza a parada do sistema para reconfigurações manuais. O presente projeto objetiva investigar tais mecanismos de dependabilidade dentro de uma abordagem autonômica, aproveitando a experiência prévia dos parceiros nessas áreas de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Marcos Ennes Barreto - Integrante / Carlos Alberto Maziero - Integrante / Rui Carlos Oliveira - Integrante.Número de produções C, T & A: 4
+2010 - 2014
+JiT Clouds: increasing the elasticity of cloud computing providers through federation of amortized computing resources
+Descrição: Cloud computing allows IT provision as an on-demand service. Among the several benefits this new paradigm provides, the elasticity (the user's ability to increase or decrease the capacity of his IT infrastructure without additional costs) is the most important characteristic, as it transfers to the service provider all risks and costs associated with IT's capacity planning. The "state-of-practice" on IT provision as a service (IaaS) imposes a limit to this elasticity, as the service provides must keep its operating costs at an acceptable value while ensuring a highly availability of services. As a consequence, the number of applications that can benefit from this paradigm is restricted. In this project, we investigate an alternative approach for IaaS deployment, in which ownership costs only incur when the resources needed to sustain the infrastructure are demanded by clients; thus allowing an increase of several orders of magnitude in the limit that must be imposed to the clients. Besides these issues, the coupling with other cloud computing levels will be also considered.
+Financial Support: MCT/CTIC/RNP - Cloud Computing 
+Members: Coordinators -- Dr. Francisco Vilar Brasileiro (UFCG) and Dr. Philippe Olivier Alexandre Navaux (UFRGS); Researchers at UFBA -- Dr. Raimundo José Araújo de Macêdo (local coordinator), Dr. Marcos E. Barreto, Dr. Alírio S. Sá; PhD student at UFBA -- Allan Edgard S. Freitas; Undergraduate students at UFBA -- Marivaldo Júnior, Vinícius Santos
+Partners institutions: UFCG, UFRGS, UFBA, CESAR, IFPB, LNCC, PUC-PR, PUC-RJ, UFPB, UFPE, UFSC, UFSCAR, UNICAMP, UNIFOR, UNISINOS, Universidade do Minho (Portugal) e Cambridge University. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Alírio Santos de Sá - Integrante / Marcos Ennes Barreto - Integrante.
+2010 - 2013
+Sistemas Distribuídos Híbridos, Confiáveis e Auto-Adaptáveis: Modelos e Plataformas
+Descrição: São três projetos aprovados no CNPq que compoem esse projeto.
+1)Projeto Individual - Bolsa de Produtividade do CNPq - 2010 2013
+2) Editaol Universal - 2010-2010
+3) 1 bolsa de mestrado no País Edital MCT/CNPq nº 70/2009 - 2010 -2012
+A utilização de sistemas distribuídos têm crescido proporcionalmente à evolução e ao uso das redes de computadores. Nesse contexto, as aplicações distribuídas têm se tornado progressivamente mais complexas. Os sistemas passam a usar recursos mais complexos, exigindo maior velocidade nos mecanismos de execução e também maior disponibilidade e confiabilidade no uso desses serviços. Portanto, a busca por sistemas distribuídos cada vez mais confiáveis, tendo em vista esses novos ambientes, é um grande desafio que se apresenta para a comunidade científica.
+Tal desafio foi devidamente abraçado pela Sociedade Brasileira de Computação (SBC), ao lançar um documento com o título "Grandes Desafios da Pesquisa em Computação no Brasil - 2006/2016". O presente projeto de pesquisa representa um esforço na busca de modelos (algoritmos e provas de correção) e plataformas (soluções de
+middleware e frameworks) para a construção de sistemas distribuídos confiáveis e adaptáveis. O seu desenvolvimento dar-se-á através da realização de quatro Teses de Doutorado em Ciência da Computação (DMCC/UFBA/Unifacs/UEFS), cinco Dissertações de Mestrado em Mecatrônica (um curso multidisciplinar da UFBA - parceria entre Ciência da Computação e Engenharias) e dois trabalhos de Iniciação Científica de graduandos em
+Ciência da Computação (CNPq/FAPESB). Em suma, através desse projeto formar-se-á uma rede de colaboração ampla, envolvendo universidades brasileiras e uma estrangeira.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (6)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 13
+2010 - 2012
+Verificação de Sistemas de Tempo Real Tolerantes a  falhas através de Injeção de Falhas
+Descrição: Os sistemas computacionais, em especial os sistema de tempo real, estão cada
+vez mais sendo utilizados no dia a dia da sociedade, estando presentes nos mais diversos
+tipos de situações. Em decorrência disto, sua importância também aumenta de maneira
+acelerada. À medida que estes sistemas passam a ser mais presentes e necessários, seus
+requisitos e características passam também a crescer em complexidade. Neste contexto,
+sua utilização passa a ser determinante na proteção de investimentos financeiros e vidas
+humanas, fazendo com que a validação de atributos como confiabilidade, disponibilidade,
+segurança e integridade torne-se uma etapa essencial do processo de desenvolvimento das
+aplicações relacionadas.
+Além de extremamente importante, a validação de sistemas computacionais
+tolerantes a falhas também se configura como uma tarefa difícil de ser realizada, já que,
+quanto maior a complexidade dos sistemas, mais complexos devem ser os mecanismos
+para validá-los. A Injeção de Falhas possui um papel fundamental neste processo, pois
+fornece meios para se validar experimentalmente a confiança no funcionamento
+(dependability) de sistemas e, consequentemente, a qualidade dos mesmos.
+Através da injeção de falhas em sistemas computacionais, torna-se possível
+acelerar a realização dos testes, permitindo que os mecanismos de tolerância a falhas
+implementados sejam executados, observados e analisados. É importante ressaltar que este
+tipo de abordagem é complementar a outros tipos de validação e mecanismos de garantia
+da qualidade, tais como utilização de verificação formal, inspeções de código, uso de
+processos de qualidade e os demais processos da engenharia de software em geral.
+No que tange aos processos de desenvolvimento de software, a Engenharia de
+Software Baseada em Componentes (ESBC) tem se mostrado um elemento facilitador para
+o aumento da qualidade e flexibilidade dos sistemas computacionais, em virtude dos seus
+mecanismos de configuração e reuti. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Rita Suzana Pitangueira Maciel - Integrante / LUDMILLA PALMEIRA ANDRADE - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2007 - 2010
+Sistemas Distribuídos Confiáveis e Adaptáveis: uma abordagem autonômica
+Descrição: Projeto financiado pela FAPESB (EDITAL 005/2007 - APOIO A PROJETOS DE PESQUISA ? Projeto número 8951)
+Resumo:
+A utilização de sistemas distribuídos têm crescido proporcionalmente à evolução e ao uso das redes de computadores. Nesse contexto, as aplicações distribuídas têm se tornado progressivamente mais complexas. Os sistemas passam a usar recursos mais complexos, exigindo maior velocidade nos mecanismos de execução e também maior disponibilidade e confiabilidade no uso desses serviços. Portanto, a busca por sistemas distribuídos cada vez mais confiáveis, tendo em vista esses novos ambientes, é um grande desafio que se apresenta para a comunidade científica. Tal desafio foi devidamente abraçado pela Sociedade Brasileira de Computação (SBC), ao lançar um documento com o título "Grandes Desafios da Pesquisa em Computação no Brasil - 2006/2016". O projeto de pesquisa, ora submetido, representa um esforço inovador na busca de modelos (algoritmos e provas de correção) e plataformas (soluções de middleware e frameworks) para a construção de sistemas distribuídos confiáveis e adaptáveis. O seu desenvolvimento dar-se-á através da realização de quatro Teses de Doutorado em Ciência da Computação (DMCC/UFBA/Unifacs/UEFS), cinco Dissertações de Mestrado em Mecatrônica (um curso multidisciplinar da UFBA - parceria entre Ciência da Computação e Engenharias) e dois trabalhos de Iniciação Científica de graduandos em Ciência da Computação (CNPq/FAPESB). Em suma, através desse projeto formar-se-á uma rede de colaboração ampla, envolvendo universidades brasileiras e uma estrangeira.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (5)  / Doutorado: (4) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / George M de A Lima - Integrante / Sérgio Gorender - Integrante / Luciano Porto Barreto - Integrante / Flavio Assis Silva - Integrante / Jean Marie Farines - Integrante / Daniela Berreiro Claro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.Número de produções C, T & A: 37
+2006 - 2010
+Cooperação Acadêmica em Automação e Sistemas de Tempo Real
+Descrição: Título: Rede Acadêmica em Automação e Sistemas de Tempo Real (AST) - PROCAD/CAPES
+Área de Atuação: Automação e Sistemas Computacionais para Mecatrônica
+Coordenador Geral: Prof. Raimundo Macêdo
+****
+Duração Prevista: 24 meses		
+****
+Data de início: 03/2006
+****
+1.1.  Identificação das Equipes
+Equipe 1: Programa de Pós Graduação em Engenharia Elétrica (PPGEEL/UFSC)
+	
+	Coordenador Equipe 1:  Professor Jean-Marie Faries
+         
+Professores participantes: 
+?	Jean-Marie Farines
+?	Rômulo da Silva Oliveira
+?	Leandro Buss Becker 
+?	Carlos Montez
+?	Marcelo Stemmer
+?	Eduardo Camponogara.
+****
+Equipe 2: Programa de Pós-graduação em Mecatrônica (PPGM/UFBA) 
+      
+         Coordenador Equipe 2:  Professor Raimundo José de Araújo Macêdo
+      Professores participantes:
+?	Raimundo José de Araújo Macêdo (Coordenador da equipe 2 e do projeto)
+?	George Marconi de Araújo Lima
+?	Luciano Porto Barreto
+?	Flávio Morais de Assis Silva
+?	Aline dos Santos Andrade
+?	Leizer Schnitman
+ 
+2.  Justificativa
+	
+A principal justificativa para o presente projeto é a forte confluência de interesses acadêmicos entre os dois programas de pós-graduação, no que toca as atividades de pesquisa e formação na área de Automação e Sistemas de Tempo-real, possibilitando, dessa forma, a exploração de pesquisas e orientações conjuntas - com vistas à consolidação do Programa de Pós-Graduação em Mecatrônica da UFBA. Um fato que merece destaque e que retrata a grande convergência de interesses é a participação conjunta dos proponentes deste projeto nos comitês de programa e organização dos dois principais eventos científicos brasileiros voltados para sistemas de automação confiáveis e sistemas de tempo real ? que são constituídos por. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (3) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / George M de A Lima - Integrante / Flávio Morais de Assis Silva - Integrante / Aline Andrade - Integrante / Joni da Silva Fraga - Integrante / Sandro Santos Andrade - Integrante / Alírio Santos de Sá - Integrante / Luciano Porto Barreto - Integrante / Rômulo Silva de Oliveira - Integrante / Jean Marie Farines - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.Número de produções C, T & A: 2
+2004 - 2008
+Modelo Hibrido e Adaptativo Para Computação Distribuída Confiável
+Descrição: Sistemas distribuídos são caracterizados por computações realizadas em sítios distintos, onde a sincronização e troca de informações entre os processos envolvidos ocorrem por troca de mensagens. Aplicações nesse contexto, cada vez mais presentes no cotidiano moderno, vão desde páginas HTML na WEB, até sistemas de controle de manufatura distribuídos. Com tanta onipresença e diversidade de tecnologias de implementação (tipos redes de comunicação, processadores, meios de armazenamento, etc.), é imperativa a busca por sistemas distribuídos cada vez mais confiáveis, sem os quais grandes prejuízos e catástrofes se tornariam inevitáveis. 
+O presente projeto representa um esforço inovador na busca de modelos (algoritmos e provas de correção) para a construção de sistemas distribuídos confiáveis e adaptáveis e reflete o amadurecimento do grupo de pesquisa (LaSiD - Laboratório de Sistemas Distribuídos), ao longo de seus 10 anos de existência. Além do coordenador deste projeto, mais cinco doutores pesquisadores do LaSiD, alunos do Mestrado em Mecatrônica da e do Bacharelado em Ciência da Computação da UFBA participarão do esforço - que também inclui cooperadores de instituições estrangeiras, como o IRISA/França e Brasileiras, como a UFPE e UFSC.
+Os resultados parciais já obtidos no contexto dessa pesquisa, incluem a definição de um modelo híbrido e adaptativo e de um framework, ambos publicados em 2005 em conferências patrocinadas pela IEEE. O plano de trabalho deste projeto visa complementar os esforções inicias, permitindo a ampla exploração do modelo proposto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Michel Raynal - Integrante / George M de A Lima - Integrante / Flávio Morais de Assis Silva - Integrante / Sérgio Gorender - Integrante / Paulo Cunha - Integrante / Alírio Santos de Sá - Integrante / Sandro Andrade - Integrante / Ricardo Perrone da Silva - Integrante / Neima Prado dos Santos - Integrante / Geovani Santangelo - Integrante / Allan Edgard Silva Freitas - Integrante / Marco Antonio Costa Simões - Integrante / Rafael Andrade Miranda - Integrante / Semínares Ribeiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 14
+2004 - 2008
+IARA - Integrated Architecture for Real-Time Applications
+Descrição: O projeto IARA (Integrated Architecture for Real-Time Applications) visa a construção de uma plataforma distribuída para fornecer suporte a sistemas de tempo real. Tal plataforma prevê a integração de sistemas com requisitos temporais variados assim como deve fornecer suporte a mecanismos de tolerância a falhas e sistemas distribuídos. A integração destes requisitos numa mesma plataforma é a principal inovação de IARA, visto que geralmente o desenvolvimento de sistemas de tempo real tende a ser restrito a um domínio específico de aplicações. Assim, o principal desafio deste projeto de pesquisa é encontrar meios adequados para que tal integração seja possível. IARA prevê suporte à integração de aplicações em três níveis de abstração: redes de comunicação; sistemas operacionais e protocolos distribuídos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Raimundo José de Araújo Macêdo - Integrante / George M de A Lima - Coordenador.Número de produções C, T & A: 1
+2004 - 2007
+Integração de Serviços e Monitoração de Falhas (Cooperação LaSiD/DCC/UFBA e SANMINA-SCI)
+Descrição: Em geral, o tratamento de falhas, seja pelo mascaramento destas ou pela recuperação do estado do sistema, requer o diagnóstico dos componentes falhos, identificando-os e informando aos processos operacionais, de uma forma consistente, o diagnóstico estabelecido. Portanto, o diagnóstico compreende não somente a detecção de falhas, mas também o estabelecimento e difusão de uma visão coerente sobre o estado de todos os processos monitorados. Por outro lado, o objetivo de gerenciamento em sistemas distribuídos, entre outros, é assegurar que uma aplicação com processos e serviços remotos funcione adequadamente sobre uma infra-estrutura distribuída. Com base no diagnóstico de falhas e configurações, é possível executar ações preventivas e corretivas a fim de manter a aplicação em funcionamento ou para fazê-la retornar a uma condição aceitável para os usuários. O objetivo deste projeto atender dispor de um, sistema de monitoramento de serviços computacionais críticos para dedectar eventuais  falhas (e eventuais mudanças no comportamento da aplicação) para adequar esta aplicação a situações de instabilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Flávio Morais de Assis Silva - Integrante / Fábio Ramon de Lima e Lima - Integrante / Rozember Rocha Leite - Integrante.Financiador(es): Sanmina Sci Lei de Informática - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2001 - 2007
+BCGMóvel - Base Confiável de Comunicação para Grupos Móveis
+Descrição: O conceito de mobilidade em sistemas distribuídos, tanto do hardware (computação móvel), quanto do software (agentes móveis ou migração de processos), tem se tornado uma alternativa muito utilizada nos últimos anos, de um lado, pelas características inerentes de algumas aplicações (no caso de computação móvel), de outro lado, pela conveniência em estruturar aplicações distribuídas (no caso de agentes móveis). Quando se consideram tais requisitos, há uma série de desafios (do ponto de vista da comunicação em grupo) que não são resolvidos no escopo das plataformas de comunicação em grupo convencionais. 
+O objetivo do projeto BCG Móvel é identificar os requisitos comuns aos tipos de mobilidade acima mencionados (hardware e software associado, no caso da computação móvel sem fio, ou apenas do software, no caso de agentes móveis e migração de processos), incorporando garantias e aspectos de mobilidade a uma plataforma de comunicação em grupo, a qual será chamada de BCGmóvel. A base do desenvolvimento da BCGmóvel é o conceito de grupos móveis, em desenvolvimento no LaSiD. Grupos móveis correspondem a uma extensão do conceito tradicional de grupos de processos que suporta a migração de membros participantes de um grupo de um nó a outro de um sistema distribuído. A BCGmóvel é uma continuação do desenvolvimento da plataforma BCG (Base Confiável de Comunicação em Grupo), uma plataforma de comunicação em grupo em desenvolvimento do LaSiD desde 2001 que implementa funcionalidades intrínsecas desse tipo de plataforma (protocolo de membership, ordenação de mensagens e controle de fluxo).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (2)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Flávio Morais de Assis Silva - Integrante / Daniel Breves Martins - Integrante / Rosemberg Rocha Leite - Integrante / Joselito Messias Lobo - Integrante / Alex Ricardo Anunciação Araújo - Integrante / Alan Carvalho de Queiroz - Integrante.Financiador(es): Sanmina Sci Lei de Informática - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 19
+2001 - 2002
+Improving the Quality of open Systems with Code Mobility through Rigorous Development
+Descrição: The fast and continuous evolution of computing and communication capabilities have resulted in massively distributed computacional environments (e.g. Internet). These environments are often called open environments and are characterized by: massive geographical distribution; highly dynamic environments; no global control; partial failures; lack of security and high heterogeneity due to diversity of communication links (delay, throughput), cooperating organizations, services offered, etc. Due to theses factors, developing applications for such environments is rather complex and therefore research efforts have been directed to improve support for development of distributed applications. One such efforts is the research area around code mobility. The aim of this cooperation project is to improve the quality of software for open environments, in special mobile and distributed applications, through the use of formal methods.
+To reach this goal we have selected a research group containing Brazilian and Italian experts in the different areas involved in the project: distributed systems, formal specification, formal semantics, formal verification and analysis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Raimundo José de Araújo Macêdo - Integrante / Flávio Morais de Assis Silva - Coordenador / Aline Maria Santos Andrade - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.
+2000 - 2002
+Projeto ARGO - Tolerância a Falhas em Sistemas Distribuídos Assíncronos (Coordenador) - Projeto Internacional Financiado pelo CNPq/INRIA
+Descrição: Mecanismos de tolerância a falhas são fundamentais para que aplicações em sistemas distribuídos, principalmente àquelas de segurança crítica - controle de tráfego aéreo, saúde pública, gerenciamento ambiental, etc. -, garantam operações seguras e previsíveis mesmo na ocorrência de falhas, evitando-se catástrofes ou prejuízos importantes.
+Os mecanismos de replicação ativa, usualmente utilizados para assegurar tolerância a falhas nos sistemas distribuídos, são baseados no conceito de comunicação em grupo. O objetivo do projeto ARGO é conceber e desenvolver serviços de comunicação em grupo (difusão ordenada, gerenciamento na formação de grupos, sincronização nas mudanças da composição dos grupos, etc.), a partir de uma abordagem que permita limitar e controlar as disfunções típicas dos sistemas distribuídos assíncronos (sem limites de tempo conhecidos para transferência de mensagens e velocidade relativa dos processos). 
+A originalidade de nossa abordagem reside no fato de todos os serviços de comunicação em grupo serem considerados como extensões de um problema de concordância mais elementar : o consenso distribuído.  Ou seja, cada serviço em algum momento dependerá de uma decisão unânime (o consenso). 
+No decorrer dos últimos anos, os grupos envolvidos nesse cooperação (ADP/IRISA, LaSiD/UFBA) trabalharam conjuntamente na definição de um protocolo de consenso genérico, que pode adaptar-se aos requisitos específicos dos diferentes problemas de concordância [HMRT99]. Esse trabalho, serviu de base para os trabalhos que realizamos no escopo deste projeto cujo resultado principal foi  a implementação de um protótipo capaz de garantir os requisitos de confiabilidade num sistema distribuído assíncrono. 
+[HMRT99] Hurfin M., Macedo R., Raynal M. and Tronel F. A general framework to solve agreement problems. Proc. of the 18th IEEE Symposium on Reliable Distributed Systems, (SRDS99). Lausanne, Oct 1999. pp.56-67. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Michel Hurfin - Integrante / Fabiola Greve - Integrante / Michel Raynal - Integrante / Flávio Morais de Assis Silva - Integrante / Aline Maria Santos Andrade - Integrante / frederic tronal - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.Número de produções C, T & A: 28
+2000 - 2002
+FlexGroup - Uma Meta-Arquitetura para Estruturação de Serviços de Comunicação em Grupo (projeto de de pesquisa em cooperação UFBA-UFPB, protem/CNPq)
+Descrição: Utilização da abstração de grupos de processos e de serviços de comunicação em grupo faciliata sobremaneira a construção de aplicações tolerantes a falhas. Vários sistemas que oferecem serviços de comunicação em grupo (ordenação de mensagens, gerência de replicação, gerência de formação em grupos, sincronização nas mudanças da composição dos grupos, controle de fluxo, etc.) têm sido propostos e desenvolvidos nos últimos anos (como, por exemplo, Isis, Horus, NewTop, Totem, Bast, Esemble, JavaGroups, Eva, dentre outros). Esses serviços são estruturados de diversas formas nos diferentes sistemas existentes. Os primeiros sistemas propostos utilizam um modelo de arquitetura plana (como, por exemplo, Isis, Totem e NewTop ), onde não há uma hierarquia na forma de iteração entre os vários módulos que compõem o serviço de grupo. Por outro lado, a maioria dos sistemas disponíveis atualmente foi projetada e implementada adotando o modelo em camadas, onde a interação se dá exclusivamente entre os módulos adjacentes (como, por exemplo, Horus, Bast, Ensemble e JavaGroups ). Mais recentemente, outras abordagens propostas incluem um modelo baseado em canais de enventos, que permite um maior desacoplamento entre os módulos (Eva). As diferentes arquiteturas possuem vantagens e desvantagens em diferentes aspectos. O objetivo deste projeto é propor uma meta-arquitetura que possa ser instanciada para cada aplicação em particular, atendendo de forma equilibrada aos requisitos de flexibilidade, extensibilidade, desempenho, confiabilidade, facilidade de compreensão e uso, impostos pela aplicação. Com isto busca-se encontrar um equilíbrio entre as vantagens e desvantagens das arquiteturas existentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Marcela Santana Guimarães Batalha - Integrante / Fancisco Vilar Brasileiro - Integrante / Maria Luiza Braga - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.Número de produções C, T & A: 8
+1996 - 1998
+LOCUS - Lógica para Concorrência e Sincronização (projeto de pesquisa em cooperação UFBA, UFPE, UFAL e UFRJ, financiado pelo Protem/CNPq - coordenador UFBA)
+Descrição: A necessidade da utilização de técnicas de especificação formal para sistemas distribuidos deve-se principalmente à complexidade inerente a esse tipo de sistema. A utilização de descrições informais podem levar a descrições imprecisas e inconsistentes. Em [QueC94], os autores chamam a atenção para essa necessidade:
+Os métodos de especificação formal permitem o desenvolvimento de sistemas sem ambiguidades, através de uma sintaxe e semântica bem definidas. Com este projeto pretende-se fornecer uma abordagem unificadora para formalização de sistemas distribuídos, concorrência e sincronização. O projeto é organizado em duas partes:
+1.    A construção de um sistema dedutivo rotulado cujos rótulos serão descrições de processos concorrentes, num cálculo tão próximo quanto possível do pi-cálculo e cujas fórmulas serão os "tipos" destes processos.
+2.    Utilização de uma generalização de lógica modal através do LDS para aplicações em sistemas distribuídos.
+O trabalho apresentado em [Mac94] fornece uma solução geral para protocolos de Comunicação em Grupo em Sistemas Distribuídos  adequados a uma variedade de configurações de sistemas e considera requisitos até então não abordados como, por exemplo, protocolos de ordem total para grupos sobrepostos. Os protocolos descritos em [Mac94] são o ponto de partida do sistema BCG (Base Confiável para Comunicação em Grupo), arcabouço de um projeto de pesquisa com o mesmo nome, em andamento do LaSid (Laboratório de Sistemas Distribuídos).
+            Assim, a abordagem unificadora para sistemas distribuidos que se pretende fornecer através do projeto aqui descrito deverá atender aos requisitos do paradigma de CG, dando continuidade ao projeto BCG do LaSid/UFBA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / George M de A Lima - Integrante / Ruy de Queiroz - Integrante / Anjolina de Oliveira - Integrante / Aline Santos Andrade - Integrante / Mario Roberto Folhadela Benevides - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.Número de produções C, T & A: 7
+1995 - 1999
+BCG - Base Confiável de Comunicação em Grupo (projeto individual com bolsa de produtividade do CNPq nível II)
+Descrição: Esse projeto integra as seguintes linhas de pesquisa:
+Métodos formais 
+Comunicação em grupo e tolerância a falhas 
+Linguagens de programação distribuídas 
+O objetivo da BCG é prover um ambiente adequado ao desenvolvimento de aplicações distribuídas tolerantes a falha. A BCG é composta de um núcleo e duas camadas que o envolvem (acima, uma interface de linguagem e mecanismos complementares, e abaixo, um protocolo de multicast não confiável). No núcleo são encontrados os seguintes componentes: protocolo de ordem total; protocolos de ordem causal; protocolo de membership, detector de falhas e controlador de fluxo. Tais protocolos utilizam um serviço de multicast não confiável desenvolvido sobre a camada de transporte subjacente. Acima desse núcleo, existe uma interface de linguagem para CG, ainda em desenvolvimento, denominada Talk. Também acima do núcleo, estarão mecanismos de migração e replicação de processos. A BCG foi implementada em linguagem C++, numa plataforma UNIX, numa rede de estações de trabalho conectadas via rede Ethernet sobre o protocolo TCP/IP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (7)  / Mestrado acadêmico: (2) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / George M de A Lima - Integrante / Marcela Batalha - Integrante / Lilianne Dantas Cirne - Integrante / Deise da Silva Côrtes - Integrante / Eduardo Telmo Fonseca Santos - Integrante / Fabiola Gonçalves Pereira Greve - Integrante / João Carlos de Jesus Bulhões - Integrante / Leopoldo Gomez - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 22
+1986 - 1990
+Desenvolvimento e Projeto de Servidores de Arquivos para Redes Locais (projeto individual com bolsa de produtividade do cnpq nivel III)
+Descrição: Foi projetado e implementado todo o software de comunicação de rede, o software do servidor de arquivo e impressão (projeto ariginal com acesso concorrente) e impressão e alterado os sistemas operacionais das estações servidoras e clientes. O sistema ficou em uso na UFBA até 1990 nquando foi substituido por sistemas de mercado e em função da saida do pesquisador em quastão para doutoramento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12) . Integrantes: Raimundo José de Araújo Macêdo - Coordenador / Sérgio Gorender - Integrante / Anjolina de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Não informado.Número de produções C, T & A: 14

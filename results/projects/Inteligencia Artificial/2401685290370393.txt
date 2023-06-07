@@ -1,0 +1,51 @@
+2015 - Atual
+Implicações da Arquitetura da Informação no esforço cognitivo no uso de Sistemas de Recuperação da Informação
+Descrição: Este projeto está contextualizado em questões relativas à representação, mediação e acesso à informação, notadamente na Arquitetura da Informação (AI) e suas manifestações nos Sistemas de Recuperação da Informação (SRI). É uma continuação direta do projeto executado no PIBIC 2016-2017, no qual foram construídos um corpora composto de textos anotados (classificados em categorias de diferentes níveis de dificuldade de compreensão) e um aplicativo para a realização de simulações de ambientes de sistemas de recuperação de dados. Objetiva-se nesta continuidade, mapear as implicações dos diversos desdobramentos da Arquitetura da Informação no esforço cognitivo requerido do usuário, durante o uso de sistemas de recuperação da informação, visando-se conhecer quais características do SRI e do tipo de texto, produzem mais impacto positivo na acessibilidade informacional. Através desse mapeamento, pretende-se fornecer dados que auxiliem na construção de políticas públicas relacionadas á acessibilidade informacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Osvaldo de Souza - Coordenador / Hamilton Rodrigues Tabosa - Integrante / Andson Paz - Integrante.Financiador(es): Universidade Federal do Ceará - Bolsa / Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 12 / Número de orientações: 2
+2014 - 2017
+Processamento de Linguagem Natural aplicado à classificação, catalogação e indexação de dados na Web ? ePLN
+Descrição: Este projeto tem por objetivo geral desenvolver pesquisa baseada no uso de
+inteligência computacional e vocabulários controlados, especificamente na área
+de processamento de linguagem natural que automatizem os processos de
+classificação, catalogação e indexação de mídias e redes sociais e outros
+documentos textuais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (2) . Integrantes: Osvaldo de Souza - Coordenador / Hamilton Rodrigues Tabosa - Integrante / GABRIELA BELMONT DE FARIAS - Integrante / Luiz Tadeu Feitosa - Integrante / Arnoldo Nunes da Silva - Integrante.Número de produções C, T & A: 1
+2010 - Atual
+Recuperação Heterodoxa de Dados
+Descrição: Projeto dedicado a pesquisa de Arquitetura da Informação e interfaces, processos e estratégias heterodoxas, focadas na recuperação dados. Esse projeto é fortemente direcionado à modelos de recuperação da informação aplicados na preservação digital da informação acessível.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Osvaldo de Souza - Coordenador.
+2008 - 2012
+IMANAGER -Algorítimo Processador de Imagem para criação de Identificador único
+Descrição: Busca o desenvolvimento de um identificador único para imagens de tal forma que possa ser utilizado em pesquisas em bancos de imagens. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Osvaldo de Souza - Coordenador.Número de produções C, T & A: 2
+2008 - 2012
+Ginga-CDN - TV Digital UFC
+Descrição: Projeto cooperativo entre várias instituições de pesquisa Brasileira com a finalidade de desenvolver o middleware GINGA para o uso comercial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Osvaldo de Souza - Integrante / Fernando Carvalho - Coordenador / José Gilvan Rodrigues Maia - Integrante.Número de produções C, T & A: 1
+2008 - 2010
+APOLLO
+Descrição: Prospecção Tecnológica para a construção de Modelo Preditivo de Sonegação de Impostos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Osvaldo de Souza - Coordenador / Fernando Carvalho - Integrante / José Gilvan Rodrigues Maia - Integrante.
+2008 - Atual
+Pesquisa e Desenvolvimento de aplicações assistivas
+Descrição: Projeto de pesquisa centrado em tecnologias que possam ser combinadas no desenvolvimento de soluções que favoreçam a representação e recuperação da informação. Envolve a problemática relacionada ao processamento de linguagem natural,  visão computacional, preservação digital e recuperação da informação.
+Nota.
+Este projeto é o redirecionamento do projeto REVIEW - Tecnologias Assistivas, com alterações de alguns objetivos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Osvaldo de Souza - Coordenador / Hamilton Rodrigues Tabosa - Integrante / Joana D?Arc Páscoa Bezerra Fernandes - Integrante / Dacles Vagner da Silva - Integrante.Número de produções C, T & A: 8
+2007 - 2012
+Redes Neurais Artificiais Morfológicas
+Descrição: Pesquisa ambrangendo as redes neurais morfológicas e suas aplicações em processamento de sinais, em especial no tratamento de imagens e sons. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Osvaldo de Souza - Coordenador / Francisco Tavares da Silva - Integrante / Paulo Cesar Cortez - Integrante.Número de produções C, T & A: 1
+2006 - 2007
+Face Recognition
+Descrição: Projeto de Pesquisa e Desenvolvimento de aplicação de biometria para dispositivos embarcados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Osvaldo de Souza - Integrante / Fernando Carvalho - Coordenador / Miguel Franklin - Integrante.Número de produções C, T & A: 1
+2004 - 2005
+TV Digital - Proposta de modelo de aplicação e desenvolvimento de aplicação de correio eletrônico
+Descrição: Projeto de Desenvolvimento de um modelo de aplicações para TV Digital Brasileira
+Desenvolvimento de protótipos de aplicações para TV Digital - Correio Eletrônico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (16)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Osvaldo de Souza - Coordenador / Cassius Laprano Mazzo - Integrante / Marcio Gurjão Mesquita - Integrante / Sarah Lima Bezzera - Integrante / Wilson R Passos Oliveira - Integrante.Financiador(es): Universidade Federal do Ceará - Cooperação / Universidade de Fortaleza - Cooperação / Instituto Federal do Ceará - Reitoria - Cooperação.
+2004 - 2004
+ABIN - Prospecção em Processamento do Conhecimento
+Descrição: Projeto de Prospecção em Processamento do Conhecimento
+Elaboração de Relatório Técnico com estado da arte em Inteligência Artificial aplicada ao processamento do conhecimento
+Atuação na Coordenação do Projeto pelo Instituto Atlântico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (6) . Integrantes: Osvaldo de Souza - Integrante / Fernando Carvalho - Integrante / Tarcísio Pequeno - Coordenador / Maria das Graças Nunes - Integrante / Francisco Tavares da Silva - Integrante / Carlos Eduardo Fisch de Brito - Integrante.
+2003 - 2003
+COBAN - Pesquisa e Desenvolvimento de solução de software e hardware
+Descrição: Projeto para desenvolvimento de solução de software e hardware para a atividade de correspondente bancário.
+Trata-se de projeto entre as seguintes instituições:
+- Banco do Brasil
+- CTS
+- SOLECTRON
+- Instituto Atlantico
+- IBM. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Osvaldo de Souza - Integrante / Roberto Facanha - Coordenador / Victória Matos - Integrante / José Clemilson - Integrante / Antônio Marcus - Integrante / Wallace F de Pontes - Integrante / Thierry Panthier - Integrante / Francisco Gonçalves - Integrante.Financiador(es): Industrias Solectron - Outra.

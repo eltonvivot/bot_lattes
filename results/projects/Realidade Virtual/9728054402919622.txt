@@ -1,0 +1,449 @@
+2022 - Atual
+ANÁLISE  DINÂMICA E PROJETO DE CONTROLE APLICADO EM SISTEMAS PRODUTIVOS
+Descrição: O tema geral do projeto  será: sistemas produtivos aplicados à engenharia elétrica (geração de energia de sistemas híbridos), processos de produção, e produção de energia por biorreatores. Incluem-se nesse conjunto, pesquisas em tópicos como: modelagem matemática, simulação numérico-computacional, estabilidade e Controle de processos e Mecanismos de Reações Químicas e, dispositivos de aproveitamento e coleta de energia contida em sistemas híbridos. Ressalta-se que o Brasil é um país com um altíssimo potencial de energia renovável.   A interação entre o Professor visitante e os pesquisadores  e alunos dos  Programas de Pós-Graduação da UTFPR:  PPGEP, PPGEE-Ponta Grossa se dará por colaboração e assessoria direta em projetos de pesquisa dos professores e alunos ,pesquisadores da entidade, ministrar cursos de pós-graduação, palestras, seminários e ?workshops?.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / Angelo Marcelo Tusset - Integrante / Mauricio A Ribeiro - Integrante.
+2019 - 2019
+Visita técnica da Dra.Ilham Kirrou,Department of Mechanical and Civil Engineering Ibn Zohr University ? Agadir Morocco
+Descrição: Influence of the order of the fractional derivative in the investigation of the global dynamics of atomic force microscopy (AFM) by analytical and numerical approaches.
+The present proposal of scientific visit of Dr. Kirrou  aims to contribute to the scientific research on Atomic Force Microscopy (AFM), considering that the system operates in the intermittent and liquid mode, and that the dynamics of the liquid damping can be represented by fractional order derivatives. Through numerical simulation tools, the dynamic analysis of the system will be carried out in cases where the system has chaotic behavior. It is intended to address the erosion (integrity) of the basins of attraction, as well as their possible control in the case of AFM in the present research project proposed. This report  also describe the scientific activities project of the joint work with Dr. Kirrou from Morocco with Prof. J. M Balthazar,. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / Angelo Marcelo Tusset - Integrante.Financiador(es): Universidade Tecnológica Federal do Paraná - Auxílio
+										financeiro.
+2019 - 2019
+Vista Técnica   do Prof. G . Litak , Lublin University of Technology à  UTFPR, Ponta Grossa
+Projeto certificado pelo(a) coordenador(a) Angelo Marcelo Tusset em 31/08/2019.
+Descrição: Project title :Control and energy harvesting in nonlinear systems with time delay
+Keywords:Nonlinear Dynamics, Energy Harvesting, Time-Varying Frequency, Time delay control.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Integrante / Tusset, Angelo Marcelo - Coordenador.
+2019 - 2019
+Visit to  Prof. J. Awrejcewicz, Department of Automation, Biomechanics and Mechatronics of the Lodz University of Technology, Lodz Poland
+Descrição: Prof. Balthazar  work particularly  in the sub-theme  of the global  Prof Jan ?s project , titled: Mathematical modelling, numerical simulations of bifurcation dynamics of a pendulum driven by a dc motor.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / J. Awrejcewicz - Integrante.
+2019 - Atual
+Remarks on Post  Flutter analysis of an aeroelastic system
+Descrição: The objective of this research is to experimentally investigate the nonlinearities of aeroelastic systems, through wind tunnel tests. 
+The focus is on dynamic-structural nonlinearities, especially aeroelastic models which present high deformations, such as high aspect ratio wings and/or high flexibility. Aeroelastic tests are of very complex nature and, therefore, shall be applied methodologies for design and analysis of experiments. 
+The good experiment planning allied to a correct data acquisition and analysis of results, guarantee that, besides all the complexity, the objective will be completed and the results will be trustworthy.
+ After the tests and the statistical analysis of them, the data will be subjected to the 0-1 test for chaos. In this test, it is possible to verify qualitatively if a system presents periodic or chaotic dynamic behavior. In aeroelastic systems, the periodic case is the well-known LCO, or limit-cycle oscillation, which is a nonlinear phenomenon, since it is expected that a linear aeroelastic system presents an oscillation that rises its amplitude with the time until reaches a material limit, causing the structure to collapse. 
+The 0-1 test result is zero for periodic dynamics and one for chaotic dynamics, but it also results in a phase plane, known as auxiliary trajectory, which shall be verified if the movement is bounded or if it tends to a Brownian movement representing chaos. 
+In order to verify the dynamic nature of the aeroelastic system presented here, the Takens' method will be applied to reconstruct the attractors. This method uses information like delay parameter, obtained from the data set mutual information, and the embedding dimension, obtained using Cao's method. Using this procedure it is guaranteed that the reconstructed attractor is topologically the same as the real system attractor.
+ Besides, it is fundamentally important to calculate the Lyapunov exponent, which will dictate quantitatively if the system's dynamics is periodic or chaotic. Despite being deterministic, the chaotic behavior is undesirable for any structure, especially aeronautic ones, since high amplitude oscillations might occur abruptly. Even periodic oscillations shall be avoid or, at least, minimized in aeroelastic systems because aeronautical structures are extremely optimized and these oscillations may mead to undesirable structural super dimension.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / WESTIN, MICHELLE - Integrante / Gil Roberto da Silva - Integrante.
+2019 - Atual
+ANÁLISE  DINÂMICA E  CONTROLE DA ESTABILIDADE DE UM PULVERIZADOR DE POMARES DO TIPO TORRE
+Descrição: Comparar medições de campo utilizando o equipamento real com respostas do modelo matemático. 
+ Estudar e propor meios de controle para corrigir a verticalidade da torre (rigidez torsional variável, amortecimento torsional variável, suspensão na carreta e outros) para diferentes condições de peso (volume nos tanques), velocidades de caminhamento e condições de terreno.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / Angelo Marcelo Tusset - Integrante / Rodrigo do Nascimento e Silva - Integrante.
+2019 - Atual
+Dinâmica e controle  de  sistemas dinâmicos lineares e não lineares: Pesquisa Engenharia de produção :
+Descrição: area  de pesquisa Engenharia de produção :Dinâmica e controle  de  sistemas dinâmicos lineares e não lineares  com aplicações no setor Produtivo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador.
+2019 - Atual
+Dynamics and control of containers with liquids transported by wheeled vehicles and   comments on   Parametric Surface Waves in a Nonlinear and Non-Ideally Excited Tank
+Descrição: Liquid loads are transported all over the world by trucks that have a partially
+filled container coupled to it, also known as tank trucks. During some maneuvers as
+acceleration, braking, deceleration and fast cornering some additional nonlinear inertia forces are generated causing unsteady motion of the liquid inside the partially filled tank compartments. This phenomenon is known as sloshing.
+A vehicle dynamics can be influenced by liquid sloshing and this may lead to
+stability loss which is the reason for many road accidents
+The goal is to analyze the  problem in nonlinear behavior and to control it.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / Angelo M. Tusset - Integrante / Maria Aline Gonçalves - Integrante / ELBIETA JARZÊBOWSKA - Integrante.
+2019 - Atual
+Optimal control and state observer for robot manipulator with three degrees of freedom with a non-ideal load-carrying
+Descrição: This work presents the modeling and simulation of a manipulator robot with three degrees of freedom and considering its structures with rigid behavior. The concepts of kinematics for the mathematical deduction and the Lagrangian mechanics were used to obtain the dynamic models of the manipulator and the DC actuators with permanent magnet. Due to nonlinearity and dynamics characteristics, both the states observer and the control used were based on State Dependet Ricatti Equation (SDRE). The simulations made for constant performance parameters demonstrated the effectiveness of the optimal control applied to the manipulator and to the chosen DC actuator models. The applications of trajectories to the manipulator enrich the applicability of the project and the results obtained with the techniques chosen show his efficiency.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / Angelo M. Tusset - Integrante / Jose Adenilson Gonçalves Luz Junior - Integrante.
+2019 - Atual
+Vibration control of a cantilever beam coupled to a non-ideal power source by coil impedance matching
+Descrição: There is an increasing interest in the research of systems excited by non-ideal power sources due to the various physical phenomena that affect the efficiency in engineering applications. One common phenomenon is known as the Sommerfeld, which affects unbalanced rotating machines supported by flexible mounts. In such a case, power is converted into mechanical vibration instead of increasing the motor speed. In this paper, a numerical and experimental study to control this phenomenon was carried out using a cantilever beam with a DC motor positioned at the free end. The motor has an unbalanced mass, making it a source of non-ideal excitation proportional to the current supplied, at the bottom of the beam free end there is a permanent magnet that moves inside the core of a coil that is used to control the system vibration. The moving beam causes the permanent magnet to vary the field inside the coil core, inducing an electromotive force and current if the circuit is closed. The control of this current allows the variation of the electromechanical interaction force to stabilize the beam. This is done by changing the impedance that closes the circuit with the coil. This impedance was varied in its extremes, short circuit, and open circuit. It is concluded that the short circuit practically reduces the oscillatory capture of the Sommerfeld effect. This effect can be eliminated by active circuits that respond to input variations with proper control law.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / Marcos Silveira - Integrante / E. A. Petrocino - Integrante / Angelo M. Tusset - Integrante / Awrejcewicz, J - Integrante / Gonçalves, P.J - Integrante.
+2019 - Atual
+investigação  experimental, em túnel de vento, as não-linearidades de sistemas aero elásticos, com foco em não-linearidades de origem dinâmico-estruturais, especialmente modelos que apresentem grande deformações, como asas de alto alongamento e/ou grand
+Descrição: 8.	Com o objetivo de investigar experimentalmente, em túnel de vento, as não-linearidades de sistemas aero elásticos, com foco em não-linearidades de origem dinâmico-estruturais, especialmente modelos que apresentem grande deformações, como asas de alto alongamento e/ou grande flexibilidade, enriquecendo e alavancando com novas tecnologias  na linha de pesquisa Gestão do Conhecimento e Inovação da Engenharia: aplicando metodologias de projeto e análise de experimentos, fazendo análise comparativa dos resultados experimentais com os resultados obtidos via simulação numérica, verificando se metodologia simples de correção para estol dinâmico pode ser empregada em ensaios aero elásticos em túnel de vento, analisando se o sistema dinâmico não-linear é caótico ou não, utilizando ferramentas de análise qualitativa e quantitativa. Tudo isso busca melhorar a qualidade de resultados de análises aero elásticas e favorecendo um dimensionamento estrutural mais assertivo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador.
+2019 - Atual
+Controle de posicionamento angular da extremidade livre de uma estrutura flexível em movimento de rastreamento amortecendo suas vibrações através da aplicação de um atuador de memória de forma.
+Descrição: Usa-se Ligas com Memória de Forma que são materiais que se apresentam em duas possíveis fases de estrutura cristalina, sendo que as duas fases apresentam propriedades distintas.
+ A fase de alta temperatura é conhecida como austenita e a fase de baixa temperatura como martensita.  Para Controle do posicionamento angular: A técnica aplicada é o SDRE (State Dependend Ricatti Equations). O estudo e metodologia desenvolvidos neste trabalho, encontram inúmeras aplicações. Dentre as quais pode-se citar: painéis solares em satélites, pás de helicóptero, palhetas em turbinas, manipuladores robóticos e estruturas aeroespaciais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador.
+2019 - Atual
+Processo de coleta de energia, a energia elétrica pode ser obtida através da conversão de energia mecânica, criada por uma fonte de vibração do meio ambiente através de um transdutor.
+Descrição: Entre os mais comuns meios de transdução de energia, o uso de materiais piezoeléctricos vem sendo de grande interesse em meio a coleta de energia devido sua facilidade de aplicação e seu uso para coleta de energia em um amplo intervalo de frequências. tem como objetivo estudar a coleta de energia do meio ambiente, utilizando-se duas frentes de pesquisa Fontes de vibração do meio ambiente causadas em estruturas e utilizando uma plataforma aporticada não -linear de dois graus de liberdade contendo um material piezoeléctrico não-linear acoplado a uma de suas colunas e excitado externamente em sua base. A plataforma não-linear possui ressonância interna 2:1 entre seus modos de vibrar. A não- linearidade do material considerada através de uma relação matemática não-linear. As excitações externas são tomadas como sendo uma forca harmônica excitando sua base e posteriormente considera-se que ela seja gerada por um vibrador eletrodinâmico com saída harmônica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador.
+2019 - Atual
+Trata-se da Investigação numérica e experimental do comportamento dinâmico de uma viga ?cantiléver? excitada por duas fontes não ideais(RNIS).
+Descrição: Fontes de energia não ideais(RNIS) estão presentes em diversas aplicações de engenharia onde a fonte de energia interage com a dinâmica da estrutura à qual está acoplada. Os sistemas acionados por este tipo de fonte apresentam um rico comportamento dinâmico. A modelagem de tais sistemas se torna muito mais complexa devido à interação entre o sistema e a fonte de energia, exigindo uma equação adicional. O presente trabalho propõe um modelo simplificado de vibração contínua, constituído de uma viga engastada com dois motores CC desbalanceados (Figura 5). Os motores são considerados fontes de energia não ideais. A vantagem da abordagem contínua é que a posição dos motores pode ser facilmente variada. Além disso, são realizados métodos de frequência de tempo para caracterizar e identificar a ocorrência do efeito Sommerfeld no regime não-estacionária. A fim de validar o modelo, foram e serão realizadas medições experimentais e, posteriormente, comparadas com os resultados numéricos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador.
+2019 - Atual
+Desenvolvimento de um controlador para supressão parcial (ou total)do fenômeno de :?sloshing? presente em veículos de transporte, principalmente caminhões tanque que  são  usados em armazenamento de combustíveis.
+Descrição: Usar-se-á teoria e controle não-linear e análises   numéricas da interação do acoplamento dinâmico, existente entre o veículo e a carga liquida, considerando-se as ressonâncias existentes e, comportamento não-linear e caótico do líquido dentro do recipiente(tanque). 
+Pretende-se, também estender o uso deste protótipo para a investigação de controle de atitude de um satélite, modelado matemáticamente, como sendo um corpo rígido, cujo movimento é associado com o efeito ?slosh? do propulsor líquido em seu interior, representado por um modelo mecânico equivalente, neste caso um pêndulo simples.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador.
+2018 - 2018
+Visita  Técnica da  Profa Galina Kurina Voronezh  Russia State University a UTFPR, Ponta Grossa, Paraná
+Descrição: The focus of the present research project will be to discuss both nonlinear dynamics behavior of electromechanical systems and controls, using powerful approximate analytical techniques, as the Method of Direct Separation of Motions (MDSM), Multiple Scales Method (MMS) and controls techniques taking into account parametric errors in order to verify the robustness of the adopted usual control projects (Optimal Linear Feedback Control (OLFC), Nonlinear Saturation Control (NSC), Control of Nonlinear Period Systems (NLPC), State Dependent Riccati Equation (SDRE),Time Delay (TD)), Optimization Techniques (Gradient?Based Optimization Method, PSO) and so on.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (9) . Integrantes: José Manoel Balthazar - Coordenador / Frederic Conrad Janzen - Integrante / Alexandre de Castro Alves - Integrante / Vinicius Piccirillo · - Integrante / TUSSET, ANGELO M. - Integrante / GALINA KURINA - Integrante / Mauricio  A. Ribeiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - 2018
+Visita  Técnica da  Profa    ELŻBIETA JARZĘBOWSKA WARSAW UNIVERSITY OF TECHNOLOGY, POWER AND AERONAUTICAL ENGINEERING DEPARTMENT, INSTITUTE OF AERONAUTICS AND APPLIED MECHANICS, WARSAW, POLAND, TO UTFPR - PONTA GROSSA, PR, BRAZIL (2018)
+Descrição: The focus of the present research project will be on discussions of both nonlinear dynamics behavior and control strategies selection for a selected class of vibrating systems models, using powerful approximate analytical techniques, as Method of Multiple Scales (MMS) and  modern controls techniques, taking into account parametric errors in order to verify the robustness of the adopted usual control projects (such as Optimal Linear Feedback Control (OLFC), Nonlinear Saturation Control (NSC), Control of Nonlinear Period Systems (NLPC), State Dependent Riccati Equation (SDRE), Time Delay (TD)), Optimization Techniques (such as Gradient?Based Optimization Method, PSO) and so on.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (9) . Integrantes: José Manoel Balthazar - Coordenador / Tusset, Angelo Marcelo - Integrante / ELBIETA JARZÊBOWSKA - Integrante / Mauricio  A. Ribeiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - 2018
+Visita técnica ao Instituto Politécnico do Porto-Dr. José Tenreiro Machado
+Descrição: Visita técnica a o Instituto Politécnico do Porto  , Departamento de : Engenharia Elétrica-Prof. Dr. José Tenreiro Machado  especialista  de renome Internacional em Derivadas Fracionárias  e Controle e, Departamento de  Matemática :   Profa  Dra Carla Pinto  especialista em Sistemas Biológicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (9) . Integrantes: José Manoel Balthazar - Coordenador / Angelo Marcelo Tusset - Integrante.
+2018 - Atual
+Tema da Pesquisa : Vibrações forçadas de estruturas de comportamento não linear, excitadas por carregamentos Ideais e não-ideais
+Descrição: A presente proposta, trata da análise, simulação, experimentação para solução de problemas não lineares, caóticos, estocásticos e problemas de fronteira, relacionados aos sistemas eletromecânicos, aeronáuticos e  aeroespaciais, quando sujeitos a carregamentos ideais e  não-ideais. 
+A realização deste projeto terá aspectos de modelagem matemática em dinâmica e controle, análises paramétricas, simulações numéricas determinísticas e estocásticas, busca por soluções analíticas ou semi-analíticas em modelos simplificados (com poucos graus de liberdade), aplicação do Método de Elementos Finitos para problemas com vários graus de liberdade, técnicas de otimização e controle e, também, técnicas para aumento da robustez dos sistemas. 
+Com objetivo de desenvolvimento do tema, este projeto inclui construção de programas computacionais; e preparação e realização de ensaios experimentais.
+PALAVRAS CHAVE:
+Dinâmica não linear, caos, controle não linear, sistemas eletromecânicos, aeronáuticos e aeroespaciais, efeito Sommerfeld, saturação modal, sistema estocástico não linear.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / Tusset, Angelo Marcelo - Integrante / Frederic Conrad Janzen - Integrante.
+2018 - Atual
+asymptotic methods, singular perturbations, optimal control problems and their applications ,
+Descrição: The Group of Prof. Galina, also established the decomposition of two-point boundary value problems arising from control optimality conditions for continuous and discrete linear-quadratic two-steps optimal control problems into some sequentially solved sequence of initial value problems.
+ Prof. Balthazar collaborate in several applications , as MEMS, AFM, Non-ideal Problems. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / GALINA KURINA - Integrante.
+2018 - Atual
+IMPLEMENTAÇÃO DE CIRCUITO ANALÓGICO PARA ESTUDO DA DINÂMICA E CONTROLE DE SISTEMAS COM COMPORTAMENTO HIPERCAÓTICO
+Descrição: Os sistemas caóticos e hipercaóticos são considerados sistemas que evoluem com o tempo. O
+estudo destes sistemas tem ganho espaço nas mais diversas áreas, tais como: telecomunicações,
+mercado financeiro, meteorologia entre outros.
+O presente trabalho tem como objetivo, exibir uma pesquisa sobre a utilização de controladores
+não lineares e sincronização em sistemas hipercaóticos, sendo considerado tanto simulações numéricas como a implementação de um circuito eletrônico para o estudo da dinâmica e controle. 
+PALAVRAS-CHAVE: circuito hipercaótico, amplificadores operacionais, dinâmica não lineares. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / TUSSET, ANGELO M. - Integrante / HIlson Daum - Integrante.
+2018 - Atual
+Satellite Attitude Control System for Flexible Appendages with Non-Ideal Actuators.
+Descrição: We  deal  with  a generic tool developed to build the model of a multi- body dynamic system taking into account parametric uncertainties for robust control and analysis purpose. 
+Satellites are typically composed of a main body (hub of the satellite) and cantilevered appendages (flexible or not). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / Angelo M. Tusset - Integrante / Adriano Kossoski - Integrante / ELBIETA JARZÊBOWSKA - Integrante.
+2018 - Atual
+Experimental Analysis of saturation phenomenon in energy harvesting based on  piezoelectric materials coupled to a portal frame foundation with ideal and non-ideal excitations
+Descrição: Recently, the interest and research about energy harvesting has been increasing substantially in the technical-scientific community. With the great world demand for electrical energy, many researchers, in Brazil and in the World, have concentrated their efforts to seek new energy sources. 
+In addition, with the technological advances is possible to use low-power consumption devices, that are, most of time, powered by a battery, which are limited energy sources having the necessity of recharging or substituting them periodically. In the energy harvesting process, the electrical energy is obtained through the conversion of mechanical energy created by a vibrating source in the environment using a transducer. 
+Among the most common energy transduction mean, the use of piezoelectric materials has been of great interest in the energy harvesting matter due to its ease of application and its use to harvest energy in a wide range of frequencies. Vibration sources in the environment may occur in structures by vehicle traffics, a train movement, sea waves and even people.
+ With that, the objective of this work is to study the energy harvesting using a nonlinear two-degrees-of-freedom portal frame platform with a nonlinear piezoelectric material coupled to one of its columns and externally base-excited. 
+The nonlinear platform possesses two-to-one internal resonance between its two vibration modes.
+ The nonlinearities of the piezoelectric material is considered as a nonlinear mathematical relation. 
+Moreover, this work is separated in two parts to the analysis of the external excitations.
+ In the first part, a harmonic force base-exciting the system is considered. In the second part is considered an electro-dynamical shaker with harmonic output. The employed methodology to carry out the analysis of this work was; in the following were carried out several numerical  and experimental simulations seeking to optimize the energy harvesting through parametrical variations, bifurcation diagrams, FFTs, time histories and other typos of simulations. In general, it will be done two much important comparisons: the influence of the nonlinearity of the piezoelectric material and the use of the harmonic force and the shaker to the energy harvesting.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / TUSSET, ANGELO M. - Integrante / Remei Haura Junior - Integrante.
+2018 - Atual
+Optimal control and state observer for robot manipulator with three degrees of freedom with a non-ideal load-carrying
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Manoel Balthazar - Coordenador / Angelo Marcelo Tusset - Integrante / Jose Adenilson Gonçalves Luz Junior - Integrante.
+2018 - Atual
+USO DE MATERIAIS INTELIGENTES --ESTRUTURAS FLEXIVEIS DE VARREDURA( SLEWING)
+Descrição: Estruturas em movimento de rastreamento são consideradas aquelas que se movem em torno de um ponto fixo ou articulado e as estruturas de rastreamento em aplicações aeroespaciais tendem a ser leves e compridas apresentando características flexíveis. Sabe-se que o aumento da flexibilidade diminui as frequências naturais de vibração    do sistema mas a amplitude da vibração aumenta,  o torque para o controle pode apenas ser aplicado na junta.
+ O numero de sensores que podem ser aplicados a estrutura é limitado e  flexibilidade atrapalha o controle do posicionamento. 
+Neste caso, as soluções  propostas é a a da  Aplicação de atuadores constituídos de materiais inteligentes.
+Desta forma, o objetivo principal deste trabalho foi e é controlar o posicionamento angular da extremidade livre de uma estrutura flexível em movimento de rastreamento amortecendo suas vibrações através da aplicação de um atuador de memoria de forma. O estudo e metodologia desenvolvidos nesta tese encontram inúmeras aplicações.dentre as quais pode-se citar: painéis solares em satélites, pás de helicóptero, palhetas em turbinas, manipuladores robóticos e estruturas aeroespaciais. Matematicamente, o modelo pode apresentar uma completa variedade de características não lineares dependendo dos requerimentos da aplicação em particular
+Quando se estuda a modelagem de sistemas dinâmicos do tipo estruturas flexíveis de rastreamento(( Fig 1), o atuador ( subsistema 1 ) geralmente utilizado é o motor de corrente contínua,na interação atuador-estrutura o modelo adotado diz respeito aos sistemas não-ideais( subsistema 2 ), o modelo comumente encontrado na literatura diz respeito ao  (subsistema 3) é  representado por uma viga do tipo Euler-Bernulli.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2017 - 2018
+Research Theme: Extension of the Homotopy Analysis Method and the Method of Direct Separation of Motions for Non-ideal Mechanical Systems and Oscillating Problems with Fractional
+Descrição: Many characteristic phenomena, innate to nonlinear models, cannot be captured by numerical methods.
+ The inherent difficulty of obtaining exact solutions to general nonlinear differential equations by analytical techniques lead researchers to develop various methods to achieve approximate asymptotic solutions in order to gain a profound physical insight into nonlinear problems and to obtain a means of validating numerical approaches and corresponding computer software. 
+Given the limitations of perturbation techniques to weakly nonlinear problems and the necessary formulation with small or large parameters, novel methods were proposed to overcome these restrictions. 
+The proposed post-doctorate research project discusses two powerful approximate analytical methods called the Homotopy Analysis Method (HAM) and the Method of Direct Separation of Methods (MDSM), firstly, to address important real-world problems modeled as non-ideal vibrating systems and secondly, to solve nonlinear differential equations of fractional orders used for the description of various nonlinear oscillating models.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / SHAHRAM SHAHLAEI-FAR - Integrante.
+2017 - 2017
+Visita Técnica à  Conell University,Prof. Richard H. Rand
+Descrição: Visita do Prof. J. M. Balthazar ao Prof. Richard H. Rand,?Department of Mathematics at Cornell University,College of Arts and Sciences,Cornell University?,Ithaca,NY,USA, desenvolvendo pesquisas em vibrações forçadas de sistemas de comportamento não lineares e,
+participação co-organizando o Simpósio intitulado: ?Nonlinear Systems and Phenomena? e, com apresentação de trabalhos ,no evento?DETC-ASME 2017:ASME 2017 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2017)?,no período de 22 de julho a 12 de Agosto de 2017( 3 semanas).
+PALAVRAS CHAVE: 
+Dinâmica não linear, caos, controle não linear, sistemas eletromecânicos e 
+aeroespaciais, efeito Sommerfeld, saturação modal, sistemas não-ideais(NIS).. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / Richard Rand - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2016 - 2017
+Tema da Pesquisa: Comportamento dinâmico não-linear de um pêndulo, excitado parametricamente na geração de energia, a partir do meio ambiente
+Descrição: A presente proposta de pesquisa, ao nível de pós-doutorado, trata de
+investigar sistemas não-lineares e caóticos, em problemas de fronteira, relacionados
+aos comportamentos de Sistemas Eletro-Mecânicos pendulares de geometria
+complexa envolvendo geração de energia. Serão estudados diversos sistemas
+pendulares com variações de um mecanismo biela-manivela e excitação harmônica
+com um gerador elétrico. A metodologia de desenvolvimento do projeto é composta
+por: aspectos de modelagem matemática, pesquisa da Dinâmica e controle,
+aproximações de análises paramétricas, simulações numéricas e obtenção de
+soluções analíticas aproximadas, além de técnicas de otimização. 
+Palavras Chave:
+Fenômenos Não-Lineares, Caos, Sistemas Eletro-mecânicos Pendulares,
+Geração de energia, Potência limitada.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / Rafael Henrique Avanço - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2015 - 2016
+FUNDAMENTOS DE CÁLCULO FRACIONÁRIO E APLICAÇÕES EM ENGENHARIA MECÂNICA E AERO-ESPACIAL
+Descrição: O  projeto de pós-doutorado consistiu em simular e analisar a resolução de equações diferenciais e integro-diferenciais de ordem não-inteira e as suas aplicações em materiais visco-elásticos e posteriormente uma investigação sobre peridinâmica, que consistiu de uma análise teórica e posteriormente de simulação, onde serão analisadas fraturas e sua propagação em estruturas. 
+Para isto,  tratou-se da modelagem matemática de sistemas dinâmicos com o uso de softwares computacionais e futuros ensaios experimentais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / Clivaldo de Oliveira - Integrante.
+2015 - 2015
+Visita  do Prof. G. Litak ,Lublin University of Technology ao  ITA
+Descrição: Fractional damping is appearing in different contexts in any systems with memory and hysteresis. Such damping is defined by a fractional derivative in contrary to classical viscous damping term with the first order derivative. 
+As the memory of the dynamical system induces extra degree of freedom for the phase space the standard methods of dynamical response analysis and system identification, which relies on the knowledge of system dimensionality cannot be used. Simple systems with fractional damping have been already studied by Prof Litak [1, 3]. 
+In a short stay in Sao Paulo, Prof. Litak would explore the possible applications to the systems with limited supplies studied intensively by prof. Balthazar and other colleagues in Sao Paulo [4-6]. 
+Especially, we would advocate the methods based on statistical properties as Multiscale entropy (Shannon entropy), 0-1 test, recurrence plots and recurrence quantification analysis.  
+Basic References
+[1] A Syta, G Litak, S Lenci, M Scheffler, Chaos 24, 013107 (2014).
+[2] J Cao, A Syta, G Litak, S Zhou, DJ Inman, Y Chen, European, Physical Journal Plus 130, 103 (2015).
+[3] B Ducharne, G Sebald, D Guyomar, G Litak, Journal of Applied Physics 118, 2 (2015).
+[4] I Iliuk, JM Balthazar, A M Tusset, JRC Piqueira, BR de Pontes, JLP Felix, AM  Bueno, Journal of Intelligent Material Systems and Structures 25, 417-429 (2014)
+[5] I Iliuk, JM Balthazar, A M Tusset, JRC Piqueira, BR de Pontes, JLP Felix, A M Bueno, Meccanica 49, 1859?1867 (2014).
+[6] V Piccirillo, AN M Tusset, J M Balthazar, Journal of Theoretical and Applied Mechanics 52, 595-604 (2014). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (10) . Integrantes: José Manoel Balthazar - Coordenador / Goes, L. C. - Integrante / Airton  Nabarette - Integrante / G Litak - Integrante.
+2015 - 2015
+Organização do ICONNE 2015: International Conference on Nonlinear    Dynamics, Chaos, Control and Applications     to Engineering
+Descrição: This Conference will be held in parallel with COBEM 2015, and under the responsibility of the ABCM Committee of Non-linear Phenomena. Papers submission will follow the same procedure described at the Cobem homepage (se AUTHOR´s Area). 
+The event aims at providing a forum for discussing and disseminating the latest approaches, methodologies, results and current challenges in the area of nonlinear dynamics and chaotic systems. 
+Contributions are solicited in all analytical, computational and experimental aspects of nonlinear dynamics. Topics of interest include, but are not limited to:
+Analytical methods, including asymptotic and perturbation techniques; nonlinear energy transfer and localization phenomena; Nonlinear periodic systems; Non-smooth effects, including vibro-impacts and dry friction; fluid-structure interaction phenomena, and control of vortex-induced vibrations; chaotic phenomena;  control and optimization of dynamical systems; Synchronization phenomena in nature and in engineering control; multi-scale and multi-physics phenomena across disciplines; atomic force microscope dynamics; energy harvester platforms; case studies of applications of nonlinear dynamics in practice; experimental techniques; nonlinear methods; Numerical methods; Analytical methods; experimental devices; macro, micro and nano scales.
+ICONNE 2015 Organizing Comitee:
+      PRESIDENTS
+José Manoel Balthazar (ITA, São José dos Campos, SP), FEB-UNESP-Bauru
+Paulo Batista Gonçalves, PUC-RIO
+         Members:
+Luiz Carlos Goes (ITA, São José dos Campos, SP)
+Angelo Tusset e Vinicius Picirillo (UFTPR, Ponta Grossa, PR)
+ Reyolando Brasil e André Fenili (UFABC, Santo André)
+ Atila Madureira Bueno (UNESP-Sorocaba),
+ Marcos Silveira, Paulo Paupitz Gonçalves, Bento Rodrigues de Pontes Jr (UNESP- Bauru)
+ Jorge Luiz Palacios Felix (UNIPAMPA, Bagé)
+ Flávio Donizete (USP-São Carlos)
+ Samuel da Silva (FEIS, Ilha Solteira)
+ Aura Conci (UFF, Niteroi)
+ Diego Colon ( Escola Politécnica, USP-SP)
+ Suélia Suélia Rodrigues Fleury Rosa (Universidadde de Brasilia, DF). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (41) . Integrantes: José Manoel Balthazar - Coordenador / Flávio D. Marques - Integrante / V. Piccirillo - Integrante / Diego Colón - Integrante / TUSSET, A. M. - Integrante / Reyolando M. L. R. F. Brasil - Integrante / samuel da silva - Integrante / aura conci - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2015 - Atual
+Dinâmica Não-linear, Caos e Controle de sistemas mecânicos, mecatrônicos e eletrônicos
+Descrição: Este projeto tem como objetivo promover o desenvolvimento científico e tecnológico por meio de pesquisa básica e aplicada de novas técnicas de controle não lineares buscando a melhoria da robustez, estabilidade e desempenho de sistemas elétricos, mecânicos, eletrônicos e mecatrônicos.
+ Considerando os sistemas excitados por fontes ideais e não-ideais, identificação e monitoramento de sistemas estruturais de comportamento linear e não linear; localização de modos lineares e não lineares, acoplamento e interação modal, pesquisa de vibrações regulares e não regulares (caos), modelos não usuais de amortecimento. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Integrante / Angelo Marcelo Tusset - Coordenador / ANTONIO MARCOS BATISTA - Integrante.
+2014 - Atual
+ANÁLISE DINÂMICA NÃO LINEAR DE GRUPOS DE SATÉLITES AMARRADOS POR CABOS.
+Descrição: Estuda-se, neste projeto, a dinâmica não linear de sistemas compostos de malhas de cabos sob tração. Estruturas desse tipo são encontradas na natureza: é o caso das teias de aranhas. Uma aplicação na Engenharia Aeroespacial são os satélites artificiais unidos por tirantes, os thetered satellites. Adota-se uma modelagem simples no que se refere à dinâmica do problema. 
+Escrevem-se as equações diferenciais ordinárias do movimento das massas concentradas situadas nos nós da malha de cabos utilizando a segunda lei de Newton e admitindo que os cabos trabalhem elasticamente à tração e totalmente desprovidos de resistência à compressão e flexão.
+Grandes deslocamentos são considerados. O trabalho é desenvolvido majoritariamente via numérica. Utilizam-se técnicas de integração explícita no tempo, em particular o Método da Diferença Central.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2014 - Atual
+MODOS NORMAIS NÃO-LINEARES
+Descrição: A análise estrutural de sistemas sujeitos a grandes amplitudes de movimento quase sempre demanda a consideração das não linearidades inerentes à dinâmica do sistema. Entretanto, a análise das vibrações não lineares de estruturas é em geral um processo trabalhoso e demorado. Também, muitos fenômenos não lineares são de difícil identificação em sistemas descritos por um grande número de graus de liberdade. 
+A redução de ordem do problema é uma abordagem apropriada para se contornar essas dificuldades, além de constituir um procedimento eficiente para obtenção de um entendimento adequado do comportamento dinâmico de sistemas não lineares. A análise modal não linear tem sido apresentada, de modo análogo à sua correspondente linear, como uma alternativa viável para obtenção de modelos de ordem reduzida de sistemas não lineares, desenvolvidos pelo Prof. Balthazar
+As novas fronteiras no desenvolvimento da análise modal não linear consistem na busca de sua aplicação para estruturas e problemas práticos de engenharia estrutural, o desenvolvimento de modelos de ordem reduzida utilizando-se a análise modal não linear, a derivação de métodos de construção dos modos normais não lineares, em especial os modos essencialmente não lineares, e a obtenção de procedimentos analíticos para o estudo paramétrico e da descrição do comportamento vibratório de sistemas dinâmicos para uso nas fases de pré-projeto de elementos estruturais sujeitos a vibrações não lineares.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2013 - 2014
+Análise dinâmica não linear de estruturas aeroespaciais
+Projeto certificado pelo(a) coordenador(a) Reyolando Manoel Lopes Rebello da Fonseca Brasil em 15/08/2016.
+Descrição: Este projeto de pesquisa descreve as atividades previstas, colaborações com projetos de pesquisa e benefícios esperados, para a visita do Dr. José Manoel Balthazar, Professor Titular MS-6 do DEMAC/UNESP/Rio Claro, Pesquisador nível 1 A do CNPq, ao CECS, Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas da UFABC, Universidade Federal do ABC, especificamente o curso de Engenharia Aeroespacial, e ao Programa de Pós-Graduação em Engenharia Mecânica da mesma Universidade.O tema geral da visita é a Análise Dinâmica Não Linear de Estruturas Aeroespaciais. Incluem-se nesse conjunto, pesquisas em tópicos como: modelagem matemática, simulação numérico-computacional e identificação de estruturas aeroespaciais; estabilidade e controle passivo e ativo de estruturas aeroespacial; análise dinâmica não linear de satélites (incluindo satélites com apêndices flexíveis e amarrados); interação fluído estrutura em aeronaves e dispositivos de aproveitamento de energia eólica; colheita de energia contida em vibrações excitadas pelo meio ambiente; carregamentos não ideais (efeito Sommerfeld) etc.A interação entre o visitante e os pesquisadores do CECS/UFABC se dará por colaboração e assessoria direta em projetos de pesquisa dos professores pesquisadores da entidade, ministrar cursos de pós-graduação, palestras, seminários e work shops. (AU). Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Integrante / Reyolando Brasil - Coordenador / Andre Fenili - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2013 - 2013
+Visita Técnica  Universitat Politècnica de Catalunya  Barcelona, Spain
+Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2013 - Atual
+Modelos Dinâmicos Complexos Não-lineares e Projetos de Controle de Sistemas de Motivação Epidemiológica
+Descrição: modelagem matemática tem como objetivo identificar os mecanismos de
+transmissão para que sejam determinadas estratégias de controle efetivas, por isso os modelos epidemiológicos tem auxiliado na análise do comportamento
+de epidemias em humanos e animais.
+ As principais razões para o estudo de modelos matemáticos da proliferação de doenças é a esperança de que uma melhor compreensão dos mecanismos de transmissão possa proporcionar estratégias de controle mais efetivas.
+Este  plano de pesquisa, apresenta uma proposta de estudo e pesquisa de  modelagem e de  estratégia de controle em epidemiologia, ao nível de pós-doutorado a ser desenvolvido na UNESP.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2012 - 2015
+Dinâmica  Não-linear  Controle de Estruturas  Aero-espaciais
+Descrição: Análise Dinâmica Não Linear de Estruturas Aeroespaciais. Incluem-se nesse conjunto, pesquisas em tópicos como: modelagem matemática, simulação numérico-computacional e identificação de estruturas aeroespaciais; estabilidade e controle passivo e ativo de estruturas aeroespacial; análise dinâmica não linear de satélites (incluindo satélites com apêndices flexíveis e amarrados); interação fluído estrutura em aeronaves e dispositivos de aproveitamento de energia eólica; colheita de energia contida em vibrações excitadas pelo meio ambiente; carregamentos não ideais (efeito Sommerfeld) etc.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / Andre Fenili - Integrante / Cayo Prado Fernandes Francisco - Integrante / Reyolando M. L. R. F. Brasil - Integrante.
+2012 - 2012
+Visita do pesquisador:  YURI VLADIMIROVICH MIKHLIN-2012
+Descrição: vinda do Prof. Y. Mikhlin, à UNESP-Universidade Estadual Paulista, Rio Claro, SP, Brasil para: desenvolvimento de pesquisas em Fenômenos Não-lineares
+Exchange of information about investigations on nonlinear dynamics and           Applications at the National Technical University ?Kharkov Polytechnic               Institute?, Kharkov, Ukraine and at the UNESP - Rio Claro and 
+                       Bauru, SP, Brazil.  
+            1.  Titles of some Lectures for the staff, students of the UNESP - Rio Claro e Bauru: 
+?	?On the nonlinear normal modes theory and its applications; on the nonlinear vibrio-absorption problems?; 
+?	?On the nonlinear shell and arch dynamics?;
+?	?On the vehicle suspension nonlinear dynamics?. 
+            2. Discussions on the common works of the National Technical University ?Kharkov Polytechnic Institute?, Kharkov, Ukraine and UNESP - Rio Claro e Bauru, SP, Brazil, on the following topics?:
+ 
+?	?The nonlinear vibro-absorption problems?;
+?	?The nonlinear shell and arch dynamics?;
+?	?The vehicle suspension nonlinear dynamics?;
+?	?Some theoretical aspects of the nonlinear dynamics of elastic systems?.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2012
+Visita do pesquisador:Tamas Kalmar-Nagy  -2012
+Descrição: Auxílio  vinda do  do Prof.  Tamás Kalmár-Nagy,da Instiiuição de renome internacional Texas A&M University,USA,para desenvolvimento do tema:?Fundamentals of Self-Excited Vibrations in Oil Drilling?. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): UNESP PRO-REITORIA DE PESQUISA - Auxílio
+										financeiro.
+2011 - Atual
+Modelagem Estocástica
+Descrição: Esta pesquisa trata de modelos dinâmicos onde pelo menos parte deles  é considerada randômica. 
+Aborda-se  alguns temas que surgiram mais recentemente, em aplicações de Comportamento Não-Linear de  Sistemas eletro-mecânicos, segundo treis abordagens:
+a. SISTEMAS MACRO (Transferência de Energia entre osciladores),
+b. SISTEMAS MEMS (Interações eletrostáticas, dispositivos  geradores de Energia Harvester) 
+c. SISTEMAS NENS (sistemas de Microscópio de Força Atômica. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2010 - Atual
+MEMS( Colheta de Energia)
+Descrição: Trata-se  da compreensão da forma de abordagem para projeto dos Dispositivos de Colheita de Energia do Ambiente (energy harvesting devices), através do uso de sistemas eletromecânicos, sendo este sistema um exemplo de sistema MEMS. 
+Ressalta-se que nos últimos anos, temos visto um grande desenvolvimento de dispositivos miniaturizados como sensores, atuadores, circuitos eletrônicos flexíveis implantáveis e biosensores. 
+Atualmente, a tecnologia  MEMS (Micro-Electro-Mechanical-Systems) e NEMS (Nano-Electro-Mechanical-Systems) tem permitido o desenvolvimento dos chamados dispositivos inteligentes, também hoje componentes em micro- e nano-escala são cada vez mais incorporados em todos os tipos de dispositivos eletrônicos.
+ Com isso a captação de energia do ambiente (energy harvesting), tem recebido grande atenção de pesquisadores de várias universidades, buscando fornecer uma solução autônoma viável para alimentação de dispositivos móveis baseados em MEMS e NEMS.
+Devido à necessidade de uma fonte de energia menor e mais eficiente, para a concepção dos sistemas de tecnologia novas e emergentes, o interesse em captação de energia (energy harvesting), tem aumentado substancialmente 
+;entre as possíveis soluções, a captação de energia (energy harvesting) que utiliza as vibrações do ambiente desempenha um papel de grande importância, porque a presença de vibrações mecânicas é comum em movimentos humanos, som ambiente, comportamento dinâmico de máquinas em geral, etc.
+Como abordagem padrão os mecanismos de captação de energia são baseados em osciladores lineares ressonantes, que convertem a energia mecânica gerada no ambiente em energia elétrica, através de uma técnica de transdução usando elementos piezoelétricos, eletromagnéticos ou eletrostáticos.
+Nos  trabalhos correntes. os autores concluíram que o melhor método para dispositivos de captação de energia é através da utilização de materiais piezelétricos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2009 - 2009
+Participação do Euromech-Colloquium 483: Geomerically Non-Linear Vibrations of Structures , Porto, Portugal, 2007. Auxilio  CAPES, FUNDUNESP e CNPqAPES
+Descrição: Trata-se de evento internacional cujos ddetalhes se encontram  no portal:
+http://w3.uniroma1.it/dsg/euromech503/scope.htm. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - Atual
+Dinâmica Não-linear e Caos em Microscopia de Fôrça Atômica
+Descrição: Os assuntos a serem tratados tem importância na literatura técnica atual,quer no desenvolvimento   teórico, quer em aplicações de Ciência da Engenharia e vem de encontro com a necessidade  de ter uma efetiva integração do espaco fisico com o modelo matemático de um determinado problema. 
+Dentro do contexto do projeto, pretendemos abordar as seguintes questões específicas:
+1) Compreensão da relação entre a estrutura e as propriedades de materiais nanoscopicos e moleculares, atraves da dinamica da forca atomica na microscopia com o uso de micro vigas em balance, interação modal e com uma ênfase nos fenômenos com  escalas multiplas.
+2) Estudo da simetria da resposta impulso em modelos aproximados não clássicos com  amortecimento  não desacoplável e suas aplicações em controle  e diagnóstico de dano estrutural atraves da analise modal e localização de modos vibratorios. 
+3) Caracterização dos  valores iniciais de soluções transientes induzidas por entradas de duração finita e  sua propagacao em modelos não-lineares atraves do uso de  metodos perturbativos, numéricos e experimentais.  
+Os objetivos que se propõe esta visita  são, em suma:
+Etudo do fenômeno de contato intermitente com micro-vigas em balanço na microscopia de força atômica  através de modelos que apresentem comportamento fortemente não-linear e de modelos que incluem efeitos de dinâmica rotatôria e cizalhamento.
+Técnica de Controle são incluídas no Projeto. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador / Angelo Marcelo Tusset - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+2009 - Atual
+Visita Técnica ao Department of Engineering Science and Mechanics,  Virginia Tech, Blacksburg, USA
+Descrição: Trata-se de visita técnica para efetuar Pesquisa em Fenômenos Nào-Lineares, Caos e controle em Problemas relacionados à "MEMS" e "NENS", com o Prof. Nayfeh ESM, Virginia Tech, Blacksburg, USA .. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2008 - Atual
+Pesquisa em Transferencia de Energia entre osciladores( TET)
+Descrição: O fenômeno de bombeamento de energia corresponde a uma canalização controlada de sentido único da energia vibracional para uma estrutura não linear passiva, onde se localiza e diminui ao longo do tempo, em razão da dissipação de amortecimento. 
+Desta forma, bombeamento de energia não linear pode ser usado em osciladores mecânicos acoplados, onde a não linearidade essencial do acessório permite a ele ressonar com qualquer um dos modos linearizados da subestrutura. 
+Através do bombeamento de energia, vibrações de uma estrutura não linear (sujeita a uma excitação externa) podem ser atenuadas, graças a um fraco acoplamento a uma estrutura fortemente não linear. 
+Projetando a estrutura não linear habilidosamente, é possível modificar levemente os dispositivos estruturais existentes e criar um modo de vibração não linear, que causa bombeamento de energia, onde a energia vibracional inicialmente localizada no oscilador linear ou não- é irreversivelmente transferida para o oscilador não linear.
+Extensões a problemas não-ideais é o tema central desta pesquisa. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2007 - 2007
+Desenvolvimento de Pesquisas em Sistemas Eletromecânicos: (MEMs) e (NEMs) na Virginia Tech , Blacksburg, Virginia, USA
+Descrição: A visita técnica  efetuada à Universidade de Tecnologia da Virginia, Blacksburg, USA, foi bastante proveitosa, abrindo-se  novas possibilidades de pesquisa na  área de Ciência de Engenharia, Modalidade Micro e Nano- Sistemas Eletro-mecânicos. efetuei uma revisão completa, interligando os diversos assuntos espalhados em diversas fontes, para futura publicação, na formato de ?Overview? em uma revista indexada da área acerca  dos fenômenos  dinâmicos envolvidos.  Efetuou-se um longo trabalho  de entendi mento do assunto e, um exaustivo trabalho na Biblioteca da Universidade de Tecnologia da Virginia.   Do material recolhido, resultou um trabalho(preliminar ainda), cujo titulo provisório bem como os tópicos são anunciados, a seguir:TITLE: On dynamic behavior of piezo-response force  Microscopy (PVM)         AUTHORS: J M Balthazar (UNESP-Rio Claro, SP, Brazil)  and A H Nayfeh( Virginia Tech, Engineering Science Department, Blacksburg, VA, USA), S. V. Kalinin(Condensed Matter Sciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA).
+                           This work is a report of selected papers on the state-of-the-art of Atomic Force Microscopy  (AFM) systems which appeared recently and in the past.  
+?	Here we stressed on piezo- response force microscopy (PVM),  which we used in a larger  number of experiments to measure electromechanical responses and get domain images.
+?	The phenomena involved are discussed, as well as the methodologies to deal with them, leading to a systematic formulation of  the governing equations of motion
+?	 The main idea  of this text   is to understand the linear dynamics of this complex mechanism in then extend it to the nonlinear dynamics behaviour and control in next future.
+?	 Next, the  idea is to understand the linear dynamics of this complex mechanism in then extend it to the nonlinear dynamics behaviour.
+           CONTENTS:
+?	          Preliminary Comments 
+?	          General Comments on Researc. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2007 - 2007
+Visita ao  Mitsusashi  Institite of Technology, Tokyo, Japan
+Descrição: trata-se de divulgação de pesquisa emn Dinâmica Não -linear a convite para uma ;possível colaboração futura entre o Brasilo e Japão. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Misusashi Institute of Tecnology - Auxílio
+										financeiro.
+2007 - Atual
+Sistemas Eletro-Mecânicos
+Descrição: Nesta Tema de pesquisa,aborda-se alguns temas que surgiram mais recentemente, em aplicações de Comportamento Não-Linear  e caótico  e seus possíveis controles( quer eles sejam  passivos,semi ativos ou ativos) de  Sistemas eletro-mecânicos, segundo treis abordagens:
+a. SISTEMAS MACRO (Transferência de Energia entre osciladores),
+b. SISTEMAS MEMS (Interações eletrostáticas, dispositivos  geradores de Energia Harvester) 
+c. SISTEMAS NENS (sistemas de Microscópio de Força Atômica).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Manoel Balthazar - Coordenador.
+2006 - 2007
+Visita Técnica do Prof. Reyolando Brasil , da Escola Politécnica da USP-SP para Desenvolvimento de Pesquisas
+Descrição: Visitante Prof. Dr. Reyolando Manoel Lopes Rebello da Fonseca Brasil-  Departamento de Engenharia de Estruturas e Fundações - Escola Politécnica da Universidade de São Paulo em Regime de 24 horas( RTC), Ref. MS5 com recursos da FAPESP, período de 03/2006 a 03/2007
+Período: Março de 2005 a Fevereiro de 2006 (12 meses) sujeito à renovação se houver interesse
+Proponente:  Prof. Dr. José Manoel Balthazar (professor Adjunto, Ref MS5).
+Titulo do Projeto de Pesquisa a ser Desenvolvido: 
+Controle de vibrações não-lineares de estruturas sob excitações não-ideais
+1. Aspectos da Pesquisa a ser tratada com O prof. Reyolando.
+O prof. Reyolando Brasil deverá participar intensamente de pesquisas no tema de controle de vibrações sob excitações não ideais.
+Com o sistema de aquisição de sinais, micro-computador portátil e softwares que dispõem o Professor Visitante têm-se os seguintes objetivos e metas neste período de visitas:
+Instrumentação,
+medição de vibrações em estruturas de base de equipamentos e máquinas industriais existentes, 
+tratamento numérico de sinais;
+Detectar efeitos de fontes não-ideais de vibrações;
+Geração de modelos de poucos graus de liberdade e sua análise numérica ou por métodos de perturbação;
+Análises numéricas de modelos de elementos finitos de grande porte;
+Propor, projetar e instalar controles;
+Medições de vibrações dos mesmos equipamentos e máquinas com os controles atuando e tratamento numérico de sinais;
+Análises numéricas e por perturbações dos modelos de poucos graus de liberdade com os controles instalados;
+Análises numéricas de modelos de elementos finitos com os controles instalados;
+Ministração de uma série de seminários sobre os assuntos relacionados no DEMAC/ IGCE/ UNESP, Rio Claro.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador / Reyolando Brasil - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2006 - 2006
+Visita Técnica Ao Engineering Science Department, Virginia Tech, Blacksburg, Virginia, USA e Participação em Evento"Eleven Conference on Nonlinear Vibrations, Stability and Dynamics of Structures",com apresentação de trabalho
+Descrição: Vários assuntos de pesquisa foram  discutidos com o Professor A H Nayfeh e Dean Mook, entre eles se destacam as novas tendências  Mano-Tecnologia e de Dinâmica de Vôo. A seguir, cito alguns trabalhos discutidos, na temática, em tela, dentre  estensa bibliografia estudada, no período:  
+Resumo dos Temas Discutidos:
+Resonators fabricated as clamped-clamped composite structures are studied in this effort. Piezoelectric actuation is used to excite these structures on the input side and piezoelectric sensing is carried out on the output side. A refined integro-partial differential model is developed for a clamped-clamped composite beam structure and used for studying the nonlinear transverse vibrations of these resonators. This model accounts for the longitudinal extension due to transverse vibrations, distributed actuation
+and axially varying properties across the length of the structure. Free oscillations about a post-buckled position are studied, and for weak damping and weak forcing, the method of multiple scales is used to obtain an approximate solution for the response to a harmonic forcing. Analytical predictions are also compared with experimental observations. The model development and the analysis can serve as a basis for analysing the responses of other composite microresonators.
+This paper examines the high-angle-of-attack solution structure of equations of motion for a representative high-performance fighter. The  aircraft model predicts that abrupt, nonlinear changes in state will occur as controls vary. including transitions from equilibrium to periodic motions and jumps between rival equilibrium and periodic states. Numerical continuation methods are used to efficiently trace out entire branches of both equilibrium and periodic solutions. The structure of these solutions in control-parameter
+space is found to be quite complex. Most notably, several types of stable periodic  solutions (limit cycles) appear which can be identified as either w. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - Atual
+Pesquisa de Localização de Modos de Vibrar Lineares e Não-lineares de Estruturas e Controle Passivo por Bombeamento de Energia
+Descrição: Os objetivos que se propõe  são, em suma:
+Levantar o estado da arte do assunto, cujas palavras chave são:
+Modos Lineares e Não-Lineares de Vibrações Estruturais,
+Localização de Modos, 
+Controle Passivo por Bombeamento de Energia ("Energy Pumping");
+ O oBjetivo é  considerar os elementos de Ciência de Engenharia e Mecânica pertinentes ao problema tema e apresentar os recursos numéricos e de modelagem matemática necessários às análises linearizadas e não-linear que se apresentarem; 
+Também caracterizar o fenômeno de Localização de Modos de vibrar em estruturas quase periódicas;
+Estudar a possibilidade do fenômeno de localização de modos ser utilizado como uma técnica de controle ativo (inteligente) e passivo  em estruturas quase periódicas;
+Apresentar um estudo aprofundado das técnicas de determinação de modos de vibrar e suas possíveis bifurcações em sistemas físicos estruturais de comportamento altamente não-linear  e seus possíveis relacionamentos ao fenômeno de localização de modos;
+Verificar o  uso de programas baseado em Elementos Finitos quando os problemas em análise crescerem de porte;
+Caracterizar o fenômeno de Bombeamento de Energia ("Energy Pumping");. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2005 - Atual
+Modelagem, Dinâmica Não-Linear, Controle e Aplicações em Ciência  da Engenharia e Mecânica
+Descrição: As equações diferenciais do movimento de sistemas dinâmicos mecânicos são comumente equações diferenciais a derivadas parciais em suas coordenadas generalizadas espaciais e temporais.  
+O caso em que as variáveis do problema não são do tipo separáveis, então o uso de métodos clássicos, possibilita a eliminação das variáveis generalizadas  espaciais obtendo-se, desta forma, um conjunto de equações ordinárias na variável temporal, quer sejam na forma com coeficientes constantes ou dependentes do tempo. 
+Nas últimas décadas, os sistemas vibratórios forçados têm sido analisados considerando o termo excitação externa como estacionário ou não estacionário, sendo  que o primeiro possui a amplitude da força constante e o segundo é uma força que varia com o tempo. 
+A excitação não estacionária é introduzida no sistema vibratório com o propósito de descobrir possíveis mudanças que expliquem mais satisfatoriamente o fenômeno físico estudado.
+ Os estudos que levam em conta a excitação não estacionária  podem ser divididos em três linhas de pesquisa: 
+1-Considerando-se uma vibração estacionária de um sistema linear quando, um rotor passa pela velocidade crítica com aceleração constante; 
+2- Considerando-se as vibrações não estacionárias de sistemas não-lineares e, 
+3- Considerando-se sistemas que possuam iteração entre o sistema vibratório e o movimento de um motor. 
+Este é o tema da pesquisa. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (6)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2004 - 2004
+Dinâmica Não-linear de Um Sistema Biela-Manivela Não-ideal.
+Descrição: A análise de estabilidade de um sistema dinâmico não-linear constitui um estudo sobre a estrutura da superfície que comporta suas soluções. 
+Estas soluções geralmente residem em formas geométricas com singularidades, as quais são pontos de descontinuidade marcados por "saltos" ou "dobras" que dificultam uma análise plana da situação. 
+O retrato de fase é uma projeção plana desta superfície e abordar condições de grandes dobras torna-se uma tarefa difícil com o uso de ferramentas de projeção linear de observação.
+ Neste trabalho, é apresentada uma análise preliminar de condições de movimento de grande complexidade usando a projeção linear da primeira aproximação da expansão da série de Taylor. 
+Tal solução é não-hiperbólica e pertence a singularidades ou dobras da superfície-solução as quais chegam em regiões de ressonâncias em relação à freqüência de excitação externa do sistema. É o resumo das características bifurcacionais e homoclínicas de sistemas dinâmicos não-lineares particulares que marcam os resultados obtidos numericamente, cuja complexidade não foi vista antes em resultados de sistemas dinâmicos de segunda ordem.
+Palavras-chaves: solução não-hiperbólica; bifurcações globais; tangências homoclínicas.
+FAPESP-Processo: 01/13578-3. 
+Trata-de de pesquisa vem nivel de PD. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador / Debora Belato - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2003 - 2003
+Viagem ao Exterior: Participação nos Eventos: 2003
+Descrição: Viagem ao Exterior: Participação nos Eventos: 2003 ASME International Design Engineering Technical Conference & The Computers and Information in Engineering Conference (Chicago, Illinois, USA) e 5th International Conference on Modern Practice in Stress and Vibration Analysis (Glasgow, Scotland), diárias e taxas de inscrição -FAPESP- Processo 03/05944-5.   Montante de Recursos obtidos:  FAPESP (R$ 5100, 00).
+      Viagem ao Exterior: Participação no evento: Dynamical  Systems and Applications, Lodz e Visita Técnica Technical Universty of Lublin, Lublin. Auxílios: CAPES-Processo: AEX 1398/03-3-Montante de Recursos obtidos: CAPES (Passagem aérea SP/Paris/Varsóvia).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2002 - 2004
+Laboratório de Modelagem,  Dinâmica, Controle e Aplicações , recentemente criado com recursos da FAPESP (Proc. 02/ 04130-1).
+Descrição: Criação do Laboratório de Modelagem, Dinâmica, Controle e Aplicações, além de grupo de estudos em Computação Paralela, envolvendo vários docentes do DEMAC-IGCE. Auxilio FAPESP,Processo N0 2002/04130-1( co uma suplementação), montou-se no Dep. de Estatística, Matemática Aplicada e Computação do Instituto de Geociências e Ciências Exatas da UNESP, campus de Rio Claro, SP, o Laboratório de Modelagem, Dinâmica, Controle e Aplicações. Este Laboratório é composto por cinco máquinas - três delas contendo processador Intel Pentium 4 de 2.0 GHz , uma contendo processadores Intel Dual Xeon com Hyper Threading de 2.2Ghz. Todas os computadores possuem sistema operacional Windows XP e Linux (Conectiva 10 com kernel versão 2.6.5). Também possue-se um computador portátil Intel Pentium 4.
+Montante dos recursos R$ 40 716, 25 (em 2002), R$  8700, 00(em 2004). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.
+2002 - 2002
+Viagem ao Exterior: Participação no evento: Twelfth International Workshop on Dynamics and Control; Dynamics and Control of Complex Systems in Nature and Society
+Descrição: Viagem ao Exterior: Participação no evento: Twelfth International Workshop on Dynamics and Control; Dynamics and Control of Complex Systems in Nature and Society, Los Angeles, California, USA: FAPESP- Processo: 02/04521-0 (Passagem aérea SP/ Los Angeles/SP).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2002 - 2002
+Visita Técnica Prof. Warminski, Lublin, Polônia ao SEMAC-IGCE-UNESP-Rio Claro
+Descrição: visita técnica do Prof. Warminski, Lublin, Polonia para efetuar pesquisas em problemas Nào-ideais, resumido, logo abaixo:
+Problem of vibrations of a slewing cantilever beam with a lumped mass at its tip have been discussed in the paper. Differential equations of motion have been derived by utilizing the extended Hamilton's principle. Transverse and longitudinal vibrations, non-linear curvature of the beam, and geometric and dynamical boundary conditions have been analysed in the model. A reduction of motion of the system to one direction has been also proposed.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador / Jersi warminski - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1998 - 1999
+Coordenação e Organização do Projeto, intitulado: "Teoria da Ressonância com Júpiter". Os Recursos financeiros foram obtidos junto à FUNDUNESP - Processo 098/88 em 9 de setembro de 1988 num montante de Cz$ 744 037,96 + 2 Passagens de Ponte Area SP/RJ/SP.I
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação para o Desenvolvimento da UNESP - Auxílio
+										financeiro.
+1997 - Atual
+Sistemas Não-ideais( Projeto  Máquinas Não-Ideais)
+Descrição: Quando a excitação não é influenciada pela resposta, é dita uma excitação ideal Por outro lado, quando uma excitação é influenciada pela resposta do sistema, é dita não-ideal.  O comportamento do sistema vibratório se afasta do caso ideal à medida que a potência suprida torna-se mais limitada. Para sistemas dinâmicos não-ideais, deve-se adicionar uma equação que descreve como a fonte de energia passa essa energia às equações que governam o correspondente sistema dinâmico ideal. O sistema exibe movimentos instáveis nas regiões de ressonância. Além disso, a forma da curva de ressonância dependia do sentido pelo qual a freqüência de excitação era alterada. O salto aparece na curva de resposta em freqüência como uma descontinuidade que indica uma região onde condições de regime permanente não existem. Perto da ressonância, parece que a potência adicional suprida ao motor somente aumenta a amplitude da resposta da estrutura tendo pequeno efeito na velocidade de rotação do motor. Fenômenos de salto na potência requerida de uma fonte operando perto da ressonância são manifestação de uma fonte não-ideal de energia e são referidas como o Efeito Sommerfeld. Sommerfeld sugeriu que a resposta estrutural funcionava como um sumidouro de energia. Assim, ele dizia que pagamos para vibrar nossa estrutura em vez de acelerar a máquina. Um dos problemas enfrentados pelos projetistas é como levar um sistema através da ressonância e evitar o "sumidouro de energia" descrito por Sommerfeld. Neste trabalho, nós vamos ilustrar esse problema. Várias contribuições ao estudo de problemas não-ideais  vem sido desenvolvidas pelo Prof. Balthazar.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: José Manoel Balthazar - Coordenador / Danilo Carlos Pereia - Integrante / Luís Gustavo de Mello Paracêncio - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1996 - 1998
+Aquisição de Microcomputador do Tipo Pentium para o Desenvolvimento de Pesquisas em Tópicos de Ciência da Engenharia e Mecânica.FAPESP-Proceso 96/0878-9 em 4 de Julho de 1966 num montante de R$ 5.489,00
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1996 - 1996
+Visita Técnica do Prof. Dr. Dean T. Mook, Virginia Tech, Blacksburg, Virginia, USA para desenvolvimento de Pesquisas conjuntas
+Descrição: Visita Científica do Prof.Dr.Dean T.Mook (Virginia Tech-USA) ao Brasil-UNESP Rio Claro .Período de 17 de Junho de 1996 a 16 de Agosto de 1996(2 Meses).
+Os recursos financeiros (Passagem Aérea+ Diárias) foram obtidos através da FAPESP Processo n0.96/0875-. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1994 - Atual
+Fenômenos Não-Lineares: Pesquisas em Máquinas Não-Ideais
+Descrição: O estudo de vibrações de sistemas não-ideais, isto é, quando uma excitação é influenciada pela resposta do sistema, tem sido considerado um grande desafio na pesquisa teórica e prática da engenharia.
+Estudam-se vários modelos de certo problemas que são mais próximos de situações reais encontradas na prática. Fenômenos de saltos e o aumento da potência requerida por uma fonte operando perto da ressonância são manifestações de uma fonte não-ideal de energia e eles são referidos como o Efeito Sommerfeld.
+Esses fenômenos sugerem que a resposta vibratória emula um sumidouro de energia.
+Assim, se paga para vibrar a estrutura de suporte em vez de acelerar a máquina. 
+Um dos problemas que freqüentemente se apresenta aos projetistas é como fazer um sistema cruzar o pico de ressonância e evitar esse tipo de sumidouro de energia.
+Caso haja mais de uma máquina na estrutura, em questão, uma outra particularidade acontece. 
+Os rotores desbalanceados, quando existirem duas máquinas, tendem a girar em sincronia com uma diferença de fase igual a 00 ou 1800. Caso existem três unidades, elas sincronizam-se em posições defasadas de 00 ou 1200 uma das outras, ou ainda, duas orientadas igualmente e a terceira defasada em 1800. 
+Este fenômeno, discutido, logo acima, é denominado de auto-sincronização.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Outra / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1994 - Atual
+Modelagem, Dinâmica e Controle e Aplicações a Ciência da Engenharia
+Descrição: As equações diferenciais do movimento de sistemas dinâmicos mecânicos são comumente equações diferenciais a derivadas parciais em suas coordenadas generalizadas espaciais e temporais.  O caso em que as variáveis do problema não são do tipo separáveis, então o uso de métodos clássicos, possibilita a eliminação das variáveis generalizadas  espaciais obtendo-se, desta forma, um conjunto de equações ordinárias na variável temporal, quer sejam na forma com coeficientes constantes ou dependentes do tempo. 
+Nas últimas décadas, os sistemas vibratórios forçados têm sido analisados considerando o termo excitação externa como estacionário ou não estacionário, sendo  que o primeiro possui a amplitude da força constante e o segundo é uma força que varia com o tempo. 
+A excitação não estacionária é introduzida no sistema vibratório com o propósito de descobrir possíveis mudanças que expliquem mais satisfatoriamente o fenômeno físico estudado.
+ Os estudos que levam em conta a excitação não estacionária  podem ser divididos em três linhas de pesquisa: 
+1-Considerando-se uma vibração estacionária de um sistema linear quando, um rotor passa pela velocidade crítica com aceleração constante; 
+2- Considerando-se as vibrações não estacionárias de sistemas não-lineares e, 
+3- Considerando-se sistemas que possuam iteração entre o sistema vibratório e o movimento de um motor. 
+Este é o tema da pesquisa. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Especialização: (0)  / Mestrado profissional: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Outra / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1991 - 1992
+Coordenação e Organização do Projeto, intitulado: Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.
+1987 - 1988
+Coordenação e Organização do Projeto ,intitulado: "Fornecimento e Implantação de Hardware para o Desenvolvimento de Teorias Planetárias, Caos e Aplicações". Os Recursos Financeiros foram obtidos junto ao CNPq-Processo 407423/87.7/FA/FV em 22 de outubro de
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1987 - 1988
+Coordenação e realização do "I Seminário de Astronomia Dinâmica e Matemática Aplicada em Rio Claro", no periodo de 09 de Abril de 1985 a 10 de Abril de1985. realizado com Recursos Financeiros do CNPq-Processo 406156/84- MA no montante de Cz$ 5.000,00 em c
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1986 - 1987
+Coordenão e Organização do Projeto,intitulado:Compra de Micro Computador
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Universidade Estadual Paulista Campus de Rio Claro - Auxílio
+										financeiro.
+1985 - 1986
+Coordenação e Organização do Projeto ,intitulado: "Compra de Livros de Matemática Aplicada e Computacional Necessários ao Desenvolvimento da Astronomia em Rio Claro". Os recursos Financeiros foram Obtidos junto ao CNPq-Processo No: 403982/85-FA em 12 de N
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1985 - 1986
+Coordenação e Organização do Projeto,intitulado:"Compra de  Microcomputador para o Desenvolvimento da Astronomia em Rio Claro". Os recursos Financeiros foram obtidos junto ao CNPq- Processo:407760/84-FA em 01 Julho de 1985 no montante de Cz$ 24.792.000,00
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1983 - 1984
+Coordenação e Organização do Projeto , intitulado"Compra de Livros de Astronomia Dinâmica". 03 de Março de 1983 no montante de 1.000.00,00. Este projeto complementa o anterior de mesmo nome -CNPQ- Processo 400628/81 num montante de 50 000,00
+Descrição: O equipamento adquirido serve para efetuar Simulações Numéricas dos modelos que são desenvolvidos no Laboratório de  Aplicações de DInâmica e Controle e Dinâmica Não-Linear. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: José Manoel Balthazar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

@@ -1,0 +1,129 @@
+2021 - Atual
+PeTwin - Gêmeos digitais para otimização e gerenciamento de produção
+Descrição: Gêmeos digitais são réplicas digitais de plantas de produção que requerem a integração semanticamente consistente de dados armazenados e gerados em templo real, relacionados a diferentes aspectos do domínio, gerenciados por aplicações de software de diversos fornecedores. O projeto de cooperação internacional PetWIN tem como foco contribuir no sentido de desenvolver uma visão científica integrada e as melhores práticas para a implementação de gêmeos digitais sustentáveis, utilizáveis e de fácil manutenção para o gerenciamento de campo na indústria de óleo e gás. O foco do projeto é contribuir para a construção do conhecimento e a competência necessários para construir a próxima geração de gêmeos digitais para informatização de campos de produção de petróleo. Participam do projeto o consorcio de petróleo de Libra, liderado pela Petrobras, no Brasil, e a Equinor e Universidade de Oslo na Noruega. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Karin Becker - Integrante / Marcelo Pimenta - Integrante / Mara Abel - Coordenador / Joel Luis Carbonera - Integrante / Juliano Araujo Wickboldt - Integrante / João Luiz Dihl Comba - Integrante / NETTO, JOÃO CESAR - Integrante.
+2020 - Atual
+Mecanismos para a Identificação de Riscos de Evolução  para Depressão em Usuários de Redes Sociais
+Descrição: A depressão tornou-se um problema de saúde pública mundial, que atinge cerca de 350 
+milhões de pessoas no mundo, a um custo aproximado de 2,5 trilhões de dólares. O 
+impacto que a depressão tem na sociedade demanda novas estratégias de prevenção e 
+intervenção, sendo que o seu diagnóstico precoce é fundamental. Alguns estudos 
+apontam que a depressão é precedida de transtornos menos graves como a 
+ansiedade/estresse crônicos. Com a popularização da Internet, muitas pessoas têm visto 
+nas redes sociais uma alternativa para dar voz a suas dificuldades e encontrar apoio. 
+Como resultado, um crescente volume de dados contendo expressões comportamentais 
+dos indivíduos está disponível, e pode ser usado para caracterizar e identificar 
+automaticamente padrões relacionados a transtornos mentais. O objetivo deste projeto é 
+desenvolver técnicas e modelos para identificação de padrões em redes sociais relativos a 
+ansiedade e estresse crônicos, e sua co-ocorrência e/ou evolução para quadros mais 
+graves de depressão. Os modelos devem permitir a caracterização das semelhanças e 
+diferenças destes transtornos em termos de características linguísticas, interações sociais, 
+humor e sentimento, de domínio, bem como de comportamento temporal, possibilitando o 
+desenvolvimento de indicadores de intensidade e de evolução. Propõe-se a investigação 
+da contribuição de arquiteturas de deep learning para este propósito, visando incorporar a 
+extração de features como parte da tarefa, a exploração de word embeddings, e a 
+combinação de estratégias de aprendizado distintas (e.g. padrões locais, sequências) 
+através da combinação de arquiteturas de aprendizado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Karin Becker - Coordenador / Viviane Moreira - Integrante / Jeferson Nobre - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 15
+2020 - Atual
+DSYNE - DIGITAL SYSTEM REQUIREMENTS FOR NATURAL RESOURCES ENGINEERING
+Descrição: DSYNE aims at building an interdisciplinary network of academics and industrialists  to promote research, education and innovation activities needed to digitally transform of how requirements are managed in large engineering projects. The target industries are global, and we aim to build a global best practice by bringing together partners from three global hubs: Norway, Brazil and USA. As with digital transformation, this network must be interdisciplinary. DSYNE therefore brings together computer scientists and systems engineers.
+This primary objective will be obtained through:
+(1) Holding workshops with tutorials in conjunction with major industry conferences.
+(2) Preparing a M.Sc. level course that can be used at partner Universities and in continuing education.
+(3) Short and long-term exchanges of staff, PhD, MSc and interns between USA and Norway and Brazil and Norway.
+(4) Publishing and publicizing the results of the workshops and exchanges.
+This project can be framed within the academic exchange program signed between UFRGS and the University of Oslo (IAP 492, process 23078.450152/2018-99, signed by UFRGS in Feb 8th, 2019).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Karin Becker - Coordenador / Marcelo Pimenta - Integrante / Mara Abel - Integrante.
+2014 - 2017
+Senti-Observer: análise de sentimento do ponto de vista do observador
+Descrição: A mineração de opiniões permite o processamento automático da opinião pública a partir de fontes de dados ricas e variadas disponíveis na Web. Contudo, a opinião é subjetiva e depende do observador. Além disto, normalmente o conteúdo subjetivo é interpretado segundo uma polaridade positiva e negativa, o que é uma forma muito limitada de sentimento. O presente projeto propões métodos e técnicas para: a) mineração de opiniões segundo ponto de vista do observador; b) análise de contradição; e c) mineração de emoções usando técnicas multilíngues, como forma de vencer a escassez de recursos em português.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Karin Becker - Coordenador / Viviane Moreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 26
+2014 - 2016
+Peace Building
+Descrição: Este projeto tem por objetivo prever indicadores sociais e econômicos usando dados abertos sobre a construção da paz sobre os países em desenvolvimento. As características marcantes do projeto são: a) a identificação semiautomática de informações relevantes sobre dados de Erradicação de Fome e Construção de Paz na nuvem Linked Open Data (LOD); c) investigação de ontologias e mecanismos de modelagem de indicadores econômicos, sociais e de construção da paz na nuvem LOD, com foco na ontologia CUBE; c) a preparação de conjuntos de dados para modelagem preditiva, incluindo enriquecimento semântico e integração de várias fontes; d) modelagem preditiva usando algoritmos de mineração de dados.
+A participação de Karin Becker foi financiada pela CAPES (bolsa 2418-14-2, pesquisador visitante sênior). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Karin Becker - Integrante / Xiaojie Tan - Integrante / Shiva Jahangiri - Integrante / Craig A. Knoblock - Coordenador / Pedro Szekely - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 5
+2011 - 2013
+WS-Evolv : Um ambiente para apoio à gestão da evolução de serviços web
+Descrição: O projeto ?Gestão da Evolução de Serviços Web baseada em Perfis de Uso? se propõe a explorar como a compatibilidade orientada ao uso de serviços pode apoiar a gestão do ciclo de vida de serviços web em larga escala, e facilitar o processo de mudanças do ponto de vista do provedor. 
+Tem como objetivos estratégicos: a) contribuir para a flexibilidade de SOA através da proposta de métodos de gestão de mudança inovadores; b) Viabilizar a gestão de evolução de serviços web em larga escala, através da automatização de detecção de mudanças, da análise de impacto e ações compensatórias aos seus efeitos; e c) Formação de recursos humanos de graduação e pós-graduação.
+Objetivos Específicos
+? Definir componentes funcionais para gestão de versões em um ambiente de gestão de evoluções, em particular para registro de versões, registro de mudanças, avaliação do impacto das mudanças e gestão do ciclo de vida de serviços;
+? Implementar os componentes funcionais definidos em uma prova de conceito voltada à gestão do ciclo de vida de serviços.
+? Experimentar seu uso em um estudo de caso;
+? Relatar os resultados obtidos em relatórios de pesquisa e auxiliar na produção de artigos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Karin Becker - Coordenador / Renata Galante - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 13
+2007 - 2008
+SSP
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Karin Becker - Integrante / Andre da Fonte Lopes - Integrante / Pruyne - Integrante / Milojicic - Integrante / Singhal - Coordenador / John Wilkes - Integrante.Financiador(es): Hewllet Packard Co. - Remuneração.Número de produções C, T & A: 2
+2006 - 2006
+PRO-FCSI (Fase II)
+Descrição: Renovação do projeto PRO-FCSI (Fase I), com objetivo estratégico de formação de recursos humanos em Sistemas de informação em nível de pós-graduação. Os objetivos específicos visaram a melhoria do ambiente de data warehousing SPDW (SPDW+), o qual armazena métricas de processos de desenvolvimento de software para incluir capacidades de monitoramento e previsão, bem como aprimoramento de sua arquitetura orientada a serviços.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (1) . Integrantes: Karin Becker - Coordenador / Duncan Ruiz - Integrante / Cristian Tristão - Integrante / Márcio Porto Basgalupp - Integrante / rodrigo barros - Integrante / Nelson Tenório Junior - Integrante / SILVEIRA, Patricia Souza - Integrante.Financiador(es): Hewlett-Packard Brasil - Matriz - Bolsa.Número de produções C, T & A: 5
+2005 - 2007
+REUSE
+Descrição: O objetivo principal deste projeto foi explorar técnicas e ferramentas de Desenvolvimento Baseado em Componentes (BC) que dão apoio ao Reuso de Software, com ênfase em quatro vertentes de pesquisa: (i) gerência de configuração no contexto de DBC, (ii) recuperação de arquiteturas de software, (iii) projeto arquitetural de componentes, e (iv) representação e transformação de software. A candidata esteve envolvida nas pesquisas sobre projeto arquitetural de componentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (4) . Integrantes: Karin Becker - Integrante / Marta Lima de Querios Mattoso - Integrante / Cláudia Maria Werner - Coordenador / Regina Maria Maciel Braga - Integrante / Ana Paula Blois - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2004 - 2006
+PRÓ-FCSI - PROGRAMA DE FORMAÇÃO E CAPACITAÇÃO EM SISTEMA DE INFORMAÇÃO
+Descrição: O objetivo estratégico deste projeto foi formar pessoal em nível de pós-graduação (mestrado) que pudessem ser aproveitados diretamente pela HP.
+Como objetivo científico, a primeira fase, realizada no biênio 2004 a 2006, envolveu métodos, técnicas e ferramentas que permitissem garantir a qualidade dos processos de desenvolvimento de software. Como principal resultado, foi desenvolvido o ambiente SPDW,  um ambiente de data warehousing para acampanhar a implantação de um programa de métricas organizacional, o qual foi implantado e usado na organização  (HP Brasil Ltda. EAS-Porto Alegre).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (9)  / Doutorado: (1) . Integrantes: Karin Becker - Coordenador / Duncan Ruiz - Integrante / Luciano de Biasi - Integrante / Taisa C Novello - Integrante / Virginia S Cunha - Integrante.Financiador(es): Hewlett Packard Brasil Ltda - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2003 - 2007
+MUW-EAD
+Descrição: Este projeto abordou questões relacionadas à mineração do uso da Web, aplicada ao contexto da educação a distância (EAD). Os objetivos gerais foram: a) propor um modelo de MUW voltado especificamente para o domínio de EAD, b) derivar deste modelo um conjunto de funcionalidades de apoio à condução deste processo, e incorporá-los em um ambiente de MUW voltado às especificidades da EAD; c) desenvolver ferramentas de apoio, e d) formar recursos humanos. Financiado por 3 projetos de iniciação científica (MUW-EAD, O3R e Agrup-Web) aprovados (e renovados) no período de 2003 a 2007.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Duncan Ruiz - Integrante / Carlos Guilherme Marquardt - Integrante / Andre da Fonte Lopes - Integrante / Mariângela Vanzin - Integrante / Caren Moraes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 18
+2002 - 2004
+RAROO
+Descrição: Os objetivos gerais deste projeto são : 
+* Estudar questões ligadas às dificuldades na prática para a compreensão e reuso de frameworks para o desenvolvimento de aplicações;
+* Investigar a potencial contribuição que componentes e padrões têm como complementação aos recursos oferecidos por frameworks para desenvolvimento de aplicações baseado em reuso;
+* Propor uma infraestrutura de apoio ao reuso baseado em frameworks, composta de notações, técnicas, métodos e ferramentas adequadas à manipulação de problemas significativos neste domínio;
+* Formar recursos humanos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Ana Paula BACELO - Integrante / Luciana Spagnoli - Integrante / Anete Persch Espindola - Integrante / Bernardo Luz - Integrante / Everton Sebastiany Dewes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 9
+2000 - 2003
+Capac-DW: Capacitação em tecnologia de Data Warehouse e Mineração de Dados para apoio à decisão
+Descrição: Os objetivos específicos do projeto foram : a) contribuir ao estudo de aspectos metodológicos no desenvolvimento de sistemas de data warehouse, através do desenvolvimento e avaliação de aplicações piloto; b) elaborar um modelo de apoio à tarefa do analista em processos exploratórios de KDD, c) contribuir à ampliação do uso de técnicas de mineração através do estudo de mecanismos de apoio ao processo de KDD; d) formar recursos humanos. Incluiu também o projeto de iniciação científica TRIAR, aprovado em 2001, e renovado em 2002.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Cinara GHEDINI - Integrante / Walter Pereira - Integrante / Denilson Rodrigues da Silva - Integrante / Kellyne Marques Santos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 12
+2000 - 2002
+WWW - COOLAB
+Descrição: Os objetivos do presente projeto de pesquisa são:
+o	coletar, experimentar e avaliar diferentes ambientes colaborativos de ensino em plataforma WWW, a fim de levantar os principais requisitos funcionais de tais tipos de aplicações ;
+o	coletar e estudar ambientes genéricos e componentes reutilizáveis voltados ao desenvolvimento facilitado e ágil de tal tipo de aplicação ; 
+o	selecionar, aplicar e avaliar componentes genéricos de apoio ao desenvolvimento encontrados, no desenvolvimento de protótipos de ambientes de ensino colaborativos, de forma a avaliar sua contribuição, limitações, bem como questões ligadas ao processo de reuso, tais como utilidade das abstrações oferecidas, adaptabilidade, compreensão, facilidade de uso e de instanciação, genericidade, etc  ;
+o	propor soluções para problemas relacionados ao reuso de elementos genéricos, em particular ligados ao desenvolvimento ou adaptação de frameworks especializados para este domínio, ferramentas de auxílio à compreensão e instanciação de frameworks, linguagens de padrões especializadas, etc;
+"	aplicar e avaliar as soluções encontradas no desenvolvimento de protótipos de ambientes colaborativos em plataforma WWW;
+o	publicar os resultados do projeto, através de artigos e relatórios técnicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Ana Paula BACELO - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+1998 - 2000
+OOLDER - fase de aplicação
+Descrição: Os objetivos gerais da Fase de Aplicação do Projeto OOLDER são :
+* adquirir experiência no desenvolvimento de componentes potenciamente reutilizáveis, em particular frameworks, padrões de projeto e linguagens de padrões;
+* disseminar esta experiência, buscando a melhoria da qualidade do ensino ministrado a nível de graduação e pós-graduação no Instituto de Informática da PUCRS, bem como consolidação das pesquisas sobre este tema junto à PUCRS; 
+* estudar e propor soluções para questões referentes às atividades de engenharia de aplicação e desenvolvimento de aplicação;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Luciano GERBER - Integrante / Luciana Spagnoli - Integrante / Sabrina Marczak - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 5
+1997 - 2000
+SLAT- Reengenharia de Sistemas de Informação Legados com Características Temporais
+Descrição: O principal objetivo do presente projeto é estudar as características temporais das bases de dados de SILs buscando :
+* estudar a contribuição das novas tecnologias e paradigmas de concepção de sistemas para suporte à evolução de SILs com bases de dados temporais e migração para novas plataformas tecnológicas, com ênfase em modelos temporais orientados a objetos;
+* aplicar e avaliar o emprego de técnicas de mineração para a análise das características temporais de dados históricos, como apoio tanto ao processo de evolução de SILs como de processos decisórios de organizações;
+* contribuir para a definição de um método sistemático para reengenharia de SILs com bases de dados temporais, com a definição de ferramentas associadas;
+* formar recursos humanos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Egídio Loch Terra - Integrante / Cinara GHEDINI - Integrante / Sabrina Born Teixeira - Integrante / Roberto Rezniceck - Integrante / Duncan Ruiz - Integrante / Nina Edelweiss - Integrante / Lia G Golendziner - Integrante / Clesio Saraiva dos Santos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 9
+1997 - 2000
+GRADD - Sistema de Apoio à Discussão e Deliberação em Grupo
+Descrição: Os objetivos gerais deste projeto são:
+*  identificar funcionalidades que que favoreçam o trabalho cooperativo;
+* desenvolver ambientes que disponibilizem as funcionalidades identificadas
+* desenvolver protótipos de tais ambientes, com objetivo de analisar sua eficacia e limitações;
+* formar recursos humanos.
+Agrega 3 projetos de iniciação científica aprovados no período (1997, 1998 e 1999). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Ana Paula BACELO - Integrante / Simone FERREIRA - Integrante / Carlos Guilherme Marquardt - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 12
+1996 - 1998
+OOLDER - fase de Aquisição
+Descrição: Principais Objetivos do Projeto são:
+1- adquirir experência na formação de pessoal qualificado para desenvolver aplicações segundo o paradigma de orientação a objetos (OO), visando a melhoria do ensino-apendizagem deste paradigma e tecnologias associadas, e uma maior disseminação do uso destes em empresas;
+2- identificar os principais problemas tipicamente encontrados na absorção do pensamento OO e criar ambientes que favoreçam o ensino-aprendizado da OO;
+3- desenvolver aplicações piloto para sedimentar os conceitos, metodologias e ferramentas aprendidos;
+4- constituir um elenco de estudos de caso para posterior análise de aspectos de reusabilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador / Ana Lúcia ZANELLA - Integrante / Dilnei VENTURINI - Integrante / Guilherme Becker de Oliveira; Flavia Rossler - Integrante / Caren Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 7
+1994 - 1996
+Quadro de objetos reutilizaveis para o desenvolvimento de SADs
+Descrição: Esta pesquisa congrega preocupações, problemas e considerações de duas áreas tradicionalmente consideradas distintas, a saber, Sistemas de Apoio a Decisao (SAD) e Engenharia de Software. Assim, os objetivos gerais do projeto contemplam estas duas áreas, a saber: 
+a) prover técnicas e ferramentas que facilitem o desenvolvimento de SADs, 
+b) permitir uma melhor compreensão das potencialidades e implicações do paradigma OO, e dos "frameworks" em particular, para a reusabilidade, 
+c) formação de recursos humanos tanto para capacitação no uso do paradigma OO como filosofia e tecnologia de desenvolvimento de sistemas, como na capacitação de profissionais para o desenvolvimento de SAD. 
+Agrega três projetos submetidos no mesmo domínio, apoiados por 3 agências de fomento governamentais distintas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Karin Becker - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 7

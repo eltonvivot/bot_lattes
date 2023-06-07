@@ -1,0 +1,61 @@
+2021 - Atual
+Resiliência em redes ópticas utilizando roteamento multicaminhos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Daniel Augusto Ribeiro Chaves - Coordenador / Raul Camelo de Almeida Junior - Integrante.Número de orientações: 2
+2015 - 2015
+Análise do Impacto do Ruído ASE para Proposição de Redes Ópticas Elásticas Translúcidas
+Descrição: Analisar o impacto do ruído ASE para proposição de cenários de redes ópticas elásticas translúcidas... Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Helder Alves Pereira - Coordenador / Raul Camelo de Almeida Junior - Integrante.
+2015 - Atual
+UTILIZAÇÃO DE INTELIGÊNCIA COMPUTACIONAL E CIÊNCIA DAS REDES EM PROJETO DE REDES DE ALTA CAPACIDADE
+Descrição: Este projeto visa o desenvolvimento de novas metodologias para projeto de redes ópticas utili- zando simulações computacionais, nas seguintes vertente:
+i) Aplicação de técnicas de inteligência computacional para realização do projeto. ii) Aplicação da teoria de ciências das redes para realização do projeto.
+iii) Previsão de desempenho de redes utilizando formulação analítica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Daniel Augusto Ribeiro Chaves - Coordenador / Carmelo José Albanez Bastos Filho - Integrante / Joaquim F. Martins Filho - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2013 - 2015
+Planejamento e Otimização de Redes Ópticas Elásticas Baseadas na Tecnologia O-OFDM PORTO
+Descrição: PROGRAMA CAPES/FCT, EDITAL Nº021/2012 (Projeto de colaboração Brasil-Portugal). Este projeto de pesquisa será executado no prazo de 24 meses em rede de pesquisa entre o Departamento de Eng. Elétrica da Escola Politécnica da Universidade Federal da Bahia (UFBA), o Departamento de Eletrônica e Sistemas da Universidade Federal de Pernambuco (UFPE), Universidade de Pernambuco (UPE), Universidade Federal do ABC e o Instituto de Telecomunicações - Instituto Superior Técnico (IT-IST) de Lisboa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (4) . Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Raul Camelo de Almeida Junior - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim F. Martins Filho - Integrante / Helio Waldman - Integrante / Karsius D. R. Assis - Coordenador / Adolfo V. T. Cartaxo - Integrante.
+2012 - Atual
+PROJETO DE REDES ÓPTICAS DE ALTA CAPACIDADE UTILIZANDO INTELIGÊNCIA COMPUTACIONAL
+Descrição: Nos dias atuais, as comunicações por meio de fibras ópticas são a base para o tráfego de informações a altas taxas de transmissão. Sendo assim, a interligação de sistemas de telecomunicações ópticas por meio de redes é o principal alicerce para a viabilização de tráfego em altas taxas na Internet e de diversas outras redes. Apesar dos sistemas ópticos apresentarem uma relação custo benefício melhor que outros sistemas de comunicações (sob mesma taxa de transmissão e quesito de robustez) sua implantação pode ter um custo elevado. Por isso, o desenvolvimento de estratégias de projetos que consigam obter redes com relações otimizadas de custo e desempenho são muito importantes nos dias atuais. O foco desse projeto é o de se desenvolver estratégias de projeto de redes capazes de dimensionar redes ópticas de forma a se obter relações otimizadas entre custo e desempenho.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Daniel Augusto Ribeiro Chaves - Coordenador / Helder Alves Pereira - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim F. Martins Filho - Integrante / Danilo R. Barbosa de Araújo - Integrante / Renan Vasconcelos B. Carvalho - Integrante / hartur barreto brito - Integrante / Pedro Henrique de Queiroz Santos - Integrante.Número de produções C, T & A: 2
+2010 - 2014
+Redes Ópticas para Telecomunicações e Sensoriamento
+Descrição: O projeto tem como objetivo a pesquisa e o desenvolvimento de redes ópticas para aplicação em comunicações ópticas e sensores ópticos. O projeto envolve a pesquisa em ferramentas para otimização de redes ópticas, em sensores ópticos de corrosão, e outros. A formação de recursos humanos (estudantes de graduação e pós-graduação) e a capacitação tecnológica (desenvolvimento de dispositivos inovadores, algoritmos, softwares, técnicas e processos) também fazem parte dos objetivos do projeto. Processo CNPq: 307989/2009-7.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (5) . Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Felipe Simões Freitas e Silva - Integrante / Helder Alves Pereira - Integrante / Douglas Oliveira Aguiar - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim F. Martins Filho - Coordenador / Renan Vasconcelos B. Carvalho - Integrante.
+2009 - 2010
+Ferramenta de Planejamento de Redes Ópticas de Telecomunicações por Otimização Multiobjetiva
+Descrição: O objetivo deste projeto é desenvolver uma metodologia para projeto de redes ópticas identificando
+os compromissos entre desempenho de rede, qualidade de serviço, utilização de recursos e custos financeiros.
+A proposta é utilizar técnicas de otimização multiobjetiva para realizar o planejamento da rede, incluindo, por
+exemplo, o dimensionamento de infra-estrutura para que ela atinja um desempenho desejado com o menor custo
+e maior qualidade de serviço possível.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Helder Alves Pereira - Integrante / Douglas Oliveira Aguiar - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+Sistemas Fotônicos para Telecomunicações e Sensoriamento
+Descrição: O projeto tem como objetivo a pesquisa e o desenvolvimento de sistemas fotônicos para aplicação em comunicações ópticas e sensores ópticos. O projeto envolve a pesquisa em algoritmos para roteamento em redes ópticas, em amplificadores ópticos a fibra, em sensores ópticos de gases, em sensores ópticos de corrosão, e outros. A formação de recursos humanos (estudantes de graduação e pós-graduação) e a capacitação tecnológica (desenvolvimento de dispositivos inovadores, algoritmos, técnicas e processos) também fazem parte dos objetivos do projeto. Processo CNPq 308701/2006-2... Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Lucas Ximenes Trajano Bezerra - Integrante / Diozênio José Monteiro Neto - Integrante / Isnaldo José de Souza Coelho - Integrante / Jairon Guimarães - Integrante / Daniel Ferrari Pizzato - Integrante / Helder Alves Pereira - Integrante / Douglas Oliveira Aguiar - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim F. Martins Filho - Coordenador / Eduardo Fontana - Integrante / Diego José Rátiva Millán - Integrante.
+2006 - 2006
+Complementação da Ampliação e Modernização do Laboratório de Pesquisa em Telecomunicações do Grupo de Fotônica da UFPE
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Marcela Martins Melo - Integrante / Lucas Ximenes Trajano Bezerra - Integrante / Diozênio José Monteiro Neto - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Coordenador.Financiador(es): Parks Comunicações Digitais - Matriz - Auxílio
+										financeiro.
+2005 - 2007
+Amplificadores Ópticos Com Travamento de Ganho Para Redes Ópticas
+Descrição: Esse projeto visa pesquisar e desenvolver experimentalmente novos amplificadores ópticos a fibra
+dopada com érbio com sistema de travamento de ganho que impliquem em melhora de desempenho de redes
+ópticas comutadas automaticamente. O impacto desses amplificadores em redes ópticas será avaliado através
+de simulações computacionais e de implementação experimental. Como resultado final do projeto será entregue
+um protótipo do amplificador, testado no sistema MTS Siemens da UFPE, e também na Rede GIGA no CPqD.
+Processo 473600/2004-8 - Edital Universal CNPq 19/2004.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Marcela Martins Melo - Integrante / Lucas Ximenes Trajano Bezerra - Integrante / Diozênio José Monteiro Neto - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2008
+Algoritmos para Otimização de Redes Ópticas
+Descrição: Pesquisa em algoritmos para otimização de processos como o roteamento e atribuição de
+comprimentos de onda em redes ópticas, e o desenvolvimento de software para simulação. Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / George Moraes Cavalcanti Júnior - Integrante / Eric de Albuquerque Jorge Arantes - Integrante / Raul Camelo de Almeida Junior - Integrante / Helder Alves Pereira - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Coordenador.
+2003 - 2006
+Dispositivos Fotônicos para Telecomunicações e Sensoriamento
+Descrição: Dispositivos optoeletrônicos semicondutores em geral são compactos, robustos, eficientes, de baixo
+consumo de energia, e de baixo custo unitário. Estas características garantem a preferência pela utilização
+destes dispositivos, como lasers, fotodetetores, moduladores, chaveadores, amplificadores, etc, para as mais
+diversas aplicações, como em comunicações ópticas, metrologia, instrumentação médica, instrumentação
+industrial, instrumentação para o monitoramento do meio ambiente, sensores em geral, e outros. Este projeto de
+pesquisa é composto de subprojetos envolvendo a pesquisa e desenvolvimento de dispositivos fotônicos para
+comunicações e sensoriamento. Os subprojetos são intitulados: Dispositivos baseados em diodos de tunelamento
+ressonante, Lasers semicondutores de múltiplas seções, Amplificadores ópticos a fibra, Sensores ópticos de
+corrente de fuga em isoladores elétricos, e Outros Dispositivos. Processo CNPq: 302941/2002-9.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Augusto Ribeiro Chaves - Integrante / Marcela Martins Melo - Integrante / Lucas Ximenes Trajano Bezerra - Integrante / Diozênio José Monteiro Neto - Integrante / Eric de Albuquerque Jorge Arantes - Integrante / Raul Camelo de Almeida Junior - Integrante / Isnaldo José de Souza Coelho - Integrante / Luciana Pedrosa Salles - Integrante / Rafaelli Neves de Alencar Vidal - Integrante / Jairon Guimarães - Integrante / Daniel Ferrari Pizzato - Integrante / Helder Alves Pereira - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

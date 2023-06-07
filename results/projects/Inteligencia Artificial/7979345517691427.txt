@@ -1,0 +1,16 @@
+2016 - 2017
+Machine learning in Cartographic Engineering
+Descrição: Research project focused on machine learning in cartographic engineering through image processing, image analysis, shape analysis, landscape metrics, computer vision and artificial intelligence.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Carlos Frederico de Sa Volotao - Coordenador.
+2013 - 2014
+Identificação de Alvos
+Descrição: O projeto de Identificação de Alvos é composto, inicialmente, pelos seguintes subprojetos, que
+serão oferecidos aos alunos, podendo ser ampliado de acordo com o perfil do aluno e com a
+evolução do projeto: Processamento de Imagens VANT do IME, Classificação por Textura, Redes Neurais em Cartografia, Análise de Forma, Segmentação de Imagens, Aperfeiçoamento de um Classificador por Árvore, Classificador por Árvore Oblíqua, Métricas da Paisagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carlos Frederico de Sa Volotao - Coordenador.
+2011 - 2012
+Detecção de Alvos em Imagens Digitais (DetAID)
+Descrição: Desenvolver um sistema que permita integrar diversas abordagens com ferramentas
+capazes de obter informações de alvos presentes em imagens multiespectrais de sensores
+remotos, identificando a sua existência na imagem, reconhecendo características dos objetos,
+apresentando informações gráficas e não-gráficas, a partir de processos supervisionados, semisupervisionados ou não-supervisionados. Em cada subprojeto espera-se desenvolver e
+documentar cada conhecimento específico adquirido por meio de uma linguagem de
+modelagem (Unified Modeling Language ? UML) em uma monografia e uma implementação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Frederico de Sa Volotao - Coordenador.Número de produções C, T & A: 1

@@ -1,0 +1,7 @@
+2016 - 2018
+Aprimoramento de um sistema de mapeamento móvel de baixo custo com arranjo triangular de câmeras fotográficas
+Descrição: Descrição: Concepção e montagem de um sistema triangular coplanar (três câmeras) com rastreador de satélite de posicionamento (GPS) montado no teto de veículos terrestres (automóveis) para levantamento de imagens e mapeamento de ruas e rodovias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Francisco Assis da Silva - Integrante / João Fernando Custódio da Silva - Coordenador / Mariana Dias Chaves Batistão - Integrante / Tobias Rehder da Cunha Patuci - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2005 - 2006
+Desenvolvimento de Aplicações Java Utilizando o Pacote JAI (Java Advanced Image)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Francisco Assis da Silva - Coordenador.

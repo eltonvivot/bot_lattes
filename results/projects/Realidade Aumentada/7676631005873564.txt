@@ -1,0 +1,51 @@
+2022 - Atual
+Análise da Experiência Emocional do Usuário na  Aprendizagem Mediada pelo Computador
+Descrição: Este projeto objetiva analisar a experiência emocional dos usuários (estudantes) durante o processo de ensino-aprendizagem mediada pelo computador, utilizando para isso a mineração de dados, especificamente a mineração de emoções. Alguns projetos nesta mesma linha pesquisa já foram desenvolvidos por esta mesma coordenação, tais como: ?Avaliação da Experiência do Usuário na Interação Humano-Computador através das Emoções? (2019-2020) e ?O Pensamento Computacional como Estratégia para a Regulação Emocional?  (2021-2022), os quais envolveram a detecção e classificação das emoções através das expressões faciais e de textos curtos. O intuito agora é aperfeiçoar as ferramentas que foram desenvolvidas, refinando os algoritmos de mineração de dados (aprendizado supervisionado), e aplicá-las durante o processo de ensino-aprendizagem dos estudantes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Fabiola Pantoja Oliveira Araújo - Coordenador / Josivaldo de Souza Araújo - Integrante / DOUGLAS MAIA DOS SANTOS - Integrante / Josiane Bezerra Ribeiro - Integrante / SYANNE KAROLINE MOREIRA TAVARES - Integrante / RAMON NEIRAO MENDES - Integrante.Financiador(es): Universidade Federal do Pará - Bolsa.
+2021 - 2022
+O Pensamento Computacional como Estratégia para a Regulação Emocional
+Descrição: Subprojetos:
+1. Mineração de Emoção em Texto para Monitoramento do Estado Emocional de Usuários na Interação Humano-Computador;
+2. Machine Learning para Identificar em Tempo Real o Estado Emocional do Usuário na Interação Humano-Computador.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Fabiola Pantoja Oliveira Araújo - Coordenador / Arissa Oliveira Niwa - Integrante / Geisiane Souza Matos - Integrante / THALLYS RUBENS MOREIRA COSTALAT - Integrante / Sandy Hiorrana Lima Farias - Integrante / VICTORIA BEATRIZ SILVA BARROS - Integrante / DOUGLAS MAIA DOS SANTOS - Integrante.Financiador(es): Universidade Federal do Pará - Bolsa.
+2019 - 2021
+Avaliação da Experiência do Usuário na Interação Humano-Computador através das Emoções
+Descrição: Projeto aprovado no Edital PIBIC 2020 (PRO4084-2019). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Fabiola Pantoja Oliveira Araújo - Coordenador / Yomara Pinheiro Pires - Integrante / Sara das Mercês Silva - Integrante / Arissa Oliveira Niwa - Integrante / SERUFFO, MARCOS - Integrante / THALLYS RUBENS MOREIRA COSTALAT - Integrante.Financiador(es): Universidade Federal do Pará - Bolsa.
+2019 - Atual
+Human Interaction with Technologies (HIT)
+Descrição: Grupo de pesquisa que atua na área da Interação Humano-Computador, Educação em Computação e Tecnologias Assistivas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4) . Integrantes: Fabiola Pantoja Oliveira Araújo - Coordenador / Marcelle Pereira Mota - Integrante.
+2018 - 2019
+SpeechDetect: Reconhecimento de voz em aplicações computacionais para monitoramento do estado emocional do usuário
+Descrição: Projeto aprovado no EDITAL PIBIC - 06/2018 (código PRO2724-2018). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Fabiola Pantoja Oliveira Araújo - Coordenador / Marcos César da Rocha Seruffo - Integrante / Yomara Pinheiro Pires - Integrante / Sara das Mercês Silva - Integrante / Arissa Oliveira Niwa - Integrante / Ana Paula de Sá Monteiro - Integrante.Número de produções C, T & A: 1
+2017 - 2018
+Descoberta de padrões em dados não estruturados através do uso de técnicas computacionais de Mineração de Dados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabiola Pantoja Oliveira Araújo - Coordenador / Yomara Pinheiro Pires - Integrante / Igor Ruiz Gomes - Integrante / João Cláudio Chamma Carvalho - Integrante / Allan Ricardo Santos Teixeira - Integrante.Número de produções C, T & A: 2
+2016 - 2017
+DetectFace: reconhecimento de expressões faciais em aplicações computacionais para monitoramento do estado emocional do usuário.
+Descrição: Colaboradora através da Portaria nº 140/2016.
+Objetivos do projeto:
+1. Desenvolvimento de uma ferramenta para captura e classificação das emoções alegria, tristeza, raiva e surpresa, chamadas de emoções básicas,  por meio das expressões faciais do usuário pelo sensor Kinect;
+2. Teste da ferramenta desenvolvida com o objetivo de validar o nível de precisão e acurária da ferramenta para classificação das expressões faciais;
+3. Aplicação de algoritmos de Inteligência Artificial para reconhecimento e classificação dos estados emocionais do usuário  em tempo real;
+4. Realizar estudos comparativos entre sensores baseados em visão de máquina de fácil aquisição no mercado (Kkinect versão versões 1.0 e versão 2.0) com a finalidade de avaliar seu potencial e aplicabilidade em ambientes computacionais ;
+5. Realizar estudos comparativos entre sensores baseados em visão de máquina de fácil aquisição no mercado (kinect versão 1.0 e versão 2.0) com a finalidade de avaliar seu potencial e aplicabilidade na ferramenta desenvolvida;
+6. Inserir novas unidades de animação (UA?s), responsáveis pela representação de pontos significativos da face como sombrancelhas, olhos, boca e nariz, capturados pelos sensores para o reconhecimento do estado emocional do usuário em ambientes computacionais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiola Pantoja Oliveira Araújo - Integrante / Yomara Pinheiro Pires - Coordenador / Igor Ruiz Gomes - Integrante / João Cláudio Chamma Carvalho - Integrante.
+2011 - 2013
+Desenvolvimento de Aplicativos para Acessibilidade com Interface Aural
+Descrição: Portarias nº 169/2012 e 003/2013.
+Principais objetivos do projeto:
+1.	Desenvolver o SpeechOO: uma extensão de ditado para o BrOffice.org;
+2.	Desenvolver o CorujaNavigator: um aplicativo para navegação não-visual na Web;
+3.	Criar um processo simples que permita a qualquer desenvolvedor fazer o ?downsizing? do CorujaNavigator, criando versões customizadas para os sites a serem visitados;
+4.	Construir versão do CorujaNavigator independente de domínio;
+5.	Construir aplicativos como ?prova-de-conceito? tendo em vista pessoas sem formação específica em processamento de voz e que precisem usar a tecnologia;
+6.	Incorporar a tecnologia desenvolvida no SpeechOO ao produto FFTranscriber.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (4) . Integrantes: Fabiola Pantoja Oliveira Araújo - Integrante / Aldebaro Klautau da Rocha Júnior - Coordenador / Nelson Cruz Sampaio Neto - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+FalaBrasil: Desenvolvimento de Recursos para Recomhecimento de Voz e Fomento à Indústria Brasileira de Softwares com Interface Aural
+Descrição: Portarias 021/2010, 039/2011) e 052/2012.
+Principais objetivos do projeto:
+1.	Disponibilizar, para grupos de pesquisa, recursos em domínio público para reconhecimento automático de voz para o português brasileiro (PB) e síntese de voz a partir de texto (ou TTS, de ?text-to-speech?) para PB.
+2.	Disponibilizar para programadores e empreendedores brasileiros ?engines? (ou seja, reconhecedores e sintetizadores) gratuitos e, em especial, material didático / informativo que possa ser usado, e.g., em cursos de Interação Humano / Computador, e permita que profissionais sem formação específica em voz possam usar os engines através de APIs (?application programming interfaces?) e desenvolver aplicativos com interface aural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Fabiola Pantoja Oliveira Araújo - Integrante / Aldebaro Klautau da Rocha Júnior - Coordenador / Adalbery Rodrigues Castro - Integrante / Nelson Cruz Sampaio Neto - Integrante / Carlos Patrick Alves da Silva - Integrante / Igor Costa do Couto - Integrante / Ericson Sarmento Costa - Integrante / Pedro dos Santos Batista - Integrante / Renan Moura Ferreira - Integrante / Joarley Wanzeler de Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2010
+Laboratório de Pesquisa em Tecnologia da Informação e Comunicação (NPTIC) do Campus de Castanhal
+Descrição: Portaria 019/2010.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Fabiola Pantoja Oliveira Araújo - Integrante / Lídio Mauro Lima de Campos - Coordenador / Yomara Pinheiro Pires - Integrante / Silvana Rossy de Brito - Integrante / Klenilmar Lopes Dias - Integrante.

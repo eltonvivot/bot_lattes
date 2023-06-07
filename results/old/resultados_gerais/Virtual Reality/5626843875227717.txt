@@ -1,0 +1,36 @@
+2015 - Atual
+Controladores de Automação Predial
+Descrição: Controladores
+Sensores: temperatura, umidade, iluminação, corrente, potência, nível, vazão de água etc.
+Atuadores: reles, SSR, válvulas proporcionais, válvulas on-off, dimmers etc. 
+Redes de controladores.
+Estratégias de controle: energia, água, climatização, elevadores etc.
+Controle de acesso.
+Interface com dispositivos Android
+Gerenciamento de utilidades. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luis Alberto Gómez - Coordenador.
+2014 - Atual
+Plataforma de desenvolvimento para Androic MIT App Inventor
+Descrição: A plataforma App Inventor permite que pessoas com conhecimentos básicos de programação criem aplicativos de software para o sistema operacional Android OS que podem ser executados em bilhões de dispositivos móveis(ou não): telefones celulares, tablets, TVs etc. 
+App Inventor é uma plataforma web de código aberto desenvolvida pela Google, e agora mantido pelo Instituto de Tecnologia de Massachusetts (MIT).
+O App Inventor, a través de uma interface gráfica amigavel, permite aos usuários arrastar e soltar objetos visuais para criar aplicativos. Dada a sua simplicidade, é utilizado em educação desde crianças até universitarios (na ultima versão foi adicionada uma interface com o LEGO Mindstorms (não abordada neste livro)) O desenvolvimento da lógica do aplicativo ( que usa a metáfora de peças de um quebra-cabeças) foi baseada em teorias de aprendizagem construtivistas.
+Alguns comentários sobre o App Inventor chamá-lo limitado ao compará-lo com outras plataformas de desenvolvimento Isso é errado. O App Inventor permite o acesso a todas as funções (atividades) disponibilizadas pelo Android OS. O App Inventor tem se convertido em uma ferramenta poderosa e pronta para produzir aplicativos úteis, comercializáveis e complexos. 
+Através de aplicativos simples se abordam os principais módulos de interface e blocos de controle primeiro de forma isolada e depois de forma integrada em aplicativos mais complexos. Se estudarão as funções mais utilizadas na programação de dispositivos móveis: 
+?	telefonia, 
+?	mensageira (SMS/torpedos), 
+?	localização (GPS), 
+?	mapas (Google Maps API) 
+?	bancos de dados (Google Fusion Tables API). 
+O projeto se focaliza na versão AI2 do App Inventor disponibilizada em dezembro de 2013.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luis Alberto Gómez - Coordenador / Antonio Carlos de Souza - Integrante.Número de produções C, T & A: 1
+2013 - Atual
+Geração de Energia Elétrica a partir de bio gas
+Descrição: O presente trabalho é resposta ao edital CHAMADA NO 014/2012
+PROJETO ESTRATÉGICO: ?ARRANJOS TÉCNICOS E COMERCIAIS PARA INSERÇÃO
+DA GERAÇÃO DE ENERGIA ELÉTRICA A PARTIR DE BIOGÁS ORIUNDO DE RESÍDUOS E EFLUENTES LÍQUIDOS NA MATRIZ ENERGÉTICA BRASILEIRA? da ANEEL.
+O projeto consiste no dimensionamento, projeto, posta em operação de 2 bio digestores de grande porte no município de Itapiranga-SC, alimentados com dejetos suínos.
+Outros participantes sâo: UFSM, UFFS, Fundação Itaipú, CERTI. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (1)  / Mestrado acadêmico: (3) . Integrantes: Luis Alberto Gómez - Coordenador / Marcio Andrade - Integrante / Poliana de Moraes - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Bolsa.
+2012 - 2016
+Combate à retração para prevenção da fissuração do concreto de alto desempenho e de materiais de base cimento usados na construção e no reparo de estruturas
+Descrição: São enfoques deste projeto de pesquisa o desenvolvimento e o estudo de alternativas de combate à fissuração por retração no concreto e nos materiais de base cimento usados em novas estruturas e na manutenção. A aplicação das soluções e informações obtidas nesta pesquisa resultará no melhor emprego do concreto e de materiais de reparo de base cimento na construção e manutenção das usinas geradoras de energia elétrica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Alberto Gómez - Coordenador / Wellington Longuini Repette - Integrante / Lucas Ongero - Integrante / Flavio Moreira Salles - Integrante / Ronaldo Pillar - Integrante / Rafael Dors Sakata - Integrante / Luiz Roberto da Silva - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Cooperação.
+2010 - 2011
+Instrumentação de Elementos de Madeira Reforçados em situações de fogo
+Descrição: Ensaios em vigas de madeira com e sem reforço, em situação de fogo, para validar a modelagem teórica de vigas nesta situção.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luis Alberto Gómez - Coordenador.

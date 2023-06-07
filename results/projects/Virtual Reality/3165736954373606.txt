@@ -1,0 +1,74 @@
+2023 - Atual
+Teoria Algébrica dos Grafos e Aplicações
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (1) . Integrantes: Claudia Marcela Justel - Integrante / Carla Silva Oliveira - Coordenador / André Ebling Brondani - Integrante / Francisca Andrea Macedo França - Integrante / Celso Marques da Silva Junior - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2020 - Atual
+Desenvolvimento de um Sistema de Aeronaves Remotamente Pilotadas com Controle baseado em Alocação Dinâmica para Cobertura de Áreas com Prioridades de Interesse
+Projeto certificado pelo(a) coordenador(a) Paulo Fernando Ferreira Rosa em 28/07/2020.
+Descrição: Este projeto e uma parceria entre o Laboratório de Robótica e Inteligência Computacional
+do Instituto Militar de Engenharia (IME), o Laboratório de Ambientes
+Colaborativos e Multimídia Aplicada (ACIMA) do Laboratório Nacional de Computação Científica (LNCC), o Laboratório VISGRAF do Instituto Nacional de Matemática Pura e Aplicada (IMPA), a empresa FT Sistemas e a Fábrica de Material
+de Comunicações e Eletrônica (FMCE) da Indústria de Material Bélico do Brasil
+(IMBEL). O sistema proposto, uma vez construído e totalmente operacional, serpa
+parte integrante de uma competência nacional das três instituições parceiras, em
+uma rede de cooperação acadêmica, científica e tecnológica em áreas do conhecimento
+relacionadas. Outrossim, ainda permitirá o estabelecimento de competência
+acadêmica em nível de graduação e pós-graduação na área cientíca e tecnológica,
+servindo de plataforma de estudos para implementac~ao pratica de Temas Dirigidos,
+Projetos de Iniciação Cientíca, Projetos de Fim de Curso, Dissertações de Mestrado
+e Tese de Doutorado, com capacitação de recursos humanos para a pesquisa
+tecnológica e o desenvolvimento de produtos de aplicação direta nas áreas afetadas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Claudia Marcela Justel - Integrante / Paulo Fernando Ferreira Rosa - Coordenador / Jauvane Cavalcante de Oliveira - Integrante / Raquel Coelho Gomes Pinto - Integrante / Leandro A.S.Moreira - Integrante / Ricardo Choren - Integrante / Luiz Carlos Pacheco Rodrigues Velho - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2016 - 2019
+Sistema para controle de múltiplos veículos aéreos não tripulados de pequeno porte para monitoramento persistente em ambientes dinâmicos
+Projeto certificado pelo(a) coordenador(a) Paulo Fernando Ferreira Rosa em 21/04/2017.
+Descrição: Neste trabalho, propõe-se um sistema para controle de múltiplos veículos aéreos não tripulados de pequeno porte (micro-VANTs) em tarefas de monitoramento persistente por cobertura de área, aplicado a missões de ISR (sigla em inglês para Inteligência, Vigilância e Reconhecimento). Nesta tarefa, a região de interesse deve ser frequentemente revisitada, bem como, apresenta pontos com maior prioridade, que podem mudar com a evolução da missão. Entretanto, devido ao baixo payload dos micro-VANTs, restrições de recursos podem limitar o alcance da comunicação necessária ao cumprimento desta tarefa. Neste cenário, uma Página 1 de 6 solução deve ser robusta, visando manutenção da conectividade e proteção das informações sensoriadas, de maneira que a frota de VANTs possa formar uma rede, na qual os dados sensoriados por aeronaves distantes da estação de controle possam ser retransmitidos por outras aeronaves mais próximas. A arquitetura do sistema proposto é baseada na coordenação de multiagentes robóticos embarcados, sendo utilizada a abordagem de coordenação espacial por posicionamento estratégico de agentes cooperativos. Nesta abordagem, serão adotados planos centralizados para execução distribuída, através dos agentes embarcados nas aeronaves, que cumprem papéis de sensoriamento e transmissão de dados. Também, adota-se o monitoramento por prioridades gradientes, através do particionamento da região em células, onde o ponto de maior interesse deverá ser atualizado com maior frequência, sendo esta reduzida gradualmente pela distância radial dos demais pontos. A arquitetura é dividida em três partes: (a) estação de controle em terra, para planejamento e controle dinâmico da missão por intervenção do usuário; (b) frota de quadricópteros com capacidade de navegação por sensores inerciais e GPS; (c) agentes de controle embarcados nas aeronaves, responsáveis pela comunicação entre as aeronaves e a estação de controle, alocação de tarefas e controle do payload da missão. Em síntese, o propósito do sistema é prover a um único piloto o controle de uma frota de micro-VANTs, com supervisão de alto nível centrada na tarefa, aplicado para monitoramento de cobertura de área com diferentes prioridades e controle dinâmico da missão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudia Marcela Justel - Integrante / Paulo Fernando Ferreira Rosa - Coordenador / CHOREN, Ricardo - Integrante / Paulo Cesar Pellanda - Integrante / Anderson F. Pereira dos Santos - Integrante / Luis Claudio Batista da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2014
+O IME na 38th Annual World Finals 2014 ACM International Collegiate Programming Contest (ICPC)
+Descrição: Este projeto tem por finalidade promover e aprimorar o trabalho desenvolvido por alunos do IME no
+preparo para participar de competições de programação (denominada Maratona de Programação, na
+versão brasileira da competição). Os alunos do IME já participaram de competições de programação
+nos anos passados. Após ter conseguido o 6to lugar na final Brasileira da Maratona de Programação
+em novembro de 2013, o time do IME chamado Timelino e formado por alunos do 5to ano da Seção
+de Engenharia de Computação ficou classificado para participar da 38thAnnual World Finals 2014
+ACM International Collegiate Programming Contest (ACM-ICPC)
+(http://icpc.baylor.edu/welcome.icpc) que será realizada entre 22 e 26 de junho na Ural Federal
+University, Ekaterinburg, Russia.
+A Maratona de Programação é um evento da Sociedade Brasileira de Computação que existe desde
+o ano de 1996. Ela nasceu das competições regionais classificatórias para a final Mundial do
+concurso de programação da ACM, o ?ACM-International Collegiate Programming Contest? e é
+parte da regional sulamericana (http://maratona.ime.usp.br ) do concurso. Destina-se aos alunos de
+cursos de graduação e início de pós-graduação na área de Computação. Universidades de todos os
+estados do Brasil apresentam times para participar da Maratona de Programação. Estes times
+competem na Maratona de onde os melhores são selecionados para participar da final mundial da
+?ACM-International Collegiate Programming Contest? (ACM-ICPC). Dentre os times que
+competem na Maratona de Programação são selecionados os que tiverem melhor desempenho para
+participar das Finais Mundiais do evento.
+O objetivo deste projeto é apoiar o Timelino na 38th Annual World Finals ACM-ICPC em Junho de
+2014. Nesse contexto, será criado um sistema de apoio ao treinamento para as competições de
+programação, de uso exclusivo dos alunos do IME. O sistema será constituido por material
+desenvolvido pelos alunos durante o prepeparo para a competição e permitirá armazenar
+conhecimentos adquiridos nesse processo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Claudia Marcela Justel - Coordenador / Paulo Fernando Ferreira Rosa - Integrante / CHOREN, Ricardo - Integrante / Maria Cláudia Reis Cavalcanti - Integrante / Alex Garcia - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2013 - 2015
+Problemas em Teoria Espectral de Grafos e aplicações em Redes Complexas
+Projeto certificado pelo(a) coordenador(a) Leonardo Silva de Lima em 02/05/2013.
+Descrição: Projeto Universal CNPq 485542/2012-9. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Claudia Marcela Justel - Integrante / Carla Silva Oliveira - Integrante / Leonardo Silva de Lima - Coordenador / Rafael Barbastefano - Integrante / Cristina Gomes de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 11
+2010 - 2013
+Modernização do laboratório de Robótica e Inteligência Computacional do Instituto Militar de Engenharia
+Descrição: O presente projeto, enquadrado na faixa de recursos de R$ 250.000,00, trata da reforma e modernização do Laboratório de Robótica e Inteligência Computacional do Instituto Militar de Engenharia através da manutenção dos equipamentos existentes e compra de novos materiais nacionais e importados. Este projeto trata do desenvolvimento do protótipo de um sistema de navegação para um conjunto de robôs móveis autônomos operando cooperativamente, para a realização de tarefas em ambientes desestruturados ou semi-estruturados. Sendo assim, o presente projeto tem como objetivo principal a integração, em uma rede única, de tecnologias para a área de robótica já desenvolvidas ou em desenvolvimento pelos pesquisadores envolvidos. Em particular, o presente projeto realizará atividades de pesquisa e desenvolvimento e de formação de recursos humanos nos seguintes temas: -Veículos aéreos não-tripulados (VANT); -Veículos terrestres não-tripulados; -Sistemas autônomos e inteligentes de Robótica; -Planejamento dinâmico de trajetórias livres de obstáculos; -Modelagem de sistemas multi-agentes; -Otimização meta-heurística e inteligência computacional; -Competicões nacionais e internacionais de robótica: Liga RoboCup; -Arquitetura de sistemas de eletrônica embarcada; -Integração hardware-software; -Controle robusto. Com a aquisição de novos materiais e a consequente modernização dos laboratórios em questão, espera-se obter um ambiente mais propício à formação de recursos humanos com alto grau de capacitação na área de robótica, ou seja, preencher um requisito básico para a obtenção de resultados de pesquisa relevantes e de produtos com satisfatório nível de aplicabilidade no cenário nacional.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudia Marcela Justel - Integrante / Paulo Fernando Ferreira Rosa - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2010 - 2012
+Espectro de Matrizes associadas a Grafos e sua aplicação em Problemas de Otimização Combinatória
+Descrição: Projeto Universal CNPq 474754/2010-3. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Claudia Marcela Justel - Integrante / Nair Maria Maia de Abreu - Integrante / Carla Silva Oliveira - Coordenador / Leonardo Silva de Lima - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 13
+2008 - 2010
+Laboratório de Aquisição e Difusão de Informações Epidemiológicas
+Descrição: As medidas de educação sanitária e de mobilização comunitária contribuem como ações de controle. No entanto, em ocasiões de onda epidêmica, se faz necessário tomar ações contingenciais baseadas nas informações epidemiológicas. Assim, é importante manter o fluxo de informações epidemiológicas atualizado, supervisionar a execução das ações no Estado, programar e executar a capacitação de recursos humanos e gerenciar a mobilização de recursos. Essas medidas ajudam sobremaneira a acelerar o processo de avaliação e tomada de decisão, requerendo uma integração dos dados coletados nos processos de monitoramento epidemiológico e com processos de Comando e Controle.
+	Tendo em vista estas exigências, este projeto tem como objetivo gerar a infra-estrutura tecnológica para a construção do Laboratório de Aquisição e Difusão de Informações Epidemiológicas do Estado do Rio de Janeiro. Para tanto, é proposta uma estratégia para o processo de integração de informações sobre doenças epidemiológicas coletadas nas diversas instâncias do Sistema Público de Saúde, em momentos de maior incidência da doença. Esta estratégia permitirá desenvolver um arcabouço para a integração de informações, fortalecendo assim o monitoramento epidemiológico e permitindo a implantação de núcleos regionais de contingência sem a perda de dados dos atendimentos feitos à população nestes núcleos. Como resultado de mais longo prazo, vislumbra-se o desenvolvimento de ferramentas de comando e controle para Vigilância Epidemiológica, podendo levar o Laboratório a se tornar um futuro Centro Estadual de Aquisição e Difusão de Informações Epidemiológicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudia Marcela Justel - Integrante / SALLES, Ronaldo Moreira - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2007 - 2009
+Propriedades Estruturais em Famílias de Grafos
+Descrição: Projeto Universal CNPq 473603/2007-1. Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudia Marcela Justel - Integrante / Lilian Markenzon - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4

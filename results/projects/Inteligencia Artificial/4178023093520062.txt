@@ -1,0 +1,82 @@
+2023 - Atual
+Monitoramento geodésico e fotogramétrico da estrutura do prédio principal da Universidade Federal Rural do Rio de Janeiro, Campus de Seropédica
+Descrição: O presente trabalho de pesquisa tem como objetivo monitorar uma possível movimentação tridimensional da estrutura, também denominada de recalque,
+do Prédio Principal (P1) da Universidade Federal Rural do Rio de Janeiro (UFRRJ), Campus de Seropédica, em função de uma movimentação do solo
+onde o prédio está localizado. Sabe-se que toda construção seja ela de pequena ou grande porte, dependendo das condições do terreno, seja ele por
+questões de inclinação ou mesmo da composição do solo, estão sujeitos a movimentações que podem abalar a sua estrutura ao longo dos anos. Estudos
+de monitoramento geotécnicos e geodésicos permitem analisar possíveis abalos, de modo que seja possível manter a preservação de um patrimônio
+histórico e preservar a segurança das pessoas que frequentam diariamente o local seja por questões de trabalho ou para fins acadêmicos, como é o caso
+do P1 da UFRRJ. Nos últimos anos, tem-se verificado a existência de rachaduras em paredes de algumas salas e auditórios dentro do prédio, sendo
+assim, a pesquisa ora submetida tem como objetivo principal analisar por meio de métodos geodésicos e fotogramétricos a existência de possível
+movimentação tridimensional na estrutura do prédio. A metodologia a ser utilizada baseia-se no monitoramento de alvos pré-determinados na fachada no
+P1 e seu monitoramento ao longo de 8 meses, utilizando métodos geodésicos para determinação de coordenadas tridimensionais com posicionamento
+com receptores do Sistema Global de Navegação por Satélite (do inglês Global Navigation Satellite System - GNSS) e por irradiação com Estação Total, e
+também com o método fotogramétrico utilizando coordenadas advindas de imagens proveniente de voo com Aeronave Remotamente Pilotada (ARP).
+Cabe salientar que levantamentos serão realizados considerando não variações temporais, mas também as condições climáticas, isto é, períodos de
+chuva, sol, para verificar a estabilidade da estrutura quando submetida a estas condições. O estudo do monitoramento estrutural é importante para garantir
+a preservação de um patrimônio histórico e tombado, e também a segurança por parte dos estudantes, docente, técnicos administrativos, trabalhadores
+terceirizados, entre outros, que frequentam o local diariamente. Além do fato que, se alguma movimentação for previamente detectada, medidas
+provisórias podem ser tomadas, evitando danos futuros.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Svonka Palmeiro - Coordenador / ALESSANDRA CARREIRO BAPTISTA - Integrante.
+2023 - Atual
+Análise da suscetibilidade a escorregamentos e identificação de áreas potenciais aos investimentos habitacionais. Estudo de caso: município de Petrópolis, RJ
+Descrição: O uso inadequado e irregular do solo urbano leva a um crescente processo de degradação das paisagens, trazendo como consequências a diminuição da
+qualidade de vida e a deflagração de acidentes que levam a perdas humanas e materiais. Os eventos climáticos da última década chamam a atenção pela
+intensidade (eventos extremos) e pela frequência com que têm se alternado. As mudanças climáticas têm sido registradas tanto em nível local, quanto em
+nível mundial. Isso fez com que temas como a expansão urbana, desastres naturais e risco geológico despertassem o interesse científico dos professores
+e alunos, principalmente pelo emprego de novas tecnologias, como os SIG, que permitem a análise espacial dos fenômenos que ocorrem na superfície
+terrestre. Os desastres naturais, portanto, resultam da conexão entre áreas suscetíveis à ocorrência de eventos naturais e a ocupação, ou uso, dessa
+mesma área para a implantação de qualquer tipo de atividade humana. Assim, a presente pesquisa tem como objetivo desenvolver investigações sobre
+questões ambientais a partir do mapeamento das áreas suscetíveis no município de Petrópolis, RJ, uma vez que o município apresenta características
+potenciais para o desenvolvimento de áreas de risco, pois se posiciona em região de topografia acidentada e mostra-se em processo acelerado e irregular
+de urbanização. Dessa forma, as cidades também refletem os danos ambientais causados pela civilização moderna; entretanto, os especialistas e os
+formuladores de políticas reconhecem cada vez mais o valor potencial das cidades para a sustentabilidade em longo prazo. Mesmo que as cidades gerem
+problemas ambientais, elas também contêm as soluções. O desafio está em aprender como explorar suas possibilidades. Destarte, os cenários gerados
+podem ser utilizados para a identificação de ameaças e oportunidades de recuperação. Os resultados desse projeto podem servir para a articulação entre
+ensino e pesquisa ao possibilitar que as fontes aqui geradas subsidiem outras pesquisas, bem como as disciplinas ministradas pela coordenadora do
+projeto, professores colaboradores e demais professores.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Svonka Palmeiro - Integrante / ALESSANDRA CARREIRO BAPTISTA - Coordenador.
+2022 - Atual
+Análise da dinâmica espacial do desmatamento no Bioma Amazônico
+Descrição: O desmatamento vem se apresentando como um dos maiores problemas ambientais existentes na atualidade, com suas consequências e impactos,
+muitas vezes, irreversíveis. É importante a análise e monitoramento florestal constantes para que tal problemática tenha sua expansão avaliada, o quanto
+antes, para possíveis intervenções de políticas públicas e planejamento de manejo e reflorestamento. Nesse sentido, é de fundamental importância avaliar
+a situação atual e simular o futuro potencial desmatamento na região tendo em vista as alterações causadas pelas variações climáticas e por ações
+antrópicas que podem elevar as emissões de gases do efeito estufa. Tais simulações são feitas através de modelagem, utilizando a
+ferramenta Land Change Modeler LCM, associada a variáveis possivelmente influentes na região. A modelagem da dinâmica ambiental representa uma
+ferramenta importante que permite a geração de diagnóstico, previsões e simulações e teve intenso desenvolvimento nas últimas décadas devido, entre
+outros fatores, a popularização do Sistema de Informação Geográfica - SIG. Os modelos caracterizam-se como representação de forma simplificada da
+realidade e podem contribuir para uma gestão pública aplicada a planejamentos ambientais locais. Assim, este trabalho objetiva analisar as alterações
+sofridas pela cobertura vegetal, caracterizadas pelo desmatamento na região Amazônica, no período entre as décadas de 1980 e 2000, simulando um
+cenário atual para comparação com a realidade, além de simular o cenário futuro da região para o ano de 2050, utilizando dados históricos de imagens de
+satélite e, com o intuito de cumprir o papel da transparência e divulgação pública das informações aqui produzidas, construir-se-á uma aplicação web para
+exibir e disponibilizar os dados
+espaciais. Os cenários gerados podem ser utilizados para a identificação de ameaças e
+oportunidades de recuperação.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Svonka Palmeiro - Integrante / ALESSANDRA CARREIRO BAPTISTA - Coordenador / PAULO LEONCIO DA SILVA DE MELO - Integrante / PRISCILA DE LIMA E SILVA - Integrante / RICARDO VILAR NEVES - Integrante.
+2020 - Atual
+Rede geodésica local do Colégio Técnico da Universidade Rural
+Descrição: As redes geodésicas são de vital importância no desenvolvimento territorial, na construção civil, na preservação ambiental, na produção agrícola, no
+mapeamento de doenças e entre outras atividades que necessitam do georreferenciamento da informação. Porém, o georreferenciamento da informação
+só pode ser unívoca a partir de vértices (marcos) materializados, que possuem suas coordenadas determinadas por levantamentos geodésico/topográfico
+e ajustadas por métodos específicos ao qual irá determinar a incerteza posicional. As redes geodésicas locais são implantadas, com origem na rede
+nacional, e possuem o objetivo de possibilitar aos usuários a maior quantidade de vértices no apoio em projetos que precisam da informação
+georreferenciada. O curso de Agrimensura do Colégio Técnico da Universidade Rural (CTUR) possui práticas nas áreas de topografia, geodésia,
+cartografia, sensoriamento remoto e projetos de vias de estrada que necessitam de vértices georreferenciados no apoio das atividades de ensino teórico e
+prático. O CTUR possui uma rede local antiga que foi determinada ao longo do tempo por vários métodos de levantamento geodésico e topográfico sem a
+integração dos dados de levantamento, ocorrendo que um mesmo vértice possui mais de uma coordenada, outro fato que muitos vértices foram destruídos
+e implantados. Dessa forma, o objetivo desse projeto é desenvolver uma metodologia de implementação da rede geodésica planimétrica local do CTUR
+com finalidade trabalhos práticos e acadêmicos do curso técnico em agrimensura e da engenharia de agrimensura e cartográfica da UFRRJ e apoio no
+controle de obras. A metodologia consiste em identificação e fotografia dos vértices da rede existente, levantamento e pré-processamento topográfico com
+estação total, levantamento e processamento de observações por receptores Global Navigation Satellite System (GNSS), ajustamento da rede de apoio
+GNSS e ajustamento da rede geodésica local do CTUR. Os resultados esperado será a criação de metodologia de redes locais, comparar melhores
+modelo de ajustamento, desenvolver metodologia da determinação da rede GNSS, determinar coordenadas dos vértices da rede geodésica local com
+qualidade posicional compatível com as atividades de aulas práticas e teóricas e preparar monografias dos vértices para a divulgação dos resultados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandra Svonka Palmeiro - Integrante / VICTOR HUGO FERNANDES - Coordenador.
+2013 - Atual
+Análise da distribuição de macroinvertebrados dulcícolas do Estado do Paraná utilizando um Sistema de Informação Geográfica (SIG)
+Descrição: Uma das maiores dificuldades em estudos de biomonitoramento com macroinvertebrados dulcícolas no Paraná é a falta de conhecimento da fauna local e acesso a estudos anteriores. Por essa razão, é de grande importância um estudo que reúna todos os trabalhos realizados até o momento no estado, contribuindo para inventariar e aumentar substancialmente a base de conhecimento sobre os estudos com macroinvertebrados dulcícolas. 
+O uso de macroinvertebrados dulcícolas é cada vez maior na área de manejo e monitoramento ambiental, utilizando de sua estrutura e composição da comunidade. Ainda não são muitos os pesquisadores que trabalham nessa área no estado do Paraná e o número de publicações, embora crescente, ainda é bastante reduzido, o que dificulta o conhecimento da distribuição dos diferentes grupos em ambientes aquáticos. Assim, o escasso conhecimento desses organismos no Brasil, e em especial para o estado do Paraná, mostra a fragilidade na integração de dados para comparações e determinação de ações efetivas. 
+A integração dos dados em um Sistema de Informação Geográfica (SIG), a análise espacial e a confecção de mapas temáticos fornecerá aos pesquisadores da área subsídios para melhor avaliação temporal e monitoramento de dados de diferentes regiões, garantindo resultados e conclusões mais precisas em trabalhos sobre a Biologia, distribuição desses organismos, além do manejo e monitoramento de ambientes aquáticos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Svonka Palmeiro - Coordenador / Lucíola Thais Baldan - Integrante.
+2009 - 2011
+Modelagem das Componentes Anômalas do Geopotencial
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Svonka Palmeiro - Coordenador.
+2009 - 2010
+Diagnóstico da pesca artesanal e Amadora no baixo Araguaia - Tocantins - Pará
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Svonka Palmeiro - Integrante / Zacarkim, Carlos Eduardo - Coordenador.

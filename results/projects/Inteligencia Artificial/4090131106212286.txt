@@ -1,0 +1,51 @@
+2016 - 2018
+Integração Semântica de Aplicações Computacionais
+Descrição: Este projeto tem como objetivo a construção de uma infraestrutura que permita a extra-
+ção dos dados de um sistema computacional base, com dados armazenados em um banco de
+dados relacional, a conversão destes dados para um padrão definido com base nas tecnologias
+da web semântica, recomendadas pelo W3C e a armazenagem destes dados, semanticamente
+especificados, em um repositório semântico. Este repositório deverá ser usado como fonte para
+a publicação de dados abertos e também como meio facilitador de interoperabilidade entre o
+sistema base e outros sistemas.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Cedric Luiz de Carvalho - Coordenador / João Carlos da Silva - Integrante / Renan Rodrigues de Oliveira - Integrante / Otávio Calaça Xavier - Integrante / Norton Coelho Guimarães - Integrante / Leonardo Andrade Ribeiro - Integrante / Renato de Freitas Bulcão Neto - Integrante / Juarez Enéias de Lima - Integrante / Marcello Henrique Dias Moura - Integrante.
+2014 - 2017
+Desenvolvimento de Metodologias para a Construção Semiautomatizada  de Ontologias de Domínio - Projeto e Construção de  uma Ontologia de Domínio para a Área de Segurança Pública
+Descrição: Este projeto tem como objetivo:
+- Propor uma metodologia para a contrução semiautomatizada de ontologias a partir de
+documentos eletrônicos textuais.
+- Aplicar a metodologia proposta no projeto na construção uma ontologia de domínio para
+representar os conceitos relativos à área de Segurança Pública e as relações entre eles, que
+auxilie no desenvolvimento de sistemas baseados em conhecimento para apoiar a gestão
+de recursos, tanto materiais quanto humanos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Cedric Luiz de Carvalho - Coordenador / Renan Rodrigues de Oliveira - Integrante / Ericsson Santana Marin - Integrante / Norton Coelho Guimarães - Integrante / Júlio César Batista Pires - Integrante / Jáderson Araújo Gonçalves da Cruz - Integrante / Tatiane Ferreira do Nascimento Melo - Integrante.
+2010 - 2012
+Sistema de Apoio à Tomada de Decisão Eficiente de Atendimento a Ocorrências
+Descrição: Este projeto visa o desenvolvimento de um Sistema Inteligente de Apoio à Decisão para a distribuição de viaturas em uma área geográfica (cidade de Goiânia) e sua alocação para o atendimento a ocorrências. O sistema visa resolver um problema da Companhia Energética de Goiás (CELG) na otimização de recursos e na melhoria do atendimento aos seus consumidores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Especialização: (1)  / Mestrado acadêmico: (2) . Integrantes: Cedric Luiz de Carvalho - Coordenador / Fábio Moreira Costa - Integrante / Telma Woerle de Lima Soares - Integrante / Max Gontijo de Oliveira - Integrante / Francisco Calaça Xavier - Integrante.Financiador(es): Companhia Energética de Goiás - Outra.
+2010 - 2012
+Comunidades Virtuais Semânticas em Salas de Aula Interativas
+Descrição: O objetivo deste projeto é analisar o potencial de promover o uso de comunidades virtuais de prática semânticas (que incorporaram conceitos da Web Semântica (WEB 3.0) como ferramenta de promoção do aprendizado em sala de aula. 
+Através de uma plataforma inteligente, os alunos poderão desenvolver atividades em grupo, de forma cooperativa e colaborativa, contando com o apoio de um sistema capaz de integrar as contribuições individuais e coletivas, auxiliando na recuperação de informações relevantes através da WEB 3.0.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Cedric Luiz de Carvalho - Coordenador / Fábio Moreira Costa - Integrante / Ana Paula Laboissière Ambrósio - Integrante.Financiador(es): Dell Computadores do Brasil - Auxílio
+										financeiro.
+2009 - 2012
+Recuperação de Informação e Extração de Conhecimento em Ambientes Distribuídos Heterogêneos
+Descrição: Este projeto visa a construção de uma infra-estrutura, baseada nos princípios da Web Semântica, para a implantação de Comunidades Virtuais de Prática (COPs) na Web. Na implementação do projeto deverão ser usadas ferramentas já existentes, as quais deverão ser integradas às ferramentas  a serem desenvolvidas no decorrer do projeto. Deseja-se oferecer aos membros das comunidades um ponto de acesso único a todos os recursos disponibilizados pela comunidade e, através de ferramentas de recuperação de informação também baseadas nos mesmos princípios já mencionados, acesso a recursos disponíveis na web como um todo.
+São os seguintes os principais objetivos deste projeto:
+        - Implementar o núcleo de um arcabouço para a construção de CoPs. Tal núcleo deverá ser construído a partir de uma arquitetura multiagente. 
+	- Propor metodologia para a construção semi-automatizada de ontologias, a partir de documentos das CoPs
+	- Propor mecanismos de persitência dos documentos das CoPs, utilizando especificações semânticas, em uma infra-estrutura de uma grade semântica
+	- Propor mecanismos para a recuração de informação dentro das COPs, considerando suas especificações semânticas.
+	-  Contruir um conjunto de ferramentas que facilitem o trabalho colaborativo dentro das comunidades: Forum Semântico, Wiki, Biblioteca Digital, etc.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (5) . Integrantes: Cedric Luiz de Carvalho - Coordenador / João Carlos da Silva - Integrante.
+2004 - 2008
+Desenvolvimento de Ferramentas Inteligentes para a Web Semântica
+Descrição: O desenvolvimento e popularização da Internet provocou uma revolução no que diz respeito à
+  democratização da informação e do conhecimento. Apesar de uma vasta quantidade de informações
+  estar disponível, a localização de algo específico é extremamente difícil. Grande parte desta
+  dificuldade pode ser creditada à forma com que estas informações são disponibilizadas. A Web
+  Semântica é uma proposta no sentido de minimizar este problema. Este projeto visa contribuir
+  com o estabelecimento e consolidação da Web Semântica gerando ferramentas que possam ser
+  aplicadas na disponibilização e recuperação de informações na Internet.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (4)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cedric Luiz de Carvalho - Coordenador / Júnio César de LIma - Integrante / José Mauro da Silva - Integrante / Márcio de Sousa Balian - Integrante / Fernando Chadas Santos - Integrante / Helen Carmo de Oliveira - Integrante / Égio Arruda Júnior - Integrante.
+2000 - 2004
+Desenvolvimento de Ferramentas Inteligentes para Educação a Distância, Treinamento e Comércio Eletrônico
+Descrição: Pode-se identificar vários problemas comuns no desenvolvimento de aplicações para educação a distância (treinamento), via Internet, e para comércio eletrônico.  Este  projeto propõe o estudo de uma parte destes problemas: aqueles relacionados à localização e ao tratamento de informações no escopo da Internet. 
+O objetivo principal deste projeto consiste no desenvolvimento de ferramentas que possam facilitar a construção de ambientes nos quais os perfis dos usuários possam ser identificados, seja pelo monitoramento da interação de cada usuário como o ambiente, seja pela análise dos dados relativos a outros usuários que interagiram anteriormente com o mesmo ambiente. Espera-se também obter, como resultado deste projeto, aplicações computacionais e/ou metodologias que ajudem na configuração automática de ambientes, de acordo com o perfil de cada usuário.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cedric Luiz de Carvalho - Coordenador / Fernando Rosa Vaz - Integrante / Lívia Maria Rocha de Vasconcelos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 21
+1999 - 2000
+NetProlog: um sistema de progrmação em lógica para a máquina virtual Java.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Cedric Luiz de Carvalho - Coordenador.

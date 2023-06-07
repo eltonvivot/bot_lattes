@@ -1,0 +1,36 @@
+2020 - Atual
+ANÁLISE DE DISSEMIÇÃO GEOGRÁFICA DE EPIDEMIAS COM INTELIGÊNCIA ARTIFICIAL APLICADA A REDES SOCIAIS ONLINE
+Descrição: Com o crescente acesso a internet  vários aspectos da vida cotidiana passaram a ser realizados de forma online, como o teletrabalho, acesso a informação, entretenimento e o convívio social, através Redes Sociais online. Nestes ambientes virtuias de convívios são compartilhados muitos tipos de informações, como num círculo social real, inclusive relatos de pessoas acometidas por epidemias. Neste contexto, este projeto visa aplicar técnicas de inteligência artificial nos dados gerados em redes sociais online, afim de determinar a disseminação de doenças associadas a epidemias, como por exemplo, o COVID-19.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Diego de Azevedo Gomes - Coordenador / Ericksson Lucas Silva Roque - Integrante.
+2019 - 2020
+Processamento Digital de Sinais  Aplicado a Redução de Dimensão de Sinais Cardíacos para Entrada de Algoritmos Inteligentes
+Descrição: Este projeto tem por objetivo estudar as técnicas de processamento digital de sinais, de domínio do tempo e frequência, para a redução de dimensão de sinais vitais, como eletrocardiograma (ECG) e fotopletismograma (PPG), em aplicaçções em que estes sinais servem de entrada de algoritmos inteligentes. Tal estudo será realizado com o obejtivo de reduzir a quantidade de dados transmitdos em uma rede de comunicação em que um dispositivo de aquisição destes sinais precisa se comunicar com um servidor que aglomera informações de vários pacientes. Além disso, pretende-se reduzir o custo computacional de aplicações que rodam em  nuvem, e que utilizam algoritmos inteligentes para a  identificação de anomalias cardíacas a partir do ECG e do PPG.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Diego de Azevedo Gomes - Coordenador / ADAM DREYTON FERREIRA DOS SANTOS - Integrante.
+2018 - 2019
+PRÉ-PROCESSAMENTO DE SINAIS E APLICAÇÃO DE INTELIGÊNCIA ARTIFICIAL PARA IDENTIFICAÇÃO DE ANOMALIAS CARDÍACAS
+Descrição: Este projeto pretende aplicar técnicas de inteligência computacional e ferramentas de processamento digital de sinais, na tarefa de identificação de males cardiovasculares como fibrilação atrial e acidente vascular cerebral. Este estudo tem grande importância devido o crescimento da porcentagem de mortalidades atribuídas a complicações em doenças cardiovasculares. Além disso, os métodos derivados deste estudo, podem ser aplicados em dispositivos vestíveis, fazendo com que estes estendam suas funções de monitoramento, chegando a ter a capacidade de informar o usuário sobre possíveis problemas cardíacos. Os dados utilizados no estudo serão obtidos a partir de bancos de dados públicos que são utilizados por pesquisadores da área.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diego de Azevedo Gomes - Coordenador / Nielson da Silva Pinho - Integrante.
+2016 - 2018
+DESENVOLVIMENTO DE METODOLOGIA PARA TRATAMENTO DE VÍDEOS MPEG-4 BASEADA EM PERFIS DE PERDA
+Descrição: O presente trabalho apresenta uma proposta de metodologia de melhoramentos de transmissões/recepção de vídeo mpeg-4 em sistemas que utilizam como modulação o OFDM, buscando-se mapear perfis de perda de frames. Para isto, além de realizar a abordagem cross layer, também será necessário efetuar uma análise de desempenho baseada em parâmetros de QoS (qualidade de serviço) e QoE (qualidade de experiência), ou seja, avaliação de métricas objetivas, as quais estimam a qualidade do vídeo recebido pelo usuário através de modelos matemáticos quantitativos, cujos os valores computados são mapeados em valores subjetivos de qualidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Diego de Azevedo Gomes - Integrante / João Victor Costa Carmona - Coordenador.
+2016 - 2018
+Modelagem e Mitigação de Interferência em Sistemas G.fast
+Descrição: O projeto é derivado da pesquisa de doutorado do autor, e tem como objetivo modelar interferências do tipo Alien Crosstalk em transmissões em sistemas G.fast, assim como desenvolver algoritmos adequados para tais interferências.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Diego de Azevedo Gomes - Coordenador / Aldebaro Barreto da Rocha Klautau Jr - Integrante / Claudomiro de Souza de Sales Jr - Integrante / João Victor Costa Carmona - Integrante / Diego Kasuo Nakata da Silva - Integrante / Nielson da Silva Pinho - Integrante.
+2013 - 2014
+DSL Algorithms For Mobile Backhauling
+Descrição: The main goal of the proposal is to contribute with Ericsson Research in the
+development of new copper-based transmission technologies, especially the ones based on
+the G.fast standard. The adoption of G.fast as an effective alternative to mobile backhauling
+in heterogeneous networks (see Ericsson?s RBS 6000 portfolio) brings several research
+challenges. Many related open questions are listed in the CELTIC project HFCC-G.fast
+(?Hybrid Fibre-Copper connectivity using G.fast?), which is aligned with this proposal. The
+current proposal aims at advancing the state of art via technical publications describing new
+algorithms and models, and also studying their implementation in the UFPA_DSL platform
+currently under development. The project also focuses in contributing with Ericsson
+Research towards patents and standardization contributions.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Diego de Azevedo Gomes - Integrante / Aldebaro Barreto da Rocha Klautau Jr - Coordenador.
+2010 - 2012
+GIGABIT xDSL PARA A QUARTA GERAÇÃO DE REDES BANDA LARGA
+Descrição: Investigar o ruído presente na linha do assinante quando se usa frequências de até 100 MHz e o sistema Gigabit DSL proposto. Avaliar os algoritmos da camada física do sistema proposto em condições de tráfego elevado e interferências. Relatório final descrevendo os resultados do projeto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Diego de Azevedo Gomes - Integrante / Aldebaro Barreto da Rocha Klautau Jr - Coordenador.
+2009 - 2010
+Laboratório de Sensores e Sistemas Embarcados (LASSE)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Diego de Azevedo Gomes - Coordenador.Financiador(es): Fundação Amazônia Paraense de Amparo à Pesquisa - Bolsa.
+2008 - 2009
+Análise de Desempenho e Desenvolvimento de Métricas Perceptuais para Avaliação Automática da Qualidade de Imagens Digitais
+Descrição: A popularização de dispositivos que adquirem e processam imagens digitais fez com que métricas mais avançadas para avaliação de qualidade automática de imagens fossem desenvolvidas. Este projeto tem como objetivo avaliar as métricas de estado da arte, tanto as perceptuais como as não perceptuais, para definir parâmetros que possam definir uma métrica como boa avaliadora de imagens que possam ter distorções do tipo ruído branco, sal e pimenta e borramento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diego de Azevedo Gomes - Integrante / Ronaldo de Freitas Zampolo - Coordenador.

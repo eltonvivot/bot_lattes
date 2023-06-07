@@ -1,0 +1,6 @@
+2013 - Atual
+servico de telecomunicacoes em ambiente aeronautico
+Descrição: O projeto visa conectar passageiros de aeronaves aos seus servicos de telecomunicacoes que usam em terra. No decorrer do proximo ano esta sendo proposto projeto na area do ATM ( Air Traffic Management) com a partecipacao do iceia/CTA. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Alessandro Anzaloni - Coordenador.
+2013 - Atual
+Aplicacao de Redes SDN( software defined network) em smart grids
+Descrição: O pojeto visa aplicar a arquitetura e funcionalidades ofercidas pelo SDN utilizando Openflow em smart grid. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Alessandro Anzaloni - Coordenador.

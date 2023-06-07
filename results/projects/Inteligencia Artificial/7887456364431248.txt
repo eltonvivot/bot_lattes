@@ -1,0 +1,10 @@
+2022 - Atual
+Controle automatizado de iluminação das salas de aula
+Descrição: O projeto proposto consiste de um controle automatizado para a iluminação utilizando dispositivos de Internet das Coisas (IoT) e desenvolvimento de um aplicativo web ou app para celular,  pelo qual será possível administrar a iluminação de todas ou parte das salas de aula, com a opção de selecionar o modo manual, no qual o próprio usuário escolhe a intensidade luminosa do ambiente, ou automático, em que o dispositivo inteligente controla o acendimentos das lâmpadas como base nos valores locais captados pelos sensores. O aplicativo terá o propósito de exibir o status dos ambientes em tempo real além dos relatórios de funcionamento e estimativas de economia energética alcançada.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre Domingues Gonçalves - Coordenador / BERNARDO ROWLANDS ROCHA - Integrante.
+2012 - 2015
+ELABORAÇÃO DE PROTÓTIPOS EM ROBÓTICA EDUCAICONAL APLICADOS AO SETOR DE PETRÓLEO E GÁS
+Descrição: Programa de Fromação de Recursos Humanos / PFRH PETROBRAS. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Domingues Gonçalves - Coordenador / Lucas Nogueira Guimarães - Integrante / Pablo Dias Oliveira - Integrante.
+2009 - 2011
+Projeto Integrado de Aplicações de Geofísica para as Arquiteturas Atuais de  Processamento de Alto Desempenho
+Descrição: Convênio Petrobra-UFF
+Desenvolvimento de aplicação de alto desempenho para avaliação de dados geofísicos para uso interno da Petrobras. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Domingues Gonçalves - Integrante / Lúcia Maria de Assumpção Drumond - Coordenador.

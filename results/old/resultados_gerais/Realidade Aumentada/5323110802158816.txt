@@ -1,0 +1,61 @@
+2014 - Atual
+Estudo de Esquemas de Proteção e Controle de Sistemas de Geração Distribuída que Acessam Redes de Distribuição de Energia Elétrica
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Carlos Amaro da Silva - Integrante.
+2014 - Atual
+Estimação de Fasores Síncronos em Barras de Sistemas Elétricos de Potência para Análise de Sistemas de Potência
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / André de Souza Lima - Integrante.
+2011 - 2013
+Estudo da Norma IEC-61850 para Aplicação em Automação e Proteção de Subestações de Energia Elétrica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Alan Cássio Queiroz Bezerra Leite - Integrante.
+2011 - 2013
+Análise de Distúrbios de Qualidade da Energia Elétrica em Sistemas Elétricos de Potência: Afundamentos de Tensão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Integrante / Flávio Bezerra Costa - Coordenador.
+2011 - 2012
+Desenvolvimento de Software para Estratificação de Solos por Meio de Algoritmo Genético
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Everton José do castro Rego - Integrante.
+2010 - 2012
+Ferramenta Computacional Baseada na Transformada Wavelet para Suporte ao Desenvolvimento de Métodos de Diagnóstico de Distúrbios em Sistemas Elétricos de Potência
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Integrante / Flávio Bezerra Costa - Coordenador.
+2010 - 2011
+Cálculos de Faltas (curtos-circuitos) Usando o Software Livre ATP e Verificação de Desempenho de Relés de Sobrecorrente e Sobretensão Instalados no Lado Delta de um Transformador Delta-Estrela Aterrada
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Sâmra de Cavalcante Paiva - Integrante.
+2008 - 2010
+Localização Digital de Faltas em Linhas de Transmissão
+Descrição: As linhas de transmissão são partes vitais de um sistema de potência. Elas transportam a energia elétrica gerada nas usinas até os centros consumidores. Um algoritmo para localização digital de faltas tem por função a determinação da localização do ponto de falta. Diversas abordagens utilizando a tecnologia digital foram desenvolvidas e diferentes princípios já foram aplicados para resolver este problema. De uma forma geral, as abordagens podem ser classificadas de acordo com o modo de obtenção dos dados provenientes de um único terminal ou de dois terminais.
+Para a localização de faltas, com algoritmos que utilizam dados disponíveis em um terminal da linha, a impedância aparente e as correntes de pré-falta podem ser usadas para calcular a localização da falta, contudo, não apresentam uma boa exatidão.
+Para melhorar a exatidão, muitos autores propõem algoritmos que utilizam informações de dados observados nos dois terminais da linha. Ambas as abordagens utilizam as componentes fundamentais dos sinais provenientes dos terminais da linha.
+Uma outra abordagem para o problema utiliza componentes não fundamentais para calcular a distância do ponto de falta aos barramentos. Para tal cálculo, emprega a teoria de ondas viajantes.
+Neste trabalho pretende-se estudar estas e outras abordagens descritas na literatura, a fim de desenvolver um programa de computador, para localização de falta em uma linha de transmissão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Manoel Firmino de Medeiro Jr - Integrante.
+2007 - 2010
+P&D CHESF: Localização de Defeitos em LT com o Uso de Arquivos Comtrade dos Dois Terminais da Linha
+Descrição: O sistema a ser desenvolvido é uma ferramenta que efetua a localização de defeitos em Linhas de Transmissão de Energia Elétrica através de algoritmos que analisam os arquivos Comtrade de curto-circuito, de ambas as extremidades da LT, preferencialmente de modo automático, complementando os sistemas gerenciadores de arquivos de oscilografia existentes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcos Antonio Dias de Almeida - Integrante / Paulo Sérgio da Motta Pires - Integrante / Manoel Firmino de Medeiro Jr - Integrante / Denis Vinicius Coury - Coordenador.Financiador(es): Companhia Hidréletrica do São Francisco - Bolsa.
+2007 - 2008
+Cálculos de Impedâncias Medidas por Relés de Distância e Estudo de Suas Respostas para os Diversos Tipos de Curtos-circuitos que Podem Ocorrer num Sistema Elétrico de Potência Trifásico Aterrado
+Descrição: A aplicação de relés contra faltas (curtos-circuitos) em sistemas elétricos requer o conhecimento detalhado das correntes e tensões que ocorrerão no ponto de aplicação de qualquer relé durante os curtos-circuitos. Deve-se considerar a operação dos relés durante faltas trifásicas, faltas bifásicas e faltas envolvendo a terra (sistema trifásico aterrado). Todos esses tipos de faltas podem ser calculadas com a ajuda de um programa de computador. A técnica da matriz de impedância de barra é a mais popular e presta-se ao cálculo rápido de faltas em todas as barras (nós) do sistema elétrico. O relé de distância, muito usado em linhas de transmissão de energia elétrica, mede a relação entre a tensão pré-falta e a corrente de falta, que é a impedância de seqüência positiva do sistema, medida entre o ponto de instalação do relé e o ponto da falta. Este trabalho visa o desenvolvimento de um programa de computador para calcular essa impedância e simular a resposta desse tipo de relé aos diferentes tipos de faltas que podem ocorrer em um sistema elétrico trifásico aterrado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Manoel Firmino de Medeiros Jr - Integrante / Melinda Cesianara Silva da Cruz - Integrante.
+2006 - 2008
+Caracterização do Consumo e Demanda de Energia Elétrica de Edificações do Campus Lagoa Nova
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Aldomar Pedrini - Integrante.
+2005 - 2007
+P&D COSERN: Estimação da Demanda de Instalações Elétricas de Edificações com Múltiplas Unidades de Consumo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Integrante / José Alberto Nicolau de Oliveira - Integrante / Manoel Firmino de Mediros Junior - Coordenador / Thales Augusto de Oliveira Ramos - Integrante.
+2005 - 2006
+Desenvolvimento de um Sistema Especialista para Cálculo de Curtos-circuitos e Estudo de Coordenação de Equipamentos de Proteção de Sobrecorrente
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Tales Wiriton de Souza Pereira - Integrante.
+2004 - 2006
+P&D COSERN: Aplicativo de Estudo, Gestão e Planejamento Baseado em Sistemas Georreferenciados, Integrados ao Sistema Aberto de Gerenciamento de Energia
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Integrante / José Alberto Nicolau de Oliveira - Integrante / Egberto de Arruda Moreira - Integrante / Manoel Firmino de Mediros Junior - Coordenador / Max Chianca Pimentel Filho - Integrante.
+2003 - 2004
+Desenvolvimento de um Sistema Especialista para Cálculo de Curto-circuito e Estudo de Coordenação de Equipamentos de Proteção de Sobrecorrente
+Descrição: Este projeto consiste no desenvolvimento de um sistema especialista para cálculo de curto-circuito e estudo de coordenação dos tempos de atuação dos equipamentos de proteção contra curtos-circuitos em alimentadores radiais primários de sistema de distribuição de energia elétrica. Para isso serão desenvolvidos programas computacionais para cálculo de curto-circuito, de fluxo de carga, e para traçar curvas de atuação (tempo x corrente) dos equipamentos de proteção utilizados (relés e elos-fusíveis).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Manoel Firmino de Medeiros Jr - Integrante / Jefferson Fernandes dos Santos Dutra - Integrante.Financiador(es): Universidade Federal do Rio G do Norte - Bolsa.Número de produções C, T & A: 5
+2001 - 2003
+Estimação de Estado em Sistemas de Distribição de Energia Elétrica
+Descrição: Este projeto consiste do desenvolvimento de um algoritmo para a implementação de uma formulação não-linear do problema de estimação de estado em redes de distribuição. Uma vantagem dessa formulação, em relação ao modelo linear, consiste no fato de que as perdas técnicas podem ser tratadas de forma exata. O algoritmo baseia-se no cálculo de fluxo de carga pelo método da soma de potências, que tem se demonstrado computacionalmente eficiente, quando aplicado a redes radiais. Uma avaliação de desempenho do método será realizada através de comparação com outras metodologias encontradas na literatura técnica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Daniel Braz Figueiredo da Silveira - Integrante / Manoel Firmino de Medeiros Jr - Integrante / Adrião Duarte Dória Neto - Integrante.Financiador(es): Universidade Federal do Rio G do Norte - Bolsa.Número de produções C, T & A: 3
+2001 - 2003
+P&D COSERN: Estimação de Estado de Alimentadores de Distribuição de Energia Elétrica para Determinação de Perdas Técnicas
+Descrição: A grande maioria dos algoritmos já desenvolvidos, baseados no modelo de Schweppe, destina-se à aplicação em sistemas elétricos de geração e transmissão. Há poucos algoritmos para sistemas de distribuição. Isso se deve em parte, à pequena quantidade de dados de medição disponíveis em tempo real. A maioria dos alimentadores não dispõe de qualquer equipamento de medição instalado, além de amperímetros na saída do barramento de média tensão da subestação. Dessa forma, a aplicação de algoritmos tradicionais de estimação de estado para a supervisão de alimentadores pode ser inadequada, mesmo considerando dados obtidos off-line através de pseudomedições. Diante do exposto, desenvolveu-se um algorito para estimação de estado, específico para sistemas radiais, baseado no método da soma de potências, que além de estimar grandezas como tensão, corrente, e potência, estima também as perdas técnicas nos alimentadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Marcos Antonio Dias de Almeida - Integrante / Daniel Braz Figueiredo da Silveira - Integrante / Manoel Firmino de Medeiros Jr - Coordenador.Financiador(es): Fundação Norteriograndesnse de Pesquisa e Cultura e Companhia Energética do - Bolsa.Número de produções C, T & A: 2
+2001 - 2002
+Análise Comparativa do Desempenho de Algoritmos para Cálculo de Fluxo de Carga Trifásico
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Antonio Dias de Almeida - Integrante / Manoel Firmino de Medeiros Jr. - Coordenador.
+1996 - 1997
+Programa de Computador para Traçar Curvas de Equipamentos de Proteção para Otimizar Estudo de Seletividade e Coordenação
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcos Antonio Dias de Almeida - Coordenador / Aldayr Dantas de Araújo - Integrante.

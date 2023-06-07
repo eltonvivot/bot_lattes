@@ -1,0 +1,22 @@
+2018 - Atual
+Estudo da variabilidade da cobertura de nuvens para suporte em projetos de geração de energia empregando tecnologia solar
+Descrição: O objetivo deste estudo é fornecer informações que possibilitem avaliar e caracterizar a variabilidade temporal da cobertura de nuvens e sua influência no recurso solar incidente na superfície disponível para projetos de sistemas de geração de energia empregando tecnologia sola. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eduardo dos Santos Pereira - Coordenador / Andre Rodrigues Gonçalves - Integrante / Fernando Ramos Martins - Integrante / Enio Bueno Pereira - Integrante / Francisco José Lopes de Lima - Integrante / Rodrigo Santos Costa - Integrante / Eduardo Weide Luiz - Integrante.
+2017 - 2017
+Pipeline de Redução de dados do T80
+Descrição: Integração e implementação de Pipeline de redução e tratamento de imagens astronômicas do telescópio T80. O T80 é um telescópio robótico de 80cm em Cerro Tololo com uma câmera de grande campo, de 2 graus quadrados, que deverá fazer um survey do céu austral em 8000 graus quadrados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eduardo dos Santos Pereira - Coordenador.Número de produções C, T & A: 2
+2016 - Atual
+Brazilian Portugues Language Processing
+Descrição: Desenvolvimento de Algoritmos para análise de textos em Português brasileiro para análise de sentimentos e determinação automática de contexto, usando sistemas de classificação difuso. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eduardo dos Santos Pereira - Coordenador.Número de produções C, T & A: 2
+2015 - Atual
+The Role of Population III and II stars in the Chemical Cosmic Evolution
+Projeto certificado pelo(a) coordenador(a) Oswaldo Duarte Miranda em 20/04/2018.
+Descrição: The goal of this project is to study the Cosmic Chemical Evolution of 17 elements from redshift 20 to 0, using a semi-analytical cosmological code that considers the Hierarchical Structure Formation Scenario coupled with chemical evolution equations.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Eduardo dos Santos Pereira - Integrante / Oswaldo Duarte Miranda - Coordenador / Wuensche, Carlos Alexandrde Wuensche - Integrante / Lia Corazza - Integrante.Número de produções C, T & A: 3
+2014 - Atual
+A Semi-analitical modelling of the Universe evolution
+Projeto certificado pelo(a) coordenador(a) Oswaldo Duarte Miranda em 20/04/2018.
+Descrição: Criação de modelos matemáticos e computacionais para descrever o processo de evolução do Universo.
+Através de uso de Assimilação de dados astrofísicos, procura-se validar os resultados obtidos através de modelagem computacional.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eduardo dos Santos Pereira - Integrante / Oswaldo Duarte Miranda - Coordenador / Carolina Gribel de Vasconcelos Ferreira - Integrante.Número de produções C, T & A: 20
+2006 - Atual
+GRÁVITON
+Projeto certificado pelo(a) coordenador(a) Odylio Denys de Aguiar em 19/04/2018.
+Descrição: A pesquisa do grupo compreende tanto os aspectos teóricos da emissão de ondas gravitacionais por fontes astrofísicas (como por exemplo, buracos negros e estrelas de nêutrons, além do estudo de teorias de gravitação alternativas à Relatividade Geral), bem como de aspectos experimentais ligados à construção da antena SCHENBERG (como por exemplo, resfriamento de grandes massas a temperaturas próximas de 0 K, sistemas mecânicos de isolamento vibracional, construção de transdutores paramétricos, instrumentação eletrônica, etc.). Além disso, o grupo tem trabalhado no desenvolvimento de um pacote de análise de dados que possibilite o processamento do grande volume de dados que serão gerados quando da entrada em operação da antena SCHENBERG.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eduardo dos Santos Pereira - Integrante / Oswaldo Duarte Miranda - Integrante / Aguiar, O D - Coordenador / Andrade, L A - Integrante / Alves, M E S - Integrante / Bessada, D F A - Integrante / C Frajuca - Integrante / COSTA, C F DA SILVA - Integrante / Carolina Gribel de Vasconcelos Ferreira - Integrante.Número de produções C, T & A: 11

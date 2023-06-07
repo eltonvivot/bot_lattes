@@ -1,0 +1,39 @@
+2021 - 2022
+DESENVOLVIMENTO DE UM SISTEMA ELETRÔNICO PARA DESINFECÇÃO POR MEIO DE LUZ ULTRAVIOLETA (UV-C)
+Descrição: O projeto visa usar a luz UV-C para desinfecção de vestuário e outros utensílio usado por profissionais da saúde, mediante o uso da eletrônica para monitorar e controlar um armário.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador / Thyago Leite de Vasconcelos Lima - Integrante / Kamilly Flávia Carvalho dos Santos - Integrante / Alamir Martins Nóbrega - Integrante.
+2020 - 2021
+IoT Aplicada ao Monitoramento e Acionamento Remoto de Múltiplas Cargas Residenciais
+Descrição: Projeto busca desenvolver dispositivo eletrônico para monitorar e controlar cargas residenciais usando internet das coisas, comando de voz e manualmente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Ixtânio Leite Ferreira - Integrante / Bruno Jácome Cavalcante - Coordenador / Thiago Murillo Diniz da Fonseca - Integrante / Lucas Matheus Torres Costa - Integrante.
+2020 - 2021
+Estudo do Arranjo de Sensores para os Gases: Dióxido De Nitrogênio (NO2) E Dióxido de Enxofre (SO2)
+Descrição: O projeto visa desenvolver um medidor dos gases de interesse e verificar se há ou não melhorias na precisão das leituras quando se tem mais de um sensor no arranjo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Ixtânio Leite Ferreira - Integrante / Ramon Leonn Victor Medeiros - Coordenador / Kamilly Flávia Carvalho dos Santos - Integrante.
+2020 - 2021
+Análise de Sensores para Material Particulado e Monitoramento de Medições Via WEB
+Descrição: Esse Projeto busca desenvolver um medidor de material particulado, transmitir e armazenar as medições em um site, para futuro tratamento de dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador / Thyago Leite de Vasconcelos Lima - Integrante / IGOR  ALEXANDRE STEFAN - Integrante.
+2020 - 2020
+IoT Aplicada ao Monitoramento e Acionamento Remoto de Múltiplas Cargas Residenciais
+Descrição: Este projeto desenvolveu um sistema de monitoramento e controle de cargas elétricas, por meio de comunicação WIFI, por comando de voz, por aplicativo de celular e manualmente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador / Bruno Jácome Cavalcante - Integrante / Lucas Matheus Torres Costa - Integrante / Marcelo Alves da Silva Filho - Integrante / Moabe Barbosa Alves - Integrante.
+2020 - 2020
+ESTUDO DO ARRANJO DE SENSORES PARA DETECÇÃO DOS GASES: DIÓXIDO DE NITROGÊNIO (NO2) E DIÓXIDO DE ENXOFRE (SO2)
+Descrição: O projeto faz um estudo sobre sensores de dióxido de nitrogênio, de baixo custo, visando verificar se uma quantidade maior de sensores resulta em uma leitura mais precisa e ainda se a disposição dos sensores influência na resposta.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador / Ramon Leonn Victor Medeiros - Integrante / Kamilly Flávia Carvalho dos Santos - Integrante.
+2020 - Atual
+Sistema de Monitoramento e Diagnóstico de Falhas em Sistemas de Irrigação por Gotejamento Subterrâneo
+Descrição: O projeto visa melhorias no gerenciamento de uma indústria sucroalcooleira da paraíba para reduzir gastos com irrigação e melhorar o uso desse recurso.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Ixtânio Leite Ferreira - Integrante / Thyago Leite de Vasconcelos Lima - Coordenador / Cláudio Dybas da Natividade - Integrante / Marcéu Oliveira Adssis - Integrante / STEFAN, IGOR ALEXANDRE - Integrante / Álefe da Silva Pereira - Integrante / Ana Klara de Sousa Galdino - Integrante / Marcelo Alves da Silva Filho - Integrante / Beatriz de Oliveira Quintas - Integrante / Rozilda Jamilly de Araújo Santos - Integrante / Dênis Benjamim da Silva - Integrante.
+2019 - 2019
+DESENVOLVIMENTO DE UM MEDIDOR DE QUALIDADE DO AR
+Descrição: O projeto visa aplicar ferramentas eletrônicas e computacionais para medir e informar ao público, especializado ou não, sobre a qualidade do ar em que estão inseridos. Quais os gases estão presentes e se estão de acordo com a norma do CONAMA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador / Aldeni Sudário de Souza - Integrante / IGOR  ALEXANDRE STEFAN - Integrante.
+2018 - 2019
+SISTEMA DE MONITORAMENTO E ACIONAMENTO REMOTO DE CARGAS RESIDENCIAIS
+Descrição: O projeto visa a automação de cargas residenciais por meio de comunicação sem fio (WiFi). O controle é feito por meio manual e remota (aplicativo celular, web e comando de voz). O sistema permite o monitoramento de pessoas no ambiente e do consumo de corrente e temperatura.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador / Marcéu Oliveira Adssis - Integrante / ANA BEATRIZ DE SOUZA NOGUEIRA RODRIGUES DE OLIVEIRA - Integrante / MARCÍLIO FERREIRA DE PAIVA FILHO - Integrante / ADAILDO GOMES D ASSUNCAO JUNIO - Integrante.
+2018 - 2019
+Melhorias e Ampliação de Kit Educacional para Estudos da Eletricidade
+Descrição: Desenvolvimento de um kit educacional portátil, compacto, funcional, de baixo custo, flexível para montagens de circuitos elétricos para estudar os fenômenos da eletricidade. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Ixtânio Leite Ferreira - Integrante / Marcéu Oliveira Adssis - Coordenador / Klarc  da Silva Galdino - Integrante / Daniel Vito Pereira de Santana - Integrante.
+2017 - 2018
+NAUTIMODELISMO COMO FERRAMENTA DE ENSINO PARA NAVEGAÇÃO
+Descrição: Qualificar os alunos dos Cursos Técnicos Subsequentes do Campus Avançado Cabedelo Centro (CACC), do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) na área da navegação por meio da aplicação do nautimodelismo como agente facilitador do processo ensino-aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Ixtânio Leite Ferreira - Integrante / Ricardo Luís Mendes de Oliveira - Integrante / Janaina Sales Holanda - Coordenador / Ariana Silva Guimaraes - Integrante / Fabio Lucena de Andrade Gomes - Integrante.
+2003 - 2004
+Aplicação do Método Iterativo Baseado no Conceito de Onda para Simulação de Antenas Planares a Substrato EBG
+Descrição: Uso do Método Iterativo Baseado no Conceito de Onda para simulação de Antenas Planares a estruturas EBG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2003 - 2004
+Determinação dos parâmetros de espalhamento no método iterativo WCIP para simulação de antenas planares a substrato PBG
+Descrição: Determinação dos parâmetros de espalhamento no método iterativo WCIP para simulação de antenas planares a substrato PBG. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Ixtânio Leite Ferreira - Coordenador.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.

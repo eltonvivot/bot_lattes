@@ -1,0 +1,154 @@
+2022 - Atual
+ASSOCIAÇÃO GENÔMICA VIA REGIÕES CROMOSSÔMICAS SOB A ABORDAGEM BAYESIANA
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Moysés Nascimento - Integrante / Ana Carolina Camapana Nascimento - Integrante / Aline Marçal Rossinol - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.
+2021 - Atual
+Seleção genômica em programas de melhoramento de batata-doce em Uganda
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Camila Ferreira Azevedo - Integrante / GUILHERME DA SILVA PEREIRA - Coordenador / Hugo Campos - Integrante.Financiador(es): Bill and Melinda Gates Foundation - Auxílio
+										financeiro.
+2020 - Atual
+Análise de fatores aplicada a predição genômica considerando seleção de marcadores
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Moysés Nascimento - Integrante / Ana Carolina Camapana Nascimento - Integrante / izabela Clara Fialho - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.
+2020 - Atual
+PREDIÇÃO GENÔMICA DE CARACTERÍSTICAS NÃO ADITIVAS POR MEIO SPLINES DE REGRESSÃO ADAPTATIVA MULTIVARIADA
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Coordenador / Cosme Damião Cruz - Integrante / Ana Carolina Camapana Nascimento - Integrante / Maurício de Oliveira Celeri - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2020 - Atual
+Autoencoder e Análise via Componentes Principais Independentes aplicados no reconhecimento de padrões de populações
+Descrição: O objetivo deste estudo é avaliar a aplicação dos métodos Análise de Componentes Principais Independentes, Análise de Componentes Principais Independentes esparsa e da Rede Autoencoder na matriz de parentesco genômico (utilizando marcadores moleculares) para o reconhecimento de padrões em populações de retrocruzamentos (RC1 e RC2), geradas a partir de duas populações genitoras divergentes P1 e P2, e o hibrído F1.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Moysés Nascimento - Integrante / Ana Carolina Camapana Nascimento - Integrante / Isabela de Castro Sant'anna - Integrante / Jaquicele Aparecida da Costa - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2020 - Atual
+Marker effects and heritability from additive-dominance genomic architectures by neural networks in coffea canephora
+Descrição: We aimed to exploit SNP effects and heritability from additive-dominance genomic model by ANN of traits associated with the productivity and leaf rust resistance, in Coffea cenephora, to predict individual genetic merits using ANN, and to compare the results obtained for ANN and G-BLUP modeling.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Coordenador / Cosme Damião Cruz - Integrante / Ana Carolina Camapana Nascimento - Integrante / Isabela de Castro Sant'anna - Integrante / SOUSA, ITHALO COELHO DE - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2020 - Atual
+A viabilidade do uso de painéis de marcadores de baixa densidade para predição genômica de Coffea arábica
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Integrante / Ana Carolina Camapana Nascimento - Coordenador / Edilaine Silva Arcanjo - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2020 - Atual
+Structural Equation Models for genome-wide association study in Coffea arabica
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Coordenador / Ana Carolina Camapana Nascimento - Integrante / Matheus Massariol Suela - Integrante / Eveline Teixeira Caixeta - Integrante / gota Morota - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.
+2019 - Atual
+GenomicLand: Software para predição e associação genômica
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Cosme Damião Cruz - Integrante / Marcos Deon Vilela de Resende - Integrante / Ana Carolina Camapana Nascimento - Integrante / NASCIMENTO, MOYSÉS - Integrante / Vitor Cunha Fontes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2019 - Atual
+Modelo Misto Quantílico para Estudos de Associação Genômica em Café Canephora
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Integrante / Ana Carolina Camapana Nascimento - Coordenador / OLIVEIRA, GABRIELA FRANÇA - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2019 - Atual
+MÉTODOS ESTATÍSTICOS PARA A IDENTIFICAÇÃO DE GRUPOS ÓTIMOS DE SNPs
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Marcos Deon Vilela de Resende - Integrante / Ana Carolina Camapana Nascimento - Integrante / Leísa Pires Lima - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2019 - Atual
+MODELAGEM COM EQUAÇÕES DIFERENCIAIS ESTOCÁSTICAS: APLICAÇÃO NO CRESCIMENTO DE GENÓTIPOS DE PIMENTA
+Projeto certificado pelo(a) coordenador(a) Paulo Roberto Cecon em 27/07/2020.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Camila Ferreira Azevedo - Integrante / Paulo Roberto Cecon - Coordenador / paulo cesár emiliano - Integrante / Felipe Guzzo - Integrante.
+2019 - Atual
+Estudos de Associação Genômica em modelos aditivo-dominante com ênfase no Melhoramento Vegetal
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Cosme Damião Cruz - Integrante / Marcos Deon Vilela de Resende - Integrante / Ana Carolina Camapana Nascimento - Integrante / Leísa Pires Lima - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - Atual
+RANDOM FOREST QUANTÍLICO PARA A PREDIÇÃO GENÔMICA
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Coordenador / Ana Carolina Camapana Nascimento - Integrante / Cristiane Cupertino Botelho - Integrante.
+2019 - Atual
+Modelagem da biomassa e mortalidade em florestas secundárias de Mata Atlântica utilizando a inferência bayesiana
+Projeto certificado pelo(a) coordenador(a) Paulo Roberto Cecon em 12/07/2019.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Paulo Roberto Cecon - Coordenador / paulo cesár emiliano - Integrante / Felipe Guzzo - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2018 - 2021
+Núcleo de Estudos Genômicos Aplicado ao Melhoramento Vegetal
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Camila Ferreira Azevedo - Integrante / Adesio Ferreira - Coordenador / Marcia Flores da Silva Ferreira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2018 - 2019
+Modelos Mistos e Bayesianos no estudo de associação genômica para características em arroz (Oryza sativa)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Marcos Deon Vilela de Resende - Integrante / Ana Carolina Camapana Nascimento - Integrante / Matheus Massariol Suela - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2018 - 2019
+Estudo de associação genômica para produtividade em arroz (Oryza sativa)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Marcos Deon Vilela de Resende - Integrante / Ana Carolina Camapana Nascimento - Integrante / RESENDE, RAFAEL TASSINARI - Integrante / Matheus Massariol Suela - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2018 - 2019
+Avaliação de uma nova parametrização para os efeitos aditivos e de dominância na Predição Genômica
+Projeto certificado pelo(a) coordenador(a) Marcos Deon Vilela de Resende em 20/03/2019.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Marcos Deon Vilela de Resende - Coordenador / Taiana Lopes Rangel Miranda - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2017 - 2021
+Seleção genômica para atributos produtivos de mandioca em populações de melhoramento provenientes de cruzamentos biparentais
+Projeto certificado pelo(a) coordenador(a) Marcos Deon Vilela de Resende em 20/03/2019.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Marcos Deon Vilela de Resende - Coordenador / TORRES, LÍVIA GOMES - Integrante / Eder Jorge de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - 2021
+IDENTIFICAÇÃO DE CARACTERES AUXILIARES PARA SELEÇÃO DE GENÓTIPOS DE SOJA TOLERANTES À ABERTURA PREMATURA DE VAGENS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Integrante / Felipe Lopes da Silva - Coordenador / Lorena de Oliveira Moura - Integrante / Edgard Augusto de Toledo Picoli - Integrante / Jair Rogerio Unfried - Integrante.Financiador(es): GDM Genética do Brasil S.A. - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - 2018
+Predição de valores genéticos usando informações de marcadores e pedigree na seleção genômica ampla de suínos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Camila Ferreira Azevedo - Integrante / Sebastião Martins Filho - Coordenador / Lucas Souza da Silveira - Integrante / Andrew de Paula Ribeiro - Integrante / Geraldo Magela da Cruz Pereira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - 2018
+Seleção Genômica Ampla não paramétrica aplicada no melhoramento de Eucalyptus
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Marcos Deon Vilela de Resende - Integrante / Leísa Pires Lima - Integrante / Matheus Massariol Suela - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2017 - 2018
+Propostas de metodologias estatísticas baseadas em Redução Dimensional aplicados na Seleção Genômica em Eucalyptus
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Sebastião Martins Filho - Integrante / Marcos Deon Vilela de Resende - Integrante / Leísa Pires Lima - Integrante / Marcos Guedes de Lana - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2016 - 2020
+MODELOS HIERÁRQUICOS E MÉTODO HIML/HG-BLUP NO MELHORAMENTO DE PLANTAS
+Projeto certificado pelo(a) coordenador(a) Marcos Deon Vilela de Resende em 20/03/2019.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Fabyano Fonseca e Silva - Integrante / Marcos Deon Vilela de Resende - Coordenador / Rodrigo Silva Alves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2016 - 2020
+Caracterização fenotípica e molecular de um painel de linhagens endogâmicas de milho tropical
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Camila Ferreira Azevedo - Integrante / José Marcelo Soriano Viana - Integrante / Rodrigo Oliveira de Lima - Coordenador / Sirlene Viana de Faria - Integrante / Leandro Tonello Zuffo - Integrante / Luiz Silva Luz - Integrante / Diego Gonçalves Caixeta - Integrante / Wemerson Mendonça Rezende - Integrante / Helcio Duarte Pereira - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2016 - 2019
+Predição Genômica via redução de dimensionalidade em modelos-aditivo dominante
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Marcos Deon Vilela de Resende - Integrante / Ana Carolina Camapana Nascimento - Integrante / Jaquicele Aparecida da Costa - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2016 - 2018
+Regressão Quantílica sob enfoque Bayesiano como alternativa na estimação da Eficiência Técnica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Integrante / Ana Carolina Camapana Nascimento - Coordenador / Raimundo Cardoso de Oliveira Neto - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2016 - 2016
+MODELOS LALDA PARA PREDIÇÃO GENÔMICA DE CARACTERÍSTICAS DE CRESCIMENTO E DE CONVERSÃO ALIMENTAR EM SUÍNOS
+Projeto certificado pelo(a) coordenador(a) Fabyano Fonseca e Silva em 18/05/2016.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Fabyano Fonseca e Silva - Coordenador / Simone Eliza Facioni Guimarães - Integrante / Paulo Sávio Lopes - Integrante / Marcos Deon Vilela de Resende - Integrante / RODRIGO REIS MOTA - Integrante / Elcer Albenis Zamora Jerez - Integrante.
+2015 - 2019
+Ratings-Based Conjoint Analysis: Um Enfoque Bayesiano
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Moysés Nascimento - Integrante / Carlos Henrique Osorio Silva - Coordenador / Eduardo Campana Barbosa - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2015 - 2019
+Manejo e conservação do palmiteiro juçara (Euterpe edulis Martius), para produção de frutos via abordagens fenotípicas e marcadores moleculares para seleção genômica
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Camila Ferreira Azevedo - Integrante / Adesio Ferreira - Coordenador / Marcia Flores da Silva Ferreira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2015 - 2018
+CARACTERIZAÇÃO MOLECULAR E BIOQUÍMICA DE COLEÇÃO CAPIXABA DE GERMOPLASMA DE FEIJÃO, MANDIOCA E MILHO
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Camila Ferreira Azevedo - Integrante / Adesio Ferreira - Coordenador / Marcia Flores da Silva Ferreira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2015 - 2017
+Seleção Genômica não Paramétrica via Distância Genética entre Subpopulações
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Coordenador / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Marcos Deon Vilela de Resende - Integrante / Ana Carolina Camapana Nascimento - Integrante / Antonio Policarpo de Souza Carneiro - Integrante / Leísa Pires Lima - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.
+2015 - 2017
+Máquina de vetor suporte na classificação genética
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Coordenador / Cosme Damião Cruz - Integrante / Ana Carolina Camapana Nascimento - Integrante / vitor prado de carvalho - Integrante / Wagner Antônio Arbex - Integrante / BARROSO, LAÍS MAYARA AZEVEDO - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2015 - 2017
+Variabilidade genética para morfologia de raiz em um painel de linhagens de milho tropical avaliado em condições contrastantes de nitrogênio
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Camila Ferreira Azevedo - Integrante / Rodrigo Oliveira de Lima - Coordenador / TORRES, LÍVIA GOMES - Integrante / Andreia Schuster - Integrante / Ramon Ribeiro Badaró - Integrante / Tatiane Freitas Horta Trindade - Integrante / Lorena Moreira Lara - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2015 - 2017
+Avaliação de características categóricas na seleção genômica ampla
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Sebastião Martins Filho - Coordenador / Lucas Souza da Silveira - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2015 - 2016
+BLUP VIA MODELOS DE NORMAS DE REAÇÃO NO ESTUDO DA INTERAÇÃO GENÓTIPOS X AMBIENTES NO MELHORAMENTO VEGETAL
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Marcos Deon Vilela de Resende - Coordenador / Rodrigo Silva Alves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2015 - 2016
+DEPRESSÃO ENDOGÂMICA EM CARACTERES PRODUTIVOS DE ACROCOMIA ACULEATA (JACQ.) LODD. EX MART. E ÍNDICE MULTICARACTERÍSTICO
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Marcos Deon Vilela de Resende - Coordenador / Guilherme Ferreira Simiqueli - Integrante / Sérgio Yoshimitsu Motoike - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2014 - 2018
+Arquitetura genômica de caracteres relacionados à produção de celulose em eucalipto
+Projeto certificado pelo(a) coordenador(a) Marcos Deon Vilela de Resende em 19/07/2016.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Marcos Deon Vilela de Resende - Coordenador / Radfael Tassinari Resende - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2014 - 2018
+ESTIMAÇÃO DA SENSIBILDADE E ESPECIFICIDADE DE QUATRO TESTES DIAGNÓSTICOS PARA A BRUCELOSE BOVINA SOB DEPENDÊNCIA CONDICIONAL: UMA ABORDAGEM BAYESIANA
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Carlos Henrique Osorio Silva - Coordenador / Micherlania da Silva Nascimento - Integrante / Joel Augusto Muniz - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2014 - 2018
+Regressão quantílica: aplicações em seleção genômica ampla
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Camila Ferreira Azevedo - Integrante / Laís Mayara Azevedo Barroso - Integrante / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Coordenador / Simone Eliza Facioni Guimarães - Integrante / Cosme Damião Cruz - Integrante / Ana Carolina Camapana Nascimento - Integrante / José Eustáquio de Souza Carneiro - Integrante / Vinícius Quintão Carneiro - Integrante / Antônio F Galvão Junior - Integrante / RESENDE, MARCOS DEON VILELA - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2014 - 2018
+COMPARAÇÃO ENTRE MÉTODOS UNI E MULTIVARIADOS APLICADOS À SELEÇÃO GENÔMICA AMPLA
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Cosme Damião Cruz - Integrante / Leonardo de Azevedo Peixoto - Integrante / BHERING, LEONARDO LOPES - Coordenador / Lidiane Aparecida Silva - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2014 - 2015
+Análise de fatores aplicada na seleção genômica em suínos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Coordenador / Cosme Damião Cruz - Integrante / Filipe Teixeira - Integrante / Ana Carolina Camapana Nascimento - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2013 - 2017
+SELEÇÃO GENÔMICA AMPLA: MODELOS COM EFEITOS NÃO ADITIVOS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Marcos Deon Vilela de Resende - Coordenador.
+2013 - 2017
+Seleção genômica ampla: modelos com efeitos não aditivos
+Projeto certificado pelo(a) coordenador(a) Marcos Deon Vilela de Resende em 20/03/2019.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Fabyano Fonseca e Silva - Integrante / Moysés Nascimento - Integrante / Marcos Deon Vilela de Resende - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2011 - 2012
+Proposta de Metodologias para a Seleção Genômica Ampla considerando características de carcaça
+Projeto certificado pelo(a) coordenador(a) Fabyano Fonseca e Silva em 26/02/2019.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Camila Ferreira Azevedo - Integrante / Fabyano Fonseca e Silva - Coordenador / Luiz Alexandre Peternelli - Integrante / Simone Eliza Facioni Guimarães - Integrante / Marcos Deon Vilela de Resende - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

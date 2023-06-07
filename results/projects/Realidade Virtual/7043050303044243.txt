@@ -1,0 +1,18 @@
+2010 - 2016
+HIDROECO - Modelagem de cheias urbanas com a utilização de informações distribuídas de uso e ocupação do solo
+Descrição: Este é um projeto desenvolvido em rede, com apoio financeiro da FINEP e tem com participantes, além da FEIS-UNESP, as seguintes instituições coordenadoras:
+Escola de Engenharia de São Carlos   EESC-USP 
+Instituto Alberto Luiz Coimbra de Pós-graduação e Pesquisa de Engenharia    COPPE ?UFRJ 
+Universidade Federal de Alagoas  UFAL 
+Universidade Federal de Santa Maria  UFSM 
+Resumo do Projeto
+Objetivo
+Desenvolver um SIG para a produção de parâmetros distribuídos de interesse para a hidrologia urbana, em termos de qualidade e quantidade
+Metodologia 	
+As informações sobre o uso e a cobertura do solo serão obtidas por meio de imagens de satélite e trabalhadas em rotinas de reconhecimento de imagens para estimar o escoamento superficial presente e futuro. 
+Determinação de trajetórias e velocidades de escoamento para a estimativa dos tempos de concentração da bacia. As informações geomorfológicas e topográficas da bacia serão empregadas na geração de tempos de concentração.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jefferson Nascimento de Oliveira - Coordenador / Milton DALL'AGLIO Sobrinho - Integrante / Dib Gebara - Integrante / Geraldo Freitas Maciel - Integrante / Tsunao Matsumoto - Integrante / Edson P Tangerino - Integrante / M A Leite - Integrante / José Paulo Soares de Azevedo - Integrante / Marllus Gustavo Ferreira Passos das Neves - Integrante / Geraldo Lopes da Silveira - Integrante / João Luiz Boccia Brandão - Integrante / Luiz Roberto Trovati - Integrante / Liliane Lazzari Albertin - Integrante / MARCELO GOMES MIGUEZ - Integrante / Yvonilde Dantas Pinto Medeiros - Integrante / Andrea Sousa Fontes - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1997 - 1998
+Monitoramento da qualidade de água de um aqüífero freático localizado em Ilha Solteira
+Descrição: O projeto teve como objetivo fazer um levantamento da qualidade da água de 90 poços existentes numa região agrícola da cidade de Ilha Solteira.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jefferson Nascimento de Oliveira - Coordenador.Financiador(es): Ministério do Meio Ambiente e da Amazonia Legal - Auxílio
+										financeiro.Número de produções C, T & A: 6

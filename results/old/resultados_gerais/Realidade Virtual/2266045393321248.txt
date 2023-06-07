@@ -1,0 +1,4 @@
+2005 - 2006
+Análise de Desempenho de Redes de Computadores que Utilizam o Padrão HomePlug
+Descrição: Neste trabalho, pretende-se avançar os estudos desenvolvidos na Universidade Potiguar sobre a tecnologia PLC, analisando-se o desempenho de redes de computadores que utilizem essa tecnologia. Para isso, será implementada uma rede de computadores, com modem's PLC, no laboratório de Eletrônica, da Universidade Potiguar. O desempenho dessa rede será então analisado, investigando-se o efeito das variações de cargas elétricas no desempenho da rede... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Lincoln Machado de Araújo - Integrante / Ricardo César de Oliveira Moreira - Integrante / Campos, A. L. P. S. - Coordenador.Financiador(es): Universidade Potiguar - Auxílio
+										financeiro.

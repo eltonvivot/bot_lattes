@@ -1,0 +1,135 @@
+2023 - Atual
+Modelos de Aprendizado de Máquina para Identificação de Falhas durante o Processo de Desodorização de Óleos
+Descrição: desenvolvimento de modelos de aprendizado de máquina aplicado à tarefa de identificação de fatores associados a falhas durante o processo de desodorização de óleos. Mais especificamente, este projeto objetiva a pesquisa e o desenvolvimento de soluções baseadas em Aprendizado de Máquina para construir modelos preditivos, explicativos e de auxílio à tomada de decisões para otimizar o processo de desodorização de óleos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.
+2023 - Atual
+Projeto Modelos de Inteligência Artificial para People Analytics
+Descrição: Este projeto objetiva a pesquisa e o desenvolvimento de soluções baseadas em Aprendizado de Máquina para construir modelos preditivos, explicativos e de auxílio à tomada de decisões para People Analytics, em especial na montagem de times incríveis. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.
+2023 - Atual
+Aprendizado de Máquina como Ferramenta de Predição, Otimização de Resultados e Redução de Carga de Trabalho no Cuidado de Pacientes Críticos
+Descrição: O objetivo deste projeto é predizer desfechos de pacientes críticos em unidades de terapia intensiva, de forma que se possa estimar gastos financeiros, disponibilidade futura de leitos e utilização de recursos terapêuticos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador / Saulo Saturnino - Integrante / Nivio Ziviani - Integrante.
+2023 - Atual
+Modelos de Inteligência de Dados para o Mercado de Materiais de Construção
+Descrição: Este projeto objetiva a pesquisa e o desenvolvimento de soluções baseadas em Aprendizado de Máquina para construir modelos preditivos, explicativos e de auxílio à tomada de decisões no mercado de materiais de construção. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.
+2023 - Atual
+Aprendizado de Representações de Pacientes para Previsão de Tempo de Internação
+Descrição: O estado da arte em predição de desfechos de pacientes hospitalizados em geral se aplica para
+pacientes de uma especialidade específica, por exemplo, cardiologia. Neste projeto utilizaremos uma base de dados de pacientes brasileiros de diversas especialidades. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador / Rafael Bordini - Integrante.
+2022 - Atual
+CIIA-Saúde: Centro de Inovação em Inteligência Artificial para Saúde
+Descrição: Pesquisa e o desenvolvimento de soluções avançadas de inteligência artificial (IA), capazes de auxiliar profissionais de saúde no diagnóstico e tratamento de doenças, e orientar gestores de saúde na programação de ações de prevenção e organização da assistência à saúde. Isso permitirá a otimização dos recursos e melhora da atenção à saúde da população no Brasil. O CIIA-Saúde terá uma intensa atividade internacional, através da colaboração com pesquisadores e instituições de excelência na pesquisa em IA e saúde. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Integrante / Virgílio Fernandes de Almeida - Coordenador / Nivio Ziviani - Integrante.
+2022 - Atual
+Predição de Defeitos durante a Produção de Aço através de Aprendizado Causal-Explicativo
+Descrição: O projeto visa o desenvolvimento de técnicas de aprendizado de máquina para o aperfeiçoamento do processo de fabricação de aço. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.
+2021 - Atual
+CNPQ: Bolsa de Produtividade em Pesquisa (nível 2)
+Descrição: O principal objetivo deste projeto é desenvolver métodos e algoritmos de Aprendizado de Máquina que façam uso de novos conceitos e avanços recentes relacionados à explicabilidade das predições de forma a produzir modelos preditivos seguros e/ou mais eficazes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adriano Alonso Veloso - Coordenador.
+2021 - Atual
+Inteligência artificial aplicada à exploração de petróleo na camada pré-sal
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 03/02/2022.
+Descrição: O projeto tem caráter multidisciplinar objetivando trazer uma nova cultura à exploração de óleo e gás, via implantação de produtos IA em diferentes áreas. Associando geólogos, cientistas da computação, matemáticos, estatísticos, químicos e físicos o projeto objetiva a inserção de modelos de inteligência artificial desenvolvidos especificamente para o escopo dos problemas propostos, permitindo uma extração profunda de informação, e sua subsequente análise e reavaliação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20)  / Especialização: (0)  / Mestrado acadêmico: (20)  / Mestrado profissional: (0)  / Doutorado: (20) . Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2020 - 2021
+Modelagem do comportamento do parlamentar por meio de inteligência artificial
+Descrição: O projeto visa o desenvolvimento de modelos de aprendizado de máquina e processamento de linguagem natural que sejam capazes de predizer decisões e movimentos dos parlamentares brasileiros. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Integrante / Leandro Balby - Integrante / Nazareno Andrade - Coordenador.
+2020 - Atual
+Capacidades Analíticas do Ministério Público de Minas Gerais
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 11/08/2020.
+Descrição: O projeto vai construir e disponibilizar ferramentas digitais que irão agilizar a capacidade de análise e cruzamento de dados nas investigações. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Coordenador / Dorgival Olavo Guedes - Integrante / Fabrício Benevenuto - Integrante / Daniel Macedo - Integrante / José Marcos Nogueira - Integrante / Rodrygo Santos - Integrante / LAENDER, ALBERTO - Integrante / Clodoveu Davis - Integrante.
+2020 - Atual
+Plataforma de Aprendizado de Máquina Centrada no Humano
+Descrição: Este projeto visa o desenvolvimento de novas técnicas de Inteligência Artificial para automação do desenvolvimento de modelos de Aprendizado de Máquina Auto Explicáveis.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.
+2018 - 2021
+Solução Inteligente para Gestão em Terapia Intensiva
+Descrição: O projeto tem por objetivo a criação de soluções capazes de prover informações referentes ao risco do paciente intensivo em tempo real. Além disso, as soluções criadas devem ser capazes de antever trajetórias de risco, auxiliando o intensivista na tomada de decisão. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (6)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Adriano Alonso Veloso - Coordenador / Renato Ferreira - Integrante / Nívio Ziviani - Integrante / Nazareno Andrade - Integrante / Saulo Saturnino - Integrante / Fabio Cappabianco - Integrante / Everton Gomede - Integrante.
+2018 - 2021
+CNPQ: Bolsa de Produtividade em Pesquisa (nível 2)
+Descrição: O projeto visa o desenvolvimento de métodos e algoritmos de Aprendizado Profundo utilizando novas arquiteturas aprimoradas a partir de redes recorrentes, convolucionais, adversariais, sequência-sequência, treinadas através de supervisão e adaptação de domínio, ou por reforço. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.
+2018 - 2020
+Antecipação de Qualidade na Produção de Aço Inoxidável
+Projeto certificado pela empresa APERAM INOX AMERICA DO SUL S.A. em 13/12/2018.
+Descrição: O projeto tem por objetivo a identificação de fatores causativos de defeitos na produção de aço inoxidável (duplex e 430A), sejam eles fatores químicos ou inerentes ao processo de produção. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Adriano Alonso Veloso - Coordenador / Paulo Sergio de Sairre Balsamo - Integrante.
+2017 - Atual
+Laboratório de Inteligência Artificial
+Descrição: Criação de laboratório com temática relacionada à Inteligência Artificial, mais especificamente Aprendizado de Máquina e Processamento de Linguagem Natural, no Departamento de Ciência da Computação da UFMG.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (8)  / Doutorado: (4) . Integrantes: Adriano Alonso Veloso - Coordenador.Financiador(es): Kunumi - Auxílio
+										financeiro.
+2016 - 2019
+EUBRA - BIGSEA - Europe Brazil Collaboration of Big Data Scientific Research through Cloud-Centric Applications
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 18/05/2019.
+Descrição: EUBRA-BigSea aims at providing an abstract framework for the development of distributed Big Data applications. Multiple data models will be supported (e.g. data streams, multidimensional data, etc.) and efficient mechanisms will ensure privacy and security, on top of a QoS-aware layer for the smart and rapid provisioning of resources in a cloud-based environment.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Coordenador / Dorgival Olavo Guedes - Integrante / Renato Ferreira - Integrante / Jussara Almeida - Integrante / Giselle Pappa - Integrante / Adriano Pereira - Integrante / Loic Cerf - Integrante / Humberto Torres Marques Neto - Integrante / C. Davis Jr. - Integrante / Ana Paula Couto - Integrante.
+2016 - 2018
+Plataforma Big-Data para Computação Cognitiva
+Descrição: O projeto tem por objetivo desenvolver e avaliar modelos de representação que são semanticamente ricos, bem como a melhoria de algoritmos de aprendizado de máquina e de processamento de linguagem natural que possam ser incorporados em sistemas de computação cognitiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adriano Alonso Veloso - Coordenador / Rodrygo Santos - Integrante.Financiador(es): Kunumi - Bolsa.
+2015 - 2018
+CNPQ: Bolsa de Produtividade em Pesquisa (nível 2)
+Descrição: O projeto visa desenvolver métodos e algoritmos de aprendizado de máquina com supervisão limitada para a modelagem de linguagem natural em textos curtos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.
+2015 - 2017
+Desenvolvimento de Sistemas para Adaptabilidade à Carga e Condições de Operação em Data-Centers Corporativos
+Projeto certificado pela empresa Engetron Engenharia Eletronica Ind e Com  em 22/03/2023.
+Descrição: O objetivo do projeto é produzir ferramentas de sistemas de computação que permitam aos servidores computacionais de um data-center genérico se adaptarem à demanda e às condições externas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (6)  / Doutorado: (2) . Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Integrante / Renato Ferreira - Coordenador / Mario Montenegro - Integrante.Financiador(es): Engetron Engenharia Eletronica Ind e Com - Auxílio
+										financeiro.
+2015 - 2016
+Algoritmos de Aprendizado Profundo Reconhecimento e Identificação de Faces em Tempo Real
+Descrição: O problema de interesse neste projeto é a identificação e reconhecimento de faces em tempo real, baseada em técnicas de aprendizado profundo, em especial redes profundas de convolução.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Adriano Alonso Veloso - Coordenador / Wagner Meira Jr - Integrante / Renato Ferreira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - Atual
+MASWEB - Modelos, Algoritmos e Sistemas para a Web
+Projeto certificado pelo(a) coordenador(a) Nivio Ziviani em 19/03/2017.
+Descrição: O objetivo do projeto é desenvolver modelos, algoritmos e novas tecnologias que permitam aumentar a integração da Web com a sociedade, tornando mais efetiva e mais segura a distribuição de informação, e mais eficazes e eficientes os seus serviços, de forma a proporcionar um vetor de mudanças sociais e econômicas no País. As atividades do projeto compreendem atividades relacionadas à pesquisa, à formação de recursos humanos e à transferência de conhecimento para a sociedade e para o setor empresarial.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (6) . Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Integrante / Virgílio Fernandes de Almeida - Integrante / Dorgival Olavo Guedes - Integrante / Jussara Almeida - Integrante / Nívio Ziviani - Coordenador / Marcos André Gonçalves - Integrante / Alberto Henrique Frade Laender - Integrante.
+2014 - 2016
+Cont-Class: Algoritmos de Aprendizado Associativo para Classificação (Quasi-)Contígua
+Descrição: Existe, em diversas aplicações de interesse, informação útil e inexplorada na ordem e na proximidade com a qual os atributos ocorrem em um conjunto de dados. Tal informação pode ser usada tanto para obtenção de ganhos em acurácia como para diminuição do custo computacional no processo de classificação, possibilitando a detecção de padrões longos em domínios de alta dimensionalidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Adriano Alonso Veloso - Coordenador / Wagner Meira Jr - Integrante / Srinivasan Parthasarathy - Integrante / Mohameed Javeed Zaki - Integrante / Altigran da Silva - Integrante / Nívio Ziviani - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2015
+Arquitetura e Algoritmos Big Data para a Análise de Perícias Médicas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Adriano Alonso Veloso - Coordenador / Wagner Meira Jr - Integrante / Dorgival Olavo Guedes - Integrante / Renato Ferreira - Integrante.
+2013 - 2015
+Um Sistema Genérico para A Mineração de Padrões Expressivos
+Projeto certificado pelo(a) coordenador(a) Loïc Pascal Gilles Cerf em 16/08/2018.
+Descrição: Quando mais específico é um tipo de padrão a ser descoberto de forma completa (i.e., quando todos os padrões verificando a definição são extraídos dos dados), mais rapidamente a mineração ocorre. Isso não implica que as abordagens escaláveis são necessariamente específicas. Desenvolvemos princípios de enumeração (i.e., como caminhar no espaço dos padrões) genéricos que permitem ao analista escolher, em uma grande classe, restrições de relevância que podem ser eficientemente impostas aos padrões do tipo itemset. Mostramos também que essa enumeração é aplicável a conjuntos dados mais gerais do que as relações binárias em que os itemsets são tradicionalmente definidos. Porém a aplicabilidade dos nossos princípios de enumeração ainda tem limites. A comunidade internacional mostrou recentemente dois deles e, neste projeto, estenderemos nosso algoritmo a dados fuzzy e/ou muito esparsos. Além disso, destacaremos a grande expressividade da nossa classe de restrição mostrando como podemos, com a nossa solução genérica, descobrir eficientemente padrões que são a base de vários classificadores associativos. Finalmente, a última linha de pesquisa se refere a tolerância a ruído que afeta qualquer conjunto de dados reais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Integrante / Loic Cerf - Coordenador.
+2012 - 2015
+CNPQ: Bolsa de Produtividade em Pesquisa (nível 2)
+Descrição: Construção de classificadores a partir de dados discretos, incertos, dinâmicos e de alta-dimensionalidade. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Adriano Alonso Veloso - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2013
+UOL: Bolsa Pesquisa (edital 2012)
+Descrição: Técnicas de aprendizado de máquina para coleta automática de dados e detecção de eventos através de análise de conteúdo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adriano Alonso Veloso - Coordenador / Alexandre Davis - Integrante / Luis Matoso - Integrante.Financiador(es): Universo Online - Auxílio
+										financeiro.
+2011 - 2013
+Fapemig: Universal (edital 2011)
+Descrição: Algoritmos pata análise de sentimentos em fluxos de dados. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Adriano Alonso Veloso - Coordenador / Wagner Meira Jr - Integrante / Giselle Pappa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2013
+CNPQ: Pesquisa, Desenvolvimento e Inovação em Áreas Estratégicas (edital 2010)
+Descrição: Modelos e algoritmos para tratamento de informações sociais em tempo real. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Coordenador / Virgílio Fernandes de Almeida - Integrante / Mohameed Javeed Zaki - Integrante / Dorgival Olavo Guedes - Integrante / Renato Ferreira - Integrante / Giselle Pappa - Integrante / Altigran da Silva - Integrante / Adriano Pereira - Integrante / Marden Neubert - Integrante / Raquel Minardi - Integrante.
+2011 - 2012
+Fapemig/FIAT: Comunicação e Relacionamento Empresa-Cliente (edital 2010)
+Descrição: Análise espaço-temporal de opiniões acerca de modelos automotivos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adriano Alonso Veloso - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Fiat Automoveis - Matriz - Auxílio
+										financeiro.
+2011 - 2012
+UOL: Bolsa Pesquisa (edital 2011)
+Descrição: Classificação associativa sob-demanda em tempo-real e perante dados incertos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adriano Alonso Veloso - Coordenador.Financiador(es): Universo Online - Bolsa.
+2010 - 2013
+MATIS - Modelos e Algoritmos para Tratamento de Informações Sociais em Tempo Real
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 03/02/2022.
+Descrição: O objetivo deste projeto é desenvolver modelos, algoritmos e ferramentas que permitam modelar, coletar, analisar e apresentar informações sociais em larga escala como, por exemplo, aquelas existentes na Internet, em tempo real. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Integrante / Wagner Meira Jr - Coordenador / Dorgival Olavo Guedes - Integrante / Renato Ferreira - Integrante / Adriano Pereira - Integrante.
+2010 - 2012
+CNPQ: Universal (edital 2010)
+Descrição: Algoritmos de aprendizado ativo para ordenação de documentos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Adriano Alonso Veloso - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2011
+PRPQ-UFMG: Bolsas de iniciação científica (edital 2010)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriano Alonso Veloso - Coordenador.Financiador(es): Pró-Reitoria de Graduação UFMG - Bolsa.
+2008 - Atual
+CNPQ: Instituto Nacional de Ciência e Tecnologia para a Web (membro pesquisador)
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Integrante / Virgílio Fernandes de Almeida - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2009
+UOL: Bolsa Pesquisa (edital 2005)
+Descrição: Classificação associativa sob-demanda. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Coordenador.Financiador(es): Universo Online - Bolsa.
+2005 - 2008
+CNPQ: CTInfo (edital 2005)
+Descrição: Tamanduá (Técnicas avançadas de mineração de dados distribuída e multi-usuário). Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Integrante / Alberto Laender - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2006
+CNPQ: CTInfo (edital 2003)
+Descrição: PTACS (Tecnologias avançadas de computação para segurança pública). Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Alonso Veloso - Integrante / Virgílio Fernandes de Almeida - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

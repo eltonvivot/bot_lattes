@@ -1,0 +1,21 @@
+2020 - Atual
+Cidades Inteligentes: Estudo de soluções colaborativas para avaliação de aplicações, processamento de imagens e mineração de dados
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Robson Cavalcanti Lins - Integrante / Waldemar Pires Ferreira Neto - Coordenador / Liliane Sheyla da Silva Fonseca - Integrante / Tarcísio Daniel Pontes Lucas - Integrante.
+2018 - Atual
+Realidade Virtual Aplicada à Fisioterapia: desenvolvimento de métodos para auxiliar a reabilitação motora
+Descrição: Este projeto de pesquisa tem por objetivo conceber e implementar jogos com o uso de Realidade Virtual para dar suporte à reabilitação motora de pacientes. Para essa finalidade, ferramentas de desenvolvimento de jogos serão utilizadas, dentre as quais a Unity 3D e o SDK (Software Development Kit) do Microsoft Kinect. Essas ferramentas vêm ganhando espaço na área da saúde, sendo incluídas no tratamento de diversas patologias.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Robson Cavalcanti Lins - Coordenador / Sérgio Murilo Maciel Fernandes - Integrante.
+2016 - 2018
+Desenvolvimento de Técnicas de Estimação de Movimento para Compressão de Vídeo em Ultra Definição
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Robson Cavalcanti Lins - Coordenador.Número de produções C, T & A: 3
+2014 - 2016
+Compressão de Vídeo de Altíssima Resolução
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Robson Cavalcanti Lins - Coordenador / Francisco Madeiro Bernardino Junior - Integrante.Número de produções C, T & A: 4
+2011 - 2014
+Desenvolvimento de Técnicas para Codificação de Vídeo Avançada
+Descrição: Em processamento de vídeo, um problema relevante é a estimação de movimentos, visto que corresponde a aproximadamente 80% da complexidade computacional dos sistemas de codificação de vídeo. Este projeto de pesquisa, tem os seguintes objetivos principais: I. desenvolvimento de técnicas para reduzir a complexidade computacional da estimação de movimento; II. desenvolvimento de técnicas de estimação de movimentos para melhorar o desempenho do codificador de vídeo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Robson Cavalcanti Lins - Coordenador / Francisco Madeiro Bernardino Junior - Integrante.Número de produções C, T & A: 7
+2007 - 2011
+Desenvolvimento de Métodos para Codificação de Vídeo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Robson Cavalcanti Lins - Coordenador / Rafael Silveira Xavier - Integrante / Roberto Pinheiro - Integrante / Augusto Cezar Santos Guimarães - Integrante / Brenner Grudka Lira - Integrante / Siddhartha Moraes Amaral de Freitas - Integrante / Francisco Madeiro Bernardino Junior - Integrante.Financiador(es): Universidade Católica de Pernambuco - Bolsa.Número de produções C, T & A: 8
+2004 - 2006
+Localização Espaço-Temporal de Objetos em Movimento a partir de Seqüências de Vídeo
+Descrição: Este projeto consiste na pesquisa e desenvolvimento de técnicas necessárias à localização de objetos em movimento a partir de seqüências de vídeo. Ele se concentra nas técnicas de segmentação e estimação de objetos em movimento, como também nas técnicas para gerar a descrição espaço-temporal desses objetos. Na segmentação dos objetos de interesse, um modelo binário bi-dimensional será derivado e rastreado em toda a seqüência de vídeo. Na estimação de movimentos atribui-se a cada objeto um conjunto de parâmetros que permitem a predição de suas formas. Os objetos são então descritos por toda a seqüência de acordo com o modelo de movimento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Robson Cavalcanti Lins - Coordenador / Hemir da Cunha Santiago - Integrante / José Torres Calazans Júnior - Integrante / Petrus Rangel Bastos - Integrante.Financiador(es): Universidade Católica de Pernambuco - Bolsa.Número de produções C, T & A: 7

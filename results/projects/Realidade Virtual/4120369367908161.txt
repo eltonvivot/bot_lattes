@@ -1,0 +1,128 @@
+2017 - Atual
+Leakage detection and soil-pipe interactions in water distribution systems (CNPq/BRICS-STI)
+Descrição: Projeto BRICS - Chamada Conjunta CNPq/BRICS N o. 18/2016 - Projetos Conjuntos em C&T&I. A participação da EESC/USP está concentrada no desenvolvimento conceitual das instabilidades e das características principais do escoamento da água de vazamento no solo próximo e suas conseqüências na desestabilização do próprio solo.
+A proposta foi viabilizada no período de Estágio Sênior efetuado na Universidade de Alberta, Canadá, com financiamento CAPES número 005723/2015-09
+O Projeto é coordenado, no Brasil, por Iran Eduardo Lima Neto, da UFC
+O representante da USP neste projeto, atuando como colaborador junto à Escola de Engenharia de São Carlos, é o Prof. Dr. Harry Edmar Schulz.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (10)  / Doutorado: (8) . Integrantes: Harry Edmar Schulz - Integrante / Iran Eduardo Lima Neto - Coordenador.
+2013 - 2014
+Estudo do ressalto hidráulico clássico: características geométricas e intensidade turbulenta junto à superfície livre
+Descrição: Projeto FAPESP 2013/10492-8.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Harry Edmar Schulz - Coordenador / Juliana Dorn Nóbrega - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2012 - Atual
+Vertedores de Barragens: Detalhando o Escoamento Multifásico e Prevenindo Cavitação e Sub-aeração
+Descrição: Bolsa de Produtividade em Pesquisa vinculada á linha de pesquisa e projetos de pesquisa no mesmo tema. Está-se realizando estudos detalhados baseados nos princípios de conservação de massa, energia e quantidade de movimento, que estão conduzindo a equacionamentos melhor condicionados para serem utilizados como ferramenta de projeto para engenherios da área.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2013
+Análise Computacional da Aeração de Águas em Estruturas de Vertedouros em Degraus
+Descrição: Processo FAPESP 2010/52074-0. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+2010 - 2012
+Investigação da Aeração em Estruturas de Vertedouros em Degraus
+Descrição: Processo FAPESP 2010/52071-0 Os vertedoutros em degraus são amplamente utilizados por oferecerem estabilidade as barragens e reduzirem o custo e o tamanho das bacias
+de dissipação. No aspecto ambiental os vertedouros contribuem para qualidade da
+água a jusante de represamentos, aumentando a taxa de oxigênio dissolvido. O
+principal objetivo dos degraus é dissipar energia, intensificar a turbulência e antecipar
+a aeração do escoamento. Contudo, a areração na maioria das vezes, não é
+suficiente para impedir pressões negativas nos degraus e a ocorrência de cavitação.
+Este projeto conduz a análise do escoamento multifásico ar-água de forma que a
+descarga de ar seja prevista numericamente ao longo do escoamento. O movimento
+da interface ar-água controla a troca de gases entre os dois meios. Investigações
+computacionais estão sendo realizadas, de forma a relacionar o comportamento do
+desenvolvimento da camada limite, e o atingimento do chamado ponto de incipiência,
+com o perfil de entrada do vertedouro. As simulações do escoamento são realizadas
+no ambiente Linux através do uso de software livres e de domínio público. A aquisição
+de uma workstation permitirá o desenvolvimento de análises mais completas
+do escoamento e o progresso no entendimento da influência do perfil de entrada,
+aspecto que ainda não é bem definido na literatura.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2008 - 2009
+Aeração de Águas em Estruturas de Vertedores de Barragam e Calhas
+Descrição: Processo CNPq 472834/2008-8. Projeto de pesquisa que viabilizou a implantação da linha de pesquisa em Recursos Hídricos, com o tema de Vertedores de Barragens, considerando o ponto de vista da mecânica dos fluidos de escoamentos multifásicos dispersos e as questões de turbulência associadas. O projeto foi altamente efetivo, com resultados de alta qualidade, permitindo estabelecer contatos no exterior e continuar na formação de  pesquisadores com perfil de excelência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - Atual
+Interações Gás-Líquido na Aeração de Escoamentos em Vertedores, com Avaliação do Enlaçamento e das Concentrações de Ar e de seus Reflexos em Cavitação e Qualidade da Água
+Descrição: Processo CNPq  302935/2008-8: Bolsa de Pesquisador. A linha de pesquisa iniciada em 2008 foi voltada para Recursos Hídricos/Barragens, mostrando-se uma área complexa, cujos objetivos de entendimento e aplicação prática transcendem o período de três anos de um projeto. Os objetivos até o momento alcançados mostram que os resultados são bem aceitos pela comunidade atuante nesta área.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2009
+Desenvolvimento e otimização de sistemas não convencionais de tratamento de águas residuárias constituídos de reatores biológicos e físico-químicos dispostos em série
+Descrição: Processo FAPESP 03/10146-0. Continuação do estudo com colunas de aeração e ozonização. Metodologia PIV está sendo utilizada para o estudo dos campos de velocidades e radiação com Césio 137 está sendo utilizada para o estudo das concentrações de ar e ozônio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Harry Edmar Schulz - Integrante / José Roberto Campos - Coordenador / Luiz Antônio Daniel - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 20
+2002 - 2006
+Sistema de Ozonização em Esgoto Domiciliar: Estudo da Hidrodinâmica e das Respostas Oscilantes de DQO
+Descrição: Processo FAPESP 2001/13586-6. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+2002 - 2006
+Modelação Numérica de Processos de Sedimentação em Escoamentos Turbulentos e Análise da Ressuspensão em Canais
+Descrição: Processo  FAPESP 2001/13916-6. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+2002 - 2006
+Avaliação do fluxo de massa na interface ar-água em tanque de grade oscilante
+Descrição: Processo FAPESP 2002/12922-5.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Auxílio
+										financeiro.
+2001 - 2005
+Contaminação do Solo e Água Subterrânea por Deposição de Resíduos de Óleos Lubrificantes.
+Descrição: Processo FAPESP 2001/10302-7. O estudo de plumas poluentes que podem inserir-se em aqüíferos foi feito, produzindo resultados importantes com resultados referentes ao aqüífero Guarany.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2001 - 2005
+Modelo Matemático e Respectivo Software de simulação de assoreamento de reservatório e sua validação em modelos físicos reduzidos
+Descrição: Processo FINEP 23.01.0606.00. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Integrante / Swami Marcondes Villela - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Auxílio
+										financeiro.
+2001 - 2003
+Modelagem de Escoamento em Aqüíferos Longos Baseada no Método de Elementos Analíticos
+Descrição: Processo CNPq 141354/01-1. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2001 - 2003
+Estudo da Estrutura Turbulenta em Escoamentos Gerados por Grelhas Oscilantes.
+Descrição: Processo FAPESP 2000/13953-6. O uso de grelhas ou grades oscilantes é utilizado para estudar turbulência isotrópica. Mas o presente projeto levou à solução teórica das equações não-lineares que compõem o problema turbulento, sendo a primeira solução exata para o escoamento gerado por duas grades oscilantes paralelas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2000 - 2002
+Estudo de Caso em Plumas Poluentes
+Descrição: Processo FAPESP 2000/09933-0.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+2000 - 2002
+Padrões de Escoamento Decorrentes de Diferenças de Densidade.
+Descrição: Processo FAPESP 1999/12636-8. Este é um estudo detalhado das correntes de densidade sobrenadantes, intrusivas e de fundo (ou as plumas poluentes com essas caracterisiticas). Os resultados esclarecem algumas características no descolamento da pluma, abandonando o fundo e mantendo-se suspensa na água do corpo receptor.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2000 - 2002
+Caracterização da Estrutura Turbulenta em Escoamentos Aerados em Canal de Forte Declividade com o Auxílio de Técnicas de Velocimetria a Laser.
+Descrição: Processo FAPESP 1999/12635-1. Velocimetria a Laser, com equipamento adquirido e que complementava uma sonda de Césio 137 para medidas de concentração de bolhas de ar. Este conjunto dava ao laboratório onde foi instalado uma caracterísitica de ponta para o estudo concomitante da absorção de bolhas e do movimento aleatório do líquido, não encontrada em outros laboratórios no mundo. Foi possível produzir resulltados aceitos em periódico de alto nível. Infelizmente, interferências obtusas inviabilizaram esta estrutura, e, a partir de 2010 está-se buscando reiniciá-la em um local menos sujeito a essas interferências.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1998 - 2003
+Desenvolvimento e otimização de sistemas não convencionais de tratamento de águas residuárias constituídos de reatores biológicos e físico-químicos dispostos em série.
+Descrição: Processo CNPq PRONEX 664093/1997-3.  Atuando na parte do projeto que trata de colunas de aeração e ozonização. Estudo hidrodinâmico e de transferência de massa nas colunas de aeração e ozonização. Estudo das flutuações observadas na DQO nessas colunas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Harry Edmar Schulz - Integrante / José Roberto Campos - Coordenador / Luiz Antônio Daniel - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+1998 - 1999
+Projeto de Aperfeiçoamento Científico na Universidade de Karlsruhe, Alemanha.
+Descrição: Processo FAPESP 1997/11743-0 Tratou-se de aperfeiçoamento próprio, na área de medição de escoamentos com Laser e caracterização experimental de instabilidades.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1997 - 1999
+Reciclagem dos Resíduos Alimentícios do Lixo Domiciliar como Ração para Frangos de Corte
+Descrição: Processo FAPESP 1997/10569-6 e Processo FAPESP 1996/08126-6. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Auxílio
+										financeiro / Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+1997 - 1999
+O Uso de Resíduos de Poda Urbanos como Cobertura Morta no Controle de Erosão Hídrica
+Descrição: Processo CNPq 142000/97-3. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1996 - 1998
+Características de Escoamentos Decorrentes de Diferenças de Densidades
+Descrição: Processo FAPESP 1996/5995-3. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador / Fazal Hussain Chaudhry - Integrante.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+1996 - 1998
+Auxílio Financeiro
+Descrição: Processo CNPq 453939/96-1. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1996 - 1998
+Absorção e Dessorção de Gases Através da Interface Ar-Água em Sistemas de Agitação Mecânica
+Descrição: Processo FAPESP 1996/7492-9. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+1996 - 1997
+Avaliação do Potencial de Reciclagem da Matéria Orgânica do Lixo Domiciliar como Ração Animal.
+Descrição: Processo FAPESP 1995/08993-9. Projeto desenvolvido inteiramente na área de saneamento, em Resíduos Sólidos e Educação Ambiental Aplicada, com excelentes resultados no que tange ao contato com a população e sua educação, e no acompanhamento do crescimento de frangos de corte (com análises microbiológicas detalhadas e acompanhamento veterinário das aves). Por se tratar de área sem equacionamento, constituindo-se essencialmente de observação e descrição (fundamentais para as conclusões), verificou-se ser uma área de alto potencial de produtividade acadêmica (isto é, de publicações). A aceitação de publicação em revista internacional é mais simplificada, em relação aos temas que envolvem os princípios físicos e a mecânica dos fluidos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1995 - 1997
+Desenvolvimento de Lagoas de Maturação Aquecidas com Energia Solar Visando ao Reuso de Águas
+Descrição: Processo CNPq 201438/95-0. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1995 - 1997
+Andreia Savassi
+Descrição: Processo CNPq 142071/95-1. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1994 - 1996
+Experimentos e Simulações em Processos de Transferência de Gases em Águas com Agitação Turbulenta
+Descrição: Processo FAPESP 1994/02965-0. Estudos na área de turbulência, em superfícies contínuas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1992 - 1993
+Sedimentação na região de entrada de tubulões
+Descrição: Processo CNPq 800639/91-8. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1991 - 1993
+Transferência de Gases Em Sistemas Líquidos Altamente Agitados Induzidos por Hélices do Tipo Turbina em Tanques Cilíndricos
+Descrição: Processo FAPESP 1991/2522-3.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+1990 - 1992
+Coleta Seletiva, Recicliagem e Reaproveitamento de Resíduos Sólidos
+Descrição: Processo FAPESP 1990/1581-3.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Fundação de Amparo e Pesquisa do Estado de S. Paulo - Bolsa.
+1986 - 1989
+Investigação do Mecanismo de Reoxigenação da Água em Escoamento e sua Correlação com o Nível de Turbulência junto à Superfície
+Descrição: Processo CNPq 401625/86. Projeto financiado quando o solicitante ainda tinha o título de Mestre, e destinou-se a construir o equipamento utilizado para o doutorado, o qual foi concebido, calculado, projetado e construído integralmente pelo solicitante. Foram efetuados experimentos concomitantes de dissipação de energia, absorção de oxigênio pela água, dissolução de sólidos gerados a partir do crescimento de cistais puros e sua clivagem. A forma de fixação dos sólidos a uma estrutura geométrica flutuante original (concebida pelo solicitante), a sua dissolução controlada em escoamentos induzidos, juntamente com a abosrção de oxigênio e determinação das características hidráulicas, tudo efetuado por uma única pessoa em experimentos diuturnos, únicos, representou um momento de compreensão da dificuldade de realizar experimentos em condições de dificuldades extremas. Nesse sentido, como objetivo pessoal, todos os orientados que passaram pelo solicitante tiveram condições melhores de trabalho. Os resultados foram de excelente qualidade, tanto que há publicações de terceiros que os utilizam sem a menção desta pesquisa. Este projeto representou o início da busca de recursos próprios para continuar a própria formação científica e orientar de forma adequada, responsável e conseqüente, aqueles que buscariam na pessoa do solicitante a orientação para a academia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1986 - 1986
+Reservatório de Nível Variável
+Descrição: É um estudo de pesquisa realizado no contexto da graduação, para o Laboratório de Fenômenos de Transporte da EESC/USP. O equipamento foi montado em 1986, estando em uso até a presente data, atendendo às aulas de graduação. A pesquisa foi aplicada, no tocante ao melhor equacionamento a ser usado, ao dimensionamento do equipamento e sua construção.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Harry Edmar Schulz - Coordenador.Financiador(es): CETEPE-UNESCO-ROSTLAC - Auxílio
+										financeiro.

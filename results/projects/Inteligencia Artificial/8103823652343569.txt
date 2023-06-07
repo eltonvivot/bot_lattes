@@ -1,0 +1,77 @@
+2016 - Atual
+MODELAGEM DE VARIÁVEIS DENDROMÉTRICAS DE POVOAMENTOS FLORESTAIS EM MATO GROSSO
+Projeto certificado pelo(a) coordenador(a) Rômulo Môra em 05/07/2016.
+Descrição: Quantificar os estoques florestais de forma acurada requer estudos recorrentes
+relacionados ao volume das árvores, seja de forma individual ou de todo o povoamento.
+Estudar os fustes individualmente também é um aspecto considerado para melhorar o
+rendimento da produção e aumento dos lucros por parte das empresas.
+O volume de madeira de um povoamento é a variável de maior interesse para o
+mercado e para o planejamento florestal. As estimativas de volume de madeira nos inventários
+florestais envolvem, sobretudo, a utilização de equações volumétricas (OLIVEIRA et al., 2009).
+Segundo FIGUEIREDO FILHO et al. (1993) o volume das árvores têm sido estimados com
+facilidade e precisão empregando equações de volume ajustadas a partir de medições do
+diâmetro a altura do peito e da altura total.
+Em determinados casos, apenas conhecer o volume total das árvores não é suficiente,
+deseja-se também conhecer o volume de partes específicas do tronco, determinadas de acordo
+com dimensões pré-estabelecidas pelo mercado. Essa classificação do tronco com base em
+suas dimensões é chamada sortimento florestal. Segundo MANCINI (2011), regimes
+multiprodutos possuem um efeito de redução de riscos, pois, embora a produção desse tipo de
+toras seja cada vez mais consumida por nichos específicos, o mercado sempre valorizará
+madeira de melhor qualidade.
+A existência de relações quantitativas e modelos matemáticos que sejam consistentes
+e numericamente compatíveis para a predição do desenvolvimento do povoamento, além de
+permitir o monitoramento do desenvolvimento de espécies florestais, é elemento fundamental
+no manejo florestal de florestas plantadas e nativas.
+Para garantir com maior eficiência a exatidão das estimativas das variáveis de
+povoamentos pelas funções, diversos tipos de modelos e técnicas de regressão têm sido
+aplicados aos dados de cubagem rigorosa, obtidos de inventários florestais. O uso de
+regressão facilita o processo de estimativas das variáveis, uma vez que nem todas as
+medições precisam ser feitas em todas as árvores do local ou área de estudo. A modelagem de
+variáveis, pode ser feita tanto para variáveis de menos complexidade como diâmetros até
+modelos mais complexos como os modelos de crescimento e produção para povoamento total,
+classe diâmétrica ou árvore individual.
+A estrutura diamétrica de uma floresta, sob o ponto de vista da produção, permite
+caracterizar e indicar o estoque de madeira disponível anterior a uma exploração, fornecer
+informações que auxiliem na tomada de decisões sobre a necessidade de reposição florestal
+(SCOLFORO et. al., 1998; PULZ et. al., 1999), além de descrever importantes características
+de um povoamento e probabilidades de projeção através do tempo. As quantificações da
+distribuição de diâmetro e sua relação como o sítio, a composição, a idade e a densidade do
+povoamento são importantes instrumentos de predição econômica e biológica (BAILEY e
+DELL, 1973; UMAÑA, 1997). Além disso, a distribuição dos diâmetros é o mais simples e
+poderoso fator para retratar as propriedades das árvores de um povoamento (RODOVANSKI,
+2003; LOETSCH et. al., 1973).
+Com o conhecimento da estrutura diamétrica, é possível avaliar o comportamento da
+espécie, tendo em vista os vários fatores que possam interferir em seu crescimento, dentre
+eles, o manejo e as atividades de exploração comercial (BARTOSZECK et. al., 2004). Para
+CLUTTER et. al. (1983) e Silva (2003) a análise da distribuição diamétrica permite estimar o
+número de árvores por hectare para cada classe de diâmetro, bem como determinar a altura
+média nas classes de diâmetro, permitindo obtenção de informações mais detalhadas sobre a
+estrutura de produção do povoamento. A distribuição diamétrica assume particular importância
+no levantamento da estrutura horizontal de uma floresta por permitir caracterizar uma tipologia
+florestal e. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Ronaldo Drescher - Integrante / Rômulo Môra - Coordenador / Clebson Lima Cerqueira - Integrante.
+2013 - Atual
+518/CAP/2013 - Crescimento e desenvolvimento de povoamentos florestais e estratégias para produção madereira de Tectona grandis e Ochroma pyramidales
+Descrição: Espécies como Tectona grandis L. F., vulgarmente chamada de Teca e Ochroma pyramidale (Cav. ex Lamb.) Urb, conhecida como Pau-de-Balsa são utilizadas em plantios florestais em diversas regiões brasileiras. Todavia, a expressão da área plantada ainda é considerada pequena em relação a espécies de grande volume comercial, como Pinus e Eucalipto.  
+Estas espécies apresentam características propícias para sua utilização em empreendimentos florestais por possuírem rápido crescimento. 
+O Pau-de-balsa é uma espécie de alta produção madeireira. Sua madeira é conhecida por sua baixa densidade, o que caracteriza o seu uso para atividades específicas, como: isolamento acústico, fabricação de aeromodelos, preenchimento de hélices para usinas eólicas, e mais comumente, a fabricação de balsa, da qual se originou o seu nome vulgar, e desenvolve-se em uma ampla variedade de solos, até mesmo em terrenos onde há aterro de construção civil.
+A Teca é uma espécie produtora de madeira de alta qualidade, resistência, durabilidade, chama atenção pelo seu aspecto estético e tem grande demanda de mercado. Apesar de sua origem asiática, a planta teve uma excelente adaptação no Brasil, especialmente no Estado de Mato Grosso, que hoje é o maior produtor da espécie no país, onde encontrou solo e clima favorável. Segundo a Associação Brasileira de Produtores de Florestas Plantadas - ABRAF (2012), o Estado possui 60.000 ha plantadas com esta espécie.
+No entanto há lacunas no conhecimento acerca dessas espécies fazendo-se necessário compreender os efeitos de diferentes tipos de desbaste na estrutura do povoamento e as características do material desbastado, Elaborar modelos matemáticos para a forma de tronco, para posterior seleção de um modelo que ajuste melhor os dados utilizados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (4) . Integrantes: Ronaldo Drescher - Integrante / Fernando Henrique Gava - Integrante / Arie Souza Rossi - Integrante / CALDEIRA, SIDNEY FERNANDO - Coordenador / Diego Tyszka Martinez - Integrante.Financiador(es): Fundo de Apoio Ã  Madeira - MT - Auxílio
+										financeiro.
+2010 - Atual
+062/CAP/2010 Rede de experimentos florestais em Mato Grosso ? REF-MT/ Mar-2009 - Fev-2016
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (4) . Integrantes: Ronaldo Drescher - Integrante / Sidney Fernando Caldeira - Coordenador / Diego Tyszka Martinez - Integrante / FERNANDA MEYER DOTTO MAMORÉ - Integrante.
+2009 - 2024
+021/CAP/2010	Desenvolvimento de povoamentos de Tectona grandis L.F. em Mato Grosso, sob diferentes condições de cultivo..
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo Drescher - Integrante / Sidney Fernando Caldeira - Coordenador.
+2009 - 2011
+206/CAP/2009 - Relação Hipsométrica de Teca (Tectona grandis L.F.) no município de Cáceres em Mato Grosso-Brasil
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo Drescher - Coordenador.
+2009 - 2011
+117/CAP/2009 - Crescimento e Produção de Teca (Tectona grandis L.f.) nos municipios de Cáceres e Alta Floresta em Mato Grosso
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo Drescher - Integrante / Versides Sebastião de Moraes e Silva - Coordenador / Thelma Shirlen Soares - Integrante.
+2009 - 2010
+Relação Hipsométrica de Teca (Tectona grandis L.F.) no município de Cáceres em Mato Grosso-Brasil
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Ronaldo Drescher - Coordenador.
+2002 - 2011
+008/CAP/2002 - Sistema de Predição e Análise da Produção Presente e Futura em Reflorestamentos de Tectona grandis L. no Estado de Mato Grosso..
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo Drescher - Integrante / Versides Sebastião de Moraes e Silva - Coordenador / Thelma Shirlen Soares - Integrante / Raquel Pereira da Silva - Integrante / Reginaldo Brito da Costa - Integrante / Jorge Reinaldo Baicere Schmidt - Integrante.

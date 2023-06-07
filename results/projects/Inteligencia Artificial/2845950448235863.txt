@@ -1,0 +1,73 @@
+2023 - Atual
+CAPES [88881.712024/2022-01] Cofecub - Graphs, Optimization, Combinatorics and Algorithms
+Projeto certificado pelo(a) coordenador(a) Fabricio Siqueira Benevides em 17/01/2023.
+Descrição: Projeto envolvendo a UFC (Universidade Federal do Ceará) e 3 instituições de alto nível da França (Université Côte d?Azur, Université de Montpellier, Université d?Avignon).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Rudini Menezes Sampaio - Integrante / Rafael Castro de Andrade - Integrante / Victor Campos - Integrante / Frédéric Havet - Integrante / Ana Shirley Silva - Integrante / Fabrício Benevides - Coordenador / Manoel Campêlo - Integrante / LINHARES-SALES, CLÁUDIA - Integrante / Philippe Yves Paul Michelon - Integrante / NISSE, NICOLAS - Integrante / júlio césar silva araújo - Integrante / ignasi sau - Integrante / ANA KAROLINNA MAIA - Integrante / Marcio Costa Santos - Integrante / Pablo Luiz Braga Soares - Integrante / Tatiane Fernandes Figueiredo - Integrante / Rosa Figueiredo - Integrante / Serigne GUEYE - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2023 - Atual
+CNPq [311070/2022-1] PQ 1D - Graph Convexity and Graph Coloring Problems
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Coordenador.
+2021 - Atual
+FUNCAP [186-155.01.00/21] - Paralelismo e Algoritmos Para Otimização, Combinatória e Complexidade (PAPOCCO)
+Descrição: O objetivo do projeto é obtenção de algoritmos e modelos matemáticos para resolução automática de problemas computacionais, incluindo para isso o estudo da complexidade dos problemas, a análise combinatória estrutural das instâncias, bem como criação de ferramentas computacionais para resolução distribuída ou paralela dos mesmos em quantidade massiva de dados. O projeto se concentra em certos problemas combinatórios teóricos de interesse e suas variantes, como coloração de grafos, conectividade em grafos, difusão de informações em redes sociais, jogos multiagentes em grafos, entre outros, visando à obtenção de modelos discretos e contínuos, com aplicações em problemas práticos em áreas como telecomunicações e logística. Ademais, pretende-se pesquisar teoria e técnicas de desenvolvimento de algoritmos para esses problemas de otimização combinatória, produzindo algoritmos exatos, probabilísticos, aproximativos, heurísticas ou algoritmos FPT, usando técnicas de decomposição, particionamento, kernelização e aproximação dos problemas, entre outras. Finalmente, pretende-se pesquisar técnicas de desenvolvimento e implementação de algoritmos concorrentes, paralelos e distribuídos para resolução eficaz de tais problemas em instâncias de grande porte, bem como a aplicação de sistemas de computação paralela desenvolvidos por membros do projeto, como o HPC Shelf. Entre os problemas, destaca-se o Problema de Difusão em Redes Sociais, cujo objetivo é achar o menor número de vértices capazes de difundir uma informação para todo grafo, usando vários modelos distintos de propagação (como P3 ou geodésica). Outros problemas são relacionados à conectividade em grafos: determinar interligações entre vários elementos, como caminho entre dois pontos da cidade ou rede de comunicação entre computadores. Alguns dos problemas, como árvore geradora mínima e fluxo máximo, surgem com restrições adicionais que os tornam computacionalmente difíceis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Mestrado acadêmico: (10)  / Doutorado: (15) . Integrantes: Rudini Menezes Sampaio - Coordenador / Rafael Castro de Andrade - Integrante / Ana Shirley Silva - Integrante / LINHARES-SALES, CLÁUDIA - Integrante / MAIA, ANA KAROLINNA - Integrante / CAMPÊLO, MANOEL - Integrante / MARTINS, NICOLAS - Integrante / BENEVIDES, FABRÍCIO - Integrante / Julio Cesar Araujo - Integrante / Ronan Pardo Soares - Integrante / Francisco Heron de Carvalho Júnior - Integrante / Allberson Bruno de Oliveira Dantas - Integrante / Cenez Araújo de Rezende - Integrante / Tiago Carneiro Pessoa - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - 2022
+CNPq [437841/2018-9] Universal - Problemas sobre contagem e sobre parâmetros em colorações de grafos
+Projeto certificado pelo(a) coordenador(a) Fabricio Siqueira Benevides em 02/04/2019.
+Descrição: Contagem de colorações extremais, Decomposição em Circuitos Monocromáticos, Variações do Problema de Coloração de Grafos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Rudini Menezes Sampaio - Integrante / Victor Campos - Integrante / Bastos, Antônio J.O. - Integrante / Ana Shirley Silva - Integrante / Fabrício Benevides - Coordenador / Julio Cesar Araujo - Integrante.
+2019 - 2022
+CNPq [314031/2018-9] PQ 1D - Problemas de Convexidade e Coloração em Grafos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Coordenador.
+2018 - 2022
+CAPES [88887.143992/2017-00] DAAD PROBRAL - Graph Coloring: Extremal Combinatorics, Graph Theory and Algorithms
+Projeto certificado pelo(a) coordenador(a) Carlos Hoppen em 28/05/2018.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Rudini Menezes Sampaio - Integrante / Carlos Hoppen - Coordenador / Ana Shirley Silva - Integrante / LINHARES-SALES, CLÁUDIA - Integrante / BENEVIDES, FABRÍCIO - Integrante / Julio Cesar Araujo - Integrante / Hanno Lefmann - Integrante.
+2018 - 2022
+CAPES [88881.197438/2018-01] STIC AmSud - Graph Algorithms for Optimization Problems (GALOP)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Rudini Menezes Sampaio - Integrante / Cláudia Linhares Sales - Integrante / Ana Shirley Silva - Integrante / CAMPOS, VICTOR - Integrante / BENEVIDES, FABRÍCIO - Integrante / Ronan Pardo Soares - Integrante / Ana Karolinna Maia de Oliveira - Integrante / júlio césar silva araújo - Coordenador.
+2017 - 2021
+CNPq [425297/2016-0] Universal - Problemas de Coloração e Infecção em Grafos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / Manoel Bezerra Campêlo Neto - Integrante / Ana Karolinna Maia - Integrante / LINHARES-SALES, CLÁUDIA - Coordenador.
+2017 - 2021
+FUNCAP [4543945/2016] PRONEM - Problemas em Grafos: Complexidade e Métodos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / Rafael Castro de Andrade - Integrante / Manoel Bezerra Campêlo Neto - Integrante / Ana Karolinna Maia - Integrante / Ana Shirley Silva - Integrante / CAMPOS, VICTOR - Coordenador / LINHARES-SALES, CLÁUDIA - Integrante / BENEVIDES, FABRÍCIO - Integrante.
+2017 - 2021
+CNPq [401519/2016-3] Universal - Coloração Backbone, Coloração Gulosa e Convexidade Cíclica
+Projeto certificado pelo(a) coordenador(a) Ana Shirley Ferreira da Silva em 29/04/2020.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / Ana Shirley Silva - Coordenador / CAMPOS, VICTOR - Integrante / BENEVIDES, FABRÍCIO - Integrante / Julio Cesar Araujo - Integrante.
+2016 - 2018
+CNPq [306187/2015-9] PQ 2 - Coloração e Infecção em Grafos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Coordenador.
+2014 - 2016
+CNPq [475114/2013-2] Universal - Combinatória Extremal e Limites de Estruturas Discretas
+Projeto certificado pelo(a) coordenador(a) Fabricio Siqueira Benevides em 18/03/2017.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / BENEVIDES, FABRÍCIO - Coordenador.
+2014 - 2016
+CNPq [478744/2013-7] Universal - Algoritmos e complexidade de problemas de convexidade em grafos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Rudini Menezes Sampaio - Coordenador / Fabrício Benevides - Integrante / Thiago Marcilon - Integrante.
+2014 - 2016
+FUNCAP [083-047.01.00/2013] CNRS - Graphs and AlgorIthms Applied to TelecommuncatiOns (GAIATO)
+Projeto certificado pelo(a) coordenador(a) Manoel Bezerra Campêlo Neto em 16/05/2017.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / Rafael Castro de Andrade - Integrante / Ricardo Cordeiro Corrêa - Integrante / Ana Karolinna Maia - Integrante / Ana Shirley Silva - Integrante / CAMPOS, VICTOR - Integrante / LINHARES-SALES, CLÁUDIA - Integrante / CAMPÊLO, MANOEL - Coordenador / BENEVIDES, FABRÍCIO - Integrante / Julio Cesar Araujo - Integrante / Ronan Pardo Soares - Integrante.
+2013 - 2015
+CAPES [040/2013] STIC AmSud - Solving Combinatorial Optimization Problems with Stable Sets Constraints
+Projeto certificado pelo(a) coordenador(a) Manoel Bezerra Campêlo Neto em 12/07/2021.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / Ricardo Cordeiro Corrêa - Integrante / CAMPOS, VICTOR - Integrante / LINHARES-SALES, CLÁUDIA - Integrante / CAMPÊLO, MANOEL - Coordenador.
+2013 - 2015
+CNPq [304669/2012-1] PQ 2 - Coloração, Testabilidade e Limites de Grafos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Coordenador.
+2011 - 2014
+FUNCAP [040-040.01.00/2010] PRONEM - Paralelismo, Grafos e Otimização
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / Cláudia Linhares Sales - Integrante / Rafael Castro de Andrade - Integrante / Manoel Bezerra Campêlo Neto - Coordenador / Ricardo Cordeiro Corrêa - Integrante / Victor Campos - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+CNPq [484154/2010-9] Universal - Combinatória Assintótica
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / Yoshiharu Kohayakawa - Coordenador / Carlos Hoppen - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+FUNCAP [01100007.03.00/09] PPP - Testabilidade em Permutações, Ordens Parciais e Grafos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Coordenador / Yoshiharu Kohayakawa - Integrante / Rafael Castro de Andrade - Integrante / Carlos Hoppen - Integrante / Ricardo Cordeiro Corrêa - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+FAPEMIG [3457-5.01/07] Universal - Esqueletos Euclidianos Homotópicos: Algoritmos e Definiçoes em Resolução Aumentada
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rudini Menezes Sampaio - Integrante / André Vital Saúde - Coordenador / Michel Couprie - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

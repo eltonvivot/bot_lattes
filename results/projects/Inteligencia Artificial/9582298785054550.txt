@@ -1,0 +1,40 @@
+2022 - 2022
+Aplicativo AppSementes: fortalecer e ampliar o acesso de sementes crioulas entre agricultores e comunidade
+Descrição: Desenvolver aplicativo para viabilizar o acesso às informações relacionadas à produção de sementes crioulas por agricultores da região de abrangência do Vale de Jaguari/RS.
+Objetivos específicos
+- Realizar levantamento da oferta regional de sementes crioulas.
+- Cadastrar e oportunizar a consulta da disponibilidade de sementes crioulas entre produtores interessados por meio de desenvolvimento de um aplicativo gratuito.
+- Apontar as potencialidades em relação ao cultivo de sementes crioulas na região.
+- Inserir estudantes da comunidade escolar rural na indústria 4.0 por meio de oficinas de capacitação vinculadas à realidade local.
+- Fomentar a difusão da disponibilidade de sementes crioulas por meio de tutoriais e capacitação de uso do software para agentes produtivos vinculados.
+- Possibilitar a comunicação direta e instantânea entre as entidades cadastradas (instituição parceira) com o produtor de semente crioula.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Thiago Santi Bressan - Coordenador / Leandro Dalbianco - Integrante / Leandro Ferreira Paz - Integrante / Rodrigo Flores Rocha - Integrante / Hélio Leal Barcelos - Integrante / Silvio Otávio Possa de Oliveira - Integrante.Financiador(es): Secretaria de Educação Profissional e Tecnológica - Bolsa.
+2017 - 2019
+Sistema Web para organização, interpretação e apresentação de dados meteorológicos
+Descrição: Integração do homem com o meio ambiente tem crescido de forma exponencial, abrangendo uma interação necessária para entender as variáveis que compõem o ambiente evolutivo complexo que os seres vivos vivem. 
+Informações destas variáveis tendem a fornecer dados capazes de serem analisados e interpretados em um contexto histórico metodológico que busca uma melhor forma de produção, melhor forma de captação ou integração com a atmosfera terrestre. 
+Pode-se destacar as principais variáveis no meio ambiente como temperatura, umidade do ar ou do solo, precipitação, radiação solar, velocidade e direção do movimento de ar, entre outras, também denominado de dados meteorológicos. 
+As tecnologias e equipamentos visando a captura dos dados destas variáveis tem-se um grande crescimento nos últimos anos, destacando-se o desenvolvimento de sensores específicos e radares. 
+Implementação de banco de dados para armazenamentos de dados meteorológicos devem ser confiáveis, flexíveis, adaptáveis e eficientes, que, com pesquisas e novas tecnologias, tem-se grandes avanços na segurança das informações persistentes nos bancos de dados. 
+Conforme (MONTEIRO, 2009), em torno de 80% da variabilidade da produção agrícola deve-se as mudanças das condições meteorológicas durante o ciclo de cultivo, já que os agricultores não conseguem exerver nenhum controle sobre tais fenômenos naturais. 
+Este projeto visa o desenvolvimento de um Sistema Web capaz de organizar, interpretar e apresentar dados meteorológicos oriundos de estação meteorológica. Seu desenvolvimento basear-se-á na utilização de software livre e dados experimentais de uma estação meteorológica localizada no Instituto Federal Farroupilha Campus Jaguari.
+Como a cidade de Jaguari destaca-se na grande produção de uva, este Sistema Web proposto poderá auxiliar os produtores locais no acompanhamento dos dados meteorológicos diários ou históricos, criando mais uma alternativa para a tomada de decisão em relação aos elementos meteorológicos. Além da produçao de uva, poderá ser utilização nas áreas de agricultura, agropecuária e agronegócio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Thiago Santi Bressan - Coordenador / FERNANDO FUNGHETTO SAGRILO - Integrante / Roger Ross - Integrante.
+2017 - 2019
+Projeto e Montagem de VANT Hexacoptero vinculado a um Sistema SIG Web
+Descrição: Novas tecnologias na construção de equipamentos físicos (hardwares) avançam dia a dia, seja na área da computação, seja em áreas afim cuja aplicabilidade seja vinculada a utilização de hardwares capazes de melhorar e facilitar a integração na geração de informações.
+Neste contexto, áreas da eletrônica e da informática integram-se no desenvolvimento de novos produtos, incorporando tecnologias avançadas como sensores, microcontroladores, comunicação em rede e robótica.
+Ainda, segundo BARATO (2014) os VANTs são aeronaves que possuem a capacidade de sustentar voo sem a presença de uma pessoa a bordo e seu voo é controlado automaticamente por microcontroladores instalados diretamente no veículo aéreo. Neste caso estão os multirotores, baseados apenas na energização fornecida por suas baterias e tem como sustentação fornecida pelos conjuntos de propulsão, compostos por drivers de potência, motores e hélices.
+De acordo com XAVIER-DA-SILVA (2001), um SIG consiste em um sistema capaz de operar sobre seus dados, reestruturando-os para ganhar conhecimento sobre posições, extensões e relacionamentos taxonômicos, espaciais e temporais contidos em sua base de dados.
+Um SIG para ambiente web é definido em RIBEIRO E CÂMARA (2003) como um SIG de terceira geração, caracterizado como um banco de dados geográfico compartilhado por um conjunto de instituições, acessível remotamente, por meio da internet, capaz de armazenar, além dos dados geoespaciais, as descrições acerca dos dados (metadados) e documentos multimídia associados (texto, fotos, áudio e vídeo).
+Dentre as utilizações dos VANTs cita-se à extração de informações atualizadas da superfície terrestre via recobrimento aerofotogramétrico, monitoramento ambiental, deslocamento da terra, mapeamento de minas a céu aberto, cadastramento urbano e sensoriamento remoto.
+Este projeto visa o desenvolvimento de projeto e montagem de VANT hexacoptero visando a coleta de imagens e a comunicação com Sistema SIG Web. O desenvolvimento basear-se-á na utilização de software livre para construção das interfaces do sistema SIG Web.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago Santi Bressan - Coordenador / FERNANDO FUNGHETTO SAGRILO - Integrante / francisco Giraldi - Integrante / Danielle Ferrari dos Santos - Integrante.Número de produções C, T & A: 1
+2015 - 2015
+Preservação Documental: Preservando a memória histórica de Jaguari/RS
+Descrição: Projeto de preservação documental junto ao museu municipal de Jaguari.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Thiago Santi Bressan - Integrante / Ricardo Antonio Rodrigues - Coordenador.
+2014 - 2014
+Formação de Professores para a Educação Básica: Produção de  Materiais Didáticos na Educação do Campo
+Descrição: Proporcionar ao docente em formação, construir, organizar e refletir sobre a importância dos materiais didáticos de ensino, como ferramenta capaz de potencializar a aprendizagem significativa dos alunos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Thiago Santi Bressan - Coordenador / Marcos Rodrigo Barreto - Integrante / Cátia Mendes - Integrante.Financiador(es): Instituto Federal Farroupilha - Bolsa.
+2010 - 2012
+DESENVOLVIMENTO E IMPLEMENTAÇÃO PILOTO DE UM SIG MUNICIPAL CORPORATIVO PARA APOIO AO DESENVOLVIMENTO LOCAL E REGIONAL SUSTENTÁVEL
+Descrição: Desenvolver e implementar a versão piloto de um SIG municipal corporativo para
+apoio ao desenvolvimento local e regional sustentável. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Thiago Santi Bressan - Integrante / Attus Pereira Moreira - Coordenador.Financiador(es): SECRETARIA DA CIÊNCIA E TECNOLOGIA - Auxílio
+										financeiro.

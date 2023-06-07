@@ -1,0 +1,73 @@
+2007 - 2011
+DESENVOLVIMENTO E PESQUISA DE TECNOLOGIAS PARA APLICAÇÕES WEB DIRECIONADAS PARA  A RESOLUÇÃO E EXPLICAÇÕES DE ALGORITMOS E NUMÉRICOS E ALGÉBRICOS NA WEB
+Descrição: TECNOLOGIAS WEB TÊM PROPICIADO UM GRANDE AVANÇO NAS POSSIBILIDADES DE EXPLORAR O COMPUTADOR COMO
+AUXILIAR NO PROCESSO DE ENSINO-APRENDIZAGEM. A INTERATIVIDADE, DINAMISMO, CONTEÚDO APROPRIADO,
+ADAPTATIVIDADE SÃO CARACTERÍSTICAS IMPRESCINDÍVEIS PARA QUE HAJA CONTRIBUIÇÃO EFETIVA NA ÁREA
+EDUCACIONAL. NESTE CONTEXTO, ANA-WEB (ALGORITMOS NUMÉRICOS E ALGÉBRICOS NA WEB) É UM AMBIENTE
+EDUCACIONAL PARA WEB EM DESENVOLVIMENTO, QUE AUXILIA NA APRENDIZAGEM DE MÉTODOS NUMÉRICOS E
+ALGÉBRICOS ATRAVÉS DA EXECUÇÃO ON-LINE DE PROGRAMAS COM EXPLICAÇÕES PASSO A PASSO DA RESOLUÇÃO.
+O AMBIENTE PROVÊ DOIS MODOS DE USO: AUTORIA E APRENDIZ. NO MODO AUTORIA, O PROFESSOR PODE
+ACRESCENTAR PROBLEMAS EXEMPLO ASSOCIADOS COM TÓPICOS CLÁSSICOS DE MÉTODOS NUMÉRICOS. NO MODO
+APRENDIZ, ESTE PODE NAVEGAR ENTRE OS MÉTODOS NUMÉRICOS DISPONÍVEIS E TESTAR DIFERENTES
+PROBLEMAS. MEDIANTE A IDENTIFICAÇÃO DA NECESSIDADE DE NOVAS FUNCIONALIDADES E MELHORIAS NO
+AMBIENTE, NOVOS DESAFIOS DE PESQUISA E DESENVOLVIMENTO SURGIRAM, QUE SÃO OBJETOS DE ESTUDO DESTE
+PROJETO. OS OBJETIVOS DESTE PROJETO INCLUEM: I) INCORPORAÇÃO DE UM MODELO DE USUÁRIO (APRENDIZ E
+TUTOR), DE FORMA A OTIMIZAR A DISPONIBILIZAÇÃO DOS RECURSOS OFERTADOS PELO AMBIENTE, II)
+AVALIAÇÃO DE PADRÕES DE INTERCÂMBIO DE DADOS MATEMÁTICOS (MATHML E OPENMATH) NO PROCESSO DE
+INTEGRAÇÃO DO AMBIENTE ANA-WEB COM UM SISTEMA DE COMPUTAÇÃO MATEMÁTICA, III) COMUNICAÇÃO COM
+OUTROS SISTEMAS DE COMPUTAÇÃO MATEMÁTICA, PREFERENCIALMENTE LIVRES, IV) INCLUSÃO DE FILTROS PARA
+GERAÇÃO DE PROBLEMAS EXEMPLO APROPRIADOS PARA DIFERENTES OBJETIVOS E V) OTIMIZAÇÃO DO PROCESSO
+DE CORREÇÃO DE PROGRAMAS DO APRENDIZ. COMO PRINCIPAIS RESULTADOS DESTA ETAPA DO PROJETO,
+ESPERA-SE PROVER UM AMBIENTE HIPERMÍDIA ADAPTATIVO QUE PERMITA QUE PROFESSORES POSSAM MELHORAR
+SEUS RECURSOS EDUCACIONAIS PARA O ENSINO DE COMPUTAÇÃO MATEMÁTICA E ESTUDANTES POSSAM EXPLORAR
+DIFERENTES FORMAS DE MELHORAR SEU ENTENDIMENTO SOBRE DIFERENTES ALGORITMOS MATEMÁTICOS.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Marcelo Fernandes de Luna - Integrante / Rafael Arabori - Integrante.Financiador(es): CNPq - Bolsa.Número de produções C, T & A: 5 / Número de orientações: 4
+2006 - 2009
+TICOS: Técnicas de Inteligência Computacional aplicadas à área da Saúde
+Descrição: O TERMO INTELIGÊNCIA COMPUTACIONAL TEM SIDO USADO PARA DESCREVER SISTEMAS QUE IMPLEMENTAM CERTOS ASPECTOS DE COMPORTAMENTO INTELIGENTE ATRAVÉS DE MÉTODOS NUMÉRICOS. EXEMPLOS DE TÉCNICAS DE INTELIGÊNCIA COMPUTACIONAL INCLUEM REDES NEURAIS ARTIFICIAIS, PROGRAMAÇÃO EVOLUCIONÁRIA, SISTEMAS FUZZY ENTRE OUTROS, QUE SÃO ÁREAS DE ESTUDO ORIUNDAS DA INTELIGÊNCIA ARTIFICIAL. O USO  DESTAS TÉCNICAS, DE FORMA ISOLADA OU COMBINADA TEM SIDO BUSCADA COMO ALTERNATIVA PARA ENTENDIMENTO DE SISTEMAS COMPLEXOS, ONDE O CONJUNTO DE VARIÁVEIS E A RELAÇÃO ENTRE ESTAS PODE NÃO SER TOTALMENTE CONHECIDA, DIFICULTANDO A MODELAGEM DE TAISSISTEMAS. NA ÁREA BIOMÉDICA, DIVERSOS FENÔMENOS FISIOLÓGICOS NECESSITAM SER MELHOR COMPREENDIDOS EM DIFERENTES CIRCUNSTÂNCIAS. A TEMÁTICA QUE MOTIVOU ESTE PROJETO É A COMPREENSÃO DE ALGUNS ASPECTOS DA FISIOLOGIA CARDIORRESPIRATÓRIA, OBTIDOS ATRAVÉS DE MEDIDAS FISIOLÓGICAS, SEJAM ELAS UMA SÉRIE TEMPORAL, QUE PODE SER ANALISADA SOB A ÓTICA DE PROCESSAMENTO DIGITAL DE SINAIS, BEM COMO MEDIDAS MOMENTÂNEAS QUE AUXILIAM NA CLASSIFICAÇÃO DO ESTADO DE GRAVIDADE DE UMA PATOLOGIA. NESTE SENTIDO, ALGUNS ESTUDOS JÁ FORAM DESENVOLVIDOS PREVIAMENTE, INCLUINDO A MODELAGEM E ANÁLISE DE DIFERENTES MODELOS DE REDES NEURAIS PARA IDENTIFICAÇÃO DA DOENÇA PULMONAR CRÔNICA OBSTRUTIVA. OS OBJETIVOS DESTA PROPOSTA RESIDEM NO ESTUDO, PROPOSIÇÃO E ANÁLISE DE ALGORITMOS PARA PROBLEMAS DE INTERPRETAÇÃO DE MEDIDAS CARDIORRESPIRATÓRIAS USANDO TÉCNICAS DE INTELIGÊNCIA COMPUTACIONAL. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Antonio Fernando Brunetto - Integrante / Robinson Samuel Vieira Hoto - Integrante / André Ricardo Gonçalves - Integrante.Financiador(es): CNPq - Outra.Número de produções C, T & A: 6 / Número de orientações: 7
+2006 - 2007
+DocWebQuali-Editoração, Indexação e Busca de Documentos científicos em um processo de Avaliação Aberta
+Descrição: O objetivo desta proposta de pesquisa é especificar uma arquitetura e um modelo conceitual para permitir que um sistema parcialmente automatizado avalie a qualidade de um artigo baseado na qualificação do autor, e na qualidade dos pareceres de usuários de uma forma similar ao modelo de page ranking, utilizado pelo Google, onde referências de maior qualidade são ponderadas mais fortemente do que referências de menor peso. em um modelo de avaliação em editoração aberta é tratado o problema de reconhecimento de artigos baseado no perfil do autor (qualidade dos artigos). A modelagem do perfil do usuário serve para aprimorar o processo de qualificação do autore e permitir um processo de revisão de conteúdos. Para que um sistema possa avaliar a qualidade dos intes considerando o autor, a qualificação dos revisores, e o nível de conhecimento necessário para a leityura do item é necessário o acesso a fontes de informação adequadas. Uma alternativa é estabelecer um perfil inicial de um autor ou revisor no momento do cadastramento do usuário através da busca, pelo sistema, depublicações deste usuário e do número de referências a estas publicações. Isto pode ser feito a partir de mecanismos como o Scholar Google que recolhe na Web publicações, referências e as organiza de forma pública e transparente. Além disto, o sistema deve acompanhar a evolução do trabalho de avaliação realizado pelo revisor. A evolução é modelada pelo comportamento do leitor/avaliador analisando os resultados das avaliações realizadas pelo usuário e considerando a correlação destas revisões com as análises de outros avaliadores. Participam deste projeto a UFRGS, a UEL, a Universidade de la República (Uruguai) e aa Universidad Tecnologica Nacional (Argentina).
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Integrante / Regina Motz - Integrante / José Palazzo Moreira de Oliveira - Coordenador / Mario Lemes Proença Junior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Universidade Federal do Rio Grande do Sul - Cooperação.
+2004 - 2005
+Adaptweb Multicultural
+Descrição: O projeto visa o estudo e aplicação de Objetos de aprendizagem, ontologias, tecnologias web visando prover hipermídia adaptativa contemplando diferenças culturais e linguísticas entre Brasil, Uruguai e Argentina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / José Valdeni de Lima - Integrante / Regina Motz - Integrante / Raul Rugio - Integrante / Horacio Leone - Integrante / Lydia Silva - Integrante / José Palazzo Moreira de Oliveira - Integrante / Mario Lemes Proença Junior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Universidade Federal do Rio Grande do Sul - Cooperação.Número de produções C, T & A: 1 / Número de orientações: 1
+2003 - 2006
+Laboratório de Pesquisa em Informática na área da Saúde (LAPIS)
+Descrição: Profissionais da saúde convivem em seu dia a dia com uma série de fenômenos biológicos que ocorrem no organismo de um ser humano. Visando prover melhor entendimento de como tais fenômenos ocorrem sem usar técnicas invasivas, a modelagem matemática é uma forte aliada neste aspecto. Como exemplo podemos citar a análise de variabilidade da freqüência cardíaca que tem se mostrado de grande contribuição para investigação de vários estados fisiopatológicos como hipertensão e doença isquêmica cardíaca por diabetes. Além disto, este tipo de análise é importante para uma avaliação quantitativa do papel do sistema nervoso autônomo na geração destes ritmos 
+Objetivos Gerais: Estudar, analisar e desenvolver soluções computacionais (métodos, técnicas, algoritmos e software) que auxiliem os profissionais da área da saúde na melhor compreensão e interpretação de fenômenos biológicos modelados matematicamente.
+Objetivos Específicos:  
+  Estudar os modelos matemáticos para descrição de fenômenos associados ao sistema cardiorrespiratório e sistema nervoso autônomo. 
+  Fornecer diretivas para os profissionais da saúde no sentido de auxiliar na  utilização correta das  diversas técnicas de análise de medidas fisiológicas.
+  Realizar um estudo comparativo através da implementação computacional de diversas técnicas aplicadas a um conjunto de dados representativo. 
+  Identificar a possibilidade da aplicação das técnicas estudadas em outros domínios de conhecimento.
+Metas: 
+  Consolidar o grupo de Pesquisa de Informática aplicada à Saúde da UEL.
+  Integrar as linhas de Pesquisa desenvolvidas pelo grupo de pesquisa da UEL
+  Fomentar a continuidade da pesquisa aplicada na área de saúde, utilizando computação matemática.
+  Contribuir com a comunidade biomédica local e regional no sentido de alertar sobre a   importância da correta interpretação dos diferentes tipos de análises de dados biológicos resultantes de processos automatizados.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Antonio Fernando Brunetto - Integrante / Daniel dos Santos Kaster - Integrante / Ernesto Ferreyra - Integrante / Robinson Samuel Vieira Hoto - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2 / Número de orientações: 3
+2002 - 2004
+ADAPTWEB-II: Ambiente de Ensino-Aprendizagem Adaptativo para Web
+Descrição: O projeto Adaptweb II é a extensão do projeto Adaptweb e tem entre outros objetivos a validação das
+ metodologias e do ambiente computacional em  propostos no projeto Adaptweb (fase inicial). Neste projeto há uma forte
+ênfase para o desenvolvimento de programas para Web que provêm a execução online de  métodos numéricos com
+explicações sobre o processo de resolução de cada método.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Danilo Mori Palomo - Integrante / Douglas Terêncio do Vale - Integrante / Marcelo Manzatto - Integrante / Cleberson Vidote Costa - Integrante / Claiton de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 12 / Número de orientações: 10
+2001 - 2004
+Adaptweb: Ambientes de Ensino-aprendizagem adaptativos para Web
+Descrição: Este projeto trata do estudo de uma metodologia de geração e publicação de cursos para Web, acompanhado  de uma ambiente de ensino-aprendizagem adaptativo para Web. 
+O projeto foi  desenvolvido em parceria com a Universidade Federal do Rio Grande do Sul.
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Marília Abrahão Amaral - Integrante / Veronice de Freitas - Integrante / Isabela Gasparini - Integrante / Mariana Lobo Zuza Figueiredo - Integrante / Viviane Prado Marçal - Integrante / José Valdeni de Lima - Integrante / Andréia A Kondo - Integrante / Marcos G. Quiles - Integrante / José Palazzo Moreira de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 9 / Número de orientações: 4
+2000 - 2002
+AMATHIS: Arquitetura Multiagente para Tutor Hipermídia Inteligente Aplicado ao Ensino da Área de Saúde
+Descrição: O projeto abordou o desenvolvimento de uma arquitetura de tutor inteligente para a área da Saúde, modelagem de domínio na área de Fisioterapia Respiratória e estudo de estratégias para o módulo do tutor. . Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Antonio Fernando Brunetto - Integrante / Joselaine de Almeida - Integrante / Eduardo Nazaretian Rossi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 10 / Número de orientações: 4
+1999 - 2001
+SIQVIDA:Sistema Inteligente para análise da Qualidade de Vida de Pacientes Pneumopatas. Projeto apoiado pelo PROTEM-Cnpq
+Descrição: O projeto teve por objetivo o desenvolvimento de um software para apoio à decisão na área de Fisioterapia Respiratória. . Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Antonio Fernando Brunetto - Integrante / Alan Gavioli - Integrante / Gustavo Luis Cimitan - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2 / Número de orientações: 4
+1998 - 2000
+Sistema Hipermídia Inteligente aplicado a Fisioterapia Respiratória
+Descrição: O objetivo deste projeto foi a modelagem e desenvolvimento de um Sistema Hipermídia Inteligente  para a área de Fisioterapia Respiratória.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Maria Angelica de Oliveira Camargo Brunetto - Coordenador / Antonio Fernando Brunetto - Integrante / Rogério Akiyoshi Furukawa - Integrante / Carlos Eduardo Arouca - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6 / Número de orientações: 4

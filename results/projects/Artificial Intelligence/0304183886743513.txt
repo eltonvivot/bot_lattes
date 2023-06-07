@@ -1,0 +1,29 @@
+2014 - 2015
+Desenvolvimento de uma plataforma desktop para o sistema  BRNeural
+Projeto certificado pelo(a) coordenador(a) Ivo Mario Mathias em 04/09/2014.
+Descrição: Esse projeto de pesquisa tem como finalidade o desenvolvimento de uma plataforma Desktop para o sistema BRNeural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador / Guilhermino Marcos Silva Afonso - Integrante.
+2013 - 2014
+Desenvolvimento de uma estação meteorológica móvel sob a plataforma Arduino
+Projeto certificado pelo(a) coordenador(a) Ivo Mario Mathias em 02/09/2014.
+Descrição: Este projeto tem como principal objetivo o desenvolvimento de uma estação meteorológica móvel sob a plataforma Arduino, a qual poderá ser utilizada para a obtenção de dados agrometeorológicos visando o tratamento desses dados por meio do sistema BRNeural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador / Ariangelo Hauer Dias - Integrante / Robson Fernando Duda - Integrante.
+2013 - 2014
+Desenvolvimento de uma plataforma web para o sistema BRNeural
+Projeto certificado pelo(a) coordenador(a) Ivo Mario Mathias em 04/09/2014.
+Descrição: Esste projeto de pesquisa tem como finalidade a modelagem e o desenvolvimento da camada front-end para uma plataforma web do sistema BRNeural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador / Guilhermino Marcos Silva Afonso - Integrante.
+2012 - 2014
+Desenvolvimento de Sistema Especialista para Otimização de Rotas de Transporte de Produtos Agrícolas Utilizando Heurísticas e Metaheurísticas
+Descrição: Este projeto tem como objetivo o estudo de problemas de roteamento de veículos (PRV) e suas soluções para o desenvolvimento de um sistema especialista capaz de determinar roteiros otimizados no processo de entrega de rações da Cooperativa Castrolanda - PR. São estudados as variantes do PRV e as técnicas disponíveis para a solução dos mesmos. Nesse contexto, são aplicadas heurísticas e metaheurísticas em problemas reais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador / Robson Fernando Duda - Integrante.
+2012 - 2013
+Desenvolvimento do algoritmo de aprendizagem resilient-propagation no sistema BRNeural
+Descrição: Desenvolvimento do algoritmo de aprendizagem de Redes Neurais Artificiais resilientpropagation e comparação de resultados com o algoritmo back-propagation, voltados à classificação de doenças do trigo em ìndices de severidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador / Robson Fernando Duda - Integrante.
+2011 - 2015
+BRNeural (BRasil Neural)
+Descrição: A proposta no desenvolvimento do BRNeural (BRasil Neural) é ser um ambiente para a simulação e pesquisa de redes neurais artificiais, que será desenvolvido por professores, alunos do Mestrado em Computação Aplicada e alunos de iniciação científica do Bacharelado em Informática e Engenharia de Computação do Departamento de Informática da UEPG (DEINFO). O principal objetivo do BRNeural é ser um simulador voltado à comunidade científica e profissional, uma vez que, uma de suas propostas é possuir um ambiente eficiente e flexível para auxiliar na criação, treinamento e operação com Redes Neurais Artificiais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador / Rodrigo Viecheneski - Integrante / Ariangelo Hauer Dias - Integrante / Raphael Augusto Rogenski - Integrante / Robson Fernando Duda - Integrante / Alaine Margarete Guimaraes - Integrante / João Alexandre Batista da Cruz - Integrante / Alison Roger Hajo Weber - Integrante / Juscelino Izidoro de Oliveira Junior - Integrante.
+2011 - 2012
+Desenvolvimento de sistema utilizando Redes Neurais Artificiais para tratamento de dados meteorológicos visando à detecção de índice de severidade de doenças na cultura do trigo.
+Descrição: Este projeto tem como objetivo o desenvolvimento de um sistema, baseado na modelagem realizada em projeto anterior, para a detecção de índices de severidade das doenças da soja.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador.
+2010 - 2011
+Estudo sobre o uso de Redes Neurais Artificiais para tratamento de dados meteorológicos visando a detecção de molhamento foliar por orvalho na cultura da soja.
+Descrição: Esse projeto tem como objetivo realizar uma revisão bibliográfica sobre o tratamento de dados
+meteorológicos por meio de redes neurais artificiais. Esses estudos visam investigar modos de estimativa
+do molhamento foliar por orvalho na cultura da soja e definir uma modelagem de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Luiz Antônio Zanlorensi Junior - Integrante / Ivo Mario Mathias - Coordenador.

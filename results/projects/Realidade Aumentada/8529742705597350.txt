@@ -1,0 +1,9 @@
+2013 - 2014
+Otimização na sintonia de controladores PID
+Descrição: Esta pesquisa tem como objetivo desenvolver um software que realize a sintonia de controladores PID por otimização, utilizado o método do mínimos quadrados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Felipi Luiz de Assunção Bezerra - Coordenador / Cristiane Holanda Sodré - Integrante.
+2012 - 2013
+Produção de uma interface gráfica (software acadêmico) para a simulação de uma coluna de destilação.
+Descrição: Neste projeto foi desenvolvido um modelo simulador de uma coluna de destilação em ambiente MATLAB, após a comparação dos resultados do modelo com um modelo já existente, implementou-se uma interface gráfica do usuário (GUI) para a maior facilidade de utilização dos recursos do simulador.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Felipi Luiz de Assunção Bezerra - Coordenador / Cristiane Holanda Sodré - Integrante.
+2010 - 2011
+Análise do desempenho de uma coluna de destilação mediante diferentes configurações de controle.
+Descrição: Esta pesquisa teve como objetivo analisar a influência e a sensibilidade em diversas conformações do controle retroalimentação PID para uma coluna de destilação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Felipi Luiz de Assunção Bezerra - Coordenador / Cristiane Holanda Sodré - Integrante / Seldis Fernado dos Santos Júnior - Integrante.

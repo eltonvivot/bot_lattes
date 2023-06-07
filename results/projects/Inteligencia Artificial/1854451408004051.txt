@@ -1,0 +1,13 @@
+2017 - Atual
+Metodologias e Processos aplicados à Startups de Tecnologia
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Matheus Cardoso Moraes - Coordenador.
+2017 - Atual
+Inteligência Artificial Aplicada ao Diagnóstico de Imagens e Sinais Biomédicos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Matheus Cardoso Moraes - Coordenador.
+2014 - 2017
+Métodos para investigação da neoíntima pós-stent em artérias coronárias, usando imagens de tomografia óptica coerente intravascular (IOCT)
+Descrição: A inserção de stent para tratamento de estenoses em artérias coronárias desencadeia o crescimento de um tecido cicatricial - neoíntima reestenose, obstruindo novamente o cana sanguíneo. A regressão da neoíntima acontece de forma gradativa, devendo ser acompanhada para que, em eventuais casos críticos, uma nova intervenção deva ser feita. O Ultrassom Intravascular ( IVUS), e a Tomografia Óptica Coerente Intravascular ( IOCT) são as modalidades de referência para o diagnóstico e acompanhamento dessas obstruções. Contudo, muita informação, como tamanho, diâmetro, área e volume das estruturas pode ser obtida, de forma quantitativa, através de segmentação e extração da área da neoíntima. Adicionalmente, o volume 3D reconstruído da mesma pode ser conseguido usando técnicas de segmentação, alinhamento e interpolação. O progresso desta aplicação resultará em monitoramentos mais detalhados do tratamento, permitindo a obtenção de evidencias precisas e conclusivas de sua eficácia, melhorando assim a indicação de fármacos, qualidade da implantação e material dos stents. Portanto, esse trabalho tem como objetivo fazer a combinação de métodos, como segmentação, extração de características, e reconstrução 3D, para auxiliar, e aumentar a precisão na estimativa do crescimento e regressão da neoíntima. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Matheus Cardoso Moraes - Coordenador / Sergio Shiguemi Furuie - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Metodologias e Processos aplicados a Engenharia Clinica
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Matheus Cardoso Moraes - Coordenador.

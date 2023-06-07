@@ -1,0 +1,183 @@
+2019 - Atual
+DESENVOLVIMENTO E VALIDAÇÃO DE TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL PARA SELEÇÃO DE GENÓTIPOS DE SOJA RESISTENTES À FERRUGEM ASIÁTICA POR FENOTIPAGEM POR IMAGEM
+Descrição: O melhoramento genético é um dos pilares para o agronegócio da soja no Brasil,
+impactando no cenário social e econômico. A obtenção de cultivares resistentes às
+doenças estão entre os principais objetivos de melhoramento da espécie, dentre as
+quais destacam-se a ferrugem asiática, dado o potencial de dano às lavouras e os
+prejuízos em nível econômico e ambiental. O desenvolvimento de cultivares
+resistentes à doença depende da capacidade de diagnóstico do melhorista. Então,
+os métodos para avaliação dos níveis de resistência são fundamentais durante o
+processo seletivo. Atualmente, a detecção de indivíduos resistentes é feita pela
+fenotipagem visual, ou seja, o melhorista verifica os sintomas visualmente e
+seleciona os indivíduos superiores. Mas, esta abordagem tem algumas questões a
+serem resolvidas: a consistência, confiabilidade e também reprodutibilidade. Neste
+contexto, a presente proposta objetiva desenvolver um método que utiliza
+Inteligência Artificial (IA), mais especificamente, Aprendizado de Máquinas, para a
+identificação e avaliação da severidade da ferrugem asiática visando a seleção de
+genótipos de soja com resistência à doença e ainda caracteres agronômicos
+superiores. O grande individualizador desta proposta é a forma de obtenção da
+imagem para o treinamento dos algoritmos, que será feita com base em três fontes
+principais: fotos de um smartphone, de uma câmera fotográfica e de uma câmera
+térmica. Além disso, as imagens serão pré-processadas de forma a destacar
+aspectos relevantes nas nervuras, coloração e temperatura da folha ao longo da
+infecção. Esta abordagem permitirá identificar padrões que não são detectáveis pelo
+olho humano e tornará todo o processo de melhoramento mais rápido e com menor
+custo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Osvaldo Toshiyki Hamawaki - Integrante / Cristiane D. L. Hamawaki - Integrante / Alex Junio de Oliveira Santana - Integrante / Marcos Vieira de Faria - Integrante / DIEGO SILVA - Integrante / Díbio Leandro Borges - Integrante / Fernanda Cristina Juliatti - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - Atual
+Conservação De Germoplasma, Diversidade Genética E Propagação Vegetativa De Pequizeiro (Caryocar Brasiliense Camb.) Com E Sem Espinhos No Endocarpo
+Descrição: O pequizeiro (Caryocar brasiliense Camb) é uma espécie de elevada importância socioeconômica, pela vasta utilização na culinária, indústria e potencial de uso em recuperação de áreas degradadas. Os pequizeiros produzem frutos com espinhos no endocarpo, contudo, uma planta produtora de frutos sem espinho foi identificada no Mato Grosso e amostras destas foram coletadas e implantadas em uma área experimental da Universidade Federal de Uberlândia-UFU, visando estudos sobre conservação, ampliação do germoplasma propagação, genética e melhoramento da espécie. Pequizeiros produtores de frutos sem espinho no endocarpo tem despertado grande interesse por parte de produtores, dado ao valor agregado, bem como pela maior produção da polpa. Até o momento são poucos os trabalhos publicados sobre a diversidade genética e propagação do pequizeiro sem espinho. Atualmente, a propagação sexuada é predominante na obtenção de mudas de pequi, porém a dormência das sementes, a germinação desuniforme e a baixa taxa germinativa dificultam sua produção em larga escala, evidenciando assim, a necessidade de estudos que apontem alternativas de propagação vegetativa. Diante do exposto, os objetivos da proposta são: conservar e ampliar o banco de germoplasma de pequizeiro com e sem espinho no endocarpo da UFU; caracterizar fenotipicamente plantas e frutos de pequizeiro sem e com espinho no endocarpo, safra 2018/2019; avaliar o potencial de germinação e produção de mudas a partir de sementes e por estaquia, a partir de matrizes de pequizeiro sem e com espinho no endocarpo. Na fazenda experimental Água Limpa da UFU, encontram-se em fase de produção matrizes de pequizeiros (sem e com espinho), as quais serão caracterizadas fenotipicamente (planta e fruto). Posteriormente, à colheita dos frutos serão realizados dois experimentos em casa de vegetação, sendo o primeiro voltado para análise da produção de mudas via semente e o segundo voltado para o estudo de produção de mudas via estaquia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Ana Maria Bonetti - Integrante / Bruno Henrique Gomes - Integrante / Marcos Vieira de Faria - Integrante / Ana Paula Caetano Procópio - Integrante.Financiador(es): Fundação de Apoio Universitário - Auxílio
+										financeiro.
+2019 - Atual
+DESCRIÇÃO MORFOAGRONOMICA E DIVERSIDADE DE ACESSOS DE TOMATE DA UNIVERSIDADE FEDERAL DE GOIÁS PARA CRIAÇÃO DE UM BANCO DE SEMENTES INSTITUCIONAL-COMUNITÁRIO
+Descrição: O objetivo geral do projeto: Caracterizar e classificar a diversidade de acessos de tomate mantidos pelo Setor de Horticultura, da Escola de Agronomia, da Universidade Federal de Goiás e criar um banco de sementes institucional-comunitário, colaborando com a manutenção do patrimônio genético da hortaliça mais produzida no Estado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Integrante / Abadia dos Reis Nascimento - Coordenador / Monita Fiori de Abreu Tarazi - Integrante / Mariana Vieira Nascimento - Integrante / Leonardo Boiteux - Integrante / Maria Esther - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - Atual
+CARACTERIZAÇÃO FENOTÍPICA, MOLECULAR E SEQUENCIAMENTO DE ÚLTIMA GERAÇÃO EM Caryocar brasiliense Camb. SEM E COM ESPINHO NO CAROÇO
+Descrição: O pequizeiro é uma planta de ocorrência natural e seus frutos apresentam diversas aplicações na
+alimentação humana, uso medicinal, na produção de cosméticos e também planta promissora
+para produção de biodiesel. As pesquisas científicas com pequi, mais comumente encontrado na
+natureza, isto é, com plantas que produzem frutos com espinho no endocarpo são incipientes, no
+entanto, o Brasil ainda é destaque quando comparado a outros países. Mesmo assim, os estudos
+realizados focalizam sua importância econômica ou caracterização de plantas e frutos. Ademais,
+pesquisas científicas com pequizeiro que produz frutos sem espinho no endocarpo é bastante
+escassa tanto do ponto vista fenotípico quanto molecular, havendo, portanto, necessidades de
+pesquisas, que possam gerar conhecimentos básicos e aplicados. Na Universidade Federal de
+Uberlândia estão sendo cultivadas plantas de pequi sem espinho no endocarpo, para as quais foi
+possível verificar a produção diferenciada em relação ao tamanho do fruto, massa e sabor da
+polpa. Nesse sentido, a presente proposta tem como objetivos: a) Caracterizar o fenótipo de
+plantas de pequi que produz frutos sem e com espinho no caroço; b) Caracterizar fisicamente
+frutos sem e com espinho no caroço; c) Avaliar o padrão polimórfico de plantas de pequi que
+produz frutos sem e com espinho no caroço com uso marcadores microssatélites; d) Realizar um
+estudo proteômico do pequizeiro que produz frutos sem e com espinho no caroço; e Realizar o
+transcriptoma de plantas de pequi sem e com espinho no caroço com análise de RNA seq. Os
+resultados desta pesquisa permitirão acumular conhecimentos sobre a variabilidade genética
+disponível para o melhoramento genético e biotecnológico do pequizeiro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Ana Maria Bonetti - Integrante / Mariana Gonçalves Mendes - Integrante / Bruno Henrique Gomes - Integrante / MARCOS VIEIRA FARIA - Integrante / Carlos Ueira Vieira - Integrante / FOUED SALMEN ESPINDOLA - Integrante / : LUIZ RICARDO GOULART FILHO - Integrante / Rodrigo Rodrigues Franco - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - Atual
+DESENVOLVIMENTO E SELEÇÃO DE GENÓTIPOS DE SOJA PRECOCES E RESISTÊNCIA PARCIAL AO MOFO BRANCO
+Projeto certificado pelo(a) coordenador(a) Osvaldo Toshiyuki Hamawaki em 10/10/2019.
+Descrição: O mofo branco, causado pelo fungo Sclerotinia sclerotiorum, é uma doença de grande importância
+mundial, uma vez que ataca mais de 400 espécies de plantas. Nos últimos anos a doença
+começou a gerar preocupação na cultura da soja, pelo aumento da incidência em grandes estados
+produtores, como Minas Gerais, Goiás, Mato Grosso e outros. O controle da doença é químico e/ou
+cultural, com algumas cultivares com resistência parcial ao patógeno. A resistência genética é a
+forma economicamente viável para diminuir as perdas causadas por este fungo na cultura da soja.
+O presente projeto tem como objetivo desenvolver germoplasma e selecionar linhagens com
+resistência parcial ao mofo branco em soja. O trabalho será conduzido em casa de vegetação e
+área experimental do Programa de Melhoramento Genético de Soja da Universidade Federal de
+Uberlândia, localizada na Fazenda Capim Branco e no Laboratório de Melhoramento, no município
+de Uberlândia -Minas Gerais. Após a identificação de genitores com resistência ao fungo
+Sclerotinia sclerotiorum, estes serão incluídos no bloco de cruzamentos como parentais na criação
+de novos genótipos que agreguem desempenho agronômico e produtivo favoráveis. Serão obtidas
+dementes híbridas entre parentais resistentes ao mofo branco e parentais de ciclo precoce e de
+bom desempenho agronômico. Posteriormente, as sementes F1 serão semeadas para obtenção
+da população F2, a partir da qual, o avanço das gerações até F4 será pelo método SPD (Single Pod
+Descent). A geração F5 será conduzida a campo, a partir da qual serão selecionadas plantas
+individuais que serão semeadas em campo para avaliação do potencial produtivo e seleção dos
+genótipos precoces. Os genótipos que apresentarem desempenho favorável serão avaliados
+quanto à reação ao S. sclerotiorum. Os genótipos serão selecionados conforme desempenho
+agronômico e os que apresentarem resistência parcial ao mofo branco.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Integrante / Osvaldo Toshiyuki Hamawaki - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - Atual
+DESENVOLVIMENTO E SELEÇÃO DE GENÓTIPOS DE SOJA PRECOCES E RESISTÊNCIA PARCIAL AO MOFO BRANCO
+Projeto certificado pelo(a) coordenador(a) Osvaldo Toshiyuki Hamawaki em 10/10/2019.
+Descrição: O mofo branco, causado pelo fungo Sclerotinia sclerotiorum, é uma doença de grande importância
+mundial, uma vez que ataca mais de 400 espécies de plantas. Nos últimos anos a doença
+começou a gerar preocupação na cultura da soja, pelo aumento da incidência em grandes estados
+produtores, como Minas Gerais, Goiás, Mato Grosso e outros. O controle da doença é químico e/ou
+cultural, com algumas cultivares com resistência parcial ao patógeno. A resistência genética é a
+forma economicamente viável para diminuir as perdas causadas por este fungo na cultura da soja.
+O presente projeto tem como objetivo desenvolver germoplasma e selecionar linhagens com
+resistência parcial ao mofo branco em soja. O trabalho será conduzido em casa de vegetação e
+área experimental do Programa de Melhoramento Genético de Soja da Universidade Federal de
+Uberlândia, localizada na Fazenda Capim Branco e no Laboratório de Melhoramento, no município
+de Uberlândia -Minas Gerais. Após a identificação de genitores com resistência ao fungo
+Sclerotinia sclerotiorum, estes serão incluídos no bloco de cruzamentos como parentais na criação
+de novos genótipos que agreguem desempenho agronômico e produtivo favoráveis. Serão obtidas
+dementes híbridas entre parentais resistentes ao mofo branco e parentais de ciclo precoce e de
+bom desempenho agronômico. Posteriormente, as sementes F1 serão semeadas para obtenção
+da população F2, a partir da qual, o avanço das gerações até F4 será pelo método SPD (Single Pod
+Descent). A geração F5 será conduzida a campo, a partir da qual serão selecionadas plantas
+individuais que serão semeadas em campo para avaliação do potencial produtivo e seleção dos
+genótipos precoces. Os genótipos que apresentarem desempenho favorável serão avaliados
+quanto à reação ao S. sclerotiorum. Os genótipos serão selecionados conforme desempenho
+agronômico e os que apresentarem resistência parcial ao mofo branco.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Integrante / Osvaldo Toshiyuki Hamawaki - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - Atual
+DESENVOLVIMENTO E SELEÇÃO DE GENÓTIPOS DE SOJA PRECOCES E RESISTÊNCIA PARCIAL AO MOFO BRANCO
+Projeto certificado pelo(a) coordenador(a) Osvaldo Toshiyuki Hamawaki em 10/10/2019.
+Descrição: O mofo branco, causado pelo fungo Sclerotinia sclerotiorum, é uma doença de grande importância
+mundial, uma vez que ataca mais de 400 espécies de plantas. Nos últimos anos a doença
+começou a gerar preocupação na cultura da soja, pelo aumento da incidência em grandes estados
+produtores, como Minas Gerais, Goiás, Mato Grosso e outros. O controle da doença é químico e/ou
+cultural, com algumas cultivares com resistência parcial ao patógeno. A resistência genética é a
+forma economicamente viável para diminuir as perdas causadas por este fungo na cultura da soja.
+O presente projeto tem como objetivo desenvolver germoplasma e selecionar linhagens com
+resistência parcial ao mofo branco em soja. O trabalho será conduzido em casa de vegetação e
+área experimental do Programa de Melhoramento Genético de Soja da Universidade Federal de
+Uberlândia, localizada na Fazenda Capim Branco e no Laboratório de Melhoramento, no município
+de Uberlândia -Minas Gerais. Após a identificação de genitores com resistência ao fungo
+Sclerotinia sclerotiorum, estes serão incluídos no bloco de cruzamentos como parentais na criação
+de novos genótipos que agreguem desempenho agronômico e produtivo favoráveis. Serão obtidas
+dementes híbridas entre parentais resistentes ao mofo branco e parentais de ciclo precoce e de
+bom desempenho agronômico. Posteriormente, as sementes F1 serão semeadas para obtenção
+da população F2, a partir da qual, o avanço das gerações até F4 será pelo método SPD (Single Pod
+Descent). A geração F5 será conduzida a campo, a partir da qual serão selecionadas plantas
+individuais que serão semeadas em campo para avaliação do potencial produtivo e seleção dos
+genótipos precoces. Os genótipos que apresentarem desempenho favorável serão avaliados
+quanto à reação ao S. sclerotiorum. Os genótipos serão selecionados conforme desempenho
+agronômico e os que apresentarem resistência parcial ao mofo branco.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Integrante / Osvaldo Toshiyuki Hamawaki - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2017
+Caracterização morfoagronômica e molecular de genótipos de soja a inoculação de Sclerotinia sclerotiorum
+Descrição: O mofo branco é uma doença de grande importância mundial, que nos últimos anos começou a
+gerar preocupação na cultura da soja, pelo aumento da incidência em campos comerciais. O
+controle da doença ainda se priva ao químico e cultural. A resistência genética é o melhor
+tratamento para diminuir suas perdas na cultura da soja. O presente projeto visa desenvolver e
+avaliar linhagens do Programa de Melhoramento de Soja UFU quanto à resistência ao mofo
+branco. O trabalho será conduzido na Fazenda Capim Branco, da Universidade Federal de
+Uberlândia, Uberlândia-MG. Serão selecionadas seis cultivares de soja para compor um dialelo
+completo. Os genitores serão semeados em vasos sob condições de casa de vegetação para que
+sejam obtidos 36 cruzamentos dialélicos. Após a obtenção dos cruzamentos, o avanço da geração
+F1 também será em condições de casa de vegetação. Após a obtenção da geração F2, esta será
+experimentada em delineamento de blocos casualizados, com três repetições. Será avaliado:
+altura da planta na floração, altura da planta na maturidade, número de dias para a floração,
+número de dias para a maturidade, altura de inserção da primeira vagem, número total de vagens
+e produtividade de grãos. Logo após, a geração F2:3 será experimentada em fileiras de 2,0 x 5,0
+m, separadas por um corredor de 1,0 m. Sendo o experimento conduzido em delineamento de
+blocos completos cazualizados com 3 repetições. Nesta experimentação será avaliada a
+resistência das linhagens ao mofo branco. O método de incoculação com ferimento em hastes
+será utilizado sob condições de laboratório, casa de vegetação e campo para maior precisão da
+avaliação. Será feita análise molecular no Laboratório de Genética da UFU. O teor de óleo e
+proteína serão determinados no Laboratório de Solos da UFU. Após o término do projeto porderão
+ser geradas linhagens de soja para serem lançadas porteriormente como novas cultivares, com
+resistência ao mofo branco, promissoras para programas de melhoramento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ana Paula Oliveira Nogueira - Integrante / Osvaldo Toshiyki Hamawaki - Coordenador / Maria Amélia dos Santos - Integrante / Ana Carolina Cordeiro Dias - Integrante / Cláudio Ricardo da Silva - Integrante / Larissa Barbosa de SOUSA - Integrante / Leonardo Humberto Silva e Castro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2013
+RESPOSTA MORFOFISIOLÓGICA E MOLECULAR DE GENÓTIPOS DE SOJA AO ESTRESSE HÍDRICO
+Descrição: O projeto objetivou caracterização morfofisiológica e molecular de linhagens quanto à
+tolerância ao estresse hídrico; análise da expressão diferencial de genes nas linhagens avaliadas;
+e a utilização das informações coletadas no aprimoramento dos trabalhos de zoneamento
+agrícola, manejo da cultura e biotecnologia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Integrante / Tuneo Sediyama - Integrante / Osvaldo Toshiyki Hamawaki - Coordenador / Maria Amélia dos Santos - Integrante / Ana Maria Bonetti - Integrante / Ana Carolina Cordeiro Dias - Integrante / Cláudio Ricardo da Silva - Integrante / DE SOUSA, L.B. - Integrante.
+2011 - 2013
+RESPOSTA MORFOFISIOLÓGICA E MOLECULAR DE GENÓTIPOS DE SOJA AO ESTRESSE HÍDRICO
+Descrição: O projeto objetivou caracterização morfofisiológica e molecular de linhagens quanto à
+tolerância ao estresse hídrico; análise da expressão diferencial de genes nas linhagens avaliadas;
+e a utilização das informações coletadas no aprimoramento dos trabalhos de zoneamento
+agrícola, manejo da cultura e biotecnologia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Integrante / Tuneo Sediyama - Integrante / Osvaldo Toshiyki Hamawaki - Coordenador / Maria Amélia dos Santos - Integrante / Ana Maria Bonetti - Integrante / Ana Carolina Cordeiro Dias - Integrante / Cláudio Ricardo da Silva - Integrante / DE SOUSA, L.B. - Integrante.
+2011 - 2012
+Diversidade genética em soja com tolerância a ferrugem asiática da soja
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Osvaldo Toshiyuki Hamawaki - Integrante / Larissa Barbosa Sousa - Integrante / Ana Maria Bonetti - Integrante / Virgínia Verônica Cardoso de Melo - Integrante.
+2009 - 2010
+SELEÇÃO DE LINHAGENS DE SOJA RESISTENTES AO CANCRO-DA-HASTE (Diaporthe phaseolorum f. sp. meridionalis) E MANCHA OLHO-DE-RÃ (Cercospora sojina Hara) PARA FINS INDUSTRIAIS E CONSUMO HUMANO
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Tuneo Sediyama - Integrante / Rita de Cássia Teixeira - Integrante / Cosme Damião Cruz - Integrante / Nara Beatriz Carneiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2009
+Melhoramento genético da soja visando resistência ao cancro da haste (Diaporthe phaseolorum f. sp. Meridionalis) e mancha olho-de-rã (Cercospora sojina Hara) para fins industriais e consumo humano.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Tuneo Sediyama - Integrante / Rita de Cássia Teixeira - Integrante / José Luiz Lopes Gomes - Integrante / Alberto Souza Boldt - Integrante.
+2007 - 2011
+Diversidade genética entre cultivares de soja adaptadas à diferentes regiões do Brasil. Determinação da correlações entre caracteres e da análise de trilha para caracteres de importância agronômica
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Tuneo Sediyama - Integrante / Derval Gomes Pereira - Integrante / Cosme Damião Cruz - Integrante / Rita de Cássia Teixeira Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2007
+Avaliação da estabilidade de características morfológicas e caracterizar o tipo de crescimento
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Oliveira Nogueira - Coordenador / Tuneo Sediyama - Integrante / Cosme Damião Cruz - Integrante / Múcio Silva Reis - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

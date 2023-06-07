@@ -1,0 +1,86 @@
+2021 - Atual
+Ferramentas Tecnológicas e Investigações Relativas ao Processo e Ensino e Aprendizagem de Matemática no Ensino Básico
+Descrição: Este projeto apresenta propostas de pesquisas e reflexões acerca da teoria matemática ensinada nas escolas de Ensino Básico de acordo com a Base Nacional Comum Curricular (BNCC). Objetiva promover  pesquisa, inovação, apresentar bases científicas e quantitativas, divulgar e popularizar a Matemática e desenvolver métodos e ferramentas computacionais aplicados ao ensino da matemática básica. Mais especificamente, busca promover pesquisas e produção de materiais voltados ao ensino básico de Matemática a fim de desenvolver nos alunos habilidades e competências matemáticas, além da capacidade de ler e interpretar, estimulando a participação ativa na construção do próprio conhecimento. Pretende-se identificar e analisar a utilização de tecnologias no processo de ensino-aprendizagem, de modo aferir e desenvolver novas metodologias e abordagens ativas e inovadoras, nas modalidades de ensino presencial, remota ou a distância.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jhone Caldeira Silva - Integrante / Paulo Henrique de Azevedo Rodrigues - Integrante / Mário José de Souza - Integrante / Kélem Gomes Lourenço - Coordenador / Karly Barbosa Alvarenga - Integrante / Ana Paula de Araújo Chaves - Integrante / Valdivino Vargas Junior - Integrante / Thaynara Arielly de Lima - Integrante.
+2018 - Atual
+Construções Mentais Matemáticas de Estudantes ingressados nas Áreas de Ciências Exatas
+Descrição: Este projeto propõe uma pesquisa para, principalmente, identificar, analisar e categorizar os tipos de construções mentais matemáticas que os estudantes recém-ingressos na universidade apresentam, em especial, os tipos de pensamentos elementares e avançados. Como marco teórico se utilizará o proposto por Harel e Sowder (2005). A implementação deverá ocorrer em um ano e tem parceiros fora da UFG, também fora de Goiás e alguns estrangeiros como instituições de ensino superior de Portugal e Colômbia. Os dados serão coletados tanto das avaliações de estudantes quanto entrevistas com alguns selecionados, desde que eles e os professores autorizem. Esse trabalho tem potencial para subsidiar uma moderna, direcionada e atual metodologia de ensino de matemática, principalmente no nível terciário, onde os índices de reprovação e desistências são preocupantes. Conhecer os tipos de construções mentais que os estudantes apresentam é um dos passos principais para ajudá-los no desenvolvimento matemático. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jhone Caldeira Silva - Integrante / Ana Paula Purcina Baumann - Integrante / Karly Barbosa Alvarenga - Coordenador.
+2017 - 2020
+Centralizadores de Automorfismos de Grupos, Álgebras Associadas a Grafos e Equações Diofantinas
+Descrição: O projeto (Universal-CNPq) busca fortalecer a pesquisa em Álgebra e Teoria dos Números no Instituto de Matemática e Estatística da Universidade Federal de Goiás (IME/UFG), viabilizando a interação científica com pesquisadores de instituições que são referências nessas áreas, tanto nacionais quanto internacionais, participações em congressos, visitas acadêmicas. Serão desenvolvidas pesquisas nas seguintes áreas: Teoria de Grupos, Álgebras e Anéis de Lie, Teoria dos Números. Mais especificamente, nosso foco será em Centralizadores de Automorfismos de Grupos, Álgebras de Lie, Álgebras Associadas a Grafos e Equações Diofantinas envolvendo Sequências Recorrentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3) . Integrantes: Jhone Caldeira Silva - Integrante / Aline de Souza Lima - Integrante / Ana Paula de Araújo Chaves - Coordenador.
+2016 - Atual
+Tópicos em Teoria de Grupos, Álgebras de Lie e Outras Classes de Álgebras
+Descrição: O presente projeto tem por objetivo realizar atividades de pesquisa com foco em Grupos com Condições de Finitude, Álgebras de Lie, Automorfismos Livres de Pontos Fixos e Álgebras Associadas a Grafos Orientados em Níveis. Atividades essas envolvendo a produção científica, a formação de
+recursos humanos, a participação em eventos nacionais e internacionais, bem como a divulgação de resultados e ideias em seminários. A pesquisa concentra-se na Teoria de Grupos (e como etapa natural uma abordagem de resultados sobre Anéis e Álgebras de Lie) e no estudo de certas álgebras associadas a grafos orientados em níveis. As linhas de pesquisa apresentadas no projeto abordam temas que possuem uma particularidade bastante interessante, pois os problemas trazem
+conexões, sobretudo o uso de álgebras/álgebras de Lie graduadas/filtradas, o que será de grande utilidade na abordagem da pesquisa que se pretende realizar. A metodologia baseia-se fundamentalmente nas seguintes principais ferramentas: grupos com condições de finitude, anéis e álgebras de Lie, graduações, automorfismos, ações, centralizadores, álgebras associadas a grafos, koszulidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Jhone Caldeira Silva - Coordenador / Aline de Souza Lima - Integrante / Emerson Ferreira de Melo - Integrante / José Eder Salvador de Vasconcelos - Integrante.Número de produções C, T & A: 1
+2011 - 2015
+Grupos de Frobenius e Automorfismos de Grupos Finitos de Posto Limitado
+Descrição: Estudos sobre a situação em que um grupo de Frobenius age como um grupo de automorfismos em um outro grupo têm sido recentemente abordados. Um grupo de Frobenius FH com núcleo F e complemento H pode ser caracterizado com um grupo finito que é o produto semidireto de um subgrupo normal F sobre o qual H age por automorfismos sujeito a C_F(h) = 1, para todo h não trivial em H. É conhecido que o núcleo F é nilpotente (Thompson) e que a classe de nilpotência de F é limitada em termos do menor número primo dividindo a ordem de H (Higman).
+No caso em que um grupo de Frobenius FH age sobre um grupo G de tal modo que GF é também um grupo de Frobenius, dizemos que o produto GFH é um grupo 2-Frobenius (ou duplo grupo de Frobenius).
+Alguns casos interessantes a serem investigados são aqueles onde FH é um grupo de Frobenius com núcleo F e complemento H e FH age como um grupo de automorfismos de ordem coprima sobre um grupo finito G. Em particular, podemos considerar o problema onde C_G(H) (o centralizador do complemento H em G) é nilpotente. Além disso, problemas correlatos considerando o núcleo F de posto limitado ou outras hipóteses adicionais podem ser elaborados.
+Os resultados a serem obtidos são deduzidos via argumentações sobre resultados correspondentes em anéis (álgebras) de Lie. Anéis (algébras) de Lie graduados (graduadas) aparecem naturalmente, em particular, no estudo de automorfismos onde as componentes de graduação são definidas por "decomposições em autoespaços (generalizados)". Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Jhone Caldeira Silva - Coordenador / Pavel Shumyatsky - Integrante / Emerson Ferreira de Melo - Integrante.Número de produções C, T & A: 2
+2011 - 2015
+Modelagem de Dependências por Meio de Cópulas
+Descrição: Quando se está trabalhando com modelagem de duas ou mais variáveis
+aleatórias, surge a necessidade do entendimento das relações entre essas
+variáveis para que possa determinar qual modelo estatístico seria mais
+adequado. A escolha da estrutura de dependência que explica tais relações,
+configura um problema complexo e um vasto campo para pesquisas. Na
+literatura de probabilidade e estatística encontramos duas ferramentas que
+são consolidadas no estudo de dependências entre variáveis aleatórias, que
+são o uso de cópulas e a utilização de medidas de dependência. Mas a
+utilização de cópulas é relativamente recente, proporcionando constantes
+resultados teóricos e desenvolvimento de aplicações práticas. Nesta
+pesquisa, vamos buscar novos resultados que ajudem explicar a estrutura de
+dependência entre variáveis aleatórias por meio do uso de cópulas. Serão
+pesquisadas novas propriedades das cópulas e possíveis aplicações das
+teorias desenvolvidas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jhone Caldeira Silva - Integrante / Marta Cristina Colozza Bianchi - Integrante / Luis Rodrigo Fernandes Baumann - Coordenador.
+2011 - Atual
+Sobre Centralizadores de Automorfismos em Grupos e Álgebras de Lie
+Descrição: É bem conhecido que a estrutura de um grupo finito está intimamente relacionada com os subgrupos de pontos fixos de automorfismos do grupo. Vários autores obtiveram resultados interessantes a partir desta relação. Uma importante ilustração da influência do subgrupo de pontos fixos na estrutura de um grupo é devido a Thompson (1959): se G admite um automorfismo livre de pontos fixos de ordem prima, então G é nilpotente. Higman (1957) complementa: a classe de nilpotência de G é limitada por uma função dependendo somente da ordem do automorfismo. Neste projeto objetivamos realizar um estudo da influência dos centralizadores de automorfismos sobre a estrutura de grupos finitos. Em diversos problemas dessa natureza, métodos lineares (teoria de Lie) são aplicados a fim de estudar condições de finitude sobre certos parâmetros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Jhone Caldeira Silva - Integrante / Aline de Souza Lima - Coordenador.
+2010 - 2016
+Grupos e Álgebras de Lie Admitindo Automorfismos Livres de Pontos Fixos
+Descrição: Consideremos o Problema: Seja G um grupo finito admitindo um automorfismo coprimo livre de pontos
+fixos f. O comprimento derivado de G pode ser limitado por uma função dependendo apenas da ordem de f?
+Importantes trabalhos neste sentido são baseados no método do Anel de Lie. Uma questão de interesse é a
+determinação de um limite razoável para o comprimento derivado de álgebras de Lie associadas ao Problema acima.
+Quando consideramos problemas envolvendo um automorfismo f satisfazendo $f^n = 1$ para algum inteiro positivo
+$n$, é comum considerar certas álgebras de Lie Z_n-graduadas. O fato de existir um automorfismo de uma álgebra
+de Lie $L$ de ordem finita $n$ com $C_L(f) = 0$ impõe consideráveis restrições à estrutura de $L$. V. A. Kreknin
+mostrou que $L$ é solúvel e, no caso de álgebras de Lie Z_n-graduadas (com algumas propriedades especiais), o
+limite para o comprimento derivado é $2^{n-1}-1$. Consequentemente, decorre que $dl(L) <= 2^{n}-2$ para o caso
+geral de álgebras de Lie com um automorfismo livre de pontos fixos de ordem $n$. Contudo, há um consenso de que
+esta limitação não é precisa. Alguns resultados mostram que se $k(n)$ é a função mínima limitando o comprimento
+derivado de álgebras de Lie Z_n-graduadas como anteriormente, então $k(n) <= 5.2^{n-6}$ para todo inteiro $n >= 6
+$. Conjectura: $k(n) <= n$, para todo $n >= 2$. O interesse em se discutir o comprimento derivado de álgebras de Lie
+é devido ao fato de que este nos permite calcular também a classe de nilpotência. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Jhone Caldeira Silva - Coordenador / Aline de Souza Lima - Integrante.Número de produções C, T & A: 7
+2010 - 2013
+PROCAD Álgebra e Teoria dos Números UnB/UFG
+Descrição: Projeto de Pesquisa com Financiamento - PROCAD Álgebra e Teoria dos Números UnB/UFG. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4) . Integrantes: Jhone Caldeira Silva - Integrante / Pavel Shumyatsky - Integrante / Ticianne Proença Bueno Adorno - Integrante / Ricardo Nunes de Oliveira - Integrante / Paulo Henrique de Azevedo Rodrigues - Coordenador / Noraí Romeu Rocco - Integrante / Hemar Teixeira Godinho - Integrante / Said Najati Sidki - Integrante.
+2010 - 2012
+Métodos de Lie em Teoria dos Grupos
+Descrição: Resolução de certos problemas em Teoria dos Grupos, particularmente envolvendo condições de finitude, por meio de técnicas envolvendo métodos lineares em anéis e álgebras de Lie. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jhone Caldeira Silva - Integrante / Pavel Shumyatsky - Coordenador / Aline de Souza Lima - Integrante.
+2009 - 2016
+Variedades de Grupos e Versões Verbais para o Problema Restrito de Burnside
+Descrição: Os métodos envolvidos na solução de Zelmanov do Problema Restrito de Burnside podem ser muito eficazes no tratamento de outros problemas e interessantes variedades de grupos vêm sendo descobertas. Sejam G um grupo e w uma palavra. Denotemos por w (G) o subgrupo verbal de G gerado por todos os valores de w. Estamos interessados nas seguintes questões:  
+Problema 1. Sejam n >= 1 e w uma palavra. Consideremos a classe de todos os grupos G satisfazendo a identidade w^n = 1 e tendo w(G) localmente finito. Esta classe é uma variedade? 
+Problema 2. Sejam n >= 1 e w uma palavra. Consideremos a classe de todos os grupos G satisfazendo a identidade w^n = 1 e tendo w(G) localmente nilpotente. Esta classe é uma variedade? 
+É conhecido que a resposta para os problemas é positiva sempre que w é uma palavra não-comutador e, por isso, (1) e (2) são essencialmente sobre palavras comutadores. Não se sabe se (1) e (2) são equivalentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Jhone Caldeira Silva - Coordenador.Número de produções C, T & A: 12
+2009 - Atual
+A Avaliação Educacional e a Formação do Licenciando/Licenciado em Matemática e Pedagogia
+Projeto certificado pelo(a) coordenador(a) Regina da Silva Pina Neves em 17/02/2019.
+Descrição: Observar, investigar e intervir em prol da análise e utilização dos resultados das Avaliações Nacionais e Internacionais nos processos de formação inicial e continuada do Licenciado em Matemática da Faculdade Jesus Maria José e outras IES. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jhone Caldeira Silva - Integrante / Sandra Aparecida de Oliveira Baccarin - Integrante / Regina da Silva Pina Neves - Coordenador.
+2007 - 2009
+A Álgebra, a Aritmética e a Geometria na Formação de Professores de Matemática
+Descrição: Observar, investigar, analisar e intervir em processos educacionais envolvendo conteúdos de Álgebra, Aritmética e Geometria, focando a formação de professores de Matemática no curso de Licenciatura em Matemática da Faculdade Jesus Maria José e as pesquisas realizadas por estes em escolas de Ensino Fundamental e Médio no Distrito Federal. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Jhone Caldeira Silva - Coordenador / Sandra Aparecida de Oliveira Baccarin - Integrante / Regina da Silva Pina Neves - Integrante.Número de produções C, T & A: 18
+2007 - 2009
+O Papel da Iniciação Científica na Formação do Licenciando em Matemática
+Descrição: Incentivar a investigação matemática e o amadurecimento de conteúdos básicos em Matemática, bem como desenvolver a autonomia e uma cultura autodidata em tópicos não abordados no curso de Licenciatura em Matemática da Faculdade Jesus Maria José. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1) . Integrantes: Jhone Caldeira Silva - Coordenador / Olimpio Ribeiro Gomes - Integrante / Jorge Cássio Costa Nóbriga - Integrante / Sandra Aparecida de Oliveira Baccarin - Integrante / Regina da Silva Pina Neves - Integrante.Número de produções C, T & A: 21
+2007 - 2009
+A Avaliação Educacional e a Formação do Licenciando/Licenciado em Matemática e Pedagogia
+Descrição: Observar, investigar e intervir em prol da análise e utilização dos resultados das Avaliações Nacionais e Internacionais nos processos de formação inicial e continuada do Licenciado em Matemática da Faculdade Jesus Maria José e outras IES. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado profissional: (4) . Integrantes: Jhone Caldeira Silva - Integrante / Sandra Aparecida de Oliveira Baccarin - Integrante / Ana Maria Porto do Nascimento - Integrante / Regina da Silva Pina Neves - Coordenador.Número de produções C, T & A: 3
+2005 - 2009
+Versões Verbais do Problema Restrito de Burnside
+Descrição: O Problema Restrito de Burnside é um dos mais famosos em Matemática. Ele foi resolvido por Zelmanov em 1989 usando Álgebras de Lie associadas a grupos. Mais tarde foi descoberto que etes métodos são efetivos para tratar outros problemas importantes. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jhone Caldeira Silva - Integrante / Pavel Shumyatsky - Coordenador / E. I. Khukro - Integrante.Número de produções C, T & A: 3
+2003 - 2007
+Pontos Fixos em Grupos Finitos
+Descrição: Dado um grupo com um automorfismo, as propriedades do grupo com frequência dependem das propriedades do subgrupo dos pontos fixos. O objetivo principal é estudar esta dependência. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jhone Caldeira Silva - Integrante / Pavel Shumyatsky - Coordenador / E. I. Khukro - Integrante / Aline de Souza Lima - Integrante / Antonio Carlos Tamarozzi - Integrante.

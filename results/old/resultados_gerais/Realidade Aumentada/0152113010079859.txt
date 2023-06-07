@@ -1,0 +1,21 @@
+2018 - Atual
+Reconhecimento de emoções em faces humanas utilizando deep neural network aplicado a interação humano computador e perfil de consumidores.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandro Bof de Oliveira - Coordenador / Patricia Rodrigues da Silva - Integrante / Dante Barone - Integrante / Antônio de Freitas Valle Neto - Integrante.
+2018 - Atual
+Sistema auxiliar de localização indoor para pessoas cegas baseado em visão computacional e deep neural networks.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandro Bof de Oliveira - Coordenador / Patricia Rodrigues da Silva - Integrante.
+2018 - Atual
+Detecção de fraudes bancárias utilizando ferramentas de clusterização hibrida de dados.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandro Bof de Oliveira - Coordenador / Rafael Beltran Duarte - Integrante.
+2015 - Atual
+Análise de formas 2D utilizando teoria espectral de grafos e redes complexas.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandro Bof de Oliveira - Coordenador / Patricia Rodrigues da Silva - Integrante / BARONE, DANTE AUGUSTO COUTO - Integrante.Número de produções C, T & A: 1
+2013 - 2016
+Utilização de imagens térmicas e coloridas no estudo de características multi-espectrais de diferentes cultivares.
+Descrição: A agricultura de precisão é de grande importância para a redução dos custos de produção, aumentar a produtividade e minimizar os impactos ambientais. Dentro desse contexto a utilização de processamento de imagens representa uma importante técnica aplicada a agricultura de precisão, uma vez que possibilita a extração de informações quantitativas e qualitativas referente a diferentes cultivares. Nesse projeto vamos utilizar imagens coloridas (captadas no espectro visível nas bandas RGB) e imagens de infravermelho térmico (captadas na banda LWIR) para extrair características multi-espectrais de diferentes cultivares (milho, soja e arroz). Utilizando as informações obtidas, pretendemos discriminar os diferentes cultivares entre si, bem como determinar índices que caracterizam a saúde da planta (e.g. NDI, quantidade de clorofila, estresse hídrico) em função de diferentes condições de plantio.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Bof de Oliveira - Coordenador / Patricia Rodrigues da Silva - Integrante.
+2012 - 2015
+Desenvolvimento de Algoritmos de Segmentação de Silhuetas Humanas em Paralelo Aplicados a Análise de Comportamento e Vigilância.
+Descrição: Este projeto visa o estudo e desenvolvimento de algoritmos de Segmentação de imagens eficientes a fim de extrair silhuetas humanas de sequências de imagens em vídeo. Com a extração das silhuetas é possível analisá-las em busca de comportamentos suspeitos, o que tem importante papel em questões de segurança, tais como no monitoramento de ambientes públicos como aeroportos, estações de trem e rodoviárias, estádios esportivos, manifestações, etc.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Bof de Oliveira - Coordenador / Uillian Luiz Ludwig - Integrante / Vinicius Bittencourt da Silva - Integrante.
+2011 - 2012
+Segmentação de sombras de objetos em vídeos
+Descrição: O tratamento de regiões de sombra, ocasionada pela posição relativa de uma fonte de luz e um objeto constitui uma importante etapa de pré-processamento de imagens para posteriormente analisar o objeto. Esse projeto pretendo desenvolver algoritmos para o tratamento da segmentação de sombras em sequencias de vídeos utilizando métodos probabilísticos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Bof de Oliveira - Coordenador / Vinicius Bittencourt da Silva - Integrante.

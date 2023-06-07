@@ -1,0 +1,101 @@
+2020 - 2020
+Sinesp Big Data e Inteligência Artificial para Segurança Pública
+Descrição: O objetivo geral deste projeto é desenvolver estudos científicos com intuito de criar uma solução que permitirá reconhecimento automático de placas de motos, utilizando técnicas de Aprendizagem de Máquina. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Davi Romero de Vasconcelos - Integrante / Ticiana Linhares Coelho da Silva - Integrante / José Antônio Fernandes de Macêdo - Coordenador / Francisco Leonardo Batista Martins - Integrante.Financiador(es): Ministério da Justiça - Bolsa.
+2020 - Atual
+Governo Digital do Estado do Ceará
+Descrição: O Projeto Governo Digital do Estado do Ceará tem por objetivo geral realizar pesquisas científicas e tecnológicas visando o desenvolvimento de soluções para a construção de uma plataforma de governo digital para permitir o desenvolvimento de serviços digitais de forma ágil, transparente, eficiente,  sustentável, fácil de usar e alinhada com os princípios do serviço público que atenda às necessidades dos cidadãos e dos servidores públicos. São temas de pesquisa do Projeto:
+- Em Inteligência de Artificial (IA): Criação automática de modelos para robotizar tarefas; Human into the loop (aprendizado semi-supervisionado); Robôs de conversão via voz e escrita (tipo Alexia);Transcrição de voz para texto;Processamento de texto (sumarização, extração de entidades, geração de textos, etc); Explicação de algoritmos de IA para o cidadão ;
+- Em Ciência de Dados: Coleta e monitoramento de streaming de dados para otimização dos serviços; Geração de visualizações semi-automáticas;
+- Em Interação Humano-Computador/Experiência do Usuário/Usabilidade: Métodos de avaliação de usabilidade e experiência do usuário; Design Participativo; Análise de usabilidade automatizada
+- Em Mineração de Processos: Descoberta de Processos; Análise e redesenho automático de fluxos; Detecção de anomalias		
+- Em Engenharia de Software e Sistemas: Geração de aplicações Low Code; Métodos de Desenho de Serviços/Projetos; Integração e Interperabilidade de Sistemas; Blockchain. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (18)  / Mestrado acadêmico: (8) . Integrantes: Davi Romero de Vasconcelos - Coordenador / Andréia Libório Sampaio - Integrante / Ticiana Linhares Coelho da Silva - Integrante / Régis Pires Magalhães - Integrante / Maria Viviane de Menezes - Integrante / José Antônio Fernandes de Macêdo - Integrante / Arthur de Castro Callado - Integrante / Críston Souza Pereira - Integrante / Leonara Medeiros Braz - Integrante / Flávio Yuri de Sousa - Integrante / Lucas de Sousa de Oliveira - Integrante / Francisco Lucas Sousa Nobre - Integrante / Matheus Xavier Sampaio - Integrante / João Marcelo Uchôa de Alencar - Integrante / Roberta de Sousa Moreira - Integrante / Sidartha Azevedo Lobo de Carvalho - Integrante / Pedro Augusto de Castro Ferreira - Integrante / Paulo de Tarso Guerra Oliveira - Integrante / Robson Teixeira Paula - Integrante / Emanuel Ferreira Coutinho - Integrante / Wagner Luiz Braga Bezerra - Integrante / Marcos Paulo Fernandes de Moura - Integrante / Niltemberg de Oliveira Carvalho - Integrante / Rute Cristina da Silva Pereira - Integrante / Hallyson Jean Gomes Miranda - Integrante / João Marcelo Ravache Fernandes da Silva - Integrante / Carlos Alberto Ferreira Junior - Integrante / Guilherme da Silva Rodrigues - Integrante / Lucas de Oliveira da Silva - Integrante / Francisco Daniel Lima da Silva - Integrante / Bruno Felix Dias - Integrante / Sting Silva Henrique - Integrante / Rodrigo Machado dos Santos - Integrante / Iana Mary Gomes Costa - Integrante / Thyciane Lopes Araújo - Integrante / Pedro Henrique Athila Queiroz de Sousa - Integrante / Jhonattan Nascimento Barbosa - Integrante / Talita Vasconcelos da Silva - Integrante / Diogo Nazareno Almeida de Melo - Integrante / Maria Carolina Barros Meireles - Integrante / Wemerson Monteiro Damasceno - Integrante / Jailson de Souza Bastos - Integrante / Leyberson Pereira Assunção - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2015 - 2019
+Verificação de Modelos e Prova Automática de Teoremas em Lógicas para Jogos
+Descrição: O termo jogo tem sido utilizado como uma metáfora, em várias áreas do conhecimento, para modelar e analisar situações onde agentes (jogadores) interagem em ambientes compartilhados para a realização de seus objetivos sejam eles individuais ou coletivos. Existem diversos modelos propostos para jogos por diferentes áreas do conhecimento, tais como matemática, ciência da computação, ciência política e social, entre outras. Dentre as diversas formas de modelar jogos examinamos a Teoria dos Jogos e as Lógicas para Jogos. Na tese de doutorado do proponente deste projeto, os principais modelos da Teoria dos Jogos (jogo estratégico, extensivo, e de coalizão) e seus principais conceitos de soluções (equilíbrio de Nash, equilíbrio de subjogo perfeito, e core) foram relacionados com a lógica modal de primeira-ordem baseada na lógica CTL, chamada de Game Analysis Logic. Do ponto de vista prático, a abordagem adotada foi a técnica de verificação de modelos para solucionar jogos finitos. Um das direções deste trabalho é dar continuidade ao desenvolvimento do verificador de modelos, permitindo um melhor uso dos recursos computacionais através de técnicas da Inteligência Artificial. Por outro lado, neste projeto iremos também tratar de jogos infinitos, sendo necessário assim desenvolver um sistema dedutível. Entretanto, é sabido que não existe um sistema correto e completo para a lógica GAL. Todavia, pretendemos propor um sistema dedutível correto, decidível e que ao mesmo tempo seja capaz de provar teoremas importantes da Teoria dos Jogos, a exemplo da existência de equilíbrio de estratégias mistas. De posse de tal sistema, esperamos desenvolver um provador automático de teoremas, bem como integrá-lo ao verificador de modelos, permitindo assim uma melhor utilização dos recursos computacionais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Coordenador.
+2015 - 2015
+O problema de Alocação de Professores em Disciplinas
+Descrição: Neste projeto abordaremos o problema de alocar um conjunto de professores a um conjunto de disciplinas, sujeito a algumas restrições, de modo a maximizar a possibilidade de matrícula dos alunos do campus da UFC em Quixadá. Abordaremos o problema na sua forma geral com programação linear e em partes, dividindo o problema em dois problemas menores: um com enfase nas disciplinas, ou seja, determinar quais disciplinas devem chocar horário, de modo a maximizar as possibilidades de matrículas dos alunos; e outro focado nos professores, isto é, determinar quais disciplinas cada professor irá ministrar, considerando suas preferências.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Lucas Ismaily - Integrante / Críston Pereira de Souza - Coordenador.
+2015 - 2015
+Perfil de um aluno balanceado na UFC-Quixadá por análise multiobjectivo
+Descrição: Neste projeto iremos detectar o perfil de um aluno balanceado em dois cursos da Universidade Federal do Ceará situado na cidade de Quixadá (UFC-Quixadá), a saber: Sistemas de Informação e Engenharia de Software. Dizemos que um aluno tem perfil balanceado se tem boas notas em disciplinas
+de cunho diversos, por exemplo, disciplinas com perfis matemático, tecnológico, teórico computacional e humanístico. Para traçar tal perfil faremos uso de técnicas de análise multiobjetivo aplicadas na nota obtida no ENEM (Exame Nacional do Ensino Médio), um questionário socioeconômico e histórico acadêmico dos alunos. Pretendemos também sugerir políticas para a UFC-Quixadá captar mais alunos de perfil balanceado. Objetivamos, ainda, determinar uma distribuição dos pesos das provas do ENEM
+que está correlacionada com alunos balanceados nos cursos supracitados da UFC-Quixadá.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Lucas Ismaily - Integrante / Críston Pereira de Souza - Coordenador.
+2012 - 2015
+Rede de Cooperação Acadêmica em Ciência da Computação
+Descrição: Este projeto descreve trabalhos conjuntos de pesquisa científica e tecnológica em quatro diferentes áreas da Ciência da Computação que visa estimular ou aprofundar a formação pós-graduada e a mobilidade docente e discente. Os trabalhos conjuntos aqui descritos, agrupados em um só projeto, tem o objetivo de promover a consolidação de Programa de Mestrado e Doutorado em Ciência da Computação da Universidade Federal do Ceará (MDCC-UFC) por meio da cooperação inter-regional entre quatro de seus grupos de pesquisa e seus congêneres de programas consolidados de instituições nacionais de ensino superior e de pesquisa do Estado do Rio de Janeiro. Como resultados do Programa, espera-se que haja fortalecimento da interação científica e acadêmica de modo a constituir redes de cooperação, o aumento na formação e na capacitação de recursos humanos, o aumento da produção técnico-científica dos grupos de pesquisa, o fortalecimento de linhas de pesquisa. Considerando-se que parte significativa dos membros das equipes do MDCC-UFC é formada por recém-doutores com potencial para carreira científica, as atividades dos projetos conjuntos contribuirão para uma melhor distribuição regional dos núcleos de excelência em pesquisas no país.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Ana Teresa de Castro Martins - Coordenador / Edward Hermann Haeusler - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+LogComp: Lógica em Computação
+Descrição: O propósito deste projeto é contribuir para o avanço da lógica matemática como ferramenta para resolver problemas em Ciência da Computação. No âmbito do projeto a lógica matemática será estudada sob uma diversidade de aspectos ? do ponto de vista semântico (conteúdo), do ponto de vista sintático (forma), como linguagem de representação, como ferramenta inferencial ? tendo sempre em vista sua aplicabilidade em ciência da computação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Ana Teresa de Castro Martins - Integrante / Tarcísio Haroldo Cavalcante Pequeno - Coordenador.
+2008 - 2010
+Provas e Modelos para Lógicas Não-Clássicas
+Projeto certificado pelo(a) coordenador(a) Ana Teresa de Castro Martins em 21/02/2014.
+Descrição: No escopo dos estudos relacionados à  lógica, podemos distinguir duas áreas de pesquisa que estão associadas, respectivamente,  à relação de conseqüência semântica e à relação de conseqüência sintática, a saber: (i) teoria dos modelos e (ii) teoria da prova. Dentro destas duas perspectivas, investigamos o que dá e o que não dá para fazer com a lógica clássica dentro da computação. A partir destas limitações, investigaremos lógicas que rivalizam ou estendem minimamente a clássica, aqui denominadas de lógicas não-clássicas. Estas lógicas serão exploradas  pelos modelos que as caracterizam, pelo poder expressivo de sua linguagem para, por exemplo, expressar a complexidade descritiva de problemas e hierarquizar teorias, como também pelas propriedades estruturais de seus sistemas dedutivos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Ana Teresa de Castro Martins - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.
+2007 - 2007
+Anubis: Um Framework para Análise Formal de Sistemas Multi-Agente para Segurança da Informação
+Projeto certificado pelo(a) coordenador(a) Edward Hermann Haeusler em 20/02/2014.
+Descrição: Segurança em sistemas de informação é um problema não-trivial, que
+se apresenta em diferentes níveis de abstração, tanto no nível de negócio
+quanto no nível de sistema. Por segurança da informação no nível de negócio,
+referimo-nos aos processos e às pessoas envolvidas em uma empresa;
+por segurança da informação no nível de sistema, referimo-nos ao software
+e hardware sob vigilância. Inúmeros são os casos de ataques registrados,
+por exemplo, pelo CERT/CC, que é o centro para registro de problemas de
+segurança na Internet da Carnegie Mellon University.
+Técnicas de análise formal de software são mecanismos rigorosos, embasados
+matematicamente, que permitem aumentar a confiança de que um
+artefato de software realmente faz o que se espera que ele faça. O uso destas
+técnicas, por exemplo, identificou diversos problemas em protocolos de comunicação.
+Estas técnicas incluem simulação (ou teste), verificação de modelos
+(model checking) e prova de teoremas.
+Com base em argumentos epistemológicos e fazendo um paralelo com
+a teoria da ciência no que diz respeito à confirmação de teoria científicas,
+conclui-se, primeiramente via argumentos Carnapianos, em favor de uma
+abordagem linguística para o desenvolvimento de Sistemas de Informação,
+e, tomando o princípio da falseabilidade de Popper, que o uso de Análise
+Formal em uma abordagem baseada em linguagem para o desenvolvimento
+de sistemas de informação oferece uma via segura para o desenvolvimento
+de sistemas de informação. Quando o aspecto de segurança da informação é
+incluído neste panorama, esta via segura se torna mais atraente ainda. Por
+outro lado, a abstração de Agentes, devido a suas características de autonomia,
+proatividade e indepedência, é bastante interessante de ser assimilada
+pela arquitetura de um SI que tem seguranaça como característica funcional,
+para não dizer essencial.
+A empresa Módulo Security S.A. tem diversos estudos de caso onde uma
+arquitetura multi-agente desenvolvida no escopo de uma abordagem linguística
+(LoSD ? Language Oriented System Development) se adequa bastante
+bem.O principal objetivo deste projeto é o desenvolvimento de uma abordagem
+baseada em linguagem para o desenvolvimento de sistemas multi-agentes em
+segurança da informação. Esta abordagem utilizará fortemente a experiência
+a ser adquirida dentro do escopo dos estudos de caso oferecidos pela Módulo,
+incorporando ao seu desenvolvimento os aspectos já validados durante a sua
+concepção. A abordagem é baseada na definição de uma metalinguagem para
+especificação de sistemas multi-agentes, baseados no modelo BDI, com adição
+de pressupostos de segurança da informação, estabelecidos via uma combinação
+de lógicas doxásticas, de ação, temporais e de autenticação. A semântica
+desta metalinguagem guia o processo de derivação, não só de especificações
+mais refinadas, mas também de processos de análise formal, baseados no
+ciclo conjectura/refutação mencionado por Popper. O ambiente estabelecido
+a partir desta metalinguagem fornece meios de especificar, desenvolver
+e analisar formalmente o sistema, incluindo aí seus requisitos de segurança e
+sua funcionalidade adicional. Esta abordagem será utilizada em estudos de
+caso no nível de SI convencional (software) e SI organizacional (software +
+organização humana/empresarial) fornecidos pela Módulo Security S.A.
+O projeto contribuirá também para uma maior participação da academia
+no setor industrial, bem como na formação de pessoal e transferência de tecnologia.
+A contribuição primeira do projeto, entretanto, é o estabelecimento
+de uma abordagem, baseada em ferramentas de análise formal, para o desenvolvimento
+de sistemas multi-agentes incorporando aspectos de segurança da
+informação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Edward Hermann Haeusler - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2006
+Teoria da Prova na Fundamentação do Processo de Teoria da Prova na Fundamentação do Processo de Especificação e Validação de Sistemas
+Projeto certificado pelo(a) coordenador(a) Edward Hermann Haeusler em 20/02/2014.
+Descrição: A presente proposta tem por objetivos a justificação de uma abordagem baseada em teoria da prova para a fundamentação do processo de desenvolvimento e validação de software. Dentro deste escopo tem-se os seguintes objetivos espeçificos: 1- Justificação da abordagem baseda no Isomorfismo Curry-Howard com uso de especificação abstrata de dados e funcionalidades em lógica poli-sortida de primeira ordem, em detrimento da abordagem totalmente construtiva baseada em lógica de alta ordem e teoria intuicionista dos tipos. \item Aprimoramento dos sistemas de Dedução Natural para lógicas de tempo ramificado com uso em análise formal de especificação de sistemas reativos. Trata-se neste caso do aprimoramento de dos sistemas para CTL e CTL* e seu uso em especificação. A abordagem geral para quantificação em Dedução Natural é um resultado em lógica bastante interessante neste ponto, apesar de não estar diretamente conectado com a ciência da computação. 2- Desenvolvimento de critérios de identidade para provas que se mostrem mais adequados no tocante à interpretação, em teoria das categorias, do isomorfismo Curry-Howard. Este tópico está bastante inserido no projeto CAPES-DAAD coordenado pelo autor. 3- Conclusão do trabalho em interoperabilidade formal, com o desenvolvimento da sua contra-partida em teoria da prova. 4- Implementação dos modelos propostos em [Fnaufel] na forma de Framework (software) com análise formal provida por prova de teoremas em Teoria Local dos Conjuntos. Desenvolvimento de alguma ferramenta para o suporte, ao menos semi-automático, a prova de teoremas em Teoria Local dos Conjuntos. 4- Desenvolvimento de sistemas dedutivos para a lógica modal de jogos e definição de um verificador de modelos para a mesma (tarefas independentes). O uso da técnica utilizada em [Renteria & Haeusler] será explorada por Davi Romero (aluno de doutorado) neste contexto. Pesquisa preliminar em lógica modal foi publicada em [MAS e Jogos] pela equipe do autor.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Edward Hermann Haeusler - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Cooperação.
+2004 - 2006
+Semântica via Teoria da Prova
+Projeto certificado pelo(a) coordenador(a) Edward Hermann Haeusler em 03/06/2015.
+Descrição: Projeto de Cooperação CAPES-DAAD. Objetiva o uso de Teoria da Prova para atribuir semântica à sistemas computacioanais , modelos e construções linguísticas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Davi Romero de Vasconcelos - Integrante / Edward Hermann Haeusler - Coordenador / Peter Schroeder-Heister - Integrante.Financiador(es): Deutscher Akademischer Austauschdienst - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.

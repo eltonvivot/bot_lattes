@@ -1,0 +1,3 @@
+2011 - 2013
+MCAP: Modelo Computacional de Alto-Paralelismo
+Descrição: Criação de um modelo computacional para gerar paralelismo com OpenMP ou gerar aplicações híbridas a partir de algoritmos MPI escritos em C.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luiz Lima da Costa - Coordenador.

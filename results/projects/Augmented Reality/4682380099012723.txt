@@ -1,0 +1,402 @@
+2022 - Atual
+PEC-24377-Reconhecimento automatizado de padrões e predição de propriedades em dados sísmicos usando técnicas de Aprendizado Profundo
+Descrição: O presente instrumento tem por objetivo a execução do projeto de PDI reconhecimento automatizado de padrões e predição de propriedades em dados sísmicos usando técnicas de aprendizado profundo.Contexto:Área de Concentração Petróleo e Gás ; Linha de Pesquisa: Sistema Petrolíferos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Kognitus Tecnologia Consultoria e Serviços Ltda - Auxílio
+										financeiro.
+2021 - Atual
+PEC-23344-Criação do Centro de Excelência em Rocha Digital, Infraestrutura
+Descrição: Objetivo geral deste projeto é a criação do Centro de Excelência em Rocha Digital (CERD), com aquisição de um microtomógrafo de raios x
+e a adaptação de infraestrutura física existente da COPPE/UFRJ, para atender às especificações do fabricante. O projeto prevê também o
+aumento da capacidade de armazenamento no Núcleo de Computação de Alto Desempenho - NACAD da Coppe/UFRJ, e uma sala para
+preparação das amostras. Contexto:Área de Concentração Petróleo e Gás; Linha de Pesquisa: Sistema Petrolíferos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2020 - 2022
+CENPES-21883-Criação de um mega-acervo de atributos oriundos de imagens RADARSAT para exsudações e derrames de óleo na superfície do mar no Golfo do México e na Margem Continental Brasileira, visando o uso eficiente de machine learning
+Descrição: O objetivo geral desta pesquisa é fornecer subsídios a definição e criação de um mega-acervo de atributos oriundos de imagens
+RADARSAT para exsudações e derrames de óleo na superfície do mar, visando o uso eficiente de machine learning no monitoramento de
+tais feig5es no Golfo do México e na Margem Continental Brasileira. Tais atividades será efetuadas com a supervisão cientifica do
+Laboratório de Métodos Computacionais em Engenharia LAMCE/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2020 - 2022
+PEC-23451-Desenvolvimentos e Inovações no Sistema de Observação Oceânica da Bacia de Santos com Foco no Campo de Libra(irmão do PEC-20480)
+Descrição: Parte integrante e inseparável do PEC-20480 pela EMBRAPII . 
+Ampliar a capacidade do LAMCE/COPPE - UFRJ  na área de Oceanografia Observacional, componente fundamental da Oceanografia Operacional, que descreve as condições atuais e futuras (previsões) das condições oceânicas. Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): EMBRAPII - Auxílio
+										financeiro.
+2020 - Atual
+PEC-23212-Sistema Computacional Operacional de Modelagem Regional Oceanográfica e Atmosférica
+Descrição: Gestão para promover e incentivar a realização de projetos empresariais de pesquisa, desenvolvimento e inovação - PD&I, voltados aos setores industriais, por meio de cooperação com instituições 
+públicas e privadas de pesquisa científica e tecnológica.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): OCEANPACT - Auxílio
+										financeiro.
+2020 - Atual
+PEC-23432-Sistema Computacional Operacional de Modelagem Regional Oceanográfica e Atmosférica
+Descrição: Parte integrante e inseparável do PEC-23212 pela EMBRAPII - 
+Gestão para promover e incentivar a realização de projetos empresariais 
+de pesquisa, desenvolvimento e inovação - PD&I, voltados aos setores 
+industriais, por meio de cooperação com instituições públicas e privadas 
+de pesquisa científica e tecnológica.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): EMBRAPII - Auxílio
+										financeiro.
+2019 - 2020
+PEC-22211-Consultoria Técnica Especializada Complementar para Elaboração do EAAS na Bacia Sedimentar do Solimões.
+Descrição: Dar suporte técnico complementar ao Consórcio PIATAM-COPPETEC para o projeto ''Consultoria Técnica Especializada para Elaboração do Estudo Ambiental de área Sedimentar-EAAS-na Bacia Sedimentar Terrestre do Solimões'', contratado pela Empresa de Pesquisa Energética-EPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.
+2019 - 2020
+CENPES-21913-Confecção de projeto executivo para adaptação de Laboratório de Métodos Computacionais em Engenharia - COPPE-UFRJ
+Descrição: Projeto executivo do Laboratório de Imagens Tomográficas de Rochas (LITO).Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2019 - Atual
+CENPES-22159-Análise da Evolução de Bacias de Margens Divergentes Através da Aplicação de Modelos Termomecânicos 3D e de sua Interação com o Simulador SimBR
+Descrição: A presente proposta tem como objetivo principal, a realização de análise 
+dos resultados obtidos a partir dos modelos desenvolvidos (BS3D e 
+THERMOFLEX) e a aplicação dos mesmos no simulador.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2019 - Atual
+PEC-22250-Estudo Multidisciplinar Integrado do Albiano nas Bacias de Santos, Campos e Espírito Santo
+Descrição: Desenvolver um modelo atualizado e integrado das estruturas, da distribuição de fácies e da qualidade dos reservatórios para o play Albiano, de modo a apontar áreas com maior prospectividade e potencial remanescente, avaliar riscos associados a perdas durante a perfuração e dar suporte a futuros estudos de EOR em campos produtores.
+Atualizar e refinar os modelos de previsão de velocidade sísmica na seção albiana de modo a otimizar conversão tempo-profundidade e o imageamento sísmico das seções pós-sal e pré-sal.
+Desenvolver um modelo da distribuição e da qualidade das fácies potencialmente geradoras do intervalo albiano e estudar a correlação do querogênio nelas presente com amostras de óleos da área de estudo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): SHELL BRASIL PETROLEO LTDA - Auxílio
+										financeiro.
+2019 - Atual
+PEC-22759-Programa Interdepartamental de Tecnologias Digitais para o Setor de Petróleo e Gás
+Descrição: Apoio de bolsas para alunos de Graduação, Mestrado Doutorado e Pós Doutorado.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2019 - Atual
+Plataforma Integrada de Monitoramento e Observação Meteo Oceanográfica para a Baía de Guanabara
+Descrição: Por demandar participação relevante em vários segmentos
+das atividades humanas, a região marinha costeira também requer intenso
+monitoramento ambiental, uma vez que os ecossistemas que a compõem
+são igualmente sensíveis à ocupação humana e a ocorrência de fenômenos
+meteorológicos e oceanográficos extremos. A Baía de Guanabara (BG)
+possui um histórico de degradação sócio-ambiental ocorrida ao longo de
+vários séculos e sua recuperação ambiental necessitará décadas de esforço
+conjunto envolvendo os setores públicos e privados das cidades, além da
+sociedade civil pertencentes a sua bacia hidrográfica. Sendo um destes
+atores a Universidade Federal do Rio de Janeiro, este projeto apresenta
+uma proposta piloto para criação de uma plataforma de observação e
+monitoramento oceanográfico e meteorológico para a BG com o objetivo
+de coletar parâmetros físicos-ambientais (temperatura da superfície do
+mar, direção e velocidade do vento, ondas, correntes, etc), além de
+desenvolver e implementar modelos computacionais oceânicos e
+atmosféricos. Os diagnósticos e prognósticos proporcionados por estas
+informações permitirão a criação de um laboratório vivo ( living lab ),
+alinhado com os desafios da Agenda 2030 para o Desenvolvimento
+Sustentável da ONU (ODS). O projeto terá por base física o Parque
+Tecnológico da UFRJ (ambiente de pesquisa, inovação e
+empreendedorismo) a partir do qual serão desenvolvidos e aplicados
+estudos como, por exemplo, dispersão de poluentes e resíduos sólidos e
+logística de forma a criar um estrutura facilitadora para que as partes
+interessadas do Rio de Janeiro continuem adiante com os esforços de
+recuperação por meio de ações sócio-econômicas, ambientais, acadêmicas
+e urbanísticas, que tenham como objetivo a recuperação deste sistema,
+sua revitalização e uso sustentável pela comunidade com o
+aproveitamento dos potenciais de exploração oferecidos pela BG:
+transporte hidroviário, pesca artesanal, setor portuário, além de seus
+ativos turísticos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Luiz Landau - Coordenador / Luiz Paulo de Freitas Assad - Integrante / Patrícia Mamede da Silva - Integrante / Carina Stefoni Bock - Integrante / Adriano de Oliveira Vasconcelos - Integrante / Fabio Rodrigues Hochleitner - Integrante / Lívia Maria Barbosa Sancho - Integrante / Ian C.D.V.Dragaud - Integrante.
+2018 - 2020
+PEC-21116-Elaboração do Estudo Ambiental de Área Sedimentar na Bacia Sedimentar Terrestre do Solimões.
+Descrição: Prestação de serviços de consultoria técnica especializada para elaboração do EAAS na Bacia Sedimentar Terrestre do Solimões, contemplando recursos petrolíferos convencionais e não convencionais, considerando as diferentes fases das atividades de exploração, produção e escoamento de petróleo e gás natural, incluído o descomissionamento e organizar, divulgar e prover logística e infraestrutura necessárias ao processo de consulta pública referente ao EAAS, conforme especificações constantes no Projeto Básico. Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Empresa de Pesquisa Energética - Auxílio
+										financeiro.
+2018 - 2020
+PEC-21448-Simulador de Emergência Virtual
+Descrição: Desenvolver um simulador de realidade virtual, multijogador onde serão reproduzidos os cenários de poluição ambiental provocados por derramamento de óleo no mar, onde os participantes deverão adotar os procedimentos de resposta adequados a cada situação , utilizando os recursos e informações disponíveis. Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): OCEANPACT SERVIÇO MARITIMOS S.A - Auxílio
+										financeiro.
+2018 - 2019
+PEC-21813-Modelagem hidrodinâmica e de transporte e dispersão de óleo nas áreas das bacias sedimentares marítima Sergipe-Alagoas e Jacuípe
+Descrição: Constitui objeto do presente contrato a prestação de consultoria especializada pela Fundação Coordenação de Projetos , pesquisas e Estudos Tecnológicos - COPPETEC, os serviços de fornecimento no âmbito do projeto para Elaboração do Estudo Ambiental de Área Sedimentar - EAAS na Bacia Sedimentar Marítima de Sergipe-Alagoas/Jacuípe , os serviços especializados de modelagem numérica computacional hidrodinâmica regional de alta resolução espacial horizontal/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): ECOLOGY AND ENVIROMENT DO BRASIL LTDA - Auxílio
+										financeiro.
+2017 - 2022
+PEC-20480-Desenvolvimento e Inovações no Sistema de Observação Oceânica da Bacia de Santos com Foco no Campo de Libra.
+Descrição: Ampliar a capacidade do LAMCE/COPPE - UFRJ  na área de Oceanografia Observacional, componente fundamental da Oceanografia Operacional, que descreve as condições atuais e futuras (previsões) das condições oceânicas. Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): SHELL BRASIL PETROLEO LTDA - Auxílio
+										financeiro.
+2017 - 2020
+PEC-20306/20307-Investigação da Dinâmica de Migração Exsudações de Óleo das Bacias de Sergipe-Alagoas e Pernambuco-Paraíba Offshore e Intregação com os Sistemas Petrolíferos
+Descrição: O principal objetivo do projeto é aprofundar o conhecimento acerca da dinâmica dos processos de geração, acumulação e (re) migração do petróleo em bacias da margem continental leste do Brasil por meio da aplicação de uma metodologia inovadora que integrará de forma pioneira tecnologias de (i) identificação de sepse na superfície do mar (II) modelagem inversa do deslocamento dos sepse na coluna d´água e mapeamento das áreas de exsudação no assoalho oceânico, (iii) interpretação geofísica e geológica e (IV) modelagem de sistema petrolífero. Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Associação Brasileira de Pesquisa e Inovação Industrial - Auxílio
+										financeiro.
+2017 - 2018
+PEC-20910-Desenvolvimento em Modelagem Oceanográfica Costeira com a Utilização de Perfilador Acústico.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Proceano Serviço Oceanográfico e Ambiental Ltda. - Auxílio
+										financeiro.
+2017 - 2017
+PEC-20855-FINEP 50 Anos Holográfico .
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.
+2016 - 2020
+PEC-19902-Desenvolvimento de Metodologia para o Entendimento dos Processos Costeiros e Definição da Vulnerabilidade de Manguezais das Bacias do Pará-Maranhão e Foz do Amazonas.
+Descrição: O presente projeto tem por objetivo geral determinar a vulnerabilidade, sensibilidade e suscetibilidade à contaminação por óleo dos manguezais localizados nas Bacias da Foz do Amazonas e Para-Maranhão, na Margem Equatorial Brasileira, a partir do desenvolvimento de um ambiente de simulação computacional no qual se possa reproduzir de maneira rápida e simples, porém realista, as trajetórias que manchas de óleo seguiriam na região de interesse do projeto. Serão coletadas informações dos ambientes in situ e remotamente.  Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Integrante / Luiz Paulo de Freitas  Assad - Coordenador / Carina Stefoni Bock - Integrante / Lívia Maria Barbosa Sancho - Integrante / Ian Cunha D'Amato Viana Dragaud - Integrante / Rafael Vieira Campos - Integrante / Raquel Toste - Integrante / Vivian Mendonça de Azeredo - Integrante / Rafael Henrique Oliveira Rangel - Integrante / Bruna Reis - Integrante / Daiane Gracieli Faller - Integrante.
+2016 - 2018
+PEC-20334-Desenvolvimento de Técnicas de Aquisição de Dados Oceanográficos com a Utilização de veículos Autônomo Submarino (VAS) .
+Descrição: Desenvolver e aplicar novas técnicas de aquisição de dados oceanográficos na região da Bacia de Santos a partir do uso de VAS nas regiões das bacias de Santos e Campos. As técnicas a serem aplicadas consistem basicamente na definição de novas rotas de pilotagem dos VAS a fim de se obter melhores representações no espaço e no tempo da dinâmica. Contexto: PEC/COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PROCEANO SERVIÇOS OCEANOGRÁFICOS E AMBIENTAL LTDA - Auxílio
+										financeiro.
+2016 - 2017
+PEC-20215-PRH-02: Formação de Profissionais de Engenharia para o Setor de Petróleo e Gás .
+Descrição: Este investimento busca aplicar recursos financeiros no Programa de Recursos Humanos da ANP, visando apoiar a formação de mão de obra especializada para o setor de petróleo, gás natural e biocombustíveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Queiroz Galvão Exploração e Produção S.A - Auxílio
+										financeiro.
+2016 - 2016
+PEC-19386-Integração de Seepage Slicks Interpretados a Partir de Imagens RADARSAT com dados Geológicos e Tectônicos na Região do Golfo do México.
+Descrição: A integração da base de" Seepage Slicks" com informação geológicas e tectônicas na região do Golfo do México. Adicionalmente haverá também o processamento de 61 imagens de arquivo RADARSAT-1 nas quais os Seepage Slicks interpretados serão incorporados a base de dados existente para toda a região do Golfo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PETROBRAS E&P - Auxílio
+										financeiro.
+2016 - 2016
+PEC-20066-Sistema Navegação e Ativação Utilizando Tecnologias de Realidade Aumentada e RYLS ( real time location system) para a Galeria das Carruagens do Museu Histórico Nacional.
+Descrição: O projeto está dividido em etapas distintas de acordo com as atividades envolvidas.
+Geração do conteúdo
+Desenvolvimento do Sistema 
+Implantação no Museu 
+Difusão. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.
+2016 - 2016
+PEC-20175-Caracterização de Cenário de Ondas e de Dispersão de Água Pluvial no Entorno da Região da Catedral de Niterói.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Mitra Arquidiocesana de Niterói - Auxílio
+										financeiro.
+2015 - 2017
+PEC-19068-Combinação de inversão simultânia e modelagem de forma de onda completa elástica para estimativa exatas de densidade da subsuperfície resultando em melhor caracterização de reservatório, preivsão da poro-pressão e gestão de campo
+Descrição: Um projeto que combine Inversão Simultânea e Modelagem de forma de onda completa elástica para melhores estimativas de densidade da superfície, resultando em melhor caracterização de reservatório, previsão de por opressão e gestão de campo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Ilkon Science do Brasil Ltda - Auxílio
+										financeiro.
+2015 - 2016
+PEC-18858-Modelagem 3D para Caracterização das Rochas Geradoras na Bacia do Parnaíba
+Descrição: O principal objetivo do projeto é o desenvolvimento de um modelo matemático e computacional 3D, para simulação da evolução da Bacia do Parnaíba, com ênfase em sua porção sul, através da modelagem da história térmica, devido à presença de intrusões ígneas, ocorridas em episódios distintos de magmatismo. Como resultado deste estudo, pretende-se validar o algoritmo gerado e a partir dele, avaliar a possibilidade de geração de hidrocarbonetos, através dos resultados dos indicadores de maturação, também determinado a partir do modelo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Geopark Brasil Exportação e Produção de Petróleo e Gás Ltda - Auxílio
+										financeiro.
+2015 - 2016
+PEC-19125/19177-Projeto S.O.S - Simulador de operações Submarinas Associação Brasileira de pesquisa e Inovação Industrial - EMBRAPII
+Descrição: O objetivo primário do projeto é desenvolver o primeiro software nacional de simulação de ROV (remotely operated vehicle), que será embarcado em uma réplica de um centro de comando e operação (software+hardware), e disponibilizar ao mercado um produto inovador e de alta tecnologia com a finalidade de: 1 - Qualificar, reciclar e certificar pilotos e instrutores que operam os ROVs, bem como os fiscais de operação dos contratantes (operadora); 
+2 - Possibilitar a simulação de diversas atividades submarinas complexas em ambiente virtual antes de executá-las em ambiente real.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.
+2015 - 2016
+PEC-18767-Projeto Estratégica Náutica COB
+Descrição: Com intuito de apoiar o Comitê Olímpico Brasileiro nos treinamentos da equipe de Vela Olímpica Brasileira (VOB) para os jogos Olímpicos e Paraolímpicos Rio 2016, foi proposta ao Laboratório de Métodos Computacionais em Engenharia (LAMCE, da COPPE/Universidade Federal do Rio de Janeiro) a elaboração de um projeto científico de 15 meses (Maio de 2015 - Agosto de 2016) para o desenvolvimento e manutenção de um sistema de previsão de vento até dez metros de altura, de correntes marinhas superficiais e de ondas para as regiões das raias olímpicas de vela da Baía de Guanabara (BG) e para a área das provas de maratona aquática e triátlon na praia de Copacabana. Além das áreas e classes esportivas citadas, nessa fase do projeto serão anexadas as classes esportivas da canoagem e remo, ambas a serem realizadas na Lagoa Rodrigo de Freitas. Ressalta-se que além do desenvolvimento, manutenção e ampliação do sistema de previsão citado atividades complementares de fundamental importância para o aprimoramento do sistema também serão executadas, como: a instalação de plataformas de coletas de dados meteorológicos e oceanográficos em tempo real, a implementação de um sistema redundante (backup) de previsão a ser instalado em provedor da internet e estudos diagnósticos para circulação marinha nas datas dos jogos Rio 2016.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.
+2015 - 2016
+PEC-19177-Simulador de Operações Submarinas.
+Descrição: Prospecção e Benchmarking Global e Soluções-Levantamento bibliográfico de documentação técnica por meio de artigos técnicos publicados em Revistas Científicas, Anais de conferências e congressos correlatos ao tema do projeto, dissertações, teses e livros técnicos. Os resultados das atividades estão descritas em relatório técnico que é o Indicador Físico desta Meta.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.
+2014 - 2016
+PEC-18041-Combinação de Inversão Simultânea e Modelagem de forma de onda Completa Elástica para Estimativas da Densidade da Subsuperfície Resultando em Melhor a Caracterização de Reservatório, Previsão da poro-pressão e Monitoramento de Campo.
+Descrição: Projeto que combine Inversão Simultânea e Modelagem de forma de onda completa elástica para melhores estimativas de densidade da sub superfície, resultando em melhor caracterização de reservatório, previsão de por opressão e gestão de campo. Todo o trabalho relacionado a este projeto será realizado no Rio de Janeiro, Brasil ,pela qualificada equipe da Ikon e da COPPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Queiroz Galvão Exploração e Produção S/A - Auxílio
+										financeiro.
+2014 - 2016
+PEC-18383-Desenvolvimento de Metodologia para Captação de Vídeos Aéreos Estereiscópicos usando Multicópteros Destinados ao Treinamento de Segurnça e Inspeção em Unidade Petrolíferas
+Descrição: Desenvolvimento de metodologia para captura de imagens estroboscópicas aéreas, com o auxílio de helicópteros, para a criação desenvolvimento e produção de vídeos técnicos de engenharia com aplicação no treinamento de segurança e inspeção industrial.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2014 - 2015
+PEC-18513-Campanha Prévia do Projeto DETECTA (Desenvolvimento de Tecnologias Integradas para Detecção e Previsão de Óleo no Mar na Margem Equatorial Brasileira)
+Descrição: A realização de uma campanha prévia tem como objetivo a obtenção de dados sobre as correntes de superfície e correntes médias de fundo e da estratificação vertical de temperatura, salinidade e pressão nessa região, através do lançamento de derivados oceânicos tipo SVP e perfilhadores ARGO. Através da análise desses dados, será possível avaliar o desenho detalhados das campanhas e de como cada equipamento será disposto na região a fim de se obter a amostragem mais eficiente possível para os objetivos do projeto. Além disso, tais dados parte do banco de dados a ser implementado no projeto Detecta.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): BG E&P BRASIL LTDA - Auxílio
+										financeiro.
+2014 - 2015
+PEC-17480-Detecção de Exsudações de óleo por Imagens RADARSAT-2 e sua Modelagem Inversa na Região da Bacia de Jequitinhonha.
+Descrição: O objetivo do presente projeto é verificar a existência de exsudações de óleo (seepageslicks/) na superfície do mar e determinar seu transporte inverso até o assoalho oceânico na região da Bacia de Jequitinhonha.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2014 - 2014
+PEC-18372-Apoio Logística à Utilização do Sistema Intelih na Reunião de Avaliação Anual do Programa de Recursos Humanos da ANP/PB
+Descrição: Visa a disponibilização de uso do sistema Inteligente para a submissão e avaliação de resumos e apresentação durante a Reunião Anual de Avaliação de 2014 (RAA) dos Programas de Recursos Humanos da Agência Nacional de Petróleo , Gás Natural e Biocombustíveis (PRH/ANP) .. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Associação Brasileira de Pesquisa e Desenv. em Petróleo e Gas - Auxílio
+										financeiro.
+2013 - 2017
+PEC-16779-Fomento à Formação de Recursos Humanos em Engenharia Civil para Setor Petróleo e Gás por meio do Apoio ao PRH 02
+Descrição: Visa a complementar a formação dos alunos nos cursos de graduação, mestrado e doutorado, em temas relacionados à Engenharia Civil para o Setor de Petróleo e Gás, da Universidade Federal do Rio de Janeiro, gerar pesquisa aplicada e promover a especialização de profissionais para atender a demanda do setor de Petróleo, Gás, Energia e Biocombustíveis, por meio da aplicação de recursos provenientes da Cláusula de Investimentos em Pesquisa e Desenvolvimento previsto nos contratos de concessão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2013 - 2016
+CENPES-16796-Sistema de Visualização para Validação e Fiscalização de Empreendimento de Engenharia do Prédio 13
+Descrição: Este método de visualização promove a interação compartilhada, em tempo real, visando a dar suporte especializado a validação funcional do projeto arquitetônico e todos os projetos complementares.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2013 - 2015
+PEC-16221-Novas Tecnologias para o Sensoriamento Remoto de Exsudações de Óleo na Superfície Marinha
+Descrição: Sob regime de preço global, de serviços de "Novas Tecnologias para Sensoriamento Remoto de Exsudações de Óleo na Superfície Marinha". Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2013 - 2015
+PEC-17281-Projeto Baía de Guanabara
+Descrição: Neste programa foram lançados 40 deriva dores do tipo  i-sphere, voltados para o monitoramento da deriva do óleo. Muitos destes deriva dores, por serem influenciados tanto pelos ventos quanto pelas correntes, atingiram a costa das regiões Sul/Sudeste do Brasil e foram recolhidos por moradores e devolvidos à PRO OCEANO ainda em funcionamento.  Em Junho de 2010 a PRO OCEANO juntamente ao Laboratório de Métodos Computacionais em Engenharia (LAMCE) e a ONG Projeto Grael submeteu a proposta de reutilização destes deriva dores para um estudo da circulação superficial da Baía de Guanabara. O estudo proposta  à BG BRASIL baseava-se na coleta de parâmetros oceanográficos "in situ e na aplicação de um modelo computacional de circulação marinha para a obtenção de prognósticos hidrodinâmico diários.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PROOCEANO - Auxílio
+										financeiro.
+2013 - 2014
+PEC-16665-Investigação de Sistemas Petrolíferos Ativos na Bacia do Espírito Santo: do Espaço até o Assoalho Oceânico/Espirito Santo.
+Descrição: Utilizar a Bacia do Espírito Santo em uma abordagem multi-escala, a fim de compreender o processo de migração do óleo para estudar padrões de sistemas petrolíferos ativos, com o objetivo de aprimorar a aplicação de novas tecnologias para identificação de reservas, reduzir os riscos exploratórios e ambientais e aumentar a eficiência da exploração e produção de petróleo em futuros projetos de exploração.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Sinochem Petróleo - Auxílio
+										financeiro.
+2012 - 2015
+PEC-14784-Sistema de Observação Oceânica para a Bacia de Santos-Projeto AZUL
+Descrição: Desenvolver um sistema de observação Oceânica para a Bacia de Santos, realizando a medição contínua e sistemática de dados em tempo real de circulação oceânica, temperatura de água do mar, salinidade, oxigênio dissolvido, clorofila e matéria orgânica. Esses dados serão obtidos por um conjunto de equipamento e técnicas que incluem: Seagliders, deriva dores de superfície, perfil adores, imagens de satélite e modelagem numérica do oceano.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): BGE & P BRASIL LTDA - Auxílio
+										financeiro.
+2012 - 2014
+PEC-15060-Detecção de Feições de Óleo na Superfície do Mar Utilizando Dados dos Satélites RADARSAT-2 e Modelagem Invresa da Trajetória na Área de Sapinhoá, bacia de Santos
+Descrição: O Estudo tem por objetivo verificar a presença de "Oil Seeps" na região do campo de Sapinhoá, desenvolvido na camada pré-sal da Bacia de Santos, com base no processamento digital e interpretação de imagens de radar dos satélites canadenses RADARSAT-1 e 2 , seguidos de modelagem computacional da trajetória inversa para a determinação da sua proveniência no fundo marinho.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2012 - 2014
+PEC-16792-Estudo da Hidrodinâmica Marinha Costeira para região do Litoral Sul da Bahia compreendida entre os Municípios de Belmonte, Canavieira e Una
+Descrição: Projeto de Pesquisa intitulado "Estudo da Hidrodinâmica Marinha Costeira para Região do Litoral Sul da Bahia compreendida entre os Municípios de Belmonte, Canavieiras e Una.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Queiroz Galvão Exploração e Produção S/A - Auxílio
+										financeiro.
+2012 - 2014
+PEC-15996-Núcleo de Produção de Vídeos  Técnicas Esteoscópicos da COPPE/UFRJ
+Descrição: Execução pela Universidade, sob regime de preço global de Serviços de desenvolvimento e produção de Vídeos Técnicos de Engenharia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2012 - 2014
+PEC-16564-Estudos Climáticos de Interação entre o Gelo Polar e a Zona de Convergência Intertropical
+Descrição: Implementar o modelo climático global CM2.1 desenvolvido pelo Geophysical Fluid Dynamics Laboratory, com os modelos de gelo, terrestre e atmosférico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Instituto Tecnológico Vale - Auxílio
+										financeiro.
+2012 - 2014
+PEC-15291-Registro da Evolução das Obras da Refinaria Abreu e Lima Usando Imagens Fotográfica e Vídeo Time Lapse
+Descrição: Operacionalizar um sistema de acompanhamento do processo de edificação da Refinaria Abreu e Lima, Utilizando Tecnologia de Time-Lapse. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2012 - 2013
+PEC-16739-Sistema de Gestão de HSSE para Atendimento de Requisitos Normativos, Legais e do Anexo I Referente ao Projeto Azul do BG
+Descrição: Elaboração de uma Norma de Gestão de Segurança Meio Ambiente e Saúde Ocupacional para as atividades gerais da Pro oceano e um Plano de Gestão de Segurança, Meio Ambiente e Saúde Ocupacional Específico para o Projeto Azul segundo os requisitos de Segurança.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PROOCEANO - Auxílio
+										financeiro.
+2012 - 2013
+PEC-16122-Monitoring of Natural OIL Seeps and Oil Spills Through the Use of RADARSAT -1  and RADARDAT-2 Satelite Imagens in the Gulf of Mexico 2012
+Descrição: O Objeto do presente programa de trabalho é a realização do projeto intitulado no processamento de Imagens RADARSAT-1 E 2 para identificação de manchas de Óleo relativas a delativas a derramamentos e exsudações naturais de óleo na baia de Campeche, no Golfo do México. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): MDA Geospatial Services - Auxílio
+										financeiro.
+2012 - 2013
+PEC-15879-Detecção e Modelagem Invresa de Exsudação de Óleo na Região Norte na Bacia de Pelotas
+Descrição: Realização do Projeto intitulado a verificação da existência de exsudações de óleo (seepage slicks) na superfície do mar e determinar seu transporte inverso até o assoalho oceânico na região norte da Bacia de Pelotas no qual se prevê o desenvolvimento de pesquisa cientifica, tecnológica de inovação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2011 - 2016
+PEC-14880-Projeto do PFRH-Fomento à formação de recursos humanos em Engenharia Civil para o Setor de Petróleo e Gás, por meio do apoio ao PRH-02.Convênio 6000.0067.611.11.4
+Descrição: Visa a complementar a formação dos alunos nos cursos de graduação, mestrado e doutorado, em temas relacionados à Engenharia Civil para o Setor de Petróleo e Gás, da Universidade Federal do Rio de Janeiro, gerar pesquisa aplicada e promover a especialização de profissionais para atender a demanda do setor de Petróleo, Gás, Energia e Biocombustíveis, por meio da aplicação de recursos provenientes da Cláusula de Investimentos em Pesquisa e Desenvolvimento previsto nos contratos de concessão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2011 - 2014
+ANPETRO-13628-Determinação da Variação da Amplitude do Coeficiente de Reflexão Sísmico para Diversos Esquemas de Aquisição e Extrapolação do Campo de Ondas
+Descrição: O principal objetivo deste projeto é o de utilizar as técnicas de imageamento  controlado para colocar a energia sísmica, registrada nos sismo gramas de superfície , em um ponto específico em sub superfície a fim de estimar a curva de variação do coeficiente de reflexão com o ângulo de incidência. Tal proposição visa retirar os efeitos de propagação entre o refletor em estudo e a superfície de aquisição. Este esquema será implementado para diversas formas de aquisição.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2011 - 2014
+PEC-14688-Caracterização e Monitoramento de Ecossistemas Costeiros para a Região do Litoral Sul da Bahia Compreendida entre os Municípios de Belmonte, Canavieiras e Una.
+Descrição: Estruturar e consolidar informações ambientais que auxiliem na caracterização e monitoramento em ambientes costeiros com ênfase em ecossistemas manguezal, com o uso de sensoriamento remoto e modelagem computacional ambiental na região do litoral sul da Bahia que compreende os municípios de Belmonte, Canavieiras e Una.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Manati s.a - Auxílio
+										financeiro.
+2011 - 2012
+PEC-14495-Detecção e Modelagem Inversa de Exsudações de Óleo no Bloco P-M-2 e Adjacências, na Bacia de Pelotas
+Descrição: Verificar a existência de exsudações de óleo (seepage slicks) na superfície do mar e determinar seu transporte inverso até o asoalho oceânico na região do Bloco P-M-2, na Bacia de Pelotas. A detecção e a interpretação da presença de seepage slicks serão baseadas no processamento de imagens de radar, disponíveis em arquivo, dos satélites canadenses RADARSAT-1 e RADARSAT-2. Algumas exsudações de óleo assim interpretadas deverão ter suas trajetórias modeladas universalmente, a fim de estimar sua localização no asoalho oceânico. Os resultados obtidos podem indicar a existência de sistemas petrolíferos ativos na área de estudo, contribuindo para a redução do risco geológico nesta fronteira exploratória. Os produtos gerados a partir das citadas análises serão cobrados como dados bati métricos, oceano-meteorológicos, geológicos e geofísicos da referida bacia sedimentar, de modo a situar  os seepage slicks no contexto ambiental e estratigráfico-tectônico, desta área sedimentar e sugerir uma possível associação com sistemas petrolíferos ativos. Essa tarefa será executada utilizando um sistema de informaçoes geográficas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): EXP/IABS/OS/PETROBRAS - Auxílio
+										financeiro.
+2011 - 2011
+PEC-14552-Uso de Sensoriamento Remoto Visando à Detecção de Áreas de Microexsudação de Hidrocarbonetos nos Bloco PN-2 e PN-3, Bacia Sedimentar do Parnaíba
+Descrição: Criar uma atividade crescentemente complexa, exigindo a análise combinada de dados adquiridos por diferentes tecnologias, com vistas a circunscrever regiões com maior potencial prospectivo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PETROBRAS E&P - Auxílio
+										financeiro.
+2010 - 2012
+PEC-13032-Detecção de Feições de Óleo na Superfície do Mar Utilizando Dados dos Satélites RADARSAT-2 e Modelagem Inversa da Trajetória na Área de TUPI/IRACEMA, Bacia de Santos
+Descrição: Detecção de exsudações dé óleo na superfície do mar utilizando  dados dos satélites RADARSAT-1 e 2 e modelagem inversa da trajetória na região do campo de Tupi, desenvolvido nas camadas pré-sal da bacia de Santos. Tal estudo será efetuado em apoio ap Projeto PT-140.01.10952 (PROSAL), intitulado "Acoplamento Geomecânico na Simulação de Reservatórios".. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2010 - 2012
+PEC-13166-Estudo Sobre a Circulação da Baía de Guanabara. Utilizando os Dados Gerados dos Derivadores para o Aprimoramento de uma Base Hidrodinâmica Baseada em Modelos Numéricos
+Descrição: O Núcleo de Modelagem Ambiental  (NUMA) localizado no Laboratório de Métodos Computacionais em Engenharia (LAMCE) reúne os esforços de dois laboratórios da UFRJ. Caberá ao NUMA desenvolver a componente científica do projeto, desenvolvendo estudos sobre a circulação da baía, utilizando os dados gerados dos deriva dores para o aprimoramento de uma base hidrodinâmica baseada em modelos numéricos hidro dinâmicos e de dispersão de poluentes (constituintes passivos ao escoamento).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PROOCEANO - Auxílio
+										financeiro.
+2010 - 2011
+PEC-13758-Detecção de Exsudações Naturais de Hidrocarbonetos na Bacia de Potiguar, Bloco BM-POT-17 com dados RADARSAT-2
+Descrição: O Objetivo é verificar a persistência de exsudações naturais de óleo (seepage slicks) no interior e adjacências dos blocos BM-POT-17 (Áreas ANP 665, 853 e 855), situados dentro dos limites da Bacia de Potiguar. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2009 - 2013
+CENPES-11680-Produtividade na Ressurgência Costeira de Cabo Frio e seu Potencial de Acúmulo de Matéria Orgânica: Interação Atmosfera-Hidrosfera
+Descrição: União de esforços dos Partícipes para o desenvolvimento do projeto de P&D intitulado "Produtividade na ressurgência de Cabo Frio e seu potencial de acúmulo de matéria orgânica: interação atmosfera-Hidrosfera".. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2009 - 2011
+CENPES-11857-Validação de Metodologia de Simulação do Transporte Inverso de Exsudações de Óleo, desde a Superfície do Mar até sua Origem no Assoalho Oceânico.
+Descrição: A união de esforços dos Partícipes para o desenvolvimento do Projeto de P&D intitulado "Validação de Metodologia de Simulação do Transporte Inverso de Exsudações de Óleo, desde a Superfície do Mar até sua Origem no Assoalho Oceânico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2008 - 2012
+ANPETRO-10056-Ambiente de Alto Desempenho Computacional em Tera-Escala e Visualização 3D de Alta Resolução em Tempo Real para Aplicação de Mecânica Computacional na Industria de Óleo, Gás e Energia
+Descrição: Desenvolvimento de software em atividades de programas de visualização científica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2008 - 2011
+PEC-10285-Programa Estratégico de Desenvolvimento Tecnológico em Visualização - Competência de Energia, Petróleo e Gás.
+Descrição: O programa visa a estruturação de Rede Brasileira de Visualização objetivando a capacitação e a infra-estrutura de instituições-chave regionais de pesquisa e desenvolvimento e o aumento do desempenho qualitativo das empresas desenvolvedoras de serviços e produtos, colocando o país a níveis de competição e exportação em setores estratégicos semelhantes a países líderes no setor de software, conforme prioridade estabelecida pela Política Industrial, Tecnológica e de Comércio Exterior (PICTE).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2007 - 2012
+PEC-10068-Monitoring of Natural Petroleum Seeps and Spills Using RADARSAT 1/2 Satelite Imagens in the Gulf of Mexico
+Descrição: Promover o monitoramento de derramamentos e exsudações de petróleo utilizando imagens do satélite RADARSAT-1 e ENVISAT-ASAR na porção mexicana do Golfo do México.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PEMEX / MEXICO - Auxílio
+										financeiro.
+2007 - 2010
+ANPETRO-9537-Novas Estratégias de Extrapolação do Campo de Ondas Visando o Imageamento Sísmico em Áreas Geologicamente Complexas.
+Descrição: A aquisição de dados sísmicos realizada in situ é essencial na indústria petrolífera para identificação de novos reservatórios de hidrocarbonetos, assim como para a monitoração e avaliação dos já existentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2007 - 2009
+PEC-7737-Atividades de Modelagem Computacional Referentes ao Projeto PIATAM Mar (Potenciais Impactos Ambientais do Transporte de Petróleo e Derivados na Zona Costeira Amazônia) - Fase II.
+Descrição: Destinada ao desenvolvimento e implementação de algoritmos e programas computacionais aplicadas à modelagem hidrodinâmica voltadas à indústria de petróleo e gás.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2007 - 2007
+PEC-9160-Remote Sensing Technology to be Applied in Leasing Block 6, Located at Offshore Angola, West Africa
+Descrição: Verificar a persistência de exsudações naturais de óleo (seepage slicks) no interior e adjacências do bloco 6, localizado parte offshore de Angola.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras Internacional - Auxílio
+										financeiro.
+2006 - 2008
+CTPETRO-8404-Avaliação do Potencial Gaseífero das Bacias Sedimentares Brasileiras.
+Descrição: Avaliação de potencial gaseífero das bacias brasileiras, no âmbito do projeto, serão geradas distribuições estatísticas de volumes potenciais de hidrocarbonetos por campo e descobrir e também de números de campos por descobrir, em cada bacia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2006 - 2007
+PEC-7991-Avaliação do Potencial Petrolífero das Bacias Sedimentares Tucano e Jabotá, Pernambuco-Paraíba, Rio do Peixe, Araripe, Sergipe-Alagoas, Recôncavo, Jacuípe, Carmamu-Almada, Jequitinhonha, Cumuruxatiba e Espírito Santo-Mucuri.
+Descrição: Prestação de serviço de avaliação do potencial petrolífero das seguintes bacias sedimentares brasileiras: Espírito Santo-Mucuri, Cumuruxatiba, Jequitinhonha, Camamu-Almada, Jacuípe, Recôncavo, Tucano/ Jatobá, Sergipe-Alagoas, Pernambuco-Paraíba, Rio do Peixe e Ara ripe.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Empresa de Pesquisa Energética - Auxílio
+										financeiro.
+2006 - 2006
+PEC-7955-Detecção de Oil Seeps na Região Oceânica da Tanzânia (bloco 5 e 6) com Dados RADARSAT-1
+Descrição: Verificar a presença de exsudações de óleo (seepage slicks) na região offshore da Tanzânia, Leste da África, nas cercanias dos blocos 5 e 6 , com base na interpretação de imagens de radar do satélite canadense RADARSAT-1. Tal resultado pode indicar a existência de sistemas petrolíferos ativos na área do citado bloco, contribuindo para a redução do risco geológico nessa fronteira exploratória.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras Tanzania - Auxílio
+										financeiro.
+2005 - 2007
+PEC-7175-Mapeamento e Modelagem dos Sistemas Petrolíferos das Bacias de Cumuruxatiba e Espírito Santo.
+Descrição: Realizar mapeamento sísmico das principais sequências sedimentares reconhecidas nas bacias com ênfase nos elementos dos sistemas petrolíferos, efetuar análise estratigráfica das bacias com aplicação dos conceitos da estratigrafia de sequências, realizar análise estrutural com ênfase na definição do arcabouço estrutural das bacias, identificar e mapear os principais Trends estruturais, identificar os intervalos potencialmente geradores de petróleo e seu grau de maturação, caracterizar a origem, grau de evolução térmica e de alteração do petróleo, reconstituir a história de geração de petróleo através de modelagem térmica e cinética unidimensionais, integrar toda a informação geológica, geoquímica e geofísica em um modelo de sistema petrolífero.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Agência Nacional de Petróleo - Auxílio
+										financeiro.
+2005 - 2007
+PEC-7232-Monitoramento da Regeneração Florestal no Gasoduto Urucu-Coari e em Sítios Exploratórios na Província de Urucu, através de Imagens Multitemporais de Sensoriamento Remoto Orbital
+Descrição: Utilizar imagens de sensoriamento remoto orbital para estimar índices de cobertura vegetal em áreas de atividades da Empresa, através do mapeamento de classes de uso do solo e porcentagens de regeneração da cobertura vegetal ao longo do gasoduto Urucum-Coari e em clareiras decorrentes de atividades exploratórias na província de Urucum. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2005 - 2006
+PEC-6741-Migração em Profundidade para Meios Transversalmente Isotrópicos usando Operadores Explícitos Ótimos.
+Descrição: Incorporar a anisotropia na equação de onda PSDM e estudar um comprimento finito ótimo para o operador explícito.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2004 - 2007
+CENPES-6067-Monitoramento das Áreas de Atuação da Petrobrás: Potenciais Impactos e Riscos Ambientais da Indústria do Petróleo e Gás no Amazonas.
+Descrição: Regulamentar as condições de vigência do presente instrumento com as do convênio FINEP na execução do Projeto, as condições sobre a propriedade dos bens adquiridos com a  portes financeiros feitos pela Petrobras.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2003 - 2005
+PEC-4916-Potenciais Impactos Ambientais do Transporte de Petróleo e Derivados na Zona Costeira Amazônica (PIATAM MAR) - Fase 1: Análise de Dados Pretéritos.
+Descrição: Estruturar e consolidar, em meio digital, informações ambientais disponíveis na área de influência do transporte de petróleo e derivados na zona costeira amazônica, de modo a efetuar a análise integrada desses acervo. Tal análise possibilitará a geração de bases conceituais para o monitoramento das atividades da Petrobras na Amazônia Oriental, visando a redução de danos à natureza e à sociedade provocados por eventuais acidentes com derramamento de óleo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2003 - 2005
+PEC-4532-Mapeamento e Análise Quantitativa dos Sistemas Petrolíferos das Bacias de Jequitinhonha e Jacuípe
+Descrição: Organizar um banco de dados geológicos para servir de base para as análises pretendidas, realizar mapeamento sísmico das principais sequências sedimentares reconhecidas nas bacias com ênfase nos elementos dos sistemas petrolíferos, efetuar análise estratigráfica das bacias com aplicação dos conceitos da estratigrafia de sequências, determinar a distribuição de fáceis sedimentares nas sequências rife e pós-rife, realizar análise estrutural com ênfase na definição do arcabouço estrutural das bacias e na caracterização da distribuição e tempo de atividade das falhas, identificar e mapear os principais Trends estruturais e depocentros das bacias com base na interpretação e modelagem de dados sísmicos e de métodos potenciais, determinar a geometria tridimensional do sistema de bacias Rift usando modelo cinemático e flexural para deformação da litosfera, identificar os intervalos potencialmente  geradores de petróleo e seu grau de maturação com base na reavaliação dos dados geoquímica, caracterizar os petróleos e identificar sua origem, grau de evolução térmica e de alteração, reconstituir a história de geração, migração e acumulação de petróleo através de modelagens térmica, cinética e de fluxo de fluidos, integrar toda a informação geológica, geoquímica e geofísica em um modelo de sistema petrolífero que estabeleça a relação genética entre a rocha geradora e acumulações de petróleo, e as relações espaciais e temporais entre os diversos elementos e processos do sistema.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Agência Nacional do Petróleo - Auxílio
+										financeiro.
+2002 - 2006
+PEC-3886-Thermatic Mapping of Oil Seeps e Spills
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): PEMEX / MEXICO - Auxílio
+										financeiro.
+2002 - 2004
+PEC-4051-Modelagem Sísmica em Meios Poro e Visco-elásticos
+Descrição: O estudo desenvolvimento e implementação de procedimentos numericos para atender os seguintes topicos: Modelagem poro-elástica (Biot) por diferenças finitas/elementos finitos, modelagem visco-elástica por diferenças fnitas/elementos finitos, considerando a equação completa e meios homogêneos por partes, permitindo avaliar nas seções sísmicas os efeitos das variações dos parâmetros elásticos, visco-elásticos e poro-elásticos, modelagem acústica pseudo-spectral, modelagem elástica pseudo-spectral.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2002 - 2004
+PEC-2694-Sistema de Monitoramento de Derrames de Óleo em Ambiente Marinho
+Descrição: Implantação do sistema de monitoramento de derrames de óleo em ambiente marinho no cumprimento das disposições da resolução CONAMA/MMA. Estudo exploratórios sistemáticos  dos recursos petrolíferos por  meio da detecção de exsudações naturais em  ambiente marinho, utilizando imagens dos satélites com tecnologia SAR.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Agência Nacional de Petróleo - Auxílio
+										financeiro.
+2002 - 2003
+CENPES-3550-Monitoramento das Áreas de Atuação da PETROBRAS: Potenciais Impactos e Riscos Ambientais da Indústria do Petróleo e Gás no Amazonas
+Descrição: Fundação Universitária do Amazonas INPA e Instituto de Tecnologia da Amazônia-Monitoramento das Áreas de atuação da PETROBRAS.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+2001 - 2002
+PEC-1909-Interpretação e Mapeamento dos Sistemas Petrolíferos da Bacia de Camamu-Almada
+Descrição: Efetuar análise geológicas na bacia de Camamu-Almada, baseadas em mapeamentos regionais da bacia e de detalhe de áreas selecionadas, acompanhados de modelagem geodinâmicas, para melhor compreender a sua evolução tectono sedimentar e avaliar o seu potencial petrolífero remanescente, propiciando à ANP condições de melhor. Selecionar e valorar áreas para futuras licitações. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Agência Nacional do Petróleo - Auxílio
+										financeiro.
+2001 - 2002
+PEC-2261-Recomendações de Projeto e Qualificação de Risers em Sistemas Offshore para Águas Profundas e Ultra-Profundas
+Descrição: Levantamento  do estado da arte e análise crítica da utilização de risers rígidos e flexíveis em unidades estacionárias flutuantes de produção, desenvolvimento de análises técnicas e econômicas de projeto para risers rígidos (SCR) e risers flexíveis, em unidades flutuantes de produção operando em grandes profundidades. Especificação de metodologia de testes experimentais para certificação e instrumentação de risers rígidos (SCR) e risers flexíveis. Planejamento de testes experimentais para determinação das principais características físicas e valores de resistência limte de risers flexíveis, estabelecimento de recomendações de projeto e de procedimentos para qualificação de projetos de risers em sistemas offshore para águas profundas e ultraprofundas na plataforma continental brasileira. Análise das alternativas técnicas e econômicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Agência Nacional de Petróleo - Auxílio
+										financeiro.
+2001 - 2002
+PEC-1910-Avaliação Proliminar de 29 Bacias Sedimentares do Brasil
+Descrição: Efetuar uma avaliação preliminar de cada uma das 29 bacias sedimentares brasileiras, gerando para a ANP um instrumento de consulta para tomada de decisões no gerenciamento das atividades exploratórias, de fácil consulta, desenhado um banco de dados computadorizado que ofereça manuseio simples e confiável.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Agência Nacional do Petróleo - Auxílio
+										financeiro.
+2001 - 2002
+PEC-1911-Modelagem 2D e 3D Quantitativa Flexural e Cinemática da Bacia de Camamu-Almada
+Descrição: Objetivo adquirir tecnologias e desenvolver metodologias avançadas, baseadas na análise quantitativa de bacias, destinadas a realizar uma análise integrada da Bacia de Camamu-Almada que propicie um melhor entendimento de seus processos evolutivos e uma melhor definição dos seus potenciais petrolíferos remanescente e exploratório.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Agência Nacional do Petróleo - Auxílio
+										financeiro.
+1999 - 2003
+PEC-761-Monitoramento de Exsudações de Óleo na Margem Continental Brasileira Utilizando Imagens Radarsat como Subsídio à Exploração Petrolífera.
+Descrição: Detectar manchas de óleo ("seepage Slicks") decorrentes de exsudações na superfície do mar utilizando imagens do satélite canadense RADARSAT, de modo a identificar áreas com provável presença de óleo no assoalho oceânico. Pretende-se estudar as seguintes bacias: Foz do Amazonas, Ceará, Potiguar, Pernambuco-Paraíba, Sergipe-Alagoas e Cumuruxatiba. Serão comparados os resultados das análises das imagens RADARSAT com ados batimétricos, oceano-meteorológicos, geológicos e geofísicos das bacias sedimentares, de modo a situar os "seepage Slicks" no contexto ambiental e estratigráfico-tectônico dessas áreas sedimentares e sugerir sua associação com sistemas petrolíferos ativos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+1994 - 1996
+ET-150592-Consolidação do Software para Simulação Numérica de Injeção de Traçadores pelo Método dos Elementos Finitos.
+Descrição: Dar continuidade aos desenvolvimentos efetuados no Projeto simulação Numérica de Injeção de Traçadores em Campos de Petróleo pelo Método dos Elementos Finitos, que culminaram em um simulador para análise dimensional da injeção de traçadores em campos de petróleo. O simulador em questão baseia-se a formação adaptativa do método dos elementos finitos, que permite, além de grande flexibilidade no tratamento de geometrias complexas e arbitrárias, o refinamento local da malha nas regiões de maior concentração de traçador. Tal procedimento oferece uma resolução espacial, de baixo custo computacional, adequada para o acompanhamento da evolução das frentes de concentração de traçador.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+1990 - 1990
+ET-15397-Implantação de Software Transiente Térmico na Litosfera
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+1989 - 1990
+ET-15395-Anáilse Estrutural do Satélite
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+1987 - 1988
+ET-15315-Recursos Computacionais para a Acompanhamento do Projeto de Fundações do Polo Nordeste
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+1987 - 1988
+ET-15359-Processamento das Fundações do Polo Nordeste
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+1985 - 1985
+ET-15240-Análise Computacional de Estruturas de Fundações Offshore Rasas e Profundas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.
+1983 - 1984
+ET-15197-Cravação de Estacas Offshore
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Landau - Coordenador.Financiador(es): Petrobras - Auxílio
+										financeiro.

@@ -1,0 +1,75 @@
+2018 - 2021
+Explorar bacteriófagos da biodiversidade brasileira em efluentes hospitalares como ferramentas para o biocontrole de microrganismos patogênicos e resistentes a antibióticos
+Descrição: Projeto de Inovação aprovado pelo Edital Ideais Inovadoras do Programa Inova da Fiocruz.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alberto Martín Rivera Dávila - Coordenador / Rodrigo Jardim - Integrante / KOTOWSKI, NELSON - Integrante / Giselle de Carvalho - Integrante / Eduardo de Mello Volotão - Integrante / Nalvo Almeida Junior - Integrante.Financiador(es): Fundação Oswaldo Cruz - Auxílio
+										financeiro.
+2007 - 2009
+Identificação e análise de alvos para desenvolvimento de fármacos e diagnósticos usando uma abordagem integrada de biologia de sistemas
+Descrição: A maioria dos sistemas/softwares para análises de genomas
+desenvolvidos até o momento tem se limitado ao uso de poucas
+informações dos genomas. A presente proposta congrega
+diferentes grupos de pesquisa, os quais tem desenvolvido
+sistemas mais completos e de uso abrangente. Um dos sistemas
+desenvolvidos é denominado GARSA (Genomic Analysis
+Resources for Sequence Annotation) (Dávila et al 2005) que na
+sua versão 2.0 inclui no pipeline de análises o uso de 21
+programas distintos (base callers, alinhadores múltiplos, buscas
+de similaridades, buscas de homologias distantes, filogenia,
+polimorfismos, etc). O sistema GARSA vem sendo desenvolvido
+no âmbito do consórcio BiowebDB (http://www.biowebdb.org),
+através do qual este sistema é disponibilizado. Outro sistema
+desenvolvido pelos integrantes do grupo proponente deste
+projeto, é o denominado CruziGeneDB
+(http://200.183.132.14/CruziGeneDB/), o qual apresenta uma
+proposta diferente do GARSA no âmbito da análise de
+seqüências. Neste sistema, os dados referentes ao genoma de
+T. cruzi estão disponíveis, da forma que usualmente existe em
+outros programas, mas foi incorporada toda uma plataforma de
+gerenciamento de dados laboratoriais que estão sendo
+produzidos dentro da perspectiva em larga escala, a qual
+permeia toda a filosofia da abordagem de biologia de sistemas
+(Systems biology). Esses dados estão sendo gerados pelo
+Instituto de Biologia Molecular do Paraná (IBMP), dentro de
+diversas linhas de pesquisa e projetos, internos ou em parceria
+com grupos de pesquisa externos nacionais e internacionais, e
+se constitui em uma fonte de dados importante para a inclusão
+em uma plataforma cujo foco principal seja a biologia de
+sistemas. Embora o GARSA seja um sistema muito completo
+para análises e anotação comparativa de seqüências, e o
+CruziGeneDB constitui-se em uma iniciativa pioneira no
+armazenamento, gerenciamento e disponibilização de dados
+oriundos de metodologias inerentes às "ômicas", ambos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Doutorado: (2) . Integrantes: Alberto Martín Rivera Dávila - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Metagenômica na Avaliação da Biodiversidade Microbiana Associada ao Fenômeno da Ressurgência no Litoral Fluminense
+Descrição: Sequenciamento e análise dos genes ribossomais de Eukarya, Archeae e Bacteria das águas litoraneas fluminenses, associadas ao fenômeno da ressurgência.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Alberto Martín Rivera Dávila - Integrante / Alexandre Soares Rosado - Coordenador / Juliano Carvalho Cury - Integrante / Fabio Vieira de Araujo - Integrante / Raquel Silva Peixoto - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2007 - 2009
+Usando a Biologia de Sistemas e "Grid" Para a Identificação e Análise de Alvos Para Desenvolvimento de Fármacos e Diagnósticos
+Descrição: Usando a Biologia de Sistemas e "Grid" Para a Identificação e Análise de Alvos Para Desenvolvimento de Fármacos e Diagnósticos. Auxílio concedido: R$ 130,000. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alberto Martín Rivera Dávila - Coordenador / Marta Mattoso - Integrante / Maria Claudia Reis Cavalcanti - Integrante / Milton O. Moraes - Integrante / Vanessa de Paula Braganholo - Integrante / Juliano Carvalho Cury - Integrante / Nelson Antônio Borges Garcia - Integrante / Raquel Coelho Gomes Pinto - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2007 - 2009
+Identificação e caracterização de marcadores biológicos e diagnósticos em tripanosomatídeos patogênicos através de genômica e proteômica comparativas
+Descrição: Estudar comparativamente aspectos de genômica, genômica funcional e proteômica de tripanosomatídeos patogênicos utilizando como modelo biológico o Trypanosoma rangeli, buscando a compreensão de aspectos da biologia, do rol de expressão gênica e da constituição protéica do parasito e sua comparação com espécies filogeneticamente relacionadas. Aliado à pesquisa biológica, o uso de ferramentas de bioinformática visa a identificação de marcadores de diagnóstico diferencial específico, a compreensão de aspectos biológicos e moleculares das diferentes espécies e o desenvolvimento de marcadores biológicos de processos celulares de interesse para o desenvolvimento de novos produtos (medicamentos) e/ou processos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alberto Martín Rivera Dávila - Integrante / MÁRIO STEINDEL - Integrante / Glauber Wagner - Integrante / Edmundo C Grisard - Coordenador / Arnaldo Zaha - Integrante / Maurilio J. Soares - Integrante / Stenio Perdigão Fragoso - Integrante / Hernan Francisco Terenzi - Integrante / Marco A. Krieger - Integrante / CHRISTIAN MACAGNAN PROBST - Integrante / Claudio Miletti - Integrante / HENRIQUE B FERREIRA - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2007 - Atual
+Identificação e análise de alvos para desenvolvimento de fármacos e diagnósticos usando uma abordagem integrada de biologia de sistemas
+Descrição: Identificação e análise de alvos para desenvolvimento de fármacos e diagnósticos usando uma abordagem integrada de biologia de sistemas. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alberto Martín Rivera Dávila - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.
+2006 - 2008
+Genômica comparativa de genes metabólicos em tripanosomatídeos
+Descrição: Tres dos mais importantes protozoários patogenicos do homem tiveram seu genoma recentemente sequenciado: Trypanosoma cruzi, T. brucei e Leishmania major (Tri-Tryps). Eles pertencem à ordem Kinetoplastida, Família Trypanosomatidae e causam a doença de chagas, enfermidade do sono e leishmaniasis, respectivamente. A pesar do enorme importância e impacto causado, não existem vacinas contra os mencionados patógenos, e apenas algumas poucas drogas tem sido desenvolvidas e são inadequadas seja pela toxicidade ou resistência desenvolvida pelos patógenos. A disponibilidade das seqüências dos genomas abre enormes possibilidades tanto para o melhor entendimento da biologia destas espécies bem como a identificação e exploração de possíveis alvos para o desenho racional de novas drogas de espectro abrangente. As análises dos Tri-Tryps mostraram que menos de 35% dos seus genomas são genes espécie-específicos e que 6158 genes ortólogos formam o proteoma essencial às 3 espécies. Desses ortólogos, 633 têm sido anotados como transportadores ou canais e 8133 como enzimas, mostrando que proteínas metabólicas representam as regiões mais conservadas dos 3 genomas. Visando obter novas informações sobre a biologia e o metabolismo de tripanosomatídeos patogênicos, o presente projeto tem como objetivo principal identificar, analisar e comparar ~200 genes metabólicos que sejam ortólogos em T. brucei, T. cruzi, L. major, L. braziliensis, T. vivax, Phytomonas serpens e T. rangeli. Análises de genômica comparativa envolvendo filogenia e evolução molecular serão feitos considerando as seguintes questões: que tipo de forças seletivas são responsáveis pelas taxas aceleradas e conservadas de evolução entre as espécies ? É possível listar genes metabolicos que possam ser usados no futuro como alvos para o desenvolvimento de drogas de espectro abrangente ? Qual e que tão variável é a taxa de evolução entre esses genes metabólicos ? Finalmente, os resultados das análises sistematicas serão disponibiliz. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (3) . Integrantes: Alberto Martín Rivera Dávila - Coordenador.
+2004 - 2006
+Comparative genomics and transcriptomics: a Bioinformatics consortia for the development of an integrated web-based platform and databases for analyses
+Descrição: Comparative approaches involving the integrative use of heterogeneous databases, analyses tools, distributed computing and (re)annotation system as well as sensitive similarity detection algorithms have been catalyzed by a variety of sequenced genomes. The BiowebDB consortium funded by CNPq has initially established collaborations with GeneDB and TcruziDB. Aiming to build an integrated, user-friendly and flexible platform, capable to deal with different datasets and genome projects, BiowebDB is being designed to provide interoperability among different analyses tools and more sensitive algorithms for distant homology detection. It centers on the use of ontology based metadata, XML, Web services, as well as a combination of Hidden Markov Models with AI technologies for algorithm improvement. The BiowebDB platform is being progressively implemented and is publicly available at http://www.biowebdb.org.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5) . Integrantes: Alberto Martín Rivera Dávila - Coordenador / Maria Luiza Machado Campos - Integrante / Paulo F. Pires - Integrante / Lígia Barros - Integrante / Fernanda  Baião - Integrante / Maria Claudia Reis Cavalcanti - Integrante / Marta L Q Mattoso - Integrante / Edmundo C Grisard - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2005
+Gene discovery in T. vivax through EST and comparative genomics
+Descrição: Construção de uma biblioteca genômica e geração de 1000 ESTs de Trypansoma vivax. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alberto Martín Rivera Dávila - Coordenador.
+2003 - Atual
+Comparative genomics sequencing of the nulear genomes of Trypanosoma vivax and T. congolense
+Descrição: Sequenciamento do genoma nuclear dos Trypanosoma vivax e T. congolense sendo realizados no The Wellcome Trust Sanger Institute. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alberto Martín Rivera Dávila - Coordenador.
+2002 - 2005
+Circulation des trypanosomatidae
+Descrição: Pesquisa básica sobre a diversidade genética e caraterização molecular de tripanosomatídeos de plantas, animais e humanos. O objetivo principal do grupo brasileiro foi caracterizar cepas de Trypanosoma vivax usando oITS (Internal Transcribed Spacer) rDNA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alberto Martín Rivera Dávila - Coordenador.
+2001 - 2005
+Molecular characterization of Trypanosoma vivax
+Descrição: Geração de marcadores para Trypanosoma vivax usando uma abordagem de descoberta de genes GSS. Adicionalmente, caracterização molecular do Trypanosoma vivax usando diferentes marcadores moleculares, e o desenvolvimento de um ensaio de PCR de diagnostico diferencial baseado no ITS1 rDNA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alberto Martín Rivera Dávila - Coordenador.

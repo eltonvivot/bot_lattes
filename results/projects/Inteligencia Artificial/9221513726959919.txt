@@ -1,0 +1,24 @@
+2016 - 2020
+Modelo Conceitual para representar Sinais Corporais no processo de Aprendizagem
+Descrição: Vários educadores, ao longo de décadas vem contribuindo para que a educação una
+cada vez mais a teoria com a prática, se aproxime da realidade na qual o aluno está
+inserido, passe a ser uma educação mais contextualizada, que use os objetos do
+mundo real e que permita ao estudante experimentar. Em sala de aula, as atividades
+práticas estão muito aquém do que se entende como necessário para a promoção
+de um processo de aprendizagem satisfatório, mesmo com a quebra de muitos
+paradigmas educacionais e a presença de tecnologias que podem colaborar com o
+ensino e a aprendizagem. No entanto, essas estratégias de aprendizagem precisam
+estar baseadas na diversidade de estilos presentes em sala de aula, tendo o
+professor compreendido primeiramente a necessidade do aluno através da
+interpretação de suas emoções, expressas a partir dos sinais corporais como
+batimentos cardíacos, temperatura, ondas cerebrais, expressões faciais e corporais.
+Nesse sentido, esse projeto de tese tem como objetivo estudar e propor um modelo
+para representar esses sinais corporais e relacioná-los com o processo de
+aprendizagem, valendo-se de recursos computacionais baseados em tecnologias
+como inteligência artificial, machine learning, big data e internet das coisas, por meio
+de 4 passos: seleção das tecnologias; captura dos sinais; identificação e análise dos
+dados capturados; e análise pautada nas teorias e estilos de aprendizagem. Quanto
+a metodologia, apresenta uma abordagem de natureza qualitativa e quantitativa e
+fundamentação teórica baseada em pesquisa bibliográfica. Esse projeto de tese,
+está em fase de desenvolvimento e espera-se obter resultados científicos,
+tecnológicos, acadêmicos e técnicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marialina Corrêa Sobrinho - Integrante / Celson Pantoja Lima - Coordenador.

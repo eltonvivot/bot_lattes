@@ -1,0 +1,39 @@
+2011 - Atual
+RPDBCS, Reconhecimento de Padrões de Defeitos em Sistemas de Bombeio Centrífugo Submerso
+Descrição: Este projeto visa utilizar técnicas de inteligência computacional para a identificação de padrões de defeitos em sistemas de bombeio centrífugo submerso (BCS) durante a fase de teste e aceitação desse sistema. O projeto desenvolverá uma metodologia computacional para analisar dados característicos de vibrações de uma bomba centrífuga submersa, coletados em campo durante a fase de teste e aceitação do equipamento, e inferirá automaticamente se esse equipamento se encontra em condições adequadas para ser colocado em operação.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thomas Walter Rauber - Integrante / Flávio Miguel Varejão - Coordenador / Fábio Fabris - Integrante / Francisco de Assis Boldt - Integrante.
+2007 - 2009
+Algoritmos de Visão Computacional em Robótica de Campo
+Descrição: Projeto Probral CAPES - DAAD
+cooperação entre os Departamentos de Engenharia Elétrica e Informática, Centro Tecnológico da UFES e o ?Robotics Research Lab? da Universidade de Kaiserslautern, Alemanha. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Thomas Walter Rauber - Coordenador / Hans-Jörg Schneebeli - Integrante / Flávio Miguel Varejão - Integrante / Raquel Frizera Vassallo - Integrante / Karsten Berns - Integrante / Tim Braun - Integrante / Bernd Helge Schäfer - Integrante / Norbert Schmitz - Integrante / Alexandre Konzen - Integrante / Christiano Couto Gava - Integrante / Flávio Garcia Pereira - Integrante / Alexander Renner - Integrante / Tobias Föhst - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Deutscher Akademischer Austauschdienst - Auxílio
+										financeiro / Technische Universität Kaiserslautern - Cooperação / Universidade Federal do Espírito Santo - Cooperação.
+2007 - 2009
+ADD-RPD: Sistema Inteligente para Reconhecimento de Padrões de Defeitos em Motobombas
+Descrição: Detecção e diagnóstico de falhas em processos industriais através da análise de padrões sensoriais da bomba e do motor, envolvendo processamento de sinais e reconhecimento de padrões. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2) . Integrantes: Thomas Walter Rauber - Integrante / Flávio Miguel Varejão - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Bolsa.Número de produções C, T & A: 3
+2003 - 2005
+Reconhecimento de Padrões por Equilíbrio de Newton
+Descrição: Resumo. Este projeto propõe uma metodologia para casar modelos com dados em imagens digitais. Os modelos      podem ter sofrido transformações de corpo rígido. Os modelos são iterativamente adaptados aos dados da imagem, usando translações e rotações, buscando um estado de equilíbrio de Newton, assim aplicando conceitos da mecânica de Newton a processamento de imagens. As técnicas propostas serão aplicadas em duas e três dimensões. Testes preliminares sugerem uma potencialidade excelente do método de resolver um problema genérico de pesquisa na área de processamento de imagens.
+Palavras-Chave. Reconhecimento de Padrões, Processamento de Imagens, Casamento de Padrões baseado em analogias físicas, Corpo Rígido, Equilíbrio de Newton. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Thomas Walter Rauber - Coordenador.
+2001 - 2003
+Reconhecimento Automático de Placas de Automóveis
+Descrição: Resumo
+Este projeto apresenta uma proposta para as atividades de pesquisa e desenvolvimento de um sistema capaz de identificar automaticamente placas de automóveis. O sistema é composto por um subsistema de aquisição de imagens (câmara, placa digitalizadora), um microcomputador, software de processamento de imagens e reconhecimento de padrões.
+Palavras-Chave: Processamento de Imagens, Reconhecimento de Padrões, Sistema de Reconhecimento de Placas, Inteligência Artificial, Redes Neurais Artificiais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Thomas Walter Rauber - Coordenador / Marcel Rocha Stein - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2001 - 2002
+Método Quantitativo para a Análise da Microvascularidade Retiniana usando Processamento de Imagens
+Descrição: Resumo
+O objetivo do projeto é a realização de um sistema de processamento de informação visual da retina humana a fim de detectar patologias que se desenvolvem ao longo do tempo. A peça chave do sistema é um software semi-automático capaz de analisar imagens do fundo do olho humano. Deve fornecer medição quantitativas da espessura dos vasos sangüíneos a fim de permitir comparações temporais.
+Palavras-Chave: Processamento de Imagens Medicinais, Reconhecimento de Padrões, Retinopatia, Método quatitativo, Microvascularidade retiniana. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Thomas Walter Rauber - Coordenador / Willian Flávio Rigo - Integrante / Aurélio Paulo Batista da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+1999 - 2001
+Sistemas Percepcionais Inteligentes
+Descrição: Duas linhas de pesquisa:
+1. DETECÇÃO DE FALHAS EM SISTEMAS TÉCNICOS
+2. PROCESSAMENTO AUTOMÁTICO DE FORMULÁRIOS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Thomas Walter Rauber - Coordenador / Adolfo Steiger Garção - Integrante / Luís Gomes - Integrante / Silvana Rossetto - Integrante / Flávio Varejão - Integrante / Luiz Alberto Pinto - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Universidade Nova de Lisboa - Cooperação.Número de produções C, T & A: 10
+1996 - 2000
+Reconhecimento de Caracteres Manuscritos em Formulários
+Descrição: - Digitalização de Formulários com campos preenchidos manualmente;
+- Registro da imagem (encaixar em modelo);
+- Segmentação dos campos;
+- Segmentação dos caracteres
+- Classificação dos caracteres;
+- Pós-Processamento simbólico (dicionários, semântica). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Thomas Walter Rauber - Coordenador / Silvana Rossetto - Integrante / Andréa Pitol Ferreira - Integrante / Valério B. de Souza - Integrante / Rodrigo M. Benevides - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 7

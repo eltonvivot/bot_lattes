@@ -1,0 +1,64 @@
+2020 - Atual
+Despertando para a programação com a criação de jogos digitais
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2020 - Atual
+Desenvolvimento de Jogos Digitais e Utilização de Elementos de Gamificação como Estratégia de Engajamento e Motivação no Ensino e Aprendizagem de Engenharia de Software
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2019 - Atual
+Avaliação do Uso de Gamificação no Ensino e Aprendizagem de Engenharia de Software
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2019 - Atual
+Aplicação da Gamificação no Ensino de Disciplinas de Programação do Curso de Sistemas de Informação
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2018 - 2019
+FRAMEWORK CONCEITUAL PARA APOIAR A ANÁLISE DE SENTIMENTOS EM EMPRESAS DE DESENVOLVIMENTO DE SOFTWARE
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2018 - 2019
+USO DE GAMIFICAÇÃO E JOGOS DIGITAIS PARA APOIAR O ENSINO DE ENGENHARIA DE SOFTWARE NOS CURSOS DE GRADUAÇÃO
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2018 - 2019
+Automatização do teste de software no contexto de sistemas modernos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2017 - 2018
+Análise de Sentimentos de Desenvolvedores de Software
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2017 - 2018
+Diff entre variantes e merge semântico de documentos XML
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2014 - 2015
+O USO DE PADRÕES DE PROJETO NO DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2014 - 2015
+EVOLUÇÃO SEMÂNTICA DE VARIANTES DE DOCUMENTOS XML
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2013 - 2014
+CONSULTA E COMPREENSÃO DE MUDANÇAS EM DOCUMENTOS XML
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2012 - 2013
+USO DE INFERÊNCIA NO CONTROLE DAS MUDANÇAS EM DOCUMENTOS XML
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador.
+2010 - 2013
+QLX - Viabilizando consultas a grandes volumes de dados XML (FAPERJ, Edital Jovem Cientista do Nosso Estado)
+Descrição: O volume de dados XML disponíıvel atualmente vem crescendo cada vez mais. Este fato faz com que surja a necessidade de mecanismos eficientes de consulta e acesso a dados XML. Existem vários trabalhos na literatura que lidam com o problema de processar consultas sobre dados XML. Nesses trabalhos, o foco tem sido dado a bases de dados locais, métodos de acesso, álgebras para consulta, entre outros. No entanto, vários problemas permanecem em aberto. O primeiro deles refere-se a processamento de consultas sobre bases XML distribuídas. Apesar de existirem propostas de fragmentação para documentos XML, o processamento de consultas neste cenário ainda não está bem resolvido. O segundo refere-se à semântica das consultas. Em várias situações, os documentos XML possuem informações implícitas que poderiam ser exploradas se a linguagem de consulta permitisse algum tipo de inferência sobre o conteúdo do documento. Nesse projeto, pretendemos contribuir na solução destes problemas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Alessandreia Marta de Oliveira Julio - Integrante / Marta Mattoso - Integrante / Leonardo Murta - Integrante / BRAGANHOLO, Vanessa - Coordenador.
+2007 - 2008
+Refatoração em Banco de Dados
+Descrição: Refatoração é uma técnica de reestruturação. Sua idéia básica é fazer pequenas mudanças no código para melhorar o desempenho, gerando um maior entendimento e uma maior facilidade de manipulação em uma posterior alteração, sem mudar sua semântica. Essas mudanças têm por objetivo levar a uma melhoria na estrutura da codificação, porém, essas alterações têm que se restringir ao código, não interferindo no ponto de vista de uma caixa preta, pois adicionar novas funções, gera um novo código e mesmo tendo perspectivas complementares, são dois métodos completamente diferentes. Diante disso um dos objetivos deste trabalho é construir uma base de conhecimento sobre o assunto, englobando a caracterização de refatoração, bem como a apresentação das técnicas de refatoração disponíveis e sua utilização, com indicadores úteis que mostram quando aplicá-las e exemplos. As vantagens e desvantagens do uso desta técnica também serão levantados.
+Uma vez que o conceito de refatoração pode ser estendido para a área de Banco de Dados, um outro objetivo deste trabalho é caracterizar refatoração neste contexto, apresentar as principais estratégias de refatoração em banco de dados, os métodos de refatoração; a refatoração estrutural, a refatoração de integridade referencial e refatoração arquitetural.
+Existem algumas ferramentas automatizadas que facilitam o acompanhamento e as mudanças nas aplicações de banco de dados, apoiando o processo de refatoração. Assim, um outro objetivo é a avaliação e seleção de ferramentas de refatoração de banco de dados existentes com o intuito de gerar um estudo comparativo das ferramentas de refatoração de banco de dados selecionados a fim de escolher a que melhor se adapte às necessidades do projeto e que será usada para definição e implementação do estudo de casos deste projeto, que é nosso objetivo chave. 
+Com o desenvolvimento do projeto, pretende-se também alcançar o objetivo de proporcionar uma integração entre disciplinas oferecidas no curso de sist. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador / Marco Antônio Pereira Araújo - Integrante / Ícaro Sporch da Costa - Integrante / Marcos Alexandre Miguel - Integrante.Número de produções C, T & A: 2
+2005 - 2006
+Grupo de Estudos em Desenvolvimento Baseado em Componentes
+Descrição: O grupo de estudos em Desenvolvimento Baseado em Componentes objetiva estudar as modernas técnicas de desenvolvimento e modelagem de sistemas utilizando esta abordagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandreia Marta de Oliveira Julio - Integrante / Marco Antônio Pereira Araújo - Coordenador / Valdete Maria Gonçalves de Almeida - Integrante / Débora Alvernaz Correa - Integrante / João Carlos da Silva - Integrante / Marcelo Santos Daibert - Integrante / Marcelo Souza Furtado - Integrante / Leandro Nolasco Ferreira - Integrante.
+2005 - 2006
+A Utilização de Data Warehouse no Futebol de Campo
+Descrição: Este trabalho tem por finalidade apresentar os principais conceitos que envolvem a tecnologia de DW bem como alguns mecanismos de análise das informações contidas em um DW, a partir do estudo de casos relacionados ao futebol de campo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador / Tauller Augusto de Araújo Matos - Integrante / Henrique Oliveira da Rocha - Integrante / Guilherme Mageste Duque - Integrante / João Batista Gonçalves - Integrante.Número de produções C, T & A: 2
+2005 - 2006
+O Desenvolvimento de uma Ontologia para Evolução de Software Orientado a Objetos
+Descrição: A proposta é revisitar a literatura, fazendo um estudo exploratório sobre ontologias, editores e linguagens de representação, com o intuito de fornecer à comunidade acadêmica um catálogo contendo não somente sua contextualização teórica, mas também a implementação de um ontologia para evolução de software orientado a objetos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandreia Marta de Oliveira Julio - Coordenador / Marco Antônio Pereira Araújo - Integrante / Carlos Eduardo Cruzeiro Scaldaferri - Integrante / Renato Rodrigues da Silva - Integrante.
+2004 - 2006
+Estratégias de Persistência em Software Orientado a Objetos
+Descrição: O projeto tem como objetivo o estudo exploratório das tecnologias de persistência de objetos, incluindo tecnologias de banco de dados orientado a objetos e objeto-relacionais, além de técnicas de mapeamento objeto-relacional. 
+Através do levantamento de soluções OODBMS (Object-Oriented DataBase Management System), ORDBMS (Object-Relational DataBase Management System) e mapeamento objeto-relacional em RDBMS (Relational DataBase Management Systems), será feita uma avaliação destes produtos, através de características apropriadas a este projeto, no sentido de selecionar aquelas tecnologias que serão utilizadas para avaliação de viabilidade na sua utilização prática através de sua utilização no desenvolvimento de um protótipo. 
+Definição de uma aplicação para avaliação das estratégias de persistência definidas (OOBDMS x mapeamento objeto-relacional). 
+Definição e implementação de uma ferramenta própria de persistência, comparando-a com as soluções identificadas, através da aplicação de avaliação.
+O projeto visa a comparação entre as abordagens em estudo, envolvendo bancos de dados orientados a objetos e camadas de mapeamento (disponíveis e implementada neste projeto), tais como desempenho, soluções encontradas, dificuldades, vantagens e desvantagens.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandreia Marta de Oliveira Julio - Integrante / Marco Antonio Pereira Araújo - Coordenador / Valdete Maria Gonçalves de Almeida - Integrante / Débora Alvernaz Correa - Integrante / João Carlos da Silva - Integrante / Marcelo Santos Daibert - Integrante / Marcelo Souza Furtado - Integrante / Leandro Ferreira Nolasco - Integrante.Número de produções C, T & A: 8

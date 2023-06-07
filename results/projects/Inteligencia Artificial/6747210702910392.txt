@@ -1,0 +1,29 @@
+2017 - Atual
+Navegação de Robôs em Ambientes com Grande Número de Pessoas Através do Mapeamento da Atividade Humana
+Descrição: Um importante desafio da robótica móvel é a definição de funções de navegação que permitem aos robôs navegar com segurança entre os seres humanos em ambientes internos.
+A presença humana faz com que o ambiente seja dinâmico e incerto.
+Além disso, a navegação entre os seres humanos exige que os robôs compreendam as atividades humanas e prevejam seus comportamentos para adaptar suas trajetórias.
+Este problema de pesquisa recente é chamado de navegação social ou de navegação consciente de pessoas.
+Neste contexto, o projeto incidirá na detecção e mapeamento de atividades humanas a partir de percepções do robô de modo a melhorar a capacidade de navegação de robôs sociais.
+Consideraremos que a informação só é obtida de câmeras e lasers incorporados aos robôs.
+O trabalho será organizado em dois objetivos: i) definir mapas de atividades capazes de representar as atividades humanas no espaço e no tempo e ii) definir o planejamento do trajetória para a navegação usando o mapa e a previsão da atividade humana gerados.
+Trabalhos preliminares do grupo CHROMA serão usados como ponto de partida para o objetivo (i).
+Técnicas de aprendizagem por reforço e planejamento probabilístico serão exploradas como uma linha de pesquisa para o objetivo (ii).
+O trabalho será implementado e avaliado em robôs assistentes móveis.
+Planeja-se participar de uma competição de robótica internacional, a RoboCupe@home, como um desafio experimental com o objetivo de validar a eficiência e a robustez das soluções propostas. 
+Planeja-se também a realização parcial do doutorado no exterior, juntamente com o grupo CHROMA-INRIA na universidade de Lyon, França.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fagner de Assis Moura Pimentel - Coordenador / Flávio Tonidandel - Integrante / Reinaldo Bianchi - Integrante / Plinio T. Aquino Junio - Integrante.
+2013 - 2015
+TÉCNICAS DE VISÃO COMPUTACIONAL PARA AUTOMAÇÃO DE ECLUSAS
+Descrição: Este projeto trata da otimização da operação do sistema de eclusagem em represas a partir do desenvolvimento de
+uma solução computacional que automatize o processo de fluxo de embarcações em eclusas, utilizando técnicas de
+visão computacional e câmeras do sistema de monitoramento das eclusas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fagner de Assis Moura Pimentel - Integrante / Diego Gervasio Frías Suárez - Integrante / Michele Fúlvia Angelo - Coordenador.
+2009 - 2011
+Construção de Sistemas Multiagentes Reativos para controle de robôs jogadores de futebol
+Projeto certificado pelo(a) coordenador(a) Diego Gervasio Frías Suárez em 26/01/2016.
+Descrição: O objetivo deste projeto é investigar o uso de métodos de inteligência artificial para implementar comportamentos reativos básicos num time de robôs jogadores de futebol. Dentre os métodos de IA selecionados estão a lógica fuzzy, redes neurais, algoritmos genéticos, algoritmos de enxames, dentre outros. Os comportamentos reativos implementados incluem posicionamento, marcação, interceptação, drible, passe, chute a gol. Será efetuada uma análise comparativa entre as abordagens tradicionais da IA e o uso do paradigma de IA emergente, concebido pelos pesquisadores do ACSO/UNEB, para a modelagem destes comportamentos. A validação será feita em três equipes de futebol de robôs pertencente à distintas modalidades da Robocup Federation: o Bahia3D (equipe da modalidade Futebol Simulado 3D), Bahia2D (equipe da modalidade Futebol Simulado 2D) e  BahiaMR (equipe da Modalidade Realidade Mista).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fagner de Assis Moura Pimentel - Integrante / Adailton de J. Cerqueira Jr. - Integrante / Diego Gervasio Frías Suárez - Coordenador / Ayran Costa da Cruz - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2009
+Desenvolvimento dirigido a modelos para sistemas multiagentes: Aplicando a MDA ao Bahia Robotics Team
+Projeto certificado pelo(a) coordenador(a) Rita Suzana Pitangueira Maciel em 26/01/2016.
+Descrição: O objetivo desde projeto é investigar propostas para o desenvolvimento dirigido a modelos (DDM), baseados na abordagem MDA(Model Driven Architecture),  para sistemas multi-agentes (SMA). Mais especificamente espera-se propor um framework conceitual e uma plataforma de desenvolvimento para os projetos do Bahia Robotics Team (http://www.acso.uneb.br/brt). Atualmente, os projetos do Bahia Robotics Team são desenvolvidos utilizando apenas metodologias específicas da área da inteligência artificial. 
+    Espera-se alcançar um framework conceitual que defina um processo MDA e uma plataforma de desenvolvimento para a implementação dos projetos do Bahia Robotics Team (BRT). Espera-se que, além de potencializar o reuso nas diversas fases do ciclo de desenvolvimentos das suas aplicações, facilite a manipulação da heterogeneidade de plataformas de hardware e software envolvidas, características inerentes a utilização da abordagem do DDM. Sendo assim, estaremos agregando mais qualidade e agilidade aos processos de desenvolvimento das aplicações BRT. Espera-se também avançar o estado da arte em relação à implementação de SMA.	
+    Vale salientar que, neste momento inicial, não estaremos priorizando o apoio aos aspectos relacionados à inteligência dos SMA, e sim aos aspectos estruturais e dinâmicos em relação à interação entre os agentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fagner de Assis Moura Pimentel - Integrante / Marco A. C. Simões - Integrante / Rita Suzana Pitangueira Maciel - Coordenador.Financiador(es): Universidade do Estado da Bahia - Bolsa.

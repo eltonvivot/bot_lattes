@@ -1,0 +1,151 @@
+2021 - Atual
+Modelagem 3D de cavidades naturais subterrâneas
+Descrição: Desenvolver solução de baixo custo combinando hardware e software capaz de capturar
+informações sobre a estrutura tridimensional de cavernas e permitir sua posterior visualização, assim como
+extração de informações adicionais como volume e área da mesma.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / Arthur de Andrade Almeida - Integrante / Maria Gimena Chaves - Integrante / Valéria Martins da Silva - Integrante / Vinícius Lima Ventura - Integrante.Financiador(es): Vale S.A - Bolsa.
+2021 - Atual
+Projeto de inovação em robótica para desenvolvimento de um robô autônomo para navegação e manipulação/inspeção de objetos em ambientes fechados utilizando a plataforma TurtleBot e a NVIDIA Jetson Nano.
+Descrição: Este projeto de inovação tecnológica visa aliar uma plataforma para pesquisa em robótica,
+denominada Turtlebot 2i, e tecnologias produzidas em âmbito acadêmico para detecção de
+objetos em imagens, usando a plataforma NVIDIA Jetson Nano, com o intuito de estender as
+habilidades da plataforma, fazendo com que chegue ao mercado e permitindo seu uso em
+ambientes industriais e escritórios. A tecnologia a ser desenvolvida apresenta potencial de
+inovação e aumento de segurança para trabalhadores da indústria e escritórios ao incrementar
+as habilidades de um robô para navegar em espaço indoor e manipular/inspecionar objetos
+sem a necessidade de intervenção humana, assim diminuindo o contato indireto entre pessoas
+e, por consequência, aumentando a segurança dos envolvidos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / Lucca Morosini Gioia - Integrante.
+2020 - Atual
+O Uso de Realidade Aumentada no Feedback de Exercício
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / Luana Nunes da Silva - Integrante.
+2019 - 2020
+Desenvolvimento de uma Câmera Inteligente para Reconhecimento de Comportamento
+Descrição: O trabalho tem por objetivo estudar técnicas de estimação de pose(2D/3D) a partir de
+imagens RGB e abordagens utilizando redes neurais profundas. Como resultado se desenvolveu
+um protótipo de hardware+software de um dispositivo capaz de capturar imagens RGB e realizar a
+estimação da pose. O hardware escolhido foi a NVIDIA Jetson Nano, uma solução de hardware
+mais robusta de hardware embarcado. O software foi selecionado após um o levantamento dos
+principais algoritmos de estimação de pose com foco naqueles aplicados a sistemas embarcados,
+sendo o escolhido o tf-pose-estimation, algoritmo aplicado em plataforma semelhante a NVIDIA
+Jetson Nano. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / José Gomes da Silva Neto - Integrante.
+2019 - 2020
+Treinamento de robô em ambiente virtual usando técnicas de aprendizagem por reforço
+Descrição: Neste trabalho, é proposto um framework para treinar um robô em um ambiente
+virtual utilizando técnicas de Reinforcement Learning (RL), visando facilitar o uso deste tipo
+de abordagem na área de robótica. Mostrou-se a eficácia dessa proposta usando-se um
+algoritmo de RL chamado Proximal Policy Optimization (PPO) para ensinar uma tarefa de
+navegação com desvio de obstáculos estáticos a um TurtleBot 2i. O modelo treinado com
+esse pipeline foi robusto para ambientes totalmente novos, e também obteve resultados em
+ambientes reais semelhantes aos obtidos nos virtuais, contornando efeitos do reality-gap.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / Natália Souza Soares - Integrante.
+2019 - 2019
+Robotic Reinforcement Learning
+Descrição: Este projeto tem por objetivo o desenvolvimento de simulador integrado com
+visualização 3D capaz de utilizar algoritmos de aprendizagem de máquina para
+otimizar o controle robótico com vistas à rápida transposição para robôs reais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador.
+2019 - 2019
+Programa CIn de Parceria com Neoenergia em Open Innovation: Observatório Neoenergia - Futuro de Fernando de Noronha como  exemplo de Inovação e Sustentabilidade e Hackathon sobre Objetivos de Desenvolvimento Sustentável
+Descrição: Pesquisa e desenvolvimento de soluções visando desenvolvimento sustentável em Fernando de Noronha.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador.
+2018 - 2020
+HP NonflatAR
+Descrição: Pesquisa financiada pela HP Brasil Indústria e Comércio de Equipamentos
+Eletrônicos Ltda. com recursos provenientes da contrapartida da isenção ou redução do IPI
+conforme a Lei nº 8.248, de 1991 (Lei de Informática). O projeto HP - nonflatAR é fruto de
+uma parceira entre o Centro de Informática da UFPE, representado pelo Voxar Labs, e a
+multinacional Hewlett-Packard Inc. (HP) através da sua subsidiária local HP Brasil Indústria
+e Comércio de Equipamentos Eletrônicos Ltda. Esse projeto tem por objetivo investigar e
+construir novas técnicas de realidade aumentada/visão computacional com base em
+tecnologias recentes desenvolvidas pela empresa. Através deste projeto será possível
+construir soluções avançadas de realidade aumentada/visão computacional. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador / João Paulo Silva do Monte Lima - Integrante / Thiago Menezes - Integrante / Francisco Paulo Magalhães Simões - Integrante / Maria de Lourdes Timoteo Euzébio - Integrante / Heitor de Castro Felix - Integrante / Lucas Valença Rocha Martins Albuquerque - Integrante / Thiago Vinicius Machado de Souza - Integrante.
+2018 - 2019
+Desenvolvimento de Plataforma para Aprendizagem em Programação na Criação de Algoritmos Executados pelo Simulador da Soccer Simulation League
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / Gabriel Souza Marques - Integrante.
+2018 - 2018
+Licenciamento Piloto da Tecnologia pARagraph no Produto AlfaCon Notes
+Descrição: Pesquisa e desenvolvimento de técnias de reconhecimento de padrões de texto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador.
+2015 - 2018
+HP I3DPar
+Descrição: Pesquisa financiada pela HP Brasil Indústria e Comércio de Equipamentos
+Eletrônicos Ltda. com recursos provenientes da contrapartida da isenção ou redução do IPI
+conforme a Lei nº 8.248, de 1991 (Lei de Informática). O projeto HP - I3DPar é fruto de
+uma parceira entre o Centro de Informática da UFPE, representado pelo Voxar Labs, e a
+multinacional Hewlett-Packard Inc. (HP). Esse projeto tem por objetivo investigar e
+construir novas técnicas para o processo de impressão 3D com base em tecnologias
+recentes desenvolvidas pela multinacional norte-americana. Através deste projeto será
+possível construir objetos em impressoras 3D de forma cada vez mais precisa e eficaz.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Integrante / Thiago Menezes - Integrante / André Luiz Vieira e Silva - Integrante / Francisco Paulo Magalhães Simões - Integrante / Silvio Melo - Coordenador / Diogo Brandão Borborema Henriques - Integrante / Gutenberg Barros - Integrante / Walter Franklin Correia - Integrante / CHARAMBA, L. G. R - Integrante / DOMINGUES, T. A. L - Integrante / PENANTE, V. C. K - Integrante / Maria de Lourdes Timoteo Euzébio - Integrante.
+2014 - 2016
+Projeto de Criação e Implementação de uma Rede de Apoio  e Formação e de Diagnóstico Precoce da Pessoa com Deficiência Auditiva com uso de Inovações Tecnológicas no Estado de Pernambuco
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2014 - 2015
+Desenvolvimento de Modelo Computacional para Extração de Medidas de Vestuário a partir de Sensor de Profundidade
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / DIcksson Almeida - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2014 - 2015
+O Uso de TICs na Formação de LIBRAS no Estado de Pernambuco
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Coordenador / Márcio Campos Xavier de Souza - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2013 - 2017
+Pesquisa e Desenvolvimento de uma Ferramenta Tecnológica para Estudos Comparativos entre Métodos de Simulação Numérica Clássicos, de Partículas e Dados de Ensaios Experimentais no âmbito da Dinâmica de Embarcações Submersas em Fluidos Turbulentos
+Descrição: Este projeto propõe a realização de pesquisa e desenvolvimento de uma
+ferramenta que auxilie estudos comparativos de desempenho, precisão e estabilidade
+entre os métodos clássicos (MEF) e os métodos de partículas (SPH/MPS/PFEM) no âmbito
+da dinâmica de embarcações submersas em fluidos turbulentos, bem como análises de
+viabilidade de sua utilização em tais cenários. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador / Mozart William Santos Almeida - Integrante / Caio José dos Santos Brito - Integrante / Ronaldo Ferreira dos Anjos Filho - Integrante / MIRANDA SILVA, VINÍCIUS EMANUEL - Integrante / André Luiz Vieira e Silva - Integrante / José Maria Andrade Barbosa - Integrante / Jorge Lindoso - Integrante / Eduardo Falcão - Integrante / Mardel Bongiovanni de Conti - Integrante / César Augusto Salhua Moreno - Integrante / Carlos Eduardo Cavalcanti Macedo - Integrante.
+2013 - 2015
+Mudanças climáticas na Caatinga investigadas pelo biomonitoramento de uma grande congregação de morcegos no Parque Nacional do Catimbau, Pernambuco
+Descrição: Este projeto tem como objetivo principal estabelecer um sítio de
+biomonitoramento em uma grande congregação de morcegos em uma caverna localizada
+no bioma Caatinga, e avaliar as possíveis influências de variáveis climáticas sobre esta
+congregação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Integrante / RODRIGUES, EDUARDO - Integrante / BERNARD, ENRICO - Coordenador / Jaire Marinho Torres - Integrante.
+2012 - 2013
+Especificação de procedimentos de manutenção de equipamentos elétricos usando realidade aumentada
+Projeto certificado pelo(a) coordenador(a) Judith Kelner em 12/03/2013.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2010 - 2013
+Rastreamento de objetos em águas ultra profundas
+Projeto certificado pelo(a) coordenador(a) Judith Kelner em 12/03/2013.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2010 - 2011
+Hybrid model based markerless 3D tracking for augmented reality and visual servoing
+Descrição: project aims to handle the problem of monocular real-time 3D object
+tracking targeting augmented reality and visual servoing applications. Augmented reality
+and visual servoing may be applied to different scenarios, such as industrial assembly and
+maintenance support. Augmented reality can be useful to provide information on assembly
+and maintenance tasks performed by human operators. This information is superimposed
+on the real world image in real-time through an intuitive graphical interface, increasing
+efficiency and decreasing operation errors, costs, risks and time needed to perform theseCurrículo do Sistema de Currículos Lattes (Francisco Paulo Magalhaes Simoes)
+buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4268162U8&tokenCaptchar=03AOLTBLTgdmIFEz9l5AG3MDs1gu2KzlgtKk5XOyEwrBb? 6/14
+tasks. Visual servoing allows robotic systems to correctly position themselves relative to
+the target they have to manipulate in automated assembly and maintenance. These
+systems can be used in hostile environments and present accurate results with an overall
+low cost when compared to manpower. A hybrid model based markerless 3D tracking
+approach will be used, combining recursive tracking and tracking by detection, based on
+edges and textures, respectively. In order to speed up some time consuming steps of the
+3D tracking pipeline, graphics hardware will be exploited for massively parallel processing.
+This technique will allow automatic initialization and recovery from failures along with
+improved accuracy and robustness. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (7) . Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador / João Paulo Silva do Monte Lima - Integrante / Lucas Figueiredo - Integrante / Francisco Paulo Magalhães Simões - Integrante / Javier Ruiz-Del-Solar - Integrante / Eric Marchand - Integrante.
+2008 - 2009
+PBA: implementação em paralelo de simulação física baseada em pontos para GPU
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2007 - 2012
+Desenvolvimento de Tecnologias: Realidade Aumentada sem Marcadores e Reconstrução 3D
+Projeto certificado pelo(a) coordenador(a) Judith Kelner em 12/03/2013.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2006 - 2011
+SMARTCAM: uma câmera inteligente para aplicações de inspeção
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2006 - 2011
+miva: uma solução móvel, interativa, virtual e autônoma
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador.
+2006 - 2011
+Reactive: engine reativo de física
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2006 - 2006
+HapticCycle: construção de um dispositivo háptico de interação
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2005 - 2005
+CIDA: uma camade de abstração para dispositivos de interação
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Judith Kelner - Coordenador.
+2005 - 2005
+GeFighters: um jogo de luta baseado em gestos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Veronica Teichrieb - Coordenador.
+2004 - 2005
+Gateway VoIP
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcelo Xavier Natario Teixeira - Integrante / Djamel Sadok - Coordenador.

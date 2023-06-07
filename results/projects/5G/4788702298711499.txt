@@ -1,0 +1,51 @@
+2013 - 2015
+Segurança e Mobilidade com Alta Escalabilidade
+Projeto certificado pelo(a) coordenador(a) Wilson Vicente Ruggiero em 07/10/2014.
+Descrição: O projeto de pesquisa de Segurança e Mobilidade com Alta Escalabilidade tem por objetivo desenvolver novas tecnologias que impulsionem transações financeiras por meio de novos meios de pagamento ou de transferência de valores. Estas tecnologias devem estimular a expansão do acesso por meio de celulares, smartphones , cartões inteligentes e outros dispositivos eletrônicos de baixo custo, a segmentos da população brasileira que ainda não estão integrados no sistema bancário ou de comércio eletrônico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Regina Melo Silveira - Integrante / G Bressan - Integrante / W V Ruggiero - Coordenador / C B Margi - Integrante / Marcos Antônio Simplício Junior - Integrante / Pedro M. C. MASSOLINO - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2008
+GT Overlay - Redes de Serviços Sobrepostos
+Descrição: Este projeto tem como objetivo a investigação e especificação de uma rede de serviços sobrepostos, tendo como foco viabilizar a integração entre múltiplos serviços de distribuição de mídias. Para tanto, é considerada a rede RVD da RNP e a Plataforma de Gerência já elaborada nos GTs GTVD e GTGV.
+Resumidamente, o que se propõe, é a possibilidade de integração entre múltiplas instâncias da plataforma de gerência de distribuição de vídeo desenvolvida, através da otimização da transmissão das mídias entre cada instância e principalmente por toda a RVD da RNP, que representaria o backbone de toda a rede de serviços, viabilizando a operação de cada instância em escala nacional. 
+Para atingir tal objetivo, é necessário desenvolver uma infra-estrutura de serviços, cuja função, será prover mecanismos de gerenciamento e controle sobre os serviços existentes, minimizando problemas decorrentes de sobrecarga de controle e otimizando as transmissões de fluxos de mídias inter-domínios, possibilitando assim o aumento da escalabilidade da solução.
+De forma a prover o aumento da escalabilidade citada, bem como prover uma maior robustez de toda a solução, uma segunda frente do trabalho, será tratar de melhorias específicas no âmbito das soluções já desenvolvidas.
+Para a análise da infra-estrutura de serviços a ser desenvolvida, uma terceira e última frente do trabalho será a de implantar dentro das possibilidades do PlanetLab, a rede overlay de serviços, de forma a validar e avaliar a mesma.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Regina Melo Silveira - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2004 - 2006
+TIDIA-Ae - Apredizado Eletronico (FAPESP)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Regina Melo Silveira - Coordenador.
+2004 - 2006
+Kyatera - Rede Optica (Tidia - FAPESP)
+Descrição: KyaTera é um projeto cooperativo visando o estabelecimento de uma rede de fibra óptica interligando laboratórios de pesquisa para o estudo, desenvolvimento e demonstração de tecnologias e aplicações da Internet Avançada. 
+A rede será baseada no conceito de fibras apagadas chegando diretamente até os laboratórios. Neste documento nos referiremos a este conceito de fibra até o laboratório como FTTLab (Fiber-To-The-Lab) e ao laboratório conectado como um WebLab. Mais precisamente, o termo WebLab será utilizado aqui para identificar um laboratório de pesquisa ou ensino superior em qualquer área do conhecimento e que disponibiliza o acesso às suas facilidades laboratoriais pela Internet acadêmica. Portanto, neste projeto estarão participando não somente a grupos de pesquisa nas tecnologias envolvidas na rede mas, inclusive, grupos de excelência em todas as ciências experimentais, caracterizados por terem coordenado Projetos Temáticos ou centros CEPID da Fapesp. 
+Os temas de pesquisa da primeira fase do projeto estão organizadas em três camadas:
+1- Camada física: Comunicações ópticas (Sistemas de Transmissão e Redes),
+visando estabelecer uma infra-estrutura óptica entre laboratórios nos campi universitários ou centros de pesquisa e desenvolvimento públicos ou privados,
+bem como desenvolver pesquisas nesta infra-estrutura em tópicos tais como:
+·	Transmissão de sinais em fibras ópticas;
+·	Redes ópticas;
+·	Dispositivos para redes fotônicas;
+·	Rede externa.
+2- Camada de transporte: Redes de computadores, visando desenvolver uma
+camada de transporte de informação sobre a infra-estrutura de fibras ópticas do
+Projeto, bem como desenvolver pesquisas de redes Internet em assuntos como:
+·	Redes de acesso a super-rodovias da informação;
+·	Gerenciamento, supervisão e monitoramento de redes ópticas;
+·	Protocolos, padrões de interface e interoperabilidade em comunicação
+óptica;
+·	Qualidade de serviço e segurança de redes.
+3- Camada de Aplicação: Automação e. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Regina Melo Silveira - Integrante / Tereza Cristina Melo de Brito Carvalho - Coordenador / Wilson vicente Ruggiero - Integrante / Márcio Silva - Integrante / Gélio Mendes Ferreira - Integrante / Ivo Brassolatti - Integrante / Caue Alvarez - Integrante / Jaime de Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2002 - 2004
+TVoD - Sistema de Multimídia sob Demanda para Distribuição de Material Digital das TVs Educativas (CNPq)
+Descrição: O objetivo principal deste projeto foi a definição e implantação de uma infra-estrutura mínima necessária para a digitalização de material de áudio e vídeo analógico para que se possa iniciar um processo de modernização da TV Cultura, de forma a poder disponibilizar seu conteúdo junto a RMAV-SP. Além disso, o projeto permitiu fazer pesquisa e desenvolver uma metodologia de produção digital, edição não-linear, digitalização, compressão, armazenamento, organização da hierarquia de memória e de acesso seguro a esses acervos. Essa metodologia foi transferida para a TV Cultura e, a partir da integração do sistema de vídeo sob demanda a RMAV-SP, o material digitalizado pode ser acessado por estudantes, professores e pesquisadores de diversas universidades brasileiras.
+Outra questão relevante na digitalização e disponibilização de conteúdo digital está relacionado as buscas através de palavras chaves ou através de características da mídia em questão. Um sistema de armazenamento de informação deve ser eficiente na busca e recuperação do conteúdo, para isso é necessário escolher uma técnica eficiente de indexação. Esta problemática foi também tema de estudo e pesquisa dentro do contexto do sistema de multimídia sob demanda.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Regina Melo Silveira - Coordenador.Número de produções C, T & A: 2
+2002 - 2004
+I2TV- Infra-estrutura Internet2 para Desenvolvimento e Teste de Programas e Ferramentas para TV Interativa (CNPq)
+Descrição: O projeto I2TV tem por objetivo dar suporte a formação de um consórcio para desenvolvimento e teste de aplicações e ferramentas para TV Interativa em ambiente Internet2. Fazem parte do consórcio as universidades UFRN, PUC-Rio, USP-SP e UFSC e as emissoras de televisão TVU-RN, TVE-RJ, TV Cultura-SP e TV Cultura-SC. O projeto prevê o estudo dos três componentes essenciais em aplicações interativas de vídeo digital em banda larga: a geração de conteúdo, os exibidores (formatadores) temporais, presentes nos set-top boxes, e os sistemas (redes) de suporte a distribuição.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Mestrado profissional: (1) . Integrantes: Regina Melo Silveira - Coordenador.
+2000 - 2001
+LDVD - LABORATÓRIO DISTRIBUÍDO DE VÍDEO SOB DEMANDA (FAPESP)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Regina Melo Silveira - Coordenador.
+1997 - 1999
+Projeto RMAV-SP (Internet 2) (CNPq/RNP)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Regina Melo Silveira - Coordenador.

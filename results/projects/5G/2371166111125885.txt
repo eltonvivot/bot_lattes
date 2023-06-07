@@ -1,0 +1,14 @@
+2016 - Atual
+Ultra reliable communications for 5G and beyond
+Descrição: Performance analysis of MTC communications in scenarios that require ultra high reliability and ultra low latency, such as in autonomous driving. 
+We aim to provide new protocols and provide fundamental insights on the design of communication links with short block messages constrained to high reliability and low latency.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (2)  / Doutorado: (1) . Integrantes: Hirley Alves - Coordenador.
+2015 - 2016
+Performance analysis of Full-Duplex Networks
+Descrição: Analysis of the performance of full-duplex networks in large heterogeneous deployments, we aim at characterizing the aggregated interference, outage probability and achievable rates.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Hirley Alves - Coordenador.
+2011 - 2015
+On the Performance and Energy Efficiency Analysis of Full-Duplex Schemes
+Descrição: We focus on cooperative communication schemes with practical Full-Duplex (FD) relays. Although FD
+schemes seems to be very attractive, ideal FD operation is often not possible since, in practice, transmitted power is
+normally much larger than received power which turns the isolation a difficult task. Fortunately, practical FD relays
+are being proposed and the power leakage between transmitted and received signals, known as self-interference,
+can be mitigated which makes FD schemes feasible. Our doctoral research we aim to propose and analyze energy efficient FD strategies capable of achieving maximal performance in order to guarantee a target level of quality of service (QoS) with reduced power consumption. Besides the performance analysis, which is carried out through an analytical framework, we also investigate the use of FD schemes under different scenarios, e.g., heterogeneous and cognitive networks, as well as under PHY security constraints.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Hirley Alves - Coordenador / Richard Demo Souza - Integrante / Matti Latva-aho - Integrante.Financiador(es): Infotech Oulu Graduate School - Bolsa.

@@ -1,0 +1,50 @@
+2021 - Atual
+MC MEL - Meninas, Computação, Música e Eletrônica
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Carlos Nascimento Silla Junior - Coordenador / Andreia Malucelli - Integrante / Dilmeire Sant'Anna Ramos Vosgerau - Integrante.
+2016 - Atual
+Um Sistema de Recomendação de Partituras Para Apoiar o Aprendizado Musical
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Carlos Nascimento Silla Junior - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - Atual
+Meninas, Computação e Música
+Descrição: ***Edital MCTI/CNPq/SPM-PR/Petrobras Nº 18/2013 - Meninas e Jovens Fazendo Ciências Exatas, Engenharias e Computação***.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carlos Nascimento Silla Junior - Coordenador / Andre Luiz Przybysz - Integrante / Adriano Rivolli da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Plataforma Villa-Lobos
+Descrição: ***Edital CNPq/SEC/MinC Nº 80/2013***. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Nascimento Silla Junior - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2016
+Desenvolvendo um jogo educativo e interativo para o treinamento de leitura e execução de partituras musicais
+Descrição: ***Edital CNPq/Vale S.A. Nº 05/2012 - Forma Engenharia***. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Carlos Nascimento Silla Junior - Coordenador / Andre Luiz Przybysz - Integrante / André Maurício dos Santos - Integrante / Carlos Alberto Luchini da Silva - Integrante / Alexandre Wosiach Mazieri - Integrante / Halanna Kevilyn Fonseca - Integrante / Gustavo Galdino de Campos - Integrante / Viviane Aparecida Gobetti - Integrante / Rafael Wilson Dantas da Silva - Integrante / Wellington Vida Leal - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Universidade Tecnológica Federal do Paraná - Bolsa.
+2013 - Atual
+Classificação Hierárquica em Diferentes Domínios de Aplicação
+Descrição: Este projeto tem como objetivo o desenvolvimento de novos algoritmos e métodos para a tarefa de classificação hierárquica em diferentes domínios de aplicação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (1) . Integrantes: Carlos Nascimento Silla Junior - Coordenador.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+2012 - Atual
+Classificação Automática de Gêneros Musicais Utilizando Informações Complementares ao Sinal de Áudio das Músicas
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Carlos Nascimento Silla Junior - Coordenador / Murilo Augusto de Paula Almeida - Integrante / Ricardo Corassa - Integrante / Hanna Carolina Batalha Piccoli - Integrante / Rafael do Prado Ribeiro - Integrante / Carolina Lourenço dos Santos - Integrante / Lucas Martiniano de Oliveira - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 7
+2009 - 2012
+Classificação de Cantos de Pássaros Brasileiros: Uma Abordagem Baseada em Aprendizagem de Máquina
+Descrição: O objetivo do projeto é o desenvolvimento de um sistema computacional autônomo que permita a identificação da fauna ornitológica presente em uma determinada região ou ecossistema. O sistema será fundamentado nos conhecimentos advindos da área de descoberta de conhecimento e aprendizagem de máquina, considerando a identificação de um pássaro a partir de seu canto como uma tarefa de classificação. O sistema deverá ser construído de forma exigir um mínimo de intervenção humana e ter um desempenho satisfatório sob o ponto de vista da identificação.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Nascimento Silla Junior - Integrante / Celso Antonio Alves Kaestner - Coordenador / Alessandro Lameiras Koerich - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2011
+Novas Abordagens para Problemas de Classificação Hierárquica com Estudos de Caso na Tarefa de Predição de Função de Proteinas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Nascimento Silla Junior - Coordenador / Alex Alves Freitas - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2005 - 2008
+Análise e Projeto de Sistemas Multi-Classificadores para Aplicações em Larga Escala
+Projeto certificado pelo(a) coordenador(a) Alessandro Lameiras Koerich em 08/04/2013.
+Descrição: Desenvolver um estudo teórico e prático da combinação de classificadores homogêneos e heterogêneos para a resolução de problemas complexos de classificação, ou seja, problemas envolvendo vetores de características de dimensão elevada, um grande número de classes e grandes conjuntos de dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Mestrado acadêmico: (3) . Integrantes: Carlos Nascimento Silla Junior - Integrante / Alessandro Lameiras Koerich - Coordenador / Pedro Rodolfo Kalva - Integrante / Thiago Eduado Szczepanik - Integrante / Melanie Young Yee - Integrante.
+2003 - 2007
+Uma Abordagem Multimodal para a Análise de Conteúdo Multimídia
+Projeto certificado pelo(a) coordenador(a) Alessandro Lameiras Koerich em 08/04/2013.
+Descrição: O objetivo geral do projeto é o de desenvolver um sistema para análise de conteúdo multimídia que possa ser integrado a uma base de dados multimídia visando facilitar o gerenciamento, a busca e a recuperação de informações. Este sistema de análise deverá, entre outras facilidades, prover tarefas de busca e recuperação multimodal de informações sobre grandes conjuntos de conteúdo multimídia. Os objetivos em curto prazo deste projeto de pesquisas são explorar técnicas para a representação de objetos multimídia, recuperação de informações multimídia e desenvolver mecanismos para indexação eficiente em espaços de atributos de alta dimensão. A médio termo, os objetivos serão de continuar a explorar técnicas de representação de objetos multimídia e recuperação de informações multimídia com modelos integrados que possam compreender múltiplos tipos de mídia para uma recuperação integrada e multimodal. A longo termo, os objetivos serão de introduzir ferramentas de datamining multimídia, sumarização automática de vídeo, watermarking para controle de autoria, e sistemas de acesso seguros baseados em tecnologia biométrica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Carlos Nascimento Silla Junior - Integrante / Alessandro Lameiras Koerich - Coordenador / Pedro Rodolfo Kalva - Integrante / Cleverson Poitevin - Integrante / Carlos Humberto Lopes Costa - Integrante / Thiago Eduado Szczepanik - Integrante / Reedlei Nagornni Junior - Integrante / Guilherme Simião Ferreira - Integrante / Melanie Young Yee - Integrante / Elson Renato França - Integrante.
+2003 - 2004
+Estudo sobre extração inteligente de informações utilizando aprendizado de máquina
+Descrição: Este projeto tinha como objetivo o estudo de diversas técnicas de extração inteligente de informações, para realizar atividades específicas. A tarefa de extração de informações consiste em, a partir de um documento não estruturado (texto livre sem nenhuma formatação) ou semi-estruturado (páginas html), obter dados específicos de forma a preencher um conjunto ou tabela de informações. Por exemplo, no contexto deste projeto, a partir de notícias esportivas obtidas na Internet obter informações relevantes sobre a partida do jogo de futebol (Times, Placar Final, etc.).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Nascimento Silla Junior - Integrante / Celso Antonio Alves Kaestner - Coordenador / Andre Gustavo Hochuli - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2002 - 2003
+Contribuição ao estudo de técnicas para sumarização automática de textos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Nascimento Silla Junior - Integrante / Celso Antonio Alves Kaestner - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2001 - 2002
+Projeto IDOC - PADCT III
+Descrição: Projeto IDOC (Gestão de Conhecimento baseada em Gestão de Documentos) visando o desenvolvimento de tencologias para gestão de documentos a ser incorporadas pela empresa Polo de Software de Curitiba SA, em seu produto GlobalDoc.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Carlos Nascimento Silla Junior - Integrante / Celso Antonio Alves Kaestner - Integrante / Carlos Alberto Heuser - Coordenador / Douglas Renaux - Integrante / Bráulio Coelho Ávila - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

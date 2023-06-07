@@ -1,0 +1,155 @@
+2020 - Atual
+Economia Bancária
+Descrição: Desenvolvimento de três pesquisas discutindo temas como (i) fintechs, (ii) depósito compulsório e risco bancário. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Herbert Kimura - Integrante / Daniel Oliveira Cajueiro - Coordenador / Régis Augusto Ely - Integrante.Financiador(es): Federação Brasileira de Bancos - Bolsa.
+2019 - Atual
+Inteligência Artificial Aplicada a Gestão de Projetos de Defesa
+Descrição: Este projeto está inserido no âmbito do Grupo de Pesquisa Inteligência e Projetos em Defesa da UnB, credenciado no CNPq. O objetivo do projeto envolve o desenvolvimento e a aplicação de técnicas de inteligência artificial para aprimoramento da gestão de projetos na área de defesa. Tendo em vista a complexidade e dos recursos vultosos de projetos de defesa, essa pesquisa busca contribuir, por meio de ciência de dados, para o desenvolvimento, sob perspectivas teóricas e práticas, de técnicas e modelos de gerenciamento de projetos, programas e portfólios.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador.
+2018 - Atual
+Plataforma Computacional para Análise de Risco de Crédito
+Descrição: Este projeto tem como objetivo principal o desenvolvimento de uma plataforma computacional para análise e simulação de modelos de gestão de risco de crédito. O sistema será disponibilizado online e o usuário poderá interagir coma plataforma, dada sua construção usando o pacote Shiny do R e o Python. A partir de dados de bases já consolidadas pelo grupo de pesquisa bem como de dados levantados por meio de scraping em redes sociais e em websites que consolidam informações sobre contratos e processos, serão desenvolvidos modelos diversos de gestão de riscos de crédito. Mais especificamente, serão implementados modelos de análise empírica e de simulação computacional que permitem o estudo de elementos de risco de crédito como escore de crédito, previsão de falência, PD (Probability of Default), LGD (Loss GivenDefault), EAD (Exposure at Default) e CVA (Credit Valuation Adjustment).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Herbert Kimura - Coordenador / Daniel Cajueiro - Integrante / Eduardo Kazuo Kayo - Integrante / Leonardo Fernanco Cruz Basso - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2019
+Estudo de Projetos de Alta Complexidade: Indicadores de Parques Tecnológicos - Fase 2
+Descrição: Atualização de dados sobre o panorama de Parques Científicos e Tecnológicos no Brasil. Pesquisa conduzida em parceria com o Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (1) . Integrantes: Herbert Kimura - Coordenador / ROSANO-PEÑA, CARLOS - Integrante / Vinicius Amorim Sobreiro - Integrante / Leonardo Fernanco Cruz Basso - Integrante / Daniel Oliveira Cajueiro - Integrante.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Cooperação.
+2015 - 2016
+Desenvolvimento, consolidação e melhoria da infraestrutura da Multincubadora de Empresas da Universidade de Brasília
+Descrição: Aprimoramento da infra-estrutura da Multincubadora da Universidade de Brasília. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador.
+2014 - 2015
+Comportamento de Agentes e sua Influência em Preços de Ativos em Mercados de Capitais Artificiais
+Descrição: Investigação de aspectos de eficiência de mercado através de uma abordagem baseada em análise de estratégias de trading.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador.
+2013 - 2016
+Modelos Computacionais de Aprendizagem de Máquina em Análise de Riscos Financeiros
+Descrição: Este trabalho tem por objetivo o desenvolvimento de modelos voltados para a análise do risco de crédito de carteiras de varejo. Mais especificamente, através da implementação de algoritmos de aprendizagem de máquina, este estudo busca avaliar possíveis mecanismos de aprimoramento da capacidade de distinção entre bons e maus pagadores em empréstimos da carteira de varejo. Assim, será pesquisada a adequação do uso, em mecanismos tradicionais de application scoring, notadamente a análise discriminante e a regressão logística, dos métodos ensemble de bagging e boosting.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador.
+2013 - 2015
+Estudo de Projetos de Alta Complexidade: Indicadores de Parques Tecnológicos
+Descrição: Pesquisa realizada conjuntamente com o Ministério da Ciência, Tecnologia e Inovação para traçar o panorama nos parques tecnológicos no Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Herbert Kimura - Coordenador.
+2012 - 2015
+Ambiente Virtual de Mercado de Capitais Artificial com Modelagem Baseada em Agentes
+Descrição: Esta pesquisa contribui para o estudo de eficiência informacional através de uma abordagem alternativa, por meio do uso de técnicas de simulação em mercados de capitais artificiais e da implementação computacional de modelos baseados em agentes. Os comportamentos ou processos de decisão básicos de agentes são modelados e suas interações e impactos nos preços são analisados, sem a influência de variáveis não-controladas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador / Kayo, Eduardo K. - Integrante / LIMA, Fabiano Guasti - Integrante / Leonardo Fernando Cruz Basso - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2014
+Mecanismos de Gestão de Riscos para Desenvolvimento do Financiamento de Imóveis de Interesse Social
+Descrição: Os objetivos desta pesquisa são estudar as condições para o desenvolvimento do financiamento de imóveis de baixa renda, através de uma abordagem geral e desenvolver modelos quantitativos e programar algoritmos para precificação e avaliação de riscos de carteiras de crédito imobiliário considerando peculiaridades dos  tomadores de financiamento de imóveis. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador.
+2011 - 2013
+Precificação do Risco de Crédito da Contraparte: Aspectos de Modelagem Teórica e de Implementação Computacional
+Descrição: O problema de pesquisa, voltado a precificação do CCR, envolve dois desafios principais: (i) o estabelecimento de modelos probabilísticos teóricos que permitam avaliar o risco de crédito da contraparte em situações de dependência não-triviais entre variáveis que impactam o valor de carteiras de derivativos e (ii) as adaptações necessárias para a implementação computacional que viabilizem o uso prático dos modelos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Herbert Kimura - Coordenador / Eduardo Kazuo Kayo - Integrante / Vladimir Belitsky - Integrante / LIMA, Fabiano Guasti - Integrante / PERERA, L. C. J. - Integrante / Leonardo Fernando Cruz Basso - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2012
+Métodos Computacionais na Gestão de Riscos de Crédito
+Descrição: Este projeto tem por objetivo o desenvolvimento de um sistema de análise de risco de crédito baseado em métodos ensemble. Realiza-se a comparação entre mecanismos tradicionais de análise de crédito (análise discriminante e regressão logística) e métodos de aprendizagem de máquina (bagging e boosting). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Herbert Kimura - Coordenador / Leonardo Fernando Cruz Basso - Integrante / Kayo, Eduardo K. - Integrante / PERERA, L. C. J. - Integrante.Financiador(es): Fundo Mackenzie de Pesquisa - Auxílio
+										financeiro.
+2010 - 2011
+Análise da Dinâmica do Mercado de Capitais através de Modelos Baseados em Agentes
+Descrição: Este projeto envolve desde a modelagem matemática e a análise
+empírica de fenômenos financeiros até o desenvolvimento de algoritmos para
+simulação de comportamento de agentes em um mercado de capitais artificial.
+O objetivo principal da pesquisa é a investigação, através de um procedimento
+de simulação computacional, de um modelo teórico para avaliar a sub-reação ou
+a sobre-reação de mercados de capitais. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador / Fabiano Guasti Lima - Integrante / Kayo, Eduardo K. - Integrante / PERERA, L. C. J. - Integrante / Leonardo Fernando Cruz Basso - Integrante.Financiador(es): Fundo Mackenzie de Pesquisa - Auxílio
+										financeiro.
+2010 - 2011
+Gestão de Riscos de Crédito no Brasi
+Descrição: Projeto voltado para análise de risco de crédito através de técnics
+de amostragem e modelagem. O objetivo do projeto é a construção de um
+modelo dinâmico de análise de crédito. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Integrante / Fabiano Guasti Lima - Integrante / Roberto Borges Kerr - Integrante / PERERA, L. C. J. - Coordenador.
+2009 - 2013
+Gestão de Riscos e Derivativos
+Descrição: Este projeto tem por objetivo investigar as formas de gestão de
+riscos em empresas financeiras e não-financeiras bem como analisar
+mecanismos de mensuração de riscos. São estudados os principais tipos de
+riscos financeiros: risco de mercado, risco de crédito, risco de liquidez e risco
+operacional. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Herbert Kimura - Coordenador.
+2009 - 2011
+Sistema para Mensuração de Riscos Operacionais em Instituições Financeiras
+Descrição: Esta pesquisa visa aprofundar a discussão sobre riscos
+operacionais, principalmente no que concerne à mensuração. Considerando a
+aplicabilidade da pesquisa para o mercado brasileiro, foi desenvolvido um
+conjunto de ferramentas computacionais que possibilitam a estimação do risco
+operacional e a exigência de capital em instituições financeiras. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador / Fabiano Guasti Lima - Integrante / Kayo, Eduardo K. - Integrante / Leonardo Fernando Cruz Basso - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2010
+Análise Comparativa entre os Modelos KMV de Merton e CreditRisk+ para Gestão de Riscos de Carteiras de Crédito
+Descrição: Esta pesquisa tem por objetivo realizar uma investigação da sensibilidade e da acurácia de dois modelos de mensuração de riscos de carteiras de crédito: o KMV,
+desenvolvido pela Moody s KMV, e o CreditRisk+, proposto pelo Credite Suisse
+Financial Products. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Herbert Kimura - Coordenador / Rafael Felício Mileo Neto - Integrante.Financiador(es): Experian Serasa - Bolsa.
+2008 - 2010
+Capital Intelectual e Criação de Valor nas Empresas Brasileiras
+Descrição: Este projeto tem por objetivo avaliar empiricamente a influência do
+capital intelectual na criação de valor em empresas brasileiras. Através da
+discussão de modelos de mensuração de capital intelectual, são identificadas
+variáveis representativas do capital intelectual e confrontadas com medidas de
+criação de valor. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Integrante / Carla Camargo Leal - Integrante / Waleska Andreza Ferreira - Integrante / Leonardo Fernando Cruz Basso - Coordenador.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Estratégias Competitivas para Mitigar Riscos e Agregar Valor às Empresas
+Descrição: O projeto objetiva estudar estratégias de valorização das empresas
+na realidade contemporânea, considerando o contexto de uma cadeia de
+valores extensa e complexa, em um ambiente internacional de intensa
+competitividade. O projeto pretende abranger estudos nos diversos processos
+que podem levar à valorização das empresas, como administração de ativos e
+passivos, investimentos, fusões e aquisições, análise de custos,
+desenvolvimento de sistemas, etc. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Integrante / PERERA, L. C. J. - Coordenador.
+2006 - 2008
+Intangibility and Value Creation in Mergers & Acquisitions
+Projeto certificado pelo(a) coordenador(a) Eduardo Kazuo Kayo em 19/08/2013.
+Descrição: Pesquisas anteriores sugerem que, na média, as operações de
+fusões & aquisições (F&A) proporcionam retorno nulo ou até mesmo negativo
+para os acionistas das empresas adquirentes. O objetivo deste projeto é
+analisar o papel da intangibilidade das adquirentes na criação de valor em
+eventos de F&A partindo da premissa de que aquele fator seja importante para
+explicar os retornos nessas operações. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Integrante / Mauricio Réa Patrocínio - Integrante / Anju Seth - Integrante / Kayo, Eduardo K. - Coordenador.Financiador(es): Fundo Mackenzie de Pesquisa - Auxílio
+										financeiro.
+2006 - 2007
+Teoria de Prospectos e Gerenciamento de Riscos: Implicações para a Área de Seguros
+Descrição: O objetivo desta obra é realizar um levantamento sobre elementos
+comportamentais que afetam a decisão por seguros e discutir alguns modelos
+teóricos para avaliar a demanda por seguros. Destaca-se que o foco do
+trabalho envolve modelos baseados na teoria da utilidade esperada e na teoria
+do prospecto. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador.Financiador(es): Fundação MAPFRE - Bolsa.
+2006 - 2007
+Modelagem de Sistema de Estimação do Cash Flow at Risk
+Descrição: Este projeto tem como meta o desenvolvimento de um software
+composto por um módulo financeiro que possibilite mensurar, avaliar e simular
+riscos financeiros, incorporando as principais características de empresas
+brasileiras com interesse em exportação. Em especial, o parâmetro de risco a
+ser investigado é o Cash Flow at Risk... Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Integrante / Diógenes Manoel Leiva Martin - Coordenador / Gabriel Marchesini - Integrante / Leonardo Fernando Cruz Basso - Integrante.Financiador(es): Fundo Mackenzie de Pesquisa - Auxílio
+										financeiro.
+2004 - 2005
+Avaliação e Gestão de Ativos Intangíveis
+Projeto certificado pelo(a) coordenador(a) Eduardo Kazuo Kayo em 19/08/2013.
+Descrição: Este projeto de pesquisa tem por objetivo analisar a influência de
+diversos ativos intangíveis (marcas, patentes, pesquisa & desenvolvimento,
+etc) sobre a criação de valor das empresas brasileiras. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Herbert Kimura - Integrante / Chang Chuan Teh - Integrante / Mauricio Réa Patrocínio - Integrante / Luiz Metzker Correa - Integrante / Kayo, Eduardo K. - Coordenador.Financiador(es): Fundo Mackenzie de Pesquisa - Auxílio
+										financeiro.
+2004 - 2005
+Planos de Remuneração Variável e Criação de Valor para Acionistas
+Descrição: Esta pesquisa estudou se os fatores de sucesso previstos pela
+teoria de finanças estão presentes nos planos de remuneração baseados em
+opções implementados por empresas no Brasil. Foram realizadas pesquisa
+empírica junto a empresas e funcionários bem como desenvolvido um sistema
+que permite a precificação de stock options a partir de diversos modelos
+matemáticos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador / Elisabeth Krauter - Integrante / Leonardo Fernando Cruz Basso - Integrante.Financiador(es): Fundo Mackenzie de Pesquisa - Auxílio
+										financeiro.
+2003 - 2004
+Valoração da Inovação Tecnológica através das Opções Reais
+Descrição: Este projeto tem por objetivo o desenvolvimento de modelos
+matemáticos e de algoritmos computacionais que permitam a análise de valor e
+de difusão de inovaçõs tecnológicas. Através de conceitos de opções reais
+foram identiicados instantes ótimos de adoção de inovações e, a partir de
+modelos de difusão, estudados como a tecnologia pode se difundir no
+mercado. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Coordenador / Leonardo Fernando Cruz Basso - Integrante / Diógenes Manoel Leiva Martin - Integrante / Kayo, Eduardo K. - Integrante / PERERA, L. C. J. - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2003
+Utilização de Derivativos de Crédito como Mitigantes de Risco no Brasil
+Descrição: Esta pesquisa tem por objetivo o levantamento atual da utilização
+dos instrumentos derivativos - em especial dos derivativos de crédito - pelas
+instituições financeiras bancárias e não-bancárias brasileiras, procurando
+identificar: (i) a percepção da utilidade dos instrumentos derivativos, (ii) a
+capacitação operacional dos analistas, (iii) os principais instrumentos utilizados,
+(iv) a intensidade com que os instrumentos são utilizados, (v) as expectativas
+quanto ao desenvolvimento do mercado brasileiro de derivativos de crédito. Situação: Concluído; Natureza: Pesquisa. Integrantes: Herbert Kimura - Integrante / Sérgio Ishikawa - Integrante / PERERA, L. C. J. - Coordenador.Financiador(es): Universidade Presbiteriana Mackenzie - Auxílio
+										financeiro.
+2000 - 2001
+Uso de Derivativos por Empresas Brasileiras Não-financeiras
+Descrição: Através de questionário baseado em uma pesquisa da Wharton School, foram investigados os principais aspectos de gestão de riscos em empresas não-financeiras conduzindo negócios no Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Herbert Kimura - Coordenador.Financiador(es): Fundação Getulio Vargas - SP - Auxílio
+										financeiro.Número de produções C, T & A: 13

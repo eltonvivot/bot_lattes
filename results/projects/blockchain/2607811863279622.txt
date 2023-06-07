@@ -1,0 +1,61 @@
+2021 - Atual
+Monitor Fiscal TCE/CE
+Descrição: O projeto busca aprimorar os mecanismos e a capacidade de análise e
+projeção de dados das contas públicas estaduais e municipais já existentes no
+TCE/CE, mediante o desenvolvimento de novas ferramentas de sistematização e
+disponibilização de dados das contas públicas estaduais e municipais. A partir de
+técnicas de análise e integração de dados, em bases públicas e/ou custodiadas, serão
+utilizados modelos computacionais descritivos/preditivos para tentar antecipar
+possíveis deteriorações nas contas públicas estaduais e municipais. Deste modo o
+TCE/CE pode emitir alertas com maior frequência e antecedência.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Raimir Holanda Filho - Coordenador.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2021 - Atual
+MORPLEXA - MOdelagem baseada em Redes comPLEXas da disseminação de Ameaças cibernéticas emergentes.
+Descrição: O objetivo geral deste projeto é o desenvolvimento de uma nova abordagem para automaticamente identificar ameaças cibernéticas emergentes (malware?s), suas táticas e técnicas empregadas e modelar o seu perfil de contaminação utilizando redes complexas, em especial, modelos matemáticos baseados em  processos epidêmicos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Raimir Holanda Filho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2014
+CIA2-Construindo Cidades Inteligentes da Instrumentação dos Ambientes ao Desenvolvimento de Aplicações
+Descrição: O projeto se propõe a construir uma infraestrutura de instrumentação, computação e comunicação para viabilização de Cidades Inteligentes, abrangendo desde a aquisição dos dados urbanos brutos por meio de tecnologias de redes de sensores e internet das coisas, a comunicação, o armazenamento, e o acesso a esses dados através de diferentes tecnologias e protocolos de redes sem fio, até a construção de aplicações que se beneficiem de toda essa infraestrutura, suportando uma melhor gestão pública e do meio ambiente e agregando valor ao cidadão. Para isso, o projeto é composto por 8 metas, divididas em 3 vertentes principais para criação dos serviços para as cidades inteligentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Raimir Holanda Filho - Integrante / Aldri L dos Santos - Coordenador.
+2010 - 2010
+DeLAtoR - Detecção e localização de disparos de armas baseado em redes de sensores sem fio
+Descrição: Detecção e localização de disparos de armas baseado em redes de sensores sem fio. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Raimir Holanda Filho - Coordenador.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+MOVERES: Sistema de Monitoramento Veicular Através de Redes de Sensores sem Fio. Projeto financiado pela FINEP (Edital Subvenção Economica a Inovacao - 01/2007)
+Descrição: A idéia do projeto é utilizar a tecnologia de Rede de Sensores sem Fio (RSSF), para gerenciar o sistema de transporte coletivo em grandes centros urbanos. para tanto, cada onibus deve ter instalado sensores com capacidade para coletar e transmitir dados. Assim, o gestor publico obterá informações fundamentais para tomada de decisão sobre o sistema viario publico atraves de conslustas que serao disponibilizadas ao sistema. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Raimir Holanda Filho - Coordenador / Angelo brayner - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2009 - 2011
+LaboR - Laboratorio de Redes de Sensores sem Fio
+Descrição: Laboratório de Redes de Sensores sem Fion. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Raimir Holanda Filho - Coordenador / Angelo brayner - Integrante / Placido Rogério Pinheiro - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+Promoção da saúde através de uma infraestrutura para redes móveis em aplicaçoes de telemedicina e visalizacao colaborativa. Projeto financiado com recursos da FUNCAP.
+Descrição: O objetivo geral deste projeto é prover uma infraestrutura de rede sem fio segura e organizada em malha que possibilite o desenvolvimento de soluções para a área de saúde, este as quais: realizacao de coleta de dados clínicos de saúde, pré-diagnósticos apoiados por sistemas inteligentes e aplicações gráficas, geração de ambientes virtuais para visualização interativa e colaborativa em Telemedicina, utilizando computadores pessoais e dispositivos móveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Raimir Holanda Filho - Integrante / Maria Andréia Formico Rodrigues - Coordenador / Helber Wagner da Silva - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2011
+Especificaçao de uma arquitetura de gerenciamento distribuído para RSSF. Projeto de Pesquisa cadastrado na Unifor.
+Descrição: Desenvolver uma arquitetura de gerenciamento distribuído aplicado a redes de sensores sem fio, envolvendo aspectos relacionados a seguranca. Subprojeto pertencente ao projeto guarda-chuva denominado LARES - Instalação de um laboratório de pesquisa em redes de sensores sem fio.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Raimir Holanda Filho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+Seleção Dinâmica de Algoritmos de Roteamento em RSSF baseada na Análise dos Parâmetros e nas Condições Ambientais.
+Descrição: Este projeto visa como objetivo principal, realizar um estudo comparativo entre os protocolos de Roteamento de uma Rede de Sensores sem Fio ? RSSF, a fim de selecionar, de forma dinâmica, o algoritmo mais eficaz a ser utilizado para aplicações específicas, levando em consideração os parâmetros e as condições ambientais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Raimir Holanda Filho - Coordenador / Harilton da Silva Araujo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+FATADIST - Uma Ferramenta para Classificação de Tráfego de Ataques. Projeto financiado com recursos do Edital AT - CNPq
+Descrição: Este projeto propoes um método de classificação de diferentes tipos de ataques baseado na utilizacao de metodos estatísticos multivariados. Esta abordagem permite a identificação de trafegos de ataque a partir da utilização de um pequeno grupo de discriminantes estatísticos e análise de agrupamento. Projeto abtido atraves de edital CNPq no 04/2008 - Apoio Técnido.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Raimir Holanda Filho - Coordenador / Victor Pasknel de Alencar Ribeiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2007 - 2009
+CLASTRIN - Um Classificador de Tráfego Internet baseado em Discriminantes Estatísticos. Projeto financiado com recursos do Edital Universal - CNPq
+Descrição: O projeto Clastrin visa desenvolver um conjunto de ferramentas estatisticas visando a classificacao do trafego Internet baseado nas propriedades do tráfego.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Raimir Holanda Filho - Coordenador / Victor Pasknel de Alencar Ribeiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2007 - 2008
+SAMBA-System for Advanced Interative dtv and Mobile Services in Brazil.
+Descrição: Este projeto, dentre outras acoes, visa o desenvolvimento de uma arquitetura de gerenciamento e controle de QoS para TV Digital.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Raimir Holanda Filho - Integrante / Elizabeth Furtado - Coordenador / Luciano Leal do Vale - Integrante.
+2007 - 2008
+Sistema de Detecção de ataques DoS (Denial of Service) em redes móveis através de técnicas de modelagem.
+Descrição: O ambiente de redes móveis, em virtude de suas caracteristicas,  apresenta-se bastante vulnerável a ataques. Este projeto visa o mapeamento dos principais tipos de ataques em redes móveis e  o desenvolvimento de modelos que sejam capazes de identificar esses ataques a partir do perfil de trafego de cada um deles.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Raimir Holanda Filho - Coordenador.Financiador(es): Universidade de Fortaleza - Bolsa.
+2006 - 2008
+Caracterização, classificação e modelagem de tráfego de redes convergentes
+Descrição: As atividades de Caracterização, classificação e modelagem de tráfego constitui uma importante atividade em redes de computadores. Com o advento das redes convergentes, entender a composicao de cada uma das componentes do trafego constitui uma relevante acao para o dimensionamento do tráfego.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Raimir Holanda Filho - Coordenador.
+2005 - 2007
+Telemedicina - Ampliaçao de Laboratório para Pesquisa e Desenvolvimento de Aplicações em Telemedicina. Projeto de pesquisa e desenvolvimento em tecnologia da informacao incentivado através da Lei de Informática. (Celéstica do Brasil Ltda)
+Descrição: Desenvolvimento de tecnologias aplicadas para Telemedicina, utilizando dispositivos móveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Raimir Holanda Filho - Coordenador.
+2005 - 2006
+Implantacao do laboratorio de Redes Convergentes. Projeto financiado com recursos da Lei de Informática (UNIFOR - SANMINA-SCI DO BRASIL INTEGRATION LTDA)
+Descrição: ESTUDO E DESENVOLVIMENTO DE SISTEMAS DE DETECÇÃO/PREVENÇÃO DE INTRUSÃO BASEADOS EM REGRAS PARA REDES EM AMBIENTE SEM FIO.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raimir Holanda Filho - Coordenador.

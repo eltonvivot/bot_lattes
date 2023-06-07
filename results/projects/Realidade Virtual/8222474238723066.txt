@@ -1,0 +1,52 @@
+2015 - Atual
+PKafm- Analise de Superficie de fitas sensoras por AFM
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Coordenador / Missel, FP - Integrante.
+2015 - Atual
+Papel da videomonitorização noturna no manejo de pacientes com alteraçoes motoras e comportamentais associadas ao sono
+Descrição: Projeto Numero HCPA/140537. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Suzana Schonwald - Coordenador / Diego Z. Carvalho - Integrante / RIEDER, CARLOS R.M. - Integrante.
+2014 - Atual
+Distribioção temporal dos Fusos de Sono em Apneia de Sono
+Descrição: Projeto Numero HCPA/140490. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / SCHÖNWALD, SUZANA V - Coordenador / Nunes, Roger Pizzato - Integrante.
+2013 - Atual
+PKMag - Aplicações de Métodos de Caracterização Magnéticos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Coordenador / Missel, FP - Integrante / CAMPOS, Marcos Flavio de - Integrante / Landgraf - Integrante.
+2013 - Atual
+Aprendizado de máquina em Biologia Molecular de Sistemas (AMBiS)
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Ney Lemke - Coordenador / SCHÖNWALD, SUZANA V - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2013 - Atual
+Alfa2Bit - Criação de chaves liga-desliga com o uso de ondas alfas
+Descrição: Projeto CNPq 458810/2013-4. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Rybarczyk, J.L. - Coordenador / SCHÖNWALD, SUZANA V - Integrante.
+2010 - 2013
+Decomposição por Matching Pursuit do Sinal de EEG de Sono
+Descrição: Projeto HCPA-100248. Situação: Concluído; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Suzana V. Schönwald - Coordenador / Diego Z. Carvalho - Integrante / Emerson L. de Santa Helena - Integrante / MARGIS, REGINA - Integrante.
+2007 - 2013
+Atividade Eletroencefalografica do Sono REM na Região da Amigdala
+Descrição: Projeto HCPA-07-320. Situação: Concluído; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Emerson de SantHelena - Integrante / Diego Z. Carvalho - Integrante / SCHÖNWALD, SUZANA V - Coordenador.
+2006 - 2013
+Detecção de alteração cortical em pacientes com apnéia de sono através de verossimilhança de sincronização
+Descrição: Projeto HCPA 06-654. Situação: Concluído; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Emerson de SantHelena - Integrante / Diego Z. Carvalho - Integrante / SCHÖNWALD, SUZANA V - Coordenador.
+2006 - 2006
+Avaliação do padrão alternante ciclico no sono de individuos com doença de parkinson
+Descrição: Projeto HCPA 06-186. Situação: Desativado; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Suzana Schonwald - Coordenador / Emerson de SantHelena - Integrante / Diego Z. Carvalho - Integrante / RIEDER, CARLOS R.M. - Integrante.
+2005 - Atual
+Bioinformática: simulação computacional de metabolismo
+Descrição: Descrição: Objetivos: 1. Reconstruir a rede de reações bioquímicas do fungo Crinipellis perniciosa; 2. Determinar alvos enzimáticos para drogas ou vacinas deste organismo; 3. Melhorar a exatidão na previsão da estrutura tridimensional de proteínas através de modelos de Aprendizado de Máquina, principalmente para proteínas transmembrana; 4. Determinação da estrutura tridimensional de proteínas transmembrana, da classe de transportadoras ABC do C. perniciosa; 5. Validar o conhecimento e previsões dos modelos de Aprendizado de Máquina através da dinâmica molecular; 6. Determinação da superfície da proteína e de possibilidades de interação com metabólitos; 7. Caracterizar funções de correlação entre seqüência de nucleotídeos, visando determinar regiões codificantes, periodicidades e outras propriedades do código genético.. 
+Situação: Em andamento; Natureza: Pesquisa. 
+Alunos envolvidos: Graduação ( 6) / Especialização ( 0) / Mestrado acadêmico ( 3) / Mestrado profissionalizante ( 0) / Doutorado ( 0) . 
+Integrantes: José Carlos Merino Mombach - Integrante / Adelmo Luis Cechin - Integrante / Günther Johannes Lewczuk Gerhardt - Integrante / Sergio Echeverrigaray - Integrante / Ana Paula Longaray Delamare - Integrante / Gonçalo Amarante Guimarães Pereira - Integrante / Ney Lemke - Coordenador.
+Finaciador(es): Universidade de Caxias do Sul - Cooperação / Universidade Estadual de Campinas - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio finaceiro... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Ney Lemke - Coordenador.
+2004 - Atual
+Modelagem e simulação em biologia e bioinformática
+Descrição: Descrição: Neste projeto nos propomos a investigar sistemas biológicos em três escalas diferentes, mas mesmo assim relacionadas. Inicialmente iremos investigar as proteínas visando determinar sua estrutura tridimensional e caracterizar seu comportamento dinâmico. O segundo nível é o das redes biológicas que envolvem o funcionamento orquestrado de complexas redes de interação de proteínas com outras proteínas, com o DNA e o com o RNA e finalmente com outros compostos químicos de menor massa molecular. O último nível que vamos estudar é o de interação entre células, onde esperamos investigar a morfologia de agregados celulares e em especial a relação entre sua forma e modelos metabólicos das células. .. 
+Situação: Em andamento; Natureza: Pesquisa. 
+Alunos envolvidos: Graduação ( 2) / Especialização ( 0) / Mestrado acadêmico ( 5) / Mestrado profissionalizante ( 0) / Doutorado ( 0) . 
+Integrantes: José Carlos Merino Mombach - Integrante / Adelmo Luis Cechin - Integrante / Fernando Haas - Integrante / Ney Lemke - Coordenador.
+Finaciador(es): Universidade de Caxias do Sul - Cooperação / Hewlett Packard - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio finaceiro.
+Número de produções C, T & A: 14 / Número de orientações: 7.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Ney Lemke - Coordenador.
+2003 - Atual
+Caracterização de Fusos de sono e Dente-de-serrote em EEG
+Descrição: : A analise do sono é baseada na polissonografia e o sinal de EEG é o mais importante. A necessidade de desenvolver uma anélise automática do sono tem dois objetivos básico: reduzir o tempo gasto na análise visual e explorar novas medidas quantitativas e suas relaces com certos tipos de distúrbios do sono. A estrutura do sinal de EEG de sono é relacionada com a chamada microestrutura do sono, que é composta por grafoelementos. Um destes grafoelementos é o fuso de sono (spindles). Talvez a análise espectral não resulte útil para a identificação das ondas em dente-de-serrote devido a limitações na capacidade de resolução espacial que são inerentes a esta técnica. Uma alternativa seria empregar transformadas de ondeleta, ou wavelets, que visam a identificação da estrutura fina do sinal. A aplicação da técnica de wavelets depende de se encontrar uma função de ondeleta adequada para o grafoelemento em estudo e de se implementar um algoritmo eficaz para a sua utilização. A aplicação das wavelets em análise de sinais data da última década e tem-se revelado promissora. Nos sinais de EEG, tem sido utilizada em potenciais evocados, detecção de atividade epileptiforme e na análise de fusos próprios do sono. Manipulação farmacológica tem sido empregada com o objetivo de investigar mecanismos bioquímicos subjacentes ao sono REM. O projeto tem 2 objetivos gerais: 1) Usar a Transformada de Gabor (GT) para encontrar fusos de sono (SS) no canal C3-A2, explorando a deteccao dos fusos de sono através de procura direta, Matching Pursuit e uma rede neural que utiliza como "input"GT (com medidas de sensibilidade e especificidade em relacao ao padrao ouro: análise visual); 2) caracterizar ocorrência da atividade de dente-de-serrote no sono REM de adultos jovens normais, ao longo da noite e nos diferentes ciclos de sono, antes e depois do uso de fluoxetina (com análise visual e após pelas técnicas de transformada de Fourier e de Wavelet)... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / M L F Chaves - Coordenador / S V Schonwald - Integrante / Emerson Luiz de SantaHelena - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1998 - 2006
+Caos em Series Temporais
+Descrição: Projeto 98/105. Situação: Concluído; Natureza: Pesquisa. Integrantes: Günther Johannes Lewczuk Gerhardt - Integrante / Maria Paz Hidalgo - Integrante / J A Borges - Integrante / Suzana Schonwald - Coordenador.

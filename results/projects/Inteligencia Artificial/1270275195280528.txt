@@ -1,0 +1,47 @@
+2018 - 2019
+Utilização de dispositivos móveis como recurso para a educação ambiental
+Descrição: A gestão ambiental pública é um mecanismo para gerenciar a utilização dos recursos naturais de modo a garantir os objetivos da Política Nacional do Meio Ambiente. A gestão ambiental dispõe de alguns instrumentos como o licenciamento ambiental. A educação ambiental está inserida no processo do licenciamento ambiental e abrange todos os níveis de ensino, inclusive a educação da comunidade. A educação ambiental tem sido um importante instrumento da gestão ambiental pública no processo do Licenciamento Ambiental ao atender populações afetadas pela implementação de empreendimentos. Por serem consideradas vulneráveis ambientalmente, comunidades tradicionais como as de pescadores artesanais são públicos prioritários das ações de educação ambiental no processo do licenciamento ambiental federal. O uso de smartphones pode alcançar pessoas que possuem acesso a estes aparelhos, facilitando o processo educativo para a participação social de qualidade no âmbito da gestão ambiental pública. Este trabalho pretende pesquisar se a utilização de um aplicativo para smartphones pode auxiliar no processo de educação ambiental dos trabalhadores da pesca artesanal e auxiliá-los a escoarem seus produtos, interligando-os diretamente a potenciais compradores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Fabrício Terra Azevedo - Coordenador.
+2017 - 2020
+Recomendação de materiais didáticos baseada em estilos cognitivos de aprendizagem
+Descrição: Nos Ambientes Virtuais de Aprendizagem (AVAs) o processo de ensino e aprendizagem
+ocorre durante a interação entre os estudantes e o material didático, entre os alunos e os
+tutores, entre os discentes e os docentes. Cada pessoa possui características pessoais
+que contribuem para seu processo de aprendizagem. Estas características envolvem o
+modo de pensar, de agir, de resolver problemas. A identificação das características
+pessoais relacionadas à aprendizagem pode ser diagnosticada por meio dos estilos
+cognitivos de aprendizagem (ECAs). Os ECAs podem ser mapeados por diversos
+modelos, sendo o modelo elaborado por Felder e Silverman um dos mais utilizados em
+AVAs. Após o diagnóstico dos ECAs, é interessante que o estudante tenha acesso a
+materiais didáticos de acordo com as características apropriadas ao seu estilo. Um dos
+fatores de sucesso da aprendizagem está associado com a qualidade do material didático
+disponível nos Ambientes Virtuais de Aprendizagem. O objetivo deste trabalho é propor
+um modelo de recomendação de materiais didáticos baseado em estilos cognitivos de
+aprendizagem. Este modelo poderá ser utilizado em AVAs para recomendar os materiais
+didáticos mais apropriados para cada estudante.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Fabrício Terra Azevedo - Coordenador.
+2013 - 2016
+Análise automática de fóruns de discussão
+Descrição: O projeto possui o objetivo de desenvolver pesquisa na área de mineração de textos para analisar mensagens redigidas pelos alunos em fóruns de discussão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Fabrício Terra Azevedo - Coordenador.
+2013 - 2014
+Integração de software de mineração de texto na plataforma Moodle
+Descrição: O projeto visa realizar a integração e utilização de dois softwares de mineração de texto no Moodle: o "MineraFórum" e o "Presente!".. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Fabrício Terra Azevedo - Coordenador / Hélvia Pereira Pinto Bastos - Integrante.
+2010 - 2013
+Mineração de dados textuais eletrônicos
+Descrição: Este projeto tem como proposta desenvolver estudos e pesquisas na área de processamento automático de textos. O intuito do projeto é utilizar técnicas da Lingüística Computacional, particularmente da Mineração de Textos, para realizar análises quanti-qualitativas em mensagens de fóruns de discussão e de bate-papo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Fabrício Terra Azevedo - Coordenador / Hélvia Pereira Pinto Bastos - Integrante.
+2010 - 2013
+ROODA: novas ferramentas para incorporação no ambiente virtual de aprendizagem
+Descrição: O presente estudo emerge da linha de pesquisa Ambientes Informatizados de Ensino-Aprendizagem e Educação a Distância (EAD), do curso de doutorado em Informática na Educação da UFRGS. Insere-se nas pesquisas realizadas pelo Núcleo de Tecnologia Digital Aplicada à Educação (NUTED, http://www.nuted.edu.ufrgs.br.), especialmente aqueles relacionados ao ambiente ROODA (Rede cOOperativa de Aprendizagem, http://ead.ufrgs.br/rooda), envolvendo a construção, uso e validação de ambientes virtuais de aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Fabrício Terra Azevedo - Integrante / Patricia Alejandra Behar - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2010 - 2012
+Instalação e manutenção de plataformas para apoiar cursos a distância e presenciais: levantando pontos favoráveis e dificuldades
+Descrição: Os principais objetivos desse projeto são: - Promover a manutenção da plataforma Moodle e das plataformas Elgg instaladas, mapeando dificuldades e facilidades nesse procedimento; - Instalar novas plataformas Elgg que se fizerem necessárias; - Instalar um servidor de E-mail; - Testar novos módulos e plugins para as referidas plataformas; - Estudar formas de realizar backup dos conteúdos das plataformas no servidor; - Promover estudos visando manter a segurança dos dados das plataformas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Breno Fabrício Terra Azevedo - Coordenador / Sílvia Cristina Freitas Batista - Integrante / Gilmara Teixeira Barcelos - Integrante.
+2010 - 2012
+MineraROODA: Ferramentas de mineração de conteúdo cognitivo e de subjetividade afetiva no Ambiente Virtual de Aprendizagem ROODA
+Descrição: Neste projeto, pretende-se refletir sobre a questão da dimensão afetiva e cognitiva implicada na interação do AVA ROODA. Propõe-se a implementação de ferramentas de mineração de conteúdo cognitivo e de subjetividade afetiva a partir dos textos disponibilizados nas funcionalidades de comunicação síncronas e assíncronas do ROODA. Entende-se que um estudo do processo cognitivo-afetivo presente em situações de aprendizagem poderá desencadear uma nova postura frente à tarefa de acompanhamento da construção do conhecimento. Logo, o professor terá mais dados e subsídios para agir na sua prática pedagógica com foco nas necessidades e potencialidades dos alunos nas modalidades de educação semi-presencial e a distância.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Fabrício Terra Azevedo - Integrante / Patricia Alejandra Behar - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+Ampliando possibilidades pedagógicas através da tecnologia de mineração de textos integrada à escrita coletiva a distância
+Descrição: Investigação de possibilidades pedagógicas a partir do uso da tecnologia de mineração de textos integrada à escrita coletiva a distância.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Breno Fabrício Terra Azevedo - Integrante / Patricia Alejandra Behar - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2012
+Projeto SIGAEPCT
+Descrição: O projeto SIGAEPCT tem o objetivo de realizar pesquisas e desenvolver um Sistema Integrado para Gestão Acadêmica que possa ser utilizado por todas as instituições públicas de educação profissional e tecnológica do Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Breno Fabrício Terra Azevedo - Integrante / Ana Sílvia Ribeiro Escocard Santiago - Integrante / Renata Mesquita da Silva - Integrante / Eunice Palmeira da Silva - Coordenador / Rogério de Avellar Campos Cordeiro - Integrante.

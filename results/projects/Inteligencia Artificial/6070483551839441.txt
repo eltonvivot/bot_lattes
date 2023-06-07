@@ -1,0 +1,44 @@
+2020 - Atual
+Execução do Projeto Avaliação de Desempenho do Modelo Matemático de ?Ziegle e Nichols? Utilizando Simulação Computacional
+Descrição: Projeto de desenvolvimento de um modelo matemático de controle digital a ser aplicado em dispositivos eletrônicos onde o processo de controle exija uma atuação de gerenciados PID (Proporcional Integral e Derivativo). O modelo será baseado no modelo de Ziegler e Nichols.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Sérgio Barros de Sousa - Coordenador / Matheus Henrique Silva Miranda - Integrante.
+2020 - Atual
+Modelagem Matemática de um Controlador Digital Baseado nas Equações de ?Ziegle E Nichols?
+Descrição: O projeto irá descrever as formas como podemos utilizar as equações e funções do modelo de Ziegler e Nichols em um processo de controle digital. As equações serão aplicadas em um software a ser gravado em dispositivo microcontrolador.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Sérgio Barros de Sousa - Coordenador / Vitor Azevedo Silva - Integrante.
+2018 - 2019
+Projeto PIBIC Encrypto-Documentos
+Descrição: O presente projeto intenciona desenvolver um aplicativo de assinatura digital utilizando algoritmo de encriptação assimétrico com vista a validar a autenticidade de documentos que são disponibilizados em sistemas públicos de escrituração digital. Nesse sentido, ao final da proposta, o aplicativo será disponibilizado em plataforma digital do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sérgio Barros de Sousa - Coordenador / Ruymar Araujo Mendes Neto - Integrante.
+2018 - 2019
+Projeto PIBIC Fábrica de Hardware
+Descrição: O projeto de pesquisa intenciona desenvolver dois micro-dispositivos computacionais eletrônicos digital e que serão utilizados em captação de dados de indicadores agroambientais de interesse agronômico. Os dois dispositivos irão integrar-se através de uma interface sem fio para coleta de dados em campo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sérgio Barros de Sousa - Coordenador / Luis Otavio do Nascimento Teles - Integrante / Matheus Leal Cosmo Cardoso - Integrante.Número de produções C, T & A: 1
+2017 - 2018
+Projeto PIBIC Lei Digital, Um Marco Legal
+Descrição: Descrever metodologicamente, meios para identificação de eventos, técnicas e princípios da ciência da computação que estejam relacionados ou seja necessário o seu entendimento para a correta interpretação dos artigos do Marco Civil da Internet é o objetivo básico da proposta. Serão identificadas as jurisprudências e causas que tenham vínculo com o tema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sérgio Barros de Sousa - Coordenador / Sephani Barros de Sousa - Integrante.Número de produções C, T & A: 2
+2017 - 2018
+PIBIC DevFactory - Fabrica de Dispositivos
+Descrição: O projeto tem como objetivo o desenvolvimento de microdispositivos computacionais implementados utilizando eletrônica digital e associando meios de entrada e saída para obtenção de um sistema computacional móvel e autônomo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sérgio Barros de Sousa - Coordenador / Leinylson Fontinele Pereira - Integrante / Luis Otavio do Nascimento Teles - Integrante.Número de produções C, T & A: 2
+2016 - 2017
+PIBIC Aplicações de Métodos Heurísticos de Otimização em Ambientes Paralelos CPU/GPU
+Descrição: Este projeto procura explorar os aspectos inerentes ao
+desempenho de algoritmos de otimização heurísticos orientados para
+ambientes heterogêneos compostos por CPUs e GPUs. Para atingir tal
+objetivo, pretende-se realizar um estudo detalhado da arquitetura GPU
+e seu relacionamento com o tradicional modelo de paralelismo orientado
+para CPU, buscando destacar os requisitos relevantes ao desempenho dos
+componentes que representam o maior impacto na performance de
+algoritmos heurísticos. Para validar essa abordagem pretende-se lidar
+com problemas de otimização reais por meio de aplicações selecionadas
+dentre diversas áreas do conhecimento, notadamente aquelas que
+possibilitem a integração com outros projetos de pesquisa
+desenvolvidos nesta IES.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Doutorado: (3) . Integrantes: Sérgio Barros de Sousa - Integrante / Francisco das Chagas Rocha - Integrante / Eyder Franco Sousa Rios - Coordenador / Cristina Boeres - Integrante / Luiz Satoru Ochi - Integrante / Rodrigo Baluz - Integrante / Átila Rabelo Lopes - Integrante / Igor Machado Coelho - Integrante / Ricardo Farias - Integrante / Aleph Breno Melo Rodrigues da Silveira - Integrante / Matheus Aranha Silva - Integrante / Pablo Henrique da Silva - Integrante / Alexandre Rosa Carvalho - Integrante / Athyrson Machado Ribeiro - Integrante / Filipe Alves Sampaio - Integrante / Isaac Bruno Siqueira de Souza - Integrante / Nayra Beatriz Paiva de Oliveira - Integrante / Francisco Augusto dos Santos Calaça - Integrante.
+2015 - 2016
+Mapeamento Georreferencial Aplicado Utilizando Média Baseada em GLONASS e GPS
+Descrição: O projeto tem o objetivo de desenvolver um método algébrico analítico para ampliação da precisão de coordenadas de localização GPS em coleta de dados de posicionamento integrando com a tecnologia de posicionamento GLONASS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sérgio Barros de Sousa - Coordenador / Lucas Resende De Sousa Amaral - Integrante.Número de produções C, T & A: 1
+2015 - 2015
+Desenvolvimento de um Modelo Matemático para Otimização e Análise do Peso Computacional de um Algoritmo Utilizando Interpolação Matemática
+Descrição: Prejeto de pesquisa para pesquisa e desenvolvimento de um modelo de avaliação da classe de complexidade de um algoritmo utilizando métodos numéricos baseados no modelo de Gauss para identificação da função de crescimento assintótico e obtenção do polinômio interpolador do algoritmo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sérgio Barros de Sousa - Coordenador / Lorrane De Souza Bastos - Integrante / Thiago Barros de Carvalho - Integrante.Número de produções C, T & A: 1
+2011 - 2012
+Projeto de Avaliação Georreferenciada de Indicadores Situacionais das Famílias Atendidas pelos Programas Sociais do Governo
+Descrição: Projeto de Pesquisa para avaliação dos indicadores sociais do programa Bolsa Família sob a ótica dos dados extraídos do Sistema de Informação do Programa SigPBF.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Sérgio Barros de Sousa - Coordenador.
+2002 - 2003
+Desenvolvimento de algoritmos utilizando linguagem de programação orientada a objeto
+Descrição: Projeto de Iniciação Científica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sérgio Barros de Sousa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Bolsa.Número de produções C, T & A: 1

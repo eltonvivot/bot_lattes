@@ -1,0 +1,100 @@
+2019 - Atual
+Uso da inteligência artificial para competições e divulgações científicas: Equipe
+Descrição: Na última década, a inteligência artificial (IA) tem ocupado um lugar de destaque dentre as
+tecnologias mais inovadoras. Sua influência pode ser vista em automações de equipamentos
+domésticos, aplicativos de celulares, veículos autônomos, diagnósticos médicos, dentre várias
+outras aplicações. Diferentes topologias de IA são desenvolvidas a partir da análise de grandes
+quantidades de dados, provindas de medições das variáveis de interesse. Desenvolvedores destas
+tecnologias são denominados cientistas de dados (do inglês data scientists). Entretanto, o Brasil
+ainda não figura dentre os principais "players" mundiais nessa área, pela carência destes
+cientistas de dados e de desenvolvimento de soluções inovadoras a partir da análise de dados.
+Uma forma efetiva de motivar novos estudantes para a área de IA é por meio de competições,
+onde um objetivo comum é colocado para toda a comunidade e as melhores soluções são
+comparadas e divulgadas. Ainda, muitas destas competições envolvem premiações para as
+melhores soluções. Faculdades de Ciência da Computação, de Engenharia Elétrica e áreas afins
+garantem o acesso formal a estes cursos de treinamento sobre análise de dados, mas uma
+maneira mais concreta de reter este aluno interessado na área de IA é por meio do conceito
+aprenda fazendo, "learning-by-doing". Sendo assim, esta proposta tem como objetivo criar uma
+equipe acadêmica multidisciplinar dedicada ao estudo da IA para participar de competições. Além
+disso, desenvolver uma plataforma para competição de IA hospedada no Brasil, o que ainda é
+escasso, difundindo competições em níveis locais e nacionais e fomentando o interesse pela
+ciência de dados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Leonardo Bonato Felix - Coordenador / Rodolpho Vilela Alves Neves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2019 - Atual
+Interface Cérebro-Computador usando Atenção Seletiva Auditiva: Em Busca de um Sistema de Comunicação Binária para Indivíduos Severamente Paralisados
+Descrição: A ciência vem tentando entender o funcionamento do cérebro humano através dos estudos das atividades cerebrais registradas por técnicas como 
+o eletroencefalograma (EEG) e imagens de ressonância magnética funcional (do inglês \functional Magnetic Resonance Imaging - fMRI). O EEG é bastante utilizado 
+pelos pesquisadores por se tratar de uma técnica não invasiva, portátil, de baixo custo e apresentar alta resolução temporal. Os sinais de EEG, registrados 
+concomitantemente à apresentação de estímulos externos a um indivíduo, coletam, juntamente com a atividade elétrica de fundo, as respostas do sistema nervoso aos 
+estímulos apresentados. A detecção destas respostas nos sinais de EEG é utilizada para implementar interfaces cérebro-computador (ICCs) que permitem o ser humano 
+controlar um computador/dispositivo somente com suas ondas cerebrais. Com o advento das ICCs, muitos pacientes paralisados e impossibilitados de utilizar suas vias 
+naturais de comunicação (fala e movimentos corporais) se tornaram capazes de se comunicarem através do uso dessas. A maioria das ICCs desenvolvidas se baseia 
+na estimulação visual, cujo controle é realizado por movimentos oculares. Assim, a tão sonhada comunicação com o meio externo continua impossível para os pacientes 
+com síndrome do encarceramento (do inglês locked-in state - LIS), os quais apresentam perfeito processamento emocional e cognitivo, no entanto, a completa 
+paralisia motora afeta os movimentos oculares, impedindo-os de utilizarem as ICCs visuais. Com isso, a ICC auditiva se torna bastante atrativa, pois ela utiliza os efeitos da atenção seletiva auditiva (ASA), que é uma habilidade natural dos seres humanos, nas respostas auditivas em regime permanente (ASSRs) e no potencial 
+relacionado a evento (P300), registrados pelo EEG. Assim, as ICCs auditivas podem ser utilizadas por pacientes completamente imobilizados como um sistema de 
+comunicação binária (com duas opções de resposta: 'sim' e 'não'), desde que suas vias auditivas estejam intactas. Diante disso, o objetivo deste projeto é implementar 
+um sistema de comunicação binária online baseado nos efeitos da ASA nas ASSRs e no P300. Como estímulos, serão utilizados sons musicais e sons da 
+natureza que são mais confortáveis para os indivíduos comparados aos estímulos senoidais AM, comumente utilizados na literatura. Além disso, a implementação de uma 
+ICC auditiva para pacientes severamente paralisados deve levar em consideração que tais pacientes sofrem não só com a perda do controle motor, mas também com a 
+atenção reduzida, necessitando assim de uma ICC otimizada que emprega estímulos distinguíveis com o mínimo esforço possível.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Leonardo Bonato Felix - Integrante / Mendes, Eduardo M.A.M. - Integrante / Felix, Leonardo B. - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - Atual
+Desenvolvimento de novos detectores de respostas evocadas auditivas em regime permanente e implementação em FPGA dedicado
+Descrição: Este projeto lida com o problema de estimação automática de limiares auditivos. As abordagens multivariadas, i.e. que usam múltiplos sensores, podem obter esses limiares de forma mais rápida e precisa?  A resposta para essa pergunta passa pelo desenvolvimento de novos métodos e equipamentos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - 2020
+AVALIAÇÃO DOS PROCESSOS COGNITIVOS E MOTORES EM INDIVÍDUOS COM TRANSTORNO GLOBAL DE DESENVOLVIMENTO SUBMETIDOS À UM PROGRAMA DE EDUCAÇÃO FÍSICA ADAPTADA
+Descrição: O objetivo da proposta é elaborar uma avaliação dos processos cognitivos e motores em indivíduos com o transtorno global do desenvolvimento, com a finalidade de avaliar os possíveis efeitos de um Programa de Educação Física Adaptada. Os testes são instrumentos que avaliam atenção, Concentração, tempo de reação das respostas de escolha simples, a atenção seletiva visual e auditiva, além de testes psicomotores. O estudo desenvolverá sob uma abordagem do tipo exploratória, quase experimental. A população avaliada será crianças, jovens, adolescentes e adultos com diagnóstico de transtorno global do desenvolvimento, com idade mínima de 6 anos. A pesquisa compreenderá a aplicação dos testes selecionados, seguido da construção de uma bateria, análise estatísticas da confiabilidade do instrumento elaborado, aplicação de um programa de Educação Física Adaptada baseado em esportes e atividades funcionais, sendo por último a reaplicação da bateria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Leonardo Bonato Felix - Integrante / Eveline Torres Pereira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - 2019
+Classificação da Resistência de Cafeeiros à Infecção Causada pelo Fungo "Hemileia vastatrix" Utilizando Processamento de Imagens e Técnicas de Inteligência Computacional
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Leonardo Bonato Felix - Coordenador / Alexandre Santos Brandão - Integrante / Cosme Damião Cruz - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2016 - 2019
+Otimização de parâmetros de estimulação para interface cérebro-computador usando o fenômeno de atenção seletiva auditiva
+Descrição: Pessoas que possuem algum tipo de dano neuromuscular necessitam de um canal de comunicação com o meio. Uma maneira de fornecer esse canal é por intermédio das Interfaces Cérebro- Computador (ICC). Uma das soluções apresentadas na literatura é a utilização de ICCs com estimulação visual, que dependem do movimento ocular, além de ocasionar fadiga e perda de atenção após determinado tempo de registro. Para sanar esses problemas é que estudos com ICCs utilizando Potencial Evocado Auditivo (PEA) têm sido propostos. Uma das modalidades do PEA utilizado nessas interfaces é o potencial originado por estímulos em regime permanente (ASSR). Esse potencial pode ser alterado pela condição de atenção (Atenção Seletiva) e pelo tipo de estímulo utilizado, que, durante a atenção seletiva, pode influenciar regiões distintas do cérebro. Portanto, estímulos auditivos diversos evocam respostas distintas e a escolha desses pode influenciar no desempenho de uma ICC. Nesse sentido, o presente projeto propõe a avaliação dos estímulos auditivos para uma ICC auditiva binária de forma que o sistema a ser implementado tenha um desempenho otimizado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Leonardo Bonato Felix - Coordenador / Eduardo Mazoni Andrade Marçal Mendes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2013 - 2015
+Investigação da Gênese das Respostas Evocadas Auditivas em Regime Permanente Através da Inibição do Neurotransmissor GABA no Colículo Inferior
+Descrição: Este projeto de pesquisa tem como objetivo central a investigação do papel do neurotransmissor GABA na gênese de respostas evocadas auditivas coletadas através de eletrodos. As respostas evocadas auditivas em regime permanente possuem diversas aplicações na clínica e os mecanismos neurais relacionados com a sua geração ainda são objeto de estudo da comunidade científica. A hipótese principal dessa proposta é que o desequilíbrio de um dado neurotransmissor - aqui foi escolhido o GABA - pode desencadear alterações nas respostas cerebrais que possam ser detectadas por registros eletrofisiológicos, permitindo assim uma forma de associação entre a bioquímica neural e atividade elétrica cerebral.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2016
+Organização bilateral acadêmica e pedagógica dos cursos de Engenharia Elétrica com vistas à inserção profissional internacional dos engenheiros da UFV e da ENSEM.
+Descrição: Projeto de intercâmbio de ensino e pesquisa entre a UFV e a Université de Lorraine.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (60) . Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2012 - 2014
+Transmissão do Eletrocardiograma através da rede elétrica para aplicações em telemedicina
+Descrição: Este projeto visa o desenvolvimento de um sistema eletrônico capaz de digitalizar registros de eletrocardiograma, modular os dados e transmiti-los em tempo real
+através da rede elétrica (PLC) para outro dispositivo que possa reconhecer um pacote de instruções específico e apresentá-lo ao endereçado, para o auxílio em
+diagnósticos remotos (telemedicina). O sistema analógico será desenvolvido em tecnologia FPAA e a parte digital e a modulação PLC em FPGA.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2013
+Eletrocardiógrafo com transmissão via Power Line Comunication (PLC)
+Descrição: Pretende-se com este projeto expandir o uso de tele medicina do ECG para qualquer instalação médica. O único requisito necessário seria possuir rede elétrica, o que é uma restrição razoavelmente leve. Atualmente esse problema é resolvido através da internet comum, o que inviabiliza a expansão para regiões mais remotas e com menor poder aquisitivo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Universidade Federal de Viçosa - Auxílio
+										financeiro.
+2009 - 2011
+Investigação Da Atenção Seletiva Auditiva Para Interface Cérebro-Computador
+Descrição: Este projeto de pesquisa tem como objetivo central o desenvolvimento de um sistema que explore os efeitos da atenção nas respostas cerebrais evocadas por estímulos sensoriais. Este efeito será usado na implementação de um sistema de interface cérebro-computador com base em respostas evocadas auditivas. A hipótese principal é que o reconhecimento de padrões baseado na amplitude e fase da resposta cerebral pode revelar a direção da atenção de um indivíduo, permitindo assim uma forma de comunicação básica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2010
+Detecção Inteligente de Respostas Evocadas Cerebrais usando Redes Neurais Artificiais e lógica Nebulosa
+Descrição: O trabalho visa obter um detector automático e objetivo de PEs visuais em sinais EEG utilizando a abordagem conexionista da inteligência computacional (redes neurais e lógica nebulosa).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Fundação Arthur Bernardes - Auxílio
+										financeiro.
+2008 - 2013
+Processamento de Sinais e Instrumentação Biomédica na Investigação do Funcionamento do Cérebro Humano
+Descrição: O objetivo geral da proposta é integrar os conhecimentos de Processamento de Sinais e Instrumentação Biomédica das instituições participantes deste projeto na Investigação do Funcionamento do Cérebro Humano. Os objetivos particulares são: desenvolver metodologias que permitam quantificar, entender e aplicar os potenciais evocados somato-sensitivos, auditivos e visuais na resolução de problemas clínicos, com vistas a melhorar a qualidade de vida de pacientes com disfunção no sistema nervoso; aplicar técnicas lineares e não lineares de processamento de sinais para investigação de propriedades do eletroencefalograma (EEG) espontâneo de adultos, visando verificar a possibilidade de identificação de estados do ciclo de sono-vigília, assim como para sinais EEG durante estimulação sensorial e na identificação de potenciais relacionados a imaginação de movimentos para aplicações de interface cérebro-computador.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Leonardo Bonato Felix - Coordenador / Antonio Mauricio Ferreira Leite Miranda de Sá - Integrante / Eduardo Mazoni Andrade Marçal Mendes - Integrante / Carlos Júlio Tierra-Criollo - Integrante / David Sérgio Adães Gouvêa - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2008 - 2010
+Estudos Para Aplicação Clínica Das Respostas Evocadas Auditivas Em Regime Permanente
+Descrição: Desenvolver metodologias que permitam quanticar, entender e aplicar
+respostas evocadas em regime permanente na resolução de problemas
+clínicos, com vistas a melhorar a qualidade de vida de pacientes com disfunção
+auditiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2007 - 2009
+Respostas evocadas auditivas em regime permanente: estudos para aplicação clínica
+Descrição: Desenvolver metodologias que permitam quantificar, entender e aplicar
+respostas evocadas em regime permanente na resolução de problemas
+clínicos, com vistas a melhorar a qualidade de vida de pacientes com disfunção
+auditiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Bonato Felix - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1

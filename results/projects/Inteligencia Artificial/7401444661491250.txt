@@ -1,0 +1,67 @@
+2019 - 2020
+Vetorização Automática de Código por meio de Técnicas de Aprendizado de Máquina
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador.
+2019 - 2020
+Vetorização SLP (Superword-Level Parallelism) Assistida por Passos de Otimizações de Código
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador.
+2018 - 2019
+Supervisor: Um Sistema Web para Auxílio na Escrita e Correção Automática de Textos Cientíﬁcos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador.
+2017 - 2019
+Paralelização Automática de Código utilizando Computação por Humanos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Lesandro Ponciano - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - 2019
+Computação Humana aplicada a Otimização de Aplicações Paralelas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador.Número de produções C, T & A: 3
+2017 - 2018
+Desenvolvimento de Aplicações Paralelas para Big Data em Arquiteturas Manycore Não Convencionais: Escalabilidade, Desempenho e Energia
+Projeto certificado pelo(a) coordenador(a) Henrique Cota de Freitas em 26/02/2019.
+Descrição: Há uma lacuna ou oportunidade de pesquisa na seguinte direção: Como aumentar eficiência de aplicações para Big Data visando maior desempenho, escalabilidade e baixo consumo de energia? Não só as arquiteturas não convencionais podem ajudar a trilhar um novo caminho no processamento de Big Data, mas é necessário desenvolver aplicações paralelas para uso eficiente destas arquiteturas. Nesse contexto, o objetivo deste projeto é desenvolver aplicações paralelas que, como contribuição, possam escalar com alto desempenho e baixo consumo de energia, tornando a comunidade científica e indústria que trabalha com Big Data mais competitiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Luis Fabricio Wanderley Goes - Integrante / Carlos Augusto da Silva Paiva Martins - Integrante / Luis E. Zárate - Integrante / Henrique Cota de Freitas - Coordenador.
+2016 - 2017
+Paralelização Automática de Código por meio de Esqueletos Paralelos utilizando Técnicas de Aprendizado de Máquina para Arquiteturas Heterogêneas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador.Número de produções C, T & A: 9
+2016 - 2017
+Design of Reconfigurable Hardware to Accelerate Deep Learning Algorithms
+Projeto certificado pelo(a) coordenador(a) Henrique Cota de Freitas em 26/02/2019.
+Descrição: he main contribution is the proposal of Deep Learning algorithms (e.g. neural networks) for a reconfigurable heterogeneous platform, such as the multi-chip package (Broadwell + Arria 10 + software), which can fulfill the demand for high performance applied to Bioinformatics field. As a benefit to the community, we will publicly provide a set of algorithms for reconfigurable hardware in order to accelerate Big Data processing. Thus, this set of algorithms might be used to other different contexts, such as oil and gas, social media and weather forecast.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Fabricio Wanderley Goes - Integrante / Luis E. Zárate - Integrante / Henrique Cota de Freitas - Coordenador / Pedro Penna - Integrante.
+2015 - 2016
+Aprendizado de Máquina aplicado ao Padrão Paralelo Estêncil para Arquiteturas Heterogêneas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador.
+2014 - 2016
+Exascale Computing - Scheduling and Energy
+Descrição: The main scientific context of this project is high performance computing on Exascale systems: large-scale machines with billions of processing cores and complex hierarchical structures. This project intends to explore the relationship between scheduling algorithms and techniques and the energy constraints present on such exascale systems. - Cooperation Project - PUC Minas, UFRGS, and INRIA -- Coordinator (INRIA): Jean-Marc Vincent (Mescal) -- Coordinator (FAPERGS): Nicolas Bruno Maillard (UFRGS) -- Coordinator (FAPEMIG): Henrique Cota de Freitas (PUC Minas).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Fabricio Wanderley Goes - Integrante / Carlos Augusto da Silva Paiva Martins - Integrante / Jean-Francois Mehaut - Integrante / Henrique Cota de Freitas - Coordenador / CASTRO, MÁRCIO - Integrante / Nicolas Bruno Maillard - Integrante.
+2014 - 2015
+Aﬁnidade de Memória em Aplicações Paralelas do Padrão Estêncil para Arquiteturas Heterogêneas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Sérgio Vitarelli - Integrante.
+2013 - 2014
+Adaptação Automática de Aplicações Paralelas em Arquiteturas Heterogêneas utilizando Esqueletos Paralelos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Alyson Deives - Integrante.
+2012 - 2013
+Proposta de Ferramentas para Simplificação da Programação de Arquiteturas Paralelas e Heterogêneas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador.
+2010 - 2011
+Skeleton-Enabled Thread Scheduling and Memory Affinity Policies for Transactional Memory Applications on Multi-core NUMA
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Christiane Pousa - Integrante / Marcio Castro - Integrante / Marcelo Cintra - Integrante / Jean-Francois Mehaut - Integrante / Murray Cole - Integrante.Financiador(es): European Network of Excellence on High Performance & Embedded Architecture - Auxílio
+										financeiro.
+2008 - 2008
+Modelagem e Desenvolvimento da Rede Social On-line COTEMIG
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Wallace Gonçalves de Oliveira - Integrante.Financiador(es): Faculdade COTEMIG - Outra.
+2007 - 2008
+Análise de Algoritmos de Escalonamento de Aplicações de Inteligência Artificial (IA) em uma Grade Computacional
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Lucas Goulart - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Remuneração.
+2007 - 2008
+Proposta e Implementação de uma Grade Computacional Reconfigurável de Alto de Desempenho Baseada na Utilização de Ciclos Ociosos de uma Infra-Estrutura Computacional
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Lesandro Ponciano - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Remuneração.
+2007 - 2007
+Framework de Técnicas de Busca e Aprendizado de Máquina para Construção de Jogos Digitais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Arthur Pereira - Integrante.Financiador(es): Faculdade COTEMIG - Outra.
+2006 - 2007
+Proposta e Desenvolvimento de uma Ferramenta em Java para Monitoramento e Análise de Desempenho de Aplicações Distribuídas em uma LAN
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luis Fabricio Wanderley Goes - Coordenador / Arthur Pereira - Integrante.Financiador(es): Faculdade COTEMIG - Outra.
+2001 - 2002
+Proposta E Implementação De Um Aglomerado De Computadores Usando Redes De Comunicação De Dados De Alto Desempenho E Disponibilizando Uma Imagem De Sistema Único
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luis Fabricio Wanderley Goes - Integrante / Luiz Eduardo da Silva Ramos - Integrante / Carlos Augusto da Silva Paiva Martins - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2000 - 2001
+Proposta e Implementação de um Ambiente de Desenvolvimento e Prototipação Rápida de Sistemas Computacionais: Paralelos, Dedicados e Reconfiguráveis
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luis Fabricio Wanderley Goes - Integrante / Luiz Eduardo da Silva Ramos - Integrante / Carlos Augusto da Silva Paiva Martins - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.

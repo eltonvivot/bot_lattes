@@ -1,0 +1,28 @@
+2017 - 2020
+Análise de Problemas de Transferência de Calor Conjugada via Métodos Numéricos Acoplados
+Descrição: CNPq universal-2016. Situação: Concluído; Natureza: Pesquisa. Integrantes: Felipe dos Santos Loureiro - Coordenador / Michelli Marlane Silva Loureiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2019
+Solução Numérica E Métodos De Aproximação Por Reanálise Para Problemas De Transferência De Calor Conjugada Via Acoplamento Iterativo
+Descrição: FAPEMIG universal-2016. Situação: Concluído; Natureza: Pesquisa. Integrantes: Felipe dos Santos Loureiro - Coordenador / Michelli Marlane Silva Loureiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2013 - 2015
+Modelagem Computacional de Problemas de Propagação de Ondas através do Método da Aproximação Explícita de Green
+Descrição: Projeto aprovado no Edital Universal 14/2012, Faixa A.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Felipe dos Santos Loureiro - Coordenador / Maicon Ribeiro Correa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2015
+Modelagem Numérica de Problemas de BioTransferência de Calor Utilizando Formulações Numéricas Avançadas
+Descrição: Projeto aprovado no Edital FAPEMIG/demanda Universal 2012.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Felipe dos Santos Loureiro - Coordenador / Maicon Ribeiro Correa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2014
+Métodos Numéricos Para a Simulação do Escoamento Bifásico com Efeitos de Empuxo em Meios Poro-Elásticos Heterogêneos
+Descrição: Projeto aprovado no Edital Universal 14/2011, Faixa A.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Felipe dos Santos Loureiro - Integrante / Maicon Ribeiro Correa - Coordenador / Saul Castro Leite - Integrante / Márcio Rentes Borges - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2012
+Solução Numérica de Equações Diferenciais Parciais Através de Novas Metodologias Baseadas em Funções de Green Numéricas
+Descrição: Metodologias numéricas alternativas para a solução de equações diferenciais parciais vêm
+ganhando grande interesse por partes dos pesquisadores, uma vez que tais equações aparecem com freqüência em modelagens numéricas com aplicação, por exemplo, na indústria do petróleo e gás, áreas de bio-engenharia, etc. e em muitos casos formulações existentes não se aplicam de forma satisfatória. Portanto, o presente projeto tem como objetivo desenvolver e implementar novas técnicas numéricas mais gerais baseadas em funções de Green numéricas para a análise de problemas lineares e não-lineares. O método dos elementos finitos e também o método das diferenças finitas, ambos largamente utilizados para a solução de problemas de engenharia, serão utilizados como ferramenta numérica para a discretização espacial do modelo em questão para o cálculo da função de Green.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Felipe dos Santos Loureiro - Coordenador.Financiador(es): Universidade Federal de Juiz de Fora - Auxílio
+										financeiro.
+2006 - 2007
+Modelagem Numérica da Tectônica do Sal
+Descrição: Estudo de métodos e o desenvolvimento de metodologias que possibilitem efetuar a simulação computacional da tectônica do sal. Elaboração de ferramentas computacionais sofisticadas, tornando possível o tratamento adequado de muitos dos fenômenos geológicos correlacionados. O modelo matemático que representa o fenômeno será resolvido através do Método dos Elementos Finitos. Implementações numéricas baseadas em modelos com acoplamento termo-mecânico, levando-se em consideração efeitos transientes bem como formulações não-lineares (não-linearidades físicas e geométricas). O simulador a ser desenvolvido estará organizado de forma a possibilitar, com pequeno esforço, o refinamento do modelo e a inclusão de novas estratégias, tal como a incorporação de novas relações constitutivas. (Financiamento: CENPES/PETROBRAS) .. Situação: Concluído; Natureza: Pesquisa. Integrantes: Felipe dos Santos Loureiro - Integrante / Webe João Mansur - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Outra.

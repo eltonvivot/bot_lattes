@@ -1,0 +1,27 @@
+2020 - Atual
+Pesquisa operacional e inovação em logística regional
+Descrição: Este projeto tem como finalidade desenvolver pesquisa científica na área de logística, tanto para o crescimento tecnológico e industrial do estado do Espírito Santo (ES), como para a acumulação de conhecimento necessário para aplicação em diversos campos da sociedade brasileira com foco em inovação. Neste projeto, estamos interessados em estudar os problemas relacionados a pesquisa operacional e logística regionais. O projeto consiste no desenvolvimento e implementação de modelos matemáticas e algoritmos eficientes para solucionar problemas combinatórios relacionados à logística. Os algoritmos propostos deverão levar à construção de soluções inovadoras diretamente aplicáveis ao desenvolvimento tecnológico e industrial do ES.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Renato Elias Nunes de Moraes - Coordenador / Maria Claudia Silva Boeres - Integrante.
+2017 - 2020
+Desenvolvimento de Modelos de Otimização e Simulação para Integração do Sistema Portuário de Tubarão
+Descrição: Este projeto envolve de forma conjunta a empresa Vale, governo e universidades com a finalidade de desenvolver pesquisa científica na área de logística. A empresa Vale é considerada uma das maiores mineradoras do mundo, sendo a maior produtora de minério de ferro. A sua destacada inserção no mercado exterior com a venda de minério de ferro exige um investimento contínuo da empresa em processos logísticos visando aumento de produção e redução de custos.  Entre os principais processos logísticos da Vale estão aqueles que compõem o seu sistema produtivo, tais como as operações de mina, ferrovia e porto. O planejamento de toda a cadeia de operação do complexo mina, ferrovia e porto e o planejamento da utilização da infraestrutura disponível com o objetivo de maximização da produção e minimização dos custos demandam forte aplicação de agentes otimizadores. Especificamente, o Porto de Tubarão tem sua cadeia operacional dividida em três subsistemas: (1) recebimento e descarga do minério de ferro procedente das minas, (2) empilhamento e armazenagem do minério no pátio e (3) carregamento e embarque nos navios. 
+O problema que se pretende estudar nesta pesquisa é a otimização da eficiência e capacidade produtiva do sistema portuário de Tubarão que vai além do tratamento individual de cada subsistema. A pesquisa propõe a otimização do desempenho do sistema portuário de Tubarão através de uma abordagem que integre seus subsistemas operacionais de recebimento, armazenagem e embarque.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Renato Elias Nunes de Moraes - Coordenador.
+2014 - 2017
+Coleta de Dados em Redes de Sensores
+Descrição: O problema consiste em construir topologias para se coletar um conjunto
+de dados provenientes de múltiplos nós sensores e destinados a um  nó de destino, garantindo enlaces de transmissão livres de interferência e com baixa potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Renato Elias Nunes de Moraes - Coordenador / Rodolfo da Silva Villaça - Integrante / Celso da CruzCarneiro Ribeiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+Análise de métodos de otimização combinatória aplicados à problemas relacionados à energia
+Descrição: EDITAL FAPES N 012/2011 - UNIVERSAL Processo No: 54689473.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Renato Elias Nunes de Moraes - Integrante / Luis Otavio Rigo Júnior - Integrante / Glaydston Mattos Ribeiro - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2012 - 2014
+Métodos de Otimização para Problemas Relacionados à Indústria Petrolífera
+Descrição: EDITAL CNPq/FAPES N 02/2011 PROGRAMA PRIMEIROS PROJETOS (PPP) Processo No: 53630742.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Renato Elias Nunes de Moraes - Integrante / Luis Otavio Rigo Júnior - Integrante / Glaydston Mattos Ribeiro - Coordenador / Luiz Antonio Nogueira Lorena - Integrante / Geraldo Regis Mauri - Integrante / Gilbert Laporte - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2012 - 2014
+Otimização de Energia em Redes Ad Hoc sem Fio
+Descrição: EDITAL CNPq/FAPES N 02/2011 PROGRAMA PRIMEIROS PROJETOS (PPP) Processo No:53632303. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Renato Elias Nunes de Moraes - Coordenador / Luis Otavio Rigo Júnior - Integrante / Glaydston Mattos Ribeiro - Integrante / Celso da CruzCarneiro Ribeiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2011 - 2013
+Otimização de Energia em redes ad hoc sem fio
+Descrição: Registro PRPPG/UFES No 2403/2011.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Renato Elias Nunes de Moraes - Coordenador / Celso da CruzCarneiro Ribeiro - Integrante.

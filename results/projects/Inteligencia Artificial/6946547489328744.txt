@@ -1,0 +1,19 @@
+2015 - 2018
+Correlação de distância em sistemas dinâmicos
+Descrição: O objetivo deste projeto foi analisar a habilidade da correlação de distância na descrição de
+propriedades relevantes de sistemas dinâmicos. Vimos que a correlação de distância consegue descrever corretamente o comportamento qualitativo do tempo de escape de uma trajetória sobre um atrator induzido por um ruído em mapas unidimensionais. E verificamos ainda que o método é capaz de
+descrever mixing de trajetórias caóticas. E ainda aplicamos o método na análise dados
+coletados experimentalmente de parâmetros físico-químicos tais como pH, temperatura, condutividade,
+turbidez entre outros, no encontro das águas dos rios Negro e Solimões no rio Amazonas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Fábio de Oliveira Mendes - Integrante / Marcus Werner Beims - Coordenador.
+2013 - 2014
+Dissipação quântica em sistemas abertos finitos
+Descrição: Neste trabalho consideramos o aspecto dinâmico de sistemas quânticos abertos onde uma
+partícula fica sujeita a trocas de energia com o ambiente. O ambiente (banho) é composto
+de um número finito N de osciladores harmônicos, caracterizando um banho 
+estruturado, para o qual um comportamento não-Markoviano é esperado. Determinamos a solução
+numérica da equação de Schroedinger estocástica para uma partícula acoplada ao banho. 
+Estudamos duas situações distintas para o sistema de partícula: o potencial harmônico e o
+potencial de catraca (ratchet).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Fábio de Oliveira Mendes - Integrante / Mircea Daniel Galiceanu - Coordenador.
+2011 - 2012
+Procedimentos computacionais para o estudo de operadores quânticos
+Descrição: Neste projeto estudamos o funcional exponencial de uma matriz operadora que representa um sistema de spins, onde inicialmente foi feito uma análise sobre as operações matriciais básicas, e posteriormente foi utilizado operadores matriciais para o caso da matriz que representa uma única partícula de spin 1/2 com campos transversos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Fábio de Oliveira Mendes - Integrante / José Roberto Viana Azevedo - Coordenador.

@@ -1,0 +1,78 @@
+2022 - Atual
+Previsão de Vazões Médias Multipassos à Frente via Modelagem Guiada por Dados
+Descrição: PIB11455-2022: Implementação de um modelo guiado por dados e sua aplicação na previsão de vazões médias multipassos à frente a fim de auxiliar em estratégias de otimização estocástica implícita para operação de reservatórios. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Breno Lucas Oliveira Menezes - Integrante / Rute Santos Porto Lima - Integrante.
+2020 - 2021
+Avaliação de Ferramenta Computacional para Dimensionamento e Operação de Reservatórios Incorporando Estocasticidade e Riscos
+Descrição: PEB9697-2020: Projeto de Pesquisa Externo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Jose Italo Porto Siqueira - Integrante / José Eduardo Santos Araujo - Integrante.Número de produções C, T & A: 2
+2019 - 2020
+Estudo de naturalização de vazões em bacias hidrográficas nordestinas
+Descrição: PVB7792-2019. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcigeimes Batista Celeste - Integrante / Ludmilson Abritta Mendes - Coordenador.
+2019 - 2020
+Operação de Reservatórios por Otimização Estocástica Explícita baseada nos Momentos Estatísticos de Armazenamento, Vertimento e Déficit Hídrico
+Descrição: PVB7881-2019. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Ludmilson Abritta Mendes - Integrante / Jose Italo Porto Siqueira - Integrante.
+2018 - Atual
+Gerenciamento Ótimo Estocástico de Sistemas Hídricos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alcigeimes Batista Celeste - Coordenador / Kumaraswamy Ponnambalam - Integrante / S. Jamshid Mousavi - Integrante / Ximing Cai - Integrante.
+2017 - 2017
+Sustainable Reservoir Design Incorporating Hydrological Uncertainties and Risks
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alcigeimes Batista Celeste - Coordenador / Ximing Cai - Integrante.Financiador(es): Fulbright Comissão para o Intercâmbio entre os Estados Unidos e o Brasil - Bolsa.
+2016 - 2017
+Redes Neurais Artificiais e Previsão de Longo Prazo para Operação de Reservatórios
+Descrição: Desenvolvimento de curvas-guia operacionais para reservatórios resultantes da construção de barragens por meio da metodologia de otimização estocástica implícita (OEI) suportada por redes neurais artificiais (RNA) e refinada por previsão de afluências de longo prazo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Kelly Marina Silva Santos - Integrante.
+2016 - 2017
+Avaliação de alterações no comportamento das séries hidrológicas em bacias hidrográficas sergipanas e seus impactos sobre a disponibilidade hídrica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Alcigeimes Batista Celeste - Integrante / Ludmilson Abritta Mendes - Coordenador / Vania Elisabete Schneider - Integrante / Taison Anderson Bortolin - Integrante / Erwin Henrique Menezes Schneider - Integrante.Financiador(es): Universidade Federal de Sergipe - Bolsa.
+2015 - 2016
+Modelagem Guiada por Dados e Previsão de Longo Prazo para Refinar Políticas de Operação de Reservatórios
+Descrição: Desenvolvimento de curvas-guia para a barragem do rio Poxim, em Sergipe, por meio da metodologia de otimização estocástica implícita (OEI) suportada pela estratégia de aprendizagem baseada em instâncias, particularmente as ferramentas k vizinhos mais próximos (KNN) e regressão localmente ponderada. O modelo foi refinado por meio da previsão de afluências de longo prazo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Danilo Jose Santana Couto - Integrante.Número de produções C, T & A: 1
+2014 - 2015
+Derivação de Regras Operacionais Ótimas para Reservatórios Sergipanos
+Descrição: Derivação e aplicação de regras operacionais para reservatórios sergipanos através de técnicas de otimização estocástica implícita. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Luisa Almeida Ventura - Integrante.Financiador(es): Universidade Federal de Sergipe - Bolsa.Número de produções C, T & A: 4
+2013 - 2017
+Uso de mapas auto-organizáveis na derivação de regras operacionais para reservatórios (CNPq/UNIVERSAL)
+Projeto certificado pelo(a) coordenador(a) Camilo Allyson Simões de Farias em 18/02/2015.
+Descrição: Desenvolvimento de um procedimento baseado em mapas auto-organizáveis e otimização estocástica implícita para operação de reservatórios de água em regiões semiáridas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alcigeimes Batista Celeste - Integrante / Camilo Allyson Simões de Farias - Coordenador / Celso Augusto Guimarães Santos - Integrante / Eduardo Sávio Passos Rodrigues Martins - Integrante / Érica Cristine Medeiros Nobre Machado - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2016
+Implementação de Estratégias Ótimas Operacionais em Reservatórios do Nordeste Brasileiro (CNPq/UNIVERSAL)
+Descrição: Nesta pesquisa, a meta é aplicar a metodologia de otimização estocástica implícita (OEI) na construção de regras operacionais de reservatórios. Os estudos de caso serão sistemas localizados no Nordeste brasileiro, preferencialmente no estado de Sergipe. A proposta é encontrar políticas operacionais sustentáveis para os reservatórios que ajudem na mitigação dos déficits hídricos causados pelas secas. O desempenho das regras encontradas pela OEI será confrontado com o de curvas-guia derivadas por otimização estocástica explícita (OEE), particularmente a programação dinâmica estocástica (PDE). Para aprimorar a OEI, o projeto também propõe a aplicação de ferramentas de hidroinformática. Especificamente, pretende-se usar a chamada modelagem guiada por dados (DDM: data-driven modeling). Outro objetivo do projeto é incluir nos modelos a previsão de longo prazo de secas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Wilson Fadlo Curi - Integrante / Camilo Allyson Simões de Farias - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 44
+2013 - 2014
+Parametrização ótima de curvas-guia e zonas operacionais de reservatórios visando proteção contra déficits
+Descrição: Derivação e aplicação de regras operacionais de reservatórios através de técnicas de parametrização-simulação-otimização com emprego de análise estatística para ajustar distribuições de probabilidades para cada parâmetro, de forma a determinar os seus níveis de confiança. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alcigeimes Batista Celeste - Coordenador / MARCELO VITOR OLIVEIRA ARAUJO - Integrante / Luisa Almeida Ventura - Integrante.Número de produções C, T & A: 2
+2012 - 2013
+Otimização Estocástica para Derivação de Regras Operacionais de Reservatórios no Estado de Sergipe
+Descrição: Derivação e aplicação de regras operacionais para reservatórios do Estado de Sergipe através de técnicas de parametrização-simulação-otimização e de programação dinâmica estocástica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Fernando de Almeida Menezes Melo - Integrante / MARCELO VITOR OLIVEIRA ARAUJO - Integrante.Número de produções C, T & A: 3
+2011 - 2012
+Modelagem Guiada por Dados Aplicada à Previsão Hidrológica
+Descrição: Implementação de um modelo de aprendizado baseado em instâncias, utilizando o algoritmo
+k-nearest neighbor refinado com estratégias de clusterização, aplicado na previsão de
+vazões mensais de cursos d'água localizados em regiões semiáridas do Nordeste do
+Brasil, particularmente em rios do Estado de Sergipe. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcigeimes Batista Celeste - Coordenador / José Rafael Santana Santos - Integrante.Número de produções C, T & A: 3
+2010 - 2013
+Desenvolvimento de metodologia de projeto de aterros e pavimentos pela otimização de respostas mecânicas verificadas em laboratório e em campo nos materiais constituintes
+Descrição: A construção de aterros e pavimentos constitui item indispensável na preparação da infra-estrutura do país. Os métodos de projeto atualmente existentes, principalmente de pavimentos, não se mostram eficientes na previsão das reais condições em campo. A aplicação de métodos de projeto que simulem as condições de carregamento e a progressão das tensões de deformações ao longo do tempo constitui o procedimento mais adequado. Contudo, definir uma condição estrutural a aterros e pavimentos que simplesmente atendam as cargas solicitantes não é suficiente. Deve-se definir uma solução técnica adequada, mas que seja também a ótima do pondo de vista econômico. Este projeto tem por objetivo geral avaliar um método de projeto para aterros e outro para pavimentos que considere as reais condições de mecânicas de campo e que ainda forneça soluções otimizadas de engenharia, representando o menor custo possível de construção capaz de atender aos critérios técnicos estabelecidos. O plano experimental contará com três trechos experimentais de pavimentos revestidos em concreto asfáltico denso, tratamento superficial e camada porosa de atrito, e um aterro teste, todos executados sob responsabilidade da Prefeitura do Campus de São Cristóvão da UFS, contando com outro agente financiador, o DER/SE. Serão caracterizados todos os materiais que serão utilizados, processado o projeto das estruturas e realizado o monitoramento das tensões e deformações por instrumentação de campo. Os resultados da avaliação conduzirão a indicação de métodos de projeto adequados aos materiais mais empregados em aterros e pavimentos no estado de Sergipe. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Alcigeimes Batista Celeste - Integrante / Fernando Silva Albuquerque - Coordenador / Osvaldo de Freitas Neto - Integrante / Jorge Antônio Vieira Gonçalves - Integrante / Alexandre Teles de Almeida - Integrante / Andrea Santiago Dorea - Integrante.Financiador(es): Universidade Federal de Sergipe - Auxílio
+										financeiro.
+2010 - 2012
+Inteligência artificial e otimização estocástica para operação sustentável de sistemas hídricos no semiárido paraibano
+Descrição: O desenvolvimento social e econômico de qualquer região está diretamente ligado à quantidade e qualidade de seus recursos hídricos. A região semiárida do estado da Paraíba, em particular, sofre com freqüentes secas, que têm seus efeitos agravados pela crescente demanda hídrica e consequente geração de conflitos entre os múltiplos usuários da água. Este projeto combina técnicas de otimização estocástica e inteligência artificial, visando à operação sustentável de sistemas hídricos localizados no semiárido Paraibano. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Alcigeimes Batista Celeste - Integrante / Camilo Allyson Simões de Farias - Coordenador / Celso Augusto Guimarães Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2009
+Operação Sustentável de Reservatórios para Mitigação de Secas no Semi-árido
+Descrição: Desenvolvimento e aplicação de metodologias para promover a operação ótima de reservatórios localizados em regiões semi-áridas com o objetivo de mitigar secas hidrológicas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alcigeimes Batista Celeste - Coordenador / Wilson Fadlo Curi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+Stochastic Approaches for Sustainable Water Resources Management in Semiarid Regions
+Descrição: Análise teórica de procedimentos de otimização e aplicação de técnicas estocásticas de hidroinformática na operação de reservatórios. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alcigeimes Batista Celeste - Coordenador / Max Billib - Integrante.Financiador(es): Alexander von Humboldt Foundation - Bolsa.Número de produções C, T & A: 4
+2005 - 2007
+Análises de Métodos de Otimização para Eficiência Energética de Estações Elevatórias em Sistemas de Abastecimento
+Descrição: Desenvolvimento, aplicação e comparação de métodos de programação matemática para a otimização do acionamento horário de conjuntos motor-bomba no sistema principal de abastecimento de água da cidade de Campina Grande, Paraíba. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Alcigeimes Batista Celeste - Integrante / Wilson Fadlo Curi - Coordenador / Mosefran Barbosa Macedo Firmino - Integrante / Adalberto Aragão de Albuquerque - Integrante / Wesley Catão Fadlo Curi - Integrante.Número de produções C, T & A: 3
+2005 - 2007
+Sustentabilidade Perante Incerteza: Metodologias para a Operação Sustentável do Sistema Coremas-Mãe d'Água, no Semi-Árido Paraibano, na Presença de Incertezas Hidrológicas
+Descrição: Determinação de políticas operacionais sustentáveis para o sistema de reservatórios Coremas-Mãe d'Água, localizado no sertão da Paraíba, levando em consideração as incertezas de vazões afluentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Rosires Catão Curi - Integrante / Wilson Fadlo Curi - Integrante.Financiador(es): Fundação de Apoio à Pesquisa do Estado da Paraíba - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 14
+1995 - 1997
+Aplicação de Técnicas de Otimização na Modelagem de Sistemas de Recursos Hídricos Sujeitos a Múltiplos Usos
+Descrição: Desenvolvimento de um modelo de programação não linear para a operação ótima do reservatório Engenheiro Arcoverde, no semi-árido paraibano. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcigeimes Batista Celeste - Coordenador / Rosires Catão Curi - Integrante / Wilson Fadlo Curi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 13
+1995 - 1995
+Orçamento de Consumo na Construção Civil
+Descrição: Levantamento de informações sobre orçamento de materiais e mão-de-obra na construção civil e desenvolvimento de algoritmos para implementação de software computacional. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alcigeimes Batista Celeste - Integrante / Armando Ferreira dos Santos Filho - Coordenador.

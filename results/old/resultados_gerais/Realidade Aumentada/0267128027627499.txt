@@ -1,0 +1,15 @@
+2010 - Atual
+Avaliação do Co-registro de Imagens Médicas Utilizando a Entropia de Tsallis no Statistical Parametric Mapping (SPM) para Transformações Geométricas Variadas
+Descrição: A sobreposição de imagens médicas tecnicamente conhecida como co-registro de imagens médicas, pode exercer um papel relevante na determinação de variações topográficas e morfológicas no diagnóstico funcional e em propostas terapêuticas. Motivado pelos resultados de um estudo prévio acerca da utilização da Entropia de Tsallis no co-registro de simulações de imagens médicas portando transformações conhecidas de rotação ou translação; este artigo propõe o estudo da Entropia de Tsallis em simulações com transformações mescladas de translação e rotação de tal forma a aproximar da realidade clínica. Para isto, imagens de Ressonância Magnética (MR) e SPECT de 2 pacientes morfologicamente normais foram utilizados para a construção dos simuladores, as quais foram então co-registradas com as imagens originais utilizando as funções de custo já tradicionais e a metodologia proposta.  Foram recuperadas as matrizes de transformação de cada co-registro para a determinação do Root Mean Square (RMS) da rotação e da translação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Henrique Tomaz do Amaral Silva - Coordenador / Lauro Wichert-Ana - Integrante / Paulo Mazzoncini de Azevedo-Marques - Integrante / SAKAMOTO, AC - Integrante / Luiz Otávio Murta Jr. - Integrante.
+2008 - Atual
+CO-REGISTRO DE IMAGENS MÉDICAS UTILIZANDO A ENTROPIA DE TSALLIS NO STATISTICAL PARAMETRIC MAPPING (SPM)
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Henrique Tomaz do Amaral Silva - Coordenador / Lauro Wichert-Ana - Integrante / Paulo Mazzoncini de Azevedo-Marques - Integrante / SAKAMOTO, AC - Integrante / Luiz Otávio Murta Jr. - Integrante.
+2007 - 2009
+Avaliação do Estado Subjetivo Provocado Pela Exposição a Expressões Faciais de Emoções Básicas em Voluntários Saudáveis.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Henrique Tomaz do Amaral Silva - Integrante / Isabela Panzeri Carlotti - Integrante / Marina Peres Verdi - Integrante / Cristina Marta Del-Ben - Coordenador.
+2007 - 2008
+Desenvolvimento de Interface Gráfica para Aplicativo MatLab de Análise de Oscilações Neuronais.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Henrique Tomaz do Amaral Silva - Integrante / Rodrigo Neves Romcy Pereira - Coordenador.Número de produções C, T & A: 1
+2006 - 2006
+Avaliação da Metodologia de Alinhamento e Subtração das Imagens de SPECT Crítico e Intercrítico em Epilepsia Através do Statistical Parametric Mapping (SPM,ISAS) .
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Henrique Tomaz do Amaral Silva - Integrante / Lauro Wichert-Ana - Integrante / Paulo Mazzoncini de Azevedo-Marques - Coordenador.Número de produções C, T & A: 2

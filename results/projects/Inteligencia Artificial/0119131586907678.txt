@@ -1,0 +1,60 @@
+2019 - Atual
+Modelo de Arquitetura da Informação para a Gestão dos Ativos de Conhecimento em Empresas do Setor de Tecnologias do Alto Vale do Itajaí
+Descrição: O projeto é de caráter multidisciplinar envolvendo elementos de pesquisa no campo das Ciências da Computação e da Gestão do Conhecimento nas organizações. Os objetivos propostos são:
+1	Analisar empresas de Tecnologias do Alto Vale do Itajaí para identificar características que retratem a existência de Ativos de Conhecimento;
+2	Projetar um Modelo Genérico baseado em Arquitetura de Informação, sob a forma de Framework que possibilite o registro, a recuperação e a análise de conteúdos caracterizados como Ativos de Conhecimento;
+3	Simular a operacionalização do modelo frente a gestores para verificar resultados quanto à eficácia e eficiência da proposta. 
+4      Disponibilizar o modelo a comunidade empresarial através do acesso a um Portal Informacional a ser vinculado ao IFC - Instituto Federal Catarinense. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Juliano Tonizetti Brignoli - Coordenador / Eduardo Segundo - Integrante.
+2018 - 2019
+Desenvolvimento de Software para auxilio no aprendizado de Matemática Discreta
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Juliano Tonizetti Brignoli - Coordenador / Angelo Victor Kraemer Foletto - Integrante / Felipe Peressim - Integrante.
+2013 - 2014
+Software para construção de Redes Fuzzy-Bayesianas orientada a projetos de ontologias.
+Descrição: Projeto continuado de sua versão anterior (2013) com implementação de Interface para Sistemas Especialistas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Juliano Tonizetti Brignoli - Coordenador / Flávio Sampaio Solci - Integrante.
+2012 - 2013
+Engenharia de Ontologias: estudo de ferramentas para aplicações em Web Semântica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Juliano Tonizetti Brignoli - Coordenador / Flávio Sampaio Solci - Integrante.
+2012 - 2012
+Avaliação de Desempenho em Redes de Computadores: estudo de caso aplicado no Instituto Federal Catarinense
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Juliano Tonizetti Brignoli - Integrante / Tiago Boechel - Coordenador / Flávio Sampaio Solci - Integrante.
+2008 - 2008
+Avaliação de desempenho aplicada às redes de computadores
+Situação: Desativado; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador.
+2007 - 2007
+Uso de tecnologias Hand Held no controle de produção: enfoque nas indústrias regionais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador.
+2007 - 2007
+Estratégias em Governo Eletrônico Municipal - Prefeitura Virtual
+Descrição: O trabalho é um estudo das estratégias de Governo Eletrônico (e-gov) e sua situação nas prefeituras
+da região do Alto Vale do Itajaí - SC, como parte dos trabalhos do projeto de cooperação
+internacional TRANSREG ? Virtuelles Rathaus (Prefeitura Virtual). Os dados foram coletados nas
+prefeituras, através de um questionário, entre outubro de 2005 e maio de 2006, referem-se a todos os
+28 municípios dessa região. Os destaques estão na concordância plena pelo uso do e-gov em 77,78%
+dos entrevistados: acesso à Internet por banda larga (84,62%) das prefeituras e a inexistência de
+serviços on-line para os cidadãos e apenas apresentando informações sobre as cidades. Como
+expectativas estão 76,92% dos pesquisados vêem maior aproximação com a população e entre 38% e
+46% melhoria da qualidade de vida, ganho de imagem e marketing, e por ultimo a redução de custos.
+Como perpesctivas futuras 55,55% dos entrevistados consideraram a discussão oportuna ou
+avançada e desejam mais informações a respeito do tema. Os resultados apresentam um panorama de
+pouco desenvolvimento do governo eletrônico nas administrações municipais em relação às esferas
+federais e estaduais. As informações obtidas com a pesquisa servirão para orientar o desenvolvimento
+de soluções em governo eletrônico e na troca de experiências entre as prefeituras da região com a
+Alemanha.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador / Ingobert Piske - Integrante / Fábio Alexandrini - Integrante / MARCO AURÉLIO BUTZKE - Integrante / FRANCISCO SPAETH - Integrante / EGON SEWALD JUNIOR - Integrante.
+2006 - 2006
+Sistemas Especialistas no auxílio ao diagnóstico em clínicas de pediatria do Alto Vale do Itajaí
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador.
+2005 - 2005
+Projeto de Web site do curso de Engenharia de Produção da Universidade para o Desenvolvimento do Alto Vale do Itajaí
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador.
+2005 - 2005
+O uso da informática educativa no desenvolvimento de raciocínio lógico
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador.
+2004 - 2010
+TRANSREG - Prefeitura Virtual a Internet a Serviço da Comunidade
+Descrição: Atividades de Pesquisa inerentes ao Projeto Transreg realizado em University of Münster, Germany, no período de 06 à 29 de janeiro de 2009.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Juliano Tonizetti Brignoli - Integrante / Fábio Alexandrini - Coordenador.
+2003 - 2004
+Educação e tecnologia, fatos de nossa vida: softwares educativos auxiliando o ensino aprendizagem
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador.
+2003 - 2004
+Interfaceamento de Equipamentos de Análises Clínicas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliano Tonizetti Brignoli - Coordenador.

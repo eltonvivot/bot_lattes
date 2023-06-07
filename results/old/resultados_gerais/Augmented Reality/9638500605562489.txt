@@ -1,0 +1,30 @@
+2012 - Atual
+Desenvolvimento de um sistema computacional de suporte à reabilitação motora
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Cristiano Coêlho de Araújo - Coordenador / Veronica Teichrieb - Integrante.
+2010 - 2013
+MCAExplore: Ambiente para Modelagem, Análise e Exploração de Arquiteturas Multi-cores considerando aspectos de Desempenho e Consumo de Energia
+Descrição: Este projeto visa criar ferramentas que permitam a modelagem de sistemas multicores em alto nível de abstração e ferramentas de simulação para a análise e exploração do espaço de projeto. O objetivo é permitir ao projetista do sistema avaliar e selecionar arquiteturas mais eficientes do ponto de vista de desempenho e consumo de energia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Doutorado: (1) . Integrantes: Cristiano Coêlho de Araújo - Integrante / Edna Barros - Coordenador / Abel Guilhermino da Silva Filho - Integrante / Sarmento, Adriano - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2010 - 2012
+Aplicação da Realidade Virtual na Reabilitação Motora
+Descrição: Descrição: A procura pela fisioterapia traumato-ortopédica tem crescido cada vez mais decorrente do elevado número de acidentes automobilísticos aliado a intensificação de acidentes de trabalho e domésticos. Sabe-se que a longa duração e a monotonia dos tratamentos são as principais causas da crescente evasão de pacientes nas clínicas de fisioterapia. Dessa maneira, há uma necessidade de comprovar a eficácia da Realidade Virtual como complemento ao tratamento fisioterápico,uma vez que os games(Nintendo Wii e Kapp) proporcionam diversão. O propósito deste estudo é investigar e comparar a funcionalidade da Reabilitação Wii e do Kapp no tratamento de lesões traumatoortopédicas. O resultado da pesquisa será repassado para os serviços de saúde de modo a oferecer uma melhor qualidade de atendimento e reduzir o tempo da reabilitação e conseqüentemente o custo com o tratamento destes pacientes... Situação: Concluído; Natureza: Pesquisa. Integrantes: Cristiano Coêlho de Araújo - Coordenador / Veronica Teichrieb - Integrante / thiago cardozo - Integrante.
+2007 - 2009
+PComAnalyser: Análise e Síntese de Comunicação ESL
+Descrição: Este projeto visa a pesquisa e desenvolvimento de ferramentas CAD que incorporem novas metodologias e técnicas para a análise e síntese de comunicação em circuitos integrados complexos compostos de plataformas de processadores heterogêneos, periféricos e hierarquia de memória interconectados por estruturas complexas de comunicação. Estas ferramentas pemitirão ao projetista de circuito integrado complexo modelar e analisar a comuniação em um alto nível de abstração, reduzindo assim o tempo de exploração de arquitetura para o circuito. A síntese permitirá que a comunicação seja implementada na plataforma alvo rapidamente e com um menor risco de erro para o projeto. Reduzindo assim o custo de desenvolvimento de circuitos integrados complexos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Cristiano Coêlho de Araújo - Coordenador / Edna Barros - Integrante / Millena Andrade - Integrante / Williams Azevedo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2011
+Platform Designer
+Descrição: Pesquisa e desenvolvimento de ferramenta para modelagem e simulação de platformas com múltiplos processadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cristiano Coêlho de Araújo - Coordenador.
+2003 - 2003
+Procad
+Descrição: Projeto de cooperação acadêmica entre grupos de pesquisa de várias universidades brasileiras. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Cristiano Coêlho de Araújo - Coordenador.
+2000 - 2003
+PetSysC
+Descrição: Projeto de modelagem de sistemas digitais utilizando-se Redes de Petri e SystemC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cristiano Coêlho de Araújo - Integrante / Edna Barros - Coordenador.Financiador(es): Deutscher Akademischer Austauschdienst - Auxílio
+										financeiro.
+1996 - 1997
+PROPISH: Prototipação Virtual de Hardware e Software
+Descrição: Projeto de prototipação de sistemas digitais utilizando-se linguagens formais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cristiano Coêlho de Araújo - Integrante / Edna Barros - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1994 - 1996
+Software Gerenciador do Sistema de Monitoração e Administração de Medicamentos (SAM3)
+Descrição: Projeto de Implementação de software de controle para equipamento de monitoração e administração de medicamentos por via intravenosa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cristiano Coêlho de Araújo - Integrante / Mauro Rodrigues dos Santos - Coordenador / Marcílio André Felix Feitosa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

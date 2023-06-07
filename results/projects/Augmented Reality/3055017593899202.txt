@@ -1,0 +1,63 @@
+2020 - Atual
+Teoria de Controle Aplicada a Robôs Moles
+Descrição: Os robôs complacentes possuem características particulares que implicam no desenvolvimento de controladores especialmente elaborados para lidar com as não-linearidades presentes. O projeto é dedicado ao estudo da modelagem e o controle de sistemas robóticos complacentes (Robôs moles) baseados em elastômeros e sistemas pneumáticos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (1) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Diego Colon - Integrante / Alexandre Simião Caporali - Integrante / Haroldo Issao Guibu - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - 2020
+Estudo sobre a modernização de um forno a gás natural
+Descrição: O projeto de pesquisa e inovação a ser desenvolvido na empresa CILASI Alimentos S.A. é dedicado ao estudo dos sistemas automáticos a serem implantados num forno a gás numa linha de produção de biscoitos (linha 2). Em projeto recentemente concluído foi desenvolvido um estudo semelhante para uma linha de produção elétrica na mesma empresa (linha 5). Diante do sucesso do primeiro projeto, foi demandado o desenvolvimento do presente projeto de pesquisa e inovação. No presente projeto o novo enfoque será dado para a fonte de energia que será utilizada para a produção, considerando que todas as demais linhas da empresa são movidas a gás. Desta forma pretende-se fazer um levantamento detalhado dos sistemas envolvidos na operação da linha, considerando esta fonte de energia. Assim como no projeto anterior, deverão ser propostos sistemas automáticos inovadores que incluirão as demandas relacionadas ao aumento da segurança na operação da planta. Estas necessidades são exigidas por normas específicas utilizadas como referência no projeto anterior e que deverão pautar todos os novos desenvolvimentos na empresa. As normas NR-10 e NR-12 foram exaustivamente estudadas e referenciadas no projeto anterior e esta experiência deverá ser levada para a atual demanda. Ao final do projeto pretende-se ter uma documentação que descreva as melhores opções para a automação do processo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Eduardo Alves da Costa - Integrante.Financiador(es): Cilasi Alimentos S/A - Auxílio
+										financeiro / Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Bolsa.
+2018 - 2018
+Estudo para a Modernização de um Forno Industrial Através da Implementação de Sistemas de Controle e Automação
+Descrição: O presente projeto trata dos estudos que serão realizados para a modernização de um forno
+industrial na empresa Cilasi Alimentos 5/A. A área de controle de processos industriais envolve
+temas diversos, tais como: automação, instrumentação, segurança, instalações elétricas e o
+processo em si. No caso desta aplicação será feito um estudo para a modernização dos sistemas
+de automação de um forno industrial atualmente em uso (linha 5) para a produção de biscoitos.
+Diversas tecnologias recentes permitem a obtenção de ganhos na operação de sistemas de
+produção. O projeto consistirá no levantamento dos equipamentos atualmente utilizados na
+automação do forno, bem como no estudo do processo de produção. Pretende-se detalhar o estado
+atual do processo e elaborar um plano de modernização que garanta um acompanhamento mais
+efetivo do processo, aumentando a segurança na operação do mesmo. O estudo será baseado em
+referências da área de controle de processos e automação, bem como em documentos de patentes
+de dispositivos utilizados nesse tipo de aplicação. Ao final do projeto pretende-se ter um
+documento que descreva as melhores opções para a automação do processo, tendo em vista o
+objetivo detalhado acima.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Brincalepe Campo - Coordenador.Financiador(es): Cilasi Alimentos S/A - Auxílio
+										financeiro / Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Bolsa.
+2016 - Atual
+Laboratórios para Todos - Desenvolvimento de Laboratórios Remotos
+Descrição: Desenvolvimento da estrutura física e de software para laboratórios remotos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado profissional: (1) . Integrantes: Alexandre Brincalepe Campo - Coordenador / RAFAEL PEREIRA BACHEGA - Integrante.Financiador(es): Fundação SciBr - Auxílio
+										financeiro.
+2015 - 2022
+Biodesign - Projeto de Equipamentos Médicos
+Descrição: O trabalho conjunto entre profissionais da área de saúde e engenheiros possibilita que inovações sejam desenvolvidas através da aplicação de novas tecnologias. Este projeto trata da estruturação de uma metodologia a ser utilizada para o desenvolvimento dos projetos que se encontram em andamento nas parcerias mantidas com colaboradores da área médica. Este projeto terá como foco a consolidação deste processo a partir da identificação de uma necessidade, seguindo para a análise das possibilidades de desenvolvimento, passando pela revisão bibliográfica até o levantamento de informações em repositórios de patentes e chegando à proposta de uma solução e construção de um protótipo. Particularmente duas áreas estão no escopo principal: análise de surtos epilépticos e biomecânica do movimento. Em ambas especialidades o grupo conta com apoio de pesquisadores colaboradores da Universidade de São Paulo. A metodologia já vem sendo aplicada, tendo levado a alguns resultados expressivos, tais como: mestrados concluídos ou em desenvolvimento, artigos submetidos em conferências internacionais e patentes depositadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado profissional: (2) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Ricardo Pires - Integrante / Alexandre Simião Caporali - Integrante / Miguel Angelo de Abreu de Sousa - Integrante / Ulysses Fernandes Ervilha - Integrante / Maria Sigride Thomé de Souza - Integrante.Número de produções C, T & A: 1
+2015 - 2017
+Desenvolvimento de plataforma baseada em rodas de reação
+Descrição: Através de uma montagem desenvolvida com auxílio de recursos de projeto CNPQ, pretende-se estudar um sistema atuador que poderá vir a ser utilizado em robótica. O sistema é composto por dois motores, duas massas e sistemas eletrônicos de controle de equilíbrio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Alexandre Brincalepe Campo - Coordenador / RAFAEL PEREIRA BACHEGA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2015 - 2017
+Chamada CNPq SETEC/MEC Nº 17/2014 Linha 3: Torneio de Educação Profissional
+Descrição: Apoio a Projetos de Pesquisa Chamada CNPq SETEC/MEC Nº 17/2014 Linha 3: Torneio de Educação Profissional. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Brincalepe Campo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+2014 - Atual
+Desenvolvimento de Soft Robots
+Descrição: Este projeto está voltado para o estudo de dispositivos sensores, atuadores, de processamento de sinais e controle relacionados à área de robótica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Alexandre Brincalepe Campo - Coordenador / RAFAEL PEREIRA BACHEGA - Integrante / Alexandre Simião Caporali - Integrante.Número de produções C, T & A: 1
+2013 - 2014
+CNPq/VALE S.A. Nº 05/2012 ? Forma-Engenharia
+Descrição: Chamada CNPq/VALE S.A. Nº 05/2012 ? Forma-Engenharia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Miguel Angelo de Abreu de Sousa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.Número de produções C, T & A: 6
+2012 - 2015
+Desenvolvimento de Robôs Biomiméticos
+Descrição: Estudos para o desenvolvimento de um peixe-robô e de um robô hexápode.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado profissional: (2) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Ricardo Pires - Integrante / RAFAEL PEREIRA BACHEGA - Integrante / Rodrigo Letang - Integrante.Número de produções C, T & A: 1
+2012 - 2013
+Estudo integrado de robótica, eletrônica e controle
+Descrição: Projeto dedicado ao desenvolvimento de uma plataforma robótica flexível para participação na Olimpíada Brasileira de Robótica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Miguel Angelo de Abreu de Sousa - Integrante / Carlos Issao Fukushima - Integrante / Djohnson Márcio de Lima - Integrante / Cássia do Nascimento Santos Barbosa Chagas - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2012
+Projeto Institucional - IFSP - Robótica Aplicada
+Descrição: Nesta pesquisa alunos do curso de engenharia de Controle e Automação do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo estão sendo orientados para preparar um grupo de estudantes do ensino técnico da mesma instituição para a participação na Olimpíada Brasileira de Robótica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado profissional: (2) . Integrantes: Alexandre Brincalepe Campo - Coordenador / RAFAEL PEREIRA BACHEGA - Integrante / Alexandre Simião Caporali - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2009 - 2011
+Desenvolvimento de Sistema para Estudo da Marcha Humana
+Descrição: Desenvolvimento de um sistema integrado de sensores sem fio de baixo custo para monitoramento dos movimentos de uma pessoa durante a execução dos movimentos numa caminhada.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Ricardo Pires - Integrante / Thomas Edson Filgueiras Filho - Integrante.
+2009 - 2011
+Desenvolvimento de Laboratórios Remotos
+Descrição: Pesquisa e desenvolvimento de laboratórios que possam ser operados remotamente. Os experimentos executados nos laboratórios deverão ilustrar conceitos de ciência e tecnologia são estudados em cursos de graduação ou mesmo em cursos técnicos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre Brincalepe Campo - Coordenador / Eduardo Alves da Costa - Integrante / GIACOMINI, R.C. - Integrante / LUCCHI, J.C. - Integrante.
+2007 - 2011
+Projeto de sistemas de controle de força em robôs
+Descrição: Esta pesquisa está direcionada para o desenvolvimento de robôs que possuam realimentação de força, permitindo o desenvolvimento de estratégias específicas para locomoção em ambientes complexos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Alexandre Brincalepe Campo - Coordenador / Ricardo Pires - Integrante / RAFAEL PEREIRA BACHEGA - Integrante.Número de produções C, T & A: 7

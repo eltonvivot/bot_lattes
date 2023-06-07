@@ -1,0 +1,53 @@
+2023 - Atual
+Modelagem estocástica e quantificação de incertezas em dinâmica de estruturas
+Descrição: Chamada CNPq Nº 09/2022 - Bolsas de Produtividade em Pesquisa - PQ. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador / Bernardo Fonseca Nogueira - Integrante / Daniel Moraes Lobo - Integrante / Raphael Santana - Integrante / Leonardo V Pereira - Integrante / Sandro Carvalho Valente - Integrante / Guilherme Negreiros Lacerda - Integrante.
+2022 - Atual
+Quantificação de incertezas e modelagem estocástica em dinâmica estrutural
+Descrição: Edital FAPERJ Nº 32/2021 - programa "Cientista do Nosso Estado". Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador / Bernardo Fonseca Nogueira - Integrante / Raphael Santana - Integrante / Lobo, Daniel M. - Integrante / Leonardo V Pereira - Integrante / Sandro Carvalho Valente - Integrante / Guilherme Negreiros Lacerda - Integrante.
+2022 - Atual
+Inteligência artificial aplicada na criação de modelos representativos de mancais hidrodinâmicos, selos anulares e máquinas rotativas (ROSS - Digital Twin)
+Descrição: Desenvolvimento de software aberto em Python.
+ROSS - Rotordynamic Open Source Software.
+Modelagem estocástica, quantificação de incertezas, calibração de modelos, aprendizado de máquina, gêmeo digital.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Integrante / Aldemir Aparecido Cavallini - Coordenador / Fabio Pereira dos Santos - Integrante / Guilherme Negreiros Lacerda - Integrante.
+2019 - 2021
+Quantifica¸c~ao de incertezas e modelagem estoc´astica em dinâmica estrutural
+Descrição: Chamada CNPq Nº 09/2018 - Bolsas de Produtividade em Pesquisa - PQ. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador.
+2018 - 2021
+Desenvolvimento de software em código aberto para análise rotodinâmica com estudo de incertezas.
+Descrição: Projeto com CENPES-Petrobrás sobre modelagem e simulação de máquinas rotativas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador / Juliana Vianna Valério - Integrante / Rodrigo de Oliveira - Integrante.
+2018 - 2021
+Quantificação de incertezas e modelagem estocástica em dinâmica estrutural
+Descrição: Edital FAPERJ Nº 03/2017 - programa "Jovem Cientista do Nosso Estado".. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador.
+2018 - 2020
+Dinâmica e Estocástica
+Descrição: Edital Nº 04/2017 - Capes-Cofecub. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Integrante / Marcelo Areias Trindade - Integrante / Daniel Alves Castello - Integrante / SAMPAIO, RUBENS - Coordenador / CURSI, JOSÉ EDUARDO SOUZA - Integrante / Jean-François Deu - Integrante / Roberta Q Lima - Integrante / Sergio Bellizzi - Integrante.
+2018 - 2020
+Tratamento de dados de vibração de colunas de perfuração de petróleo, modelagem/simulação da dinâmica da coluna e calibração de modelos
+Descrição: Projeto com CENPES-Petrobrás sobre tratamento de dados de vibração de colunas de perfuração de petróleo, modelagem/simulação da dinâmica da coluna e calibração de modelos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador / Daniel Alves Castello - Integrante / Fernando Augusto de Noronha Castro Pinto - Integrante / Daniel Moraes Lobo - Integrante / Raphael Santana - Integrante / Edison F C Pérez - Integrante.
+2017 - 2020
+Dinâmica determinística e estocástica de máquinas rotativas: modelagem computacional e bancada experimental
+Descrição: Edital CNPQ 01/2016 - Chamada Universal - Processo: 400933/2016-0. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador.
+2015 - 2021
+Desenvolvimento de bancada experimental para caracterização de selos internos de compressores centrífugos
+Descrição: Projeto com CENPES-Petrobrás Análise numérica e experimental de selos internos e estabilidade rotodinâmica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Integrante / Fernando Augusto de Noronha Castro Pinto - Coordenador / Diego Godoy - Integrante.
+2015 - 2017
+Quantificação de incertezas e modelagem estocástica em dinâmica estrutural
+Descrição: Edital FAPERJ Nº 25/2014 - programa "Jovem Cientista do Nosso Estado".. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Thiago Gamboa Ritto - Coordenador.
+2014 - 2016
+Optimal Design of Base Frame for Steam Turbines
+Descrição: Projeto com Siemens. Otimização de quadros bases de turbinas a gás usando análise estrutural e modal do ANSYS.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Integrante / JOSE H NORMAN - Coordenador / ELMER BAZAN - Integrante / Rodrigo de Oliveira - Integrante / Zelia Garcia - Integrante.
+2014 - 2015
+Transient analysis of the coupled torsional-axial vibrations of a drill-string
+Descrição: Projeto com BRGC-Schlumberger. Análise transiente da vibração acoplada torcional-axial de um modelo de coluna de perfuração de petróleo. Análise de estabilidade e meios para mitigação da vibração. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador / LARISSA C CUNHA-LIMA - Integrante.
+2012 - 2014
+Cuantificacion De Incertidumbre Y Modelado Estocástico En Dinámica Mecánico-Estructural
+Descrição: Projeto MINCYT-Capes em parceria com as universidades PUC-Rio, Universidad Nacional del Sur e Universidad Tecnológica Nacional. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Integrante / Rubens Sampaio - Coordenador / Fernando Salvador Buezas' - Integrante / Mário R. Escalante - Integrante / Marta B. Rosales - Integrante / Marcelo Tulio PIOVAN - Integrante.
+2012 - 2014
+Caracterização, deterministica e probabilistica, de bacias de atração atraves de funções de Liapunov
+Descrição: Projeto Probral Capes-DAAD em parceria com as universidades PUC-Rio e Universidade de Darmstadt. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Integrante / Rubens Sampaio - Coordenador / Fernando Alvez Rochinha - Integrante / Peter HAGEDORN - Integrante.
+2012 - 2013
+Identification of the parameters of the computational model of drilling equipment
+Descrição: Projeto com BRGC-Schlumberger. Desenvolvimento de estratégia de Identificação, em tempo real, dos parâmetros de um modelo computacional de perfuração. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Coordenador.
+2011 - 2014
+Dinâmica não-linear e modelagem estocástica
+Descrição: Projeto Capes/Cofecub em parceria com as universidades Francesas: Université Paris-Est, INSA de Rouen e Conservatoire National des Arts et Métiers (CNAM) e as universidades Brasileiras PUC-Rio, UFRJ, UFF e USP. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Gamboa Ritto - Integrante / Rubens Sampaio - Coordenador / Edson Cataldo - Integrante / Fernando Alvez Rochinha - Integrante.

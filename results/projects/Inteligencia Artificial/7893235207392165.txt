@@ -1,0 +1,40 @@
+2019 - Atual
+Avanços na Estatística Espacial na Era do Big Data
+Descrição: O objetivo geral deste projeto é propor e desenvolver metodologias na fronteira do conhecimento em estatística espacial para sobrepor as limitações dos modelos existentes na literatura para análises de grandes bancos de dados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - Atual
+Avanços em Modelagens Espaciais
+Descrição: O objetivo geral deste projeto é propor e desenvolver metodologias na fronteira do conheci-
+mento em estatística espacial para sobrepor as limitações dos modelos existentes na literatura
+tanto para análises de grandes bancos de dados como em áreas que ainda não incorporam
+efeitos espaciais ou não trabalham apropiadamente com dados georeferenciados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - Atual
+Novas Modelagens: Bayesianas, Processos Espaciais e Modelos Hierárquicos
+Descrição: O objetivo geral deste projeto é propor novas metodologias estatísticas para sobrepor as limitações existentes de modelos Gaussianos para modelagem de dados espaciais. Também visa propor funções de ligação mais flexíveis que se adequem melhor ao conjunto de dados analisados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2015 - 2018
+Desenvolvimento de Modelos, Método e Sistema Computacional para a Previsão da Velocidade do Vento em Horizontes de Curto e Longo Prazo
+Projeto certificado pela empresa Companhia Energética de Minas Gerais em 11/09/2018.
+Descrição: O objetivo principal desta proposta é o desenvolvimento de métodos melhorados de modelagem do vento tanto para fins de previsão em horizontes de curto, médio e longo prazo como para determinar o recurso de vento de um local de interesse em estudos de potencial eólico para geração de eletricidade. Espera-se que os métodos desenvolvidos tenham um desempenho superior ao de métodos comumente usados na indústria para esses fins, dando assim um diferencial aos empreendimentos eólicos do grupo Cemig. Os novos métodos serão disponibilizados para uso operacional na forma de ferramentas de software de fácil uso por profissionais de outras áreas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Marcos Oliveira Prates - Coordenador / Costa, Marcelo A. - Integrante / Thais Cristina Oliveira da Fonseca - Integrante / Paulo Justiniano Ribeiro Jr - Integrante / Ramiro Ruiz Cardenas - Integrante.Financiador(es): Companhia Energética de Minas Gerais - Auxílio
+										financeiro.
+2014 - 2016
+Extensões Robustas Para Processos Espaciais E Modelos Lineares Generalizados
+Descrição: Flexibilização de Modelos Espaciais através de diferentes técnicas estatíticas: uso de distribuição assimétricas, cópulas, etc.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Coordenador / Dey, Dipak K. - Integrante / Willig, Michael R. - Integrante / Yan, Jun - Integrante / Víctor Hugo Lachos Dávila - Integrante / Renato Martins Assunção - Integrante / Marcelo Azevedo Costa - Integrante / Martin Kulldorff - Integrante / Havard Rue - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2013 - 2016
+InfoSAS - Um Sistema para Controle da Produção do SUS por Técnicas de Aprendizado de Máquina e Mineração de Dados
+Descrição: O controle da produção do Sistema Único de Saúde (SUS) é um desafio de vital importância para seus gestores, e este controle é central para a missão do Departamento de Regulação, Avaliação e Controle (DRAC) da Secretaria de Atenção à Saúde (SAS) do Ministério da Saúde (MS). Com o objetivo de melhorar seu ferramental de controle, o DRAC solicitou à UFMG o desenvolvimento de um sistema que explore técnicas de aprendizado de máquina e de mineração de dados para a detecção automática de desvios de séries históricas e de outras anomalias.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Integrante / Renato Martins Assunção - Integrante / Wagner Meira Junior - Integrante / Osvaldo Sergio Farhat de Carvalho - Coordenador / Márcio Luiz Bunte de Carvalho - Integrante / Andrea Iabrudi Tavares - Integrante / Dorgival Olavo Guedes Neto - Integrante.
+2013 - 2014
+CAMPOS GAUSSIANOS ALEAT ORIOS TRANSFORMADOS
+Descrição: Utilização de cópulas para flexibilziar modelos em estatística espacil. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Coordenador.Financiador(es): Universidade Federal de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2013
+Processos Espaciais Assimétricos
+Descrição: Grupo de pesquisa é voltado a criação de metodologias e modelos assimétricos para ajuste à dados espaciais. Os modelos assimétricos são mais flexíveis e capazes de acomodar de forma mais realísitica as características dos dados à modelos estatísticos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Marcos Oliveira Prates - Coordenador / Renato Martins Assunção - Integrante / Marcelo Azevedo Costa - Integrante / Fábio Nogueira Demarqui - Integrante / Vinícius Diniz Mayrink - Integrante.
+2012 - 2013
+MODELOS ESPACIAIS ASSIM ETRICOS USANDO MISTURAS DE ESCALA SKEW-NORMAL
+Descrição: Flexibilização de modelos espacais através do uso de distribuição assimétricas e de caudas pesadas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Coordenador.Financiador(es): Universidade Federal de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2012
+Gestão Integrada para a Segurança no Trânsito - GISTRAN
+Descrição: Desenvolvimento de metodologias de análise espacial de acidentes de trânsito, implantação de um modelo de Gestão Integrada para Segurança no Trânsito GISTRAN, no município de Belo Horizonte, com desenvolvimento de análise do banco de dados, estruturação das informações, desenvolvimento do plano de ação e da formatação da matriz de avaliação. O serviço compreenderá a estruturação da base de dados existentes na BHTRANS, tendo como referência a REDS, modelagem para análise de acidentes territorialidade, coleta de dados complementares outra fontes e estruturação das unidades gerenciais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Oliveira Prates - Integrante / Marcelo Azevedo Costa - Integrante / Marcos Antônio da Cunha Santos - Integrante / Cláudio Chaves Beato Filho - Coordenador.Financiador(es): Empresa de Transportes e Trânsito de Belo Horizonte - Bolsa.

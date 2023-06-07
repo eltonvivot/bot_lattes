@@ -1,0 +1,106 @@
+2019 - Atual
+IHMs de Alta Disponibilidade em Sistemas Embarcados Safety-Critical
+Descrição: Este projeto de pesquisa apresenta uma proposta de implementação de IHMs de alta
+disponibilidade, com foco no sua aplicação em sistemas embarcados safety-critical.
+O principal objetivo é a definição de uma infraestrutura genérica que suporte a
+execução confiável de interfaces gráficas de usuário em uma série de domínios de
+aplicação. Esta infraestrutura será construída utilizando plataformas tais como a
+Toradex Apalis iMX8 [8], executando Linux Embarcado [9] e com IHMs
+desenvolvidas utilizando o toolkit Qt [10]. Aspectos de alta disponibilidade serão
+implementados com base no Qt Safe Renderer [11] ? tecnologia para implementação
+de IHMs críticas disponibilizada como parte oficial do Qt.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Wesley Gomes Lima Melo - Integrante.
+2017 - 2018
+Meg: Arquitetura de Software, Frameworks e Geradores de Código para Aplicativos Móveis
+Descrição: Este projeto de pesquisa apresenta uma proposta de desenvolvimento de um
+framework e ferramentas auxiliares para desenvolvimento de aplicativos
+multiplataforma (Android e iOS) para dispositivos móveis. Um dos objetivos é trazer
+agilidade e qualidade aos processos de desenvolvimento destes aplicativos, ao
+mesmo tempo em que disponibiliza-se soluções flexíveis e modernas para este
+domínio de aplicação.
+A solução proposta ? denominada Meg ? é formada por três componentes principais:
+i) uma arquitetura de referência para o domínio de aplicativos móveis, ii) um
+framework que implementa esta arquitetura de referência e iii) um conjunto de
+utilitários de linha de comando que automatizam partes importantes da geração de
+código-fonte para estas aplicações. A arquitetura de referência inclui aspectos
+importantes tais como o suporte a plugins, gerenciamento de decisões de
+implantação em múltiplas plataformas, internacionalização/localização, comunicação
+em rede e aspectos relacionados a concorrência. O framework será desenvolvido
+utilizando o toolkit Qt e as linguagens QML e C++. Os utilitários de linha de
+comando serão desenvolvidos na linguagem Ruby, com base no framework para
+geração de utilitários de linha de comando Thor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Eliakin Costa de Almeida - Integrante.
+2015 - 2016
+Planejamento Regional Adaptativo em Sistemas Self-Adaptive de Larga Escala
+Descrição: Um Sistema Self-Adaptive (SSA) é aquele que avalia o seu próprio comportamento
+e o modifica quando a avaliação indica que: o seu propósito principal não está sendo
+efetivamente cumprido; ou uma melhor funcionalidade e/ou desempenho pode ser
+alcançado. Embora muitas arquiteturas de referência para SSA estejam disponíveis
+atualmente, a maioria delas apresenta como restrição o suporte apenas a sistemas
+centralizados. Algumas poucas arquiteturas implementam suporte a ambientes des-
+centralizados e as poucas que o fazem não apresentam bom desempenho em ambientes
+altamente dinâmicos. Weyns et al. (2010) propuseram seis padrões para modela-
+gem de autogerenciamento descentralizado, descrevendo os modelos de comunicação
+entre os diversos componentes do controle, os atributos de qualidade induzidos por
+cada padrão e as restrições impostas por tais decisões. Este projeto de pesquisa tem
+como objetivo o desenvolvimento e avaliação de um modelo adaptativo para autoge-
+renciamento de SSA de larga escala. Esse modelo prevê a reconfiguração dinâmica
+da topologia e forma de comunicação entre os múltiplos componentes de controle.
+Através dessa abordagem, decisões de projeto acerca da topologia de controle a ser
+adotada serão levadas para run-time. Com isso, espera-se obter desempenho satisfa-
+tório do controle tanto em situações onde o sistema gerenciado/ambiente sugerem a
+adoção de topologias mais centralizadas, até situações onde padrões completamente
+descentralizados apresentam melhor benefício.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Eudes Santos Andrade - Integrante / Gabriel Ferreira Barros de Sousa - Integrante.
+2015 - 2016
+Melhoramento Genético On-Line como Infraestrutura para Sistemas Self-Adaptive Descentralizados
+Descrição: Um Sistema Self-Adaptive é aquele que avalia o seu próprio comportamento e o
+modifica quando a avaliação indica que: o seu propósito principal não está sendo
+efetivamente cumprido; ou uma melhor funcionalidade e/ou desempenho pode ser
+alcançado. Diversas tecnologias são atualmente utilizadas como mecanismo viabili-
+zador de autogerenciamento: gramáticas de grafos, agentes inteligentes, otimização,
+teoria de controle, etc. Um desafio atual, investigado em diversas pesquisas recen-
+tes, é a prospecção de soluções auto-adaptativas escaláveis e que suportem conhe-
+cimento parcial/incerto sobre o sistema ou ambiente de execução. Este projeto de
+pesquisa tem como objetivo a utilização de técnicas de otimização multiobjetivo evo-
+lucionária como infraestrutura viabilizadora de adaptação arquitetural em Sistema
+Self-Adaptive de larga escala e descentralizados. O trabalho consiste na adaptação
+da pesquisa de Andrade & Macêdo (2014), onde um mecanismo off-line para otimi-
+zação de arquiteturas de Sistema Self-Adaptive é proposto. O objetivo é projetar
+e implementar as estruturas que permitem a execução destas otimizações em run-
+time, fazendo com que os resultados das buscas definam as adaptações arquiteturais
+a serem executadas de modo a fazer que o sistema continue apresentando os níveis
+de qualidade de serviço desejados. Pelo fato de as otimizações serem executadas
+on-line, aspectos como previbilidade temporal e velocidade de convergência passam
+a ser mais críticos e devem guiar o projeto do mecanismo a ser utilizado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador / Ícaro Jerry Salles Santana - Integrante.
+2014 - 2019
+Uma Infraestrutura para Suporte ao Gerenciamento de Emergências em Ambientes Indoor
+Descrição: A ocorrência de desastres em eventos que têm alta concentração de pessoas ou eventos re- alizados em áreas industriais são exemplos de situações que podem ter um grande impacto sobre a vida das pessoas envolvidas, sobre as propriedades e o meio ambiente, entre outros. Neste contexto, a tomada de decisão é um ponto crítico em situações de emergência. Uma emergência pode acontecer tanto em ambientes fechados (indoor) quanto em ambientes abertos (outdoor). Em ambos os casos, é importante a adoção de soluções que viabilizem a tomada de decisão a partir de centros de comando ? responsáveis pelo gerenciamento dos dados que descrevem a emergência. Muitos trabalhos encontrados na literatura focam em suporte a emergências em ambientes outdoor. Entretanto, situações de emergência são recorrentes em ambientes indoor, principalmente em grandes empresas. Este projeto tem como objetivo desenvolver de uma infraestrutura para coleta, análise e visualização de dados relacionados a emergências em ambientes indoor. Para isso, a infraestrutura aqui proposta integra informações obtidas a partir de sensores com a adoção de arquiteturas escaláveis e adaptativas de software e de técnicas de visualização de informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (6)  / Mestrado acadêmico: (2)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Sandro Santos Andrade - Integrante / Manoel Carvalho Marques Neto - Integrante / Renato Lima Novais - Coordenador.
+2013 - 2014
+Projeto e Implementação de um Framework para Definição de Sintaxes Concretas no DuSE-­MT
+Descrição: Este trabalho tem como objetivo o projeto e desenvolvimento de um framework para definição de sintaxes concretas para linguagens de modelagem suportadas pelo DuSE­-MT. As oportunidades de inovação e o diferencial apresentado pelo ambiente proposto são caracterizados pelos seguintes recursos:
+? Independência de meta­modelo. O framework  deve suportar a definição de sintaxes concretas para qualquer linguagem suportada pelo DuSE­MT.  Isto inclui a implementação de parte da sintaxe concreta definida pela UML, bem como a definição dos mecanismos básicos que permitirão a criação de novas representações para constructos de qualquer outra linguagem suportada pelo DuSE­-MT.
+? Utilização de tecnologias declarativas para implementação das representações. Linguagens declarativas, como por exemplo o QML/Qt, permitem o desenvolvimento mais produtivo e flexível de elementos de interface gráfica de usuário. Adicionalmente, o    suporte atual disponibilizado pelo Qt é suportado por hardware, trazendo consideráveis avanços no desempenho de exibição de tais representações.
+? Baixo acoplamento entre sintaxe abstrata e sintaxe concreta. Ao definir tais aspectos como elementos com baixo acoplamento, permite­se o reuso da sintaxe abstrata em ambientes que requerem outras implementações de sintaxe concreta, tais como dispositivos com restrições no form factor, como smartphones e tablets.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Félix Simas de Souza Neto - Integrante.
+2013 - 2014
+ARCADE ? Ambiente Integrado para Análise e Desenvolvimento Dirigidos a Modelos Arquiteturais de Software
+Descrição: Este projeto tem como objetivo o desenvolvimento do ARCADE: ambiente integrado para modelagem, análise e desenvolvimento de sistemas dirigidos a modelos, com foco nos aspectos arquiteturais. As oportunidades de inovação e o diferencial apresentado pelo ambiente proposto são caracterizados pelos seguintes recursos:
+    ? Suporte nativo e integrado a aspectos arquiteturais de software. As ferramentas atualmente disponíveis não disponibilizam um auxílio explícito a estes aspectos, ficando a cargo do projetista a correta aplicação (ou não) dos poucos recursos da UML para modelagem de aspectos arquiteturais. O objetivo é dotar a ferramenta de conhecimentos e recursos específicos para modelagem de arquiteturas de software, através de especializações e adequações dos recursos atualmente disponíveis na UML.
+    ? Mecanismo extensível e de fácil uso para definição de operações de análise. Os recursos para validação e análise de modelos UML disponibilizados pelas ferramentas atuais se resumem à verificação de regras de boa formação e outras validações simples. A ferramenta proposta disponibilizará construtores de âmbito arquitetural que permitirão que o projetista especifique operações de análise a serem realizadas, utilizando linguagens tais como OCL (Object Constraint Language) [12], XQuery [13] ou JavaScript [14].
+    ? Mecanismo extensível para mapeamento de modelos em AIFs. A geração automática de parte dos artefatos de código da aplicação é um dos principais objetivos de um ambiente de desenvolvimento dirigido a modelos. Este projeto prevê a definição de um mecanismo extensível para suporte facilitado de novas plataformas-alvo, permitindo que os modelos sejam mapeados em diferentes AIFs, desenvolvidos em diferentes tecnologias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador.
+2012 - 2013
+DuSE-MT ? Ambiente Integrado para Análise e Desenvolvimento Dirigidos a Modelos Arquiteturais de Software
+Descrição: Dentro da Engenharia de Software, a sub-área de Arquitetura de Software constitui um campo recente de pesquisa e desenvolvimento. Entretanto, desde o lançamento da primeira literatura nesta área em 1996, nota-se um crescente amadurecimento e sistematização da aplicação dos conceitos, técnicas e metodologias relacionadas a Arquitetura de Software. Embora a UML possua alguns recursos básicos para modelagem de arquitetura, nota-se uma carência generalizada de ferramentas com suporte explícito a conceitos tais como: estilos arquiteturais, visões e perspectivas arquiteturais, análise arquitetural automatizada e integração com Architecture Implementation Frameworks (AIF).
+Este projeto tem como objetivo o desenvolvimento do ARCADE: ambiente integrado para modelagem, análise e desenvolvimento de sistemas dirigidos a modelos, com foco nos aspectos arquiteturais. As oportunidades de inovação e o diferencial apresentado pelo ambiente proposto são caracterizados pelos seguintes recursos: i) suporte nativo e integrado a aspectos arquiteturais de software, ii) mecanismo extensível e de fácil uso para definição de operações de análise, e iii) mecanismo extensível para mapeamento de modelos em AIFs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Doutorado: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Luis Paulo Torres de Oliveira - Integrante / Igo da Cruz dos Santos - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Bolsa.Número de produções C, T & A: 2
+2011 - 2012
+Projeto e Implementação dos Módulos de Edição/Publicação de Lições e Integração MIDI no Spinet - Ambiente OpenSource Integrado e Colaborativo para Ensino de Fundamentos de Música
+Descrição: O projeto Spinet, desenvolvido no âmbito do Grupo de Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT) do IFBa e do Live Blue (Grupo de Desenvolvedores KDE da Bahia), tem como objetivo o projeto e desenvolvimento de um ambiente opensource integrado e colaborativo para ensino de fundamentos de música.
+No primeiro ano de desenvolvimento do Spinet, realizado por um bolsista PIBIC 2010/2011, foram implementados os módulos principais da ferramenta: núcleo da aplicação com suporte facilitado a plug-ins, principais plug-ins de backend para os serviços de áudio, módulo para geração de partituras em run-time e arquitetura básica para definição, execução e avaliação de lições musicais (atualmente criadas manualmente em formato MusicXML).
+Dando continuidade ao projeto, o desenvolvimento de um módulo que possibilite a criação facilitada de novas lições (editor de lições) e a publicação destas lições na rede para futura utilização por outros usuários do Spinet representa um avanço considerável para o uso efetivo do ambiente. Adicionalmente, este projeto prevê o desenvolvimento de funcionalidades para integração com instrumentos musicais eletrônicos reais via protocolo MIDI (Musical Instrument Digital Interface), possibilitando a aplicação de exercícios a serem executados diretamente no instrumento musical (qualquer um que suporte o protocolo MIDI) e a consequente avaliação automática pelo computador.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Luis Paulo Torres de Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa / Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Outra.
+2011 - 2012
+Projeto e Implementação do Repositório de Componentes e Infra-Estrutura de Comunicação Distribuída do QCM
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Anderson José César Pereira - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2011
+Spinet - Ambiente OpenSource Integrado e Colaborativo para Ensino de Fundamentos de Música
+Descrição: Projeto PIBIC, a ser desenvolvido no âmbito do Grupo de Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT) do IFBa e do Live Blue (external link) (Grupo de Desenvolvedores KDE da Bahia), tem como objetivo o projeto e desenvolvimento de um ambiente opensource integrado e colaborativo para ensino de fundamentos de música.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Clélio Salgado Flores Júnior - Integrante / Juvino Alves Dos Santos Filho - Integrante / Ricardo Martins - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Outra / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2010 - 2011
+Qt Component Model (QCM) - Plataforma Auto-Gerenciável para Computação Autonômica Distribuída
+Descrição: Este projeto, a ser desenvolvido no âmbito do Grupo de Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT) do IFBa e do Live Blue (Grupo de Desenvolvedores KDE da Bahia), tem como objetivo o desenvolvimento de uma plataforma auto-gerenciável para computação autonômica distribuída denominada Qt Component Model (QCM). Seguindo a abordagem baseada em componentes distribuídos de software, tal plataforma possibilitará a configuração e implantação facilitada de novos sistemas através da inter-ligação de unidades autônomas. Descritores de implantação no formato XML serão utilizados para descrever quais instâncias deverão ser criadas, as máquinas nas quais elas serão implantadas e as conexões a serem realizadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sandro Santos Andrade - Coordenador / Tomaz Martins dos Santos Canabrava - Integrante / Jessica Rocha dos Anjos - Integrante.

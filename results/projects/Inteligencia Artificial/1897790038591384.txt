@@ -1,0 +1,39 @@
+2019 - Atual
+Sistema de Baixo Custo e Alto Rendimento para Inspeção Aérea e Previsão de Desastres
+Descrição: Resumo da Proposta:
+Este projeto visa desenvolver aplicações na área de prevenção e monitoramento de desastres
+naturais, com uso de Aeronave Remotamente Pilotada - ARP com processamento de imagem,
+mineração de dados, computação em nuvem e métodos e tecnologias de análise orientados a
+redes complexas. Tópicos de pesquisa importantes na área são a análise de risco para sistemas
+de rede de infra-estrutura (como rede ferroviária, rede elétrica, sistemas de oleodutos) expostos a
+vários riscos naturais, como terremoto, deslizamento de terra, inundação, incêndio florestal,
+chuvas etc. Estudantes, professores e pesquisadores do Brasil, Rússia, Índia, China e África do Sul
+estão realizando pesquisas conjuntas em sistemas de baixo custo envolvendo aeronaves
+alimentadas por energia solar e usando a energia dos fluxos de ar ascendentes (equipe russa),
+sistemas de comunicação em longas distâncias (equipe brasileira e equipe chinesa), sistemas de
+computação em nuvem e sistemas distribuídos para identificação do tipo de mudança detectada,
+sistema preditivo para evitar perdas durante desastres naturais (equipe da Índia e África do Sul) e
+algoritmos de detecção de riscos naturais e métodos de risco do sistema de infra-estrutura
+(Equipe chinesa, equipe sul-africana e equipe brasileira). Existem três resultados esperados
+principais: 1. O desenvolvimento de uma ARP, de baixo custo, impulsionada por um motor elétrico
+dotado de um sistema de células solares e usando a energia dos fluxos de ar atmosférico,
+suportando uma carga até 10 kg e câmeras com sistemas eletrônicos que operam no espectro
+visual (e/ou espectro infra vermelho). 2. O desenvolvimento de um sistema distribuído baseado
+em nuvem para a captura e identificação de riscos naturais, como terremotos, deslizamentos de
+terra, inundações etc. 3. O desenvolvimento do algoritmo preditivo para evitar perdas durante
+desastres naturais. 4. O desenvolvimento de um sistema de software para analise de
+vulnerabilidade relacionada ao desastre natural.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Alexandre Carlos Brandao Ramos - Coordenador / Marcelo Santiago de Sousa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2008 - Atual
+Controle Inteligente de Trajetórias de Aeromodelos Remotamente Operados
+Descrição: Projeto e desenvolvimento de um sistema computacional para o controle de trajetórias de um helicóptero rádio-controlado utilizando: 1) Redes Neurais para controle da trajetória. 2) Programação 3D para simulação de vôo durante treinamento. 3) Banco de dados para armazenamento das variáveis de controle de voo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (4)  / Mestrado acadêmico: (12)  / Doutorado: (2) . Integrantes: Alexandre Carlos Brandao Ramos - Coordenador / Luiz Flávio Felizardo - Integrante / Henrique Ribeiro Theiss - Integrante / Rodrigo Luiz Mendes Mota - Integrante / Marcos Theiss Neves - Integrante / Alison Augusto M. Pereira - Integrante / Helton Franco de Souza - Integrante / Douglas Aparecido Soares - Integrante / Iana Vestri Alvarenga - Integrante / Yasmin Bacha Castro - Integrante / Nathan Oliveira - Integrante / Pedro Lucas de Brito - Integrante / Marcelo Santiago de Sousa - Integrante / Lunlong Zhong - Integrante / Pradeep Kumar Gupta - Integrante / Sergey Serokhvostov - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Laboratório de Informática Aplicada - Cooperação.Número de produções C, T & A: 40
+2003 - Atual
+Sistema de Treinamento de Pilotos de Helicópteros
+Descrição: O projeto Sistema de Treinamento de Pilotos, apoiado financeiramente pelo CNPq (Proc.507469/2004-6)  e pelo LIA (totalizando R$ 559.299,00) visa o desenvolvimento de um simulador, em escala 1:1, para treinamento de pilotos do helicoptero AS350-X. Esse simulador deve conter um Sistema Tutor Inteligente que fornece: 1.  aulas aos pilotos, 2. simulações de situações de vôo tanto em operação normal quanto em emergencias, 3. informações da interação que o piloto fez com os sub-sistemas da cabine, 4. avaliação total do aprendizado do piloto e 5. apresentação de imagens 3D do comportamento dos cenários externos à aeronave bem como dos instrumentos da cabine.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (2)  / Mestrado acadêmico: (2) . Integrantes: Alexandre Carlos Brandao Ramos - Coordenador / Felix Mora Camino - Integrante / Edison Oliveira de Jesus - Integrante / Joice Barbosa Mendes - Integrante / Luiz Gustavo Miranda Pinto - Integrante / Nathan Oliveira - Integrante / Fabrice Flavien Bertome - Integrante / Marcelo Santiago de Sousa - Integrante / Danilo Pereira Roque - Integrante / Sebastião Simões da Cunha Júnior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 18
+2001 - Atual
+Sistemas de TI para Análise e Treinamento
+Descrição: Desenvolvimento de Sistemas de Software para:
+  1. Apoio ao treinamento tanto de portadores de necessidades especiais quanto para profissionais da área médica em tarefas e procedimentos críticos.
+  2. Análise de sangue para detecção de Glicose, Colesterol e Uréia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (2)  / Mestrado acadêmico: (2) . Integrantes: Alexandre Carlos Brandao Ramos - Coordenador / Fabrícia Ferreira de Souza - Integrante / José Renato Gracia Braga - Integrante / Álvaro Antônio Alencar de Queiroz - Integrante / Demétrio Artur Werner Soares - Integrante / MENDES, JOICE B. - Integrante / Renata Aparecida Ribeiro Custódio - Integrante / Carlos Henrique Pereira Mello - Integrante.Número de produções C, T & A: 10

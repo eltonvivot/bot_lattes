@@ -1,0 +1,177 @@
+2020 - Atual
+Solução de Interação com Modelos Arquitetônicos Dinâmicos de Alto Realismo Visual em Dispositivos com Capacidade Computacional Limitada
+Descrição: Pesquisa-se a viabilidade de concepção de ferramentas de software, baseadas em nuvem,
+para o processamento remoto de Conteúdos Interativos 3D. Através de Aplicativos
+Clientes para web e dispositivos móveis, usuários devem poder acessar, visualizar e interagir com esse conteúdo. Um Conteúdo Interativo 3D, no contexto desse projeto, é uma espécie de jogo3D (ambientes arquitetônicos 3D interativos) criado com um game engine de última 
+ geração. Esse ?jogo? funciona em máquinas virtuais com GPUs poderosas, que possibilitam gráficos realistas com alto nível de interatividade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Guilherme Picanço Rabello - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - 2020
+Solução para Interação com Maquetes Virtuais Arquitetônicas Dinâmicas e de Alto Realismo Visual por meio de Tablets e Smartphones
+Descrição: O objetivo geral deste projeto de pesquisa é comprovar a viabilidade de se construir um produto que permita que dispositivos móveis como tablets e smartphones, de forma isolada ou com conexão sem fio a telas de televisores, possam ser utilizados para marketing de empreendimentos imobiliários. Usuários, público alvo de ações de marketing, devem ser capazes de navegar, visualizar, interagir e modificar maquetes virtuais de imóveis apresentadas com alto grau de detalhes e de realismo visual.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Erick Lazaro Melo - Integrante / Guilherme Picanço Rabello - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - 2019
+Interação com Objetos Educacionais 3D Remotos
+Projeto certificado pela empresa SUREALE SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA em 23/03/2020.
+Descrição: Produção e interação com objetos 3D remotos para aplicações educacionais em dispositivos móveis e com elevado grau de realismo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Roberto Gueleri - Integrante / guilherme rabelo - Integrante.Financiador(es): SUREALE SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA - Cooperação.
+2014 - 2016
+PROMOVE: Promoção da Interatividade TV-Web-Mobile
+Descrição: As atividades concentram-se principalmente na área de TV Interativa e Social 
+e sua integração com outras plataformas como Web e Dispositivos Móveis. 
+Com o projeto pretende-se buscar inovações com artefatos de software que 
+possam efetivamente promover a interatividade da TV. Partes desses artefatos 
+são entregáveis do projeto da Bolsa DT 2010, que já formarão um conjunto, 
+apesar de inicial, suficiente para testes e operações piloto com público real. 
+Elementos chave para a promoção da interatividade que se pretende são: a 
+combinação de diferentes plataformas (TV, web e dispositivos móveis); serviço 
+independente de reconhecimento de conteúdo difundido na programação de 
+TV; oferecimento de aplicação para dispositivos móveis que tenha 
+funcionalidade bastante atrativa; máquina de apresentação de programas de 
+TV interativos na Web. A aplicação atrativa estimula o telespectador a usar 
+seu dispositivo móvel (tablet ou smartphone) enquanto assiste TV. A situação 
+pode ser aproveitada para estimular o telespectador a outras interações com 
+conteúdos veiculados na TV. A máquina de apresentação de programas de TV 
+interativos na Web promove o reúso de aplicações interativas e aumenta o 
+público alvo dessas aplicações. Os resultados devem propiciar a exploração de 
+novos produtos e modelos de negócio para áreas de publicidade na TV e de 
+comércio eletrônico, além de poderem promover novos paradigmas de 
+programas de TV.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Caio Cesar Viel - Integrante / Erick Lazaro Melo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2015
+Produção, interação e análise de objetos aprendizagem multimídia e multimodais: captura ubíqua, produção, interação e análise
+Projeto certificado pela empresa ITI Inovação em Tecnologia da Informação em 17/03/2021.
+Descrição: Pretende-se desenvolver e avaliar produto que possa permitir a captura ubíqua de apresentações multimodais com fins educacionais. O resultado é inovador por permitir a incorporação de diversas mídias e informações contextuais para a produção de conteúdo altamente interativo e com baixo custo de produção... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Caio Viel - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2011 - 2013
+Art TVDI - Arcabouço Tecnológico para Desenvolvimento Ágil e Reutilização de Aplicações para TVDI com suporte a Serviços Web
+Descrição: O surgimento da TV Digital no cenário mundial e especialmente no Brasil traz grandes 
+mudanças no modo de se desenvolver um programa para TV. Esse programa agora 
+deve ser visto também como um software. Essa mistura entre os domínios de 
+Televisão e Programas de Computador cria o domínio dos programas de TV Digital 
+Interativa(TVDI) e trazem novos requisitos para o seu desenvolvimento. O presente 
+projeto apresenta um Arcabouço Tecnológico para Desenvolvimento Ágil e 
+Reutilização de Aplicações para TVDI com suporte a Serviços Web. Esse 
+arcabouço compreende os seguintes componentes: um Gerador Automático de 
+Aplicações (Sagga), um Provedor de Serviços Web para TV (InserTV), Ambiente de 
+Desenvolvimento/Teste (TVDA) e um Módulo para desenvolvimento ágil GingaNCL/Lua (LuaR).
+O sub-projeto InserTV, de responsabilidade do núcleo em que a UFSCar participa, propõe-se a apresentar
+ soluções para permitir a integração de serviços Web 
+aos conteúdos transmitidos aos receptores do sinal de TV digital. Esta integração pode ser vista 
+como um direcionamento natural, se forem observadas as transformações ocorridas na Web nos 
+últimos anos: Ela passou de um meio de difusão de informações para um ambiente de oferta de 
+serviços. O escopo do projeto se restringe à implementação de (i) um componente do middleware
+Ginga para acesso a conteúdos gerados por provedores de serviços; (ii) de um provedor de serviços 
+associados aos conteúdos dos programas de TV e (iii) à integração das informações provenientes 
+dos serviços aos programas (aplicações interativas) de TV.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Celso A. Saibel Santos - Coordenador.Financiador(es): Ministério da Ciência, Tecnologia, Inovações e Comunicações - Auxílio
+										financeiro / Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.Número de orientações: 2
+2011 - 2013
+Revir-Redes Virtuais na Internet do Futuro
+Descrição: O paradigma de redes virtuais é uma base importante para a Internet do Futuro, pois provê mais flexibilidade ao núcleo da rede. Assim, é possível atender diferentes requisitos de aplicações e avaliar novas propostas de protocolos e arquiteturas no núcleo da rede. Esse paradigma possibilita que inúmeros elementos de redes virtuais possam coexistir em um único equipamento físico, mas possui ainda enormes desafios a serem vencidos para que a nova rede seja uma realidade. Este projeto aborda diversos aspectos em diferentes áreas de pesquisa sobre redes virtuais para a Internet do Futuro e propõe sistemas, mecanismos, serviços e aplicações para solucionar importantes desafios. O projeto atua em diferentes camadas da arquitetura de redes virtuais e visa oferecer:
+ uma infraestrutura de rede programável;
+ ferramentas de virtualização de redes com diferentes características em diferentes camadas de acordo com os requisitos das aplicações;
+ uma infraestrutura de rede segura com garantia de isolamento entre as redes virtuais; e
+ ferramentas de controle e gerenciamento que garantam qualidade de serviço nas redes virtualizadas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Cesar Augusto Cavalheiro Marcondes - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2011 - 2012
+PRESENTE - Produção e Apresentação de Objetos Educacionais Orientadas pelo Paradigma da Aula Presencial e pela Computação Ubíqua
+Descrição: Propõe-se desenvolver, avaliar e refinar um sistema composto por ferramentas computacionais para facilitar os processos de produção e apresentação de objetos educacionais multimídia. Os objetos são baseados no paradigma da aula presencial e o processo de produção orientado pela computação ubíqua. Em sala com alunos presenciais ou em estúdio, devidamente instrumentados, o professor ministra uma aula utilizando partes ou a totalidade de recursos integrados, como: quadro branco tradicional, quadro branco com tinta eletrônica, projeção de slides, projeção de animações 2D ou 3D com ou sem interações, projeção de filmes, projeção da representação gráfica de aplicações computacionais, apresentação de áudio, tablet ou computador complementar com tela sensível ao toque para navegação na web e execução de aplicações em geral. Câmeras de alta definição, microfones, sensores de telas e softwares de reconhecimento capturam a experiência da aula de forma ubíqua sem necessidade de técnicos para auxílio. O resultado da captura são diversas "streams" de dados de diferentes mídias enriquecidas com metadados propiciados pelos sensores e softwares de reconhecimento. Uma ferramenta integra os dados em um objeto multimídia. Os objetos multimídia, devidamente indexados, são preservados em um repositório e podem ser levados pelos alunos para seus dispositivos . Uma interface gráfica permite que alunos possam "navegar" pela apresentação multimídia, procurando reproduzir a experiência da aula de acordo com seus interesses no momento. Assim, o aluno pode manter visão geral do conteúdo visível e audível e escolher o que deve ser apresentado em maior destaque a cada momento, de acordo com seu interesse (como acontece em aula presencial em que a atenção pode ser direcionada à pessoa do professor, ao slide sendo apresentado ou ao quadro branco). Os metadados incluídos no objeto permitem inúmeras formas de navegação. A produção dos objetos educacionais pode ser ao vivo e suportar interações.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Luis Carlos Trevelin - Coordenador / Antônio F. do Prado - Integrante / Maria da Graca Campos Pimentel - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2010 - 2012
+Reuso de Software
+Descrição: Motivados pela importância da Tecnologia da Informação e visando contribuir para o avanço do conhecimento na área de Engenharia de Software em tecnologia de desenvolvimento de aplicações na WEB 2.0, com foco nas idéias sobre a Reutilização de Software, este projeto visa pesquisar e explorar conceitos, técnicas, métodos e ferramentas para tornar o Reúso de Software uma prática intra e inter comunidades.
+Com foco na reutilização, investiga-se uma Estratégia para o Desenvolvimento de Software que visa o compartilhamento de recursos e a cooperação na web, apoiando e melhorando a Internet como plataforma de trabalho. Com essa Estratégia, a Engenharia de Software terá um Processo de Desenvolvimento em que disciplinas de reúso serão empregadas para produzir software com melhor qualidade, menor custo e mais fácil de ser mantido e atualizado.
+O projeto concentrará esforços na busca de resultados concretos sobre o Reúso de Software nas diferentes etapas do ciclo de vida do software, que vão desde os seus requisitos até a implementação, testes, e sua manutenção futura. Com foco no Desenvolvimento ?Para? e ?Com? Reúso, esperam-se como principais resultados deste projeto:
+ Uma Estratégia para o Desenvolvimento de Software, orientada para Reúso, 
+ Um conjunto de recursos computacionais, incluindo ontologias, serviços, componentes, padrões, frameworks, sistemas multi-agentes, e ferramentas,
+ Linhas de Produtos de Software em domínios de aplicações na WEB 2.0.
+ Documentação e Tutoriais que instruem sobre o PDS orientado para o Reúso; e
+ Publicações que divulguem os resultados alcançados.
+Adicionalmente, atendendo a uma demanda apresentada pela Empresa parceira no decorrer deste projeto, investigou-se o reúso de software no desenvolvimento de aplicações no domínio da computação móvel. Com base nessa demanda foi definida uma estratégia de reúso para desenvolvimento de aplicações móveis usando o método ágil Scrum.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Antônio F. do Prado - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Ci&T - Auxílio
+										financeiro.
+2009 - 2013
+xTVD: Explorando Novas Fronteiras na TV Digital Interativa
+Descrição: xTVD: Explorando Novas Fronteiras na TV Digital Interativa
+Financiamento: CAPES R$53.808,00 (parte UFSCar) 
+Vigência: fevereiro de 2009 a janeiro de 2013
+Coordenação UFSCar: Prof. Cesar Teixeira
+Descrição: Projeto colaborativo executado por rede de pesquisa que inclui UFSCar, USP-SC e UNIFACS. O objetivo é a formação de recursos humanos na área TV Digital através da pesquisa em serviços e aplicações para TVDi com foco nas questões relacionadas à interatividade, sincronização e estruturação de conteúdo multimídia. Um dos temas do projeto é "Interação usuário-computador voltada à ACESSIBILIDADE".. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (6)  / Doutorado: (2) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Sergio Donizetti Zorzo - Integrante / Junia Coutinho Anacleto - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2009 - 2010
+Virtualidade imersiva e interativa baseada em cloud computing - Lab XPTA
+Descrição: Programa laboratórios de experimentação e pesquisa em tecnologias audiovisuais XPTA.LAB Propõe suporte e desenvolvimento de conteúdos distribuídos multiusuários de realidade virtual e aumentada para TV digital, móveis e PCs.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Luis Carlos Trevelin - Coordenador.Financiador(es): Ministério da Cultura - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2008 - 2010
+Serviços e Aplicações para TV Digital Interativa ? I2TVD
+Descrição: Serviços e Aplicações para TV Digital Interativa ? I2TVD
+Financiamento: CAPES R$180.000,00 (parte UFSCar)
+Vigência: agosto de 2008 a julho de 2012
+Coordenação UFSCar: Prof. Cesar Teixeira
+Descrição: Projeto colaborativo executado por rede de pesquisa que inclui UFSCar, USP-SC e FUCAPI. O objetivo é a formação de recursos humanos na área TV Digital através da pesquisa em aplicações não convencionais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Antônio F. do Prado - Integrante / Sergio Donizetti Zorzo - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2012
+FINEP - Avaliacao Middleware Ginga
+Descrição: Projeto: Avaliação do Middleware Ginga
+Financiamento: FINEP R$269.317,48 (parte UFSCar)
+Processo: 01.07.0110.00.
+Vigência: abril de 2007 a maio de 2010
+Coordenação UFSCar: Prof. Cesar Teixeira
+No projeto Avaliação do Middleware Ginga cada instituição da rede de produção é responsável por resultados e focos específicos, todos porém visando a avaliação do e a apresentação de contribuições ao middleware Ginga adotado pelo Sistema Brasileiro de TV Digital. Esses trabalhos têm sido realizados através da construção de aplicações ou de realização de extensões do middleware.
+A equipe da UFSCar ficou responsável pela infra-estrutura para apoio a Personalização de Serviços, com preservação de privacidade, e Aplicações e infraestrutura para o suporte a três classes de aplicações de aprendizado fundamentadas nas técnicas matching-to-sample, constructed response trials e naming. A equipe é hoje formada por quatro pesquisadores, cinco graduados (mestrandos e doutorandos) e três alunos graduandos.
+Em conjunto com a equipe do ICMC-USP-Sao Carlos, a equipe da UFSCar investiga abordagens para facilitar a autoria e a gestão de conteúdo interativo por usuários não especialistas, envolvendo os temas: Interação usuário-computador e Computação ubíqua voltados à gestão e à geração de conteúdo interativo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Antônio F. do Prado - Integrante / Sergio Donizetti Zorzo - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 11 / Número de orientações: 5
+2007 - 2011
+TIDIA - AE Fase 2: Tecnologia da Informação no Desenvolvimento da Internet Avançada - LSC-UFSCar/COC
+Descrição: TIDIA -AE Fase 2 (Tecnologia da Informação no Desenvolvimento da Internet Avançada - Aprendizado Eletrônico) FAPESP - processo 05/60653-1 (segunda fase do projeto até final de 2008; 
+The availability of high speed networks, with the information flowing at rates over gigabits per second and the latency been kept under values of the human reaction time (some cents of milliseconds), make relevant to exploit the translation of in loco experiences to a telecollaborative or teleinteractive scenario, trying to keep the vivacity of real interactions and to improve the experience with the quick access to and process of information, as the communication and interaction may be mediated and monitored by automated processes. With such thought in mind, we present the the LSC-UFSCar/COC activities for its participation in TIDIA-Ae Phase-II Project. The activities are grouped in four classes: Explorative R&D on Computing issues related to TIDIA-Ae, R&D on Learning Activities and Support to the Activities of the Associated Laboratories, and TIDIA-Ae Infrastructure Development. Giving LSC-UFSCar/COC`s competence demonstrated in phase I, problems related to synchronous communication, multimedia data storage and management, remote access laboratory integration and software development process are addressed. A testbed (ReFacE  Remote Face-to-Face Experience Environment) is proposed as a general environment for research and e-learning activities.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Daniel Facciolo Pires - Integrante / Antônio F. do Prado - Integrante / Daniel Corrêa Lobato - Integrante / Renato Bulcão Neto - Integrante / Sergio Donizetti Zorzo - Integrante / Carlos O. Jardim - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2004 - 2006
+TIDIA-AE Fase 1: Tecnologia da Informação no Desenvolvimento da Internet Avançada - Aprendizado Eletrônico - LSC-UFSCar/COC
+Descrição: TIDIA -AE (Tecnologia da Informação no Desenvolvimento da Internet
+Avançada - Aprendizado Eletrônico) FAPESP - processo 03/08274-0
+(primeira fase do projeto até 30/11/06;
+Projeto Colaborativo, envolvendo 14 laboratórios de diversas
+instituições: UFSCar, USP, UNICAMP, ITA, etc., que visa desenvolver um
+ambiente computacional capaz de permitir a interação, através da WEB,
+de diferentes categorias de atores, capazes de assumir diferentes
+papéis em contextos também criados em função da demanda da aplicação.
+A interação é realizada através de ferramentas que são conectadas ao
+ambiente. Nesta primeira fase o ambiente tem sido customizado para
+atender aplicações de aprendizado eletrônico (presencial e a
+distância) e as ferramentas concebidas e implementadas incluem:
+1)comunicador instantâneo (texto, áudio, vídeo); 2) quadro branco para
+interação local e remota; 3) ferramenta de integração de laboratórios
+de acesso remoto; 4) chat; 5) ferramenta de produção colaborativa de
+hiperdocumentos; 6) correio eletrônico; 7) forum; 8) portfolio; etc.
+As ferramentas 1, 2 e 3 tiveram grande participação do LSC, que
+coordenou o desenvolvimento de 1 e 2. A parrticipação do LSC tem sido
+também na definição da arquitetura geral do sistema.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Daniel Facciolo Pires - Integrante / Cássio Vinicius Serafim Prazeres - Integrante / Daniel Corrêa Lobato - Integrante / João Henrique Gião Borges - Integrante / Laércio Baldochi Jr - Integrante / Dráusio Capobianco - Integrante / Felipe Silva Santos - Integrante / Matheus Qualio Barbosa - Integrante / Thiago R. M. Pessoa - Integrante / Renato Gasparin - Integrante / Patricia Andrade e Silva - Integrante / Mauro Biajiz - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 14
+1998 - 1999
+AVVIC - Virtual Environment for Shared Interactive Visualization
+Descrição: A realidade virtual envolve tecnologias revolucionárias para o desenvolvimento de aplicações, em função de novas possibilidades que oferece para interfaceamento com o uso de dispositivos multi-sensoriais, navegação em espaços tridimensionais, imersão no contexto da aplicação e interação em tempo real. Paralelamente, a visualização científica em ambientes distribuídos vem tendo importância crescente, por permitir a interação de especialistas localizados remotamente, com o suporte de recursos gráficos.
+   O projeto enfoca o uso conjugado de realidade virtual e visualização científica, em ambiente distribuído, visando facilitar o desenvolvimento de aplicações mais poderosas.
+   Os objetivos do projeto são:
+ - Criar um ambiente apropriado para pesquisar os problemas de realidade virtual distribuída. 
+- Melhorar as condições de visualização interativa compartilhada em ambiente distribuído, através da utilização realidade virtual. 
+- Facilitar o desenvolvimento de aplicações distribuídas que utilizem realidade virtual. 
+- Contribuir com a consolidação dos grupos de pesquisa envolvidos e com a geração de competência científica e tecnológica nas áreas abrangidas pelo projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cesar Augusto Camillo Teixeira - Integrante / Claudio Kirner - Coordenador / Tereza Gonçalves Kirner - Integrante / Paulo Estavão Cruvinel - Integrante / Marcio Serolli Pinho - Integrante / Antonio Carlos Sementille - Integrante / Jeronimo Freire - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+1994 - 1999
+Projeto SMmD: Sistemas Multimidia Distribuidos
+Descrição: O projeto SMmD estabelece uma hierarquia de módulos, a saber, Módulo de Comunicação, Ambiente
+		MmD (Multimídia Distribuído) e Módulo de Aplicação, que acolhem um conjunto de subprojetos. Esses subprojetos
+		são interelacionados e contribuem para que se realizem as metas e se alcançem os objetivos gerais do projeto.
+		
+		De maneira geral o projeto aborda questões técnicas e científicas relacionadas à manipulação de dados de diversas
+		mídias, principalmente de mídias contínuas, à integração dessas mídias na composição e execução de aplicações
+		multimídia em ambientes distribuídos, ao modelamento de hiperdocumentos e a implementação de engines capazes
+		de interpretá-los e executálos, ao modelamento e a implementação de mecanismos de criação, armazenamento e
+		gerenciamento de objetos multimídia, e à exploração de recursos de tecnologia multimídia no desenvolvimento de
+		aplicações de trabalho cooperativo suportado por computador.
+		
+		O projeto acompanha a tendência de desenvolvimento de sistemas abertos multimídia em ambientes distribuídos,
+		que propicia a construção de aplicações de características diferentes das contempladas pelas técnicas atuais.
+		Assim, aplicações como trabalho cooperativo com suporte computadorizado e sistemas abertos hipermídia, que
+		permitem a composição de documentos a partir de objetos multimídia (compostos por elementos de diversas mídias
+		e armazenados em bases de dados distribuídas), tornam-se viáveis. .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (16)  / Especialização: (2)  / Mestrado acadêmico: (12)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cesar Augusto Camillo Teixeira - Coordenador / Maria da Graça Campos Pimentel - Integrante / Luis Carlos Trevelin - Integrante / Marina Teresa Pires Vieira - Integrante / Agma Juci Machado Traina - Integrante / Maria Cristina Ferreira de Oliveira - Integrante / Eduardo Marques - Integrante / Regina Borges de Araújo - Integrante / Antonio Carlos dos Santos - Integrante / Renata Pontin de Mattos Fortes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 15 / Número de orientações: 3

@@ -1,0 +1,3 @@
+2007 - 2007
+Contagem classificação e Identificação de quebra dos cromossomos na genética humana
+Descrição: O projeto consistiu no estudo de uma ferramenta para a contagem dos cromossos exixtentes em uma célula, sua classificação e possíveis quebras cromossônicas utilizando técnicas em Processamento de Imagens e Sinais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Andre Luiz Pilastri - Integrante / Glauber Oliveira - Integrante / Rafael Gonçalves Pires - Integrante / Ronaldo Martins da Costa - Coordenador.

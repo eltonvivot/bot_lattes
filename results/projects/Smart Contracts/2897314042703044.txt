@@ -1,0 +1,56 @@
+2022 - Atual
+Estudo da Operação Segura de Sistemas de Energia Elétrica na Presença de Geração Fotovoltaica
+Descrição: O aumento de fontes de geração altamente variáveis, tais como usinas
+eólicas e fotovoltaicas, traz desafios para a operação segura dos sistemas
+de energia elérica. Este projeto de pesquisa propõe a realização de estudos
+sobre o impacto da geração fotovoltaica na segurança da operação.
+A ênfase é o desenvolvimento de uma ferramenta computacional de fluxo
+de potência ótimo com restrições de segurança. A pesquisa é desenvolvida
+em duas vertentes: a primeira se concentra na representação da
+geração fotovoltaica no programa de fluxo de potência ótimo e a segunda
+visa a extensão desse programa para considerar restrições de segurança.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Katia Campos de Almeida - Coordenador / Arthur Bodini freire da Rocha - Integrante.Número de orientações: 1
+2022 - Atual
+Ferramentas Computacionais para Auxiliar a Operação de Sistemas de Energia Elétrica
+Descrição: Mudanças consideráveis nas condições operativas dos sistemas de potência têm ocorrido recentemente devido à inserção de fontes altamente variáveis de geração, de novos equipamentos de controle e de cargas altamente variáveis, e também devido ao aumento das atividades dos mercados de energia. Esses fatores geram insegurança na operação. Este projeto visa contribuir para que tenhamos no Brasil um sistema capaz de responder apropriadamente a condições futuras incertas. Para tanto, propõe o desenvolvimento de pesquisa sobre: (i) despacho descentralizado de geração em sistemas predominantemente hidrelétricos, (ii) análise do impacto de consumidores com auto-geração fotovoltaica na operação do sistema de distribuição, e (iii) operação segura de sistemas com geração eólica e fotovoltaica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Katia Campos de Almeida - Coordenador / Arthur Bodini freire da Rocha - Integrante / Cristiana Silva Alexandre - Integrante.
+2015 - 2022
+Desenvolvimento de Ferramentas Computacionais de Apoio ao Planejamento da Operação e Expansão de Sistemas de Potência
+Descrição: O objetivo deste projeto é contribuir para a atualização das ferramentas computacionais usadas na operação de sistemas elétricos de potência de forma que representem adequadamente as novas condições operativas advindas da reestruturação do setor de energia e do aparecimento de novas tecnologias. Especificamente o projeto visa: (i) estudar o impacto da reestruturação do setor na operação de sistemas empregando modelos matemáticos com restrições de equilíbrio, (ii) estudar o problema de operação segura do sistema na presença de fontes intermitentes de geração. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Katia Campos de Almeida - Integrante / Franciele Cicconet - Integrante / Bruno Rafael Gris - Coordenador / Bráulio Rangel - Integrante.
+2010 - 2011
+Estudos sobre Sistemas Elétricos de Potência Reestruturados
+Descrição: O objetivo desta pesquisa é contribuir com os estudos sobre o comportamento de
+mercados de energia em sistemas com geração hidráulica e analisar estruturas alter-
+nativas para tais mercados, que sejam compatíveis com as características do sistema
+brasileiro. Para tanto, será desenvolvido um protótipo de programa computacional
+visando estudar a atuação dos agentes e suas ofertas para o mercado e auxiliar na
+anáise do comportamento desse mercado. Técnicas de otimização em dois níveis
+serão empregadas nos estudos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Katia Campos de Almeida - Coordenador / Antonio Conejo - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2009 - 2012
+Desenvolvimento de Métodos e Tecnologias para a Rede de Energia Elétrica de Futuro
+Descrição: Projeto MCT-FINEP/CT-Energ. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Katia Campos de Almeida - Integrante / Antônio J. A. Simões Costa - Coordenador / Ildemar Cassana Decker - Integrante / Aguinaldo Silveira e Silva - Integrante / Denizar Cruz Martins - Integrante.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro / FINEP - Auxílio
+										financeiro.
+2008 - 2011
+Estudos sobre Operação em Regime Permanente de Sistemas de Potência Reestruturados
+Descrição: Este projeto tem como objetivo dar continuidade aos estudos sobre operação em regime permanente de sistemas sob condições de mercado de energia, que vêm sendo desenvolvidos desde março/2004. A ênfase do projeto é o desenvolvimento de ferramentas computacionais para auxiliar o planejamento da operação dos sistemas, tanto em estudos sobre segurança como no próprio despacho de geração. Os tópicos de pesquisa são: modelagem do problema de fluxo de carga com discriminação dos usuários da rede elétrica; modelagem do custo de oportunidade associado ao fornecimento de suporte de reativos; análise do comportamento de sistemas operados segundo critérios econômicos na vizinhança de sua capacidade máxima de carregamento e, por fim, estudos sobre operação de sistemas hidrotérmicos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Katia Campos de Almeida - Coordenador / Danilo Dupin da Silva - Integrante / Charles Marques de Farias - Integrante / Fernanda Senna - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 7
+2006 - 2010
+Aplicação de Dispositivos FACTS para a Ampliação da capacidade de Transmissão do SIN
+Descrição: Projeto ONS-UFSC GAT-CT-177/06. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Katia Campos de Almeida - Coordenador / Aguinaldo Silveira e Silva - Integrante / Danilo Dupin da Silva - Integrante / Marcelo Neujhar Agostini - Integrante / Vera Lucia de Castro Soares - Integrante / Charles Farias - Integrante.Financiador(es): Operador Nacional do Sistema Elétrico ONS - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - 2008
+Desenvolvimento de Ferramentas de Apoio à Operação de Sistemas de Potência sob Condições de Mercado
+Descrição: Projeto CNPq/ CTEnerg. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Katia Campos de Almeida - Coordenador / Thelma Solange Piazza Fernandes - Integrante / Daniel Augusto F. Collier - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Universidade Federal do Paraná - Cooperação.Número de produções C, T & A: 5
+2003 - 2005
+Operação de Sistemas de Transmissão e Distribuição de Energia Elétrica
+Descrição: Projeto de Pesquisa CNPq-CTEnerg. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (8)  / Doutorado: (3) . Integrantes: Katia Campos de Almeida - Integrante / Roberto Salgado - Integrante / Hans H. Zürn - Integrante / Antônio J. A. Simões Costa - Coordenador / Jorge Mário Campagnolo - Integrante / Aguinaldo Silveira e Silva - Integrante / Jacqueline Gisèle Rolim - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 8
+2002 - 2005
+PROCAD - Cooperação Interinstitucional em Análise e Controle de Sistemas Elétricos de Potência.
+Descrição: Projeto de Cooperação Interistitucional firmado
+entre a Universidade Federal de Santa Catarina e
+a Universidade Federal do Pará. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Katia Campos de Almeida - Integrante / Roberto Salgado - Integrante / Hans H. Zürn - Integrante / Antônio J. A. Simões Costa - Coordenador / Jorge Mário Campagnolo - Integrante / Aguinaldo Silveira e Silva - Integrante / Jacqueline Gisèle Rolim - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2002 - 2004
+Representação de Transações Multilaterais de Potência em Modelos de Despacho Hidrotérmico
+Descrição: Auxílio Individual de Pesquisa, CNPq. Processo N. 476740/2001-0.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Katia Campos de Almeida - Coordenador / Thelma Solange Piazza Fernandes - Integrante / Telles Brunelli Lazzarin - Integrante / Alfredo Javier Mezger - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 10

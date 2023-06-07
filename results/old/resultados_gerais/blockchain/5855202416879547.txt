@@ -1,0 +1,18 @@
+2021 - Atual
+Avaliação empírica do uso de heurísticas na identificação de dívida técnica
+Descrição: O objetivo geral deste projeto é avaliar o uso de heurísticas para identificar dívida técnica em artefatos de código-fonte e casos de teste de software explorando a informação disponível em repositórios de software abertos, de maneira a estender os resultados apresentados na literatura.
+Como objetivos específicos, tem-se: i) Adaptação das técnicas encontradas na literatura por meio do uso de heurísticas de identificar dívida técnica; ii) Avaliar o efeito do uso ou não das heurísticas no resultado da técnica implementada para a identificação de dívida técnica nos artefatos de código-fonte e casos de teste de software.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcemir Rodrigues Santos - Coordenador / Diogo Alves de Moura Loiola - Integrante.
+2019 - 2020
+Identificação de Dívida Técnica em Comentários de Casos de Teste
+Descrição: O objetivo deste projeto é identificar dívida técnica em comentários artefatos de casos de teste de software explorando a informação disponível em repositórios de software referente a casos de teste.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcemir Rodrigues Santos - Coordenador / Diogo Alves de Moura Loiola - Integrante.
+2019 - 2020
+Classificação Automática de Artigos Científicos de Engenharia de Software
+Descrição: O objetivo geral deste projeto é construir um método para classificação automática de estudos empíricos em engenharia de software e algumas de suas subáreas como manutenção, evolução e teste de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alcemir Rodrigues Santos - Coordenador / Ramon Gomes Pereira - Integrante.
+2017 - 2018
+Em direção a um arcabouço para a construção de modelo de falhas para testes em linhas de produtos de software (Edital 08/2015. Apoio a Projetos de Pesquisa para Jovem Cientista no estado da Bahia)
+Projeto certificado pelo(a) coordenador(a) Ivan do Carmo Machado em 14/09/2017.
+Descrição: O projeto tem como objetivo principal desenvolver um arcabouço para a criação de modelos de falhas, que auxilie o teste de sistemas que implementem variabilidade, como é o caso das linhas de produtos de software, principal objeto de estudo deste projeto. O arcabouço (ou framework) proposto intitula-se FaMoF - Fault Modelling Framework, e será implementado como um plugin para a IDE Eclipse.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Alcemir Rodrigues Santos - Integrante / Ivan do Carmo Machado - Coordenador / Yguaratã Cerqueira Cavalcanti - Integrante / Larissa Soares - Integrante / Luanna Lopes Lobato - Integrante / Paulo Anselmo da Mota Silveira Neto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2008 - 2009
+Resolução de problemas de Otimização via Redes Neurais
+Descrição: Nesse projeto, desenvolveremos vários modelos de redes neurais artificiais para resolver vários problemas de otimização, incluindo programação linear, programação não-linear e desigualdades variacionais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alcemir Rodrigues Santos - Integrante / Paulo Sérgio Marques dos Santos - Coordenador.

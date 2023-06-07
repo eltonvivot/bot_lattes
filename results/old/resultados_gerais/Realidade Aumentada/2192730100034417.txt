@@ -1,0 +1,33 @@
+2017 - 2019
+Aplicações da Robótica e Internet das Coisas em Cidade Digitais
+Descrição: A robótica em nuvem é um paradigma emergente que permite que os agentes robóticos
+autônomos se comuniquem e colaborem com infraestruturas de tecnologia da informação e
+comunicação (TIC) e de computação em nuvem. Além disso, complementa a Internet das Coisas
+(IoT) para melhorar o desempenho das aplicações em Cidades Digitais ou Inteligentes (Smart
+Cities). A ideia de um ambiente inteligente implica em uma ligação intrínseca entre os indivíduos e
+seu ambiente, permitindo que os indivíduos acessem e interajam com os artefatos de computação
+de forma intuitiva. A recompensa pode ser um ambiente mais seguro, que consome menos
+energia e responde de forma mais eficiente as necessidades de todos os indivíduos. Os avanços
+recentes em sistemas embarcados, robótica e tecnologia de sensores sugerem que a inteligência
+ambiental pode de fato ser realizada. Esse ambiente inteligente permite aos robôs adquirir
+funcionalidades mais ricas e abrir caminho para a composição de uma variedade de serviços
+robóticos. O futuro dos robôs certamente estará aberto a um espaço ilimitado de aplicações tais
+como ?companheiros? físicos e virtuais que ajudam as pessoas em sua vida diária, robôs que são
+capazes realizar exploração e resgate em situações de desastre e robôs que participam de
+atividades de monitoramento de áreas urbanas. Neste contexto, o objetivo deste projeto é propor
+possíveis aplicações da robótica que possam contribuir na implementação das Cidades Digitais.
+Este projeto se abrirá em três diferentes planos de trabalho: a proposição de um sistema de
+múltiplas missões para um VANT, um sistema de cooperação entre um robô aéreo e um robô
+terrestre a fim de contribuir com uma melhor percepção do ambiente e um sistema de localização
+para robôs móveis a partir de uma infraestrutura já existente de rede sem fio , todos visando
+futuras utilizações em um cenário de uma Cidade Digital.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Eduardo Max Amaro Amaral - Coordenador / Maxwell Eduardo Monteiro - Integrante.Número de produções C, T & A: 1
+2013 - 2015
+Desenvolvimento de uma plataforma de robótica baseada em hardware livre
+Descrição: Tem como objetivo implementar uma plataforma de robótica móvel para estudar em que aspectos a participação de alunos recém-ingressados no curso de Engenharia de Controle e Automação do Ifes em tarefas práticas de robótica contribui para seu aprendizado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Eduardo Max Amaro Amaral - Integrante / Felipe Nascimento Martins - Coordenador.
+2013 - 2015
+Localização e Navegação Autônoma por meio de Cognição Visual Artificial e rede Wi Fi (IEEE 802.11) Aplicadas a Tecnologia Assistiva.
+Projeto certificado pelo(a) coordenador(a) Karin Satie Komati em 12/04/2018.
+Descrição: O uso da robótica como uma aliada na melhoria da qualidade de vida das pessoas tem despertado cada vez mais interesse de pesquisadores. Seu uso, em conjunto com outras tecnologias assistivas, pode beneficiar muitas pessoas com necessidades especiais, principalmente as com dificuldades de locomoção. Veículos robóticos podem dar autonomia, independência e promover a inclusão social a essas pessoas. Mas, veículos robóticos autônomos precisam saber se localizar em sua área de atuação, perceber como esta área está configurada e tomar decisões proativas diante de alterações da mesma. Esse é um dos problemas mais complexos da robótica, o mapeamento de ambientes e a localização de robôs dentro deles. Para perceber o mundo, robôs utilizam sensores como laser ou sonar, com o intuito de examinar o terreno à frente e realizar a localização e o mapeamento, e, a partir do mapa, evitar obstáculos e perseguir seus objetivos. Contudo, essas soluções são geralmente caras e nenhum delas emprega modelos matemático-computacionais baseados na biologia do sistema visual humano para realizar estas tarefas. Tentando evitar o alto custo de sensores necessários para a localização desses veículos autônomos, recentemente foi proposta na literatura uma técnica que utiliza redes Wi Fi para a localização de um robô. O uso integrado de técnicas de cognição visual artificial, através de imagens de câmeras, técnicas probabilísticas de localização e mapeamento simultâneos, podem auxiliar na construção de veículos autônomos assistivos. Sendo assim, o objetivo deste projeto é avaliar os resultados da combinação das técnicas de localização através de redes Wi-Fi e do processamento de imagens (usando um modelo matemático-computacional de representação de objetos fixos e móveis no campo visual do veículo autônomo) para a navegação de robôs autônomos que possam auxiliar a locomoção de pessoas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eduardo Max Amaro Amaral - Integrante / Luiza B. Pin - Integrante / Leonardo Camilo Ribeiro - Integrante / Karin Satie Komati - Coordenador / Maxwell Eduardo Monteiro - Integrante / Leandro Colombi Resendo - Integrante.
+2011 - 2012
+Desenvolvimento de um Laboratório de Robótica Educacional e Sistemas Embarcados
+Descrição: Este projeto pretende implementar a Robótica Educacional como ferramenta de trabalho pedagógico interdisciplinar para cursos profissionalizantes de nível técnico e superior. A Robótica Educacional, trabalhada na forma de projetos, possibilita a integração de diferentes saberes e promove a criatividade para solução de problemas. Pretende-se integrar projetos para consolidação de um laboratório que possa ser utilizado por alunos de diferentes cursos e níveis, com o objetivo final de construir conhecimentos-chave das áreas técnicas de seus respectivos cursos, além de contribuir com o aprendizado de outros assuntos não necessariamente relacionados a seus cursos. Para isso, este projeto é dividido em duas partes: uma é dedicada à implementação de hardware e a outra é dedicada à aplicação das ferramentas de robótica educacional. Quanto ao hardware, pretende-se desenvolver um sistema de integração de sensores e comunicação com o módulo de controle dos kits didáticos de robótica. Já em relação à aplicação da robótica no contexto educacional, pretende-se formar grupos de alunos com integrantes de diferentes cursos, aos quais serão propostos desafios que deverão ser solucionados através da construção e programação de robôs, de forma a auxiliar no aprendizado e na fixação de conceitos abordados em aulas teóricas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Max Amaro Amaral - Integrante / Felipe Nascimento Martins - Coordenador.

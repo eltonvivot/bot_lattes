@@ -1,0 +1,158 @@
+2021 - Atual
+Políticas de governança para uso de assistentes inteligentes, livres de vieses discriminatórios de interação aplicados ao cidadão de serviços públicos da área de Saúde
+Descrição: Aplicar uma metodologia, baseada em fatores humanos, contextuais, linguísticos e emocionais, para analisar e discutir como evitar viés discriminatório na interação de Assistentes Virtuais Inteligentes, usados para serviços públicos da área de saúde.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Daniel Almeida Chagas - Integrante / Lanna Sales - Integrante / virgilio almeida - Integrante / GUIDO MILITÃO, JULIO - Integrante / Robson Luis Batista Ramos - Integrante.
+2019 - 2020
+Análise das interfaces do sistema de Roteirização da Empresa Cearense PATHFIND
+Descrição: O projeto tem o objetivo de analisar a usabilidade do sistema de Roteirização a partir experiências dos usuários. A metodologia consiste na identificação dos erros reportados pelos usuários e funcionários para realizar o diagnóstico; na realização de entrevistas com usuários, na modelagem dos usuários e na proposta de um reprojeto para as interfaces, que será acompanhada de avaliações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / guido lemos de souza filho - Integrante / Thiago Hellen Oliveira da Silva - Integrante / Vítor Marques Carvalho - Integrante.
+2019 - Atual
+HASMART - Gestão Inteligente da Hipertensão Arterial Sistêmica na população do Ceará
+Descrição: A formação de uma base de dados clínicos georreferenciados da população do
+Ceará, para, com uso de técnicas de Inteligência Artificial e de Ciência dos Dados, acompanhar
+indicadores da saúde e fomentar políticas públicas preventivas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Nathalino Pachêco Brito - Integrante / vitor carvalho - Integrante / matheus paixao - Integrante.
+2018 - 2020
+Investigações de discriminações no uso de software inteligentes
+Descrição: Esta pesquisa visa analisar a presença de viés na interação via áudio através da realização de experimentos com o objetivo de verificar a qualidade do reconhecimento de frases faladas por diferentes grupos de pessoas.
+Questões de Pesquisa:
+1 - Quais os contextos de aplicação dos sistemas de interação por áudio? Exemplos: imigração/polícia, contratação de profissionais, entretenimento, automação de casa, etc.
+2 - Quais os critérios considerados pelo sistema? sotaque, emoção, gênero, idade?
+3 - Quais as análises de bias da interação, isto é, quais soluções existem para impedir discriminação?
+4 - Quais as limitações dos trabalhos para a análise da interação sem bias?
+5 - A pesquisa pode contribuir para a avaliação da interação por voz?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Maria Elizabeth Sucupira Furtado - Integrante / João José Vasco Peixoto Furtado - Coordenador / lanna lima - Integrante / virgilio almeida - Integrante / Thiago Hellen Oliveira da Silva - Integrante / Vítor Marques Carvalho - Integrante.
+2018 - 2018
+Verbup news
+Descrição: O objetivo deste projeto é entender a viabilidade do Verbup
+enquanto plataforma de publicação de notícias locais alimentada pelos próprios
+usuários, através da validação das hipóteses cruciais do negócio, chegando-se
+assim a um Produto Mínimo Viável antes de se pensar em investimentos no
+crescimento do produto.
+Para tanto, deverão ser alcançados os seguintes objetivos intermediários,
+para os quais serão levantadas as hipóteses a serem validadas:
+a. Identificar e entender o público real do produto
+Trata-se de descobrir a de forma mais detalhada quem são os usuários
+potenciais do produto, bem como suas reais motivações (necessidades e desejos)
+relacionadas à plataforma.
+b. Identificar as melhores formas de se publicar conteúdo na plataforma
+A variedade de contextos onde o produto pode ser utilizado é grande (na rua,
+em um evento, no trabalho, etc). Assim, é crucial validar as melhores formas de
+Interação Humano-Computador nos diversos ambientes e dispositivos ( mobile ,
+desktop , etc) para a inserção e edição de conteúdo, de acordo com as limitações e
+oportunidades trazidas pelas tecnologias envolvidas.
+c. Identificar as melhores formas de se consumir conteúdo da
+plataforma
+Da mesma forma que a criação, o consumo de conteúdo está sujeito a
+importantes limitações de interação impostas pelos dispositivos e ambientes,
+demandando soluções que podem exigir complexas soluções tecnológicas. Assim, é
+crucial encontrar um equilíbrio entre usabilidade e viabilidade de implementação das
+possíveis alternativas.
+d. Identificar os métodos mais adequados de remuneração do negócio
+É necessário o quanto antes identificar a viabilidade dos potenciais meios de
+remuneração sustentável do negócio, em suas várias vertentes (Publicidade,
+Merchandising, Assinaturas, Crowdfunding, etc), bem como o impacto desses
+métodos na experiência do usuário.
+e. Identificar as tecnologias apropriadas para o início e a evolução do
+serviço
+É crucial para o sucesso do projeto a identificação das tecnologias mais
+adequadas para a validação de ideias versus as necessárias para o crescimento do
+serviço. Isso ajudará a evitar investimentos desnecessários no curto prazo, ao
+mesmo tempo que ajuda a antecipar e prevenir problemas de escalabilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / carlos Rosemberg - Integrante / vitor carvalho - Integrante.
+2017 - 2020
+Linguagem de programação pictória baseada em elementos físicos.
+Descrição: Aprovado no Edital 30/2017 - PROGRAMA DE APOIO A EQUIPES DE PESQUISA, financiado pela Unifor. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Rafaela Ponte Lisboa - Integrante / Daniel Almeida Chagas - Integrante.
+2016 - 2020
+Avaliação Da Interação Em Sistemas Sociais A Partir Da Linguagem Textual Do Usuário
+Descrição: O objetivo geral deste projeto de pesquisa é estudar e implementar técnicas de avaliação de
+sistemas, Recuperação da Informação (RI) e Mineração de Dados (MD) a fim de auxiliar a
+avaliação da interação em Sistemas Sociais a partir da linguagem textual do usuário.
+Como objetivos específicos, tem-se:
+ realizar uma revisão bibliográfica sobre conceitos referentes a avaliação, RI, MD,
+técnicas de Processamento da Linguagem Natural (PLN), análise de sentimentos e
+modelagem da interface, a fim de identificar melhores formas de aplicar tais técnicas na
+extração, classificação e estudo de avaliação em Sistemas Sociais.
+ realização de experimentos a partir da extração de postagens usando técnicas de PLN,
+como análise morfológica e sintática, identificando a estrutura morfológica da sentença.
+ implementação de algoritmos a fim de classificar sentenças;
+ realizar investigações em postagens dos usuários em Sistemas Sociais a fim de estudar
+suas características;
+ estudo e aplicação da linguagem de marcação UsiXML para remodelagem de interface.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Doutorado: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Integrante / Vladia pinheiro - Integrante / Andreia Liborio - Integrante / Marília Soares Mendes - Coordenador / Vasco Furtado - Integrante / Denilson cursino de oliveira - Integrante.
+2014 - 2019
+Uma Metodologia para a Produção de Materiais Educativos em Robótica baseados em conceitos de Interação Humano Computador
+Descrição: este projeto tem como objetivo geral desenvolver e aplicar uma
+metodologia de produção de material didático (como exercícios) para robótica que levem
+em consideração conceitos de IHC, visando à formação de produtores desse tipo de
+material.
+Neste trabalho, será feita a observação do comportamento de usuários em situações
+de construção e interação com os materiais atualmente existentes, antes de desenvolver a
+metodologia proposta. O contexto de aplicação desta pesquisa será o curso de ciência da
+Computação da Unifor, e contará com o apoio dos alunos voluntários, além dos
+bolsistas, que estão sendo requeridos neste projeto. Dentre os resultados esperados,
+destacamos a criação de materiais didáticos a serem usados em oficinas do curso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Rafaela Ponte Lisboa - Integrante / camila loiola brito maia - Integrante / Nathalino Pachêco Brito - Integrante.
+2014 - 2018
+Design e avaliacao de servicos
+Descrição: Este projeto visa aplicar técnicas e métodos de design de serviços visando a qualidade de vida do cidadão que faz uso desses serviços por meio da tecnologia.
+Técnicas de design thinking, design centrado em metas, análise verbal de decisão, criativas são aplicadas com o objetivo de analisar novas ideias e alternativas para resolver problemas e fazer o redesign dos serviços. Esse projeto está sendo aplicado em diversos contextos: Trabalho flexível, mobilidade urbana e educacao a distancia, como de programação para mulheres.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / João José Vasco Peixoto Furtado - Integrante / PINHEIRO, PLACIDO - Integrante.
+2013 - 2020
+ESTRATÉGIA PARA GESTÃO E DISSEMINAÇÃO DE CONHECIMENTO EM INTERAÇÃO HUMANO COMPUTADOR NA PERSPECTIVA DA INOVAÇÃO DE PRODUTOS E DE PROCESSOS DE SOFTWARE
+Descrição: O projeto guarda-chuva focou na realização de ações da pesquisadora bolsista para a institucionalização da usabilidade por empresas de software visando à inovação de processos de software. Este presente projeto, no entanto, foca no apoio a ser dado pela pesquisadora à realização de diversas ações colaborativas para que a inovação desejada ocorra.  Esta decisão foi tomada, porque, ao longo da realização dos experimentos supracitados, percebeu-se que: 
+?	A inovação de produtos e de processos de software não precisa obrigatoriamente ocorrer dentro de empresas de software. Assiste-se a uma série de iniciativas em que profissionais liberais estão disponibilizando seus produtos de software interativos para o mercado numa perspectiva de agregar valor para a inclusão digital e social dos usuário alvos,  e/ou avaliando os já existentes para a geração de negócios; 
+?	Precisa-se do apoio da comunidade de IHC, para que iniciativas de inovação sejam produzidas e disseminadas. Profissionais estão a todo momento realizando novos procedimentos e recebendo treinamentos, levando-os à criação de várias habilidades e à vivência de casos bem sucedidos ou não. Numa perspectiva de se oferecer serviços inovadores, ter a capacidade de adaptação e de integração de novas práticas e conceitos de IHC vai ser um diferencial para sobrevivência no mercado global; e
+?	Não basta disponibilizar práticas e métodos de IHC numa ferramenta, para profissionais e empresas de software os aplicarem no seu cotidiano. É necessária a implementação de estratégias que dependem de uma série de fatores não técnicos, como de motivação e de disseminação.  
+O beneficiário com este projeto ora em submissão pode ser qualquer indivíduo, como um estudante, designer, seja ele um profissional autônomo ou de empresas, interessado pela qualidade da interação de um produto de software interativo que ele(a) desenvolve e/ou pela inovação de um produto e/ou pela inovação de processos de software. Assim, a inovação de processo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Patricia Freitas Campos de Vasconcelos - Integrante / carlos Rosemberg - Integrante / Lucas de Moura Carvalho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2018
+Formação de Testadores Surdos para avaliação da Acessibilidade de Aplicações Interativas Móveis
+Descrição: O presente projeto tem como objetivo geral desenvolver uma metodologia de formação de Testadores Surdos para avaliação da Acessibilidade de Aplicações Interativas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Integrante / Natercia Nogueira - Coordenador.
+2012 - 2014
+Modelagem de Ambiente Extra-Empresa com Condições Operacionais e Psicossociais para a Prática de Trabalho Especializado Remoto de Empresas do Setor Elétrico
+Descrição: As metodologias aplicadas ao trabalho realizado virtualmente sempre colocam a tecnologia ou ferramentas de TI como componente fundamental ao processo, não visualizando o capital humano como ator principal. O desafio a ser alcançado nesta proposta refere-se à criação de um ambiente tecnológico em que privilegia uma sintonia entre equipamentos, conhecimento e pessoas geograficamente distribuídas realizando tarefas especializadas para a concessionária do setor elétrico. O desenvolvimento de uma ferramenta computacional para apoiar o projeto é proposto. As tecnologias envolvidas se adequarão às necessidades das tarefas e dos usuários definidos nos cenários identificados. A ferramenta implementada deverá proporcionar: i. distribuição de tarefas aos funcionários; e ii. acompanhamento e medição de produtividade pelos gestores. A investigação de novos protocolos de segurança na informação deverá ser realizada para garantir que o processo seja realizado de forma idônea. Um novo paradigma de relação trabalho x capital se forma a partir do momento em que a empresa passa ser uma extensão de nossas residências ou habitações, vice-e-versa, e o comportamento do profissional passa a ser acompanhado e questionado pelos seus parentes e familiares. O projeto possui um desafio complementar no entendimento que apóie na pesquisa e análise de desenvolvimento de uma tecnologia que permitam inserir pessoas portadoras de diferentes necessitadas especiais, portadores de deficiência, em trabalhos a distância de processos produtivos de concessionárias de energia. Foram feitos levantamentos no Estado da Arte sobre as tecnologias e metodologias existentes, e não encontrou-se nenhuma que atendesse as demandas do setor, de forma confiável e que gerasse os resultados almejados quanto a produtividade x capacidade x confiabilidade x segurança das informações x laboral x inclusão social.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Patricia Freitas Campos de Vasconcelos - Integrante.
+2011 - 2013
+Sistema Colaborativo de Informações de Trânsito SiCIT
+Descrição: O projeto propõe um modelo de interação e colaboração para aplicações baseadas em mapas colaborativos aplicados ao Modelo do Sistema Brasileiro de Televisão Digital (SBTVD). O projeto é contextualizado na adoção de mapas digitais colaborativos como ferramenta de suporte a fluidez e mobilidade urbana.
+Temos como base para este trabalho uma das grandes preocupações que envolvem os grandes centros urbanos, a mobilidade. Diante dos vários meios de informações que dispomos a TV Digital (TVD) pode ser vista como um excelente elo entre os órgãos governamentais e o público, que será o principal usuário das informações disponíveis e abertas para qualquer cidadão.
+A televisão leva informação de maneira acessível, para muitas áreas das mais diversas do território, bem como entretenimento e conhecimento para cerca de 90% da população brasileira. Além de trazer grandes benefícios para muitos centros urbanos e rurais. Mas como essas informações devem ser enriquecidas?
+A partir do mapeamento colaborativo, a população poderá enviar suas críticas e dúvidas para o órgão de controle do trânsito de sua cidade, ter acesso a base das informações coletadas dessas entidades dispostas de diferentes formas de visualização e sumarização (mapas e textos). Visa-se com essa base de informações fomentar os mais diversos meios de informações para usuários e os órgãos gestores de grande cidades. Para tanto, teremos como parâmetro as ferramentas já existentes na web. No entanto, o modelo de TVD brasileiro impõe algumas limitações no seu uso, o que nos remete ao desafio deste trabalho que a proposta de um modelo de interação para mapas utilizando as linguagens e implementado em NCL, transmitido via Broadcast. Os resultados preliminares já mostram que a parceria cidadão-estado será possível por meio da manipulação de mapas usando o controle remoto via a TV Digital.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / João José Vasco Peixoto Furtado - Integrante / Eurico Vasconcelos - Integrante / NOBRE JÚNIOR, Jouderian - Integrante / Lucas de Moura Carvalho - Integrante.Financiador(es): Fotosensores Tecnologia Eletrônica - Cooperação.
+2010 - 2013
+INSTITUCIONALIZANDO A USABILIDADE NAS PERSPECTIVAS DA INOVAÇÃO DOS PROCESSOS DE SOFTWARE E DA RESPONSABILIDADE DE CONSTRUIR SOFTWARE PARA A INCLUSÃO DIGITAL E SOCIAL
+Descrição: Projeto apresentado ao CNPq com vista à obtenção de uma bolsa DT ao pesquisador para a realização de ações de desenvolvimento tecnológico e inovação de processos de institucionalização da usabilidade em empresas de software. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2014
+Formação de Recursos Humanos para o desenvolvimento da Educação a Distancia através da TV Digital Interativa Brasileira: Um olhar MultiDisciplinar que norteia esta nova mídia na educação
+Descrição: Este projeto se apresenta como uma oportunidade muito importante de capacitação de recursos humanos em televisão digital, envolvendo a cadeia de desenvolvimento de aplicações, produção de conteúdo, transmissão e utilização de cursos. Os recursos humanos que serão capacitados e que estão envolvidos no desenvolvimento e produção do SBTVD são os seguintes:
+Discentes e Docentes envolvidos nos programas de pós-graduação das instituições proponentes desta proposta. Os envolvidos farão o intercâmbio de conhecimento tanto entre a comunidade acadêmica brasileira como do exterior para estender e adaptar as pesquisas para a TV digital interativa Brasileira no contexto educacional, incluindo jogos educativos;
+Profissionais de empresas produtoras de conteúdo digital e de aplicações de TV. Os profissionais da empresa envolvida nesta proposta trabalharão durante a realização deste projeto de forma integrada com as instituições envolvidas, havendo um compartilhamento de conhecimento e troca de experiências e;
+Usuários, que serão capacitados através dos conteúdos digitais a serem acessados através de aplicações de TV.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (12)  / Doutorado: (4) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Ferando Lincoln - Integrante / Hermínio Borges Neto - Integrante / Fernando Carvalho - Integrante / placido pinheiro - Integrante / Fernando Trinta - Integrante / Nivando Bezerra - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2009 - 2010
+Defeitos ou Soluções? Acessibilidade às Aplicações de TV Digital para o Analfabeto Funcional
+Descrição: Defeitos ou Soluções? Acessibilidade às Aplicações de TV Digital para o Analfabeto Funcional. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Thais Kampf - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Remuneração.
+2009 - 2010
+Apoio à Capacitação de Recursos Humanos para o Ensino- Aprendizado da Matemática através de um ambiente de Educação a Distância na TV Digital Interativa Brasileira
+Descrição: Apoio à Capacitação de Recursos Humanos para o Ensino- Aprendizado da Matemática através de um ambiente de Educação a Distância na TV Digital Interativa Brasileira. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Hermínio Borges Neto - Integrante / Fernando Carvalho - Integrante / Julio Guido Oliveira Militao - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2014
+Sistemas Auto-Reportáveis
+Descrição: Este projeto se justifica científica e academicamente. Do ponto de vista científico se justifica por investigar um assunto de relevância para a qualidade de software e a qualidade da experiência do usuário ( sistemas auto-reportáveis expressam a sua lógica de funcionamento, tornando-se mais inteligíveis para desenvolvedores e usuários ). Além disso, reúne especialistas de várias sub-áreas da computação ( interação humano-computador, inteligência artificial, banco de dados, linguagens de programação, sistemas distribuídos, sistemas hipermídia ). Do ponto de vista acadêmico, um programa com conceito 6 se reúne com outros programas nota 4, que aspiram ao conceito nota 5, capacitando seus discentes ( com doutorado e mestrado sanduíche ) e docentes ( através de co-orientações de bolsas de pós-doutorado )... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Integrante / Simone Diniz Junqueira Barbosa - Integrante / Vasco Furtado - Integrante / PINHEIRO, PLACIDO - Coordenador.
+2008 - 2008
+Aplicação de Práticas de Projeto e de Avaliação da Interação no Desenvolvimento de Jogos para TV
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+SAMBA System for Advanced interactive digital television and Mobile services in BrAzil
+Descrição: O projeto SAMBA tem como objetivo criar um sistema que permita cidadãos terem acesso a conteúdos produzidos pela população pelos serviços dos canais da TV Digital. O sistema proposto é constituído de uma parte na web, o sistema de suporte a produção colaborativa de conteúdo, e de aplicações para TV digital, integrados em uma estrutura para suportar a interatividade, baseada on the Power Line Communication ? PLC (OPERA, 2007) technology.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / João José Peixoto Furtado - Integrante.
+2005 - 2006
+RFP 07 -Aplicações em TVD
+Descrição: A presente proposta responde a Carta-convite 07/2004, no tema Serviços, Aplicações e Conteúdo, onde se privilegia a participação de redes cooperativas inter-regionais.  Onde se pretende, ao desenvolver 03 protótipos de aplicações (Governo Eletrônico, Portal de Aplicações e Mensagem Eletrônica) contribuir para especificação do modelo de referência.
+Através da realização destes três protótipos, pretende-se atender a premissa fundamental para o SBTVD, que é a inclusão social. O país revela estatísticas impressionantes no que concerne a penetração do atual sistema de tv aberta: estima-se que 90% dos lares possuam aparelho de TV. Essa capilaridade deve-se não só ao baixo custo dos aparelhos, mas também a outros fatores, como a ausência de  tarifas periódicas ou impostos, sem esquecer a boa qualidade dos conteúdos de algumas emissoras, que até exportam suas produções.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (1)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Kenia Soares Sousa - Integrante / David Falcão Barbosa - Integrante / Pedro Henrique Soares - Integrante / Patricia Freitas Campos de Vasconcelos - Integrante / Albert Schilling - Integrante / Amaury Teófilo Brasil - Integrante / Fabrício Mário Maia Fava - Integrante / Kelma Madeira Furtado - Integrante / Marília Soares Mendes - Integrante / Aristides Thiago de Holanda Melo - Integrante / Rebeca Rebouças - Integrante.Financiador(es): Universidade Federal do Ceará - Cooperação / Instituto Atlântico - Cooperação / Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Cefet - Cooperação.Número de produções C, T & A: 10
+2004 - 2006
+Desenvolvimento e Avaliação de interfaces de Usuário para múltiplos dispositivos
+Descrição: Definição de um ambiente de geração e avaliaçao de interfaces de usuário para múltiplos dispositivos, baseado numa metodologia que faz a integração entre as áreas de ES e IHC. Além disso, o ambiente faz a. integração de IHC com Inteligência artificial, com o objetivo de gerar de maneira inteligente e adaptativa as interfaces, de acordo com padrões universais de usabilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Felipe Távora Pereira - Integrante / Pedro Henrique Soares - Integrante / Kênia Sousa  Soares - Integrante / Márcio Silva Maia - Integrante.Financiador(es): Universidade de Fortaleza - Bolsa.
+2003 - 2004
+"AVEC - Um Ambiente Virtual de aprendizagem para suportar a Educação Corporativa através de objetos de aprendizagem em multimídia"
+Descrição: Este projeto tem o objetivo de pesquisar novas funcionalidades técnicas e metodológicas a serem implementadas e integradas no ambiente CadiNET,  a fim de viabilizar de forma eficiente, a gestão do conhecimento oriundos dos treinamentos. No decorrer do projeto serão desenvolvidos dois cursos para profissionais da Sanmina-SCI, a fim de testar as novas funcionalidades integradas.
+Ao final do projeto, espera-se ter um novo ambiente de EAD, que promova a gestão do conhecimento, apoiado por ferramentas que possam auxiliar no processo de elaboração de material didático (conhecimento) e fornecer ajudas contextualizadas e informações precisas e adaptativas sobre os usuários. 
+Além disto, espera-se validar este ambiente, desenvolvendo dois programas de treinamento para formação profissional para a Sanmina-SCI, através dos recursos de multimídia. Estes cursos serão definidos seguindo a metodologia de geração de cursos com qualidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / Daniel William - Integrante / David Falcão Barbosa - Integrante / Alécio Carvalho - Integrante / Francisco José de Azevedo - Integrante / sandra Freitas - Integrante / Pedro Henrique Soares - Integrante / Fernando Lincoln Carneiro Leão Mattos - Integrante / Kênia Sousa  Soares - Integrante / Márcio Silva Maia - Integrante.Financiador(es): Sanmina Sci - Remuneração.Número de produções C, T & A: 8
+1999 - 2005
+Desenvolvimento de ambientes adaptativos e colaborativos de aprendizagem
+Descrição: 1. Objetivos e Metas 
+Este projeto visa desenvolver um ambiente para auxiliar na formação do indivíduo e na gestão do conhecimento e potencializar sua aprendizagem através da resolução colaborativa de problemas (tais como, do uso de agrotóxicos, do desmatamento de árvores) sobre a preservação/recuperação ambiental. Este ambiente Colaborativo para aprendizagem Ambiental a DIstância, chamado Tele-Cadi, se caracteriza pelo uso integrado de sistemas de informação e sistemas de inteligência artificial. Aliado a isto, utilizar-se-á métodos de ensino em ambiente à distância com tecnologia WEB para permitir colaboração e auxiliar o compartilhamento de conhecimento.
+Suas principais metas são:
+·	Implementar agentes pedagógicos inteligentes para auxiliar na aprendizagem do indivíduo através da resolução colaborativa de problemas ambientais;
+·	Desenvolver ferramentas que ajudem de maneira mais eficiente, um indivíduo que se encontra numa situação problemática através do acesso a bancos de conhecimento para a recuperação de casos e/ou o acionamento ágil de pessoas que possuam habilidades no tratamento de problemas ambientais semelhantes;
+·	Desenvolver ferramentas de auxílio à formação do indivíduo que suportem a elaboração, programação e acompanhamento de cursos a fim de disseminar temas importantes sobre o meio-ambiente;
+·	Desenvolver módulos de comunicação que auxiliem no compartilhamento de conhecimento entre grupos de estudos através de troca de experiências, discussões, fóruns e videoconferência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (1)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Maria Elizabeth Sucupira Furtado - Coordenador / João José Vasco Peixoto Furtado - Integrante / Hermínio Borges Neto - Integrante / Daniel William - Integrante / Alécio Carvalho - Integrante / Francisco José de Azevedo - Integrante / sandra Freitas - Integrante / Fernando Lincoln Carneiro Leão Mattos - Integrante / Kênia Sousa  Soares - Integrante / Márcio Silva Maia - Integrante / Lanevalda Primo - Integrante.

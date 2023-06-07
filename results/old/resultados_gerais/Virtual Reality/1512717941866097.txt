@@ -1,0 +1,135 @@
+2022 - Atual
+Implantação do Laboratório de Inteligência Artificial, Robótica e Cibernética (LABIArCi)
+Descrição: A Inteligência Artificial (IA) se insere no cerne da Quarta Revolução Industrial na condição de uma das principais áreas com potencial disruptivo e com reflexos significativos em todas as Expressões do Poder Nacional. Em particular, estudos prospectivos apontam essa área como uma das mais impactantes na Guerra do Futuro. Atento aos impactos na Expressão Científico-Tecnológica e na Expressão Militar do Poder Nacional, este Instituto iniciou estudos para criar a Linha de Pesquisa de Inteligência Artificial visando aplicações na área de Cibernética, Robótica, Sistemas Remotamente Pilotados, Internet das Coisas no Campo de Batalha dentre outros temas essenciais para a Guerra do Futuro. Por ser uma área de amplo rol de aplicações em diversos setores e áreas de conhecimento, os professores e pesquisadores que labutam em IA encontram-se distribuídos em diversos cursos e programas de pós-graduação deste Estabelecimento de Ensino. O processo de criação da Linha de Pesquisa de Inteligência Artificial, em curso, possibilitará definir objetivos, canalizar os esforços para temas estratégicos com impactos relevantes à Força Terrestre, criar infraestrutura laboratorial na área entre outros desdobramentos. O presente fomento será de grande valia para realizar este Objetivo.  O pretendido laboratório será utilizado no ensino e pesquisa da graduação e pós-graduação de Engenharia e será vocacionado para os temas supracitados e contribuirá com geração de competências, publicação científica, inovação e patentes para o setor de Defesa. Para a implantação do laboratório será necessária a adequação da infraestrutura do Instituto e a aquisição de insumos e equipamentos laboratoriais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (45)  / Especialização: (2)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (8) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Cláudia Marcela Justel - Integrante / Antonio Carrilho - Integrante / Ronaldo Ribeiro Goldschmidt - Integrante / Paulo César Pellanda - Integrante / Alberto Mota Simões - Integrante / Rosângela Fernandes Coelho - Integrante / Anderson F. Pereira dos Santos - Integrante / CHOREN, RICARDO - Integrante / DUARTE, JULIO CESAR - Integrante / Raquel Coelho Gomes Pinto - Integrante / DE OLIVEIRA, JAUVANE C. - Integrante / Erick Menezes Moreira - Integrante / Herbert Ferreira Sá - Integrante.
+2019 - Atual
+Desenvolvimento de um Sistema de Aeronaves Remotamente Pilotadas com Controle baseado em  Alocação Dinâmica para Cobertura de Áreas com Prioridades de Interesse
+Descrição: Propõe-se desenvolver um sistema para controle de múltiplas aeronaves remotamente
+pilotadas de pequeno porte, com arquitetura baseada na coordenação de
+multiagentes robóticos embarcados, para monitoramento persistente por cobertura
+de área com prioridade de interesse e alocação dinâmica de tarefa com intervenção
+do usuário.
+Visando ao cumprimento do objetivo geral deste projeto, propõe-se os seguintes
+objetivos específicos (ou metas):
+a) Planejamento de trajetória de enxame de ARPs com percepção em rede: Elaborar
+um método de planejamento e ajuste de trajetórias para um enxame de
+ARPs com percepção de rede, em um cenário operacional de reconhecimento.
+Nesse cenário, demandas de tráfego conhecidas devem ser captadas e transmitidas
+de sua origem até o centro de comando e controle, passando por um ou
+mais elementos do enxame que estabelecerá uma rede ad hoc para tal.
+b) Framework multiagentes para desenvolvimento, simulação e teste de sistemas
+de enxame robótico com suporte à interação com o operador humano: Conceber,
+modelar e implementar um framework multiagentes para desenvolvimento,
+simulação e teste de Sistemas de Enxame Robótico, dando suporte à interação
+com o operador humano. Tal objetivo será alcançado através dos seguintes
+passos: (i) Modelo conceitual para SRS; (ii) Arquitetura e framework para desenvolvimento
+de SRS; (iii) Ambiente de simulação e teste; (iv) Integração do
+humano virtual e (v) Ensaios de campo.
+c) Classificação autônoma de Entidades Terrestres Móveis (ETMs): Desenvolver
+uma metodologia de classificação autônoma de ETMs que adentrem uma área
+restrita e que use, exclusivamente, os recursos presentes em uma equipe de
+ARPs heterogêneas que irâo cooperar entre si para completar a tarefa, de forma
+a apoiar um operador humano no processo de tomada de decisão referente a
+este evento. Em síntese, os seguintes objetivos deverão ser cumpridos: (i)
+Rastrear a posição de ETMs que adentrem a área restrita; (ii) Abordar a ETM
+usando uma ARP, posicionando-a de forma adequada; (iii) Classificar a ETM
+em alguma das classes previamente estabelecidas e (iv) Transmitir informações
+da ETM a um operador humano em uma estação de controle em solo.
+d) Desenvolvimento de técnicas de payload para mapeamento e navegação, baseadas
+em visão computacional embarcada: Desenvolver metodologias baseadas
+em visão computacional, embarcadas e/ou pós-processadas, para  mapeamento
+e navegação, visando tanto servir de suporte ao tráfego das
+ARPs quanto para ação de controle posterior. Em resumo, as seguintes submetas
+são visionadas: (i) Desenvolvimento de técnicas para processamento de
+dados de sensores (2D e 3D) embarcados (em tempo real) e pós-processados;
+(ii) Utilizar os modelos e retornos fornecidos por essas técnicas para a  melhoria
+do desempenho de navegação das ARPs e para mapeamento posterior.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Cláudia Marcela Justel - Integrante / Jauvane Cavalcante de Oliveira - Integrante / Fábio André Machado Porto - Integrante / Ricardo Mróquio Bernardo - Integrante / Fábio Silveira Vidal - Integrante / Artur Ziviani - Integrante / Ricardo Choren NOya - Integrante / Erick Menezes Moreira - Integrante / Alberto Torres Angonese - Integrante / Anderson Crivella de Carvalho Rodrigues - Integrante / Leandro Aparecido Simal Moreira - Integrante / Luis Claudio Batista da Silva - Integrante / Fábio Luiz Jr - Integrante / Luiz Carlos Pacheco Rodrigues Velho - Integrante / Raquel Coelho Gomes Pinto - Integrante / Luiz Sérgio Alves Pinto - Integrante / Thiago João Miranda Baldivieso - Integrante / Fábio Borgees de Oliveira - Integrante / Caio Lucas dos Santos Souza - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2016 - Atual
+Sistema para controle de múltiplos veículos aéreos não tripulados de pequeno porte para monitoramento persistente em ambientes dinâmicos
+Descrição: Neste trabalho, propõe-se um sistema para controle de múltiplos veículos aéreos não tripulados de pequeno
+porte (micro-VANTs) em tarefas de monitoramento persistente por cobertura de área, aplicado a missões
+de ISR (sigla em inglês para Inteligência, Vigilância e Reconhecimento). Nesta tarefa, a região de interesse
+deve ser frequentemente revisitada, bem como, apresenta pontos com maior prioridade, que podem mudar
+com a evolução da missão. Entretanto, devido ao baixo payload dos micro-VANTs, restrições de recursos
+podem limitar o alcance da comunicação necessária ao cumprimento desta tarefa. Neste cenário, uma
+Página 1 de 6
+solução deve ser robusta, visando manutenção da conectividade e proteção das informações sensoriadas,
+de maneira que a frota de VANTs possa formar uma rede, na qual os dados sensoriados por aeronaves
+distantes da estação de controle possam ser retransmitidos por outras aeronaves mais próximas. A
+arquitetura do sistema proposto é baseada na coordenação de multiagentes robóticos embarcados, sendo
+utilizada a abordagem de coordenação espacial por posicionamento estratégico de agentes cooperativos.
+Nesta abordagem, serão adotados planos centralizados para execução distribuída, através dos agentes
+embarcados nas aeronaves, que cumprem papéis de sensoriamento e transmissão de dados. Também,
+adota-se o monitoramento por prioridades gradientes, através do particionamento da região em células,
+onde o ponto de maior interesse deverá ser atualizado com maior frequência, sendo esta reduzida
+gradualmente pela distância radial dos demais pontos. A arquitetura é dividida em três partes: (a) estação
+de controle em terra, para planejamento e controle dinâmico da missão por intervenção do usuário; (b) frota
+de quadricópteros com capacidade de navegação por sensores inerciais e GPS; (c) agentes de controle
+embarcados nas aeronaves, responsáveis pela comunicação entre as aeronaves e a estação de controle,
+alocação de tarefas e controle do payload da missão. Em síntese, o propósito do sistema é prover a um
+único piloto o controle de uma frota de micro-VANTs, com supervisão de alto nível centrada na tarefa,
+aplicado para monitoramento de cobertura de área com diferentes prioridades e controle dinâmico da
+missão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Cláudia Marcela Justel - Integrante / Ricardo Choren NOya - Integrante / Paulo César Pellanda - Integrante / Anderson F. Pereira dos Santos - Integrante / Luis Claudio Batista da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Implantação de um Laboratório para Aperfeiçoamento de Habilidades e Competências com uso da Robótica
+Descrição: O objetivo geral do projeto é utilizar o ambiente proporcionado pelas competições de robótica para estimular o pensamento computacional de jovens do ensino médio e contribuir com uma formação de qualidade para futuros profissionais de carreiras tecnológicas. Como objetivo específico destacamos: (a) Preparação de alunos do IFTO/Campus Paraíso do Tocantins para a formação de uma equipe capacitada a montar robôs competitivos para competição da edição 2016 da OBR na modalidade "rescue" (resgate); (b) Desenvolvimento de estudos avançados de robótica, visando implementação de algoritmos de robótica móvel para competições acadêmicas de alto nível como a RoboCup : Modalidades Home e Logistics.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Paulo Fernando Ferreira Rosa - Integrante / Fábio Silveira Vidal - Coordenador / Alberto Torres Angonese - Integrante.
+2012 - 2014
+Coordenador do Projeto de Integração Engenharia-Escola para Competições de Robótica
+Descrição: O presente projeto almeja estabelecer uma parceria entre o Laboratório de Robótica e Inteligência Computacional do Instituto Militar de Engenharia - IME e a escola de nível médio técnico da rede FAETEC - Centro Profissionalizante em Tecnologia da Informação - CPTI Petrópolis. A ideia do projeto é aproveitar o conhecimento acumulado de uma das mais tradicionais instituições de ensino na área de engenharia aliado às experiências em competições de robótica para a capacitação de alunos e professores de nível médio do CPTI, auxiliando na formação de equipes de alunos para competirem em olimpíadas científicas e campeonatos de robótica. O IME, possui ampla experiência em campeonatos de robótica, nacionais e internacionais, com destaque para o vice-campeonato na CBR 2011 e a participação no mundial de futebol de robôs (Robocup México), neste ano. A escola de ensino médio/técnico do CPTI participou com duas equipes na etapa regional da OBR 2012. Apesar das plataformas dos robôs não estarem totalmente estabilizadas e da pouca experiência, os alunos competiram de igual para igual com o restante das equipes da região e independentemente do resultado das provas, saíram com a sensação de dever cumprido, propondo alterações e melhorias nos robôs e bolando planos e estratégias para as próximas competições. A principal dificuldade encontrada pelos alunos e consequentemente o principal ponto de melhoria foi a estabilização da parte eletrônica dos robôs. A parceria com o IME promoverá a capacitação dos alunos do ensino médio tornando-os aptos a desenvolverem robôs competitivos para competições robóticas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Alberto Torres Angonese - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2013
+Coordenador do projeto Equipe RoboIME - Latin American Robotics Competition 2012 - Categoria Futebol de Robôs Liga Small Size
+Descrição: A RoboCup escolheu usar o futebol como um tópico central de pesquisa, objetivando inovações aplicáveis em problemas significativos para ambas sociedade e indústria. A meta final do projeto RoboCup é, em 2050, desenvolver um time de robôs humanóides completamente autônomos capazes de derrotar o time campeão da Copa do Mundo.
+O objetivo deste projeto é desenvolver a eletrônica embarcada, a mecânica de precisão e o algoritmo de inteligência computacional para um time de robôs autônomos, da categoria Small Size Robot League, a fim de viabilizar a participação de uma equipe de professores e alunos em uma competição latino-americana de robótica. 
+O IME pleitea participar na Modalidade RoboCupSoccer, na categoria Small Size Robot League. Um jogo da categoria Small Size acontece entre dois times com cinco robôs cada. Cada robô deve possuir diâmetro máximo de 180mm e altura máxima de 15cm. Os robôs jogam futebol em um campo de carpete verde de 4.9m de comprimento por 3.4m de largura com uma bola de golfe laranja. Os robôs possuem visão global usando uma única câmara e um PC fora do campo para identificar e rastrear os robôs em sua movimentação durante o jogo. A câmara é fixada em um barramento situado a 4m acima do campo. A informação visual é enviada para o PC para processamento, o qual envia comandos de arbitragem e informação de posicionamento para os robôs. Tipicamente, o PC tambem desempenha o processamento necessário para a coordenação e controle dos robôs. A comunicação é sem fio e utiliza transmissor/receptor de FM disponível comercialmente (http://wiki.robocup.org/wiki/Small_Size_League).
+O IME pleitea participar na Modalidade RoboCupSoccer, na categoria Small Size Robot League. Um jogo da categoria Small Size acontece entre dois times com cinco robôs cada. Cada robô deve possuir diâmetro máximo de 180mm e altura máxima de 15cm. Os robôs jogam futebol em um campo de carpete verde de 4.9m de comprimento por 3.4m de largura com uma bola de golfe laranja. Os. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (2) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2012 - Atual
+Coordenador no IME do projeto Edital CAPES/Pró-Estratégia " Múltiplos Mini-Veículos Aéreos Não Tripulados em Voos Colaborativos "
+Projeto certificado pela empresa XMobots Sistemas Robóticos em 14/10/2014.
+Descrição: Este projeto consiste na implantação de uma rede de cooperação acadêmica para a  pesquisa, desenvolvimento, simulação e prototipagem  de um sistema de múltiplos mini-veículos aéreos não tripulados em voos cooperativos para missões de reconhecimento, e vigilância, visando emprego dual, i.e., aptidão para utilização para fins científicos, civis ou militares.
+A pesquisa em veículos aéreos não tripulados é uma área estratégica para o desenvolvimento de longo prazo do Brasil. A aplicação prática dos VANTs permite minimizar ou eliminar a exposição a riscos para o ser humano em naves tripuladas, causados por exemplo: (a) pela exposição a agentes químicos, biológicos e patogênicos existentes em herbicidas e drogas de emprego fito-técnico na agricultura; (b) pelo perigo iminente nas operações de combate ao narcotráfico (sobrevoo de plantações e áreas sob o controle de organizações criminosas) ou fogo inimigo praticado por forças hostis regulares ou não, no esforço de manutenção do controle de área em cenários diversos; e (c) ainda pela exposição durante o controle de áreas sujeitas a contaminação radioativa. 
+Este projeto tem como objetivos secundários: Acelerar o desenvolvimento de tecnologia e capacitação de recursos humanos na área de robótica, sistemas embarcados e inteligência computacional para mini-veículos autônomos não tripulados para atuar em diversos cenários de operação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Paulo Fernando Ferreira Rosa - Integrante / Jauvane Cavalcante de Oliveira - Coordenador / Fábio André Machado Porto - Integrante / Artur Ziviani - Integrante / Ricardo Choren NOya - Integrante / Luiz Marcos Gonçalves - Integrante / Luiz Eduardo Cunha Leite - Integrante / Paulo César Pellanda - Integrante / Gilson Antônio Giraldi - Integrante / Bruno Richard Schulze - Integrante / Antônio Eduardo Carrilho da Cunha - Integrante / Jorge Audrin Morgado - Integrante / Jacy Montenegro Magalhães Neto - Integrante / Aquiles Medeiros Filgueira Burlamaqui - Integrante / Roberto Ferraz de Campos Filho - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2011 - 2016
+Coordenador no IME do projeto Chamda Pública  MCT-FINEP CT-AERO VANT 01/2009
+Descrição: O objetivo do projeto é desenvolver técnicas de navegação autônoma com sistema embarcado. O projeto deve cumprir as etapas físicas de: prototipação de um vant, desenvolvimento do sistema de controle de voo, implementação do sistema de medição e comunicação de dados, desenvolvimento dos sistema de inteligência de voo e uma aplicação de monitoramento ambiental com visão computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Paulo Fernando Ferreira Rosa - Integrante / Luiz Marcos Gonçalves - Coordenador / Alejandro Cesar Frery Orgambide - Integrante / Luiz Eduardo Cunha Leite - Integrante / Paulo César Pellanda - Integrante / Adelardo Adelino Dantas de Medeiros - Integrante / Pablo Javier Alsna - Integrante / Eliana da Silva Almeida - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 12
+2011 - 2014
+Coordenador do projeto: Exploração Integrada de um Ambiente Interno com Técnica de SLAM 
+Descrição: SLAM é um processo pelo qual um robô móvel constrói um mapa de um ambiente e, ao mesmo tempo, usa este mapa para deduzir a sua localização. No SLAM, tanto a trajetória do robô quanto a localização dos marcos são estimados sem a necessidade de um conhecimento anterior sobre a localização do robô. O SLAM consiste de múltiplas etapas: extração de marcos, associação de dados, estimativa de estado, atualização de estado e atualização de marcos. De uma forma geral, considere um robô se movendo em um ambiente e coletando observações relativas de um conjunto desconhecido de marcos, usando um sensor. Neste trabalho mostramos que uma tarefa de exploração com dois veículos em um ambiente interno é mais eficiente do que a realizada com apenas um veículo, uma vez que há uma redução no tempo de exploração e a manutenção ou melhoria na pose dos veículos com um igual número de partículas. A partir desses resultados obtidos por simulação, pretendemos também validar a abordagem através da exploração de um ambiente interno com veículos robóticos reais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Adão de Mello Neto - Integrante / Thiago Eustáquio de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2013
+REDE DE VEÍCULOS AUTOGUIADOS PARA O TRANSPORTE DE PEÇAS
+Descrição: O presente projeto destina-se a desenvolver uma planta experimental intitulada "Rede de Veículos Autoguiados (AGV) para o Transporte de Peças" para mobiliar o Laboratório de Controle e Automação do IME, ora em instalação. A construção da planta visa alavancar o ensino e a pesquisa em Modelagem, Análise e Controle de Sistemas a Eventos Discretos, em curso no Instituto. O sistema de controle da planta será desenvolvido empregando-se diferentes abordagens disponibilizadas pela Teoria de Controle Supervisório, tratando de aspectos do roteamento dos AGV, o escalonamento para o transporte de peças e a gerência de energia dos veículos. Diferentes abordagens de controle serão desenvolvidas e implementadas em microcontroladores. Será feita a análise do desempenho das diferentes abordagens.. 
+Situação: Concluído; Natureza: Pesquisa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Fernando Ferreira Rosa - Integrante / Ney Bruno - Integrante / Bruno Eduardo Madeira - Integrante / Antônio Eduardo Carrilho da Cunha - Coordenador / Mauro Cesar Rebbelo Cordeiro - Integrante.
+2010 - 2013
+Coordenador do projeto: Modernização do laboratório de Robótica e Inteligência Computacional do Instituto Militar de Engenharia
+Descrição: O presente projeto, enquadrado na faixa de recursos de R$ 250.000,00, trata da reforma e modernização do Laboratório de Robótica e Inteligência Computacional do Instituto Militar de Engenharia através da manutenção dos equipamentos existentes e compra de novos materiais nacionais e importados.
+Este projeto trata do desenvolvimento do protótipo de um sistema de navegação para um conjunto de robôs móveis autônomos operando cooperativamente, para a realização de tarefas em ambientes desestruturados ou semi-estruturados. Sendo assim, o presente projeto tem como objetivo principal a integração, em uma rede única, de tecnologias para a área de robótica já desenvolvidas ou em desenvolvimento pelos pesquisadores envolvidos. Em particular, o presente projeto realizará atividades de pesquisa e desenvolvimento e de formação de recursos humanos nos seguintes temas:
+-Veículos aéreos não-tripulados (VANT);
+-Veículos terrestres não-tripulados;
+-Sistemas autônomos e inteligentes de Robótica;
+-Planejamento dinâmico de trajetórias livres de obstáculos;
+-Modelagem de sistemas multi-agentes;
+-Otimização meta-heurística e inteligência computacional;
+-Competicões nacionais e internacionais de robótica: Liga RoboCup;
+-Arquitetura de sistemas de eletrônica embarcada;
+-Integração hardware-software;
+-Controle robusto.
+Com a aquisição de novos materiais e a consequente modernização dos laboratórios em questão, espera-se obter um ambiente mais propício à formação de recursos humanos com alto grau de capacitação na área de robótica, ou seja, preencher um requisito básico para a obtenção de resultados de pesquisa relevantes e de produtos com satisfatório nível de aplicabilidade no cenário nacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Cláudia Marcela Justel - Integrante / Antonio Carrilho - Integrante / Ronaldo Moreira Salles - Integrante / Luiz Renault Leite Rodrigues - Integrante / Maria Cláudia Reis Cavalcante - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2009 - Atual
+Futebol de robôs: uma plataforma cooperativa para sistemas inteligentes de navegação e controle
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador.
+2007 - 2010
+Implantação de Infra-Estrutura para a Pesquisa em Mecatrônica e Sistemas de Armas no IME
+Descrição: O presente projeto destina-se à reestruturação do atual Laboratório de Máquinas Elétricas do IME num complexo de laboratórios, salas de aulas, salas para professores e alunos para a pesquisa nas áreas de Mecatrônica e Sistemas de Armas. Também prevê a aquisição de equipamentos para ensino e pesquisa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Armando Ferreira Morado - Integrante / Paulo César Pellanda - Integrante / Luciano Luporini Menegaldo - Integrante / Antônio Eduardo Carrilho da Cunha - Integrante / Jorge Audrin Morgado - Integrante.
+2002 - 2014
+Domótica- a casa inteligente com um sistema de identifição não-invasivo
+Descrição: The smart house is an environment where several systems interact autonomously performing tasks that in regular houses are done by their occupants. The smart house proposed is capable
+of: identifying its occupants, maintaining personalized levels of comfort in the rooms by adapting  temperature and luminosity according to the preferences of their occupants, promoting security and energy saving. This project presents  
+a multi-agent architecture to control the house and the identification system. The multi-agent architecture uses a simple agent communication infrastructure that facilitates the
+implementation of distributed agents in an agents' society. The identification system uses a pervasive footstep sensor and a neural network, which are able to identify the occupants by their
+gait patterns, even in the presence of variations.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Paulo Fernando Ferreira Rosa - Coordenador / Sandro Santos de Lima - Integrante / Wagner Tanaka Botelho - Integrante / Antonio Carrilho - Integrante / Jucelito Wainer de Souza - Integrante.Financiador(es): Ministério da Defesa/ Secretaria de Ciência e Tecnologia - Bolsa.Número de produções C, T & A: 23

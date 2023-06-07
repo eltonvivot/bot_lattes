@@ -1,0 +1,43 @@
+2021 - Atual
+Otimização de Sistemas de Energias Renováveis com Armazenamento de Alto Desempenho
+Projeto certificado pelo(a) coordenador(a) Benemar Alencar de Souza em 11/04/2023.
+Descrição: Desenvolvimento de metodologia para otimização de geração de híbrida (considerando fontes eólica, solar e de armazenamento), especialmente sob os aspectos de dimensionamento, alocação e programação do despacho de energia de acordo com as margens de transmissão disponíveis na localidade de interesse.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (6)  / Doutorado: (4) . Integrantes: Helon David de Macêdo Braz - Integrante / Benemar Alencar de Souza - Coordenador / Núbia S. D. Brito - Integrante / Washington Luiz Araújo Neves - Integrante / Raphael Leite de Andrade Reis - Integrante / Damásio Fernandes Júnior - Integrante / José Júlio de Almeida Lins Leitão - Integrante / Francisco Marcos de Assis - Integrante / Felipe André Lucena de Oliveira - Integrante / Gabriel Alves de Amorim - Integrante / José Vinícius Santos de Araújo - Integrante / Raíssa Lira de Assis - Integrante / Luana Albuquerque de Oliveira - Integrante / Wesley Henrique Dantas Furtado - Integrante.Financiador(es): Companhia Hidro Elétrica do São Francisco - Outra.
+2018 - 2020
+Implementação e Testes de script Matlab com Codificação NetKeys
+Descrição: Parte 2 do projeto Comparativo de desempenho de diferentes codificações aplicadas em AGs 
+com propósito de Reconfigurar Redes de Distribuição. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Helon David de Macêdo Braz - Coordenador / Josman Silva Rodrigues - Integrante.
+2018 - 2020
+Módulo de Dados dos Alunos: ingressantes, concluintes, evadidos e ativos
+Descrição: Parte 1 do Projeto Observatório de Dados da Graduação. Situação: Concluído; Natureza: Pesquisa. Integrantes: Helon David de Macêdo Braz - Coordenador / Adriano Rolim da Paz - Integrante / Ariane Norma de Menezes Sá - Integrante.
+2018 - 2018
+Implementação e Testes de script Matlab com Codificação Prufer
+Descrição: Parte 3 do projeto Comparativo de desempenho de diferentes codificações aplicadas em AGs 
+com propósito de Reconfigurar Redes de Distribuição. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Helon David de Macêdo Braz - Coordenador / José Airton Lisboa Melo Neto - Integrante.
+2018 - 2018
+Desenvolvimento de módulo nos robôs para registro de rotas e comandos - Telemetria
+Descrição: Parte 2 do Projeto Futebol de Robôs - Categoria VSS.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Helon David de Macêdo Braz - Coordenador / José Mauricio Ramos Neto - Integrante.
+2018 - 2018
+Implementação e Testes de Ferramenta Computacional para Calibração Automática da Visão Computacional
+Descrição: Parte 1 do Projeto Futebol de Robôs - Categoria VSS.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Helon David de Macêdo Braz - Integrante / José Mauricio Ramos Neto - Coordenador.
+2017 - 2018
+Implementação e Testes de script Matlab com Codificação Vetor Característico
+Descrição: Parte 1 do projeto Comparativo de desempenho de diferentes codificações aplicadas em AGs 
+com propósito de Reconfigurar Redes de Distribuição. Situação: Concluído; Natureza: Pesquisa. Integrantes: Helon David de Macêdo Braz - Coordenador.
+2015 - 2019
+Desenvolvimento de aplicativo para Cálculo de Fluxo de Carga Trifásico em Redes de Distribuição Primárias
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Helon David de Macêdo Braz - Coordenador / Alinne Cristiane Aniceto Medeiros - Integrante.
+2014 - 2016
+Inteligência Computacional Aplicada à Previsão de Demanda como Ferramenta de Apoio à Decisão na Expansão do Sistema de Distribuição
+Descrição: Contrato ANEEL PD-6585-1408/2014.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Helon David de Macêdo Braz - Integrante / VILLANUEVA, JUAN MOISÉS MAURÍCIO - Coordenador / RODRIGUEZ, YURI PERCY MOLINA - Integrante / MACEDO, EULER CÁSSIO TAVARES DE - Integrante.
+2008 - 2008
+Modificação do Método da Soma de Potência para incluir Estimação de Demanda, Geração Distribuída e Concorrência
+Descrição: O objetivo é incorporar algumas melhorias ao método da soma de potências (MSP). Em termos gerais, deseja-se melhorar o modelo do sistema elétrico adotando-se uma representação mais precisa da variação da carga no tempo; estender a aplicabilidade do algoritmo da soma de potências às redes com geração distribuída; e melhorar o algoritmo propondo uma implementação recursiva que utiliza uma única rotina em vez das três usadas na implementação padrão para: atualização de potências, cálculo de tensões nodais e cálculo de perdas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Helon David de Macêdo Braz - Coordenador.
+2007 - 2007
+Reconfiguração de Redes de Distribuição para Restabelecimento de Serviço usando Algoritmos Genéticos
+Descrição: Um algoritmo genético é utilizado para realizar o planejamento de restabelecimento de serviço em sistemas de distribuição. É apresentada uma estratégia de codificação das soluções que restringe o espaço de busca apenas as soluções factíveis. O algoritmo de solução não depende da condição inicial do sistema e o procedimento de busca inclui rejeições de carga, em casos de incapacidade de atendimento de restrições, e transferências de carga de áreas desenergizadas para alimentadores remotos. O algoritmo proposto é testado utilizando-se um sistema disponível na literatura.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Helon David de Macêdo Braz - Coordenador.
+2006 - 2006
+Expansão e Reforma de Redes de Distribuição usando Algoritmos Genéticos
+Descrição: Neste projeto e pesquisa propõe-se um AG para planejamento estático de alimentadores com topologia radial. Os sub-problemas do roteamento do alimentador e do dimensionamento dos condutores e estruturas são tratados concorrentemente. A possibilidade de instalação ou reforma de subestações não é considerada. 
+A variação diária da carga é tratada adotando-se curvas de duração de carga segmentadas. O problema é formulado como de minimização de custos operacionais e de investimento. Uma estratégia de codificação das soluções é proposta e testada por meio de comparação direta com uma estratégia de codificação comum em trabalhos sobre o tema. 
+Como pré-requisito do projeto, um modelo computacional do sistema elétrico é implementado e testado. Esse modelo contempla bancos de capacitores, reguladores de tensão, curvas de duração de carga segmentadas, modelagem ZIP para as cargas e chaves de interligação de alimentadores.
+Com base nos resultados obtidos, não há dúvida que a adoção da codificação proposta permitiu a obtenção de soluções significativamente melhores que aquelas obtidas de maneira convencional. Embora tenha sido verificado um acréscimo no tempo de processamento requerido por individuo, a melhoria na convergência do algoritmo modificado fez com que o tempo de resposta total fosse preservado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Helon David de Macêdo Braz - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

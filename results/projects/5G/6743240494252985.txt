@@ -1,0 +1,20 @@
+2011 - 2013
+(CIA)2 - Construindo Cidades Inteligentes: da Instrumentação dos Ambientes ao desenvolvimento de Aplicações
+Descrição: Pesquisa sobre redes de acesso híbridas sem fio/ópticas. Ultimamente a parte sem fio dessas redes vem despertando interesse crescente como solução de acesso em áreas urbanas. A adoção dessa arquitetura diminui custos e amplia a penetração das redes ópticas passivas (PONs), atributos importantes de uma infra-estrutura para cidades inteligentes. Utilizando-se a plataforma VPISystems, são simuladas arquiteturas WOBAN (redes de acesso de faixa larga sem fio/óptica) com partes ópticas usando TDM-PON e WDM-PON.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Ewerton Pombo de Farias - Coordenador / Marcelo Sampaio de Alencar - Integrante / Luís Henrique H. Carvalho - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2008 - 2010
+TOpNets - Dispositivos fotônicos para redes ópticas transparentes
+Descrição: Projeto de pesquisa e desenvolvimento em redes ópticas reconfiguráveis realizado no âmbito de uma parceria entre o Laboratório de Redes Ópticas Reconfiguráveis da Fundação CPqD, a Universidade Federal de Campina Grande (UFCG) e a Fundação Parque Tecnológico da Paraíba (PaqTc-PB) sob a Coordenação do Prof. José Ewerton P. de Farias.
+Linhas da pesquisa:
+1) CARACTERIZAÇÃO TEÓRICA E SIMULAÇÕES DE AMPLIFICADORES ÓPTICOS EM SISTEMAS A LONGAS DISTÂNCIAS
+2) DESENVOLVIMENTO DE COMPETÊNCIAS EM REDES ÓPTICAS RECONFIGURÁVEIS
+Metas:
+1) Fundamentação teórica em Redes de Comunicações Ópticas
+2) Treinamento com o ambiente OptiSystem
+3) Estudo da tecnologia específica das redes ópticas (ROADMs, EDFAs, Transponders, etc)
+4) Definições de topologias e cenários para as redes ópticas de interesse
+5) Estudo comparativo entre diferentes configurações de amplificadores híbridos (Raman + EDFA)
+6) Estudo de amplificação óptica em cascata (TDFA + EDFA) em sistemas WDM
+7) Estudo teórico e simulações sobre amplificação óptica de Raman
+8) Estudo teórico e simulações sobre aplicações de Amplificadores Ópticos a Semicondutor (SOAs) em Redes Ópticas Reconfiguráveis
+9) Estudo teórico sobre o atributo da reconfigurabilidade em Multiplexadores Ópticos Insere/Remove Ópticos (ROADMs). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) . Integrantes: José Ewerton Pombo de Farias - Coordenador / Júlio César Medeiros Diniz - Integrante / Edmar Candeia Gurjão - Integrante / Luís Henrique H. Carvalho - Integrante / Juan Jefferson C. Silva - Integrante / Maiara Jihane T. Brito - Integrante / Ana Júlia R. F. de Oliveira - Integrante / Eduardo Magalhães - Integrante.Financiador(es): Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações - Cooperação.

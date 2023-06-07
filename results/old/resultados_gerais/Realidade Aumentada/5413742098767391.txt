@@ -1,0 +1,15 @@
+2014 - 2015
+Sistema móvel de localização Indoor
+Descrição: Desenvolvimento de um sistema para dispositivos móveis para detecção de localização em ambientes fechados. Situação: Desativado; Natureza: Pesquisa. Integrantes: Camilo Costa Campos - Integrante / Leandro Melo de Sales - Coordenador.
+2010 - 2011
+Implementação de serviços ad-hoc para uma plataforma para educação móvel
+Descrição: Implementação de serviços ad-hoc para uma plataforma para educação móvel, onde os usuários do aplicativo tem capacidade de interagir entre si independente de um servidor central.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Camilo Costa Campos - Integrante / Leandro Melo de Sales - Integrante / Evandro Costa de Barros - Coordenador.
+2009 - 2011
+BRisa UPnP Framework
+Descrição: Desenvolvimento do framework BRisa UPnP, e de uma ferramenta para geração automática de código para as aplicações. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Camilo Costa Campos - Coordenador / Leandro Melo de Sales - Integrante.
+2009 - 2010
+Um software cliente para educação móvel
+Descrição: Projeto de pesquisa com o objetivo de desenvolver um software para dispositivos moveis para auxilio na educação em sala de aula.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Camilo Costa Campos - Coordenador / Leandro Melo de Sales - Integrante / Evandro Costa de Barros - Integrante.Número de produções C, T & A: 1
+2008 - 2009
+Desenvolvimento do software TropLux Ferramenta de simulação computacional para auxílio ao projeto de iluminação natural no ambiente construído
+Descrição: Desenvolvimento do software TropLux Ferramenta de simulação computacional para auxílio ao projeto de iluminação natural no ambiente construído. 2008. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal de Alagoas, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Ricardo Carvalho Cabús.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Camilo Costa Campos - Integrante / Ricardo Carvalho de Cabus - Coordenador.

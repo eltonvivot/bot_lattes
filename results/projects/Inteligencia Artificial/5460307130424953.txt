@@ -1,0 +1,153 @@
+2020 - Atual
+Centro de Inteligência Artificial
+Descrição: É um Centro de Pesquisa de Engenharia em Inteligência Artificial (IA) empenhado em conduzir pesquisas em tópicos centrais de IA e em aplicar técnicas de IA em áreas de aplicação selecionadas --- a saber, indústria de óleo e gás, agronegócios e saúde. O Centro também dará suporte a estudos sobre o impacto social e econômico da IA e conduzirá atividades de transferência de tecnologia e difusão do conhecimento. O Centro será construído com a convicção de que os próximos dez anos trarão avanços sem precedentes em IA, os quais dependerão da colaboração tanto entre áreas centrais da IA como destas áreas com as aplicações. O "Center for Artificial Intelligence" consistirá de dois grupos interligados de pesquisadores, ambos distribuídos na instituição anfitriã e em instituições associadas. Um grupo de pesquisadores, com significativa projeção internacional na comunidade de IA, cobrirá tópicos centrais de IA, de representação de conhecimento a aprendizado de máquina, com ênfase em processamento de texto e linguagem natural, particularmente em Português. Tendências da pesquisa internacional corrente sugerem que a próxima década testemunhará uma interação crescente entre representação de conhecimento, tomada de decisão e aprendizado de máquina; o "Center for Artificial Intelligence" focará sua atenção na combinação destas áreas da IA, já que elas não são tão intimamente conectadas quanto deveriam ser --- o Centro se posicionará como um participante fundamental na colaboração entre os principais tópicos da IA. Um segundo grupo de pesquisadores do Centro focará em três áreas de aplicação onde existe significativa experiência na instituição anfitriã: óleo e gás, agronegócio, e saúde. A conexão entre pesquisa em tópicos centrais da IA e áreas de aplicação ocorrerá em dupla direção: pesquisa em IA básica abordará problemas de grande escala nas áreas de aplicação selecionadas, e será direcionada pelos desafios nestas áreas de aplicação. Um pequeno grupo de pesquisadores da área de humanas está incluído no "Center for Artificial Intelligence" para conduzir pesquisa sobre o impacto social da IA e para identificar caminhos que garantam o uso da IA para o bem. O Coordenador de Educação e Difusão do Conhecimento organizará produção de vídeos contendo resultados de pesquisa e trabalhará através de feiras e escolas para educar o público em sentido amplo. O Coordenador de Transferência de Tecnologia trabalhará com órgãos bem estabelecidos na instituição anfitriã para fomentar iniciativas que transferirão resultados para as entidades financiadoras e para esforços de empreendedorismo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Edson Satoshi Gomi - Coordenador / Fabio Gagliardi Cozman - Integrante.
+2019 - Atual
+Sistemas de Machine Learning para Gêmeos Digitais de Unidades Estacionárias de Produção de Petróleo e Gás
+Descrição: Este projeto de pesquisa tem foco em 3 problemas que foram escolhidos por apresentarem alto impacto na indústria do petróleo e por terem complexidade que justifica o uso de técnicas avançadas de Aprendizagem de Máquina (Machine Learning):
+1.O primeiro problema é o da "Identificação de falhas na ancoragem das plataformas". Especificamente, o objetivo é identificar rompimento em cabos de ancoragem a partir de dados de sensores de posição e movimentação da plataforma, além de informações climáticas;
+2.O segundo problema é o de "Busca Semântica nos textos de relatórios e documentos de engenharia ". Neste problema, o objetivo é construir um sistema de consultas aos relatórios e documentos de engenharia, numa primeira fase por busca por palavras-chave e numa segunda fase por consultas em linguagem natural, para dar suporte à tomada de decisões para manutenção e situações de emergência.
+3.Finalmente, o terceiro problema é a criação de um simulador neural para estimativa de movimentos de UEPs utilizando dados medidos em escala real. Neste problema, o objetivo é desenvolver uma ferramenta e metodologia baseada em aprendizagem de máquina para prever os movimentos de uma plataforma ancorada a partir das condições ambientais incidentes. O diferencial em relação aos simuladores dinâmicos usualmente empregados é a utilização de dados reais para o treinamento da rede, levando em conta no processo de treinamento uma série aspectos físicos normalmente não incorporados nas análises feitas a partir das ferramentas de simulação dinâmica, tais como: direcionalidade das ondas, variação dos coeficientes de amortecimento dos movimentos da plataforma com a amplitude dos mesmos,
+variações da correnteza marítima ao longo do comprimento das linhas e risers, efeitos acoplados da incidência de diversos agentes ambientais simultâneos, etc.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Edson Satoshi Gomi - Coordenador / Anna Helena Reali Costa - Integrante / Eduardo Aoun Tannuri - Integrante / Fabio Gagliardi Cozman - Integrante / Alexandre Nicolaos Simos - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2018 - Atual
+Desenvolvimento de técnicas numéricas e software para problemas de inversão com aplicações em processamento sísmico
+Projeto certificado pela empresa SHELL BRASIL PETROLEO LTDA em 11/08/2020.
+Descrição: Descrição: O objetivo principal do projeto STMI (do inglês, Software Technologies for Modelling and Inversion) é desenvolver um conjunto de tecnologias de software para simulação numérica e solução de problemas de inversão. Estas tecnologias serão capazes de reduzir o tempo necessário para o desenvolvimento de códigos de simulação e inversão de anos para dias. Serão desenhadas e implementadas linguagens de programação de alto nível que possibilitarão que geofísicos usem seus conhecimentos específicos de área para desenvolver e avaliar rapidamente novos algoritmos para obtenção de imagens de regiões geologicamente desafiadoras. Métodos de discretização em diferenças finitas e elementos finitos de alta ordem, que sejam otimizados para processamento sísmico, serão desenvolvidos, bem como técnicas de diferenciação automática para a geração automática dos modelos adjuntos. Outro foco do trabalho será atingir um maior nível de automatização na discretização espacial do domínio através da geração e adaptação de malhas, que é uma tarefa que atualmente consome muitas horas de trabalho humano. Por fim, modernas tecnologias de compiladores serão empregadas para gerar códigos altamente otimizados para plataformas de computação que irão de supercomputadores a sistemas na nuvem.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (48)  / Mestrado acadêmico: (8)  / Doutorado: (9) . Integrantes: Edson Satoshi Gomi - Integrante / Bruno Souza Carmo - Coordenador / Rafael dos Santos Gioria - Integrante / Ernani Vitillo Volpe - Integrante / Emilio Carlos Nelli Silva - Integrante / Keith Jared Roberts - Integrante / Antoine Laurain - Integrante / Pedro da Silva Peixoto - Integrante / Jonas Mendonça Targino - Integrante / Saulo Rabello Maciel de Barros - Integrante / Hermes Senger - Integrante / Gerard J. Gorman - Integrante.Financiador(es): Shell Brasil - Matriz - Cooperação.
+2008 - 2010
+Por Uma Biblioteca Brasiliana Digital
+Descrição: Objetivo do projeto: 
+1. Construir a Biblioteca Brasiliana Digital (BBD), com as seguintes características:
+- Ser um instrumento para a redefinição positiva da presença da língua portuguesa e da cultura nacional;
+- Ser um instrumento para a formação e preservação de uma brasiliana para o Brasil;
+- Ter uma política de expansão de acervo e rejeição de um modelo custodial de biblioteca;
+- Permitir a difusão de uma coleção original de objetos documentais, preservados os direitos do autor. Acesso livre: permitir a qualquer usuário pesquisar, consultar, descarregar, imprimir, copiar e distribuir o texto integral de artigos e outras fontes de informação (adesão à Declaração de Berlim sobre o Acesso Livre ao Conhecimento nas Ciências e Humanidades);
+- Permitir a preservação do acervo, acesso aos originais e reprodutibilidade;
+- O usuário tem centralidade, orientação para o contexto do usuário;
+- Ser um instrumento de educação nacional;
+- Permitir que os metadados sejam acessíveis por diversos serviços de busca, com garantia de interoperabilidade;
+- Ser aderente aos princípios do software livre.
+2. Criar um processo e métodos para construção de bibliotecas digitais;. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Edson Satoshi Gomi - Integrante / Pedro Puntoni - Coordenador / Vitor Hitoshi Tsujiguchi - Integrante / Murilo Ceroni Nascimento - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2007 - 2010
+Sistema de Gerenciamento de Projetos Ubíquo
+Descrição: O objetivo deste projeto é criar conceitos e técnicas que permitam o desenvolvimento de sistemas de gerenciamento de projetos que sejam ubíquos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Edson Satoshi Gomi - Coordenador / Wagner Augusto Pires Coimbra - Integrante / Ozeas Vieira Santana Filho - Integrante / Thiago Moreira Rodrigues - Integrante.
+2007 - 2009
+Diagnóstico Precoce de Glaucoma utilizando técnicas de mineração de dados
+Descrição: O objetivo deste projeto de pesquisa é criar classificadores híbridos que permitam identificar os parâmetros necessários ao diagnóstico precoce de glaucoma.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Edson Satoshi Gomi - Integrante / Marcelo Dias - Integrante / Vital Paulino Costa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - 2009
+Sistemas de Recomendação de Documentos em Ambientes Corporativos
+Descrição: O objetivo deste projeto é investigar características dos objetos existentes em  repositórios corporativos que permitam que mecanismos de busca construam conjunto de recomendações de documentos e pessoas que serão úteis num determinado trabalho.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Edson Satoshi Gomi - Coordenador / Fabrício Jailson Barth - Integrante.
+2004 - 2010
+Transformação de Modelos
+Descrição: O objetivo deste projeto é investigar quais conhecimentos devem ser fornecidos a um sistema que transforma modelos abstratos em UML para código executável.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Edson Satoshi Gomi - Coordenador / Gustavo Afonso Rodrigues - Integrante.Número de produções C, T & A: 1
+2003 - 2004
+Mineração de Dados na Web
+Descrição: A Web pode ser considerado um grande armazém de informações 
+potencialmente úteis. Entretando, o fato das informações estarem 
+armazenadas em sua maioria num formato semi-estruturado e de não 
+haver uma estrutura estática das ligações entre elas torna 
+complexo o uso de mecanismos meramente sintáticos para busca e 
+recuperação da informação desejada. Abordagens recentes procuram 
+utilizar técnicas de mineração de dados e de sistemas baseados 
+em conhecimento para melhorar a eficácia e performance 
+dos mecanismos de busca na Web. Este projeto de pesquisa 
+tem como objetivo avaliar métodos probabilísticos  de classificação 
+de informações e lógicos para mineração de dados na Web, 
+além de métodos para representar conhecimento de fundo que 
+auxiliem nesse processo de busca da informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Rodrigo Rage Ferro - Integrante.Financiador(es): Fundação Para o Desenvolvimento Tecnológico da Engenharia - Bolsa.
+2001 - 2004
+Planejador Baseado em Lógica Aplicado à Gestão de Projetos
+Descrição: Nos últimos anos houve um avanço conceitual considerável 
+no desenvolvimento de sistemas lógicos aplicados ao problema de 
+planejamento. Entretanto, a maioria dos trabalhos focaliza os 
+tradicionais requisitos de performance computacional, completeza e 
+correção das soluções apresentadas, mas poucos ainda procuram 
+demonstrar a funcionalidade dos algoritmos desenvolvidos em aplicações 
+reais em gestão de projetos. O objetivo deste projeto de pesquisa 
+é avaliar performance e qualidade dos planos gerados por planejadores 
+baseados em lógica na área de gestão de projetos. Adicionalmente, 
+neste projeto procurar-se-á avaliar o tipo de conhecimento, 
+descrito por meio de ontologias, que deve ser agregado ao planejador 
+lógico para que os planos de projeto gerados sejam efetivamente utilizáveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Fabrício Jailson Barth - Integrante.Financiador(es): Ericsson do Brasil S A - Auxílio
+										financeiro.
+2001 - 2004
+Mineração de Dados Temporais
+Descrição: A área de mineração de dados (data mining) abrange as 
+pesquisas relacionadas com o desenvolvimento de métodos de 
+descoberta de conhecimento a partir de dados disponíveis e de 
+conhecimento de fundo (background knowledge). Um problema interessante 
+é o de identificação de padrões de evolução de dados que tem 
+características de variação temporal. Este projeto de pesquisa tem 
+como objetivo avaliar métodos de mineração de dados temporais, 
+que aliada uma base de conhecimento adequada, sejam capazes de 
+descobrir padrões relevantes e úteis para séries temporais de 
+dados financeiros.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Márcio Viggiani - Integrante.
+2000 - 2002
+WebRCS - Um Sistema de Gerenciamento de Documentos Via Web
+Descrição: Trabalhos com computadores implicam quase sempre na criação de 
+arquivos. Arquivos que são com frequência modificados e, geralmente, 
+distribuídos aos interessados. As diversas versões dos arquivos fazem
+parte do registro do andamento de um trabalho ou projeto. Por isso, 
+busca-se sempre a manutenção desses arquivos através de um mecanismo 
+de controle das modificações ocorridas para futura referência.
+Em um projeto grande, um processo manual de controle não é viável e, 
+por esta razão, diversos sistemas computacionais vêm sendo utilizados 
+ao longo do tempo para auxiliar nessa tarefa. Um deles é o RCS
+(Revision Control System - Sistema de Controle de Versões), 
+que vem sendo utilizado desde os anos 80. O resultado deste
+projeto foi a criação de um sistema de controle baseado no RCS com 
+acesso pela Web. Esse sistema possibilita uma fácil distribuição 
+de documentos, além de tornar o sistema independente de plataforma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Daniel da Silva Lacerda - Integrante.Financiador(es): Ericsson do Brasil S A - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2000 - Atual
+Ontologia de Gestão de Projetos
+Descrição: Ontologias representam descrições formais de uma conceituação 
+ou abstração de um domínio de conhecimento. Nos últimos anos tem 
+surgido inúmeros projetos relacionados com o desenvolvimento de 
+ontologias devido à sua importância na criação e operação de 
+sistemas baseados em conhecimento. Ontologias também tem um 
+papel fundamental nos próximos sistemas de intercâmbio de 
+informações que levam em consideração não apenas padrões 
+sintáticos para troca de dados, mas também informações semânticas.
+Este projeto de pesquisa tem como objetivos avaliar linguagens
+para o desenvolvimento de ontologias e propor uma ontologia 
+para a área de gestão de projetos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Luís Alves Ferreira Filho - Integrante.Financiador(es): Ericsson do Brasil S A - Auxílio
+										financeiro.
+1999 - 2003
+Minerador Web: um estudo sobre mecanismos de descoberta de informação na Web
+Descrição: A Web (WWW - World Wide Web) possui uma grande 
+quantidade e variedade de informações. Isso representa um grande 
+atrativo para que as pessoas busquem alguma informação desejada na Web. 
+Por outro lado, dessa grande quantidade de informações resulta o 
+problema fundamental de como descobrir, de uma maneira eficaz, 
+se a informação desejada está presente na Web e como chegar até ela. 
+Nesse trabalho é apresentado um sistema que implementa técnicas 
+alternativas de busca da informação, baseados em métodos de
+classificação de documentos e técnicas de representação do  conhecimento. 
+Os resultados experimentais permitiram analisar a eficiência 
+resultante da utilização de mecanismos de extração de informações 
+a partir de trechos explícitos nos documentos HTML e o uso do método 
+de Naive Bayes na classificação de sites, além de analisar a eficácia 
+de um processo  de armazenamento de informações extraídas da Web 
+numa base de conhecimento (descrita em lógica de primeira 
+ordem) que, aliada a um conhecimento de fundo, permita responder a 
+consultas mais complexas que as possíveis por meio do uso de expressões 
+baseadas em palavras-chave e conectivos lógicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Wagner Toscano - Integrante.Número de produções C, T & A: 2
+1999 - 2000
+Interface gráfica para um Sistema de Programação em Lógica Indutiva
+Descrição: Estudo e análise do sistema X-Windows, com o intuito de utilizá-lo
+como interface para o Sistema de Programação em Lógica Indutiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Marcos Medrado Rubinelli - Integrante / Fabrício de Carvalho Ferreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+1999 - Atual
+Um Ambiente Integrado de Programação em Lógica Indutiva
+Descrição: A Programação em Lógica Indutiva ou ILP (Inductive Logic 
+Programming) investiga a construção de programas lógicos de primeira 
+ordem a partir de um conjunto de exemplos e um conhecimento de 
+fundo dado. Nesse contexto, a ILP se posiciona na intersecção 
+dos campos tradicionais do aprendizado de máquina (machine learning) 
+e da Programação em Lógica. Como exemplo das áreas de aplicação da ILP, 
+pode-se citar: Aquisição de conhecimento e descoberta de conhecimento 
+em bancos de dados (KDD - Knowledge Discovery in Databases).
+O objetivo desse projeto é desenvolver um sistema que permita
+integrar as diversas técnicas de ILP disponíveis, além de fazer uma
+avaliação de seu desempenho e aplicabilidade em problemas de 
+descoberta de conhecimento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edson Satoshi Gomi - Coordenador / Fábio Alves Marques - Integrante.

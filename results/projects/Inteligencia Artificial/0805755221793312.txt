@@ -1,0 +1,35 @@
+2018 - 2018
+Estudo, Modelagem e Simulação de Aerogeradores de  Velocidade Variável
+Descrição: Este projeto de pesquisa visa colaborar com o estudo teórico e experimental dos 
+aerogeradores de velocidade variável com geradores de indução de dupla alimentação, 
+efetuando um estudo e uma análise dos modelos da velocidade do vento, dos modelos de 
+turbinas eólicas, dos modelos de sistemas mecânicos e de modelos de geradores de indução. 
+Também será realizada uma série de simulações de um modelo de aerogerador definido, a 
+partir de um simulador de dinâmica de sistemas não lineares. Por meio deste simulador deverá 
+ser emulado o comportamento do aerogerador em diferentes cenários e em diversas condições 
+de operação, tais como um aumento da velocidade do vento ou uma mudança do ângulo das 
+pás da turbina, observando os sinais de tensão, corrente e potência elétrica em diferentes 
+situações de velocidade de vento e operação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eric Robalinho - Integrante / Luiz Fernando Gonçalves - Coordenador.
+2016 - 2017
+Sistemas Eletrônicos Integrados
+Descrição: O grupo desenvolve uma série de projetos, e o objetivo geral é desenvolver sistemas de energia elétrica, utilizando fontes renováveis para aplicação em geração distribuída visando a compensação de energia elétrica. Análise e estudo da viabilidade de fontes alternativas de energia, sistemas elétricos de potência e proteção. Aplicações em acessibilidade, tecnologias assistivas e inclusão estão contempladas nesta linha de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Eric Robalinho - Integrante / Alexsandro Bonatto - Coordenador / João Roberto Gabbardo - Integrante / Fausto Kuhn Berenguer Barbosa - Integrante / Paulo Lindenmeyer - Integrante / Jean Carlo Hamerski - Integrante / Leonardo Pereira Santos - Integrante / Matias Rossato Muraro - Integrante / Roben Castagna Lunardi - Integrante / Rodrigo Lange - Integrante.
+2016 - 2017
+Projeto de Geradores de Eletricidade Usando Motores Stirling Acionados por Energias Renováveis
+Descrição: O projeto tem por finalidade analisar a viabilidade da geração de energia elétrica utilizando motores Stirling
+acoplados a geradores de energia elétrica com potência na ordem de dezenas e centenas watts, sendo
+que a fonte de calor necessária ao acionamento do motor Stirling poderá será proporcionada por variadas
+fontes de energia renováveis, tal como energia solar concentrada, queima de restos de madeira, biogás,
+bagaço de cana de açúcar entre outras. O motor Stirling é a máquina térmica que possui o ciclo de
+trabalho mais próximo do ciclo de Carnot, aliado à relativa simplicidade de construção, o que permite obter
+elevada eficiência em comparação às outras máquinas térmicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eric Robalinho - Integrante / João Roberto Gabbardo - Coordenador / Fausto Kuhn Berenguer Barbosa - Integrante / Paulo Lindenmeyer - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Auxílio
+										financeiro.
+2014 - 2016
+Estudos Teóricos e de Confiabilidade de Diferentes Configurações de Componentes de Células a Combustível do tipo PEM
+Descrição: MCTI/CNPq no. 55/2013 - 407271/2013-9
+O projeto ora proposto visa comparar a durabilidade de células a combustível do tipo PEM com diferentes configurações de componentes. Concomitantemente, objetiva-se realizar estudos teóricos em termos de distribuição de água e calor em função do tempo aplicado em testes de durabilidade. Alguns parâmetros, tais como temperatura de umidificação e configurações de placas monopolares, que têm efeitos diretos nos processos de encharcamento e ressecamento de eletrodos de difusão de gás, serão avaliados por simulação computacional, utilizando a plataforma COMSOL.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Eric Robalinho - Integrante / Cunha, E. F. - Integrante / Paulino, A.L.R. - Integrante / Passos, R.R. - Integrante / Linardi, M. - Coordenador / Santiago, E.I. - Integrante / Patrícia da Silva Pagetti de Oliveira - Integrante / Vinícius Andrea - Integrante.
+2013 - 2014
+O empreendedorismo das empresas de energia alternativa no Brasil - Estudo de Caso: Novocell S/A
+Descrição: Trabalho de pesquisa em nível de IC - Iniciação Científica, elaborado e conduzido pelo professor Eric Robalinho, com vínculo institucional da Universidade Nove de Julho - UNINOVE.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eric Robalinho - Coordenador.
+2010 - 2011
+Nanopartículas de prata aplicadas em cateteres intraluminais para prevenção de infecção da corrente sanguínea: desenvolvimento do produto, testes in vitro e estudos in vivo pré-clínicos
+Descrição: Projeto sob coordenação da Faculdade de Medicina da Universidade de São Paulo (Prof. Dr. Poli de Figueiredo), que comporta seis outros departamentos/instituições. Para a referência em questão, os seguintes laboratórios do IPT (Centro de Tecnologia de Processos e Produtos) estão associados ao trabalho: LPP Laboratório de Processos Químicos e Tecnologia de Partículas, LBI Laboratório de Biotecnologia Industrial e LMMC Laboratório de Metalurgia e Materiais Cerâmicos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eric Robalinho - Integrante / CEKINSKI, E. - Integrante / Marcelo Martins Seckler - Coordenador.

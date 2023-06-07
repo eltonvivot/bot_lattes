@@ -1,0 +1,167 @@
+2020 - Atual
+Simulação em Multiescala: Aplicações Sustentáveis em Energia e Nanomateriais
+Descrição: Lı́quidos Iônicos (LIs) formam uma nova classe de solventes para aplicações em tecnologia limpa, seja na
+extração de compostos orgânicos em soluções aquosas, na captura de CO 2 em emissões de gases, ou como
+eletrólitos em baterias de ı́on lı́tio. Há diferentes tipos de lı́quidos iônicos com diferentes propriedades, mas
+todos com baixa volatilidade, o que reduz substancialmente o impacto por emissões atmosféricas. Neste sen-
+tido, simulações pelo método de dinâmica molecular de equilı́brio (EMD) e não-equilı́brio (NEMD), bem
+como cálculos de primeiros princı́pios serão realizados no estudo de lı́quidos iônicos e polı́meros como mate-
+riais funcionais em tecnologia limpa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Luciano Tavares da Costa - Coordenador / José Walkimar de Mesquita Carneiro - Integrante / Julio Cesar Martins da Silva - Integrante / Rodrigo Capaz - Integrante.
+2020 - Atual
+Prospecção e testes in vitro de inibidores de proteínas associadas ao vírus SARS-CoV2 por meio do uso conjunto de ferramentas de bioinformática, simulação molecular, química quântica e aprendizado de máquinas
+Descrição: O surto de um vírus novo, o SARS-Cov 2, têm afetado, em um curtíssimo tempo, o mundo inteiro numa pandemia sem igual precedente na história moderna. Esse evento impulsionou os cientistas do mundo todo a darem uma resposta imediata, atuando em diversas frentes de batalha, para conter essa pandemia de proporções catastróficas. Uma dessas frentes têm sido o estudo em nível molecular do funcionamento do vírus e sua infecção em células humanas. Nesse sentido, muitas proteínas (ex. SARS-Cov 2 Spike e Main Protease) têm sido resolvidas por técnicas experimentais. Esse esforço experimental tem possibilitado o emprego de ferramentas de bioinformática e química teórica na tentativa de colaborar com o desenho de possíveis inibidores de proteínas virais que são essenciais para sua entrada na célula humana e posterior replicação. Dentro desse contexto, um grupo de pesquisadores teóricos e experimentais se juntaram para propor tanto o desenho quanto os testes de inibidores de proteínas associadas ao vírus SARS-Cov 2 empregando um arsenal de ferramentas computacionais que compreendem: docking molecular, dinâmica molecular clássica e híbrida (QM/MM), cálculos quânticos e aprendizado de máquina, em um pipeline que já vem sendo aplicado em outros estudos com resultados muito importantes. Os inibidores mais viáveis prospectados teoricamente serão usados em ensaios in vitro com o objetivo de contribuir no combate a pandemia do COVID-19.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano Tavares da Costa - Integrante / Teodorico Ramalho - Integrante / DE OLIVEIRA, OSMAIR VITAL - Integrante / ROCHA, GERD B. - Coordenador.
+2019 - Atual
+Computational Chemistry as a Strategical Tool for the Development of New Functional Materials
+Descrição: In the last decades Computational Chemistry has evolved as a fundamental
+discipline to the understanding of material properties, either from the atomistic or
+the continuum point of views. In the modern physics and chemistry these views are
+reconciled through a description of the continuum as local averages of microscopic
+properties over a large region. Nowadays, there are well established methodologies
+for both approaches and a large spectrum of procedures for computer simulation of
+molecular systems or condensed matter is available. Classical or quantum
+simulations of molecular systems are implemented in Monte Carlo (MC) or
+Molecular Quantum Dynamics (MD) methods, while simulations of continuum are
+implemented in Computational Fluid Dynamics (CFD).In this scenario multiscale
+simulation has emerged as a new theoretical and computational paradigm in
+material sciences. From quantum (QM) to molecular mechanics (MM), with QM/MM
+methods and equilibrium (EMD) and non-equilibrium (NEMD) molecular dynamics,
+the atomistic-continuum hybrid approach as multiscale modeling might be a
+powerful computational technique to have a deep understanding of materials from a
+microscopic point of view.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (4)  / Doutorado: (4) . Integrantes: Luciano Tavares da Costa - Integrante / Célia Ronconi - Integrante / José Walkimar de Mesquita Carneiro - Coordenador / DE ALMEIDA, WAGNER B. - Integrante / Thiago Lima - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.
+2019 - Atual
+Ion Transport in Advanced Li-Battery Electrolytes
+Descrição: Due to their high energy density, the Li-ion batteries are targeted for future energy storage applications,
+for example in electric vehicles. However, in order to achieve better Li-ion battery safety and
+cyclability, electrolyte development is necessary. Here, ionic liquids and polymer electrolytes provide
+promising alternatives to the conventionally used organic liquid carbonates, however not yet realized in
+common commercial products. This project will explore the combination of these materials, i.e. gels of
+polymer and ionic liquids, mainly using Molecular Dynamics computer simulations, which previously
+so far has been done to a very limited degree within the international scientific community. The
+modelling of these materials will provide fundamental insights into the structure-property relationship
+of the gels, which will be necessary for material development and system optimization. It is well-
+known that the structure and dynamic properties on the atomic and molecular level are interrelated for
+gel type materials ? this project will explore how. The proposed network will include methodology,
+materials and applications experts from different universities in Sweden and Brazil, and will involve
+the work effort of several PhD students. Undergraduate teaching and supervision are also included in
+the proposal.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Luciano Tavares da Costa - Coordenador / Daniel Brandell - Integrante / Célia Ronconi - Integrante / José Walkimar de Mesquita Carneiro - Integrante / Carlos Moyses Graça Araujo - Integrante.
+2019 - Atual
+REDE ACADÊMICA DE QUÍMICA COMPUTACIONAL ABERTA: SOLUÇÕES ESTRATÉGICAS EM BIOMASSA, ENERGIA, MEIO AMBIENTE E SUSTENTABILIDADE
+Descrição: O aumento da temperatura global nos últimos 200 anos, em especial por processo de industrialização pós II guerra
+mundial, tem sido atribuído às taxas de CO2 atmosférico de origem antropogênica. As consequências previstas são as
+dificuldades de produção de alimentos e aumento na demanda por energia. No presente projeto propomos o emprego
+de técnicas de simulação computacional, baseadas em métodos quânticos, clássicos ou híbridos, para avaliar as
+propriedades de sistema de interesse e resolução de problemas nas áreas de biomassa, energia, meio ambiente e
+sustentabilidade. Especificamente, propomos a simulação de sistemas para acumulação de energia, baseados em
+líquidos iônicos ou sistemas sólidos baseados em óxidos de metais de transição contendo lítio. Em outro subprojeto
+estamos trabalhando no desenvolvimento de sistemas para captura de gases do efeito estufa gerados em fontes
+estacionárias, como o CO2. Propomos o desenvolvimento de sistemas para captura seletiva de CO2 de fontes
+estacionárias usando metal-organic frameworks (MOFs) ou soluções aquosas de aminoálcoois, simulando um processo
+que já vem sendo aplicado em escala industrial. Permitindo assim, desenhar sistemas mais eficientes com maior
+capacidade de ciclagem, reduzindo a demanda energética para a recuperação do absorvedor. Por fim, propomos a
+simular sistemas de interesse biológico, em particular com complexos de metais de transição que possam ser
+encapsulados em ciclodextrinas para liberação controlada. Estes trabalhos serão complementados por estudos de
+polimorfismos em formulações farmacêuticas e estudos de propriedades originadas da quiralidade. Estes temas são
+estudados pelo grupo para produzindo conhecimento científico. O apoio ao projeto deverá consolidar a Rede de
+Química Computacional em ambiente aberto que dará suporte aos trabalhos do grupo, com resultados científicos e
+formação de pessoal capacitado nas diferentes áreas da simulação computacional aplicada à solução de problemas
+químicos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3)  / Doutorado: (4) . Integrantes: Luciano Tavares da Costa - Integrante / DE ALMEIDA, WAGNER B. - Integrante / Leonardo Moreira Costa - Integrante / Glaucio Braga Ferreira - Integrante / Fernando Martins dos Santos Junior - Integrante / DE M. CARNEIRO, JOSÉ W. - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2018 - Atual
+Desenvolvimento de Métodos Computacionais Aplicados em Tecnologia Limpa
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Luciano Tavares da Costa - Integrante / Costa, Luciano T. - Coordenador / Tuanan Costa Lourenço - Integrante / Flavia Assis Silva - Integrante / Marcus V. J Rocha - Integrante.
+2018 - Atual
+Computational Chemistry as Strategical Tool for the Development of New Functional Materials
+Descrição: In the last decades Computational Chemistry has evolved as a fundamental
+discipline to the understanding of material properties, either from the atomistic or
+the continuum point of views. In the modern physics and chemistry these views are
+reconciled through a description of the continuum as local averages of microscopic
+properties over a large region. Nowadays, there are well established methodologies
+for both approaches and a large spectrum of procedures for computer simulation of
+molecular systems or condensed matter is available. Classical or quantum
+simulations of molecular systems are implemented in Monte Carlo (MC) or
+Molecular Quantum Dynamics (MD) methods, while simulations of continuum are
+implemented in Computational Fluid Dynamics (CFD). In this scenario multiscale
+simulation has emerged as a new theoretical and computational paradigm in
+material sciences. From quantum (QM) to molecular mechanics (MM), with QM/MM
+methods and equilibrium (EMD) and non-equilibrium (NEMD) molecular dynamics,
+the atomistic-continuum hybrid approach as multiscale modeling might be a
+powerful computational technique to have a deep understanding of materials from a
+microscopic point of view.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano Tavares da Costa - Integrante / Célia Ronconi - Integrante / José Walkimar de Mesquita Carneiro - Coordenador / DE ALMEIDA, WAGNER B. - Integrante / Thiago de Melo Lima - Integrante / Fernando Martins dos Santos Junior - Integrante.
+2018 - Atual
+De r iv a çã o , o t im iz a çã o e im p le m e n t a çã o d e p a r â m e t r o s p a r a b o r o , e st a n h o e p la t in a n o s ca m p o s d e fo r ça MMFF9 4 S e AMBER, co m p o t e n cia l p a r a o d e se n h o d e n o v a s d r o ga s a n t in e
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano Tavares da Costa - Coordenador / Tuanan Costa Lourenço - Integrante / Marcus V. J Rocha - Integrante / Rodrigo Bitzer - Integrante.
+2015 - 2016
+Atomistic Design of Hybrid Materials for Green Energy: Photoelectrochemical Conversion of Carbon Dioxide to Fuel
+Descrição: The Sun provides to the Earth in one hour an amount of energy that exceeds our
+energy consumption in one year. However, available technologies do not allow us to harvest even 0.02 % of
+such energy in a cost-efficient way. This would be more than sufficient to meet our energy demands. To
+change this scenario, novel breakthrough technologies for converting, storing and using solar energy must
+be developed. The conversion of solar energy into chemical fuels through photocatalytic water splitting and
+electrochemical CO2 reduction, appears as a promising alternative, but still a strong research agenda is
+needed for achieving the desirable goals. It is the aim of the present proposal to contribute in this field.
+Through a sophisticated combination of complementary computational materials science methods, a new
+methodology for modeling complex multielectron transfer redox reactions will be developed. The
+fundamental understanding of the underlying mechanisms of the these reactions will be advanced,
+culminating on the design of a new integrated system for large-scale solar fuel production using abundant
+and environmentally friendly elements. The dissemination of the resulting theoretical insights from this
+systematic study will be highly beneficial for the guidance of experimental efforts in the field of solar energy
+harvesting in general and for the related Swedish infrastructure and economy in particular.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luciano Tavares da Costa - Integrante / David van der Spoel - Integrante / Daniel Brandell - Integrante / ARAUJO, C. MOYSES - Coordenador.
+2015 - Atual
+Desenvolvimento e Aplicação de Métodos Computacionais na Solução de Problemas Estratégicos em Tecnologia Limpa
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Luciano Tavares da Costa - Coordenador / Nelson Silveira - Integrante / Célia Ronconi - Integrante / José Walkimar de Mesquita Carneiro - Integrante.
+2014 - Atual
+LÍQUIDOS IÔNICOS e METAL-ORGANIC FRAMEWORKS (MOFs) COMO MATERIAIS HÍBRIDOS EM TECNOLOGIA LIMPA
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Luciano Tavares da Costa - Coordenador / Célia Ronconi - Integrante / José Walkimar de Mesquita Carneiro - Integrante.Financiador(es): Universidade Federal Fluminense - Auxílio
+										financeiro.
+2013 - Atual
+DESENVOLVIMENTO E APLICAÇÃO DE MÉTODOS EM QUÍMICA COMPUTACIONAL
+Descrição: Desde o ano de 2009 quando ainda estava realizando o pós-doutoramento no Laboratório de Espectroscopia
+Molecular, na Universidade de São Paulo, tenho mantido profícua colaboração com o
+Prof. Dr. David van der Spoel, da Universidade de Uppsala, Suécia. Desde então temos trabalhado
+no desenvolvimento de modelos polarizáveis, na implementação de um novo campo de força a ser
+inserido no pacote de dinâmica molecular GROMACS, além de outras aplicações no que tange a
+Química Computacional e seu uso como poderosa ferramenta no auxílio a estudos experimentais,
+em especial na investigação de propriedades estruturais, dinâmicas e termodinâmicas de fluidos
+de interesse em tecnologia limpa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Luciano Tavares da Costa - Coordenador / David van der Spoel - Integrante / Daniel Brandell - Integrante.
+2012 - Atual
+CONSOLIDAÇÃO DO PROGRAMA DE PÓS-GRADUAÇÃO EM QUÍMICA DA UNIFAL-MG
+Descrição: O objetivo geral deste projeto é buscar o fortalecimento do PPGQ/UNIFAL-MG através da troca de conhecimentos entre docentes, pesquisadores e discentes pós graduandos de diferentes programas de pós colaboração em química consolidados. Assim sendo, visa  a interação científico-acadêmica de modo a constituir redes de cooperação entre UNIFAL-MG e outros PPGQ consolidados fortalecendo as linhas de pesquisa da UNIFAL-MG envolvidas no projeto. Estes objetivos serão conseguidos através de palestras, cursos e até disciplinas de curta duração além de encontros (workshop) e missões de pesquisa e de docência realizadas por docentes, alunos de pós graduação e iniciação cientifíca da UNIFAL-MG para instituições com os PPGQ consolidados.  Espera-se que no final dos quatro anos tenhamos fortalecido o PPGQ/UNIFAL-MG assim como as colaborações interinstitucionais, o que certamente resultará na formação de vários mestres e até mesmo doutores e publicação de artigos científicos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano Tavares da Costa - Coordenador / Antonio Carlos Doriguetto - Integrante / Marcelo Henrique dos Santos - Integrante / Marcello Trevisan - Integrante / Fabiano Magalhães - Integrante / Jerusa Garcia - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2011 - Atual
+DESENVOLVIMENTO E APLICAÇÃO DE MÉTODO HÍBRIDO ATOMÍSTICO-CONTÍNUO NO ESTUDO DE PROPRIEDADES DINÂMICAS DE FLUIDOS
+Descrição: Simulações NEMD oferecem uma interpretação microscópica da deformação do sistema submetido a uma tensão de cisalhamento, i.e. a sua reologia, portanto, também com o objetivo de racionalizar o desenvolvimento de novos materiais. O trabalho evidencia a importância da modelagem computacional e o desenvolvimento de novas técnicas de simulação como ferramenta no desenho de
+moléculas com propriedades específicas e que atuem como fluidos de perfuração e/ou
+aditivos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luciano Tavares da Costa - Coordenador / Tuanan Costa Lourenço - Integrante / juliana morbec - Integrante / iago ferreira da silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - Atual
+Consolidação da Pós-Graduação
+Descrição: CT - AÇÃO TRANSVERSAL / Chamada Pública MCT/CNPq/MEC/CAPES - Ação Transversal nº 06/2011 - Casadinho/Procad. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano Tavares da Costa - Integrante / Fabiano Magalhães - Integrante / Antonio Carlos Doriguetto - Integrante / Marcelo Henrique dos Santos - Coordenador / Marisi Gomes Soares - Integrante / Marcelo Trevisan - Integrante.
+2011 - Atual
+Consolidação da Pós Graduação em Química
+Descrição: CT - AÇÃO TRANSVERSAL / Chamada Pública MCT/CNPq/MEC/CAPES - Ação Transversal nº 06/2011 - Casadinho/Procad. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano Tavares da Costa - Coordenador / Fabiano Magalhães - Integrante / Antonio Carlos Doriguetto - Integrante / Marcelo Henrique dos Santos - Integrante / Marcello Trevisan - Integrante / Marisi Gomes Soares - Integrante.
+2010 - 2012
+Simulação computacional de líquidos iônicos de interesse em tecnologia limpa
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luciano Tavares da Costa - Coordenador / Mauro Carlos Costa Ribeiro - Integrante / Teodorico Ramalho - Integrante / Coelho, MFC - Integrante / Nelson Silveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2010 - Atual
+Simulação computacional de líquidos iônicos de interesse em tecnologia limpa
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luciano Tavares da Costa - Coordenador / Lourenço, TC - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2009 - Atual
+Estudo das interações entre compostos aromáticos e líquidos iônicos por simulação computacional
+Descrição: Simulações pelo método de Dinâmica Molecular (MD) serão realizadas para misturas de 
+líquidos iônicos derivados do cátion imidazólio, em especial hexafluorfosfato
+de 1-alquil-3-metilimidazólio, e compostos aromáticos como benzeno,
+tolueno e naftaleno. Efeitos de temperatura e concentração serão investigados nas
+propriedades estruturais e dinâmicas dos sistemas simulados. Líquidos iônicos
+são conhecidos como sais orgânicos que em temperatura ambiente apresentam-se
+como líquidos, com ampla faixa de estabilidade térmica e baixa pressão de vapor,
+sendo considerados não voláteis e, portanto, não agredindo o meio ambiente
+através da poluição atmosférica. Sendo assim, tornam-se potenciais candidatos
+na remediação de contaminantes orgânicos em substituição a solventes tradicionais.
+Estudo do ponto de vista microscópico pode auxiliar no conhecimento da
+físico-química de líquidos iônicos e suas interações com compostos orgânicos,
+em que propriedades estruturais e dinâmicas podem ser calculadas por simulação
+computacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luciano Tavares da Costa - Coordenador / Coelho, MFC - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 1
+2009 - Atual
+Estrutura, dinâmica e termodinâmica de sistemas moleculares por simulação computacional
+Descrição: Estabilidade térmica e mecânica em ampla faixa de temperatura e pressão são requisitos fundamentais de uma gama de materiais. Como exemplo, fluidos lubrificantes devem atuar eficazmente em condições extremas de temperatura e pressão. Simulações pelos métodos de dinâmica molecular de equilíbrio (EMD) e não-equilíbrio (NEMD) podem ser empregadas no estudo de propriedades estruturais, dinâmicas e termodinâmicas destes materiais, em que coeficientes de transporte como difusão e viscosidade são calculados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luciano Tavares da Costa - Coordenador / Coelho, MFC - Integrante / Lourenço, TC - Integrante.

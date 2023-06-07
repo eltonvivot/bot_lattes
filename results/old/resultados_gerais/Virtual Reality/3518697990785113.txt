@@ -1,0 +1,13 @@
+2014 - Atual
+I bet you look good on the dancefloor
+Descrição: Neste projeto de doutorado, o objeto de estudo e a motivacao que leva as pessoas a dancarem e a tentativa de estimula-la com o auxilio de mecanicas de jogos. O objetivo e produzir um jogo inovador capaz de atrair pessoas que nao dancam para a atividade e fazer aqueles que ja dancam passarem mais tempo dancando, mais frequentemente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Amanda Barreto Cavalcanti - Coordenador / Christian Jones - Integrante / Michele Verdonck - Integrante.
+2012 - 2013
+Design de interação para interface baseada em movimento em jogos de estimulação multissensorial
+Descrição: Esse projeto estudou a relacao entre ambientes multissensoriais, criancas com incapacidades e desenvolveu o conceito de um exergame como opcao de ferramenta a ser usada para fins terapeuticos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Amanda Barreto Cavalcanti - Coordenador / Licinio Gomes Roque - Integrante / Nuno Castelhano - Integrante.
+2010 - 2011
+Pesquisa e desenvolvimento de um sistema de auxilio ao diagnostico medico baseado em mamografia - SIAD
+Descrição: O câncer de mama é uma das formas mais freqüentes de câncer entre mulheres, sendo mais comum entre as mulheres com idade acima de 50 anos. Atualmente, a forma mais comum e eficiente de prevenção de câncer de mama é através de exames mamográficos. O objetivo do trabalho é o de desenvolver um sistema computadorizado denominado QualiMamo, o qual analisa imagens radiológicas e gera laudos automaticamente segundo o modelo da AGEVISA-PB. Foram utilizadas imagens denominadas fantomas, que simulam as estruturas presentes em uma mamografia. O sistema analisa os fantomas e verifica quais estruturas são visíveis. Essa verificação deve correlacionar os resultados computacionais e a percepção humana para garantir a consistência do sistema. O resultado final é um protótipo de um sistema, capaz de gerar laudos editáveis que colaboram na determinação da conformidade dos mamógrafos..
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Amanda Barreto Cavalcanti - Integrante / André Costa - Integrante / Leonardo Vidal Batista - Coordenador.
+2008 - 2008
+Uma Interface para Hiper-Realismo baseada em Maquetes Virtuais
+Descrição: Estágio de 3 meses realizado junto ao projeto supramencionado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Amanda Barreto Cavalcanti - Integrante / Liliane dos Santos Machado - Coordenador / Thaise Costa - Integrante.

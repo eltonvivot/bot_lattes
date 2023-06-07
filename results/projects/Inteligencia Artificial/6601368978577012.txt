@@ -1,0 +1,62 @@
+2015 - Atual
+Acoplamento de Modelos Hidrológico e de Qualidade de Água em uma Microbacia Hidrográfica Rural
+Descrição: Neste projeto é proposto o acoplamento de Modelos Hidrológicos e de Qualidade de Água a serem aplicados na avaliação da qualidade de água de uma microbacia de ocupação mista, situada no centro-norte fluminense.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Pedro Paulo Gomes Watts Rodrigues - Coordenador / Jader Lugon Junior - Integrante / Francine de Almeida Kalas - Integrante.Financiador(es): FAPERJ - Auxílio
+										financeiro.
+2012 - Atual
+Solução Computacional de Problemas Diretos e Inversos Aplicada  Na Hidrodinâmica e Transporte de Contaminantes em Rios, Canais e Estuários
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Pedro Paulo Gomes Watts Rodrigues - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.
+2012 - Atual
+Formulação e Solução de Problemas Diretos e Inversos com Aplicações em Engenharia, Biofísica e Processos Biotecnológicos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Pedro Paulo Gomes Watts Rodrigues - Integrante / Antonio José da Silva Neto - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2012 - Atual
+Sistema de Aquisição de Dados para Problemas Inversos em Modelos de Qualidade de Água em Rios
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Pedro Paulo Gomes Watts Rodrigues - Integrante / Antonio José da Silva Neto - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - Atual
+Solução Computacional de Problemas Diretos e Inversos aplicada na Hidrodinâmica e Transporte de Contaminantes em Rios, Canais e Estuários
+Descrição: O objetivo central deste projeto de pesquisa consiste na proposição, formulação e
+implementação da solução numérica de problemas diretos e inversos aplicados na solução
+da hidrodinâmica e transporte de poluentes em rios, estuários e canais e gestão de recursos
+hídricos visando à determinação de parâmetros para a aplicação em modelos de qualidade
+de água. Como objetivo secundário está a contribuição que tais modelos poderão dar a uma
+melhor gestão de recursos hídricos, de uma maneira geral.
+As metas específicas são:
+(a) Análise de sensibilidade e projeto de experimentos para a determinação de variáveis de
+interesse;
+(b) Estimativa de termos de reação no transporte de constituintes em canais, rios e estuários.
+(c) Desenvolvimento de uma ferramenta de gestão em recursos hídricos, baseada em
+simulação numérica de canais, rios e estuários, metodologia essa a ser testada em
+estudos de casos.
+Neste projeto, serão explorados os conhecidos técnicos de ambos os grupos de
+pesquisa (Brasil e Cuba) em modelagem computacional e simulação, sendo essas
+habilidades aplicadas na proposição, formulação e implementação de problemas. A troca de
+conhecimentos será fundamental no desenvolvimento e implementação de técnicas
+numéricas mais eficientes, o que contribuirá para o desenvolvimento dos problemas
+estudados.
+No trabalho serão implementadas rotinas combinando a modelagem fenomenológica
+dos processos (problema direto) com técnicas de solução de problemas inversos. Os
+métodos de redes neurais, algoritmos genéticos e outras técnicas de inteligência
+computacional serão implementados na modelagem e otimização das soluções dos
+problemas. Com isso, espera-se desenvolver modelos mais robustos, através da aplicação
+de diferentes técnicas, na simulação e estimação de parâmetros e variáveis relacionados
+com a hidrodinâmica e o transporte de poluentes em corpos hídricos.
+Ao longo do projeto esperamos contribuir no sentido de novas propostas de trabalho
+em parceria, o q. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Pedro Paulo Gomes Watts Rodrigues - Coordenador / Jader Lugon Junior - Integrante / Antônio José da Silva Neto - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2008 - Atual
+Implantação do Centro de Tecnologia em Meio Ambiente no campus de Nova Friburgo da UERJ
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Pedro Paulo Gomes Watts Rodrigues - Integrante / Francisco Duarte Moura Neto - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2007 - 2009
+Aplicação de Inteligência Computacional na Solução de Problemas Inversos em Biotecnologia
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Pedro Paulo Gomes Watts Rodrigues - Integrante / Antônio José da Silva Neto - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - Atual
+Estimativa da Concentração de Poluentes em Meio Fluvial a partir das Abordagens Estocástica e Determinística: Estudo do Caso do Baixo Macaé, Rio de Janeiro, FAPERJ E26/170.544/2006
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Pedro Paulo Gomes Watts Rodrigues - Coordenador / Jader Lugon Junior - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2006 - Atual
+Formulação e Solução de Problemas Diretos e Inversos em Transferência de Calor e de Massa, em Processamento de Imagens e em Identificação de Danos Estruturais com Aplicações em Engenharia, Biofísica e Processos Biotecnológicos -
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Pedro Paulo Gomes Watts Rodrigues - Integrante / Antônio José da Silva Neto - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

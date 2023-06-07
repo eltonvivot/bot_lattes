@@ -1,0 +1,70 @@
+2021 - Atual
+Projeto de Pesquisa e Desenvolvimento de um Sistema Computadorizado para Aferição de Fluência em Leitura Oral com Emprego de Inteligência Artificial.
+Descrição: Este Projeto entre o ITA e a Secretaria de Alfabetização (SEALF) do MEC consiste de Pesquisa e Desenvolvimento (P&D) de um Sistema de Software Embarcado em dispositivo computadorizado móvel do tipo Assistente Digital Pessoal (ADP), para aferição de fluência em leitura oral com correções baseadas em aplicações de Inteligência Artificial (IA) para o reconhecimento de fala de alunos do 2º ano do ensino fundamental, a partir de Processamento de Linguagem Natural (PLN). Trata-se de um sistema computadorizado a ser desenvolvido que deverá ser alimentado com listas de palavras, pseudopalavras e textos padronizados e pré-definidos, que propiciem reconhecimentos de perfis pré-identificados, comparações, análises com requisitos pré-existentes e avaliações de níveis de fluência em leituras de palavras, pseudopalavras e textos por alunos do ensino fundamental brasileiro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (8)  / Doutorado: (1) . Integrantes: Adilson Marques da Cunha - Coordenador / Lineu Fernando Stege - Integrante / Carlos Henrique Costa Ribeiro - Integrante / Osamu Saotome - Integrante / Denis S. Loubach - Integrante / José Marcos Gomes - Integrante / Henrique Duarte Borges Louro - Integrante / Shigemura, Rafael Augusto Lopes - Integrante / Breslei Max Reis da Fonseca - Integrante / Vieira Dias, Luiz A. - Integrante / VINICIUS Paes LIPPI - Integrante / Marcelo Finger - Integrante / Ana Luiza Gomes Pinto Navas - Integrante / Luciana Mendonça Alves - Integrante / Miguel Arjona Ramirez - Integrante / Wesley Seidel Carvalho - Integrante / Aline do Nascimento Rodrigues - Integrante / Gabriela de Lima Ribeiro - Integrante / Vitor Henrique Allegrini Silva - Integrante / Matheus Silva Martins Mota - Integrante / Cássio Mitsuhiro Sugimoto - Integrante.Financiador(es): Ministério da Educação - Outra.
+2017 - 2017
+Projeto STIRP: Soluções Tecnológicas Integradas envolvendo Reconhecimento de Padrões
+Descrição: O Projeto STIRP - Soluções Tecnológicas Integradas Envolvendo Reconhecimento de
+Padrões teve por objetivo investigar, pesquisar, desenvolver, testar modelos de sistemas
+computacionais, capacitar e treinar recursos humanos relacionados com soluções tecnológicas de Engenharia da Informação, Engenharia de Software, Engenharia do Conhecimento e Engenharia Aeroespacial aplicáveis aos domínios de conhecimentos e áreas de finanças e aeroespacial, visando aumentar a eficiência na gestão de processos de negócios e reduzir os desperdícios de recursos envolvidos. Para isto, ele contou com a participação de Professores, Alunos de Graduação e de Pós Graduação e Pesquisadores Colaboradores do ITA envolvidos com o desenvolvimento de Iniciações Científicas (ICs), Trabalhos de Graduação (TGs), Dissertações de Mestrado (DMs) e de Teses de Doutorado (TDs) no Programa de Pós-Graduação em Engenharia Eletrônica e Computação, na Área de Informática (PG/EEC-I).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Adilson Marques da Cunha - Coordenador / Luiz Alberto Vieira Dias - Integrante / Carlos Henrique Quatucci Foster - Integrante / Paulo Marcelo Tasinaffo - Integrante / Strauss Cunha Carvalho - Integrante / Emanuel Carneiro Mineda - Integrante / Renê Esteves Maria - Integrante / Luckeciano Carvalho Melo - Integrante / Gildárcio Sousa Gonçalves - Integrante / Thoris Angelo Pivetta - Integrante / Lineu Fernando Stege Mialaret - Integrante / Mayara V. M Santos - Integrante / Lucas Venezian Povoa - Integrante / Lineu Lima - Integrante / Bruna Santos - Integrante.Financiador(es): Fundação Casimiro Montenegro Filho - Bolsa.Número de produções C, T & A: 9
+2016 - Atual
+Projeto STAMPS: Soluções Tecnológicas Aplicáveis às Mídias e Produtos Sociais
+Projeto certificado pela empresa ECOSSISTEMA NEGOCIOS DIGITAIS LTDA em 16/02/2017.
+Descrição: O Projeto STAMPS tem por objetivo prover capacitação em investigação, pesquisa, desenvolvimento e treinamento em Sistemas Híbridos Inteligentes (SHI), envolvendo aplicações de Métodos, Técnicas e Ferramentas de Inteligência Artificial (Redes Neurais, Sistemas Especialistas, Deep Learning, entre outros), Estatísticas (Cluster Analysis, Séries Temporais Associadas à Mineração de Dados e Regressão Logística), envolvendo a utilização de grandes volumes de dados (Big Data), NoSQL e Teste de Software.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adilson Marques da Cunha - Coordenador / Luiz Alberto Vieira Dias - Integrante / Gildárcio Sousa Gonçalves - Integrante / José Marcos Gomes - Integrante / Louro, Henrique Duarte Borges - Integrante / Shigemura, Rafael Augusto Lopes - Integrante / Fonseca, Breslei Max Reis da - Integrante / Marcos Antônio dos Santos - Integrante / Jean Cláudio de Souza - Integrante.
+2012 - 2017
+Projeto SPOT: Sistema de Proteção Operacional e Tecnológica para Prevenção, Detecção e Controle de Fraudes e de Acessos Indevidos
+Descrição: Este Projeto SPOT tem por objetivo a pesquisa e o desenvolvimento cooperativo de soluções científicas e tecnológicas para um Sistema de Proteção Operacional e Tecnológica, envolvendo prevenção, detecção e controle de fraudes em cartões de acesso a ambientes computadorizados controlados, visando aumentar sua eficiência, confiabilidade e segurança, bem como reduzir o desperdício de recursos envolvidos.
+Ele conta com a participação de Professores, de Alunos de Graduação e de Pós-Graduação e de Pesquisadores Colaboradores do ITA na pesquisa e no desenvolvimento cooperativo de soluções computadorizadas, envolvendo tecnologias que representem o estado da arte, o estado da técnica e o estado da prática de sistemas computadorizados para prevenção, identificação, detecção e controle de fraudes e de acessos indevidos em transações eletrônicas computadorizadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (9)  / Doutorado: (1) . Integrantes: Adilson Marques da Cunha - Coordenador / Lineu Stege Mialaret - Integrante / Luiz Alberto Vieira Dias - Integrante / Denis Ávila Montini - Integrante / Paulo Marcelo Tasinaffo - Integrante / Alexandre LIma Possebon Ribeiro - Integrante / Emanuel Carneiro Mineda - Integrante / Gustavo Ravanhani Matuck - Integrante / Renan Cavichi de Freitas - Integrante / Artur Pimentel de Oliveira - Integrante / Cassiano Bernardo de Assis Lafratta Monteiro - Integrante / Luiz Antônio Rodrigues Júnior - Integrante / Renê Esteves Maria - Integrante / Henrique Nunweiller Angelin Silva - Integrante / Alexandre Possebon Ribeiro - Integrante / Luckeciano Carvalho Melo - Integrante.Financiador(es): Fundação Casimiro Montenegro Filho - Cooperação.Número de produções C, T & A: 18
+2008 - 2010
+Projeto ITA-TUB (Technical University of Berlim)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2007 - 2010
+Projeto C-ATM - Gerenciamento Cooperativo de Tráfego Aéreo (Cooperative Air Traffic Management ? K-ATM (Prj CAPES 283/08 - ITA-FCMF-TU-Berlim)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2007 - 2009
+Projeto HARPIA da Secretaria da Receita Federal ? SRF-UNICAMP-ITA
+Situação: Desativado; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.Financiador(es): Secretaria da Receita Federal - Outra.
+2007 - 2008
+Projeto EMEP - Estação de Monitoramento e Ensaios Preliminares do Veículo Aéreo Não Tripulado (VANT) do MD-CTA-ITA-FCMF
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2005 - 2006
+Projeto do Satélite Universitário ITA-SAT do MCT-AEB-INPE-ITA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2005 - 2005
+Projeto PQI ITA-UFLA Junto a CAPES
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2004 - Atual
+Grupo de Pesquisa em Engenharia de Software ? GPES no CNPq
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2003 - 2006
+Projeto Centro de Excelência BORLAND no ITA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2003 - 2004
+Projeto do Sistema de Informações do Site da Fundação Casimiro Montenegro Filho - SIS-FCMF
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2002 - 2006
+Projeto do Veiculo Experimental Carro Anfíbio Voador ? Triphibius (CNPQ - ITA)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2002 - 2003
+Projeto FINEP FVA CMI-17 (ITA-FCMF-COMPSIS)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2002 - 2003
+Projeto PORTAL da FCMF no ITA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2001 - 2004
+Projeto CNS/ATM na IEC do ITA junto ao DECEA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+2000 - 2001
+Projeto SGO - Sistema de Gerenciamento Orçamentário (Budget Management System - BMS) Motorola Industrial
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+1998 - 1999
+Projeto SGP - Sistema de Gerência de Pavimentos (DIRENG / INFRAERO)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+1994 - 1996
+Projeto de Cooperação Técnica entre o ITA/IEC e o IAE/AEL para o Desenvolvimento do Software do Banco de Controle do VLS - SWBC
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+1994 - 1996
+Projeto de Cooperação Técnica entre o ITA/IEC e o IEAv/EAE para o projeto AEROGRAF
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.
+1994 - 1996
+Projeto de Cooperação entre o ITA/IEC e o IFI/FDH para a Verificação, Certificação ou Homologação de Softwares a serem embarcados nas Aeronaves EMB-145 e EMB-312H da EMBRAER
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adilson Marques da Cunha - Coordenador.

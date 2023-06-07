@@ -1,0 +1,21 @@
+2019 - Atual
+Sensoriamento e Automação do Disco de Pelotamento
+Descrição: O Brasil é um dos países que possuem as maiores jazidas de minério de ferro do mundo. Devido aos
+recursos financeiros envolvidos, mão-de-obra, arrecadação de impostos, envolvimento de atividades logísticas e comercialização exterior, a mineração é uma das principais atividades econômicas do país, envolvendo nesse contexto as plantas de pelotização de minério de ferro.
+As pelotas de minério de ferro são um dos insumos essenciais utilizados na produção mundial do aço.
+Compostas essencialmente de óxido de ferro (Fe2O3), são aglomerados com diâmetro que varia de 6,3 a 16 mm, cuja sua produção envolve a combustão para que obtenham a resistência mecânica necessária para serem utilizadas nos alto fornos siderúrgicos. Tal característica impede que as pelotas se quebrem e se transformem em finos, dificultando a permeação do ar através da carga do alto forno e consequentemente reduzindo a eficiência da queima e produção do ferro gusa, o qual é transformado em aço nas etapas posteriores de refino.
+Para garantir a produção de pelotas com a qualidade desejada, especialmente nos aspectos de
+composição e resistência mecânica, testes são feitos em laboratório com o objetivo de analisar tais pelotas em um disco de pelotamento.
+Existe no mercado, vários fabricantes de disco de pelotamento semi-automático, ou seja, conseguem
+controlar a rotação e a inclinação do disco, porém, o disco de pelotamento da Vale não possue tais
+funcionalidades, o que dificulta a realização de análise, sendo assim, pretende-se com este projeto o
+sensoriamento e a automação do disco de pelotamento, com o objetivo de que o mesmo possa realizar a variação de velocidade e inclinação do ângulo de forma automática, pretende-se também a implementação de câmeras no disco de pelotamento, para que o mesmo seja capaz de realizar análise online através de Visão Computacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado profissional: (1) . Integrantes: Gustavo Maia de Almeida - Coordenador / Marco Antonio de Souza Leite Cuadros - Integrante / Ricardo de Almeida - Integrante.
+2017 - Atual
+Medição de Espessura de Cascão de Lança de Convertedores por Visão Artificial
+Descrição: Implementação de um Protótipo para Medição do Cascão de Lança de Convertedores por Visão Artificial. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gustavo Maia de Almeida - Coordenador / Flavio Lopes - Integrante.Financiador(es): ArcelorMittal Brasil - Matriz - Cooperação.
+2014 - Atual
+Cadeira de Rodas Autônomas
+Descrição: Instrumentação e Controle de uma Cadeira de Rodas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Gustavo Maia de Almeida - Integrante / Rogerio Passos Amaral - Integrante / Saul Monareto - Integrante / CUADRO, MARCO ANTONIO DE S. L. - Coordenador / Cassius Zanetti Resende - Integrante.
+2011 - 2013
+Desenvolvimento de um Robô Móvel para Monitoramento da Vigilância do Campus Serra.
+Descrição: Este projeto tem como objetivo geral o desenvolvimento de um robô móvel para o monitoramento da vigilância interna do Campus Serra. Este robô móvel vigilante se deslocaria dentro de uma trajetória definida nas instalações do Campus, acionando um alarme em caso de detectar alguma anomalia. A proposta futura é que o sistema tenha dois modos de funcionamento: o automático e o manual. Neste projeto basicamente se propõe fazer a construção de um robô com capacidade de trafegar pelas instalações do Campus Serra e realizar testes de controle de trajetória usando processamento de imagens para a medição da postura do robô.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gustavo Maia de Almeida - Integrante / Rogerio Passos Amaral - Integrante / Marco Antonio de Souza Leite Cuadros - Coordenador.

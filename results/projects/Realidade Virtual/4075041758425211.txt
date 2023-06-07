@@ -1,0 +1,66 @@
+2021 - Atual
+Personalização da habitação em larga escala: Coordenação modular, uso, flexibilidade e computação
+Descrição: Objetivos:
+Propõe-se desenvolver uma prova de conceito, através de uma solução digital de geração de variações arquitetônicas baseadas em uma interface de diálogo com usuários/futuros moradores, buscando a aplicação da customização em massa na produção de arquitetura.
+Desenvolvimento:
+O trabalho se iniciará com uma revisão bibliográfica que contextualiza e justifica a pesquisa. A seguir, a partir de uma solução construtiva comum em empreendimentos de habitação social, será proposta uma solução de coordenação modular. Em seguida, essa solução será relacionada com o mobiliário e uso dos espaços. Por fim, um algoritmo de computado criado e linguagem de programação visual (Grasshopper), promoverá a facilitação da geração de soluções.
+Justificativa:
+Nesse início do século XXI há uma tendência, principalmente em países em desenvolvimento, de produção de habitação em larga escala, com unidade habitacionais idênticas (casa unifamiliares ou apartamentos). Esse modelo, perpetuação de um discurso moderno, ignora deliberadamente as realidades das composições familiares e usos dos espaços. Acredita-se que com ajuda de recursos computacionais, seja possível gerar variações de projetos com uma facilidade jamais vista, viabilizando essa personalização arquitetônicas.
+Contribuição:
+Espera-se contribuir com a discussão sobre habitação social, mostrando possíveis caminhos para sua melhoria, a partir da adaptação à realidades específicas de cada família.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Charles de Castro Vincent - Integrante / Luiz Alberto Frezl Backheuser - Coordenador.Número de produções C, T & A: 1
+2021 - Atual
+Ferramentas Paramétricas para Concepção Formal em Arquitetura e Design
+Descrição: Estudo teórico e experimental de tecnologias digitais empregadas na concepção formal de projetos de arquitetura e design.
+A produção arquitetônica e de design vem sendo afetada drasticamente com a adoção de ferramentas de modelagem paramétrica. As metodologias clássicas de projeto não contemplam algumas das características do projeto digital. Essas metodologias não são invalidadas mas devem ser revistas à luz das ferramentas digitais. 
+A adoção dessas ferramentas, apesar dos inúmeros autores que se debruçam sobre a questão, ainda é incompleta e frequentemente equivocada.
+O presente projeto contempla experimentos práticos de computação gráfica digital e paramétrica,  buscando evidenciar os aportes metodológicos precedentes e sua validade, assim como buscar evidências de novas metodologias emergentes do uso dessas ferramentas. 
+O estudo é relevante no âmbito profissional, por pretender indicar práticas refinadas, assim como no âmbito educacional, onde as práticas devem ser atualizadas.
+ESTE PROJETO RESULTOU DA EXTINÇÃO DO PRECEDENTE, "Estruturas Espaciais não regulares baseadas em tetraedros e pirâmides irregulares gerados parametricamente a partir de superfícies bi-gaussianas", DE MODO A AMPLIAR SUA ABRANGÊNCIA TEMÁTICA.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8) . Integrantes: Charles de Castro Vincent - Coordenador.Número de produções C, T & A: 11
+2018 - 2020
+Habitação de interesse social, autoconstrução e fabricação digital
+Descrição: Este projeto propõe a continuação de uma pesquisa mais ampla, realizada ao longo de seis anos, a partir de 2009, com financiamento da FINEP ? Financiadora de Estudos e Projetos, envolvendo sete universidades brasileiras, dentre as quais a Mackenzie, para estudar as possibilidades de utilização das Tecnologias da Informação e Comunicação ? TICs na produção de Habitações de Interesse Social ? HIS..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Charles de Castro Vincent - Integrante / Eduardo Sampaio Nardelli - Coordenador / Luiz Alberto Frezl Backheuser - Integrante / Jair Antonio de Oliveira Junior - Integrante / Eduardo Luisi Paixão Silva Campolongo - Integrante / Vinicius Juliani Pereira - Integrante / Camila Carniel - Integrante.Financiador(es): Mackpesquisa - Universidade Presbiteriana Mackenzie - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2014 - 2021
+Estruturas Espaciais não regulares baseadas em tetraedros e pirâmides irregulares gerados parametricamente a partir de superfícies bi-gaussianas.
+Descrição: Objetivos:
+Estudo e desenvolvimento de estratégias projetuais para estruturas espaciais leves de geometria não regular para coberturas permanentes e temporárias de grandes vãos.
+Análise estática e dinâmica do comportamento estrutural com feedback paramétrico para ajustes na geometria de projeto, visando a otimização da forma.
+Análise estática e dinâmica em dois softwares de análise por elementos finitos e validação dos resultados através de ensaios mecânicos em protótipos em escala.
+Procedimentos e Metodologia:
+2014/2015 - Incepção do projeto; Estudos de casos de estruturas espaciais pra coberturas de grandes vãos, como o Pavilhão de Exposições do Anhembi, SP e casos projetados e executados pela empresa alemã Mero GmbH.
+2015 - Estudos de casos de aplicação de estruturas espaciais de forma complexa na arquitetura contemporânea.
+2016 - Redação de projeto de pesquisa para submissão à chamada MCTI/CNPQ Nº 01/2016 - Universal.
+2016/2017 - Desenvolvimento e prototipagem de modelos de estudos.
+Realização de ensaios físicos com protótipos em escala.
+Validação do modelo computacional de modelagem.
+O projeto se vale dos laboratórios de prototipagem da Faculdade de Arquitetura e Urbanismo, assim como utiliza o laboratório do grupo de pesquisas, montado no projeto  MCT/FINEP/Ação Transversal ­ SANEAMENTO AMBIENTAL E HABITAÇÃO ­ 7/2009.
+Justificativa e Relevância:
+Compreender e aportar desenvolvimento das tecnologias empregadas em inúmeros projetos da arquitetura contemporânea internacional, avaliar seu uso potencial em situações econômicas menos estáveis e desenvolver aplicações locais com custo reduzido.
+O projeto é relevante no que tange a potencial aplicação das tecnologias desenvolvidas.
+Relevância Social:
+Potencial uso de estruturas de cobertura e abrigo com grandes vãos em situações de emergência e em feiras e espetáculos, com a possibilidade de transporte desmontado e montagem/desmontagem rápida.
+ESTE PROJETO FOI CONVERTIVO EM UM NOVO, DE TEMÁTICA SIMILAR PORÉM MAIS ABRANGENTE: "Ferramentas Paramétricas para Concepção Formal em Arquitetura e Design".. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Charles de Castro Vincent - Coordenador / Luiz Alberto Frezl Backheuser - Integrante.Número de produções C, T & A: 36
+2011 - 2015
+MCT/FINEP/Ação Transversal - SANEAMENTO AMBIENTAL E HABITAÇÃO - 7/2009
+Descrição: Desenvolvimento de soluções inovadoras em tecnologia da informação e comunicação aplicadas à construção, visando a melhoria da qualidade e produtividade do segmento da habitação de interesse social, com destaque para: Building Information Modeling (BIM) e outras soluções para suporte ao processo de gerenciamento de projetos; simulação de desempenho; e operação de edificações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Charles de Castro Vincent - Integrante / Eduardo Sampaio Nardelli - Coordenador / Luiz Alberto Frezl Backheuser - Integrante / Jair Antonio de Oliveira Junior - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2008 - 2011
+PARAMETRIZAÇÃO DE SOLUÇÕES HABITACIONAIS EM SÉRIE NÃO REPETITIVA
+Descrição: Investigação de um software paramétrico de projeto arquitetônico, a saber:
+Rhinoceros 3d com a extensão Paracloud.
+Os aspectos a serem investigados são elencados a seguir:
+a.	Graus de liberdade formal nos modelos geométricos;
+b.	Graus de parametrização possíveis nos softwares;
+c.	Técnicas de implementação de parametria em ambiente de projeto;
+d.	Intercambiabilidade de informações geométricas entre os softwares estudados e programas de Controle Numérico em frezas CNC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Charles de Castro Vincent - Coordenador / Eduardo Sampaio Nardelli - Integrante / Rafael Augusto Heldt Teles - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2008 - 2009
+O ESTADO DA ARTE DAS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO TICS E A REALIDADE CONTEMPORÂNEA DA PRÁTICA DE PROJETO NOS ESCRITÓRIOS DE ARQUITETURA PAULISTANOS
+Descrição: Levantamento dos recursos decorrentes das Tecnologias da Informação e Comunicação que são utilizados atualmente pelos escritórios de arquitetura de São Paulo na prática do Atelier de  Projeto, identificando quais destes escritórios aplicam esses recursos no estágio correspondente à emergente ?Arquitetura Digital?, nos termos do modelo teórico proposto por Oxman (2006).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Charles de Castro Vincent - Integrante / Eduardo Sampaio Nardelli - Coordenador / Anne Caroline Caetano - Integrante / Juliana Mendes Oliveira - Integrante.Financiador(es): Mackpesquisa - Universidade Presbiteriana Mackenzie - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2006 - 2014
+DESIGN EM MOVIMENTO: IMPACTO DAS FORMAS DE PRODUÇÃO DIGITAIS EM MIDIAS ELETRÔNICAS E INTERATIVAS
+Descrição: A adoção acelerada de tecnologias digitais vem impactando e transformando paradigmas de criação, produção e veiculação em midias cinemáticas - cinema e televisão - e interativas - internet, muitimidia e televisão interativa.
+Esta investigação coloca em foco essas transformações que deslocam o conceito de projeto como etapa precedente à realização e execução, em favor de um 'processo simultaneo' de criação e realização.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Charles de Castro Vincent - Coordenador.Número de produções C, T & A: 10

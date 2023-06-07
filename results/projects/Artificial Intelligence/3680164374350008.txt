@@ -1,0 +1,197 @@
+2011 - Atual
+2011 - 2014 INCLINE- INterdisciplinary CLimate INvEstigation Center (NAP - Núcleo de Apoio à Pesquisa)
+Descrição: The University of Sao Paulo has highlighted the leadership role in scientific
+research in the area of climate change. A partnership among USP's units of IAG, EESC,
+EACH, FEA, FSP, CENA, IG, PROCAM, ESALQ, IO and IF. The proposed Climate Change
+NAP integrates and leverages key collaborations in this area inherently
+multidisciplinary. The need for integrated research in this area of the country are key
+to a sustainable future for the economy and tackling the socioeconomic issues
+associated with climate change. Mitigation strategies and adaptation to climate change
+need to be implemented shortly to have a strong scientific basis. The Weather
+Network MCT, the INCT Climate Change and FAPESP program of climate change are
+important initiatives that it intends to strengthen NAP with an integrated program of
+research. The proposal involves more than 58 researchers from USP and more than 90
+external collaborators, organized across 14 sub-projects whose themes included a
+topic on Water Resources and Climate Change (EESC/USP).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Werner Leyh - Integrante / Lorena Avelina Rojas Gutierrez - Integrante / Danielle de Almeida Bressiani - Integrante / Eduardo Mario Mendiondo - Coordenador / João Porto de Albuquerque - Integrante / Jó Ueyama - Integrante.
+2006 - 2007
+MS-DAB-UNESCO-914BRA106: Concepção e coordenação tecnológica da implantação do GeoPortal de Informação da Secretaria da Saúde do RIO GRANDE DE NORTE
+Descrição: Concepção e Coordenação da tecnologia da implantação do Portal de Informação da Secretaria da Saúde do Estado Rio Grande do Norte com os módulos I. Servidor de Mapas, II. Sistema de Comunicação e III. Sistema de gestão de conteúdo. Em 1994, o Ministério da Saúde (MS) criou uma assessoria técnica para concentrar informações via sistemas informatizados e torná-los disponíveis em painéis e gráficos em locais de acesso público conhecidos como sala de situação. Esta sala de situação foi concebida com um processo contínuo de articulação de quatro tipos de atividades: 1.Coleta, tabulação e processamento de dados, produzindo indicadores e gráficos; 2. Análise e comparação de dados; 3. Avaliação de problemas, intervenções e tomada de decisões, e 4. Divulgação das informações para retroalimentar o sistema de saúde e permitir o controle social. O MS vem contribuindo com as Secretarias Estaduais na implantação desta tecnologia, a exemplo do Rio Grande do Norte. A Secretaria de Saúde do RN implantou uma sala de situação virtual, o Portal de Informações em Saúde, para auxiliar o trabalho coletivo das diferentes áreas da Secretaria via web. 
+(
+http://189.28.128.100/dab/docs/eventos/2a_mostra/construindo_trilhas_educacionais_cidade_sol_experiencia_saude_familia_maisa.pdf
+e
+http://www.saude.ba.gov.br/portalsesab/RelatórioVolumeI.pdf 
+e
+http://www.scielo.br/pdf/csp/v24s1/12.pdf 
+ -
+Acesso 2011/1/1). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Márcia Araújo Barreto - Integrante / Lavínia Uchôa Azevedo de Araújo - Integrante / Iracema de Almeida Benevides - Integrante.Financiador(es): United Nation Educational, Scientific and Cultural - Cooperação.Número de produções C, T & A: 10
+2004 - 2004
+MCIDADES-PNUD-SNIC-BRA00024: Concepção, arquitetura e planejamento do Sistema Nacional de Informações georeferencados das Cidades, Geo-SNIC: ( http://geosnic.cidades.gov.br/ ) e ( http://www.pnud.org.br/projetos/governanca/visualiza.php?id07=223 )
+Descrição: O Sistema Nacional de Informações das Cidades ? SNIC apoia as cidades com as informações do 1. Sistema Nacional de Indicadores Urbanos(SNIU), 2. Sistema Nacional de Informação Sobre Saneamento (SNIS), 3. Habitacional-Caixa Econômica Federal, 4. Atlas IDH do PNUD, 5. Sistema de Informações Sócio-econômicas dos Municípios Brasileiros SIMBRASIL da CEF, 6. e outros:
+As informações presentes no banco de dados do SNIC, encontram-se organizadas, georreferenciadas e integradas num módulo de consulta GeoSNIC que permite o fácil acesso do público em geral, sem a necessidade de instalação de módulos adicionais.
+Auxiliar os gestores municipais no desenvolvimento do Plano Diretor:
+Nas consultas, o usuário poderá pesquisar informações sobre municípios
+brasileiros, ter acesso a mais de 800 indicadores socioeconômicos, visualizar imagens
+de satélite dos municípios, localizar obras, obter dados sobre investimentos
+e contratos geridos pelo Ministério das Cidades, além de criar mapas temáticos,
+gerar relatórios, exportar e imprimir suas consultas.
+( 
+http://geosnic.cidades.gov.br/ 
+ e 
+http://www.pnud.org.br/projetos/governanca/visualiza.php?id07=223 
+ - acesso 2011/1/1). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Erminia Terezinha Menon Maricato - Integrante.Financiador(es): Programas das Nações Unidas para o Desenvolvimento no Brasil - Cooperação.Número de produções C, T & A: 8
+2004 - 2004
+MPOG-MC-SNIC-BRA00024: Concepção, arquitetura e planejamento do Sistema Nacional de Informações georeferencados das Cidades, Geo-SNIC: ( http://geosnic.cidades.gov.br/ ) e ( http://www.pnud.org.br/projetos/governanca/visualiza.php?id07=223 )
+Descrição: No âmbito do Projeto PNUD com o Ministério das Cidades implementei uma solução preliminar (Piloto) do GeoPortal "GeoSNIC/GeoCidades" num portal do Ministério do Planejamento MPOG. A publicação deste GeoPortal teve apoio institucional das coordenações INOVAÇÕES TECNOLÓGICAS e INTEGRAÇÃO E INTEROPERABILIDADE da Secretaria de Logística e Tecnologia da Informação (SLTI) do MPOG e apoio logístico-tecnológico do SERPRO que disponibilizou o Hardware (servidor) e acesso a rede (Internet). Este trabalho tem como referência as diretrizes traçadas pelo Comitê Executivo do Governo Eletrônico , em especial as da Câmara Técnica de Implementação de Software Livre e foi destacado como exemplo no "GuiaLivre -Referência de Migração para Software Livre do Governo Federal", Capitulo 10.3.12 Sistemas de informações georeferenciadas: ( www.serpro.gov.br/arquivosdownload/Guia_Livre_Ipiranga.pdf -Acesso 2011-1-1 ).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Corinto Meffe - Integrante.Financiador(es): Programas das Nações Unidas para o Desenvolvimento no Brasil - Cooperação.
+2003 - 2004
+MC-GESAC- GeoCom: Aplicação de Tecnologias de Informações Georeferenciadas em Software Livre na Internet como Ferramenta de Inclusão Digital no âmbito do Ministério das Comunicações
+Descrição: O GESAC é um programa do Governo Federal criado em junho de 2003 e tem como meta disponibilizar acesso à Internet e mais um conjunto de outros serviços de inclusão digital à comunidades excluídas do acesso e dos serviços vinculados à rede mundial de computadores. No Programa GESAC são beneficiadas prioritariamente as comunidades com baixo IDH (Índice de Desenvolvimento Humano) e que estejam localizadas em regiões onde as redes de telecomunicações tradicionais não oferecem acesso local à Internet em banda larga. Para tanto, o programa provê conexão via satélite. Hoje, existem 3.619 Pontos de Presença conectados à Internet por meio do programa GESAC (http://www.mc.gov.br/inclusao-digital-mc acesso 2010/01/01)
+O Projeto GeoCom tem por objetivo dotar o governo e a sociedade brasileira, por intermédio do Ministério das Comunicações, de uma ferramenta de tratamento de informações georeferenciadas na Internet que contribua para tornar visível as informações e facilitar a coordenação de esforços em favor da inclusão social e digital. Tal ferramenta deverá estar disponível tanto internamente para os técnicos do ministério, do governo em geral bem como para a sociedade.
+No âmbito do Projeto GeoCom com o MiniCom implementei uma solução preliminar num portal do Ministério do Planejamento MPOG. A publicação deste GeoPortal teve apoio institucional das coordenações INOVAÇÕES TECNOLÓGICAS e INTEGRAÇÃO E INTEROPERABILIDADE da Secretaria
+de Logística e Tecnologia da Informação (SLTI)do MPOG e apoio logisto -tecnológico do SERPRO que disponibilizou o
+Hardware (servidor) e acesso a rede (Internet).
+Este trabalho tem como referência as diretrizes traçadas pelo Comitê Executivo do Governo Eletrônico , em especial as
+da Câmara Técnica de Implementação de Software Livre e foi destacado como exemplo no "GuiaLivre -Referência de Migração para Software Livre do Governo Federal", Capitulo 10.3.12 Sistemas de informações georeferenciadas:
+https://www.governoeletronico.gov.br/anexo. Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador.Financiador(es): United Nation Educational, Scientific and Cultural - Cooperação.
+2002 - 2004
+CAMPINAS-IMA-Sistema de cadastro e cartografia ON-LINE para Planejamento e gestão pública municipal: http://www.ima.sp.gov.br/
+Descrição: Cerca de 85% de todas as informações da administração de uma prefeitura 
+estão de alguma forma relacionadas à localização geográfica, 
+e que uma parcela expressiva de seus recursos financeiros são 
+provenientes de elementos sobre a sua geografia.
+Nesta nova mentalidade de Gestão Municipal que está sendo proposta, 
+a variável locacional aparece para aumentar a eficiência dos 
+tradicionais sistemas de automação. O uso das geotecnologias não se 
+aplica apenas à melhora na arrecadação tributária, através
+do cadastro imobiliário atualizado.
+A Prefeitura de Campinas, através de sua empresa de informática IMA, iniciou uma cooperação com a FAURGS e a PROCERGS, para disponibilizar, aplicar e ampliar os resultados do SIG-RS (www.geolivre.rs.gov.br ) no Sistema Municipal de Informações Georreferenciados (SIG- Campinas).
+Esta cooperação sofreu em 22 de fevereiro 2002 o "termo de cessão de diretos FAURGSIMA-
+PROCERGS-1607-04" e, em dia 28 de maio 2002 "o convênio FAURGS-IMA-28-05-2002" para incluir, entre outros objetivos a cooperação com o Ministério da Saúde e a UNICAMP.
+(
+http://www.campinas.sp.gov.br/ 
+ e 
+www.ima.sp.gov.br 
+ e 
+http://www.ige.unicamp.br/ 
+).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Antonio Albuquerque Neto - Integrante.Financiador(es): Fundação de Apoio à Universidade Federal do Rio Grande do Sul - Cooperação.Número de produções C, T & A: 5
+2002 - 2002
+CAMPINAS-IMA-Atendimento da SMS (Núcleo de Informação em Saúde) com módulos adicionais do SIG-Campinas: 1-SAÚDE DA FAMILIA 2-PROGRAMAÇÃO PACTUADA INTEGRADA 3-Monitoramento CADSUS
+Descrição: Projetar ( concepcionar ) módulo "Saúde" do SIG-CAMPINAS com funcionalidades avançados para cidadão e gestor.
+1.
+Disponibilizar informações sobre os serviços de Saúde da Família 
+para o cidadão
+1.1 População adstrita; 
+1.2 Agendamento das consultas; 
+1.3 Ações promocionais em saúde;
+1.4 Conselhos da Saúde,
+1.5 Perfil de morbi- mortalidade
+2. 
+Monitorar o desenvolvimento da Pactuação Integrada (PPI) entre os municípios da regido de Campinas e a Comissão Intergestores Bipartite do Estado de São Paulo.
+3. 
+Iniciar o monitoramento do CAD-SUS ? Cadastro Paidéia.
+4.
+PROGRAMAÇÃO PACTUADA INTEGRADA
+4.1 Condução do processo de programação;
+4.2 parâmetros da programação;
+4.3 alocação de recursos centrado nas necessidades;
+4.4 mecanismos que visam regular oferta e demanda;
+4.5 núcleos municipais de auto-controle e avaliação dos serviços de saúde
+da Assistência Básica (PAB), da Media Complexidade (Ml e M2) e Alta 
+Complexidade, conforme NOAS SUS 01/02 ). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Spartaco Almeida - Integrante.Financiador(es): Fundação de Apoio à Universidade Federal do Rio Grande do Sul - Cooperação.
+2002 - 2002
+MS-SAS-OPAS-BRA/AMP/61/0627/2002/C: GeoPPI - Servidor de Mapas para o monitoramento espacial do Plano Regional (PDR) dos Investimentos (PPI) do Ministério da Saúde: http://www.opas.org.br/informacao/UploadArq/googleacad20abr07tabulacao.pdf
+Descrição: PPI (Programação Pactuada e Integrada ) é um processo instituído no âmbito do Sistema Único de Saúde - SUS, onde em consonância com o processo de planejamento são definidas e quantificadas as ações de saúde para população residente em cada território (PDR), bem como efetuados os pactos intergestores para garantia de acesso da população aos serviços de saúde. Tem por objetivo organizar a rede de serviços, dando transparência aos fluxos estabelecidos e definir, a partir de critério e parâmetros pactuados, os limites financeiros destinados à assistência da população própria e das referências recebidas de outros municípios. 
+Ou seja, no PPI é apresentada toda a programação do que deverá ser feito na área da saúde, um planejamento. Assim sendo, se torna importante ao SUS por apresentar e definir as ações necessárias para assistir a população.
+(
+http://portal.saude.gov.br/portal/saude/
+ - 
+Acesso 2011/1/
+). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Francisco Carlos Cardoso de Campos - Integrante / Marconi de Lima Rocha - Integrante / Maria Helena Carvalho Brandão - Integrante.Financiador(es): Organização Pan-Americana da Saúde/Organização Mundial da Saúde - Cooperação.Número de produções C, T & A: 5
+1999 - 2002
+PROCERGS-GEOLIVRE-Sistema de Informação Georreferenciada do Estado do Rio Grande do Sul, SIG-RS - Projeto com orientação de Trainee (University of Bonn-Institute of Geodesy and Geoinformation)
+Descrição: Este projeto resultou na implantação de um servidor de mapas (GEOPORTAL) para o projeto SIG-RS do Estado Rio Grande do Sul. O servidor de mapas foi realizado com software livre a base da plataforma MapServer. MapServer foi originalmente desenvolvido pelo projeto ForNet da Universidade de Minnesota (UMN) em cooperação com a NASA e o Departamento de Recursos Naturais de Minnesota (MNDNR). Atualmente o projeto MapServer é abrigado pelo projeto TerraSIP, um projeto patrocidado conjuntamente pela NASA, UMN e um consórcio de interesses de gerenciamento da terra. 
+Esta implantação na PROCERGS foi a primeira deste tipo no Brasil e resulto na criação da iniciativa GEOLIVRE:
+(
+http://www.geolivre.rs.gov.br/ 
+ - acesso 2011/1/1
+)
+Este trabalho foi destacado como exemplo no "GuiaLivre -Referência de Migração para Software Livre do Governo Federal", Capitulo 10.3.12, Sistemas de informações georeferenciadas: ( www.serpro.gov.br/arquivosdownload/Guia_Livre_Ipiranga.pdf -
+Acesso 2011-1-1 ).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Werner Leyh - Coordenador / Ricardo Martins - Integrante / Clausius Cetraro Moreira - Integrante / Sven Kroemeke - Integrante.Financiador(es): Gesellschaft Fur Technische Zusammenarbeit - Cooperação.Número de produções C, T & A: 1 / Número de orientações: 1
+1997 - 1999
+UMC-CIRC ?Computer Integrated Road Construction? da Comunidade Européia (programa BRITE III) em parceria com Laboratoire Central des Ponts et Chaussées LCPC/France, University of Karlsruhe, IMB/Germany, CapGemini/France, University of East London/UK
+Descrição: CIRC ?Computer Integrated Road Construction? da Comunidade Européia 
+(programa BRITE III) 
+em parceria com 
+Laboratoire Central des Ponts et Chaussées LCPC, France
+University of Karlsruhe, IMB, Germany
+Cap Gemini, France
+University of East London, UK:
+Publicação e descrição:
+Automation in Construction
+Volume 9, Issues 5-6, September 2000, 
+Pages 447-461 :
+http://www.elsevier.com/wps/find/homepage.cws_home
+e
+http://gulliver.trb.org/publications/circulars/ec017.pdf. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Werner Leyh - Coordenador / Thomas Bock - Integrante / Francois Peyret - Integrante / Philippe Coiffet - Integrante.Financiador(es): European Commission - Cooperação.Número de produções C, T & A: 3
+1997 - 1997
+UFRGS-GEORADAR: PONTE Niteroi-Rio de Janeiro, Mapeamento da penetração de água na estrutura do concreto armado pelo descolamento do pavimento, (Edital de Licitação: ED-DC-97-011), 01/11/1997, http://www.ponte.com.br/concessionaria/home/
+Descrição: Existe o perigo que as camadas do pavimento se descolam da base da rodovia. No case da pasta encima da ponte de Niterói isto provoca o risco de infiltração de água na estrutura de concreto. No caso pior a infiltração pode avançar até os cabos do aço. O Georadar e um método não destrutivo predestinado para pesquisar e mapear este tipo de infiltração porque suas ondas sofrem reflexões nas interfaces dielétricas:
+O radar de impulso é baseado na transmissão de impulsos eletromagnéticos curtos (< 1 ns) através da estrutura do prédio sendo investigado. Estes impulsos são refletidos em interfaces entre materiais de diferentes propriedades dielétricas (ex: ar/concreto, concreto/metal, etc.) enquanto que o coeficiente de reflexão depende da diferença das condutividades (permittivities). Estes impulsos refletidos são detectados por um receptor e podem ser visualizados em um monitor.O uso do GeoRadar faz parte do projeto EURECA/Fastcheck (Thomson/UK/Paris6/LCPC). Este projeto com a concessionária PONTE foi o maior sucesso da parceria com o NORIE da UFRGS.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Jairo Wolf - Integrante / Rui Margarido - Integrante.Financiador(es): Concessionária CCR Ponte Rio - Niterói - Cooperação.
+1995 - 1999
+UFRGS-NORIE-FASTCHECK-Sistema semi-automatizado para a avaliação rápida e confiável de rodovias e pontes (Projeto de cooperação internacional UFRGS-TUM-GTZ)
+Descrição: Projeto de Cooperação entre a Universidade Federal do Rio Grande do Sul em Porto Alegre / RS (www.cpgec.ufrgs.br/Norie/index.htm) e a Universidade Técnica de Munique (TUM) com apoio da " sociedade de cooperação técnica GTZ" / Alemanha 
+( www.gtz.de , 
+ e 
+http://lattes.cnpq.br/1687928443170541 ,
+acesso 2011/1/1).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Werner Leyh - Coordenador / Jairo Wolf - Integrante / Thomas Bock - Integrante.Financiador(es): Gesellschaft Fur Technische Zusammenarbeit - Cooperação.
+1992 - 1994
+UK-AIF-Automatização da Montagem na construção civil - Projeto com orientação de mestrados (diplom-studien-arbeit)
+Descrição: The aim of the development was the construction of a freely programmable handling system for use as an experimental plant for various tasks in research and development in the field of overground workings where freely programmable movement and force patterns are important. The system should be suitable for building assembly work in particular. With regard to the robot technology and the assembly operations, plans which are worked out theoretically are checked here and developed further by practical experience. The handling system constructed will be called ?experimental building assembly robot?.
+( Automatic assembly of a commercial cavity block system Original Research Article
+Automation in Construction, Volume 4, Issue 2, June 1995, Pages 147-167
+W. Leyh)
+( 
+http://www.aif.de/
+ e 
+http://www.aif.de/en/default.php?lang=1&rubrick=114052234528&fnum=114052239036
+acesso 2011/1/1). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Thomas Bock - Integrante.Financiador(es): German Federation of Industrial Cooperative Research Association - Auxílio
+										financeiro.
+1991 - 1992
+UK-BILFINGER-Automatização do posicionamento da carga de guindastes de torre. Contratado pela empresa Bilfinger Berger (http://www.bilfinger.com/ ) com orientação de mestrados (Studien+Diplom)
+Descrição: Cranes are widely used to transport heavy loads and hazardous materials. Rotary tower cranes are used in construction, The function of the cranes is to move a load from point to point in the minimum time such that the load reaches its destination without swinging . Usually a skilful operator is responsible for this task. During the operation, the load is free to swing in a pendulum-like motion. If the swing exceeds a proper limit, it must be damped or the operation must be stopped until the swing dies out. These problems have motivated many researchers to develop control algorithms to automate crane operations. Another dificulty of crane automation is the nature of the construction environment, Therefore, most of the existing schemes are not suitable for practical implementation.( http://en.wikipedia.org/wiki/Bilfinger_Berger- acesso 2011/1/1). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Thomas Bock - Integrante.Financiador(es): Bilfinger Berger - Multi Service Group - Cooperação.
+1989 - 1993
+UK-ESPRIT-III-ROCCO-6450: Robot Assembly System for Computer-Integrated Construction-( http://www.berghof.com/ )
+Descrição: R&D ? projeto ROCCO ?Robot Assembly System for Computer - Integrated Construction? da Comunidade Européia (programa ESPRIT):
+Robot assembly system for the construction industry based on an articulated robot placed over a mobile platform. The assembly process has been developed under the computer integrated construction concept. Within the project a mobile masonry robot was designed. Its main task is the assembly of blocks for the erection of walls in industrial buildings
+After a global project overview the kinematic equations of a vehicle with three degrees of freedom are derived. The structure for the low-level controller can easily be adapted to several combinations of sensors like path-line, compass, dead-reckoning or absolute posture of the vehicle.
+(
+http://cordis.europa.eu/esprit/src/results/res_area/iim/iim19.htm 
+-	
+acesso 2011/1/1). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (20) . Integrantes: Werner Leyh - Coordenador / Thomas Bock - Integrante.Financiador(es): European Commission - Cooperação.Número de produções C, T & A: 11
+1989 - 1991
+UK-BERGOF-Sistema de controle de trajetória de robôs móveis (AGV) Contratado pela empresa BERGHOF - Projeto com orientação de mestrados (diplom-studien-arbeit)
+Descrição: AGV?s, Automated Guided Vehicles are the cornerstones of a service-oriented logistic system. AGVs are automatically guided driverless vehicles that move product in your logistic or production environment. They are commanded via the hereby developed control and navigation software and are able to operate in harsh environments ( CALMAN-FILTER based solution)
+(
+http://www.berghof.com/
+ e 
+ 
+http://www.berghof.com/multimedia/Downloads/ZH/Newsletter/NEWSLETTER_2_2009_en.pdf
+- acesso 2011/1/1). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Thomas Bock - Integrante / Franz Ott - Integrante.Financiador(es): Berghof Automationstechnik GmbH - Cooperação.
+1989 - 1989
+US-ISW-AEG-Modular-Robot-Control-System. Contratado pela empresa AEG-Projeto com orientação de mestrados (diplom-studien-arbeit)
+Descrição: Most of the RC- and CNC-controllers are developed in agreement with the CNC technology of the correspondent machine tool manufacturer. Any alterations or adaptation of their components are not easy to be implemented This is due to hardware incompatibility and to software not allowing alterations in the source program. The introduction of open architecture philosophy propitiated the evolution of a new generation of numeric controllers. This research project have addressed a flexible structure of software and hardware allowing changes in the hardware basic configuration and all control software levels.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Gerhard Keuper - Integrante.Financiador(es): Aeg Aktiengesellschaft - Cooperação.
+1984 - 1987
+FRAUNHOFER-IPK-SIEMENS: Robô de armazenamento de cabos subterrâneos de alta tensão (Projeto foi base dos meus 3 trabalhos de Graduação e Pos-Graduação)
+Descrição: Cable Winding Roboter-
+Desenvolvimento de um robô para o armazenamento de cabos subterrâneos da empresa SIEMENS (Kabelwickelroboter) . Este projeto serviu de substrato para o doutorado do Professor Richard Wambach e para o meu mestrado (Diplomarbeit) orientado pelo mesmo.
+(
+http://www.paperbackswap.com/Beitrag-Zur-Automatisierung-Richard-Wambach/book/3446153071/ 
+ - 
+acesso 2011 /1/1
+).
+A Sociedade ?Fraunhofer? é uma das principais organizações de pesquisas aplicadas na Alemanha. Na área da robótica possui dois grandes Institutos em Stuttgart e Berlim, o IPK/PTZ. Os dois são referências mundiais na área da automatização Industrial com aproximadamente 1000 funcionários cada , sendo provavelmente os maiores centros de pesquisa em robótica industrial do mundo. Ambos são financiados de forma mista, isto é, para cada projeto contratado pela indústria há um adicional de 30 % direcionado a pesquisas básicas. Todos os Institutos da Franhofergesellschaft são sempre vinculados a uma universidade. Desta forma posso caracterizar genericamente o período de minha atuação nestes institutos da seguinte forma:
+Fiz meus três (3) trabalhos de graduação e pós ? graduação (Semester-, Studien-, Diplomarbeit) dentro desta instituição (quase dois anos); financiados por este projeto para a empresa SIEMENS.
+(
+http://www.fraunhofer.de/en/about-fraunhofer/
+ - 
+Acesso 2011/1/1
+). Situação: Concluído; Natureza: Pesquisa. Integrantes: Werner Leyh - Coordenador / Prof. Dr.-Ing. Richard Wambach - Integrante.Financiador(es): Siemens Ag - Cooperação.Número de produções C, T & A: 1

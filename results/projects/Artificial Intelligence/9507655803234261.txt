@@ -1,0 +1,51 @@
+2019 - Atual
+Projeto de reestruturacao e implantação da humanizacao no fluxo de atendimento de paciente em UPAs - 24 horas
+Projeto certificado pelo(a) coordenador(a) Robisom Damasceno Calado em 02/10/2020.
+Descrição: Projetos de pesquisa de cooperação entre o Ministério da Saúde e a Universidade Federal Fluminense, com interface com a DAHU/SAES/MS, visando ao fortalecimento do Sistema Único de Saúde ?SUS e destinados a garantir o atendimento eficiente, digno, atenuando a pressão dessa demanda excessiva.
+A pesquisa busca alternativas para a superlotação de serviços de emergência que representa grave problema do sistema de saúde e a demanda espontânea dos pacientes com doenças simples amplifica exageradamente o número de atendimento nessas unidades. Sendo assim, a Humanização é a única forma de impactar os efeitos que assolam a rotina de atendimento na rede de urgência e emergência.
+A pesquisa busca promover uma nova cultura de atendimento que apoie a melhoria na qualidade e eficiência dos serviços prestados aos usuários do sistema único de saúde atendidos nas UPAs-24horas, priorizando-se o atendimento dos pacientes em condições de maior gravidade, aumentando a produtividade e eficiência das equipes especializadas da Unidade, bem como reorganizando os fluxos e garantindo o atendimento prestado de forma humanizada.
+Faz parte do escopo do projeto a otimização do fluxo do paciente em 50 (cinquenta) UPAs distribuídas em regiões estratégicas, a partir da classificação de risco, resultando na estruturação de um fluxo rápido (Fast Track).
+A estratégia metodológica será baseada na abordagem Lean Healthcare para melhoria de processos empregando o método DMAIC (Definir, Medir, Analisar, Implementar e Controlar) na condução dos projetos em todas as suas fases. As estratégias operacionais são: melhorar a comunicação e a qualidade do serviço ofertado; a metodologia escolhida para condução do projeto é denominada no modelo HUMANIZA-SUS no escopo da Política Nacional de Humanização.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Messias Borges Silva - Integrante / Robisom Damasceno Calado - Coordenador / Luis Enrique Valdiviezo Viera - Integrante / Sandra Maria do Amaral Chaves - Integrante / Stephanie D'Amato Nascimento - Integrante / Ana Paula Barbosa Sobral - Integrante / Julia de Oliveira Morais - Integrante / Milena Estanislau Diniz Mansur dos Reis - Integrante / Alexandre Beraldi Santos - Integrante / Harvey José Santos Ribeiro Cosenza - Integrante.
+2016 - Atual
+ANÁLISE TERMOECONÔMICA E ECOLÓGICA E OTIMIZAÇÃO DE SISTEMAS PARA A OBTENÇÃO DE BIOENERGIA  A PARTIR DE MICROALGAS: UMA ABORDAGEM DA ENGENHARIA DE PRODUÇÃO
+Descrição: Objetivo Geral: apresentar alternativas no que se diz respeito à modelagem e
+otimização de processos com múltiplas respostas, utilizando como ferramentas para a
+otimização possíveis estruturas híbridas de diferentes metaheurísticas, uso de machine
+learning (aprendizagem de máquina) e support vector machine (máquina de vetores de
+suporte) combinadas ao modelo robusto de projeto de experimentos proposto por
+Taguchi aplicadas à produção de bioprodutos e bioenergia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (5) . Integrantes: Messias Borges Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - Atual
+Otimização de Processos com Múltiplas variáveis Resposta
+Descrição: A competição intensa entre as organizações, que se acirra, conjuntamente ao
+crescente desejo dos consumidores, por produtos inovadores, de melhor nível de
+qualidade, mais baratos e entregues no prazo obrigam as organizações a buscarem, a
+melhoria contínua de seus processos produtivos e administrativos, com foco em
+aumento da produtividade, redução na variabilidade, melhoria da qualidade e redução
+de custos. Atualmente a condição que melhor retrata a realidade dentro de grandes
+empresas são os problemas de processos onde não se quer otimizar apenas uma, mas
+sim várias características (variáveis de saída) ao mesmo tempo, onde cada uma delas
+possui suas peculiaridades, como maximização, minimização e condução a um valor
+nominal desejado. Problemas envolvendo múltiplas respostas têm se tornado cada vez
+mais relevantes quando diversas características devem ser avaliadas simultaneamente
+em um processo. Encontrar uma condição ótima para operação de um processo que o
+viabilize ou produza resultados com consideráveis melhorias e que atenda as condições
+necessárias para satisfazer aos anseios desses consumidores, são necessidades
+estratégicas das empresas que almejam o sucesso perante essa realidade. Em virtude
+disso o presente estudo propõe apresentar alternativas no que se diz respeito à
+otimização de processos com múltiplas respostas, em diversos ambientes como
+processos de usinagem, seqüestro de CO2 pela via da produção de microalgas e na
+seqüência produção de biocombustíveis, e processos oxidativos avançados. Utilizar-se-
+á de metaheurísticas em processos que foram planejados com métodos quantitativos de
+Engenharia de Produção como Planejamento Fatorial Completo e Fracionado, Método
+de Taguchi, Método da Superfície de Resposta, simulação computacional e métodos
+estocásticos integrando-os a outras áreas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Messias Borges Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2013
+Validação experimental de um modelo teórico considerando a cinética das reações e o tamanho da biomassa para a predição da composição do gás gerado num gaseificador downdraft. Aspectos Experimentais, Exergoeconômicos e Ambientais
+Descrição: CAPES MES . desenvolver e validar experimentalmente um modelo matematico para predecir o processo de gaseificação em leito fixo e leito fluidizado, e desemvolver um metodo economicamente viavel para a captura do CO2 e N2, com a finalidade de opter um gas com maior capacidade de entrega de potença. Para a validação experimental do modelo vai se utilizar o metodo de otimizaçao de Taguchi, o quai vai definir quais som as variaveis fundamentais a controlar no processo. Para a captura do CO2 e N2 vai se proponer o metodo mais fatible economica e ambientalmente, mediante o analise exergoeconomico e meio ambiental. Como a equipe envolvida na proposta tem muita experiência no tema de gaseificação, simulação, cogeração, eficiência ecológica, termoeconomia, e projeto de experimentos, com vários projetos desenvolvidos, entre os quais trabalhos de conclusão de curso, bolsas de iniciação cientifica, dissertações de mestrado, teses de doutorado, e varias publicações nacionais e internacionais (indexadas) na área, há de se considerar o fato de que tem-se a necessidade de dar continuidade aos estudos, para o aprofundamento da equipe no tema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Messias Borges Silva - Coordenador / Jose Antonio Suarez - Integrante / Santiago Jose Rabell Ferran - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Cooperação.
+2010 - 2013
+PROJETO DE EXPERIMENTOS INTEGRADO AOS PROCESSOS OXIDATIVOS AVANÇADOS PARA O TRATAMENTO DE RESÍDUOS GERADOS NA INDÚSTRIA TÊXTIL
+Descrição: Bolsa de Produtividade Em Pesquisa PQ processo 307369/2009-9. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Messias Borges Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2002 - 2007
+Aplicação de Processos Oxidativos Avançados no Tratamento de Efluentes Industriais Utilizando o Planejamento de Experimentos
+Descrição: O projeto visa investigar novas rotas de tratamento de efluentes industriais, utilizando-se processos não convencionais de tratamento, integrados a técnicas de Engenharia da Qualidade, particularmente o Projeto de Experimentos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Messias Borges Silva - Coordenador.Financiador(es): Fundação de Apoio à Pesquisa e Ensino - Auxílio
+										financeiro.

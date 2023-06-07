@@ -1,0 +1,41 @@
+2022 - Atual
+Otimização da Operação e do Sistema de Controle de Conversores Eletrônicos de Potência Associados à Eletropostos
+Projeto certificado pelo(a) coordenador(a) Moacyr Aureliano Gomes de Brito em 19/04/2023.
+Descrição: Protocolo na UFMS: T57SB.100222. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luigi Galotto Junior - Integrante / Moacyr Aureliano Gomes de Brito - Coordenador / GODOY, RUBEN B. - Integrante / Tiago Henrique de Abreu Matheus - Integrante.
+2018 - 2021
+Controle de Motor Síncrono de Ímã Permanente em FPGA usando Redes Neurais Artificiais
+Projeto certificado pelo(a) coordenador(a) Raymundo Cordero García em 19/04/2023.
+Descrição: Edital ? PROPP - Pesquisa e Inovação sem Fomento n. 55/2018
+Enviado em ? 08.10.2018. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luigi Galotto Junior - Integrante / Raymundo Cordero - Coordenador / Joao Onofre Pereira Pinto - Integrante.
+2016 - 2021
+Implementação de Técnicas Mistas de MPPT de Painéis Fotovoltaicos em Conexão com a Rede de Energia Elétrica com Controle Otimizado do Fluxo de Energia
+Projeto certificado pelo(a) coordenador(a) Moacyr Aureliano Gomes de Brito em 19/04/2023.
+Descrição: Edital ? PROPP - Recadastramento Sem Fomento n. 93/2019
+Coordenador ? Moacyr Aureliano Gomes de Brito
+Enviado em ? 07.04.2020
+Situação ? Projeto Concluído em 2021. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luigi Galotto Junior - Integrante / Ruben Barros Godoy - Integrante / Moacyr Aureliano Gomes de Brito - Coordenador / Jurandir de Oliveira Soares - Integrante.
+2012 - 2013
+SENAI Inovação - Industrialização de um Inversor Solar
+Projeto certificado pela empresa Wat Novos Caminhos em 17/12/2012.
+Descrição: Projeto baseado do protótipo produzido no doutorado. Este será industrializado para ser disponibilizado como produto. O projeto foi concluído com resultados parciais alcançados devido a dificuldades administrativas na execução do contrato. Porém, foi reiniciado independente do contrato inicial pela interesse e iniciativa do SENAI reginal e da empresa Wat Energy Solution, com previsão de finalização do produto em 2016.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Luigi Galotto Junior - Coordenador / Ruben Barros Godoy - Integrante / Elvey Tessaro Andrade - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / SENAI - Departamento Nacional - Auxílio
+										financeiro / SENAI - Departamento Regional do Mato Grosso do Sul - Cooperação / Wat Novos Caminhos - Cooperação.
+2010 - 2012
+PAPPE - Nobreak Modular Paralelizável com Controle da Potência da Rede
+Descrição: Este projeto consistiu no desenvolvimento de um novo produto, nomeado Roteador de Energia, e também de um software para plataforma Android que realiza o monitoramento e a configuração de cada unidade deste equipamento. Eles podem ser ligados em paralelo isolados ou conectados a rede elétrica, para compartilhar uma carga ou para fornecer potência de volta a rede a partir das baterias internas ou de painéis fotovoltaicos conectados a este. A conclusão do projeto resultou na primeira versão com um design industrial inovador e também na versão protótipo utiliza um inversor flyback conectado à rede. Um pedido de patente e um registro de desenho industrial foram realizados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (1)  / Doutorado: (3) . Integrantes: Luigi Galotto Junior - Coordenador / Ruben Barros Godoy - Integrante / Michael Jullier Gama Alves - Integrante / Jurandir de Oliveira Soares - Integrante.Financiador(es): Fundação de Apoio e Desenvolvimento do Ensino, Ciência e Tecnologia do MS - Auxílio
+										financeiro.
+2009 - 2010
+Programa PRIME - Módulo de Fontes Chaveadas
+Descrição: Projeto consistiu na criação do primeiro produto para a empresa e para alavancar a inserção no mercado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Doutorado: (2) . Integrantes: Luigi Galotto Junior - Coordenador / Ruben Barros Godoy - Integrante / Michael Jullier Gama Alves - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2004 - 2006
+Projeto de Recomposição do Sistema Elétrico (ENERSUL)
+Descrição: Desenvolvimento de um Sistema Especialista para auxiliar na recomposição do Sistema Elétrico da Enersul. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Luigi Galotto Junior - Integrante / João Onofre Pereira Pinto - Coordenador / Luciana Cambraia Leite - Integrante / Luís Carlos Santini - Integrante.Financiador(es): Concessionária de Energia Elétrica de Matro Grosso do Sul - Auxílio
+										financeiro.
+2004 - 2005
+Projeto de Ajuste de Controladores PID (ATOS)
+Descrição: Desenvolvimento de um software para o ajuste automático de controladores PID. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luigi Galotto Junior - Integrante / João Onofre Pereira Pinto - Coordenador.Financiador(es): Atos Automação Industrial - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2003 - 2004
+Projeto Microturgn (Petrobrás)
+Descrição: Desenvolvimento de um software para verificar a viabilidade técnica, economica e ambiental da instalação de microturbinas a gás natural. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luigi Galotto Junior - Integrante / Amâncio Rodrigues da Silva Junior - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Cooperação.

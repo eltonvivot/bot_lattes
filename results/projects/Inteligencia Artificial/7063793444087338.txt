@@ -1,0 +1,17 @@
+2010 - 2011
+Software de Controle de Rastreabilidade de Exames de Papanicolau
+Situação: Desativado; Natureza: Pesquisa. Integrantes: Olimpio Murilo Capeli - Coordenador.
+2001 - 2012
+Sistema de Processamento de Imagens Microscópicas (SPCIM)
+Descrição: Atualização do Sistema de Processamento de Imagens Microscópicas para  análise e inspeção de tecidos humanos, através de técnicas de processamento e análise de imagens, com vistas a aplicação em diagnóstico. Desenvolvimento de ferramentas de software, para o processamento e reconhecimento em imagens digitais de tecidos celulares, baseada na análise de cor das imagens microscópicas das células do tecido. Aplicação do SPCIM no desenvolvimento do sistema de controle de qualidade do banco de dados de exame de Papanicolaou, bem como sua rastreabilidade.
+Para atingir os novos propósitos do projeto de desenvolvimento, serão utilizados os resultados já obtidos no SPCIM que foi desenvolvido com financiamento da FINEP - Contrato 56.93.0050.00 - PADCT/FINEP, 1994.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Olimpio Murilo Capeli - Integrante / Sadao Isotani - Coordenador / Yuriko Ito Sakai - Integrante / Antonio Roberto Pereira Leite de Albuquerque - Integrante / Nilson Brasil Filho - Integrante / Américo Toshiaki Sakai - Integrante / Sônia Maria Miranda Pereira - Integrante / Gislene Mitsue Namiyama - Integrante / Marina Yoshie Sakamoto Maeda - Integrante / Waldemar Bonventi Junior - Integrante.Número de produções C, T & A: 3
+1995 - 1997
+Desenvolvimento de Sistema Especialista Aplicado ao Controle de Qualidade Dimensional
+Descrição: Desenvolvimento de um Sistema Especialista para atuação nas áreas de Produção e Controle de Qualidade, utilizando um simulador do comportamento humano para tomada de decisões. Processo Institucional CNPq RHAE 610.374/94-0 - Engenharia Industrial de Precisão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Olimpio Murilo Capeli - Coordenador / Sadao Isotani - Integrante / Antonio Roberto Pereira Leite de Albuquerque - Integrante.
+1993 - 1994
+Projeto de Sistema de Sincronismo entre Sistemas de Arraste e Posicionamento Óptico
+Descrição: Desenvolvimento de mecanismo de sincronia ente o posicionamento dos sistemas de leitura óptica e sistemas mecânicos de arraste e deslizamento. Projeto para adaptar e integrar os módulos de hardware e software de controle de arraste e posicionamento.
+Processo Institucional CNPq RHAE 610.412/92-2- Engenharia Industrial de Precisão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Olimpio Murilo Capeli - Coordenador / Sadao Isotani - Integrante / Antonio Roberto Pereira Leite de Albuquerque - Integrante / Marcio Muratore - Integrante.
+1992 - 1994
+Sistema de Controle Ótico de Fresa de Hastes Odontológicas
+Descrição: Sistema de simulação de controle ótico de fresa de hastes odontológicas utilizando técnicas de lógica fuzzy. Processo RHAE 610.099/92-2 - Engenharia Industrial de Precisão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Olimpio Murilo Capeli - Coordenador / Sadao Isotani - Integrante / Antonio Roberto Pereira Leite de Albuquerque - Integrante.Número de produções C, T & A: 1

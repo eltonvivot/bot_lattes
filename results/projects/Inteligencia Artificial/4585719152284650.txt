@@ -1,0 +1,49 @@
+2016 - Atual
+SISCHIP 2 - Concepção e Síntese de Sistemas em Chip
+Descrição: O projeto trata da pesquisa de Circuitos Integrados Dedicados, Projeto de Circuitos com Nanodispositivos, Teste e Tolerância a Falhas em Circuitos Integrados e Ferramentas de Automação de Projeto (EDA). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ricardo Augusto da Luz Reis - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+SISRAS - Sistemas Computacionais com Capacidade de Confiabilidade, Disponibilidade e Utilidade (RAS)
+Descrição: Visando garantir a capacidade de RAS (confiabilidade, disponibilidade e utilidade) de um sistema computacional, faz-se necessário o desenvolvimento de novos modelos, técnicas de tolerância a falhas e a adequação de metodologias e de ferramentas de projeto (CAD) e de teste a serem aplicadas no hardware deste sistema. 
+Os objetivos deste projeto são:
+1.	desenvolver modelos para integração em ferramentas de CAD, que permitam o projeto do hardware capaz de tolerar flutuações elétricas nos dispositivos, flutuações estas advindas da variabilidade e de falhas transientes, e que também minimizem o efeito de ?aging?.  
+2.	desenvolver técnicas e arquiteturas de hardware para garantir a capacidade de RAS em aplicações críticas. Essas técnicas contam com o uso de sensores embarcados em hardware para diagnosticar efeito de ?aging? e de falhas transientes (?soft errors?), além do uso de técnicas de tolerância a falhas nos diversos níveis do projeto. A automatização destas técnicas através de uma ferramenta de CAD também será estudada. 
+3.	modificar e desenvolver algoritmos mais eficientes para as ferramentas de CAD, de forma a permitir a aplicação dos modelos e das técnicas de tolerância desenvolvidos na síntese lógica, na síntese física e na etapa de teste. 
+4.	formar recursos humanos em tecnologia de informação, especialmente no projeto de sistemas integrados confiáveis e disponíveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (16)  / Mestrado acadêmico: (6)  / Doutorado: (4) . Integrantes: Ricardo Augusto da Luz Reis - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 23
+2006 - 2009
+Fault-Tolerant System Design and Verification for Safety-Critical Applications Built from Advanced Integrated Circuits
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto da Luz Reis - Coordenador.
+2006 - 2009
+Animals2: An Integration of Methods for Automatic Layout Synthesis
+Descrição: Este projeto tem 3 objetivos principais:
+(i) otimizar e caracterizar novos algoritmos e métodos de síntese física, a saber, de
+particionamento, posicionamento, roteamento e geração de células, estendendo o
+estado da arte com resultados inéditos;
+(ii) continuar o desenvolvimento e integração de ferramentas que empregam esses
+algoritmos formando um sistema completo de síntese física desenvolvido no Brasil e
+disponibilizá-lo para a comunidade local e internacional;
+(iii) dar continuidade à formação de recursos humanos especializados na criação e uso de
+ferramentas de automação de projeto eletrônico (EDA), que permitam à sociedade
+brasileira participar do processo de concepção de circuitos integrados
+preferencialmente nas atividades de maior impacto e valor intelectual.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Ricardo Augusto da Luz Reis - Coordenador / Marcelo de Oliveira Johann - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 25
+2003 - 2004
+Síntese e Verificação de Circuitos Integrados Digitais CMOS de Alto Desempenho
+Descrição: Projeto CAPES/MECD (Brasil/Espanha) nº 051/03. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto da Luz Reis - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2002 - 2005
+Síntese Automática de Circuitos Integrados Visando Alto Desempenho e Baixo Consumo
+Descrição: Projeto CAPES/ICCTI (Brasil/Portugal) nº 086/02. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto da Luz Reis - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2001 - 2004
+Concepção de Arquiteturas Multiprocessadores Mistas Hardware/Software
+Descrição: Projeto de Cooperação Brasil-França Capes/Cofecub nº 373/01.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto da Luz Reis - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2000 - 2005
+Sistemas Computacionais Dedicados Integrados - PRONEX
+Descrição: Os objetivos do projeto podem ser resumidos como:
+- solucionar os problemas relativos ao desenvolvimento de sistemas eletrônicos dedicados, desenvolvendo ferramentas que se apliquem a todas as fases do ciclo de projeto, implementação e teste: i) especificação,  projeto arquitetural, particionamento software-hardware, projeto lógico e projeto de circuitos integrados; ii) exploração de arquiteturas paralelas e desenvolvimento de sistemas distribuídos;   iii) projeto e análise visando confiabilidade do sistema de hardware-software final.
+- construir um laboratório de prototipação onde serão disponibilizados à comunidade industrial, de ensino e de pesquisa, diversos métodos de prototipação e teste de hardware de sistemas eletrônicos computacionais.
+- aplicação de metodologias de processamento paralelo e de microeletrônica para aplicações industriais de controle, automação e comunicação de dados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Augusto da Luz Reis - Coordenador.

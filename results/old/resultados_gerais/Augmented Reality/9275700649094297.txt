@@ -1,0 +1,27 @@
+2021 - Atual
+Estudo de métodos de separação de peças fabricadas por Manufatura Aditiva a Arco Elétrico
+Descrição: O presente projeto visa estudar alternativas para a separação entre o substrato e a peça produzida por MADA - Manufatura Aditiva por Depósito a Arco. Peças produzidas por MADA são realizadas sobre um substrato metálico, sondando-se múltiplas camadas de solda através de processos a arco, sendo um dos mais utilizados o processo MAG. Ao finalizar a peça, a mesma precisa ser separada do substrato, o que pode requerer mais etapas ao processo de fabricação e custos adicionais.  O presente projeto via estudar métodos que facilitem a separação entre a peça e o substrato, visando reduzir os custos de produção.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Paulo Cesar Okimoto - Coordenador / Felipe Danilo Santos - Integrante.
+2020 - Atual
+Soldagem no Estado Sólido de Materiais Dissimilares
+Descrição: O presente projeto visa estudar a soldagem de materiais dissimilares como aço carbono, aço inoxidável, ligas de cobre e ligas de alumínio pelo processo de fricção rotativa.
+Juntas dissimilares tem aplicações na fabricação de vários tipos de componentes, tais como conectores, eletrodos, válvulas, etc. Para estas aplicações, a solda por fusão nãó é adequada, devido a compatibilidade metalúrgica dos materiais. Neste caso, a Soldagem no estado sólido apresenta ótimos resultados, com junta soldadas de excelente qualidade. 
+O objetivo deste projeto é estudar a influência das variáveis da soldagem em diferentes tipos de juntas dissimilares.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Paulo Cesar Okimoto - Coordenador.
+2019 - Atual
+Estudo para recuperação de eletrodos de cobre utilizados em solda por resistência por pontos e projeção
+Descrição: O presente projeto busca analisar o fenômeno do desgaste observado em eletrodos de cobre durante as soldagens de chapas automotivas galvanizadas, e com isto estabelecer um procedimento de recuperação destes eletrodos, visando reduzir custos de produção.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (1) . Integrantes: Paulo Cesar Okimoto - Coordenador / Milena Aparecida Sanches - Integrante / Aramis Cesar Schoemberger Junior - Integrante / Guilherme Gabriel dos Santos - Integrante.Número de produções C, T & A: 1
+2007 - 2010
+Estudo de tratamentos térmicos aplicados a aços de trabalho a quente
+Descrição: Aços para trabalho a quente são extensamente utilizados na conformação de aços, ligas de alumínio e de cobre. A vida útil das matrizes de conformação a quente dependem do tratamento térmico realizado, pois este controla a microestrutura do material. O presente projeto visa desenvolver tratamentos térmicos adequados para aumentar a vida útil de matrizes fabricadas com o aço H13.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Paulo Cesar Okimoto - Coordenador.Número de produções C, T & A: 1
+2007 - 2008
+Estudo de rendimentos de deposição em soldagem MIG/MAG
+Descrição: O projeto visa estudar os rendimentos de deposição obtidos pelo processo MIG/MAG em transferencia por pulverização, arco forçado e pulsado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Paulo Cesar Okimoto - Coordenador / Alex Dobignies - Integrante.Número de produções C, T & A: 2
+2003 - 2009
+Soldagem de aços inoxidáveis martensíticos macios
+Descrição: O projeto visa buscar formas de soldar os aços mertensíticos macios, de forma a aumentar a tenacidade, para melhorar o desempenho de equipamentos frente a altas tensões mecânicas. Foram utilizados os processos MIG pulsado e convencional, além do processo TIG, e foram verificadas a influência do processo nas propriedades mecânicas das juntas soldadas,. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Paulo Cesar Okimoto - Coordenador.Número de produções C, T & A: 2
+2003 - 2006
+Soldagem a ponto de chapas gavanizadas automotivas
+Descrição: O projeto visa estudar o desgaste dos eletrodos de ligas de cobre durante a soldagem de chapas galvanizadas automotivas, e sua influência na qualidade do ponto de sodla. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Paulo Cesar Okimoto - Coordenador / Hideraldo Luiz Osorio Branco - Integrante / Marjorie Yokomizo - Integrante.Número de produções C, T & A: 2
+2003 - 2004
+Soldagem de chapas galvanizadas pelo processo MIG Brazing
+Descrição: Foram estudados os efeitos dos variáveis de processo (tipo de gás de proteção, corrente, corrente e velocidade de soldagem) sobre o perfil de cordões obtidos em chapas galvanizadas pelo processo MIG Brazing. 
+Foram testadas ainda a resistência a corrosão em ensaios de névoa salina, além de caracterização macro e microestrutural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Cesar Okimoto - Coordenador / Alex Dobignies - Integrante / Danielle Bond - Integrante.Número de produções C, T & A: 3

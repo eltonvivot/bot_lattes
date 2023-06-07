@@ -1,0 +1,9 @@
+2016 - Atual
+Avaliação das Tecnologias Embarcadas em VANTs, Aplicações, Legislação e Proposta de Construção de uma Aeronave
+Descrição: Trata-se de uma proposta de construção de um modelo de aeronave do tipo VANT (Veículo Aéreo
+Não Tripulado), visando baixo custo em estrutura e inteligência embarcada. A pesquisa envolve
+avaliar questões relacionadas à Legislação que regula os VANTs, modelos e categorias, principais
+aplicações operacionais e conceitos de hardware e software embarcados nas aeronaves. Um esquema de montagem da estrutura e seus componentes será apresentado, disponibilizado em arquivo formatado contendo as informações básicas para desenvolver o projeto. Ao final, pretende-se apresentar a viabilidade da pesquisa na forma de um relatório de conclusão e avaliar a mesma em um evento técnico-científico.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alex Luiz de Sousa - Coordenador / Vivian Cremer Kalempa - Integrante / Mário Ezequiel Augusto - Integrante.
+2014 - Atual
+Monitoramento de nível de rio utilizando microcomputador, sensor ultrassônico e comunicação celular (CPA-10889/2014)
+Descrição: Este projeto tem como objetivo criar um sistema que consiga prever, em tempo reduzido, o aumento dos rios, e disponibilizar a informação à população e até mesmo a própria instituição do corpo de bombeiros, sobre a previsão de cheias nos rios, com o intuito de que, comerciantes e população em geral consigam salvar parte de seus pertences, ou simplesmente fujam para se abrigar em lugares protegidos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alex Luiz de Sousa - Integrante / Mário Ezequiel Augusto - Coordenador.

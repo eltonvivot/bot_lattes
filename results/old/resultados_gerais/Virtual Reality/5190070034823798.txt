@@ -1,0 +1,51 @@
+2022 - Atual
+Projeto Sistemas Fotovoltaicos no contexto de Microrredes, Agregadores e Usinas Virtuais
+Descrição: O projeto e implantação da microrrede do Campus ICTE, Unidade II, visa o desenvolvimento de um sistema de gerenciamento de dados elétricos aplicados a uma VPP (Virtual Power Plant), a ser desenvolvida no Instituto de Ciências Tecnológicas e Exatas da Universidade Federal do Triângulo (ICTE-UFTM). Para tanto, faz-se necessário o desenvolvimento de uma ferramenta computacional que permita a programação da operação diária de microrrede de forma integrada com a rede de distribuição ativa considerando o gerenciamento pelo lado da demanda.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Arnaldo José Pereira Rosentino Junior - Integrante / Fabrício Augusto Matheus Moura - Coordenador / Marcus Vinícius Borges Mendonça - Integrante / Danillo Borges Rodrigues - Integrante / RIMOLDI DE LIMA, RODRIGO - Integrante / VICENTE DE PAULO SOBRINHO, ELDER - Integrante / LEANDRO CRUVINEL LEMES - Integrante / Lucas Pereira Pires - Integrante.Financiador(es): Secretaria de Estado e Educação de Minas Gerais - Auxílio
+										financeiro.
+2020 - Atual
+Desenvolvimento de metodologia utilizando o conceito BIM (Building Information Modeling) aplicada a projetos de subestações integrado à Sistema de Inteligência Geográfica (SIG) e ao Enterprise Resource Planning (ERP)
+Descrição: Metodologia BIM para projeto, construção e manutenção de Subestações de Energia Elétrica,
+conforme padrões do setor elétrico brasileiro, baseada em catálogos (bibliotecas de objetos) de
+componentes eletromecânicos e projetos existentes, associada a um processo de validação destes modelos
+quanto às funcionalidades desejadas para tais Subestações. Também será realizada a associação dos
+modelos BIM (de componentes das Subestações) a serem desenvolvidos no projeto, em unidades de
+cadastro de um ativo (neste caso a subestação), tal qual são representadas no Módulo PM do ambiente
+SAP (Cadastro de Ativos), assim como relacionar esses mesmos modelos BIM a representação espacial
+desse mesmo ativo no Sistema de Informações Geográficas dos Ativos de Furnas - GISFurnas (ESRI).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Arnaldo José Pereira Rosentino Junior - Integrante / Alexandre Cardoso - Coordenador / GERSON FLAVIO MENDES DE LIMA - Integrante / DIOGO MARTINS AZEVEDO - Integrante / Edgard Afonso Lamounier Júnior - Integrante / Andre Luis de Araujo - Integrante / Camilo de Lellis Barreto Júnior - Integrante / Victor Biagiotti Saint Martin - Integrante / Matheus Alves Dariva - Integrante / Mauro Borges França - Integrante / Leandro Resende Mattioli - Integrante / Gabriel Fernandes Cyrino - Integrante / José Júlio Morais Melazzo - Integrante / Lucas de Freitas Faria - Integrante / Victor Barbosa Gonçalves - Integrante / Leonardo Nery Carrijo dos Santos - Integrante / João Batista Rodrigues de Melo - Integrante / Cinara Fagundes Paranhos Matos - Integrante / Claudemir José Alves - Integrante.Financiador(es): Furnas Centrais Elétricas SA - Bolsa.
+2019 - 2020
+Cidades Inteligentes ? Controle de iluminação pública através de rede LoRa
+Descrição: Montar Node (nós) inteligentes, em cinco postes de iluminação pública, para a automação 4.0, sendo controlados através de Gateway inteligente, com protocolo de comunicação LoRa (Long Range), supervisionados por software especialista de controle de iluminação inteligente. Testes dos sistemas emdiversas condições de distância de 1 a 5 km e barreiras de interferência, com relação à comunicação.
+Testes das variáveis de controle do sistema, tais como liga/desliga, informações de defeito e variáveis elétricas e de telecomunicação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Arnaldo José Pereira Rosentino Junior - Coordenador / Clariton Rodrigues Bernadelli - Integrante / Gustavo Riccioppo - Integrante.
+2019 - Atual
+Estudo da geração de harmônicos não característicos em parques eólicos e complexos fotovoltaicos
+Descrição: Descrição: Verifica-se, atualmente, um grande crescimento no número de conexões de parques eólicos e complexos fotovoltaicos, sendo também considerável, o aumento da injeção de potência por partes deste tipo de geração renovável no sistema elétrico brasileiro, seja por meio de grandes empreendimentos (fazendas e parques), seja através da chamada geração distribuída (micro e mini). Sabe-se que tais arranjos, quando trifásicos, são caracterizados por possuírem conversores eletrônicos para o interfaceamento desta tecnologia com a rede da concessionária de transmissão ou distribuição. Estes conversores trifásicos geram, devidos às suas características intrínsecas, harmônicos de composição 6k+/-1, ou seja, harmônicos de 5ª, 7ª, 11ª, 13ª, 17ª, 19ª ordens, etc. Todavia, percebe-se, por meio de medições em campo, que além destes harmônicos ditos característicos tem-se, comumente, encontrado harmônicos de 2ª, 3ª, 4ª e outras ordens ou ainda inter-harmônicos. Estes são conhecido como harmônicos não característicos. Tais harmônicos requerem alguns cuidados especiais, haja vista que a maioria dos sistemas de filtragem, num primeiro momento, não os consideram para efeito de mitigação. O presente estudo pretende explorar a geração destes harmônicos não característicos em parques eólicos e complexos fotovoltaicos, suas causas, seus efeitos e também sua propagação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Arnaldo José Pereira Rosentino Junior - Integrante / Ivan Nunes Santos - Coordenador / Celso Rosa de Azevedo Júnior - Integrante / Raquel Cristina Filiagi Gregory - Integrante / Camila de Sousa Chaves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2018 - Atual
+Subestação Subterrânea Hermética, Pressurizada, Automatizada e Isolada
+Descrição: A presente invenção trata-se de uma subestação subterrânea hermética
+pressurizada automatizada e isolada, a qual permite uma redução no custo dos
+equipamentos instalados no interior da subestação. A subestação em questão torna
+possível a instalação de equipamentos principalmente IP 00, que são destinados a
+ambientes comuns, com montagem prévia e tempo de implantação reduzido. Além
+disso, apresenta automação para monitoramento e operação à distância, bem como
+acessos à seccionamento manual pela superfície, que garantem maior segurança de
+operação e manutenção.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Arnaldo José Pereira Rosentino Junior - Integrante / Ivan Nunes Santos - Coordenador / Paulo Henrique Oliveira Rezende - Integrante / DELAIBA, ANTONIO C. - Integrante / Pedro Nishida - Integrante / Arthur Antunes - Integrante / Alan Petronio - Integrante / Celso Rosa de Azevedo Júnior - Integrante / Camila de Oliveira Dias - Integrante / Vinícius Henrique Farias Brito - Integrante / Bárbara Morais Gianesini - Integrante / Hélder de Paula - Integrante / Luiz Soares - Integrante / Renato F Fernandes - Integrante / Guilherme Daher da Cunha Oliveira - Integrante / Cinara Fagundes - Integrante / Hermano Santos Costa - Integrante.Financiador(es): CEB Distribuição - Auxílio
+										financeiro.
+2015 - 2016
+PROPeq 67/2016 - Análise dos enrolamentos de transformadores no contexto de suportabilidade mecânica devido às elevadas correntes transitórias
+Descrição: Propor uma metodologia analítica simples e prática para avaliação da operação de transformadores no contexto da suportabilidade mecânica devido à elevadas correntes transitórias.Dar subsídios para o monitoramento de transformadores antes da utilização de técnicas de alto custo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Arnaldo José Pereira Rosentino Junior - Coordenador / DELAIBA, ANTÔNIO C. - Integrante.Número de produções C, T & A: 3
+2012 - 2014
+Modelagem de um Vetor Econômico para a Qualidade do Serviço
+Projeto certificado pela empresa Energisa  em 02/12/2014.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Arnaldo José Pereira Rosentino Junior - Integrante / José Rubens Macedo Junior - Coordenador / Joao Areis Ferreira Barbosa Junior - Integrante / Fabricio Parra Santilio - Integrante / GONDIM, ISAQUE NOGUEIRA - Integrante.Financiador(es): Energisa - Auxílio
+										financeiro.
+2011 - 2014
+Desenvolvimento de Software para Simulação e Análise dos Distúrbios da Qualidade da Energia Elétrica no Contexto do PRODIST
+Projeto certificado pela empresa Energisa  em 02/12/2014.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Arnaldo José Pereira Rosentino Junior - Integrante / José Rubens Macedo Junior - Coordenador / Carlos Eduardo Tavares - Integrante / Isaque Nogueira Gondin - Integrante / Joao Areis Ferreira Barbosa Junior - Integrante / Fabricio Parra Santilio - Integrante.Financiador(es): Energisa - Auxílio
+										financeiro.
+2008 - 2012
+Estresse Eletromecânico em Transformadores Causado Pelas Altas Correntes de Energização (?Inrush?) e de Curtos-Circuitos ?Passantes?
+Projeto certificado pela empresa Companhia Hidro Elétrica do São Francisco em 02/12/2014.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Arnaldo José Pereira Rosentino Junior - Integrante / Antônio Carlos Delaiba - Coordenador / Marcelo Lynce - Integrante / Elise Saraiva - Integrante / Ana Claudia Azevedo - Integrante / Damásio Fernandes Júnior - Integrante / Washington Neves - Integrante / GUIMARÃES, RONALDO - Integrante / DE OLIVEIRA, JOSÉ C. - Integrante.Financiador(es): Companhia Hidro Elétrica do São Francisco - Auxílio
+										financeiro.

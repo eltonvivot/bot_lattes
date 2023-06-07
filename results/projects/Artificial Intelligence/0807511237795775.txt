@@ -1,0 +1,336 @@
+2022 - Atual
+CuRes - Customizando Refatoramentos de Software: Fundamentação e Automatização
+Descrição: Refatoração (ou refatoramento) é uma prática adotada por empresas de desenvolvimento de software para melhorar a qualidade dos seus programas. Empresas fluminenses, assim como grandes empresais, incluindo Google, IBM e Microsoft, usam esta prática rotineiramente com o objetivo de reduzir custos e viabilizar manutenção e evolução de programas. Entretanto, programas comumente precisam de sofrer refatorações customizada, isto é, sequência não-triviais de transformações contextualizadas à diferentes partes de cada programa. Estudos relatam que os desenvolvedores de software frequentemente aplicam refatoração customizada de forma incompleta, ineficaz ou equivocada, causando diversos efeitos indesejáveis, tais como a aceleração da degradação da qualidade do programa. Portanto, desenvolvedores precisam de suporte automatizado para aplicar refatoração customizada de forma eficaz. A literatura técnica não provê fundamentação teórica, assim como não há suporte automatizado eficaz para apoiar esta prática em escala industrial. A falta de uma teoria sobre refatoração customizada vem impedindo pesquisadores de investigar técnicas automatizadas eficazes. Para isso, o projeto CuReS (Customizando Refatoramentos de Software: Fundamentação e Automatização) objetiva: a) prover um arcabouço conceitual para refatoração customizada; b) desenvolver uma teoria que explique como refatorações customizadas são realizadas na prática; c) propor heurísticas para identificação automatizada de refatorações sequencias existentes em um programa; d) avaliar e classificar o impacto em qualidade de refatorações customizadas; e) propor um sistema recomendador para refatorações customizadas. Através do recomendador proposto, desenvolvedores de software poderão aplicar refatorações customizadas de forma eficaz, melhorando a qualidade dos seus programas. Ao manter a pesquisa alinhada com necessidades da indústria fluminense, nossos resultados serão úteis para melhorar a produtividade das empresas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (5)  / Doutorado: (5) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2022 - Atual
+Infracidades - Trilha Humanização em Engenharia de Software
+Descrição: No mundo de hoje quase tudo envolve o uso de software, incluindo os vários domínios da Engenharia. O Estado do Rio de Janeiro é um dos maiores produtores de software no Brasil. O sucesso de sistemas de software é diretamente dependente da saúde mental dos engenheiros, em particular dos profissionais de engenheira de software. No entanto, pouco se estuda sobre as relações entre o desempenho do engenheiro de software, a qualidade do software produzido e os aspectos interpessoais, psicológicos e emocionais. Enquanto aspectos técnicos são vastamente estudados, o lado humano do engenheiro de software é pouco efetivamente compreendido e considerado nos trabalhos em equipe e nas plataformas de apoio a engenharia de software. O objetivo geral dessa linha é estudar e relativizar a importância de todos estes aspectos quanto a desempenho do engenheiro de software e a qualidade do software produzido. Os estudos darão ênfase a algumas atividades rotineiras do engenheiro de software, tais como (re)estruturação do projeto de software, resolução de bugs e resolução problemas não-funcionais associadas ao código-fonte, tais como robustez, desempenho e segurança.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (6) . Integrantes: Alessandro Fabricio Garcia - Integrante / Carlos José Pereira de Lucena - Coordenador.Financiador(es): Governo do Estado do Rio de Janeiro - Auxílio
+										financeiro.
+2020 - Atual
+ReComp - Refatoração Composta de Software: Fundamentação e Automatização
+Descrição: Este projeto visa realizar uma série de estudos empíricos, quantitativos e qualitativos, para formular uma teoria sobre refatoração composta.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (9) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - 2022
+RefaSer - Refatoramento Sequencial de Software: Fundamentação e Automatização
+Descrição: Fundamentação teória e apoio ferramental para refatoração sequencial de software. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (8) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.
+2019 - Atual
+Engenharia de Software de Sistemas Multiagentes e as Novas Demandas Tecnológicas
+Projeto certificado pelo(a) coordenador(a) Carlos José Pereira de Lucena em 12/09/2022.
+Descrição: O projeto proposto envolve temas de pesquisa emergentes que vêm sendo explorados em estudos e publicações no domínio da Engenharia de Software de Sistemas Multiagentes (ESSMA). A ESSMA aborda o desenvolvimento de sistemas de software que ao longo dos últimos anos deixaram de ser isolados e puramente reativos para se tornarem abertos, autônomos, altamente interativos, distribuídos e sensíveis ao contexto. Essas características requerem novas abordagens que viabilizem a construção destes sistemas. Os Sistemas Multiagentes (SMAs) surgiram como uma abordagem promissora para o desenvolvimento de sistemas complexos e distribuídos com tais características. O projeto inclui também o refinamento de pesquisas em tecnologias inovadoras de software, em andamento no laboratório desde as duas últimas décadas, e a exploração de domínios de interesse atual relacionados à ESSMA, como, por exemplo, novos domínios de aplicação como Engenharia de Software para os Futuros Sistemas Clínicos e de Cuidado com a Saúde e a Engenharia de Software Empírica e Experimental para Sistemas Distribuídos, além de tecnologias específicas, tais como Internet das Coisas, Interfaces Conversacionais e Blockchains. Este projeto conta com a participação de um grupo de professores, doutorandos, mestrandos e colaboradores do Departamento de Informática (DI) da PUC-Rio, além de pesquisadores de outras instituições com os quais o LES mantém colaboração.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Integrante / Elder Cirilo - Integrante / Ingrid Nunes - Integrante / Carlos Lucena - Coordenador / Marx Viana - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - Atual
+Plataforma Inteligente Baseada em Sistemas Multiagentes para Monitoramento em Tempo Real de Pacientes Internados em Unidades de Terapia Intensiva - UTIs
+Descrição: O presente projeto de pesquisa tem como objetivo o desenvolvimento experimental de uma Plataforma independente, com arquitetura baseada em Sistemas Multiagentes, de apoio colaborativo à análise e ao gerenciamento médico preventivo e emergencial de pacientes internados em Unidades de Terapia Intensiva - UTIs, como também para o envio de alertas simultâneos a toda equipe intensivista, que pode estar em diferentes locais, de ocorrências de anomalias em sinais vitais monitorados, potencializando a tomada de decisão conjunta em tempo real, para a aplicação imediata de prescrição médica indicada à evolução do tratamento terapêutico do internado.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Integrante / Carlos José Pereira de Lucena - Coordenador.
+2019 - Atual
+MAssiSo - Modernização Assistida de Softwares Legados para Adoção de Tecnologias Disruptivas
+Descrição: A cidade do Rio de Janeiro e responsavel por concentrar uma parcela signi-
+cativa do desenvolvimento de software abrangendo cerca de 40% da produc~ao nacional.
+Muitos desses softwares se tornam legados: fornecem funcionalidades essenciais para organiza
+c~oes, porem usam tecnologias comumente defasadas. Ha uma grande diculdade
+em manter ou mesmo modernizar esses softwares, especialmente devido a degradac~ao estrutural
+que afeta o codigo. No entanto, varios desses softwares s~ao muito importantes
+para serem descartados. Para as organizac~oes manterem-se competitivas nos cenarios
+nacional e internacional, e crucial a modernizac~ao de softwares legados. A inclus~ao de
+novas tecnologias disruptivas, tais como microsservicos e Blockchain, ajuda a: (i) evitar
+a descontinuac~ao de softwares legados essenciais, e (ii) oferecer varias outras oportunidades
+para as organizac~oes. Para realizar tais modernizac~oes, refatorac~ao e a principal
+e mais desaadora atividade, visto que o nvel de degradac~ao de codigo legado requer
+reestruturac~oes complexas. O desenvolvedor ainda tem a necessidade de identicar quais
+refatorac~oes ser~ao mais adequadas para o sistema alvo, o que acaba se tornando uma tarefa
+dispendiosa e propensa a erros se feita manualmente. Estudos relacionados focam apenas
+na automatizac~ao de refatorac~oes simples. As tecnicas para incorporac~ao de tecnologias
+disruptivas deveriam prover um apoio automatizado para varias etapas de refatorac~oes
+complexas, considerando o contexto do sistema que esta sendo modernizado. Deste modo,
+o projeto MAssiSo visa: (i) realizar estudos com os sistemas legados da industria 
+uminense,
+que est~ao passando pelo processo de modernizac~ao; (ii) propor e desenvolver
+um sistema recomendador que auxilie no processo de refatorac~ao de codigo legado; (iii)
+investigar tecnicas de otimizac~ao e recomendac~ao que permitam a identicac~ao, aplicac~ao
+e reintegrac~ao de refatorac~ao em codigo legado, (iv) avaliar o impacto na qualidade do
+software apos a re-estruturac~ao proposta pelo recomendador. MAssiSo tem um grupo
+de quatro pesquisadores, que possuem diferentes bolsas de produtividade, alem de serem
+refer^encias internacionais nas areas de Engenharia de Software e Otimizac~ao.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (7) Doutorado: (6) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Leonardo Murta - Integrante / Marcos Kalinowski - Integrante / Thibaut Vidal - Integrante / Maria Vitoria de Lima Varejão - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2018 - Atual
+ReSTaurA - Refatoramento Sequencial: Teoria e Suporte Automatizado
+Descrição: O projeto ReSTaurA (Refatoramento Sequencial: Teoria e Suporte Automatizado) objetiva: (i) prover um arcabouço conceitual para refatoramentos sequenciais bem como conceitos relacionados; (ii) desenvolver uma teoria que explique como desenvolvedores realizam refatoramentos sequenciais na prática; (iii) propor heurísticas para identicação automatizada de refatoramentos sequencias existentes
+em um programa; (iv) avaliar o impacto em qualidade de refatoramentos sequenciais; (v) avaliar e classicar os refatoramentos sequenciais como positivos ou negativos com base no seu impacto em sintomas de degradação estrutural e (vi) propor um sistema de recomendação para a realização de refatoramentos sequenciais. Através dos resultados e, em particular, do uso do sistema recomendador proposto, os desenvolvedores poderão realizar refatoramentos sequenciais utilizando as novas abordagens propostas, melhorando a qualidade de seus programas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): CNPQ - Auxílio
+										financeiro.
+2017 - 2019
+Leveraging Gamification and Social Networks for Improving Prevention and Control of Zika
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Integrante / Alexander Romanovsky - Integrante / Baldoino Fonseca - Coordenador / Paolo Missier - Integrante.Financiador(es): Fundo Newton - Auxílio
+										financeiro.
+2016 - 2020
+ReSoM: Rejuvenescimento Arquitetural de Software Multilinguagem
+Descrição: O objetivo deste projeto é investigar heurísticas para re-estruturação de softwares escritos com múltiplas linguagens.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): CNPQ - Bolsa.
+2016 - 2020
+Rejuvenescimento de Software Multilinguagem
+Descrição: Os objetivos principais deste projeto são norteados pelo seguinte desafio de pesquisa: Como apoiar o processo de rejuvenescimento de software multilinguagem?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (4) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): FAPERJ - Bolsa.
+2015 - 2021
+CAReCo - Sistemas de Recomendação para Manutenção Colaborativa de Software
+Projeto certificado pelo(a) coordenador(a) Carlos José Pereira de Lucena em 04/01/2015.
+Descrição: O objetivo deste projeto ? entitulado CAReCo: Cooperação Acadêmica em Sistemas de Recomendação para Manutenção Colaborativa de Software ? é investigar como sistemas de recomendação podem apoiar efetivamente as tarefas de manutenção de software e contornar as limitações mencionadas anteriormente. Este objetivo será alcançado através de cooperações entre especialistas com atuação destacada em cada uma das áreas relevantes e que fazem parte das instituições integrantes ? PUC-Rio, UFAL, UFCG e UFAM. A equipe do projeto é formada por pesquisadores de Programas de Pós-graduação nestas quatro instituições, localizadas em três diferentes regiões do país: Sudeste, Nordeste e Norte. Além disso, cada um dos Programas possuem diferentes níveis de maturidade, tanto com relação aos seus cursos de Mestrado, como os de Doutorado. O coordenador geral é o Prof. Carlos José Pereira de Lucena (bolsista produtividade nível 1A do CNPq), que possui ampla experiência na coordenação de projetos multi-institucionais. Os coordenadores das três equipes de IES associadas são pesquisadores de excelente produtividade, com reconhecimento nacional e internacional em suas áreas de atuação bem como ampla experiência na condução de projetos.
+As contribuições técnicas esperadas do projeto CAReCo são: (i) sistemas de recomendação para auxiliar manutenção colaborativa de sistemas de software, (ii) métodos que apóiem avaliação da qualidade de uso de sistemas de recomendação, (iii) novos mecanismos de colaboração, integrados a ambientes de desenvolvimento, para agilizar atividades de manutenção de software, (iv) aplicação de técnicas avançadas de inteligência artificial e banco de dados para desenvolvimento de sistemas de recomendação que apoiem a manutenção colaborativa de software e (v) projeto e avaliação de sistemas de recomendação para apoio ao ensino e aprendizagem de manutenção de software. 
+As contribuições acadêmicas esperadas deste projeto são: (i) fortalecimento da cooperação existente entre pesquisadores dos Programas de Pós-Graduação emergentes da Computação ? UFAL, UFCG e UFAM ? e pesquisadores de um Programa de Pós-Graduação mais maduro ? PUC-Rio; (ii) fortalecimento destes Programas de Pós-Graduação emergentes; (iii) promoção do intercâmbio regional de pesquisa em diferentes áreas importantes da Ciência da Computação, a serem envolvidas no projeto, tais como: Engenharia de Software, Interação Humano-Computador, Inteligência Artificial, Bancos de Dados e Sistemas Colaborativos; (iv) atração de candidatos em potencial para concursos nas instituições de pesquisa e ensino dos Programas de Pós-Graduação emergentes envolvidos; (v) aumento da produtividade de todos os Programas envolvidos; (vi) construção de uma rede cooperativa de pesquisa para alavancar o ensino, a pesquisa e o desenvolvimento nas áreas citadas acima em regiões fora do eixo RJ-SP. Esta rede cooperativa deve promover uma maior interação e mobilização de pesquisadores e estudantes de Graduação e Pós-Graduação para a solução de novos desafios científico-tecnológicos. A histórica inserção internacional do Programa da PUC-Rio também contribuira para o aumento da internacionalização dos outros Programas participantes do projeto CAReCo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (8) Doutorado: (10) . Integrantes: Alessandro Fabricio Garcia - Integrante / Carlos José Pereira de Lucena - Coordenador / Alberto Raposo - Integrante / Hugo Fuks - Integrante / Rohit Gheyi - Integrante / Márcio Ribeiro - Integrante / Tayana Conte - Integrante / BARBOSA, SIMONE - Integrante / Clarisse Sousa - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2015 - 2020
+Manutenção de Linhas de Produtos de Software: Decompondo Interfaces Explícitas de Características
+Descrição: Linhas de produtos de software têm recebido vasta atenção na academia e na
+indústria de software nos últimos anos. Várias organizações brasileiras (por exemplo,
+Petrobras, Embraer e Embrapa) e alemãs (por exemplo, Bosch, Siemens e Lufthansa)
+aplicam tecnologias de linhas de produto como objetivos de aumentar o retorno em
+investimento, bem como acelerar e aumentar a qualidade da produção de software.
+Engenharia de linhas de produto de software tem como um dos seus objetivos criar
+produtos adaptados a partir de um conjunto reutilizável de ativos para satisfazer as
+necessidades dos clientes. Diversas abordagens de linhas de produto focam na
+decomposição de software em unidades modulares, chamadas de características (do inglês,
+features). Features são unidades de comportamento semanticamente coesas de um
+sistema de software. Duas tarefas recorrentes na manutenção de linhas de produto são a
+identificação e entendimento de dependência entre features no código-fonte. A identificação
+apropriada e o entendimento de elementos de programas envolvidos na dependência entre
+features é essencial para a manutenção independente de uma feature. Tais elementos de
+programas que contribuem para a comunicação entre features são considerados partes da
+chamada interface de uma feature. A representação explícita, bem como o entendimento da
+interface de uma feature possibilita ao desenvolvedor raciocinar de forma adequada sobre a
+manutenção de features como unidades modulares. O problema é que, no código-fonte, os
+limites das features não são os mesmos dos limites dos módulos de um programa (ex.,
+pacotes e classes). Nesse caso, o código das features podem se encontrar espalhados ao
+longo do código-base e, portanto, as interfaces das features não estão explícitas no código fonte. Além disso, após identificar tais elementos no código, desenvolvedores geralmente
+devem raciocinar sobre elementos de interfaces de features e abstrair elementos que não
+úteis para a realização da manutenção. Dessa forma, o principal objetivo deste projeto é a
+melhoria na representação da interface de features de forma a apoiar a manutenção do
+código de linhas de produtos. Este é um projeto de colaboração internacional Brasil-Alemanha envolvendo a PUC-Rio e a Universidade de Passau.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Bruno Cafeo - Integrante / Sven Apel - Integrante.Financiador(es): FAPERJ - Cooperação.
+2014 - 2018
+A Software Infrastructure for Promoting Efficient Entomological Monitoring of Dengue Fever
+Descrição: The goals of this project are: 
+1. Design and implement a software infrastructure to support monitoring of epidemic diseases such as Dengue fever;
+2. Enhance entomological monitoring of Aedes aegypti using mobile platforms and social networks. Public data informed by health agencies will be geo-located and used to build the Dengue fever map;
+3. Apply Data Analytics models on collected data to predict Dengue fever outbreaks and related events;
+4. Understand the spread patters of Dengue fever in real time using Data Analytics to better allocate public health resources;
+5. Understand different indicators that can support entomological surveillance: building infestation index by neighborhood, number of Dengue fever cases by district, and number of cases in the city by epidemiological week;
+6. Improve the coordination and communication across Brazilian and British government agencies with respect to the control of critical epidemic diseases (e.g. Dengue fever);
+7. Train human resources on conducting development and research in this field.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Fundo Newton - Auxílio
+										financeiro.
+2014 - 2018
+RASOM - Resolução de Anomalias Arquiteturais em Software Multi-Linguagem
+Descrição: O projeto RASoM (Resolução de Anomalias Arquiteturais em Software Multi-Linguagem) tem como objetivo investigar técnicas que apoiem as atividades de resolução de problemas arquiteturais em sistemas de software multi-linguagem, isto é, sistemas implementados com mais de uma linguagem (e paradigma) de programação. Este é um projeto de colaboração internacional envolvendo a PUC-Rio, University of Southern California (USC) e a University of California at Irvine (UCI).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Simone Barbosa - Integrante / Nenad Medvidovic - Integrante / Andre van der Hoek - Integrante / Helio Lopes - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2014 - 2018
+RAnArq - Resolução de Anomalias Arquiteturais em Programas
+Descrição: O projeto RAnArq (Resolução de Anomalias Arquiteturais em Programas) tem como objetivo investigar técnicas que apoiem as atividades de resolução de problemas arquiteturais. O projeto é financiado no contexto do Edital Universal.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2018
+TUTOR ORIENTADOR EM INFORMÁTICA EDUCATIVA: UTILIZAÇÃO DOS RECURSOS COMPUTACIONAIS NAS ESCOLAS
+Descrição: EDITAL FAPERJ Nº 34/2013 - PROGRAMA ?APOIO À MELHORIA DO ENSINO EM ESCOLAS DA REDE PÚBLICA SEDIADAS NO ESTADO DO RIO DE JANEIRO ? 2013?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (3)  / Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2014 - 2018
+RecArC - Recomendação de Anomalias de Código Arquiteturalmente Relevantes
+Descrição: O objetivo deste projeto colaborativo Brasil-Argentina é explorar a experiência complementar das duas equipes para investigar novas técnicas de recomendação de anomalias de código arquiteturalmente relevantes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (6) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Carlos José Pereira de Lucena - Integrante / Arndt von Staa - Integrante / Simone Barbosa - Integrante / Andrés Díaz Pace - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / MINCYT - Auxílio
+										financeiro.
+2014 - 2017
+AMPLIFICANDO A VIGILÂNCIA ENTOMOLÓGICA DA DENGUE:  REDES SOCIAIS E DISPOSITIVOS DISPOSITIVOS MÓVEIS
+Descrição: O presente projeto tem como objetivo amplificar a vigilância entomológica da Dengue, através a) da disponibilização de aplicação em dispositivos móveis como um meio para a sociedade notificar e visualizar em tempo real os casos de focos da dengue e b) através da mineração de dados das redes sociais mostrando a situação dos focos e outras informações correlacionadas ao mosquito da dengue.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (3)  / Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador.
+2013 - 2017
+AVALIAÇÃO SENSÍVEL A CARACTERÍSTICAS DE TÉCNICAS PARA DESENVOLVIMENTO DE LINHA DE PRODUTOS DE SOFTWARE
+Projeto certificado pelo(a) coordenador(a) Eduardo Figueiredo em 12/03/2013.
+Descrição: O objetivo deste projeto é investigar a eficácia de métricas sensíveis a interesses para avaliação de técnicas de desenvolvimento de linhas de produtos de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Integrante / Fabiano Ferrari - Integrante / Figueiredo, Eduardo - Coordenador.Financiador(es): Universidade Federal de Minas Gerais - Auxílio
+										financeiro.
+2013 - 2017
+Priorização de Anomalias de Código em Sistemas de Software
+Descrição: Os objetivos do projeto são norteados pelo desafio de pesquisa: ?Como apoiar desenvolvedores nos processo de priorização de anomalias estruturação no código fonte?? De forma a tratar este desafio, serão propostos mecanismos que permitam a priorização e ranqueamento de anomalias de código que são responsáveis por problemas de projeto no sistema de software sob análise. Este projeto se enquadra no contexto do Edital "Jovem Cientista do Nosso Estado".. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2012 - 2014
+GApplic - Gestão de Reuso de Aplicações
+Descrição: O gerenciamento de ativos de software (Software Asset Management ? SAM) é uma prática 
+recomendada que incorpora um conjunto de processos e procedimentos para gerenciar e
+otimizar os ativos de TI de organizações. As aplicações são os principais ativos de muitas
+organizaçõs e fazer um bom gerenciamento das suas informações trazem muitos ganhos.
+Desta forma, este projeto estará contribuindo com a recriação de uma arquitetura de
+gestão de ativos, bem como a remodelagem do catálogo de aplicações da Petrobras aser implementado em uma nova ferramenta, disponibilizando informações de forma
+mais integrada nas unidades desta organização e com maior qualidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Coordenador / Eiji Barbosa - Integrante / Isela Macía Bertrán - Integrante / Éverton Guimarães - Integrante / Willian Oizumi - Integrante / Bruno Cafeo - Integrante / Soeli Fiorini - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2011 - 2015
+DAnSis - Detecção de Anomalias em Sistemas de Software Evolutivos
+Descrição: Sistemas de software evolutivos são caracterizados por serem alvo constante de modificações de suas funcionalidades. As inclusões inadvertidas ou deliberadas de anomalias de modularidade nesses sistemas têm impacto negativo na manutenção, reuso e confiabilidade dos mesmos. Uma anomalia de modularidade é um problema estrutural no projeto ou implementação de sistemas, e a sua permanência acarreta em dificuldades de reuso e degenerações do projeto, possivelmente levando ao seu desuso e prejuízos incalculáveis para empresas de software. Estudos recentes revelam que até 90% das falhas em programas são causadas pela presença de anomalias de modularidade. Uma ampla série de domínios críticos de software para a economia do Estado do Rio de Janeiro têm sido alvo constante dos efeitos colaterais de anomalias de modularidade. Alguns exemplos destes domínios são aplicações de visualizações de dados, computação científica, informática médica, e famílias de programas  para a Web. Entretanto, as técnicas e ferramentas existentes para detecção  de anomalias não são adequadas para sistemas evolutivos nestes domínios por uma série de motivos, tais como: (i) não permitem explorar o histórico de modificações e outras informações associadas com a evolução dos programas, (ii) geram listas de candidatos a anomalias que usualmente são amplamente incorretas e ignoradas por serem irrelevantes para a geração das próximas versões do sistema, e (iii) não levam em consideração a evolução de decisões de projeto e históricos de execuções do sistema que não podem ser extraídas estaticamente do código fonte de uma versão única do programa. Neste contexto, este projeto visa buscar apoio para consolidação do grupo emergente DAnSis. O grupo tem por objetivo reunir um grupo de jovens pesquisadores com experiência em disciplinas complementares da Computação e áreas afins, e com o conhecimento necessário para concepção de técnicas e ferramentas eficazes para detecção de anomalias em sistemas evolutivos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (16) Doutorado: (12) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Renato Cerqueira - Integrante / Alberto Raposo - Integrante / Antônio Tadeu A. Gomes - Integrante / Leonardo Murta - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2011 - 2013
+ComDADO - Combatendo Degradação Arquitetural com Detecção Automática de Padrões de Anomalias de Modularidade
+Descrição: A hipótese recente é que sintomas de degradação arquitetural podem ser identificados a partir da análise da
+natureza das anomalias de modularidade em código fonte. Porém, têm sido
+observado que mecanismos existentes de detecção de anomalias não se mostram eficazes para apoiar aos
+desenvolvedores na identificação de problemas arquiteturais em sistemas de software. Desta forma, a
+identificação de tais anomalias é um trabalho, quando realizado, predominantemente manual. Esse cenário tem sido
+confirmado pelos relatos de nossos parceiros da indústria. Neste contexto, o desafio que norteia o
+projeto ComDADO é o seguinte: como melhorar a eficácia de detecção automática de anomalias de modularidade
+críticas a manutenibilidade de sistemas software?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (8) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2012
+GComp - Gestao de Componentes
+Descrição: Ao desenvolver software, construímos um produto para um usuário ou grupo de usuários, que automatiza tarefas ou resolve problemas particulares de uma área. Para que este desenvolvimento possa ser produtivo e de qualidade, é fundamental a adoção de um processo de desenvolvimento baseado em componentes - e suas ferramentas associadas.  Dessa forma, este projeto tem como objetivo a criação de um modelo de gestão de componentes para uso no desenvolvimento de software corporativo, bem como a definição de um processo de gestão de componentes Java e .NET.  Para tanto será definido um modelo conceitual da arquitetura de gestão e elaborado uma arquitetura de referência de gestão de componentes. Em resumo, os principais produtos que serão gerados pelo projeto são: (i) modelo conceitual de gestão de componentes de software; (ii) processo de gestão de componentes de software e (iii) arquitetura de referência de gestão de componentes de software.  Por último será feita uma seleção de ferramentas que serão usadas no processo de gestão de componentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Coordenador / Eiji Barbosa - Integrante / Isela Macía Bertrán - Integrante / Éverton Guimarães - Integrante / Bruno Cafeo - Integrante / Soeli Fiorini - Integrante.Financiador(es): Petrobrás Distribuidora - Matriz - Auxílio
+										financeiro.
+2010 - 2015
+CODES - Cooperação Acadêmica em Engenharia de Software e Sistemas para TV Digital
+Projeto certificado pelo(a) coordenador(a) Christina von Flach Garcia Chavez em 12/03/2013.
+Descrição: O desafio do projeto CODES é, através das experiências complementares dos grupos de pesquisa
+da UFBA e PUC-Rio, investigar adaptações de métodos, técnicas e ferramentas de Engenharia de
+Software na construção e evolução de aplicações convencionais para o contexto de aplicações
+específicas para a plataforma TVDI. Além disso, tendo em vista à complexidade inerente a sistemas de software para
+TVDI (infra-estrutura e aplicações), estes servirão como objetos
+ímpares de estudo para aplicação de técnicas emergentes da Engenharia de Software. Neste
+contexto, o projeto CODES tem importância científica e acadêmica. Do ponto de vista
+científico, o projeto é justificado por abordar um tema atual como eixo condutor,
+apresentando uma série de desafios importantes na concepção de técnicas para
+desenvolvimento de software para TVDI. Além disso, o projeto CODES permitirá reunir
+especialistas nas áreas de Engenharia de Software e de Sistemas (em particular, o Sistema
+de Televisão Digital Brasileiro) e domínios como Arquitetura de Software, Engenharia de
+Software Experimental, Linhas de Produtos, Sistemas Multimídia e Hipermídia. Do ponto
+de vista acadêmico, o projeto CODES prevê uma parceria entre dois programas de pós-graduação
+em Computação, sendo um bem estabelecido e consolidado, nacional e
+internacionalmente, e outro emergente, iniciado em 2007, seguindo um modelo inovador de
+interação (multiinstitucional). Este tipo de integração é exatamente um dos objetivos
+principais dos projetos de cooperação promovidos pela Capes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Integrante / Christina von Flach Garcia Chavez - Coordenador / Cláudio Sant'Anna - Integrante / Manoel Mendonça - Integrante / Luis Fernando Gomes Soares - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Auxílio
+										financeiro.
+2010 - 2014
+AMAComp - Avaliação Empírica de Mecanismos Avançados de Composição para Arquitetura de Software
+Projeto certificado pelo(a) coordenador(a) Arndt von Staa em 06/11/2013.
+Descrição: O principal objetivo deste projeto é avaliar empiricamente o impacto de
+mecanismos contemporâneos de programação modular na manutenibilidade
+de software: avaliar os pontos positivos e negativos dos novos mecanismos de
+programação orientada a aspectos em termos de propriedades desejáveis para
+manutenção ou evolução da arquitetura de software no código.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Integrante / Arndt von Staa - Coordenador / Carlos Lucena - Integrante / Yuanfang Cai - Integrante / Nenad Medvidovic - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Auxílio
+										financeiro.
+2010 - 2014
+CASA - Avaliação Empírica de Composição Avançada para
+Descrição: A pesquisa realizada no contexto do projeto CASA concentrou-se em avaliar sistematicamente a efetividade de novos mecanismos de composição. As avaliações visaram analisar tal efetividade sobre os prismas de desenvolvimento paralelo, reuso e manutenção de artefatos de software. Tais avaliações somente foram possíveis via investigação de métricas, heurísticas, modelos de qualidade, e ferramentas, desenvolvidos de forma colaborativa entre pesquisadores da PUC-Rio e da Universidade de Lancaster (Inglaterra).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Coordenador / Phil Greenwood - Integrante / Jon Whittle - Integrante / Pete Sawyer - Integrante / Francois Taiani - Integrante / Jaejoon Lee - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Auxílio
+										financeiro.
+2010 - 2013
+AVATAR - Avaliação e Evolução de Técnicas Contemporâneas para Programação Modular (Bolsa Produtividade)
+Descrição: Em resumo, os principais objetivos deste projeto são:
+1. Avaliar Empiricamente o Impacto de Mecanismos Emergentes de Modularização na Manutenibilidade de Software: avaliar os pontos positivos e negativos dos mecanismos de programacao orientada a aspectos e caracteristicas (features) em termos de propriedades desejáveis para manutenção ou evolução de software, tais como estabilidade de projeto e resistência a introdução de falhas.
+2. Definir um Arcabouço de Medição Sensível a Interesses: definir e avaliar novas métricas adequadas para analisar o impacto dos mecanismos modernos de programação modular na evolução de interesses e suas interações;  e
+3. Identificação de Adaptações e Elaboração de Recomendações para uso de Mecanismos Contemporâneos de Programação Modular: estender o conhecimento atual sobre técnicas avançadas de modularização através da catalogação de boas práticas empiricamente observadas, e identificar melhorias no projeto destes mecanismos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+TACOR - Técnicas Avançadas de Composicão para Software Orientado a Recuperação
+Descrição: Sistemas orientados a recuperação são desenvolvidos com a perspectiva de que falhas de hardware, software e operação são fatos que devem ser tratados.  Muitas destas falhas são inseridas durante o processo de desenvolvimento. Logo, torna-se fundamental a existência de um sistema orientado a recuperação com capacidade de proativamente emitir uma notificação sempre que um candidato à falha no código for observado ou mesmo informar que regras de projeto (regras arquiteturais) foram violadas. De forma a minimizar custos e acelerar desenvolvimento destas propriedades, estas devem ser implementadas de forma modular, adaptável e reutilizável. Além disso, estudos empíricos têm indicado que manifestação de faltas no código de sistemas de software deve-se freqüentemente à inexistência de modularidade de código dedicado a recuperação. No entanto, as técnicas convencionais de composição como herança e padrões de projeto deixam muito a desejar no que diz respeito à modularização do código de identificação de faltas ou violações de projeto.  Deste modo, justifica-se uma investigação do uso e adaptação dos mecanismos emergentes de programação modular, tais como: composição baseada em mixins, classes virtuais e aspectos para promover o desenvolvimento de código suficientemente modular, reutilizável e confiável ? algo imprescindível em sistemas orientados a recuperação. Nosso estudo vai ser desenvolvido em cooperação com a Minds at Work ? empresa de desenvolvimento de software orientado a recuperação em diferentes domínios de aplicações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Alessandro Fabricio Garcia - Integrante / Arndt von Staa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+SCiPro: Desenvolvimento de Software Científico com Qualidade e Produtividade
+Descrição: O avanço das plataformas de processamento de alto desempenho (PAD) tem modificado a forma de condução da pesquisa em diferentes áreas. A habilidade dos usuários de empregar eficientemente essas plataformas na construção de aplicações científicas é pelo menos tão importante quanto o aumento da capacidade computacional dessas plataformas. É importante notar, no entanto, que o desenvolvimento de software científico considerando-se somente atributos de qualidade como latência, precisão e escalabilidade, tipicamente observáveis em tempo de execução, não é suficiente para conferir ao software a qualidade e produtividade necessárias. Atributos de qualidade como nível de reuso, manutenibilidade e portabilidade, tipicamente observáveis em tempo de projeto, não só têm impacto direto em outros atributos relacionados a desempenho (como a escalabilidade), como a sua desconsideração gera aplicações cujo tempo de desenvolvimento e manutenção é típica e desnecessariamente longo. Dessa forma, o domínio da área de desenvolvimento de software científico torna-se imprescindível no rápido avanço da investigação de sistemas naturais, artificiais e socio-culturais complexos sob o enfoque de modelagem computacional. A adoção de técnicas avançadas de desenvolvimento de software no contexto de aplicações científicas implica em um trabalho de longo prazo, envolvendo não só a adaptação das técnicas em si a esse contexto, como também o treinamento dos usuários no emprego das mesmas, haja vista o perfil típico desses usuários (predominantemente matemáticos, físicos, engenheiros, etc). Nosso objetivo geral, a longo prazo, é tirar proveito da multidisciplinaridade do grupo de pesquisadores participantes deste projeto para abordar o problema do desenvolvimento de software científico com qualidade e produtividade sob um enfoque não somente de engenharia de software, mas também de emprego direto dos resultados obtidos com este projeto no suporte ao desenvolvimento de modelos computacionais inovadores. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Especialização: (1)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Alessandro Fabricio Garcia - Integrante / A. Gomes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2011
+MDEvol - Melhorando a Evolução e o Reuso de Artefatos em MDD
+Descrição: Este projeto tem o intuito de investigar e desenvolver técnicas eficazes para reuso, manutenção e evolução de artefatos com MDD. Em curto prazo, espera-se identificar quais são os principais problemas vivenciados por desenvolvedores atualmente na manutenção e evolução de modelos, geradores de código, e do próprio código em plataformas MDD. O projeto seguirá uma abordagem empírica para diagnosticar tais problemas, através de questionários, entrevistas e estudos de caso com usuários e projetos associados com os ambientes MDD, tais como o MDArte. A partir de tal investigação inicial, o projeto envolverá a concepção de técnicas eficazes para modelagem e geração de código de propriedades transversais, e suporte à manutenção de código gerado, tais como métricas e estratégias semi-automáticas para identificação de anomalias de código. Estas técnicas serão, em princípio, integradas com a plataforma MDArte. As melhorias serão baseadas nas práticas de desenvolvimento e nas necessidades presentes na indústria, assim como no conhecimento compartilhado pela comunidade de MDD. Além disso, as melhorias serão disponíveis para uso e possível adaptação pelos pesquisadores e desenvolvedores, conforme necessário. Portanto, o projeto abordará tanto questões de pesquisa em aberto, quanto à solução destas questões na prática.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Francisco Dantas - Integrante / Eiji Barbosa - Integrante / Kleinner Farias - Integrante / Leandra Dias - Integrante / Alessandro Gurgel - Integrante / Éverton Guimarães - Integrante.Financiador(es): Marinha do Brasil - Auxílio
+										financeiro.
+2009 - 2014
+INES, Definição de um Testbed para o Desenvolvimento de Software
+Descrição: O objetivo geral deste projeto é contribuir para o avanço da Engenharia de Software como disciplina, e, especificamente, desenvolver uma metodologia para a construção de um ambiente, com o intuito de auxiliar o planejamento de estudos empíricos. Tais experimentos formarão uma série de achados científicos, com a finalidade de dar suporte às tomadas de decisões em relação ao uso de novas tecnologias que se mostram bastante promissoras, por exemplo, o desenvolvimento de software orientado a aspectos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (2)  / Doutorado: (1) . Integrantes: Alessandro Fabricio Garcia - Integrante / Paulo Borba - Integrante / Sérgio Soares - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+Avaliação do emprego de métricas em diferentes estilos arquiteturais de linha de produto de software
+Descrição: Este projeto tem o objetivo de avaliar como métricas existentes de modularidade (e outros atributos internos de qualidade) permite extrair informações importantes para manutenção e evolução de diferentes tipos de arquiteturas de linhas de produtos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Alessandro Fabricio Garcia - Integrante / Paulo Cesar Masiero - Integrante / T. Colanzi - Coordenador / I. Gimenes - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+Futuro da Tecnologia de Software e suas Aplicações: Nova Geração de Paradigmas, Arquiteturas e Implementações de Software
+Descrição: Este projeto visa desenvolver técnicas para, (a) modelar e compreender complexos sistemas interativos, (b) especificar como construir sistemas de informação computacionais para aperfeiçoar estes sistemas, (c) gerenciar a construção de componentes para sistemas de informação, e (d) assegurar que procedimentos foram definidos para o teste continuado e manutenção de sistemas em fase de operação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (3) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Carlos José Pereira de Lucena - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2009 - 2012
+Avaliação e Adaptação de Técnicas Emergentes para Programação Modular Avançada
+Descrição: Mecanismos contemporâneos de modularização, tais como programação orientada a aspectos (POA) e programação orientada a características (POC), são vistos como uma promessa de melhoraria de produtividade e manutenibilidade de sistemas computacionais. Tal promessa é motivada por tais mecanismos tratarem interesses de software relacionados à distribuição, tratamento de exceções, segurança e persistência de dados de uma forma mais modular. Porém, a falta de estudos empíricos representa um dos principais limitadores para o entendimento e adoção de tais mecanismos na indústria de desenvolvimento de software. Diante deste cenário, desenvolvedores de software não têm disponível diretivas de boas práticas que o auxiliem na construção de softwares estáveis e confiáveis. Neste contexto, os esforços deste projeto serão direcionados para alcançar quatro objetivos: (1) executar um conjunto de estudos empíricos com a finalidade de avaliar tais mecanismos em termos de propriedades que definem a capacidade de evolução de um software; (2) identificar e construir um novo método de medição para suportar o primeiro objetivo, focado em avaliação sensível a interesses; (3) definir uma lista de boas práticas com a finalidade de promover uma adoção de mecanismos avançados de modularização de uma forma mais consciente; e (4) definir, ou adaptar, novos mecanismos de modularização baseado em conhecimento empírico obtido com o primeiro objetivo e na realização do terceiro objetivo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Coordenador / Jon Whittle - Integrante / Christa Schwanninger - Integrante / Mira Mezini - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2009 - 2011
+REACT - Recuperação de Erros em Sistemas Assíncronos Sensíveis ao Contexto
+Descrição: O objetivo do projeto REACT é investigar novos mecanismos e modelos para aperfeiçoar a construção de aplicações ubíquas sensíveis ao contexto. Em particular, o foco do projeto é investigar o uso da ciência de contexto no aprimoramento da caracterização e do tratamento de condições errôneas, com especial atenção aos desafios introduzidos pelo uso predominante de comunicação
+assíncrona. De fato, a literatura carece de modelos de tratamento de exceções adaptados para sistemas de comunicação assíncrona. Este projeto visa preencher esta lacuna, assim como investigar formas de facilitar o desenvolvimento desse tipo de aplicação, seja através de linguagens ou modelos de programação alternativos. Para tanto, a proposta do projeto consiste em repensar sob a ótica da construção de aplicações ubíquas confiáveis tanto as abstrações e mecanismos de tratamento de exceções como também as técnicas de tolerância a falhas, como ações atômicas coordenadas e replicação. Como resultado deste projeto, pretende-se produzir
+a implementação de um arcabouço para construção de sistemas assíncronos sensíveis ao contexto. Esse arcabouço será validado através da implementação de um conjunto de aplicações adotadas como estudos de caso.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4)  / Doutorado: (3) . Integrantes: Alessandro Fabricio Garcia - Integrante / Alexander Romanovsky - Integrante / Delano Medeiros Beder - Integrante / Renato Cerqueira - Coordenador / Maria de Fátima Mattielo-Francisco - Integrante / Jo Ueyama - Integrante / Geoffrey Coulson - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+MecCoM - Mecanismos Contemporâneos de Modularização:  Estudos Empíricos e Métricas
+Descrição: Técnicas contemporâneos para programação modular de sistemas software, tais como programação orientada a aspectos (POA) e programação orientada a características (POC), representam uma das mais importantes mudanças de paradigma na área de Engenharia de Software na última década. Estas técnicas vêm despertando o interesse de pesquisadores e profissionais da indústria de software, com a promessa de melhorar a produtividade e a manutenibilidade de sistemas computacionais. Através dos mecanismos de POA e POC, interesses relacionados a distribuição, tratamento de exceções, segurança e persistência de dados, por exemplo, são tratados de forma mais modular.  Entretanto, desenvolvedores de software não têm disponível diretivas de boas práticas para construir softwares estáveis e confiáveis com mecanismos contemporâneos de programação modular. Neste contexto, os esforços deste projeto serão direcionados para alcançar quatro objetivos: (1) executar um conjunto de estudos empíricos com a finalidade de avaliar tais  mecanismos em termos de propriedades que definem a capacidade de evolução de um software; (2) identificar e construir um novo método de medição para suportar o primeiro objetivo, focado em avaliação sensível a interesses; (3) definir uma lista de boas práticas com a finalidade de promover uma adoção de mecanismos avançados de modularidade de uma forma mais consciente; e (4) adaptar ou definir novos mecanismos de modularidade, baseado em conhecimento empírico obtido no primeiro objetivo e na realização do terceiro objetivo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (9) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Carlos José Pereira de Lucena - Integrante / Arndt von Staa - Integrante / Jon Whittle - Integrante / Jose Carlos Maldonado - Integrante / Christa Schwanninger - Integrante / Mira Mezini - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+Avaliação Sensível a História de Linhas de Produto de Software
+Descrição: O projeto tem o objetivo de investigar métricas e heurísticas sensíveis a história da linha de produto para identificação de anomalias de projeto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2009
+Composição Avançada de Modelos de Software
+Descrição: Este projeto tem o objetivo de investigar mecanismos adequados para avaliar e comparar técnicas avançadas de composição de modelos. Este projeto está sendo financiado pelo CNPq através do recebimento de um pesquisador de amplo reconhecimento internacional na área de composição de modelos, o Prof. Jon Whittle.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (4) . Integrantes: Alessandro Fabricio Garcia - Coordenador / C. Nunes - Integrante / Francisco Dantas - Integrante / Jon Whittle - Integrante / Kleinner Farias - Integrante / Marcos Tadeu - Integrante / Leandra Dias - Integrante.
+2008 - 2012
+Desenvolvimento de Linhas de Produtos de Software usando Técnicas Orientadas a Aspectos
+Projeto certificado pelo(a) coordenador(a) Paulo Henrique Monteiro Borba em 12/03/2013.
+Descrição: O objetivo central desse projeto de cooperação científica é promover o intercâmbio entre membros de grupos de pesquisa atuando na área de Desenvolvimento de Software Orientado a Aspectos (DSOA) e Linhas de Produtos de Software (LPS).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandro Fabricio Garcia - Integrante / Carlos Lucena - Integrante / Paulo Borba - Coordenador / Paulo Cesar Masiero - Integrante / Thais Batista - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Auxílio
+										financeiro.
+2008 - 2010
+DiVA: Dynamic Variability in Adaptive Systems
+Descrição: The goal of this project is to exploit the use of aspect-oriented techniques and model-driven softare development for enhancing support for dynamic variability.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (9) . Integrantes: Alessandro Fabricio Garcia - Integrante / Awais Rashid - Coordenador.Financiador(es): European Commission - Auxílio
+										financeiro.
+2008 - 2010
+EA-Analyser: A Multiagent Approach for Analysing Early Aspects
+Descrição: The main goal of this project is to use the multi-agent system technology for developing partially or fully automated tools for aspect-oriented requirements engineering.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Alessandro Fabricio Garcia - Integrante / Awais Rashid - Coordenador.Financiador(es): European Commission - Bolsa.
+2008 - 2009
+Sistemas Multi-Agentes para Domínios Complexos ? Análise de Risco Geo-Ambiental
+Descrição: Este projeto visa o estudo de modelos computacionais de agentes, a pesquisa em técnicas de engenharia de software para sistemas multi-agentes e a aplicação da tecnologia de agentes para construir uma plataforma de software integrada para a análise de risco geo-ambiental.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Alessandro Fabricio Garcia - Integrante / Carlos Lucena - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Modelagem Computacional de Sistemas Biológicos e Sociais Baseada em Sistemas Multiagentes
+Descrição: Os sistemas multiagentes são um novo paradigma para a engenharia de software de sistemas complexos e distribuídos. Este projeto se situa na área da análise, especificação e desenvolvimento de modelos, algoritmos e ferramentas computacionais para solução de sistemas complexos nos domínios biológicos, ambientais e sociais utilizando Sistemas Multiagentes. Serão tratados problemas tais como a simulação e visualização do comportamento evolutivo de células tronco; simulações e jogos de papéis baseadas em agentes computacionais para a gestão participativa de áreas protegidas (p.e. parques nacionais no Brasil) e o desenvolvimento de novas possibilidades de interação, inovação e criação de conteúdo de forma colaborativa em comunidades virtuais de larga escala.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (10)  / Doutorado: (5) . Integrantes: Alessandro Fabricio Garcia - Coordenador / Carlos José Pereira de Lucena - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+EVA: Estilos, Visões e Aspectos em Arquitetura de Software
+Descrição: Este projeto de pesquisa tem como objetivo geral investigar se a combinação entre os conceitos de estilos, visões e aspectos, no contexto de composição arquitetural, pode trazer benefícios para a modularidade e estabilidade de arquitetura de software. Este projeto dá continuidade a iniciativas do nosso grupo de pesquisa, que busca investigar de que maneira aspectos podem ser úteis no nível arquitetural, em diferentes tipos de visões e estilos, bem como, os problemas decorrentes da falta de suporte adequado à separação de interesses e ao raciocínio modular no nível arquitetural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Alessandro Fabricio Garcia - Integrante / Christina von Flach Garcia Chavez - Coordenador / T. Batista - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+RODEP: Infra-Estrutura de Apoio a Processos de Negócio baseado em Reutilização e Aspectos
+Descrição: Este projeto tem como objetivo projetar modelos e mecanismos para a formação de uma infra-estrutura de apoio a processos de negócio baseada nos conceitos de reutilização, no paradigma de orientação a aspectos e na tecnologia de serviços Web.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Alessandro Fabricio Garcia - Integrante / I. Gimenes - Coordenador.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Cooperação.
+2007 - 2008
+Aspect-Oriented Software Architecture Toolkit
+Descrição: The goal of this project was to develop an integrated set of Eclipse-based tools to support the modelling and assessment of aspect-oriented software architectures. Alessandro Garcia was the coordinator of this project.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (4) . Integrantes: Alessandro Fabricio Garcia - Coordenador / L. Fuentes - Integrante.Financiador(es): European Commission - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2006 - 2009
+AMPLE - Aspect-Oriented Model-Driven Produc-Line Engineering
+Descrição: Projeto com o objetivo de definir um metodologia para desenvolvimento de linhas de produto de software baseada no uso de tecnicas orientadas a aspectos e orientadas a modelos. Alessandro Garcia autou como: (i) coordenador do workpackage sobre projeto arquitetural de linhas de produtos orientadas a aspectos, (ii) investigador, e (iii) membro do "Operations Board" do projeto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (11)  / Mestrado profissional: (0)  / Doutorado: (25) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Comissão Européia - Cooperação.Número de produções C, T & A: 2
+2006 - 2007
+TAO: A Testbed for Aspect-Oriented Software Development
+Descrição: Projeto com o objetivo de identificar um conjunto de benchmarks para avaliacao de tecnicas de desenvolvimento de software orientado a aspectos. Alessandro Garcia foi o coordenador geral do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (1)  / Doutorado: (4) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Lancaster University - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2005 - 2008
+AOSD-Europe: Network of Excellence on Aspect-Oriented Software Development
+Descrição: Projeto europeu, financiado pela Comissao Europeia, envolvendo integracao e evolucao de tecnicas de desenvolvimento de software orientado a aspectos (DSOA). Alessandro Garcia autou como: (i) coordenador do workpackage de disseminacao e transferencia de tecnologias orientadas a aspectos, (ii) investigador em analise empirica de DSOA, (iii) investigador em arquiteturas orientadas a aspectos, (iv) membro do "Operations Board" do projeto, e (v) chair do comite de programa da Summer School em DSOA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (22)  / Mestrado profissional: (0)  / Doutorado: (55) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Comissão Européia - Cooperação.
+2004 - 2006
+EMACA: Engenharia de Software para Aplicações Multi-Agentes Cooperativas
+Descrição: Este projeto visou desenvolver os fundamentos e as tecnologias da Engenharia de Software para Sistemas Multi-agentes Cooperativos e exibir o potencial destas tecnologias em diversas áreas de aplicação, tais como Comércio Eletrônico, Computação Móvel, Assistentes Pessoais, Educação à Distância e Otimização de Sistemas. Outro objetivo foi propor e refinar novas técnicas para o desenvolvimento de aplicações cooperativas utilizando abstrações do paradigma orientado a agentes. O projeto buscou inovar tecnologicamente em uma área central para o futuro da indústria de software e este aspecto se fez sentir no aperfeiçoamento dos perfis dos pesquisadores envolvidos neste projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (6) . Integrantes: Alessandro Fabricio Garcia - Integrante / Carlos Lucena - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.Número de produções C, T & A: 2
+2003 - 2006
+Agent-Link-III
+Descrição: This European project has the goal of integrating and improving existing techniques for agent-oriented software engineering.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (7) . Integrantes: Alessandro Fabricio Garcia - Integrante / M. Cossentino - Coordenador.Financiador(es): European Commission - Cooperação.
+2000 - 2004
+Pronex -
+Descrição: Projeto Pronex. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2000 - 2004
+ESSMA/CNPq
+Descrição: Projeto FINEP. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2000 - 2004
+Empirically-Driven Assessment and Improvement of Emerging Software Modularity Techniques
+Descrição: Contemporary Modularisation (CoM) techniques, such as aspect-oriented programming (AOP) and
+feature-oriented programming (FOP), entail one of the most fundamental shifts in programming
+paradigms since the last decade. They are receiving growing interest from both software industry
+and academia. Their proponents argue that CoM programming mechanisms address recurring
+evolvability problems of pivotal software concerns, such as distribution, error handling, security and
+persistence. As a result, AOP and FOP mechanisms have been recently applied to application
+domains of primary importance to software projects, including Web-based information systems,
+product lines, middleware systems, and ubiquitous applications.
+However, the scarce empirical assessment of CoM techniques is a major stumbling block to reap their
+promised software evolvability benefits and their adoption in mainstream software projects. Their
+assessment is almost inexistent in realistic software evolution scenarios and still largely dominated
+by "the opinion of experts". The core reason for this problem is twofold. First, with the paradigm
+shift to CoM-based design, conventional software metrics are not enough and quantitative indicators
+for fundamental properties of concern evolvability are missing. Second, even though some isolated
+assessment efforts confirm the conventional wisdom that CoM techniques improve modularity of
+software concerns, our empirical knowledge on CoM-based evolvability does not go much beyond
+that. More fundamentally, existing studies have not analysed the error proneness and stability of
+each particular CoM mechanism in software evolution scenarios.
+As a result, effective guidelines for building stable, robust software with each CoM mechanism are
+not available to software developers. In this context, the aim of this project is fourfold: (1) carry out a
+family of empirical studies in order to assess CoM mechanisms in terms of key evolvability attributes;
+(2) i. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1)  / Doutorado: (2) . Integrantes: Alessandro Fabricio Garcia - Coordenador.Financiador(es): Pontifícia Universidade Católica do Rio de Janeiro - Bolsa.
+1999 - 2000
+ACCORDS
+Descrição: Projeto CNPq/NSF. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandro Fabricio Garcia - Integrante / Cecília Mary Fischer Rubira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

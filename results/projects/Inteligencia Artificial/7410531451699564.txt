@@ -1,0 +1,13 @@
+2022 - Atual
+Modelos em Arduíno
+Descrição: Desenvolvimento de Tecnologias de Baixo Custo. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Roberto de Araujo Fontoura - Coordenador.
+2022 - Atual
+Simulações em R
+Descrição: Desenvolvimento de simulações utilizando modelos e metodologias existentes. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Roberto de Araujo Fontoura - Coordenador.
+2022 - Atual
+Séries Temporais e Mercados Financeiros
+Descrição: Desenvolver metodologias e aplicções de e para mercado financeiro. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Roberto de Araujo Fontoura - Coordenador.
+2021 - Atual
+Sistemas Embarcados de Baixo Custo no Monitoramento de Ecossistemas Marinhos
+Descrição: A obtenção em tempo real e contínuo de parâmetros físico-químicos de longa duração, utilizados em atividades de monitoramento ambiental para inferências sobre a integridade de ecossistemas marinhos brasileiros é altamente limitada. Isto se deve a tradicional dependência de interface proprietária, via de regra de alto custo e de complexa integração com diferentes sistemas operacionais e difícil aquisição em Instituições públicas de pesquisa.
+Aqui, nós apresentamos o projeto Sistemas embarcados de baixo custo no monitoramento de ecossistemas marinhos (EMBARCADOS) e como o desenvolvimento de um dispositivo com interface open source, a partir da tecnologia de sistemas embarcados, pode constituir-se como potente ferramenta articuladora de saberes ao monitoramento ambiental e oferecer subsídios à gestão da pesca artesanal em zonas urbanizadas do segundo maior sistema de baía do Brasil, a Baía de Todos os Santos (BTS), tendo como orientação principal a ampliação da relevância social da Universidade por meio da transferência de tecnologia (tradicional e social) para a coletividade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3) . Integrantes: José Roberto de Araujo Fontoura - Coordenador / IRAMAIA DE SANTANA - Integrante.

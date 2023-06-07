@@ -1,0 +1,51 @@
+2016 - Atual
+LOCALIZAÇÃO DE DEFEITOS DE SOFTWARE BASEADA EM BUSCA: ESTADO DA ARTE, INVESTIGAÇÃO E AVALIAÇÃO DE NOVO MÉTODO
+Projeto certificado pelo(a) coordenador(a) Plinio de Sa Leitao Junior em 27/01/2017.
+Descrição: LOCALIZAÇÃO DE DEFEITOS DE SOFTWARE BASEADA EM BUSCA: ESTADO DA ARTE, INVESTIGAÇÃO E AVALIAÇÃO DE NOVO MÉTODO. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Celso Gonçalves Camilo Junior - Integrante / Plinio Sa Leitao-Junior - Coordenador / Diogo M Freitas - Integrante.
+2016 - Atual
+SENTIHEALTH: UM MÉTODO COMPUTACIONAL PARA ANÁLISE DE SENTIMENTO EM DIFERENTES FONTES DE DADOS
+Descrição: Várias são as patologias graves e/ou crônicas que, normalmente, causam um impacto negativo muito significativo na qualidade de vida dos pacientes e, muitas das vezes, em seus familiares. Como exemplo, Câncer, Autismo, HIV (Human Immunodeficiency Virus) e Alzheimer.  Neste contexto, pacientes e familiares precisam lidar com incertezas, riscos de recidiva da doença, alterações na rotina familiar, social, educacional e profissional, restrições físicas, experiências de ansiedade, dúvidas, perdas e mudanças na dinâmica familiar, o que justifica a atenção multidisciplinar em saúde. Por isso, a qualidade de vida, tanto dos pacientes quanto dos seus familiares, é significativamente reduzida no período que se seguem ao diagnóstico das doenças crônicas, como exemplo o Câncer. Na literatura existem evidências que fatores psicossociais podem influenciar sobre o estado de saúde dos indivíduos acometidos pela doença. Atualmente, tais fatores podem ser tanto pelo apoio social não virtual quanto virtual usando as redes sociais, conforme relato de autores que identificaram uma influência entre redes sociais e tratamento do Câncer. Correlacionando a grande aderência ao uso das redes sociais pela população brasileira e as dificuldades no enfrentamento das patologias graves/crônicas, torna-se imprescindível ampliar os estudos para o melhor uso do grande volume de dados em conjunto com as técnicas de Inteligência Computacional, Aprendizado de Máquinas, Sistemas de Recomendação e Computação Afetiva para extrair conhecimento e desenvolver métodos para auxiliar no tratamento e apoio aos pacientes e familiares.Assim, o presente trabalho tem por objetivo o desenvolvimento de métodos computacionais para análise de sentimento baseado em dados, oriundos de redes sociais virtuais, Aplicativos (Apps) ou, mais amplamente, da Web (World Wide Web), relacionados a autores portadores de patologias graves/crônicas ou a familiares de pacientes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Celso Gonçalves Camilo Junior - Coordenador / Rafael de Araújo Dantas - Integrante / Thierson Rosa - Integrante / Ramon Gouveia Rodrigues - Integrante / Matheus Gomes - Integrante / Michel Ferreira - Integrante.
+2016 - Atual
+Estratégia e desempenho mercadológico em redes sociais virtuais: análise das métricas agregadas e individuais de desempenho
+Descrição: Desempenho é uma palavra central da atividade mercadológica e as novas tecnologias impõem a organizações, marcas e serviços a atuação em redes sociais virtuais. Uma importante lacuna na literatura de marketing se refere à análise da atividade mercadológica nessas redes, expressa principalmente por ações e criação de perfis, que resultam em métricas de engajamento, tais como curtidas, comentários e compartilhamentos. Compreender o impacto de estratégias de marketing e o comportamento temporal dessas métricas em um contexto marcado pelo elevado uso das redes sociais contribui para o avanço desse campo de estudo específico. Dessa forma, este projeto de pesquisa se concentra na explicação de variáveis de resposta em contextos de redes sociais virtuais, incorporando importante tema de pesquisa de marketing contemporâneo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Celso Gonçalves Camilo Junior - Integrante / Marcos Inácio de Almeida - Coordenador / Ricardo Limongi França Coelho - Integrante / Paulo Roberto Scalco - Integrante / Milena Alves Costa - Integrante.
+2014 - 2015
+Aplicação de Técnicas de Computação Ubíqua, Arquitetura de Software e Inteligência Computacional no contexto do Monitoramento de Pacientes Domiciliares
+Projeto certificado pela empresa Canion em 03/03/2015.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Celso Gonçalves Camilo Junior - Coordenador.
+2014 - Atual
+O USO DAS REDES SOCIAIS VIRTUAIS E DADOS CLÍNICOS PARA ANÁLISE E AUXÍLIO NO TRATAMENTO DO CÂNCER
+Descrição: O tratamento do câncer é uma área da saúde de constante avanço científico e tecnológico. Como exemplo, a maioria das crianças diagnosticadas com câncer nas décadas de 60 e 70 morria da doença; atualmente, mais de 75% delas sobrevivem por no mínimo cinco anos. No entanto, o diagnóstico de câncer ainda é encarado como sinônimo de sentença de morte.
+No sentido mais amplo do cuidado à pacientes com câncer, há dois desfechos que interessam aos profissionais de saúde: a quantidade e a qualidade de vida (QV) que poderão oferecer ao seu paciente. Seguindo esse pensamento, todos os resultados em saúde devem ser avaliados levando em consideração a QV.
+Diante dos desafios impostos pelo tratamento, os cuidadores usam estratégias que incluem busca por informações sobre a doença, aumento de práticas religiosas, seguimento das recomendações de cuidados e busca por suporte social. O impacto das redes sociais foi motivo de outras pesquisas, no entanto, poucas abordam as redes sociais virtuais. 
+Por isso, o presente trabalho tem o objetivo geral de analisar os dados provenientes de redes sociais virtuais e clínicos de pacientes, diagnosticados com Câncer, para descoberta de conhecimento que auxilie no tratamento. Como resultado, espera-se a descoberta de padrões e métodos que auxilie na melhoria dos tratamentos e, consequentemente, na qualidade e quantidade de vida dos pacientes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Celso Gonçalves Camilo Junior - Coordenador / Rafael de Araújo Dantas - Integrante / Thierson Rosa - Integrante / Matheus Paixao - Integrante / Ramon Gouveia Rodrigues - Integrante.
+2010 - Atual
+Aplicando Meta-heurísticas para Otimização em Engenharia de Software
+Descrição: Entre as áreas de aplicação das metaheurísticas, a Otimização em
+Engenharia de Software, Search-based Software Engineering, é uma das
+mais promissoras. Nessa área, os problemas da ES são transformados
+em problemas de busca e, assim, tornam-se aptos a serem solucionados
+por técnicas de otimização. Considerando a complexidade desses
+problemas reais, poucas são as técnicas que podem prover soluções
+satisfatórias. Entre as técnicas, as metaheurísticas apresentam
+bons resultados na literatura para problemas similares e, por isso, é
+a abordagem escolhida para este projeto. Em todo o ciclo do software
+é possível encontrar problemas para aplicação das
+metaheurísticas. Como exemplo, citam-se: Análise de requisitos,
+Projeto de software, Teste de Software e Manutenção. Entretanto,
+para cada problema é necessário avaliar a melhor metaheurística,
+dentre as várias existentes. Como exemplo, citam-se: GRASP, Simulated
+Annealing, Busca Tabu, PSO, Algoritmos Genéticos e Colonia de
+Formigas. Assim, este projeto propõe a identificação de problemas
+de busca dentro do ciclo do software e, posteriormente, a aplicação
+da metaheurística adequada para obter resultados satisfatórios.
+Espera-se, com isso, contribuir para melhoria e minimização de
+custos do processo de desenvolvimento de software.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Celso Gonçalves Camilo Junior - Coordenador / Auri Marcelo Rizzo Vincenzi - Integrante / Cassio Rodrigues - Integrante / Plinio Sa Leitao-Junior - Integrante / André Assis Lobo - Integrante.
+2008 - 2010
+Dispositivos móveis auxiliando na tomada de decisão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Celso Gonçalves Camilo Junior - Coordenador / Adriano Basili - Integrante / WAGNER ALEXANDRE RAMOS SOSCHINSKI - Integrante / Rodrigo Funabashi Jorge - Integrante.
+2007 - 2009
+Inteligência Computacional aplicada no contexto regional
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Celso Gonçalves Camilo Junior - Coordenador.
+2005 - 2006
+Custo Benefício do VoIP
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Celso Gonçalves Camilo Junior - Coordenador / Almeida - Integrante.

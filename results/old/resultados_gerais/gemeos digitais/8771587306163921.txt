@@ -1,0 +1,45 @@
+2016 - Atual
+INFRAESTRUTURA TECNOLÓGICA PARA CIDADES INTELIGENTES APLICADAS A SAÚDE
+Descrição: Projeto, implementação e avaliação de uma infraestrutura de comunicação e computação que suporte de forma escalável, interoperável e confiável a execução de sistemas distribuídos voltados para assistência a saúde, dentro das caracteristicas encontradas nos sistemas ciber-físicos e Internet das Coisas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sérgio Gorender - Coordenador / Raimundo José de Araújo Macêdo - Integrante.
+2014 - Atual
+DRONE AS A SERVICE (DAAS): UMA PLATAFORMA EXPERIMENTAL PARA EXECUÇÃO DE MISSÕES BASEADA EM REDES DE DRONES AUTÔNOMOS E COLABORATIVOS
+Descrição: Este projeto propõe uma plataforma experimental para execução de missões baseadas em redes de microdrones autônomos e colaborativos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sérgio Gorender - Coordenador / ALLAN EDGARD SILVA FREITAS - Integrante / Alirio Santos de Sá - Integrante.
+2010 - 2012
+Dependable Mechanisms for Dynamic Networks
+Descrição: Este projeto trata da investigação dos desafios de confiabilidade ("dependability") advindos dos chamados sistemas distribuídos
+dinâmicos característicos das novas tecnologias de redes de computadores, tais como redes móveis ad-hoc (MANET), redes
+veiculares ad-hoc (VANET), "Worldwide Interoperability for Microwave Access" (WiMax), "Airborn Networks", "DoD Global
+Information Grid", "peer-to-peer" (P2P) etc. As aplicações típicas desse tipo de rede têm uma característica em comum: são
+altamente dinâmicas em suas composições - em termos de membros participantes e recursos disponíveis em da.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Sérgio Gorender - Integrante / Raimundo José de Araújo Macêdo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+CONSENSO COM RECUPERAÇÃO DE FALHAS NO MODELO HA
+Descrição: Um sistema distribuído é definido como um conjunto de processos executando em diferentes dispositivos
+computacionais, e se comunicando por troca de mensagens, através de uma rede de computadores. As propriedades
+dos sistemas distribuídos são definidas a partir de modelos, que descrevem características da interação entre os
+processos, e as possíveis falhas que podem ocorrer neste sistema. O modelo HA para sistemas distribuídos tolerantes
+a falhas é um modelo híbrido e adaptativo, modelando sistemas distribuídos que apresentam características síncronas e
+assíncronas, e que alteram dinamicamente suas características, dependendo de mudanças no ambiente de execução.
+Para este modelo foi desenvolvido um algoritmo de consenso que tolera falhas do tipo crash, e que dependendo do
+nível de sincronismo do sistema, pode tolerar falhas de até n-1 processos. Entretanto, este algoritmo não aceita que
+processos se recuperem de falhas (modelo de falhas crash-recovery).
+O algoritmo Paxos para o consenso com recuperação de falhas foi apresentado por Leslie Lamport em 1998. Este
+algoritmo resolve o consenso com recuperação de falhas em ambiente assíncrono, desde que no mínimo uma maioria
+dos processos não falhe.
+Neste projeto de pesquisa pretendemos investigar o desenvolvimento de um algoritmo de consenso no estilo Paxos,
+com recuperação de falhas, para o modelo HÁ, de forma a que, dependendo do nível de sincronismo do sistema, sejam
+toleradas falhas de até N-1 processos, e a sua recuperação.
+Tolerância a Falhas
+Consenso Qualidade de Serviço
+09/. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sérgio Gorender - Coordenador / Raimundo José de Araújo Macêdo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - Atual
+Modelos para sistemas distribuídos híbridos e adaptativos, tolerantes a falhas
+Descrição: Sistemas distribuídos são caracterizados por computações realizadas em sítios distintos, onde a sincronização e troca de informações entre os processos envolvidos ocorrem por troca de mensagens. Aplicações nesse contexto,
+cada vez mais presentes no cotidiano moderno, vão desde páginas HTML na WEB, até sistemas de controle de manufatura distribuídos. Com tanta onipresença e diversidade de tecnologias de implementação (diferentes tipos de
+redes de comunicação, processadores, meios de armazenamento, etc.), é imperativa a busca por sistemas distribuídos cada vez mais confiáveis, sem os quais grandes prejuízos e catástrofes se tornariam inevitáveis.
+O presente projeto representa um esforço inovador na busca de modelos (algoritmos e provas de correção) e plataformas (middlewares) para a construção de sistemas distribuídos confiáveis e adaptáveis e reflete o amadurecimento do grupo de pesquisa (LaSiD - Laboratório de Sistemas Distribuídos), ao
+longo de seus 10 anos de existência. Além do coordenador deste projeto, mais dois doutores pesquisadores do LaSiD, alunos do Mestrado em Mecatrônica da e do Bacharelado em Ciência da Computação da UFBA participarão do
+esforço - que também inclui a cooperação de uma instituição estrangeira, o IRISA/França. Os resultados parciais já obtidos no contexto dessa pesquisa incluem a definição de um modelo híbrido e adaptativo e de um framework,
+ambos publicados em 2005 em conferências patrocinadas pela IEEE. O plano de trabalho deste projeto visa complementar os esforços iniciais, permitindo a ampla exploração do modelo proposto num middleware voltado para automação industrial.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Sérgio Gorender - Integrante / Raimundo José de Araújo Macêdo - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.

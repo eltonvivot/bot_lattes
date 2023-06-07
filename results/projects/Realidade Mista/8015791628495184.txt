@@ -1,0 +1,84 @@
+2017 - Atual
+CONFORTO TÉRMICO E EFICIÊNCIA ENERGÉTICA EM EDIFICAÇÕES
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3) . Integrantes: Ed Carlo Rosa Paiva - Coordenador / heber Martins de Paula - Integrante / CAIO FREDERICO E SILVA - Integrante.Número de produções C, T & A: 4 / Número de orientações: 1
+2015 - Atual
+ESTUDO TÉCNICO-ECONÔMICO DO USO DE TIJOLOS ECOLÓGICOS COM ADIÇÃO DE RESÍDUOS SÓLIDOS NA CONSTRUÇÃO DE CASAS POPULARES
+Descrição: O projeto contempla o estudo de tijolos ecológicos com incorporação de resíduos sólidos para construção de casas populares, uma vez que além da contribuição ambiental, já que deste modo pode-se dar um destino melhor aos resíduos gerados, existe também a contribuição econômica, uma vez que a utilização de materiais reciclados pode auxiliar na diminuição dos custos da elaboração de tijolos ecológicos... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Coordenador / ANTOVER PANAZZOLO SARMENTO - Integrante / Igor Mazon Carvalho - Integrante / Jakson Tindade da Fonte - Integrante / Thayane Dias Silva - Integrante / Thaynara de Almeida Correa e Silva - Integrante.
+2014 - 2016
+SIMULAÇÃO DO COMPORTAMENTO HIDRÁULICO DE REDES DE ABASTECIMENTO DE ÁGUA EM CIDADES DO SUDESTE GOIANO
+Descrição: O enfoque será no estudo de fenômenos hidráulicos das redes de abastecimento das cidades do sudeste de Goiás, utilizando simulação computacional utilizando o EPANET 2.0© ,
+podendo-se propor melhorias e evidenciando os pontos falhos, como aqueles nos quais
+ocorrem vazamentos ou pressões fora dos padrões de norma. É sabido que trechos
+sujeitos a pressões maiores do que as permitidas, que segundo a NBR 12218 a máxima
+é de 50 metros de coluna d?água, estarão mais suscetíveis a falhas, pois as altas pressões podem danificar a tubulação e peças especiais como curvas.
+Este software vem sendo usado no meio acadêmico há muito tempo, pois se
+mostrou muito eficaz, transpondo resultados muitos satisfatórios e coerentes com a
+realidade. Vários são os artigos científicos que o citam como meio metodológico.
+Estudos mostraram que  o EPANET possibilitou fazer um estudo detalhado de um bairro na cidade de Passos ? MG, evidenciando resultados coerentes e coesivos, como vazões e pressões nos trechos e nós, respectivamente de toda a rede estudada. Outros estudos semelhantes foram desenvolvidos para as cidades de Itajubá ?
+MG,  Santa Maria ? RS. Além desses, foram desenvolvidos estudos sobre setorização de rede, na cidade de Belém ? PA e sobre a qualidade da água na rede de distribuição.
+Assim, após executada a simulação, com os resultados já obtidos, espera-se levá-
+los até as respectivas concessionárias a fim de evidenciar e mostrar os pontos falhos da rede, para que elas possam repará-los. E então, após tudo isso, o novo processo, ou seja, a rede de abastecimento já reparada será um novo sistema muito mais eficaz e com uma considerável diminuição do desperdício de água.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ed Carlo Rosa Paiva - Coordenador / heber Martins de Paula - Integrante / ANTOVER PANAZZOLO SARMENTO - Integrante / Marcelo Victor Mesquita Pires - Integrante.
+2013 - 2015
+ELABORAÇÃO DO PLANO DE GESTÃO DE RESÍDUOS SÓLIDOS PARA A UNIVERSIDADE FEDERAL DE GOIÁS, CAMPUS CATALÃO
+Descrição: As instituições de ensino com suas atividades de pesquisa e elevado público frequente, possuem características de uma indústria onde gera variados tipos de resíduos, devido as suas diversas áreas atingidas, assim este trabalho visa elaborar o PGRS para a Universidade Federal de Goiás, Campus Catalão, que se apresenta em constante crescimento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / ANTOVER PANAZZOLO SARMENTO - Coordenador.
+2013 - Atual
+CONFORTO TÉRMICO NOS BLOCOS DIDÁTICOS DA UNIVERSIDADE FEDERAL DE GOIÁS - CAMPUS CATALÃO
+Descrição: Na década de 1970, Fanger desenvolveu dois índices para avaliar o nível de conforto térmico em um ambiente: o voto médio estimado (PMV - Predicted Mean Vote) e a Porcentagem estimada de insatisfeitos (PPD ? Predicted Percentage of Dissatisfied). Com base em seus estudos foi elaborada a ISO 7730, possibilitando uma ampliação nas pesquisas dessa área. É comprovado que em condições de satisfação com o ambiente, ou seja, em ambientes confortáveis termicamente, o rendimento e a produtividade são maiores. O objetivo desse projeto é medir as temperaturas interna e externa, máxima e mínima e umidade relativa nas salas de aula da Universidade Federal de Goiás, Campus Catalão. Serão feitos gráficos com a análise dos dados e serão calculados os dois índices estabelecidos por Fanger. Assim, será estabelecido o nível de conforto térmico ao qual estão submetidos os alunos e professores, e caso esse não seja ideal pretende-se encontrar uma adaptação satisfatória para melhora-lo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ed Carlo Rosa Paiva - Coordenador / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Integrante / ANDRE ALVES DE RESENDE - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2014
+ESTUDO DA VIABILIDADE TÉCNICA E ECONÔMICA DE UMA USINA DE RECICLAGEM DE ENTULHO EM CATALÃO-GO
+Descrição: Em Catalão a população teve um crescimento de 22.250 habitantes, na ultima década, sendo a quinta economia do estado de Goiás. Esse cenário favorece o aumento da geração de resíduos da construção e demolição (RCD). Considerando que a melhor solução para o problema exposto é a reciclagem dos RCD em novos agregados, e considerando a legislação e normas mencionadas, o objetivo deste trabalho é realizar uma análise custo/beneficio para a implantação de uma usina de reciclagem de entulhos em Catalão. Pretende-se efetuar o pré-dimensionamento do empreendimento, considerando a vida útil do projeto igual a 20 anos e fazer um levantamento da quantidade de entulho gerada em Catalão. Os custos de implantação e operação da uma usina de reciclagem de entulhos serão determinado com base em dados obtidos junto à Secretaria de Limpeza Urbana (SLU), da Prefeitura Municipal de Belo Horizonte. Serão avaliados dois cenários nos quais os valores finais do reciclado serão considerados 20 e 30 reais por metro cúbico. Tais valores correspondem a, aproximadamente, a metade e um terço, respectivamente, daqueles praticados para o agregado de segunda ou bica-corrida na cidade de Goiânia. Para a analise da viabilidade econômica será desprezada a receita do primeiro ano de funcionamento da usina, além de ser considerada a comercialização de apenas 85% do material produzido ao longo da vida útil do empreendimento. Espera-se obter resultados que possam subsidiar o poder público local e, ou a iniciativa privada para implantação de uma usina de reciclagem de RCD.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ed Carlo Rosa Paiva - Coordenador / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Integrante.
+2012 - 2013
+INVESTIGAÇÃO DE PARÂMETROS FÍSICOS, QUÍMICOS E MICROBIOLÓGICOS PARA AVALIAÇÃO DA QUALIDADE DA ÁGUA DE LAGOS URBANOS DA CIDADE DE CATALÃO-GO
+Descrição: Avaliação da qualidade dos lagos com o objetivo de levar ao conhecimento da comunidade... Situação: Concluído; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Coordenador / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Integrante.
+2012 - 2013
+DISPONIBILIDADE HÍDRICA E O USO DA ÁGUA NA BACIA HIDROGRÁFICA DO RIBEIRÃO PARI/SAMAMBAIA
+Descrição: A cidade de Catalão é abastecida pelo ribeirão Pari/ Samambaia e esse projeto tem como objetivo avaliar como está da disponibilidade hídrica desta bacia e quais agravantes no crescimento da cidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Coordenador / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Integrante.
+2012 - 2013
+INTRODUÇÃO À GESTÃO DA ÁGUA EM ESCOLAS PÚBLICAS
+Descrição: Estudo do consumo de água em escolas publicas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Coordenador / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Integrante.
+2012 - 2012
+DESTINAÇÃO DE RESÍDUOS EM POSTOS DE ABASTECIMENTO
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Coordenador.
+2012 - Atual
+COMPOSTAGEM DE CARCAÇAS DE ANIMAIS RECOLHIDOS NAS RUAS E ESTRADAS DO MUNICÍPIO DE CATALÃO
+Descrição: O presente trabalho tem por objetivo verificar a viabilidade técnica da compostagem de carcaças em substituir a prática atual de enterro de carcaças, bem como analisar a possibilidade de utilização do produto final da compostagem como adubo em praças e canteiros de avenidas da cidade de Catalão. Tem como objetivos específicos a avaliação da qualidade agronômica e sanitária do composto produzido com as carcaças de animais mortos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ed Carlo Rosa Paiva - Coordenador / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Integrante / Marcelo Victor Mesquita Pires - Integrante.Financiador(es): Universidade Federal de Goiás - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - Atual
+CATALÃO E AS SUB-BACIAS HIDROGRÁFICAS: CARACTERÍSTICAS FISIOGRÁFICAS E DEMANDAS HÍDRICAS
+Descrição: Estudo das características morfométricas e físicas das sub-bacias hidrográficas da região de Catalão - GO. Neste caso está sendo estendida à região centro oeste brasileira... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Coordenador.
+2012 - Atual
+COMPARAÇÃO DAS DIFERENTES METODOLOGIAS DE DETERMINAÇÃO DO ÍNDICE DE QUALIDADE DA ÁGUA
+Descrição: Realizar diagnósticos da qualidade da água, de acordo com diferentes metodologias de IQA, considerando a importância e aplicabilidade de cada parâmetro, de maneira a  expressar as alterações da qualidade da água. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Coordenador / Wanucy Barroso Rodrigues - Integrante / Daiana Ribas Machado - Integrante / Daniela Mundim da Silva - Integrante / Jordana Ferreira Vieira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2013
+DESENVOLVIMENTO DE UM SISTEMA DE APOIO À DECISÃO PARA ESTAÇÕES DE TRATAMENTO DE ÁGUAS RESIDUÁRIAS DE LATICÍNIOS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Integrante / ANTOVER PANAZZOLO SARMENTO - Coordenador / John Eloi Bezerra - Integrante / Geovane Caetano Gomes - Integrante.
+2011 - Atual
+ESTUDO E IMPLANTAÇÃO DO PROGRAMA DE GESTÃO DA ÁGUA EM USINAS DE CONCRETO
+Descrição: Estudo de reuso de água para indústrias... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Coordenador / ANTOVER PANAZZOLO SARMENTO - Integrante / Marina Sangoi de Oliveira Ilha - Integrante.Financiador(es): Universidade Federal de Goiás - Bolsa.
+2010 - 2014
+IMPACTO DO CRESCIMENTO DA MALHA URBANA DA CIDADE DE CATALÃO-GO NO SISTEMA DE DRENAGEM DE ÁGUAS PLUVIAIS
+Descrição: AVALIAÇÃO DO IMPACTO DO CRESCIMENTO DA MALHA URBANA DA CIDADE DE CATALÃO-GO NO SISTEMA DE DRENAGEM DE ÁGUAS PLUVIAIS. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Integrante / Eliane Aparecida Justino - Coordenador / ANTOVER PANAZZOLO SARMENTO - Integrante.
+2009 - 2011
+SISTEMAS DE APROVEITAMENTO DE ÁGUA DE CHUVA: Análise de qualidade da água de chuva, aplicações
+Descrição: Um crescente número de grandes cidades e regiões metropolitanas brasileiras estão vivendo
+situações de escassez e degradação dos recursos hídricos impondo a adoção de programas de conservação de
+água. Entre os componentes de programas de conservação de água, figura o de substituição de fontes.Consiste basicamente em utilizar novas fontes de recursos hídricos em substituição às existentes,
+especialmente sob condições em que a nova fonte sirva a usos menos exigentes (menos "nobres"). O
+aproveitamento de água da chuva nas edificações do meio urbano se enquadra nessa categoria. Três grandes
+virtudes são freqüentemente associadas ao aproveitamento da água de chuva em edifícios: a) diminui a
+demanda de água potável; b) diminui o pico de inundações quando aplicada em larga escala, de forma
+planejada, em uma bacia hidrográfica; c) pode reduzir as despesas com água potável. Nesta pesquisa o foco
+principal será no uso doméstico que são aqueles próprios ao ambiente da habitação ou moradia, embora
+possam estar presentes também em edifícios industriais, comerciais, públicos e de serviços. Entre eles citam-se
+o uso da água para simples ingestão, a lavagem e preparo de alimentos crus e cozidos, a lavagem de utensílios
+de cozinha, o banho pessoal, a higiene corporal, a lavagem de roupas, a descarga de bacias sanitárias, a
+limpeza de pisos, paredes, veículos, a rega de jardins, a higiene de animais domésticos. Podem ser incluídos
+usos como a descarga em mictórios, a água de reserva para combate a incêndio e a água para aquecimento e
+acumulação destinada ao banho e outros usos. Entre os usos domésticos mencionados alguns exigem água
+cuja qualidade atenda aos padrões de potabilidade, ou seja, à Portaria 518/2004 do Ministério da Saúde.
+Entretanto outros usos domésticos não requerem características de qualidade tão exigentes quanto à
+potabilidade. Esses usos, para os quais não é exigida a potabilidade da água, são definidos como não potáveis.
+Entre os usos domésticos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Integrante / heber Martins de Paula - Coordenador / Carlos Eugênio Pereira - Integrante.
+2009 - Atual
+Avaliação da compostagem de carcaças de frango pelos métodos da composteira e leiras estáticas aeradas.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ed Carlo Rosa Paiva - Coordenador.

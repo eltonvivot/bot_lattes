@@ -1,0 +1,50 @@
+2020 - Atual
+Aplicações Científicas e Tecnológicas da Classificação de Imagens por Redes Neurais Convolucionais Profundas
+Descrição: Este projeto de pesquisa congrega uma série de investigações na área de processamento de imagens e reconhecimento de padrões através de aprendizado de máquina profundo, abrigando projetos de Doutorado, Mestrado e Iniciação Científica realizados no Laboratório de Matemática Concreta da Faculdade de Tecnologia da Unicamp.
+Trabalhos correntes incluem:: i) análises de viabilidade, aplicação e otimização das redes neurais convolucionais profundas em  previsão de vazões de bacias hidrográficas para planejamento de operação de sistemas elétricos intregrados de grande porte; ii) análise de viabilidade e desenvolvimento de metodologia para identificação de estágios metabólicos a partir de imagens e vídeos termográficos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Andre Franceschi de Angelis - Coordenador / Thaís Rocha - Integrante / Paulo Luís Zampieri - Integrante / Talita Cristina da Silva - Integrante.
+2018 - Atual
+A new approach to river flow forecast based in Deep Learning and satellite images (NVIDIA Grant)
+Descrição: This research investigates the still unexplored possibility of the combined use of Deep Learning neural networks, time series databases and satellite images to solve the open questions in the area of flow forecasting, namely: a) to improve forecasting models and techniques ; b) overcome the limitations of reliability, periodicity and representativeness of the input data that feed the different models of flow forecasting.
+If the expectations of this research are confirmed, a much more robust and accurate technology will be developed than the current one for flow forecasting, with direct impacts on the planning and operation of electrical systems totally or partially dependent on hydro generation regardless of location or presence measuring stations.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Andre Franceschi de Angelis - Coordenador / Thaís Rocha - Integrante / Paulo Luís Zampieri - Integrante.
+2009 - Atual
+Investigação de Redes Complexas
+Descrição: Esta pesquisa tem por objetivo a investigação das Redes Complexas em suas diversas manifestações, através de sua modelagem, simulação e caracterizações topológica, matemática e funcional, tendo por foco as aplicações tecnológicas nas áreas de Física Computacional, Redes de Computadores e Telecomunicações.
+Os resultados esperados deste trabalho são a ampliação do conhecimento acerca das Redes Complexas, com a criação e análise de novos modelos, desenvolvimento de algoritmos de visualização, proposição de mecanismos de interferência nos processos dinâmicos e a implementação de ferramentas computacionais para a área.
+As contribuições desta pesquisa estão na área teórica da Física Computacional e nas aplicações tecnológicas de seus resultados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Andre Franceschi de Angelis - Coordenador / William Roberto de Paiva - Integrante.
+2007 - 2009
+Controle Estatístico aplicado a Redes de Computadores (Fase II)
+Descrição: Controle Estatístico aplicado a Redes de Computadores
+Desenvolvido junto ao DEMAC /  Unesp / Rio Claro
+Triênio: mar/2007 a mar/2010.
+Objetivo
+Aperfeiçoar e validar o modelo estatístico de redes de computadores desenvolvido durante o doutorado, desenvolver ferramenta de software integrada que execute todo o processamento sobre os dados dos fluxos, desde a sua separação nos arquivos de coleta até a exibição das cartas CEP e respectiva monitoração.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Andre Franceschi de Angelis - Coordenador.
+2006 - 2010
+Projeto TIDIA - Tecnologa da Informacao para o Desenvolvimento da Internet Avancada (KyaTera)
+Descrição: Projeto TIDIA - Tecnologa da Informacao para o Desenvolvimento da Internet Avancada
+KyaTera
+Participacao junto ao LightWays Consortium (IFSC, USP, São Carlos)
+Coordnaćão do Prof. Dr. Carlos Antônio Ruggiero (IFSC/USP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Franceschi de Angelis - Integrante / Carlos Antônio Ruggiero - Coordenador / GONZALO TRAVIEZO - Integrante / Luciano da Fontoura Costa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 22
+2004 - 2007
+Controle Estatístico aplicado a Redes de Computadores (Fase I)
+Descrição: Controle Estatístico aplicado a Redes de Computadores
+Desenvolvido junto ao DEMAC /  Unesp / Rio Claro
+Triênio: mar/2004 a mar/2007
+Objetivo
+Aperfeiçoar o modelo estatístico de redes de computadores desenvolvido durante o doutorado, de forma a:
+- transpor a metodologia de cálculo para as cartas de Controle Estatístico de Processos (CEP) com limites de controle variáveis;
+- desenvolver ferramenta de software integrada que execute todo o processamento sobre os dados dos fluxos, desde a sua separação nos arquivos de coleta até a exibição das cartas CEP e respectiva monitoração;
+Status
+- 1 Trab.Conclusão de Curso (graduação) concluído
+- 1 Ferramenta (tipo Firewall) desenvolvida
+- 1 Orientação de Iniciação Científica submetida FAPESP e PIBIC/CNPq
+- 2 publicações (Workshop de Tecnologia / Unicamp e Congresso Inic.Científica Unesp/2005)
+- 1 prêmio: melhor trabalho de Inic.Científica do IGCE/2005. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Franceschi de Angelis - Coordenador.Número de produções C, T & A: 5
+2001 - 2005
+Projeto Hestia (Versões 1.0 a 3.0)
+Descrição: Projeto: Hestia: uma ferramenta para anamnese neurológica infantil
+André Franceschi de Angelis (Ceset) e Vanda Maria Gimenes Gonçalves (Faculdade de Ciências Médicas)
+Apoio financeiro FAPESP
+O Sistema Hestia é um software criado para anamnese em deficiências sensoriais, voltada à neurologia infantil. O trabalho foi desenvolvido em parceria entre a Faculdade de Ciências Médicas e o Centro Superior de Educação Tecnológica da Unicamp, com apoio da FAPESP. O software está em sua segunda versão e tem distribuição gratuita. O Sistema Hestia registra um conjunto de 181 indicadores de riscos potenciais para lesão neurológica e para detecção de alterações neurosensoriais de cada paciente cadastrado. Adicionalmente, armazena dados civis e sócio-econômicos das crianças e respectivos responsáveis. Em relação a outros softwares com propósitos idênticos, o Sistema Hestia tem como diferenciais sua interface gráfica, sua facilidade de uso e rotinas de consistência de informações. Dispõe de ferramentas poderosas de consultas às bases de dados, via comandos SQL. O layout de tabelas de dados foi projetado tendo em vista o uso em pesquisas científicas. O Sistema Hestia opera em rede, em arquitetura cliente/servidor. O sistema gerenciador de banco de dados utilizado é o Interbase, na versão gratuita. Os resultados obtidos foram o atendimento das necessidades dos ambulatórios de neurologia infantil da Unicamp e a melhoria significativa da qualidade das informações registradas. A prioridade atual dos autores é alimentar o Sistema Hestia com volume de dados suficiente para realização de pesquisas. Há interesse em divulgar e distribuir o software a potenciais usuários. Encontra-se em estágio inicial o desenvolvimento da versão 3, a ser codificada segundo técnicas de programação orientada a objetos, com recursos mais avançados de consulta e visualiza
+Texto atualizado em Abril/2005.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Franceschi de Angelis - Integrante / Vanda Maria Gimenes Gonçalves - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 9

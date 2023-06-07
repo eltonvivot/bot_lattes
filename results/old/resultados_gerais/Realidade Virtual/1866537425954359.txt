@@ -1,0 +1,19 @@
+2017 - Atual
+Interações imersivas com personagens virtuais fisicamente simulados
+Descrição: Este projeto consiste em investigar qual a influência, em relação à sensação de imersão dos usuários,
+de se usar personagens fisicamente simulados em ambientes virtuais.
+Por exemplo, para simular a reação de um personagem ao ser "tocado" pelo usuário, em vez de selecionar uma
+animação específica de reação dentro de um conjunto de animações fixas previamente armazenadas,
+uma simulação física pode ser usada para gerar automaticamente reações mais naturais e contínuas.
+Assim, cada interação diferente implicaria em uma nova reação, gerada em tempo real pela simulação física.
+Para realizar essa investigação, diferentes formas de interação com o usuário devem ser exploradas e analisadas,
+junto com o uso de dispositivos tais como o sensor kinect e de técnicas tais como a realidade aumentada,
+visando potencializá-las ao explorar os aspectos físicos das interações.
+O projeto também visa trabalhar com técnicas na área de controle de movimento humano baseado em física, onde os personagens simulados
+geralmente consistem de estruturas de corpos rígidos articulados com atuadores angulares internos localizados em suas articulações.
+Tais técnicas envolvem desafios tais como o uso de movimentos capturados como guias, para definir melhor os detalhes e o estilo da animação gerada,
+e o tratamento de equilíbrio, possivelmente envolvendo descontinuidades nos contatos.
+Visando fortalecer a hipótese de que usar modelos de contato mais estáveis facilitam, de modo geral, o projeto de controladores,
+técnicas mais estáveis explorando abordagens mais práticas, embora possivelmente menos rigorosas do ponto de vista físico, também devem
+ser exploradas com o intuito de abrir possibilidades mais interessantes de interação com o usuário.
+A combinação dessas técnicas deve permitir interações mais imersivas, que serão facilitadas pelo apelo prático desejado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Rubens Fernandes Nunes - Coordenador / Creto Augusto Vidal - Integrante / Cavalcante-Neto, Joaquim B. - Integrante / Danilo Borges Silva - Integrante / Antônio Sávio Nascimento Cavalcante - Integrante.

@@ -1,0 +1,54 @@
+2023 - Atual
+Desenvolvimento de Manipulador Serial Duplo com Funções Colaborativas
+Descrição: Este projeto de pesquisa propõe o desenvolvimento de um protótipo robótico com dois
+manipuladores seriais para a implementação de funções colaborativas de segurança na
+interação operador-manipuladores e na proteção do mecanismo contra colisões. O conjunto
+eletromecânico será composto por motores elétricos a serem selecionados, interfaceados
+por circuitos drivers de potência com técnica PWM (Pulse Width Modulation), que receberão
+sinais de controle de um sistema computadorizado (software Labview e Matlab
+conjuntamente a um módulo de aquisição e envio de dados). O hardware mecânico será
+projetado e fabricado em manufatura aditiva e usinagem computadorizada. Um modelo
+cinemático irá realizar a associação das coordenadas das juntas de movimentação e o
+efetuador final, permitindo também a configuração de funções colaborativas relacionadas a
+restrições virtuais. Serão implementadas restrições virtuais aos movimentos e espaço de
+trabalho da máquina para evitar colisões entre os dois manipuladores e restrições entre o
+operador e a máquina utilizando sensores de segurança a serem selecionados (laser ou
+visão). O mecanismo robótico permitirá a validação de controladores (PID, Fuzzy, Neural,
+dentre outros), estratégias de controle (impedância ou admitância), bem como a realização
+de testes experimentais para a realização de trajetórias planejadas utilizando o software
+Matlab®. Por fim, será desenvolvido um programa supervisório em Labview® que permitirá a
+operacionalização da máquina, bem como a visualização e edição da ação dos
+controladores por meio de gráficos plotados em tempo real.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alexander Patrick Chaves de Sena - Coordenador.
+2021 - Atual
+Controle de Trajetória e Funções Colaborativas Utilizando Inteligência Artificial para um Robô Paralelo
+Descrição: Este trabalho propõe o controle de trajetória contínuo utilizando inteligência artificial, bem como a implementação de funções colaborativas de segurança, para um protótipo com estrutura cinemática paralela tipo robô delta linear com três graus de liberdade. A retroalimentação é realizada através de encoders incrementais, e sensores de fim de curso são utilizados para limitar o espaço de trabalho. O método de Mamdani será utilizado para concepção de controladores fuzzy. Um modelo matemático realiza a associação das coordenadas dos carros de movimentação e o efetuador final, permitindo também a configuração de funções colaborativas relacionadas a restrições virtuais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexander Patrick Chaves de Sena - Coordenador.
+2018 - 2021
+Controladores Baseados em Lógica Fuzzy Aplicados a Robô Cartesiano Eletropneumático
+Descrição: Os sistemas eletropneumáticos têm sido constantemente utilizados em processos industriais por apresentarem uma boa relação de força, velocidade e aceleração, além de apresentarem baixo custo de manutenção. Os sistemas eletropneumáticos apresentam não-linearidades ocasionadas pela compressibilidade do ar e pelo atrito entre os pistões e cilindros, o que tem motivado a comunidade acadêmica a idealizar estratégias modernas, tais como as adaptativas e inteligentes, para o controle de máquinas acionadas por estes atuadores. Neste sentido, este trabalho propõe o projeto e a implementação experimental de controladores baseados em lógicas fuzzy para o posicionamento e o acompanhamento de trajetórias para um robô manipulador eletropneumático de três graus de liberdade (3 GDL). O robô manipulador é composto basicamente por três válvulas eletropneumáticas e por
+quatro cilindros pneumáticos, três de 450 mm formando o plano XY (dois cilindros para o eixo X) e um de 200 mm no eixo vertical Z. Os cilindros são acionados por meio de três válvulas eletropneumáticas proporcionais comandadas por computador, que direcionam o fluxo de ar comprimido conforme a necessidade de posicionamento. Acopladas às hastes de cada cilindro, estão réguas potenciométricas para medição de suas respectivas posições. Utilizando um módulo multifuncional de dados, as válvulas eletropneumáticas e as réguas potenciométricas serão conectadas ao computador e os sinais serão processados utilizando os softwares Labview® e/ou Matlab®. O manipulador passará por fases de desenvolvimento e testes da instrumentação e implementação dos controladores, a fim de explorar todas as características de velocidade e repetibilidade nos posicionamentos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexander Patrick Chaves de Sena - Coordenador / Dalton Cezane Gomes Valadares - Integrante.
+2016 - 2021
+Desenvolvimento de Protótipo com Cinemática Paralela Tipo Delta Linear para Manipulação Rápida de Peças
+Projeto certificado pela empresa Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco em 05/03/2018.
+Descrição: Este projeto tem como objetivo desenvolver e construir um protótipo com sistema mecânico de estrutura cinemática paralela tipo robô delta linear com três graus de liberdade para trabalhar em mini célula de manufatura. O protótipo deverá ser capaz de realizar o papel de manipulador industrial de alta velocidade e precisão trabalhando em ação pick-and-place sincronizada com uma esteira transportadora. O acionamento das juntas deverá ser realizado por meio de motores de CC (Corrente Contínua) e fuso de esferas recirculantes. Com o protótipo será possível validar modelos cinemáticos, implementar controladores de velocidade e posição. O manipulador passará por fases de desenvolvimento e teste experimental de seu sistema mecânico, circuitos de interface, sistema de aquisição/envio de sinais por computador e programação em supervisório Labview®, a fim de explorar todas as características de velocidade e repetibilidade de posicionamento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Alexander Patrick Chaves de Sena - Coordenador / Dalton Cezane Gomes Valadares - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2015 - 2018
+Análise Preditiva de Avarias em Motores Elétricos e Mecanismos Industriais
+Descrição: Nesta linha de pesquisa é proposta a investigação experimental e por simulações da utilização de variáveis medidas a partir de uma bancada didática composta por motor de indução, sistema engrenado redutor e carga imposta por freio, a fim de analisar avarias de desbalanceamento, desalinhamento e no rolamento do eixo do motor elétrico, bem como de dente quebrado e desgaste no sistema engrenado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alexander Patrick Chaves de Sena - Coordenador / Dalton Cezane Gomes Valadares - Integrante / Felipe Augusto Cruz - Integrante.Número de produções C, T & A: 5
+2015 - 2017
+Desenvolvimento de Atuador Robótico utilizando Liga com Memória de Forma
+Descrição: Esse projeto trata do desenvolvimento de uma garra robótica no qual será utilizado uma liga com memória de forma, como atuador.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alexander Patrick Chaves de Sena - Integrante / Fábio José Carvalho França - Coordenador / Niédson José da Silva - Integrante.Número de produções C, T & A: 2
+2015 - 2017
+Construção e Controle de Robô-Guia para Deficientes Visuais
+Descrição: Proposta de desenvolvimento de um protótipo robótico móvel, almejando uma solução inovadora para mobilidade de deficientes visuais no IFPE campus Caruaru. O protótipo será concebido desde a sua estrutura mecânica até o sistema de controle, o qual será embarcado e composto por microcontrolador, circuitos (Drivers) de potência para acionamento dos motores, circuitos de condicionamento de sinais para os sensores e de módulo de comunicação à distância.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alexander Patrick Chaves de Sena - Coordenador / Julyandryos Montyely Carlos de Mendonça - Integrante.
+2013 - 2016
+Desenvolvimento de Sistemas Mecatrônicos e Robótica Educacional
+Descrição: Este projeto visa desenvolver sistemas mecatrônicos e robóticos de baixo custo, como ferramenta educacional, proporcionando aos alunos um ambiente de aprendizagem que possibilite estimular o raciocínio, a criatividade, o conhecimento multidisciplinar, bem como prepará-los para a realidade industrial, onde é crescente à interação homem-máquina para a realização de tarefas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexander Patrick Chaves de Sena - Coordenador / Dalton Cezane Gomes Valadares - Integrante.Número de produções C, T & A: 7
+2009 - 2011
+Estratégias para Estimação do Conjugado Eletromagnético de Motores de Indução
+Descrição: Desenvolvimento de uma estratégia para determinação do conjugado eletromagnético de Motores de Indução Trifásicos (MIT) a partir da estimação do fluxo estatórico, que apresenta maior robustez frente a variações paramétricas. O fluxo estatórico é estimado integrando-se o modelo de tensão da máquina, aplicando-se Filtros Passa Altas (FPA) para integração ideal da força contra eletromotriz.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexander Patrick Chaves de Sena - Integrante / Simplicio Arnaud da Silva - Integrante / Isaac Soares de Freitas - Coordenador / LINDEN FILHO,H.V.D. - Integrante.Número de produções C, T & A: 2
+2008 - 2008
+Implementação Experimental de um Controlador Nebuloso para Mesa de Coordenadas Acionada por Motores de Indução Trifásicos
+Descrição: Projeto de um controlador nebuloso para o posicionamento de uma mesa de coordenadas de dois eixos acionada por motores de indução trifásicos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexander Patrick Chaves de Sena - Integrante / José Bezerra de Menezes Filho - Coordenador / Simplicio Arnaud da Silva - Integrante / Carlos Alberto Nóbrega Sobrinho - Integrante.Número de produções C, T & A: 3
+2007 - 2008
+Nova Metodologia para Condução Térmica de Sistemas Bidimensionais em Condições de Regime Estacionário
+Descrição: Este trabalho propõe uma nova metodologia que viabilize a obtenção das grandezas relacionadas à condução bidimensional de calor em regime estacionário, utilizando-se uma analogia a sistemas elétricos e fazendo uso da ferramenta computacional MultiSIM para simulação e apresentação dos resultados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexander Patrick Chaves de Sena - Integrante / Francisco Antônio Belo - Coordenador.Número de produções C, T & A: 1

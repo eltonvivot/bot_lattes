@@ -1,0 +1,59 @@
+2010 - 2015
+Análise de Complexidade de Algoritmos em Sistemas Multicore
+Descrição: O contexto atual na área de arquitetura de computadores indica uma mudança definitiva na arquitetura dos sistemas computacionais, de sistemas com um único processador para sistemas multiprocessados e multicore. Esta nova arquitetura induz uma mudança no paradigma de programação de sistemas e aplicações, da programação sequencial para a programação paralela e concorrente. Além disso, sistemas multicore apresentam novas relações de desempenho entre seus componentes (processadores, memória, canais de comunicação e dispositivos de E/S). O impacto destas novas relações na análise de complexidade computacional e, consequentemente, no desempenho e escalabilidade dos programas deve ser avaliado. O tema central dessa pesquisa é a análise de complexidade de algoritmos em sistemas multicore, considerando as novas relações de desempenho dos recursos destes sistemas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2016
+Instituto Nacional de Ciência e Tecnologia para a Web (INCT Web)
+Descrição: O INCT para Web é uma rede integrada de pesquisadores de quatro instituições  criada para projetar e desenvolver sistemas, tecnologias e aplicações que permitam explorar as possibilidades de uso da Web no futuro de forma benéfica para a sociedade. O INCT Web visa estudar e entender os fundamentos científicos e tecnológicos da Web, bem como suas repercussões sociais, para propor e desenvolver sistemas e tecnologias que poderão compor a Web do futuro.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4) . Integrantes: Cristina Duarte Murta - Integrante / Virgilio A F Almeida - Coordenador / Jussara Marques de Almeida - Integrante / Wagner Meira Júnior - Integrante / Dorgival O Guedes Neto - Integrante / Nivio Ziviani - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+Construção de Modelos Reduzidos de Redes Complexas
+Descrição: Este projeto tem o objetivo de criar modelos sintéticos reduzidos da topologia de redes complexas a partir do entendimento do significado e do impacto das propriedades da topologia em sua estrutura e sua operação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2009
+Caracterização e Modelagem de Redes Complexas
+Descrição: Redes complexas são sistemas físicos, biológicos ou sociais caracterizados por um conjunto grande de entidades bem definidas que interagem dinamicamente entre si. Muitos sistemas podem ser representados na forma de redes complexas, dentre eles a Internet e a Web. A representação, o estudo e a modelagem das diversas redes complexas compõem uma área recentemente denominada ciência das redes. O foco atual é a caracterização da estrutura destas redes, considerando o relacionamento intríseco entre a estrutura, a função e as propriedades das redes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2007
+Sistemas Distribuídos Dinâmicos de Larga Escala
+Descrição: Projeto financiado pelo CAPES/PROCAD 2005 em parceria com UFRGS e UFCG.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Cristina Duarte Murta - Integrante / Elias P. Duarte Jr - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2003 - 2005
+MARCO - Metrologia Aplicada às Medições em Redes de Computadores
+Descrição: O objetivo deste projeto de pesquisa é realizar um estudo prospectivo sobre a utilização  dos conceitos da metrologia nas medições de grandezas de desempenho em redes de computadores.  A partir deste estudo serão propostas ações para a melhoria da qualidade e da confiabilidade das medições em redes.  Edital chamada CT-INFO: CNPq/PDPG-TI 11/2002.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2005
+ESCAPE - Escalonamento em Sistemas Instáveis
+Descrição: O objetivo geral deste projeto é propor alternativas para gerenciar um sistema em estado instável, de maneira que ele possa continuar sua operação da melhor forma possível, mantendo a execução de seus serviços com requisitos mínimos de desempenho, até que a carga retorne aos níveis normais e o sistema recupere sua estabilidade. Os sistemas focalizados neste projeto são aqueles que, quando observados em escalas grandes de tempo, por exemplo, um dia, são plenamente estáveis e apresentam utilização baixa, mas que experimentam, frequentemente, períodos relativamente longos de sobrecarga.  Edital Universal 2003.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2004
+IQoM - Infra-estrutura para Medição de QoS e Implantação de Serviços Diferenciados
+Descrição: Este projeto tem dois objetivos principais: a implantação de uma infra-estrutura de medições e a implantação de uma arquitetura de serviços diferenciados. Este projeto tem como foco as medições de desempenho em redes IP e  tem como objetivo aplicar os resultados na RNP. A infra-estrutura de medições deve ser baseada em amplo conhecimento sobre as métricas de desempenho de interesse em cada ambiente e/ou aplicação, e das respectivas técnicas de medição. Edital de Redes Avançadas CNPq 10/2001 - ProTeM/RNP 01/2001, em parceria com UNIFACS, UFRGS, UFSC e CPQD.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Cristina Duarte Murta - Integrante / José Augusto Suruagy Monteiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2002
+e-SCALA - Escalabilidade de Serviços de Comércio Eletrônico baseados na World Wide Web
+Descrição: Chamada 04/2000  CNPq/PROTEM-CC, em parceria com o DCC/ UFMG.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2000 - 2004
+Implicações da Variabilidade da Carga no Desempenho de Sistemas Web
+Descrição: Este projeto tem como objetivo avaliar as implicações da variabilidade da carga dos sistemas Web nas atividades de modelagem e projeto de desempenho destes sistemas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4) . Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Universidade Federal do Paraná - Auxílio
+										financeiro.
+2000 - 2001
+Caracterização de Carga da WWW e suas Implicações no Desempenho de Sistemas baseados em Web
+Descrição: Este projeto focalizou duas áreas de pesquisa:  a caracterização da
+carga na Web e o estudo  das implicações dos aspectos caracterizados
+no projeto de servidores e de sistemas de cache da Web.
+Caracterizar a carga de um sistema é uma tarefa estratégica pois
+as informações obtidas na análise dos dados são fundamentais
+para a construção de sistemas eficientes e precisos no
+tratamento da própria carga. O sucesso dos projetos de sistemas
+computacionais é altamente dependente do conhecimento detalhado das
+propriedades da carga.  Este conhecimento é a base para o projeto e o
+planejamento de capacidade do sistema.
+Financiado pelo APQ do CNPq e pelo programa recém-doutor da UFPR.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Universidade Federal do Paraná - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1997 - 1997
+Task Assignment Policies for Web Servers
+Descrição: Este projeto visou propor novas  políticas de assinalamento de tarefas em aglomerados de servidores Web, considerando a variabilidade da carga.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Cristina Duarte Murta - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

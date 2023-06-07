@@ -1,0 +1,100 @@
+2022 - Atual
+CP 16/21 - Bolsas FA & Bosch: Programa de Bolsas FA/Bosch
+Descrição: Projeto submetido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPPG) a Chamada Pública 16/2021 - Programa de Bolsas da Fundação Araucária & Bosch. A UTFPR for contemplada com 4 bolsas de mestrados com duração de 12 meses cada e um total de R$ 72.000,00. O Prof. Max Mauro, foi contemplado em 2 projetos de pesquisas conforme temas a seguir:
+2. Projeto BSS - Digital Twin.
+Subtema: Otimização de recursos do processo produtivo
+Objetivo: Através dos dados do modelo virtual e dados dos processos criar POCs de otimizações, com foco na alocação de pessoas por turno e nivelamento de produção.
+3. Conectividade de Bancadas de Teste
+Subtema: Utilização de hardwares de conectividade para aquisição de dados de bancadas.
+Objetivo: Aplicação de um hardware com capacidade de realizar a aquisição de sensores de pressão, temperatura e leitura de barramento CAN da ECU com uma grande taxa de aquisição de dados do Wifi e o tratamento dos dados com um dashboard de monitoramento do teste.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Max Mauro Dias Santos - Integrante / André Schneider de Oliveira - Coordenador.
+2021 - Atual
+CP 16/20 - Bolsas FA & Renault: Programa de Bolsas FA/RENAULT
+Descrição: Projeto submetido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPPG) a Chamada Pública 16/2020 - Programa de Bolsas da Fundação Araucária & Renault do Brasil. A UTFPR for contemplada com 6 bolsas de mestrados com duração de 12 meses cada e um total de R$ 201.600,00. O Prof. Max Mauro, foi contemplado em 3 projetos de pesquisas conforme temas a seguir:
+8. Desenvolvimento e otimização do processo de calibração motor via redes neurais;
+Subtema: Desenvolvimento e otimização do processo de calibração motor via redes neurais, através da programação, baseando em ensaios já realizados
+Objetivo: Obter uma proposta de calibração dentro dos limites de CDC projetos
+15. Conectividade;
+Subtema: Desenvolvimento de protocolos de comunicação integrado as centrais eletrônicas do veículo a fim de monitorar parâmetros específicos do comportamento veicular.
+Objetivo: Desenvolver protocolos de comunicação com as centrais eletrônicas do veículo a fim de monitorar parâmetros específicos do comportamento veicular.
+20. Exploração de dados de veículos conectados.
+Subtema: Exploração de dados de veículos conectados (monetização, enterprise value, modelização, manutenção pro-ativa)
+Objetivo: Através de modelos de mineração e análise de dados, explorar a capacidade de responder problemas oriundas da análise profunda dos dados produzidos pelos veículos conectados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Max Mauro Dias Santos - Integrante / André Schneider de Oliveira - Coordenador.Financiador(es): Fundação Araucária & Renault - Bolsa.
+2021 - Atual
+CP 02/20 - Bolsas FA & Volvo: Programa de Bolsas FA/VOLVO
+Descrição: Projeto submetido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPPG) a Chamada Pública  02/2020 - Programa de Bolsas Fundação Araucária & Volvo do Brasil. A UTFPR for contemplada com 2 bolsas de mestrados com duração de 12 meses cada e um total de R$ 69.600,00. O Prof. Max Mauro, foi contemplado em 1 projeto de pesquisas conforme tema a seguir:
+2. Desenvolvimento de Produto
+Subtema: Otimização de Estratégias de Proteção do Veículo Completo
+Objetivo: Estudo e Desenvolvimento de Função de Proteção Sistêmica (integrando componentes/sistemas de veículo completo e trem de força). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Max Mauro Dias Santos - Integrante / Giuseppe Pintaude - Coordenador.Financiador(es): Fundação Araucária & Volvo (PR) - Bolsa.
+2020 - Atual
+SENTIENT ? Scheduling of Event-Triggered Control Tasks
+Descrição: The main goal of this project is to develop and propose techniques and strategies to employ event-
+triggered control (ETC) techniques, which communicate only when needed to enforce performance, to
+reduce the communication traffic and save energy on (wireless) networked control systems (NCS). In
+addition, it is expected consequently to reduce CPU load when compared to the traditional time-triggered
+control techniques. The automotive domain is the target application of this research due to the high
+amount of control loops to control and manage the vehicular subsystems.
+Keywords: control, scheduling, automaton, communication networks, automotive, time-triggered control, event-triggered control and self-triggered control.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Max Mauro Dias Santos - Coordenador / Manuel Mazo Espinosa - Integrante.
+2019 - 2020
+CP 06/19 - Bolsas FA & Renault: Programa de Bolsas de Graduação, Mestrado e Doutorado - UTFPR/Fundação Araucária/Renault - 2019
+Descrição: Projeto submetido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPPG) a Chamada Pública 21/2019 - Programa de Bolsas da Fundação Araucária & Renault do Brasil. A UTFPR for contemplada com: 7 bolsas de graduação,  bolsas de mestrado e  bolsa de doutorado com duração de 12 meses cada e um total de R$ 519.600,00. O Prof. Max Mauro, foi contemplado em 4 projetos de pesquisas conforme temas a seguir:
+Graduação: 
+D. Ferramentas de Simulação Numérica
+J. Sistemas de Multimídia e Auxílio a Condução
+Mestrado: 
+B. Arquitetura Industrial para Indústria 4.0
+F. Inteligência Artificial. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Max Mauro Dias Santos - Integrante / Maria Claudia Figueiredo Pereira Emer - Coordenador.Financiador(es): Renault e Fundação Araucária - Bolsa.
+2018 - 2019
+CP 01/18 - Bolsas FA & Renault: Programa de Bolsas de Graduação, Mestrado e Doutorado - UTFPR/Fundação Araucária/Renault - 2018
+Descrição: Projeto submetido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPPG) a Chamada Pública 13/2018 - Programa de Bolsas da Fundação Araucária & Renault do Brasil. A UTFPR for contemplada com: 9 bolsas de graduação, 6 bolsas de mestrado e 1 bolsa de doutorado com duração de 12 meses cada e um total de R$ 454.800,00. O Prof. Max Mauro, foi contemplado em 1 projeto de pesquisa conforme tema a seguir:
+Graduação: 8. Simulação Numérica
+Subtema: Programação em linguagem de computação de ferramentas de simulação numérica para otimização da qualidade e tempo de atividades ligadas à calibração de motores ciclo Otto
+Objetivo: Desenvolver ferramentas de simulação numérica em linguagens de computação (C, Java, Matlab) para a otimização em qualidade e duração de atividades de desenvolvimento de calibrações de motores Ciclo Otto (atmosféricos, turbo alimentados, injeção direta e indireta).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Max Mauro Dias Santos - Integrante / Ricardo Luders - Coordenador.Financiador(es): Fundação Araucária & Renault - Bolsa.
+2017 - 2018
+CP 02/17 - Bolsas FA & Renault: Programa de Bolsas de Graduação, Mestrado e Doutorado vinculado a Fundação Araucária/Renault
+Descrição: Projeto submetido pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPPG) a Chamada Pública 13/2017 - Programa de Bolsas da Fundação Araucária & Renault do Brasil. A UTFPR for contemplada com: 8 bolsas de graduação, 5 bolsas de mestrado e 2 bolsas de doutorado com duração de 12 meses cada e um total de R$ 806.400,00. O Prof. Max Mauro, foi contemplado em 1 projeto de pesquisa conforme tema a seguir:
+Mestrado: Simulação Numérica de Motor de Combustão Interna
+Subtema: Programação em linguagem de computação de ferramentas de simulação numérica para otimização da qualidade e tempo de atividades ligadas à calibração de motores ciclo Otto
+Objetivo: Desenvolver ferramentas de simulação numérica em linguagens de computação (C, Java, Matlab) para a otimização em qualidade e duração de atividades de desenvolvimento de calibrações de motores Ciclo Otto (atmosféricos, turbo alimentados, injeção direta e indireta).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Max Mauro Dias Santos - Coordenador / Luiz Nacamura Junior - Integrante.Financiador(es): Fundação Araucária & Renault - Bolsa.
+2017 - 2017
+SOFTCAR - Pesquisa e Desenvolvimento de Métodos, Processos e Ferramentas para Engenharia de Software Automotivo Baseado em Modelos - 432692/2016-9 [Projeto Universal Faixa C - R$ 55.532,00]
+Descrição: * Objetivos Gerais:
+Investigar e desenvolver todo o processo de desenvolvimento de software automotivo com métodos, processos e ferramentas baseado no padrão AUTOSAR para Arquiteturas E/E Automotivas, de forma a ter-se conhecimento e maturidade adquiridos para disseminar e contribuir diretamente no setor automotivo do Brasil, e consequentemente criar um grupo de excelência em eletroeletrônica automotiva.
+* Objetivos Específicos
+- Utilização dos recursos adquiridos para consolidação e utilização em trabalhos futuros em eletroeletrônica automotiva;
+- Criação de um núcleo de pesquisa e desenvolvimento em eletroeletrônica automotiva;
+- Suportar aos alunos de graduação e pós-graduação para atividades de ensino, pesquisa e extensão;
+- Adquirir maturidade e disseminação no desenvolvimento e migração de software automotivo baseado no padrão AUTOSAR através dos métodos, processos e ferramentas adequadamente definido;
+- Formação de pessoal qualificado em eletroeletrônica automotiva de acordo com a demanda pesquisa e industrial que envolve o complexo automotivo no Brasil;
+- Desenvolvimento de treinamentos e consultorias para academias e indústrias;
+- Divulgação dos resultados obtidos através de artigos em conferências e periódicos a partir de resultados obtidos;
+* Protótipos
+- Projeto, simulação e testes de sistemas embarcados automotivos;
+- Arquitetura distribuída para um veículo eletrificado em controle remoto;
+- Funcionalidades ADAS e Self-Driving.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (6)  / Doutorado: (3) . Integrantes: Max Mauro Dias Santos - Coordenador / Evandro Leonardo Teixeira - Integrante / Joao Francisco Justo Filho - Integrante.
+2007 - 2009
+FLEX-BY-WIRE: Uma Arquitetura Flexível para Integração de Subsistemas X-by-Wire
+Descrição: EDITAL 03/2007 - PROGRAMA PESQUISADOR MINEIRO - PPM
+Objetivo Geral: Os sistemas embarcados automotivos caracterizam-se por um conjunto sub-sistemas como freio, conforto, direção, estabilidade entre outros, em que a integração das partes provém ao usuário maior conforto e segurança. O mesmo conceito de sub-sistemas pode ser extendidos a sistemas embarcados móveis como aeronáutica, aeroespacial, ônibus, caminhões, tratores, barcos, entre outros. Em específico os sistemas automotivos com uma arquitetura de sistema eletrônico tolerante a falhas que empreguem a tecnologia X-by-Wire será nosso objetivo de projeto o qual serão propostas mecanismos e tecnologias de integração de sub-sistemas baseado em componentes eletrônicos COTS para a indústria automotiva nacional. A arquitetura Drive-by-Wire sera resultante de partes preliminares das arquiteturas Steer-by-Wire, Throttle-by-Wire e Brake-by-Wire, que satisfarão todos os requisitos das aplicações automotives em tempo de projeto. O protótipo pode servir como base para aplicação da tecnologia X-by-Wire em outros sistemas veiculares como, aeronaves, tratores, caminhões, barcos etc. Salienta-se que a nacionalização do know-how desta área considera-se como fator essencial para a redução de custos de produção, tendo assim um impacto direto a nível nacional.
+Um objetivo desejado a ser alcançado para este projeto consiste na geração de conhecimentos e formação de pessoal qualificado, visando ao desenvolvimento científico e tecnológico na área de eletrônica automotiva para o estado de Minas Gerais e o Brasil, com uma integração entre pesquisa, ensino e formação de recursos humanos.
+Objetivos Específicos:
+?	Estudo dos requisitos das aplicações automotivas classe A, B e C.
+?	Análise e projeto de ECU?s automotivas.
+?	Desenvolvimento de aplicações automotivas classe A baseado em rede LIN.
+?	Desenvolvimento de aplicações automotivas classe B baseado em rede CAN.
+?	Desenvolvimento de aplicações automotivas classe C baseado em red. Situação: Concluído; Natureza: Pesquisa. Integrantes: Max Mauro Dias Santos - Coordenador / Demétrio Renó - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2005 - 2006
+ADVANSYS
+Descrição: Project between FEUP and LTR/UnilesteMG
+Experimental Implementation of h-BEB (High Priority Binary Exponential Backoff) protocol in Ethernet board with the following applications:
+- Networked Control Systems;
+- Multimedia;
+- Automotive Multimedia.
+The h-BEB algorithm was concepted in DEMEGI/FEUP (Portugal) for Dr. Francisco Vasques and the PhD student Ricardo de Moraes and is being implemented in LTR/UnilesteMG (Brazil) to validate all simulation results got at this moment.
+The experimental implementation are being realized for two computer graduate students of LTR/UnilesteMG: Ricardo Santos and Bruno Guedes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Max Mauro Dias Santos - Coordenador / Francisco Vasques - Integrante / Ricardo dos Santos - Integrante / Bruno Guedes Moreira - Integrante / Ricardo Alexandre Moraes - Integrante.Financiador(es): Fundação de Ciência e Tecnologia - Auxílio
+										financeiro / Project Advansys - Auxílio
+										financeiro / Universidade do Porto - Auxílio
+										financeiro / Centro Universitário do Leste de Minas Gerais - Bolsa.
+2003 - 2004
+CLEOPATRE: Open-source Operating System Facilities for Real-time Embedded Applications
+Descrição: CLEOPATRE é um projeto que visa construir um novo framework dedicado a responder às necessidades dos desenvolvedores de aplicativos em tempo real, mais particularmente para ambientes de código aberto. Os componentes opcionais da biblioteca do sistema operacional cobrem uma grande variedade de necessidades em termos de agendamento, sincronização, tolerância a falhas e manutenção de tarefas aperiódicas. Projeto e desenvolvimento de ferramentas para avaliação de desempenho do RTAI-Linux.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Max Mauro Dias Santos - Coordenador / Claudiane Labiapari - Integrante.Financiador(es): Centro Universitário do Leste de Minas Gerais - Bolsa.Número de produções C, T & A: 1

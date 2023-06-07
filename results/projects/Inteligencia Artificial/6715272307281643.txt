@@ -1,0 +1,81 @@
+2020 - Atual
+FERRAMENTAS COMPUTACIONAIS E TÉCNICAS ESTATÍSTICAS PARA TRANSFORMAÇÃO DE DADOS DO AGRONEGÓCIO EM INFORMAÇÕES
+Descrição: Dados históricos, mais comumente no formato de séries temporais, são em geral
+armazenados em grandes bancos de dados, de forma a que olhando diretamente
+uma dessas planilhas com valores é muito difícil identificar informações ou padrões
+claros, que auxiliem de maneira simples os gestores na tomada de decisão. Dessa
+forma, faz-se necessário para sua análise o uso de ferramentas específicas, que
+podem facilitar o entendimento, porém o uso dessas ferramentas é restrito a
+pessoas que conhecem suas funcionalidades e são capacitadas para filtrar esses
+dados brutos e transformá-los em informações claras para o setor do agronegócio. O
+projeto envolverá tanto alunos do curso de engenharia de produção quando do
+mestrado em tecnologias computacionais para o agronegócio. O objetivo é
+exatamente o de capacitar os alunos, bem como disponibilizar os resultados das
+pesquisas individuais com vistas a fornecer informações para os setores ligados ao
+agronegócio ou mesmo para estudantes de outras áreas, órgãos governamentais,
+setor financeiro, entre outros, que possam se beneficiar desses resultados. Para
+realização do projeto cada aluno deve inicialmente encontrar e escolher um tema
+ligado ao agronegócio, buscar séries históricas de dados e elaborar um plano de
+trabalho específico. Vários bancos de dados governamentais e/ou institucionais
+fornecem essas séries históricas temporais em períodos de tempos suficientemente
+longos para a realização do estudo, o tempo mínimo aceitável será de 5 anos
+quando os dados forem mensais e 10 anos para séries de dados anuais. A seguir
+pesquisas bibliográficas devem ser realizadas, visando conhecer o produto
+escolhido, bem como todo o cenário mercadológico no qual ele se encontra, para
+posteriormente realizar-se a aplicação alguma das possíveis técnicas estatísticas
+aplicadas em inteligência de negócios, mineração de dados, entre outras opções.
+Por fim os alunos apresentarão seus resultados em relatórios de iniciação científica
+ou dissertações de mestrado e ou publicações técnicas em eventos, periódicos
+científicos ou capítulos de livros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Thainá Inácia da Silva - Integrante / Louiza Stefhany Santos Tibes - Integrante.
+2020 - Atual
+PREVISÃO ESTATÍSTICA DE DADOS DA COVID-19
+Descrição: O projeto se destina a realização de análise e modelagem de dados por meio de técnicas estatísticas de previsão com vistas a disponibilização de análises e publicação de artigos com os modelos desenvolvidos para mapeamento da pandemia e apoio a saúde pública para tomada de ações.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Camille Schmidt de Proença - Integrante.Número de produções C, T & A: 2
+2017 - Atual
+PREVISÕES FUTURAS COM BASE EM ANÁLISES ESTATÍSTICAS DE DADOS DO AGRONEGÓCIO BRASILEIRO
+Descrição: Várias empresas, bem como órgãos governamentais realizam um importante trabalho de coleta de dados os quais podem embasar tomadas de decisão por parte de empresas e produtores, mas o estudo e interpretação desses enormes ?big datas? são complicados. É nesse ponto que entra a importância de um projeto que visa estudar esses dados e disponibilizar informações filtradas e detalhadas de forma mais simples para todos, além de previsões para um futuro próximo. Nesse estudo pretende-se escolher séries temporais as quais podem ser facilmente coletadas e posteriormente submetidas a análises estatísticas para elaboração de previsões de cenários futuros ligados ao agronegócio Brasileiro. O objetivo geral do estudo será o uso de dados de séries temporais, disponibilizados em grandes bancos de dados e aplicar análise estatísticas básicas e de previsão, tais como: métodos de regressão, médias móveis, suavização exponencial e processo auto regressivo integrado de média móvel por meio de softwares estatísticos, como o Action Stat Pro® e o Gretl entre outros disponíveis para uso. Após a correta realização das análises estatística o aluno deverá tirar conclusões e apresentar suas observações e os resultados que observou sobre o cenário escolhido para estudo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Carolina Deina - Integrante / Alexandre Marzochi - Integrante / Camila Ciello - Integrante / Dayane Regina Trage - Integrante / Ingridy Maria Xavier Miranda - Integrante / Lucas Marujo - Integrante / Patrick Drigo Tayano - Integrante / Eloise Pamela Pusch - Integrante / Felipe Eduardo Pilz Dieder - Integrante / Gessica Carine Kranz - Integrante / Grasielly Bruna Vincenzi Rockenbach - Integrante / Gyovani de Souza Correia - Integrante.Número de produções C, T & A: 23
+2015 - 2017
+DESENVOLVIMENTO DE NOVOS PRODUTOS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Neron Alípio Cortes - Integrante / Carolina Deina - Integrante / Alexandre Marzochi - Integrante / Nathália Fernandez Nascimento - Integrante / Giuliana Karoline Bragança Pavão - Integrante.
+2015 - 2017
+Avaliação Estatística e Aplicação de Ferramentas da Qualidade em Dados de Acompanhamento de Processos Produtivos
+Descrição: Pretende-se escolher dados que possam ser submetidos a análises tanto estatísticas quanto por meio do uso de ferramentas da qualidade, visando avaliar a situação na qual o processo produtivo estudado se encontra.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / GENILSO GOMES DE PROENÇA - Integrante / Camila Viapiana - Integrante / Fabíola Kaczam - Integrante / THAIS GARRIDO - Integrante.Número de produções C, T & A: 7
+2014 - 2016
+Avaliação Qualitativa de Diferentes Tipos e Marcas de Balas e Caramelos Utilizando Técnicas Laboratoriais e Ferramentas da Qualidade
+Descrição: Esse projeto tem por objetivo realizar avaliações qualitativas e quantitativas em balas e caramelos presentes no mercado do município de Medianeira realizando uma avaliação da qualidade do produto em relação às expectativas dos consumidores de balas e caramelos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Gisela Tossi Capasso - Integrante / Aida Ferreira Carneiro - Integrante / Sabrina Sadalla Collese - Integrante / Tássio de Morais Garcia - Integrante / Bianca Cristina Trentin - Integrante / Alexandra Ramos Matuszak - Integrante / Carolina Deina - Integrante.Número de produções C, T & A: 15
+2012 - 2013
+Desenvolvimento e comparação de vegetais desidratados por diferentes métodos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Mayara Rohenkohl Ricci - Integrante / Juliane de Freitas Battisti - Integrante.Número de produções C, T & A: 1
+2012 - 2013
+Idealização, desenvolvimento e avaliação de novos produtos alimentícios.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Celeide Pereira - Integrante / Camila C. R. Compagnoni - Integrante / Eduardo Augusto Naumann - Integrante.Número de produções C, T & A: 1
+2010 - 2012
+Avaliação microbiológica e sensorial de produtos vegetais desidratados em secador solar.
+Descrição: A busca por uma ampliação do tempo de conservação de frutas, hortaliças, temperos e condimentos tem sido o objeto de estudo de muitos projetos de pesquisas na área de tecnologia de produtos de origem vegetal.  A utilização de desidratação é uma das saídas na busca dessa conservação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Denílson Baumgartner - Integrante / Joseane Quitaiski - Integrante / Débora Cavalli - Integrante / Mayara Ricci - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2010 - 2011
+Fabricação de Etanol a partir de resíduos vegetais (Legumes e Verduras)
+Descrição: A geração de resíduos aumenta com o desenvolvimento de uma região assim como aumenta o consumo energético. Pesquisas a cerca da reutilização de resíduos para a geração de energia favorecem a resolução destes dois problemas. O presente projeto objetiva avaliar a viabilidade técnica-econômica da fabricação de etanol a partir de resíduos vegetais de legumes e verduras com diferentes combinações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador / Fabiana C. A. SCHÜTZ - Integrante.Financiador(es): Parque Tecnológico de Itaipú - Bolsa.Número de produções C, T & A: 2
+2009 - 2011
+PAPEMD 11/2009 - Avaliação microbiológica de alimentos e água
+Descrição: Durante o processamento e a manipulação de alimentos, estes estão sujeitos à  contaminações  de natureza  química,  física e  microbiológica,  sendo esta última a que provoca os maiores problemas para as indústrias de alimentos e seus consumidores. As condições dos ambientes industriais onde se processam os alimentos, tais como: fluxo de água, concentração ampla de alimentos e a presença de materiais crus, favorecem a aderência bacteriana e o desenvolvimento de biofilmes que podem se soltar e contaminar os alimentos industrializados. A avaliação da inocuidade de alimentos é de grande importância na saúde pública e a análise microbiológica de alimentos por meios de microrganismos indicadores pode avaliar a segurança alimentar. O estudo de técnicas de conservação e/ou métodos eficientes de estocagem de alimentos que reduzam a contaminação bem como ampliem sua vida de prateleira é de grande interesse na área e é no caso o objetivo principal deste estudo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador.Financiador(es): Universidade Tecnológica Federal do Paraná - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2009 - 2010
+Pesquisa levantamento sobre hábitos de consumo de água e alimentos e correlação destes com o aparecimento de problemas de saúde na cidade de Santa Helena - PR.
+Descrição: OBJETIVO GERAL
+Realizar uma pesquisa levantamento com moradores da cidade de Santa Helena, tanto na área urbana como rural.
+OBJETIVOS ESPECÍFICOS
+Levantar as fontes de abastecimento de água mais utilizadas e os tipos de tratamentos empregados nesse água;
+Verificar o local de aquisição de verduras e leite e os tipos de tratamentos utilizados pela população antes do consumo desses produtos;
+Correlacionar por meio de estudo de coorte se a exposição está associada à doença.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador.Financiador(es): Parque Tecnológico de Itaipú - Bolsa.Número de produções C, T & A: 3
+2009 - 2010
+Avaliação da eficiência, aceitação visual e sensorial de acerolas tratadas com biofilmes comestíveis.
+Descrição: Avaliar a viabilidade de aplicação de diferentes tipos de biofilmes comestíveis objetivando ampliar o tempo de conservação pós-colheita de acerolas. Avaliar os diferentes biofilmes com base em análises sensoriais hedônicas; tanto visual como de degustação e acompanhar por meio de análises fisico-químicas a durabilidade final do produto com e sem tratamento, com vistas a possibilitar a aplicação da técnica em escala industrial, tornado viável a aplicação do tratamento escolhido no packing house, antes do envio da fruta para o mercado consumidor. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador.Financiador(es): Universidade Tecnológica Federal do Paraná - Bolsa.Número de produções C, T & A: 2
+2008 - 2009
+PAPEMD 13/2008
+Descrição: Monitoramento da qualidade de águas de abastecimento na região oeste do Paraná.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Carla Adriana Pizarro Schmidt - Coordenador.Financiador(es): Universidade Tecnológica Federal do Paraná - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2004 - 2004
+Estudo de vida de prateleira e registro de produtos
+Descrição: 50 horas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carla Adriana Pizarro Schmidt - Coordenador.
+1997 - 1998
+Vale Saber
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carla Adriana Pizarro Schmidt - Coordenador.

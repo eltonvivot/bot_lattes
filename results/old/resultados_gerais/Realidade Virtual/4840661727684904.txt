@@ -1,0 +1,108 @@
+2015 - 2017
+Construção de uma fundação teórica e tecnológica a respeito de coordenação de múltiplos robôs móveis
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Raphael Winckler de Bettio - Coordenador / Renato Ramos da Silva - Integrante / Rodrigo Calvo - Integrante / ANDERSON RODRIGO DE OLIVEIRA - Integrante.
+2014 - Atual
+Mobile Accessibility: Estudo empírico para definição de guidelines de acessibilidade para aplicações móveis baseadas nos problemas encontrados por usuários com deficiência visual
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Raphael Winckler de Bettio - Integrante / André Pimenta Freire - Coordenador / Juliana Galvani Greghi - Integrante.
+2013 - 2016
+O Uso da Robótica no Ensino da Matemática
+Descrição: O objetivo geral deste projeto de pesquisa é verificar a validade da aplicação da ferramenta robótica (hardware/software) no aprimoramento do ensino e da aprendizagem da Matemática, particularmente nos conteúdos do ensino médio.
+Como objetivos específicos necessários ao desenvolvimento deste projeto têm-se:
+a) Estudar os métodos de ensino da Matemática atualmente utilizados no ensino médio das escolas públicas;
+b) Identificar quais problemas práticos dos conteúdos da Matemática podem ser resolvidos empregando a robótica;
+c) Desenvolver um método de ensino da Matemática que empregue a robótica como ferramenta principal;
+d) Aplicar o método desenvolvido para o ensino da Matemática nas escolas públicas que oferecem ensino médio;
+e) Avaliar a aplicação do método desenvolvido, comparando o cenário atual do ensino da Matemática com a situação futura.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Raphael Winckler de Bettio - Integrante / Fernanda Barbosa Ferrari - Coordenador.
+2012 - 2013
+Programação e Configuração Automática de Redes de Sensores Sem Fio Através de Programação Genética
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Raphael Winckler de Bettio - Integrante / HEIMFARTH, TALES - Coordenador.
+2011 - 2015
+GrubiBots : Modelagem e Implementação de uma Plataforma para Programação de Robôs Móveis Baseados em Sensores
+Descrição: Este projeto tem por objetivo construir uma plataforma computacional que possa ser utilizada no desenvolvimento e teste de algoritmos voltados a programação de robôs móveis autônomos baseados em sensores, plataforma a qual deverá ser baseada em peças de software (programas, módulos, plugins e arquiteturas) já existentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Raphael Winckler de Bettio - Coordenador / Tales Heimfarth - Integrante.
+2011 - 2013
+eCommunity: Modelo para Construção um Ambiente de Aprendizagem Colaborativa
+Descrição: Nos últimos anos, a Educação a Distância foi impulsionada pelo uso das novas tecnologias
+de informação e comunicação, notadamente após o surgimento da Internet, aumentando assim
+sua abrangência no que diz respeito à diversidade de informação distribuída e à quantidade de
+grupos sociais atingidos. Os modelos de Educação a Distância baseados em Ambientes Virtuais de Aprendizagem,
+que são sistemas de gerenciamento de conteúdo e atividades, na maioria das vezes virtualizam a
+sala de aula, deixam em aberto uma lacuna que pode ser preenchida por ambientes baseados em
+aprendizagem colaborativa.
+O objeto de estudo do projeto ?e-Community: modelo para construção de um ambiente
+de aprendizagem colaborativa? centraliza-se na proposta de desenvolver um modelo
+educacional/computacional que suporte a aprendizagem colaborativa.
+A presente proposta visa promover a disseminação do conhecimento, não só
+empregando métodos formais de ensino, mas também se apropriando dos métodos não formais,
+que são difundidos no campo da atualização profissional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Raphael Winckler de Bettio - Coordenador / Fernanda Barbosa Ferrari - Integrante.
+2010 - 2011
+Compartilhamento de informações de preços de interesse da comunidade acadêmica da UFLA por meio da utilização do software social Preço Público
+Descrição: 1.Pesquisar junto à comunidade acadêmica da UFLA os produtos e serviços de interesse, no sentido de orientar à busca de informações de preço praticados pelas empresas que o ofertam.
+2.Coletar, processar e disponibilizar sistematicamente informação de preços de produtos e serviços de previamente elencados, utilizando o software social PrecoPublico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Raphael Winckler de Bettio - Integrante / Jordan Paulesky Juliani - Coordenador / Fabio Ferreira - Integrante.Número de produções C, T & A: 2
+2005 - 2005
+Plataforma Educacional e de Serviços Integrada para Surdos
+Descrição: Desenvolvimento de uma plataforma educacional e de serviços integrada para deficientes auditivos, grupos de apoio,  e .profissionais que atuam na educação de deficientes auditivos. O projeto prevê a P&D em lingüística computacional; particularmente, tem como meta análise e desenvolvimento de encoverters, deconverters e dicionários de Palavras Universais (UW¿s), de acordo com a especificação da UNL, Universal Networking Language. Através da incorporação da UNL, pretende-se dar acesso a contatos internacionais aos portadores de deficiência. 
+Metas do Projeto: 
+Desenvolvimento da plataforma VIAS-KA e criação dos dicionários LIBRAS-UNL-Português; Desenvolvimento de Metodologias e documentações relacionadas à de conteúdos digitais; 
+Desenvolvimento de Metodologias e documentações relacionadas à aprendizagem de português de parte de portadores de deficiência auditiva, através de meios eletrônicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raphael Winckler de Bettio - Integrante / Alejandro Rodrigues Martins - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Outra.
+2005 - 2005
+Projeto de Reestruturação da Arquitetura Internet Visando Atender a Demanda de Aplicações Multimídia em Tempo Real
+Descrição: Existem limitações no protocolo da Internet que dificultam a criação
+de novos produtos; algumas dessas limitações estão relacionadas ao
+projeto original da arquitetura da Internet.
+Este projeto busca uma melhoria no processo de comunicação da
+Internet, identificando problemas em sua infra-estrutura e propondo
+alterações que se façam necessárias para melhorar sua utilização no
+ambiente de aplicações multimídia. Apresenta-se uma extensão à
+arquitetura atual da Internet, que separa as funcionalidades de sessão
+em uma camada específica, solucionando alguns problemas atuais e
+compondo um ambiente integrado de funcionalidades de sessão que
+auxilia no desenvolvimento de aplicações futuras.
+Além do objeto inicial de pesquisa, o Projeto visa criar um novo
+conceito de distribuição de tráfego multimídia; normalmente o tráfego
+multimídia é gerenciado pelo servidor central. O conceito de
+distribuição de tráfego multimídia permite um melhor aproveitamento
+dos recursos de rede, uma vez que o tráfego é replicado nas pontas,
+entre os participantes de uma conferência distribuída.
+Outra contribuição que o projeto visa refere-se à capacidade de
+dividir o tráfego da internet em categorias, tais como: web, serviço
+de voz sobre IP, vídeo sob demanda, transferência de arquivos, e-mail,
+dispositivo móvel, entre outras. Tal divisão soluciona um problema
+atual, que se refere à identificação do tráfego gerado na Internet.
+Trabalhos futuros estão sendo relacionados analisando as adaptações
+necessárias para permitir que os firewalls reconheçam essa extensão e
+analisem os componentes por ela criados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Raphael Winckler de Bettio - Integrante / Dayna Bortoluzzi - Coordenador / Elizabeth Specialsky - Integrante.Financiador(es): Instituto Virtual de Estudos Avançados - Outra / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.
+2004 - 2005
+Projeto para Implantação da Metodologia de Gerenciamento Risco da Previdência Social
+Descrição: Pesquisa e Desenvolvimento de um Sistema Integrado, utilizando Gestão
+do Conhecimento com Inteligência Artificial, para Implantação da
+Metodologia de Gerenciamento de Riscos da Previdência Social
+Objetivos especificos:
+1.      Pesquisar, no contexto de informações do Ministério da Previdência
+Social, soluções que visem potencializar tecnologicamente os objetivos
+da metodologia do Gerenciamento de Riscos;
+2.      Desenvolver soluções específicas para o contexto sócio-tecnológico
+pesquisado, baseadas em modelos e conceitos matemáticos,
+econométricos, de Inteligência Artificial e Gestão do Conhecimento ;
+3.      Implantar as soluções específicas para o contexto sócio-tecnológico
+pesquisado, baseadas em modelos e conceitos matemáticos,
+econométricos, de Inteligência Artificial e Gestão do Conhecimento;
+4.      Desenvolver soluções para identificar, classificar, analisar e
+monitorar vulnerabilidades e riscos no contexto da Previdência Social;
+5.      Implantar as soluções para identificar, classificar, analisar e
+monitorar vulnerabilidades e riscos no contexto da Previdência Social;
+6.      Modelar o ambiente integrado de apoio à coleta, análise e difusão
+de conhecimentos visando subsidiar o processo de tomada de decisão em
+diferentes níveis hierárquicos da organização;
+7.      Implantar o ambiente integrado de apoio à coleta, análise e difusão
+de conhecimentos visando subsidiar o processo de tomada de decisão em
+diferentes níveis hierárquicos da organização;
+8.      Realizar a transferência de  tecnologia para a Previdência Social;
+9.      Modelar as interfaces de comunicação  da solução proposta com os
+principais sistemas já desenvolvidos ou em desenvolvimento na
+Previdência Social, preservando a ótica de Gerenciamento de Riscos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (4)  / Mestrado acadêmico: (23)  / Mestrado profissional: (0)  / Doutorado: (22) . Integrantes: Raphael Winckler de Bettio - Integrante / Alejandro Martins Rodrigues - Coordenador / Jordan Paulesky Juliani - Integrante / Jaime Prochnow - Integrante / Luis Henrique Bogo - Integrante / Fábio Cristiano dos Anjos - Integrante / Cassiano Niehues Bet - Integrante / Alessandro Amâncio - Integrante / Aline Torres Nicolini - Integrante / Ana Maria M. A. Vasconcelos - Integrante / Andrea Steil - Integrante / Andrey Morais Rocha - Integrante / Anelise da Costa Daux - Integrante / Carlos André Cardoso dos Santos - Integrante / Cristina Souza Santos - Integrante / Daniel Lemos Teixeira - Integrante / Daniela de Sá Jacobina - Integrante / Dayna Maria Bortoluzzi - Integrante / Deisy Igarashi - Integrante / Deucélia Eva Pedroso - Integrante / Douglas Hinckel Martins - Integrante / Dulce Márcia Cruz - Integrante / Édis Mafra Lapolli - Integrante / Eduardo da Silva Mattos - Integrante / Eleonora Schlemper Mendonça - Integrante / Elizabeth Specialski - Integrante / Fabiano Garcia - Integrante / Fabiano Romerio Barbon - Integrante / Fabrícia Gonçalves de Carvalho - Integrante / Fabricio Tadeu Donatti - Integrante / Felipe Correa da Costa - Integrante / Fernanda Ferrari - Integrante / Fernanda Pires - Integrante / Fernando Álvaro Ostuni Gauthier - Integrante / Giovana Schuelter - Integrante / Gustavo Burckhardt - Integrante / Helena Cristina Alexandre - Integrante / Heleno Fülber - Integrante / Hugo Cesar Hoeschl - Integrante / Janae Martins - Integrante / Janaína M. da Silveira - Integrante / João Carlos Santos - Integrante / João Elias Daniel Duarte - Integrante / José Lucas Pedreira Bueno - Integrante / Karla Garcia - Integrante / Laura Tuyama - Integrante / Leonardo Ensslin - Integrante / Leonardo Manzoni - Integrante / Lilian Gonçalves - Integrante / Luciana Martins Saraiva - Integrante / Manoel Henrique do Val Oliveira Lino - Integrante / Marcello Thiry Comicholi da Costa - Integrante / Marco Aurelio Zimmermann - Integrante / Marcus Grudtner - Integrante / Maria Margareth Mainhardt Carpes - Integrante / Marialice de Moraes - Integrante / Mariana Mafra - Integrante / Nayara Gondim - Integrante / Newton Gonçalves de Souza - Integrante / Nilson Ribeiro Modro - Integrante / Paulo de Tarso Mendes Luna - Integrante / Paulo Cesar Lapolli - Integrante / Rafael Dutra Luciano - Integrante / Rafael Feyh Jappur - Integrante / Regina Bolzan - Integrante / Ricardo Miranda Barcia - Integrante / Rodrigo Della Pasqua - Integrante / Sandra Rolim Ensslin - Integrante / Sergio Murilo Petry - Integrante / Silvana Pezzi - Integrante / Silvério Henrique Vilvert - Integrante / Tânia Cristina Bueno - Integrante / Valdir Antonio Luiz Junior - Integrante / Vanessa da S. Dutra - Integrante / Victor Américo Cardoso - Integrante / Vitória Damiani - Integrante / Werner Bruns - Integrante / Wesley Bezerra - Integrante.
+2000 - 2004
+Viask - Plataforma de Ensino a Distância
+Descrição: Viask - Plataforma de Ensino a Distância. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raphael Winckler de Bettio - Integrante / Alejandro Rodrigues Martins - Coordenador.
+2000 - 2004
+OBID - Portal do Observatório Brasileiro de Informações sobre Drogas  - Menção Honrosa I Prêmio Excelência em Governo Eletrônico
+Descrição: OBID - Portal do Observatório Brasileiro de Informações sobre Drogas  - Menção Honrosa I Prêmio Excelência em Governo Eletrônico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Raphael Winckler de Bettio - Integrante / Alejandro Rodrigues Martins - Coordenador.

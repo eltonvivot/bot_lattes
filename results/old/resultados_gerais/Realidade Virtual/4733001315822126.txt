@@ -1,0 +1,3 @@
+2002 - Atual
+Sistema Previsor de Carga Ativa de Curto Prazo
+Descrição: O principal objetivo deste projeto consiste em analisar diferentes modelos de redes neurais para previsão de carga nodal ativa de curso prazo e diferentes organizações para os dados de entradas com vistas a ter modelos com alta precisão e curto tempo de treinamento. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antonio Carlos Mariani - Integrante / Cláudio Magalhães - Integrante / Raul Sidnei Wazlawick - Coordenador.

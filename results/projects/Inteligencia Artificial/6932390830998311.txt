@@ -1,0 +1,50 @@
+2009 - 2011
+Diagnóstico dos Processos Organizacionais de Empresas do Setor Aeronáutico e Aeroespacial
+Descrição: Foi desenvolvido um diagnóstico dos processos organizacionais de empresas, de forma abrangente e modular. Os resultados identificam as forças e fraquezas das empresas avaliadas e proporcionam um benchmarking com as demais empresas. O produto desenvolvido foi denominado: Avaliação Modular de Organizações (AMO) e foi utilizado inicialmente na avaliação de 37 empresas do Arranjo Produtivo Local Aeroespacial e de Defesa do Vale do Paraíba - SP. Até junho de 2011, mais de 100 empresas já haviam sido avaliadas pelo método AMO.. 
+ 
+Integrantes: Luís Gonzaga Trabasso - Integrante / jucimara de souza - Integrante / Marina Mendonça Natalino Zenun - Integrante / Patrícia Maria Buarque de Toledo - Integrante / Michelle Aparecida Gomes Eller - Integrante / Alex Sandro de Araújo Silva - Integrante / Brenda Carolina López Villafranca - Integrante / Marcelo Farhat de Araujo - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Instituto Tecnológico de Aeronáutica - Cooperação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luís Gonzaga Trabasso - Integrante / Marcelo Farhat de Araújo - Coordenador.
+2006 - 2007
+Mapeamento da Aplicação de Materiais de Protótipos Rápidos em FDM nos Setores Médico, Aeroespacial e Automotivo
+Descrição: Objetivo geral:
+Determinação da viabilidade de aplicação de diferentes materiais em peças prototipadas de três segmentos estratégicos, quais sejam, aeroespacial, médico e automotivo.
+O objetivo geral é desdobrado nos seguintes objetivos específicos:
+1. Caracterização de materiais para prototipagem, 
+2. Verificação de parâmetros de construção de corpos de prova, 
+3. Identificação de requisitos dos componentes,
+4. Fabricação e testes de componentes,
+5. Avaliação final.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Luís Gonzaga Trabasso - Coordenador / Jefferson de Oliveira Gomes - Integrante / André Gerard Radtke - Integrante / Alan Eduardo Lam - Integrante / Anderson Vicente Borille - Integrante / Diego Rodrigues SantAnna - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2005 - 2008
+Sistema Inteligente para Determinação e Execução de Seqüências de Montagem em Células de Manufatura Robotizadas
+Descrição: Objetivos Específicos:
+1. Reestruturação do manipulador robótico PUMA 560 do Centro de Competência em Manufatura do Instituto Tecnológico de Aeronáutica (ITA);
+2. Implementação da calibração da interface robô-sistema de visão;
+3. Implementação da calibração da interface robô-CAD para geração da programação off-line;
+4. Geração da seqüência ótima de montagem utilizando a Rede Neural Artificial de Hopfield Modificada;
+5. Integração dos objetivos (1), (2), (3) e (4) para montagem inteligente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Luís Gonzaga Trabasso - Coordenador / Carlos Cesar Aparecido Eguti - Integrante / Raquel Melo de Almeida - Integrante / Adriano José Cunha de Aguiar - Integrante / Bruno Gomes Werneck - Integrante / Flávia Brum - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 33
+2001 - 2007
+Desenvolvimento de Aplicações da Mecatrônica à Medicina
+Descrição: Desenvolvimento de produtos e sistemas mecatrônicos para a área de medicina, particularmente, procedimentos cirúrgicos de ortopedia e próteses de membros superiores.
+Estão sendo desenvolvidos dois protótipos, a saber:
+1) Serra mecatrônica para cirurgia de osteotomia
+2) Prótese de mão acionada por sinais elétricos humanos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Luís Gonzaga Trabasso - Coordenador / Alfred Makoto Kabayama - Integrante / Fernando Silveira Madani - Integrante / Talía Simões dos Santos - Integrante / Thiago Ribeiro Bento - Integrante / Suelia de Siqueira Rodrigues - Integrante / Thaisa Talarico Hyppolito - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / University of Dundee - Cooperação / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 22
+1999 - 2002
+Projeto Integrado de P&D em Técnicas Avançadas de Manufatura
+Descrição: Objetivo Geral: desenvolvimento, implementação e difusão do conceito de Desenvolvimento Integrado de Produto Auxiliado por Computador.
+A consecução do objetivo geral será obtida através dos seguintes objetivos específicos. 
+1.	Formação de Recursos Humanos
+2.	Pesquisa e Desenvolvimento de Tecnologias Avançadas de Manufatura Integrada por Computador
+3.	Implantação da segunda fase do Centro de Competência em Manufatura - CCM
+4.	Aplicação de Técnicas de Automatização da Manufatura na Indústria Aeronáutica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Luís Gonzaga Trabasso - Coordenador / Henrique Benedetto Neto - Integrante / Antônio da Cunha Campello - Integrante / Alfred Makoto Kabayama - Integrante / Luiz Carlos Sandoval Góes - Integrante / Sérgio Frascino Müller de Almeida - Integrante / Luiz Alberto Gentil Mendes - Integrante / Fernando Silveira Madani - Integrante / Alberto Adade Filho - Integrante / Cairo Lúcio Nascimento Júnior - Integrante / Marcos Leandro Simonetti - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 33
+1994 - Atual
+Desenvolvimento Integrado de Produtos
+Descrição: Desenvolvimento Integrado de Produtos (DIP) é a atividade de projeto funcional realizada concomitantemente com o projeto do sistema de produção e demais áreas do ciclo de desenvolvimento do produto a saber: montagem, assistência técnica, reciclagem entre outras.
+A aplicações do DIP visam com maior ênfase a indústria aeronáutica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (0)  / Mestrado acadêmico: (6)  / Mestrado profissional: (8)  / Doutorado: (3) . Integrantes: Luís Gonzaga Trabasso - Coordenador / Antônio da Cunha Campello - Integrante / Geilson Loureiro - Integrante / Luis Marcelo Coelho Acosta - Integrante / Henrique Abrahão Alves - Integrante / Claudiano Soares Araújo - Integrante / Sandro Giovanni Valeri - Integrante / Luis Gustavo Scrassolo Martini - Integrante / Marcelo Fabrício Prim - Integrante / Daniella Yada Negroni - Integrante / Cássio Dias Gonçalves - Integrante / Alex Sandro de Araújo Silva - Integrante / Anderson Vicente Borille - Integrante / Viviane Gaspar Ribas - Integrante / Sergio Mitiharu Matsumoto - Integrante / Regis Assao - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa / EMBRAER - Cooperação.Número de produções C, T & A: 88
+1994 - Atual
+Mecatrônica: Pesquisa Básica e Aplicada
+Descrição: O projeto destina-se a consolidar os fundamentos conceituais da Mecatrônica, sintetizados através da seguinte definição operacional: Mecatrônica é a atividade de projeto e manufatura para o desenvolvimento de produtos e sistemas caracterizados pela funcionalidade mecânica e controle algoritmo integrado.
+São desenvolvidas soluções mecatrônicas para vários setores industriais, sobretudo as aplicações de automação industrial dos setores aeronáutico e automotivo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Luís Gonzaga Trabasso - Coordenador / Alfred Makoto Kabayama - Integrante / Luiz Carlos Sandoval Góes - Integrante / Fernando Silveira Madani - Integrante / Alberto Adade Filho - Integrante / Emerson de Góes - Integrante / Marcos Leandro Simonetti - Integrante / Jefferson de Oliveira Gomes - Integrante / Emília Villani - Integrante / Carlos Cesar Aparecido Eguti - Integrante / Marco Antônio Oliveira Coelho - Integrante / Raquel Melo de Almeida - Integrante / Flávia Brum - Integrante.Financiador(es): Destaco Inc Usa - Auxílio
+										financeiro / Arvin Meritor do Brasil - Cooperação / EMBRAER - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 112

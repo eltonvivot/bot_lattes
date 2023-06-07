@@ -1,0 +1,128 @@
+2019 - Atual
+Novos Métodos em Computação Visual - III
+Descrição: Este projeto contempla três problemas fundamentais em computação visual. O primeiro aborda a utilização de engenharia reversa para documentação de instalações complexas a partir de nuvens de pontos não estruturadas obtidas pela digitalização destas instalações. A possibilidade de obter modelos de CAD para estruturas pré-existentes tem um grande valor prático e econômico. O segundo problema envolve a simulação de ruído natural e a correção de cor em fotografias digitais. Trata-se de duas questões de relevância prática, visto que as técnicas existentes para remoção de ruído (denoising) assumem modelos não realísticos, o que afeta significativamente a qualidade dos resultados obtidos, e o uso de flash altera as cores originais das cenas fotografadas. A disponibilização de um modelo de ruído natural permitirá o desenvolvimento de métodos de denoising mais efetivos. Com respeito a correção de cor, pretendemos desenvolver uma técnica para correção de cor em imagens capturadas com o uso de flash. O terceiro aspecto abordado neste projeto refere-se ao desenvolvimento de dispositivos portáteis para avaliação da qualidade visual, bem como uma técnica para simulação da visão humana. Trata-se, portanto, de atividades de relevância social com impacto na qualidade de vida da população. Combinadas, estas três iniciativas deverão propiciar avanços em diversos aspectos da computação visual.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Bernardo Henz - Integrante / Alex Reimann Cunha Lima - Integrante / Vitor de Godeiro Marques - Integrante / Artur Waquil Campana - Integrante / Gabriel Tadiello Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 14
+2019 - Atual
+Detecting and Extracting Surfaces from Unorganized Point Clouds
+Descrição: O processo de reconstrução de réplicas virtuais de ambientes reais apresenta um grande potencial para documentação de instalações complexas. Por exemplo, considere o grande número de usinas, plataformas de petróleo, navios, fábricas, etc.,   projetados e construídos com base em plantas baixas e ainda em operação. Para várias dessas, as plantas já não correspondem às instalações de fato. A não disponibilidade de modelos de CAD (projeto assistido por computador) atualizados faz com que o projeto de componentes para substituição de partes nessas instalações, tais como motores, turbinas, e peças em geral, seja uma tarefa bastante delicada. Note que estes componentes tendem a ser produzidos em indústrias e trazidos para o local apenas no momento da substituição.  Assim, a possibilidade de obter modelos 3D de CAD para estruturas pré‐existentes tem um grande valor prático e
+econômico. Enquanto a obtenção de uma documentação completa e detalhada é um objetivo
+bastante ambicioso, este projeto propõe a realização alguns passos fundamentais no sentido
+de atacar o problema de forma sistemática. Assume‐se que as instalações (e.g., fábricas,
+navios, etc.) encontram‐se representadas como nuvens de pontos, tipicamente obtidas por
+meio de digitalização com uso de scanners a laser. O processo de digitalização, entretanto, não
+faz parte do escopo deste projeto. A estratégia de solução consiste em quebrar o problema em
+sub‐problemas e resolvê‐los separadamente. As operações serão realizadas em tal ordem que
+a realização de cada passo simplifique a conquista dos passos seguintes. As estruturas
+presentes na representação serão gradualmente identificadas, catalogadas, e em seguida
+removidas da representação inicial, facilitando assim a detecção das estruturas restantes. Tal
+estratégia proverá um mecanismo fundamental para o desenvolvimento de sistemas capazes
+de realizar a reconstrução semi‐automática de modelos de CAD para instalações pré‐
+existentes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Abner M. Araújo - Integrante / Vitor de Godeiro Marques - Integrante / Gabriel Tadiello Moraes - Integrante.Financiador(es): Office of Navy Research - IFO - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2014 - 2018
+Novos Métodos em Computação Visual - II
+Descrição: Este projeto contempla quatro problemas fundamentais em computação visual. O primeiro
+corresponde ao desenvolvimento de filtros recursivos de suavização computacionalmente
+eficientes, que preservem bordas, e suportem perfis arbitrários e amostras não
+uniformemente espaçadas. Trata-se de uma operação fundamental para inúmeras
+aplicações em computação gráfica, processamento de imagens, visão e fotografia
+computacional. O segundo problema envolve detecção de adulterações de imagens, uma
+questão de grande relevância prática, visto que fotografias são frequentemente utilizadas
+como registros de eventos e como provas em disputas judiciais. O terceiro problema trata
+da otimização do processo de síntese de imagens foto-realísticas, que são cada vez mais
+utilizadas em cinema, publicidade, e design de produtos. O quarto aspecto abordado neste
+projeto refere-se ao desenvolvimento de dispositivos portáteis para avaliação da qualidade
+visual humana. Trata-se, portanto, de uma atividade de relevância social com impacto na
+qualidade de vida da população. Combinadas, estas quatro iniciativas deverão propiciar
+avanços significativos em diversas aspectos da computação visual.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (3) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Eduardo Simões Lopes Gastal - Integrante / Cleóbulo Sales Neto - Integrante / Matheus Luan Krueger - Integrante / Victor Chitolina Schetinger - Integrante / DOS SANTOS, JONAS DEYSON BRITO - Integrante / Marcelo da Mata de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 14
+2012 - 2016
+Simulação e Animação Realística de Fluidos Incompressíveis em Cenas Dinâmicas Utilizando Sobreposição de Grids Curvilíneos
+Descrição: Animações realísticas de fluidos são um importante componente em diversas aplicações de computação gráfica, incluindo efeitos especiais para produções cinematográficas, animações tridimensionais, e jogos de computador. O objetivo deste projeto é desenvolver uma técnica para simulação de fluidos para uso em computação gráfica que permita satisfazer as exigências por simulações realísticas com suporte a cenas dinâmicas, e com desempenho interativo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Vinicius da Costa de Azevedo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2011 - 2014
+Novos Métodos em Computação Visual
+Descrição: Este projeto contempla três problemas fundamentais em computação visual. O primeiro
+corresponde à detecção automática de alinhamentos (ou padrões) em conjuntos de dados
+multidimensionais não ordenados. Trata-se, portanto, de algo fundamental para a anállise
+de grandes volumes de dados com características multidimensionais. O segundo refere-se
+a realização de alpha matting em vídeos naturais em tempo real, um problema ainda sem
+solução, mas para o qual fizemos contribuições significativas. O terceiro problema diz
+respeito à visão de daltônicos e prevê o estudo e definição de regras para composição
+(blending) a serem utilizadas em aplicações de visualização volumétrica para indivíduos
+portadores de deficência na percepção de cores. Juntas, estas iniciativas deverão propiciar
+avanços em importantes problemas em computação visual, beneficiando diversas
+aplicações, permitindo o surgimento de outras, além de prover melhorias nas interfaces de
+software para indivíduos com daltonismo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Leandro Augusto Frata Fernandes - Integrante / Gustavo M. Machado - Integrante / Eduardo Simões Lopes Gastal - Integrante / André Luis Beling da Rosa - Integrante / Frederico Artur Limberger - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 12
+2010 - 2021
+Efficient Methods for High-Dimensional Filtering
+Descrição: We are developing new and efficient algorithms for performing filtering in high-dimensional spaces. Such filters have applications on several real-time image and video processing tasks including edge-preserving filtering, depth-of-field effects, stylization, recoloring, colorization, detail enhancement, and tone mapping.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Eduardo Simões Lopes Gastal - Integrante.Número de produções C, T & A: 7
+2010 - 2012
+Alpha Matting de Vídeos Naturais
+Descrição: A extração e composição de objetos em vídeos é uma tarefa fundamental em diversas aplicações. Exemplos incluem composição de cenas (gravadas em estúdio) contra outros cenários; composição de vídeos para anúncios publicitários; e inserção de informações visuais em telejornais. O processo de extração de objetos em primeiro plano, entretanto, é uma tarefa não trivial quando as imagens ou vídeos apresentam fundos heterogêneos. Para este caso, as técnicas propostas até recentemente apresentam alto custo computacional e requerem interação do usuário. Isto inviabiliza seus usos em aplicações de tempo real e em particular na composição de vídeos contendo cenas naturais. O objetivo deste projeto é investigar uma nova formulação matemática e desenvolver algoritmos que permitam a realização de composições a partir de vídeos naturais em tempo real, garantindo coerência temporal. As atividades de pesquisa aqui propostas se beneficiam dos recentes avanços obtidos pelo grupo do proponente na aceleração do processo de alpha matting. Os resultados a serem gerados com a execução deste projeto deverão viabilizar uma série de novas aplicações, e estimular pesquisas e desenvolvimentos em diversas áreas, incluindo computação gráfica, processamento de imagens e vídeos, e visão computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Eduardo Simões Lopes Gastal - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2009 - Atual
+Novos Métodos e Equipamentos para Avaliação da Qualidade da Visão Humana
+Descrição: O objetivo deste projeto  é desenvolver tecnologias de apoio à monitoração da qualidade da visão humana pelo próprio paciente. Neste sentido, buscamos desenvolver equipamentos de baixo custo e algoritmos que permitam o diagnóstico de diversas condições oculares como miopia, astigmatismo, e hipermetropia, além de avalição presbiopia e catarata. O projeto também visa o desenvolvimento de protótipos de topógrafos de córnea e novos testes para avaliação da qualidade da visão humana.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (5)  / Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Vitor Fernando Pamplona - Integrante / André Luis Beling da Rosa - Integrante / Cleóbulo Sales Neto - Integrante / Matheus Luan Krueger - Integrante / Alex Reimann Cunha Lima - Integrante / Marcelo da Mata de Oliveira - Integrante / Artur Waquil Campana - Integrante / Guilherme Leon Berno de Jesus - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 13
+2008 - 2018
+Detecção Automática de Alinhamentos em Conjuntos de Dados Multidimensionais
+Descrição: A capacidade de identificar alinhamentos em conjuntos de dados experimentais é um fator fundamental para o avanço científico e tecnológico. Por exemplo, formas geométricas como retas, círculos e elipses emergem como estruturas importantes em dados coletados em experimentos envolvendo difração de elétrons, aceleradores de partículas, e ensaios clonogênicos, respectivamente. À medida que o volume de dados aumenta, métodos automáticos para detecção de alinhamentos se tornam indispensáveis para a análise destes dados. Portanto, a acuracidade, generalidade, e robustez destes métodos têm uma importância considerável para o desenvolvimento científico e tecnológico. Este projeto objetiva desenvolver uma abordagem geral para detecção de alinhamentos em conjuntos de dados multidimensionais, não ordenados e contendo incerteza. Por geral, entenda-se que o método a ser desenvolvido deverá ser definido sobre um único equacionamento capaz de detectar diferentes tipos de estruturas geométricas (e.g., retas, círculos, seções cônicas, planos, esferas, entre outras) em conjuntos de dados de entrada contendo diferentes tipos de primitivas (e.g., pontos, direções, retas, círculos, ou combinação desses). Além disso, a solução deverá ser independente da dimensionalidade do espaço de representação, e ser ótimo em termos da quantidade de parâmetros necessários para tal representação. Os resultados desenvolvidos com a realização deste projeto deverão beneficiar diversas áreas que se utilizam de detecção de alinhamentos em conjuntos de dados. Em computação, os resultados serão imediatamente aplicáveis a áreas como processamento de imagens, visão computacional e computação gráfica. Tais resultados deverão impactar também algoritmos de mineração de dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Fernandes, Leandro A. F. - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2007 - 2010
+Recoloração de Imagens para Portadores de Deficiência na Percepção de Cores
+Descrição: A deficiência na percepção de cores (DPC) é uma condição genética que acomete entre 4% e 8%
+dos homens e em torno de 0,4% das mulheres de todo o mundo. A impossibilidade de distinguir
+certas cores impacta de maneira significativa a vida destes indivíduos. Decisões tomadas com
+base em informações ambíguas podem ter conseqüências indesejáveis e isto afeta diretamente a
+capacidade destes indivíduos de exercer de modo eficiente diversas atividades profissionais. O
+desenvolvimento de ferramentas capazes de minimizar as limitações enfrentadas por portadores
+de DPC é, além de um desafio social que precisa ser enfrentado, uma oportunidade com grande
+potencial econômico e capaz de alavancar o desenvolvimento científico e tecnológico. O objetivo
+deste projeto é preencher esta importante lacuna, desenvolvendo técnicas e ferramentas de
+software eficientes que façam a recoloração automática de imagens e vídeos em tempo real,
+permitindo que portadores de DPC possam diferenciar cores para eles antes indistinguíveis. Tal
+ferramenta lhes propiciará uma maior qualidade de vida, permitindo que venham a desempenhar
+suas atividades de maneira mais confortável e inclusiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Leandro Augusto Frata Fernandes - Integrante / Vitor Fernando Pamplona - Integrante / Giovane Roslindo Kuhn - Integrante / Gustavo M. Machado - Integrante / Rosália G. Schneider - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 9
+2005 - 2012
+Real-Time Video and Image Metrology
+Descrição: We are developing new computer vision and image processing algorithms and building scanners for making measuments directly from images. Our goal is to be able to make reliable measurements of some scene properties, such as the volumes of simple object shapes, as well as scene range.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Leandro Augusto Frata Fernandes - Integrante / Horacio Enrique Fortunato - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 7
+2005 - Atual
+Uso de Processadores Gráficos Programáveis em Aplicações de Tempo Real
+Descrição: Este projeto explora a utilização de processadores gráficos programáveis (GPUs) em aplicações de tempo real. Isto inclui tanto aplicações de computação gráfica como aplicações de protósito geral. Em ambos os casos, busca-se acelerar tais aplicações explorando o grande poder computacional das GPUs.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Marcos Paulo Berteli Slomp - Integrante / Fernando Trebien - Integrante / Diego Inácio Patrício - Integrante / Eduardo Gonçalves Pons Dias da Costa - Integrante / Rafael Pacheco Kovaleski - Integrante.Financiador(es): Nvidia Corporation - Outra.Número de produções C, T & A: 5
+2004 - Atual
+Renderização de Detalhes de Superfícies em Tempo Real
+Descrição: Neste projeto desenvolvemos novas técnicas de computação gráfica para representação realística de detalhes de superfícies baseadas no uso de texturas, bem novos algoritmos para visualização em tempo real das superfícies resultantes, utilizando processadores gráficos programáveis (GPUs). Com isto, obtemos representações simplificadas de objetos que preservam suas caracterísitcas visuais, resultando em maior performance em aplicações intensivas como jogos de computadores e outras que exigem visualização em tempo real.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Fabio Policarpo - Integrante / Maicon Brauwers - Integrante / Frederico Artur Limberger - Integrante / Victor Chitolina Schetinger - Integrante.Número de produções C, T & A: 15
+2003 - 2008
+Melhoria da Qualidade de Imagens Videolaparoscópicas por meio  de Tecnologia Digital de Baixo Custo
+Descrição: Objetivo Geral: Desenvolver um sistema baseado em PC para aquisição, processamento, edição, armazenamento de vídeo digital para uso em procedimentos videolaparoscópicos.
+	
+Objetivos Específicos:
+	
+1) Melhorar a qualidade das imagens obtidas em videolaparoscopia por meio de um sistema digital de aquisição de vídeos;
+2) Reduzir os custos de sistemas utilizados em procedimentos videolaparoscópicos;
+3) Permitir a constante evolução/atualização do sistema, por meio da substituição de componentes individuais por outros mais modernos;
+4) Reduzir o tamanho dos equipamentos utilizados em cirurgias videolaparoscópicas, tornando-os portáteis;
+5) Desenvolver know-how nacional e fomentar o surgimento de empresas locais com base tecnológica na área médica;
+6) Possibilitar a digitalização, armazenamento e transmissão de vídeos de cirurgias videolaparoscópicas;
+7) Facilitar o processo de edição do vídeo pelo próprio cirurgião;
+8) Especificar um kit baseado no uso de ?web camera? que permita aos cirurgiões em treinamento o desenvolvimento de suas habilidades utilizando um computador pessoal ou notebook.
+	
+Metas:
+	
+1) Obter imagens com qualidade superior às obtidas com sistemas baseados no padrão NTSC. O padrão NTSC apresenta baixa definição de imagens, o que é facilmente percebido pelo cirurgião quando este se encontra próximo ao monitor de vídeo;
+2) Construir um protótipo do sistema proposto para videolaparoscopia utilizando componentes disponíveis no mercado (?off the shelf?). A criação de sistemas modulares construídos a partir de componentes de baixo custo permitirá, além da redução do preço, uma contínua evolução do produto. Esta última se dará por meio da substituição de componentes à medida que novas tecnologias e equipamentos mais modernos surjam no mercado. Atualmente, isto não é possível com os sistemas disponíveis comercialmente;
+3) Obter um protótipo que seja compacto e leve.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Leandro Augusto Frata Fernandes - Integrante / Cláudio Telöken - Integrante / Tulio Meyer Graziottin - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2008
+Reconstrução de Cenas e Modelos 3D de Objetos Reais
+Descrição: Os objetivos deste projeto compreendem um conjunto de ações para melhorar a qualidade das reconstruções de objetos 3D. Mais especificamente, pretende-se:
+ 
+i. Estudar os métodos propostos por Carr et al. [Carr01] e Ohtake et al. [Ohtake03] e propor alternativas que aumentem a aplicabibildade destes métodos, possibilitando a reconstrução de superfícies não fechadas e o tratamento de sub-objetos disjuntos; 
+ii.	Aprimorar os algoritmos e técnicas de reconstrução de superfícies desenvolvidas para o protótipo de camera 3D, desenvolvido pelo proponente; 
+iii.	Construir de um protótipo de digitalizador 3D portátil de baixo custo para captura de forma de objetos com geometrias complexas contendo concavidades. Além disso, realizar um estudo de viabilidade para captura simultânea de cor e textura dos objetos digitalizados;
+iv.	Desenvolver know-how nacional para construção de digitalizadores 3D e reconstrução de superfícies;
+v.	Contribuir para formação de recursos humanos a nível de graduação na área área de reconstrução tridimensional e fotografia 3D;
+vi.	Criar o primeiro grupo de pesquisa em Fotografia 3D no Estado do Rio Grande do Sul. Atualmente no Brasil, apenas o Instituto de Matemática Pura e Aplicada desenvolve algumas iniciativas nesta áreas e ainda assim de forma incipiente. Fotografia 3D, por outro lado, é uma área de pesquisa que encontra-se em franca expansão em todo o mundo e é de importância fundamental para o desenvolvimento tecnológico nacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Bárbara Bellaver - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 10
+2002 - 2004
+3D Camera
+Descrição: The goal of this project is to build an inexpensive and portable 3D camera comparable in size and easy of operation to a consumer-grade digital camera.
+Our first prototype, based on a monochrome VGA-resolution camera, is capable of recovering the 3D shape of smooth objects, such as human faces, from a single picture. The first prototype was developed as part of Askold V. Strat's Masters Thesis ("A Portable and Inexpensive Laser-Based 3D camera", July 2002) at SUNY Stony Brook. For a concise description of this project An Inexpensive 3D Camera (ACM SIGGRAPH 2002 Conference Abstracts and Applications, page 146).
+Our second prototype (shown on the left) is comprised of three main hardware components: a digital camera (Olympus C-2020 Zoom), a laser pattern (raster) generator and an interface between the digital camera and the raster generator. Some image processing software is used to reconstruct shapes from the acquired images. The raster generator and the interface are attached to the camera using the tripod screw hole and a bolt/nut combination, which provides a rigid and consistent mounting. Conceptually, the system works as follows: the raster generator projects a set of laser planes in the scene, each at a different elevation angle. The camera acquires a pair of pictures with a single press of the camera?s trigger. One of the pictures contains a set of projected laser lines (created by the rastergenerator) and is used to reconstruct the object?s imaged geometry using triangulation. The other picture is used as texture.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Manuel Menezes de Oliveira Neto - Coordenador / Askold V Strat - Integrante.Número de produções C, T & A: 10

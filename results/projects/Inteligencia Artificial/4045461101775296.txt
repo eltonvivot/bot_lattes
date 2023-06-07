@@ -1,0 +1,27 @@
+2012 - Atual
+Computação de Alto Desempenho em Ambiente Multiusuário
+Descrição: O presente projeto de pesquisa visa contribuir para a formação, capacitação de recursos humanos e agregação de especialistas com caráter multiusuário.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (8) . Integrantes: Diomar Cesar Lobão - Coordenador / Gustavo Benitez Alvarez - Integrante / Alexandre da Silva Galvão - Integrante / Lidia Angulo Meza - Integrante / Nirzi Gonçalves Andrade - Integrante / Cecília Toledo Hernández - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Outra.Número de produções C, T & A: 1
+2008 - 2011
+Modelagem Computacional em Ciência e Tecnologia para a Região Sul Fluminense
+Descrição: Projeto de pesquisa com caráter multidisciplinar que será desenvolvido por pesquisadores da Escola de Engenharia Industrial Metalúrgica de Volta Redonda, sediada em Volta Redonda e que abrange a região sul fluminense do estado do Rio de Janeiro. O projeto é voltado para o desenvolvimento e implementação de um ferramental computacional interdisciplinar de algoritmos e métodos focados em três grandes eixos interconectados: Métodos matemáticos e computacionais aplicados à engenharia e ciência, Física computacional e da informação, Otimização e pesquisa operacional. Grande parte do tempo da equipe executora será dedicada à pesquisa básica para o desenvolvimento de técnicas de modelagem e o aprimoramento das já existentes. Em virtude da complexidade e/ou interdisciplinaridade dos fenômenos, processos e sistemas que serão modelados a abordagem multidisciplinar se apresenta como uma das mais adequadas, podendo impactar as mais diversas áreas da ciência, engenharia, medicina, ecologia, administração e biologia, entre outras.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Diomar Cesar Lobão - Coordenador.
+2008 - 2010
+Estudo da Simulação Numérica dos Problemas de Advecção-Difusão
+Descrição: Pretende-se estabelecer as bases teóricas dos fenômenos envolvendo advecção e difusão. Estudar os métodos numéricos de solução baseados em diferenças finitas e aplicar em problemas de advecção-difusão em meios líquidos. Os modelos 1D e 2D serão implementados via Matlab.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diomar Cesar Lobão - Coordenador.
+1996 - 1998
+Ablação Laser
+Descrição: desenvolvimento de metodologias e modelos utilizando a mecânica dos fluidos computacional em problemas de ablasão Laser encontrados na área médica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diomar Cesar Lobão - Coordenador.Financiador(es): Universidade do Vale do Paraíba - Remuneração.
+1993 - 2002
+Computação de Alto Desempenho
+Descrição: Desenvolvimento de técnicas numéricas para problemas de escoamento de fluidos com reações químicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diomar Cesar Lobão - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1984 - 1999
+Veiculo Lançador de Satelites
+Descrição: Responsável pelo desenvolvimento e implementação de códigos computacionais para escoamentos de fluidos em regime supersônico com ondas de choque e suas interações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diomar Cesar Lobão - Coordenador.Financiador(es): Centro Técnico Aeroespacial - Remuneração.
+1984 - 1999
+Mecânica dos Fluidos Computacional
+Descrição: Pesquisa de métodologias numéricas aplicadas a sistemas computacional de alto desempenho. Metodologias de alta resolução, tais como TVD e Relaxing.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diomar Cesar Lobão - Coordenador.Financiador(es): Centro Técnico Aeroespacial - Remuneração.
+1984 - 1999
+Túnel de Vento Supersônico-Transônico
+Descrição: Desenvolvimento de estudos e métodos utilizados no túnel transônico supersônico para ensaios em regimes de escoaamento supersônico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diomar Cesar Lobão - Coordenador.Financiador(es): Centro Técnico Aeroespacial - Remuneração.
+1984 - 1999
+Computação de Alto Desempenho
+Descrição: Desenvolvimento de técnicas numéricas aplicadaas a problemas de Ablação Laser, geração de Pluma para misturas de espécies com geração de ondas de choque. Aplicação  nos processos de sintese de "nanotube".. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diomar Cesar Lobão - Coordenador.Financiador(es): Concordia University - Remuneração.

@@ -1,0 +1,73 @@
+2017 - 2017
+ANÁLISE DA INFLUÊNCIA DO USO E OCUPAÇÃO DO SOLO NOS ASPECTOS QUALI-QUANTITATIVOS DOS RECURSOS HÍDRICOS EM BACIAS URBANAS
+Descrição: auxílio à pesquisa, apoiado pela FAPESP - substituição a João Luiz Boccia Brandão, propositor do projeto. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador.
+2016 - Atual
+Disponibilidade hídrica e riscos de contaminação em áreas de afloramento do Sistema Aquífero Guarani
+Descrição: Projetoto temático. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Luisa Fernanda Ribeiro Reis - Integrante / Edson Wendland - Coordenador.
+2012 - 2016
+Projeto de Cooperação Acadêmica ente o DAAE-Departamento de Água e Esgosto de Araraquara e a Universidade de São Paulo
+Descrição: O plano de trabalho intitulado ?Otimização da Operação de Setores da Rede de Distribuição de Água da Cidade de Araraquara, SP.?, tem por objetivo desenvolver estudo que propicie a otimização da operação da parcela da rede da cidade de Araraquara, SP, que compreenda os setores Eliana, Iguatemi Zona Alta, Iguatemi Zona Baixa e Martinez. Para tanto, vislumbram-se os seguintes objetivos específicos: a construção de modelo representativo (calibrado) do comportamento do referido sistema, face às diversas condições operacionais a que possa ser submetido o referido sistema; o estudo e proposição de estratégias operacionais com objetivos que incluam a minimização dos custos relativos ao consumo de energia elétrica, bem como a sua confiabilidade; e o estudo de perdas por vazamento e detecção de vazamentos com base em dados de pressão e vazão, em especial daqueles coletados durante os períodos de consumo reduzido, com vistas à estimação de índices.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador / Frederico Keizo Odan - Integrante / Maria Mercedes Gamboa-Medina - Integrante / Narumi Abe - Integrante.
+2011 - 2016
+Maplu2-Manejo de Águas Pluviais em Meio Urbano
+Descrição: Projeto desenvolvido em rede de pesquisa nacional, de que participam as seguintes instituições. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador / Rodrigo de Melo Porto - Integrante / Edson Cezar Wendland - Integrante / Valdir Schalch - Integrante / Eduardo Mário Mendiondo - Integrante / João Luiz Boccia Brandão - Integrante.
+2007 - 2010
+Estudo de Problemas Operacionais Relativos aos Sistemas de Distribuição de Água para Abastecimento
+Descrição: O papel dos sistemas de distribuição de água para abastecimento é basicamente o de disponibilizar água em quantidade e qualidade desejada, onde e quando o consumo ocorrer. Assim, o problema da operação de sistemas de distribuição de água para abastecimento pode ser considerado complexo por abranger aspectos diversos, desde a necessidade de economia de água e energia elétrica, evitando desperdícios na forma de vazamentos, etc., até o atendimento de requisitos de qualidade que a água deve cumprir.
+Essa problemática constitui alvo de investigação da proponente desse plano, que, em conjunto com seus orientandos de mestrado e doutorado, vem aplicando ferramentas de otimização na resolução de problemas correlatos. Observa-se que seus trabalhos de pesquisa receberam impulso e se firmaram como linhas de pesquisa a partir do projeto intitulado ?Controle Operacional e Avaliação de Perdas em Sub-Sistemas Urbanos de Distribuição de Águas para Abastecimento? (da sub-rede II da Rede Cooperativa de Pesquisas em Engenharia e Gestão de Recursos Hídricos-REHIDRO-FINEP 3131/96), do programa de pós-doutoramento desenvolvido pela proponente junto ao Grupo de Recursos Hídricos do Departamento de Engenharia e Ciências da Computação da Universidade de Exceter, Inglaterra (setembro/2000 a agosto/2001) e do projeto ?Instrumentos do Uso Racional e Otimizado da Água em Meio Urbano? (CT-HIDRO 01/2001), já concluídos, alem do projeto, ?Instrumentação de Redes Hidráulicas Reais para Avaliação Contínua de Parâmetros de Qualidade da Água? ? Proposta EDITAL CNPq 019/2004 ? UNIVERSAL (processo 475 934/2004-0), em desenvolvimento, todos sob a coordenação da proponente deste plano. 
+O presente plano propõe a continuidade e ampliação dos estudos, contemplando os diversos aspectos envolvidos na distribuição de águas para abastecimento urbano, sob a ótica do uso racional e otimizado dos recursos naturais e econômicos disponíveis. O texto foi organizado de maneira a apontar os objetivos a serem seguidos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador.Financiador(es): Escola de Engenharia de São Carlos Usp - Bolsa.
+2005 - 2007
+Instrumentação de Redes Reais para Avaliação da Qualidade da Água
+Descrição: - Objetivo geral da proposta: Instrumentar um experimento em redes de
+distribuição de água existentes, oferecendo alternativas científicas e tecnológicas e de
+inovação para o gerenciamento integrada de água em meio urbano
+- Objetivos específicos da proposta:
+a. Investigação do decaimento de cloro através de testes em campo: essa
+área de pesquisa visa obter alguns parâmetros de qualidade de água, a priori,
+através da experimentação em campo. Nessa fase, serão investigados o decaimento
+de cloro em alguns sistemas existentes através do teste da garrafa (ver
+Metodologia). Além disso, serão investigados o tempo de residência do cloro nos
+reservatórios de água. Esse etapa é imprescíndivel para a aplicação posterior do
+modelo de estimação de parâmetros.
+b. Estimar os coeficientes cinéticos de qualidade de água para realizar
+simulações realísticas de qualidade de agua: Os modelos de qualidade de água
+foram desenvolvidos para avaliar o comportamento de desinfetantes ao longo do
+tempo e nos diversos locais de um sistema de distribuição de água. Entretanto, antes
+de aplicá-los, é necessário que os coeficientes cinéticos sejam ajustados de forma
+condizente com a situação real de funcionamento.
+c. Formular critérios técnicos: Os coeficientes de decaimento de cloro podem
+ser relacionados com parâmetros de redes, por exemplo, material e idade das
+tubulações. Esse objetivo irá auxiliar analistas, engenheiros e técnicos no
+gerenciamento eficiente dos bens de patrimônio público.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador / Peter Batista Cheung - Integrante / Luiz Daniel - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2006
+Sistema de Abastecimento de Água-Técnicas Avançadas
+Descrição: Trata-se de um projeto de cooperação internacional entre a Universidade Federal da Paraiba e a Escola Politécnica de Valência, com o objetivo de alavancar pesquisas e divulgar trabalhos científicos e tecnológicos produzidos por essas instituições.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luisa Fernanda Ribeiro Reis - Integrante / Rodrigo de Melo Porto - Integrante / Heber Pimentel Gomes - Coordenador / Pedro Iglesias - Integrante.
+2004 - 2006
+Plano de Utilização dos Equipamentos propostos no projeto Cooperativa de Processamento de Alto Desempenho-COPAD
+Descrição: Trata-se de um projeto de utilização de um cluster de computadores para processamento de problemas intensivos em termos dos requisitos computacionais (operação otimizada de sistemas de reservatórios e controle da operação e projetos otimizados de sistemas de distribuição de água para abastecimento). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luisa Fernanda Ribeiro Reis - Integrante / Walfredo Cirne - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2002 - 2003
+Instrumentos de Uso Racional e Otimizado da Água em Meio Urbano
+Descrição: Face às necessidades de ordem prática que os sistemas de abastecimento apresentam, definiram-se como objetivos do projeto de pesquisa:
+a- 	análise dos modelos de calibração da literatura, com vistas ao tratamento adequado dos sistemas reais, no que se refere aos vazamentos e demandas dirigidas pela pressão;
+b- 	calibração de redes através de modelos inversos de otimização com propósitos de reprodução do comportamento no que se refere às pressões e vazões observadas;
+c-	estudo de adequação do ferramental de otimização aos propósitos de calibração via modelos inversos ;
+d- 	análise detalhada dos métodos de reabilitação e projeto de redes da literatura;
+e-	identificação e formulação dos objetivos mais promissores a serem perseguidos no tratamento dos problemas de reabilitação e projeto de redes de abastecimento dentro do contexto da análise multicriterial;
+f-	implementação de código computacional que utilize o ferramental básico de AGs, possibilitando análises multiobjetivo úteis ao projeto e reabilitação de redes, através do desenvolvimento de rotinas computacionais adicionais; 
+g-	realização de simulações computacionais que propiciem condições de comparação com projetos e sugestões de reabilitação reportados na literatura, bem como a sua aplicação a redes existentes (reabilitação); e
+h-	otimização da operação de sistemas de reservatórios de acumulação com o propósito de abastecimento urbano.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador / Rodrigo Melo Porto - Integrante / Fazal Hussain Chaudhry - Integrante / Fernando das Graças Braga da Silva - Integrante / Urandi Gratão - Integrante / Adilson dos Santos - Integrante / Gracione Picanço Ribeiro - Integrante / Rodrigo de Oliveira Caliman - Integrante / Peter Batista Cheung - Integrante / John Kenedy de Araújo - Integrante / Robert Schiaveto de Souza - Integrante / Klebber Teodomiro Formiga - Integrante / Jorge Yutaka Ougui - Integrante.Financiador(es): Escola de Engenharia de São Carlos Usp - Auxílio
+										financeiro.Número de produções C, T & A: 12 / Número de orientações: 5
+1997 - 2002
+Controle Operacional e Avaliação de Perdas em Sub-sistema Urbano de Distribuição de Água
+Descrição: O abordou a problemática das redes de distribuição de águas de abastecimento dos pontos de vista teóricos e experimentais, com base em sistemas urbanos de médio porte, com propósitos de:
+- Evidenciar o estado de funcionamento de sistemas municipais de distribuição de água;
+- Desenvolver metodologia para monitoramento de dados relevantes à calibração de sistemas de distribuição de água 
+- Estimar parâmetros físicos dos sistemas setorizados tais como: fatores de rugosidade, consumo de água em diversos pontos da rede, capacidade de transporte de vazão das tubulações, funcionamento dos componentes hidráulicos;
+- Efetuar testes de perdas por vazamento em áreas localizadas, através de equipamento de detecção apropriado;
+- Quantificar vazamentos nas áreas identificadas através de aplicação de diversas pressões sob condições de consumo "nulo"; e
+- Motivar a área técnica dos serviços de distribuição de água de cidades de porte médio para a necessidade de levantamento de dados e monitoramento setorizado das redes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador.Financiador(es): Escola de Engenharia de São Carlos Usp - Auxílio
+										financeiro.Número de produções C, T & A: 21 / Número de orientações: 4
+1991 - 1991
+Operação de Redes de Abastecimento de Água visando a Minimização de Perdas através de Válvulas Controladoras de Pressão
+Descrição: O Projeto visou investigar a localização de VRPs (válvulas redutoras de pressão) como elementos redutores de perdas por vazamento em redes de distribuição de água para abastecimento. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luisa Fernanda Ribeiro Reis - Coordenador.

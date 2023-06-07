@@ -1,0 +1,43 @@
+2014 - 2014
+Utilização de modelos estatísticos para previsão de Séries Temporais de Radiação solar e velocidade de vento em regiões de serra e litoral do Estado do Ceará para aplicação em geração de energia
+Descrição: Esse trabalho trata sobre previsões de séries temporais de radiação solar e velocidade de vento
+para localidades serranas (Ubajara, São Benedito, Maranguape) e litorâneas (Acaraú, Icapuí,
+Barroquinha) do Estado do Ceará aplicada à geração de energia elétrica. Para isso será
+utilizado métodos estatísticos de previsão de séries temporais comumente empregados na
+literatura como, por exemplo: Suavização Exponencial Simples (SES), Regressão Linear
+Simples (RLS), e o modelo Autorregressivo de Média Móvel (ARMA). Os dados para a
+realização desse estudo serão extraídos das Plataformas de Coletas de Dados ? PCDs de
+propriedade da Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME),
+distribuídas ao longo de todo estado. Com a utilização de recursos renováveis de energia
+como a solar e a eólica para geração de eletricidade, a importância de garantir ao investidor
+valores futuros dessas fontes se tornou necessária. Esse estudo poderá auxiliar na tentativa de
+descobrimos métodos estatísticos satisfatórios que busquem responder, o quanto de energia
+elétrica, poderá ser gerada a partir da previsão de valores da radiação solar e também de
+velocidade do vento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Henrique do Nascimento Camelo - Coordenador / Ariane Eduarda Vasconcelos - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Bolsa.
+2013 - 2014
+Previsão de velocidade de vento para o Estado do Ceará através do uso do sofware livre Gretl para aplicações em geração eólica
+Descrição: Nesse trabalho será feita uma previsão de velocidade de vento para o Estado do Ceará com o
+uso do software livre Gretl para aplicações em geração eólica. Esse estudo será realizado
+através dos dados de torres meteorológicas, a 10 m de altura, distribuídas ao longo do estado,
+cuja propriedade é da Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME).
+Os benefícios da realização deste estudo poderão ser justificados em diversas vertentes, desde
+questões ambientais (como, por exemplo, o incentivo de pesquisas em fontes renováveis de
+energia, no nosso caso a geração eólica) e ainda do ponto de vista do suprimento de energia
+elétrica (observando a geração eólica como uma alternativa às fontes convencionais de
+energia).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Henrique do Nascimento Camelo - Coordenador / Wesley Ferreira Teixeira - Integrante.Financiador(es): Instituto Federal do Ceará - Bolsa.
+2012 - 2014
+Programa Institucional de Bolsa de Iniciação à Docência - PIBID
+Descrição: Programa de iniciação à Docência subprojeto/Física/Acaraú. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (18) . Integrantes: Henrique do Nascimento Camelo - Coordenador / LUCAS MATEUS DOS SANTOS - Integrante / FRANCISCO MARCIANO RUFINO - Integrante / Helaine Cristina Nascimento dos Santos - Integrante / FRANCISCO TIAGO SOUZA DO NASCIMENTO - Integrante / Gerson Rodrigues de Freitas - Integrante / José Guido Vasconcelos Neto - Integrante / Daniel Eder Ribeiro da Silva - Integrante / Ejakson José de Sousa Vasconcelos - Integrante / Leylanne Dayse Oliveira - Integrante / Ivandson Bandeira de Araujo - Integrante / Virgínia Elaine Vasconcelos do Nascimento - Integrante / Manoel Felipe Sousa - Integrante / Eliabe de Almeida Araújo - Integrante / José Gerson Cordeiro - Integrante / Benjamim de Carvalho Rodrigues - Integrante / José Luiz de Sousa Junior - Integrante / Erivando Alves dos Santos - Integrante / Francisco Rômulo Paiva - Integrante.Número de produções C, T & A: 7
+2012 - 2013
+Comparação de Potencial Eólico em Regiões Geograficamente distintas do Estado do Ceará
+Descrição: Nesse trabalho será feita uma análise estatística da velocidade do vento no estado do Ceará.
+Para isso, levaremos em consideração regiões geograficamente distintas (como serra, sertão e
+litoral), objetivando comparar e no mesmo tempo conhecer as localidades em que seu
+potencial eólico poderá ser aproveitado para geração de energia elétrica. Esse estudo será
+realizado através dos dados de torres meteorológicas, a 10 m de altura, distribuídas ao longo
+do estado, cuja propriedade é da Fundação Cearense de Meteorologia e Recursos Hídricos
+(FUNCEME). Os benefícios da realização deste estudo poderão ser justificados em diversas
+vertentes, ou seja, desde questões ambientais (como, por exemplo, no incentivo de pesquisas
+em fontes renováveis de energia, no nosso caso a geração eólica) e ainda do ponto de vista do
+suprimento de energia elétrica (observando a geração eólica como uma alternativa às fontes
+convencionais de energia).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Henrique do Nascimento Camelo - Coordenador / Wesley Ferreira Teixeira - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Bolsa.

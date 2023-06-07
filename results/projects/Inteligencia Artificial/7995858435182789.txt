@@ -1,0 +1,32 @@
+2007 - 2007
+Desenvolvimento de um algoritmo para extrair componentes modais de sinais de tensão e ângulo, prova de conceito para o ONS em conjunto com o Kema
+Descrição: Fui responsável pela parte do projeto que cuidava do aplicativo SOM (System Oscillations Monitoring). Situação: Concluído; Natureza: Pesquisa. Integrantes: Marco Antonio Macciola Rodrigues - Coordenador.Financiador(es): KEMA Brasil - Auxílio
+										financeiro / Operador Nacional do Sistema Elétrico - Cooperação.
+2006 - Atual
+Desenvolvimento de um sistema de gerenciamento de oscilografias com análise automática para Furnas
+Descrição: Adaptação inicial do SINAPE.NET para Furnas e inclusão de análise de outros equipamentos que não são linhas de transmissão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marco Antonio Macciola Rodrigues - Coordenador.Financiador(es): Centrais Elétricas Brasileiras - Auxílio
+										financeiro.
+2004 - 2007
+Desenvolvimento de um sistema de análise de desempenho da proteção de linhas de transmissão para a LIGHT S.E.S.A.
+Descrição: O projeto consistiu da aplicação de técnicas de processamento de sinais e de sistemas especialistas para implementar um sistema de gerenciamento de oscilografia, capaz de indicar problemas no funcionamento do sistema de proteção.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Marco Antonio Macciola Rodrigues - Coordenador / Mônica Valéria Ferreira Figueiredo - Integrante / Suelaine dos Santos Diniz - Integrante / André Luiz Lins Miranda - Integrante / João Câncio Colares de Oliveira - Integrante / Luiz Augusto Carreras Del Castillo - Integrante / Fabio Destefani Campos - Integrante / Nelson Felipe da Costa - Integrante.Financiador(es): LIGHT Serviços de Eletricidade - Auxílio
+										financeiro.Número de produções C, T & A: 9 / Número de orientações: 1
+2004 - 2006
+Pesquisa e desenvolvimento de um sistema para gerenciamento de oscilografias e análise automática de faltas (SINAPE.NET) para o ONS
+Descrição: O sistema processa todos os oscilogramas recebidos pelo ONS dos agentes, fornecendo uma visão sistética de seu conteúdo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marco Antonio Macciola Rodrigues - Coordenador.Financiador(es): Operador Nacional do Sistema Elétrico - Auxílio
+										financeiro.
+2001 - 2003
+Projeto de pesquisa para carteira P&D da ANEEL, para LIGHT, sob o título "Tópicos de Pesquisa para Análise de Perturbações em Sistemas Elétricos"
+Descrição: Com a restruturação do setor elétrico e a redistribuição de responsabilidades, torna-se necessário aumentar a monitoração do sistema elétrico, o que é feito de diversas formas, entre elas, através da oscilografia, em que o registro de grandezas é feito com resolução bem superior ao de sistemas de supervisão e controle. A tecnologia digital permitiu que o custo dos equipamentos de oscilografia caísse e sua robustez aumentasse. Assim o número de grandezas monitoradas tem crescido de forma expressiva. Uma empresa de transmissão de grande porte chega a receber mais de 20000 arquivos de oscilografia por ano, aumentando consideravelmente o trabalho de análise dos arquivos. 
+O resultado esperado deste trabalho é o desenvolvimento e implantação de tecnologias voltadas a:
+Análise automática de oscilogramas, através de técnicas de Inteligência Computacional, para gerar estatísticas e relatórios sintéticos do seu conteúdo, evitando perda de informação e aumento da eficiência do processo de análise oscilográfica;
+Novos algoritmos para localização de faltas em linhas de transmissão, visando aumentar a precisão deste processo e reduzindo os custos de busca da falta ao longo da linha.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marco Antonio Macciola Rodrigues - Coordenador / Mônica Valéria Ferreira Figueiredo - Integrante / Suelaine dos Santos Diniz - Integrante / André Luiz Lins Miranda - Integrante / Marco Aurélio Pinto Rodrigues - Integrante.Financiador(es): Centro de Pesquisas de Energia Elétrica - Remuneração / Light S A - Auxílio
+										financeiro.Número de produções C, T & A: 9
+2000 - 2001
+Estudo de Compressão de Sinais utilizando Wavelets
+Descrição: O Objetivo do trabalho era estudar aplicações de Wavelets e demais técnicas de multiresolução a sinais provenientes do sistema elétrico de potência.
+Em função dos resultados foi dada ênfase à utilização da técnica de matching pursuits.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marco Antonio Macciola Rodrigues - Integrante / Lisandro Lovisolo - Integrante / Eduardo Antônio Barros da Silva - Integrante / Paulo Sérgio Ramirez Diniz - Integrante / José Carlos Nunes Bianco - Coordenador.Financiador(es): Universidade Federal do Rio de Janeiro - Cooperação / Centro de Pesquisas de Energia Elétrica - Bolsa.Número de orientações: 1
+1992 - 1997
+Estudo de Técnicas para Compressão de Sinais Elétricos Digitalizados
+Descrição: O objetivo do estudo era desenvolver técnicas para compressão de sinais oscilografados, obtidos no sistema elétrico.
+Como vantagens a compressão poderia aumentar a área útil de armazenamento de eventos nos registradores, além de permitir uma transmissão dos dados mais rápida.
+Foram pesquisadas transformadas ortogonais (hartley, walsh, fourier, cossenos) e também redes neurais artificiais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marco Antonio Macciola Rodrigues - Coordenador.Financiador(es): Centro de Pesquisas de Energia Elétrica - Remuneração.

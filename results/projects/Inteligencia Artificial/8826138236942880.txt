@@ -1,0 +1,26 @@
+2019 - Atual
+Sistema Gestão de bens
+Descrição: Plataforma de Hardware e Software utilizando tecnologia IoT para Gestão de bens na universidade. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Renata Umbelino Rêgo - Coordenador / Alexandre Balbino Moreira - Integrante / Bruno Leal Fonseca - Integrante / Gabriel Felipe Gonçalves de Jesus - Integrante.
+2016 - Atual
+Smart Campus
+Descrição: O projeto engloba o desenvolvimento de um sistema inteligente para ser aplicado a universidade. Esse sistema será composto por módulos e cada um usará sistemas de automação para resolver um  problema dentro da universidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10) . Integrantes: Renata Umbelino Rêgo - Coordenador.
+2016 - Atual
+Plataforma Didatica para desenvolvimento de Projetos de Automação Industrial
+Descrição: Desenvolvimento de uma plataforma didática de baixo custo para aplicações em Automação Industrial. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Renata Umbelino Rêgo - Coordenador.
+2010 - 2013
+CONTROLE DE AMORTECIMENTO PARA ATENUAÇÃO DAS VIBRAÇÕES EM SISTEMAS DE MASSA VARIÁVEL
+Descrição: Sistemas Dinâmicos são amplamente utilizados na área industrial e automobilística.
+O presente trabalho teve como objeto de estudo o desenvolvimento de um modelo e
+um sistema para avaliação e controle das amplitudes de deslocamento baseado na
+variação dos parâmetros elastocinematicos. Para esse estudo foi feita a modelagem
+matemática de um sistema com oito graus de liberdade que representasse uma
+aplicação tanto industrial quanto automobilística. Esse modelo foi desenvolvido de
+tal forma que fosse permitido deslocamentos de rotação, translação vertical e
+horizontal. Foi implementado um software onde é possível variar os parâmetros e
+aplicar uma entrada de carregamento durante a simulação. O software ainda simula
+um sistema de controle que é utilizado para evitar que as variações de massa
+causadas pelo carregamento alterem a amplitude desejada para o sistema. Esse
+controle é feito alterando o valor do coeficiente de amortecimento, fazendo com que
+independente da variação da massa durante o processo, o sistema mantenha sua
+condição operacional. O sistema de controle conseguiu atender bem as
+especificações e ainda diminuiu a força transmitida a base.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Renata Umbelino Rêgo - Coordenador / Janes Landre Junior - Integrante.

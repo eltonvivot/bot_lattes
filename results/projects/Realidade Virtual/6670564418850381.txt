@@ -1,0 +1,34 @@
+2020 - 2020
+Detecção Automática de COVID-19 em Imagens de Raio-X Usando Redes Neurais Totalmente Conectadas. In: XII Simpósio de Ciência, Inovação e Tecnologia do IF Sudeste
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandra Martins Coelho - Coordenador / Matheus de Freitas Oliveira Baffa - Integrante / Raian Campos Malta - Integrante / Élisson Carlos de Carvalho - Integrante.Financiador(es): Fundo Nacional de Desenvolvimento Educacional - Bolsa.Número de produções C, T & A: 1
+2020 - 2020
+Rede Neural Totalmente Conectada Aplicada à Classificação de Radiografias Torácicas de Pacientes com COVID-19 Utilizando Características Híbridas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Alessandra Martins Coelho - Coordenador / Matheus de Freitas Oliveira Baffa - Integrante / RAYANNE BERTOLACE LIMA - Integrante / Fernando Lucas de Lima Martins - Integrante / Victor Hugo de Souza Viveiros - Integrante.
+2020 - Atual
+Sistema de análise de malware inteligente usando ciência dos dados com suporte de machine learning
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Martins Coelho - Coordenador / Flávio Augusto de Freitas - Integrante / Maurício Archanjo Nunes Coelho - Integrante / Antônio Frederico Menezes Neves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2019 - 2020
+Realidade Virtual no auxílio do tratamento de fobias
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Martins Coelho - Coordenador / Julie Silva Pereira - Integrante / Leonardo Moreira Faêda - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - 2020
+Desenvolvimento de um Sistema para Classificação de Retinopatia Diabética Utilizando Aprendizado Profundo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Martins Coelho - Coordenador / Matheus de Freitas Oliveira Baffa - Integrante / Ítalo Rodrigues Gama - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - 2017
+Uma metodologia para extração de pontos homólogos em pares de imagens estereoscópicas
+Descrição: estudo de métodos que maximizem o número de pontos detectados em pares de imagens homólogas, através de técnicas de processamento de imagens e extração de dados geométricos dos pares para a eliminação de falsos-positivos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (0) . Integrantes: Alessandra Martins Coelho - Coordenador / Cleiston Rodrigues da Silva - Integrante.Número de produções C, T & A: 2
+2016 - 2017
+O Problema de Corte Unidimensional, com minimização do número de objetos processados e setup, via metaherísticas
+Descrição: A  competitividade entre as empresas e a necessidade de planejamento da produção, visando o aperfeiçoamento de processos de maneira que haja redução de desperdícios, mão de obra e, consequentemente, de custos, bem como a eficiência nas entregas estimulam o estudo de problemas de corte. Problemas dessa classe podem ser modelados para atender a diversas empresas, por exemplo, marmorarias, vidraçarias, têxteis, entre outras. Esta proposta visa avaliar a solução de problemas de corte unidimensional via metaheuríticas, em específico, problemas possuam como objetivo minimizar o numero de objetos processados e o setup.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Martins Coelho - Coordenador / Raphael Viana Corujo de Oliveira Moura - Integrante.Número de produções C, T & A: 2
+2016 - 2017
+Dispositivo não-invasivo para cancelamento de tremor em pacientes com tremor essencial
+Descrição: o estudo da viabilidade e utilização de microcontroladores, estudo de algoritmos e a construção de um protótipo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Martins Coelho - Coordenador / Euler Rithiele Queiróz de Alvarenga - Integrante.Número de produções C, T & A: 1
+2014 - 2015
+Aplicação de recursos computacionais na irrigação do feijoeiro
+Descrição: Automatizar e aperfeiçoar o processo de irrigação do feijoeiro, através de recursos
+computacionais de softwares e hardwares.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandra Martins Coelho - Coordenador / Jonas de Paiva Potros - Integrante / Bárbara da Costa Rodrigues - Integrante / Dâmaris da Silva Bento - Integrante / Matheus Lima Coelho dos Santos - Integrante.Número de produções C, T & A: 4
+2013 - 2014
+Estudo, desenvolvimento e aplicação de materiais didáticos para utilização em dispositivos móveis
+Descrição: Estudo e avaliação de materiais (livros eletrônicos, jogos e vídeos) com conteúdos didáticos para dispositivos móveis. Estudo e avaliação de técnicas utilizadas para o seu desenvolvimento de aplicações para dispositivos móveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Martins Coelho - Coordenador / Dennis de Alcântara Garcia - Integrante / Willian Francisco Fialho - Integrante.Número de produções C, T & A: 5
+2012 - 2013
+Estudo de métodos Heurísticos aplicados a problemas de otimização combinatória relacionados a horários educacionais
+Descrição: Realização de Modelagem Matemática de Problemas de Horário Educacionais e aplicação de técnicas computacionais na resolução dos mesmos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Martins Coelho - Coordenador / Racyus Delano Garcia Pacífico - Integrante.Número de produções C, T & A: 3

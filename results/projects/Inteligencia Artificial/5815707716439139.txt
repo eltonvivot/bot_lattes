@@ -1,0 +1,25 @@
+2016 - 2019
+SELEÇÃO DE PARÂMETROS DE MÁQUINAS DE VETORESDE SUPORTE USANDO OTIMIZAÇÃO MULTIOBJETIVO BASEADA EM META-HEURÍSTICAS
+Descrição: Máquinas de Vetores de Suporte (Support Vector Machines - SVMs) representam uma técnica de
+Aprendizagem de Máquina (Machine Learning - ML), que modelam classificadores e regressores,
+amplamente utilizados principalmente devido às suas propriedades matemáticas que incluem boa
+capacidade de generalização e robustez. O modelo de treinamento das SVMs busca minimizar o
+risco empírico simultaneamente à capacidade de generalização. Entretanto, para obter modelos
+com boa precisão e baixa complexidade, é necessário definir o kernel e os seus parâmetros, assim
+como os parâmetros do modelo de treinamento. Os parâmetros do kernel e do modelo de treinamento juntos são denominados de hiperparâmetros do problema de seleção de parâmetros das
+SVMs. Porém minimizar a complexidade e maximizar a capacidade de generalização das SVM/SVRs são critérios contraditórios e, por isso, neste trabalho, o problema de seleção de parâmetros é
+modelado com um problema de otimização multiobjetivo (MOOP). Para resolver este problema,
+foi desenvolvida uma meta-heurística multiobjetivo chamada de Adaptive Parameter with Mutant Tournament Multi-Objective Differential Evolution (APMT-MODE), Multi-Objective Particle Swarm Optimization (MOPSO), objetivando resolver o problema de seleção de parâmetros.
+Os algoritmos desenvolvidos foram testados com um conjunto de treinamento para classificadores
+e regressores (obtidos no repositório University of California, Irvine), combinados com os kernels
+gaussiano, cauchy, polinomial e arco cosseno. Para validar as meta-heurísticas desenvolvidas, foi
+realizado o teste estatístico de Friedman e os testes post hoc, os quais mostraram que o algoritmo APMT-MODE é superior ao clássico algoritmo Non Sorting Genetic Algorithm - II. Além
+desses estudos, foram realizados estudos de comparação da complexidade computacional entre
+modelos de SVMs com diferentes kernels, nos quais os kernels gaussiano e polinomial configurados pelo APMT-MODE obtiveram melhor desempenho. Como aplicação em situações reais, o
+APMT-MODE foi empregado para obtenção de modelos para predição da penetração e largura de
+cordões de solda, que são utilizados como parâmetros para o controle de processo de soldas. A
+partir das análises, concluiu que os modelos gerados pelo APMT-MODE são mais eficientes que
+os encontrados para redes neurais do tipo perceptron. Finalmente, o Grid Search foi empregado
+para caracterizar os espaço de busca e a complexidade do problema de seleção de parâmetros
+modelado como um MOOP.
+Neste trabalho serão estudados técnicas de otimização meta-heurísticas para a determinação dos parâmetros para que se tenha uma SVM como maior capacidade de generalização e menor complexidade. Visto que, trata-se de um problema cujas soluções devem satisfazer dois objetivos que são contraditórios, o problema será abordado com algoritmos modificados para o problema de otimização multiobjetivo. Encontrado os parâmetros adequados tem-se SVM eficientes que podem ser aplicadas na indústria, administração, medicina, genética entre outros.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (0) . Integrantes: Carlos Eduardo da Silva Santos - Coordenador.

@@ -1,0 +1,36 @@
+2019 - 2020
+OBJETO DIGITAL DE APRENDIZAGEM MATEMÁTICA: a construção de um jogo digital educacional como recurso de aprendizagem significativa das operações básicas da matemática para o Ensino Fundamental
+Descrição: A construção de um Objeto Digital de Aprendizagem Matemática (ODAM), em formato de um jogo digital educacional, como recurso de aprendizagem significativa das operações básicas para o Ensino Fundamental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Coordenador / Kittéria Costa Brito - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2018 - 2019
+AVALIAÇÃO E USABILIDADE DE UM OBJETO DE APRENDIZAGEM CRIADO PARA A OLIMPÍADA PARINTINENSE DE MATEMÁTICA - OPM
+Descrição: Avaliação de um objeto de aprendizagem, utilizando-se de um modelo avaliativo de software agregado com as concepções de acadêmicos de matemática sobre sua usabilidade, a fim de verificar o potencial pedagógico do mesmo para o aprendizado matemático necessário ao treinamento dos participantes da Olimpíada Parintinense de Matemática ? OPM.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Coordenador / Júlio Cézar Marinho da Fonseca - Integrante / Aline Santarém Ramos - Integrante.Financiador(es): Universidade do Estado do Amazonas - Bolsa.
+2017 - 2018
+OBJETO DE APRENDIZAGEM: Divulgação Cientifica e Software Educacional na estruturação e ensino dos conteúdos matemáticos do Nível 2 da OPM
+Descrição: A criação de um objeto de aprendizagem matemática, utilizando-se da teoria da Divulgação Cientifica e dos Softwares Educacionais, para melhorar o processo preparatório dos estudantes do Nível 2 participantes da Olimpíada Parintinense de Matemática- OPM.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Coordenador / Júlio Cézar Marinho da Fonseca - Integrante / KAROLAINE LACERDA MAIA - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2017 - 2018
+OBJETO DE APRENDIZAGEM MATEMÁTICA: divulgação científica e softwares educacionais no treinamento dos participantes do Nível 1 da OPM
+Descrição: O uso do software educacional Visual Class para a construção de um objeto de aprendizagem utilizando-se dos recursos da divulgação científica e softwares educacionais para o favorecimento do aprendizado matemático no treinamento dos estudantes do Nível 1 participantes da Olimpíada Parintinense de Matemática ? OPM.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Coordenador / Júlio Cézar Marinho da Fonseca - Integrante / KELVEN LEITE DA SILVA - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2015 - 2016
+TECNOLOGIAS EDUCACIONAIS NO ENSINO SUPERIOR: O PROCESSO DE FORMAÇÃO DOS ACADÊMICOS DE LICENCIATURA EM HISTÓRIA DO CESP/UEA
+Descrição: Analisar qual é a relação das tecnologias educacionais no processo de
+formação dos acadêmicos de uma turma do oitavo período de licenciatura
+em história do CESP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Coordenador / Glauber Fonseca Pereira - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2013 - 2014
+A DIVULGAÇÃO CIENTÍFICA NO FAVORECIMENTO DO APRENDIZADO DE MATEMÁTICA NO ENSINO MÉDIO, NO PROJETO PRESENCIAL E MEDIADO POR TECNOLOGIA DA SEDUC/AM
+Descrição: A Divulgação Científica no favorecimento do aprendizado da matemática no Ensino Médio, no projeto Presencial e Mediado por Tecnologia da SEDUC/AM, de turmas de 3 ano, de cinco escolas do município de Parintins.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Integrante / Carolina Bradão Gonçalves - Coordenador.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2010 - 2011
+Transformada Wavelet: Uma Aabordagem Didática daTtransformada Wavelet Contínua (CWT) de Morlet Unidimencional
+Descrição: O objetivo deste trabalho é implementar um programa que calcule a CWT para a função Wavelet-mãe de Morlet. Mostrando que seu algoritmo está funcionando. Apresentando os testes, a documentação do algoritmo e a análise da implementação (pontos fortes, fracos, funcionalidades, testes, dificuldades e soluções). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Coordenador / João Raimundo Silva Ferreira - Integrante / Bruno Lopes dos Reis - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2011
+Análise em Tempo-Frequência de Séries Temporais pela Wavelet Contínua (CWT) Unidimencional de Morlet
+Descrição: O Objetivo deste trabalho é demonstrar a importância para estudantes de graduação acompanharem e ganharem experiência em uma nova ferramenta matemática muito utilizada para análise de séries-temporais com características não estacionárias. Nesse contexto, faremos uma aplicação da CWT de Morlet utilizando um programa implementado em Matlab e/ou Octave em séries temporais de dados reais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Coordenador / João Raimundo Silva Ferreira - Integrante / Evandro Gloria Rodrigues - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2011
+MODELAGEM: MODELAÇÃO MATEMÁTICA PARA O ENSINO FUNDAMENTAL EM PARINTINS
+Descrição: Objetivos do Projeto:
+Geral:
+Desenvolver modelos matemáticos que venham a facilitar a atuação do professor em sala de aula, contribuindo para o ensino-aprendizagem no que se refere ao estudo da geometria plana, proporcionando aos professores e alunos uma visão mais ampla e significativa dos conceitos matemáticos estudados nesse nível, melhorando com isso a qualidade do ensino nas escolas de Parintins.
+Específicos:
+Identificar a existência de modelos já formulados;
+Compreender a modelagem matemática presente nos modelos identificados;
+Selecionar situações-problema que possam ser traduzidas e/ou moldadas com a utilização da Geometria Plana.
+Criar modelos matemáticos para as situações anteriormente selecionadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Manoel Fernandes Braz Rendeiro - Integrante / João Raimundo Silva Ferreira - Integrante / Heleno Trindade de Souza - Integrante / Júlio Cézar Marinho da Fonseca - Integrante / Antônio Ivan Ruiz Chaveco - Coordenador / Alessandra Belem Reis - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.

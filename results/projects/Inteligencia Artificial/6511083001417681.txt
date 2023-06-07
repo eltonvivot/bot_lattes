@@ -1,0 +1,12 @@
+2011 - 2012
+Um método heurístico paralelo para o problema de roteamento de veículos com frota heterogênea e janela de tempo
+Descrição: O objetivo do projeto é investigar a paralelização de heurísticas e das metaheuristicas busca tabu e busca em vizinhança variável na resolução de problemas difíceis de roteamentos de veículos  aplicados a cenários reais da atualidade. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antonio Costa de Oliveira - Coordenador / Matheus Costa Barbosa - Integrante.Financiador(es): Universidade Federal do Piauí - Bolsa.Número de produções C, T & A: 1
+2010 - 2011
+Busca Heurística Paralela para Otimização Combinatória
+Descrição: O presente projeto tem como objetivo principal investigar o desenvolvimento de novas heuristicas para problemas dificeis de otimização combinatória.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antonio Costa de Oliveira - Coordenador / Luis Andreolli Cordeiro de Oliveira - Integrante.Financiador(es): Universidade Federal do Piauí - Bolsa.Número de produções C, T & A: 3
+2009 - 2010
+Técnicas Heurísticas para Problemas de Otimização Combinatória com Estrutura em Grafos
+Descrição: Este projeto trata da investigação de novas heurísticas e metaheuristicas para problemas NP-Dificeis encontrados em cenarios reais que podem ser resolvidos por meio de uma modelagem em grafos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antonio Costa de Oliveira - Coordenador / Cairo Antonio de Oliveira Rocha - Integrante.Financiador(es): Universidade Federal do Piauí - Bolsa.Número de produções C, T & A: 2
+2008 - 2009
+Técnicas Heurísticas para Problemas de Otimização Combinatória
+Descrição: Este projeto trata de investigar novos métodos heurísticos tais como: algoritmos genéticos, busca tabu e técnicas hibridas para resolver problemas de job shop clássico, job shop com datas de entrega e problemas de roteamento de veículos com janelas de tempo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Antonio Costa de Oliveira - Coordenador.Financiador(es): Universidade Federal do Piauí - Bolsa.Número de produções C, T & A: 3

@@ -1,0 +1,98 @@
+2022 - Atual
+SISTEMA COMPUTACIONAL PARA MODELAGEM E ESTUDO DO PARÂMETRO R PARA RESERVATÓRIOS CONSIDERANDO SISTEMAS COMPLEXOS E INVARIÂNCIA POR ESCALA
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador.
+2020 - Atual
+A COMPUTAÇÃO TÁTIL COMO TECNOLOGIA ASSISTIVA NA DEFICIÊNCIA VISUAL: Os limites e as possibilidades de um modelo computacional tátil desenvolvido para apoiar o ensino e aprendizagem dos alunos com deficiência visual.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Ruth Maria Mariani - Integrante / Elias Dos Santos Silva Junior - Integrante.
+2019 - 2022
+WORKOVER - Desenvolvimento de Técnicas para Análise de Anomalias que possam ocorrer durante a Produção de Poços Offshore, demandando intervenções
+Descrição: Neste projeto propõe-se o desenvolvimento de estudos aplicando Inteligência Artificial (IA) e a Inteligência Computacional (IC) com relação ao aspecto da Pesquisa e Desenvolvimento (PD&I) e obtenção de resultados inovadores que considerem  a avaliação, tratamento e análise dos dados de atividades de produção de petróleo, com o objetivo principal de obtenção de regras que permitam a classificação e/ou predição de eventos críticos considerados potencialmente demandantes de atividades de intervenção (WORKOVER).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4) . Integrantes: Fabiana Rodrigues Leta - Coordenador / GILSON BRITO ALVES LIMA - Integrante / Albino Lopes D´Almeida - Integrante / Geraldo de Souza Ferreira - Integrante / Yanko Sarzedas da Costa - Integrante / Evandro José Ribeiro Pereira - Integrante / MARCIO CATALDI - Integrante / JOAO FELIPE MITRE DE ARAUJO - Integrante / Mayara De Jesus Rocha Santos - Integrante / Matheus de Almeida Rodrigues da Silva - Integrante / Renato Lopes Rosa - Integrante / Ricardo de Araújo Santos - Integrante / NISSIA CARVALHO ROSA BERGIANTE - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.Número de produções C, T & A: 10
+2018 - 2022
+GeoPoço - Sistema para Calcular as Tensões Atuantes no Poço
+Descrição: PROJETO PRETENDE PESQUISAR E DESENVOLVER METODOLOGIAS DE ANÁLISES E DISPONIBILIZÁ-LAS EM UMA FERRAMENTA COMPUTACIONAL COM OBJETIVO DE ESTIMAR AS TENSÕES ATUANTES NO POÇO, ESTUDAR PADRÕES DE GEOMETRIAS DE BREAKOUT, PESQUISAR E DESENVOLVER METODOLOGIAS DE RETROANÁLISES DE BREAKOUT, PESQUISAR E DESENVOLVER METODOLOGIAS DE TECTONISMO CINEMÁTICO E AUXILIAR NOS PROCESSOS DE INTERPRETAÇÃO, APRESENTANDO RESULTADOS INTEGRADOS A OUTRAS SOLUÇÕES EXISTENTES. O SISTEMA APRESENTARÁ INTERFACES DE FÁCIL UTILIZAÇÃO E FUNCIONARÁ TANTO EM AMBIENTE WINDOWS COMO LINUX.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador.
+2017 - 2018
+ACESSIBILIDADE VIA GAME: ENSINO DE LIBRAS ATRAVÉS DE APLICATIVO
+Descrição: O presente trabalho busca, através de análise bibliográfica e prática, elaborar um e-book contendo a análise dos principais aplicativos de ensino de Libras para ouvintes através de jogo para celular. Seu principal objetivo é criar um e-book com o catálogo dos aplicativos existentes para o ensino de Libras, a fim de auxiliar a divulgação desta língua. Como metodologia de desenvolvimento da proposta serão analisados os aplicativos já existentes na área, visando apontar as melhores práticas adotadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Sarah Xavier Nunes Mirailh - Integrante / Ruth Maria Mariani - Integrante.
+2016 - 2019
+Desenvolvimento de Técnicas e Algoritmos para Análise de Dados de Monitoramento da Construção de Poços
+Descrição: O projeto visa mapear técnicas de análise de dados de monitoramento, que possibilitem inferir eventos relevantes, na forma de padrões e predições, para as atividades de perfuração de poços de petróleo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Mestrado profissional: (2)  / Doutorado: (1) . Integrantes: Fabiana Rodrigues Leta - Coordenador / GILSON BRITO ALVES LIMA - Integrante / Clua, Esteban - Integrante / Aline Marins Paes Carvalho - Integrante / Albino Lopes D´Almeida - Integrante / Geraldo de Souza Ferreira - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Cooperação.
+2014 - 2015
+Modificações de Técnicas dos Dispositivos  Submarinos de Monitoramento Acústico
+Descrição: Medições em dispositivos submarinos para monitoramento acústico. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Integrante / Antônio Lopes Gama - Coordenador.Financiador(es): Fundação de Estudos do Mar - Auxílio
+										financeiro.
+2014 - Atual
+Tecnologia Assistiva
+Descrição: A pesquisa envolve o desenvolvimento de novas tecnologias que atendam às necessidades de pessoas com deficiência e a reflexão sobre seu uso. Dentro do escopo deste projeto, são desenvolvidos projetos que envolvem conteúdos multidisciplinares, tais como: mesa assistiva para deficientes visuais, equipamentos para realização de exercícios físicos de PCD e idosos,  tecnologias para acessibilidade em bibliotecas, motorização para cadeiras de rodas manuais, entre outros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Fabiana Rodrigues Leta - Coordenador / Ruth Maria Mariani - Integrante.Número de orientações: 3
+2013 - 2016
+Estudo numérico, experimental e in vivo do procedimento cirúrgico de expansão do da pele (antes, durante e após)
+Projeto certificado pelo(a) coordenador(a) Djenane Cordeiro Pamplona em 17/01/2018.
+Descrição: Estudar mais profundamente todo o procedimento cirúrgico, desde a escolha do número, forma e volume dos expansores a serem utlizados, local do implante, monitorar as expansões relacionando a pressão dentro do expansor com o volume inserido, assim como medir a espessura da pele antes, durante e depois da expansão. Deseja-se também verificar a existência de possível crescimento celular... Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Integrante / DJENANE PAMPLONA - Coordenador / HANS WEBER - Integrante / HENRIQUE RADWANSKI - Integrante / Raquel Quadros Velloso - Integrante / Guilherme Rodrigues Sampaio - Integrante.
+2012 - 2018
+SISTEMA PARA CALCULAR AS TENSÕES ATUANTE NO POÇO
+Descrição: Este projeto tem por objetivo desenvolver ferramentas de cálculo de tensões atuantes em poços.  Projeto da Rede Temática de Simulação e Gerenciamento de Reservatórios da Petrobras.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Esteban Clua - Integrante / Maria do Socorro Souza - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2011 - 2013
+Simulador de Passadiço
+Descrição: Desenvolvimento de um simulador de visualização gráfico de passadiço para treinamento. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Integrante / Esteban Clua - Coordenador.
+2009 - 2013
+SISTEMA PARA IDENTIFICAR E ESTIMAR AS DIREÇÕES DAS TENSÕES A PARTIR DA GEOMETRIA DO POÇO
+Descrição: Este projeto tem por objetivo desenvolver ferramentas de análise e visualização de geometria de poços de perfuração.  Projeto da Rede Temática de Simulação e Gerenciamento de Reservatórios da Petrobras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Fabiana Rodrigues Leta - Coordenador / Mauro Biondi - Integrante / Esteban Clua - Integrante / Maria do Socorro Souza - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2009 - 2013
+Chemrock IV - Sistema de Análise Geoquímica de Rochas
+Descrição: Desenvolvimento de um Sistema de Análise Geoquímica de Rochas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Sérgio de Castro Valente - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2009 - 2010
+PETROGÊNESE DE BASALTOS CONTINENTAIS COM VISTAS À ELABORAÇÃO DE CENÁRIOS GEODINÂMICOS PARA O REFINAMENTO DO GONDWANA NO CRETÁCEO INFERIOR E POSTERIOR
+Descrição: A proposta tem como ênfase a elaboração de um software capaz de elaborar cenários geodinâmicos com base em dados petrológicos, essencialmente de caráter litogeoquímico e de química mineral. Estes cenários poderão ser compartilhados por especialistas de outras áreas do conhecimento no setor de exploração da indústria petrolífera (p.ex.: geofísicos, sedimentólogos, estratígrafos e estruturalistas) de maneira a refinar os sistemas petrolíferos elaborados para as diversas áreas exploratórias já existentes ou sob pesquisa nas bacias de Pelotas, Santos, Campos e Espírito Santo. O software baseia-se numa metodologia do estudo petrogenético ígneo, com ênfase em basaltos, que vem sendo desenvolvida há cerca de oito anos pelo Grupo de Pesquisas EDSM-rifte, da UFRuralRJ, com fortes parcerias com o Grupo de Pesquisa TEKTOS, da Faculdade de Geologia da UERJ e o Laboratório de Metrologia Dimensional & Computacional (LMDC) da UFF.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Doutorado: (1) . Integrantes: Fabiana Rodrigues Leta - Coordenador / Sérgio de Castro Valente - Integrante / Mauro Biondi - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2008 - 2010
+Auxílio à Editoração: Engevista (UFF)
+Descrição: Apoio à editoração da revista da Escola de Engenharia. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Integrante / João Carlos C B Soares de Mello - Coordenador.
+2007 - 2012
+Projeto Diagnóstico e Planejamento do Arranjo Produtivo do Setor Naval/Offshore (FINEP - CT-AQUA)
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2) . Integrantes: Fabiana Rodrigues Leta - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2007 - 2010
+Mapeamento do Estado da Arte da Tecnologia de Construção e Montagem
+Descrição: O projeto envolve o estabelecimento do estado da arte da tecnologia da construção e montagem utilizada pela indústria brasileira de construção EPC em comparação com as melhores práticas internacionais. Neste sentido, o projeto tem como o objetivo produzir uma análise comparativa , tanto dos métodos e processos de fabricação, montagem e inspeção, quanto da organização do processo produtivo em termos quantitativos e qualitativos (estruturação e dimensionamento das equipes de produção). Ao final do projeto pretende-se obter de um quadro abrangente da indústria EPC nacional identificando seu estágio atual em comparação com a de outros países, possibilitando assim a implementação de ações no sentido de superar os eventuais atrasos nas áreas estudadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Integrante / Fernando B Mainier - Integrante / Miguel Luiz F Ribeiro - Coordenador / Helder Gomes Costa - Integrante / Sérgio Souto Maior - Integrante / ROGER MATSUMOTO MOREIRA - Integrante / GILSON BRITO ALVES LIMA - Integrante / Claudia Ossanai Ourique - Integrante / Ielson Junquilho Freire - Integrante.
+2006 - 2007
+Chemrock III - Sistema de Análise Geoquímica de Rochas
+Descrição: Desenvolvimento de um Sistema de Análise Geoquímica de Rochas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Sérgio de Castro Valente - Integrante / Mauro Biondi - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2005 - 2006
+Chemrock II - Sistema de Análise Geoquímica de Rochas
+Descrição: Desenvolvimento de um  Sistema de Análise Geoquímica de Rochas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Sérgio de Castro Valente - Integrante / Mauro Biondi - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2004 - 2004
+Newpet para Windows
+Descrição: Desenvolvimento de um sistema de análise geoquímica para a plataforma Windows.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Mauro Biondi - Integrante / Sergio de Castro Valente - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2003 - 2004
+Formação de Jovens Empreendedores
+Descrição: Projeto em articulação com o SEBRAE/RJ de formação de jovens empreendedores na UFF.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Sandra Regina dos Anjos Oliveira - Integrante.
+2002 - 2009
+Metrologia baseada em Visão Computacional - FAPERJ
+Descrição: Desenvolvimento de pesquisas relacionadas à medições por imagem através de tecnologias de Visão Computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabiana Rodrigues Leta - Coordenador / Márcia Pimenta Velloso - Integrante / Edson Luiz Cataldo Ferreira - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 29
+2001 - Atual
+Metrologia baseada em Visão Computacional
+Descrição: CONSISTE NO USO DE TÉCNICAS DE VISÃO COMPUTACIONAL PARA REALIZAÇÃO DE MEDIÇÕES ATRAVÉS DE IMAGENS.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabiana Rodrigues Leta - Coordenador / Pedro Bastos Costa - Integrante / JULIANA FREITAS SANTOS GOMES - Integrante.
+2000 - 2002
+Desenvolvimento de Métodos de Avaliação no Ensino Tecnológico
+Descrição: Pesquisa sobre métodos de avaliação de ensino na área tecnológica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabiana Rodrigues Leta - Coordenador.Financiador(es): Universidade Federal Fluminense - Outra.
+1999 - 2001
+Futebol de Robôs (Hands-on / FINEP)
+Descrição: Coordenadora do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabiana Rodrigues Leta - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1999 - 2001
+Reconhecimento de Padrões (Projeto Integrado/ CNPq)
+Descrição: Coordenadora da linha Reconhecimento de Padrões de Projeto Integrado/ CNPq. O projeto dispunha de uma bolsa de iniciação científica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabiana Rodrigues Leta - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1997 - 1999
+Morphing para Geração de Retratos Falados (APQ1/FAPERJ)
+Descrição: Coordenadora do projeto na modalidade APQ1. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabiana Rodrigues Leta - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+1995 - 1997
+Metrologia e Qualidade (REENGE/FINEP)
+Descrição: Coordenadora do sub-projeto do REENGE. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabiana Rodrigues Leta - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

@@ -1,0 +1,8 @@
+2017 - 2018
+HAR-HEALTH: Reconhecimento de Atividades Humanas associadas a Doenças Crônicas
+Projeto certificado pelo(a) coordenador(a) William Robson Schwartz em 11/02/2019.
+Descrição: (Projeto de Pesquisa e Desenvolvimento) O objetivo desse projeto é a pesquisa e o desenvolvimento de métodos e algoritmos capazes de reconhecer, automaticamente, atividades humanas relacionadas a doenças crônicas (diabetes, hipertensão, obesidade e envelhecimento) a partir de informações visuais, sinais capturados por sensores de dispositivos móveis pessoais e sinais capturados por sensores instalados nos ambientes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Jesimon Barreto Santos - Integrante / Victor Hugo Cunha de Melo - Integrante / William Robson Schwartz - Coordenador / Antonio C Nazare Jr - Integrante / Jéssica Sena de Souza - Integrante / Carlos Antônio Caetano Júnior - Integrante / Raphael Prates - Integrante / Renan Oliveira Reis - Integrante / Leonardo Torres - Integrante.Financiador(es): Samsung Eletrônica da Amazônia - Auxílio
+										financeiro.
+2014 - 2015
+Desenvolvimento de aplicação educacional interativa para modelo de aula sobre corpo humano com realidade aumentada
+Descrição: Projeto que usa Kinect como meio de interação para dar aula para alunos de quaisquer níveis de ensino.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jesimon Barreto Santos - Integrante / Jonisson Andrade Santos - Integrante / Silvio Santos Sandes - Coordenador / Bruno de Jesus Sales - Integrante.

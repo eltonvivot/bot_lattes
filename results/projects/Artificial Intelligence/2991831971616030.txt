@@ -1,0 +1,109 @@
+2018 - Atual
+Transformando Diagramas em Mapas:Mapeamento Interativo-Projeto Data Viva -2a parte
+Descrição: o objetivo principal deste projeto é produzir instrumentais para mapear grande massa de dados,transformando gráficos e diagramas em mapas,a utilização será testada no PROJETO DATAVIVA.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Joao Francisco de Abreu - Coordenador / Pasteur Ottoni Miranda Junior - Integrante / Wolne Lobatoy - Integrante / Sandro Laudares - Integrante / Marcos Kutova - Integrante.
+2014 - Atual
+A Cooperação Internacional e a Projeção Externa do Estado de Minas Gerais-Cenários e Perspectivas
+Descrição: Pesquisar a Cooperação Internacional do Estado de Minas Gerais e Desenvolver Cenários de Cooperação. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Joao Francisco de Abreu - Integrante / Onofre Santos Filho - Integrante / Paula Haddad - Integrante / Otavio Soares Dulci - Coordenador.
+2013 - Atual
+Metodologias para visualização ,tratamento e análise de informações espaciais e temporais,em ambiente web
+Descrição: Desenvolviemto de metodologias de análise espacial e análise temporal e mapeamentos dinâmicos e tri-dimensionais na web. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante / Pasteur Ottoni Miranda Junior - Integrante / Sandro Laudares - Integrante / Marcelo Franco Porto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2013
+QUEIMADAS -D352/CEMIG
+Descrição: : O objetivo do projeto é de desenvolver um sofware de visualização de focos de queimadas próximo das linhas de transmissão... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Joao Francisco de Abreu - Coordenador / Sanddro Laudares - Integrante / Ruibran Januario Reis - Integrante.Financiador(es): Companhia Energética de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2013
+Mapeamento e Monitoramento das Áreas de Risco em Minas Gerais - via Web (MAPrisc-Web)
+Descrição: Mapeamento e Monitoramento das Áreas de Risco em Minas Gerais - via Web (MAPrisc-Web). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Joao Francisco de Abreu - Integrante / Ruibran Januario Reis - Coordenador / Sandro Laudares - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2013
+Classificação de Ativos/D377
+Descrição: Classificação de Ativos da CEMIG para mapeamento das Tarifas CEMIG no Estado de Minas Gerais.São utilizadas metodologias clássicas de Análise Espacial e Cartografia Analítica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Joao Francisco de Abreu - Integrante / Leônidas C.Barroso - Integrante / Manuel Emílio Torres - Integrante / Sanddro Laudares - Integrante / Luis Claudio Almeida Magalhaes - Coordenador / Alexandre Veloso de Abreu - Integrante.
+2011 - 2013
+DESENVOLVIMENTO DE SISTEMA PARA CÁLCULO DO POTENCIAL DE INSTALAÇÃO DE USINAS SOLARES FOTOVOLTAICAS (FVS) E TERMOELÉTRICAS SOLARES DE GRANDE PORTE
+Descrição: Este projeto consiste nos seguintes objetivos: - Realizar o levantamento das áreas mais promissoras para empreendimentos de Energia solar de grande porte (da ordem de dezenas de MW) e para geração de energia elétrica. As tecnologias a serem empregadas são concentradores solares de médias e altas temperaturas para conversão termoelétrica (tecnologia cilíndrico parabólico) e Fotovoltaica; - Identificar as áreas mais promissoras para a Usina solar FV fixa de grande porte porque atualmente ainda não é clara a vantagem das plantas FV com rastreamento; - Criar um banco de dados com informações solarimétricas locais e uma ferramentas associada para projeto simplificado de energia solar FV de pequeno porte; - Identificar as áreas mais promissoras formatar uma rede de medição piroheliométrica de alta qualidade para obtenção de séries temporais de pelo menos 2 anos para calibração de modelos. Serão instaladas 05 estações para calibração do modelo; - Elaborar o Atlas Solarimétrico de Minas Gerais; - Desenvolver um modelo de simulação com informações de todos os municípios de Minas Gerais que permita a simulação do potencial para instalação de Usinas solar FV... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Joao Francisco de Abreu - Integrante / Sanddro Laudares - Integrante / Ruibran Januario Reis - Coordenador.Financiador(es): Companhia Energética de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2013
+Mapeamento de descargas atmosféricas - O caso de Minas Gerais
+Descrição: O objetivo do projeto é de fazer análise dos dados de descargas atmosféricas coletadas pela rede de Localização de Tempestades em tempo real da Cemig. As estações forma instaladas em 1989, e hoje o sistema é composto de 5 estações de campo. As descargas atmosféricas representam cerca de 70% dos desligamentos não programados das linhas de distribuição da Cemig... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Joao Francisco de Abreu - Integrante / Pasteur Ottoni Miranda Junior - Integrante / Sanddro Laudares - Integrante / Ruibran Januario Reis - Coordenador.Financiador(es): Companhia Energética de Minas Gerais - Auxílio
+										financeiro.
+2010 - Atual
+Biblioteca do Futuro
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Joao Francisco de Abreu - Coordenador / Wolney Lobato - Integrante / Rita Liberato - Integrante / Claúdia Sabino - Integrante / Alexandre Diniz - Integrante / Rômulo Albertini - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2010 - Atual
+Geografia ,Análise Espacial e Inovação
+Descrição: Inovações ,Análise Espacial e Geografia
+Livro no Prelo : ISBN 978 858229-011-8
+Título : Geografia Análise Espacial e Inovação
+Autores : João Francisco de Abreu (PUCMINAS)
+Leônidas C.Barroso (PUCMINAS)
+ED;PUCMINAS. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2013
+Desigualdades Socio Espaciais-Aplicações Geocomputacionais
+Descrição: Estudos e aplicações de GIS e Análise Regional em casos específicos.
+(Livro no Prelo :ISBN 978-85-8229-012-5)
+Título : Desigualdades Sócio Espaciais :Aplicações Geocomputacionais
+Autores : João Francisco de Abreu (PUCMINAS)
+         Roberto Mingucci (UNIBO)
+ED.PUCMINAS. Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Francisco de Abreu - Coordenador / Aurélio Muzzarelli - Integrante / Roberto Mingucci - Integrante.
+2008 - 2010
+MESALC-Mapa do Ensino Superior da America Latina-Fase II
+Descrição: Mapeamento e visualização inteligente das Instituiço~es de Ensino Superior da América Latina. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Joao Francisco de Abreu - Coordenador / Pasteur Ottoni Miranda Junior - Integrante.
+2007 - 2010
+Mapeamento Digital das Potencialidades de Abertura de Programas de Pós-Graduação no SE
+Descrição: Desenvolvimento de software interativo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Joao Francisco de Abreu - Coordenador.
+2007 - 2010
+Mapping University Ranking-The Shanghai List
+Descrição: Geovizualização da lista de Shanghai utilizando redes neurais ,estatística multivariada e GIS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Joao Francisco de Abreu - Coordenador / Pasteur Ottoni Miranda Junior - Integrante.
+2003 - 2005
+Mapeamento de variáveis Sócio-Economicas Região Sudeste
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Francisco de Abreu - Coordenador.
+2002 - 2004
+Mapeamento Digital Interativo da Arquidiocese de Belo Horizonte
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Francisco de Abreu - Coordenador.
+2002 - 2002
+Diagnóstico da Economia Mineira -SEC XXI (BDMG)
+Descrição: Estudos de Geografia Econômica e mapeamentos para o Diagnóstico estadual. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante / Ramon César - Integrante / Oswaldo Bueno Amorim Filho - Integrante / Claúdio Caetano Machado - Integrante / Jósé Irineu R.Rigotti - Integrante / Manuel Emílio Torres - Integrante / José Eustáquio Machado de Paiva - Integrante / Izabella F.Carvalho - Integrante / Danny Zahreddine - Integrante / Magali Maria de Araújo Barroso - Integrante.Financiador(es): Banco de Desenvolvimento do estado de Mians Gerais - Auxílio
+										financeiro.
+2001 - 2009
+Atlas Digital de Minas Gerais (FAPEMIG)
+Descrição: Confecção de um Atlas Digital de Bens Tombados do estado de Minas Gerais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (2) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante / Aurélio Muzzarelli - Integrante / Altino Barbosa Caldeira - Integrante / Fernando Luiz Camargos Lara - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2001 - 2004
+Mapeando Desigualdades Educacionais em Minas Gerais(FAPEMIG)
+Descrição: Análise e mapeamento de dados educacionais do estado de MG. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Joao Francisco de Abreu - Coordenador / Aurélio Muzzarelli - Integrante / Jósé Irineu R.Rigotti - Integrante / Danny Zahreddine - Integrante.Financiador(es): CEDEPLAR - Cooperação.
+2001 - 2002
+Geografia da Educação-(INEP/CEDEPLAR/PUCMG)
+Descrição: Mapeamento para 5507 municípios brasileiros de dados do INEP. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante / Aurélio Muzzarelli - Integrante / Jósé Irineu R.Rigotti - Integrante / Danny Zahreddine - Integrante / Magali Maria de Araújo Barroso - Integrante.Financiador(es): CEDEPLAR - Cooperação.
+2000 - 2001
+Estudos de Mercado (INFOVIAS)
+Descrição: Análise Espacial do estado de Minas Gerais para inovos negócios. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Joao Francisco de Abreu - Coordenador.Financiador(es): Companhia Energética de Minas Gerais S/A - Cooperação.
+1996 - 1998
+Minas Gerais-Cenários Espaciais(FAPEMIG)
+Descrição: Mapear as potencialidades espaciais do estado com dados (municipais) de 1991. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+1995 - 1996
+Spatial autocorrelation/Mapping Programs
+Descrição: Organização de Programas de Análise Espacial -University of Michigan. Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Francisco de Abreu - Coordenador / Donald Deskins,Jr. - Integrante.
+1990 - 1993
+Interação Espacial-Shoppings em Belo Horizonte
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (1)  / Mestrado acadêmico: (1) . Integrantes: Joao Francisco de Abreu - Coordenador.
+1988 - 1990
+Potencialidades Espaciais em Minas Gerais (FASE II)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1) . Integrantes: Joao Francisco de Abreu - Coordenador.
+1986 - 1988
+Potencialidades Espacias em Minas Gerais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1) . Integrantes: Joao Francisco de Abreu - Coordenador.
+1984 - 1986
+Aplicações Computacionais em Geografia
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (2) . Integrantes: Joao Francisco de Abreu - Coordenador.
+1982 - 1984
+Software Básico para Análise em Geociências (FASE II) -CNPq
+Descrição: Coleção de Programs em Fortran e Basic para análise espacial em Geo-Ciências.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante / Roland Barreau - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 23
+1980 - 1982
+Software Básico para Análise Espacial em Geociências (Fase I)-CNPq
+Descrição: Conjunto de Programas em Fortran e Basic para Análise Espacial em Geociências. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Joao Francisco de Abreu - Coordenador / Leônidas C.Barroso - Integrante / Roland Barreau - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 21

@@ -1,0 +1,16 @@
+2020 - Atual
+UTILIZAÇÃO DE REDES NEURAIS ARTIFICIAIS PARA SOLUCIONAR EQUAÇÕES DIFERENCIAIS ORDINÁRIAS LINEARES DE 1ª ORDEM
+Descrição: Este projeto pretende obter as soluções de equações diferenciais ordinárias, nos casos lineares de 1ª ordem, com a utilização de alguma arquitetura de redes neurais artificiais, a ser determinada. Por sua vez, o recurso de inteligência computacional escolhido tem como vantagens o treinamento do sistema, que se adapta a novos dados de entrada que possam ser apresentados. Isto otimiza a tomada de decisão e, consequentemente, pode apresentar menor custo computacional em relação a métodos numéricos clássicos quando aplicado sobre os casos mais complexos, indicando um longo caminho de experimentação dos aspectos e possibilidades que pode oferecer a relação entre redes neurais e equações diferenciais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9) . Integrantes: Cassia Isac Gonçalves da Silva - Coordenador / Thiago Franco Leal - Integrante / Luiz Henrique de Almeida Pinto Couto - Integrante / MACHADO, WESLEY - Integrante.
+2020 - Atual
+O IFRJ CAMPUS PARACAMBI NO OLHO ANTROPOCENO: ENXERGAR PARA AGIR
+Descrição: O presente projeto de pesquisa abordará o problema de
+produção de resíduos sólidos, mais especificamente de plásticos, dentro do campus
+Paracambi. Neste sentido, as ações serão planejadas e executadas de modo a promover
+uma sensibilização crítica junto à toda comunidade escolar, por meio de levantamento de
+dados estatísticos, atividades educativas de conscientização e produção de material para
+divulgação, contextualizando com outras áreas do conhecimento. O projeto em questão
+visa promover debates sobre possíveis soluções para minimizar a produção de descarte
+plástico dentro do campus.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cassia Isac Gonçalves da Silva - Integrante / Luiz Henrique de Almeida Pinto Couto - Integrante / LEAL, THIAGO FRANCO - Coordenador / Joyce Rocha - Integrante / Lívia Mauro - Integrante.
+2015 - 2016
+Simulação computacional do comportamento fractal em colônias de bactérias - PIBCT
+Descrição: Após estudos, que propiciarão importante aquisição de experiências em tópicos como Equações Diferenciais e Modelagem Matemática, pretende-se simular computacionalmente a dinâmica do organismo em foco, observando sob quais condições o comportamento fractal emerge da fronteira desse sistema biológico. A validação do modelo computacional através de dados obtidos na literatura, além da possível interação com profissionais de áreas biológicas, é o passo seguinte para atestar o aproveitamento e a eficácia do projeto desenvolvido.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cassia Isac Gonçalves da Silva - Integrante / Thiago Franco Leal - Coordenador.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - Cooperação.

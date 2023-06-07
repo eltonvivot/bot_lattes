@@ -1,0 +1,36 @@
+2015 - Atual
+5G spectrum and co-existence
+Descrição: Broad analysis on 5G spectrum, including sharing and compatibility studies; active participation in the regulatory process in ITU, and work on alternative spectrum sharing frameworks.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabiano de Sousa Chaves - Integrante / Rauno Ruismaki - Coordenador / Kamil Bechta - Integrante / Agnieszka Szufarska - Integrante / Eiman Mohyeldin - Integrante.
+2014 - 2015
+DC-UDN - Device Connectivity in Ultra Dense Networks
+Descrição: Improvement of cellular communications performance in ultra dense networks and the co-existence of distinct technologies and services.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano de Sousa Chaves - Integrante / Erika Portela Lopes de Almeida - Integrante / André Mendes Cavalcante - Integrante / Fuad Mousse Abinader Junior - Integrante / David Gallegos - Coordenador.Financiador(es): Microsoft Corporation - Cooperação.
+2013 - 2014
+Wi-Fi - Software Defined Radio
+Projeto certificado pelo(a) coordenador(a) Robson Domingos Vieira em 24/01/2019.
+Descrição: Novos conceitos e implementações para a tecnologia Wi-Fi. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano de Sousa Chaves - Integrante / Erika Portela Lopes de Almeida - Integrante / Renato F. Iida - Integrante / André Mendes Cavalcante - Integrante / Rafael Cauduro Dias de Paiva - Integrante / Fuad Mousse Abinader Junior - Integrante / David Gallegos - Coordenador.Financiador(es): Nokia Research Center - Cooperação.
+2013 - 2013
+LTE 700 MHz OOB
+Descrição: Estudos para regulamentação do uso do espectro na Europa: operação do LTE na banda de 700 MHz e co-existência com o sistema de TV digital na banda adjacente. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano de Sousa Chaves - Integrante / Erika Portela Lopes de Almeida - Integrante / David Gallegos - Coordenador / Rauno Ruismaki - Integrante.Financiador(es): NOKIA Corporation - Cooperação / Nokia Research Center - Cooperação.
+2012 - 2012
+MCETV - Mobile Coexistence Enablers for TV White Spaces
+Descrição: Projeto na área de "TV white spaces": coexistência LTE/Wi-Fi. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano de Sousa Chaves - Integrante / Robson Domingos Vieira - Coordenador / Erika Portela Lopes de Almeida - Integrante / Renato F. Iida - Integrante / André Mendes Cavalcante - Integrante / Rafael Cauduro Dias de Paiva - Integrante / Fuad Mousse Abinader Junior - Integrante.Financiador(es): Nokia Research Center - Cooperação.
+2010 - 2012
+IAE - Internet Access Evolution
+Descrição: Projeto na área de "TV White Spaces": estudo de requisitos técnicos de sistemas de rádio cognitivo para operação secundária no espectro de TV na Europa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano de Sousa Chaves - Integrante / Robson Domingos Vieira - Coordenador / Erika Portela Lopes de Almeida - Integrante / Renato F. Iida - Integrante / Edgar B. Souza - Integrante.Financiador(es): NOKIA Corporation - Cooperação.
+2009 - 2011
+Cognição em Sistemas de Comunicações
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (14)  / Doutorado: (10) . Integrantes: Fabiano de Sousa Chaves - Integrante / João Marcos Travassos Romano - Coordenador / Fábio Gabrielli Fernandes - Integrante / Romis Ribeiro de Faissol Attux - Integrante / Ricardo Suyama - Integrante / Renato da Rocha Lopes - Integrante / Rafael Krummenauer - Integrante / Rafael Ferrari - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2009
+Novas Abordagens Matemáticas para Problemas de Tratamento de Sinais em Comunicações
+Descrição: Estudo de ferramentas matemáticas usualmente empregadas nas áreas de otimização e controle, visando sua utilização em problemas avançados de processamento de sinais aplicado às telecomunicações. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano de Sousa Chaves - Integrante / João Marcos Travassos Romano - Coordenador / Romis Ribeiro de Faissol Attux - Integrante / Ricardo Suyama - Integrante / Mohamed Abbas-Turki - Integrante / Hisham Abou-Kandil - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2004 - 2006
+Gerência de Recursos de Rádio Avançado e Global para Redes Sem Fio Multi-serviço e Multi-acesso
+Descrição: Projeto na área de telefonia celular multimídia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Fabiano de Sousa Chaves - Integrante / Raimundo Abreu de Oliveira Neto - Integrante / Francisco Rodrigo Porto Cavalcanti - Coordenador / Vicente Ângelo de Sousa Junior - Integrante / Júlio Fernandes Pimentel - Integrante / Leonardo Sampaio Cardoso - Integrante / Alex Pereira da Silva - Integrante.Financiador(es): Ericsson do Brasil - Cooperação.
+2003 - 2004
+Pesquisa Estendida em Gerência de Recursos de Rádio para a Provisão Eficiente de Serviços 3G
+Descrição: Projeto na área de telefonia celular digital. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (8)  / Mestrado profissional: (0)  / Doutorado: (10) . Integrantes: Fabiano de Sousa Chaves - Integrante / Raimundo Abreu de Oliveira Neto - Integrante / Tarcisio Ferreira Maciel - Integrante / Francisco Rodrigo Porto Cavalcanti - Coordenador / Vicente Ângelo de Sousa Junior - Integrante / Carlos Héracles Morais de Lima - Integrante / Ricardo Brauner dos Santos - Integrante.Financiador(es): Ericsson do Brasil - Cooperação.
+2002 - 2004
+Gerência de Recursos de Rádio para a Provisão Eficiente de Serviços 3G
+Descrição: Projeto na área de telefonia celular digital. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Fabiano de Sousa Chaves - Integrante / Raimundo Abreu de Oliveira Neto - Integrante / Tarcisio Ferreira Maciel - Integrante / Francisco Rodrigo Porto Cavalcanti - Coordenador.Financiador(es): Ericsson do Brasil - Cooperação.Número de produções C, T & A: 1

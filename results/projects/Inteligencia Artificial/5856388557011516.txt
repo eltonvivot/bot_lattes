@@ -1,0 +1,14 @@
+2003 - 2005
+CONTRIBUIÇÕES À AUTOMATIZAÇÃO DA DETECÇÃO, ANÁLISE E CLASSIFICAÇÃO DE EVENTOS EPILEPTIFORMES EM ELETROENCEFALOGRAMA
+Descrição: O objetivo geral deste projeto é propor, elaborar, desenvolver e testar métodos e ferramentas de processamento de sinais, no sentido da implementação de sistemas computacionais de detecção e análise automáticas de espículas (bem como de outros padrões epileptiformes, se for o caso), em EEG, como forma de se auxiliar especialistas no diagnóstico de Epilepsia.
+     Como objetivos específicos, tem-se:
+- estudar técnicas de redes neurais artificiais na classificação de eventos epileptiformes;
+- estudar técnicas de trasformadas wavelets no pré-processamento dos sinais de EEG;
+- estudar as formas de se apresentar os sinais de EEG às redes neurais artificiais: 
+     a) sinal cru
+     b) sinal pré-processado por técnicas de transformadas, seja a Fourier de Curto Termo, seja a Wavelet;
+     c) sinais parametrizados
+- no último caso (parametrização), estudar quais os parâmetros são mais adequados para tal problema;
+- desenvolver protótipos de sistemas de automatização da detecção e análise de eventos epileptiformes;
+- avaliar a metodologia e os sistemas através de técnicas quantitativas (análises estatísticas) e qualitativas (por parte de profissionais da área).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Fernanda Isabel Marques Argoud - Coordenador / Fernando Mendes de Azevedo - Integrante / José Marino Neto - Integrante / Maria do Carmo Vitarelli Pereira - Integrante / Felipe Andrade Sala - Integrante / Geovani Scolaro - Integrante / Sheila Santisi Travessa - Integrante / César Augusto Nogueira Jahnecke - Integrante / George Araújo Mendonça - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / RHER Consultoria e Desenvolvimento Ltda - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 36

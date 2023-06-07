@@ -1,0 +1,23 @@
+2014 - 2016
+Desenvolvimento e avaliação de tecnologias de sistemas móveis (PDAs, RFIDs, sensores, redes) para Controle, Automação e Manutenção (RFID-MOBILE)
+Projeto certificado pelo(a) coordenador(a) Pericles Rezende Barros em 18/02/2016.
+Descrição: O objetivo do projeto é investigar estratégias e soluções tecnológicas, com base em dispositivos móveis sem fio (PDAs, Tablets e similares) e RFID (Radio Frequency IDentification), aplicáveis à cadeia produtiva de petróleo e gás natural. O foco são sistemas para aumento do controle e da segurança dos procedimentos manuais, apoio à inspeção, manutenção e localização de peças, equipamentos, cargas e instalações. Este sistema se insere na área de automação de procedimentos, monitoração e controle do fluxo de trabalho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: André Luís Silva Barbosa - Integrante / Péricles Rezende Barros - Coordenador / George Acioli Junior - Integrante / Rafael Bezerra Correia Lima - Integrante.
+2011 - 2016
+BR-TUNING-MIMO
+Projeto certificado pelo(a) coordenador(a) Pericles Rezende Barros em 14/09/2016.
+Descrição: Desenvolvimento de novas técnicas de avaliação, identificação multivariáveis dos processos e sintonia de controladores PIDs descentralizados. Os resultados destes trabalhos de pesquisa e desenvolvimento serão incorporados ao BR-TUNING para a sintonia (simultânea) de controladores PIDs descentralizados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Silva Barbosa - Integrante / Péricles Rezende Barros - Coordenador / George Acioli Junior - Integrante.
+2011 - 2013
+Sistema Piloto Informatizado de Apoio às Operações de Campo nas Estações de Estreito
+Descrição: Desenvolvimento de um sistema piloto informatizado de apoio às operações de campo nas estações de extração de Petróleo e Gás do Rio Grande do Norte de Estreito A, Estreito B, Estreito L e Estreito M, oferecendo aos operadores ferramentas que facilitem e aumentem a segurança dos procedimentos de inspeção realizados manualmente em campo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Silva Barbosa - Integrante / Péricles Rezende Barros - Coordenador / Rafael Bezerra Correia Lima - Integrante.
+2010 - 2012
+Implementação e melhorias no BR-SIS: Software para cálculo de confiabilidade e disponibilidade de Sistemas Instrumentados de Segurança - BR-SIS
+Descrição: Projeto em Cooperação ICTs-Empresas PETROBRAS/UFCG/ATECEL Atividades desenvolvidas no Laboratório de Instrumentação Eletrônica e Controle (LIEC) do Departamento de Engenharia Elétrica da Universidade Federal de Campina Grande.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: André Luís Silva Barbosa - Integrante / Henrique Cunha Barroso - Coordenador.
+2010 - 2010
+Avaliação das condições de malha de aterramento em instalações energizadas
+Descrição: Participação na equipe de desenvolvimento do software Simulador e Analisador de Potenciais de Superfície - SAPS, desenvolvendo o aplicativo em C# para avaliação das condições de malha de aterramento em instalações energizadas. Projeto PaqTc-PB/Energisa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Luís Silva Barbosa - Integrante / Edson Guedes da Costa - Coordenador / André Dantas Dias - Integrante / Gilvan Vieira de Andrade Júnior - Integrante / George Rossany Soares de Lira - Integrante / Francisco Paulo Ferreira de Sousa - Integrante.
+2005 - 2006
+Sistemas Avançados de Informática e Automação Industrial - Serviços da Web aplicados à rede de microcontroladores para o controle de processos multivariáveis
+Descrição: Desenvolver um software capaz de permitir o controle em tempo real de um processo de temperatura, remotamente, através da internet.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: André Luís Silva Barbosa - Integrante / Péricles Rezende Barros - Coordenador.Financiador(es): CNPq - Bolsa.Número de produções C, T & A: 2
+2005 - 2005
+Sistemas Avançados de Informática e Automação Industrial - Rede de microcontroladores para o controle de processos multivariáveis
+Descrição: Aperfeiçoamento de uma rede de microcontroladores para o controle de processos multivariáveis. Criação de um software capaz de atuar em tempo real no sistema proposto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: André Luís Silva Barbosa - Integrante / Péricles Rezende Barros - Coordenador.Financiador(es): CNPq - Bolsa.Número de produções C, T & A: 2

@@ -1,0 +1,133 @@
+2021 - Atual
+BI0S - Brazilian Institute of Data Science
+Descrição: O Centro de Pesquisa em Inteligência Artificial - Brazilian Institute of Data Science (BI0S) tem como principal objetivo contribuir com o desenvolvimento científico-tecnológico e social em duas áreas estratégicas no plano nacional: Saúde (trilha focal) e Agropecuária (Agro, trilha secundária). Na Trilha Saúde, o foco de atuação do BI0S se dará no enfrentamento de problemas associados à saúde da mulher nos diversos momentos de seu ciclo de vida. Numa primeira etapa, os principais problemas que serão abordados estão relacionados à morte materna e neonatal e à mortalidade precoce de mulheres por doenças preveníveis e potencialmente curáveis, como o câncer de colo e câncer de mama.
+Na trilha Agro, o objetivo principal é ampliar a disponibilidade e a qualidade de informações úteis para a tomada de decisões na agropecuária, tanto em escala local como regional, ou mesmo global, com soluções para a agricultura de precisão, e abordando também problemas tais como os impactos das mudanças climáticas. Além das trilhas Saúde e Agro, o BI0S conta com uma trilha de Método, cujo objetivo é subsidiar as frentes de aplicação com ferramentas de IA. Finalmente, cabe destacar que a atuação em duas trilhas temáticas posiciona o BI0S como um centro capaz de abordar problemas
+transversais de grande interesse atual e que se encontram na fronteira entre as trilhas Saúde e Agro, como as relações entre uma determinada estratégia de cultivo e seus efeitos na saúde humana.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2019 - Atual
+Representação e Otimização Esparsa: Algoritmos Aplicados a Problemas Inversos Mal Postos
+Descrição: Este projeto de pesquisa CAPES-COFECUB está centralizado na Universidade Estadual de Campinas e se desenvolverá em parceria com a Universidade Federal do ABC e parceiros Franceses. Em termos gerais, o presente projeto enfocará dois problemas de grande relevância para a área de processamento de sinais e com os quais os grupos envolvidos já possuem certo histórico de resultados de pesquisa: a geolocalização e a separação de fontes. Tais problemas serão abordados num contexto de sinais e/ou sistemas que apresentem propriedades de esparsidade e nossos esforços se concentrarão em representações esparsas e algoritmos associados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2013 - 2016
+COMPEST - Compressive  Estimation
+Descrição: O presente projeto tem como foco o problema de estimação paramétrica robusta de sistemas lineares subdeterminados, por meio da técnica de compressive sensing.
+Daí decorrem diversas aplicações, dentre as quais se destacam como de particular interesse a identificação esparsa de canais de comunicação sem fio, a separação
+de sinais de áudio e a estimação esparsa de um sistema linear em controle automático. Tendo em vista esse objetivo, o projeto pretende se articular em torno de dois
+eixos principais: i ? o desenvolvimento de técnicas de processamento de sinais baseadas na teoria de compressive sensing, tendo em vista as aplicações em
+comunicações e áudio; ii? a adaptação das técnicas desenvolvidas ao problema de controle de sistemas de grande porte, área na qual a aplicação da teoria de
+compressive sensing é inédita. Como objetivo da cooperação propriamente dita, entre as instituições participantes, destaca-se a fertilização mútua de ideias esperada,
+uma vez que o grupo de pesquisadores envolvidos apresenta uma boa diversidade de competências, facilmente unificáveis pela forte formação de todos em teoria e
+métodos de processamento de sinais, e pela experiência já forjada em diversos trabalhos prévios em comum. Tal como já ocorreu em passado recente, as
+publicações em comum e as teses em cotutela surgem também como metas a serem atingidas naturalmente no decorrer do projeto.
+Como resultados esperados, além de reforçar os fortes vínculos de cooperação científica já existentes entre as instituições participantes, podem-se mencionar diversas outras perspectivas a serem abertas pelo presente projeto, dentre as quais cabe citar: - Do ponto de vista da temática de trabalho, pretende-se desenvolver em comum ferramentas de estimação robusta baseadas na teoria de compressive sensing, e também aplicar em de controle automático essas ferramentas oriundas da área de processamento de sinais e telecomunicações.
+- Do ponto de vista da cooperação científica, as rela. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Joao Marcos Travassos Romano - Coordenador / Renato da Rocha Lopes - Integrante / Romis Ribeiro de Faissol Attux - Integrante / Leonardo Tomazeli Duarte - Integrante / Ricardo Suyama - Integrante / Cynthia Junqueira - Integrante / Marcio Eisencraft - Integrante / Everton Nadalin - Integrante / Mohamed Abbas-Turki - Integrante / Murilo Bellezoni Loiola - Integrante / Pascal Larzabal - Integrante / Jean-Pierre Barbot - Integrante / Gael Mahé - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2012 - 2015
+Processamento de Sinais para Extração Eficiente da Informação
+Descrição: Este projeto de pesquisa está centralizado na Universidade Estadual de Campinas e se desenvolverá em parceria com a Universidade Federal do ABC. Em termos gerais, o objetivo do projeto é abordar diferentes desafios científicos e tecnológicos relacionados a otimizar o processo de extração de informação, fazendo uso de métodos e algoritmos inteligentes, com foco nas técnicas de processamento de sinais. Tal problema se dá em cenários, cada vez mais frequentes, de grande variedade e quantidade de informações medidas ou disponibilizadas, e a partir das quais se pretende obter as informações e/ou o conhecimento de utilidade para os usuários. Nesse contexto, verifica-se na literatura científica um interesse crescente em temas tais como extração de características, extração da informação e extração do conhecimento. Para esses problemas, as técnicas modernas de processamento de sinais se mostram cada vez mais relevantes, quando não um verdadeiro "gargalo" para as efetivas soluções práticas. As metas mais específicas do presente projeto se debruçam tanto sobre alguns métodos teóricos como em certas aplicações consideradas estratégicas. Os tópicos teóricos principais se voltam ao tema de processamento não supervisionado, com ênfase em desconvolução e separação, e aos métodos de machine learning. As áreas de aplicação concentram-se em processamento sísmico, sinais de áudio e equalização em sistemas de comunicações digitais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (15)  / Doutorado: (10) . Integrantes: Joao Marcos Travassos Romano - Coordenador / Renato da Rocha Lopes - Integrante / Romis Ribeiro de Faissol Attux - Integrante / Aline de Oliveira Neves - Integrante / Rafael Ferrari - Integrante / Leonardo Tomazeli Duarte - Integrante / Ricardo Suyama - Integrante / Cynthia Junqueira - Integrante / Marcio Eisencraft - Integrante / Everton Nadalin - Integrante / Murilo Bellezoni Loiola - Integrante / Diogo Coutinho Soriano - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2015
+Algoritmos de processamento e imageamento sísmico com ênfase em reservatórios carbonáticos
+Descrição: O presente projeto tem como principal objetivo a pesquisa e o
+desenvolvimento de algoritmos de processamento e imageamento de dados sísmicos
+ligados a reservatórios carbonáticos. Esses algoritmos decorrem de um elenco de
+técnicas recentes de processamento de sinais, muitas delas ainda pouco exploradas
+em geofísica, a serem aplicadas em sinergia com o método CRS de imageamento
+sísmico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (6)  / Doutorado: (3) . Integrantes: Joao Marcos Travassos Romano - Integrante / Martin Tygel - Coordenador.Financiador(es): PETROLEO BRASILEIRO S. A. - PETROBRAS - Auxílio
+										financeiro.
+2010 - 2012
+Destine Desenvolvimento de tecnologias de informação para neurologia
+Descrição: O objetivo central deste projeto é a pesquisa e o desenvolvimento de tecnologias de acessibilidade para pessoas com severas deficiências motoras como as que sofreram AVC (Acidente Vascular Cerebral). Será desenvolvido no nível de protótipo funcional um sistema de software para um veículo robótico assistivo (robô assistivo) capaz de ser controlado por meio de sinais cerebrais gerados por atividade cerebral e/ou pequenos movimentos da face ou membros. Algoritmos de processamento de sinais cerebrais serão propostos com a capacidade de se adaptar às condições cerebrais da pessoa deficiente levantadas por meio de neuroimagens funcionais. Algoritmos de navegação robótica autônoma e semi-autônoma serão propostos para, a partir de comandos extraídos dos sinais cerebrais, conduzir o robô assistivo com segurança tanto em ambientes externos quanto internos. Para aumentar o grau de acessibilidade no transporte e nas áreas de circulação, este projeto irá investigar tecnologias de ambientes inteligentes e computação pervasiva para apoio à navegação de robôs assistivos. Neste ambiente, robôs assistivos, por exemplo, cadeiras de rodas robotizadas, receberão sinais do ambiente que auxiliem a navegação segura, por exemplo, indicando a presença de obstáculos, escadas, rampas íngrimes, etc. Este projeto conta com equipe interdisciplinar composta de especialistas nas diversas áreas focadas pelo projeto.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Integrante / Fernando José Von Zuben - Integrante / Ricardo Suyama - Integrante / Romis Ribeiro de Faissol Attux - Integrante / Leonardo Tomazeli Duarte - Integrante / Li Li Min - Integrante / Paula Teixeira Fernandes Boaventura - Integrante / Roberto Covolon - Integrante / Gabriela Castellano - Integrante / José Raimundo de Oliveira - Coordenador / Eleri Cardoso - Integrante / Ricardo Ribeiro Gudwin - Integrante / Eliane Gomes Guimarães - Integrante / Jorge Albuquerque - Integrante / Carlos Eduardo Pagani - Integrante / Bruno César Pires de Oliveira - Integrante.
+2009 - 2012
+TÉCNICAS AVANÇADAS DE PROCESSAMENTO DE SINAIS EM SISTEMAS DE COMUNICAÇÕES ÓPTICAS DWDM
+Descrição: O projeto tem como objetivo pesquisar técnicas de processamento de sinais para mitigar distorções e melhorar o desempenho das redes de comunicação óptica com tecnologia DWDM.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Joao Marcos Travassos Romano - Coordenador / Ricardo Suyama - Integrante / Renato R. Lopes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2009 - 2012
+?DO PROCESSAMENTO ADAPTATIVO AO PROCESSAMENTO COGNITIVO DA INFORMAÇÃO: PERSPECTIVAS DE INVESTIGAÇÃO TEÓRICA E DE APLICAÇÃO EM SISTEMAS DE COMUNICAÇÕES
+Descrição: A busca crescente de eficiência nos sistemas de processamento da informação exige
+soluções tecnológicas cada vez mais sofisticadas. Neste sentido, um dos principais
+desafios dentre os que hoje se apresentam é o de como explorar ao máximo os recursos
+disponíveis para satisfazer a demanda por um transporte de informações a altas taxas e
+sem barreiras. Assim, dentro dos limites de recursos disponíveis, como os de potência e
+de faixa de freqüência, os sistemas de comunicação procuram melhorar cada vez mais o
+compromisso de atender a um maior número de usuários com uma melhor qualidade de
+serviço. Neste cenário, é notório que as técnicas de processamento digital de sinais
+desempenham um papel especialmente relevante, em particular as técnicas de
+processamento adaptativo, ou simplesmente filtragem adaptativa.
+Os projetos de pesquisa que precedem o presente projeto vêm se dedicando ao estudo
+teórico e à aplicação de técnicas adaptativas em sistemas de comunicações, e, mais
+recentemente, aos chamados métodos de processamento não-supervisionado. No intuito
+de continuar a manter-se atrelado à evolução do estado da arte na área, o presente projeto
+pretende incluir um tema de pesquisa que vem ganhando destaque na literatura sob a
+denominação genérica de processamento cognitivo da informação. No contexto deste
+projeto, tal temática refere-se particularmente a um conjunto de técnicas que visam atingir
+um patamar superior de aprendizado, comparando-se ao já atingido pelos sistemas
+adaptativos supervisionados e não-supervisionados. Tais técnicas se aplicam, sobretudo,
+no sentido de dotar os sistemas modernos de comunicações de uma maior capacidade de
+auto-organização e de ajuste ao meio que o cerca.
+O projeto se divide em duas principais linhas de pesquisa: a primeira se debruça sobre os
+métodos e algoritmos que pretendemos abordar; a segunda se volta para as suas
+aplicações em sistemas de comunicações.
+Os métodos e algoritmos que pretendemos abordar possuem. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Coordenador.
+2009 - 2011
+Cognição em Sistemas de Comunicações
+Descrição: Este projeto de pesquisa está centralizado na Universidade Estadual de
+Campinas e envolve pesquisadores da Universidade Federal do ABC, da Universidade
+Federal do Ceará e da Escola Politécnica da USP. O projeto tem em seu princípio uma
+dupla motivação: por um lado, a nítida confluência de interesses e a fertilização mútua
+de idéias que vêm sendo verificadas entre pesquisadores das áreas de telecomunicações,
+processamento de sinais e machine learning; por outro, atendo-se a um aspecto mais
+tecnológico, a grande discussão em torno de dotar os sistemas de comunicações de uma
+maior capacidade de adaptação, ou de autoconfiguração, ao meio que o cerca, a ponto
+de já se chegar às primeiras padronizações do que se convencionou chamar de rádiocognitivo.
+Assim, o projeto tem como objetivo principal o estudo de técnicas cognitivas
+aplicadas a comunicações, entendendo por isto tanto a idéia de tornar o sistema como
+um todo capaz de se adaptar a determinadas condições do ambiente, como, no nível da
+camada física, dotar os dispositivos e algoritmos a eles associados de capacidade de
+auto-aprendizado. Dessa forma, dividimos o projeto em duas grandes linhas: a que
+chamamos Sistemas Cognitivos de Telecomunicações, que compreende principalmente
+aspectos de otimização entre camadas e alocação de recursos, com ênfase aos sistemas
+com modulação multi-freqüência; e a que denominamos Processamento Cognitivo da
+Informação, que se volta para os dispositivos de contra-medida com o intuito de lhes
+incrementar o nível de cognição, entendido aqui como a capacidade de operar com cada
+vez menos supervisão. Em termos de plataforma de aplicação, preferimos nos ater aqui
+à terminologia de redes cognitivas, procurando dar igual ênfase às comunicações sem
+fio e às comunicações ópticas, que entendemos prioritárias para o cenário atual, e de
+futuro em curto prazo, das tecnologias de informação e comunicação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (14)  / Doutorado: (10) . Integrantes: Joao Marcos Travassos Romano - Coordenador.
+2008 - 2014
+INCT Fotônica para Comunicações Ópticas (FOTONICOM)
+Descrição: O grande crescimento que se espera da Internet com a proliferação de vídeos de alta definição, de serviços banda larga e móveis, de aplicações em tempo real e conteúdos gerados pelos usuários só será viável com avanços tecnológicos que permitam o barateamento das telecomunicações e que, ao mesmo tempo permitam uma redução substancial do tamanho e consumo energético dos dispositivos das redes. O INCT Fotônica para Comunicações Ópticas (FOTONICOM) pequisa novas tecnologias que poderão viabilizar esse crescimento. O desenvolvimento de dispositivos nanofotônicos integrados e compatíveis com produção de escala estão dentre as pesquisas do FOTONICOM.
+A principal missão do FOTONICOM é estabelecer um programa para o desenvolvimento nacional das comunicações ópticas através de melhoras nos sistemas de pesquisa e de educação, na transferência de conhecimento para a sociedade e na interação academia-empresa.
+Grupos articulados de pesquisa compartilham facilidades laboratoriais e se complementam em competência para realizar pesquisas fundamentais em dispositivos fotônicos, sistemas e redes ópticas. Possuem ainda colaborações externas com grupos de excelência no exterior.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (24) Doutorado: (47) . Integrantes: Joao Marcos Travassos Romano - Integrante / Hugo Fragnito - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2011
+Imageamento sísmico 2D e 3D incorporando o método CRS e análise de velocidade
+Descrição: Pesquisa e desenvolvimento de algoritmos de extração de atributos CRS e sua
+plena aplicação ao imageamento de dados sísmicos 2D e 3D. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Joao Marcos Travassos Romano - Integrante / Martin Tygel - Coordenador.Financiador(es): PETROLEO BRASILEIRO S. A. - PETROBRAS - Auxílio
+										financeiro.
+2008 - 2010
+RECUPERAÇÃO DA INFORMAÇÃO E MITIGAÇÃO DE PERTURBAÇÕES: PROPOSTA DE NOVAS TÉCNICAS DE SEPARAÇÃO DE FONTES E DE FILTRAGEM ROBUSTA
+Descrição: Este projeto detém-se em dois temas principais de pesquisa: o primeiro é o de separação de fontes, em particular no de misturas convolutivas, com ênfase em alguns casos para os quais a literatura disponível é ainda incipiente. O segundo aborda o problema de filtragem robusta, visando algoritmos que conciliem simplicidade e eficiência, de modo a poderem ser aplicados em sistemas de comunicações, num contexto de altas taxas e de processamento em tempo real.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2010
+NOVAS FERRAMENTAS MATEMÁTICAS DE PROCESSAMENTO DE SINAIS PARA OS FUTUROS SISTEMAS DE COMUNICAÇÃO MULTIUSUÁRIO MIMO SEM FIO
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Integrante / João César Moura Mota - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2007 - 2009
+NOVAS ABORDAGENS MATEMÁTICAS PARA PROBLEMAS DE TRATAMENTO DE SINAIS EM COMUNICACOES
+Descrição: A proposta encontra sua principal motivação no estudo de certas ferramentas matemáticas, usualmente empregadas nas áreas de otimização e controle, visando sua utilização em problemas mais avançados de processamento de sinais aplicado às telecomunicações. A proposta visa também enriquecer e consolidar a cooperação científica já existente entre os pesquisadores brasileiros e franceses envolvidos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (3) . Integrantes: Joao Marcos Travassos Romano - Coordenador / Maria D. Miranda - Integrante / Ricardo Suyama - Integrante / Renato R. Lopes - Integrante / Aline de Oliveira Neves - Integrante / Romis Ribeiro de Faissol Attux - Integrante / Michel Fliess - Integrante / Mamadou Mboup - Integrante / Hisham Abou-Kandil - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Cooperação.
+2005 - 2007
+IMPLEMENTAÇÃO DE AMBIENTE SAN (STORAGE AREA NETWORK) PARA PROVER E ARMAZENAR INFORMAÇÕES DE PESQUISA.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2004 - 2007
+MIMO-DSL: ACESSO EM BANDA LARGA POR SISTEMAS DSL A MÚLTIPLAS ENTRADAS E MÚLTIPLAS SAÍDAS
+Descrição: O projeto consiste no estudo e no desenvolvimento de algoritmos para sistemas MIMO-DSL, visando a implementação de uma plataforma de simulação capaz de simular sistemas MIMO-DSL aplicando cancelamento FEXT e NEXT; a proposta de algoritmos MIMO-DSL em contexto ideal, contendo análise de desempenho em cenários realistas de aplicação; e a proposta de algoritmos MIMO-DSL em contexto não-ideal, contendo análise de desempenho em cenários realistas de aplicações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Joao Marcos Travassos Romano - Coordenador / Renato R. Lopes - Integrante.Financiador(es): Ericsson Telecomunicações - Matriz - Auxílio
+										financeiro.
+2003 - 2007
+TÉCNICAS AVANÇADAS DE PROCESSAMENTO DE SINAIS EM TELECOMUNICAÇÕES: DESCONVOLUCAO E IDENTIFICAÇÃO
+Descrição: Proposta de projeto temático FAPESP que tem como objetivo a investigação, o desenvolvimento e a avaliação de técnicas avançadas de processamento de sinais, cujo potencial maior de aplicação situa-se nos sistemas modernos de telecomunicações. Tais técnicas dizem respeito fundamentalmente ao problema de recuperação de um sinal, ou de vários sinais transmitidos, após o efeito de distorções e de interferências características de canais não ideais. As soluções abordadas no projeto envolvem filtragem linear e não linear, processamento adaptativo supervisionado ou não, além de algoritmos evolutivos e estruturas neurais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (8)  / Doutorado: (6) . Integrantes: Joao Marcos Travassos Romano - Coordenador / Fernando José Von Zuben - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2006
+NÚCLEO DE EXCELÊNCIA EM PROCESSAMENTO DE SINAIS APLICADO A COMUNICAÇÕES SEM FIO
+Descrição: O presente projeto de pesquisa envolve aspectos como modelagem de fenômenos de propagação, de diferentes tipos de tráfego e estilos de mobilidade, aspectos de modulação e de processamento digital de sinais, e ainda aspectos de interface-homem máquina e prospecção de hábitos de comunicação na sociedade do futuro.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Joao Marcos Travassos Romano - Integrante / João César Moura Mota - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.
+2003 - 2006
+CONCEPÇÃO DE RECEPTORES E DE AMBIENTE DE TESTE PARA O ESTUDO DE ANTENAS DE TRANSMISSÃO EM RF
+Descrição: O projeto consiste no estudo e na concepção de algoritmos de processamento de sinais para um ambiente de testes de antenas RF, buscando a eliminação de multipercursos nos receptores em estudo, a eliminação de interferentes externos nos receptores em estudo, e a concepção de um ambiente de teste adequado para avaliação das soluções propostas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Joao Marcos Travassos Romano - Coordenador.Financiador(es): TRANS-TEL ? CONTI & COMPANHIA LTDA - Auxílio
+										financeiro.

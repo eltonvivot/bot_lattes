@@ -1,0 +1,42 @@
+2012 - 2016
+LaVIIC - Laboratorio de Visualização Imersiva, Interativa e Colaborativa
+Descrição: Consiste no desenvolvimento de soluções de software e hardware para implantação de infraestrutura de visualização 3D com multi-projeção, imersão e interatividade, de cavernas digitais de baixo custo, remotas, interligadas via rede de alto-desempenho, para desenvolvimento de aplicações colaborativas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Luis Carlos Trevelin - Coordenador / Marcelo Paiva Guimarães - Integrante / Diego Roberto Colombo Dias - Integrante / Gustavo Jordan Castro Brasil - Integrante / Alexandre Fonseca Brandão - Integrante.Financiador(es): Secretaria do Audio Visual - Auxílio
+										financeiro.Número de produções C, T & A: 16
+2011 - 2015
+Interação Humano Computador por meio de Estímulos Motores e Cognitivos
+Descrição: O projeto almeja desenvolver uma ferramenta computacional de reconhecimento de gestos corporais para permitir a Interação Humano Computador por meio de estímulos motores e cognitivos. O dispositivo utilizado para o reconhecimento de gestos é o sensor de profundidade Kinect, que proporciona o desenvolvimento de aplicativos controlados por interação gestual. Espera-se que o usuário possa interagir com o ambiente virtual de forma fisicamente ativa e que receba feedback em relação e amplitude de movimento realizada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Luis Carlos Trevelin - Coordenador / Diego Roberto Colombo Dias - Integrante / Nivaldo Antonio Parizotto - Integrante / Alexandre Fonseca Brandão - Integrante / Gustavo Jordan Castro Brasil - Integrante.
+2009 - 2012
+INCT ( Instituto Nacional de Ciencia e Tecnologia ) de Sistemas Embarcados Críticos
+Descrição: O Instituto de Sistemas Embarcados Críticos foi criado com objetivo geral de elevar o nível de conhecimento, competência e qualidade no país sobre o desenvolvimento desse tipo de sistema, considerando que se trata de tecnologia importante para apoiar o desenvolvimento de áreas estratégicas do país, como a do meio ambiente, a de segurança e defesa e a de agricultura.
+ É um projeto é abrangente e envolve grupos de pesquisadores de nove universidades brasileiras e sete empresas. 
+Os principais objetivos mais específicos são: o desenvolvimento de pesquisas para a construção de sistemas embarcados críticos com ênfase para veículos autônomos móveis e a construção de pelo menos dois protótipos de veículo, um aéreo e um terrestre, com o objetivo de serem transferidos para as empresas associadas, visando a possível fabricação e comercialização.
+ Outros objetivos relevantes são a produção de uma metodologia que documente esse conhecimento e possa ser usada para o treinamento de pessoal formado na área; a produção de mestres e doutores e produção intelectual na forma de artigos científicos apresentados e publicados em conferências e periódicos de boa qualidade, bem como de patentes.. 
+ 
+processos CNPq 573963/2008-8 e FAPESP 08/57870-9.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Luis Carlos Trevelin - Integrante / José Carlos Maldonado - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+Escalabilidade de Aplicações Distribuídas (Processo FAPESP 2009/09847-
+Descrição: O presente projeto de pesquisa tem como principal objetivo avaliar os limites da escalabilidade de aplicações computacionalmente intensivas em clusters, multiclusters e grades computacionais. Inicialmente, o foco principal da presente proposta se concentrará sobre a classe de aplicações denominada Bag-of-Tasks, cujas aplicações podem ser implementadas na forma de tarefas independentes que não se comunicam e podem ser executadas em qualquer ordem. A proposta prevê uma avaliação rigorosa dos limites de escalabilidade de tais aplicações em plataformas distribuídas. Após o estudo dos limites de escalabilidade e identificação dos gargalos de desempenho, estratégias de escalonamento de aplicações serão propostas e avaliadas comparativamente a outras apresentadas na literatura. Posteriormente, outros modelos de aplicações e arquiteturas serão analisados em termos da sua escalabilidade, tais como clusters de servidores web, sistemas peer-to-peer e clouds... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Luis Carlos Trevelin - Integrante / Helio Crestana Guardia - Integrante / Hermes Senger - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2009 - 2010
+Virtualidade imersiva e interativa baseada em cloud computing - Lab XPTA
+Descrição: Programa laboratórios de experimentação e pesquisa em tecnologias audiovisuais ? XPTA.LAB
+Propõe suporte e desenvolvimento de conteúdos distribuídos multiusuários de realidade virtual e aumentada para TV digital, móveis e PCs.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Luis Carlos Trevelin - Coordenador / Marcelo Paiva Guimarães - Integrante / César Augusto C Teixeira - Integrante / Sergio Donizetti Zorzo - Integrante.
+2004 - 2006
+LabPALM - LAboratório de Pesquisa e Desenvolvimento em Computação Móvel e Sem fio
+Descrição: Projeto de p&D em parceria com a Palm source do Brasil S/A e Celestica do Brasil S/A com recursos da Lei de Informáica (Cati/MCT).
+Visa o desenvolvimento de componentes de software para mobilidade e pesquisas de novas soluções nesta área. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luis Carlos Trevelin - Coordenador / Wanderley Lopes de Souza - Integrante / Célio Estevan Moron - Integrante / Helio Crestana Guardia - Integrante.Financiador(es): Celestica do Brasil - Auxílio
+										financeiro.
+2004 - 2006
+Consorcio LightWays  --Projeto KYATERA/TIDIA _ FAPESP
+Descrição: Projeto de pesquisa - Consorcio LightWays, composto por pesquisadores dos grupos de redes de computadores e sistemas distribuídos, engenharia elétrica e sistemas multimídia das das universidades Federal (UFSCar) e Estdual (USP) de São Carlos - SP, para pesquisas em redes de alta velocidade.
+Projeto financiado pela FAPESP dentro do programa TIDIA.
+Financiamento inicial do consorcio: R$ 450.000,00.
+Participação inicial de 17 b pesquisadores doutores e cerca de 30 alunos graduação ,  mestrado e doutorado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luis Carlos Trevelin - Integrante / José Hiroki Saito - Integrante / Adilson Gonzaga - Integrante / Carlos Antonio Ruggiero - Coordenador / Célio Estevan Moron - Integrante / Helio Crestana Guardia - Integrante / Guilherme Siphai - Integrante / Gonzallo Traviezo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de orientações: 1
+1998 - 2000
+Projeto RECOPE/MultiEng - Engenharia de Componentes Multimídia Distribuídos
+Descrição: Projeto de desenvolvimento de ferramentas para aplicaçõe multimídia distribuida , dentro do programa RECOPE da FINEP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luis Carlos Trevelin - Coordenador.
+1998 - 1999
+CNPq - Projeto Integrado de Informatização da Frequencia Cardíaca durante testes de Esforço Físico
+Descrição: Projeto Integrado em parceria com os departamentos de Fisioterapia e de Estatística da UFScar, bem como o departamento de Fisiologia do Exercício da Faculdade de Medicina da USP em Rib. Preto -SP, visando a Informatização de dados sobre pacientes para análise em fisiologia do exercício. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luis Carlos Trevelin - Coordenador.

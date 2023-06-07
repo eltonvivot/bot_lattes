@@ -1,0 +1,31 @@
+2020 - Atual
+LABORATÓRIO DE BIOINFORMÁTICA AVANÇADA VOLTADO AO PROCESSAMENTO DAS ANÁLISES DE TRANSCRIPTOMAS E MELHORAMENTO GENÉTICO
+Descrição: Implantar um laboratório de Bioinformática avançada que complementará a logística para análises dos dados gerados em projetos de transcriptoma e melhoramento genético. Além disso, a montagem de um sistema de cluster, escalonado permitirá upgrades futuros em função da demanda. O laboratório pretendido irá atender as necessidades de análises de dados de todo o grupo de pesquisa e irá viabilizar o processamento dos dados localmente ou remotamente. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Murilo Tenorio Maciel - Coordenador / Cristiana Ramalho Maciel - Integrante.Financiador(es): Fundação Amazônia Paraense de Amparo à Pesquisa - Auxílio
+										financeiro.
+2016 - 2017
+BIOINFORMÁTICA APLICADA A PROSPECÇÃO DE GENES RELACIONADOS COM A DIFERENCIAÇÃO SEXUAL E ROTAS PUTATIVAS A HORMÔNIOS ESTEROIDES, OBTIDOS NO TRANSCRIPTOMA DO CAMARÃO-DA-AMAZÔNIA
+Descrição: O camarão-da-amazônia é a espécie do gênero Macrobrachium mais explorada na Amazônia. Milhares de famílias dependem desse recurso para o seu sustento. Além disso, o M. amazonicum apresenta grande potencial para aquicultura. Conhecimentos sobre a biologia da espécie podem fornecer importantes subsídios para compreender a sua fisiologia e traçar estratégias de manejo. A exploração do genoma funcional das gônadas de machos e fêmeas do camarão-da-amazônia poderá fornecer fragmentos de genes putativos para diferenciação sexual e elucidar aspectos relacionados a reprodução da espécie. Esses conhecimentos podem subsidiar o delineamento de marcadores para sexo. Outro aspecto a ser explorado no projeto é a busca por hormônios esteroides imputados a função sexual. Por último, esses dados poderão ser enriquecidos com rotas e mapas resultantes do uso de ferramentas em bioinformática.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Murilo Tenorio Maciel - Coordenador / Cristiana Ramalho Maciel - Integrante.
+2016 - Atual
+VALIDAÇÃO DE TECNOLOGIA PARA A CRIAÇÃO DO CAMARÃO-DA-AMAZÔNIA E (MACROBRACHIUM AMAZONICUM) DESENVOLVIMENTO DE FERRAMENTAS PARA O PROCESSAMENTO DE PEQUENA E LARGA ESCALA
+Descrição: O camarão-da-amazônia apresenta tecnologia de cultivo produzida por um
+grupo de pesquisa com participantes de todo o Brasil, com um projeto desenvolvido
+em rede. Experimentos de validação da tecnologia gerada por produtores locais são
+necessárias para promover a experiência de cultivo da espécie. Além disso, é
+necessário saber como a sociedade vai receber e valorar esse produto. São
+pretendidas ações em parcerias com piscicultores, Prefeitura (SEMEP-Secretaria
+Municipal de Economia e Pesca/ Departamento de Aquicultura), EMATER e IFPA.
+Pretende-se vivenciar a experiência de um produtor com o cultivo da espécie,
+realizar experimentos voltados a ganhos zootécnicos com policultivo em sistema
+multitrófico e multiespacial e agregar valor ao pescado com uso de técnicas de
+processamento do pescado (salga, defumação e aparo do produto fresco). Os
+produtos gerados serão apresentados a sociedade e será verificado como ela aceita
+e valoriza monetariamente. Além disso, o piscicultor parceiro irá apresentar a sua
+experiência com o cultivo do camarão para os seus pares, como algo vivenciado. Por
+último, serão desenvolvidos experimentos que visam ganhos zootécnicos futuros
+com uso de marcadores para crescimento e microRNA obtidos de transcriptoma já
+sequenciado do camarão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Carlos Murilo Tenorio Maciel - Integrante / Cristiana Ramalho Maciel - Coordenador / Ingrid Cunha - Integrante / Danilo Silveira da Cunha - Integrante / Maria Eduarda Garcia de Sousa Pereira - Integrante.Financiador(es): Fundação Amazônia Paraense de Amparo à Pesquisa - Auxílio
+										financeiro.
+2014 - 2017
+MANEJO E BIOTECNOLOGIA APLICADOS AO CULTIVO DO MACROBRACHIUM AMAZONICUM
+Descrição: Nesse projeto serão analisados os transcriptomas de machos adultos de Macrobrachium amazonicum para os diferentes morfotipos e de larvas nos estágios I, V e PL. Serão mineradas enzimas digestivas para as larvas e verificada a expressão em resposta a dietas ofertadas. Uma das hipóteses para esse indicativo é que organismos planctônicos na água poderiam estimular a liberação de enzimas pelas larvas. Além disso, serão desenvolvidos experimentos avaliando a salinidade na fase larval, comparando populações de camarão provenientes de várzea e estuário com o objetivo de fornecer subsídios relevantes para o manejo da larvicultura, melhorando a sua viabilidade econômica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Carlos Murilo Tenorio Maciel - Integrante / Cristiana Ramalho Maciel - Coordenador / Iracilda Sampaio - Integrante / Horacio Schneider - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

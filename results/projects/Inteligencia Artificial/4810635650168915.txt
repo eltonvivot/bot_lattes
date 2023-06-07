@@ -1,0 +1,32 @@
+2013 - Atual
+InteliSoC
+Descrição: Implementação de um Sistema On Chip Embarcado para Robótica Cognitiva. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador / Diego Stefano Ferreira - Integrante / André Gustavo Scolari Conceição - Integrante / Antônio Marcus Nogueira de Lim a - Integrante.
+2011 - Atual
+Manipulador Robótico
+Descrição: Projeto Pro-equipamentos da CAPES, aquisição, comissionamento, instalação e setup de um braça robótico com 6 graus de liberdade. O projeto propõe-se ainda a utilizar o ROS, Robot Operational System e o sesenvolvimento de aplicações para controle de posição e rastreamento de trajetória com o manipulador.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador / Jes de Jesus Fiais Cerqueira - Integrante / André Gustavo Scolari Conceição - Integrante.
+2010 - 2012
+Navegação de Robô Móveis Baseada em Comportamento
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador / Rômulo Guedes Cerqueira - Integrante / Klaus Cruz - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+2005 - Atual
+MecaTeam: Sistema de Controle Disstribuido para Sistemas Multi-robôs
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador.Número de produções C, T & A: 16
+2003 - 2005
+Projeto Expert-Coop++
+Descrição: O projeto Expert-Coop++ desenvolve um ambiente para auxiliar a implementação de Agentes Autônomos e Sistemas Multiagentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador / Guilhereme Bittencourt - Integrante / Eder Matheus Nunes Gonçalves - Integrante / Márcio Lima Albuquerque - Integrante / Rodrigo Rache de Almeida Souza - Integrante / Tiago Outerelo da Silva - Integrante / Umberto Prado Sensales - Integrante / Joselino Rocha de Souza - Integrante / Antônio Luciano Mota Itaparica - Integrante / Gisélia Magalh?aes Cruz - Integrante / Ivan Medeiros Monteiro - Integrante.Número de produções C, T & A: 12
+2003 - Atual
+Sistemas Multirobôs
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador.
+2002 - 2003
+AxeBot: O futebol de robôs como plataforma para ensino e pesquisa em automação e Informática.
+Descrição: Utilização do futebol de robôs como laboratório para ensino e pesquisa em Automação Industrial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador.Financiador(es): Universidade Salvador - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.Número de produções C, T & A: 2
+2002 - Atual
+AxeBot
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.Número de produções C, T & A: 20
+1998 - 2003
+Expert-Coop++
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Augusto Cesar Pinto Loureiro da Costa - Coordenador.Número de produções C, T & A: 9
+1998 - 2000
+Projeto CAPES / DAAD PROBRAL: Um enfoque semântico para recuperação de dados.
+Descrição: o estudo da aplicabilidade de diferentes formalismos de representação de conhecimento como linguagens de especificação para para busca de informações através de diálogos. Visa-se ainda o desenvolvimento de uma metodologia para a implementação de sistemas baseados em conhecimento que incorporem estes formalismos e sejam capazes de realizar buscas em bases de dados distribuídas e na Internet. Devido a natureza distribuída da informação, estes sistemas baseados em conhecimento terão a forma de agentes autônomos capazes de se comunicarem entre si e com o usuário.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Augusto Cesar Pinto Loureiro da Costa - Integrante / Guilherme Bittencourt - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação / Deutscher Akademischer Austausch Dienst - Cooperação.

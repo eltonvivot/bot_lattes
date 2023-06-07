@@ -1,0 +1,84 @@
+2022 - Atual
+Enxames Robóticos e Inteligência Artificial para Suporte a Tomadas de Decisão em Emergências Nucleares com Liberação de Material Radioativo para a Atmosfera
+Descrição: Projeto PQ-1D.
+Resumo
+Este projeto propõe o desenvolvimento de sistemas robóticos e inteligentes para monitoração e previsão da progressão da dispersão de plumas radioativas em caso de Acidentes Severos (AS) com liberação de material nuclear. Sabe-se que nestes casos, devido ao fato de o cenário apresentar condições além daquelas concebidas em tempo de projeto, com possível indisponibilidade de sistemas de monitoração e proteção da usina, a estimativa do termo fonte pode apresentar grande erros. Assim sendo, uma estimativa baseada em medidas de campo torna-se a proposta mais realística.
+O monitoramento da pluma radioativa será feito através de Enxame Robótico Aéreo (drones) Inteligente utilizando-se Active Learning otimizado através de meta-heurísticas (computação evolucionária e inteligência de enxames). A estimativa da distribuição espacial de dose e da progressão temporal da pluma será feita utilizando-se técnicas de inteligência artificial como redes neurais profundas e regressão de processo gaussiano.
+O projeto vislumbra integração com o Sistema de Controle Ambiental (SCA) ? sistema de dispersão atmosférica das usinas de Angra (CNAAA), inicialmente a nível de protótipo, mas com perspectivas de real implantação (que poderá ocorrer após o projeto).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2022 - Atual
+Projeto de Reator Nuclear Modular Otimizado por Inteligência Artificial
+Projeto certificado pelo(a) coordenador(a) Roberto Schirru em 19/04/2023.
+Descrição: Considerando que a energia nuclear, devido seu alto potencial de conversão de energia, pode estar entre as várias ações necessárias para aumentar a geração de energia no país, os Pequenos Reatores Nucleares Modulares (PRNM), com saída elétrica até 300 Mwe, são uma opção dentro das futuras tendências de reatores, inclusive como energia limpa.
+Uma alternativa aos modelos atuais de reatores que utilizam uranio como fonte primária de energia nuclear é o tório, de especial interesse nacional inclusive, considerado em vários tipos de reatores de potência e ciclos de combustível. Reatores a tório apresentam a vantagem de reduzir a geração de rejeitos de alto nível e estender a queima de forma a se obter um melhor uso dos recursos naturais.
+Neste contexto esta pesquisa propõe otimizar, através da Inteligência Artificial (IA), um projeto conceitual de um PRNM, baseado no conceito de combustível nuclear a base de tório aplicado a reatores de água leve, idealizado por Radkowsky.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Integrante / Roberto Schirru - Coordenador / Alan Miranda Monteiro de Lima - Integrante / Andressa dos Santos Nicolau - Integrante / Giovanni Laranjo Stefani - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2018 - 2022
+Aprimoramento do sistema de dispersão atmosférica de usina nuclear através de Inteligência Artificial
+Descrição: Produtividade em Pesquisa - PQ-1D. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2018
+Computação paralela baseada em GPU para simulação da dispersão atmosférica de materiais radioativos utilizando modelo baseado em método de Monte Carlo
+Descrição: Produtividade em Pesquisa (PQ-1D). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+2011 - 2012
+Computação científica de alto desempenho em cluster de GPU aplicada a problemas da engenharia nuclear
+Descrição: Edital Universal
+Colaboração entre IEN e UGF. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador / Mol, A.C.A. - Integrante / Neury N. Cardoso - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+Computação Paralela Híbrida para Otimização de Instalações Nucleares
+Descrição: PROJETO PCI/DTI (CNPq/CNEN). Situação: Concluído; Natureza: Pesquisa. Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador / Douglas B. Baroni - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+Computação paralela híbrida baseada em GPU e ?cluster? de computadores  aplicada a problemas da engenharia nuclear
+Descrição: Produtividade em Pesquisa - PQ - Nível 1D. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+Projeto e implantação de um ?Cluster? de Unidades de Processamento Gráfico (GPU) com interface amigável para desenvolvimento de aplicações em computação científica paralela
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2009 - 2010
+PSO Paralelo Baseado em Plataformas Computacionais Multi-Processadas e Multi-Core para Aplicação na a Problemas de Otimização da Engenharia Nuclear
+Descrição: EDITAL UNIVERSAL 2008 (CNPq 14/2008)
+O principal objetivo deste trabalho é o desenvolvimento de um PSO paralelo para execução em computadores múltiplos-processados e multi-core (cada processador tem mais de um núcleo), para solução de problemas de otimização da engenharia nuclear e áreas correlatas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador / Celso Marcelo Franklin Lapa - Integrante / Marcel Waintraub - Integrante / Adino Américo H. Almeida - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2010
+Desenvolvimento de Tecnologia para Reatores Avançados e Inovadores
+Descrição: UNIVERSAL 2008. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (4)  / Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Integrante / Roberto Pinheiro Domingos - Integrante / Celso Marcelo Franklin Lapa - Integrante / Paulo A B Sampaio - Coordenador / Reinaldo Jospin - Integrante / Maria de Lourdes Moreira - Integrante / Rubens Souza dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Computação Paralela de Alto Desempenho para Aplicação em Problemas de Otimização da Engenharia Nuclear
+Descrição: PROJETO PCI/DTI (CNPq/CNEN)
+O principal objetivo do projeto é a utilização das placas de vídeo GPU para programação em paralelo para a otimização de projetos na área da engenharia nuclear.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+DESENVOLVIMENTO DE TÉCNICAS COMPUTACIONAIS E EXPERIMENTAIS PARA REATORES AVANÇADOS E INOVADORES
+Descrição: EDITAL JOVENS PESQUISADORES 2008 (CNPq). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Integrante / Celso Marcelo Franklin Lapa - Coordenador / Antônio Carlos de Abreu Mol - Integrante / Paulo A B Sampaio - Integrante / Reinaldo Jospin - Integrante / Domingos E S Nery - Integrante / Maria de Lourdes Moreira - Integrante / Eugênio R Martins - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+Modelos Paralelos do Algoritmo de Otimização por Enxame de Partículas (PSO) Aplicado ao Projeto Neutrônico de Reatores Nucleares
+Descrição: PRODUTIVIDADE EM PESQUISA (CNPq). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+Computação Paralela de Alto Desempenho Baseada em Unidades de Processamento Gráfico para Aplicação em Problemas de Otimização da Engenharia Nuclear
+Descrição: APQ1 - FAPERJ (2007) - Apoio à Instituições de Pesquisas RJ - Faixa C. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (2)  / Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador / Celso Marcelo Franklin Lapa - Integrante / Antônio Cesar Ferreira Guimarães - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2007 - 2009
+Sistema Inteligente para Planejamento de Políticas de Manutenção de Sistemas Industriais com Foco em Confiabilidade e Custo
+Descrição: EDITAL JOVEM CIENTISTA DO NOSSO ESTADO 2007. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2005 - 2007
+Computação Evolucionária Paralela para Suporte à Operação de Reatores Nucleares
+Descrição: EDITAL UNIVERSAL 2005 (CNPq)
+O objetivo geral deste projeto é investigar e desenvolver modelos de CE paralela para utilização no suporte a operação de centrais nucleares. O proposto projeto, no entanto, possui duas grandes metas distintas: 
+i) investigação e desenvolvimento de modelos paralelos de AG para otimização de recarga de reatores; 
+ii) investigação e desenvolvimento de modelos paralelos de Programação Genética (PG), uma extensão do AG cujo objetivo é a extração (descoberta) de conhecimento para aplicação em identificação de transientes em sistemas nucleares.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador / Antônio Carlos de Abreu Mol - Integrante / Rafael Pereira Baptista - Integrante / Marcel Waintraub - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2007
+Desenvolvimento de uma nova Metodologia para Projeto de Sistemas Passivos de Segurança em Escala Reduzida para Centrais Nucleares
+Descrição: EDITAL UNIVERSAL 2005. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Integrante / Celso Marcelo Franklin Lapa - Coordenador / Antônio Carlos Marques Alvim - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2007
+Algoritmos Genéticos Paralelos com Técnicas de Nicho
+Descrição: PRODUTIVIDADE EM PESQUISA 2003 (CNPq 302345/2003-5). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2003 - 2006
+Projeto do Pressurizador do Reator IRIS
+Descrição: Desenvolvimento de projeto ótimo do pressurizador do IRIS em escala reduzida. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Coordenador / Celso Marcelo Franklin Lapa - Integrante / Paulo A B Sampaio - Integrante / David A Botelho - Integrante.
+2002 - 2004
+Computação de Alto Desempenho para Engenharia e Segurança de Reatores
+Descrição: EDITAL UNIVERSAL 2002 (CNPq - 476819/2001-6). Situação: Concluído; Natureza: Pesquisa. Integrantes: Cláudio Márcio do Nascimento Abreu Pereira - Integrante / Celso Marcelo Franklin Lapa - Integrante / Paulo A B Sampaio - Coordenador / Nélbia S Lapa - Integrante / Reinaldo Jospin - Integrante / Domingos E S Nery - Integrante / David A Botelho - Integrante / Maria de Lourdes Moreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

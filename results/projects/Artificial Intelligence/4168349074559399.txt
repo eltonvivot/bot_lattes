@@ -1,0 +1,490 @@
+2014 - 2015
+Desenvolvimento de Arranjo Mecânico de Novo Aerogerador para as Condições de Vento do Estado de São Paulo
+Descrição: Desenvolvimento da concepção de um novo arranjo mecânico e estudo da viabilidade da nova solução tecnológica a ser aplicada em aerogeradores de grande porte para ventos do Estado de São Paulo, por meio de modelagem matemática aplicada a componentes mecânicos estáticos e dinâmicos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Antonio Jardini - Coordenador / Avelino Alves Filho - Integrante / Paulo Cesar Leoni - Integrante / José Geraldo de Lima Junior - Integrante / José Eduardo Martinez de Lima - Integrante / Paulo Ludmer - Integrante / Lincoln Sadao Mazakina China - Integrante / Cláudia Luiza Santos - Integrante / Marco Tosati - Integrante / Mario Achilles Leoni - Integrante.
+2011 - 2015
+DE0027 - Smart Substation
+Descrição: A técnica empregada partiu de quatro grandes frentes de trabalho. Inicialmente foram levantados os requisitos funcionais, que foram plenamente desenvolvidos, e concomitantemente deu-se o desenvolvimento do conceito CASF lastreado na tecnologia de Web Services, aderente a proposição EPRI descrita no relatório EPRI 1018795, para comunicação entre a SE e o Centro integrado. O conceito Smart Substation está operando na subestação e com suas devidas interfaces aos centros de gestão corporativos. Foi desenvolvida uma interface de software CASF Common Access System Functionality, análogo funcional do CASM Common Access System Module da norma IEC 61850, uma integração física em nível de host local com uma integração funcional local de relação custo benefício adequada, a fim de permitir filtros de dados inteligentes. Foram projetados e implementados o conceito de centro integrados de gestão da Proteção, Manutenção, Operação e Qualimetria, baseados nas normas IEC61970 e IEC61968, que proporciona a formalização e padronização das informações referentes a um sistema eétrico de potência de modo a poderem ser convertidas para exportação, como um documento XML aderente ao padrão internacional CIM XML. Foram realizados testes de laboratório, e para tanto foi montado um ambiente de simulação para execução da validação dos produtos concebidos e implementados. Este ambiente utilizou recursos de software e hardware para simular o mais fielmente possível uma subestação, seus equipamentos e seu processo operativo. Foi desenvolvido um aplicativo em Java que simulava os sensores e medidores de campo, disjuntores, etc., integrado ao OPC Server, implementou o conceito de plataforma aberta de comunicação de dados que foi aplicado na SE. Com isso, a camada CASF se interfaceou com o OPC Server através de um webservice. Foi concebido e desenvolvido um dispositivo funcionalmente equivalente e aderente ao PRODIST instalado e operando na SE piloto. Além dos testes em laboratório, foram realizados testes em fábrica do qualímetro e repetidos na subestação, porém como o transformador encontrava-se sem carga, ní£o se pode verificar todas as suas funcionalidades. O produto resultante deste projeto poderá ser aplicado a qualquer subestação de distribuição da CPFL ou RGE. Entretanto, por se tratar de uma solução de automação local, para cada SE o sistema deverá ter suas funções customizadas. O centro integrado de gestão corporativos da empresa é unico e atenderá í s seguintes áreas da CPFL e RGE: Engenharia, Operação, Serviço de Campo, Comercial, Gestão de Ativos e Regulatório. Aplica-se a qualquer SE, e no âmbito corporativo na Engenharia, Operação, Serviço de Campo, Gestão de Ativos e Regulatório. Funcionalidades - 1) Qualidade- provê suporte computacional completo de baixo custo relativo ao sistema de qualimetria convencional, 2) Proteção- permite monitorar e gerir ferramentas de simulação, estudos e análise da proteção, gestão do parque de relés e análise de ocorrências, 3) Manutenção- conceito smart maintenance e um conjunto de aplicativos baseados em sensoreamento ótimo dos equipamentos principais das SEs, 4) Automação - funções avaní§adas complementares ao controle clássico via UTR, usando o processamento local distribuído para agilizar o atendimento í s SEs, 5) Engenharia- Módulo previsor de carregamento de curta duração dos trafos da SE, módulo de previsí£o de temperatura do transformador para as próximas horas e módulo de confiabilidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Antonio Jardini - Integrante / Luiz Carlos MAGRINI - Coordenador.
+2006 - 2009
+Electric Fields Current Environment of HVDC Overhead Transmission Lines
+Descrição: Convenor (coordenador maior) de JWG.B4/B2/C3.50. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Antonio Jardini - Coordenador.
+2006 - 2009
+Impacts of HVDC Line on The economics of HVDC Projects
+Descrição: Principal pesquisador do JWG.B2/B4/C1.17 da CIGRE que resultou na brochure (livro) acima. A brochure está na fila para publicação em 2009.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Antonio Jardini - Coordenador.
+2006 - 2007
+Desenvolvimento de metodologia de proteção e automatismo micro processado com a utilização de controladores lógicos programáveis
+Descrição: A CTEEP utiliza banco de transformadores monofásicos (470 / 138 kV, potência total de 300 MVA), conectados em Y-Y. Quando ocorre algum problema em uma das fases do banco, esta é substituída por um transformador reserva.
+Atualmente, a manobra de substituição é feita de forma manual, com os seguintes inconvenientes:
+- necessidade de mobilizar grande quantidade de mão de obra;
+- necessidade de equipamentos especiais;
+- duração de aproximadamente 6 horas.
+Pretende-se implementar um sistema de proteção e transferência automáticos, tal que ao ocorrer a atuação da proteção, o sistema identifique automaticamente qual fase deve ser substituída e execute as manobras necessárias utilizando um controlador lógico programável ou uma unidade terminal remota.
+Com isso pretende-se obter:
+- redução da duração da manobra;
+- redução da mão de obra;
+- eliminação do uso de equipamentos especiais.
+Ressalta-se que apenas com indisponibilidade programada de um transformador a CTEEP paga uma multa de cerca de 80 mil reais por hora, ou seja, em uma manobra manual gasta-se cerca de R$ 480.000,00; sendo que no caso de uma indisponibilidade não programada esse custo é multiplicado por 15.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Paula Suemi Dantas Kayano - Integrante / Carlos Francisco dos Santos Souza - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2006 - Atual
+Desenvolvimento de Sistema de Segurança Patrimonial aplicado a Linhas de Transmissão de Energia Elétrica
+Descrição: O monitoramento de Linhas de Transmissão visando a segurança patrimonial pode ser focada no aspecto da segurança referentes a vandalismo e invasões de faixa e também no aspecto de segurança da operação da linha.
+Vandalismos e invasões de faixas causam transtornos para a empresa, tanto no aspecto de prejuízos como também na redução de confiabilidade do sistema, visto que podem provocar desligamentos indesejáveis.
+Atualmente os baixos custos das câmaras pode viabilizar o monitoramento da linha em grandes extensões principalmente em regiões habitadas. Para tal será necessário também um sistema de transmissão de dados que deverá contemplar um grande número de torres em uma extensão de alguns quilometros. Este monitoramento deverá coibir as invasões e também os atos de vandalismos.
+Outro aspecto que pode ser englobado aproveitando o sistema de comunicação que irá ser instalado é a obtenção das variáveis climatológicas da linha que servem para verificação das condições de operação da linha e contribuir no futuro para estudos de recapacitações da linha ou para projetos de novas linhas na região.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Mario Masuda - Integrante / Marcos Aurélio Luqueze - Integrante / Jose Kleber da Cunha Pinto - Integrante / Cesar Bravo Pariente - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2006 - Atual
+Sistema Multitecnologia e Multiplataforma para Interpretação e Análise da Atuação da Proteção em Subestações Distribuidoras
+Descrição: Os Sistemas de Potência organizam-se numa estrutura hierárquica, em geral com um Centro de Operação de Sistema (COS), que coordena aspectos gerais de GTD, Centros de Controle de Área (COA's), subordinados ao COS, para telecontrole e tele-supervisão de subestações, e Centros de Controle de Distribuição (COD's), para controle e monitoramento da rede de distribuição. Para regiões grandes pode haver operação interligada coordenada do sistema, subordinando-se COS's a um Centro Nacional de Operação de Sistema (CNOS). A viabilização desta estrutura operativa, deu-se pela evolução tecnológica na área da microinfomática e telemática, que permitiu a implantação de sistemas abertos aplicados aos centros de controle com suporte computacional a custos reduzidos e vantagens técnicas significativas comparáveis às soluções baseadas em "mainframe", na década de 60. Só que, de lá para cá, em termos funcionais, pouca coisa mudou; funcionalmente o sistema elétrico ainda é operado num conceito de mainframe. Tudo é feito de forma centralizada e pouco se aproveita da inteligência distribuída nas instalações, e isso inclui a análise histórica de alarmes e atuações dos sistemas de proteção.
+Ocorrências no sistema de proteção e controle de transmissão e subtransmissão, normalmente geram grande volume de dados localmente, e brutal volume nos Centros de Operação. Eles são utilizados para identificar causas das ocorrências e definir medidas de correção. A análise destes dados pelos operadores é dificultada pelo grande volume, necessidade de conhecimentos específicos associados aos dados (diagramas das subestações, diagramas de interligação dos equipamentos, formas de operação de cada equipamento), e pelo contexto complexo das situações estressantes de emergência onde o fator tempo é fundamental. Na análise exaustiva da lista de eventos ?bruta?, com centenas de dados numa única ocorrência, dificilmente o operador extrai dos mesmos alguma informação útil no curto ou médio prazo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Adriano Galindo Leal - Integrante / Cesar Bravo Pariente - Integrante / Daniel de Souza Marcelino - Integrante / Francisco Lacerda Filho - Integrante / João Zani Neto - Integrante / Marcelo Castro - Integrante / Newton Jose de Salles - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Cooperação.
+2006 - Atual
+Cabeça de série do Mini-DVR
+Descrição: Não se tem como evitar as VTCD´s - Variações de Tensão de Curta Duração, elas continuarão existindo (devido a manobras na rede, descargas atmosféricas e curtos circuitos) e trazendo grandes prejuízos para Concessionárias e Consumidores. Em virtude de que equipamentos sensíveis a este fenômeno estão presentes em praticamente todo tipo de instalação, destacando principalmente as industriais, onde, dependendo da sensibilidade das cargas existentes, uma simples variação na tensão, com duração de poucos milisegundos, pode interromper todo o processo de produção. 
+Para apoio na solução destes problemas a CPFL propôs um Projeto de P&D intitulado "PD 71-03 Dispositivo Protótipo Restaurador da Tensão com funções de Compensação de Reativos e Filtro de Harmônico Ativo Mini - DVR". Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Se Un Ahn - Integrante / Wilson Komatsu - Integrante / Fernando Ortiz Martinz - Integrante / Mauricio Galassi - Integrante / Lourenço Matakas Jr - Integrante / Josue de Camargo - Integrante / Edison Bórmio Jr - Integrante / Eduardo Gonsalves de Lima - Integrante / Fernando Pinhabel Marafão - Integrante / Marco Antonio Olvieira - Integrante / Wilson Martins Borges - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Cooperação.
+2006 - Atual
+Análise técnica de tecnologias de inspeção preditiva de isoladores de linhas de transmissão através da emissão do efeito corona e por análise de espectro de frequência.
+Descrição: Os ensaios nos isoladores de porcelana das linhas de transmissão da CTEEP são realizados por colaboradores treinados e habilitados que escalam as estruturas das linhas de transmissão, cuja altura varia de 25 a 50 metros. Os isoladores são testados pelo método do teste de ruído audível, individualmente e a quantidade pode variar de 30 a 171 unidades por circuito por estrutura, sendo essa quantidade duplicada nos casos de linhas com circuito duplo.
+O teste de ruído consiste em curto circuitar um isolador por vez, através de um dispositivo especial (garfo), instalado na extremidade de bastão isolante, cujo ruído característico no momento do curto circuito, determina o estado do isolador. Para realização do ensaio é necessário que a linha de transmissão esteja energizada, o que requer o bloqueio do religamento automático da instalação sob ensaio, visando a segurança do executante. O bloqueio do religamento automático não é permitido concomitantemente em dois circuitos de uma mesma linha de transmissão por motivo de confiabilidade, portanto, para realizar o ensaio nos isoladores de uma estrutura com dois circuitos os executantes são obrigados escalar duas vezes a mesma estrutura.Vale ressaltar ainda, que para a realização da inspeção em isoladores, há dependência das condições climáticas favoráveis (tempo seco com umidade relativa do ar abaixo de 85%), além das condições de integridade da cadeia de isoladores.
+Defeitos em isoladores provenientes de baixa isolação, trincas, poluição etc, podem provocar desligamentos indesejáveis na linha de transmissão causando prejuízos e também a redução da confiabilidade no sistema.
+Grandes parte desses defeitos podem ser detectados antes de provocar danos maiores ao sistema utilizando técnicas que utilizam detecção de ultrasom, ruído eletromagnético e também a emissão de luz na faixa de Ultra-Violeta (UV). Os dois primeiros não permitem a detecção com precisão do componente defeituoso.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Mario Masuda - Integrante / Jose Kleber da Cunha Pinto - Integrante / Luis Fernando Justo - Integrante / Marcos Aurelio Luqueze - Integrante / Mauricio Gerge Miguel Jardini - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2005 - 2007
+Monitoramento em Tempo Real de Reator, Pára-raios e Equipamentos de Medição
+Descrição: Como complemento ao protótipo do sistema de monitoramento de disjuntor e de seccionadora já implantado na SE Sumaré, pertencente à ETEO, pretende-se monitorar o reator, pára-raios e transformadores de medição, com o qual se completaria o monitoramento do bay de reator, incluindo-se o monitoramento da referência de tensão do sistema de monitoramento, que são os TCs e TPs da LT Assis / Sumaré.
+A manutenção de equipamentos de subestações atualmente segue a metodologia tradicional baseada em tempo, e pretende-se com este projeto propor uma nova metodologia baseada nas reais condições dos equipamentos (condition monitoring). 
+As técnicas do monitoramento em tempo real são hoje bastante aceitas pelas concessionárias no auxílio à manutenção de equipamentos de subestação, principalmente transformadores e reatores (variáveis como temperatura do óleo, gases dissolvidos, já são comumente monitorados). A extensão desta tecnologia para os demais equipamentos complementa o ferramental de auxílio à manutenção de equipamentos em subestações.
+Atualmente diversos sistemas de monitoramento encontram-se disponíveis no mercado, especialmente para transformadores, porém devido às peculiaridades dos reatores não são aplicáveis diretamente, o que torna necessário criar um sistema de monitoramento especifico para ele. Além disso, os elevados custos dos sistemas comerciais tornam seu uso proibitivo. Em geral são sistemas com protocolo e base de dados históricos proprietários, o que dificulta a integração com outros sistemas.
+Dessa forma, pretende-se desenvolver um sistema aberto e modular que possa atender as características dos equipamentos da subestação, a partir do protótipo já instalado na ETEO.
+Para o monitoramento de reatores serão utilizados sensores comerciais de gases dissolvidos no óleo, temperaturas do enrolamento e óleo, nível de óleo, intensidade de corrente e corrente no isolamento das buchas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Milthon Serna Silva - Integrante / Antonio Corvo - Integrante / Jefferson Ricardo Lopes - Integrante / Luis Antonio Solis Espinosa - Integrante / Jose Carlos Juliani - Integrante / Oto Luiz Arruda Behmer - Integrante / Yasmin Pedraza Carderon - Integrante.Financiador(es): Empresa de Transmissão de Energia do Oeste - Cooperação.
+2005 - 2007
+Pesquisa e Desenvolvimento de Sistemas Alternativos de Prevenção contra Explosão e Incêndio em Transformadores de Potência
+Descrição: Um transformador de potência AT/MT pode possuir em seu interior algo em torno de 20 mil litros de óleo. Um curto interno provoca a geração de gases internos que podem ocasionar explosões e incêndios. Os transformadores atuais estão equipados com válvulas para alívio de pressão, porém esses dispositivos não têm apresentado um desempenho adequado. Como exemplo, a AES-Eletropaulo perdeu quatro transformadores de potência entre os anos de 2001 e 2002 devido às explosões dos gases em seu óleo.
+No caso de explosão e incêndio de um transformador de potência os custos envolvidos alcançam vários milhões de dólares. Esses custos incluem perdas no faturamento da empresa devido à interrupção no fornecimento de energia elétrica, substituição do transformador e dos equipamentos afetados, poluição do meio ambiente, mortes e ferimentos, impacto negativo na imagem da empresa, entre outros.
+Pesquisas mostram que na maioria dos casos os transformadores não são protegidos ou estão equipados com material que não é desenvolvido para prevenir as explosões e suas consequências. Para proteção dos tanques dos transformadores existem as válvulas de alívio de pressão. Esses dispositivos não têm apresentado um funcionamento satisfatório pois a grande maioria dos transformadores que explodiram já estavam equipados com essas válvulas.
+Recentemente tem aparecido fornecedores de soluções alternativas a este problema, mas ainda não tiveram sua eficiência comprovada.
+Desta forma faz-se necessário pesquisar estes novos sistemas de prevenção de explosões e incêndios, em transformadores de potência existentes no mercado. Esses sistemas serão analisados e um dispositivo de proteção escolhido será testado em laboratório utilizando-se para isso de um transformador de potência antigo da AES-Eletropaulo que está prestes a ser descartado. Após os testes em laboratório esse sistema será instalado em um transformador de potência em operação e seu desempenho será acompanhado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Carlos Alberto Villacorta Cardoso - Integrante / Humberto Katsuo Kiyohara - Integrante / Carlos José Mendes - Integrante / Carlos Ossamu Kajikawa - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Cooperação.
+2005 - 2007
+Desenvolvimento de um Sistema de Diagnóstico de Equipamentos de Subestações
+Descrição: -Possibilitar a avaliação de desempenho de equipamentos estratégicos.
+Falhas em equipamentos vitais, como transformadores, podem levar a interrupção do fornecimento de energia aos seus consumidores, a motivação desse projeto é reduzir a probabilidade de falha através de um metodologia capaz de diagnosticar o real estado do equipamento.
+- Otimizar o Plano de Modernização da AES Eletropaulo: a Eletropaulo aplicou em 2003 cerca de 8 milhões na substituição de equipamentos, através dessa metodologia essa substituição pode ser melhor agendada, visto que a decisão pela substituição não mais acontecerá através do critério de tempo, mas pela real condição do equipamento. Isso permitirá que os investimentos em novos equipamentos sejam feitos em momentos mais adequados para a empresa.
+- Evitar intervenções invasivas em equipamentos
+No caso de transformadores, uma das técnicas utilizadas é a Análise da Resposta em Frequência, baseada no fato do transformador possuir indutâncias e capacitâncias parasitas dependentes de sua geometria e materiais. A mudança em uma dessas características físicas implica em alteração de indutância e capacitância e, consequentemente, em alteração da resposta em frequência.
+- Diagnosticar a necessidade de intervenção em casos de pré-disposição a falhas: a base do projeto está no desenvolvimento de um software capaz de diagnosticar o estado dos equipamentos a partir das informações colhidas pelos ensaios em campo, indicando a necessidade de manutenção antes da falha ocorrer.
+Justificativas relativas aos comentários do avaliador:
+- O Eng Simão, formado pelo ITA, tem larga experiência no gerenciamento de projetos de automação de sistemas elétricos, tendo trabalhado durante mais de 15 anos na empresa Villares.
+- os demais itens foram justificados nos respectivos campos ao longo deste formulário de projeto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Simão Copeliovitch - Integrante / Luiz Carlos Magrini - Integrante / Mauricio George Miguel Jardini - Integrante / César Bravo Pariente - Integrante / Carlos Jose Mendes - Integrante / Francisco André Gonçalves Júnior - Integrante / Rosemary Boettger Jardinetti - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Cooperação.
+2005 - 2007
+Alternativas Tecnológicas para Minimizar Ruídos em Subestações
+Descrição: E cada vez maior o grau de dificuldade de aprovação de projetos de ampliação de subestações existentes ou de construção de novas subestações transformadoras de transmissão e distribuição devido a problemas ambientais. Uma das principais causas desta não aprovação está no nível de ruído (poluição auditiva) emitido pelos equipamentos instalados dentro de uma subestação.
+Tal fato normalmente é causado pelo alto grau de exigência, cada vez maior, da população vizinha.
+Deste modo, este projeto visa desenvolver estudos no sentido de minimizar os níveis de ruído emanados pelos equipamentos que compõem a planta básica de uma subestação, ou colocá-los dentro dos padrões estabelecidos pela legislação vigente.
+Embora a idéia genérica seja estudar as alternativas tecnológicas que resolvam a questão em foco, a solução deverá vir atarves do desenvolvimento de de novos métodos, diferentes dos tradicionais, como o envelopamento de equipamentos. Uma das alternativas a ser perseguida será o desenvolvimento de um sistema que consiga filtrar ou confinar o ruído dentro do limite da área da subestação visando adequá-lo aos padrões vigentes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Ferdinando Crispino - Integrante / Gerson Yukio Saiki - Integrante / Carlos Alberto Belardo - Integrante / Helio Sakae Kamia - Integrante / Sylvio Reinaldo Bistafa - Integrante / Walter Pinheiro - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Cooperação.
+2005 - 2007
+Previsão de mercado voltada à tomada de decisão com base estatística para as regiões geoelétricas da ELEKTRO
+Descrição: O grande objetivo de uma distribuidora de energia é equacionar um atendimento de excelente qualidade aos seus clientes com um custo compatível com a viabilidade financeira de seu negócio. Para tanto, o planejamento de seus investimentos em expansão e manutenção do sistema elétrico se tornou crucial na determinação de suas estratégias, já que as alocações de recursos neste tipo de investimento significam grande montante financeiro.
+Este P&D de previsão de mercado tem como objetivo superar esta dificuldade, desenvolvendo uma metodologia capaz de projetar o mercado na área de concessão da ELEKTRO para os próximos 5 (cinco) anos e, também, decompor a projeção por cidade, transformador, alimentador e quadrícula. Esta metodologia envolve a construção de diferentes cenários macroeconômicos e de mercado, associando probabilidades de ocorrência a cada um deles. E para assegurar a integração desta metodologia aos processos da concessionária, é essencial a aplicação da metodologia a toda a área de concessão.
+Com isso, a área de Planejamento Elétrico terá uma ferramenta de otimização e orientação dos investimentos necessários para a manutenção e expansão do sistema elétrico, tanto para o curto quanto do longo prazo, proporcionando à concessionária melhores condições de atendimento a seus clientes, e assegurando que os investimentos sejam orientados de acordo com características de cada área geográfica.
+Além dos ganhos diretos gerados pela otimização dos investimentos, existem outros benefícios de que a Empresa desfrutará, mas que são de difícil mensuração. Dentre eles destaca-se a melhora na avaliação do desempenho da ELEKTRO pelos seus clientes fruto de menos problemas no sistema, impactando positivamente no cálculo do Fator X da revisão tarifária. Além disso, com essa redução de ocorrências de falhas na distribuição de energia haverá menores penalidades referentes à Portaria Aneel 505 de 26/11/2001.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Cleber Roberto Guirelli - Integrante / Daniel Cabrera Martinez - Integrante / Carlos Eduardo de Almeida - Integrante / Carlos Henrique Camargo Lopes - Integrante / Jose Roberto Pascon - Integrante / Marcos Aurélio Luqueze - Integrante / Mauro Antonio Pereira - Integrante / Mauricio Galassi - Integrante.Financiador(es): Elektra Indústria Eletrônica Ltda - Cooperação.
+2005 - 2006
+Desenvolvimento de um ambiente computacional de previsão de carga voltado à comercialização de energia
+Descrição: Este projeto é uma continuação do projeto PD81 (Desenvolvimento de um sistema de análise do impacto de variáveis exógenas na previsão de demanda e energia, CPFL Piratininga, P&D ciclo 03-04), onde foram realizados estudos sobre a influência das variáveis exógenas na previsão de demanda e energia, voltado ao processo de comercialização de energia na CPFL, para melhorar a exatidão da previsão, e ter em mãos uma inovadora metodologia em relação aos processos tradicionais, pois com a nova regulamentação da comercialização de energia elétrica, conforme Decreto 5.163, de 30/07/2004, foi imposto ao Distribuidor de Energia o dever de prever sua necessidade de contratação, tanto de energia quanto de demanda, com maior exatidão. Assim, confirma-se a necessidade de desenvolvimento do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Jorge Yasuoka - Integrante / César Bravo Pariente - Integrante / Liliana de Mattos Venegas Brittes - Integrante / Alex Anderson - Integrante / Andre Luis Preite - Integrante / Fabio Rogerio Zanfelice - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Cooperação.
+2005 - 2006
+Adequação das taxas de depreciação contábil à depreciação técnica de equipamentos do sistema de transmissão
+Descrição: A confiabilidade, os programas de gestão de qualidade e a adoção de políticas de manutenção e substituição eficazes de equipamentos e sistemas são de grande importância no setor elétrico. Um dos temas relacionados a essas áreas é a estimativa da vida útil de equipamentos.
+O desempenho de um equipamento elétrico, na maioria das vezes, pode ser dividido em três períodos:
+- período de maturação, no qual a taxa de falhas é baixa;
+- período intermediário ou de taxa de falhas constante (considerado por muitos como sendo o período de vida útil, propriamente dito); e
+- período de desgaste, onde o equipamento apresenta taxa de falhas crescente. 
+Com a análise mais detalhada dos equipamentos (inovações tecnológicas utilizadas pelos fabricantes, identificação das partes passíveis de controle durante as manutenções) e análise das políticas de manutenção adotadas pela Empresa, pode-se estimar a vida útil dos equipamentos, permitindo adicionalmente: 
+- minimizar incertezas em um processo de tomada de decisão (por exemplo: substituição ou reparo); 
+- otimizar políticas de manutenção; 
+- determinar o número de equipamentos em estoque para reposição; 
+- antecipar-se ao defeito evitando a paralisação dos sistemas por períodos prolongados; 
+-comparar equipamentos de fabricantes; e
+- determinar as taxas de depreciação dos ativos.
+As taxas de depreciação dos ativos devem ser avaliadas considerando-se o estado de conservação física e tecnológica dos equipamentos, refletindo, desta forma, a vida útil real dos bens.
+A melhor estimativa possível dessas taxas é de extrema importância para a CTEEP, uma vez que as mesmas são utilizadas no cálculo da determinação da receita da Empresa obtida através da remuneração de seus ativos (linhas de transmissão e subestações).
+Atualmente, a vida contábil de um equipamento é considerada, em média, como sendo 30 anos, porém sua vida real é variável por equipamento e pelo seu regime de utilização.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Ronaldo Pedro Casolari - Integrante / Ferdinando Crispino - Integrante / Josimar Oliveira Silva - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2005 - 2006
+Desenvolvimento de Sistema Elaborador de Sequenciamento de Manobras
+Descrição: Frequentemente, um equipamento de subestação necessita ser impedido para uma manutenção ou inspeção periódica. Dentre os diversos documentos necessários para o impedimento ou normalização de qualquer equipamento do Sistema Elétrico, a concessionária necessita elaborar um documento contendo a seqüência lógica de comandos e ações a serem executadas pelos Operadores de Subestação.
+Atualmente a concessionária concebe e elabora manualmente os programas de manobras e os digitam manualmente no PIO (Programa de Impedimento Operativo). Desta forma, a etapa de elaboração da seqüência de manobras está sujeita a uma falha humana seja ela de natureza técnica ou de digitação. 
+Com o objetivo de acelerar a elaboração da seqüência de manobras, propõe-se o desenvolvimento de uma ferramenta computacional que permita ao engenheiro interagir visualmente com o diagrama unifilar da subestação desejada. Nesta interface gráfica, para cada manobra simulada, este programa irá analisar o estado de energização resultante para todos os equipamentos à jusante e refletí-la graficamente. Sendo que os elementos do diagrama unifilar (barramentos, disjuntores, transformadores e chaves) que estiverem energizados serão exibidos na cor vermelha e os desenergizados na cor verde.
+O sistema a ser desenvolvido estará integrado com o Sistema de Supervisão e Controle da concessionária para que este apresente ao engenheiro o estado corrente das chaves e disjuntores da subestação, como estado inicial da seqüência de manobras. 
+Ao mudar o estado das chaves e disjuntores através da interface gráfica, estas manobras serão validadas por algoritmos computacionais que terão seu resultado refletido automaticamente no diagrama unifilar da subestação escolhida. Sendo que a simulação da manobra deverá levar em conta os intertravamentos existentes entre as instalações da subestação, bem como possíveis impedimentos de outros equipamentos na subestação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Ferdinando Crispino - Integrante / César Bravo Pariente - Integrante / Marcos Livio Bevilaqua Meloni - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2005 - 2006
+Desenvolvimento de Tecnologia para Elevação da Capacidade de Curto Circuito de Conjuntos Blindados a SF6.
+Descrição: As estruturas e equipamentos de um sistema de transmissão de energia elétrica são especificados para permanecerem em serviço por um período de tempo suficiente para compensar os custos de aquisição e instalação.
+O aumento da potência de curto-circuito decorrente da expansão do sistema do sistema de transmissão, pode resultar na superação das estruturas e equipamentos quanto à capacidade de interrupção, ou suportabilidade às correntes de fala, mesmo sem que tenha sido superada as condições nominais de carga.
+As soluções tradicionais aplicadas nestes caso podem ser:
+- A inserção de reatores em série, limitadores de corrente, que resultam em problemas como: o aumento da queda de tensão, o aumento das perdas joule e os elevados fluxos magnéticos (requerendo maiores distâncias);
+- A troca dos disjuntores por outros, com maior capacidade de interrupção, e neste caso os equipamentos associados também deverão ser substituídos: chaves seccionadoras, TCs, TPs, pára-raios, bobinas de bloqueio, etc.
+No caso de sistemas de transmissão localizados em áreas densamente urbanizadas e que utilizam estruturas blindadas a SF6, como o sistema da Transmissão Paulista na região da Grande São Paulo, a utilização das soluções tradicionais podem representar elevados investimentos e dificuldades devido aos espaços reduzidos existentes nestas instalações.
+Através do presente Projeto de P&D será desenvolvida uma nova metodologia para a avaliação da superação de conjuntos blindados isolados a SF6, quanto à solicitações de curto-circuito, e para a determinação para melhor tecnologia a ser utilizada quando houver a necessidade de se limitar estas correntes.
+O principal benefício associado aos resultados que serão alcançados com este Projeto de P&D será a redução dos custo de expansão do sistema de transmissão devido ao aumento de capacidade dos corredores existentes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Ronaldo Pedro Casolari - Integrante / Gerson Yukio Saiki - Integrante / Carlos Márcio Vieira Tahan - Integrante / Milthon Serna Silva - Integrante / Antonio Augusto Chaves Arruda - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2005 - 2006
+Desenvolvimento de sistema para integração dos Sistemas Sisraios, supervisórios, Sistema de Proteção, fornecendo diagnósticos de possíveis causas e localização de falhas
+Descrição: Há uma grande quantidade de ocorrências de desligamento de linhas de transmissão que são causadas por ocorrências meteorológicas como descargas atmosféricas. O aumento do conhecimento da relação entre as descargas atmosféricas e o desempenho do sistema elétrico através do uso de sistemas capazes de monitorar e analisar esses fenômenos, contribui para uma operação mais confiável do sistema elétrico. A determinação de regiões com maior incidência de descargas atmosféricas proporciona um aumento na eficiência das linhas de transmissão com o aperfeiçoamento do seu sistema de proteção.
+A análise e a determinação do local das ocorrências de falhas associadas a descargas atmosféricas através de um sistema de informações geográficas (SIG) permitirá uma maior rapidez na manutenção corretiva da linha de transmissão contribuindo de forma significativa para o aumento da segurança e redução de custos operacionais.
+O fator inovador é a integração das informações de descargas atmosféricas, com as informações de atuação da proteção aplicados no sistema supervisório (COS) de forma a ajudar na caracterização e localização imediata das falhas nas linhas de transmissão. Dessa forma a integração desse novo sistema ao COS permitirá que operadores tenham uma maior facilidade na caracterização e localização da falha da linha de transmissão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Ferdinando Crispino - Integrante / Fernando Ortiz Martinz - Integrante / Marco Antonio de Oliveira - Integrante / João Batista Rodrigues da Costa - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2005 - Atual
+Sistema Modular de Monitoramento de Equipamentos de Subestações de Energia
+Descrição: O monitoramento em tempo real de equipamentos de subestações possibilita a detecção de problemas muitas vezes antes que ocorram e dessa forma otimizam as ações de manutenção, substituindo a manutenção baseada em períodos de tempo ou no número de operações por uma manutenção mais racional baseada nas reais condições operativas dos equipamentos. Isso traz enormes benefícios, tais como, maior disponibilidade, diminuição dos custos de manutenção (deslocamento de equipe, tempo de indisponibilidade do equipamento, etc) e um melhor planejamento das necessidades de manutenção do equipamento. Além dos fatores econômicos imediatos, reduzir-se-ia ao mínimo necessário o tempo de manutenção, causando, conseqüentemente, redução das eventuais multas por retirada de serviço dos equipamentos e melhorando a imagem junto ao consumidor final. 
+Entretanto, uma das necessidades básicas de um sistema de monitoramento é a de coletar em tempo real indicações de estado e medições analógicas com resolução de milissegundo, de modo a poder capturar seqüências de eventos e oscilografias. Soma-se a isso a necessidade de comunicação com transdutores e sensores microprocessados de modo a atuar como um concentrador de dados e simplificando assim a arquitetura do sistema de monitoramento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Paula Suemi Dantas Kayano - Integrante / Milthon Serna Silva - Integrante / Jefferson Ricardo Lopes - Integrante / Marcus Vicinius Garbelotti - Integrante.Financiador(es): Empresa Amazonense de Transmissão de Energia - Cooperação.
+2005 - Atual
+Desenvolvimento de um Sistema de Monitoramento em Tempo Real para Controle de Tensionamento de Estais de Linhas de Transmissão
+Descrição: Empresas de transmissão de energia têm utilizado torres estaiadas em solos onde a construção de fundações é de dificuldade elevada e em locais de dificil manutenção. 
+Fenomenos como deslocamento de fundações e meteorologicos (vento) podem causar o afrouxamento e posterior ruptura dos estais e a perda da estabilidade da torre podendo causar sua queda e, conseqüentemente, desligamento da linha de transmissão. Assim sendo, torna-se um assunto de importância crítica tendo em vista o custo da indisponibilidade da linha para a empresa de transmissão e os inconvenientes para a operação do sistema de energia elétrica.
+Por ser um projeto de pesquisa será testado inicialmente o extensiômetro cujo preço baixo poderá ser testado em algumas torres (estima-se 3). Caso não seja possível tecnicamente a aplicação do extensiômetro, será então utilizada a célula de carga e dessa forma o protótipo será montado em uma única torre.
+O carácter inovador é a busca de solução mais econômica (com o extensiômetro) de forma a poder monitorar um grande número de torres.
+A diferença entre o sistema proposto e os existentes reside no fato de que a torre a ser monitorada tem um comportamento diferente por ser do tipo "cross-hope" e as existentes serem do tipo "V". Dessa forma poderão ser também monitorados os cabos de aço que sustentam os cabos das fases, e não somente os estai.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Mauricio George Miguel Jardini - Integrante / Marcus Vicinius Garbelotti - Integrante.Financiador(es): Empresa Paraense de Transmissão de Energia - Cooperação.
+2005 - Atual
+Desenvolvimento de Robô autônomo para inspeção de Linhas de Transmissão
+Descrição: A inspeção periódica de linhas aéreas de transmissão é efetuada pelas empresas concessionárias de energia elétrica objetivando identificar possíveis locais onde possam vir acontecer falhas que poderão causar o impedimento da mesma.
+Essa inspeção é usualmente efetuada por uma equipe composta de pelo menos dois técnicos que sobrevoam a LT, procurando visualmente por incidentes, tais como isoladores quebrados, presença de ferrugens nas ferragens, cabos esgarçados, esferas de sinalização aérea deslocados ou quebrados, etc.
+Adicionalmente é efetuada a análise termográfica em busca de pontos quentes e eventualmente pode ser ainda complementada por meio de câmera ultravioleta, para a busca de pontos de corona.
+Em lugares de difícil acesso essa inspeção é efetuada através de helicóptero, o que implica no custo adicional do aluguel do aparelho e custo do piloto, além de estar condicionada a condições meteorológicas adequadas.
+O presente projeto objetiva desenvolver um robô, que substitua o vôo de helicóptero na tarefa de percorrer a LT e identificar/armazenar as locais onde forem encontradas irregularidades.
+No caso da ENTE, os trechos de LT encontram-se em solo plano, com poucas torres de ancoragem, o que facilita a utilização de robô, mas cria problemas para definir a fonte de energia do aparelho, bem como para sua monitoração remota.
+Adicionalmente será investigada a possibilidade de acompanhamento do crescimento da vegetação ao longo da faixa de servidão, por meio de câmeras P&D dedicada, bem como o controle de invasão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Mauricio George Miguel Jardini - Integrante / Gerson Yukio Saiki - Integrante / José Kléber da Cunha Pinto - Integrante / Abraham Tudisco - Integrante / Jose Augusto de Alencar Pereira - Integrante.Financiador(es): Empresa Norte de Transmissão de Energia - Cooperação.
+2004 - 2007
+Robótica aplicada à melhoria de processos de linha de frente..
+Descrição: Trata-se de um projeto plurianual que contempla vários objetivos quais sejam:
+		
+Pesquisa bibliográfica e de equipamentos automáticos e/ou robóticos para trabalhos de linha de frente em uso nas
+concessionárias do Brasil e no exterior.
+		
+Serão identificados os processos da manutenção da rede que exigem mais tempo, sejam mais perigosos, mais
+frequentes, mais importantes e menos produtivos, para com isso buscar soluções que reduzam os custos e os
+riscos envolvidos nestes processos através do desenvolvimento de ferramentas e equipamentos robóticos.
+		
+Dois produtos já foram previamente priorizados pela CPFL: um elevador com movimento vertical e horizontal que
+substituirá as escadas de eletricistas em vários serviços; e um equipamento robótico móvel, que associado à visão
+artificial, permita o telereconhecimento visual de componentes da rede ou imagens para aplicações em diversas
+atividades que incluem a manutenção e inspeção de linhas de distribuição .
+	
+Serão desenvolvidos protótipos, um para cada um dos equipamentos acima listados. Será feito a avaliação de
+desempenho dos protótipo e a construção de um equipamento cabeça de série referente a cada protótipo, para
+posterior produção em escala.
+		
+Finalmente outros equipamentos identificados na pesquisa inicial serão avaliados e terão seus anteprojetos
+elaborados para posterior continuidade da pesquisa e desenvolvimento neste campo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Integrante / Simão Copeliovitch - Integrante / Paula Suemi Dantas Kayano - Integrante / Milthon Serna Silva - Integrante / Mario Masuda - Coordenador / André Ryiuiti Hirakawa - Integrante / Carlos Alberto de Carvalho - Integrante / Carlos Chien Ching Tu - Integrante / Eduardo Lobo Lustosa Cabral - Integrante / Marcello Silvério - Integrante / Oswaldo Horikawa - Integrante / Ronaldo Antônio Roncolatto - Integrante / Silvio Miyadaira Amâncio - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Cooperação.
+2004 - 2006
+Desenvolvimento de um sistema de informação para o controle ambiental nas faixas de servidão de linhas de transmissão..
+Descrição: Técnicas de imagens de satélites e de perfilamento laser, juntamente aos modelos digitais de elevação (e de terreno), constituem processos promissores para uma eficiente gestão do sistema de transmissão quando
+levado em conta o meio ambiente e sua intereferência direta com a continuidade de fornemcimento de energia.
+	
+Há quilômetros de linhas de transmissão e, pelo fato destes empreendimentos estarem, possivelmente, distantes de
+grandes centros, tornam o controle e o monitoramento mais caro e complexo; seus custos tem-se reduzidos com o
+uso de imagens de satélites que podem ser obtidas em intervalos de tempos curtos (periodicidade de até menos qu
+um mês) o que permite avaliar a evolução de vegetação, queimadas, erosões entre outros eventos nas faixas de
+passagem.
+		
+Fotografias a laser auxiliam na identificação de crescimento de árvores e ainda na presença de objetos (feições) nas
+faixas.
+		
+Estas tecnologias aliadas a um Sistema de Informação permitem o casdastro de informações e a elaboração de
+aplicativos voltados a gestão das atividades tecnicas como a manutenção, limpeza da faixa, e a gestão ambiental
+(programação de poda de árvores, etc.). Permite portanto, uma gestão mais eficaz de processos, em sintonia com
+as recomendações da NBR ISO 14001... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Integrante / José Alberto Quintanilha - Integrante / Mauricio George Miguel Jardini - Coordenador / Patrícia Rodrigues Loureiro e Silva - Integrante.Financiador(es): Empresa Amazonense de Transmissão de Energia - Cooperação.
+2004 - 2006
+Sistema de monitoramento automático de pontos quentes dentro de subestações..
+Descrição: Este projeto objetiva contornar o problema das subestações desassistidas quando houver a transmissão
+da imagens.
+		
+Para tanto, este projeto irá definir um modelo de arquitetura completa de Monitoração Digital Remota, utilizando
+padrões abertos de comunicações, de forma a propiciar ao operador a visualização de imagens em tempo real, de
+modo a adicionar ao sistema SCADA existente as seguintes funções:
+	
+	- Operacionalização dos Equipamentos do Sistema Elétrico de Potência;
+	- Assegurar a integridade física das instalações;
+	- Assegurar a integridade física das pessoas;
+	- Identificar falhas nos equipamentos.
+		
+A arquitetura definida será validada através da instalação de um piloto numa subestação típica a ser escolhida no
+decorrer do projeto. Dessa forma poderá ser replicada nas demais instalações da EATE... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Cleber Roberto Guirelli - Integrante / José Kléber da Cunha Pinto - Integrante / Marcelo Bender Perotoni - Integrante.Financiador(es): Empresa Amazonense de Transmissão de Energia - Cooperação.
+2004 - 2006
+SIMPROT - Ambiente de simulação da operação de sistemas de proteção e ocorrências do sistema interligado brasileiro.
+Descrição: Projeto em desenvolvimento para o ONS visando desenvolver um ambiente de simulação da operação de
+sistemas de proteção, incluindo os esquemas especiais de controle presentes no Sistema Interligado Nacional.
+		
+Foi realizada uma pesquisa bibliográfica, incluindo visitas internacionais, com o intuito de verificar a tendência a nível
+internacional desse tipo de simulação.
+		
+Estão em desenvolvimento as modelagens dos sistemas de proteção que serão inseridos no programa computacional
+ORGANON, escolhido para a realização das simulações... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Integrante / Ronaldo Pedro Casolari - Integrante / Carlos Márcio Vieira Tahan - Coordenador / Mario Masuda - Integrante / Francisco Antônio Reis Filho - Integrante / José Geraldo Barreto Andrade - Integrante.Financiador(es): Operador Nacional do Sistema - Cooperação / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2004 - 2006
+Otimização da operação de usinas do rio tietê..
+Descrição: Esse projeto pretende desenvolver um sistema piloto, para permitir a operação otimizada da operação
+das usinas hidrelétricas do Rio Tietê pertencentes a AES Tietê S.A., considerando medições de vazão em usinas
+com a instrumentação implantada e visando:
+	1. Identificar os sensores apropriados para a determinação do rendimento de cada turbina de uma amostra a ser
+	instrumentada;
+	2. Estabelecer as metodologias de medição e respectivos controles de qualidade dos resultados das medições;
+	3. Integrar as informações de cada conjunto de medição para o cálculo das grandezas hidráulicas e elétricas de
+	cada turbina amostrada. Desenvolvimento de software de aquisição de dados, comunicação de dados e IHM
+	(Interface Homem Máquina) relativa aos sensores implantados;
+	4. Desenvolver software com o objetivo de centralizar estas informações num centro de despacho de usinas
+	utilizando a infraestrutura do Sistema de Supervisão e Controle da AES Tietê;
+	5. Propor as condições ideais de operação de cada usina com turbina instrumentada;
+	6. Calcular sistematicamente as condições ideais de despacho das usinas instrumentadas, com base na geração de
+	energia... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jose Antonio Jardini - Coordenador / Thales Sousa - Integrante / Ioannis Gikas - Integrante / Luiz Antônio da Cunha Rinaldi - Integrante / Maury Rodrigues Júnior - Integrante / Yvone de Faria Lemos de Luca - Integrante.Financiador(es): Aes Tietê - Cooperação.Número de produções C, T & A: 1
+2004 - 2006
+Desenvolvimento de sistema especialista para apoio a operação na recomposição do sistema de potência
+Descrição: Os procedimentos para a operação do sistema em regime normal e recomposição após emergências estão descritos nas instruções da empresa e do ONS, porém não são idealizadas para uso durante ocorrências principalmente na recomposição do sistema após blecautes. Além do mais as condições a serem verificadas são muitas, o que dificulta a realização do trabalho pelo operador que está sobre pressão dos fatos.
+Em geral, as estratégias de recomposição assumem como premissa que têm-se disponíveis todos os recursos existentes na Rede, todavia, raramente e em qualquer lugar do mundo as condições e disponibilidades pós-distúrbio serão iguais às condições pré-distúrbio. Além disto, alguns recursos fundamentais para o processo de recomposição podem estar fora de serviço para manutenção programada, ou qualquer outro motivo.
+Esta ferramenta verificará todas as condições dos equipamentos do sistema e definirá os procedimentos passo a passo para a operação segura em tempo real, levando em conta as restrições que vierem a surgir.
+É sabido que a estratégia Brasileira de recomposição é bastante ampla e equipara-se às melhores práticas internacionais. O tempo em torno de 4 horas para recomposição das instalações do sistema Sul-Sudeste afetadas quando dos blecautes de 1999 e 2002, que constituiu uma conquista expressiva para o grande volume de carga, instalações distantes e diante das dificuldades experimentadas pelas equipes de operação, cujo esforço e habilidade mereceram reconhecimento, torna-se, como desafio, um marco a ser superado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Cleber Roberto Guirelli - Integrante / Yasmin Pedraza Calderon - Integrante / Sergio Ropberto Urioste Cabral - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2004 - Atual
+Desenvolvimento de um sistema de acionamento de disjuntores visando a menor sobretensão
+Descrição: Este projeto tem como objetivo avaliar o modelo de acionamento de disjuntores hoje utilizado pela ECTE
+e definir um novo processo que reduza os transitórios na rede durante a energização e o religamento, das linhas de
+transmissão, os reatores e os transformadores. Visa também analisar a sincronização na abertura do disjuntor de
+forma a reduzir solicitação nos equipamentos (reatores, disjuntores, etc.). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Ronaldo Pedro Casolari - Integrante / Gerson Yukio Saiki - Integrante / Thales Sousa - Integrante / Mario Masuda - Integrante.Financiador(es): Empresa Catarinense de Transmissão de Energia - Cooperação.Número de produções C, T & A: 1
+2003 - 2006
+Otimização do despacho conjunto de transformadores de força pelo centro de operação..
+Descrição: No primeiro ano está sendo feito um acompanhamento das plataformas instaladas nas subestações de
+Campinas Centro e Andorinha, visando a aferição e ajustes dos algoritmos implantados (previsão de carga,
+algoritmo térmico, confiabilidade e liberação de potências):
+		
+	- Validar a funcionalidade dos protótipos desenvolvidos no PD-01;
+	- Coletar as informações em tempo-real e elaborar análise e diagnósticos das ferramentas implementadas validando
+	ou melhorando os algoritmos das ferramentas implementadas até a validação.
+	- Dar apoio ao Agente Comercializador da Ferramenta.
+	- Definir os requisitos funcionais do Sistema de Socorro em emergência a ser implementado no Centro de Operação.
+	- Prospecção nas metodologias de otimização e tomada de decisão e controle em tempo-real utilizando as
+	ferramentas de inteligência artificial (algoritmos genéticos e/ou outros)
+		
+O projeto teve início em Julho/03, e ainda está em fase inicial de desenvolvimento.
+		
+No segundo ano será extendida a plataforma para uma terceira subestação piloto fechando-se a maior área do
+quadrilátero central da cidade de Campinas. Será feita a concepção do Sistema de Socorro em emergência e a
+especificação do sistema em tempo real. Será iniciada a programação do software.
+No terceiro ano as 3 subestações serão interligadas com o Centro de Operações, o sitema digital será instalado,
+concluindo-se a ferramenta a nível sistêmico, e dando devido sentido à existência das ferramentas de nível local.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / José Luiz Pereira Brittes - Integrante / Paula Suemi Dantas Kayano - Integrante / Jorge Yasuoka - Integrante / Paulo Furtado - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Cooperação.
+2003 - 2005
+Desenvolvimento de um sistema de monitoramento de corrente e temperatura em linhas de transmissão.
+Descrição: A passagem de corrente nos condutores gera calor, calor este que somado a energia incidente do sol
+constituem as fontes de entrada de calor. Parte desse calor se dissipa por convecção e radiação.
+		
+O calor que sobra, eleva a temperatura do condutor, aumenta as flechas nos vários vãos e diminui as tensões (força
+horizontal) no tramo (conjunto de várias torres de suspensão entre duas torres de ancoragem).
+		
+A flecha máxima e a temperatura admissível do condutor limitam a potência a ser transmitida numa linha de
+transmissão. Fatores importantes na elevação de temperaturas dos cabos são a temperatura ambiente, o vento, a
+posição do sol, a pressão atmosférica, e a claridade fazendo que o resultado tenha uma característica estatística.
+		
+Desta forma escolhe-se uma condição de projeto fixando portanto o carregamento máximo da linha. Estando as
+condições atmosféricas mais favoráveis poder-se-ia usar um carregamento superior ao do projeto. Para se tomar
+esta decisão sem risco deve-se coletar em tempo real informações da linha. As formas de estimar o carregamento
+máximo baseiam-se em:
+	-medição de temperatura nos condutores;
+	-medição de tensão horizontal;
+	-medição de flecha.
+		
+Estes métodos possuem vantagens e desvantagens, e ainda possuem precisão e custos diferentes. Alguns, para
+sua instalação, necessitam o desligamento da linha o que é indesejável no modelo atual do setor pois resulta em
+queda de receita.
+		
+O controle da carregabilidade das linhas permite uma melhor utilização destes resultando em menor custo
+operativo... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Integrante / Luiz Carlos Magrini - Integrante / Mauricio George Miguel Jardini - Coordenador.Financiador(es): Centrais Elétricas do Norte do Brasil - Cooperação.
+2003 - 2005
+Pesquisa de interfaces e protocolos para interligação de equipamentos de comando, controle e proteção
+Descrição: A integração de equipamentos microprocessados em sistemas de automação elétricos é dificultada, ou
+até mesmo impedida, pela utilização por parte dos fabricantes de protocolos de comunicação de dados que
+otimizam a transferência de dados, sem se preocupar em seguir padrões internacionalmente aceitos.
+	
+Por outro lado, órgãos internacionais buscam padronizar protocolos de comunicação de dados específicos para o
+setor elétrico, tais como o DNP, o IEC 60870-5 e o fieldbus, ao mesmo tempo em que alguns fabricantes procuram
+soluções abertas tais como o protocolo ModBus, que embora não seja um padrão regido por normas, é reconhecido
+comercialmente como tal.
+		
+Essa proliferação de diferentes padrões e protocolos fazem com que surjam dentro do sistema elétrico verdadeiras
+ilhas de informação, que não se comunicam entre si por falta de um conversor ou mesmo pelo custo de
+desenvolvimento desse equipamento.
+		
+Por outro lado, instituições de pesquisa, como o EPRI nos EUA, propõem soluções que focam a modelagem dos
+equipamentos digitais envolvidos na automação, através da tecnologia de orientação de objetos a fim de padronizar
+os objetos de dados e as funções por elas desempenhadas. Essa pesquisa deu origem ao Utility Communications
+Architecture (UCA), que detalhou o modelo de objetos GOMSFE (Generic Object Models for Substation and Feeder
+Equipment) bem como uma modelagem das funções que ficou conhecida como CASM (Common Application
+Service Model)... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Integrante / Luiz Carlos Magrini - Integrante / Carlos Alberto Villacorta Cardoso - Coordenador.Financiador(es): Centrais Elétricas do Norte do Brasil - Cooperação.Número de produções C, T & A: 1
+2003 - 2005
+Estudos de corrosão das fundações..
+Descrição: Identificar variáveis do solo que possam influenciar os processos de corrosão de   estruturas enterradas;
+· Estabelecer procedimentos de manutenção preventiva.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Integrante / Mario Masuda - Integrante / Neusvaldo Lira de Almeida - Coordenador / Sidnei Pagoto Júnior - Integrante.Financiador(es): Empresa Paraense de Transmissão de Energia - Cooperação.
+2003 - 2005
+Transdução Digital em Subestações de EHV com Controle de Qualidade de Energia Elétrica
+Descrição: A evolução dos equipamentos de transdução digital de grandezas elétricas contribuiu não só com a redução de preços, mas também com a acuidade desses equipamentos. Entretanto, as soluções comercializadas internacionalmente chegam ao Brasil com preços muito elevados, o que restrige a sua utilização a apenas alguns pontos chaves das subestações.
+Atualmente, a industria nacional oferece algumas alternativas de baixo custo, mas que necessitam de uma homologação para ambientes EHV, tanto quanto ao aspecto de acuidade, quanto a imunidade eletromagnética ou até mesmo quanto a capacidade de integração com equipamentos similares de diferentes fabricantes.
+Outro aspecto a ser pesquisado é que a primeira geração desse tipo de equipamento utilizava protocolos antigos de comunicação de dados, que já estão caindo em desuso em aplicações de automação de sistemas elétricos. Gerações mais recentes desses produtos no mercado nacional, já contam com protocolos recomendados pelo IEEE, tais como IEC 60870-5, DNP 3 e UCA2, mas se desconhece o grau de aderência das implementações nacionais ao padrão, de modo a propriciar a interoperabilidade com seus similares mundialmente comercializados.
+Fatores que motivaram a proposta deste P&D;
+- a atual conjuntura do setor energético brasileiro,
+- o tema "qualidade de energia elétrica",
+- o ineditismo da aplicação do estudo da qualidade de energia em sistemas de tempo real,
+- a possibilidade de se estudar; as causas e efeitos das cargas capacitivas e indutivas no sistema, o que pode ser feito para a melhoria da qualidade de energia elétrica no sistema elétrico do Estado de São Paulo, estabelecer e comparar os padrões obtidos com os exigidos da ANATEL, IEEE, ANEEL e ONS, a possibilidade de se obter recursos para aquisição de equipamentos e instrumentação necessária para tal.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Humberto Katsuo Kiyohara - Integrante / Mario Nakashima - Integrante / Alci Ruiz Figueiredo - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2003 - 2005
+Aplicação de Sistemas Wireless em Sistemas de Supervisão e Controle em Subestações
+Descrição: Fatores que motivaram a proposta:
+- o estado geral dos cabeamentos em certas SE´s, apresentando os efeitos do envelhecimento: oxidação, esfarelamento, etc...
+- em algumas localidades os dutos encontram-se congestionados,
+- Há registro da utilização de rádio para comandar chaves seccionadoras de circuitos de distribuição, mas usualmente são protocolos proprietários operando em sistemas de rádio UHF. É desconhecida a aplicação dessa tecnologia em subestações de EHV aqui no Brasil.
+- a possibilidade de levantar dados reais para estudos de viabilidade técnica para implantação destes equipamentos em subestações de EHV da empresa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Adriano Galindo Leal - Integrante / Mario Nakashima - Integrante / Sandro do Prado Gambini - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.
+2003 - 2004
+Desenvolvimento de um sistema de análise do impacto de variáveis exógenas na previsão de demanda e energia.
+Descrição: Desenvolver metodologia e implementar um sistema computacional para previsão de demanda e energia em bases
+mais acuradas que os modelos atuais baseados em váriaveis típicas e processo de treinamentos convencionais de
+redes neurais.
+		
+Analisar o impacto de variáveis exógenas na previsão de demanda e energia, tais como, localização geográfica da
+carga, racionamento de energia, horário de verão, sazonalidades, etc., utilizando-se técnicas de análise de sinais,
+como o Wavelets;
+		
+Realizar previsão da carga global em horizontes de curto e médio prazos em tempo-real, utilizando-se os sinais
+oriundos da decomposição da curva de carga por Wavelets na análise mencionada no item anterior.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (1)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Jorge Yasuoka - Integrante / Reynaldo Ayres Souza Jr - Integrante / Roberto Castro - Integrante / Fernando Amaral de Almeida Prado Jr - Integrante / Liliana de Mattos Venegas Brittes - Integrante / André Luiz Preite Cruz - Integrante.Financiador(es): Companhia Piratininga de Força e Luz - Cooperação.Número de produções C, T & A: 1
+2003 - Atual
+Proposta de instalação de medição na baixa tensão do transformador e reflexão à alta através da adição das perdas calculadas.
+Descrição: O principal objetivo do projeto é recomendar soluções para instalar medição na baixa em lugar de alta
+tensão visando compatibilidade das medições.
+Para tal a metodologia seguida será:
+	-Inicialmente a USP deverá criar um modelo analítico para refletir as medições de energia no secundário
+	dos transformadores considerando a eventual a presença de comutadores de tapes e o enrolamento terciário.
+	-Posteriormente, serão comparados os resultados do modelo analítico com os resultados do algoritmo de
+	compensação dos medidores da Elektro (ION).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Paula Suemi Dantas Kayano - Integrante.Financiador(es): Eletricidade e Serviços S A - Cooperação.Número de produções C, T & A: 1
+2003 - Atual
+Ambiente de simulação da operação de sistemas de proteção.
+Descrição: O projeto desenvolvido para a DUKE ENERGY Geração Paranapanema tem como objetivo o desenvolvimento
+de um ambiente de simulação que leve em consideração os sistemas de proteção.
+		
+A DUKE ENERGY é uma empresa de geração com a concessão das usinas do rio Paranapanema. Nos estudos atuais,
+os sistemas de proteção representados são aqueles relativos ao Sistema Interligado Nacional.
+Através desse ambiente de simulação, a DUKE ENERGY terá condições de analisar contingências na rede elétrica que
+não afetam o desempenho do Sistema Interligado Brasileiro mas que podem afetar a operação de suas UHE´s. .. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Integrante / Ronaldo Pedro Casolari - Integrante / Carlos Márcio Vieira Tahan - Coordenador / Mario Masuda - Integrante.Financiador(es): Duke Energy Geração Paranapanema S A - Cooperação.
+2002 - 2004
+Metologia para cadastro de equipamentos de subestações de distribuição e linhas de subtransmissão
+Descrição: Desenvolver metodologia para cadastro georeferenciado dos equipamentos de subestações de
+distribuição de energia e de linhas de subtransmissão, bem como de modelo de um banco de dados de um sistema
+de informação.
+Esse sistema será desenvolvido ao longo de dois anos e irá permitir a gestão da manutenção dos equipamentos,
+bem como suprir as necessidades dos departamentos de operação, engenharia.
+		
+Para tanto será desenvolvida metodologia para medição das coordenadas UTM das linhas de subtransmissão, com
+precisão sub-métrica, bem como para levantamento das características elétricas e mecânicas das torres das linhas
+de subtransmissão da área de concessão e arredores, tais como faixas de passagens e construções relevantes nas
+proximidades. Essa metodologia deverá prever o levantamento das partes constituintes de cada torre tais como:
+pernas, corpo, cabeça, tipo de isolador, tipo de bundle, cabo, altura em relação ao solo, catenária, etc.
+		
+Será também desenvolvida metodologia para cadastro georeferenciado dos equipamentos das subestações de
+distribuição, de forma que consiga abranger os diferentes tipos de arranjos atualmente existentes na empresa. Esse
+metodologia deverá prever a utilização de palm tops para armazenamento do roteiro de inspeção e coleta de
+informações que posteriormente serão transferidas ao sistema corporativo.
+Para armazenar a nível de concessionária essas informações será concebida uma base de dados relacional que
+disponibilizará esses dados, bem como proverá meios para armazenamento das inspeções, ensaios, testes e
+medições coletadas. Essas informações ficarão disponíveis para toda a empresa através da intranet e do sistema de
+informações geográficas já em desenvolvimento.
+		
+Aplicativos gráficos e tabulares possibilitarão a consulta e modificação das informações dos equipamentos e linhas
+de subtransmissão possibilitando ainda a integração com aplicativos técnicos que serão especifi. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Adriano Galindo Leal - Integrante / Patrícia Rodrigues Loureiro e Silva - Integrante / Fábio Tamio Fujimoto - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Auxílio
+										financeiro / Universidade de São Paulo - Cooperação.Número de produções C, T & A: 34
+2002 - 2004
+Desenvolvimento de um sistema computacional de previsão de carga baseado em redes neurais e inteligência artificial através de sensores implantados no sistema de transmissão de energia.
+Descrição: Desenvolvimento de um sistema computacional de previsão de carga baseado em Redes Neurais e
+Inteligência Artificial através de sensores implantados no sistema de transmissão de energia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Cleber Roberto Guirelli - Integrante / Ferdinando Crispino - Integrante / Jorge Yasuoka - Integrante / Antônio Carlos Campos - Integrante / Mário Bastos - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.Número de produções C, T & A: 2
+2002 - 2004
+Sistemas abertos de supervisão e controle de subestações de energia
+Descrição: A integração de equipamentos microprocessados provenientes de diferentes fabricantes tem sido um
+ponto que dificulta ou mesmo impede a automação de subestações de energia, visto que o desenvolvimento de
+conversores de protocolos é uma atividade trabalhosa, de resultados duvidosos e onerosos para as empresas.
+Mesmo a adoção de protocolos especialmente desenvolvidos para o setor elétrico, tais como o IEC 60870-5 e o
+DNP, não resolve todos os problemas, uma vez que apenas facilita a comunicação entre os equipamentos, restando
+ainda um considerável esforço de engenharia no sentido de integração dessas informações. Tentando garantir a
+interoperabilidade entre IEDs (Intelligent Electronic Devices), organismos internacionais estão desenvolvendo uma
+nova tecnologia baseado em objetos, que visa proporcionar recursos de processameto distribuído entre
+equipamentos microprocessados de diferentes fabricantes. Essa tecnologia possivelmente irá revolucionar os
+conceitos de automação de sistemas elétricos, já que possibilita que a medição, o processamento e a atuação sobre
+o processo possam ser efetuados por diferentes IEDs operando harmoniosamente. Assim sendo, este projeto de
+dois anos, onde o primeiro ano será destinado ao entendimento dessa nova tecnologia, contato com fabricantes,
+especificação e compra de alguns IEDs, alpem da especificação e implementação de algumas funções distribuidas,
+tais como intertravamentos entre bays, e outras a serem definidas. O segundo ano será dedicado a análise da
+integração desses equipamentoscom um sistema SCADA a ser definido. O segundo ano será dedicado a análiseda
+integração desses equipamentos com um sistema SCADA a ser definido, dedicando-se especial atenção aos
+ganhos proporcionados por essa tecnologia, bem como aos eventuais problemas provocados pelo aumento de
+trafego na rede em virtude da utilização da tecnologia de objetos... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Jose Antonio Jardini - Integrante / Luiz Carlos Magrini - Integrante / Ferdinando Crispino - Coordenador.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro / Cteep Tranmissão Paulista - Cooperação.Número de produções C, T & A: 2
+2002 - 2004
+Integração de células a combustível e operação integrada à rede elétrica..
+Descrição: As células a combustível terão importância destacada no futuro próximo. Elas serão utilizadas nos
+automóveis (comercialmente a partir de 2004) em substituição aos motores com combustível petróleo.
+		
+Desta forma é estratégico para as empresas analizarem esta tecnologia neste momento em que as células estão
+saindo do período de desenvolvimento e indo para a comercialização rotineira... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Ferdinando Crispino - Integrante / Gerson Yukio Saiki - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Cooperação.Número de produções C, T & A: 1
+2002 - 2003
+Sistema de informação georreferenciado e sensoriamento remoto para o gerenciamento de imóveis e ocupação das faixas de linhas de transmissão da rede básica..
+Descrição: O uso de base de dados com informações georreferenciadas é comum na distribuição de energia elétrica. Nesta
+base de dados relacional todos os equipamentos, postes, circuitos possuem coordenadas que são as chaves de
+pesquisa das informações destes componentes. Programas gráficos específicos como os de Sensoriamento
+Remoto e de SIG (Sistemas de Informações Geográficas) são usados para o gerenciamento da rede sobre os quais
+são desenvolvidos os aplicativos adequados aos objetivos gerenciais da empresa. Com orientação análoga, este
+trabalho visa o desenvolvimento de um sistema de base de dados no mesmo conceito descrito acima, com o
+cadastro de informações georreferenciadas para o gerenciamento de patrimônio e ocupação do solo nas imediações
+das faixas de linhas de transmissão. Sistemas concebidos desta forma podem informatizar também a operação e a
+manutenção além do controle patrimonial e o monitoramento da ocupação da faixa de passagem.
+Objetivos.
+Neste projeto está previsto o levantamento e análise das mais recentes tecnologias de sensoriamento remoto e o
+mapeamento de duas áreas pilotos (uma urbana e outra rural) fazendo uso de aerofotoganometria e fotos com
+equipamentos laser e imagens de satélites entre outras tecnologias. Prevê ainda, além da aquisição dessas
+imagens, um Sistema de Bases de Dados e aplicativos voltados cadastramento patrimonial. Propõe-se utilizar um
+Sistema Gerenciador de Base de Dados (do tipo da Oracle), que por seguir o modelo relacional e usufruir dos
+benefícios da linguagem de consulta padronizada SQL, pode ser facilmente portado para outros produtos similares.
+O modelo de dados implementado preverá tabelas individuais que armazenam as informações pertinentes as torres,
+posses de terras que interferem com a faixa, registros acordos, construções, evolução de crescimento em área
+urbana e etc... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jose Antonio Jardini - Coordenador / José Alberto Quintanilha - Integrante / Luiz Carlos Magrini - Integrante / Ferdinando Crispino - Integrante / Patrícia Rodrigues Loureiro e Silva - Integrante.Financiador(es): Cteep Tranmissão Paulista - Cooperação.Número de produções C, T & A: 1
+2000 - 2001
+Serviços ancilares - avaliação de benefícios e custos.
+Descrição: O projeto teve como objetivo avaliar os custos e benefícios decorrentes da geração adicional de reativos por
+parte das usinas hidrelétricas da AES Tietê.
+		
+Devido à não adequada compensação reativa das cargas de parte do Estado de São Paulo, as usinas da AES Tietê,
+localizadas no Rio Tietê, são solicitadas a gerarem reativos para suprir essa deficiência e não são remuneradas por esse
+serviço.
+		
+O projeto quantificou o custo de cada MVArh gerado e comparou com o custo da instalação de capacitores para
+compensação reativa da carga, sugerindo uma faixa de remuneração a ser auferida pela AES Tietê pelo serviço prestado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Ronaldo Pedro Casolari - Integrante.Financiador(es): Aes Tietê - Cooperação.Número de produções C, T & A: 1
+1999 - 2003
+Desenvolvimento e implantação de sistema para previsão de carregamento e disponibilização de potências liberadas em tempo-real para transformadores de força..
+Descrição: O projeto teve como objetivo implantar sistema computacional para auxiliar no planejamento da operação
+em dois aspectos:
+		
+	1) subsidiando o operador com informações confiáveis de carregamento futuro de curta duração;
+	2) viabilizando o controle de carregamento manual ou automático de transformadores com base na confiabilidade do
+	equipamento, tendo como fator fundamental as temperaturas internas, controlado por limites de reserva de vida do
+	equipamento pré-definidas.
+		
+Isso visa estabelecer um conjunto de regras para orientação dos operadores do COD para eventuais redespachos
+de carga quando da ocorrência de contingências pré-definidas que impliquem em sobrecargas, reduzindo-se
+significativamente o corte de cargas, avaliando-se o risco de se colocar o equipamento em sobrecarga e
+mantendo-se, o quanto possível, o transformador dentro de sua vida técnica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / José Luiz Pereira Brittes - Integrante / Paula Suemi Dantas Kayano - Integrante / Ferdinando Crispino - Integrante / Jorge Yasuoka - Integrante / Hernán Prieto Schmidt - Integrante / Reynaldo Ayres Souza Jr - Integrante / André Lazzarini - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Cooperação.Número de produções C, T & A: 3
+1999 - 2000
+Gerenciamento do carregamento de transformadores de distribuição.
+Descrição: O projeto propõe o cálculo do carregamento de transformadores de distribuição com base nas curvas típicas
+dos consumidores residenciais (por faixa de consumo), comerciais e industriais (por ramo de atividade) da empresa
+Bandeirante Energia.
+		
+Através da relação dos consumidores alimentados por cada transformador de distribuição e utilizando-se o consumo
+mensal de cada consumidor é feita a composição do carregamento do transformador, obtendo-se o perfil de seu
+carregamento diário.
+	
+Foram definidas faixas de carregamento de transformadores e sugeridas ações durante o acompanhamento da operação
+dos transformadores. .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Ronaldo Pedro Casolari - Integrante.Financiador(es): Bandeirante Energia S A - Cooperação.Número de produções C, T & A: 1
+1998 - 2002
+Convênio entre a USP e a empresa Eletropaulo Metropolitana no desenvolvimento de um Sistema de Cálculo de Indicadores Técnicos de Qualidade na distribuição de energia elétrica..
+Descrição: Esse projeto teve como objetivo o desenvolvimento, modelagem e implementação de um sistema de
+cálculo de indicadores técnicos de qualidade na distribuição de energia elétrica... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Luiz Carlos Magrini - Integrante / Adriano Galindo Leal - Integrante / Ferdinando Crispino - Integrante / Gerson Yukio Saiki - Integrante / Humberto Katsuo Kiyohara - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Cooperação.
+1998 - 1999
+Posse de equipamentos e hábitos de consumo de energia elétrica e gás no setor comercial e industrial.
+Descrição: Identificação da posse de equipamentos e dos hábitos de consumo de energia elétrica e gás no setor
+comercial e industrial através de questionários preenchidos por pesquisadores visitando as instalações consumidoras.
+		
+O projeto abrangeu todo o Estado de São Paulo e foi desenvolvido para a Eletropaulo, CPFL, CESP, Bandeirante e
+COMGÁS... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Ronaldo Pedro Casolari - Integrante / Alexandre Angrisano - Integrante / Dário Takahata - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Cooperação / Companhia Paulista de Força e Luz - Cooperação / Companhia de Gás de São Paulo - Cooperação / Bandeirante Energia S A - Cooperação / Centrais Elétricas de São Paulo S/A - Cooperação.Número de produções C, T & A: 2
+1993 - 1998
+Determinação da tipologia de curvas de carga residencial, comercial e industrial.
+Descrição: Identificação da tipologia das curvas de carga de consumidores residenciais, comercias e industriais do
+Estado de São Paulo através de medições em instalações consumidoras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Antonio Jardini - Coordenador / Eduardo Luiz Ferrari - Integrante / Ronaldo Pedro Casolari - Integrante.Financiador(es): Eletricidade de São Paulo S/A - Cooperação / Companhia Paulista de Força e Luz - Cooperação / Centrais Elétricas de São Paulo S/A - Cooperação.Número de produções C, T & A: 1

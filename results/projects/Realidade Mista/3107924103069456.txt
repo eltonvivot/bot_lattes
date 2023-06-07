@@ -1,0 +1,349 @@
+2020 - Atual
+Desenvolvimento de antivirais para o tratamento da COVID-19
+Descrição: Neste projeto será estabelecido e padronizado ensaio de triagem primária de compostos, em modelo HCS (High Content Screening), utilizando células humanas e o coronavírus SARS-Cov-2 isolado de pacientes brasileiros e cultivado em condições de alta segurança biológica (P3) no ICB-USP. A previsão é que neste ensaio seja possível avaliar até 4.000 compostos, podendo ampliar este estudo em função da disponibilidade de compostos e recursos para os reagentes e consumíveis dos ensaios. Vamos avaliar varias coleções de compostos: uma biblioteca de 1500 compostos FDA-approved; todas as coleções de moléculas naturais e sintéticas do CIBFar/CEPID-FAPESP (que incluem os compostos provenientes do NuBBE/IQAr/UNESP, FCFRP/USP, LSPN-DQ-UFSCar e IQ/UNICAMP); do Consórcio PITE-FAPESP/MMV/DNDi/Unicamp/USP e do NEQUIMED/IQSC/USP. Sondas peptídicas fluorescentes e inibidores de proteases, provenientes na EPM/UNIFESP, serão produzidas e avaliadas nos ensaios fenotípicos e enzimáticos, baseados nos estudos anteriores sobre a cisteíno-protease do coronavirus SARS-Cov e também da serino-protease humana TMPRSS2, envolvida na invasão celular pelo COVID-19. Bibliotecas de compostos da organização internacional Medicines for Malaria Ventures serão disponibilizadas para triagem contra o SARS-Cov-2 neste projeto: são bibliotecas que variam de 400 compostos (Pathogen Box e Pandemic Box) a 20-40.000 ou até 150.000 compostos com grande diversidade química, cuja avaliação em nossos testes só será possível com aporte adicional de recursos, além do limite previsto nesta chamada. Todas as proteínas do coronavirus SARS-Cov-2 relevantes como potenciais alvos para fármacos antivirais serão clonadas e expressas na forma recombinante em E. coli, e serão desenvolvidos ensaios bioquímicos e biofísicos para a identificação de inibidores e ligantes. A identificação de hits contra o SARS-Cov-2 será importante não apenas para o seu desenvolvimento futuro como candidatos a novos fármacos antivirais, mas o conhecimento de suas estruturas químicas poderá imediatamente nos auxiliar no esforço emergencial de reposicionamento de fármacos já em uso clínico para outras indicações terapêuticas, pela comparação de seus grupos farmacofóricos ativos e métodos de bioisosterismo.  Com a possibilidade do surgimento de mutantes de escape imunológico, será realizado o sequenciamento de genomas de SARS-CoV-2 e isolamento viral durante o período de ocorrência da pandemia no Brasil para identificar eventuais mutantes de escape na região de ligação do receptor. Em outra frente de pesquisas, serão desenvolvidas rotas sintéticas simples e alternativas para os fármacos já aprovados para uso em humanos e que estão sendo identificados como eficazes, ainda que parcialmente, no tratamento da COVID-19.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Glaucius Oliva - Coordenador / Rafael V. C. Guido - Integrante / André Luiz Bertelli Ambrósio - Integrante / Carlos Alberto Montanari - Integrante / Lucio Holanda Gondim de Freitas Junior - Integrante.
+2013 - Atual
+Centro de Pesquisa e Inovação em Biodiversidade e Fármacos - CIBFar/CEPID/FAPESP
+Descrição: O Centro de Pesquisa e Inovação em Biodiversidade e Fármacos (CIBFar) é uma iniciativa resultante de projetos de pesquisa colaborativos, envolvendo: (i) Laboratório de Química Medicinal e Computacional (LQMC) e Laboratório de Biofísica Molecular ? IFSC ? USP, (II) Núcleo de Bioensaios, Biossíntese e Ecofisiologia de Produtos Naturais (NUBBE) ? IQ ? UNESP, (III) Laboratórios de Síntese Orgânica ? IQ ? UNICAMP, (iv) Laboratórios de Produtos Naturais e Síntese Orgânica ? DQ ? UFSCar, e (v) Laboratório de Produtos Naturais ? FCFRP ? USP.
+O objetivo principal desse Centro é a realização de ciência básica e aplicada, bem como o desenvolvimento tecnológico em todas as áreas de biodiversidade e de descoberta de fármacos com base em pesquisas que utilizam o estado da arte da química de produtos naturais, química orgânica sintética, biologia molecular e estrutural, bioquímica, química medicinal, planejamento de fármacos e ensaios farmacológicos.
+Os objetivos específicos são a bioprospecção da flora brasileira para a identificação de compostos com um amplo espectro de atividades biológicas (e.g., antiparasitária, antibacteriana, anticâncer); seleção de compostos bioativos promissores para síntese orgânica e estudos das relações entre a estrutura e atividade (SAR, QSAR); uso de estratégias de planejamento de fármacos baseado na estrutura do receptor (SBDD) e do ligante (LBDD); emprego de abordagens para otimização de compostos-líderes; estudos pré-clínicos de eficácia, toxicologia e farmacocinética in vitro e in vivo para a avaliação e otimização de propriedades de candidatos a novos fármacos.
+O objetivo final é o desenvolvimento de novas entidades químicas (NCEs) com elevado potencial de inovação para desenvolvimento clínico. Para tanto, o CIBFar se baseia não apenas nas competências e conhecimentos científicos sólidos em todas as áreas de interesse, mas também em uma estrutura organizada para a integração das abordagens modernas em biodiversidade e descoberta de fármacos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Glaucius Oliva - Coordenador / A D Andricopulo - Integrante / Alberto J. Cavalheiro - Integrante / Angela R. Araujo - Integrante / Arlene G. Corrêa - Integrante / Carlos Roque D. Correia - Integrante / Dulce H. S. Silva - Integrante / Eduardo M. Cilli - Integrante / Fernando A. S. Coelho - Integrante / Ian Castro-Gamboa - Integrante / Ilana L. B. C. Camargo - Integrante / Leila Maria Beltramini - Integrante / Luiz Carlos Dias - Integrante / Marcia N. Lopes - Integrante / Maysa Furlan - Integrante / Mônica T. Pupo - Integrante / Paulo C. Vieira - Integrante / Rafael V. C. Guido - Integrante / Vanderlan S. Bolzani - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2009 - 2011
+Instituto Nacional de Biotecnologia Estrututal e Quimica Medicinal em Doenças Infecciosas - INBEQMEDI
+Descrição: Número do processo: 2008/57910-0;
+FAPESP
+Vigência: 01/03/2009 a 28/02/2014. Situação: Concluído; Natureza: Pesquisa. Integrantes: Glaucius Oliva - Coordenador.
+2008 - 2011
+INCT de Biotecnologia Estrutural e Química Medicinal em Doenças Infecciosas
+Descrição: Número do processo: 573607/2008-7 ;
+Edital MCT/CNPq Nº 015/2008 - Institutos Nacionais de Ciência e Tecnologia.
+Vigência: 26/12//2008 a 27/12/2011. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante / A P U Araújo - Integrante / L M Beltramini - Integrante / E Horjales - Integrante / O H Thiemann - Integrante / A J Costa Filho - Integrante / A D Andricopulo - Integrante / Nelma Regina Segnini Bossolan - Integrante / Ricardo De Marco - Integrante.
+2007 - 2008
+Vinda de Pesquisador Visitante - Eduardo Horjales Reboredo
+Descrição: Processo nro 06/61672-2;
+Vigência: 28/2/2007 a 27/2/2008. Situação: Concluído; Natureza: Pesquisa. Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2007 - Atual
+(BOLSA PRODUTIVIDADE) Cristalografia de proteinas e planejamento de fármacos em problemas de interesse biotecnológico
+Descrição: Bolsa Produtividade em Pesquisa
+Vigência: 01/03/2007 a 28/02/2010. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - Atual
+Instituto do Milenio de Biologia Estrutural em Biomedicina e Biotecnologia (IMBEBB)
+Descrição: Coordenador Geral do Projeto: Prof. Dr. Jerson Lima da Silva, IBqM, UFRJ
+Vice-coordenador geral: Prof. Dr. Glaucius Oliva - IFSC/USP
+O Instituto do Milênio de Biologia Estrutural em Biomedicina e Biotecnologia (IMBEBB) é uma iniciativa multidisciplinar que visa reunir grupos de pesquisa que já desenvolvem projetos de pesquisa na área da Biologia Estrutural aplicada à Biotecnologia e Biomedicina e que pretendem, agora, somar esforços para dar um salto qualitativo nos projetos desenvolvidos. O proposto Instituto envolve 23 sub grupos de pesquisa de 12 Universidades e Institutos de Pesquisa distribuídos em várias regiões do país (vide mapa abaixo). O grupo proponente do IMBEBB (48 pesquisadores) inclui tanto investigadores já estabelecidos em suas áreas de pesquisa, como também jovens pesquisadores em fase de consolidação de seus grupos ( 9 sub grupos emergentes). A maioria dos membros proponentes é de pesquisadores do CNPq ou apresentam qualificação equivalente. Em torno de um terço dos proponentes são pesquisadores Seniors do CNPq (nível 1), a maioria apresentando liderança internacional em suas áreas de atuação. Além disto, diversos pesquisadores estrangeiros, que já mantêm colaboração com vários dos subgrupos proponentes, contribuirão intensa e significativamente para o desenvolvimento da presente proposta. Um componente forte desta proposta é a participação de pesquisadores jovens altamente qualificados, que estão lotados em diversos estados do país e que, com a implementação deste instituto, receberão apoio para o desenvolvimento de seus projetos de pesquisa e dos seus grupos de pesquisa ora emergentes na área de Biologia Estrutural. Os pesquisadores do IMBEBB estão organizados em 23 sub grupos que interagirão de maneira integrada na tentativa de atacar problemas específicos relacionados a diversas doenças humanas e animais, tais como dengue, febre amarela, AIDS, doença de Chagas, leishmaniose, esquistossomose, câncer, doença de Parkinson, Alzheimer dentre outr. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Glaucius Oliva - Coordenador / I Polikarpov - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2005
+Projetos Especiais da Pró-Reitoria de Pesquisa para recursos complementares para apoio a grupos de pesquisa para 2005
+Descrição: Contra partida de auxílo pesquisa;
+Número do processo: 2005.1.4163.1.6;
+Valor total concedido: R$ 3.000,00;
+Vigência: 2005.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Pró Reitoria de Pesquisa - Auxílio
+										financeiro.
+2005 - Atual
+Projeto Instituto do Milênio: Inovação e Desenvolvimento de Novos Fármacos e Medicamentos - UFRJ
+Descrição: VICE-COORDENADOR GERAL E MEMBRO DO COMITÊ DE GOVERNANÇA DO PROJETO INSTITUTO DO MILÊNIO . Projeto de Pesquisa apoiado pelo CNPq, Processo No. 420015/2005-1, cuja proposta, coordenada pelo Prof. Dr. Eliezer Jesus de Lacerda Barreiro, "está elaborada com as seguintes partes: Apresentação, Objetivos e Justificativas; O processo de descoberta racional de fármacos; A abordagem fisiológica e o paradigma do composto-protótipo no processo racional de descoberta de fármacos; A etapa de otimização do composto-protótipo; Síntese do composto-protótipo em escala compatível com o estado de desenvolvimento da cadeia de inovação; O desenvolvimento analítico e farmacotécnico do novo composto-protótipo descoberto; Ensaios de fase clínica; Prospecção e desenvolvimento de fármacos genéricos: Desenvolvimento de fármacos genéricos; Competências Acadêmico-científicas da Equipe proponente do Instituto do Milênio Inovação e Desenvolvimento de Fármacos e Medicamentos: Instituições proponentes; Produção científica da equipe proponente; Patentes depositadas pela equipe proponente; Interações entre equipes acadêmicas proponentes com empresas; Metas & Gestão do Instituto do Milênio Inovação e Desenvolvimento de Fármacos e Medicamentos". Situação: Em andamento; Natureza: Pesquisa. Integrantes: Glaucius Oliva - Integrante / E J L Barreiro - Coordenador / Ivan da Rocha Pitta - Integrante / Maria do Carmo Alves de Lima - Integrante / Daniel Tarciso Martins Pereira - Integrante / Lúcia Fernanda Cavalcanti da Costa Leite - Integrante / Andréa Cristina Apolinário da Silva - Integrante / Flávia De Toni Uchôa - Integrante / Marcelo Zaldini Hernandes - Integrante / Maria Tereza dos Santos Correia - Integrante / Suely Lins Galdino - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2007
+(BOLSA PRODUTIVIDADE) Cristalografia de proteinas e planejamento de fármacos em problemas de interesse biotecnológico
+Descrição: Número do processo: 307303/03-9;
+Vigência: 01/03/2004 a 28/02/2007.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2004
+Projetos Especiais da Pró-Reitoria de Pesquisa para recursos complementares para apoio a grupos de pesquisa para 2004
+Descrição: Contra partida de auxílo pesquisa;
+Número do processo: 2004.1.7487.1.6;
+Valor total concedido: R$ 3.000,00;
+Vigência: 2004.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Pró Reitoria de Pesquisa - Auxílio
+										financeiro.
+2003 - 2003
+Projetos especiais da Pró-Reitoria de Pesquisa para recursos complementares para apoio a grupos de pesquisa para 2003
+Descrição: Contra partida de auxílo pesquisa;
+Número do processo: 2003.1.11181.01.4;
+Valor total concedido: R$ 3.500,00;
+Vigência: 2003.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Pró Reitoria de Pesquisa - Auxílio
+										financeiro.
+2002 - 2006
+Estudos estruturais de duas enzimas envolvidas na biossíntese de goma xilelana produzida pela bactéria Xylella fastidiosa
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 01/09703-7;
+Valor Total Concedido: R$ 17.892,00;
+Vigência: 01/04/2002 a 31/03/2006;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / D H F Souza - Integrante / C A Alves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2002 - 2003
+Planejamento, síntese e avaliação farmacológica de novas entidade químicas, inibidores seletivos e prostaglandina-H sintase-2
+Descrição: Número do Processo: 01/2001/70;
+Valor Total Concedido: R$ 175.774,60;
+Vigência: 02/04/2002 a 01/08/2003;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante.Financiador(es): Eurofarma Laboratórios Ltda - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Fundação de Apoio à Física e à Química - Auxílio
+										financeiro.
+2002 - 2002
+Projetos especiais da Pró-Reitoria de Pesquisa para recursos complementares para apoio a grupos de pesquisa para 2002
+Descrição: Contra partida de auxílio pesquisa;
+Número de Processo: 2002.1.16663.1.6;
+Valor Total Concedido: R$ 3.500,00;
+Vigência: 2002;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Pró Reitoria de Pesquisa - Auxílio
+										financeiro.
+2001 - 2005
+Estudos estruturais da Adenina-Fosforribosil-transferase (APRT) de (Leishmania Tarentolae)
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 00/14709-1;
+Valor Total Concedido: R$ 24.264,00;
+Vigência: 01/05/2001 a 30/04/2005;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / M Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2001 - 2004
+Estudos estruturais da Fosforribosil Pirofosfato Sintetase (PRS) Humana
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 01/00296-0;
+Valor Total Concedido: R$ 17.892,00;
+Vigência: 01/08/2001 a 28/02/2005 (Encerrado em 30/04/2004);. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / H B Napolitano - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2001 - 2002
+Desenvolvimento de sistemas de expressão heteróloga em Escherichia coli da carboxipeptidase B de Sus scrofa (suíno)
+Descrição: Valor Total Concedido: R$ 40.000,00;
+Vigência: 01/10/2001 a 01/10/2002. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante / O H Thiemann - Integrante.Financiador(es): Bioquímica do Brasil - Auxílio
+										financeiro.
+2000 - 2012
+Centro de Biotecnologia Molecular Estrutural
+Descrição: Número do Processo: 98/14138-2;
+Valor Total Concedido: R$ 3.835.863,34 + US$ 4.373.659,51;
+Vigência: 01/10/2000 a 31/12/2008;
+Resumo do projeto: O CBME é uma iniciativa conjunta resultante da existente colaboração científica entre pesquisadores da USP no campus de São Carlos, do LNLS em Campinas, e da UFSCar. O objetivo principal do CBME é realizar pesquisas e desenvolvimentos tecnológicos em todas as áreas da biotecnologia que dependem do planejamento Molecular Baseado em Estruturas, particularmente na descoberta de novos compostos bioativos (fármacos, vacinas, pesticidas) e na engenharia de proteínas. Esta é hoje a tecnologia mais eficiente e de melhor relação custo/benefício para o desenvolvimento de novas drogas, podendo contribuir em todas as etapas do processo, desde a descoberta de compostos de partida, sua otimização (afinidade, especificidade, eficácia, efeitos colaterais) e aprovação pelos organismos competentes. É uma metodologia que se baseia na inibição ou estimulação da atividade biológica de macromoléculas, proteínas ou ácidos nucleicos (DNA e RNA), responsáveis por doenças. A Cristalografia de Proteínas, usando difração de raios-X e a Ressonância Magnética Nuclear, são técnicas de preferência, na medida em que podem elucidar a estrutura tridimensional molecular de proteínas alvo associadas às doenças em foco. Está informação estrutural permite a descoberta e síntese de compostos complementares que podem se tornar potentes drogas especificamente dirigidas às doenças alvo. Para atingir este objetivo o CBME promove uma abordagem multidisciplinar integrada entre as técnicas de Biologia Molecular, Bioquímica, Biologia Estrutural (Cristalografia de Proteínas e de Moléculas Pequenas, Ressonância Magnética Nuclear, Técnicas Espectroscópicas, Modelagem Molecular de Fármacos e Vacinas, e Bio-informática), Radiação Síncrotron, Química Medicinal de Síntese Orgânica e Inorgânica e de Produtos Naturais, Imunologia Molecular, Biologia Celular e Farmacologia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante / I Polikarpov - Integrante / A Spisni - Integrante / B G Guimarães - Integrante / P C Vieira - Integrante / D H F Souza - Integrante / A P U Araújo - Integrante / L M Beltramini - Integrante / O H Thiemann - Integrante / R Meneghini - Integrante / A G Corrêa - Integrante / F Henrique Silva - Integrante / H S S Araújo - Integrante / C E Benedetti - Integrante / J Kobarg - Integrante / N Zanchin - Integrante / S T Ferreira - Integrante / C H I Ramos - Integrante / T A Pertinhez - Integrante / A D Andricopulo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa / Pró Reitoria de Pesquisa - Bolsa / Pró Reitoria de Pesquisa - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 12
+2000 - 2005
+Estudos estruturais de duas enzimas (GUMC e GUMD) envolvidas na via biossintética da goma fastidiana produzida pela Xillella fastidiosa
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 01/14240-6;
+Valor Total Concedido: R$ 17.892,00;
+Vigência: 01/07/2002 a 30/06/2005;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / C Pieri - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2000 - 2004
+Estrutura cristalográfica da N-Acetilglicosamina 6-fosfato Desacetilase, uma proteina da Via Catabolica de Açucares Aminoacidos da Escherichia Coli
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 99/12029-4;
+Valor Total Concedido: R$ 17.892,00;
+Vigência: 01/06/2000 a 31/05/2004;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / F M Ferreira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2000 - 2004
+Planejamento racional de fármacos contra tripanossomatídeos: GGAPDH de T. cruzi e XPRT de L. tarentolae
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 00/01688-6;
+Valor Total Concedido: R$ 17.892,00;
+Vigência: 01/05/2000 a 31/05/2004;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2000 - 2002
+Expressão, purificação e cristalização da Enzima Glicosiltransferase I envolvida na Biossíntese de Goma Xilelana produzida pela Bactéria Xylella fastidiosa
+Descrição: Reserva Técnica de Bolsa Mestrado;
+Número de Processo: 99/11837-0;
+Valor Total Concedido: R$ 7.200,00;
+Vigência: 01/03/2000 a 28/02/2002;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / C Pieri - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1999 - 2004
+(BOLSA PRODUTIVIDADE) Cristalografia de proteínas: análise estrutural de proteínas de interesse biotecnológico
+Descrição: Bolsa de Produtividade e Pesquisa - Nível 1A;
+Número de Processo: 300236/90-5;
+Vigência: 01/03/1999 a 28/02/2004;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1999 - 2003
+Otimização da expressão recombinante e estudos funcionais e estruturais do produto do gene dscr-1 humano, relacionado com a Síndrome de Down
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 98/16378-0;
+Valor Total Concedido: R$ 24.264,00;
+Vigência: 01/04/1999 a 31/03/2003;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / P S Monzani - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1999 - 2003
+Inibidores e estudos estruturais de enzimas implicadas nos metabolismos de glicose e oxigênio: possíveis aplicações à terapia da Doença de Chagas
+Descrição: Cooperação Internacional Brasil/França;
+Número de Processo: 294/99/01-II;
+Valor Total Concedido: R$ 49.320,00;
+Vigência: 21/01/1999 a 28/02/2003;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante / J Perie - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+1999 - 2002
+Estrutura cristalográfica de THI1, proteína envolvida na Biossintese de Tiamina e no reparo de lesões de DNA
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 97/14359-6;
+Valor Total Concedido: R$ 24.264,00;
+Vigência: 01/05/1999 a 30/04/2002;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / P H C Godoi - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1999 - 2001
+Expressão e caracterização Físico-Química da Adenina-Fosforribosil-Transferase (APRT) de Leishmania tarentolae
+Descrição: Reserva Técnica de Bolsa Mestrado;
+Número de Processo: 98/15065-9;
+Valor Total Concedido: R$ 7.200,00;
+Vigência: 01/03/1999 a 28/02/2001;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / M Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1999 - 2000
+Cristalografia de Proteínas no Chile
+Descrição: Cooperação Internacional Brasil/Chile;
+Número de Processo: B-11487/7B002;
+Valor Total Concedido: R$ 11.550,00;
+Vigência: 20/09/1999 a 29/09/2000;
+Objetivo: Incentivar a cooperação científico-acadêmica entre Brasil e Chile mediante o intercâmbio e a colaboração entre os pesquisadores participantes no projeto: BRASIL - Glaucius Oliva e Richard Charles Garratt e CHILE - José Antonio Martinez Oyanedel, Marta Cecilia Bunster Balochi e Nelson Carvajal Baeza.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante / j martinez - Integrante / N Carvajal - Integrante / M C Bunster - Integrante.Financiador(es): Fundação Vitae - Auxílio
+										financeiro.
+1999 - 1999
+Projetos especiais da Pró-Reitoria de Pesquisa para recursos complementares para apoio a grupos de pesquisa para 1999
+Descrição: Contra partida de auxílio pesquisa;
+Número de Processo: 99.1.24105.1.5;
+Valor Total Concedido: R$3.500,00;
+Vigência: 1999;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Pró Reitoria de Pesquisa - Auxílio
+										financeiro.
+1998 - 2003
+Definição de estratégias para pesquisa e desenvolvimento de novos fármacos no Brasil
+Descrição: Valor Total Concedido: R$ 85.000,00;
+Vigência: 01/08/1998 a 31/03/2003;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante.Financiador(es): Eurofarma Laboratórios Ltda - Auxílio
+										financeiro.
+1998 - 2001
+Estudos cristalográficos e planejamento racional de drogas baseado em dados estruturais da Enzima Trans-Sialidase de Trypanossoma cruzi
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 96/08788-9;
+Valor Total Concedido: R$ 17.892,00;
+Vigência: 01/09/1998 a 28/02/2001;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / S Trapani - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1998 - 1999
+Taxa de Bancada Pós-Graduação
+Descrição: Número de Processo: 570991/97-8;
+Valor Total Concedido: R$ 1.287,48;
+Vigência: 01/03/1998 a 28/02/1999;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1998 - 1998
+Auxílio vinda pesquisador visitante Dr. Don C. Wiley (Harvard University and Howard Hughes Medical Institute, USA)
+Descrição: Número de Processo: 98/1855-8;
+Valor Total Concedido: R$ 1.320,00 + US$ 150,00 + 1 passagem aérea Boston/SP/Boston;
+Vigência: 20/05/1998 a 27/05/1998.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / D C Wiley - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1998 - 1998
+Projetos especiais da Pró-Reitoria de Pesquisa para recursos complementares para apoio a grupos de pesquisa para 1998
+Descrição: Contra partida de auxílio pesquisa;
+Número de Processo: 98.1.10716.1.6;
+Vigência: 1998;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Pró Reitoria de Pesquisa - Auxílio
+										financeiro.
+1997 - 2003
+Núcleo de Excelência em Biologia Molecular Estrutural: estrutura, função e aplicações de moléculas de interesse biotecnológico
+Descrição: FINEP
+Número de Processo: 7.6.91.1044-00;
+Valor Total Concedido: R$ 701.000,00;
+Vigência: 25/11/1997 a 25/11/2002;
+CNPq
+Número de Processo: 466094/01-9;
+Valor Total Concedido: R$ 150.705,14;
+Vigência: 25/02/2002 a 25/08/2003;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / R C Garratt - Integrante / M T S Correia - Integrante / Y P Mascarenhas - Integrante / I Polikarpov - Integrante / P C Vieira - Integrante / A A Batista - Integrante / A P U Araújo - Integrante / L M Beltramini - Integrante / E E Castellano - Integrante / F Henrique Silva - Integrante / H S S Araújo - Integrante / C F M Menck - Integrante / L C B B Coelho - Integrante / G R Franco - Integrante / M Tendler - Integrante / S Schenkman - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1997 - 2002
+Structural biology of medically important proteins: crystallography, molecular modeling and drug design
+Descrição: Número de Processo: 75197-554701;
+Valor Total Concedido: US$ 306.000,00;
+Vigência: 01/01/1997 a 31/12/2002;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Howard Hughes Medical Institute - Auxílio
+										financeiro.
+1997 - 1999
+Complexos fosfinicos de rutênio: determinação de estruturas cristalinas
+Descrição: Número de Processo: 96/8735-2 ;
+Valor Total Concedido: R$ 18.282,20 + US$ 31.952,00;
+Vigência: 01/07/1997 a 30/01/1999;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1997 - 1998
+Biologia estrutural de lectinas vegetais: difração de raios-X e modelagem molecular
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 97/8531-0;
+Valor Total Concedido: R$ 11.951,00;
+Vigência: 01/07/1997 a 30/06/1998;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / P S L Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1997 - 1998
+Mapeamento dos mecanismos alostérico e catalítico da enzima glucosamina-6-fosfato desaminase de E. coli à luz de estudos estruturais de complexos e mutantes sítio dirigidos
+Descrição: Reserva Técnica de Bolsa Mestrado;
+Número de Processo: 97/08263-6;
+Valor Total Concedido: R$ 5.346,00;
+Vigência: 01/03/1997 a 31/08/1998;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / S Trapani - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1997 - 1998
+Estudos cristalográficos da proteína SORL, produto de um gene de Arabidopsis thaliana envolvido no reparo de lesões oxidativas de DNA
+Descrição: Reserva Técnica de Bolsa Mestrado;
+Número de Processo: 97/8863-3;
+Valor Total Concedido: R$ 6.778,00;
+Vigência: 01/03/1997 a 28/02/1998;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / P H C Godoi - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1996 - 2001
+Structure based drug design against Chagas Disease: T. cruzi Glyceraldehyde 3-Phosphate Dehydrogenase as a target for the Design of Inhibitors
+Descrição: Número de Processo: ID 940854;
+Valor Total Concedido: US$ 108.000,00;
+Vigência: 01/06/1996 a 30/05/2001;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): World Health Organization - Auxílio
+										financeiro.
+1996 - 2000
+Drogas Antichagásicas tendo como alvo a enzima Gliceraldeído-3-fosfato Desidrogenase glicossomal (gGAPDH) de Trypanossoma cruzi
+Descrição: Reserva Técnica de Bolsa Doutorado;
+Número de Processo: 96/06343-0;
+Valor Total Concedido: R$ 24.264,00;
+Vigência: 01/11/1996 a 20/10/2000;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / F Pavão - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1996 - 1998
+Projeto de apoio a recuperação e modernização da infra-estrutura de pesquisa do Grupo de Cristalografia do IFSC/USP
+Descrição: Número de Processo: 95/6372-7;
+Valor Total Concedido: US$ 50.000,00;
+Vigência: 01/08/1996 a 30/03/1998;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1995 - 1999
+Cristalografia, modelagem e planejamento de substâncias de interesse biológico-II
+Descrição: Número de Processo: 94/0587-9;
+Valor Total Concedido: US$ 199.000,00;
+Vigência: 01/07/1995 a 30/10/1999;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1995 - 1998
+Determination of Macromolecular Structures using Syncrotron Radiation for the Elucidation of Enzymatic Activities
+Descrição: Número de Processo: 94/0711-1;
+Valor Total Concedido: US$ 330.000,00;
+Vigência: 01/04/1995 a 31/03/1998;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / E E Castellano - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1995 - 1998
+Cristalografia, estrutura e modelagem molecular de proteínas de interesse biotecnológico
+Descrição: Número de Processo: 620137/95-9;
+Valor Total Concedido: US$ 334.480,00;
+Vigência: 01/09/1995 a 31/08/1998;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1995 - 1996
+Determinação da estrutura tridimensional de proteínas por difração de raios-X em monocristais: inibidor proteíco de alpha-amilase salivária humana extraído de trigo (Triticum aestivum) electina de cratylia mollis.
+Descrição: Número de Processo: 400310/95-3;
+Valor Total Concedido: R$ 31.500,00;
+Vigência: 01/08/1995 a 30/07/1996;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1994 - 1996
+Determinação da estrutura tridimensional de proteínas por difração de raios-X em monocristais: glucosamina-6-fosfato deaminase
+Descrição: Número do Processo: 400430/93-2;
+Valor Total Concedido: R$ 6.300,00;
+Vigência: 30/06/1994 a 30/12/1996;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1994 - 1995
+Auxílio para realização do Curso e Workshop: tópicos avançados em Biologia Molecular
+Descrição: Evento realizado no período de 03/07/1994 a 15/07/1994;
+Valor Total Concedido: R$ 8.000,00 +  R$ 4.600,00;
+Vigência: 01/07/1994 a 30/06/1995;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1994 - 1995
+Projetos especiais da Pró-Reitoria de Pesquisa para recursos complementares para apoio a grupos de pesquisa para 1994
+Descrição: Contra partida de auxílio pesquisa;
+Valor total Concedido: R$ 2.530,00;
+Vigência: 10/1994 a 10/1995;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Pró Reitoria de Pesquisa - Auxílio
+										financeiro.
+1994 - 1994
+Auxílio vinda professor visitante, W. N. Hunter
+Descrição: Valor Total Concedido: R$ 420,00;
+Vigência: 08/11/1994 a 15/11/1994;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / W N Hunter - Integrante.Financiador(es): Comissão de Cooperação Internacional - Auxílio
+										financeiro.
+1993 - 1994
+Modelagem de enzimas utilizando computação gráfica e estudos cristalográficos para estudar efeitos de mutações na atividade enzimática e para planejamento de drogas
+Descrição: Número do Processo: 301115/92-3;
+Valor Total Concedido: Bolsa categoria Prof. Associado para o Dr. Eduardo Horjales;
+Vigência: 09/1993 a 12/1994;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador / E Horjales - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1992 - 1993
+Cristalografia estrutural: determinação de estruturas de complexos de rutênio com potenciais propriedades catalisadoras e anti-tumorais
+Descrição: Número do Processo: 91/4899-7;
+Valor Total Concedido: US$ 12.455,00;
+Vigência: 01/07/1992 a 30/12/1993;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1992 - 1992
+Execução de ensaios técnicos e análises, visando o encapsulamento final de resíduos industriais contendo metais pesados tóxicos em matrizes de cimento
+Descrição: Valor Total Concedido: Cr$ 6.112.800,00 (US$ 2.200,00);
+Vigência: 1992;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Apoio à Física e à Química - Auxílio
+										financeiro / Itaú Planejamento e Engenharia Ltda - Auxílio
+										financeiro.
+1992 - 1992
+Auxílio reunião exterior para participar de reuniões científicas no Japão
+Descrição: Valor Total Concedido: US$ 2.000;
+Vigência: 01/08/1992 a 19/08/1992;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1989 - 1992
+Projeto integrado de formação de recursos humanos e pesquisa para o primeiro laboratório de cristalografia de proteínas do Brasil
+Descrição: Valor Total Concedido: US$ 30.000 + 1 bolsa de Iniciação Científica;
+Vigência: 12/1989 a 12/1992;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1989 - 1989
+Auxílio para realização de Curso de cristalização e caracterização de proteínas por difração de raios-X
+Descrição: Valor Total Concedido: NCz$ 12.000,00;
+Vigência: 10/1989;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Glaucius Oliva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

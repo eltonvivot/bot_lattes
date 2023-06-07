@@ -1,0 +1,108 @@
+2020 - 2020
+CUSTO-EFICÁCIA DOS IMUNOBIOLÓGICOS NO TRATAMENTO DA PSORÍASE EM PLACAS MODERADA A GRAVE: UMA REVISÃO SISTEMÁTICA
+Descrição: Introdução: A psoríase é uma doença crônica inflamatória que afeta negativamente a
+qualidade de vida do indivíduo. O tratamento convencional inclui fototerapia,
+medicamentos tópicos e sistêmicos, que em alguns casos não são eficazes, havendo,
+então, a necessidade dos agentes biológicos, que a despeito da maior eficácia, são de
+alto custo, por isso ainda não são eleitos como primeira linha de tratamento. Não são
+encontrados estudos de farmacoeconomia comparativos entre biológicos originais e
+seus biossimilares para psoríase na literatura. Objetivo: Relacionar os custos e a
+eficácia de 9 drogas específicas e seus biossimilares para o tratamento da psoríase em
+placas moderada a grave, com inibidores de IL-12/23, IL-17, IL-23 e TNF. Métodos: Foi
+realizada uma busca no PubMed, cujas intervenções de interesse incluíram
+secuquinumabe, ixequizumabe, guselcumabe, risanquizumabe, ustequinumabe,
+infliximabe, etanercept, certolizumabe pegol e adalimumabe. O CPR foi calculado
+através do NNT e do custo anual de cada droga de interesse. Resultados: O
+ixequizumabe e o risanquizumabe evidenciaram os maiores alcances no PASI 90,
+variando de 55,2% a 76,5% e de 80,6% a 81,9%, respectivamente, em contraponto, o
+etanercept apresentou maior valor do NNT (6,73). Já com relação a custo-eficácia, o
+guselcumabe (R$133.475,04) e risanquizumabe (R$133.755,09) obtiveram os melhores
+desempenhos com menores valores anuais do CPR e os anti-TNF apresentaram os
+maiores valores, sendo o etanercept o de maior CPR (R$637.546,62/ano). Conclusão:
+Este estudo evidenciou a melhor relação de custo-efetividade dos inibidores de IL-23
+em detrimento especialmente dos inibidores de TNF, o que desencadeia implicações
+nas escolhas do tratamento para psoríase e na realização de estratégias terapêuticas
+mais custo-eficazes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Yasmin Guimarães - Integrante / Larissa Duarte - Integrante.Número de produções C, T & A: 2
+2020 - 2020
+Regiões Brasileiras apresentam perfis diferente de redução no número de vacinas aplicadas em 2019
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Fernanda Freitas Lemos Lopes - Integrante / Ana Claudia Monteiro Lima - Integrante / Náthaly Césare - Integrante / Tiago F. Mota - Integrante.Número de produções C, T & A: 1
+2019 - 2021
+Análise dos sinais, sintomas e exames diagnósticos das doenças infecciosas: Uma abordagem utilizando redes complexas e técnicas de agrupamento
+Descrição: O diagnóstico possui um papel central na medicina e seu aprimoramento está relacionado com as mudanças das práticas clínicas. O diagnóstico das doenças infecciosas necessitam da demonstração da infecção. Pretendemos aplicar a medicina de redes para melhor compreender os fatores envolvidos com as doenças.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Artur Trancoso de Queiroz - Integrante / Paulo Silveira-Mattos - Integrante / Fernanda Freitas Lemos Lopes - Integrante / Ana Claudia Monteiro Lima - Integrante / Náthaly Césare - Integrante.Número de produções C, T & A: 2
+2019 - 2019
+Meta-analysis of HTLV1-infected patients identifies CD40LG and GBP2 as markers of ATLL and HAM/TSP clinical status: two genes beat as one
+Descrição: Human T-lymphotropic virus 1 (HTLV-1) was the first recognized human retrovirus.
+Infection can lead to two main symptomatologies: adult T-cell lymphoma/leukemia
+(ATLL) and HTLV-1 associated myelopathy/tropical spastic paraparesis (HAM/TSP).
+Each manifestation is associated with distinct characteristics, as ATLL presents as a
+leukemia-like disease, while HAM/TSP presents as severe inflammation in the central
+nervous system, leading to paraparesis. Previous studies have identified molecules
+associated with disease development, e.g., the downregulation of Foxp3 in Treg cells
+was associated with increased risk of HAM/TSP. In addition, elevated levels of CXCL10,
+CXCL9, and Neopterin in cerebrospinal fluid also present increased risk. However, these
+molecules were only associated with specific patient groups or viral strains. Furthermore,
+the majority of studies did not jointly compare all clinical manifestations, and robust
+analysis entails the inclusion of both ATLL and HAM/TSP. The low numbers of samples
+also pose difficulties in conducting gene expression analysis to identify specific molecular
+relationships. To address these limitations and increase the power of manifestationspecific
+gene associations, meta-analysis was performed using publicly available gene
+expression data. The application of supervised learning techniques identified alterations in
+two genes observed to act in tandem as potential biomarkers: GBP2 was associated with
+HAM/TSP, and CD40LG with ATLL. Together, both molecules demonstrated high sampleclassification
+accuracy (AUC values: 0.88 and 1.0, respectively). Next, other genes with
+expression correlated to these genes were identified, and we attempted to relate the
+enriched pathways identified with the characteristic of each clinical manifestation. The
+present findings contribute to knowledge surrounding viral progression and suggest a
+potentially powerful new tool for the molecular classification of HTLV-associated diseases.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Integrante / Artur Trancoso de Queiroz - Coordenador / Eduardo Fukutani - Integrante.Número de produções C, T & A: 1
+2019 - 2019
+Relação entre a busca na web e o número de casos de neoplasia de mama
+Descrição: O câncer de mama é o segundo câncer mais frequente no mundo e o primeiro entre as mulheres correspondendo a cerca de 25% das incidências dos novos casos de câncer a cada ano. Dada a relevância da doença e o impacto dela na saúde pública, é importante novas formas de avaliação e supervisão epidemiológicas. As buscas online são utilizadas cada vez mais frequentemente para se adquirir informações acerca de sintomas e tratamento de doenças. Tais buscas geram um rico e ainda pouco explorado banco de dados cuja a análise das tendências pode auxiliar na predição de surtos. Investigar a relação entre o número de casos de neoplasia mamária benigna e maligna com as pesquisas na internet no período de 2009 a 2013.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Caroline Tanure Castro - Integrante / Jessica Barbosa Martins Santos - Integrante / Paulo Sérgio de Morais da Silveira - Integrante.Número de produções C, T & A: 2
+2019 - 2019
+Aspectos Epidemiológicos da Meningite no Brasil com base em dados de pesquisa de informação na internet
+Descrição: Meningite é uma inflamação das meninges, geralmente causada por
+infecção bacteriana ou viral do líquor. No Brasil, é de notificação compulsória,
+devido a sua gravidade e potencial em causar surtos. Através do DATASUS e
+Google Trens é possível garantir a correta gestão de saúde e avaliar o grau de
+informação da população para esse agravo. Relacionar o impacto
+financeiro das meningites viral e bacteriana no Brasil correlacionando com os
+termos de pesquisa na internet referentes à patologia entre 2008 a 2018.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Alana dos Reis Silva - Integrante.Número de produções C, T & A: 1
+2019 - 2019
+Estudo sobre Diabetes tipo MODY e sua influência na predisposição à Tuberculose
+Descrição: O Diabetes Mellitus (DM) é causado pela resistência à insulina ou pela
+deficiência na produção da mesma, o que leva a um aumento nos níveis séricos de
+glicemia. Consequentemente todo o metabolismo é comprometido, inclusive o
+sistema imunológico. O MaturityOnsetDiabtesofthe Young, ou MODY, é um tipo de
+diabetes que se caracteriza pela transmissão autossômica dominante e diagnóstico
+ainda na juventude, possui quadro clínico mais brando sendo muitas vezes
+diagnosticado em exames de rotina. Sabe-se que o DM é um fator de risco para o
+desenvolvimento da Tuberculose (TB), mas ainda não há estudos que analisem a
+influência do diabetes tipo MODY na predisposição à TB. Objetivo: Esse estudo tem
+como objetivo principal associar o diagnóstico de tuberculose em indivíduos
+diabéticos à apresentação do DM no tipo MODY, além disso, tem como objetivos
+específicos descrever estatisticamente os indivíduos com diabetes do tipo MODY e
+Tuberculose.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Ana Carolina Oliveira Duran - Integrante.Número de produções C, T & A: 1
+2019 - 2019
+Meta análise genômica da expressão de células mononucleares sanguíneas periféricas, de pacientes infectados com Tuberculose e co-infectados com HIV
+Descrição: O presente trabalho visa realizar a metanálise de um banco de dados
+público com informações do perfil da expressão gênica de pacientes
+saudáveis (HC), infectados com Tuberculose (TB), infectados com
+HIV (HIV) e co-infectados com TB e HIV (TB/HIV). O que nos
+permitiria encontrar uma associação dos perfis imunológicos e
+inflamatórios destes indivíduos. Para isso iremos fazer o download
+desses dados e analisaremos utilizando a plataforma de análise
+previamente estabelecida. Ao todo utilizaremos 82 amostras dentre as
+categorias supracitadas, sendo distribuídas entre: HC - 6, Tuberculose
+Latente (LTBI) - 6, TB - 27, HIV - 22 e TB/HIV - 21 amostras. A
+caracterização utilizará ferramentas de bioinformática desenvolvida em
+R. Como resultado prévios os dados já foram baixados e estamos
+iniciando as análises.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Vinicius Mendonça Sampaio Lima - Integrante.
+2019 - 2019
+Tuberculose e Diabetes o papel do Gênero no Desfecho: Um estudo temporal
+Descrição: A combinação entre TB e DM apontam importantes relações, que impactam na Saúde Pública, se é sabido que portadores de DM apresentam um risco de 2,44 a 8,33 vezes maior de adquirir a tuberculose em relação a um paciente que não apresenta tal doença de base. Avaliar de acordo com o sexo o desfecho da doença quanto ao acometimento extrapulmonar, óbitos e cura em pacientes portadores de Tuberculose associada ou não a Diabetes Mellitus na cidade de Salvador-BA durante os anos de 2010 a 2018.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / LUCAS MATOS NASCIMENTO - Integrante.Número de produções C, T & A: 1
+2019 - 2019
+Sepse: Frequencia e perfil da mortalidade intrahospitalar no estado da Bahia
+Descrição: Descrever as características das hospitalizações por sepse no estado da Bahia no período de 2008 a 2018. Estudo quantitativo, observacional, descritivo, retrospectivo, que utilizou dados secundários agregados do DATASUS. Compreende todos os indivíduos residentes do estado da Bahia, que foram internados por
+sepse, entre janeiro de 2008 a dezembro de 2018.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Kevan Akrami - Integrante / Lucas Silva Casaes - Integrante / Ludmilla Ribeiro Campos - Integrante / Albert Bacelar de Sousa - Integrante.Número de produções C, T & A: 2
+2018 - 2020
+A interação genes/miRNAs na diabetes tipo I e II humana
+Descrição: Diabetes (DM) has significant impact on public health. We performed an in silico study of two paired datasets of messenger RNA (mRNA) micro-RNA (miRNA) transcripts to delineate potential biosignatures that could distinguish prediabetes (pre-DM), type-1 DM (T1DM) and type-2 DM (T2DM). Two publicly available datasets containing expression values of mRNA and miRNA obtained from individuals diagnosed with pre-DM, T1DM or T2DM, and normoglycemic controls (NC), were analyzed using systems biology approaches to define combined a signature to distinguish different clinical groups. The mRNA profile of both pre-DM and T2DM was hallmarked by several differentially expressed genes (DEGs) compared to NC. Nevertheless, T1DM was characterized by an overall low number of DEGs. The miRNA signature profiles were composed by substantial lower number of differentially expressed targets. Gene enrichment analysis revealed several inflammatory pathways in T2DM and fewer in pre-DM, but with shared findings such as Tuberculosis. Multi-Omic Factor Analysis pairing the mRNA and miRNA datasets identified integrated factors that could distinguish a group composed by pre-DM and T2DM patients from that constituted by normoglycemic and T1DM individuals. The integrated transcriptomic analysis of mRNA and miRNA expression presented here revealed a unique biosignature able to characterize different types of DM.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Kiyoshi Ferreira Fukutani - Coordenador / Artur Trancoso de Queiroz - Integrante / Bruno B. Andrade - Integrante / Eduardo Fukutani - Integrante / CUBILLOS-ANGULO, JUAN MANUEL - Integrante / Caian vinhaes - Integrante.Número de produções C, T & A: 1

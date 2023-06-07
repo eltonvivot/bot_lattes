@@ -1,0 +1,35 @@
+2016 - 2017
+Personagem animado para analista técnico robô: Robot 7R4D3R
+Descrição: Projeto desenvolvido junto ao Centro Regional de Inovação e Transferência de Tecnologia - CRITT/UFJF.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Antonio Dourado Junior - Coordenador / Daniel André Carlos Cândido - Integrante / Herbert Dariel Silva de Oliveira - Integrante.Número de produções C, T & A: 2 / Número de orientações: 1
+2016 - Atual
+Assistência digital para animação: aprendizagem profunda e aprendizado de máquina
+Descrição: Desenvolvimento de obra audiovisual inspirada na "Berceuse da onda que leva o pequenino náufrago - Op.57" (Performance de Profa. Taís Bandeira) de Oscar Lorenzo Fernandez. A animação está sendo desenvolvida através de síntese de imagem digital 3D e posterior processamento em bibliotecas de visão computacional e de reconhecimento de padrão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luis Antonio Dourado Junior - Coordenador.
+2015 - Atual
+Produção de animação em Software Livre
+Descrição: Desenvolvimento de curta-metragem de animação empregando softwares livres. A obra em desenvolvimento utiliza gráficos bi e tridimensionais criados no Blender 3D, OpenToonz e Natron. Também é utilizado Python para criar ferramentas dedicadas para processamento de imagem e para o estabelecimento de fluxo de trabalho automatizado. Título de trabalho: "I miss my old brain". Duração estimada: 12 minutos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luis Antonio Dourado Junior - Coordenador.
+2011 - 2012
+Mitocondria 3D
+Descrição: Curta-metragem em animação tridimensional estereoscópica em alta definição.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Luis Antonio Dourado Junior - Coordenador / Leopoldo de Meis - Integrante / Alexandro Machado de Freitas - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2010 - 2012
+O documentário e a Hipermídia: da pesquisa de campo ao arquivo digital
+Descrição: Descrição: Em vista que o desenvolvimento das novas tecnologias da informação e comunicação conhece um esplendor sem precedentes, o cinema documentário científico, tenta se apropriar e assimilar das possibilidades ofertadas pela hipermídia e dos suportes interativos de maneira geral, para entregar sob outra perspectiva a polifonia de seus resultados. Nesse sentido, esta proposta tem como maior propósito realizar um programa interativo hipermídia que permita reunir num só suporte a pluralidade de formas narrativas (texto orais e escritos) e artísticas (filme, fotografia e música, etc), que quaisquer manifestação cultural carregue consigo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luis Antonio Dourado Junior - Integrante / Carlos Francisco Perez Reyna - Coordenador.Número de produções C, T & A: 1
+2001 - 2003
+?SSV/UFMG: Desenvolvendo Novas Tecnologias em Computação Gráfica?
+Descrição: Pesquisa e desenvolvimento de um piloto para série televisiva com o
+personagem ?O Menino Maluquinho?, do cartunista Ziraldo. Responsável pela criação de storyboards, modelagem, desenvolvimento técnico e animação tridimensional.
+Coordenador: Prof. Dr. Heitor Capuzzo Filho. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Antonio Dourado Junior - Coordenador / Ronie Silva Junior - Integrante / Heitor Capuzzo Filho - Integrante.
+2001 - 2003
+?Estratégias Metodológicas para a implantação de processamento de Alto Desempenho na Animação 3D por Computação?
+Descrição: Implementação de renderização pelo software Pixar?s Photorealistic
+Renderman no Laboratório Multimídia ? midia@rte e no Centro Nacional de Processamento de Alto Desempenho ? CENAPAD-MG/CO, abrigado no Departamento de Ciência da Computação/UFMG. Aplicação do Renderman no Projeto do personagem ?Menino Maluquinho?. Aplicação do Renderman em computador de processamento paralelo Sun Starfire ENT10000 com 32 processadores no Projeto do personagem ?Menino Maluquinho?.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Antonio Dourado Junior - Integrante / Heitor Capuzzo Filho - Coordenador.
+2001 - 2002
+?Project Sanctuary?
+Descrição: Especialista de vídeo digital para o Laboratório Multimídia ? midia@rte e compositor digital. Manipulação de vídeo digital para obra interativa realizada pela artista multimeios Vibeke Sorensen, professora do Departament of Animation and Digital Arts (DADA), School of Cinema-Television da University of Southern California (USC).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Antonio Dourado Junior - Integrante / Heitor Capuzzo Filho - Integrante / Vibeke Sorensen - Coordenador / Ricardo Souza - Integrante.
+1996 - 1998
+?Laboratório Multimídia ? CD-ROM: A Tecnologia Digital Aplicada ao Ensino de Graduação?
+Descrição: Projeto: ?Laboratório Multimídia ? CD-ROM: A Tecnologia Digital Aplicada ao Ensino de Graduação?
+Atividade: Acompanhamento da produção de um aplicativo multimídia em uma empresa de médio porte (Ex-Nihil), consultoria e acompanhamento da instalação do Laboratório Multimídia ? midia@rte, desenvolvimento de aplicativos interativos e animação tridimensional em plataforma Silicon Graphics.
+Coordenador: Prof. Dr. Heitor Capuzzo Filho. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luis Antonio Dourado Junior - Integrante / Heitor Capuzzo Filho - Coordenador.

@@ -1,0 +1,87 @@
+2022 - Atual
+Detecção de Falhas em Painéis Solares por Visão Computacional e Inteligência Artificial
+Descrição: Utilização técnicas de visão computacional e inteligência artificial para a detecção de
+trincas em painéis solares e a classificação automática da eficiência dos painéis trincados em
+função das características físicas das trincas, e.g. formato e dimensões, a partir de dados
+históricos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Doutorado: (2) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / Eurípedes Guilherme de Oliveira Nóbrega - Integrante / Gustavo Fraidenraich - Integrante / LUIS GERALDO PEDROSO MELONI - Integrante.
+2022 - Atual
+Desenvolvimento do protótipo de Hardware e Software para Simulação do CAT 793F
+Descrição: O objetivo deste projeto é a pesquisa e desenvolvimento de um
+sistema de simulação do veículo fora de estrada modelo CAT 793F
+que terá como resultado um protótipo de pesquisa operacional. Para
+alcançar esse objetivo é necessário o desenvolvimento e integração da plataforma de hardware disponibilizada pela empresa VALE S.A com o software de realidade virtual 3D que será desenvolvido, buscando excelência em modelos de treinamento e contratação de
+operadores para operação do veículo fora de estrada.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (3) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / Giovani Bernardes Vitor - Integrante / Willian Gomes de Almeida - Integrante / Fadul Ferrari Rodor - Integrante / Érick Oliveira Rodrigues - Integrante.
+2021 - Atual
+Desenvolvimento de um Sistema de Controle de Equilíbrio para Veículo de Três Rodas
+Projeto certificado pela empresa MOTIVA em 22/02/2023.
+Descrição: Desenvolver, implementar e validar um sistema de controle robusto de equilíbrio para o veículo elétrico de três rodas MT-15 produzido pela empresa Motiva. Ao final do projeto, objetiva-se ter um protótipo funcional do sistema de controle ativo da suspensão implementado no veículo de teste e demonstrado em ambiente operacional (nível TRL 7).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / Giovane B. Vitor - Integrante / Eurípedes Guilherme de Oliveira Nóbrega - Integrante / Pablo Siqueira Meirelles - Integrante / Olmer Garcia Bedoya - Integrante / Rodrigo Moreira Bacurau - Integrante.Financiador(es): Fundação de Desenvolvimento da Pesquisa - Auxílio
+										financeiro.
+2020 - Atual
+Monitoramento de Estais em Torres de Transmissão Utilizando IoT
+Projeto certificado pela empresa INSTITUTO DE PESQUISAS ELDORADO em 12/02/2021.
+Descrição: O objetivo do trabalho a ser realizado pela equipe da Faculdade de Engenharia Mecânica (FEM) da UNICAMP é o desenvolvimento e especificação de sensores visando configurar o conjunto completo de variáveis a serem monitoradas. Tais sinais serão adquiridos e condicionados por um sistema de aquisição de dados desenvolvido e integrado à plataforma modular pelo ELDORADO, que transmitirá as informações respectivas a uma central de processamento e armazenamento de dados, onde serão realizados o processamento final, a análise e a interpretação dos sinais, visando a detecção, o diagnóstico e eventual prognóstico de falhas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / Eurípedes Guilherme de Oliveira Nóbrega - Integrante / Pablo Siqueira Meirelles - Integrante / German Efrain Castañed Jiménez - Integrante / Diana Marcela Matínez Ricardo - Integrante / Alexandre Schalch Mendes - Integrante / Eduardo Moraes Coraca - Integrante.
+2020 - Atual
+Concepção e desenvolvimento de uma plataforma de teste para veículo autônomo indoor baseado em LIDAR
+Descrição: O objetivo deste projeto é a implementação de uma plataforma de testes de um veículo autônomo para ambientes internos que seja capaz de realizar a distribuição de materiais em linhas de produção. Para alcançar esse objetivo, é necessário o desenvolvimento de um software e de uma plataforma de hardware autônoma de testes básica para navegação em ambientes internos, usando-se para este fim a plataforma atualmente disponibilizada pela Samsung.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / Eurípedes Guilherme de Oliveira Nóbrega - Integrante / Pablo Siqueira Meirelles - Integrante / Olmer Garcia Bedoya - Integrante / Giovani Bernardes Vitor - Integrante / Rodrigo Moreira Bacurau - Integrante / Marne de Miranda Sales Filho - Integrante / Cesar Augusto de Oliveira Almeida - Integrante / Natasha Sayuri Dias Nakashima - Integrante / Larissa Antonelli Santesso - Integrante.Financiador(es): Samsung Eletrônica da Amazônia - Outra.
+2016 - Atual
+Identificação do Ponto de Operação de Bombas Centrífugas Operando em Regime de Escoamento Multifásico através de Análise de Vibrações
+Descrição: Desenvolver um sistema de monitoramento continuo baseado nos sinais de vibração que permitam identificar
+continuamente o ponto de operação de bombas centrífugas operando em regime de escoamento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (3) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / PAVANELLO, R - Integrante / Pablo Siqueira Meirelles - Integrante / German Efrain Castañed Jiménez - Integrante / Diana Marcela Matínez Ricardo - Integrante / Bernardo Pereira Foresti - Integrante.Financiador(es): Agência Nacional do Petróleo - Auxílio
+										financeiro.
+2014 - 2019
+Conceptual study of an advanced ethanol-fueled engine
+Descrição: Study the concept of an advanced ethanol-fueled engine, which explores the specificities and positive characteristics of ethanol as fuel.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (3) . Integrantes: Janito Vaqueiro Ferreira - Integrante / Waldyr Luis Ribeiro Gallo - Coordenador / Marco Lucio BIttencourt - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2013 - 2015
+Vision-based Multi-sensors 3D SLAM in Dynamical Environments
+Descrição: O objetivo deste estudo é estender trabalhos feitos sobre SLAM de multi-corpo para SLAM de multi-sensor, fazendo um uso amplo da aprendizado de máquina e abordagens de fusão da informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / Vincent Frémont - Integrante.
+2012 - 2015
+Sistema Híbrido de Controle baseado na Percepção Multisensor aplicado à Navegação Segura de Veículos Terrestres Autônomos
+Descrição: Desenvolvimento da capacidade de analisar, projetar, simular, otimizar, validar e verificar
+sistemas; que se tornam cada vez mais interligados, com uma quantidade enorme de dados e
+informações, devendo atender aos requisitos de mais desempenho, confiabilidade e eficiência
+energética.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Janito Vaqueiro Ferreira - Coordenador / Arthur Miranda Neto - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2012 - 2014
+Modelo para Simulação Computacional do Ciclo Termodinâmico de Motores de Combustão Interna com Ignição por Centelha
+Descrição: Desenvolvimento de um modelo de simulação computacional para motores de combustão interna com ignição por centelha que inclui o processo de combustão com duração finita, a transferência de calor instantânea entre o fluído operante e as paredes dos cilindros e os processos de admissão e de escape.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / Nelson Prado Rodrigues Cró - Integrante.Financiador(es): Thyssen Krupp - Bolsa.
+2011 - 2014
+Formação Científica e Cultural Complementar a Serviço de uma Parceria Industrial
+Descrição: O objetivo básico deste projeto é a evolução da formação conjunta de estudantes de
+engenharia, pelo aporte internacional proporcionado pelo contato e discussões
+metodológicas entre os seus diversos parceiros, que serão naturalmente resultantes do
+trabalho proposto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12) . Integrantes: Janito Vaqueiro Ferreira - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2011 - 2013
+Análise Cinemática, Dinâmica e Termodinâmica de um Motor de Combustão Interna com Pistão Impulsionado por Engrenagens
+Descrição: Desenvolver um sistema alternativo para impulsionar o pistão em um motor de combustão interna que aciona um gerador de energia elétrica operando a uma rotação fixa. O sistema biela-manivela é substituído por um sistema eixo-cremalheira-engrenagem, que é capaz de realizar a inversão de movimento do pistão no ponto morto superior e no ponto morto inferior, sem que ocorra uma inversão de velocidade instantânea nesses pontos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Janito Vaqueiro Ferreira - Coordenador / André Luis Aparecido Bosso - Integrante.Financiador(es): Thyssen Krupp - Bolsa.
+2010 - Atual
+Análise de Vibrações em Bombas Centrífugas Operando em Regime de Escoamento Multifásico
+Descrição: Programa: - Programa: Elevação e Escoamento (Bombeamento em Completação Molhada (T11a)- Núcleo Experimental: LABPETRO - Objetivo: Correlacionar experimentalmente os diferentes regimes de escoamento multifásico que aparecem no interior de bombas centrífugas, com os sinais de vibração medidos nas carcaças. 
+O objetivo do presente projeto é avaliar experimentalmente as possíveis correlações do regime vibratório de carcaças de bombas, com o regime hidráulico de funcionamento. Este estudo possibilitará a identificação de possíveis problemas de ressonância, ou de fadiga, nas bombas centrífugas operando em condições críticas de bombeio multifásico. Além disso, o projeto permitirá ao grupo da UNICAMP, se capacitar em termos de infra-estrutura de equipamentos para realizar pesquisas aprofundadas na área de monitoramento e análise de vibração, buscando a identificação de falhas em componentes do sistema de bombeio submarino. Dentro deste escopo, o projeto deverá auxiliar a empresa e a Universidade a incluírem novas tecnologias para análise teórica e experimental de vibrações em máquinas de fluxo sujeitas às condições de operação adversas. Trata-se, portanto de uma iniciativa que envolve pesquisa e inovação em área de interesse para a indústria do petróleo, o que permite afirmar que suas ações podem ser enquadradas na lei 10973/2004 de inovação tecnológica. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Janito Vaqueiro Ferreira - Coordenador / German Efrain Castañed Jiménez - Integrante / Diana Marcela Matínez Ricardo - Integrante / Elisa Carvalho Marcondes Pereira - Integrante.Financiador(es): PETROBRAS - Cooperação.
+2009 - 2013
+Análise estrutural e simulação do processo de uniões soldadas por Friction Stir Welding (FSW)
+Descrição: Simulação de processos de soldagem, implementação e análise do processo de solda por FSW em planta piloto, avaliação experimental de corpos de prova gerados pelo processo, medição do estado das tensões e propriedades mecânicas e desenvolvimento de metodologia de cálculo para a análise de componentes aeronáuticos fabricados pelo processo (estática, Fadiga e tolerância a dano.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Janito Vaqueiro Ferreira - Integrante / Alberto Luis Serpa - Integrante / Paulo Sollero - Integrante / Renato Pavanello - Coordenador.Financiador(es): EMBRAER - Auxílio
+										financeiro.
+2009 - Atual
+Análise estrutural e simulação do processo de uniões soldadas por Friction Stir Welding (FSW)
+Descrição: Ampliar os conhecimentos existentes relativos ao controle do processo de ?Friction Stir Welding (FSW)? a partir do desenvolvimento de procedimentos tecnológicos nas áreas de controle de processo, caracterização das juntas soldadas, procedimentos para análise estrutural e projeto e simulação do processo FSW.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Janito Vaqueiro Ferreira - Integrante / R. Pavanello - Coordenador / Manuel Felipe Arcila Gago - Integrante / Rolando Melquíades Pérez Ñaupa - Integrante.Financiador(es): EMBRAER - Auxílio
+										financeiro.
+2008 - 2010
+Modelagem Numérica e Validação Experimental da Resposta Dinâmica de Fundações para Laboratório de Microscopia Eletrônica e Nonociência do Laboratório Nacional de Luz
+Descrição: Este projeto de pesquisa visa agregar um grupo multidisciplinar para o desenvolvimento e validação experimental de uma metodologia de análise dinâmica de um conjunto de blocos de fundações utilizados em microscopia eletrônica de alto desempenho nos laboratórios do LNLS e associados ao desenvolvimento de nano-ciência no país.
+O projeto prevê a participação de uma equipe multidisciplinar com qualificação para atuar tanto na área de modelagem numérica, quanto no desenvolvimento de técnicas experimentais para fornecer dados geofísicos do ambiente e validar a simulação numérica. A modelagem numérica implica no desenvolvimento de ferramentas numéricas capaz de modelar a dinâmica de um ambiente complexo, constituído do solo ilimitado, blocos de fundações, camadas de substrato das fundações, fundações de paredes e pisos. A interação dinâmica destes múltiplos elementos sob ação de forças externas (ao solo) e aplicadas diretamente sobre as fundações bem sob ação de excitações provindas do solo na forma de ondas incidentes, deve ser incluída na modelagem. Uma associação do Método dos Elementos de Contorno (MEC) com o Método dos Elementos Finitos (MEF) e a inclusão de corpos rígidos com ou sem inércia constitui a base da modelagem numérica a ser desenvolvida.
+O aspecto experimental do projeto inclui o desenvolvimento de técnicas para levantamento do perfil geofísico próximo à superfície do solo nas imediações do LNLS através de técnicas como o SASW (Spectral Analysis of Surface Waves) [Gucunski et al., 1992, Nazarian et al. 1993, Schevenels et al. 2008]. A caracterização das fontes de excitação de ondas que incidem sobre as fundações bem como a medição dos níveis de vibração no solo e nos blocos são parte integrantes do projeto. Os dados geofísicos locais bem como os campos de ondas experimentalmente determinados devem alimentar o modelo numérico. As medições nas superfícies dos solos e blocos deve viabilizar a validação do modelo numérico e/ou sua atualização (update).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Janito Vaqueiro Ferreira - Integrante / Euclides Mesquita - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - Atual
+Desenvolvimento de uma plataforma robótica para estudos de mobilidade terrestre (Semi) - Autônoma -
+Descrição: CAPES-Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio Pesquisa - Processo: 1755/2008, em andamento, R$261511,00. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Janito Vaqueiro Ferreira - Coordenador / Douglas Eduardo Zampieri - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2005 - 2008
+Detecção de Falhas e Reparos Estruturais Passivos e Ativos
+Descrição: O objetivo geral deste projeto é o de integrar a capacitação de grupos de pesquisa da UNICAMP num esforço interdisciplinar para o desenvolvimento de métodos de detecção de falhas, projeto e análise de reparos estruturais passivos e ativos, capazes de monitorar sua própria integridade. A indústria aeronáutica demanda técnicas eficientes de detecção de falhas e de projeto de reparos estruturais, que se pretende desenvolver neste projeto, ao longo do qual deverão ser estreitadas as colaborações já existentes com as Faculdades de Engenharia Civil e Elétrica e com o Instituto de Física.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Janito Vaqueiro Ferreira - Integrante / J. R. F. Arruda - Coordenador / Eurípedes Guilherme de Oliveira Nóbrega - Integrante / Pablo Siqueira Meirelles - Integrante / Paulo Sollero - Integrante / Renato Pavanello - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1999 - 2005
+Bombeamento Multifásico Submarino - FINEP - Petrobras 2005
+Descrição: R$58.760,00 
+Equipe executora da UNICAMP: Prof. Dr. Janito Vaqueiro Ferreira (coordenador), Prof. Dr. Pablo Siqueira Meirelles (membro).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Janito Vaqueiro Ferreira - Coordenador / Valdir Estevam (Estevam, V) - Integrante / Pablo Siqueira Meirelles - Integrante / Renato Pavanello - Integrante.

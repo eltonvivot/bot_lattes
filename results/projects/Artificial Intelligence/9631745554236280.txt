@@ -1,0 +1,49 @@
+2023 - Atual
+Modelagem Virtual de Gêmeos Digitais Usando Inteligência Artificial
+Descrição: Esta pesquisa tem como tema a investigação de modelos orientados por dados baseados
+em algoritmos de inteligência artificial do tipo aprendizado de máquina (Artificial
+Intelligence-Machine Learning (AI-ML)) para viabilizar a modelagem virtual de gêmeos
+digitais. Além disso, a pesquisa também poderá incluir estudos de caso e análise
+prospectiva em inteligência artificial.
+O objetivo principal é desenvolver e testar algoritmos de aprendizado por reforço
+(reinforcement learning) e aprendizado por reforço profundo (deep reinforcement lear-
+ning) em diversos ambientes, tais como pêndulo invertido em base móvel e drone com
+quatro rotores (quadricóptero).
+Os resultados esperados incluem uma melhor compreensão do potencial das técnicas
+de AI-ML na resolução de problemas de controle complexos e a produção de algoritmos
+e técnicas aplicáveis em uma ampla gama de sistemas em tempo real.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Alexandre Barbosa de Lima - Coordenador / Laysa Maria Castro de Albuquerque Sousa - Integrante / Davi de Melo Bonatto - Integrante / Ricardo Carneiro de Aguiar - Integrante / Izabella de Vasconcellos Granjeiro - Integrante / Matheus Heimrath Barbosa - Integrante.
+2022 - Atual
+Estimação do estado de carga de células de íons de lítio por meio de algoritmos de data-driven
+Descrição: A literatura recente sugere que a abordagem de aprendizado de máquina (ramo da
+Inteligência Artificial) baseada em algoritmos de redes neurais profundas (aprendizado
+profundo ou deep learning), é o estado da arte em estimação do estado da carga (State-
+Of-Charge (SOC)) de baterias de íons de lítio. Os resultados já publicados indicam
+que as redes neurais profundas conseguem estimar o SOC de uma célula de íons de lítio
+com grande acurácia.
+O objetivo principal da pesquisa é desenvolver novos algoritmos data-driven do tipo
+deep learning para estimação do SOC de células de íons de lítio. A modelagem deverá
+levar em conta os efeitos térmicos das células e não linearidades devidas à eletroquímica
+da célula de íons de lítio.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Barbosa de Lima - Coordenador / Heloísa Theresa Teixeira Saliba - Integrante.
+2021 - Atual
+TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO (TIC) - INTELIGÊNCIA ARTIFICIAL (IA) - FUTURO DEFESA
+Descrição: O Grupo de Pesquisa ?Design de Jogos, Processo Decisório e Cenários Prospectivos?, sub-grupo ?TIC ? IA ? Futuro Defesa?, é uma das linhas de pesquisa do Laboratório de Simulações e Cenários (LSC) da Escola de Guerra Naval. A temática de Estudos de Futuros ganha cada vez mais espaço no âmbito estatal e privado, pois auxilia na tentativa de antecipar o conhecimento de possíveis fatos, fenômenos ou forças futuras capazes de influenciar os rumos de um determinado setor para amenizar impactos indesejáveis no longo prazo ou para explorar oportunidades vindouras.
+Cenários Prospectivos, uma das formas de Estudos de Futuros, são estruturas cognitivas que facilitam e se adequam à formulação de problemas e avaliação dos efeitos simultâneos de incertezas particulares, alinhando eventos desordenados em uma estrutura coerente, na qual tanto a realidade corrente quanto às possibilidades futuras se equalizam em uma gama concisa de caminhos plausíveis. Cenários Prospectivos podem ser associados à Defesa e à Segurança, nos âmbitos nacional e internacional, por meio do planejamento a longo prazo e requerem uma abordagem multidisciplinar, participativa e contextualizada com a conjuntura institucional e a abrangência geopolítica do país e seu entorno regional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Alexandre Barbosa de Lima - Integrante / Cláudio Rodrigues Correa - Coordenador / Gustavo Antonio Luna de Araujo - Integrante / Lia da Graça - Integrante / Raquel da Cunha Santos - Integrante / Taíza Santos de Oliveira - Integrante / Marícia Rodrigues Gonçalves da Silva - Integrante.
+2019 - 2021
+Reconhecimento Facial com Identificação de Indivíduos
+Descrição: O estado da arte em visão computacional utiliza Redes Neurais Convolucionais, ou perceptron convolucional de múltiplas camadas, uma arquitetura de rede neural quase que universalmente usada em aplicações de classificação de imagens, localização de objetos e detecção de objetos em imagens.
+Este trabalho tem como objetivo investigar o potencial de aplicação das redes neurais de múltiplas camadas, que realizam aprendizagem profunda (deep learning), ao problema do reconhecimento facial com identificação de indivíduos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Barbosa de Lima - Coordenador / Tatiana Holanda Silva - Integrante.Financiador(es): PIBIC-CNPq - Bolsa.
+2018 - 2021
+Desenvolvimento de Bancada Virtual  Representativa das Células e do Sistema de Monitoramento de um "Electrical Energy Storage" com Baterias de Íons de Lítio
+Descrição: Esta pesquisa tem como motivação o estudo da aplicação de sistemas de Armazenamento de Energia Elétrica ("Electrical Energy Storage" (EES)) na área de fontes de energia renováveis. O trabalho será desdobrado em duas fases: a) desenvolvimento de uma bancada virtual e b) construção, teste e validação da bancada real.
+O objetivo principal é desenvolver um protótipo virtual do tipo bancada representativo das células do "battery pack" e do sistema de monitoramento de um EES com bateria de íons de lítio. 
+A modelagem deverá levar em conta os efeitos térmicos das células do "battery pack" e não linearidades devidas à eletroquímica da célula de íons de lítio. 
+A bancada virtual deverá ser equipada com um Sistema de Gerenciamento de Baterias ("Battery Management System" (BMS)) inteligente. Para tal, serão pesquisados: algoritmos de "Deep Learning" (redes neurais artificiais com várias camadas) para estimação de parâmetros relevantes como o Estado da Carga ("State of Charge" (SOC)) e a Vida Útil Restante ("Remaining Useful Life" (RUL), algoritmos para controle eficiente de carga/descarga e algoritmos para balanceamento de células. 
+A estimação do SOC e do RUL das células de íons de lítio do BMS por meio de "Deep Learning" oferece pelo menos três vantagens significativas sobre a que é orientado ao modelo, quais sejam: i) as redes neurais conseguem estimar com grande precisão a dependência funcional não linear que existe entre tensão, corrente e temperatura (quantidades observáveis) e quantidades não observáveis, como o (SOC), ii) o treinamento de uma única rede neural com múltiplas camadas consegue modelar o comportamento de uma célula de íons de lítio em uma dada faixa de temperaturas e iii) evita-se o problema da identificação dos parâmetros do Modelo de Circuito Equivalente ("Equivalent Circuit Model" (ECM).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Barbosa de Lima - Integrante / José Roberto Cardoso - Coordenador / Maurício Barbosa de Camargo Salles - Integrante.
+2018 - 2019
+Modelagem Eletrotérmica de Baterias de Íons de Lítio Usando Modelos de Circuitos Equivalentes para Aplicações em "Powerwall"
+Descrição: O "powerwall" é uma bateria doméstica, para utilização em residências. É alimentada por energia solar. A demanda por "powerwalls" nos Estados Unidos e Austrália, por exemplo, tem crescido de forma exponencial. O "powerwall" deve ter a capacidade de energizar toda a casa e servir de "back up" em caso de queda da rede elétrica da concessionária de energia. Neste contexto, a tecnologia de baterias de íons de lítio tem atraído a atenção da indústria e da academia na última década. Isso se deve ao fato dessas baterias oferecerem mais energia, maior densidade de potência, maior eficiência e menor taxa de auto-descarga do que outras tecnologias de bateria como NiCd NiMH, etc. A temperatura da bateria produz efeitos deletérios na tensão de circuito aberto, resistência interna e capacidade disponível da bateria. Assim, a modelagem eletrotérmica da bateria é de suma importância para um bom funcionamento do sistema de gerenciamento de um "powerwall", antecedendo a implementação de um protótipo real do sistema. A abordagem baseada em modelo de circuito equivalente (ECM) consiste no desenvolvimento de um modelo elétrico que represente o fenômeno eletroquímico existente na bateria. O trabalho prático consistirá no desenvolvimento de um modelo computacional das células de íons de lítio de um powerwall no ambiente MATLAB. Trata-se de um projeto de Iniciação Científica financiado pelo programa PIBITI-CNPq.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Barbosa de Lima - Coordenador / Celso Antonio Pae Beckman - Integrante.
+2000 - 2002
+Wireless Distributed Multimedia
+Descrição: - Desenvolvimento de modelos de tráfego auto-similar em redes IP baseados na Transformada Discreta de Fourier (TDF)
+- Desenvolvimento de modelos de tráfego auto-similar IP baseados na Transformada Wavelet
+- Implementação de um gerador de tráfego auto-similar para uso em redes de teste (código em MATLAB). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alexandre Barbosa de Lima - Integrante / Marcelo Lipas - Integrante / José Roberto de Almeida Amazonas - Coordenador / Fernando Lemos de Mello - Integrante.

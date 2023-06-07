@@ -1,0 +1,64 @@
+2021 - Atual
+Explorando o relacionamento entre entidades e qualificadores em grafos de conhecimento para resposta a perguntas complexas
+Descrição: Grafos de conhecimento oferecem um framework comum para representação do conhecimento humano, permitindo apoiar tarefas computacionais em diversos domínios. Este projeto possui como objetivo o uso de grafos de conhecimento para responder perguntas complexas em linguagem natural através de redes neurais profundas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2019 - 2021
+Geração automática de códigos de testes à partir de requisitos de software
+Descrição: Este projeto tem como objetivo auxiliar no cenário de testes automatizados em sistemas críticos através da automatização da codificação de testes à partir de descrições de requisitos e/ou comportamentos descritos em Gherkin.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2018 - 2021
+Métodos computacionais para alinhamento de modelos em larga escala
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Jairo Francisco de Souza - Coordenador.
+2018 - 2021
+Métodos computacionais para geração de sequências curriculares adaptativas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2018 - 2019
+Extensão da ferramenta PATeCa para apoio à automatização do teste estrutural de software de sistemas robóticos móveis
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2017 - Atual
+Avaliação automática da oralidade para crianças em fase de alfabetização
+Descrição: Para avaliar o processo de alfabetização, diversas abordagens são propostas. Dentre elas, está o conceito de oralidade, o qual determina a capacidade da criança em ler e entender o conteúdo escrito. Para permitir que a avaliação da alfabetização se dê forma mais ágil, permitindo a identificação de problemas em escolas, este projeto propõe o uso de técnicas de reconhecimento automático de fala e de alinhamento de áudio. No contexto do projeto, técnicas de reconhecimento automático de fala precisam ser trabalhadas pois é conhecido na literatura a dificuldade que as abordagens atuais apresentam para processar fala de crianças.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Jairo Francisco de Souza - Coordenador.Número de produções C, T & A: 8
+2016 - 2019
+Recomendação de videoaulas utilizando processamento de linguagem natural e indexação semântica
+Descrição: Um dos recursos mais requisitados e utilizados pelos alunos de cursos a distância é o de videoaula, seja pela dinâmica que este tipo de material pode utilizar (áudio, animação, imagens, texto, etc.), ou mesmo pelo grande uso desta mídia em aplicativos/serviços muito populares nos dias de hoje, como Facebook, YouTube, Instagram, entre outros. Neste cenário, o uso de vídeos educacionais, chamados no contexto deste projeto simplesmente de videoaulas, se torna um importante recurso educacional. Mas para recomendar uma videoaula, ou mesmo fazer busca em repositórios que armazenam esse tipo de mídia, é necessário que o vídeo esteja muito bem descrito, através de seus metadados, para que os alunos, professores ou mesmo mecanismos automáticos possam encontra-lo. Visando minimizar essas dificuldades, este projeto propõe, através de processamento do áudio e indexação semântica, fornecer um mecanismo de recomendação ou busca que facilite a localização de videoaulas que possam ser acessadas pelos alunos de uma determinada disciplina, dependendo do professor, com ou sem avaliação prévia do vídeo. Desta forma, podemos ampliar de forma significativa a quantidade de materiais didáticos do tipo vídeo a serem disponibilizados aos alunos dos cursos a distância da UAB.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Jairo Francisco de Souza - Integrante / Eduardo Barrére - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 8
+2016 - 2017
+Meta-alinhamento de modelos baseado em abordagens populacionais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2016 - 2017
+Uma arquitetura para extração de informações em repositórios de vídeos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2014 - 2017
+Extração de informação em arquivos de áudio e vídeo utilizando abordagem fonética
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2013 - 2014
+Recuperação de informação utilizando algoritmos fonéticos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2011 - 2012
+Calibragem de funções de similaridade para o problema de evolução de ontologias
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2010 - 2012
+Enriquecendo dados com tecnologias semânticas
+Descrição: Colaboração com pesquisadores da Universidade Livre de Berlin e da UNIRIO para criação de uma versão em português do DBPedia. Criação de aplicações que utilizam dados ligados, entre elas, dados ligados governamentais. Criação de infra-estrutura para disponibilização de dados governamentais abertos e ligados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9)  / Doutorado: (1) . Integrantes: Jairo Francisco de Souza - Coordenador / Pablo Nascimento Mendes - Integrante / Lucas de Ramos Araújo - Integrante / Sandro Athaide Coelho - Integrante.Número de produções C, T & A: 6
+2010 - 2012
+ASOW-Science: Infraestrutura para a Composição de  Workflows Científicos e Gerência da Proveniência de Dados - R$41.700
+Descrição: Estamos buscando algumas soluções para composição de workflows científicos através da proposta de uma infraestrutura para e-Science, apoiado em tecnologias como ontologias, agentes e serviços Web semânticos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Jairo Francisco de Souza - Integrante / Leonardo Guerreiro Azevedo - Integrante / Kate Revoredo - Integrante / Regina Maria Maciel Braga Villela - Coordenador / Fernanda Campos - Integrante / Elaine Coimbra - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2010 - 2012
+Infraestrutura de apoio a Gerência de experimentos científicos em Modelagem Computacional - R$96.800
+Descrição: O objetivo dessa pesquisa é identificar os desafios (problemas) e possíveis soluções relacionados ao desafio ?Modelagem computacional de sistemas complexos?, considerando a aplicação de serviços Web semânticos, agentes, ontologias, linguagens para composição de serviços e técnicas para gerência de proveniência de dados científicos, como tecnologias que juntas permitam o desenvolvimento de uma infraestrutura para e-Science onde aplicações científicas relacionadas a domínios científicos possam ser descobertas, compostas em um workflow , e este workflow possa ser modificado e reutilizado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Jairo Francisco de Souza - Integrante / Leonardo Guerreiro Azevedo - Integrante / Kate Revoredo - Integrante / Regina Maria Maciel Braga Villela - Coordenador / Fernanda Campos - Integrante / Elaine Coimbra - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2011
+Adição de habilidades de negociação de significados em sistemas multiagentes para apoiar ambientes colaborativos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jairo Francisco de Souza - Coordenador.
+2008 - 2009
+SOA: identificação de serviços, modelagem, implantação e governança
+Descrição: Estudo e pesquisa de metodologias de modelagem e governança de serviços; Medição dos benefícios que podem ser atingidos através da implantação de SOA em organizações; Identificação dos recursos e limitações da ferramenta ARIS para suporte à SOA através dos seus modelos; Identificação de ferramentas que dão suporte a uma iniciativa SOA; Realização de um estudo de caso contemplando a definição e a implantação de serviços a partir de modelos de processos reais; Identificação dos requisitos para a implantação de iniciativa SOA, especificando os elementos descritivos dos processos necessários para desenvolvimento de serviços; Definição de heurísticas para identificação de serviços a partir da modelagem de processos; Definição de heurísticas para fase de projeto e implementação de serviços; Estudos de diversos padrões e soluções para implementação de serviços; Garantir rastreabilidade de serviços e processos de negócios.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Jairo Francisco de Souza - Integrante / Leonardo Guerreiro Azevedo - Integrante / Fernanda Baião - Coordenador / Flávia Maria Santoro - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 13
+2008 - 2009
+Utilização de ontologias em ambientes empresariais
+Descrição: Coordenador técnico da fase 2 e 3 do projeto. Projeto dividido em diferentes fases:
+(1) Definição dos processos necessários para gerir adequadamente um ambiente de ontologias. Esta fase inclui a prospecção de ferramentas, realizada de forma metodológica, para apoiar os processos definidos. Definição de métodos para apoio à criação de ontologias.
+(2) Criação de uma solução para mapeamento dos modelos de processos, modelos lógicos de banco de dados e documentação existente na corporação através de ontologias. Implementação de soluções de comunicação entre ferramentas Protégé, Erwin, Rochade, Oracle e IDS Aris.
+(3) Avaliação de servidores de ontologias (ontology servers) disponíveis no mercado e na academia. Definição de uma arquitetura para governança de ontologias. Estudo de linguagens para consultas e máquinas de inferências de ontologias (OWL) e criação de uma proposta de utilização dessas linguagens em conjunto com linguagem SQL para aperfeiçoar consultas em bases relacionais. Proposta de extração de conhecimento de bases relacionais para construção semi-automática de ontologias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (3) . Integrantes: Jairo Francisco de Souza - Integrante / Sean Wolfgang Matsui Siqueira - Integrante / Cláudia Cappelli - Integrante / Fernanda Baião - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 10
+2005 - 2005
+KM-Hidro Gestão do Conhecimento em Hidrologia
+Descrição: Este projeto teve por objetivo desenvolver abordagens para a disseminação de conhecimento no contexto da Hidrologia. Entre as funções exercidas, está a pesquisa sobre ferramentas de groupware para suporte à criação de ontologias no domínio da hidrologia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Jairo Francisco de Souza - Integrante / Juliana Lucas Rezende - Integrante / Jano Moreira Souza - Coordenador / Elder Bonfim - Integrante / Jonice Oliveira - Integrante / Halisson Brito - Integrante.Número de produções C, T & A: 1

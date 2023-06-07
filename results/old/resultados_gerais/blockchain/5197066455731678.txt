@@ -1,0 +1,21 @@
+2008 - 2010
+Super Máquina - Sistema de Telemonitoramento e Controle de Veículos
+Descrição: Desenvolver um sistema embarcado baseado em FPGA para telemonitoramento e telecontrole de veículos. Os principais objetivos deste sistema são: (1) permitir que o usuário obtenha informações sobre o estado e localização do veículo e envie comandos para alterá-lo através de uma aplicação executando em telefone celular e (2) interpretar comandos vocais emitidos de dentro do veículo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre Rodrigues Gomes - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2006 - 2008
+Ágora
+Descrição: Consolidação de um arranjo produtivo de micro-empresas de TI por meio do desenvolvimento compartilhado de um Sistema Gerenciador de Cotação de Preços aplicável ao setor hoteleiro e expansível a outros segmentos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre Rodrigues Gomes - Coordenador / Alexandre Rodrigues de Barros - Integrante / Clédiston dos Santos Silva - Integrante / Jorge Henrique Cabral Fernandes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2008
+GRAEL - Browser HTML para aparelhos celulares
+Descrição: Desenvolvimento de um sistema para auxílio a visualização de páginas HTML da internet em dispositivos móveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (2) . Integrantes: Alexandre Rodrigues Gomes - Integrante / Ricardo Pezzuol Jacobi - Coordenador / Alba Cristina M. A. de Melo - Integrante / Jacir Luiz Bordim - Integrante / Carla Denise Castanho - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2005 - 2008
+Wifindme - Rede social móvel celular
+Descrição: Sistema interativo de desenvolvimento interpessoal através de redes móveis celulares.
+O projeto favorece o desenvolvimento social do cidadão, aproximando pessoas com os mesmos objetivos e interesses em diversas áreas, que vai do lazer à comercialização de bens e serviços.
+As novas tecnologias de redes móveis celulares  apresentam a convergência de vários  serviços  como  telefonia,  comunicação  de  dados,   mensagens, localização  pessoal,  computação  móvel,  entre  outras,  sobre  a   mesma plataforma.
+O projeto  WiFindMe   favorece  o  desenvolvimento   social   do  cidadão, aproximando as pessoas com os mesmos objetivos e interesses em diversas áreas,  podendo  estender-se  desde o lazer até a comercialização de  bens duráveis e serviços.
+Em resumo, o desenvolvimento de um sistema interativo de  relacionamento interpessoal para redes móveis celulares apresenta um modelo de entretenimento  e negócios que pode gerar vários benefícios, promovendo:
+- Bem estar social;
+- Sinergia: promoção de encontros, atividades cooperativas e promoção de negócios;
+- Criação de comunidades virtuais móveis.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre Rodrigues Gomes - Integrante / Claudia Jacy Barenco Abbas - Coordenador.

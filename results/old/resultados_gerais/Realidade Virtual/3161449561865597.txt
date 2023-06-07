@@ -1,0 +1,119 @@
+2020 - Atual
+INTELIGÊNCIA ARTIFICIAL APLICADA À AVALIAÇÃO DA APRENDIZAGEM
+Descrição: O projeto visa desenvolver artefato tecnológico para apoio à avaliação da aprendizagem com o emprego de inteligência artificial, no apoio a correção de questões subjetivas, e visão computacional, na autenticação de usuários.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Rosimeri Ferraz Sabino - Integrante / Paulo Sérgio Marchelli - Integrante / GONÇALVES, VITOR - Integrante / Ester Fraga Vilas-Bôas Carvalho do Nascimento - Integrante / Guillermo Rodriguez - Integrante / Alejandro C. Frery - Integrante / Adolfo Pinto Guimarães - Integrante.Financiador(es): Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Auxílio
+										financeiro.
+2019 - 2020
+ESTRATÉGIA DE INTEGRAÇÃO ENTRE MICROSSERVIÇOS E ARQUITETURA DE CONTÊINER
+Descrição: Pesquisa sobre como integrar arquiteturas de microsserviços. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Gabriel Gonçalves - Integrante / Jose Junior Gomes - Integrante.
+2019 - 2020
+RECOMENDAÇÃO E CHATBOT APLICADOS A PESQUISA CIENTÍFICA: UMA PROPOSTA PARA MELHORIA DO SARA
+Descrição: Desenvolvimento de sistema de apoio a pesquisa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Marco Antonio Leal Lobão - Integrante / Daniel Oliveira - Integrante.
+2019 - 2020
+USO DO CONTAINER EM CONJUNTO COM MICROSSERVIÇOS: UMA ANÁLISE DE DADOS DO STACKOVERFLOW
+Descrição: Pesquisa sobre microsserviços com base nos dados do Stackoverflow.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Igor Torga - Integrante / José Osmário Batista de Góis Júnior - Integrante.
+2019 - Atual
+DigitalSE
+Descrição: Projeto de transformação digital e digitalização de acervos, envolvendo Secretaria da Fazenda do Estado de Sergipe e Segrase.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9) . Integrantes: Fabio Gomes Rocha - Coordenador / Igor Torga - Integrante / Luiz Rafael - Integrante / Gabriel Gonçalves - Integrante / Eli Emmanuel - Integrante / Leonardo Machado Leite - Integrante / Lucas Barros - Integrante / Savio Andres - Integrante / Wilian Costa - Integrante / Thiago Araújo Cardoso - Integrante.
+2017 - 2020
+Hemeroteca Digital
+Descrição: Projeto desenvolvido em cooperação com a Segrase (Diário oficial de Sergipe) para a criação da Hemeroteca Digital, envolvendo mais de 100 anos de jornais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Fabio Gomes Rocha - Coordenador / Thiciane Suely Couto Silva - Integrante / Efraim Santana Leite Filho - Integrante / Victor Brito Villar - Integrante.
+2017 - 2018
+Um método unificado para desenvolvimento ágil de software
+Descrição: Unificação de métodos ágeis para a criação de um framework para empresas publicas e ou privadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabio Gomes Rocha - Coordenador / Thiciane Suely Couto Silva - Integrante.
+2017 - 2018
+BHImageA: Processamento de imagens históricas
+Descrição: Projeto visa analisar técnicas para processar imagens históricas de livros e manuscritos, de forma a compor a Biblioteca Virtual de História. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Efraim Santana Leite Filho - Integrante.
+2017 - 2018
+Um processo para analise de segurança de aplicativos mobile
+Descrição: Projeto visa analisar técnicas e ferramentas que permitam verificar e validar a segurança de aplicativos mobile de forma automátizada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Ítalo Gomes Santana - Integrante.
+2017 - 2018
+Analise de dados de revistas científicas nacionais sobre história da educação
+Descrição: Utilização de processamento de linguagem natural para analisar os dados das revistas científicas sobre história da educação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Larissa Freitas Santana - Integrante.
+2017 - 2018
+Um modelo de planejamento estratégico de segurança
+Descrição: Projeto visa, com base nas normas NBR/ISO série 27000 criar um framework para planejamento estratégico de segurança da informação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabio Gomes Rocha - Coordenador / Luiz Felipe Cirqueira dos Santos - Integrante.
+2017 - 2018
+BHExtract ? Extração de dados de sites de revistas cientificas nacionais sobre história da educação
+Descrição: Projeto de extração de dados de periódicos científico para a criação de uma biblioteca virtual.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Gabriel Menezes da Silva - Integrante.
+2017 - 2018
+Análise de integração de metodologias ágeis
+Descrição: Projeto que visa analisar, junto a projetos reais, quais as melhores práticas ágeis para serem utilizadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabio Gomes Rocha - Coordenador / Luís Antônio dos Santos Silva - Integrante.
+2016 - 2017
+Metodologia de Planejamento Estratégico de Segurança (PESEG): Uma adaptação da PETIC
+Descrição: Adaptação da PETIC para planejamento estratégico de seggurança da informação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2016 - 2017
+MobiSecurity
+Descrição: Ferramenta de teste e analise de segurança  automatizada de dispositivos  mobile. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2016 - 2017
+Entrega continua de software: Desenvolvimento de um método de integração de software  qualitativo .
+Descrição: Desenvolvimento de modelo de para integração de software. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2016 - 2017
+Agentes inteligentes  para simuladores de ambiente educacional
+Descrição: Desenvolvimento de agentes inteligente para simulador educacional utiliando  Unity3D. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2016 - 2017
+Emulação de redes definidas por software
+Descrição: Pesquisa e integração de SDN. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Pablo Marques Menezes - Integrante.
+2016 - 2017
+PDM
+Descrição: Petic Decision Making: Um modelo baseado em teoria dos jogos para tomada de decisão. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2015 - 2016
+Agente de conhecimento aplicado ao SARA.
+Descrição: Projeto visa automatizar a descoberta de conhecimento por mineração de dados no SATA. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2015 - 2016
+Scripts de auditoria de segurança da informação
+Descrição: Estudo e desenvolvimento de ferramentas que possibilitem a auditoria de segurança da informação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2015 - 2016
+SARA crowdsourcing solução cooperativa para sugerir ações de melhoria as pesquisas científicas.
+Descrição: Estudo de Crowdsourcin aplicado ao ambiente Sara, desenvolvido pelo GPITIC para a Universidade Tiradentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2015 - 2016
+Construção de conhecimento para planejamento estratégico em TIC
+Descrição: Projeto que visa o desenvolvimento de um sistema de mineração de dados para planejamento estratégico em TIC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Rogério Patricio Chagas do Nascimento - Integrante.
+2015 - 2016
+Framework integrado XP,XR e Scrum
+Descrição: Este projeto tem como foco o estudo das metodologias XP, XR e Scrum, criando um um novo framework integrando as melhores práticas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fabio Gomes Rocha - Coordenador / Thiciane Suely Couto Silva - Integrante.
+2015 - 2016
+Metodologia de Engenharia de requisitos ágeis.
+Descrição: Este projeto tem como foco o estudo dos métodos de engenharia de requisitos aplicados a metodologias ágeis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2015 - 2016
+Uso de observabilidade para o desenvolvimento de ontologias para análise de ataques DDOS
+Descrição: Estudo sobre o emprego de observabilidade em software livre para detectar padrões de ataques DDOS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Pablo Marques Menezes - Integrante.
+2015 - 2016
+Integração entre Scrum e TDD.
+Descrição: Este projeto tem como foco a integração do Scrum com o TDD. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2015 - 2016
+Jogos inteligentes aplicados ao ensino de programação.
+Descrição: Pesquisa sobre a criação de jogos inteligentes para o ensino de programação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Paulo Sérgio Marchelli - Integrante.
+2015 - 2016
+App PETICMiner
+Descrição: studo de técnicas de mineração de texto que possibilitem automatizar a geração de conhecimento de forma a funcionar como solução cooperativa dentro de um ambiente de Planejamento Estratégico de. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Rogério Patricio Chagas do Nascimento - Integrante.
+2015 - 2016
+PETICMiner
+Descrição: Estudo de técnicas de mineração de texto que possibilitem automatizar a geração de conhecimento de forma a funcionar como solução cooperativa dentro de um ambiente de Planejamento Estratégico de TIC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Rogério Patricio Chagas do Nascimento - Integrante.
+2014 - 2015
+Modelagem 3D e Animação de Modelos
+Descrição: Projeto visa a modelagem e a animação empregando software livre. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2014 - 2015
+Implementação de um adversário para jogos digitais de pôquer modalidade Texas Holdém utilizando entropia cruzada
+Descrição: Este projeto tem como foco o estudo da entropia cruzada para a criação de agentes para jogos de poquer.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2014 - 2015
+Desenvolvimento de sistema de avaliação á distância com detecção facial
+Descrição: O Projeto visa desenvolver um sistema para avaliação a distância com uso de detecção facial para validação de usuário. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2014 - 2015
+Desenvolvimento de Agentes Inteligentes Interativos para Jogos de Cartas no Estilo RPG
+Descrição: Projeto visa desenvolver agentes inteligentes interativos para jogo de cartas no estilo RPG para ensino de História, como foco na Guerra de Canudos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2014 - 2015
+Implementação de um adversário para jogos digitais de pôquer modalidade Texas Holdém utilizando uma estratégia de times de programas
+Descrição: Esta pesquisa tem como foco o estudo de estratégia de times de programas para a criação de agentes inteligentes para jogos de poquer.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2014 - 2015
+Implementação de um adversário para jogos digitais de pôquer modalidade Texas Holdém utilizando equilibrio de Nash
+Descrição: O foco deste projeto é estudar o Equilibrio de Nash aplicando em agentes inteligentes para jogos de poquer.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador.
+2013 - 2014
+Software Livre na auditoria e segurança da informação: Desenvolvimento de Sistema Operacional para Pericia, Auditoria, Teste e Gestão de Segurança da Informação
+Descrição: Projeto visa desenvolver uma distribuição Linux para analise, teste, auditoria e gestão da segurança da Informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio Gomes Rocha - Coordenador / Dérick Martins Vogt - Integrante / Lanay Marques Cardoso - Integrante.
+2013 - 2014
+Jogos de empresa aplicado a realidade Startup: Desenvolvendo simulador de ações empresáriais com Inteligencia artificial
+Descrição: Projeto de pesquisa PROBIT - Universidade tiradentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fabio Gomes Rocha - Coordenador / Bruno Alves Reis Nascimento. - Integrante.
+2006 - Atual
+Rede Brasil, Portugal e Inglaterra: circulação de impressos protestantes e outros impressos educacionais durante os Oitocentos (1818-1884)
+Descrição: Este é um projeto de pesquisa em rede, integrando docentes da Universidade Tiradentes, Universidade Federal de Sergipe, Universidade Católica de Pernambuco e Universidade do Minho. O projeto de pesquisa propõe fazer um levantamento dos impressos protestantes e outros impressos educacionais que circularam no Brasil durante a segunda metade do século XIX através da ação da Sociedade Bíblica Britânica/BFBS e de outros distribuidores de livros permitindo uma apreensão global da imprensa protestante e dos impressos educacionais e sua relação com a História da Educação, estudando-os como estratégias editoriais de difusão e conformação de saberes e práticas religiosas e pedagógicas. Além de investigar sua circulação, pode-se recortar como objeto de análise os livros que, destinados à formação e ao uso de grupos protestantes e leituras pedagógicas, organizaram um corpus de saberes representados como necessários à definitiva inserção do Protestantismo e formação escolar no Brasil. Tem como foco principal mapear o território de ação dos agentes e colportores vinculados à Sociedade Bíblica Britânica/BFBS que atuavam em Portugal e no Brasil e analisar a relação dessa ação com a instalação de escolas protestantes no Brasil por missionários vinculados ao Board da Igreja Presbiterianos do Norte dos Estados Unidos (PCUSA). A pesquisa sistemática, aprofundada e integradora possibilitará flagrar a organização de uma verdadeira rede de publicação, venda e distribuição de impressos protestantes e pedagógico no território brasileiro durante a segunda metade do século XIpesquisadores da UFS e da Universidade do Minho, o projeto está sendo desenvolvido por alunos do Mestrado em Educação e de cursos de graduação da Universidade Tiradentes com bolsas de iniciação científica do CNPq, UNIT e FAPITEC-SE. O fomento do CNPq (Edital MCT/CNPq 02/2009; Edital Universal CNPq 14/2011 Faixa B) propiciou à Coordenadora do Projeto de Pesquisa 02(duas) viagens de pesquisa à Inglaterra, nos anos de 2009 e de 2012. A Coodenadora recebou mais uma vez, o fomento do CNPq pelo Edital Universal 2016 (RS 59.346,00).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Fabio Gomes Rocha - Coordenador / Ester Fraga Vilas-Bôas Carvalho do Nascimento - Integrante / Jorge Carvalho do Nascimento - Integrante / Mirianne Santos de Almeida - Integrante / Ellen Souza Bonfim - Integrante / Tâmara Regina Reis Sales - Integrante / José António Martin Afonso - Integrante / José Roberto de Souza - Integrante / Raiane Kelly Farias de Jesus - Integrante / Bruno Nascimento - Integrante / Bruno Lima - Integrante.Financiador(es): Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Bolsa / Universidade Tiradentes - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

@@ -1,0 +1,132 @@
+2019 - Atual
+Um estudo sobre crowdsourcing na assistência aos cuidados com idosos em ambientes externos
+Descrição: A população mundial está envelhecendo.  Isso se deve, em parte, pelos avanços da medicina e das condições de vida que aumentaram a longevidade da população. Esta é também uma tendência brasileira.  É estimado que, em 2030, um em cada cinco brasileiros terá 60 ou mais anos. O envelhecimento é um processo lento de decaimento das funções físicas e cognitivas da pessoa que passa a requerer cuidados especiais. As pessoas saudáveis querem permanecer em seus lares mantendo sua rotina de atividades (?aging in place?).  Mesmo saudáveis o idoso fica mais propenso a incidentes principalmente em ambientes externos, como, por exemplo, caída, sumiço, desorientação e permanência por longos períodos sob condições climáticas inadequada como chuva e sol forte. As consequências desses incidentes podem ser  minimizados quando há detecção e resposta rápida. No entanto, há uma escassez de profissionais para dar apoio a essa crescente faixa da população. Isso cria uma demanda por tecnologias assistivas que deem suporte à vida independente e segura de idosos.   As tecnologias assistivas estão fortemente ancoradas em inferências sobre dados emitidos por sensores embutidos no ambiente, em dispositivos móveis em posse do idoso ou mesmo de redes sociais.  Um dos objetivos das tecnologias assistivas é monitorar as atividades de idosos e emitir alertas  quando situações adversas são detectadas.  Há uma baixa aceitação pelos idosos das tecnologias assistivas existentes pela percepção de (1) baixa precisão na detecção de situações adversas, (2) baixa utilidade por se restringir à poucas situações e (3) baixa usabilidade dos dispositivos que requerem muita interação.  A crescente demanda de apoio à vida independente de idosos aliada a falta de soluções eficientes de monitoramento de situações adversas em ambientes externos motivaram a investigação de novas abordagens. Esta pesquisa propõe investigar modelos de crowdsourcing para aumentar a precisão nos diagnósticos de situações adversas,  diminuir o tempo de resposta à situação adversa e melhorar a usabilidade na interação com o idoso. Iremos investigar modelos de incentivos que promovam a adesão da coletividade, tratando as questões de seleção adversa e perigo moral, a fim de garantir que o coletivo funcione como uma eficiente camada de monitoramento e atuação em apoio à vivência independente de idosos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (5) . Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 9
+2019 - Atual
+Cancelou por quê?  Um estudo baseado em dados sobre o cancelamento de viagens em aplicativos de táxi e transporte individual de passageiros
+Descrição: A prefeitura da cidade do Rio de Janeiro, através da IPLAN, criou recentemente um serviço inspirado no Uber, para a rede de táxis oficiais cadastrados, chamado Taxi.Rio. Tal serviço está no ar desde novembro de 2017. O sistema registra dados de todas as chamadas e corridas ocorridas e canceladas. A partir da iniciativa de parceria institucional firmada entre a prefeitura do Rio de Janeiro e a UNIRIO, esses dados de mobilidade originados das corridas estarão disponíveis para análises.  Estamos engajados em vários estudos com tais dados. O projeto aqui descrito visa a desenvolver um estudo do comportamento de passageiros e motoristas na aceitação e no cancelamento de chamadas de corridas.
+De acordo com dados preliminares do banco de dados da Taxi.Rio, 46% das corridas são canceladas. Entender por que tantas corridas são canceladas é objetivo importante por diversas razões. A identificação das causas principais dos cancelamentos é condição fundamental para a formulação de políticas públicas que lidem com tal problema. Do ponto de vista econômico, o excesso de cancelamentos prejudica o já congestionado trânsito, com reflexos negativos sobre a mobilidade urbana na cidade do Rio de Janeiro. Há também efeitos negativos sobre o meio-ambiente, por conta dos deslocamentos inúteis das viaturas (quantificar tal efeito é per se uma meta importante).
+À luz do que foi observado nos EUA, com dados do Uber mencionados acima, pretende-se investigar que fatores impactam a produtividade do serviço público de mobilidade Taxi.Rio que justifiquem um índice de cancelamento tão alto e, mais especificamente, analisar características que influenciam cancelamentos de chamadas de corridas, tanto por motoristas quanto por passageiros.  Consideraremos fatores objetivos como por exemplo o tempo de demora do serviço, mas também fatores subjetivos como caraterísticas extraídas das imagens dos motoristas. Também estudaremos os fatores determinantes da avaliação, tanto de motoristas, quanto de passageiros.  Por fim, a partir da descoberta de padrões nos cancelamentos e nas execuções das corridas, almejamos desenvolver um sistema de recomendações de corridas que minimizem o número de cancelamento, com isso melhorando o serviço prestado à população.  Também esperamos poder estimar o crescimento do serviço compartilhado do Taxi.Rio.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0) . Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Reinaldo Viana Alvares - Integrante / Carlos Eduardo Ribeiro de Mello - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2017 - Atual
+Research on Ambient Intelligence
+Descrição: A ideia de se desenvolver ambientes inteligentes tornou-se recentemente factível pela existência e baixo custo de sensores no mercado, aliados à disponibilidade de redes sem fio e maturidade da tecnologia de sistemas inteligentes distribuídos. Essa confluência de fatores positivos vem fomentando a área de Ambient Intelligence, especialmente para vendas. Já vivemos em um mundo onde disponibilizamos continuamente para o ambiente informações sobre nossos comportamentos. Tais informações são realizadas pelo marketing de empresas para instigar nosso instinto comprador. Porém, existem outros usos, considerados mais nobres, para se utilizar inteligência no ambiente. Um desses usos é criar ambientes inteligentes para auxiliar idosos no cumprimento de suas tarefas diárias em seus lares, como, por exemplo, a lembrança/percepção de tomar medicação contínua, gestão da energia, detecção de situações anômalas e até mesmo a atuação em caso de emergência.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Jose Manuel Molina Lopez - Integrante / Daniel Cinalli - Integrante / Nayat Sánchez Pi - Integrante / Luis Martí - Integrante.Número de produções C, T & A: 3 / Número de orientações: 2
+2016 - 2019
+IASI: Uso de Inteligencia Ambiental para Seguranca do idoso
+Descrição: Problemas associados ao envelhecimento, como perda de memoria, dificuldade para caminhar e baixa da acuidade visual podem ser mitigados com tecnologias assistidas, que usam artefatos e sistemas de monitoramento e controle, para oferecer seguranca e independencia ao idoso em suas atividades diarias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2018
+Um estudo sobre o uso da teoria da estrutura retórica (RST) para sumarizar a sabedoria da coletividade
+Descrição: A humanidade enfrenta hoje grandes e muitos desafios que requerem a contribuição de grupos cada vez maiores de especialistas que adicionam diferentes perspectivas à análise dos problemas e oferecem uma gama maior de alternativas a serem estudadas. Pensar em grupo não é uma ideia nova e tem sido muito usada ao longo da história. O que há de novo é a enorme oportunidade aberta pelo sucesso da Internet e redes sociais que permite interação de grupos em larga escala. Contudo, a informação gerada dessa interação em massa é tão volumosa, desorganizada e redundante que adquirir a sabedoria da coletividade torna-se um processo muito caro e demorado. Este projeto aborda o desafio de se fomentar a inteligência coletiva, integrando duas tecnologias robustas: mapas de deliberação e teoria de estruturas retóricas, que são exploradas extensivamente nesta proposta pelos pesquisadores envolvidos. Tecnologias como Mapas de deliberação são mídias sociais para auxiliar a interação de grupos em tomada de decisão. Os participantes organizam suas contribuições em uma árvore de conteúdos em que os nós dessa árvore referem-se a perguntas (questões) a serem respondidas, possíveis ideias como respostas a tais questões, e uma série de argumentos prós e contras que sustentam ou enfraquecem as ideias. A estrutura lógica desses mapas possibilitam uma cobertura qualitativamente maior de tópicos e uma razão sinal/ruído também maior do que nas discussões, usando as mídias convencionais de interação, como, por exemplo, fóruns de discussão. O desafio fundamental de mapas de deliberação, contudo, é que sua inerente compreensibilidade e estrutura lógica rígidas podem torná-los opressivos. A mente humana é orientada para entender tópicos complexos através de narrativas, não com estruturas lógicas. E é neste cenário que a RST pode auxiliar. A RST propõe regras de análise de discursos e também geração de textos convincentes guiados para ampliar a percepção e compreensão da informação a ser transmitida. Nosso projeto conjunto vai estudar o uso de regras de RST, utilizadas como algoritmos computacionais, para transformar mapas argumentativos em narrativas que respondam a perguntas sobre a discussão contida nos mapas, com foco e nível de detalhe definidos, mas variados. Com isso, a coletividade poderá produzir conhecimento inteligível, permitindo alcançar a sabedoria da coletividade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2017
+Research on ambient intelligence
+Descrição: A ideia de se desenvolver ambientes inteligentes tornou-se recentemente factível pela existência e baixo custo de sensores no mercado, aliados à disponibilidade de redes sem fio e maturidade da tecnologia de sistemas inteligentes distribuídos. Essa confluência de fatores positivos vem fomentando a área de Ambient Intelligence, especialmente para vendas. Já vivemos em um mundo onde disponibilizamos continuamente para o ambiente informações sobre nossos comportamentos. Tais informações são realizadas pelo marketing de empresas para instigar nosso instinto comprador. Porém, existem outros usos, considerados mais nobres, para se utilizar inteligência no ambiente. Um desses usos é criar ambientes inteligentes para auxiliar idosos no cumprimento de suas tarefas diárias em seus lares, como, por exemplo, a lembrança/percepção de tomar medicação contínua, gestão da energia, detecção de situações anômalas e até mesmo a atuação em caso de emergência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Nayat Sanchez -Pi - Integrante / Luis Marti - Integrante / Jose Manuel Molina - Integrante / Jose Viterbo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+ADDPRAZO
+Descrição: Pesquisa e desenvolvimento de uma ontologia sobre anomalias em cumprimento de prazos e como, a partir desse embasamento, pode-se criar um modelo diagnóstico para se detectar as causas raízes de problemas. Além de um modelo, um software foi desenvolvido e testado em cenários reais. 
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Petróleo Brasileiro S A Petrobras - Cooperação.
+2012 - 2014
+ADDSMS
+Descrição: Pesquisa e desenvolvimento de modelo de mineração de dados de acidentes para a detecção de padrões de anomalias que gerem acidentes graves. Além de um modelo, um software foi desenvolvido e testado em cenários reais. Foi implantado em uma empresa e está em uso. Financiamento Petrobras.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.
+2012 - 2014
+ADDP3D
+Descrição: Pesquisa e desenvolvimento de um modelo de verificação de consistência de informações e avaliação da maturidade de projetos descritos em várias bases de dados. Além de um modelo, um software foi desenvolvido e testado em cenários reais. Foi implantado e está em uso. Financiamento Petrobras.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Petróleo Brasileiro S A Petrobras - Auxílio
+										financeiro.
+2012 - 2014
+ADDCIM-TBM
+Descrição: Sistema inteligente responsável pela obtenção de novos limites de controle do sistema CIM-TBM, a partir de dados históricos das variáveis a serem estudadas. Esses novos limites representarão o comportamento real dos sensores, de seus grupos, ou das turbo-máquinas.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Petróleo Brasileiro S A Petrobras - Cooperação.
+2011 - 2013
+ADDORCA
+Descrição: Pesquisa e desenvolvimento de modelo de cálculo de risco e mitigação ao risco de escalonamentos, baseado em simulações de Monte Carlo. O risco foi traduzido em termos de atrasos e volume de produção de petróleo.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Luiz Andre Portes - Integrante / ABILIO PEREIRA DE LUCENA FILHO - Integrante / JESSICA QUINTANILHA KUBRUSLY - Integrante.Financiador(es): Petróleo Brasileiro S A Petrobras - Auxílio
+										financeiro.
+2011 - 2013
+Scalable Game Design - Brasil: Clique para a Computação
+Descrição: A melhoria do ensino em escolas públicas depende de iniciativas que preparem seus alunos para o futuro. Desde o surgimento dos primeiros computadores, surgidos ao final da década de 40, até os dias atuais, a computação se tornou elemento presente e essencial para o andamento da vida cotidiana. Nas escolas, alunos aprendem a utilizar computadores cada vez mais cedo como ferramenta para solucionar problemas do cotidiano. No entanto, o enfoque na computação (e computadores) como ferramenta não contempla o significado do conhecimento técnico e científico com que se criam e constroem os programas que são utilizados. Este projeto visa preencher esta lacuna, apresentando aos alunos das escolas públicas uma nova visão da computação, por meio do desenvolvimento do raciocínio computacional entre os alunos, utilizando uma abordagem baseada no projeto e desenvolvimento de jogos de computador. Esta nova abordagem de raciocínio acrescenta aos alunos novas habilidades para solucionar problemas do cotidiano, bem como os prepara para o futuro, apresentando mais uma opção para suas carreiras profissionais. O objetivo desta pesquisa é conduzir investigações para a construção das estruturas pedagógicas para ensino do raciocínio computacional no Brasil.(entre 1500 e 2000 caracteres com espaços - 1252 atual). Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Clarisse Sieckenius de Souza - Integrante / Cleyton Slaviero - Integrante / Alexander Repenning - Integrante / Luciana Cardoso de Castro Salgado - Integrante / Eduardo Tiomno Tolmasquim - Integrante / Leonardo Serra Faria - Integrante / Juliana Soares Jansen Ferreira - Integrante / Marcelle Pereira Mota - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2010 - 2011
+ADDSGA
+Descrição: O projeto tem como objetivo o desenvolvimento de um sistema inteligente de gerenciamento de alarmes para auxiliar o operador no processo decisório quando ocorre um grande número de alarmes, necessitando de curto intervalo de resposta. Para tanto, serão utilizadas diferentes técnicas de Inteligência Artificial, tais como: Mineração de dados, Clusterização sensemaking e Sistemas multiagentes. Uma modelagem multiagente foi usada para auxiliar a filtragem de informações, a fim de guiar a atenção dos operadores de plataformas offshore durante situações de emergências, nas quais ocorre uma avalanche de alarmes, dificultando o entendimento da situação.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Adriana Vivacqua - Integrante / Kate Revoredo - Integrante / Daniela Trevisan - Integrante / Luiz Andre Portes - Integrante.Financiador(es): Petróleo Brasileiro S A Petrobras - Auxílio
+										financeiro.
+2010 - 2011
+ADDSUB
+Descrição: Raciocínio espacial e otimização heurística híbrida, projeto de arranjo submarino, incluindo posicionamento e traçado de linhas em reservatórios offshore, para minimizar o custo do projeto.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Cristiana Bentes - Integrante / Luidi Simonetti - Integrante.Financiador(es): Petróleo Brasileiro S A Petrobras - Auxílio
+										financeiro.
+2009 - 2010
+Trabalho em grupo no second life
+Descrição: Projeto de geração de ambiente de criação de filmes, em que cada avatar é um personagem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.
+2008 - 2010
+ADDTURBO
+Descrição: Projeto de reconhecimento de imagem para identificação dos elementos de rochas Projeto de prognóstico de falhas em equipamentos, baseado na leitura de sensores interpretados a luz das condições correntes do contexto onde um equipamento se encontra. A falta de dados nos leva a tentar tecnologia de raciocínio baseado em casos.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador / Andre Tschaffon - Integrante / Gustavo F. Costa - Integrante / José Augusto P Gomes - Integrante / Luis Otávio Rigo - Integrante / Sávio M. Figueiredo - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2008 - 2009
+ADDGEO
+Descrição: Projeto de reconhecimento de imagem para identificação dos elementos de rochas carbonáticas presentes em uma lâmina, a fim de determinar a existência de petróleo e permeabilidade da rocha. Atualmente, este projeto ganhou visibilidade porque as rochas dos reservatórios do pré-sal são carbonáticas. Financiamento FINEP, CTpetro.
+?	Coordenação do projeto
+?	Participação na execução do desenvolvimento do produto envolvido
+?	Desenvolvimento de ontologia
+?	Elaboração da solução com inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2007 - 2009
+ADDDUT
+Descrição: Sistema de detecção de pequenos vazamentos em dutos, por meio do uso de tecnologia de redes neurais ajustadas. Financiamento FINEP, em parceria com o CTDUT.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2006 - 2010
+e-Cidadão
+Descrição: Projeto de busca de informações na Web que interessem ao cidadão. Um ambiente multiagente de busca e controle de informação foi desenvolvido para atender a demanda individual de cada cidadão. O sistema já encontra-se no ar e a ideia está em processo de análise de patente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.
+2006 - 2009
+MADRINET: multidisciplinary advanced research in user-centric wireless network enabling technologies
+Descrição: Project "Madrinet: Multidisciplinary advanced research in user-centric wireless network enabling technologies. Reference: "CAM MADRINET S-0505/TIC/0255"for the period 2006-2010 - Member in the Steering Committee.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ana Cristina Bicharra Garcia - Integrante / Jose Manuel Molina Lopez - Coordenador.
+2003 - 2006
+ADDMEETINGS
+Descrição: Ambiente para auxiliar o trabalho em grupo em reuniões presenciais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2002 - 2003
+ADDFACIES
+Descrição: Uso de redes neurais para inferir eletrofacies a partir de medidas indiretas. Financiamento FINEP, CTPetro.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2001 - 2002
+ADDNANO
+Descrição: Identificação e classificação de nanofósseis através de análise de imagens. Financiamento FINEP, CTPetro.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2000 - 2002
+PorAqui
+Descrição: Sistema de geração de caminhos cuja novidade está na concisão e precisão do texto que usava marcos conhecidos como indicadores de direção.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.
+1998 - 1999
+Recope-IA: ADDTRAFO
+Descrição: Sistema de diagnóstico de falhas em transformadores de potência. Projeto de redes (RECOPE-IA).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1994 - 1996
+ADDVAC
+Descrição: Tecnologia ADD para auxiliar o desenvolvimento de projetos de ventilação e ar-condicionado em plataformas marítimas e a documentação do rationale nas decisões tomadas no processo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Cristina Bicharra Garcia - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.

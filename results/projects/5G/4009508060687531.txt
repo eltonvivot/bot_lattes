@@ -1,0 +1,70 @@
+2019 - Atual
+CMOS Microdevices for New Deep Brain Stimulation Therapies
+Descrição: Desenvolvimento de Micro-dispositivos baseados em tecnologias CMOS, para terapias de estimulação cerebral profunda. Os circuitos integrados serão implementados com o apoio da entidade belga IMEC.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Murilo Araujo Romero - Coordenador / Navarro Soares Júnior, J - Integrante / João Paulo Pereira do Carmo - Integrante / Maximilliam Luppe - Integrante.
+2018 - Atual
+Núcleo de Excelência em Tecnologias para Internet das Coisas (IoT-A)
+Projeto certificado pelo(a) coordenador(a) Marcelo Eduardo Vieira Segatto em 24/07/2020.
+Descrição: Projeto sediado na UFES, financiado pela Fundação de Amparo a Pesquisa do Espírito Santo. Congrega também pesquisadores externos ao núcleo capixaba, incluindo membros da EESC/USP, UFMG e IST/Lisboa. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Integrante / Marcelo E.V. Segatto - Coordenador.
+2018 - Atual
+Modelagem compacta de transistores MOS baseados em efeitos quânticos
+Descrição: Este projeto propõe o desenvolvimento de modelos compactos para novas gerações de transistores em estrututuras MOS, nos quais a inclusão de efeitos quânticos torna-se imprescindível. O projeto se divide em duas partes: 
+a) Na primeira parte, o projeto aborda transistores MOSFET de nanofio, sem junção (Junctionless Nanowires ? JL-NWs). O objetivo é estender o modelo que desenvolvemos para nanofios de geometria cilíndrica, em silício, conforme descrito em publicação recente na IEEE Transactions on Nanotechnology. Pretende-se generalizar o modelo para outros regimes de polarização, sistemas de materiais (em particular compostos III-V) e geometrias (especialmente considerando a seção reta retangular). Muito importante também é a incorporação de não idealidades, tais como efeitos de canal curto (SCE), condutância de saída, armadilhas de interface (interface traps) etc...
+b) Na segunda parte, pretende-se empregar a experiência adquirida no desenvolvimento de modelos compactos para transistores baseados semicondutores bi-dimensionais, isto é, semicondutores cuja espessura é da escala atômica. Materiais bi-dimensionais estão bastante em voga atualmente e o exemplo mais proeminente é o grafeno, que não possui banda proibida. Por isso, para aplicações em eletrônica, são ativamente investigados materiais semelhantes, mas com base em Silício, Germânio ou Fósforo. Outro possibilidade são os chamados TMDs (Transition Metal Dichalcogenides), dos quais o mais estudado é o Dissulfeto de Molibdênio, MoS2.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Murilo Araujo Romero - Coordenador / Regiane Aparecida Ragi Pereira - Integrante / Daniel Ricardo Celino - Integrante / Adélcio Marques de Souza - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2017 - 2020
+Projeto de EDFAs para sistemas ópticos de alta capacidade
+Projeto certificado pelo(a) coordenador(a) Adolfo Fernandes Herbster em 19/08/2017.
+Descrição: Trata-se de projeto aprovado no Edital Universal do CNPq, submetido pelo meu ex-orientado Adolfo F. Herbster (atualmente docente na UF Campina Grande), dando seguimento a temática da sua tese de doutorado. A proposta de pesquisa focava em sistemas ópticos de alta capacidade e buscou contribuir para o desenvolvimento de amplificadores ópticos a fibra dopada com érbio (EDFA) para sistemas ópticos coerente baseados em multiplexação espacial (coherent optical spatial division multiplexing ? CO-SDM), mais especificamente, para sistemas ópticos baseados em fibras de poucos modos (few-mode fibers ? FMF) e de vários
+núcleos acoplados (coupled-core multi-core fibers ? CC-MCF). O desenvolvimento de
+EDFAs de elevado ganho modal, baixa figura de ruído e desequalização entre modos
+contribuirá para o aumento da taxa de transmissão em sistemas ópticos de longo
+alcance, permitindo o desenvolvimento e aprimoramento de aplicações de vídeo e as
+emergentes aplicações correlatas aos centros de processamento de dados (datacenters).
+Para execução deste projeto contou-se com pesquisadores da Universidade Federal de
+Campina Grande, em colaboração com pesquisadores da Escola de Engenharia
+de São Carlos da Universidade de São Paulo (EESC/USP), Dublin City University
+(DCU), Technical University of Denmark (DTU) e PadTec/Campinas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Integrante / Adolfo Fernandes Herbster - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Estudo de Redes de Acesso Óptico WDM-PON Baseadas na Técnica de Auto-Alimentação (Self-Seeding)
+Descrição: Este projeto têm como objetivo a investigação de redes PON (Passive Optical Networks) e sua evolução futura para redes WDM-PON. Neste contexto, a presente proposta têm como linha principal o estudo de configurações e estratégias de migração para redes WDM-PON, à partir do padrão GPON, investigando topologias, arquiteturas e dispositivos requeridos bem como as funcionalidades e desempenho esperados. Em particular, busca-se contribuir para a superação da principal barreira para a disseminação em larga escala de sistemas WDM-PON, barreira esta que é o oferecimento simultâneo de todos os comprimentos de onda requeridos pela rede de acesso, sem custos excessivos. Neste cenário, focamos na técnica de ?auto-alimentação? (?self-seeding?) de RSOAs, como forma de implementar fontes ópticas ditas ?colorless?, nas quais o mesmo hardware optoeletrônico pode ser configurado para gerar quaisquer dos comprimentos de onda requeridos pelo sistema, permitindo assim uma redução dos custos de operação e gerenciamento da rede.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+Modelagem de Nanodispositivos Semicondutores Baseados em Fios Quânticos e Tunelamento Ressonante
+Descrição: Projeto de bolsa de doutorado, concedida pelo CNPq diretamente ao orientador no âmbito do edital "Bolsas no País / Edital MCT/CNPq nº 70/2009 - Mestrado/Doutorado". A bolsa custeou os dois anos iniciais do doutoramento de R.V.T. da Nóbrega, que posteriormente tornou-se docente no IF em Formiga/MG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Murilo Araujo Romero - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2011
+Modelagem de Lasers Semicondutores de Fabry-Perot Travados em Comprimento de Onda por Injeção de Sinal Externo para Utilização em Redes Ópticas WDM-PON
+Descrição: Projeto para concessão de bolsa de mestrado, efetuada diretamente ao orientador pelo CNPq no âmbito do edital "Bolsas no País / Edital MCT/CNPq nº 70/2008 - Mestrado/Doutorado". Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Murilo Araujo Romero - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+Modelagem Numérica de Transistores de Fio Quântico para Aplicações em Nanoeletrônica
+Descrição: Projeto de bolsa de mestrado de Rafael Vinícius Tayette da Nóbrega, dissertação já concluída.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Murilo Araujo Romero - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2008 - 2009
+Integração de Redes de Acesso-Metropolitana: Passive Optical Network (PON) de longo alcance
+Descrição: Esta proposta foi aprovada no âmbito da Chamada Fapesp-Telefônica, requerendo aprovação e financiamento de ambas as entidades, com a duração prevista de 36 meses. Contudo, após um ano de atividades, solicitei formalmente o cancelamento do projeto, com concordância das demais partes, devido a falta de acordo quanto a forma de divisão dos direitos de propriedade intelectual resultante da pesquisa. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) . Integrantes: Murilo Araujo Romero - Coordenador / Amilcar Careli César - Integrante / Monica de Lacerda Rocha - Integrante.Financiador(es): Telefonica Pesquisa e Desenvolvimento do Brasil - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2007 - 2009
+Projeto Kya Tera - Laboratório Associado
+Projeto certificado pelo(a) coordenador(a) Mônica de Lacerda Rocha em 15/08/2013.
+Descrição: O grupo de telecomunicações e comunicações ópticas constituiu-se em laboratório associado da rede Kya Tera da Fapesp. Situação: Concluído; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Integrante / B V Borges - Integrante / Amilcar Careli César - Integrante / Monica de Lacerda Rocha - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2005 - 2008
+Projeto Kya Tera - Laboratório Principal
+Descrição: Fui coordenador pelo grupo de telecomunicações da EESC/USP no consórcio involvendo também o ICMC/USP, o IFSC/USP e o DC/UFSCar para participação na condição de ?Laboratório Principal? no projeto ?Kya Tera? do Programa TIDIA ? Tecnologia da Informação no Desenvolvimento da Internet Avançada. Situação: Concluído; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Coordenador / B V Borges - Integrante / Amilcar Careli César - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2000 - 2004
+Modelamento das Propriedades de Guiamento Óptico em Fibras de Banda Fotônica Proibida (PBGs - Photonic Bandgap Fibers)
+Descrição: Projeto de bolsa de doutorado de Carlos Alberto de Francisco. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Murilo Araujo Romero - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1999 - 2001
+Tecnologias Emergentes para Aplicação da Fotônica em Informática e Telecomunicações
+Descrição: Pesquisa financiada pela Motorola do Brasil, em decorrência do prêmio Missão XXI, recebido pelo grupo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Coordenador / B V Borges - Integrante / L Gonçalves Neto - Integrante / Amilcar Careli César - Integrante.Financiador(es): Motorola Industrial Ltda. - Auxílio
+										financeiro.
+1997 - 2003
+Sensores e Atuadores para Automação Industrial
+Descrição: Fui membro coordenador pelo grupo de telecomunicações da EESC/USP na Sub-rede ?Sensores e Atuadores para Automação Industrial?, apoiada pelo programa RECOPE - Rede Automação Industrial. Patrocínio: FINEP  - processo 77/97/0975/00, coordenador Geral: Prof. Dr. Júlio César Adamowski - Escola Politécnica da USP. O nosso grupo participou atuando na área de sensores ópticos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Coordenador / B V Borges - Integrante / Amilcar Careli César - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1997 - 2001
+Modelamento das Características Optoeletrônicas de Fotodetectores MSM (Metal-Semicondutor-Metal) de Hetrojunção
+Descrição: Projeto de bolsa de doutorado de Regiane Aparecida Ragi Pereira, já concluída, para apoio da Fapesp.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Murilo Araujo Romero - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1997 - 2000
+Projeto de um Receptor Optoeletrônico Integrado para Redes de Comunicações Ópticas Multiplexadas em Comprimento de Onda (WDM)
+Descrição: Auxílio obtido junto a Fapesp, no âmbito do projeto "Jovens Pesquisadores em Centros Emergentes". Este auxílio viabilizou a cooperação posterior com a Universidade de Roma e a NEC do Brasil. Situação: Concluído; Natureza: Pesquisa. Integrantes: Murilo Araujo Romero - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

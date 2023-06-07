@@ -1,0 +1,46 @@
+2023 - Atual
+IDENTIFICAÇÃO AUTOMÁTICA DE FRENTES FRIAS NA AMÉRICA DO SUL
+Descrição: Este projeto tem o objetivo utilizar um rastreamento automático de frentes frias sobre a América do Sul com um método já empregado em trabalhos anteriores, porém com dados de reanálises mais recentes e com melhor resolução espacial (ERA5). Além disso, testar a metodologia já empregada em trabalhos para a Europa e América do Norte para a detecção de frentes frias na América do Sul com o uso de redes neurais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luana Albertani Pampuch - Coordenador / Rogério Galante Negri - Integrante / Tristan Pryer - Integrante.
+2019 - Atual
+MULTIVARIATE TECHNIQUES FOR IDENTIFICATION OF HOMOGENEOUS REGIONS IN RELATIONTO PRECIPITATION AND TEMPERATURE OVER SOUTH AMERICA
+Descrição: SouthAmerica presents a climatic diversity due to its vast territory that extends fromtropical to subtropical latitudes. The spatial inhomogeneity in relation to precipitation
+and temperature is the result of the actuation of different atmospheric systems. Some studies have already made characterization of systems that act over South
+America, but without the use of statistical techniques for homogenization. Other studies have used multivariate statistical techniques to characterize homogeneous
+regions in relation to temperature and precipitation, but for specific regions (south, southeast and northeast, for example). There is nowork comparing different
+multivariate statistical techniques to determine homogeneous regions in relation to temperature and precipitation over SouthAmerica. Thus, the objective of this project is
+to compare three multivariate statistical techniques for the determination of homogeneous regions( ClusterAnalysis- k-means and Ward and Self Organizing Maps) with
+two different temperature and precipitation data sources (ERAInterimand MERRA-2) over SouthAmerica. The spatial patterns and time series will be produced for each
+region in the period 1981-2010. The result of the analysis of spatially homogeneous regions in relation to these variables can be useful for climate analysis and forecasts
+and in several studies in climatology.
+Projeto Universal 	426530/2018-7. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luana Albertani Pampuch - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2022
+Eventos Extremos de Precipitação no Brasil: Relação com a TSM do Oceano Atlântico Sul e Passagem de Sistemas Frontais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luana Albertani Pampuch - Coordenador.
+2015 - 2016
+Atmospheric moisture transport in regions of climate interest and scenarios in future climate
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luana Albertani Pampuch - Integrante / Ambrizzi, Tércio - Coordenador / Raquel Nieto - Integrante.
+2010 - 2015
+CaracterísitcasSinóticas e DInâmicas de Períodos Extremos Secos sobre o Sudeste do Brasil e sua Relação com a TSM do Atlântico Sul
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luana Albertani Pampuch - Integrante / Ambrizzi, Tércio - Coordenador.
+2008 - 2010
+Invertigação do Modo Sul no Clima Presente e Futuro no Estado do Rio Grande do Sul
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Luana Albertani Pampuch - Coordenador.
+2006 - 2008
+Climatologia do Estado do Rio Grande do Sul
+Descrição: Analisar a variabilidade da chuva na última década (1995/2005) visando a verificação de possíveis mudanças no regime climático de precipitação. São utilisados dados estatísticos de séries de precipitação diária e mensal de estações a serem determinadas. Esses dados são utilizados para calcular a média, o desvio padrão, a variância, das chuvas anuais. Para estas séries, são verificados os períodos de seca e chuva para cada ano, o comprimento e intensidade destes períodos e a comparação com a climatologia de cada estação. Também, são analisadas, para estes períodos, as condições meteorológicas (vento, pressão, temperatura da superfície do mar e outros parâmetros necessários) procurando detectar possíveis indicativos de mudanças no regime de chuva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luana Albertani Pampuch - Integrante / Ferraz, S.E.T - Coordenador.Número de produções C, T & A: 7
+2006 - 2006
+Estimação de parâmetros micrometeorológicos via problema inverso com o auxílio do método de otimização: Algoritmo Genético
+Descrição: A atividade consiste em desenvolver metodologias de problema inverso que permitam a obtenção de parâmetros relacionados ao fenômeno de difusão turbulenta (coeficiente de difusão, termo de contra gradiente, etc.), além da estimação de termos de fonte e sumidouro em estudos sobre poluição atmosférica. Neste projeto, o problema inverso é formulado como um problema de otimização não linear: o problema direto é iterativamente resolvido por sucessivas aproximações dos parâmetros desconhecidos. O problema direto associado é a solução de um modelo de dispersão. Para tanto, far-se-á uso da solução da equação de difusão-advecção obtida numericamente, pelo método das diferenças finitas. Neste projeto, utilizar-se-á o método de otimização: Algoritmo Genético. Os parâmetros atmosféricos serão estimados a partir de dados experimentais sintéticos que representem a difusão de poluentes na atmosfera.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luana Albertani Pampuch - Integrante / Débora Regina Robertti - Coordenador / Guilherme Goergen - Integrante.
+2005 - 2005
+Estudo e pesquisa em Equações Diferenciais Parciais
+Descrição: A atividade objetivou o estudo de propriedades matemáticas das Séries de Fourier e sua aplicabilidade na resolução de equações diferenciais parciais, mais especificamente, na equação do calor, na equação da onda e na equação de Laplace. Tais equações modelam aproximadamente situações reais tais como, problemas de condução do calor, da corda vibrante e da distribuição de temperatura em estado estacionário em uma placa retangular. A metodologia utilizada na atividade foi à preparação e apresentação de seminários, de forma alternada, com resolução de exercícios. Esta atividade permitiu uma complementação na formação dos bolsistas possibilitando a continuidade dos estudos em nível de Pós-Graduação (mestrado e doutorado) ou sua inserção em atividades de Pós-Graduação (cursos de verão). Contribuiu também, de forma decisiva, para a consolidação dos conhecimentos adquiridos, para o aprimoramento da expressão oral e a construção de argumentações matemáticas consistentes. Todas estas pequenas contribuições proporcionadas pela atividade caminham no sentido da formação de um profissional com alta capacidade técnica e cientifica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luana Albertani Pampuch - Integrante / Bidel - Coordenador.Número de produções C, T & A: 1
+2005 - 2005
+Estudo da Filosofia da Matemática
+Descrição: A atividade objetivou promover pesquisas nos ramos da filosofia e da história da matemática. Para tal foi realizada uma revisão histórica do conhecimento matemático bem como de seus aspectos filosóficos. Foram realizados encontros quinzenais com o professor orientador nos quais cada dupla de bolsistas preparou e apresentou um seminário para o grupo sobre algum tema ligado à filosofia ou à história da matemática. Esta atividade permitiu o aprimoramento dos conhecimentos relacionados com o tema tratado e uma vivência maior na dinâmica de trabalho em pequenos grupos. Contribuiu também, de forma decisiva, para o aprimoramento da expressão oral e a construção de argumentações consistentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12) . Integrantes: Luana Albertani Pampuch - Integrante / Liana Eliza Lara Pahins - Integrante / Guilherme Goergen - Integrante / João Carlos Gilli Martins - Coordenador.
+2004 - 2004
+Estudo da Teoria dos Grafos
+Descrição: O objetivo desse projeto foi aprofundar os conhecimentos específicos nesta área da matemática, já que o assunto é de fácil entendimento. o estudo também teve por objeto o aprimoramento na compreensão de textos na língua inglesa. Dentro deste projeto, foi destacado o assunto Grafos de euler e o Algoritmo de Fleury. Ao fim deste projeto foi proposto desenvolver um software baseado no algoritmo de Fleury pra aplicação em grafos Eulerianos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Luana Albertani Pampuch - Integrante / Peneireiro,J.B. - Coordenador / Daiana Aparecida da silva Flôres - Integrante / Liana Eliza Lara Pahins - Integrante.Número de produções C, T & A: 1
+2004 - 2004
+Projeto de Iniciação Científica com ênfase na resolução de equações de números inteiros
+Descrição: Foram estudadas resoluções de euqções em números inteiros, condições de soluções, tipos de soluções e suas aplicações na áea do conhecimento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luana Albertani Pampuch - Integrante / Peneireiro,J.B. - Coordenador.Número de produções C, T & A: 1

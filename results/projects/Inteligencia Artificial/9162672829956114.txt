@@ -1,0 +1,61 @@
+2020 - 2021
+Classificação de imagens aéreas obtidas por drones com uso de técnicas de inteligência artificial.
+Descrição: O projeto tem como objeto principal considerar uma inovação tecnológica que une
+diferentes áreas: sensoriamento remoto; inteligência artificial; e aeronáutica. Serão
+avaliadas técnicas de aprendizagem de máquina para extração automática de
+informações a partir das imagens e dados obtidos por Drones. Serão aplicadas, pelo
+menos, duas técnicas de IA, para aplicação de classificação de imagens, visando-se oMonitoramento Ambiental, considerando-se áreas de preservação, matas ciliares, rios
+e/ou represas das regiões do IFSULDEMINAS e IFSP-Jacareí.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Paula Abrantes de Castro Shiguemori - Coordenador / Elcio Hideiti Shiguemori - Integrante / Wagner Ferraz Castro - Integrante / Camila Souza dos Anjos Lacerda - Integrante / Marielcio Gonçalves Lacerda - Integrante.Número de produções C, T & A: 1
+2020 - 2021
+Sistema integrado para controle de epidemias e endemias por meio de técnicas de inteligência artificial aplicadas à análise de dados médicos e de dispersão viral georreferenciados
+Descrição: Será produzida tecnologia de monitoramento da presença de microrganismos no ambiente, com equipamentos georreferenciados para amostragem de ar, análise metagenômica da amostras, estudos de dispersão de bioaerosol e predição com uso de Inteligência Artificial do
+risco de endemias e pandemias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Elcio Hideiti Shiguemori - Integrante / Priscila Correia Fernandes - Coordenador / Daisy Hirata - Integrante / José Elias Matieli - Integrante / Claudio Antônio Federico - Integrante / Liana Kalczuk - Integrante / Getulio Vasconcelos - Integrante / Domingos Rade - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2020 - 2020
+Desenvolvimento de equipamento para monitoramento da presença de SARS-CoV-2 no ar
+Descrição: Será desenvolvido um equipamento nacional, de custo mais baixo e de mais fácil acesso
+quando comparado aos similares produzidos no estrangeiro, para monitoramento seguro da
+presença de microrganismos dispersos no ar, em particular SARS-CoV-2, em áreas de
+grande circulação populacional como hospitais, aeroportos, salas de espera e
+estabelecimentos públicos, comerciais ou industriais. O trabalho ?Produção de Protótipo do
+Equipamento de Monitoramento e detecção de microrganismos SARS-CoV-2? se constitui
+de duas Etapas.
+Etapa 1. Prototipagem do equipamento coletor de amostragem de ar, capaz de colher
+material que será posteriormente analisado quanto à presença de vírus como SARS-CoV-2
+ou outros microrganismos de interesse.
+Etapa 2. Prova de conceito com a validação do equipamento prototipado por meio da coleta
+de amostras em áreas de grande circulação de pessoas, com mecanismos de divulgação
+aos órgãos competentes locais. Serão feitas análises bioquímicas dos filtros e
+sequenciamento dos ácidos nucleicos derivados dos organismos capturados, bem como a
+verificação da eficiência na recuperação de amostras biológicas. Também faz parte dessa
+etapa a disponibilização do projeto construtivo do equipamento e a efetivação de convite a
+agentes a se unirem a este esforço de enfrentamento da COVID-19 para que fabriquem
+mais unidades e ajudem a construir uma rede de coleta e análise capilarizada para
+monitoramento da presença do SARS-CoV-2 no ar..
+Situação: Concluído; Natureza: Desenvolvimento. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Ana Paula Abrantes de Castro Shiguemori - Coordenador / Elcio Hideiti Shiguemori - Integrante / Priscila Correia Fernandes - Integrante / Daisy Hirata - Integrante / José Elias Matieli - Integrante / Claudio Antônio Federico - Integrante / Liana Kalczuk - Integrante / Getulio Vasconcelos - Integrante / Domingos Rade - Integrante / Willians Principe Fernandes - Integrante / Emmanuel Dias-Neto - Integrante.Financiador(es): Ministério Publico do Trabalho em Campinas - Bolsa.
+2014 - Atual
+Avaliação de técnicas de correção de trajetória de Veículos Aéreos Não Tripulados por Imagens
+Projeto certificado pelo(a) coordenador(a) Elcio Hideiti Shiguemori em 17/04/2017.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (6)  / Doutorado: (11) . Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Haroldo Fraga de Campos Velho - Integrante / Elcio Hideiti Shiguemori - Coordenador / Antonio de Pádua Braga - Integrante / Alexandre Ramos - Integrante / Mateus Habermann - Integrante / IVO, PAIXAO DE MEDEIROS - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Sistema embarcado para processamento de vídeos obtidos por Veículos Aéreos Não Tripulados paraaplicação emnavegação autônoma
+Projeto certificado pelo(a) coordenador(a) Elcio Hideiti Shiguemori em 17/04/2017.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (6)  / Doutorado: (11) . Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Haroldo Fraga de Campos Velho - Integrante / Elcio Hideiti Shiguemori - Coordenador / Antonio de Pádua Braga - Integrante / Francisco de Assis Tavares Ferreira da Silva - Integrante / Alexandre Ramos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2011
+Desenvolvimento de método computacional de mineração de dados utilizando redes neurais para análise de dados de previsão climática (300580/2011-8)
+Descrição: Investiga-se a utilização de técnicas de inteligência artificial como meio de se extrair em bases de dados meteorológicos informações relevantes para uma modelagem preditiva confiável de Fenômenos Convectivos Severos. O modelo de Rede Neural Artificial (RNA) utilizado é o Perceptron de Múltiplas Camadas (PCM), com o algoritmo de retro-propagação do erro que devido suas características são importantes em tarefas de mineração e modelagem de dados. As redes serão usadas como técnica para extração de informações em bases de dados meteorológicos, que sejam relevantes para uma modelagem preditiva confiável de ventos convectivos severos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Stephan Stephany - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2011
+Modelos inteligentes para classificação de padrões aplicados à análise de imagens digitais
+Descrição: Pesquisa científica envolvendo o estudo e desenvolvimento de modelos de classificação de dados que sejam eficientes na análise de características em imagens digitais. O objetivo principal do projeto é a análise da aplicabilidade de modelos disponíveis no processamento de imagens para classificação de imagens se satélite, videografia, fotos aéreas, entre outras... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Isabela Neves Drummond - Coordenador / Elcio Hideiti Shiguemori - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2009
+PRECLIHNE/FINEP - Previsão Climática e Hidrológica sobre o Nordeste do Brasil
+Descrição: estudo das mudanças climáticas e seus impactos em Pernambuco. O projeto é composto de um módulo observacional e um módulo de modelagem regional dos efeitos das mudanças climáticas globais sobre Pernambuco. No múdulo observacional serão montadas duas torres micrometeorológicas de medições de fluxos turbulentos de CO2, uma em ambiente preservado de outra em ambiente degradado de Caatinga. Neste módulo também será instalado um marégrafo geodésico em Recife para medições do nível do mar. No módulo de modelagem regional serão feitos estudos de "downscaling" dos cenários do IPCC AR4 para Pernambuco, com especial ênfase para a modelagem da variabilidade do ciclo hidrológico e nível do mar... Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Paulo Nobre - Coordenador / Haroldo Fraga de Campos Velho - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2003 - 2012
+Processamento de Imagens em Tempo-Real (PITER)
+Descrição: Projeto que envolve pesquisas por Navegação Aérea Autônoma com uso de processamento de imagens em tempo-real.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Elcio Hideiti Shiguemori - Integrante / Marcus Vinícius T. Monteiro - Integrante / Marco A. Pizani Domiciano - Coordenador / Felipe Leonardo Lobo Medeiros - Integrante.Número de produções C, T & A: 6
+2002 - 2012
+Projeto Furnas -Balanço de carbono nos reservatórios de Furnas S.A.
+Descrição: Objetivo Geral Determinar as emissões de gases de efeito estufa: gás carbônico, metano e óxido nitroso, dos reservatórios de FURNAS Centrais Elétricas S.A.; Identificar as rotas do ciclo do carbono nesses reservatórios e os fatores ambientais envolvidos; Avaliar a influência dos fatores morfológicos, morfométricos, biogeoquímicos e operacionais dos reservatórios na emissão de gases de efeito estufa; Determinar o padrão de emissão existente, anteriormente à construção de reservatórios; Elaborar um modelo espacial e temporal de emissão de gases para reservatórios implantados em ambientes de Cerrado.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Ana Paula Abrantes de Castro Shiguemori - Integrante / Fernando Manuel Ramos - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

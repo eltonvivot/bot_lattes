@@ -1,0 +1,26 @@
+2022 - Atual
+Modelagem de dados aplicada à Geração Distribuída Fotovoltaica no Brasil: estudo de caso em campus universitário público
+Descrição: Criar uma modelagem de dados que seja capaz de ilustrar os tipos de dados usados e armazenados em um sistema Geração Distribuída Fotovoltaica (GDFV), permitindo avaliar os
+impactos técnicos e econômicos da implementação de usinas fotovoltaicas que operam no modelo de geração distribuída. O trabalho aborda a potencialidade que a implementação de bancos de dados bem estruturados e normatizados de usinas fotovoltaicas traz em relação à operação, manutenção e planejamento de sistemas GDFV. A
+validação será feita na usina fotovoltaica em operação no Instituto Federal de Minas Gerais (IFMG), campus Ibirité.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fábio Júlio Fonseca Gonçalves - Integrante / Pedro Henrique Ferreira Machado - Coordenador / Mateus Andrade Ferreira - Integrante / Bruno Ferreira Jorge - Integrante / Diogo Sampaio Cesar Souza - Integrante / Elias José de Rezende Freitas - Integrante / Ivan Reinaldo Meneghini - Integrante / Josemar de Souza Moreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2022 - Atual
+Sistematização de ensaios de caracterização eletromagnética de materiais pelo método de espaço-livre em um sistema configurável
+Descrição: Um sistema convencional de caracterização em espaço-livre é custoso e necessita de ensaios minuciosos. A fim de contornar as dificuldades práticas e limitações de orçamento, neste projeto é proposta a continuidade da pesquisa nesta linha, com o aprimoramento da utilização de um transceptor configurável para a caracterização das propriedades eletromagnéticas de materiais, tomando proveito da flexibilidade, qualidade e boa relação custo-benefício do referido equipamento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fábio Júlio Fonseca Gonçalves - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2020 - 2022
+Caracterização eletromagnética de amostras de materiais usando o método de espaço-livre em um sistema configurável
+Descrição: Este projeto investiga a possibilidade de caracterização eletromagnética de amostras planas de materiais pelo método do espaço-livre, usando um transceptor configurável, do tipo rádio definido por software, em uma montagem de baixo custo e automatizada. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fábio Júlio Fonseca Gonçalves - Coordenador / Anderson Kenji Hirata - Integrante / Elson José da Silva - Integrante.Financiador(es): Instituto Federal  Minas Gerais - Auxílio
+										financeiro.
+2019 - 2019
+Desenvolvimento de Impressora 3D Customizada
+Descrição: Projetar, montar e implementar uma impressora 3D para a Unidade Antônio Carlos da Faculdade Pitágoras.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Júlio Fonseca Gonçalves - Coordenador.Financiador(es): Faculdade Pitágoras - Outra.
+2016 - 2017
+Modelagem e Caracterização de Mantos Metamateriais na Faixa de 1 a 6 GHz
+Descrição: Este projeto envolve a caracterização experimental de metamateriais a serem usados na construção de mantos eletromagnéticos. Após caracterizados, tais metamateriais podem ser dispostos ao redor de objetos metálicos para que haja uma redução no espalhamento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Júlio Fonseca Gonçalves - Integrante / SILVA, ELSON J. - Coordenador.
+2013 - 2015
+Desenvolvim ento e Caracterização de Metamateriais Eletromagnéticos na Faixa de Micro-ondas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Fábio Júlio Fonseca Gonçalves - Integrante / Renato Cardoso Mesquita - Integrante / Elson José da Silva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2010 - 2012
+Caracterização das Propriedades Eletromagnéticas dos Materiais por Microondas
+Descrição: Através dos Parâmetros de Espalhamento busca-se determinar a Permissividade Elétrica e a Permeabilidade Magnética de amostra de materiais, na faixa de microondas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Júlio Fonseca Gonçalves - Integrante / SILVA, ELSON J. - Integrante / MESQUITA, RENATO C. - Coordenador.

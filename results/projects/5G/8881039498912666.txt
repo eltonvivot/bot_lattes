@@ -1,0 +1,84 @@
+2010 - 2010
+Estudo de Compatibilidade entre o SRS e o ISS
+Descrição: Análise de compatibilidade visando ao compartilhamento de freqüências entre o Serviço de Pesquisa Espacial (SRS) e enlaces entre satélites de um sistema não-geoestacionário (ISS) na faixa de 22 GHz. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Jose Mauro Pedro Fortes - Coordenador / Juan Otálora Goicochea - Integrante.Financiador(es): Access Partnership Limited - Auxílio
+										financeiro.
+2003 - 2004
+Análise de Interferências HEO/FS - Contrato PUC/Anatel PVSS no 006/2003 (abr/2003-mar/2004)
+Descrição: Análise teórica visando a proteção de Redes de satélites geoestacionários e de receptores do serviço fixo terrestre das interferências geradas por sistemas que utilizam satélites em órbitas altamente inclinadas (HEOs). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador.Financiador(es): Agência Nacional de Telecomunicações - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2002 - 2008
+Segurança das ComunicaçÕes do Sistema de Vigilância da Amazonia - Contrato PUC/CCSIVAM 01/2002 (fev/2002-jan/2005)
+Descrição: Análise do algoritmo de criptografia do sistema de comunicações do Sistema de Vigilância da Amazonia visando a proposta de modificação do algoritmo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Weiler Alves Finamore - Coordenador / Raimundo Sampaio Neto - Integrante.Financiador(es): Comissão do Sistema de Vigilância da Amazonia - Auxílio
+										financeiro.
+2001 - 2002
+Diagnóstico de Utilização do Arco Orbital de Interesse do Brasil - Contrato PUC/Anatel PVSS no. 45/2001 (set/2001-ago/2002)
+Descrição: Estudo visando determinar algoritmos e técnicas aplicáveis à elaboração de um diagnóstico (em termos de potencial interferente e susceptibilidade à interferência) da órbita de satélites geoestacionários. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador / Raimundo Sampaio Neto - Integrante.Financiador(es): Agência Nacional de Telecomunicações - Auxílio
+										financeiro.Número de produções C, T & A: 6 / Número de orientações: 1
+1999 - 1999
+Caracterização Estatística de Interferências Geradas por Sistemas NGSO - Contrato PUC/Teledesic LLC 01/1999 (abr-dez/1999)
+Descrição: Avaliação da possibilidade de aplicação do Método Analítico na determinação do comportamento estatístico das interferências geradas por sistemas de satélites não geoestacionários em situações envolvendo mais de uma rede. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador / Raimundo Sampaio Neto - Integrante.Financiador(es): Teledesic Llc - Auxílio
+										financeiro.Número de produções C, T & A: 8 / Número de orientações: 8
+1998 - 1999
+Análise estatística de interferências - Contrato PUC/ICO Global Communications 01/98 (jan/1998-fev/1999)
+Descrição: Análise do efeito dos lóbulos laterais das antenas das estações terrenas no potencial interferente dos satélites de órbita baixa
+Estudo do comportamento estatístico das interferências deradas por satélites não geoestacionários. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador / Raimundo Sampaio Neto - Integrante.Financiador(es): Ico Global Communications Inglaterra - Auxílio
+										financeiro.Número de produções C, T & A: 7 / Número de orientações: 2
+1998 - 1998
+Compressão de Imagens e Sistema de Transmissão
+Descrição: Análise de desempenho de algoritmos de compressão de imagens quando aplicados a de sensoriamento remoto
+Dimensionamento de de um sistema "store-and=forward" de transmissão de mensagens utilizando satélites de órbita baixa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Weiler Alves Finamore - Coordenador.Financiador(es): Agência Espacial Brasileira - Auxílio
+										financeiro.
+1997 - 1997
+Compressão de Imagens e Sistema de Transmissão "store-and-forward" via Satélite - Contrato PUC/AEB 01/97 (abr-jul/1997)
+Descrição: Análise de desempenho de algoritmos de compressão de imagens quando aplicados a de sensoriamento remoto
+Dimensionamento de de um sistema "store-and=forward" de transmissão de mensagens utilizando satélites de órbita baixa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Weiler Alves Finamore - Coordenador.Financiador(es): Agência Espacial Brasileira - Auxílio
+										financeiro.
+1996 - 1996
+Compressão e Simulação de Imagens - Contrato PUC/Inpe 0-1/96 (mar-out/1996)
+Descrição: Análise de algoritmos de compresão de imagens visando sua aplicação para a compressão, a bordo de satélites, de imagens de sensoriamento remoto
+Simulação de imagens de sensoriamento remoto obtidas utilizando-se um satélite de írbita baixa, a partir de imagens obtidas por satélites de órbitas média e alta. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Weiler Alves Finamore - Coordenador.Financiador(es): Instituto Nacional de Pesquisas Espaciais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1995 - 1996
+Tecnologia de Redes de Alta Velocidada TRAVEL - Protem/CNPq
+Descrição: Efeito da característica não linear da fibra óptica em transmissões multiportadora WDM
+Efeitos do Ruído de Fase do Laser no desempenho de receptores ópticos coerentes com modulação PSK. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Raimundo Sampaio Neto - Integrante / Luis Felipe M de Moraes - Coordenador / Michael A Stanton - Integrante / Paulo henrique A Rodrigues - Integrante / Jorge Lopes S Leão - Integrante / Otto Carlos Muniz B Duarte - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de orientações: 2
+1994 - 1995
+Problemas de Transmissão em Comunicações via Satélite - Contrato PUC/Embratel CDTS 902/94 (abr/1994-set/1995)
+Descrição: Efeito de interferências no desempenho de sistemas de transmissão digital
+efeitos das imperfeições do canal satélite no desempenho de sistemas digitais de comunicação
+sincronização em sistemas de comuicações móveis via satélite. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador / Weiler Alves Finamore - Integrante / Raimundo Sampaio Neto - Integrante.Financiador(es): Empresa Brasileira de Telecomunicações S/A - Auxílio
+										financeiro.Número de produções C, T & A: 6 / Número de orientações: 5
+1994 - 1994
+Compressão de Imagens - Contrato PUC/Inpe 01/94 (abr-jul/1994)
+Descrição: Análise comparativa do desempenho de dois algoritmos de compressão de imagens (quantização vetorial via LBG e algoritmo de Lempel-Ziv) visando sua aplicação na compressão, a bordo de satélites, de imagens de sensoriamento remoto. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Weiler Alves Finamore - Coordenador.Financiador(es): Instituto Nacional de Pesquisas Espaciais - Auxílio
+										financeiro.Número de produções C, T & A: 1 / Número de orientações: 1
+1993 - 1994
+Tecnologia de Redes de Computadores para Aplicações de Alta Velocidade - CNPq
+Descrição: Estudos envolvendo sspectos relacionados à intermodulação causada por não linearidades da fibra óptica em sinais WDM
+Caracterização do ruído de fase do Laser. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Raimundo Sampaio Neto - Integrante / Luis Felipe M de Moraes - Coordenador / Otto Carlos Muniz B Duarte - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de orientações: 1
+1993 - 1993
+Correção de Aberrações de Fase em imagens de Ultrasonografia - Contreto PUC/General Electric Company 01/93 (jan-dez/1993)
+Descrição: Análise de desempenho de circuitos bi-dimensionais de malha fechada para correção de aberrações de fase em sistemas de imageamento que utilizam
+"phased arrys" (e.g. ultrasonografia). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador.Financiador(es): General Electric Company Corporate Research And Development Center - Auxílio
+										financeiro.Número de produções C, T & A: 6
+1989 - 1989
+Problemas de Transmissão em Comunicações via Satélite - Contrato PUC/Embratel SAT 004/89 (jan-dez/1989)
+Descrição: Recuperação Conjunta de Portadora e relógio
+Avaliação do desempenho de protocolos em redes VSAT
+Comparação de técnicas de transmissão em comunicações móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador / Jose Paulo de Almeida e Albuquerque - Integrante / Weiler Alves Finamore - Integrante / Raimundo Sampaio Neto - Integrante.Financiador(es): Empresa Brasileira de Telecomunicações S/A - Auxílio
+										financeiro.Número de produções C, T & A: 4
+1988 - 1988
+Problemas de Transmissão em Comunicações via Satélite - Contrato PUC/Embratel SAT 011/88 (jan-dez/1988)
+Descrição: Análise estatística de interferências
+Análises Linear e Não Linear de circuitos de recuparação de portadora e relógio
+Rcuperação cinjunta de portadora e relógio
+Sistemas CPM para Comunicações Móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Coordenador / Jose Paulo de Almeida e Albuquerque - Integrante / Weiler Alves Finamore - Integrante / Raimundo Sampaio Neto - Integrante.Financiador(es): Empresa Brasileira de Telecomunicações S/A - Auxílio
+										financeiro.Número de produções C, T & A: 2 / Número de orientações: 1
+1984 - 1984
+Problemas em Comunicações via Satélite - Contrato PUC/Embratel SAT 004/84 (mar-ago/1984)
+Descrição: Análise estatística de interferências
+Análise e dimensionamento de sistemas SSB com compansão
+Intermodulação e transferência de modulaçõ ame canais satélite. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Mauro Pedro Fortes - Integrante / Jose Paulo de Almeida e Albuquerque - Coordenador / Raimundo Sampaio Neto - Integrante.Financiador(es): Empresa Brasileira de Telecomunicações S/A - Auxílio
+										financeiro.Número de produções C, T & A: 5 / Número de orientações: 3

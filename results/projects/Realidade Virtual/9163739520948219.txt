@@ -1,0 +1,38 @@
+2021 - Atual
+Plataforma de treinamento baseado em problem based learning e realidade virtual para área de saúde
+Descrição: Bolsista de Produtividade Desen. Tec. e Extensão Inovadora do CNPq - Nível 2. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2018 - 2021
+Desenvolvimento de tecnologia educacional baseada em edutainment para ensino de lógica e programação
+Descrição: Bolsista de Produtividade Desen. Tec. e Extensão Inovadora do CNPq - Nível 2. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2017
+Desenvolvimento de sistemas computacionais baseado em robótica
+Descrição: Bolsista de Produtividade Desen. Tec. e Extensão Inovadora do CNPq - Nível 2. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2013
+Desenvolvimento de tecnologia embarcada para controle de dispositivos robóticos
+Descrição: Descrição: Bolsista de Produtividade Desen. Tec. e Extensão Inovadora do CNPq - Nível 2. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+Desenvolvimento de uma plataforma robótica para aplicações educacionais
+Descrição: Projeto FINEP Subvenção Econômica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2006 - 2007
+Desenvolvimento de uma plataforma universal para robôs móveis para área de pesquisa, educação e entretenimento
+Descrição: Desenvolvimento de robôs móveis de pequeno porte com módulos de visão computacional, braço mecânico e sistema de tele-controle. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2007
+Ferramenta para a Construção de Sistemas inteligentes para o Apoio ao Diagnóstico de Falhas em Equipamentos Complexos
+Descrição: Desenvolvimento de uma ferramenta computacional que acelere a construção e implantação de Sistemas Inteligentes para o diagnóstico e isolamento de falhas em equipamentos complexos. A ferramenta emprega a técnica de Raciocínio Baseado em casos (RBC) em três aspectos: padronização dos processos de aquisição do conhecimento necessário para que o sistema inteligente realize as tarefas de apoio à decisão, reutilização dos mecanismos de raciocínio e manipulação do conhecimento e utilização uma representação de conhecimento orientada a objetos, que possibilita a criação de modelos de ontologias para a área de diagnóstico de falhas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Antonio Valerio Netto - Integrante / Claudio Adriano Policastro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2004 - 2005
+Sistema inteligente para desenvolvimento de anticorpos baseado na estrutura do antígeno
+Descrição: Criação e validação de uma ferramenta para o desenvolvimento e otimização de anticorpos baseando-se na estrutura de um determinado antígeno (antígeno-problema). Pretende-se com esta ferramenta otimizar a afinidade e especificidade de anticorpos já existentes, bem como aumentar o leque de estratégias existentes para o desenvolvimento de novos anticorpos. O AbEvo (Antibodies Evolution), propiciará ainda a redução da imunogenicidade de anticorpos através de redução estrutural. Os anticorpos desenvolvidos pelo sistema AbEvo poderão ser utilizados na produção de novas vacinas, reativos para diagnóstico, pesquisas laboratoriais no campo farmacêutico e nos laboratórios das Universidades. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Antonio Valerio Netto - Integrante / Oscar Henrique Pereira Ramos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2004 - 2004
+Sistema Integrado de Robótica para as Áreas de Educação, Pesquisa e Entretenimento
+Descrição: Desenvolver um ambiente integrado com robôs móveis e software de apoio à programação e ao desenvolvimento de aplicações didáticas para atuar em três áreas específicas: educação, pesquisa e entretenimento. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Antonio Valerio Netto - Integrante / Claudio Adriano Policastro - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2004
+Sistema Computacional para Redução de Perdas em Redes de Distribuição de Energia com Interface em Realidade Virtual
+Descrição: Desenvolvimento de um sistema computacional para redução de perdas em redes de distribuição de energia elétrica (redes urbanas) por meio de avançados algoritmos computacionais de reconfiguração de circuitos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2003
+Sistema interativo para treinamento na área de segurança
+Descrição: Desenvolvimento de um sistema interativo de treinamento na área de segurança (empresas de segurança e corporações de segurança pública). Foi idealizado um sistema que pudesse "transportar" os profissionais da área para uma realidade mais próxima do cotidiano de trabalho, permitindo que os mesmos tenham um treinamento e uma formação mais adequada, permitindo assim, que desempenhem suas funções de forma mais segura e eficaz. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Antonio Valerio Netto - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

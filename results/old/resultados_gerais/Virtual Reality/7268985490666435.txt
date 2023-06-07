@@ -1,0 +1,10 @@
+2013 - 2015
+A Method For Growth-Based Procedural Floor Plan Generation
+Descrição: Pesquisa abordando algoritmos geométricos e a utilização de técnicas de geração procedural para gerar plantas baixas residenciais automaticamente. Desenvolvimento de protótipo em C# utilizando a engine Unity 3D.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Daniel Camozzato - Integrante / Soraia Raupp Musse - Coordenador.
+2008 - 2010
+Estudo sobre Técnicas para Aceleração de Renderização
+Descrição: Projeto de pesquisa abordando técnicas de real-time rendering, e em específico a melhoria da técnica de Billboard Clouds. Desenvolvimento de métricas para estimar o erro do uso de impostores. Desenvolvimento em C++ de sistema de geração automático de Billboard Cloud, utilizando tecnologia OpenGL e SDL.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Daniel Camozzato - Integrante / Márcio Sarroglia Pinho - Coordenador.
+2004 - 2004
+Integração de técnicas de teste no projeto de SOCs
+Projeto certificado pelo(a) coordenador(a) Fernando Gehm Moraes em 11/05/2015.
+Descrição: Desenvolvimento e prototipação de módulos VHDL em FPGA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Daniel Camozzato - Integrante / Fernando Gehm Moraes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.

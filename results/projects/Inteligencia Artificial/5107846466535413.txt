@@ -1,0 +1,22 @@
+2017 - 2021
+Filtros Sequenciais Aplicados à Estimação de Atitude de Satélites Artificiais Usando Dados Reais.
+Descrição: No presente trabalho, a idéia é concentrar estudos nas técnicas não lineares de estimação de estados para determinação da dinâmica da atitude de satélites artificiais. Este estudo é importante porque analisará o comportamento de filtros mais robustos quando estes são submetidos a dados reais de sensores que estão a bordo de satélites, diferentemente dos estudos atuais que utilizam somente dados simulados de medidas. Neste projeto serão abordados dois filtros sequenciais: Filtro de Kalman Unscented com Smoothing e o Filtro de Partículas Rao-Blackwellized. Os quatérnions serão considerados para representar a atitude do satélite, visto que evitam possíveis singularidades presentes na dinâmica da atitude quando essas são descritas pelos ângulos de Euler. Com isso espera-se obter estimativas mais refinadas de atitude a partir de filtros sequenciais utilizando dados simulados e dados reais de sensores de atitude que estão a bordo dos satélites CBERS (China Brazil Earth Resources Satellite).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberta Veloso Garcia - Coordenador / Maria Cecilia Zanardi - Integrante / Hélio Koiti Kuga - Integrante / William R. Silva - Integrante / Estaner Claro Romão - Integrante / Paula Cristiane Pinto Mesquita Pardal - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2020
+Filtro de Partículas Aplicado ao Problema de Determinação de Órbita de Satélites Artificiais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberta Veloso Garcia - Integrante / Hélio Koiti Kuga - Integrante / Paula Cristiane Pinto Mesquita Pardal - Coordenador / Leandro Baroni - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2020
+Simulação Numérica via Método de Galerkin e dos Mínimos Quadrados de Problemas de Velocidade-Pressão-Temperatura-Concentração Bi e Tridimensionais
+Projeto certificado pelo(a) coordenador(a) Estaner Claro Romão em 20/03/2023.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberta Veloso Garcia - Integrante / Estaner Claro Romão - Coordenador / Jairo A Martins - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2016
+Estudo numérico para melhoria do cômputo e do armazenamento de memória na solução de problemas tridimensionais de transferência de calor e de dispersão de poluentes.
+Projeto certificado pelo(a) coordenador(a) Estaner Claro Romão em 20/03/2023.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberta Veloso Garcia - Integrante / Estaner Claro Romão - Coordenador / Paula Cristiane Pinto Mesquita Pardal - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2013 - 2015
+Dinâmica de Satélites Artificiais
+Descrição: O objetivo do projeto é a elaboração de algumas teorias e construção de programas a serem utilizados em projetos aeroespaciais que envolvam a análise e o estudo da estabilidade, a determinação e o controle de órbitas e atitudes de veículos espaciais. Tais teorias e programas deverão estar dirigidos às necessidades atuais e futuras de programas aeroespaciais de interesse de projetos dos quais o Brasil o participa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (55)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Roberta Veloso Garcia - Integrante / Maria Cecilia Zanardi - Integrante / Hélio Koiti Kuga - Integrante / Rodolpho Vilhena de Moraes - Coordenador / Andre Fenile - Integrante / Maisa Terra - Integrante / Sandro da Silva Fernandes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

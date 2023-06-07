@@ -1,0 +1,31 @@
+2018 - Atual
+Desenvolvimento de Sistemas de Transmissão/Distribuição em Corrente Contínua para as Indústrias da Mineração e Extração de Petróleo Submarino
+Descrição: Este projeto tem como objetivo avaliar a viabilidade técnica e econômica de se empregar transmissão/distribuição em corrente contínua em subsistemas diversos no âmbito da indústria de extração de petróleo e de mineração.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Hélder de Paula - Coordenador / André Mendonça Alzamora - Integrante / Caio Eduardo Silva - Integrante / Manoelson Moreira Rondon Júnior - Integrante.Número de produções C, T & A: 1 / Número de orientações: 2
+2017 - 2019
+Desenvolvimento de Conversores de Energia Elétrica com Capacidade de Tolerância a Falhas e Auto Recuperação Inteligente
+Projeto certificado pelo(a) coordenador(a) Anderson Vagner Rocha em 11/08/2020.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Hélder de Paula - Integrante / Braz de Jesus Cardoso Filho - Integrante / Anderson V. Rocha - Coordenador / Igor Amariz Pires - Integrante.
+2017 - Atual
+Desenvolvimento de Metodologias para o Diagnóstico de Falhas e Análise de Confiabilidade de Equipamentos e Sistemas Elétricos
+Descrição: Neste projeto são avaliadas e desenvolvidas técnicas para o diagnóstico/prognóstico de falhas em dispositivos, equipamentos e sistemas elétricos, baseadas ou não em inteligência artificial. As informações provenientes das ferramentas desenvolvidas têm aplicação direta na definição das estratégias de manutenção preventiva e preditiva, nas análises de confiabilidade e na concepção de políticas de gerenciamento de ativos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Hélder de Paula - Coordenador / Marco Túlio Alves Evo - Integrante / Arismar Morais Gonçalves Junior - Integrante / Caio Eduardo Silva - Integrante / Guilherme Fernandes Ribeiro - Integrante / Luiz Henrique Arantes Barbosa - Integrante / Isabela Oliveira Zaparoli - Integrante.Número de produções C, T & A: 4 / Número de orientações: 2
+2011 - 2013
+Sistema de Transmissão em Corrente Contínua para o Acionamento de Motores C.A.: Conexão C.C. do Retificador ao Inversor Através de Cabos Longos
+Descrição: Tendo como foco os sistemas de acionamento nos quais o motor encontra-se instalado distante do conversor de freqüência (extração de petróleo submarino, aplicações diversas em atividades de mineração, etc), o objetivo deste projeto, em linhas gerais, é o de propor um sistema de transmissão em corrente contínua interligando o retificador ao inversor, estando este último instalado junto ao motor. Assim, a conexão envolvendo o cabo de grande extensão seria estabelecida em corrente contínua, em alternativa â transmissão em corrente alternada sob tensão PWM, eliminando diversos inconvenientes associados a esta última.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Hélder de Paula - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2010 - Atual
+Proposição de Soluções para a Mitigação de Problemas de Qualidade da Energia, Eficiência Energética e Acionamentos em Ambientes Industriais
+Descrição: Com foco direto na indústria, este projeto de pesquisa propõe detectar, analisar e gerar soluções para problemas de Qualidade da Energia, Eficiência Energética e Acionamentos em Ambientes Industriais, abrangendo as mais diversas aplicações industriais. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Hélder de Paula - Coordenador / Marco Túlio Alves Evo - Integrante / André Mendonça Alzamora - Integrante / Thiago Martins Firmo - Integrante / Luiz Henrique Arantes Barbosa - Integrante.Número de produções C, T & A: 10
+2008 - 2010
+Sistema de Transmissão em Corrente Contínua para o Acionamento de Motores C.A.: Conexão CC do Retificador ao Inversor através de Cabos Longos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Hélder de Paula - Coordenador.Financiador(es): Universidade Federal de Minas Gerais - Bolsa.Número de produções C, T & A: 1
+2008 - 2009
+Determinação dos Parâmetros de Cabos Elétricos Isolados Através da Análise de Elementos Finitos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Hélder de Paula - Coordenador / André Weber Cirino - Integrante / Renato Cardoso Mesquita - Integrante.Financiador(es): Pró reitoria de Graduação UFMG - Bolsa.Número de produções C, T & A: 1
+2007 - 2008
+Modelagem do caminho de circulação das correntes de modo comum e estudo da influência do cabeamento nas sobretensões transitórias e correntes de terra em sistemas de acionamento por inversores PWM
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Hélder de Paula - Coordenador / Marcus Vinícius Cordeiro Listoa - Integrante / Jonathas Berilo Figueiredo Guilherme - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2004 - 2006
+Análise de sobretensões transitórias em motores acionados por inversores PWM através de cabos longos e estudo de uma nova proposta para a minimização de seus efeitos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Hélder de Paula - Integrante / Marcelo Lynce Ribeiro Chaves - Coordenador / Darizon Alves de Andrade - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Não informado.

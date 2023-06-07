@@ -1,0 +1,33 @@
+2010 - 2013
+Núcleo de Excelência em Computação de Alto Desempenho e sua Aplicação em Computação Científica e Inteligência Computacional
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Elias Silva de Oliveira - Integrante / Maria Claudia Silva Boeres - Integrante / Maria Cristina Rangel - Integrante / Claudine Badue - Integrante / Alberto Ferreira de Souza - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro.
+2008 - 2010
+Fortalecimento das Áreas de Computação de Alto Desempenho, Otimização e Inteligência Computacional do Programa de Pós-Graduação em Informática da UFES
+Descrição: Este Projeto tem como objetivo central fortalecer e incrementar as interações entre as linhas de pesquisa em Computação de Alto Desempenho, Otimização e Inteligência Computacional do Programa de Pós-Graduação em Informática (PPGI) da Universidade Federal do Espírito Santo (UFES), contando para isso com o apoio dos Programas de Pós-Graduação em Engenharia Civil e Engenharia de Sistemas e Computação da COPPE/UFRJ, área interdisciplinar de Computação de Alto Desempenho.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Elias Silva de Oliveira - Coordenador / Maria Claudia Silva Boeres - Integrante / Maria Cristina Rangel - Integrante / Alberto Ferreira de Souza - Integrante / Claudine Badue - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2010
+ClassificaçãoAutomática de Documentos Digitais
+Descrição: O grande crescimento de documentos eletrônicos e a diversidade de áreas científicas têm transformado o tradicional serviço manual de classificação de documentos uma tarefa quase impraticável. Portanto, uma solução automática é requerida para que consigamos acompanhar a criação destes novos documentos. O crescimento de serviços de bibliotecas digitais, em particular  no Brasil, é um exemplo desse crescimento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (2) . Integrantes: Elias Silva de Oliveira - Coordenador / Patrick Marques Ciarelli - Integrante / Wallace F. Henrique - Integrante / Lucas Veronese - Integrante / Márcia Goncalves Oliveira - Integrante / Rafael Zanoli - Integrante / Juliana de Oliveira Brum - Integrante.Número de produções C, T & A: 35
+2006 - 2009
+Classificação Automática em CNAE-subclasse
+Descrição: O objetivo principal deste projeto de pesquisa é desenvolver ou adaptar algoritmos e heurísticas que viabilizem a implementação de um Sistema Computacional para a Codificação Automática de Atividades Econômicas (SCAE) e comparar o desempenho deste sistema com o de codificadores humanos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Mestrado acadêmico: (6) . Integrantes: Elias Silva de Oliveira - Integrante / Patrick Marques Ciarelli - Integrante / Wallace F. Henrique - Integrante / Lucas Veronese - Integrante / Hannu Tapio Ahonen - Integrante / Priscila Machado Vieira Lima - Integrante / Felipe Maia Galvão França - Integrante / Márcia Goncalves Oliveira - Integrante / Rafael Zanoli - Integrante / Claudine Badue - Integrante / Alberto Ferreira de Souza - Coordenador.Financiador(es): Secretaria da Receita Federal - Auxílio
+										financeiro.Número de produções C, T & A: 7
+2004 - 2005
+Classificação semi-Automática de Documentos
+Descrição: O crescente volume de documentos tem trazido preocupações metodológicas entre os profissionais das áreas de Ciências da
+Informação, computação e outras. Se por um lado temos o difícil problema da escolha acertada de documentos contendo a
+informação desejada pelo usuário/cliente em repositórios digitais, como por exemplo as bibliotecas digitais de dissertação e
+teses, por outro lado temos o árduo trabalho da pré-organização destes mesmos documentos para posterior recuperação.
+Acrescenta-se a esse contexto a falta de pessoal em que, em geral, vivem as unidades de informação neste país. Esta pesquisa
+visa estudar modelos de representação algébrica de documentos textuais, os quais possam servir de alternativa metodológica
+ao processo manual de classificação de documentos em repositórios digitais em geral, como por exemplo em repositórios de
+documentos de um sistema de governo digital. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Elias Silva de Oliveira - Coordenador / Bruno Oliveira da  Costa - Integrante / Anderson Poltronieri - Integrante.Financiador(es): Fundação de Apoio a Ciência e Tecnologia da Cidade de Vitória - Auxílio
+										financeiro.Número de produções C, T & A: 7
+2003 - 2005
+Projeto de Redes Ópticas Baseado em Anéis Hierárquicos
+Descrição: Este projeto tem por objetivo investigar melhores formas de combinações de diferentes técnicas de resolução do problema de dimensionamento de uma rede óptica de telecomunicações, considerando a arquitetura de anéis hierárquicos. São utilizados métodos de busca heurística baseados em meta-heurísticas tais como: Simulated Annealing , Algorítmo Genético, Tabu Search, e Greedy Randomized Adaptive Search Procedure combinados com métodos de programaçãao matemática como a Programação Linear (LP) e a Programação Linear Inteira Mista (MILP). A combinaçãao dessas técnicas apresentam duas características básicas: A obtenção rápida de uma soluçãao quase-ótima baseada nas metaheurísticas e a obtenção da solução ótima, quando necessário, porém através de um tempo maior de processamento, baseado no MILP. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Elias Silva de Oliveira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2003 - 2005
+Ferramentas de Otimização para Fluxo em Redes Ópticas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Elias Silva de Oliveira - Integrante / Luiz Calazans de Calmon - Integrante / Renato T.R. Almeida - Integrante / Marcelo E.V. Segatto - Coordenador / Luis Carlos Bueno Pereira - Integrante.Número de produções C, T & A: 7

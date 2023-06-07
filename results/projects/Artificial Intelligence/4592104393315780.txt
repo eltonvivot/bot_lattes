@@ -1,0 +1,25 @@
+2019 - Atual
+Algoritmos de visão computacional para o reconhecimento do estado de chaves em subestações de transmissão de energia elétrica
+Descrição: O projeto consiste no desenvolvimento de novos algoritmos de visão computacional para monitoramento do estado de chaves seccionadoras em subestações de transmissão de energia elétrica. Este projeto está associado ao projeto de P&D ?Sistema para Determinação Automática do Estado e Temperatura de Chaves Seccionadoras em SES?, código ANEEL PD-06491-0455/2017, com suporte financeiro da Companhia Paranaense de Energia ? Copel, que tem como entidade executora o Instituto de Tecnologia para o Desenvolvimento ? Institutos Lactec.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Bogdan Tomoyuki Nassu - Coordenador.
+2014 - 2019
+Algoritmos de visão computacional para o reconhecimento do estado de chaves em subestações de distribuição de energia elétrica
+Descrição: O projeto consiste no desenvolvimento de novos algoritmos de visão computacional para monitoramento do estado de chaves seccionadoras em subestações de distribuição de energia elétrica. Este projeto está associado ao projeto de P&D ?Equipamento de Monitoramento de Imagens para Operação de Subestações?, código ANEEL PD-2866-0342/2012, com suporte financeiro da Companhia Paranaense de Energia ? Copel, que tem como entidade executora o Instituto de Tecnologia para o Desenvolvimento ? Institutos Lactec.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Bogdan Tomoyuki Nassu - Coordenador.Número de produções C, T & A: 13
+2014 - 2018
+Medição de Velocidade e Reconhecimento de Veículos Automotores por Processamento Digital de Imagens e Visão Computacional
+Descrição: Projeto aprovado no Edital MCTI/CNPQ/Universal 14/2014 - Faixa A.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Bogdan Tomoyuki Nassu - Integrante / Rodrigo Minetto - Coordenador / LUVIZON, DIOGO C. - Integrante / Ricardo Dutra da Silva - Integrante / Leyza Baldo Dorini - Integrante / Jorge Stolfi - Integrante / André Constantino Botta - Integrante / Icaro de Oliveira e Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2014 - 2016
+Cálculo e casamento rápidos de descritores SIFT.
+Situação: Desativado; Natureza: Pesquisa. Integrantes: Bogdan Tomoyuki Nassu - Coordenador.
+2011 - 2103
+Detecção automática de textos para o auxílio a sujeitos cegos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bogdan Tomoyuki Nassu - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2011
+Controle de câmera montada sobre unidade pan/tilt para visualização de areas distantes em estradas de ferro.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bogdan Tomoyuki Nassu - Coordenador / Masato Ukai - Integrante.
+2009 - 2011
+Extração de trilhos usando visão computacional.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bogdan Tomoyuki Nassu - Coordenador.
+2008 - 2009
+Uso de visão computacional para o reconhecimento de sinalização de estradas de ferro.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bogdan Tomoyuki Nassu - Integrante / Nozomi Nagamine - Integrante / Masato Ukai - Coordenador.

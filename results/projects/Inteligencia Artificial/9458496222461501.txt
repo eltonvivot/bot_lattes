@@ -1,0 +1,61 @@
+2021 - Atual
+Iniciativas de Melhoria de Processos de Software: Um Estudo Multivocal sob a Ótica da Maturidade, Agilidade e Inovação
+Descrição: Analisar os desafios, benefícios e armadilhas das inciativas de melhoria de processos de software sob a ótica da maturidade, agilidade e inovação, em organizações produtoras de software.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sabrina dos Santos Marczak - Integrante / Tayana Conte - Integrante / Daniela Cruzes - Integrante / Gleison Santos - Integrante / Andreia Malucelli - Integrante / Sheila Reinehr - Coordenador / Adriano Bessa Albuquerque - Integrante / Ana Regina Rocha - Integrante / Monica Anastassiu - Integrante / Regina Fabia Albuquerque - Integrante.Financiador(es): Pontifícia Universidade Católica do Paraná - Auxílio
+										financeiro.
+2021 - Atual
+SENOBR - Software Engineering Practices and Experiences Exchange between Norway and Brazil
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sabrina dos Santos Marczak - Integrante / Tayana Conte - Integrante / Daniela Cruzes - Coordenador / Sheila Reinehr - Integrante / Letizia Jaccheri - Integrante.Financiador(es): Norwegian Agency for International Cooperation - Auxílio
+										financeiro.
+2018 - Atual
+Design Thinking no Desenvolvimento de Software
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Sabrina dos Santos Marczak - Coordenador.Número de produções C, T & A: 3 / Número de orientações: 1
+2018 - Atual
+Scalability Evaluation of Pivotal Labs Practices
+Descrição: Em parceria e financiado pela Dell Inc., este projeto visa definir um modelo de aceleração da adoção da metodologia do Pivotal Labs em um ambiente ágil distribuído e de larga escala. Projeto iniciado em Março/2018, duração de 3 anos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Sabrina dos Santos Marczak - Integrante / Ricardo Mello Bastos - Coordenador.Financiador(es): Dell Inc - Auxílio
+										financeiro / Dell Inc - Outra / Dell Inc - Bolsa.Número de produções C, T & A: 5 / Número de orientações: 2
+2017 - 2020
+Estudando a Adoção de Ecossistemas de Software
+Descrição: Com financiamento do edital Universal/CNPq, o projeto visa entender os fatores que influenciam a adoção e permanência de desenvolvedores de software de certos ecossistemas de software. Projeto iniciado em Junho/17, duração de 3 anos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Sabrina dos Santos Marczak - Integrante / FILHO, FERNANDO FIGUEIRA - Integrante / SOUZA, CLEIDSON DE - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2017 - 2020
+Levantamento Nacional sobre a Adoção de Métodos Ágeis de Desenvolvimento de Software
+Descrição: Com financiamento do edital Universal/CNPq, este projeto visa a realização de uma survey sobre o estado da prática de uso dos métodos ágeis na indústria de software do Brasil. Projeto iniciado em Junho/17, duração de 3 anos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sabrina dos Santos Marczak - Integrante / Rafaela Mantovani Fontana - Coordenador / Rafael Romualdo Wandresen - Integrante / Andreia Malucelli - Integrante / Sheila dos Santos Reinehr - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2015 - 2016
+Large Scale Agile in Globally Distributed Settings
+Descrição: This project aimed to define a maturity model for agile distributed teams in large scale environments.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sabrina dos Santos Marczak - Coordenador / Rafael Prikladnicki - Integrante.Número de produções C, T & A: 4
+2015 - 2016
+Adicionando Inteligência no Tratamento de Solicitações de Aplicações em uma Plataforma Digital Pervasiva: O Estudo de Caso de um Campus Acadêmico Inteligente
+Projeto certificado pelo(a) coordenador(a) Fabiano Passuelo Hessel em 10/07/2018.
+Descrição: IoT. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Sabrina dos Santos Marczak - Integrante / Fabiano Hessel - Coordenador / Leonardo Albernaz Amaral - Integrante.Número de produções C, T & A: 5
+2014 - 2017
+Gameficação em Desenvolvimento de Software: Transformando como Equipes de Software Colaboram Visando o Aumento do Desempenho de Projetos de Software
+Descrição: Este projeto teve como objetivo entender como gamification pode ser usado no apoio ao desenvolvimento de software. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Sabrina dos Santos Marczak - Coordenador / FILHO, FERNANDO FIGUEIRA - Integrante.Número de produções C, T & A: 5
+2012 - 2015
+Requirements-driven Collaboration in Agile Teams
+Descrição: This project aims to identify requirements-driven collaboration patterns among agile teams. More specifically, we aim to expand the previous work conducted in traditional teams and compare whether the patterns previously identified hold when teams are working based on agile practices.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sabrina dos Santos Marczak - Integrante / Irum Inayat - Integrante / Siti Salwa Salim - Coordenador.Número de produções C, T & A: 5
+2012 - 2014
+On the Performance of Distributed Software Projects
+Descrição: This project aims to investigate characteristics that impact on the performance of distributed software projects. Sponsored by Dell Inc. Renomeado para GlobalIT em 2014. Com a participação do prof. Marcelo Perin da FACE no ano de 2014.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Sabrina dos Santos Marczak - Coordenador / Rafael Prikladnicki - Integrante / Josiane Kroll - Integrante / Alan Santos - Integrante / Christiano Ayub - Integrante / Lucélia Chipeaux - Integrante.Número de produções C, T & A: 2
+2011 - 2014
+Trust in Global Software Teams
+Descrição: This project aims at investigating the role of trust in global software teams and its impact in the team productivity. This is a project developed in partnership with the University of California, Irvine, US.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Sabrina dos Santos Marczak - Integrante / Rafael Prikladnicki - Integrante / Ban Al-Ani - Coordenador / David Redmiles - Integrante / Erik Trainer - Integrante / Matthew Bietz - Integrante / Oliver Wang - Integrante.Número de produções C, T & A: 8
+2011 - 2013
+Collaboration Practices and Organization Structure
+Descrição: Extensão do projeto de doutorado, desenvolvido em parceria com o prof. Remko Helmes e Benjamin Koelewijn, Utretch University, The Netherlands, e profa. Daniela Damian, University of Victoria, Canada ? a ser concluído em Julho, 2013.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sabrina dos Santos Marczak - Coordenador / Daniela Damian - Integrante / Remko Helmes - Integrante / Benjamin Koelewijn - Integrante.Financiador(es): Utretch University - Bolsa.Número de produções C, T & A: 1
+2011 - 2012
+On the Relationship of Requirements-Driven Collaboration and Media Usage
+Descrição: Extensão do projeto de doutorado, visando identificar como emails influenciam o entendimento de requisitos e práticas de colaboração entre integrantes de uma equipe de projeto. Em fase de concepção. A ser realizado entre Setembro, 2012 e Agosto, 2013. Em colaboração com a Profa. Daniela Damian, University of Victoria, Canada e Eric Knauss, University of Hannover, Germany.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sabrina dos Santos Marczak - Integrante / Irwin Kwan - Integrante / Daniela Damian - Integrante / Eric Knauss - Coordenador.Financiador(es): Natural Sciences and Engineering Research Council of Canada - Remuneração.Número de produções C, T & A: 1
+2006 - 2011
+Requirements-Driven Collaboration in Software Projects
+Descrição: The main goal of this research project was to further the understanding about requirements-driven collaboration. To achieve this goal, we (1) empirically examine processes of communication and knowledge management in the coordination necessary to the development of software requirements in order to further the understanding of requirements-driven collaboration, and (2) developed a framework that defines an approach to examine requirements-driven collaboration and that offers a set of techniques that allows one to perform this examination.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Sabrina dos Santos Marczak - Integrante / Irwin Kwan - Integrante / Daniela Damian - Coordenador.Financiador(es): Natural Sciences and Engineering Research Council of Canada - Bolsa.Número de produções C, T & A: 7
+2002 - 2003
+Implementação do modelo SW-CMM Nível 2, Dell Brasil
+Descrição: Pesquisadores do Centro de Pesquisa em Processo de Software - CPPS, criado em parceria entre a PUCRS e a Dell Brasil, acompanharam a definição e institucionalização dos processos de software do modelo SW-CMM Nível 2 na unidade de desenvolvimento de software da Dell Brasil. Os pesquisadores atuaram como analista de software e auxiliar de gerente de portfólio de projetos durante o projeto como forma de vivenciar as lições aprendidas mais proximamente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sabrina dos Santos Marczak - Integrante / Luciana Sá - Integrante / Jorge Luis Nícolas Audy - Coordenador.Número de produções C, T & A: 4
+2002 - 2003
+NICODEMUS: Assistente Virtual
+Descrição: Projeto para a modelagem e implementação de um assistente virtual para o apoio do processo de ensino-aprendizagem suportado à distância.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sabrina dos Santos Marczak - Integrante / Lucia Maria Martins Giraffa - Coordenador / Gláucio Almeida - Integrante / Luana Bernardino - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 4
+1998 - 2000
+OOLDER: Fase de Aplicação
+Descrição: Os objetivos gerais da Fase de Aplicação do Projeto OOLDER são : adquirir experiência no 
+desenvolvimento de componentes potenciamente reutilizáveis, em particular frameworks, padrões de projeto e linguagens de padrões; disseminar esta experiência, buscando a melhoria da qualidade do ensino ministrado a nível de graduação e pós-graduação da Faculdade de Informática da PUCRS, bem como consolidação das pesquisas sobre este tema junto à PUCRS;  estudar e propor soluções para questões referentes às atividades de engenharia de aplicação e desenvolvimento de aplicação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Sabrina dos Santos Marczak - Integrante / Karin Becker - Coordenador / Luciana de Araújo Spagnoli - Integrante / Luciano Gerber - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 5

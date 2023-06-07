@@ -1,0 +1,38 @@
+2022 - Atual
+Modelos formais em simulação e jogos
+Descrição: A simulação computacional é utilizada em inúmeras áreas de investigação científica
+e produção de tecnologia, e é uma peça importante em softwares multimídia e
+jogos. Aplicações nessa última classe incorporam simulação de variáveis contínuas,
+mas dependem principalmente do tratamento de estados e comportamentos com
+caráter discreto, o que podem envolver problemas adicionais como planejamento
+sob restrições. Via de regra essas funcionalidades são implementadas diretamente
+em código a partir de levantamentos de requisitos. A investigação do uso de
+métodos formais e da interface entre representações mais abstratas e geração de
+código cobre uma lacuna prática nesse contexto, uma vez que tais soluções são
+raras fora do universo de aplicações em áreas específicas de Ciências Exatas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Koscianski - Coordenador.
+2017 - Atual
+Simulação urbana
+Descrição: Foco atual de orientações de mestrado e graduação.
+Simulação Urbana é ferramenta em diversos problemas de planejamento (trânsito, administração pública, saúde, segurança, investimento privado).
+As orientações em andamento lançam estudos e especulações em torno desses tópicos, de acordo com possibilidades e interesses dos alunos.
+O tema-base é expansão de cidades.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: André Koscianski - Coordenador / Ellen Cristina Wolf Roth - Integrante.Financiador(es): Universidade Tecnológica Federal do Paraná - Auxílio
+										financeiro.
+2011 - 2013
+EMaths 2.0
+Descrição: Projeto em cooperação com o INSA de Lyon, França e BUAP em  Puebla, México. Construção de um site internet interativo com materiais de suporte ao ensino de Cálculo para graduação. Projeto M.I.R.A.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Koscianski - Coordenador / Sani de Carvalho Rutz da Silva - Integrante / Nilcéia Aparecida Maciel Pinheiro - Integrante / Guy Athanaze - Integrante / Enrique Sanchez Albarracín - Integrante / Luis Maurício Martins de Resende - Integrante.
+2009 - 2017
+Edutainment
+Descrição: Desenvolvimento de vídeos digitais e jogos computacionais para ensino.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado profissional: (3) . Integrantes: André Koscianski - Coordenador.Financiador(es): Fundação Araucária - Auxílio
+										financeiro.
+2009 - 2010
+Desenvolvimento de Multimídia com Propósito Educacional
+Descrição: Produção de multimídia/software educacional abrangendo conteúdos de Física no Ensino Médio; e de Sistemas Operacionais no Ensino Superior.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: André Koscianski - Coordenador / Rafael João Ribeiro - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2008
+Jogos em Educação
+Descrição: Estudo de jogos, simuladores e outros recursos computacionais com propósito didático. Desenvolvimento de aplicações. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (2) . Integrantes: André Koscianski - Coordenador / Sani de Carvalho Rutz da Silva - Integrante.
+2006 - 2007
+Implementação de Nelder-Mead globalizado em um ambiente de rede, conforme projeto de Ded. Exclusiva
+Descrição: O projeto visa em primeiro lugar implementar o método de otimização descrito em (Luersen 2003). O algoritmo de minimização em ambiente distribuído é de extremo interesse para uso subseqüente em trabalhos de simulação.
+M. A. Luersen, R. Le Riche, and F. Guyon. A constrained, globalized and bounded
+nelder-mead method for engineering optimization. Struct Multidisc Optim, 2003. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Koscianski - Coordenador / Marco A Luersen - Integrante.

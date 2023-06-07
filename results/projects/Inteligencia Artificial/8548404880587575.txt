@@ -1,0 +1,49 @@
+2022 - Atual
+DESENVOLVENDO ALGORITMOS DE APRENDIZADO DE MÁQUINA ONLINE PARA PROCESSOS ESTOCÁSTICOS
+Descrição: Busca-se com esse projeto o desenvolvimento de novas abordagens de combinação de preditores de processos estocásticos e seus resíduos.  
+O foco é aprimorar a qualidade de predição de modelos de processos de renovação generalizados  e séries temporais. 
+Especificamente, são estudados modelos de regressão baseados em vetores de suporte, redes neurais artificias, cópulas e redes Bayesianas para o aprendizado online do comportamento de resíduos provenientes de formalismos de predição de processos estocásticos diversos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Paulo Renato Alves Firmino - Coordenador / Frank Sinatra Gomes da Silva - Integrante / DA SILVA, TACIANA ARAÚJO - Integrante.
+2016 - 2018
+Aprimorando modelos estatísticos dedicados a processos estocásticos
+Descrição: Desenvolvem-se modelos voltados a processos de renovação generalizados e estratégias de combinação de preditores. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Paulo Renato Alves Firmino - Coordenador / Tiago Alessandro Espínola Ferreira - Integrante / Cláudio Tadeu Cristino - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2015 - 2016
+Modelagem estatistica, simulação e otimização de risco com foco na UFCA como polo gerador de viagens
+Descrição: Projeto estuda a mobilidade urbana em torno da Universidade Federal do Cariri.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Renato Alves Firmino - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2015 - 2015
+Otimizando gastos e investimentos de instituições de ensino superior
+Descrição: Projeto dedicado ao estudo de desperdícios e alternativas de otimização no uso de recursos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Renato Alves Firmino - Coordenador.Financiador(es): Universidade Federal do Cariri - Bolsa.Número de produções C, T & A: 2
+2012 - 2015
+Aprimoramento de Processos de Edução do Conhecimento e suas Aplicações no Planejamento de Experimentos e na Previsão de Séries Temporais
+Descrição: A opinião de especialistas tem se firmado como uma das principais alternativas para lidar com incerteza, seja devido à escassez de dados propriamente ditos, seja devido à acurácia de especialistas em comparação a modelos puramente baseados em dados. Um processo de edução é composto por uma série de etapas  que, a depender do nível de sofisticação, podem comprometer a aplicabilidade do processo devido ao seu alto custo em termos de consumo de tempo. De fato, ainda verifica-se carência de estudos que promovam processos de edução compromissados não apenas com a acurácia dos modelos obtidos mas também com um melhor desempenho em termos de eficiência (consumo de tempo). Este projeto tem por objetivo aprimorar a eficiência de processos de edução e verificar o impacto disto na acurácia dos modelos obtidos, possibilitando o desenvolvimento de processos que permitam o equilíbrio entre ambos os atributos. A fim de estudar um terceiro atributo, denominado especificidade, o projeto dedicará atenção a dois problemas estratégicos para as diversas áreas do conhecimento: a determinação de tamanhos amostrais e a previsão de séries temporais. Busca-se com o estudo da especificidade verificar a importância de se desenvolver processos de edução customizados ao problema em mãos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Paulo Renato Alves Firmino - Coordenador.
+2012 - 2014
+Desenvolvimento de Metodologia para Agregação de Previsões de Modelos de Séries Temporais: Alinhando Cópulas e Estimadores de Máxima Verossimilhança
+Descrição: Este projeto se dedicará a estudar estimadores de máxima verossimilhança voltados à agregação previsões de diversos modelos ajustados a uma mesma série temporal. O estudo se dedicará particularmente aos modelos de previsão cujos erros não são normalmente distribuídos. Assim, buscar-se-á promover melhores previsões para uma dada série temporal à luz de estimativas provenientes de uma coleção de modelos elaborados previamente. A metodologia elaborada a paritr de uma revisão de literatura e de novas propostas será implementada a partir de linguagens de programação, com o intuito de facilitar o seu uso por profissionais dos diversos setores a partir de uma interface amigável com o usuário. Desta forma, patentes serão eventualmente geradas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Paulo Renato Alves Firmino - Integrante / Tiago Alessandro Espínola Ferreira - Coordenador.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2011 - 2013
+Avaliação do Desempenho de Métodos de Quantificação do Conhecimento
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Paulo Renato Alves Firmino - Coordenador.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2003 - 2003
+Gerenciamento dos Riscos da Infra-Estrutura do Gás Natural Baseado na Confiabilidade
+Descrição: Os objetivos são: identificação de modos de falhas e causas associadas; desenvolvimento de taxonomia do banco de
+dados de confiabilidade e risco baseando-se nos resultados do item anterior; análise dos tempos de falha e reparo de
+equipamentos; avaliação da confiabilidade e disponibilidade de equipamentos na distribuição de gás natural. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) . Integrantes: Paulo Renato Alves Firmino - Integrante / ENRIQUE LÓPEZ DROGUETT - Coordenador / Regilda da Costa Silva Menêzes - Integrante / Wagner Barbosa dos Santos - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2002 - 2004
+Confiabilidade e risco na perfuração e completação de poços
+Descrição: Projeto possui os seguintes objetivos: desenvolvimento de metodologia Bayesiana para a avaliação do tempo de duração
+de operações envolvidas em intervenções baseando-se em informações obtidas a partir do banco de dados corporativo e
+opiniões de especialistas; desenvolvimento de metodologia de modelagem e simulação da confiabilidade relacionada ao
+desenvolvimento (projeto) e uso de novas tecnologias. Note-se que esta etapa incluirá a quantificação de outros atributos
+de confiabilidade como disponibilidade (temporal), tempo esperado entre ocorrências (como falhas, atividades de
+manutenção), probabilidade de se concluir uma atividade relacionada à nova tecnologia dentro de um determinado
+intervalo de tempo; desenvolvimento de algoritmo para a quantificação de árvores de falha, possibilitando-se a elaboração
+e avaliação da probabilidade de ocorrência de cenários indesejados (acidentes) com possíveis conseqüências ao
+meio-ambiente e vida humana. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (5) . Integrantes: Paulo Renato Alves Firmino - Integrante / WANDERLEY SILVA DAMACENO - Integrante / ENRIQUE LÓPEZ DROGUETT - Coordenador / PEDRO IGOR MOREIRA - Integrante / Regilda da Costa Silva Menêzes - Integrante / Wagner Barbosa dos Santos - Integrante / Márcio José das Chagas Moura - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2001 - 2002
+Técnicas de Modelagem
+Descrição: Avaliação do problema de modelagem inversa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Renato Alves Firmino - Integrante / CLÁUDIA REGINA OLIVEIRA LIMA - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2000 - 2001
+Técnicas de Amostragem
+Descrição: Desenvolvimento de técnicas para o processo de amostragem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Renato Alves Firmino - Integrante / MANOEL SENNA JÚNIOR - Coordenador.Financiador(es): Universidade Federal de Pernambuco - Bolsa.

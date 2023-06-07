@@ -1,0 +1,103 @@
+2021 - Atual
+Innovation Center on Artificial Intelligence for Health
+Descrição: The focus of the Innovation Center on Artificial Intelligence for Health (CIIA-Health) project is to advance the research and development of artificial intelligence (AI) techniques and solutions to assist doctors and health professionals in the diagnosis and treatment of diseases and health managers in the organization of preventive health care actions to optimize the use of resources and improve the health of the population in Brazil. It is a multidisciplinary and multi-institutional research center, integrating the areas of computer science, physics, electrical and electronic engineering with health and wellness areas, such as medicine, pharmacy, nursing and biochemistry and immunology.
+The organizational arrangement for the center includes the private sector, with companies in the area of ​​health, technology and education, which in addition to financing part of the project, bring relevant problems, data and technological knowledge. The companies are Unimed-BH, Kunumi, Intel and Facens. The institutional arrangement of the Center will allow the group of researchers to advance the frontier of knowledge in the field of AI, as well as in health care techniques and procedures, supported by the innovative use of AI. This is evident in the Research Plan by the quality and scientific excellence of researchers in both AI and health care.
+The center includes 95 researchers with CNPq productivity grants, 19 of which are top researchers in the Brazilian ranking.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcio Sarroglia Pinho - Coordenador / Rafael Prikladnik - Integrante / Soraia Musse - Integrante / Rafael Heitor Bordini - Integrante / Wagner Meira Junior - Integrante / VIRGILIO AUGUSTO FERNANDES ALMEIDA - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2020 - 2022
+Estudo sobre Interfaces de RV e RA para entretenimento, esporte e jornalismo
+Descrição: O desenvolvimento de tecnologias de representação digital permite construir mundos digitais e também utilizar aparelhos como lentes para completar o espaço ao redor com camadas de informação visual. Assim, a pesquisa proposta para o próximo ciclo junto à Globo.com busca compreender o potencial da Realidade Aumentada (RA) para aplicação junto às diversas áreas de atuação da empresa. Para tanto, o grupo formado por pesquisadores da Escola de Comunicação, Artes e Design ? Famecos e da Escola Politécnica irá estudar as interfaces da tecnologia com os temas e avaliar questões relativas à experiência do usuário (UX). No final do período, espera-se desenvolver um protótipo prático e um documento com orientações para a aplicação do recurso pelos colaboradores, no estilo das Human Interface Guidelines da Apple.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Marcio Sarroglia Pinho - Integrante / Eduardo Pellanda - Coordenador / André Fagundes Pase - Integrante.
+2020 - Atual
+Inteligência Artificial na Avaliação da Síndrome Respiratória Aguda Grave
+Descrição: Objetivos:
+Estimar a quantidade de leitos para tratamento de pacientes com síndrome respiratória aguda, com auxílio da inteligência artificial aplicada à tomografia computadorizada de tórax, a partir da evolução da doença.
+Objetivos específicos:
+- Avaliar os fatores preditores de mortalidade, internações e sequelas pulmonares nos pacientes com infecção respiratória aguda;
+- Avaliar a acurácia de algoritmos de inteligência artificial para a detecção de achados radiográficos de tórax;
+- Avaliar a prevalência dos achados de tórax através de algoritmos de inteligência artificial nos pacientes com infecção respiratória aguda;
+- Caracterizar os pacientes com suspeita ou confirmados para infecção por SARS-COV-2 através de ensaio molecular; - Analisar os sinais e sintomas clínicos em pacientes com suspeita ou confirmados para infecção por COVID-19;
+- Identificar o número de pessoas com infecção positiva para COVID-19;
+- Identificar padrões ou alterações imaginológicas dos pacientes com infecção positiva para COVID-19;
+- Identificar possíveis relações dos achados clínicos e de exame de imagem com a idade do paciente com infecção positiva para COVID-19;
+- Avaliar a evolução do quadro clínico e imaginológico dos pacientes com suspeita ou confirmados para infecção por COVID-19.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Marcio Sarroglia Pinho - Coordenador / Isabel Harb Manssour - Integrante / Rafael Heitor Bordini - Integrante / Bruno Hochhegger - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2018 - Atual
+Desenvolvimento de um sistema inversor de visualização de lateralidade corporal (Mirror Up) como estratégia terapêutica adjuvante na reabilitação sensório-motora funcional de sujeitos acometidos por acidente vascular cerebral
+Descrição: Este projeto pretende criar um dispositivo de visualização na forma de um capacete de realidade virtual que permita aplicar o princípio da terapia do espelho, para reabilitação de pacientes com sequelas sensório-motoras pós-acidente vascular cerebral. A ideia central é que o paciente observe seu corpo e o mundo ao seu redor através da tela do capacete e que nesta tela as imagens sejam exibidas lateralmente invertidas. Durante a observação da imagem invertida, o paciente será levado a executar tarefas que exijam movimentos dos membros (braços ou pernas). Estas tarefas serão executadas por meio de jogos que que o paciente terá de interagir com objetos virtuais que aparecerão sobre as imagens reais. Após o desenvolvimento do capacete e do aplicativo de inversão o projeto passará à fase de avaliação, na qual serão testadas a segurança, a aceitabilidade e a efetividade do sistema proposto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcio Sarroglia Pinho - Coordenador / Regis Gemerasca Mestriner - Integrante / Denizar Alberto da Silva Melo - Integrante / Léder Leal Xavier - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2016 - 2018
+Desempenho de longevos caidores e não caidores através de uma avaliação quantificada do Timed Up and Go (TUG) utilizando um aplicativo de smartphone
+Descrição: Projeto que avaliou uma ferramenta de análise da marcha(caminhada) de longevos com base em um aplicativo de celular.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcio Sarroglia Pinho - Integrante / BÓS, ÂNGELO JOSÉ GONÇALVES - Coordenador / Gabriela Guimarães Oliveira - Integrante.
+2014 - 2018
+Automatização do Monitoramento do Comportamento Animal
+Descrição: O objetivo geral deste projeto é estabelecer uma rede de cooperação entre áreas com o intuito de criar um software capaz de quantificar parâmetros comportamentais importantes para avaliação de diferentes tipos de memórias.
+Objetivos Específicos:
+Implementar um sistema de captura de imagens no Centro de Memória, Instituto do Cérebro da PUCRS.
+2. Desenvolver, avaliar e implementar um software de análise de imagens do comportamento animal capaz de auxiliar nas pesquisas referentes aos:
+mecanismos envolvidos na formação e extinção de memórias aversivas; mecanismos envolvidos na consolidação e reconsolidação de memória de reconhecimento de objetos;
+mecanismos envolvidos na formação e manutenção da memória espacial e memória social.
+3. Estabelecer uma rede de cooperação acadêmico-científica entre as áreas de medicina e informática.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Marcio Sarroglia Pinho - Coordenador / MYSKIW, JOCIANE DE CARVALHO - Integrante / IZQUIERDO, IVAN ANTONIO - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Auxílio
+										financeiro.
+2012 - 2016
+MRM - Sistemas Integrados Multiprocessados para Suporte a Realidade Aumentada em Dispositivos Móveis
+Descrição: O presente projeto de pesquisa endereça três dos múltiplos eixos de pesquisa necessários à manutenção do passo de evolução da sociedade da informação. Primeiro, pesquisa-se o processo de projeto e verificação de dispositivos eletrônicos complexos. Segundo, aborda-se o desenvolvimento de abstrações de uma certa classe, a de aplicações de realidade aumentada. Terceiro, investiga-se a usabilidade de produtos móveis dotados de sistemas integrados multiprocessados (em inglês, multiprocessor systems on chip ou MPSoCs) e executando aplicações de realidade virtual. Esta composição deriva da natureza dos grupos e linhas de pesquisa envolvidos... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (9) . Integrantes: Marcio Sarroglia Pinho - Integrante / Milene Selbach Silveira - Integrante / Raposo, Alberto Barbosa - Integrante / Clarisse Sieckenius de Souza - Integrante / Ney Laert Vilar Calazans - Coordenador / sar Augusto Missio Marcon - Integrante / Fabiano Passuelo Hessel - Integrante.
+2012 - 2013
+Neuro-Reabilitação Com Jogos Eletrônicos Controlados Por Movimento Corporal em Idosos
+Descrição: Desenvolvimento de um jogo eletrônico baseado no movimento corporal para reabilitação de idosos com comprometimento cognitivo leve. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Marcio Sarroglia Pinho - Coordenador / DAS NEVES ASSIS, SIMONE A. C. - Integrante / MYSKIW, JOCIANE DE CARVALHO - Integrante / IZQUIERDO, IVAN ANTONIO - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Auxílio
+										financeiro.
+2011 - 2015
+FASE II - Investigação de Novas Abordagens de Imageamento Não-Invasivo da Arquitetura Interna de Depósitos Sedimentares Gerados em Tanques de Simulação Hidráulica
+Descrição: Investigação de Técnicas de Imageamento Não-Invasivo da Arquitetura Interna de Depósitos Sedimentares Gerados em Tanques de Simulação Hidráulica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Marcio Sarroglia Pinho - Integrante / Ana Maria Marques da Silva - Coordenador.
+2011 - 2011
+THEIA - Utilização de Realidade Aumentada para Acesso e Impressão de Plantas 2D
+Descrição: Desenvolvimento de Aplicativo de Realidade Aumentada para ambientes de BIM (Building Information Modeling).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Marcio Sarroglia Pinho - Coordenador.
+2010 - 2014
+Análise de Fibras Musculares em Imagens de Ultrassom
+Descrição: Projeto em parceria com a Faculdade de Educação Física da PUCRS que identificar e mensurar alterações na arquitetura muscular de idosos em submetidos a programas de exercícios físicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcio Sarroglia Pinho - Integrante / Luciano Castro - Coordenador / Rafael Reimann Baptista - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2009 - 2013
+Imagens Petrobras
+Descrição: Projeto financiado pela Petrobras para o estudo e imageamento de solos com técnicas de imagens radiográficas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Marcio Sarroglia Pinho - Integrante / Matheus Alves - Integrante / Otávio Basso Gomes - Integrante / Cristina Scheibler - Integrante / Ana Maria Marques da Silva - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2009 - 2011
+Investigação de Novas Abordagens de Imageamento Não-Invasivo da Arquitetura Interna de Depósitos Sedimentares Gerados em Tanques de Simulação Hidráulica
+Descrição: Investigação de Novas Abordagens de Imageamento Não-Invasivo da Arquitetura Interna de Depósitos Sedimentares Gerados em Tanques de Simulação Hidráulica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Marcio Sarroglia Pinho - Integrante / Ana Maria Marques da Silva - Coordenador.
+2009 - 2009
+SVR 2009 - Simpósio de Realidade Virtual da SBC
+Descrição: Organização do SVR 2009 - Simpósio de Realidade Virtual da SBC, no campus da PUCRS. O SVR é um evento promovido anualmente pela SBC (Sociedade Brasileira de Computação), que visa reunir pesquisadores, projetistas, estudantes e demais profissionais dos meios acadêmicos, industriais e comerciais, do Brasil e do exterior, interessados nos avanços e nas aplicações da realidade virtual e de realidade aumentada.
+O evento visa estreitar os laços entre pesquisadores e destes com a indústria, além de promover troca de experiências e facilitar a interação entre grupos de pesquisa, melhorar as condições de surgimento de novos grupos de pesquisa inter-institucionais, motivar o ingresso na área e mostrar aos participantes os avanços da Realidade Virtual no Brasil e no mundo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcio Sarroglia Pinho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - Atual
+INCT - MACC - Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica
+Descrição: Desenvolvimento de algoritmos, ferramentas, protocolos e protótipos para a aplicação da computação na área de saúde, incluindo Odontologia, Psicologia, Medicina e Educação Física.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Marcio Sarroglia Pinho - Integrante / Rafael Rieder - Integrante / Tales Nereu Bogoni - Integrante / Raul Feijóo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2013
+Ambientes Virtuais para Tratamento de Estresse Pós-Traumático
+Descrição: Projeto em parceria com a Faculdade de Psicologia da PUCRS, está desenvolvendo um ambiente virtual imersivo para tratar pacientes com estresse produzido por assaltos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Doutorado: (1) . Integrantes: Marcio Sarroglia Pinho - Integrante / Rafael Rieder - Integrante / Silvair Frazão - Integrante / Bruno Mairesse Moreira - Integrante / Christian Haag Kristensen - Coordenador.
+2005 - 2009
+Ambiente Virtual para Ensino Médico
+Descrição: Ambiente de Realidade Virtual para ensino de Anatomia e Cirurgia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcio Sarroglia Pinho - Coordenador.
+2005 - 2009
+PAPPE - Fase II - INPACSS
+Descrição: Desenvolvimento de um componente de software para armazenamento e recuperação instantânea de imagens medicas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Sarroglia Pinho - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2005 - 2007
+RPGEDU
+Descrição: Desenvolvimento de um Jogo RPG Didático para 5a. a 8a. séries.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcio Sarroglia Pinho - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2004 - 2005
+Mobile Museum
+Descrição: Este trabalho explora estas alternativas de realce à visitação através de dispositivos móveis, apresentando o processo de design de interação de um sistema de apoio à visitação, que tem como foco apoiar professores na preparação da visita de seus alunos ao Museu. A proposta é permitir ao professor, de posse de um dispositivo móvel do tipo Tablet-PC, construir roteiros de visitação para guiar a pesquisa de seus alunos no Museu.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcio Sarroglia Pinho - Coordenador / Melina Hermann - Integrante / Patrick Calvetti - Integrante / Milene Selbach Silveira - Integrante.Financiador(es): Hp Brasil - Cooperação.Número de produções C, T & A: 2
+2004 - 2005
+PAPPE - Fase I - INPACSS
+Descrição: Desenvolvimento de um componente de software para armazenamento e recuperação instantânea de imagens medicas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Sarroglia Pinho - Coordenador / Isabel Harb Manssour - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2001 - 2003
+Criação de um painel de interface para ambientes virtuais imersivos de realidade virtual
+Descrição: Desenvolvimento de uma ferramenta de interface baseada em um painel, para interação em ambientes virtuais imersios.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Marcio Sarroglia Pinho - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2000 - 2000
+WRV 2000 - Workshop de Realidade Virtual
+Descrição: Organização do WRV 2000 - Workshop de Realidade Virtual, o WRV é um evento que visa reunir pesquisadores, projetistas, estudantes e demais profissionais dos meios acadêmicos, industriais e comerciais, do Brasil e do exterior, interessados nos avanços e nas aplicações da realidade virtual e de realidade aumentada.
+O evento visa estreitar os laços entre pesquisadores e destes com a indústria, além de promover troca de experiências e facilitar a interação entre grupos de pesquisa, melhorar as condições de surgimento de novos grupos de pesquisa inter-institucionais, motivar o ingresso na área e mostrar aos participantes os avanços da Realidade Virtual no Brasil e no mundo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Sarroglia Pinho - Coordenador / Ricardo Reis - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.

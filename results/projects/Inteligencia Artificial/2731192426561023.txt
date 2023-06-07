@@ -1,0 +1,120 @@
+2021 - 2022
+ESTUDO DE MODELOS ALGÉBRICO-DIFERENCIAIS NA BIOFIXAÇÃO DE CARBONO DURANTE O TRATAMENTO DE ÁGUAS RESIDUAIS UTILIZANDO MICROALGAS
+Descrição: A poluição é um fenômeno causado pelo homem, que pode ocorrer em função de uma elevação das concentrações de substâncias naturais ou quando compostos sintéticos não naturais são liberados no meio ambiente. Substâncias orgânicas e inorgânicas que são lançadas no meio ambiente como resultado de atividades aquáticas domésticas, atividades agrícolas e industriais levam à essa poluição e ao aumento da emissão de gases de efeito estufa (MOUCHET, 1986, LIM et al., 2010).
+Cada vez mais a população tem gerado resíduos que são despejados no meio ambiente e estes tem afetado diretamente nos ecossistemas. Com isso, faz-se necessário realizar tratamento desses resíduos através de processos efetivos e a baixos custos. Neste cenário, é de extrema importância encontrar alternativas ecologicamente viáveis para minimizar os impactos ambientais. Além disso, que estes processos gerem um produto final biodegradável e com valor agregado. O tratamento de águas residuais industriais e/ou urbanas utilizando microalgas geram biomassas que podem ser usadas como matéria-prima para produção de biocombustíveis, além de realizarem fixação de CO2 em níveis elevados dependendo do seu processo, diminuindo emissões de gases que causam o efeito estufa.
+Diante disso, para reduzir a poluição e consequente emissão de gases do efeito estufa, alguns estudos estão sendo realizados baseados na produção de microalgas e sua utilização no tratamento de águas residuais. As microalgas podem ser utilizadas para capturar o dióxido de carbono (CO2), contribuindo assim para redução do efeito estufa do planeta. Além disso, a biomassa produzida através do cultivo pode ser utilizada na produção de biocombustíveis, alimentação humana e de animais, dentre outras aplicações (CAMERINE, 2012). Este processo de tratamento a partir da decomposição de matérias orgânicas com microalgas tem um custo consideravelmente baixo em relação a outras técnicas utilizadas (DALRYMPLE et al., 2013). No entanto, o maior desafio deste processo é um entendimento adequado da cinética de crescimento de microalgas em águas residuais e como funciona o mecanismo de biofixação de carbono. Isto para permitir uma operação otimizada nos tanques e lagoas de tratamento de águas residuais. Nesse cenário, a utilização de modelos matemáticos se mostra essencial para um melhor entendimento desses mecanismos.
+A escolha da espécie de microalga adequada é um passo muito importante na realização de estudos para cada finalidade. Esta escolha vai desde a sua composição química até a velocidade de crescimento no meio. Neste projeto, será utilizado o cultivo de microalgas do tipo Chlorella vulgaris que tem estudos promissores relacionados com a conversão de CO2 em tratamento de águas residuais. Esta microalga pode tolerar altas concentrações de CO2, além de ter alta capacidade fotossintética, e pode manter alta taxa de crescimento e taxa de fixação de CO2 em um amplo intervalo de concentrações 0,04 a 18% (v/v). Sendo assim, ela é considerada na literatura uma boa espécie para fixação de CO2 (SINGH e SINGH, 2014; YANG et al., 2015). Além de carbono inorgânico que pode ser obtido a partir de CO2 dissolvido em água, o meio aquático deve conter fontes de nitrogênio inorgânico, fósforo, e ferro para o crescimento desse tipo de microalgas (RICHOMOND, 2008, SHURTZ, et al., 2017).
+A crescente concentração de CO2 na atmosfera é considerada como a principal razão para o aquecimento global e o efeito estufa. Este fenômeno pode ter consequências catastróficas para o meio ambiente. Atualmente, o CO2 está contribuindo com aproximadamente 52% no aquecimento global total (CHEAH et al., 2015).
+Diante disso, várias alternativas vêm sendo estudadas para reduzir cada vez mais esses impactos que a emissão de GEE trazem para o meio ambiente. A redução da liberação acelerada de gases de efeito estufa, em particular CO2, é uma grande preocupação global. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Integrante / Rogério Luz Pagano - Coordenador / Cristina Ferraz Silva - Integrante.
+2021 - 2022
+DESENVOLVIMENTO DE SOFTWARE PARA ANÁLISE DO CULTIVO DE MICROALGAS NO ACÚMULO DE CRÉDITOS DE CARBONO
+Descrição: O mercado de carbono embora ainda não esteja estabelecido já está em franca expansão no mundo, associado a um mercado de cripto moedas. Além disso, essa fixação de carbono se mostra atrativa caso possa ser alcançada por um processo de tratamento de águas residuais que vem ganhando visibilidae, como é o caso da aplicação de microalgas nesse tratamento. Ainda, a crescente concentração de CO2 na atmosfera é considerada como a principal razão para o aquecimento global e o efeito estufa. Este fenômeno pode ter consequências catastróficas para o meio ambiente. Atualmente, o CO2 está contribuindo com aproximadamente 52% no aquecimento global total (CHEAH et al., 2015).
+Cada vez mais a população tem gerado resíduos que são despejados no meio ambiente e estes tem afetado diretamente no ecossistema das sociedades. Com isso, faz-se necessário realizar tratamento desses resíduos através de processos efetivos e a baixos custos. Neste cenário, é de extrema importância encontrar alternativas ecologicamente viáveis para minimizar os impactos ambientais. Além disso, que estes processos gerem um produto final biodegradável e com valor agregado. O tratamento de águas residuais industriais e/ou urbanas utilizando microalgas geram biomassas que podem ser usadas como matéria-prima para produção de biocombustíveis, além de realizarem fixação de CO2 em níveis elevados dependendo do seu processo, diminuindo emissões de gases que causam o efeito estufa. Várias alternativas vêm sendo estudadas para reduzir cada vez mais esses impactos que a emissão de GEE (Gases do Efeito Estufa) trazem para o meio ambiente. A redução da liberação acelerada de gases de efeito estufa, em particular CO2, é uma grande preocupação global (DUARTE et al., 2017; PRABAKAR et al., 2018). Uma fonte de combustível mais limpa com captura eficiente de CO2 e tecnologias de armazenamento podem reduzir potencialmente a liberação de CO2. As microalgas foram estabelecidas como uma alternativa renovável para combustível limpo (biocombustíveis) ou outros processos de conversão de energia juntamente com absorção de CO2 atmosférico. A maioria das espécies de microalgas investigadas mostrou tolerância a concentrações de CO2 na faixa de 5% -10% (v / v) (PRABAKAR et al., 2018).
+Diante disso, para reduzir a poluição e consequente emissão de gases do efeito estufa, alguns estudos estão sendo realizados baseados na produção de microalgas e sua utilização no tratamento de águas residuais. As microalgas podem ser utilizadas para capturar o dióxido de carbono (CO2), contribuindo assim para redução do efeito estufa do planeta. Além disso, a biomassa produzida através do cultivo pode ser utilizada na produção de biocombustíveis, alimentação humana e de animais, dentre outras aplicações. Este processo de tratamento a partir da decomposição de matérias orgânicas com microalgas tem um custo consideravelmente baixo em relação a outras técnicas utilizadas. No entanto, o maior desafio deste processo é um entendimento adequado da cinética de crescimento de microalgas em águas residuais e como funciona o mecanismo de biofixação de carbono. Isto para permitir uma operação otimizada nos tanques e lagoas de tratamento de águas residuais. Nesse cenário, a utilização de modelos matemáticos se mostra essencial para um melhor entendimento desses mecanismos. Além disso, a produção de um software que possa predizer a quantidade de carbono fixada nesse crescimento e, consequentemente, ser usado para avaliar as condições que podem maximar essa biofixação é de grande importância no cenário atual.
+A escolha da espécie de microalga adequada é um passo muito importante na realização de estudos para cada finalidade. Esta escolha vai desde a sua composição química até a velocidade de crescimento no meio. Neste projeto, será considerado inicialmente o cultivo de microalgas do tipo Chlorella vulgaris que tem estudos promissores re. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Integrante / Rogério Luz Pagano - Coordenador / Cristina Ferraz Silva - Integrante.
+2020 - 2021
+DESENVOLVIMENTO DE SOFTWARE PARA O CÁLCULO DA QUANTIDADE E DO TEMPO DE REMOÇÃO MÁXIMA DE FÁRMACOS PRESENTES EM SOLUÇÕES AQUOSAS USANDO CARVÃO ATIVADO
+Descrição: Nos últimos anos a preocupação com o meio ambiente vêm aumentando consideravelmente. Normalmente, as grandes empresas tratam seus efluentes apenas para satisfazer a legislação, entretanto, medidas e ações vêm mudando esse fato. Hoje, as empresas se preocupam com sua imagem, sempre buscando convencer o consumidor de que se importa com o meio ambiente.
+Com o avanço das técnicas de análise, já é possível identificar substâncias que antes não eram detectáveis por apresentarem baixa concentração. Essas substâncias são consideradas poluentes, como fármacos (Akhtar et al., 2016; Zhang et al., 2016), fenóis (Cheng et al., 2016; Ingole et al., 2017), corantes (Koçer e Acemioğlu, 2016; Aljeboree et al., 2017), nitratos (Mazarji et al., 2017; Satayeva et al., 2018).
+Os fármacos correspondem a classe de poluentes que mais se destaca devido a seus efeitos tóxicos e aos danos que causam ao meio ambiente e em seres vivos. Podem ser classificados de acordo com seus efeitos e são eles: anti-inflamatórios, analgésicos, anti-histamínicos, antibióticos, antidepressivos, entre outros (Rakić et al., 2015). Dentre estes, destaca-se o sulfametoxazol, antibiótico sintético com amplo espectro antibacteriano, pertencente ao grupo das sulfonamidas (Ao e Liu, 2017).
+O tratamento de efluentes contaminados com compostos farmacológicos pode ser realizado por meio de vários métodos, tais como adsorção em carvão ativado, membranas, microfiltração, ozonização, biodegradação (Akhtar et al., 2016). No meio de vários métodos para a remoção de fármacos existentes em águas e efluentes encontra-se a adsorção. Entre os adsorventes mais utilizados em pesquisas e industrias o carvão ativado é o que mais se sobressai, existem inúmeros trabalhos publicados por causa da alta capacidade do carvão ativado na remoção dessas impurezas, sua elevada área superficial e afinidade com os compostos são características vantajosas para sua utilização (Torrellas et al., 2015; Darweesh e Ahmed, 2017; Fu et al., 2017).
+Nesse contexto, buscando entender melhor o fenômeno associado a operação de transferência de massa, o trabalho propõe uma modelagem matemática do processo de adsorção do fármaco sulfametoxazol em carvão ativado, seguindo o modelo de difusão para determinar a taxa de transferência de massa do processo e os respectivos parâmetros, utilizando dados colhidos na literatura para avaliação dos resultados encontrados analiticamente.
+Visto que a grande maioria das pesquisas relacionadas com o modelo de difusão apresentam métodos numéricos para obter soluções, esse trabalho tem como principal contribuição a solução exata do sistema de equações diferenciais parciais que regem a transferência de massa na adsorção de fármacos em carvão ativado, buscando, pelo menos, a redução da EDP para EDOs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / Edilson de Jesus - Integrante.
+2019 - 2020
+Integração numérica com base em mudança arbitrária do intervalo de integração.
+Descrição: O cálculo integral, que engloba integração numérica, é uma grande ferramenta da matemática, com larga aplicação em várias áreas ou disciplinas, das quais podem ser destacadas: engenharias, física, química, ensino, estatística e probabilidade, métodos matemáticos, matemática aplicada e outras áreas ou disciplinas afins.
+A determinação da integral definida de uma função contínua (integrando) requer que uma primitiva de tal função seja conhecida, onde vale ressaltar que a derivada de uma primitiva é o integrando. Mas, tal determinação nem sempre é tarefa fácil, pois nem todo integrando tem primitiva de forma explicita. Mesmo que tenha forma explicita, a primitiva é complicada para avaliação.
+Além disso, o integrando pode não ser conhecido em todo seu domínio, apenas são dados alguns valores tabelados do integrando obtidos de experimentos. Por isso, surge a necessidade de integração numérica, ou seja, cálculo aproximado de integral definida, a chamada quadratura numérica.
+Este trabalho pretende contribuir com o estudo de integração numérica, o qual começa com a transformação da integral definida em outra com intervalo arbitrário centrado no zero. Com isso, tal integral centrada será estudada com base em expressões com coeficientes a determinar, as quais envolvem parte par do integrando. Assim, pode-se estudar a influência do intervalo arbitrário centrado no zero na aproximação e no erro.
+Como benefícios esperados podemos destacar o uso de integração numérica em disciplinas que envolvem problemas definidos por integrais definidas, a exemplo de modelos matemáticos, inclusive em equações diferenciais. Retorno para os cursos de Matemática, Física, Engenharia Química, outras Engenharias e outras áreas afins, tanto para alunos como para professores, de Graduação e Pós-Graduação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / Rogério Luz Pagano - Integrante / Edilson de Jesus - Integrante / José da Paixão Lopes dos Santos - Integrante / Gastão Florêncio Miranda Júnior - Integrante.
+2018 - 2019
+Estudo de equações algébricas com base em função representada por contractivo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / SANTOS, EDILSON DE JESUS - Integrante / José da Paixão Lopes dos Santos - Integrante / Gastão Florêncio Miranda Júnior - Integrante / PAGANO, ROGERIO LUZ - Integrante.
+2017 - 2021
+Estudo da Extração Líquido-Líquido de Hidrocarbonetos Aromáticos na Presença de Misturas de Solventes e Eletrólitos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Integrante / Edilson de Jesus - Integrante / José da Paixão Lopes dos Santos - Coordenador / Lúcio Cardozo Filho - Integrante / Vladimir Ferreira Cabral - Integrante / Andressa Carla Feihrmann - Integrante / Alex Barreto Machado - Integrante.
+2017 - 2018
+Limitantes no sentido do ponto fixo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / Edilson de Jesus - Integrante / PAGANO, ROGÉRIO LUZ - Integrante / José da Paixão Lopes dos Santos - Integrante / Gastão Florêncio Miranda Júnior - Integrante.
+2016 - 2017
+ESTUDO DE FUNÇÕES COM BASE EM REPRESENTAÇÃO POR CONTRACTIVO
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.
+2015 - 2016
+Estudo sobre resolução de equações diferenciais com coeficientes de cada série-solução determinados por relações de recorrência generalizadas obtidas com base no método de Frobenius.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.
+2014 - 2015
+Construção de uma base ampliada de informações para grandezas constitutivas de suspensões particuladas.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.
+2014 - Atual
+Cooperação UFS-UEM para o estudo da potencialidade de resíduos de sementes da indústria de polpa de frutas visando à produção de biossorventes magnéticos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Antônio Santos Silva - Integrante / José Jailton Marques - Integrante / SANTOS, EDILSON DE JESUS - Coordenador.
+2013 - 2014
+Estimação de parâmetros de suspensões floculentas com base em modelagem da sedimentação gravitacioanal em proveta
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / Rogério Luz Pagano - Integrante / José Adair Pacífico dos Santos - Integrante.
+2013 - Atual
+Rotas tecnológicas de obtenção de agentes coagulantes floculantes a partir de resíduos de   sementes de frutas visando o tratamento de águas e efluentes
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Integrante / Rogério Luz Pagano - Integrante / Cristina Ferraz Silva - Integrante / Erivaldo Nascimento dos Reis - Integrante / SANTOS, EDILSON DE JESUS - Coordenador.
+2012 - 2013
+Estudo das funções hiperbólicas inversas com base em representação por contractivo
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Coordenador.
+2012 - 2013
+Estudo da funções trigonométricas inversas com base em representação por contractivo
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Coordenador.
+2012 - Atual
+Otimização da produção de hidrogênio em um reator de membrana utilizando um algoritmo heurístico
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Integrante / Pedro Leite de Santana - Integrante / Rogério Luz Pagano - Coordenador / José Adair Pacífico dos Santos - Integrante / SANTOS, EDILSON DE JESUS - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.
+2012 - Atual
+Otimização de um reator de membrana para produção de hidrogênio utilizando algoritmos genéticos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Integrante / Pedro Leite de Santana - Integrante / Rogério Luz Pagano - Coordenador / José Adair Pacífico dos Santos - Integrante / SANTOS, EDILSON DE JESUS - Integrante.
+2011 - 2012
+Solução em série de potências de equações diferenciais ordinárias
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Coordenador / Lucas Diego Mota Meneses - Integrante.
+2011 - Atual
+Núcleo de pesquisa em gás-química e fertilizantes
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Integrante / Pedro Leite de Santana - Integrante / Rogério Luz Pagano - Coordenador / José Adair Pacífico dos Santos - Integrante / SANTOS, EDILSON DE JESUS - Integrante.
+2007 - 2009
+Filtração de suspensões aquosas sob a influência de um campo ultrassônico
+Descrição: Estudo de parâmetros de filtração em campo ultrassônico para suspensões aquosas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Antônio Santos Silva - Integrante / José Jailton Marques - Coordenador.
+2005 - 2006
+Ordenação de Raízes de Equação Algébrica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Antônio Santos Silva - Coordenador.Número de produções C, T & A: 1
+2004 - 2005
+Inversão de Funções com Base em Limitantes no Sentido do Ponto Fixo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Antônio Santos Silva - Coordenador.Número de produções C, T & A: 1
+2003 - 2004
+Limitantes para Raiz Real de Equação Polinomial
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.Número de produções C, T & A: 1
+2002 - 2003
+Correspondência entre Equação de Riccati e Equação Diferencial Linear (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Antônio Santos Silva - Coordenador / Wagner Ferreira Santos - Integrante.Número de produções C, T & A: 3
+2001 - 2004
+Otimização de Métodos de Elevação - Modelagem Matemática para o Método Pneumático de Elevação (UNICAMP-UFS-USP). (FINEP/PETROBRAS-CTPETRO)
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Integrante / Pedro Leite de Santana - Coordenador / Wagner Ferreira Santos - Integrante.Financiador(es): FINEP/PETROBRAS - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2001 - 2002
+Funções Seno e Co-seno Definidas por Limitantes (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.
+2001 - 2002
+Raiz n-ésima e cálculo de potências (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.
+2000 - 2001
+Limitantes para a Função Exponencial (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.
+2000 - 2001
+Limitantes para a Função Logarítmica (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador.
+1999 - 2000
+Contractivos em Integração: Uma Nova Função de Partida (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / Wesley Góis - Integrante.Número de produções C, T & A: 1
+1998 - 1999
+Contractivos em Integrais e Equações Diferenciais (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / Wesley Góis - Integrante.Número de produções C, T & A: 4
+1997 - 1998
+Contractivos em Equações Diferenciais (PIBIC/UFS/CNPq)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Santos Silva - Coordenador / Reginaldo de Melo Rocha - Integrante / Marcos Antonio de Rezende - Integrante.Número de produções C, T & A: 14
+1989 - 1991
+Uma Formulação Matemática para a Filtração
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Coordenador.
+1987 - 1989
+Uma Teoria Matemática para a Sedimentação Diferencial de Dois Sólidos (CNPq processo 305098/86-1/EQ/FV)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Santos Silva - Coordenador.

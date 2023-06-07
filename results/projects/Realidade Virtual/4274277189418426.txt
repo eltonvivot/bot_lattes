@@ -1,0 +1,138 @@
+2023 - Atual
+Métodos estatísticos na pesquisa em Educação Matemática: aplicações e perspectivas
+Descrição: Esta pesquisa tem como objetivo principal investigar a aplicação de métodos estatísticos na 
+pesquisa em Educação Matemática. O foco principal é a análise de dados, especificamente a 
+estatística inferencial e a modelagem preditiva. Esta proposta prevê a investigação dos métodos 
+aplicados nos trabalhos da pesquisa em Educação Matemática a partir da revisão de literatura da 
+área e da busca de informações junto aos programas de pós-graduação nas áreas de Ensino e 
+Educação. Deseja-se identificar os principais métodos e o contexto de aplicação dos mesmos. 
+Para complementar será desenvolvido um produto educacional sobre os principais métodos 
+encontrados na revisão para auxiliar estudantes e pesquisadores. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Elisa Henning - Coordenador / Ivanete Zucchi Siple - Integrante / Luciane Mulazani dos Santos - Integrante / Jarbas Cleber Ferrari - Integrante.
+2022 - Atual
+Métodos estatísticos e de aprendizado de máquina para análise do consumo de água em edificações
+Descrição: Este projeto propõe a aplicação de métodos estatísticos e de aprendizado de máquina para análise do consumo de água
+em edificações. O processo envolverá a investigação de fatores intervenientes no consumo de água, incluindo aspectos
+sociais, demográficos, econômicos, construtivos das edificações e hábitos de consumo dos usuários. Situações de
+estresse hídrico e a presença de políticas públicas para promoção do uso racional de água também podem ser incluídas
+na análise. Serão analisadas diferentes tipologias de edificações, como residências unifamiliares e multifamiliares,
+unidades comerciais e de serviços, pois diferentes tipologias requerem modelos distintos para análises inferenciais
+e preditivas. O método proposto também será aplicado em municípios do estado, considerando as peculiaridades do
+consumo de água urbano e as diferenças regionais.Em relação à abordagem estatística, esta proposta inova ao propor a
+aplicação de diferentes modelos de regressão, com a finalidade de captar a estrutura complexa dos dados. Propõe-se o
+uso de Modelos Lineares Generalizados, Ridge, Lasso, Regressão por Componentes Principais e por Componentes
+Parciais. Modelos de Regressão Geograficamente Ponderada, podem complementar a análise incorporando a estrutura
+espacial local. Com a modelagem estatística espera-se inicialmente identificar os fatores que potencialmente afetam
+o consumo de água e, numa etapa posterior, permitir análises preditivas. Nesse contexto preditivo, propõe-se a
+também a aplicação de métodos de aprendizado de máquina. Serão aplicados os seguintes métodos: Árvores de Regressão,
+Florestas Aleatórias e Regressão por Vetores de Suporte. A cidade de Joinville e o Estado de Santa Catarina serão
+utilizados como estudos de caso para as modelagens. Na cidade será possível avaliar as diferentes tipologias e no
+estado, diferentes municípios. Ao final, espera-se identificar os melhores modelos para cada caso. 
+Projeto com financiamento pela Chamada CNPq/MCTI/FNDCT Nº 18/2021. Termo de outorga (423090/2021-6).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Elisa Henning - Coordenador / Andreza Kalbusch - Integrante / Andrea Cristina Konrath - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2021 - Atual
+GRÁFICOS DE CONTROLE ESTATÍSTICO DE PROCESSOS PARA A ANÁLISE DO CONSUMO DE ÁGUA NO AMBIENTE CONSTRUÍDO
+Descrição: este projeto de pesquisa, tem como objetivo principal
+investigar a aplicação de Gráficos de Controle Estatístico de Processos para a análise e
+monitoramento do consumo de água no ambiente construído. Nesta pesquisa propõe-se a
+aplicação de gráficos de controle paramétricos tradicionais e gráficos de controle livres de
+distribuição. Pretende-se, com o auxílio destes, identificar padrões e mudanças do consumo
+de água.  As análises serão realizadas considerando-se o consumo total e também dividido nas seguintes categorias: residencial, industrial, comercial e pública. Na categoria residencial ainda
+pretende-se analisar separadamente o consumo de residências unifamiliares, condomínios
+horizontais e edifícios multifamiliares. Toda a análise estatística será desenvolvida com
+auxílio da linguagem R. Espera-se contribuir para melhorar a compreensão dos padrões de
+consumo de água da cidade de Joinville e desenvolver uma metodologia que possa ser
+aplicada para análise e monitoramento do consumo de água em outras localidades.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Elisa Henning - Coordenador / ANDREZA, KALBUSCH - Integrante / Allyson Belli Bogo - Integrante.
+2021 - Atual
+Análise de Dados: diversas formas para descobrir e aprender
+Descrição: Esta pesquisa tem como objetivo principal o desenvolvimento de objetos
+educacionais para o ensino de conceitos e aplicações em Estatística. O foco principal
+é a análise de dados, especificamente a estatística inferencial e a modelagem
+preditiva. Esta proposta prevê a investigação das abordagens que façam uso de
+tecnologias e dados reais para contribuir para construção do raciocínio estatístico.
+Deseja-se auxiliar os alunos a descobrir e aprender partir dos dados, sejam estes
+oriundos de amostras pequenas ou de grandes conjuntos de dados. Para contribuir
+na criação e desenvolvimento dos produtos, pretende-se realizar uma extensa
+revisão de literatura sobre os diferentes aspectos da modelagem e da simulação no
+ensino de Estatística na Educação Básica e em cursos de graduação que tenham
+disciplinas de Estatística Básica em seu currículo. Nessa perspectiva pretende-se
+também as investigar habilidades e competências estatísticas esperadas dos
+estudantes. A importância de trabalhar dados reais fará também parte desta
+pesquisa. Para complementar serão organizadas bases de dados com as pesquisas
+desenvolvidas localmente de modo a permitir a construção de objetos educacionais
+voltados à realidade regional e a inclusão de temas transversais no processo de
+ensino aprendizagem. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (3)  / Doutorado: (4) . Integrantes: Elisa Henning - Coordenador / Ivanete Zucchi Siple - Integrante / Sandra Cristina Martini Rostirola - Integrante / Juliano Turmina - Integrante / Katia Hardt Siewert - Integrante / Larissa Vieira Macalós - Integrante / Fernando Alflen - Integrante / Eliton Fernando Felczak - Integrante / Isabela Caroline Hasse - Integrante / JANETE FUECHTER - Integrante.
+2019 - 2021
+Experimentação de ambientes de simulação de realidade mista na formação de professores
+Descrição: O objetivo deste projeto é investigar a utilização de um laboratório de realidade mista (mixed-reality simulation ? MRS) em atividades curriculares de estágio de um curso de formação inicial de professores do Centro de Ciências Tecnológicas (CCT) da UDESC. Serão desenvolvidas, aplicadas e analisadas situações simuladas de práticas de docência na Educação Básica com acadêmicos do curso de Licenciatura em Matemática que cursam disciplina de estágio curricular supervisionado. No estudo, serão utilizados métodos qualitativos e quantitativos de pesquisa, com coleta de dados em grupos focais formados pelos acadêmicos participantes, em publicações de blogs utilizados na disciplina e em questionários aplicados aos acadêmicos. Os dados analisados com apoio em teoria fundamentada, na análise textual discursiva e na estatística descritiva, serão utilizados para elaboração de sequências didáticas de utilização do laboratório de realidade mista na formação inicial de professores na perspectiva da articulação entre teoria e prática dos conhecimentos envolvidos nas disciplinas de estágio. Espera-se, como resultado, um estudo a respeito do processo de criação de salas de aulas simuladas com situações desafiadoras da prática do exercício da docência na Educação Básica para que os licenciandos possam experimentar, simular e preparar as suas próprias práticas, como complemento aos seus processos de formação inicial. A pesquisa se dará em parceria com pesquisadores da Universidade da Flórida Central (UCF), responsáveis pelo TLE TeachLive?, o ambiente de sala de aula de realidade mista, imersiva e simulada por computador que se pretende experimentar no estudo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Elisa Henning - Coordenador / Luciane Mulazani dos Santos - Integrante / Sandra Cristina Martini Rostirola - Integrante.
+2019 - Atual
+Eficiência e desempenho na utilização de água e energia no ambiente construído
+Descrição: O objetivo deste projeto é a avaliação de eficiência e desempenho na utilização de água e energia no ambiente construído. Assim, por meio de pesquisas relacionadas ao consumo de água e energia em edifícios de diferentes tipologias, pretende-se verificar fatores associados ao consumo destes insumos. Com esta contribuição ao conhecimento destas questões, é possível a determinação de ações relacionadas ao uso racional de água e energia, além do desenvolvimento de políticas públicas com o intuito de promover a eficiência na utilização de água e energia no ambiente construído. Aprovado no edital de chamada pública 04//2018 FAPESC - Fundação de Amparo á Pesquisa e Inovação do Estado de Santa Catarina - Termo de Outorga 2019TR594... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Elisa Henning - Integrante / Ana Mirthes Hackenberg - Integrante / Andreza Kalbusch - Coordenador.
+2018 - 2021
+Usos finais e atitudes ambientais: investigando o consumo de água em uma universidade
+Descrição: Este projeto tem por objetivo principal estimar os indicadores de usos finais do consumo e identificar as atitudes e práticas com relação à conservação de água em uma universidade. A determinação dos usos finais de consumo de água será realizada a partir de medições com smartmeters. Pretende-se, por meio da aplicação de questionários, identificar as atitudes e práticas com relação à conservação de água. Espera-se reconhecer se há associação entre fatores ocupacionais, socioeconômicos, demográficos e culturais no que tange às práticas e atitudes declaradas de uso racional desse recurso. As técnicas estatísticas a serem aplicadas para se alcançar o objetivo abrangem a análise exploratória de dados, análise fatorial, análise de clusters e análise de regressão. Os resultados da pesquisa proposta podem contribuir para a efetividade das ações que promovam o uso racional de água.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Elisa Henning - Coordenador / Andreza Kalbusch - Integrante / Janine Garcia - Integrante / Ricardo Adonis Pacheco - Integrante / Pedro Paulo Travasso - Integrante / Leonardo André Broering - Integrante / Maria Izabel do Nascimento - Integrante / Julia Michels - Integrante.
+2018 - 2020
+Reamostragem bootstrap e testes de permutação no ensino de Inferência Estatística
+Descrição: Esta pesquisa tem como objetivo principal desenvolver um objeto de aprendizagem com o uso de
+simulação para o ensino dos conceitos de inferência estatística. Cursos com essa abordagem
+utilizam testes de permutação e reamostragem bootstrap para o ensino de conceitos de Inferência
+Estatística, como estimação por intervalos de confiança e testes de hipóteses. Para auxiliar na
+criação e desenvolvimento do produto, pretende-se investigar objetos educacionais existentes
+para ensino de inferência em cursos de graduação. Do mesmo modo, pretende-se analisar
+aspectos positivos e limitações encontradas no uso dessa abordagem. As experiências no
+exterior serão investigadas por meio de revisão da literatura e as nacionais, além da revisão, a
+partir de aplicação de questionários ou entrevistas. Após o desenvolvimento do produto, o
+mesmo será aplicado em pelo menos uma turma de graduação e analisada sua aceitabilidade e
+opinião pelos alunos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elisa Henning - Coordenador / Luan Juliano Woichechoscki - Integrante / Isabela Chagas Luiz - Integrante.
+2017 - 2020
+OBLABI - Observatório e Laboratório de Práticas Inovadoras em Educação - Edição 2
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Elisa Henning - Integrante / Ivanete Zucchi Siple - Integrante / Luciane Mulazani dos Santos - Coordenador.Número de produções C, T & A: 1
+2017 - Atual
+INVESTIGAÇÃO DE FATORES RELACIONADOS AO CONSUMO NO AMBIENTE CONSTRUIDO  - INTEGRANTE
+Descrição: Neste projeto de pesquisa propõe-se investigar fatores relacionados ao consumo de água em edifícios de diferentes tipologias. Pretende-se aplicar o método proposto em edifícios residenciais, instituições de ensino e edifícios de escritório. O conhecimento das variáveis intervenientes no consumo de água é importante para previsão da demanda de água. A metodologia consiste na coleta e análise de dados de consumo de água, além de dados acerca da localização dos imóveis, da infraestrutura do bairro, informações do projeto arquitetônico e das características construtivas dos edifícios. Para análise do consumo de água, pretende-se utilizar o método de regressão linear múltipla e testar dois modelos diferentes para cada tipologia, com o consumo per capita e o consumo bruto como variáveis dependentes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Elisa Henning - Integrante / Andreza Kalbusch - Coordenador / Janine Garcia - Integrante.Número de produções C, T & A: 2
+2017 - Atual
+Investigação de fatores relacionados ao consumo de água no ambiente construído
+Descrição: Neste projeto de pesquisa propõe-se investigar fatores relacionados ao consumo de água em edifícios de diferentes tipologias. Pretende-se aplicar o método proposto em edifícios residenciais, instituições de ensino e edifícios de escritório. O conhecimento das variáveis intervenientes no consumo de água é importante para previsão da demanda de água. A metodologia consiste na coleta e análise de dados de consumo de água, além de dados acerca da localização dos imóveis, da infraestrutura do bairro, informações do projeto arquitetônico e das características construtivas dos edifícios. Para análise do consumo de água, pretende-se utilizar o método de regressão linear múltipla e testar dois modelos diferentes para cada tipologia, com o consumo per capita e o consumo bruto como variáveis dependentes. Projeto com auxílio financeiro CNPq - Chamada MCTIC/CNPq Nº 28/2018 - Universal/Faixa A - Termo 421062/2018-5.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Elisa Henning - Integrante / Andrea Cristina Konrath - Integrante / Janine Garcia - Integrante / Luis Ricardo Salfer - Integrante / Julia Sborz - Integrante / ANDREZA, KALBUSCH - Coordenador / Jessica Daiane Cunha Schultt - Integrante / Ihor Parcias Olijnyk - Integrante.
+2016 - 2018
+Jogos cooperativos como instrumentos de avaliação da aprendizagem
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (3) . Integrantes: Elisa Henning - Integrante / Ivanete Zucchi Siple - Integrante / Amilcar Oliveira - Integrante / Luciane Mulazani dos Santos - Coordenador / Andrea Cristina Konrath - Integrante / Teresa Paula Costa Azinheira Oliveira - Integrante.Número de produções C, T & A: 3
+2016 - 2018
+As conexões entre álgebra linear e ensino médio: Percepções de professores do ensino superior
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elisa Henning - Integrante / Rogério de Aguiar - Coordenador / Katiani da Conceição Loureiro - Integrante / Ricardo Adonis Pacheco - Integrante.
+2016 - 2018
+Avaliação da qualidade das vias cicláveis de Joinville
+Descrição: Criar uma metodologia para avaliação da qualidade das vias cicláveis do município de Joinville.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Elisa Henning - Integrante / Ana Mirthes Hackenberg - Coordenador.Número de produções C, T & A: 4
+2014 - 2018
+Gráficos de Controle Estatístico de Processos no Monitoramento do Consumo Predial de Água
+Descrição: Os  métodos  estatísticos  estão  sendo  cada  vez  mais  reconhecidos  como  um importante  instrumento  para  diagnosticar  e  otimizar  a gestão  e  operação  de  diversos sistemas, desde os sistemas humanos aos mais complexos sistemas físicos. As aplicações destes  vêm  desempenhando  um  papel  importante  na  solução  de  muitos  problemas,  da indústria à agricultura, passando pelos setores socioeconômico, administrativo e de saúde. Suas aplicações podem ser entendidas como ferramentas para medir, monitorar, controlar e melhorar a qualidade. Assim, este projeto de pesquisa, tem como objetivo estudar e aplicar Gráficos de Controle Estatístico de Processos, para o monitoramento de variáveis relativas ao  consumo  predial  de  água.  Tendências  (aumento  ou  redução) no  consumo  de  água, fatores  que  afetam  o  consumo,  detecção  e  quantificação  de  vazamentos  são  alguns  dos problemas que esta investigação busca abranger. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Elisa Henning - Coordenador / andrea cristina konrath - Integrante / Andreza Kalbusch - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 13
+2014 - 2017
+OBLABI
+Descrição: Observatório e laboratório de práticas inovadoras em educação: do estudo histórico do uso da tecnologia na educação à criação de objetos de aprendizagem para uso em dispositivos móveis. Situação: Concluído; Natureza: Pesquisa. Integrantes: Elisa Henning - Integrante / Ivanete Zucchi Siple - Integrante / Luciane Mulazani dos Santos - Coordenador / Valdir Damázio Júnior - Integrante.
+2014 - 2015
+Estudo das Técnicas de Estatística Multivariada Aplicadas ao Controle Estatístico de Processo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Elisa Henning - Coordenador / andrea cristina konrath - Integrante / Olga Maria Formigoni Carvalho Walter - Integrante.Número de produções C, T & A: 4
+2013 - 2016
+Análise da validação de um instrumento de avaliação docente
+Descrição: Este projeto pretende descrever e discutir as qualidades do instrumento de avaliação docente atualmente aplicado no Centro de Ciências Tecnológicas. Como objetivo principal está a avaliação da validação do instrumento considerando sua confiabilidade da escala e dimensionalidade.   A metodologia abrange uma abordagem estatística multivariada. Para a confiabilidade será aplicado o coeficiente Alpha de Cronbach e o coeficiente Ômega de Mc Donald. A análise de componentes principais e a análise fatorial serão utilizadas e comparadas para verificar a dimensionalidade do instrumento. Complementando a decomposição multilinear será também aplicada para avaliar a dimensionalidade do instrumento. Assim, será possível interpretar e analisar melhor os resultados obtidos, além de avançar na direção de construir um novo instrumento que possa melhor relacionar os resultados da avaliação docente e o processo de ensino aprendizagem.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elisa Henning - Coordenador / Patricia Sanez Pacheco - Integrante / Graciela Moro - Integrante / Luis Gustavo Longen - Integrante.Número de produções C, T & A: 1
+2013 - 2016
+Modelo econométrico para estimar uma matriz origem-destino (matrizo-d) de viagens de bicicletas em redes urbanas no município de Joinville
+Descrição: Modelo econométrico para estimar uma matriz origem-destino (matrizo-d) de viagens de bicicletas em redes urbanas no município de Joinville. Situação: Concluído; Natureza: Pesquisa. Integrantes: Elisa Henning - Coordenador / Ana Mirthes Hackenberg - Integrante / Katiani da Conceição Loureiro - Integrante / Nilzete Farias Hoenicke - Integrante.
+2012 - 2014
+Monitoramento e melhorias em características de qualidade através da aplicação de técnicas estatísticas
+Descrição: Os métodos estatísticos cada vez mais vêm sendo reconhecidos como um importante instrumento para diagnosticar e otimizar a gestão e operação de diversos sistemas, desde os sistemas humanos aos mais complexos sistemas físicos. As aplicações destes vêm desempenhando um papel importante na solução de muitos problemas, da indústria à agricultura, passando pelos setores sócio-econômico, administrativo e de saúde. Grande parte das mais avançadas pesquisas científicas em diversas áreas do conhecimento dependem cada vez mais dos métodos estatísticos. Comprovadamente, métodos estatísticos, como o Controle Estatístico de Qualidade (CEQ), são ferramentas eficazes no processo de investigação, análise e inferências nos mais variados tipos de ocorrências nas diversas áreas do conhecimento humano. Suas aplicações podem ser entendidas como ferramentas para medir, monitorar, controlar e melhorar a qualidade Assim, neste projeto de pesquisa, pretende-se estudar e aplicar gráficos de controle estatístico de Processo no monitoramento de características de qualidade de produtos ou serviços no Estado de Santa Catarina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Elisa Henning - Coordenador / Robert Wayne Samohyl - Integrante / andrea cristina konrath - Integrante / Leandro Zvirtes - Integrante / Rodrigo Gehlen de Marco - Integrante / Camila Correa Ricardo - Integrante / Eduardo da Silva Fernandes - Integrante / Dátila Cristina Mondini - Integrante.Número de produções C, T & A: 6
+2011 - 2012
+Fatores determinantes e padrões de utilização da bicicleta por usuários trabalhadores e estudantes no município de Joinville
+Descrição: Esta pesquisa  pretende descobrir quais os fatores determinantes e os padrões de utilização da bicicleta como meio de transporte por trabalhadores e estudantes no município de Joinville.  A pesquisa será um estudo transversal de base populacional realizado na zona urbana do município de Joinville.  Para esta análise serão utilizados dados já coletados pelo projeto ?Transporte por bicicleta em cidades catarinenses: metodologia para levantamento da realidade e recomendações para incremento da usa participação na mobilidade urbana?. Esta pesquisa foi realizada em cinco cidades catarinenses, incluindo Joinville, situada no norte do estado. O método escolhido para medir a percepção dos indivíduos que usam a bicicleta como meio de transporte ou como lazer foi a aplicação de questionários em rodovias, em domicílios e instituições educacionais. A partir destes dados, já coletados, inicialmente será feita uma análise descritiva para apresentar os dados da amostra em relação às variáveis demográficas, socioeconômicas, padrões de utilização, condições da via de utilização e problemas encontrados para o uso da bicicleta. A associação entre a utilização da bicicleta e as demais variáveis será investigada a partir de razões de prevalência. Para as análises, tanto bruta quanto ajustada, aplicar-se-á o modelo de regressão de Poisson, que estima diretamente as razões de prevalência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Elisa Henning - Coordenador / Ana Mirthes Hackenberg - Integrante / Katiani da Conceição Loureiro - Integrante.
+2010 - 2011
+Avaliação de desempenho de um Gráfico MCUSUM com parâmetros aproximados pelo Método da Equação Integral
+Descrição: Este projeto prevê a avaliação de desempenho de um gráfico multivariado de somas acumuladas (MCUSUM) com seus parâmetros estimados pelo Método da Equação Integral. Este será analisado em relação à emissão de alarmes falsos e verdadeiros, com aplicação de simulação Monte Carlo. Para finalizar, o projeto prevê aplicação do gráfico a dados reais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elisa Henning - Coordenador / Custodio da Cunha Alves - Integrante / Robert Wayne Samohyl - Integrante / Leandro Zvirtes - Integrante.
+2005 - 2006
+Controle estatístico do processo com auxílio de ambiente R
+Descrição: O objetivo deste projeto foi estudar o uso do ambiente GNU R no ensino Controle Estatístico da Qualidade. Métodos estatísticos podem ser usados para resolver problemas relativos à melhoria da qualidade de
+produtos e serviços. Estes métodos podem ser aplicados a uma ampla gama de áreas em uma organização,como, por exemplo, processos de fabricação, planejamento, finanças, engenharia, marketing,
+assistência técnica, entre muitos outros. O Controle Estatístico de Processo - CEP - é uma coleção de
+ferramentas que são úteis para resolver problemas envolvendo o monitoramento e controle de um processo e têm
+a capacidade de melhorar o processo através da redução da variabilidade. O R é um ambiente  de computação estatística. Foram trabalhadas as principais ferramentas do CEP, incluindo gráficos de controle para variáveis e atributos e análise da capacidade de processos. Concluiu-se é que R é uma ferramenta alternativa para o aprendizado sobre o controle estatístico da qualidade com a vantagem de fácil acesso.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Elisa Henning - Coordenador.
+2004 - 2005
+Estudo de séries temporais para a previsão de vazões no Rio Cubatão
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Elisa Henning - Coordenador.

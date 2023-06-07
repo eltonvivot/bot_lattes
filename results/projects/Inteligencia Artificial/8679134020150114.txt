@@ -1,0 +1,8 @@
+2005 - 2006
+Simulação Multiagentes Baseada em GRADE para a Dinâmica do Uso do Solo no Sul de Rondônia
+Descrição: Construir e simular cenários para a dinâmica do uso do solo na Região Sul de Rondônia usando um ambiente de simulação multiagentes paralelo - Sim2(ECO) e uma estrutura de computação paralela baseada em processamento em GRADE.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gilson Medeiros e Silva - Integrante / SÉRGIO DE MEDEIROS LUIZ RIVERO - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2005
+Modelar e Simular o Sistema de Atendimento Medico Pré-hospitalar da Cidade de Porto Velho
+Descrição: Estudar a alocação espacial dos serviços de emergência da cidade de Porto Velho e propor uma nova alocação das facilidades.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Gilson Medeiros e Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

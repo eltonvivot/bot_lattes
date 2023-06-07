@@ -1,0 +1,83 @@
+2021 - Atual
+ASSISTÊNCIA DE ENFERMAGEM EM DOENÇAS DE CONDIÇÕES CRÔNICAS E INFECÇÕES SEXUALMENTE TRANSMISSÍVEIS
+Descrição: PROPOSTA DO PROJETO:
+- Pesquisar as evidências científicas sobre o cuidado de enfermagem em diabetes e hipertensão;
+- Pesquisar as evidências científicas sobre o cuidado de enfermagem em pessoas vivendo com HIV/aids, Sífilis e hepatites virais;
+- Pesquisar as evidências científicas sobre o cuidado de enfermagem em tuberculose e  hanseníase;
+- Realizar trabalhos científicos e divulgar os resultados em eventos científicos  e reuniões.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (5) . Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador / Danielle Teixeira Queiroz - Integrante / Maria da Conceição Saboia Coelho - Integrante / Alexandre Jarlles Pereira de Araújo - Integrante / Francisco Marcos de Lima Messias - Integrante / Icaro Tavares Borges - Integrante / Darlyanne Chaves Feitosa Araujo - Integrante.
+2019 - 2021
+COORDENAÇÃO DO CUIDADO À GESTANTE COM SÍFILIS ATRAVÉS DE UMA FERRAMENTA PARA O PRONTUÁRIO ELETRÔNICO DO CIDADÃO
+Descrição: A sífilis se apresenta como um grande problema de saúde pública, pois apesar de ser uma doença milenar, vive-se uma epidemia. Dentre as Tecnologia de  Iformação e Comunicação em Saúde, o prontuário eletrônico, é uma delas, sendo considerado a principal ferramenta. Com o intuito de reorganizar o processo
+de trabalho dos profissionais médicos e enfermeiros da Estratégia Saúde da Família (ESF) com ênfase na coordenação do cuidado durante a assistência pré-natal à gestante com sífilis. Busca-se construir um protótipo a ser inserido no Prontuário Eletrônico do Cidadão(PEC) que seja capaz de contemplar e promover
+a coordenação do cuidado de maneira que seja adequado às necessidades dos profissionais e dos serviços de saúde. Como proposta para o desenvolvimento desta pesquisa, percebeu-se a necessidade de aprimorar o que já existe de prontuário eletrônico. Atualmente, a modalidade de prontuário oficial  que o município de Fortaleza utiliza é Prontuário Eletrônico do Paciente(PEP) chamado de Fast Medic, que não contempla um abordagem adequada com relação a sífilis. O objetivo do presente estudo é conceber uma tecnologia de aprimoramento ao PEC de apoio aos profissionais da Atenção Básica no cuidado a gestante com sífilis. Estudo metodológico que será desenvolvido para construir, validar o conteúdo, aparência e usabilidade do protótipo junto aos especialistas. Para coleta de dados será emitida aos juízes a Carta Convite, o Termo de Consentimento Livre Esclarecido, o protótipo e um instrumento contendo dados de identificação e questões com relação aos aspectos relativos à aparência e ao conteúdo do protótipo. Para validação/o do protótipo quanto ao conteúdo e aparência participarão do estudo os profissionais da ESF e técnicos das Secretarias do
+Município, do Estado e do MS experts com saber e experiência comprovados sobre o tema em estudo.
+Enquanto, para etapa de validação da usabilidade do protótipo participarão do estudo profissionais médicos
+e enfermeiros da ESF que trabalhem no município de Fortaleza, que esteja exercendo suas atividades
+laborais nas UAPS da Secretaria Regional VI e que não tenha participado como juízes no processo de
+validação do conteúdo e aparência.
+Para fase da avaliação da usabilidade do protótipo pelos médicos e enfermeiros da ESF será utilizada a
+técnica de usabilidade onde o público alvo responderão ao questionário System Usability Scale (SUS) para
+avaliar a capacidade de funcionalidade do protótipo. Por fim, os dados serão organizados em tabelas,
+quadros e figuras, sendo analisados estatisticamente pelo Índice de Validade de Conteúdo (IVC). Portanto,
+espera-se com a construção do protótipo melhorar a assistência ao pré-natal da gestante com sífilis, por
+favorecer a comunicação e a promoção da coordenação do cuidado, proporcionando a padronização das
+ações e uma prática segura. Assim, fortalecendo a melhoria da qualidade do atendimento, assegurando
+melhor desfecho materno-fetal, contribuindo dessa forma para mudanças no panorama da sífilis, além da
+otimização de custos.
+A pesquisa será desenvolvida no Laboratório de Inovações (InoLab) do Núcleo Aplicado em Tecnologia da
+Informação (NATI), localizado na Universidade de Fortaleza (UNIFOR). Tem como finalidade propiciar a
+interação do conhecimento teórico com a aplicação prática dos alunos. Dispõe também de infraestrutura de
+hardware e software de vanguarda (e.g. computadores, servidores, datacenter próprio), dispositivos
+computacionais móveis, sensores, internet wifi cabeada), bem como uma equipe de pesquisadores e profissionais de mercado, cujo objetivo é dar suporte à realização de projetos e à formação prática dos alunos envolvidos. Esse Laboratório, portanto, é um espaço dedicado ao Desenvolvimento de projetos de inovação em tecnologia da  nformação. Para validação de conteúdo e aparência os dados serão coletados por meio de um instrumento aos juízes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador / Rosângela Maria Oliveira Pacheco - Integrante.Número de produções C, T & A: 2
+2018 - 2019
+Perfil das Crianças Infectadas Pelo HIV Por Transmissão Vertical no Ceará - BOLSA PBICT FUNCAP
+Descrição: - conhecer o perfil de crianças infectadas pelo HIV por transmissão vertical nos últimos cinco anos no Ceará e Identificar os fatores de risco materno e infantil da transmissão vertical do HIV.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador / ANA LUIZA ARAÚJO DE SOUZA - Integrante.
+2016 - 2019
+TECNOLOGIA E INOVAÇÃO EM ENFERMAGEM VOLTADAS PARA PACIENTES COM DIABETES MELLITUS
+Descrição: Subprojeto 1: CONSTRUÇÃO E VALIDAÇÃO DE APLICATIVO SOBRE O AUTOCUIDADO COM INSULINOTERAPIA EM ADOLESCENTES COM DIABETES MELLITUS TIPO 1
+Considerando o contexto da Diabetes no Brasil, a dificuldade de autocuidado em DM1 adolescente e ainda a carência de um aplicativo (APP) específico para DM1 e a insulinoterapia, o presente projeto propõe a construção de sistema TratBem-Diabetes, como suporte ao controle do Diabetes tipo 1. Este sistema será projetado para auxiliar o acompanhamento do paciente com diabetes tipo 1, jovem e em uso de insulina, fornecendo-lhe apoio social, informacional e psicológico, apoiando-o em tempo integral. Pontua-se com esse trabalho que o uso de tecnologias de informação e comunicação (TICs) voltadas para o autocuidado do diabetes favorecem o controle glicêmico de pacientes adolescentes com Diabetes Mellitus tipo 1.
+SUBPROJETO 2: EFEITOS DE UMA TECNOLOGIA M-HEALTH NO AUTOCUIDADO DE PESSOAS COM DIABETES: ENSAIO CLÍNICO RANDOMIZADO
+O presente estudo ?efeitos de uma tecnologia m-health no autocuidado de pessoas com diabetes: ensaio clínico randomizado assume a finalidade de avaliar o efeito do uso do m-health Diabetes: M no autocuidado de pessoas com diabetes tipo 2 na consulta de enfermagem,  comparando varáveis: conhecimento, atitude e atividades de autocuidado da pessoa com diabetes tipo 2 e indicadores clínicos e laboratoriais da pessoa com diabetes.
+Assim, as evidências que o referido estudo apontar será benéficas para estimular ou não profissionais de saúde a usar tecnologia m-health como aliado a desenvolvimento do autocuidado da pessoa com diabetes. Reafirmar a importância da atuação do enfermeiro na educação para o autocuidado da pessoa com diabetes, estimular o autocuidado na pessoa com diabetes e melhor controle da doença, incentivar o serviço que receberá a pesquisa e outros serviços a desenvolverem atenção à saúde direcionada à pessoa com diabetes.
+Objetivo Geral: Avaliar o efeito de uma tecnologia m-health para o autocuidado de pessoas com diabetes na consulta de enfermagem.
+Objetivos específicos: 
+	Avaliar o efeito do uso do m-health Diabetes: M no autocuidado de pessoas com diabetes tipo 2 na consulta de enfermagem;
+	Comparar o conhecimento, atitude e atividades de autocuidado da pessoa com diabetes tipo 2 com uso e sem uso do m-health Diabetes: M;
+	Avaliar o efeito do uso e não do m-health Diabetes: M nos indicadores clínicos e laboratoriais da pessoa com diabetes;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (2) . Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador / Míriam Calíope Dantas Pinheiro - Integrante / Patrícia Rabêlo Brito - Integrante / Marcilene Brito de Almeida - Integrante / SÉRGIO ALVES RENHE - Integrante / Carolina Sharlene Miranda Sampaio - Integrante.Número de produções C, T & A: 9
+2014 - 2021
+Construção e avaliação de um Programa de Tecnologias Educativas na prevenção do HIV/Aids na população idosa
+Descrição: - Reproduzir e validar o jogo educativo ?Mural do risco? como uma tecnologia de avaliação de autopercepção de risco/ vulnerabilidade do idoso ao HIV/Aids. 
+- Construir e validar uma cartilha educativa destinada a população idosa na abordagem as DST/HIV/Aids. 
+- Produzir e validar um vídeo educativo a partir do conteúdo da cartilha educativa ?Cuidar de si é se amar: Um diálogo sobre HIV/AIDS entre idosos?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Léa Maria Moura Barroso Diógenes - Integrante / Simone Paes Melo - Integrante / Adriano Rodrigues Souza - Integrante / Aline Rodrigues Feitosa - Coordenador / MARIA ELIANA PEIXOTO BESSA - Integrante.
+2010 - 2018
+PESSOAS VULNERÁVEIS AO HIV/AIDS: UM ESTUDO SOBRE OS FATORES DE RISCO
+Descrição: NESTE PROJETO TEM DOIS SUBPROJETOS:
+1. TECNOLOGIA E SAÚDE RELACIONADAS ÀS VULNERABILIDADES DOS JOVENS AO HIV/AIDS
+Objetivos:
+- Identificar as vulnerabilidades relacionadas à infecção pelo HIV por meio de tecnologias em saúde.
+- Objetivou-se construir e validar uma cartilha educativa sobre aspectos relacionados à qualidade de vida de jovens vivendo com HIV/aids.
+2. Tecnologia e Saúde relacionadas às vulnerabilidades dos Jovens ao HIV/aids. Situação: Concluído; Natureza: Pesquisa. Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador / HANNA MARIA REBOUÇAS BEZERRA DE MENEZES - Integrante / DAVYLLA VIRGÍNIA MARTINS COSTA - Integrante / CARLA VIRGINIA DE MORAIS VARELA MORORO - Integrante.
+2010 - 2011
+Bolsista PROBIC - Projeto saúde coletiva
+Descrição: Aluna concluiu pesquisa na área Transmissão vertical do HIV. Situação: Concluído; Natureza: Pesquisa. Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador.
+2009 - Atual
+Grupo de Pesquisa Saúde Coletiva
+Descrição: Líder do grupo Saúde Coletiva
+Desenvolvendo estudos na área de IST; tuberculose; hanseníase, diabetes e hipertensão e tecnologias pra promoção da sáude.
+Projetos em andamento:
+1. Construção de tecnologia para prevenção de quedas em idosos no domicílio
+2. Tabela interativa de sífilis: uma tecnologia para apoiar gestores no monitoramento dos casos de sífilis em gestantes
+3. Tecnologia educacional para o desenvolvimento de competência de enfermagem na solução de problemas por meio do design thinking
+4. Tecnologia educacional direcionada para enfermeiros na docência
+5. Instrumento de coleta de dados para auxiliar nos cuidados de enfermagem no contexto das práticas integrativas e complementares
+6. Instrumento de coleta de dados para auxiliar nos cuidados de enfermagem no contexto das práticas integrativas e complementares
+7. Construção e validação de um calendário educativo tipo planner como tecnologia para o autocuidado do paciente com diabetes. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador / Carolina Sharlene Miranda Sampaio - Integrante / Maria de Nazaré Paz Sampaio - Integrante / Maria da Conceição Saboia Coelho - Integrante / Alexandre Jarlles Pereira de Araújo - Integrante / Marcela Bezerra Lima Deodato - Integrante / Francisco Marcos de Lima Messias - Integrante.
+2004 - 2018
+Grupo de Pesquisa auto-ajuda para o cuidado em enfermagem-CNPq;
+Descrição: O projeto desenvolve trabalhos científicos voltados para a área de HIV/aids, tem reuniões sistemáticas. Uma reunião por mês com o grupo completo e uma reunião dividido por temáticas dos participantes com a orientadora. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Léa Maria Moura Barroso Diógenes - Integrante / Marli Teresinha Gimeniz Galvão - Coordenador / Outros - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.Número de produções C, T & A: 10
+1995 - 1998
+Integrante do Grupo FAMEPE-Família: Ensino, Pesquisa e Exten
+Descrição: Desenvolve ações de educação em enfermagem, saúde da família, sociedade e rede sociais de apoio.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador.
+1995 - 1998
+Bolsista de Iniciação Científica do Projeto Construindo o Cu
+Descrição: Desenvolve ações de educação em enfermagem, saúde da família, sociedade e rede sociais de apoio.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Léa Maria Moura Barroso Diógenes - Coordenador.

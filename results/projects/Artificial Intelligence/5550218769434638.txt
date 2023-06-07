@@ -1,0 +1,57 @@
+2019 - 2020
+Doutora Sara, um assistente virtual para marcação de consultas médicas
+Descrição: Esse projeto propõe a implementação de um assistente virtual (ChatBot) chamado Doutora Sara com o objetivo de intermediar a marcação de consultas médicas. O assistente virtual receberá as solicitações do paciente e responderá, preferencialmente, por meio de comandos de voz, permitindo assim uma comunicação em linguagem natural, simples e objetiva.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Barreto Campos - Coordenador / André Oliveira Silva - Integrante.Financiador(es): Instituto Federal da Bahia - Bolsa.
+2013 - 2016
+Modelo de Rastreabilidade da Cadeia do Vinho Baseado em Internet das Coisas Utilizando Redes de Sensores Sem Fio (RSSF) e Identificação por Radiofrequência (RFID)
+Projeto certificado pela empresa VITIVINICOLA SANTA MARIA S A em 26/01/2017.
+Descrição: O presente projeto propõe a elaboração de um modelo de uma rede de rastreabilidade capaz de identificar, rastrear e localizar em tempo real o vinho fabricado no Brasil e disponibilizar esses dados em um sistema de informação por meio da Internet. O vinho produzido no Brasil e comercializado no mercado internacional ainda não está amparado por um sistema eficiente de rastreabilidade. Além disso, as leis que regulam as indústrias de alimentos e boa parte das cadeias de suprimentos de produtos agroindustriais ao redor do mundo estabelecem que a rastreabilidade em toda a produção, fases de transformação e distribuição devem ser garantidas. Nesse sentido, a Internet das Coisas, por meio de Sistemas de Sensores sem Fio que utilizam Identificação por Radiofrequência, tem-se mostrada uma solução promissora para fornecer o histórico de dados, em tempo real, associados a um dado produto, desde a sua fabricação até o descarte. Dessa forma, o presente projeto propõe a elaboração de um modelo de rastreabilidade que forneça informações úteis aos membros da cadeia de suprimentos. Para tanto será concebido e avaliado um modelo de rastreabilidade utilizando as tecnologias de Identificação por Radiofrequência e Redes de Sensores Sem Fio para a cadeia do vinho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (4) . Integrantes: Leonardo Barreto Campos - Integrante / Carlos Eduardo Cugnasca - Coordenador / Bruno Rógora Kawano - Integrante / Roberto Fray da Silva - Integrante / Cássio Vinícius Serafim Prazeres - Integrante / Osvaldo Gogliano Sobrinho - Integrante / Giana de Vargas Mores - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 9
+2010 - 2011
+UM SISTEMA DE BAIXO CUSTO PARA O CONTROLE DO MOVIMENTO DE UMA CÂMERA IP VIA INTERNET
+Descrição: As tecnologias que dão suporte a WEB permitem o desenvolvimento de sistemas cada vez mais poderosos e utilitários
+como, por exemplo, os sistemas de instrumentação e medida baseados em computador. A instrumentação já é
+realidade no cotidiano das pessoas, pois está integrada aos aparelhos eletro-eletrônicos de fácil acesso, em forma tal
+que propicia a criação de ambientes inteligentes.
+Os ambientes inteligentes vêm consolidando-se rapidamente e avança, sobretudo, em residências, onde o uso dessa
+tecnologia destaca-se por propiciar mais conforto, segurança e economia a seus usuários. Todas as vantagens
+decorrem da forma de intervenção sobre o ambiente que é bastante simples, basta estar com um computador ou
+qualquer outro controle com capacidade de acessar o ambiente para exercer controle sobre ele, não exigindo assim, a
+presença física do operador.
+Um aliado dos ambientes inteligentes controlados remotamente está a possibilidade deste ambiente ser assistido vinte e
+quatro horas por dia através de câmeras. Praticamente, todas as organizações, municípios, instituições e negócios
+consideram a segurança e o monitoramento de um ambiente como uma de suas principais prioridades. Nesse contexto,
+o presente projeto propõe a criação de um manipulador com dois graus de liberdade para as câmeras IPs e o
+desenvolvimento de um software que controle o movimento das câmera do módulo de laboratórios do curso de
+Engenharia Elétrica de Vitória da Conquista via Internet.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Barreto Campos - Coordenador / Ítallo Lima e Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2009 - 2011
+TRAPSW: UM TRADUTOR PORTUGUÊS SIGNWRITING
+Descrição: A popularização dos computadores pessoais e da Internet trouxeram uma nova dinâmica para o acesso à informação.
+Através da Internet, é possível conceber e distribuir toda forma de produção cultural, da informação ao entretenimento,
+bem como acessá-los de forma gratuita. Por outro lado, o fácil acesso à informação não é uma realidade de todas as
+pessoas que pelos mais variados motivos não têm acesso às novas tecnologias da informação. Considerando os
+portadores de necessidades especiais, esse problema é agravado, sobretudo, porque a maioria dos softwares é
+desenvolvida sem levar em consideração a acessibilidade. Mesmo assim, algumas iniciativas estão sendo
+desenvolvidas para difundir as línguas de sinais como forma de apoiar a inclusão digital e social dos surdos. Porém, a
+utilização dessas línguas em software ainda é bastante complexa e dispendiosa. Assim, este projeto tem como objetivo
+o desenvolvimento de um software que faça a tradução de textos escritos na Língua Portuguesa para o sistema para
+escrita de línguas de sinais, o SignWriting. O projeto objetiva a compreensão de textos escritos em Português pelos
+surdos sem a perda do sentido e contexto das palavras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Barreto Campos - Coordenador / André Carvalho Madureira Rainer - Integrante.Financiador(es): Instituto Federal da Bahia - Bolsa.
+2009 - 2011
+Desenvolvimento de um Software  para Localização de Chamadas  nos Serviços de Emergência
+Descrição: Os serviços de urgência ? Samu (192), Polícia Militar (190) e Bombeiros (193) 
+? encontram diversas dificuldades para cumprir dignamente sua missão: salvar 
+ou socorrer quem precisa. Uma dessas dificuldades é o mal uso das chamadas 
+telefônicas que chegam a representar, em certas localidades, até 40% das 
+ligações recebidas. Os trotes são tantos que prejudicam o atendimento, 
+correndo risco de descartar uma ocorrência verídica, bem como, o prejuízo 
+financeiro que envolve o deslocamento de uma viatura para uma ocorrência 
+inexistente. Dessa forma, o presente projeto propõe o desenvolvimento de um 
+software capaz de identificar, em um mapa, o endereço preciso de onde a 
+chamada está sendo originada. O projeto pretente coibir e conscientizar a 
+população para o uso correto e responsável dos serviços de urgência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Barreto Campos - Coordenador / Pedro Henrique Rocha Andrade - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2010
+CONTROLANDO O MOVIMENTO DE UM BRAÇO MECÂNICO ATRAVÉS DE DISPOSITIVOS MÓVEIS
+Descrição: As tecnologias sem fio estão cada vez mais populares ao redor do mundo, sobretudo por conta da mobilidade e praticidade que esse tipo de tecnologia proporciona nas comunicações entre pessoas. Esse fato pode ser visto como
+uma importante mudança na forma como comunicações sem fio são colocadas à disposição dos consumidores. Redes sem fio já não são fornecidas por grandes empresas porque pode muito bem ser implementadas por pessoas comuns.
+Entre as tecnologias sem fio que estão se espalhando rapidamente destaca-se o Bluetooth. Com um número cada vez maior de aplicações úteis a partir do Bluetooth, muitos consumidores já compram seus primeiros celulares contendo essa tecnologia. A partir daí começam a usar o Bluetooth em Redes Pessoais (Personal Area Networks PANs), onde
+todos os dispositivos equipados com Bluetooth comunicam-se entre si. Diante desse cenário o presente projeto propõe o controle de um braço mecânico com quatro grau de liberdade através de dispositivos móveis equipados com a tecnologia Bluetooth.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Barreto Campos - Coordenador / Ítallo Lima e Silva - Integrante.Financiador(es): Instituto Federal da Bahia - Bolsa.

@@ -1,0 +1,170 @@
+2021 - Atual
+CONTROLE DE SISTEMAS FUZZY TAKAGI-SUGENO COM INCERTEZAS LIMITADAS EM NORMA APLICADO À ELETROESTIMULAÇÃO DE PACIENTES PARAPLÉGICOS
+Descrição: NESTE TRABALHO, SERÃO PROJETADOS SISTEMAS DE CONTROLE ROBUSTO, COM BASE EM DESIGUALDADES
+MATRICIAIS LINEARES (EM INGLÊS, LINEAR MATRIX INEQUALITIES, LMIS), QUE SERÃO APLICADOS NA
+SIMULAÇÃO DO CONTROLE DA ELETROESTIMULAÇÃO DE PACIENTES PARAPLÉGICOS. O OBJETIVO É OBTER, ALÉM
+DA ESTABILIDADE, ESPECIFICAÇÕES ADICIONAIS, COMO TAXA DE DECAIMENTO E RESTRIÇÕES NA AMPLITUDE
+DOS SINAIS DE ENTRADA E SAÍDA, CONSIDERANDO O MODELO FUZZY DE TAKAGI-SUGENO E INCERTEZAS NOS
+PARÂMETROS DA PLANTA.
+AS INCERTEZAS NOS PARÂMETROS SERÃO CONSIDERADAS COMO LIMITADAS EM NORMA. O PROJETO TAMBÉM
+CONSIDERARÁ A PRESENÇA DE DISTÚRBIOS, VISANDO REDUZIR SUA INFLUÊNCIA NA RESPOSTA DO SISTEMA,
+PELO CONTROLE DA NORMA H_2.
+AS LEIS DE CONTROLE PROJETADAS AO LONGO DOS ESTUDOS SERÃO TESTADAS EM SIMULAÇÕES DIGITAIS,
+UTILIZANDO FERRAMENTAS COMPUTACIONAIS ADEQUADAS, CONSIDERANDO OS MODELOS MATEMÁTICOS DISPONÍVEIS
+NA LITERATURA E NOS TRABALHOS PUBLICADOS ANTERIORMENTE, RELACIONADOS AO CONTROLE DA
+ELETROESTIMULAÇÃO DE PACIENTES PARAPLÉGICOS.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Integrante / Covacic, M.R. - Coordenador.
+2019 - Atual
+PROJETO DE CONTROLADORES FUZZY TAKAGI-SUGENO, COM PARÂMETROS INCERTOS PARA CONTROLE DE MOVIMENTOS DE PACIENTES PARAPLÉGICOS E TETRAPLÉGICOS
+Descrição: UM MODELO FUZZY TAKAGI-SUGENO DESCREVE DE MANEIRA APROXIMADA UM SISTEMA (GLOBAL) NÃO LINEAR,
+ATRAVÉS DA COMBINAÇÃO DE N MODELOS LOCAIS LINEARES INVARIANTES NO TEMPO, CONSIDERANDO-SE UMA LEI
+DE CONTROLE DE REALIMENTAÇÃO LINEAR PARA CADA MODELO LINEAR LOCAL. OBTÊM-SE MODELOS LOCAIS
+LINEARES ATRAVÉS DE VALORES MÁXIMOS E MÍNIMOS DA FUNÇÃO, COMBINANDO-OS DE MANEIRA CONVEXA.
+AS LMIS SÃO UMA DAS MAIS IMPORTANTES FERRAMENTAS DENTRO DA TEORIA DE CONTROLE. ALGUMAS DE SUAS
+CARACTERÍSTICAS AS TORNARAM ESPECIAIS, COMO A FACILIDADE DE TRABALHO COM DIVERSOS SISTEMAS QUE
+DIFICILMENTE TERIAM SOLUÇÕES ANALÍTICAS, UMA GRANDE VARIEDADE DE ESPECIFICAÇÕES E RESTRIÇÕES DE
+PROJETOS QUE PODEM SER EXPRESSAS POR LMIS E A UTILIZAÇÃO DE ALGORITMOS COMPUTACIONAIS QUE
+OTIMIZAM O PROCESSO DE SOLUÇÃO DOS PROBLEMAS.
+O MODELO DA DINÂMICA DO PACIENTE PARAPLÉGICO, DEVIDO SUA CARACTERÍSTICAS NÃO-LINEARES E
+PARÂMETROS ANTROPOMÉTRICOS DO PACIENTE, E ESTES VARIAM COM OS TESTES, ENTÃO, OCORRE A
+NECESSIDADE DE PROJETAR CONTROLADORES ROBUSTOS, VIA LMIS EM CADA MODELO LOCAL, E, A SEGUIR UMA
+COMBINÇÃO FUZZY DESTES MODELOS.
+NESTE TRABALHO, SERÃO PROJETADOS SISTEMAS DE CONTROLE ROBUSTO PARA DINÂMICA DO PACIENTE
+PARAPLÉGICO E TETRAPLÉGICO, COM BASE EM DESIGUALDADES MATRICIAIS LINEARES E COMBINADOS COMO
+MODELOS FUZZY TAKAGI-SUGENO.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Coordenador / Aparecido Augusto de Carvalho - Integrante / Anderson Ross Biazeto - Integrante / Teixeira, M.C.M. - Integrante / COVACIC, MARCIO R. - Integrante.
+2018 - Atual
+Controle de Sistemas com Incertezas Limitadas em Normas com bases em LMIs
+Projeto certificado pelo(a) coordenador(a) Márcio Roberto Covacic em 29/03/2019.
+Descrição: NESTE TRABALHO, SERÃO PROJETADOS SISTEMAS DE CONTROLE ROBUSTO, COM BASE EM DESIGUALDADES
+MATRICIAIS LINEARES (EM INGLÊS, LINEAR MATRIX INEQUALITIES, LMIS), COM O OBJETIVO DE OBTER, ALÉM
+DA ESTABILIDADE, ESPECIFICAÇÕES ADICIONAIS, COMO TAXA DE DECAIMENTO E RESTRIÇÕES NA AMPLITUDE
+DOS SINAIS DE ENTRADA E SAÍDA, CONSIDERANDO INCERTEZAS NOS PARÂMETROS DA PLANTA. AS INCERTEZAS
+NOS PARÂMETROS SERÃO CONSIDERADAS COMO LIMITADAS EM NORMA. AS LEIS DE CONTROLE PROJETADAS AO
+LONGO DOS ESTUDOS SERÃO TESTADAS EM SIMULAÇÕES DIGITAIS, UTILIZANDO FERRAMENTAS COMPUTACIONAIS
+ADEQUADAS, CONSIDERANDO OS MODELOS MATEMÁTICOS OBTIDOS A PARTIR DO ESTUDO DOS EQUIPAMENTOS
+DISPONÍVEIS NO LABORATÓRIO. APÓS AS SIMULAÇÕES, AS ESTRATÉGIAS DE CONTROLE QUE TIVEREM
+DESEMPENHO ADEQUADO NAS SIMULAÇÕES SERÃO APLICADAS AOS SISTEMAS FÍSICOS DOS EQUIPAMENTOS
+DISPONÍVEIS NO LABORATÓRIO, COMPARANDO-SE OS RESULTADOS COM AS SIMULAÇÕES.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Integrante / Carlos Henrique Gonçalves Treviso - Integrante / Márcio Roberto Covacic - Coordenador.
+2016 - 2019
+Análise e Estudo do Controle de Inversores Monofásicos Conectados à Rede Elétrica para Sistemas de Energia Renovável
+Descrição: Neste trabalho pretende-se realizar a análise e o estudo do controle de um inversor monofásico conectado à rede elétrica. Serão estudados os principais algoritmos que compões o controle do inversor, tais como: sincronismo com a rede elétrica (PLL), detecção de ilhamento do inversor, compensação de harmônicos de tensão em redes distorcidas, controle de injeção de potência ativa na rede, controle da tensão do link CC. O controle do inversor será implementado a partir do conhecimento de cada um dos algoritmos, além é claro do modelo em malha fechada do sistema como um todo. Serão realizadas simulações para obtenção de resultados teóricos e, para uma etapa final, pretende-se construir um sistema de fornecimento de energia para a rede elétrica, mais precisamente uma micro-rede. Será utilizado o controlador digital de sinais, modelo TMS320F28335 para a implementação do controle digital, onde a sua programação também fará parte do projeto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Integrante / Newton da Silva - Coordenador / COVACIC, MARCIO R. - Integrante.
+2015 - 2018
+CONTROLE DE MOVIMENTO DA ARTICULAÇÃO DE MEMBROS INFERIORES EM PARAPLÉGICOS
+Descrição: O OBJETIVO DESSA PESQUISA É A UTILIZAÇÃO DE UM SISTEMA ELETRÔNICO DE ELETROESTIMULAÇÃO FUNCIONAL
+PARA GERAÇÃO DE MOVIMENTOS NOS MEMBROS INFERIORES DE PARTICIPANTES PARAPLÉGICOS, VISANDO
+AUXILIAR NA REABILITAÇÃO. COM APLICAÇÃO DE ESTÍMULOS ELÉTRICOS NO MÚSCULO QUADRÍCEPS DE
+PARTICIPANTES COM LESÃO MEDULAR, ESPERA-SE PRODUZIR MOVIMENTOS NOS SEGMENTOS COXA E COMPLEXO
+CANELA-PÉ. DESSA FORMA PODERÁ SER FEITA A VERIFICAÇÃO DA POSIÇÃO ANGULAR, VELOCIDADE ANGULAR E
+TORQUE DA ARTICULAÇÃO DO JOELHO FRENTE A ESTÍMULOS ELÉTRICOS. COM ISTO SERÁ DETERMINADO UM
+MODELO MATEMÁTICO DO MEMBRO INFERIOR, ATRAVÉS DA METODOLOGIA DE IDENTIFICAÇÃO DE SISTEMAS
+DINÂMICOS, QUE ENVOLVERÁ TODAS AS INFORMAÇÕES DINÂMICAS NÃO LINEARES DA CONTRAÇÃO MUSCULAR
+NÃO-ISOMÉTRICA DO QUADRÍCEPS AO PRODUZIR MOVIMENTO À ARTICULAÇÃO. A IDENTIFICAÇÃO DO MODELO
+MATEMÁTICO SERÁ FEITA COM A UTILIZAÇÃO DE DADOS REAIS DO MOVIMENTO DO MEMBRO DO VOLUNTÁRIO
+ATRAVÉS DO SOFTWARE LABVIEW, EQUIPADO COM PLACAS ESPECÍFICAS PARA AQUISIÇÃO DE DADOS. O TIPO DE
+IDENTIFICAÇÃO É O MODELO FUZZY TAKAGI-SUGENO COM MÍNIMOS QUADRADOS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Ruberlei Gaino - Coordenador / Marcelo Carvalho Minhoto Teixeira - Integrante / Aparecido Augusto de Carvalho - Integrante / Márcio Roberto Covacic - Integrante.
+2014 - 2017
+DETERMINAÇÃO DOS PARÂMETROS DO PÊNDULO ROTACIONAL INVERTIDO E CONTROLE ROBUSTO COM BASE EM LMIS
+Descrição: NESTE TRABALHO, SERÃO REALIZADOS ENSAIOS PARA A DETERMINAÇÃO DOS PARÂMETROS DE UM PÊNDULO
+ROTACIONAL INVERTIDO FORNECIDO PELA QUANSER® À UNIVERSIDADE ESTADUAL DE LONDRINA, DE MANEIRA A
+OBTER UMA DESCRIÇÃO MATEMÁTICA DO SISTEMA. A PARTIR DESTA DESCRIÇÃO MATEMÁTICA, COM O AUXÍLIO DE
+DESIGUALDADES MATRICIAIS LINEARES (LMIS), SERÃO ESTUDADAS E DEFINIDAS ESTRATÉGIAS DE CONTROLE
+PARA O PÊNDULO, CONSIDERANDO-SE, ALÉM DA ESTABILIDADE, INCERTEZAS NOS PARÂMETROS DA PLANTA, TAXA
+DE DECAIMENTO E RESTRIÇÕES NA AMPLITUDE DOS SINAIS DE ENTRADA E SAÍDA. VISA-SE, TAMBÉM, PROJETAR
+UM SISTEMA DE CONTROLE COM ESTRUTURA VARIÁVEL, DE MODO A ELIMINAR A INFLUÊNCIA DE DISTÚRBIOS QUE
+POSSAM INTERFERIR NO DESEMPENHO DO SISTEMA. AS LEIS DE CONTROLE PROJETADAS AO LONGO DOS ESTUDOS
+SERÃO TESTADAS EM SIMULAÇÕES DIGITAIS, UTILIZANDO FERRAMENTAS COMPUTACIONAIS ADEQUADAS. AS LEIS
+DE CONTROLE QUE TIVEREM DESEMPENHO ADEQUADO NAS SIMULAÇÕES SERÃO APLICADAS AO SISTEMA FÍSICO DO
+PÊNDULO ROTACIONAL INVERTIDO, COMPARANDO-SE OS RESULTADOS COM AS SIMULAÇÕES.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Integrante / Márcio Roberto Covacic - Coordenador / Newton da Silva - Integrante.
+2013 - 2015
+Acionamento e Controle de uma Máquina CA Utilizando-se uma Plataforma Controlada por um Controlador Digital de Sinais
+Descrição: AS MÁQUINAS DE CORRENTE ALTERNADA, ESPECIALMENTE A MÁQUINA DE INDUÇÃO, SÃO CONSTRUTIVAMENTE MAIS
+SIMPLES E ROBUSTAS DO QUE AS MÁQUINAS DE CORRENTE CONTÍNUA, APRESENTAM MENOR MASSA, PARA UMA
+MESMA POTÊNCIA, O QUE LEVA A UM CUSTO MENOR DE AQUISIÇÃO E DE MANUTENÇÃO EM RELAÇÃO A MÁQUINAS
+CC EQUIVALENTES. QUANDO SE TRATA DE REALIZAR UM ACIONAMENTO CONTROLADO, NO ENTANTO, OS
+CONVERSORES E SISTEMAS DE CONTROLE NECESSÁRIOS SE TORNAM MAIS SOFISTICADOS DO QUE AQUELES
+UTILIZADOS PARA AS MÁQUINAS CC. DESTE MODO É NECESSÁRIO TER UMA PLATAFORMA DE ALIMENTAÇÃO DA
+MÁQUINA PARA QUE ESTA POSSA SER CONTROLADA. UM EXEMPLO SIMPLES É O CONTROLE DE SUA VELOCIDADE
+QUE NECESSITA DA VARIAÇÃO DE PARÂMETROS DOS SINAIS DE ALIMENTAÇÃO DA MÁQUINA. A FORMA MAIS USUAL
+DE ALIMENTAR UMA MÁQUINA AC E CONTROLÁ-LA É ATRAVÉS DO USO DE UM CONVERSOR CC-CA. ESTE CONVERSOR
+TRATA-SE DE UM INVERSOR TRIFÁSICO COMANDADO ATRAVÉS DE SINAIS DE CONTROLE GERADOS POR UM
+PROCESSADOR. 
+O PROCESSADOR PRODUZ OS SINAIS DE COMANDO PARA AS CHAVES DO INVERSOR QUE ALIMENTA A MÁQUINA CA.
+A MUDANÇA NOS SINAIS DE COMANDO ALTERA O SINAL DE SAÍDA DO INVERSOR E, CONSEQUENTEMENTE A
+ALIMENTAÇÃO DA MÁQUINA CA. COM O USO DE UM PROCESSADOR, É POSSÍVEL GERAR DIFERENTES SINAIS DE
+CONTROLE NO INVERSOR E DESTE MODO CONTROLAR A MÁQUINA CA, COMO POR EXEMPLO, A SUA VELOCIDADE. NO
+PROCESSADOR PODEM SER IMPLEMENTADAS DIFERENTES TÉCNICAS DE CONTROLE, BASTANDO PARA ISTO, MUDAR A
+SUA PROGRAMAÇÃO. A PROGRAMAÇÃO DO PROCESSADOR HOJE EM DIA ESTÁ SE TORNANDO MAIS INTUITIVA, É A
+CHAMADA TÉCNICA DE PROGRAMAÇÃO DE PROTOTIPAGEM RÁPIDA. O PROGRAMA É CRIADO DE MODO VISUAL
+ATRAVÉS DO USO DE DIAGRAMA DE BLOCOS. AS LINHAS DE CÓDIGO EM LINGUAGEM C SÃO GERADAS
+AUTOMATICAMENTE A PARTIR DO BLOCOS E O PROGRAMA FINAL É TRANSFERIDO PARA O PROCESSADOR. NESTE
+TRABALHO PRETENDE-SE REALIZAR O ACIONAMENTO E CONTROLE DE UMA MÁQUINA CA UTILIZANDO-SE UMA
+PLATAFORMA COMPOSTA DE UM INVERSOR TRIFÁSICO CONTROLADO POR UM PROCESSADOR QUE É UM CONTROLADOR
+DIGITAL DE SINAIS. A PROGRAMAÇÃO DO PROCESSADOR SERÁ FEITA UTILIZANDO-SE O AMBIENTE DO MATLAB/SIMULINK. TÉCNICAS DE CONTROLE PARA MÁQUINAS AC SERÃO ESTUDADAS E IMPLEMENTADAS NA PLATAFORMA,
+BEM COMO TESTES EXPERIMENTAIS SERÃO OBSERVADOS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Ruberlei Gaino - Integrante / Márcio Roberto Covacic - Integrante / Newton da Silva - Coordenador.
+2012 - 2015
+Controle de Movimentos Discreto de Pacientes Paraplégicos Utilizando Modelos Fuzzy Takagi-Sugeno
+Descrição: Com a defesa do primeiro mestrado em 31 de agosto de 2012 e a primeira defesa de doutorado do Brasil em 22/02/2012 com projeto de controladores de pacientes paraplégicos em malha fechada, estuda-se a viabilidade de técnicas de controle para continuação de  pesquisa deste tema.
+Descrição: Será apresentada uma proposta simples de discretização de sistemas não-lineares, descritos através de modelos fuzzy Takagi-Sugeno contínuos no tempo para fins de aplicação em reabilitação de pacientes paraplégicos, no controle em malha fechada. Foi demonstrado que este método é válido para períodos suficientemente pequenos no controle da posição da articulação do joelho. As LMIs com condições relaxadas propostas, que consideram estabilidade, taxa de decaimento e restrição no sinal de entrada, foram então utilizadas para o projeto de reguladores T-S discretos no tempo. Simulações digitais comprovam a validade do método proposto, no controle não-linear discreto no tempo da posição da perna de um paciente paraplégico por meio da eletroestimulação.Como perspectivas deste novo projeto, considerando o controlador discreto, espera-se obter publicações em congressos relevantes na área, como o Congresso Brasileiro de Engenharia Biomédica e o Congresso Brasileiro de Automática.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Ruberlei Gaino - Coordenador / Marcelo Carvalho Minhoto Teixeira - Integrante / Aparecido Augusto de Carvalho - Integrante / Marcelo Augusto Assunção Sanches - Integrante / Renan Fernandes Kozan - Integrante / Marcos Vinícius Nascimento Junqueira - Integrante / Matheus Fernandes Réu Urban - Integrante / Márcio Roberto Covacic - Integrante.Financiador(es): Fundação de Previdência Complementar - Auxílio
+										financeiro.
+2012 - 2015
+Influência da estimulação transcraniana por corrente contínua sobre o desempenho físico de ciclistas
+Descrição: Estudos preliminares demonstraram que a estimulação transcraniana por corrente contínua (ETCC) anódica foi capaz de aumentar o tempo até a exaustão em exercício isométrico e também a força voluntaria máxima. Estes achados junto com dados de outros estudos mostrando que excitabilidade do córtex motor é alterada com exercício e que os mecanismos envolvidos talvez seja os mesmos da ETCC sugerem que esta pode ser uma técnica de grande valor para estudar os mecanismos envolvidos na fadiga e tolerância ao exercício. Assim, o propósito do deste estudo será investigar os efeitos da ETCC sobre o desempenho físico de ciclistas em teste contra-relógio (Time-Trial) de 5 km. Participarão voluntariamente deste estudo 12 atletas de ciclismo treinados, com no mínimo dois anos de experiência competitiva, na faixa etária entre 20 e 35 anos. Os sujeitos envolvidos no experimento serão submetidos a diferentes situações experimentais utilizando ciclossimulador modelo Velotron: 1) Determinação da carga máxima (Wmax) no teste incremental; 2) testes contra-relógio de 5 km realizados aleatoriamente, nas condições: ETCC anódica e controle sem a utilização de qualquer tipo de ETCC. Os sujeitos terão de pedalar em prova simulada uma distância equivalente a 5 km (Time Trial) no menor tempo possível, com escolha livre de cadência e relação de engrenagens. Os sujeitos serão submetidos à mensuração de parâmetros antropométricos, e antes, durante e/ou após os testes contra-relógio serão analisadas as seguintes variáveis: atividade eletromiográfica, percepção subjetiva de esforço, estado de humor e frequência cardíaca. Para análise estatística será utilizado teste t para amostras dependentes e análise de variância (ANOVA) two-way, seguido pelo teste post-hoc de scheffé quando forem detectadas diferenças significantes. O nível de significância a ser adotado será de 5%. Espera-se a partir dos resultados melhor compreensão dos fatores associados aos mecanismos de fadiga que modulam o desempenho físico .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Ruberlei Gaino - Integrante / Leandro Ricardo Altimari - Coordenador / Marcelo Bigliassi - Integrante / Celio Estanislau - Integrante / Thiago F. Kanthack - Integrante / Marcelo Vitor da Costa - Integrante / JOÃO GUILHERME CARNEIRO - Integrante.
+2010 - 2013
+Condições Baseadas em LMIs e Controle com Estrutura Variável para Sistemas ERP, com Aplicação em Pacientes Paraplégicos
+Descrição: Neste trabalho, pretende-se buscar condições mais gerais que as obtidas anteriormente, que podem ser aplicadas em sistemas para os quais os métodos anteriores não apresentaram soluções satisfatórias. Estendendo as condições obtidas para sistemas incertos, considerando, ainda, outras especificações de projeto, como taxa de decaimento, restrições na entrada e restrições na saída.
+Visando a reabilitação e melhoria de vida de pacientes paraplégicos, pretende-se, aplicar os métodos desenvolvidos neste trabalho no controle da posição da articulação do joelho de um paraplégico utilizando eletroestimulação no músculo quadríceps (FES) Functional Electrical Stimulation.
+Outras aplicações serão possíveis para este trabalho, cujos resultados serão submetidos para publicação em congressos e periódicos nacionais e internacionais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Ruberlei Gaino - Integrante / Marcelo Carvalho Minhoto Teixeira - Integrante / Aparecido Augusto de Carvalho - Integrante / Márcio Roberto Covacic - Coordenador.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2013
+CONTROLE DE MOVIMENTOS DE PACIENTES PARAPLÉGICOS UTILIZANDO MODELOS FUZZY
+Descrição: COMO NÃO SE TEM RELATOS DE GRUPOS COM MODELOS FUZZY TAKAGI-SUGENO PARA CONTROLAR MOVIMENTOS DE PACIENTES PARAPLÉGICOS, E NESSE MOMENTO ESTAMOS SUBMETENDO OS RESULTADOS NA TESE EM PERIÓDICOS RELEVANTES DA ÁREA, ENTÃO, A PERSPECTIVA DESTE NOVO PROJETO, CONSIDERANDO O CONTROLADOR ROBUSTO, ESPERA-SE OBTER PUBLICAÇÕES EM CONGRESSOS RELEVANTES NA ÁREA, COMO OCONGRESSO BRASILEIRO DE ENGENHARIA BIOMÉDICA E O CONGRESSO BRASILEIRO DE AUTOMÁTICA. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (1) . Integrantes: Ruberlei Gaino - Coordenador / Marcelo Carvalho Minhoto Teixeira - Integrante / Walter Germanovix - Integrante / Ernesto F F Ramirez - Integrante / Aparecido Augusto de Carvalho - Integrante / Márcio Roberto Covacic - Integrante.
+2010 - 2013
+ESTUDO DOS PARÂMETROS DE RESISTÊNCIA DOS SOLOS DA CIDADE DE LONDRINA UTILIZANDO PRENSA DE COMPRESSÃO SIMPLES
+Descrição: Alguns tipos de obras, principalmente edifícios, estradas e pequenos
+aterros, são pautadas, quando muito, em parâmetros empíricos determinados
+a partir de correlações com resultados de sondagens à percussão (SPT).
+Como consequência, problemas de dimensionamento e casos de ruptura são
+evidenciados na prática de engenharia. O uso de correlações empíricas são
+extremamente dependentes do universo de amostragem de referência, das
+simplificações e das hipóteses admitidas, e, por isso, é interessante a
+complementação com ensaios especiais ou com técnicas diversas. No caso dos
+solos de Londrina, que apresentam um comportamento particular ? solos
+residuais tropicais que sofreram intensa laterização - o uso de
+correlações, que se baseiam em outros tipos de solos, pode levar, muitas
+vezes, à estimativa de parâmetros que subestimam o comportamento
+resistente dos solos. Logo, o objetivo do projeto é a determinação dos
+parâmetros de resistência para aplicação em obras de fundações e
+terraplenagem ? cortes e aterros, a partir de dados obtidos em ensaios de
+compressão simples.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Integrante / Raquel Souza Teixeira - Coordenador / Tatiana Tavares Rodriguez - Integrante / Carlos J. M. Costa Branco - Integrante / Pedro Cândido de Souza - Integrante / Nelci Helena Maia Gutierrez - Integrante / Willy Alvarenga Lacerda - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2013
+Desenvolvimento E Melhorias Em Uma Interface De Controle Para Cadeira De Rodas Elétrica Por Sopro E Sucção.
+Descrição: Fatores como a elevação das taxas de envelhecimento da população mundial, o aumento dos índices de indivíduos deficientes, bem como uma maior aceitabilidade dos mesmos no mercado de trabalho mundial, resultam numa crescente demanda por interfaces com a finalidade de ajudar na mobilidade de deficientes físicos. uma cadeira de rodas elétrica convencional, controlada por joystick, é um veículo importante para facilitar e agregar melhoria da qualidade de vida de pessoas deficientes. entretanto, especificamente para as pessoas que sofrem de espasmos e paralisia das extremidades (tetraplegia), o joystick não é aplicável como elemento de manobra. uma cadeira de rodas, comandada por um sistema de sopro e sucção, poderia proporcionar a este grupo específico a liberdade de locomoção de forma independente. a proposta deste trabalho é a continuidade de outro já existente, onde foi implementada a substituição da interface de controle via joystick pelo sistema controlado através de sopro e sucção. problemas com o controle de velocidade da cadeira foram detectados e a introdução de um controlador PI que torne suaves as partidas e paradas da cadeira será introduzida de forma a garantir total segurança e conforto ao usuário. Esta etapa possibilitará os teste práticos da cadeira com pessoas paraplégicos e tetraplégicos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ruberlei Gaino - Integrante / Walter Germanovix - Integrante / Silvia de Souza Galvão Cervantes - Coordenador / Márcio Roberto Covacic - Integrante / Osni Vicente - Integrante / Aziz Elias Demian Junior - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2013
+Efeitos da ingestão de cafeína sobre o desempenho físico de ciclistas em exercícios de circuito aberto (open-loop) e fechado (closed-loop) de longa e curta duração
+Descrição: Projeto Cadastrado na PROPPG sob número 06897.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (6) . Integrantes: Ruberlei Gaino - Integrante / Leandro Ricardo Altimari - Coordenador / JEFFERSON ROSA CARDOSO - Integrante / EDILSON SERPELONI CYRINO - Integrante / FÁBIO YUZO NAKAMURA - Integrante / Thiago Viana Camata - Integrante / FELIPE ROSSATI REICHERT - Integrante / LUCAS ADRIANO PEREIRA - Integrante / JOÃO GUILHERME CARNEIRO - Integrante / Luiz Cláudio Reeberg Stanganell - Integrante / Rubens Alexandre da Silva Junior - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2012
+Sistema Eletrônico para Gerar e Avaliar Movimentos de Pacientes Paraplégicos
+Descrição: O sistema eletrônico será constituído por uma estação de controle, por um módulo de monitoramento e por um estimulador neuromuscular microcontrolado. 
+A estação de controle será constituída essencialmente por um computador. Poderá ser integrada a uma rede local por meio de comunicação sem fio. Conterá um programa que terá uma rotina para gerenciar a aquisição de sinais produzidos pelo módulo de monitoramento e um algoritmo de controle não-linear baseado em modelos fuzzy Takagi-Sugeno, baseado em desigualdades lineares matriciais (LMI ? Linear Matrix Inequalities). Este modelo de controle tem tido um interesse crescente em estudos recentes.
+O módulo de monitoramento será constituído por sensores de força, eletrogoniômetros, acelerômetros e eletrodos de eletromiografia, com seus respectivos circuitos de condicionamento de sinais, medidor de pressão arterial e de freqüência cardíaca. Os sinais produzidos pelo módulo de monitoramento serão conectados ao computador da estação de controle via interface USB/paralela. Sinais de pressão arterial e freqüência cardíaca serão monitorados com o intuito de preservar a integridade do paciente.
+O estimulador neuromuscular será de 8 canais, microcontrolado, com forma de onda de corrente de estimulação bifásica retangular com carga balanceada e capacidade de fornecer correntes com amplitude de até 100 mA.  Será empregada a modulação por largura de pulso devido sua simplicidade de implementação com circuitos eletrônicos digitais. Os parâmetros de estimulação serão enviados pela estação de controle, sendo definidos pelo computador, especificamente por um programa gerado em LabVIEW ou em Delphi, em função dos sinais produzidos pelo módulo de monitoramento. O programa poderá alterar a rotina de eletroestimulação do paciente objetivando melhorar a performance da marcha, conforme o progresso individual verificado no tratamento fisioterápico. O envio dos dados ao estimulador será por meio de porta USB/paralela do computador.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Doutorado: (2) . Integrantes: Ruberlei Gaino - Integrante / Marcelo Carvalho Minhoto Teixeira - Integrante / Aparecido Augusto de Carvalho - Coordenador / Marcelo Augusto Assunção Sanches - Integrante / Flávio Hiochio Sato - Integrante / Augusto Cesinando de Carvalho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.
+2005 - 2009
+Controle de Movimento de Pacientes Paraplégicos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ruberlei Gaino - Integrante / Marcelo Carvalho Minhoto Teixeira - Coordenador / Aparecido Augusto de Carvalho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2004 - 2007
+Implementação de um Sistema para Geração e Avaliação de Movimentos em Pacientes Hemiplégicos em Tratamento Fisioterápico
+Descrição: Será desenvolvido um sistema eletrônico de eletroestimulação funcional para geração de movimentos nos membros inferiores de pacientes hemiplégicos, e com rotinas de acompanhamento do progresso do tratamento, visando melhorar e abreviar a reabilitação do hemiplégico. O sistema eletrônico será constituído por uma estação de controle, por um módulo de monitoramento e por um estimulador neuromuscular microcontrolado. Será acoplado ao paciente, portátil, autônomo e independente, permitindo livre trânsito do indivíduo e diminuindo riscos de erro e interferência na transmissão de dados para a estimulação. A estação de controle será constituída essencialmente por um computador formado por uma placa mãe Micro-ITX, disco rígido e demais periféricos, formando uma unidade de controle independente e autônoma. Poderá ser integrada a uma rede local por meio de comunicação sem fio. Conterá um programa que terá uma rotina para gerenciar a aquisição de sinais produzidos pelo módulo de monitoramento e um algoritmo de controle baseado em modelos fuzzy Takagi-Sugeno, baseado em desigualdades lineares matriciais (LMI - Linear Matrix Inequalities). Este modelo de controle tem tido um interesse crescente em estudos recentes, e não há nenhum relato, na literatura especializada, de seu uso em sistemas de reabilitação de pacientes hemiplégicos. O módulo de monitoramento será constituído por sensores de força, eletrogoniômetros, eletrodos de eletromiografia, e seus respectivos circuitos de condicionamento de sinais, medidor de pressão arterial e de freqüência cardíaca. Os sinais produzidos pelo módulo de monitoramento serão conectados ao computador da estação de controle via interface USB/paralela. Sinais de pressão arterial e freqüência cardíaca serão monitorados com o intuito de preservar a integridade do paciente, uma vez que hemiplégicos apresentam quadro de hipertensão arterial, na maioria dos casos. O estimulador neuromuscular será de 8 canais, microcontrolado, com forma de onda.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (3) . Integrantes: Ruberlei Gaino - Integrante / Marcelo Carvalho Minhoto Teixeira - Integrante / Aparecido Augusto de Carvalho - Coordenador / Tony Inácio da Silva - Integrante / Erica Regina Marani Daruichi Machado - Integrante / Augusto Cesinando de Carvalho - Integrante / José Angelo Barela - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Cooperação.
+2003 - 2005
+Contribuições nos estudos da máquina AC
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Coordenador / Lourenço Matias - Integrante.
+2001 - 2004
+Uso do Labview para controle de um veículo com acionamento microprocessado
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ruberlei Gaino - Coordenador / Douglas Paladine Vieira - Integrante / Reinaldo Gonçalves Nogueira - Integrante / Wilson Eduardo Francischi - Integrante.
+2001 - 2003
+Cadeiras de rodas comandadas por sopros e sucções
+Descrição: Colaborador e resposável técnico pelo desenvolvimento das técnicas de controle uitlizada, modelo matemático da cadeira e implementação em hardware.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Ruberlei Gaino - Integrante / Lucas Prado Lone - Integrante / André Sanches Fonseca Sobrinho - Integrante / Kléber Romero Felizardo - Integrante / Walter Germanovix - Coordenador.
+2000 - 2003
+Manipulador robótico
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ruberlei Gaino - Integrante / Reinaldo Gonçalves Nogueira - Coordenador / Giovani Baratto - Integrante.

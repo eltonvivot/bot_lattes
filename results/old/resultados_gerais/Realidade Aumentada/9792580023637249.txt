@@ -1,0 +1,31 @@
+2017 - Atual
+UMA ABORDAGEM PRÁTICA PARA O ENSINO DO DESENVOLVIMENTO DE JOGOS DIGITAIS PARA ALUNOS DO ENSINO MÉDIO
+Descrição: Desenvolver uma metodologia, incluindo o material didático, que possibilite o ensino do desenvolvimento de jogos digitais para alunos do ensino médio, sem a necessidade de conhecimentos prévios sobre o assunto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Pedro Igor Matias dos Santos - Integrante / Diego Barbosa da Cruz - Integrante / Sabrina Andrade Felicíssimo - Integrante.
+2016 - 2016
+Procedimento para a Realização de Estudos de Impacto Viário, com o Uso da Simulação, Aplicado ao novo Shopping Park Sul na Cidade de Volta Redonda
+Descrição: Elaboração e aplicação de um procedimento voltado para o estudo dos impactos viários causados pela implantação de um Polo Gerador de Viagens (PGV), utilizando para isso uma ferramenta de simulação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Mariana Ferreira Costa - Integrante / Pedro Igor Matias dos Santos - Integrante / Caroline Aguiar - Integrante.
+2015 - 2015
+Robotic Sense Claw ? Desenvolvimento de uma Garra Robótica para Deficientes Físicos Utilizando Computação Perceptiva
+Descrição: Desenvolver uma garra robótica controlada pelos olhos para o uso de deficientes físicos, utilizando computação perceptiva. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Eduardo Reis Alves - Integrante / Jhonatan Mark Ribeiro Soares - Integrante.
+2014 - 2014
+Controle de abastecimento automático com utilização de uma prateleira inteligente
+Descrição: O projeto visa o desenvolvimento de uma prateleira inteligente, para linha de montagem, que emitirá, automaticamente, solicitações para abastecimento conforme o seu atual nível de estoque.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Ana Luiza Cítero - Integrante / Daniel de Sousa Cruz - Integrante / Lucas Silva de Oliveira - Integrante.
+2013 - 2015
+Simulando o desempenho sustentável do transporte urbano de carga (TUC).
+Descrição: Este projeto tem como objetivo estabelecer um procedimento informatizado capaz de simular o desempenho de soluções inovadoras com potencial de introduzir sustentabilidade ambiental no TUC por meio da avaliação do potencial de mitigação das externalidades negativas associadas a atividade em face dos custos de implantação e da manutenção dos níveis de serviço.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (3) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Daniel Schimitz - Integrante.
+2013 - 2013
+Uma Metodologia para o Ensino do Desenvolvimento de Aplicações Web com Python e Django
+Descrição: O propósito desse projeto é desenvolver uma metodologia ágil para o desenvolvimento de aplicações web, utilizando a linguagem Python e o framework Django.  Essencialmente, a ideia é elaborar uma ferramenta que permita a criação rápida de aplicações web.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Eduardo Reis Alves - Integrante / Jhonatan Mark Ribeiro Soares - Integrante / Erick Henrique Soares - Integrante / Leonardo Dias da Silva - Integrante.
+2013 - 2013
+Desenvolvendo um Semáforo Inteligente de Baixo Custo com Arduíno
+Descrição: Esse projeto tem o objetivo de desenvolver um semáforo inteligente de baixo custo utilizando Arduíno. Esse semáforo irá alterar sua configuração conforme o fluxo veicular observado. Além disso, irá sincronizar essa configuração com outros semáforos dentro da rede, permitindo ainda que as configurações possam ser alteradas manualmente por uma aplicação específica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Estevão Torres da Silva - Integrante / Pedro Carvalho Groetares - Integrante / Eduardo Reis Alves - Integrante / Jhonatan Mark Ribeiro Soares - Integrante / Diego Roberto de Souza - Integrante.
+2013 - 2013
+Desenvolvendo Experimentos de Robótica Utilizando Arduíno e Materiais de Baixo Custo
+Descrição: O projeto visa a introdução aos conceitos de robótica e programação de computadores, utilizando para isso placas Arduíno e materiais de baixo custo e recicláveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (1)  / Mestrado acadêmico: (1) . Integrantes: Fabio dos Santos Gonçalves - Coordenador.
+2012 - 2015
+VRRA - Veículo Rebocador Robótico Autônomo
+Descrição: Desenvolvimento de Veículo Rebocador Robótico Autônomo, para abastecimento de borda de linha, utilizando o projeto de hardware livre Arduíno.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Laurentino Duodécimo Rosado Fernandes - Integrante / Bruno Morais Lemos - Integrante / Adiel Ricci - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2012 - 2013
+Utilização do Jogo SimCity como Ferramenta de análise de Impactos Viários e de Transporte
+Descrição: Investigar as possibilidades de utilização do jogo de Simulação de Cidades, SimCity, como ferramenta de análise de impactos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Fabio dos Santos Gonçalves - Coordenador / Allan Dias Magalhães Pereira - Integrante / Daniel Vitor Corrêa Mendes - Integrante / Estevão Torres da Silva - Integrante / Letícia Melo Rocha - Integrante / Paôlla de Oliveira Coutinho - Integrante / Pedro Carvalho Groetares de Castro - Integrante.

@@ -1,0 +1,498 @@
+2020 - Atual
+Pesquisa e desenvolvimento de plataforma para distribuição e operação assistida remota de tecnologias assistivas voltadas para o chão de fábrica da Dell  Technologies
+Descrição: será pesquisada e desenvolvida, no escopo deste projeto, uma plataforma
+online que suporte, de forma inteligente e automatizada, processos de distribuição e
+operação assistida da tecnologia MAIA, inicialmente, em outras fábricas da Dell ao redor
+do mundo. Será realizada uma experiência piloto da disponibilização do MAIA para, pelo
+menos, uma fábrica da Dell fora do Brasil, com o objetivo de validar a utilização da
+tecnologia MAIA em cenários de uso com contextos diferentes da realidade da fábrica
+brasileira, reforçando, como dito, o potencial da tecnologia MAIA para tornar-se
+aderente/adaptável, como produto, a diversos cenários. Dessa forma a tecnologia MAIA
+será customizada para atender aos requisitos elicitados durante a validação da tecnologia
+na fábrica piloto.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2020 - Atual
+Desenvolvimento de novo modelo de Interação humano-computador para melhorar a experiência de usuários com deficiência intelectual na utilização da plataforma e aplicativo móvel de ensino da Dell.
+Descrição: O objetivo principal deste projeto é promover a inclusão e eliminar as barreiras de comunicação e interação entre pessoas com e sem deficiência no ambiente corporativo da Dell, para isso, serão conduzidas pesquisas para evolução da tecnologia WAL, assim como experimentos científicos envolvendo as ferramentas de aprendizagem acessíveis para aprendizagem da língua inglesa e Fábrica de Sinais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2020 - Atual
+Pesquisa e desenvolvimento de ferramentas baseadas em Inteligência Artificial e de nova versão do framework Editory, integradas à plataforma Dell Accessible Learning
+Descrição: Esse projeto visa dar continuidade à pesquisa e desenvolvimento tecnológico iniciado no
+ano base anterior no projeto ?Pesquisa e desenvolvimento de ferramentas baseadas em
+técnicas de Inteligência Artificial para acessibilidade e automatização da plataforma Dell
+Accessible Learning?, realizado entre DELL, UECE e IEPRO, onde foram construídos os
+protótipos das ferramentas denominadas ANA ? Assistente de Navegação Acessível e
+STUART (Smart Tutor Artificial). Ambas ferramentas são baseadas na aplicação de
+técnicas de inteligência artificial para suportar dois objetivos estratégicos: o primeiro é
+garantir, através da ANA, que pessoas com tetraplegia e cegueira tenham melhores
+condições de realizar navegação na plataforma, considerando as especificidades de cada
+perfil e a grande variedade de elementos visuais existentes na plataforma que podem
+representar barreiras no caminho percorrido pelo usuário durante a navegação; o
+segundo objetivo é, através do STUART, permitir que a plataforma da Dell seja cada mais
+escalável, tanto no Brasil como em outros países, suportando a oferta da plataforma a
+partir de um modelo pedagógico com a mínima intervenção possível de humanos,
+alcançando um maior número de pessoas mundo a fora. Adicionalmente, serão realizados
+testes de aceitação e customizações no framework denominado Editory, desenvolvido no
+ano base anterior no projeto denominado ?Pesquisa e desenvolvimento de nova versão da
+ferramenta Editory com recursos para gerenciamento do fluxo de produção de objetos de
+aprendizagem acessíveis?, através da parceria entre DELL, UECE e IEPRO. O propósito
+do Editory é apoiar a criação de ferramentas de aprendizagem para ensino a distância
+com recursos de acessibilidade, através de um passo a passo simples e com interface
+?friendly?. O Editory suporta ambos objetivos estratégicos descritos acima. Por um lado,
+permite que, de forma independente, o usuário possa inserir elementos de acessibilidade
+em ferramentas de aprendizagem que serão exportadas pelo Editory para integração com
+a plataforma Dell Accessible Learning, gerando, portanto, ferramentas que poderão ser
+facilmente identificadas e interpretadas pela ANA durante a navegação. Por outro lado,
+permite que qualquer usuário no Brasil ou fora dele que demande a utilização da
+plataforma de EaD da Dell ,e sua escalabilidade por consequência, possa também utilizar o Editory para gerar suas próprias ferramentas de aprendizagem que serão integradas à plataforma para oferta de um determinado curso, tudo isso sem grandes conhecimentos técnicos na área.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Lidiane Silva - Integrante / Nelson Alex Silva Lima - Integrante / Eudênia Magalhaes - Integrante / Cassandra Ribeiro Joye - Integrante / Samya Dourado Oliveira - Integrante / Herculano Gonçalves Santos - Integrante / Janaína de Sousa Brito - Integrante / Nicolas de Araújo Moreira - Integrante / Almir da Silva Rodrigues - Integrante / Francinete Alexandre Silveira - Integrante / Gabriel Veras Miranda - Integrante / Izabel Santos Maia - Integrante / Jardriel Costa de Sousa - Integrante / Paulo Henrique Oliveira de Freitas - Integrante / Alan Rabelo Martins - Integrante / Angélica Alves Viana - Integrante / Iago Gomes Barreto - Integrante / João Victor Ribeiro Rodrigues - Integrante / Luana Brasil Teixeira - Integrante / Thayanne França da Silva - Integrante / Thiago Mathias Batista de Araújo - Integrante / Adson Roberto Pontes Damasceno - Integrante / Matheus Lima Chagas - Integrante.
+2020 - Atual
+Pesquisa e desenvolvimento de tecnologias assistivas para a Indústria 4.0
+Descrição: O termo indústria 4.0 tem sido usado para descrever projetos inovadores na indústria que envolvem tecnologias como inteligência artificial, internet das coisas, big data, dentre outras ?buzz words? do momento. Busca-se, como sempre, o aumento de produtividade, tanto no curto como no médio e longo prazo. Sob eterna pressão por produtividade, as margens para melhoria vão se estreitando. Essas tecnologias representam a promessa de novas oportunidades para produtividade, notadamente em setores antes tidos como inalcançáveis. 
+Nos projetos ?Pesquisa de tecnologias assistivas para acessibilidade de sistemas corporativos e do contexto laboral da pessoa com deficiência na Indústria Elétrica e Eletrônica?, ?Pesquisa de tecnologias de realidade aumentada para qualificação acessível de pessoas com deficiência em linhas de produção de computadores da Dell.?, executados em 2018, e nos projetos ?Tecnologias para acessibilidade de postos de trabalho na Indústria Eletrônica brasileira? e ?Augmented Reality Training Arcade (ARTRADE)?, executados em 2019, concebeu-se e implementou-se um conjunto de tecnologias voltadas para a inclusão de pessoas com deficiência na indústria eletroeletrônica. O desafio que nos impusemos era o da promoção da inclusão produtiva, universal e de footprint pequeno (pouca ou nenhuma intervenção no ambiente). Por inclusão produtiva entende-se novas tecnologias que permitam às pessoas com deficiência (PCD) o alcance dos mesmos indicadores de produtividade estabelecidos para pessoas sem deficiência. Essa estratégia além de facilitar o processo de inclusão sob o ponto de vista empresarial, traz mais dignidade às PCD. A inclusão de tecnologias assistivas mantendo os níveis de produtividade atuais representa uma excelente estratégia para ?quebra de barreiras?, visto que os empresários não precisam repensar todo processo nem negociar prazos com clientes e/ou parceiros para adoção das novas tecnologias. ?Visto de fora?, ?nada muda?.  A inclusão de novas tecnologias permitindo a inclusão produtiva de pessoas com deficiência é fundamental para a manutenção da dignidade desse público alvo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Silva, Lidiane Castro - Integrante / Reginaldo Florêncio da Silva - Integrante / Francisco Fleury Uchoa Santos Júnior - Integrante / Antonio Darcy Soares Fontenele - Integrante / Flávio Alves dos Santos - Integrante / GIldarley da Costa Santos - Integrante / Alexandre dos Santos Celedonio - Integrante / Robson de Moraes - Integrante / Francisco Randson Gomes Ferreira - Integrante / Sofia Nicolau Amoreira - Integrante / Adriel de Oliveira Magalhães - Integrante / Denis da Silva Albuquerque - Integrante / Kaiara Ferreira Fonteles - Integrante / Maria Oliveira dos Santos - Integrante / Mateus Rocha Fonseca - Integrante / Paulo Vitor Vasconcelos Lacerda - Integrante / Robson dos Santos Sampaio - Integrante / Ruan Robson de Brito Lima - Integrante / Saulo Vasconcelos Cruz - Integrante / Talles Barbosa da Silva - Integrante / Thaís Almeida Cordeiro - Integrante / Valdir Silveira Junior - Integrante / Carlos Magno Fontenelle Barros - Integrante / Hyuan Peixoto Farrapo - Integrante / Jefferson Pacheco Amaral Fortes - Integrante / José Mateus Monte Alves - Integrante / Lucas Ferreira de Lima Andrade - Integrante / Artur de Castro Valente Filho - Integrante / Gabriella Coelho Vieira de Melo Alves - Integrante / Hluy Silva Peixoto - Integrante / Iana Mary Gomes Costa - Integrante / Jeymeson Pessoa da Costa - Integrante / Karla Cristina Soares Souza - Integrante / Lauro Matos de Queiroz Neto - Integrante / Luciana Silva Araújo Costa - Integrante / Lukas Silveira Saboia Barbosa - Integrante / Marcelo Martins da Silva - Integrante / Nicolas de Araújo Moreira - Integrante / Pedro Henrique Gomes Muniz - Integrante / Pedro Victor Ribeiro Lopes - Integrante / Raizielle Ferreira Lima - Integrante / Rômulo Iorio Ferreira da Costa - Integrante / Sabrina Helen Mariano Santos - Integrante / Tiago Bezerra Marinho - Integrante / Francisco Vinícios Nascimento - Integrante / Liana Praça Oliveira - Integrante.
+2020 - Atual
+Pesquisa e desenvolvimento de tecnologias imersivas para qualificação profissional a  distância na área de Tecnologia da Informação e Comunicação
+Descrição: Visando possibilitar que alunos com deficiência intelectual não só consigam
+utilizar as ferramentas de aprendizagem, previstas no escopo deste projeto, mas também
+consigam realizar por completo todos os fluxos de navegação presentes na plataforma e
+no aplicativo móvel de ensino da Dell, este projeto também visa pesquisar e desenvolver
+tecnologias assistivas que promovam um modelo de interação acessível para alunos com deficiência intelectual.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2020 - Atual
+THUNDER (Talent Hunting and Developer Recruitment): Projeto de Capacitação Tecnológica e Descoberta de Talentos em Tecnologia da Informação
+Descrição: Organizar e implantar projeto de capacitação profissional com o total de 6300 vagas, a serem distribuídas através de três frentes de capacitação de pessoas com e sem deficiência, e pessoas em situação de vulnerabilidade social.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Nelson Alex Silva Lima - Integrante / Lidiane Silva - Integrante / Maikon Igor - Integrante / Raquel Farias Lima - Integrante / Bruno Araújo Lima - Integrante / Diego Guimarães de Barros - Integrante / Eudenia Magalhães Barros - Integrante / Gregory Campos Beviláqua - Integrante / Ilane Karise Barbosa Cunha - Integrante / Jose Paulo Rodrigues Moraes - Integrante / GIldarley da Costa Santos - Integrante / Paulo Henrique Mendes Maia - Integrante / CAIO MARQUES OLIVIEIRA - Integrante / CÍCERA OHANA MARTINS SANCHO - Integrante / ITALO FERREIRA PORTO - Integrante / JOÃO PAULO DE SOUZA CORREIA - Integrante / Diego Lima Pinheiro - Integrante / nicole campos - Integrante / Rachel Teixeira Bessa Maia - Integrante / Thais Ohana Santos de Sousa - Integrante / Wesley Henrique Augusto Brito dos Santos - Integrante / Antônio Lourran Tavares Silva - Integrante / Caique Sampaio de Araujo - Integrante / Ellie Zohn Freitas Xavier - Integrante / Francisco Thiago Freitas de Souza - Integrante / Italo Emídio da Silva Vasconcelos - Integrante / Matheus Bezerra Teixeira - Integrante / Raimundo Gomes de Oliveira Neto - Integrante / Ruan Wendel Henrique de Oliveira - Integrante / Ana Paula Oliveira da Silva - Integrante / Anna Caroline Magalhães Brito - Integrante / Antonny Melo Lopes - Integrante / Arthur Eduardo de Oliveira Morais - Integrante / Bianca Tiane de Carvalho dos Santos - Integrante / Caio Lemos Sales - Integrante / Clébio Pereira Gomes Filho - Integrante / Danilo Pinheiro Vilhena - Integrante / Denise Penha Viveiros - Integrante / Gracy Kelly Amaral Barros - Integrante / Igor Pereira Ribeiro dos Santos - Integrante / João Gabriel Santos de Freitas - Integrante / Joelma Alexandre Silveira - Integrante / Marcilene Damasceno de Araújo - Integrante / Marcos Lúnciel da Rocha Menezes de Carvalho - Integrante / Maria Simone Santos Lessa - Integrante / Mesaque Santos Cavalcante - Integrante / Natália Aragão Dias - Integrante / Patrícia Jéssica Rocha Silva - Integrante / Riam Vierr Lima Capibaribe - Integrante / Rodlene Kristel Almeida Rocha de Oliveira - Integrante / Sarah Maria de Oliveira - Integrante / Suzan Pagani Maranhão - Integrante / Thiago da Silva Nobre - Integrante / Thiago Magalhães Furtado - Integrante / Walmara Daiana Costa Mariano - Integrante / Yasmim de Lima Nogueira - Integrante / Allberson Bruno de Oliveira Dantas - Integrante / Daniel Régis de França Cirino - Integrante / Gabriel de Sousa Rodrigues - Integrante / Lázaro João Cá - Integrante / Marcondes Josino Alexandre - Integrante / Marisângela Maria Ribeiro Guimarães - Integrante / Paula Virginia Mendes Maia - Integrante / Tiago Guimarães Sombra - Integrante.
+2020 - Atual
+Pesquisa e desenvolvimento de ferramentas de aprendizagem para construção de  páginas web acessíveis para pessoas com deficiência
+Descrição: Permitir que os usuários do sistema SharePoint sejam instruídos para a construção de recursos de acessibilidade durante o processo de criação de páginas web na plataforma SharePoint.
+Serão explorados neste projeto, dois caminhos alternativos: o primeiro trata-se da
+construção de ferramentas de aprendizagem, que possam ser integradas à plataforma
+Dell Accessible Learning, para instruir colaboradores da Dell, leigos em tecnologias
+assistivas, no processo de desenvolvimento das páginas web acessíveis; a segunda
+alternativa, trata-se da investigação de soluções que possam futuramente ser construídas
+para realizar a validação automática de recursos de acessibilidade dentro da plataforma
+SharePoint, considerando as especificidades técnicas da arquitetura da plataforma
+SharePoint, e os desafios de integração de uma solução dessa natureza, com a
+plataforma.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2020 - Atual
+Pesquisa para concepção de novos modelos de interação homem-computador  para suportar o processo de transformação digital
+Descrição: Interação entre humanos eletronicamente mediada, trabalho colaborativo apoiado
+por computador, telepresença, ambientes virtuais, workflows, análise de tarefas para
+redesenho futuro, análise do trabalho cognitivo, cognição situada, computação social,
+agentes computacionais inteligentes usados na interação com humanos, análise da
+performance humana na interação direta entre humano-computador, computação ubíqua
+-- todas essas técnicas, frameworks e modelos teóricos são de interesse do pesquisador
+de IHC - Interação humano computador. Esse pesquisador precisa ter conhecimentos em
+diversas áreas da computação (Inteligência artificial, engenharia de software, engenharia
+de Requisitos, IoT, computação vestível), de engenharia de computação (sistemas
+embarcados, construção de dispositivos de IoT), psicolinguística e matemática.
+Pensando nisso, o objetivo deste projeto é pesquisar novas soluções tecnológicas,
+baseadas em novos modelos de interação homem-computador, que suportem as
+instituições na realização de transformações digitais, aceleradas em função da pandemia
+gerada pelo COVID-19.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2020 - Atual
+Pesquisa e Desenvolvimento de Tecnologias Assistivas para  Acessibilidade da Plataforma Matrix
+Descrição: Os sistemas computacionais são amplamente utilizados e fazem parte do cotidiano de grande parte da população, sendo um mecanismo facilitador para a realização de atividades fundamentais de diversos fins, como: educação, comércio, lazer, notícias, comunicação, serviços bancários e governamentais, entre outros. No âmbito corporativo, um funcionário precisa lidar com diferentes tipos de sistemas, que o auxiliam na execução de suas tarefas. Entretanto, grande parte desses sistemas não são desenvolvidos considerando a diversidade de usuários que podem utilizá-los e, portanto, podem apresentar barreiras de comunicação e interação. Isso é mais crítico quando se trata de usuários com algum tipo de deficiência, seja visual, auditiva, motora, ou intelectual, pois, por conta da ausência de recursos de acessibilidade nos sistemas, esses usuários, muitas vezes, são impossibilitados de usar o sistema, ou possuem sérias restrições de interação. Esse problema fere um direito básico, de que todos devem ter acesso à informação de forma igualitária.
+Para garantir que todos os usuários possam perceber os elementos dos sistemas, compreender e interagir com eles de forma eficiente, faz-se necessário disponibilizar cada um de diferentes maneiras. A interface de um sistema não pode ser visualizada por um usuário com cegueira, por exemplo. Para que este possa percebê-la e compreendê-la, a interação necessita de uma apresentação alternativa. Assim, é importante que os sistemas estejam adaptados para as necessidades de pessoas com deficiência. Porém, promover acessibilidade em sistemas web é uma atividade bastante complexa, pois é necessário considerar a diversidade de perfis de pessoas com deficiência e, consequentemente, disponibilizar os diversos recursos que os usuários requerem.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Nelson Alex Silva Lima - Integrante / Anderson Severo De Matos - Integrante / Lidiane Silva - Integrante / Wanessa de Caldas Teotônio - Integrante / Joelma Alexandre Silveira - Integrante / Israel Hudson Aragão Barbosa - Integrante / Paulo Higor Tavares Freire - Integrante / Roy Keane Avila Teixeira - Integrante / Samuel Camilo dos Santos - Integrante / Francisco Ivan de Sousa Alves - Integrante / Francisco Wellington dos Santos Filho - Integrante / Leandro Castro Silva - Integrante / Nina Bianca Alves Vital - Integrante / Rafael Carneiro de Paula - Integrante / Regis Bertoldo Lima - Integrante.
+2020 - Atual
+Research and Development Enhancement of Artificial Intelligence Bot for Legal  NDA Redline Review
+Descrição: Este projeto visa continuar o trabalho iniciado no ?Artificial Intelligence
+Bot for Legal NDA Redline Review?, que ocorreu no ano base anterior, e resultou no
+desenvolvimento de um bot (robot) de Inteligência Artificial que a partir da análise das
+cláusulas dos documentos NDA, automatiza o Primeiro Nível de Revisões, e também
+sugere quando encaminhar demandas complexas de revisão para outras instâncias
+(Revisões de Segundo Nível). Esse bot se conecta à NDA Direct Tool para coletar dados
+sobre os NDAs negociados. Vale ressaltar que essa etapa inicial foi desenvolvida por
+meio de uma parceria entre a UECE, responsável pelo desenvolvimento do NDA Bot API,
+que compreende a implementação dos algoritmos de Inteligência Artificial para analisar e
+sugerir ações de negociação de contratos, e o Bot WEB (Portal da Web) para análise e
+visualização de dados, em colaboração com a equipe da SFDC Dell (Malásia),
+responsável por as implementações relacionadas ao NDA Direct e, e ao DSS Dell Team
+(Israel), responsáveis ​​pela modelagem dos algoritmos de IA.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Nina Bianca Alves Vital - Integrante / Daniel Pinto Coutinho - Integrante / Elizabeth Lucas Bruno - Integrante / Lucas Costa Araujo - Integrante / Murillo Barata Rodrigues - Integrante / Paulo Cesar Machado Filho - Integrante / Rômulo Freire Ferrer Filho - Integrante / Anderson Severo Matos - Integrante / Daniel Magalhães Nunes - Integrante / Lívia Figueiredo Soares - Integrante / Lidiane Castro Silva - Integrante.
+2020 - Atual
+Pesquisa e Desenvolvimento de ferramentas de aprendizagem acessíveis para  pessoas com deficiência, com ênfase em Ciência de Dados
+Descrição: ESte projeto visa pesquisar e desenvolver ferramentas de aprendizagem, acessíveis para pessoas com deficiência, capazes de realizar qualificação a distância para usuários leigos, sem conhecimentos especializados nas áreas da computação e da matemática, com ênfase em Ciência de Dados, como, por exemplo, Visualização de Dados através da linguagem
+de programação Python e Machine Learning.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2020 - Atual
+Pesquisa e desenvolvimento de tecnologias para automatização  de dados da engenharia industrial da Dell
+Descrição: O escopo deste projeto visa pesquisar e desenvolver soluções
+computacionais para digitalização e automatização da coleta, processamento e report dos
+dados relacionadas à área Engenharia Industrial de BRH1, de forma que, à medida que
+os dados sejam coletados, possam ser persistidos automaticamente em uma base de
+dados centralizada, como forma de garantir a integração dos dados da fábrica e facilitar a
+elaboração e análise de relatórios. O desenvolvimento deste projeto permitirá a criação de uma estrutura de dados que permita, no futuro, a aplicação de Inteligência Artificial (IA)
+para viabilizar análises cada vez mais inteligentes e automatizadas, otimizando o fluxo de tomada de decisão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2019 - Atual
+INTELIGENCIA_ARTIFICIAL_C9
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2019 - Atual
+Augmented Reality Training Arcade (ARTRADE) Ano II
+Descrição: No ano-base anterior, através do projeto ?Pesquisa de tecnologias de realidade aumentada para qualificação acessível de pessoas com deficiência em linhas de produção de computadores da Dell?, realizado entre DELL, UECE e IEPRO, foi concebido um protótipo, denominado Augmented Reality Training Arcade ? ARTRADE, onde surdos, através de uso da RA, deveriam ser capazes de realizar atividades típicas da linha de produção da Dell, atingindo os mesmos níveis dos indicadores de performance na tarefa quando comparados a pessoas sem deficiência. Através do protótipo criado, provou-se o potencial da tecnologia para esse tipo de qualificação profissional, e foram definidas em quais linhas de produção a tecnologia deveria ser implantada, bem como os critérios de performance nas tarefas realizadas nos postos de trabalho, entre outros. A partir da construção do protótipo do ARTRADE e dos estudos realizados no ano base anterior, foram elicitados diversos requisitos e desafios científicos-tecnológicos que serão abordados no escopo deste projeto. Ainda no contexto do projeto citado, em um segundo momento foi identificada a necessidade de prover para a Dell uma ferramenta capaz de facilitar e automatizar o processo de criação de conteúdos de RA a serem utilizados no ARTRADE.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Alan Silva Oliveira dos Santos - Integrante / João Felipe Silva Marques - Integrante.
+2019 - Atual
+Keysical: Aplicação Web de Mesa de Som Digital Adaptada para Portadores de Necessidades Especiais
+Descrição: O projeto investiga a criação/adaptação de instrumentos musicais para promoção da inclusão social plena da pessoa com deficiência (PCD). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Thiago Dias de Carvalho Quaresma Gama - Integrante.
+2019 - Atual
+Programa de capacitação profissional a distância na área de Tecnologia da Informação e Comunicação acessível para pessoas com deficiência
+Descrição: O projeto propõe dar continuidade na organização e implantação de Programas de Capacitação Profissional para pessoas com deficiência e em situação de vulnerabilidade sócio-profissional, na modalidade a distância. O maior propósito da DELL Computadores, promotora do curso, com seus parceiros institucionais, a Universidade Estadual do Ceará (UECE) e o Instituto de Desenvolvimento, Estratégia Conhecimento (IDESCO), é contribuir para a inclusão social e profissional de pessoas que necessitam se qualificar para o mercado de trabalho, entre elas as pessoas com deficiência e em situação de vulnerabilidade social, buscando torná-las mais eficientes e produtivas, e consequentemente cidadãs ativas integradas à sociedade produtiva. Tem-se também como objetivo oportunizar ao público-alvo acesso amplo aos conhecimentos que lhes permita exercer um metier por meio dos recursos tecnológicos, meios e mídias que a internet disponibiliza, aliados a um modelo pedagógico adaptado aos diferentes estilos de aprendizagem, necessidades e tipo de deficiência, por meio da modalidade de educação a distância (e-learning), utilizando da plataforma virtual Dell Accessible Learning desenvolvida para este propósito.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2019 - Atual
+STEVE: Development of an exoskeleton to promote accessibility in the electrical/electronic industry using as methodoly Distributed Cognition - ano II
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2019 - Atual
+Maia - Conversor de Estímulos Universal para Acessibilizar Postos de Trabalho- Ano II
+Descrição: a partir do protótipo construído no ano base anterior, serão realizados experimentos na fábrica da Dell visando a execução de rotinas de testes, análises e medidas, a partir da utilização do MAIA no posto speaker test, utilizando procedimentos que assegurem mínima interferência na operação da linha. Através da utilização de técnica de operação assistida, serão elaborados relatórios da atividade, detalhando os procedimentos realizados e eventuais ajustes a serem realizados no protótipo, para que o mesmo possa ter sua versão funcional desenvolvida, validada e entregue.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2019 - Atual
+Understanding the correlation between teacher and student behavior in the classroom and its consequent academic performance
+Descrição: O projeto visa a construção de um sistema de gestão de sala de aula capaz de registrar ações de professores e alunos durante a aula em formato tradicional, utilizando equipamentos móveis, papel, lápis/caneta. A partir desses registros, busca-se construir preditores de desempenho a fim de detectar precocemente sinais de possível evasão ou perda de engajamento que leve a baixo desempenho acadêmico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Adson Damasceno - Integrante / Celso Medeiros - Integrante.
+2019 - Atual
+Conversational agents for the elderly, the Guardian platform
+Descrição: Esse projeto visa a investigação do uso de agentes conversacionais inteligentes para promoção da melhoria de vida do idoso. Esses agentes conversacionais interagem com os idosos tanto em casa (através de equipamentos fixos como Amazon Echo Dot/Google Home)  ou por meio de dispositivos vestíveis como smartwatches. Dentre os objetivos busca-se entender como eles reagem á introdução dessa tecnologia em suas vidas e quais as estratégias de interação emergirão desse investigação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1)  / Mestrado profissional: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Andressa Magda - Integrante / Ana Renha Guedes Peixoto - Integrante.
+2018 - 2019
+STEVE: Development of an exoskeleton to promote accessibility in the electrical/electronic industry using as methodoly Distributed Cognition
+Descrição: O projeto visa estudar / propor metodologia que promova a criação de dispositivos basedos no conceito Híbrido Homem-robô.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Reginaldo Florêncio da Silva - Integrante / Francisco Fleury Uchoa Santos Júnior - Integrante / Denilson Rodrigo Batista - Integrante / Develey Pereira de Castro - Integrante / Pablo Juan Maciel Gonzales Morales - Integrante.Número de produções C, T & A: 1
+2018 - 2019
+EMC_MULTICLOUD
+Descrição: Projeto de Pesquisa e Desenvolvimento de Tecnologia para identificação de alocação
+de IaaS e SaaS em ambientes Multi-Cloud. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Antonio Darcy Soares Fontenele - Integrante / Paulo Henrique Mendes Maia - Integrante / Francisco Thiago Gomes Vieira - Integrante / Antonio Wendell de Oliveira Rodrigues - Integrante / Rejane Cavalcante Sá - Integrante / Raphael Lima Saraiva - Integrante / Gustavo Siebra Lopes - Integrante.
+2018 - 2019
+MICROSERVICOS_C8
+Descrição: Pesquisa e desenvolvimento de arquitetura de software
+baseada em microserviços em nuvem para a plataforma
+Dell Accessible Learning.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Marcial Porto Fernandez - Integrante / Antonio Darcy Soares Fontenele - Integrante / Raphael de Souza Sampaio - Integrante / Janaína de Sousa Brito - Integrante / Jenny Candido Monteiro Pinheiro - Integrante / Marcus Vinícius Candido de Figueiredo - Integrante / Thiago Queiroz de Oliveira - Integrante.
+2018 - Atual
+Empoderando a Mulher no período puerpério
+Descrição: Projeto visa construção de aplicativo viabilize a disponibilização de conteúdo educativo e interativo para mulheres no período puerpério.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / Raimunda Magalhães da Silva - Coordenador / Alita Silva Ribeiro arcanjo - Integrante.
+2018 - Atual
+Desenvolvimento de um Programa de Gerenciamento do Cuidado ao Idoso no Domicílio
+Descrição: O projeto visa o desenvolvimento de um aplicativo, na plataforma TratBem, voltado ao empoderamento do cuidador do idoso. O desenvolvimento do aplicativo envolve também a construção de conteúdo educativo interativo. A plataforma Tratbem permite a rápdia geração de aplicativos voltados para educação em saúde e adoção de hábitos saudáveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / Maria Eliana Peixoto Bessa - Coordenador / Ana Renha Guedes Peixoto - Integrante.Número de produções C, T & A: 1
+2018 - Atual
+Tecnologia M-Health em Apoio ao Controle da Obesidade e Adesão ao Tratamento
+Descrição: Projeto visa a construção e validação de conteúdo educativo interativo para geração de aplicativo derivado da plataforma TratBem. A validação se dá com a participação de especialistas no tratamento da obesidade. A geração do app ocorre de maneira semiautomática a partir da plataforma Tratbem.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Mirian Calíope Pontes Lobo - Integrante / Consuelo Oliveira Pontes Lobo - Integrante.
+2018 - Atual
+Concepção de Tecnologia de Apoio a Sistematização da Assistência de Enfermagem na Consulta de Puericultura
+Descrição: Projeto visa a construção de um aplicativo que viabilizará a padronização da  consulta puerperal de enfermagem.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / Mirna Albuquerque Frota - Coordenador / Fernanda Rocha Honório de Abreu - Integrante.Número de produções C, T & A: 1
+2017 - 2018
+Pesquisa e desenvolvimento de tecnologia para identificação de alocação de IaaS e SaaS em ambientes Multi-Cloud usando avaliações de características dinâmicas da demanda
+Descrição: O mercado vem oferecendo diversas soluções em cloud para oferecer serviços
+dinâmicos, elásticos e adequados à demanda dos clientes. Dentre os serviços ofertados ode-se resumir na infraestrutura, plataformas e software conhecidos como IaaS, PaaS e SaaS respectivamente (FERREIRA, 2015). A execução de aplicações em ambientes multi-cloud traz inúmeros benefícios, onde se destaca a otimização do uso dos recursos versus o custo envolvido. Neste contexto, o uso de controle preditivo e suas abordagens estocásticas permitem a elaboração de um modelo para uma grande classe de problemas de alocação dinâmica de recursos com uma demanda desconhecida e volátil. Um bom mecanismo de provisionamento deve satisfazer os requisitos de QoS do usuário e da aplicação. Ao mesmo tempo, deve alocar eficientemente os recursos. Os algoritmos de escalonamento que são centrados em aplicativos tendem a otimizar o desempenho de cada aplicativo individual, enquanto aqueles que são centrados em recursos tendem a otimizar o desempenho de cada recurso. Portanto, existe a necessidade de um bom algoritmo de escalonamento que otimize esses dois fatores. Algoritmos Genéticos  possuem uma melhor capacidade de busca global e possui maturidade nos estudos da aplicação na pesquisa científica. Este trabalho visa aplicar algoritmos genéticos no provisionamento de recursos a tarefas alocadas com o intuito de obter tempo médio de espera menor e custos de escalonamento exigidos menores. Nesse sentido, este projeto visa melhorar o provisionamento de recursos em ambientes single ou multi-cloud usando técnicas avançadas de otimização baseadas em Inteligência Artificial objetivando a diminuição de tempo e custo, incrementando-se os benefícios.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2017 - 2018
+Trilhas de Aprendizagem Personalizáveis
+Descrição: A busca por estratégias adaptativas em plataformas de ensino online não se trata de algo novo na literatura científica. Um sistema é dito adaptativo quando consegue se modelar às características do seu usuário. Essa adaptação pode acontecer em várias dimensões, incluindo o conteúdo que será apresentado e sua forma de apresentação. 
+O termo ?Navegação Adaptativa? tem sido usado para representar o conjunto de tecnologias capazes de adaptar a navegação do sistema considerando os objetivos, interesses e conhecimentos do usuário. Dentre as várias abordagens conhecidas para produzir essa adaptação, a ?Ordenação Adaptativa? se refere à determinação de uma ordem específica de apresentação do conteúdo, a partir das características individuais do usuário. Essa técnica foi proposta já na década de 1990 no contexto dos sistemas hipermídia.      
+Desde então, diversas abordagens têm sido propostas para gerar trilhas de aprendizagem personalizadas.
+ 
+Este projeto apresenta uma nova abordagem de geração de Trilhas de Aprendizagem Personalizadas por meio de uma base hierárquica de conhecimento e avalia a percepção de potenciais usuários em relação aos impactos, efetividade e aplicabilidade desta proposta.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Jerffeson Teixeira de Souza - Integrante / Rafael Pinheiro Franco - Integrante.
+2017 - 2018
+ANA: a Natural Language System with Multimodal Interaction for People with Tetrapelgia
+Descrição: O Laboratório de Educação a Distância para Pessoas com Deficiência (LEAD) é especializado no desenvolvimento de ferramentas inovadoras de ensino a distância com o propósito de promover uma educação a distância de qualidade, inclusive a pessoas com deficiências física e auditiva. Desde de 2016, propõe-se a estender a inclusão para outros perfis, como pessoas com cegueira ou com tetraplegia, impactando na customização das suas ferramentas para assegurar a acessibilidade da plataforma a todos os perfis abrangidos.
+No portal Dell Accessible Learning são ofertados cursos como Java Intermediário e Avançado, Java Android e Oracle. A equipe de acessibilidade é responsável por analisar as ferramentas e conteúdos disponibilizados e, a partir desse estudo e dos testes realizados pela equipe responsável, consegue-se chegar ao que deve ser implementado para garantir acessibilidade a todos os perfis desenvolvidos.
+Para pessoas com tetraplegia, que necessitam da utilização de equipamentos adaptados para utilizar o computador, propomos o desenvolvimento de um modelo de interação para permitir que alunos estes possam navegar nos objetos de aprendizagem da plataforma por meio de comandos em linguagem natural. Este tipo de interação faz uso de técnicas de inteligência computacional que visam analisar o discurso do interlocutor, entender automaticamente o contexto do que se foi falado e traduzir este contexto em ações diretas na plataforma de ensino à distância. Adicionalmente, o ambiente virtual de ensino, poderá não apenas receber os comandos em linguagem natural, mas também devolver um feedback ao aluno, seja este falado ou em outra forma visualização. A partir da implantação destas técnicas o ambiente de aprendizagem passa a se comportar como um chatbot, capaz de responder aos estímulos de conversação dos alunos.Para isso, um modelo de interação multimodal é proposto a fim de potencializar a absorção de conhecimento por parte do aluno. Isso possibilita que qualquer aluno, não somente os com tetraplegia, possam se beneficiar das ferramentas de interação por processamento de linguagem natural.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Maikon Igor - Integrante / Pereira Neto - Integrante / Marcelo Ferreira de Sousa - Integrante.
+2017 - 2018
+Pesquisa e Desenvolvimento de Tecnologias Assistivas para pessoas com Deficiência Mental, e para pessoas com Deficiência Motora e Visual Severas
+Descrição: O projeto envolveu a realização de três pesquisas, a primeira, REVISÃO INTEGRATIVA SOBRE TECNOLOGIA ASSISTIVA NA TETRAPLEGIA. 
+                    A segunda, CONHECIMENTO DOS GRUPOS DE PESQUISA SOBRE DEFICIÊNCIA, TECNOLOGIA   ASSISTIVA E EDUCAÇÃO A DIST NCIA. 
+                    E, a terceira, ESTADO DA ARTE DAS PUBLICAÇÕES NACIONAIS E INTERNACIONAIS ACERCA DAS DEFICIÊNCIAS.
+    A motivação para o desenvolvimento da pesquisa Revisão Integrativa foi oferecer um conhecimento teórico sobre a temática tetraplegia, preencher lacunas detectadas nesta temática e ainda, levantamento bibliográfico sobre tecnologia assistiva visando subsidiar com fundamentação teórica os projetos de pesquisa de mestrado e doutorado de bolsistas do projeto.
+  No segundo projeto, a motivação baseou-se na necessidade de conhecer a realidade nacional e local sobre os grupos de pesquisas existentes, as instituições das quais fazem parte e, ainda, as instituições parceiras, com o intuito de criar um grupo de pesquisa no Diretório do CNPq.
+A pesquisa Estado da Arte teve como motivação revelar o status das produções científicas nacionais e internacionais, conduzir a compreensão ou totalidade do conhecimento a respeito das deficiências e tecnologias assistivas, bem como localizar lacunas, possibilidades e limitações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Zulia Carvalho - Integrante / Maikon Igor - Integrante / Felipe Matheus Paiva Carneiro Bedê - Integrante / Daniel do Nascimento e Sá Cavalcante - Integrante / Alexandra Frazão Seoane - Integrante.Número de produções C, T & A: 1
+2017 - 2018
+Microserviços :  Definindo estratégia de migração a partir de uma arquitetura monolítica
+Descrição: O projeto visa conceber e avaliar uma estratégia de migração de um sistema web concebido a partir de uma arquitetura monolítica para uma arquitetura baseada em microservicos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Marcial Porto Fernandez - Integrante / Marcus Vinicius C. De Figueiredo - Integrante / Antonio Darcy Soares Fontenele - Integrante / Raphael de Souza Sampaio - Integrante / GIldarley da Costa Santos - Integrante.
+2017 - 2018
+Revisão Integrativa da Literatura sobre Transtorno do Espectro Autista (TEA), Tecnologias Assistivas e Educação à Distância
+Descrição: De início, o maior problema enfrentado para a condução da pesquisa foi não ter equivalentes nem em fase de projeto/pesquisa acadêmica nem já disponíveis no mercado soluções tecnológicas que agreguem autismo, educação profissional à distância e-learning e tecnologias assistivas.  O próprio Le@d (laboratório coordenado pelo titular desse currículo) até então só pesquisava e produzia tecnologias para a área de deficiências físicas, sem know-how ainda na área de deficiências/transtornos mentais. 
+Para superar o problema foi feita a Revisão Integrativa para descobrir que pesquisas em bases internacionais estariam trabalhando essa temática.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Marcelo Franco e Souza - Integrante / Jefferson Falcão Sales - Integrante / João Carlos Martins Chastinet - Integrante / Marina Ximenes Tavares - Integrante.
+2017 - 2018
+Capacitação profissional a distância de pessoas com deficiência em Informática Prática, Lógica de Programação e Fundamentos de Programação Orientada a Objetos com Java
+Descrição: A Universidade Estadual do Ceará, através da Pró-Reitoria de Extensão,  ofertou o curso profissional de capacitação na área de Desenvolvimento de Software, na modalidade a distância, através da plataforma web de ensino ?Dell Accessible Learning? e da aplicação Android da Dell ?Aprendizado Acessível?, para 200 alunos residentes do estado de São Paulo, local onde se concentra a maior parte da população com deficiência no Brasil, segundo o Censo do IBGE de 2010. Os alunos que concluírem o curso, receberão certificado profissional da Universidade Estadual do Ceará (UECE). A metodologia de ensino para oferta dos cursos foi baseada nos critérios de qualidade para cursos a distância definidos pelo Ministério da Educação do Brasil, que contempla as estratégias de avaliação dos alunos, a forma de acompanhamento dos tutores, o modelo de avaliação dos cursos, os recursos de acessibilidade disponibilizados, entre outros.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Lanna Raquel Alves da Silva - Integrante / Lucas Araújo Rodrigues de Lima - Integrante / Mateus Siqueira Bezerra - Integrante / Michael Guimarães de Almeida - Integrante / Neyara Rebeca Barroso Lima - Integrante / Nhorma Keylla Lima Araújo Braga - Integrante / Thyago Bezerra Lima - Integrante / Virgínia Xavier Nunes - Integrante / Paulo César da Silva Lima - Integrante / Pedro Cunha Lopes - Integrante / Raquel Farias Lima - Integrante / Renato Manso Ramos - Integrante / Bruno Araújo Lima - Integrante / Diego Guimarães de Barros - Integrante / Edilania Gomes da Silva - Integrante / Eudenia Magalhães Barros - Integrante / Flávio Alves dos Santos - Integrante / Francisco Diego de Andrade Barros - Integrante / Francisco Tearle de Oliveira Pinheiro - Integrante / Gregory Campos Beviláqua - Integrante / Ilane Karise Barbosa Cunha - Integrante / Jose Paulo Rodrigues Moraes - Integrante / Marcos Devaner do Nascimento - Integrante / Mário Sérgio Rodrigues Falcão Junior - Integrante.
+2017 - 2018
+Maia - Conversor de Estímulos Universal para Acessibilizar Postos de Trabalho
+Descrição: Para ocupar determinados postos de trabalho, operadores precisam atender estímulos (auditivos, visuais, etc.) e responder adequadamente a eles. Assim, postos de trabalho que exigem resposta a estímulos auditivos estão inacessíveis àqueles com deficiência auditiva. O presente projeto busca criar soluções tecnológicas para atacar esse problema e acessibilzar esses postos de trabalho.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Antonio Wellington Cavalcante Lobo Junior - Integrante / Breno Alef Dourado Sá - Integrante / João Isaac Silva Miranda - Integrante / Luan Souza Frota - Integrante.Número de produções C, T & A: 1
+2017 - 2018
+Pesquisa e desenvolvimento de tecnologias assistivas para pessoas com deficiência mental, e para pessoas com deficiência motora e visual severaso Franco
+Descrição: De acordo com o último censo realizado no Brasil em 2010 mais de 45 milhões de brasileiros, 23,9% da população, afirmou possuir pelo menos um tipo de deficiência, sendo ela visual (18.8%), auditiva (5,1%), motora (7%) ou mental ou intelectual (1,4%). Destes 14,2% possuíam o ensino fundamental, 17,7%, o ensino médio e apenas 6,7% possuíam ensino superior completo. A maior parte, 61,1%, não possuía nem instrução e nem o fundamental completo. Por isso, mesmo havendo leis que obriguem empresas com mais de 100 funcionários a abrirem vagas exclusivamente para pessoas com deficiência, em 2010 quase 24 milhões de deficientes em idade ativa estavam fora do mercado de trabalho. Segundo a Secretaria de Direitos Humanos da Presidência da República: Entre vários outros fatores, a educação[...] influencia fortemente a renda dos trabalhadores. Quando ocorrem violações do direito à educação [...] dificilmente o direito ao trabalho será realizado ou o trabalho originará renda suficiente para prover uma vida com dignidade. Por isso fornecer possibilidades de educação para essa parcela da população se torna algo imprescindível.
+A plataforma DAL vem auxiliar nessa formação, inicialmente fornecendo cursos na área da informática, mas criando a possibilidade desenvolver cursos acessíveis em qualquer área, desde a língua portuguesa e inglesa, montagem e manutenção de computadores e muito mais visando melhorar a formação de pessoas com deficiência para capacitá-las cada vez mais para o mercado de trabalho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Maikon Igor da Silva Soares - Integrante / Alexandra Frazão Seoane - Integrante.
+2017 - 2018
+Projeto de pesquisa e desenvolvimento de tecnologias acessíveis de EAD para pessoas com cegueira e de framework para criação de objetos de aprendizagem acessíveis para pessoas com deficiência.
+Descrição: Este projeto foi reportado no ano base 2016 com o título ?Desenvolvimento de tecnologias assistivas
+para inclusão de novos perfis de deficiências na plataforma de EAD da Dell e oferta do programa de
+capacitação em TIC acessível para pessoas com deficiência?, no entanto, este título foi posto de
+forma equivocada, pois não condiz com a identificação do Plano de Trabalho que regula este projeto
+de pesquisa e desenvolvimento, de acordo com o Termo Aditivo 7.1 celebrado entre a DELL, UECE
+e IEPRO em 02/01/2017.
+Dessa forma, o título do projeto deste relatório, ano base 2016, foi alterado para ?Projeto de pesquisa
+e desenvolvimento de tecnologias acessíveis de EAD para pessoas com cegueira e de framework
+para criação de objetos de aprendizagem acessíveis para pessoas com deficiência?, reforçando
+ainda que o relatório reportado no ano base 2017, que contempla a continuidade do escopo iniciado
+neste projeto, possui o mesmo título alterado neste RDA.
+Ainda nesse contexto, alterações foram realizadas na ?motivação?, ?objetivo? e ?etapas? deste
+relatório para reforçar as características de pesquisa e desenvolvimento do escopo deste projeto,
+de forma a mitigar qualquer risco de interpretação contrária em função do título do projeto anterior,
+já alterado através deste relatório. Vale ressaltar ainda que o parecer técnico emitido pelo MCTI
+analisou este projeto como sendo de pesquisa e desenvolvimento, dessa forma as alterações
+realizadas tem objetivo único de ratificar a conclusão desta análise.
+Este projeto visa agregar à plataforma de ensino a distância (EAD) da Dell e ao aplicativo Android da
+plataforma novas tecnologias que permitam que pessoas com cegueira realizem os cursos
+disponíveis na plataforma. Para isso, serão observados os requisitos de acessibilidade, conforme
+os padrões estabelecidos pela W3C (World Wide Web Consortium) através dos guidelines WCAG
+2.0 (Web Content Accessibility Guidelines), que permitam à pessoa com cegueira a navegação na
+plataforma e na aplicação Android. Além disso, as ferramentas de aprendizagem, como web aula,
+fórum, avaliações, entre outros, disponíveis em cada aula, de cada curso da plataforma, precisam
+ser acessíveis para que um cego possa explorar os seus conteúdos, através de recursos como
+áudio descrição, por exemplo.
+Adicionalmente será pesquisado e desenvolvido o protótipo de um framework inovador que permita
+a criação de diversos tipos de ferramentas de aprendizagem para qualquer área de ensino, como,
+por exemplo, vídeo aulas, web aulas, exercícios, fóruns, entre outros, de forma a garantir que os
+objetos construídos através do framework sejam gerados com recursos de acessibilidade para pessoas com deficiência (PCD). As ferramentas de aprendizagem criadas através do framework
+poderão ser publicadas na plataforma de EAD e no aplicativo Android e disponibilizadas para o
+público alvo desejado.
+Finalmente, visando capacitar pessoas com deficiência em áreas de negócio com potencial de
+absorção de mão de obra e geração de empregabilidade para a empresa e para o mercado interno,
+serão desenvolvidas ferramentas de aprendizagem inovadoras e acessíveis para pessoas com
+deficiência motora, deficiência auditiva e deficiência visual, incluindo cegueira, para capacitação em
+?Informática Aplicada? e em ?Administração e Gerenciamento do Dell Compellent Storage Center?.
+A inovação criada permitirá a inserção de pessoas com deficiência em áreas funcionais da empresa
+e do mercado interno, resolvendo assim problemas relacionados à composição de pessoas
+qualificadas no quadro funcional e o atendimento à lei 8213/91 (lei de cotas), que exige a contratação
+de pessoas com deficiência de acordo com a quantidade de colaboradores existentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Anderson Severo De Matos - Integrante / Michael Guimarães de Almeida - Integrante / Robson de Moraes - Integrante / Fabrice Marc Joye - Integrante / Elton Lopes e Silva - Integrante / CAIO MARQUES OLIVIEIRA - Integrante / CÍCERA OHANA MARTINS SANCHO - Integrante / ITALO FERREIRA PORTO - Integrante / JOÃO PAULO DE SOUZA CORREIA - Integrante / SUELEN MOURA COSTA - Integrante.
+2017 - 2018
+Artrade: Realidade Aumentada, Surdos e o ensino profissionalizante à distância
+Descrição: Projeto visa construção de conteúdos didáticos acessíveis a serem entregues via realidade aumentada para viabilização de treinamento profissionalizante à distância para pessoas com deficiência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Thiago Alves Costa De Araujo - Integrante / Cecília Costa - Integrante / Lana Lana Beatriz Medeiros de Mesquita - Integrante / Raphael de Araújo Barros - Integrante.Número de produções C, T & A: 3
+2017 - 2018
+Pesquisa e desenvolvimento de tecnologias assistivas para pessoas com deficiência intelectual, e para pessoas com deficiência motora, auditiva e visual com grau severo.
+Descrição: O objeto desse Projeto é pesquisar novas tecnologias que permitam a inclusão de pessoas com deficiência mental, com tetraplegia e com cegueira no ambiente de ensino a distância da Dell. As descobertas tecnológicas decorrentes das pesquisas a serem realizadas fornecerão direcionamento para o desenvolvimento de protótipos que validem as hipóteses previamente definidas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (6) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / FREITAS, ADRIANO T. DE - Integrante / Thiago Alves Costa De Araujo - Integrante / Maikon Igor - Integrante / Francisco Mateus de Freitas Esmeraldo - Integrante / George Moreno de Oliveira - Integrante / Marcelo Franco e Souza - Integrante / Jefferson Falcão Sales - Integrante / João Carlos Martins Chastinet - Integrante / Marina Ximenes Tavares - Integrante / Mariela Inés Cortés - Integrante / Wanessa de Caldas Teotônio - Integrante / Marcial Porto Fernandez - Integrante / Felipe Matheus Paiva Carneiro Bedê - Integrante / Alexandra Frazão Seoane - Integrante / Breno Alef Dourado Sá - Integrante / Nhorma Keylla Lima Araújo Braga - Integrante / Edilania Gomes da Silva - Integrante / Marcelo Ferreira de Sousa - Integrante / Nicolle Campos - Integrante / Herculano Gonçalves Santos - Integrante / Antonio Pereira Batista Neto - Integrante / Daniel Cavalcante Sá - Integrante / Fábio Araújo de Holanda Souza - Integrante / George Victor Mesquita - Integrante / Jerfferson Teixeira de Souza - Integrante / José Waton Bezerra Lima Filho - Integrante / Lucas de Castro Lima Matos - Integrante / Luiza Cristina Queiroz Xavier Soares - Integrante / Marcio Vaz Fernandes - Integrante / Marcus Vinicius Candido de Figueredo - Integrante / Pedro Fiuza Linhares - Integrante / Rafael Pinheiro Santos - Integrante / Sofia Nicolau Amoreira - Integrante / Thiago Melo Casal - Integrante / Vera Lúcia Santiago Araújo - Integrante / Zuila Maria de Figueiredo Carvalho - Integrante / Luiz Alexandre Castelo Branco - Integrante.
+2017 - Atual
+Inovação Tecnológica para o Programa Saúde na Escola Face ao Planejamento Reprodutivo para Adolescente
+Descrição: Projeto visa a construção de sistema computacional capaz de engajar casais de adolescentes a partir da escola, promovendo dispensação de conteúdo educativo interativo construído a partir da plataforma Tratbem.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / Raquel Santos Monte - Integrante / Mirna Albuquerque Frota - Coordenador.
+2017 - Atual
+OCARIoT - smart childhood Obesity CARing solution using IoT potential
+Descrição: Descrição: Child obesity is the major pediatric public health concern, affecting around 224 million school-age children in the world. Its prevalence has tripled in many European countries since 1980, increasing in an alarming rate. Childhood obesity already affects more than one in three school-aged children in Brazil, Greece and Spain. The main goal of OCARIoT is to promote the improvement of eating and physical disorders and also the prevention of the obesity onset for children (between 9 and 12 years old). For doing so, OCARIoT will develop an IoT-based personalised coaching solution guiding children to adopt healthy eating and physical activity behaviour. The IoT network will allow observing child activity patterns of daily living, health evolution, physiological & behavioural parameters and environmental data. All this information combined with medical patterns will allows OCARIoT to provide a customised obesity coaching plan while enabling children to remain active and engaged in their well-being and healthy habits management. The proposed solution will be able to empower children (and also educational staff and families) in taking control of their health by collecting real-time information about nutrition and physical activity, and interconnecting doctors and children (including parents and tutors) in order to adapt the individual obesity coaching plan. OCARIoT will demonstrate and validate its results on three specific pilot sites in Spain, Greece and Brazil. The OCARIoT consortium will ensure children?s rights and data privacy, security and confidentiality through an Ethics Board composed by healthcare professionals and children representatives from different EU and Brazil organisations. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / José Eurico de Vasconcelos Filho - Coordenador.
+2016 - 2018
+TGlass - SmartGlass para ensino profissionalizante  à distância para pessoas com deficiência
+Descrição: o objetivo é a construção de um dispositivo vestível de baixo custo: um smartglass, que possa ser distribuído aos PCDs matriculados nos cursos à distância e que sirva para uma grande abrangência de situações. O acessório além de viabilizar cursos com atividades manuais por meio de realidade aumentada, proverá,  a tetraplégicos, métodos de interação com os objetos de aprendizagem presentes no AVA. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Lidiane Silva - Integrante / Maikon Igor da Silva Soares - Integrante / FREITAS, ADRIANO T. DE - Integrante.
+2016 - 2018
+Desenvolvimento e Avaliação de Aplicativo: M-Health no manejo de Sondas Gátricas pelo Cuidador no Domicilio
+Descrição: Desenvolvimento e validação de conteúdo educativo interativo para empoderamento do cuidador de pacientes crônicos em uso de sondas gástricas. O conteúdo, após validação por especialistas, foi usado para criar o aplicativo para smartphones TratBem Sondas (da plataforma TratBem) e colocado em avaliação no hospital Waldemar de Alcântara, no Ceará.  A plataforma TratBem permite a criação de aplicativos interativos voltados para educação em saúde e mudança de hábitos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / Verônica Maria Barbosa Tavares - Integrante / Raimunda Magalhães da Silva - Coordenador.Número de produções C, T & A: 1
+2016 - 2018
+Desenvolvimento e Validação de Aplicativo no Apoio ao Autocuidado com Insulinoterapia em Adolescentes com DM1
+Descrição: O projeto visa a construção de conteúdo educativo e interativo para adolescentes portadores de Diabetes Melitus tipo 1. O conteúdo é utilizado para geração do aplicativo Tratbem DM1, da plataforma Tratbem. A plataforma TratBem permite a criação de aplicativos interativos voltados para educação em saúde e mudança de hábitos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / Lea Maria Moura Barroso Diógenes - Coordenador / Patricia Rabelo Brito - Integrante.Número de produções C, T & A: 1
+2016 - 2018
+TECNOLOGIA m-Health PARA ADOLESCENTES ACERCA DA IMPORTÂNCIA DA VACINA CONTRA PAPILOMAVÍRUS HUMANO
+Descrição: Construção e validação com juízes (especialistas na área) de conteúdo educativo interativo voltado para o público infantil acerca da importância da vacina contra HPV. O conteúdo foi inserido na criação do app Tratbem HPV, da plataforma TratBem. A plataforma TratBem permite a criação de apps do tipo agente virtual de saúde voltados para educação em saúde e mudança de hábitos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Integrante / Mirna Albuquerque Frota - Coordenador / Aline Severo de Assis - Integrante.Número de produções C, T & A: 1
+2015 - 2017
+Programa de capacitação profissional à distância em Tecnologia da Informação e Comunicação para pessoas com deficiência e desenvolvimento de novas ferramentas para a plataforma web e aplicação móvel de EAD.
+Descrição: Este projeto tinha o objetivo de pesquisar e desenvolver novas tecnologias que garantissem maior
+abrangência na inclusão de novos perfis de pessoas com deficiência na plataforma web e no
+aplicativo móvel de ensino a distância da Dell. Para isto, foi desenhado um processo de validação,
+utilizando a Plataforma da Dell, capaz de envolver um grande número de usuários, com algum tipo
+de deficiência, no processo de inovação. As tecnologias a serem construídas, como resultado desse
+processo, deveriam ser submetidas aos testes de um grupo de testadores de software composto
+por pessoas com deficiência, colaboradores da Dell, e, finalmente, submetidas à validação dos
+usuários participantes da etapa de validação das versões funcionais das tecnologias.
+A validação deveria ser realizada no Ceará através da composição de turmas piloto de pessoas
+nunca expostas antes à plataforma web e ao aplicativo móvel de ensino a distância da Dell.
+Poderiam participar do processo de validação pessoas com qualquer tipo de deficiência, bem como
+pessoas sem deficiência. Além disso, também foi utilizado como critério para priorização no
+recrutamento, a seleção de usuários com baixa renda. O objetivo aqui era submeter as tecnologias
+desenvolvidas a cenários adversos, considerando as restrições do ponto de vista da limitação física
+dos usuários e, ainda, sob o ponto de vista socioeconômico, e analisar de que forma as tecnologias
+desenvolvidas eram capazes de superar estes desafios.
+A partir das sugestões de melhorias dos usuários, novos requisitos seriam identificados para a
+plataforma web e para o aplicativo móvel de EAD, visando ampliar o atendimento a novos perfis de
+pessoas com deficiência no ambiente virtual de ensino. As ferramentas desenvolvidas seriam
+submetidas, inicialmente, aos testes de um grupo de testadores de software, composto por pessoas
+com deficiência, e finalmente validadas pelos usuários que participariam da etapa de validação das
+verões funcionais das tecnologias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (3) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Anderson Severo De Matos - Integrante / Breno Alef Dourado Sá - Integrante / Bruno Araújo Lima - Integrante / Diego Guimarães de Barros - Integrante / Edilania Gomes da Silva - Integrante / Eudenia Magalhães Barros - Integrante / Flávio Alves dos Santos - Integrante / Francisco Diego de Andrade Barros - Integrante / Francisco Tearle de Oliveira Pinheiro - Integrante / Gregory Campos Beviláqua - Integrante / Fabrice Marc Joye - Integrante / Ana Paola Ribeiro Alencar - Integrante / Fabiano Alves de Sousa - Integrante / Germana Maria de Araujo Lima - Integrante / Francisco Randson Gomes Ferreira - Integrante / Alexssandro da Silva Pereira - Integrante / Altino Dantas Basílio Neto - Integrante / Barbara Perina Bezerra - Integrante / David Melo Ribeiro - Integrante / Diego Alysson Braga Moreira - Integrante / Elton Lopes e Silva - Integrante / Francisco Daniel Coutinho Medeiros - Integrante / Gracielly Alves da Costa - Integrante / Janaína de Sousa Brito - Integrante.
+2015 - 2017
+Pesquisa e desenvolvimento de tecnologias acessíveis de EAD para dispositivos vestíveis e ferramentas de aprendizagem para pessoas com surdez
+Projeto certificado pela empresa DELL COMPUTADORES DO BRASIL LTDA em 16/06/2019.
+Descrição: O objeto deste Projeto é pesquisar novas ferramentas de ensino a distância, baseadas no uso de
+dispositivos vestíveis, que permitam oferecer novos recursos de acessibilidade para pessoas com
+tetraplegia, e que permitam ainda proporcionar para a pessoa com surdez e com deficiência motora
+uma experiência imersiva com o uso de realidade aumentada para aprendizagem de habilidades
+manuais. A perspectiva futura é que as ferramentas propostas nesse projeto possam ser integradas
+à plataforma de EAD da Dell Computadores e utilizadas para garantir uma aprendizagem mais
+acessível no ambiente de ensino.
+Além disso, novos requisitos de acessibilidade para pessoas com cegueira e para pessoas com
+baixa visão serão desenvolvidos e incorporados à ferramenta JDebugger (ferramenta web para
+depuração de códigos da linguagem Java idealizada, na sua primeira versão, com acessibilidade
+para surdos e deficientes motores), cujo desenvolvimento foi iniciado no projeto EAD2PCD C2
+IDESCO.
+Finalmente, será desenvolvido módulo de administração/moderação para a ferramenta ?Fábrica de
+Sinais? (ferramenta colaborativa online que permite a criação de sinais da Língua Brasileira de Sinais
+para termos técnicos, ainda sem tradução, utilizados nos cursos ofertados através da plataforma de
+EAD da Dell), cujo desenvolvimento foi iniciado no projeto EAD2PCD C2 IDESCO.
+As ferramentas desenvolvidas no escopo desse projeto serão submetidas aos testes de um
+grupo de pessoas com deficiência, que será treinado nas técnicas, metodologias e ferramentas
+utilizadas na área de testes de software para validação das soluções de ensino.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / da Silva Soares, Maikon Igor - Integrante / Cassandra Ribeiro Joye - Integrante / Francisco Diego Andrade Barros - Integrante / Jonas Gonçalves Rodrigues Júnior - Integrante / Pedro Jorge Nepomuceno Rocha Filho - Integrante.
+2015 - 2016
+Pesquisa e desenvolvimento de nova versão das plataformas web e mobile de ensino a distância acessíveis para pessoas com deficiência - Ciclo 5
+Projeto certificado pela empresa DELL COMPUTADORES DO BRASIL LTDA em 16/06/2019.
+Descrição: Os protótipos das ferramentas previstas no escopo desse projeto, construídos no ano base anterior,
+bem como os experimentos realizados, confirmaram o potencial dos resultados que podem ser obtidos
+na aprendizagem de alunos surdos e apontaram os próximos passos para a evolução das ferramentas,
+motivando a equipe do projeto a evoluir a pesquisa e o desenvolvimento das ferramentas ?JLoad?,
+?JDebugger?, ?Staut Reader? e a ferramenta para criação de sinais em Libras.
+Importante ressaltar que as soluções aqui previstas são acessíveis para pessoas com deficiência (PCD), e
+não exclusivas para este público, podendo, portanto, serem aplicadas para o público em geral. Os
+requisitos criados para possibilitar o acesso a PCD facilitam fortemente a usabilidade de pessoas sem
+deficiência.
+As ferramentas previstas no escopo deste projeto deverão ser integradas à plataforma web de ensino à distância (EAD) da Dell, desenvolvida através de outro projeto de P&D realizado através do convênio entre DELL, UECE e IEPRO, possibilitando criar um ambiente completo, acessível e inovador que permita à pessoa com deficiência ter acesso a uma formação profissional de qualidade e que respeite as limitações da deficiência colocando o aluno em situação de igualdade no processo de aprendizagem em relação a uma pessoa sem deficiência. Tendo em vista a Lei no 8.213, de 24 de julho de 1991, conhecida como Lei de cotas para Deficientes, as empresas se esforçam para contratar PCD no mercado, mas esbarram na falta de qualificação profissional. Motivadas por este cenário, as tecnologias assistivas desenvolvidas no escopo desse projeto visam agregar características inovadoras na plataforma de EAD para pessoas com deficiência da Dell, além de ampliar as oportunidades de empregabilidade para PCD através de uma educação profissional acessível e de qualidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (5) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Maikon Igor da Silva Soares - Integrante / Nelson Alex Silva Lima - Integrante / Eudênia Magalhaes - Integrante / FREITAS, ADRIANO T. DE - Integrante / Thiago Alves Costa De Araujo - Integrante / Silva, Lidiane Castro - Integrante / Anibal Cavalcante Oliveira - Integrante / Marcos Devaner Nascimento - Integrante / ALVES, SHARA SHAMI ARAUJO - Integrante / Francisco Tearle de Oliveira Pinheiro - Integrante / João Batista Alves de Oliveira Filho - Integrante / André Luis Batista - Integrante / Fabiano Alves de Sousa - Integrante / Francisco Renato Pires da Costa e Silva - Integrante / José Alberto Barros do Nascimento - Integrante / José Alexandre Vieira - Integrante.Número de produções C, T & A: 2
+2015 - 2016
+Pesquisa e desenvolvimento de nova versão das plataformas web e mobile de ensino a distância acessíveis para pessoas com deficiência
+Projeto certificado pela empresa DELL COMPUTADORES DO BRASIL LTDA em 16/06/2019.
+Descrição: Este projeto visa incorporar características inovadoras às atuais versões da plataforma web de
+ensino a distância (EAD) e do aplicativo móvel de EAD da Dell, ambas ferramentas acessíveis para
+pessoas com deficiência (PCD) física e pessoas com surdez.
+No escopo desse projeto as duas soluções serão integradas e terão seus projetos de interface
+equalizados. A plataforma de EAD receberá novos requisitos para otimizar o desempenho da
+ferramenta e garantir a sua robustez. Além disso, será aplicado na plataforma um novo design de
+interface que observe os padrões de identidade visual da Dell, facilite a usabilidade na navegação
+e torne o acesso às ferramentas de aprendizagem mais acessível. Ferramentas de aprendizagem
+inovadoras, resultantes das pesquisas realizadas no projeto intitulado ?EAD2PCD C2 IDESCO?,
+realizado entre UECE, IDESCO e DELL, deverão ser integradas à arquitetura da plataforma de
+EAD, como é o caso, por exemplo, da ferramenta JLoad, que permitirá ao programador surdo
+compilar e executar os códigos em Java e ser acompanhado por um tutor online para resolução de
+dúvidas no momento da construção dos seus primeiros programas em Java, tudo isso de forma
+acessível e sem sair da própria plataforma, não sendo necessário, portanto, o uso de outras
+ferramentas para a prática da construção de códigos.
+A aplicação Android receberá novas ferramentas de aprendizagem permitindo que o aluno com
+deficiência possa acessar todos os conteúdos da plataforma web de EAD no seu dispositivo móvel.
+Dadas as limitações de tamanho de tela e de ergonomia da interface em dispositivos móveis,
+algumas funcionalidades da aplicação Android terão acesso limitado em smartphones.
+No ano base anterior, as ferramentas de aprendizagem do curso de Lógica de Programação foram
+integradas à primeira versão da aplicação Android. No escopo deste projeto, serão integradas à
+aplicação Android as ferramentas de aprendizagem dos demais cursos de EAD disponíveis na
+plataforma web, conforme listado a seguir:
+? Programação orientada a objetos com Java
+? Desenvolvimento de aplicações web com Java e banco de dados
+? Desenvolvimento de aplicações para plataforma Java EE6 com JSF e JPA
+Desenvolvimento de aplicações Android
+? Administração de banco de dados Oracle
+? Gerenciamento de projetos: preparatório para certificação PMP
+Como resultado deste projeto, a plataforma web de EAD da Dell e a aplicação Android da plataforma,
+acessíveis para pessoas com deficiência física e pessoas com surdez, irão compor uma solução
+inovadora, completa e acessível para qualificação profissional de pessoas com deficiência na área de
+Tecnologia da Informação e Comunicação (TIC) no Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Thiago Alves Costa De Araujo - Integrante / Marcela Lopes Alves - Integrante / Anderson Severo De Matos - Integrante / da Silva Soares, Maikon Igor - Integrante / Luiz Alexandre Castelo Branco Gomes - Integrante / Breno Alef Dourado Sá - Integrante / Eudenia Magalhães Barros - Integrante / Cassandra Ribeiro Joye - Integrante / Fabiano Alves de Sousa - Integrante / Altair Oliveira de Aquino - Integrante / Anna Larissa Oliveira de Castelo Branco - Integrante / Antônio Delis Carvalho Bisneto - Integrante / Daniel Martins Pereira Rodrigues - Integrante / Francisco Randson Gomes Ferreira - Integrante / Herculano Gonçalves Santos - Integrante / Lucas Freire de Albuquerque - Integrante / Paulo Henrique Mendes Maia - Integrante.
+2014 - 2015
+Pesquisa e Desenvolvimento de Ferramenta Móvel acessível para Pessoas com Deficiência voltada para o ensino a distância na área da Tecnologia da Informação e Comunicação
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2014 - 2015
+Pesquisa e Desenvolvimento de Tecnologias Assistivas para Educação a Distância de Pessoas com Deficiência
+Projeto certificado pela empresa Dell Computadores do Brasil em 16/06/2019.
+Descrição: Este projeto visa dar continuidade à pesquisa e ao desenvolvimento de uma solução tecnológica de educação a distância (EAD) acessível para pessoas com deficiência (PCD), iniciada no ano base 2011, através de convênio celebrado entre a Dell Computadores do Brasil Ltda ? DELL, o Instituto Federal de Educação Tecnológica do Ceará - IFCE e o Centro de Pesquisa e Qualificação Tecnológica - CPQT, com o desenvolvimento de uma plataforma web de educação a distância acessível para pessoas com deficiência física e pessoas com  surdez, assim como a construção de objetos de aprendizagem acessíveis para capacitação em ?Programação orientada a objetos com Java?. Continuando a construção da solução de EAD, a Universidade Estadual do Ceará ? UECE e o Instituto de Estudos, Pesquisas e Projetos - IEPRO, desenvolveram com a DELL, nos anos base 2012 e 2013,
+Projetos para a pesquisa e o desenvolvimento de tecnologias voltadas para maximizar o aprendizado a distância de pessoas com deficiência (PCD) na área da Tecnologia da Informação e Comunicação - TIC. Foram desenvolvidos objetos de aprendizagem integrados à plataforma web de EAD, para capacitação a distância em ?Introdução a Lógica de Programação?, ?Desenvolvimento de aplicações web com Java e banco de dados?, ?Desenvolvimento de aplicações para plataforma Java EE6 com JSF e JPA? e ?Desenvolvimento de aplicações móveis para Android?. Além disso, foram especificados os requisitos de uma nova versão da plataforma web de EAD, baseada na versão anterior. O desenvolvimento da segunda versão (V2.0) da plataforma de EAD foi de responsabilidade do Instituto Eldorado, através de projeto específico desenvolvido com a DELL. O teste de software dessa versão também fez parte do escopo do projeto com a UECE.
+A partir desse contexto, o presente Projeto propõe a continuação do desenvolvimento da solução de EAD, por meio de pesquisas, desenvolvimento e capacitação na área de TI, e do desenvolvimento de uma solução móvel, baseada na plataforma Android, acessível para PCD, voltada para o ensino a distância, baseada na metodologia mobile learning (m-learning), na área de desenvolvimento de software Java.
+A nova solução visa facilitar e massificar o acesso ao conhecimento de pessoas com deficiência em qualquer lugar e em qualquer horário com praticidade, rapidez e acessibilidade. A aplicação da solução irá motivar o usuário, apoiando os diversos tipos de aprendizagem a partir da cultura das tecnologias existentes, além de maximizar as oportunidades de engajamento dos alunos, de forma interativa e estimulante, permitindo a mobilidade no acesso aos objetos de aprendizagem da plataforma de EAD.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Neiva Cardins - Integrante / FREITAS, ADRIANO T. DE - Integrante / ARAUJO, THIAGO A. C. DE - Integrante / Silva, Lidiane Castro - Integrante / Anibal Cavalcante Oliveira - Integrante / Jerffeson Teixeira de Souza - Integrante / Robson de Moraes - Integrante / João Batista Alves de Oliveira Filho - Integrante / Daniel Holanda Xavier - Integrante / Anna Larissa - Integrante / Pedro Vinnicius Vieira - Integrante / Nicolle Campos - Integrante / Tamara Vieira da Silva - Integrante / Lincoln Souza Rocha - Integrante.Número de produções C, T & A: 5
+2014 - 2015
+Pesquisa e Desenvolvimento de Ferramentas Acessíveis de Educação à Distância para Capacitação em Desenvolvimento de Software
+Projeto certificado pela empresa Dell Computadores do Brasil em 16/06/2019.
+Descrição: Visando continuar a construção de tecnologias inovadoras para educação a distância (EAD) de pessoas com deficiência (PCD), e agregar novas ferramentas à plataforma de EAD da Dell, este Projeto visa pesquisar e desenvolver objetos de aprendizagem que apoiarão o processo de ensino a distância na área de desenvolvimento de software. Este Projeto faz parte do Programa de Pesquisa e Desenvolvimento em Educação a Distância paraPessoas com Deficiência da Dell Computadores, portanto as ferramentas descritas a seguir serão integradas às demais soluções já desenvolvidas pela Dell e seus parceiros em outros projetos.
+No escopo deste Projeto serão pesquisadas novas ferramentas de aprendizagem que diminuam o
+esforço cognitivo de pessoas com surdez no aprendizado da linguagem de programação Java.
+Adicionalmente serão pesquisados mecanismos de tradução automática de textos em Português para Libras, o resultado dessa pesquisa suportará o desenvolvimento de uma ferramenta de tradução assistida por computador (T.A.C). Importante contextualizar a integração existente entre os resultados dos projetos realizados nos anos bases 2014 e 2015. O projeto intitulado ?Pesquisa e Desenvolvimento de Ferramentas Acessíveis de Educação à Distância para Capacitação em Desenvolvimento de Software? (identificado como ?EAD2PCD 2014 IDESCO?), realizado pela UECE, IDESCO e DELL, de 01/11/2014 a 31/03/2015, resultou na versão funcional da ferramenta denominada JLOAD para prática de conceitos na área de ?Programação orientada a objetos com Java - POO?, na construção do protótipo da ferramenta STAUT e em uma pesquisa para definição do escopo da ferramenta denominada JDebugger (todas ferramentas de aprendizagem acessíveis para pessoas com deficiência). A versão funcional da ferramenta JLOAD para prática de POO, desenvolvida no projeto "EAD2PCD 2014 IDESCO? foi integrada à interface e à arquitetura de software da nova versão da plataforma de EAD da Dell prevista no escopo do projeto intitulado ?Pesquisa e desenvolvimento de nova versão das plataformas web e mobile de ensino a distância acessíveis para pessoas com deficiência? (identificado como EAD2PCD CICLO 5), realizado pela UECE, IEPRO e DELL, no período 01/04/2015 a 31/03/2016. Além disso, no ano base 2015, outros dois projetos foram realizados entre UECE, IDESCO e DELL, são eles: o projeto ?Pesquisa e desenvolvimento de ferramentas acessíveis de ensino a distância em tecnologia da informação e comunicação? (identificado como ?EAD2PCD CICLO 2 IDESCO?), realizado de 01/04/2015 a 31/03/2016, e o projeto ?Pesquisa e desenvolvimento de tecnologias acessíveis de EAD para dispositivos vestíveis e ferramentas de aprendizagem para pessoas com surdez? (intituladoEAD2PCD CICLO 3 IDESCO), realizado de 01/11/2015 a 31/03/2017. O projeto EAD2PCD CICLO 2 IDESCO evoluiu a ferramenta JLOAD com novas funcionalidades desenvolveu nova versão da ferramenta voltada para prática de ?Lógica de Programação?, além disso foi construído o protótipo funcional da ferramenta JDebugger e a versão web da ferramenta STAUT. Com relação ao projeto ?EAD2PCD CICLO 3 IDESCO?, dentre outras entregas previstas no escopo, foi construída uma nova versão da ferramenta JDebugger acessível para pessoas com deficiência visual, ressaltando que a ferramenta originalmente foi concebida para pessoas com surdez.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Rafael Bezerra de Oliveira - Integrante / Nelson Alex Silva Lima - Integrante / Anderson Severo De Matos - Integrante / Anibal Cavalcante Oliveira - Integrante / DEVANER DO NASCIMENTO, MARCOS - Integrante / Robson de Moraes - Integrante / Ismael A.Alexandre Rodrigues - Integrante / Fabiano Alves de Sousa - Integrante / Francisco Renato Pires da Costa e Silva - Integrante / Germana Maria de Araujo Lima - Integrante / Pedro Vinnicius Vieira Alves Cabral - Integrante / Rafael Meirelles Xavier Santiago - Integrante / Yara Rodrigues da Silva - Integrante.
+2013 - 2017
+JDebugLibras:  Debugger Java adaptado para deficientes auditivos.
+Descrição: Ferramentas de debug existentes, assim como os principais ambientes de desenvolvimento, não foram projetadas para deficientes auditivos, como consequência, programadores surdos terão muitas dificuldades para resolução de erros de código e desenvolvimento lógico de um sistema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Adriano Freitas - Integrante / Marcos Devaner Nascimento - Integrante.
+2013 - 2016
+JLoad - Objeto de aprendizado para o aprendiz de programação surdo
+Descrição: Desenvolvimento de um objeto de aprendizagem baseado no modelo didático de oficina (construção de códigos) da linguagem de programação Java para pessoas com deficiência física e auditiva. 
+Os códigos desenvolvidos serão compilados, executados e as mensagens de erro e resultados são exibidos em um console dentro da própria plataforma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Lidiane Silva - Integrante / Adriano Freitas - Integrante.Número de produções C, T & A: 1
+2013 - 2015
+STAUT ? Um Sistema de Tradução Automática De Português Para Língua Brasileira de Sinais (LIBRAS).
+Descrição: O presente trabalho apresenta o STAUT, uma ferramenta de tradução assistida por computador (T.A.C.) de Português para uma notação escrita de LIBRAS, com objetivo de diminuir o esforço nas traduções manuais, facilitando e agilizando a produção de conteúdos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Aníbal Cavalcante Oliveira - Integrante.
+2013 - 2014
+Fórum para criação de sinais em libras de conceitos em ciências da computação
+Descrição: O projeto objetiva a criação de sinais em libras que transmitam conceitos abstratos utilizados no ensino de ciências da computação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Adriano Freitas - Integrante / Eudênia Magalhaes - Integrante.
+2013 - 2014
+Pesquisa e desenvolvimento de conteúdos e tecnologias de educação a distância aplicados à aprendizagem de pessoas com deficiência na área de programação Java
+Projeto certificado pela empresa Dell Computadores do Brasil em 16/06/2019.
+Descrição: Este projeto visa dar continuidade à pesquisa e o desenvolvimento de ferramentas de
+aprendizagem acessíveis para pessoas com deficiência, para qualificação a distância na área de
+Tecnologia da Informação, a serem integradas à plataforma de educação a distância (EAD) da Dell
+Computadores. Fazendo uma breve contextualização, para entendimento de como os
+entregáveis desse Projeto se integram às soluções já existentes, importante ressaltar que a
+primeira versão da plataforma de EAD foi construída no ano base 2011, através de convênio
+celebrado entre a Dell Computadores (DELL), o Instituto Federal de Educação Tecnológica do
+Ceará (IFCE) e o Centro de Pesquisa e Qualificação Tecnológica (CPQT), quando foram
+desenvolvidas também, pelo IFCE, ferramentas de aprendizagem para formação a distância em
+?Programação Orientada a Objetos com Java? (Java nível básico).
+Continuando a construção da plataforma de EAD para pessoas com deficiência, no ano base 2012,
+a Fundação Universidade Estadual do Ceará (FUNECE) e o Instituto de Estudos, Pesquisas e
+Projetos (IEPRO), celebraram com a DELL, um convênio para a pesquisa e o desenvolvimento de
+ferramentas de aprendizagem acessíveis para capacitação a distância de pessoas com deficiência
+em ?Desenvolvimento de aplicações web com Java e banco de dados? (Java nível intermediário)
+e ?Desenvolvimento de aplicações para plataforma Java EE6 com JSF e JPA (Java nível avançado)?,
+além disso foram pesquisados e especificados requisitos de uma nova versão da plataforma web
+de EAD, que foi desenvolvida pelo Instituto ELDORADO no mesmo ano base, através de convênio
+específico com a Dell Computadores. A plataforma de EAD assim como as ferramentas de
+aprendizagem acessíveis, foram validadas por um grupo de testadores da DELL, composto por
+pessoas com deficiência física e pessoas com surdez.
+A partir desse contexto, este projeto tinha como objetivo realizar novo esforço para a pesquisa e
+o desenvolvimento de ferramentas de aprendizagem que potencializassem a aprendizagem de
+pessoas com deficiência na área de TI, tomando como base as problemáticas de acessibilidade e
+dificuldades de performance de PCD na aprendizagem a distância, identificadas no ano base
+anterior. Portanto, o escopo desse projeto possuía dois desafios: o primeiro era pesquisar
+soluções que eliminassem as dificuldades de aprendizagem decorrentes das limitações da própria
+deficiência, visando garantir que pessoas com deficiência tivessem as mesmas condições de
+aprendizagem, em um ambiente de ensino a distância, que uma pessoa sem deficiência; o
+segundo desafio era construir ferramentas de aprendizagem para formação de pessoas com
+deficiência em áreas mais especializadas da TI, como é o caso da área desenvolvimento de
+aplicações móveis na plataforma Android, dessa forma, para construção das ferramentas de
+aprendizagem, deveria ser observada a complexidade dos conhecimentos aplicados na área
+citada e as limitações impostas pelos perfis de deficiências.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Caio Holanda Costa - Integrante / Corneli Gomes Furtado Júnior - Integrante / Enyo Gonçalves - Integrante / FREITAS, ADRIANO T. DE - Integrante / Anderson Severo De Matos - Integrante / Anibal Cavalcante Oliveira - Integrante / Cassandra Ribeiro Joye - Integrante / Andrea Michilles Lemos - Integrante / Fabrice Marc Joye - Integrante / Ana Paola Ribeiro Alencar - Integrante / Andre Ribeiro Cardoso - Integrante / Antônio Anderson Rodrigues Marinho - Integrante / Carlos Diego Andrade de Almeida - Integrante / Daniel Holanda Xavier - Integrante / Diego Lial Melo - Integrante / Diego Antonio Alves de Sousa - Integrante / Érica Andrade Figueiredo - Integrante / Felipe Chagas Pereira - Integrante.Número de produções C, T & A: 2
+2013 - 2014
+Pesquisa e Desenvolvimento de Conteúdos e Tecnologias de Educação a Distância aplicados à aprendizagem de pessoas com deficiência na área de programação Java
+Descrição: Será realizada uma pesquisa demográfica nacional para identificar o perfil
+da pessoa com surdez no Brasil. O objetivo é conhecer as necessidades
+do usuário surdo de uma solução de EAD e identificar os perfis que
+representam os principais grupos de usuários mapeados na amostra. Os
+dados levantados serão objeto de estudo para entendimento das
+necessidades do público alvo e direcionamento das pesquisas.
+Adicionalmente, será construído um objeto de aprendizagem para apoiar
+o aluno surdo no entendimento dos termos técnicos utilizados nos
+conteúdos do curso EAD. Dessa forma, será desenvolvido e portado na
+plataforma de EAD um glossário Java bilíngue, Português e Libras, com
+os termos técnicos, e seus respectivos conceitos, utilizados no curso de
+EAD Java para Android.
+Será realizado o estudo e a criação de sinais da LIBRAS para os termos
+utilizados na área de desenvolvimento de software que não possuem
+sinalização. Para automatizar esse processo será desenvolvida uma
+ferramenta web que permita a colaboração de diversos usuários em um
+fórum de discussão para a criação e escolha de sinais da LIBRAS para os
+termos apresentados no fórum.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.
+2012 - 2013
+Capacitação profissional a distância de pessoas com deficiência na área de Desenvolvimento de Software com a Linguagem de Programação Java ? níveis intermediário e avançado
+Projeto certificado pela empresa Dell Computadores do Brasil em 16/06/2019.
+Descrição: Este projeto visa dar continuidade ao programa de capacitação iniciado no ano base 2011, através de
+projeto específico entre a Dell e o Instituto Federal de Educação Ciência e Tecnologia do Ceará ? IFCE, quando foi realizada capacitação em Desenvolvimento de Software Java, nível básico, de um grupo de testadores com deficiência da Dell. Este projeto visa dar continuidade à qualificação tecnológica, agora nos níveis intermediário e avançados da área de Desenvolvimento de Software Java, de um grupo de pessoa com deficiência, colaboradores da Dell, em Tecnologia da Informação e Comunicação, para realização de atividades de validação e testes de software em projetos de pesquisa e desenvolvimento realizados pela Dell com seus parceiros. A iniciativa motiva-se pelo fato de que há carência de PCDs qualificados para o preenchimento de vagas abertas pela Lei de Cotas, lei no 8.213, de 24 de julho de 1991, que exige a contratação de dois a cinco por cento dos seus cargos com beneficiários reabilitados, ou pessoas com deficiência. Além disso, a Dell, em parceria com a UECE, através de outro projeto no mesmo ano base 2012, desenvolveu ferramentas de aprendizagem acessíveis para pessoas com deficiência nas temáticas da área de qualificação desse projeto, adicionalmente a Dell também realizou parceria com o Instituto Eldorado,
+no ano base 2012, para construção de uma nova versão da plataforma Dell Accessible Learning. Nesse sentido, a qualificação profissional à distância deveria ser realizada através da nova versão da plataforma. Dell Accessible Learning e através das ferramentas de aprendizagem construídas, o que se configurou como uma abordagem interessante de ataque ao problema.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Nelson Alex Silva Lima - Integrante / QUEIROZ, BRUNO DA S. - Integrante / Marcos Devaner do Nascimento - Integrante / Cassandra Ribeiro Joye - Integrante / Rafael Mendes - Integrante / Ednardo da Silva - Integrante / Fernando de Carvalho - Integrante / Robson de Moraes - Integrante / Joelisson José - Integrante / Anderson Freitas - Integrante / Davi Holanda - Integrante.
+2012 - 2013
+Pesquisa para identificação de soluções inovadoras para a plataforma de EAD da Dell acessível para pessoas com deficiência, através da aplicação de técnicas de Interação Humano-Computador
+Projeto certificado pela empresa Dell Computadores do Brasil em 16/06/2019.
+Descrição: Em abril de 2012, após o desenvolvimento da primeira versão da plataforma de ensino a distância
+(EAD) acessível para pessoas com deficiência (PCD), ?Dell Accessible Learning?, realizado pelo
+Instituto Federal de Educação, Ciência e Tecnologia ? IFCE, no ano base de 2011, o desafio era
+pesquisar e prototipar novas tecnologias que pudessem ser construídas e incorporadas à
+plataforma de EAD para atender à diversidade de perfis e necessidades específicas da população
+com algum tipo de deficiência no Brasil.
+A motivação deste projeto está fortemente apoiada nos resultados das lições aprendidas da
+oferta do curso de Desenvolvimento de Software Java ? nível básico, realizado através da primeira
+versão da plataforma Dell Accessible Learning, desenvolvida pelo IFCE, e dos testes de software,
+ambos realizados por um grupo de pessoas com deficiência da Dell. Estes resultados apontavam
+para a continuidade das pesquisas no intuito de investigar inovações que resolvessem as
+problemáticas vivenciadas na primeira versão da plataforma de EAD. Os resultados das pesquisas,
+objeto deste projeto, deveriam ser transferidos para o Instituto Eldorado, responsável por
+incorporar os novos requisitos no desenvolvimento da nova versão da plataforma Dell Accessible
+Learning. A nova versão, finalmente, deveria ser testada e validada pelo time da Universidade
+Estadual do Ceará em conjunto com o grupo de testadores, composto por pessoas com
+deficiência, da Dell Computadores. Finalmente, a Dell visava dar continuidade à construção de novas ferramentas de aprendizagem, iniciada no ano-base anterior com o IFCE quando foram construídas ferramentas para qualificação acessível em Desenvolvimento de Software Java, nível básico, voltadas para
+qualificação tecnológica em Desenvolvimento de Software Java, nível intermediário e avançado.
+A aplicação destas ferramentas em um programa de capacitação para pessoas com deficiência
+foi objeto do projeto denominado ?Capacitação profissional a distância de pessoas com
+deficiência na área de Desenvolvimento de Software com a Linguagem de Programação Java ?
+níveis intermediário e avançado?, desenvolvido também no ano base 2012, entre Dell, UECE e
+IEPRO.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Neiva Cardins - Integrante / QUEIROZ, BRUNO DA S. - Integrante / Anderson Severo De Matos - Integrante / Anibal Cavalcante Oliveira - Integrante / Janete Pereira do Amaral - Integrante / Andrea Michilles Lemos - Integrante / Robério Gomes Patrício - Integrante / Enyo José Tavares - Integrante / Ricardo Duarte Taveira - Integrante / Marco Augusto Mendonça de O. Silva Júnior - Integrante / João Batista Alves de Oliveira Filho - Integrante / Elandson Alexandre Barbosa de A. Pereira - Integrante / Debora Duarte da Costa - Integrante / Ismael A.Alexandre Rodrigues - Integrante / André Luis Batista - Integrante / Breno Giovanni Silva Araújo - Integrante / Livia Santiago - Integrante / Karine Portela - Integrante / Fabrice Marc Joye - Integrante / Debora Liberato Arruda Hissa - Integrante.Número de produções C, T & A: 2
+2011 - 2018
+Programa TratBem de adoção de habitos saudaveis
+Descrição: O projeto busca inspiração nos conceitos de computação persuasiva para conceber e construir sistemas computacionais capazes de acompanhar pacientes no processo de adoção e manutenção de hábitos saudáveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Especialização: (1)  / Mestrado acadêmico: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Penha Uchoa - Integrante / Joyce Horn - Integrante / Nayara Nogueira - Integrante / Ligia de Moraes Oliveira - Integrante.
+2011 - 2016
+GSA - Gestão de Sala de Aula
+Descrição: O projeto visa a criação de oportunidade de aprendizado a partir da interação eletronicamente mediada entre professor e alunos co-presentes em sala de aula.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador / Lidiane Silva - Integrante.
+2011 - 2015
+Possibilitando Acesso do Alunos	com	Deficiência Visual ao Ato de Apontar dos Professores Durante as Aulas de Matemáca
+Descrição: O discurso instrucional matemático envolve tipicamente três tipos de informação: Discurso do professor, material didático (geralmente acompanhado de gravuras) e os gestos dêiticos (do professor) que situam pontos relevantes no material didático com o discurso. O fato dos estudantes com deficiência visual (EDVs) não terem acesso ao comportamento corporal do instrutor configura-se em grande obstáculo ao aprendizado e os submete a um ensino segregado. Em pesquisa anterior desenvolvemos tecnologia que permite acesso pelos EDVs ao dêitico do professor utilizando-se de visão computacional e luva táctil. Alavancados pelos resultados preliminares, buscamos nessa nova proposta, entender como uso dessa tecnologia impacta na criação de oportunidades de aprendizado em salas de aula inclusivas onde a maioria é de estudantes não cegos (Estudantes Videntes - EVs). Propomos a montagem de salas de aula inclusivas onde observaremos a interação entre instrutores, EDVs e EVs, com e sem o uso de nossa tecnologia. Com a introdução do nosso Sistema Dêitico Táctil (SDT), a dinâmica do discurso instrucional será alterada. Para EVs, a fusão das fontes de informação é instantânea pois são capazes de observar o comportamento dêitico do professor bem como a totalidade da figura em questão. Nesse caso, a sincronia gesto/discurso se mantém. Já para os EDVs, existe o "tempo de navegação" quando o SDT guia o estudante para o ponto para onde o instrutor aponta. Tal característica é capaz de gerar assincronias (ou "sincronias deslocadas") entre gesto e discurso. Esperamos compreender melhor como essas sincronias e assincronias na comunicação se relacionam com oportunidades de aprendizado para os EDVs e como a tecnologia pode afetar a fluidez do discurso instrucional. Nossa pesquisa deverá contribuir para o entendimento do papel do dêitico na instrução tanto de matemática como de ciências em geral. Esperamos contribuir para psicolingüística através da investigação das "sincronias deslocadas" viabiliza. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Francisco Carlos de Mattos Brito Oliveira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

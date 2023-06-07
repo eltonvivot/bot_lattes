@@ -1,0 +1,42 @@
+2020 - Atual
+Projeto Mia Ajuda
+Descrição: App para Dar Visibilidade para Pessoas que Precisam de Ajuda, aprovado no Programa "COVID-19 UnB em Ação", acordado no Edital de Pesquisa, Inovação e Extensão promovido pelo Decanato de Pesquisa e Inovação da UnB, em Março de 2020.
+http://repositoriocovid19.unb.br/repositorio-projetos/projeto-mia-ajuda-app-para-dar-visibilidade-para-pessoas-que-precisam-de-ajuda/. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15) . Integrantes: Milene Serrano - Coordenador / Maurício Serrano - Integrante / Fernando William Cruz - Integrante / Dâmaso Júnio Pereira Brasileo - Integrante / Elias Bernardo Marques Magalhães - Integrante / Eduardo Lima Ribeiro - Integrante / Eduardo Vieira Lima - Integrante / Ésio Gustavo Pereira Freitas - Integrante / Gabriel Davi Silva Pereira - Integrante / Gabriel Filipe Manso Araújo - Integrante / Ivan Diniz Dobbin - Integrante / Joberth Rogers Tavares Costa - Integrante / Leonardo da Silva Gomes - Integrante / Leonardo dos Santos Silva Barreiros - Integrante / Luís Henrique Pereira Taira - Integrante / Matheus de Cristo Doréia Estanislau - Integrante / Pedro Henrique Andrade Féo - Integrante / Welison Regis - Integrante.
+2020 - Atual
+Projeto Veículos Autônomos
+Descrição: Projeto no domínio de Veículos Autônomos, em parceria com a Universidade Technische Hochschule Ingolstadt, na Alemanha, envolvendo empresas como Airbus Defence & Space GmbH. O projeto encontra-se em andamento com atuação focada na Aplicação de Técnicas de Engenharia de Software e Inteligência Artificial para Mobilidade Urbana em Cidades Inteligentes, possibilitando atuações em diferentes tópicos de pesquisa e inovação, tais como: Sistemas Inteligentes, Internet das Coisas, Indústria 4.0, Mobilidade Urbana, Cidades Inteligentes, Machine e Deep Learning, além de Redes Neurais e Algoritmos de Trajetória, Desvio de Obstáculos, Auto Localização e outros temas associados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Milene Serrano - Integrante / Maurício Serrano - Integrante / Giovanni Almeida Santos - Integrante / Fernando William Cruz - Integrante / Suélia de Siqueira Rodrigues Fleury Rosa - Coordenador.
+2017 - 2018
+PROIC_2017/2018 - Sistemas Multiagentes - SMA@FGA - Iniciação Científica
+Descrição: Projeto com bolsistas de Iniciação Científica, aprovados junto ao PROIC - UnB.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Milene Serrano - Coordenador / Maurício Serrano - Integrante.
+2013 - 2019
+Sistema Multiagentes da UnB / Faculdade do Gama
+Descrição: Trata-se de um grupo de pesquisa visando investigar a aplicabilidade do paradigma de Sistemas Multiagentes em diferentes tópicos, tais como: Arquitetura Orientada a Serviços, Mobildade, Simulação e Robótica. O grupo começou, em sua primeira atuação, com cinco alunos de graduação da própria UnB/FGA. Eram eles: Caique Rodrigues Peixoto, Gabriel Augusto Barbosa, Levino Moisés Porto, Alessandro Caetano e Guilherme Muniz. Atualmente, o grupo conta com a participação dos alunos de graduação: Caique Rodrigues Peixoto, Thaiane Braga, Tomáz Martins, Arthur Jahn Sturzbecher e André Cruz. Reconhecido pela Diretoria da Universidade de Brasília - Faculdade do Gama (UnB/FGA).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Milene Serrano - Coordenador / Maurício Serrano - Integrante / Caique Rodrigues Peixoto - Integrante / Gabriel Augusto Barbosa - Integrante / Levino Moisés Porto - Integrante / Alessandro Caetano Beltrão - Integrante / Guilherme Muniz - Integrante / Thaiane Braga - Integrante / Tomáz Martins - Integrante / Arthur Jahn Sturzbecher - Integrante / André Cruz - Integrante.Número de produções C, T & A: 12
+2006 - 2007
+Projeto Apyon Studio - FASE II
+Descrição: Descrição do Projeto:
+O Projeto APYON STUDIO - Fase II consistiu no desenvolvimento de um software comercial para tratar regras de negócio e integração com várias ferramentas CASE. 
+Dentre os principais objetivos desse projeto destacam-se:
+- estudo de metodologias para representação, especificação, armazenamento e implementação de regras de negócio;
+- estabelecimento de padrões de regras de negócio;
+- desenvolvimento de módulos para tratar regras de negócio, e
+- desenvolvimento e implementação de um software comercial voltado às regras de negócio.
+Dados Gerais do Projeto:
+Orientadora : Valdirene Fontanette
+ 
+Unidade : APYON TECHNOLOGY S.A. e UNIVERSIDADE FEDERAL DE SÃO CARLOS
+Sub-área : Metodologias e Técnicas da Computação
+Título : "MODELO GRÁFICO DE DEPENDÊNCIAS ENTRE AS REGRAS DE NEGÓCIO E O IMPACTO FÍSICO E FINANCEIRO SOBRE A MANUTENÇÃO". Situação: Concluído; Natureza: Pesquisa. Integrantes: Milene Serrano - Integrante / Valdirene Fontanette - Coordenador / Edson K. Nakamura - Integrante / Ubirajara Maltez - Integrante / Marco Antonio - Integrante / Camila Koz - Integrante / Gustavo Carmo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+1996 - Atual
+Membro do Grupo de Pesquisa LES
+Descrição: O Grupo de Pesquisa LES - PUC-Rio é responsável pela pesquisa e o desenvolvimento de vários projetos, tal como o Projeto Engenharia de Software para Sistemas Multi-Agentes, ESSMA (CNPq - 552068/2002-0).
+Mais detalhes podem ser encontrados em:
+http://wiki.les.inf.puc-rio.br/index.php/Main_Page
+e
+http://www.les.inf.puc-rio.br/
+e
+http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0111103JDCJ0EH. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Milene Serrano - Integrante / Carlos José Pereira de Lucena - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Globo.com - Auxílio
+										financeiro / IBM - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

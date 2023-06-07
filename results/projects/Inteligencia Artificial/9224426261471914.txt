@@ -1,0 +1,40 @@
+2020 - Atual
+Ferramentas computacionais para diagnóstico, detecção e prognóstico de COVID- 19
+Projeto certificado pelo(a) coordenador(a) Leticia Rittner em 26/06/2022.
+Descrição: Análise e desenvolvimento de métodos utilizando redes convolucionais profundas com dados de tomografia computadorizada.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Roberto de Alencar Lotufo - Integrante / Appenzeller, Simone - Integrante / RITTNER, LETÍCIA - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2014 - 2017
+Métodos Computacionais para Análise de Estruturas e Tecidos Cerebrais através de Imagens Multimodais
+Descrição: Este projeto tem o objetivo de desenvolver atividades conjuntas de pesquisa em análise de neuroimagens com o Prof. Richard Frayne, diretor científico do Seaman Family Centre, cientista do Hotchkiss Brain Institute (HBI) e professor dos Departamentos de Radiologia e de Neurociência Clínica, Engenharia Elétrica e de Computação e Física e Astronomia, todos órgão da Universidade de Calgary, Canadá.
+O projeto é composto por dois tópicos principais: 1) detecção e classificação de anormalidades em tecidos cerebrais a partir de imagens de ressonância magnética e, 2) a caracterização do corpo caloso (CC) através de imagens de difusão por ressonância magnética (diffusion MRI), para identificação de anormalidades nesta estrutura cerebral.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4)  / Doutorado: (3) . Integrantes: Roberto de Alencar Lotufo - Coordenador / Fernando Cendes - Integrante / Rittner, Leticia - Integrante / Roberto Medeiros Souza - Integrante / André Luis da Costa - Integrante / Mariana Pinheiro Bento Leite - Integrante / Richard Frayne - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2013 - Atual
+CEPID BRAINN FAPESP processo 2013/07559-3
+Descrição: CEPID - Centros de Pesquisa, Inovação e Difusão - Edital 2011 CEPID: Instituto Brasileiro de Neurociência e Neurotecnologia (Brazilian Institute of Neuroscience and Neurotechnology). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Roberto de Alencar Lotufo - Integrante / RITTNER, LETÍCIA - Integrante / YASUDA, CLARISSA - Integrante / CENDES, FERNANDO - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2009 - 2013
+Pró-NIT SP - Consolidação e Padronização de Metodologia de Proteção e Comercialização de Tecnologias de NIT do Estado de São Paulo (24 meses, R$ 800 mil)
+Descrição: O programa envolve 7 núcleos de inovação tecnológica de instituições paulistas e visa desenvolver e aplicar uma metodologia de proteção e comercialização das tecnologias destas instituições.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberto de Alencar Lotufo - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2006 - 2008
+PIT - Programa de Investigação Tecnológica de Instituições do Estado de São Paulo
+Descrição: O objetivo do projeto foi analisar o potencial de inovação tecnológica, em dois anos, de 120 tecnologias oriundas das seguintes instituições: Unicamp, USP, Unesp, IPT e IPEN.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberto de Alencar Lotufo - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2005 - 2010
+Identificação e Caracterização das Etiologias, Mecanismos de Lesão, Disfunção Neuronal, e Defeitos Moleculares na Epilepsia de Lobo Temporal Mesial e sua Relação com a Resposta ao Tratamento
+Descrição: Este é um projeto temático envolvendo pesquisadores da Faculdade de Ciências Médicas - UNICAMP, do Instituto de Computação - UNICAMP, da Faculdade de Engenharia Elétrica e de Computação - UNICAMP, e do Instituto de Física - UNICAMP. O foco principal é o estudo de epilepsia de lobo temporal mesial através de vários métodos. Em particular, o grupo do Prof. Falcão está interessado em métodos baseados em processamento, visualização e análise de imagens de ressonância magnética.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Roberto de Alencar Lotufo - Integrante / Alexandre Xavier Falcão - Integrante / Fernando Cendes - Integrante / Íscia T Lopes Cendes - Coordenador / Roberto J M Covolan - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Fapesp - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2005 - 2007
+PIT - Programa de Investigação Tecnológica - Unicamp
+Descrição: O programa visa treinar alunos de graduação e analisar o potencial de inovação tecnológica do resultado de pesquisa da Unicamp visando sua comercialização. O programa analisou 60 tecnologias num período de 2 anos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberto de Alencar Lotufo - Coordenador.Financiador(es): Serviço de Apoio às Micro e Pequenas Empresas de São Paulo - Auxílio
+										financeiro.
+2002 - 2004
+Sistema de Leitura de Placas de Licenciamento Veicular
+Descrição: Desenvolvimento de um sistema computacional de leitura automática de placas de licenciamento veicular. O sistema é decomposto em 3 partes principais: 1) Localização da placa na imagem; 2) Enquadramento dos caracteres da placa e consequente correção geométrica; 3) Reconhecimento dos caracteres.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Roberto de Alencar Lotufo - Coordenador / Fábio Gaiotto Dias - Integrante / André Luiz Ferreira Gomes - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / SDC Engenharia e Sistemas - Cooperação.Número de produções C, T & A: 4
+1997 - Atual
+Segmentação de objetos via Transformada Watershed
+Descrição: A Transformada Watershed é uma das técnicas mais poderosas de segmentação de objetos em imagens digitais. Este projeto visa o estudo da transformada Watershed, a comparação entre as diversas definições existentes, a implementação eficiente e o desenvolvimento de diversas aplicações.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Roberto de Alencar Lotufo - Coordenador / Franklin César Flores - Integrante / Rubens Campos Machado - Integrante / Letícia Rittner - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 44
+1993 - Atual
+Processamento de Imagens Médicas
+Descrição: Desenvolvimento de técnicas de processamento de imagens aplicadas à Medicina, tanto em imagens tridimensionais de tomografia e ressonância magnética, como de imagens bidimensionais de células.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Roberto de Alencar Lotufo - Coordenador / Alexandre Xavier Falcão - Integrante / Fernando Cendes - Integrante / Jane Maryam Rondina - Integrante / Letícia Rittner - Integrante.Número de produções C, T & A: 27

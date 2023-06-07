@@ -1,0 +1,109 @@
+2012 - Atual
+ELECON - Electricity Consumption Analysis to Promote Energy Efficiency Considering Demand Response and Non-Technical Losses
+Descrição: Seventh Framework Programme of the European Union. Support for training and career development of researchers (Marie Curie). International Research Staff Exchange Scheme (IRSES) - FP7-PEOPLE-2012-IRSES
+The ELECON project focuses on the establishment of a competent and fruitful
+network between EU and Brazilian researchers to contribute to the smart grid
+successful implementation. ELECON is an innovative scientific and exchange
+scheme aiming at advancing on electricity consumption analysis methods and on the
+way they are used to promote energy efficiency. ELECON will focus on the design
+and use of demand response (DR) and on the identification of non-technical losses,
+for their crucial role in the sustainability of energy systems and relevance ensuring
+the correctness of the energy billing, respectively. It will also address
+communications infrastructure and innovative decentralised control models, required
+to bring these concepts into reality. The main objectives of ELECON are:
+- Consolidation of an international network of scientific entities between EU and Brazil
+- Utilization of state-of-the-art methodologies and innovative techniques for promoting
+energy efficiency through electricity consumption analysis and the use of DR and
+non-technical losses identification
+- Production and dissemination of core scientific knowledge and know-how between
+EU and Brazil, benefiting from complementary and multidisciplinary knowledge and
+experience
+- Undertake benchmarking studies with EU and Brazilian real electricity consumption
+and power system data
+- Establishment of strong basis for future long lasting collaborations.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Jacqueline Gisèle Rolim - Coordenador / Ildemar Cassana Decker - Integrante / Daniel Tenfen - Integrante.Financiador(es): Comissão Europeia - Cooperação.
+2010 - Atual
+MICROGER - Impactos da Inserção de Microrredes e Microgeração em Sistemas de Distribuição de Energia Elétrica
+Descrição: O Objetivo geral do presente projeto é criar uma base de conhecimento e um conjunto de algoritmos numéricos e sistemas computacionais para avaliar os impactos que a conexão de microrredes causará para o planejamento da expansão e operação dos sistemas de distribuição de energia, nos seus aspectos elétricos, energéticos e de mercado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Jacqueline Gisèle Rolim - Integrante / Hans Helmut Zürn - Integrante / Ildemar Cassana Decker - Coordenador / Erlon Cristian Finardi - Integrante / Flavio Antonio Becon Lemos - Integrante / Enio Walmor Kassick - Integrante / Rubipiara Cavalcante Fernandes - Integrante / Marcelo Lobo Heldwein - Integrante.Financiador(es): Rio Grande Energia - Auxílio
+										financeiro / Companhia Paulista de Força e Luz - Auxílio
+										financeiro.
+2008 - 2010
+Proteção Adaptativa Aplicada a Sistemas de Distribuição de Energia Elétrica - -Edital MCT/CNPq 14/2008 - Universal Faixa A
+Descrição: O principal objetivo do projeto relatado aqui é o de aprofundar o conhecimento e testar a viabilidade da implementação da proteção adaptativa em relés digitais comerciais. Estes relés permitem que um conjunto de ajustes seja previamente definido e alterado quando necessário, portanto, um número de situações coerente com o número de conjuntos será estabelecido. Cada situação será definida em função de características tais como perfil de carregamento, produção de geração distribuída e topologia da rede. A proposta é dividida em sub-problemas sendo estes:
+I. Proteção Adaptativa de Transformadores
+II. Proteção Adaptativa de Alimentadores
+III. Esquema de Teleproteção para coordenação de ações de desligamento e religamento entre o disjuntor principal do alimentador e o do gerador distribuído. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Jacqueline Gisèle Rolim - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+P&D Tractebel - Sistema Inteligente de Pré-Análise e Gestão de Perturbações e Oscilografias Voltado para a Geração
+Descrição: O principal objetivo deste projeto é o desenvolvimento de um sistema inteligente de pré-análise de oscilografias que considere as peculiaridades da área de geração. As fontes de informação serão os registradoress digitais de perdurtação, também conhecidos como oscilógrafos, e a seqüência de eventos do sistema supervisório.O sistema de pré-análise irá classificar os casos, dispensando a análise do engenheiro especialistas nas ocorrências mais simples, tais como energização e desenergização dos geradores, tomada normal de carga, etc.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Jacqueline Gisèle Rolim - Coordenador / Daniel Terêncio do Vale - Integrante / Daniel Vinicius Testa - Integrante / Patrícia Cristina Maiola - Integrante / Miguel Moreto - Integrante / Juliane Silva de Almeida - Integrante / Éverton Paulo Lenz - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.
+2007 - 2008
+P&D CELESC - Ciclo 2004/2005 - Apoio ao Diagnóstico e Restauração do Sistema Celesc
+Descrição: O objetivo deste projeto é o desenvolvimento de uma ferramenta computacional de apoio ao operador para:
+1- Interpretar os alarmes após eventos com desligamentos definitivos considerando:
+    =    possibilidade de variações na topologia da rede;
+    =    possibilidade de ocorrência de faltas múltiplas;
+    =    possibilidade de operação imprópria de relés e/ou disjuntores;
+    =    possibilidade de informações incompletas causada por problemas de transmissão/recepção de dados.
+2 - Indicar a causa mais provável dos desligamentos;
+3 - Informar equipamentos que devem ser mantidos fora de operação até sua inspeção por equipes de    
+   manutenção;
+4- Restabelecer o maior percentual de cargas possível, considerando restrições de recebimento de 
+   energia das empresas de transmissão e equipamentos fora de operação.
+O protótipo inicial desta ferramenta será aplicado ao sistema 138/69 kV do Centro de Operação de Área - Norte da CELESC, região do Vale do Itajaí. Esta região alimenta 16 Subestações telecontroladas, 4 subestações telesinalizadas, 7 subestações particulares (indústrias) e 3 usinas do sistema CELESC, totalizando 30 instalações, com uma carga média de 750 MVA, que inclui importantes indústrias da região tais como a Eletroaço Altona e Artex.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Jacqueline Gisèle Rolim - Coordenador / Hans Helmut Zürn - Integrante / Patrícia Cristina Maiola - Integrante / Adilson Teixeira Lima - Integrante / Ronaldo Aparecido Silva - Integrante / Anderson Uemura - Integrante / Annelise Anderson - Integrante / Luiz Henrique Costa de Verney - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.
+2006 - 2008
+CT-Energ - Operação, Monitoração e Controle de Sistemas Elétricos de Potência
+Descrição: Este projeto agrega seis subprojetos que tratam de temas de pesquisa de
+interesse atual do País nas áreas de Operação, Monitoração e Controle de Sistemas
+Elétricos de Potência. Os subprojetos são:
+1. Novas Metodologias e Aplicações de Fluxo de Potência Ótimo (FPO);
+2. Operação de Sistemas de Distribuição;
+3. Diagnóstico de Falhas em Equipamento de Subestação de Transmissão;
+4. Aplicações de Medição Fasorial Sincronizada a Sistemas de Potência;
+5. Operação de Sistemas Hidrotérmicos;
+6. Conservação de Energia em Larga Escala como Base na Reserva Girante.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (10)  / Doutorado: (4) . Integrantes: Jacqueline Gisèle Rolim - Integrante / Aguinaldo Silveira e Silva - Integrante / Roberto de Souza Salgado - Integrante / Katia Campos de Almeida - Integrante / Hans Helmut Zürn - Integrante / Antonio José Alves Simões Costa - Coordenador / Jorge Mario Campagnolo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2008
+P&D ELETROSUL - Ciclo 2004/05 - Sistema de Monitoração Remota e Avaliação do Estado Operativo de TPCs
+Descrição: Este projeto visa desenvolver um sistema que possibilite que a engenharia e regionais de manutenção da Eletrosul possam observar a evolução de medidas elétricas de forma quantitativa, facilitando a avaliação do estado dos TPCs e o uso de manutenção preditiva para estes equipamentos nas subestações da empresa. O sistema de monitoramento e diagnóstico informará ao usuário a possibilidade dos erros nas medidas dos TPCs estarem acima do aceitável para as funções de medição e proteção.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Jacqueline Gisèle Rolim - Coordenador / Diego Roberto Morais - Integrante / Marcio Lachman - Integrante / Rafael Eduardo Ferreira - Integrante / Wagner Avelino Folster - Integrante / Annelise Anderson - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.Número de orientações: 2
+2005 - 2007
+Apoio a Pesquisa - Diagnóstico e Localização de Faltas em Sistemas de Distribuição. Edital CNPq 19/2004 - Universal
+Descrição: Enquanto a localização de faltas em linhas de transmissão emprega técnicas avançadas que vêm acompanhando a evolução nos sistemas de comunicação, informática e proteção, nos sistemas de distribuição de energia elétrica ainda é comum que esta tarefa seja efetuada por inspeção visual a partir de informações recebidas de consumidores via telefone.
+As técnicas utilizadas em sistemas de transmissão apresentam limitações quando aplicadas a redes de distribuição, devido a características particulares das últimas, em especial a falta de monitoramento após a saída dos alimentadores da subestação de distribuição e suas diversas ramificações.
+O objetivo deste projeto é o desenvolvimento de uma metodologia que sobreponha algumas destas dificuldades, dividindo o problema em dois sub-problemas, a localização de faltas de alta e baixa impedância. 
+A classificação da ocorrência em um destes casos seria feita a partir de uma estimativa da sua impedância de falta por um algoritmo de cálculo das componentes fundamentais que também detecta e classifica o tipo de falta.
+O sub-problema de localização de faltas de baixa impedância será tratado por métodos analíticos, contornando algumas limitações dos métodos existentes.
+O sub-problema de localização de faltas de alta impedância será tratado por redes neurais artificiais.
+Como resultado espera-se um algoritmo eficiente, capaz de reduzir a margem de erro na estimativa da localização da falta e, conseqüentemente, reduzir a duração da interrupção do fornecimento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jacqueline Gisèle Rolim - Coordenador / Joni Coser - Integrante / Daniel Terêncio do Vale - Integrante.Número de produções C, T & A: 2 / Número de orientações: 1
+2004 - 2006
+CT-Energ - Operação de Sistemas de Transmissão e Distribuição de Energia
+Descrição: O projeto proposto agrega quatro subprojetos que tratam de temas de pesquisa de interesse atual no País na área da Operação de Sistemas de Transmissão e Distribuição de Energia Elétrica. Os subprojetos são:
+1. Novas Metodologias e Aplicações de Fluxo de Potência Ótimo (FPO);
+2. Operação de Sistemas de Distribuição; 
+3. Diagnóstico de Faltas em Equipamentos de Alta Tensão; 
+4. Melhoria do Perfil de Tensão em Sistemas Elétricos de Potência. 
+Estes subprojetos enquadram-se nas linhas de pesquisa do Grupo de Sistemas de Potência da UFSC, sendo a equipe executora formada por professores e pesquisadores do Grupo. As atividades do projeto serão desenvolvidas no Laboratório de Sistemas de Potência do Departamento de Engenharia Elétrica da UFSC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jacqueline Gisèle Rolim - Integrante / Aguinaldo Silveira e Silva - Integrante / Jorge Mário Campagnolo - Integrante / Katia Campos de Almeida - Integrante / Hans Helmut Zürn - Integrante / Antonio José Alves Simões Costa - Coordenador / Roberto Salgado - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2006
+P&D - Sistema de Análises e Diagnósticos para a Central de Monitoramento de Equipamentos de Subestações da Eletrosul
+Descrição: P&D - Sistema de Análises e Diagnósticos para a Central de Monitoramento de Equipamentos de Subestações da Eletrosul
+O objetivo deste projeto é estabelecer bases para o desenvolvimento de módulos computacionais e modelos voltados ao aprimoramento da integração das metodologias de análise do estado operativo e do diagnóstico de defeitos de equipamentos de subestações. Pretende-se desenvolver a estrutura necessária do software e realizar atividades de pesquisa sobre os dados que estiverem sendo disponibilizados em base de dados história única a ser implantada - considerando dados on-line e períodicos provenientes de diversas fontes atualmente implantadas na ELS. Serão desenvolvidos modelos de análise e gerados módulos computacionais adequados para substituir modelos menos eficientes por outros em uma estrutura evolutiva que permitirá uma fácil adequação a evolução natural da tecnologia de diagnóstico de estado.
+Como produto final do projeto estarão disponibilizadas metodologias aprimoradas de análise e um sistema corporativo de diagnóstico e análise de equipamentos, otimizado a partir de uma observação da "história" dos dados em um sistema de Análise e Diagnóstico de equipamentos..
+Projeto de P&D da ELETROSUl com o CEPEL. UFSC é consultora do CEPEL.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Jacqueline Gisèle Rolim - Coordenador / Joni Coser - Integrante / Diego Roberto Morais - Integrante / Tales Marques de Britto - Integrante / Hans Helmut Zurn - Integrante / Daniel Vinicius Testa - Integrante / Fabrícia Carneiro Roos - Integrante / Assis Rogério Gomes da Silva Paulo - Integrante.Financiador(es): Centrais Elétricas do Sul do Brasil - Auxílio
+										financeiro / Centro de Pesquisas de Energia Elétrica - Auxílio
+										financeiro.Número de orientações: 3
+2003 - 2003
+Diagnóstico da Confiabilidade Operativa das Subestações da ELETROSUL
+Descrição: Os objetivo deste projeto eram: 
+- A avaliação da confiabilidade operativa da subestação , comparando valores atuais com anteriores à retirada dos operadores locais. 
+- Desenvolvimento de uma matriz de qualidade como forma de avaliação qualitativa, considerando-se tanto aspectos relevantes para a confiabilidade destas subestações como a importância relativa dos critérios empregados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jacqueline Gisèle Rolim - Integrante / André Colussi - Integrante / Jorge Coelho - Coordenador / C Celso de Brasil Camargo - Integrante.Financiador(es): Centrais Elétricas do Sul do Brasil - Auxílio
+										financeiro.
+1997 - 1999
+Projeto Integrado de Pesquisa - Denvolvimento de Métodos Computacionais de Apoio a Operação de Sistemas Elétricos de Potência
+Descrição: O Projeto Integrado visa o Desenvolvimento de Métodos Computacionais e Programas Aplicativos para Apoio à Operação de Sistemas Elétricos de Potência. Especificamente, os seguintes tópicos são abordados:
+- Operação e Monitoração de Sistemas de Distribuição;
+- Dinâmica e Controle de Sistemas de Potência;
+- Aplicação de Técnicas Baseadas no Conhecimento e Processamento paralelo a Sistemas de Potência;
+- Fluxo de Potência Ótimo e Estabilidade de Tensão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jacqueline Gisèle Rolim - Integrante / Antonio Jose Alves Simões Costa - Coordenador / Aguinaldo Silveira e Silva - Integrante / André Colussi - Integrante / Fabricio Bernardo Pereira - Integrante / Jorge Mário Campagnolo - Integrante / Odemar Solano Klock Junior - Integrante / Roberto de Souza Salgado - Integrante / Katia Campos de Almeida - Integrante / Hans Helmut Zürn - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6 / Número de orientações: 3

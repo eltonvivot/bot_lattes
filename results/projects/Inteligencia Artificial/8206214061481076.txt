@@ -1,0 +1,31 @@
+2017 - Atual
+Dispositivo Robótico para Assistência a Locomoção de Pessoas Idosas em Ambientes Urbanos
+Projeto certificado pelo(a) coordenador(a) Marley Maria Bernardes Rebuzzi Vellasco em 28/12/2017.
+Descrição: Desenvolvimento de um dispositivo robótico de locomoção urbana com projeto voltado para o uso da população acima de 60 anos. Tal dispositivo inclui uma plataforma robótica  capaz de evitar obstáculos e guiar o idoso em trajetórias definidas, e uma extensão para que ele sustente nessa plataforma.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Ricardo Tanscheit - Integrante / Karla Figueiredo - Integrante / Vellasco, Marley - Coordenador / Eduardo Costa da Silva - Integrante / Elisabeth Costa Monteiro - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+Modelos Evolutivos com Inspiração Quântica
+Descrição: Pesquisa com os modelos denominados ?Quantum-Inspired Evolutionary Computation?. Extensão do Algoritmo Evolutivo com Inspiração Quântica usando Representação Real (AEIQ?R) para aplicações em neuro-evolução, mais especificamente na área de controle online, e na evolução automática de Sistemas de Inferência Fuzzy, mais especificamente para problemas de classificação. O AEIQ?R é inspirado no conceito de múltiplos universos da física quântica, que permite realizar o processo de otimização com um menor número de avaliações de soluções. O AEIQ-R foi aplicado com sucesso em problemas benchmark de otimização numérica, assim como no treinamento de redes neurais recorrentes em problemas de aprendizado supervisionado de séries temporais e em aprendizado por reforço em tarefas simples de controle. O objetivo deste projeto é dar prosseguimento à pesquisa com esse tipo de modelos e aplicá-los no desenvolvimento automático de sistemas de inferência fuzzy de classificação e em modelos de neuro-evolutivos para o controle de sistemas multi-agentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ricardo Tanscheit - Integrante / Karla Figueiredo Leite - Integrante / Marley Maria Bernardes Rebuzzi Vellasco - Coordenador / André Vargas Abs da Cruz - Integrante / Luciano Reis da Silveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Modelos Neuro-Fuzzy Hierárquicos para Sistemas Multi-agentes Inteligentes
+Descrição: Extensão de modelos neuro-fuzzy baseados em particionamento hierárquico para ambientes de multi-agentes colaborativos; aplicação de modelos single-agent e multi-agents em problemas de controle.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Ricardo Tanscheit - Integrante / Marley M. Vellasco - Coordenador / Karla Figueiredo Leite - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2009
+Apoio ao Desenvolvimento Científico e Tecnológico de Grupos de Pesquisa em Engenharia Elétrica da UFMA
+Descrição: Parceria de grupos de pesquisa consolidados com grupos de pesquisa vinculados a programas de pós-graduação não consolidados das regiões Norte, Nordeste e Centro-Oeste e no estado do Espírito Santo - Projeto "Casadinho". Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (7) . Integrantes: Ricardo Tanscheit - Integrante / Marley M. Vellasco - Integrante / Ricardo Bernardo Prada - Coordenador.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro.
+2006 - 2008
+Operação Confiável por Recursos Humanos em Atividades Industriais (OPERHA);
+Descrição: Especificação e desenvolvimento de um sistema modular para a Operação Confiável por Recursos Humanos em Atividades Industriais dedicado a empresas que utilizam recursos humanos em atividades industriais nas quais o erro humano tenha grande impacto na segurança e no meio ambiente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Tanscheit - Integrante / Marley M. Vellasco - Coordenador / Marco Aurelio Pacheco - Integrante / Roxana Jimenez Contreras - Integrante / Karla Figueiredo Leite - Integrante / Dilza Mattos Szwarcman - Integrante / André Vargas Abs da Cruz - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2008
+Confiabilidade na Operação de Processos Industriais
+Descrição: Estudo de confiabilidade humana e desenvolvimento de um aplicativo para avaliação do erro humano em processos industriais. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Tanscheit - Integrante / Marley M. Vellasco - Coordenador / Marco Aurelio Pacheco - Integrante / Dilza Mattos Szwarcman - Integrante.
+2004 - 2006
+Apoio ao Desenvolvimento Científico e Tecnológico de Grupos de Pesquisa em Engenharia Elétrica da UFMA
+Descrição: Parceria de grupos de pesquisa consolidados com grupos de pesquisa vinculados a programas de pós-graduação não consolidados das regiões Norte, Nordeste e Centro-Oeste - Projeto "Casadinho". Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (7) . Integrantes: Ricardo Tanscheit - Integrante / Marco Aurélio Cavalcanti Pacheco - Integrante / Ricardo Bernardo Prada - Coordenador.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro.
+2000 - 2002
+Eletrônica Evolutiva na Síntese de Controladores Inteligentes
+Descrição: Utilização de Programação Evolutiva na síntese de circuitos - Hardware Evolucionário - e de controladores inteligentes - estruturas fuzzy e neuro-fuzzy. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ricardo Tanscheit - Integrante / Marley M. Vellasco - Coordenador / Marco Aurelio Pacheco - Integrante / José Franco M. Amaral - Integrante / Cristina C Santini - Integrante / Helio Sinohara - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

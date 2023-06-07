@@ -1,0 +1,13 @@
+2014 - Atual
+Metodologia de Avaliação e Representação de Qualidade de Dados Provenientes de Denúncias de Roubo Para Melhoria da Consciência Situacional em Sistemas de Tomada de Decisão
+Projeto certificado pelo(a) coordenador(a) Leonardo Castro Botega em 09/10/2015.
+Descrição: Metodologia para avaliação objetiva, subjetiva e representação de qualidade de dados e informações provenientes de fontes heterogêneas que provêm entradas para um sistema de avaliação de situações militares, especificamente de roubo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Jessica Oliveira de Souza Ferreira Melo - Integrante / Leonardo Castro Botega - Coordenador / Valdir Amancio Pereira Junior - Integrante / Matheus Ferraroni Sanches - Integrante / Natália Pereira de Oliveira - Integrante / Caio Saraiva Coneglian - Integrante.
+2013 - 2014
+Arquitetura de Informações para Navegadores de Realidade Aumentada
+Projeto certificado pelo(a) coordenador(a) Leonardo Castro Botega em 09/10/2015.
+Descrição: Desenvolvimento e implementação de uma arquitetura para o fluxo de informações em Navegadores de Realidade Aumentada. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Jessica Oliveira de Souza Ferreira Melo - Integrante / Leonardo Castro Botega - Coordenador.
+2012 - 2013
+Proposta de Modelo de Representação de Informações para Navegadores de Realidade Aumentada
+Projeto certificado pelo(a) coordenador(a) Leonardo Castro Botega em 09/10/2015.
+Descrição: Desenvolvimento de um modelo de representação para formalizar o resultado de buscas e a 
+representação de informações em Navegadores de Realidade Aumentada. Visando padronizar o processo de visualização, manipulação, seleção e customização em tempo real das informações de pontos de interesse por meio de uma interface de realidade aumentada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Jessica Oliveira de Souza Ferreira Melo - Integrante / Leonardo Castro Botega - Coordenador.

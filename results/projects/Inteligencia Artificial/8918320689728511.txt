@@ -1,0 +1,8 @@
+2018 - Atual
+Arquitetura de Comunicação SDN Distribuída para Atendimento a Qualidade de Serviço e Segurança em Sistemas Many-Core
+Projeto certificado pelo(a) coordenador(a) Fernando Gehm Moraes em 20/05/2019.
+Descrição: Desenvolvimento e avaliação de arquitetura de gerenciamento SDN distribuída para redes intra-chip em sistemas many-cores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Marcelo Ruaro - Integrante / MORAES, FERNANDO GEHM - Coordenador.
+2016 - 2019
+Protocolo para Admissão e Execução de Aplicações com Requisitos de Segurança em MPSoCs
+Projeto certificado pelo(a) coordenador(a) Fernando Gehm Moraes em 20/05/2019.
+Descrição: Desenvolvimento e avaliação de um protocolo de admissão e execução de aplicações com requisitos de segurança em MPSoCs.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcelo Ruaro - Integrante / MORAES, FERNANDO GEHM - Coordenador / CAIMI, LUCIANO L. - Integrante.

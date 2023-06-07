@@ -1,0 +1,14 @@
+2007 - 2007
+LCPC: Concepção e Desenvolvimento de uma interface para um Low Cost PC
+Descrição: O objetivo do projeto foi desenvolver um computador de baixo custo voltado ao ensino fundamental. A motivação para concepção do CUCA foi a democratização do acesso ao computador e à internet nas escolas. Dentre as atividades realizadas, cita-se:
+- Discussão em um grupo multidisciplinar envolvendo os paradigmas de interfaces atuais a fim de propor um novo paradigma de interface usual e amigável;
+- Desenvolvimento de um protótipo em C/C++ que incluiu customização de um gerenciador de janela para o linux, além de aplicativos que fazem uso dos recursos inovadores para busca e recuperação de arquivos.
+Plataforma: Linux
+Principais Tecnologias utilizadas: (a)C/C++; (b) X Window Server; (c)Blackbox - Gerenciador de Janelas; (d)SQL Lite (e)X11Lib
+Ambiente Desenvolvimento: Ambiente Desenvolvimento: NetBeans/Kdeveloper, Jude, CVS, Mantis. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcus Vinícius Almeida Silva - Integrante / Eduardo Manuel de Freitas Jorge - Coordenador / Talmai Oliveira - Integrante.
+2006 - Atual
+CamView: Pesquisa e Desenvolvimento de uma solução para Monitoramento de Ambientes
+Descrição: o objetivo do projeto é suprir a precariedade do mercado em sistemas de segurança que capturem imagens e vídeos de forma automática, inteligente e com qualidade a partir da detecção de movimento.O domínio do problema consiste em especificar e desenvolver uma solução para captura de imagens, vídeos, áudio e anti-intrusão para ser utilizada por usuários domésticos e corporativos.
+Plataforma: Flash Media Comm / JSE
+Principais Tecnologias utilizadas: (a)AWT/Swing;(b) JMF; (c) Quartz; (d) Flex/Action Script; (e)VideoLAN - VLC; (f) Windows Driver Kit (WDK)
+Ambiente Desenvolvimento: Eclipse, Jude, CVS, Mantis. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcus Vinícius Almeida Silva - Integrante / Eduardo Manuel de Freitas Jorge - Coordenador / Manuella Dominique - Integrante / Talmai Oliveira - Integrante.

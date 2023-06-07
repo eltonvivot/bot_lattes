@@ -1,0 +1,234 @@
+2022 - Atual
+ProCoReS - Caracterização e Modelagem de Processos de Contágio em Redes Sociais de Diferentes Domínios
+Descrição: Projeto Universal CNPq - Chamada CNPq/MCTI/FNDCT Nº 18/2021 - Faixa B - Grupos Consolidados. 
+Redes sociais são a base da organização da sociedade, formadas por 2 elementos: pessoas e suas conexões (ex. familiar, amizade, trabalho). Tal combinação resulta em estruturas simples ou extremamente complexas. Em especial, conexões representam padrões de ligações que podem ser efêmeras/duradouras, casuais/intensas e pessoais/anônimas. Atreladas a elas, estão processos de contágio ou fluxos que passam pelas ligações entre as pessoas -- ex., doença, dinheiro, conhecimento, comportamento, obesidade. Para modelar redes e contágio, a maioria das soluções atuais utiliza grafos. Porém, eles não são totalmente realistas, e novos modelos de processos de contágio devem permitir: representação de diferentes classes de indivíduos e conexões, ligação entre processos e ocorrência concomitantes, e conexões com dois ou mais indivíduos ao mesmo tempo. Entender como conexões são formadas e como os tipos de fluxos permeiam tais redes é fundamental para entender como nossa sociedade se organiza e evolui.
+O objetivo é propor modelos matemáticos, estatísticos, de agentes e de aprendizado de máquina que consideram: múltiplos aspectos complexos de processos de contágio social e parametrização através de fontes de dados (ex., redes sociais online, mobilidade, colaborações).  Tais modelos devem permitir classes de indivíduos e relacionamentos; modelar a co-ocorrência, causalidade e ligação entre processos de contágio; e representar multi-relacionamentos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador / Mirella Moura Moro - Integrante / Gisele Pappa - Integrante / Clodoveu Davis Jr. - Integrante / Michele A Brandao - Integrante / Carina F. Dorneles - Integrante / Eric Fernandes de Mello Araújo - Integrante / Anísio M Lacerda - Integrante.
+2022 - Atual
+CIIA-Saúde: Centro de Inovação em Inteligência Artificial para Saúde
+Descrição: Pesquisa e o desenvolvimento de soluções avançadas de inteligência artificial (IA), capazes de auxiliar profissionais de saúde no diagnóstico e tratamento de doenças, e orientar gestores de saúde na programação de ações de prevenção e organização da assistência à saúde. Isso permitirá a otimização dos recursos e melhora da atenção à saúde da população no Brasil. O CIIA-Saúde terá uma intensa atividade internacional, através da colaboração com pesquisadores e instituições de excelência na pesquisa em IA e saúde.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Wagner Meira Junior - Integrante / Virgílio Almeida - Coordenador / Antonio Luiz Pinho Ribeiro - Integrante / ZILMA SILVEIRA NOGUEIRA REIS - Integrante / Gilberto Medeiros - Integrante / Frederico Gadelha - Integrante.
+2021 - 2023
+Análise de Processos Dinâmicos em Sistemas Complexos
+Descrição: Projeto Pesquisador Mineiro 
+O principal objetivo do projeto proposto é analisar e modelar as diferentes características de
+dinamicidade de sistemas complexos em redes de colaboração (emergência, adaptabilidade,
+auto-organização) e redes tecnológicas (não-linearidade, realimentação, adaptabilidade). Além
+das contribuições cientificas, o projeto também visa fortalecer a cooperação entre diversos
+pesquisadores (com as quais a proponente já tem trabalhos publicados e em fase de elaboração)
+e a formação de recursos humanos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ana Paula Couto da Silva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2021 - 2022
+SINDH - Conhecimento
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 24/11/2021.
+Descrição: O objetivo geral deste projeto é realizar um trabalho de pesquisa e desenvolvimento de plataforma que potencialize o atendimento realizado pela Ouvidoria Nacional de Direitos Humanos, pelos canais do Disque Direitos Humanos (Disque 100), da Central de Atendimento à Mulher (Ligue 180) e Direitos Humanos Brasil (canais digitais), por meio da revisão, proposição e implantação de formulários de atendimento e de avaliação de riscos de vida de vítimas de violações e de encaminhamento e acompanhamento das manifestações registradas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Gisele Pappa - Integrante / Adriano César Machado Pereira - Integrante / Wagner Meira Junior - Coordenador.
+2021 - Atual
+CoReS - Contágio em Redes Sociais: de Dados a Modelos Multicamadas e de Alta Ordem
+Descrição: Projeto Bolsa de  Produtividade em Pesquisa
+Do latim, o termo contágio significa "a partir do toque" e, consequentemente, os exemplos mais aplicados
+para ilustrar os processos de contágio social são os processos que descrevem o espalhamento de
+doenças em uma comunidade (processos epidemiológicos). No entanto, em uma visão mais ampla,
+processos de contágio social também se referem à transmissão de um estado emocional, de uma crença,
+de um comportamento, de conhecimento e de informação entre pessoas. Independentemente do tipo do
+processo em estudo, processos de contágio ocorrem, impreterivelmente, através de redes de interação
+entre pessoas. Originalmente, quase todos os estudos na área de redes complexas utilizam grafos para
+modelar as redes sobre as quais esses processos ocorrem. Os nós (ou vértices) representam entidades
+(indivíduos) ou agentes e a ligação entre o par de nós representa um tipo de relacionamento. Com o
+avanço do estado da arte na pesquisa de sistemas complexos, verificou-se a importância em investigar
+novos modelos que vão além dos grafos e que sejam mais realistas na representação desses processos.
+Novos modelos de processos de contágio devem permitir a representação de diferentes classes de indivíduos e relacionamentos, a ligação entre processos e o fato de que podem ocorrer comitantemente,
+além de permitir representar relacionamentos que envolvem dois ou mais indivíduos ao mesmo tempo. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador.
+2021 - Atual
+Captar-Libras: Sistema de Comunicação por vídeos para surdos aplicado ao pré-atendimento médico
+Descrição: esquisa e desenvolvimento de métodos e técnicas de IHC, Visão Computacional (VC) e Inteligência Artificial (IA) que viabilizem a comunicação entre surdos e profissionais de saúde, no contexto de pré-atendimento médico, sem a necessidade de um intérprete. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Gisele Pappa - Integrante / Wagner Meira Junior - Integrante / Marcos André Gonçalves - Integrante / Adriana Pagano - Integrante / Erickson Nascimento - Integrante / Mario Campos - Coordenador.
+2020 - 2021
+Covid Data Analytics
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 11/12/2020.
+Descrição: Este projeto tem por objetivo monitorizar, modelar e analisar a pandemia do coronavírus através da construção de uma plataforma de coleta, enriquecimento, análise e modelagem conjunta de dados oriundos da web, das redes sociais e de outras fontes tradicionalmente utilizadas em estudos epidemiológicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (69)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Ana Paula Couto da Silva - Integrante / Gisele Pappa - Integrante / Wagner Meira Junior - Coordenador / Raquel Oliveira Prates - Integrante / Virgílio Almeida - Integrante / Regina Helena Alves da Silva - Integrante / Raquel Schneider - Integrante / Tereza Bernardes - Integrante / Evandro L.T.P. Cunha - Integrante / Mauro Martins Teixeira - Integrante / Adriana Pagano - Integrante.
+2020 - Atual
+Programa de Capacidades Analíticas do Ministério Público de Minas Gerais
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 24/11/2021.
+Descrição: O Ministério Público de Minas Gerais (MPMG), por meio do Gabinete de Segurança e Inteligência (GSI), tem parceria firmada com o Departamento de Ciência da Computação da UFMG para a ampliação de seu Programa de Capacidades Analíticas. O Programa tem como premissa o desenvolvimento de ferramentas próprias, com ênfase em software livre, alta capacidade de resposta e adaptabilidade a novas necessidades surgidas ao longo do tempo. Essa é a mais avançada estrutura tecnológica para a análise de grandes volumes de dados complexos, oriundos de bases abertas e restritas existentes no Estado de Minas Gerais. Este projeto visa desenvolver novas funcionalidades e ferramentas de inteligência artificial aplicadas a diversos contextos de processamento massivo de dados, em particular análises e modelagens descritivas, preditivas e prescritivas. O projeto ataca diferentes frentes de pesquisa, como sensoriamento remoto para conferir o andamento de obras públicas do estado de Minas Gerais; identificação de abuso sexual em imagens e vídeos para auxiliar o trabalho de peritos da polícia; análise de fraudes em licitações, dentre muitos outros. O objetivo é impulsionar as ações do MPMG por meio das capacidades analíticas de investigação e inteligências tecnológicas... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Gisele Pappa - Integrante / Wagner Meira Junior - Coordenador / Clodoveu Davis Jr. - Integrante.
+2019 - 2022
+Ciência de Dados aplicada à Informação Estratégica e Inteligência em Saúde
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 24/11/2021.
+Descrição: O projeto ?Ciência de Dados aplicada à Informação Estratégica e Inteligência em Saúde? é desenvolvido pelo Departamento de Ciência da Computação da UFMG (DCC/UFMG) em parceria com DEMAS/SE/MS através do TED 79/2017, e tem como objetivos gerais desenvolver competências, habilidades e estrutura para promover ações de sistematização e disseminação em ciência de dados aplicada à informação estratégica e inteligência em saúde, para o Ministério da Saúde, para o SUS e a para Sociedade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Gisele Pappa - Integrante / Adriano César Machado Pereira - Integrante / Wagner Meira Junior - Coordenador.
+2018 - 2022
+Improving Network Security at the Network Edge
+Projeto certificado pelo(a) coordenador(a) Edmundo Albuquerque de Souza e Silva em 01/06/2018.
+Descrição: This project aims at proposing research to develop techniques and algorithms that can be used to identify and classify malicious
+network behavior such as DDoS attacks, detect compromised devices within home networks, and prevent
+privacy leakage from home networks. Home networks tend to be operated by non-technically savvy users
+making them prime targets for attacks. Worse yet, the US has recently seen the growing proliferation of a
+variety of networked devices such as smart TVs, with Brazil not far behind. The influx of these new devices
+further complicates network management and increases the attack surface. These devices are part of the
+Internet of Things (IoT). Indeed, there have already been instances of IoT devices being compromised for
+use in large-scale DDoS  and exfiltration of ambient audio from home networks by smart TVs. The project involves the University of 
+Massachussets, United States, UFRJ and UFMG.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Edmundo A. de Souza e Silva - Coordenador / Rosa Maria Meri Leão - Integrante / Daniel Sadoc Menasche - Integrante.
+2018 - 2021
+ANAPOLES: Análise de Processos Dinâmicos em Sistemas Complexos
+Descrição: Projeto de Produtividade em Pesquisa - 
+A sociedade na qual vivemos pode ser vista como um sistema formado pela da colaboração e interação
+entre bilhões de indivíduos. Para que esta interação seja possível, existe uma complexa infraestrutura
+que une sistemas tecnológicos e sociais. Esses sistemas são considerados complexos, dado que a derivação
+do comportamento coletivo dos mesmos a partir do conhecimento de seus componentes isolados
+é uma tarefa não trivial. Assim, devido a importância do papel destes sistemas, desde a ciência até a
+economia, entendê-los, descrevê-los matematicamente, e prever seus respectivos funcionamentos podem
+ser considerados alguns dos maiores desafios científicos do século XXI. Interessante notar que, além
+da complexidade que cresce exponencialmente, estes sistemas são dinâmicos. Para uma representação
+mais fidedigna destes sistemas, devemos considerar em nossas análises o aspecto dinâmico dos mesmos,
+tornando ainda mais complexa a tarefa de estudo dos diferentes sistemas que interagem entre si.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Ana Paula Couto da Silva - Coordenador.
+2018 - 2019
+ATMOSPHERE: Adaptive, Trustworthy, Manageable, Orchestrated, Secure Privacy-assuring, Hybrid Ecosystem for Resilient Cloud Computing
+Descrição: ATMOSPHERE is a collaborative proposal submitted under the EUB-01-2017 topic on Cloud Computing, which addresses ?critical aspects of cloud computing, including enhanced security and privacy; trustworthy clouds; resource pooling; data management and traceability; virtualization; and hybrid systems. These objectives are addressed in the frame of an intercontinental experimentation on cloud infrastructures in the context of the EU-Brazil cooperation. 
+he project involves eight European institutions, under the coordination
+of the Universitat Politecnica de Valencia, and seven Brazilian institutions, coordinated by UFCG.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Francisco Brasileiro - Coordenador.
+2018 - 2019
+Artificial Intelligence for Spotting Fake Profiles and Anomalous Users' Behaviors on the Web
+Descrição: The key role of the web in our society requires mechanisms to guarantee its legitimate use. Fake profiles and malicious users
+threat the well-working of the web. We witness the spread of fake content on social networks, disseminated at large scale to bias
+users' perceptions, with impacts on reputations, businesses and even on elections. Equally, infected devices are often part of
+botnets disrupting services and spreading malicious content. Solving these problems requires novel methodologies to cope with
+complex and multi-dimensional big data, for which ground truth is inherently lacking. Novel machine learning algorithms, such as
+deep neural networks, have been shown to operate well in problems facing similar challenges and, thus, are good candidates for
+the detection of abnormal profiles and behaviors. Our goal is to develop new models based on machine learning to describe the
+expected traffic and the behaviors of both users and devices. We will build models that combine information from multiple sources
+(e.g., online social networks and network measurements). The models will help to uncover fake profiles and suspicious activities, enhancing the legitimate use of the web. Joint project with POLITO. Brazilian PA: Ana Paula Couto da Silva. Italian PA: Marco Mellia. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador / Marco Mellia - Integrante / Jussara Almeida - Integrante / Idilio Drago - Integrante / Luca Vassio - Integrante / Flavio Figueiredo - Integrante / Fabricio Murai - Integrante.
+2017 - 2021
+DICA - DInâmica em redes complexas: métricas e modelos baseados em CApital social
+Descrição: Atualmente, existem inúmeras métricas e modelos que visam estudar como a dinâmica de redes
+complexas pode influenciar diversos fenômenos que ocorrem nestas redes. Entre tais fenômenos
+estão difusão de informação, inovação, sucesso e popularidade. Especificamente, podemos analisar
+como indivíduos conectados na rede influenciam no comportamento e nas decisões dos demais
+através de comportamentos em cascata, fenômenos rich-get-richer onde quem tem maior
+popularidade tende a receber mais atenção, bem como se basear em modelos epidemiológicos
+construídos para entender a transmissão de doenças. No entanto, muitos dos modelos e métricas
+atuais focam somente em aspectos estruturais que não incluem os conceitos de Capital Social,
+negligenciando conceitos que podem tornar os modelos mais simples de entendimento e que podem
+explicar melhor a dinâmica do comportamento das entidades e dos relacionamentos que afetam
+diretamente o fenômeno em estudo. Assim, dado uma rede social, suas entidades, seus
+relacionamentos e o fenômeno a ser estudado, iremos estudar métricas e algoritmos eficientes
+baseados em definições de Capital Social que poderão ser usados em modelos que vão entender e
+prever como o comportamento social impacta na dinâmica de um processo que ocorre na rede. Por
+exemplo, seja uma rede social em que o fenômeno a ser estudado é a propagação de uma certa
+doença. Os modelos existentes na literatura são os modelos epidemiológicos, que se baseiam no
+estado em que um indivíduo está (suscetível à infecção, infectado e recuperado). Parâmetros desses
+modelos são a taxa e tempo de infecção. Métricas que quantificam comportamentos sociais podem
+modelar mais fielmente o fenômeno do espalhamento da doença em uma determinada população. A
+partir de novas métricas e de algoritmos para o cálculo das mesmas, poderemos propor novos
+modelos que melhor se ajustem aos fenômenos que ocorrem em redes sociais, aprimorando sua
+parametrização e o entendimento do fenômeno em estudo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - Atual
+INCT-Cyber: Instituto Nacional de CIência e Tecnologia para uma Sociedade Massivamente Conectada
+Descrição: A missão do Instituto Nacional de Ciência e Tecnologia para uma Sociedade Massivamente Conectada: Uma Abordagem Ciberfı́sica e Social (INCT-Cyber) é entender e desenvolver princı́pios cientı́ficos e tecnologias necessárias para as interações futuras entre seres humanos, computadores e o mundo fı́sico. Os princı́pios que norteiam o INCT-MCS são: (1) desenvolver sistemas e tecnologias necessárias para construir sistemas ciberfı́sicos complexos que as pessoas possam usar com grande confiança; (2) acelerar a implantação de sistemas ciberfı́sicos e sociais em uma sociedade massivamente conectada através do desenvolvimento de métodos, ferramentas e componentes de software e hardware baseados em princı́pios transversais, validados por meio protótipos e cenários de teste; (3) transferir os resultados cientı́ficos e tecnológicos alcançados para a indústria. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Jussara Almeida - Integrante / Mirella Moura Moro - Integrante / Gisele Pappa - Integrante / Wagner Meira Junior - Integrante / Clodoveu Davis - Integrante / Virgílio Almeida - Coordenador.
+2016 - 2018
+EUBRA-BIGSEA: Europe ? Brazil Collaboration of BIG Data Scientific Research through Cloud-Centric Applications
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 03/02/2022.
+Descrição: EUBra-BIGSEA (Europe ? Brazil Collaboration of BIG Data Scientific Research through Cloud-Centric
+Applications) in 24 months aims at providing an abstract framework for the development of distributed
+Big Data applications. Multiple data models will be supported (e.g. data streams, multidimensional data,
+etc.) and efficient mechanisms will ensure privacy and security, on top of a QoS-aware layer for the smart
+and rapid provisioning of resources in a cloud-based environment.
+The Europe ? Brazil cooperation and the careful selection of the joint consortia on this project will leverage
+the experience gained on consolidated, past international projects in the area of cloud and Big Data services
+(EUBrazilCloudConnect, EUBrazilOpenBio, EELA, etc.).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Italo Cunha - Integrante / Wagner Meira Junior - Coordenador / Dorgival Olavo Guedes Neto - Integrante / ALMEIDA, JUSSARA M. - Integrante.
+2015 - 2018
+MARRECO: Modelagem e Análise de Relacionamentos em Redes Complexas
+Descrição: Projeto de Bolsa de Produtividade em Pesquisa (Nível 2 - CNPq)
+Relacionamentos de diversas naturezas são encontrados em várias situações cotidianas. Alguns deles
+são facilmente reconhecidos, tais como relacionamentos familiares e de amizades. No entanto, relacionamentos
+extrapolam este conceito mais básico e podem ser encontrados em diferentes domínios
+do conhecimento, como biologia, redes de colaboração científica, redes de atores e produtores entre
+outros. Assim, o sentimento de que estamos rodeados por diversas entidades que se relacionam entre
+si, seguindo diferentes regras, vem crescendo rapidamente entre diversos segmentos, seja no meio
+acadêmico como no dia-a-dia da sociedade em geral. Cada vez mais existe um senso comum de que o
+comportamento de muitas das coisas que nos cercam não pode ser estudado e caracterizado isoladamente,
+pois muitas destas coisas estão conectadas e se relacionam entre si. Como consequência, surge
+a necessidade de estudar como as coisas se conectam e a importância desta conectividade que se reflete
+em diferentes tipos de relacionamentos e que impactam a vida da sociedade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador.
+2014 - 2016
+?DISCOVERY: Descobrindo, Inferindo e analisando relacionamentos em  Redes complexas
+Descrição: Este projeto visa inferir e analisar relacionamentos em redes complexas. Sistemas
+complexos são dinâmicos, ou seja, novos elementos e relacionamentos surgem e desaparecem
+ao longo do tempo. Na literatura, o estudo da evolução e inferência dos relacionamentos entre
+elementos que compôem um sistema modelado por um grafo é denominado link prediction
+problem. Dentro deste contexto, o problema de previsão de arestas (ou relacionamentos)
+será abordado sobre dois enfoques: (i) inferência de futuras relações em diferentes sistemas
+complexos, a partir de características topológicas e de contexto, como comentários feitos pelos
+participantes da rede e suas características, como sexo e idade; (ii) parametrização de modelos
+dinâmicos existentes na literatura, a partir do conhecimento acumulado do sistema em estudo.
+Resultados obtidos a partir das análises realizadas poderão ser empregados, para citar alguns
+exemplos, em sistemas de recomendação mais eficientes e em mecanismos de incentivo em
+redes de cooperação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Ana Paula Couto da Silva - Coordenador / Eduardo Chinelato Costa - Integrante / Alex Borges Vieira - Integrante / Maurício Archanjo N. Coelho - Integrante / Wagner Meira Junior - Integrante / Michel Boaventura - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2014 - 2015
+Centrality Metrics in Large Dynamic Graphs
+Descrição: Our main goal is to define and calculate several centrality metrics in large dynamic graphs. However,
+it is well know that centrality metrics such as betweenness, closeness and page rank, are very hard to
+be calculated in large graphs. It is necessary a large amount of CPU and memory resources in order to
+calculate those metrics.
+In order to calculate the main graph metrics and analyze large dynamic graphs with million of
+nodes, it is necessary (even mandatory) to have powerful computational resources. It is also desirable to
+perform preliminary results related to the proposed new centrality metrics in the presence of dynamics.
+In this context, we think that the computational power provided by Microsoft Azure will enable us to manipulate large real dynamic graphs as well as to calculate several graphs metrics in a very efficient
+way.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador / Alex Borges Vieira - Integrante / Artur Ziviani - Integrante.
+2013 - 2016
+mPlane: an Intelligent Measurement Plane for Future Network and Application Management
+Descrição: mPlane consists of a Distributed Measurement Infrastructure to perform active, passive and hybrid measurements; it operates at a wide variety of scales and dynamically supports new functionality. A Repository and Analysis layer collects, stores, and analyses the collected data via parallel processing and data mining. Finally, an Intelligent Reasoner iteratively drills down into the cause of an evidence, determining the conditions leading to given issues, and supporting the understanding of problem origins.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Marco Mellia - Coordenador / Jussara Almeida - Integrante / Alex Borges Vieira - Integrante.Financiador(es): European Commission - Cooperação.
+2013 - 2016
+CAMDiSC: Caracterização, Análise e Modelagem da Dinâmica de Sistemas Complexos
+Descrição: O sentimento de que estamos rodeados por diversas entidades que se relacionam entre si, seguindo diferentes regras, vem crescendo rapidamente entre diversos segmentos, seja no meio acadêmico como no dia-a-dia da sociedade em geral. Cada vez mais existe um senso comum de que o comportamento de muitas das coisas que nos cercam não pode ser estudado e caracterizado isoladamente, pois muitas destas coisas estão conectadas e a interação entre as partes influencia fundamentalmente o comportamento individual e coletivamente o comportamento global. Este projeto visa estudar como estas entidades, em diferentes sistemas complexos (ou redes complexas), se conectam e como estes relacionamentos evoluem no tempo, explorando conceitos da área de Network Science. Dentro deste contexto, iremos: (i) Inferir futuras relações em diferentes sistemas complexos, a partir de características topológicas e de contexto e analisar como pessoas compartilham suas informações por meio de aplicações de compartilhamento em nuvem; (ii) Verificar a correlação entre diferentes métricas de centralidade; (iii) Modelar a dinâmica que rege as entidades e seus relacionamentos em sistemas complexos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Ana Paula Couto da Silva - Coordenador / Alex Borges Vieira - Integrante / Wagner Meira Junior - Integrante / Artur Ziviani - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2016
+PerFeiÇão: Perfil Feminino em computaÇão
+Descrição: O objetivo geral desse projeto é dividido em duas partes
+complementares: primeiro, traçar um perfil das mulheres da área de
+Computação, e partir de tal perfil, trabalhar para atrair meninas para a
+área e reter as que já se encontram na Computação. Os objetivos específicos
+em três etapas são: (i) Perfil Feminino em Computação - aplicar um
+questionário para traçar o perfil das profissionais que trabalham na área
+de Computação; (ii) Atração de Talentos - definição de material e
+realização de atividades para atrair talentos femininos do Ensino Médio
+para a área de Computação; e (iii) Preservação dos Talentos - realização de
+atividades para incentivar as alunas de Computação a permanecerem na área e
+continuarem seus estudos para uma carreira de maior sucesso.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Jussara Almeida - Integrante / Mirella Moura Moro - Coordenador / Gisele Pappa - Integrante / Mariza Andrade da Silva Bigonha - Integrante / Olga N. Goussevskaia - Integrante / Raquel de Melo Minardi - Integrante / Raquel Oliveira Prates - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2015
+Estudo da dinamicidade em redes
+Descrição: Este projeto visa o estudo e caracterização da dinamicidade em diferentes tipos de redes, por exemplo, tecnológicas, sociais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador / Alex Borges Vieira - Integrante / Guilherme Albuquerque Pinto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Outra.
+2013 - 2014
+Caracterização de Usuários de Aplicações de Armazenamento de Dados em Nuvem
+Descrição: O objetivo principal deste projeto é caracterizar o tráfego gerado por usuários de aplicações de
+armazenamento de dados na nuvem. Mais precisamente, busca-se comparar perfis de usuários
+de diferentes regiôes (Europa e Brasil) bem como de usuários em ambientes acadêmicos e em
+ambientes comerciais. A análise irá considerar, também, usuários em diferentes universidades
+brasileiras (UFMG e UFJF).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Paula Couto da Silva - Coordenador.Financiador(es): Universidade Federal de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2015
+Impacto da Dinamicidade em Redes de Computadores
+Descrição: Este projeto visa o estudo e caracterizacao da dinamicidade em redes de computadores.
+É evidente que novos nodos surgem ou outros abandonam as redes e que
+suas ligações se alteram ao longo do tempo. A visão de uma rede evoluindo com
+o tempo é diferente da visão tradicional que agregada o comportamento ao longo
+do tempo. Dentro desse contexto, iremos analisar a dinamicidade considerando
+diversas vertentes na ´area de redes de computadores: (i) relação entre mensagens
+trocadas e variação da topologia na rede social do Twiiter; (ii) determinação de
+grupos estáveis em aplicações de vídeo ao vivo em P2P; (iii) predição de tempo
+de difusão em rede P2P de v´ıdeo ao vivo, sempre considerando a dinamicidade da
+topologia de rede; (iv) sistemas P2P de disseminação de arquivos ou de conteúdo
+em tempo real podem ser modelados como redes complexas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) . Integrantes: Ana Paula Couto da Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2014
+Núcleo de Computação Científica: Um amplo fórum para disseminação de conhecimento, formação de parcerias e promoção de interesse em computação científica no âmbito acadêmico
+Descrição: Dentre suas diversas características, a Computação Científica pode ser essencialmente caracterizada como uma área de estudo que relaciona a elaboração de modelos matemáticos para a representação de problemas de diversas naturezas ao desenvolvimento de metodologias computacionais para a sua resolução. 
+	Dadas as facilidades de recursos computacionais, o acesso à informação e o contínuo desenvolvimento de novas metodologias computacionais, métodos numéricos, análise numérica e aplicações, a Computação Científica desperta um crescente interesse da comunidade técnico-científica nacional e internacional nas mais diversas áreas do conhecimento. Tal interesse é motivado tanto pelo desenvolvimento tecnológico, que proporcionou a popularização e o barateamento dos computadores, quanto pela necessidade de redução de custos de projetos, a crescente preocupação com fenômenos de caráter ambiental e, principalmente, pelas inúmeras possibilidades que a abordagem computacional oferece. Assim podemos dizer que, a princípio fortemente associada aos problemas de engenharias e ciências exatas, a computação científica vem ocupando cada vez mais um papel de destaque no cotidiano do homem moderno, sendo peça fundamental para o desenvolvimento da sociedade.
+A Universidade Federal de Juiz de Fora vem ampliando e fortalecendo os estudos em computação científica através do fomento de diversos projetos de pesquisa e desenvolvimento e, principalmente, através da formação de recursos humanos qualificados, com a contratação de professores, a criação de novos cursos de graduação e de pós graduação e o apoio à iniciação científica. Neste contexto, foi criado recentemente o Núcleo de Computação Científica, associado ao Departamento de Ciência da Computação (DCC), com o objetivo de congregar atividades de pesquisa e desenvolvimento que visam a aplicação de conhecimentos da Ciência da Computação à modelagem e simulação de problemas de interesse da sociedade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador / Carlos Cristiano Hasenclever Borges - Integrante / Alex Borges - Integrante / Maicon Ribeiro Correa - Integrante / Saul Leite - Integrante / Telles Timoteo da Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2012
+Modelagem de redes de sensores aplicadas em computação  ubiqua
+Descrição: O projeto apresentado neste documento faz parte de um  amplo projeto - ASerUbi: Aplicações e Serviços em Computação Ubíqua - submetido ao Edital FAPEMIG 17/2010 ? Programa de Apoio a Núcleos de Excelência (PRONEX) em conjunto com  o Departamento de  Ciência da Computação da Universidade Federal de Minas Gerais. O principal objetivo do projeto proposto e realizarmos alguns estudos focados na aplicaçao da teoria de redes complexas no projeto de redes de sensores sem fio, sendo esta um dos problemas descritos no projeto submetido a FAPEMIG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Paula Couto da Silva - Coordenador / Alex Borges - Integrante / Eduardo Chinelato Costa - Integrante.Financiador(es): Universidade Federal de Juiz de Fora - Bolsa.
+2009 - 2011
+Caracterização e Modelagem de Tráfego de Sistemas P2P-TV
+Descrição: Este projeto tem como principal objetivo caracterizar  aplicações P2P-TV através de experimentos controlados e propor modelos matemáticos gerados por clientes destas aplicações. A idéia é auxiliar as tarefas de dimensionamento de redes, através da geração de traces sintéticos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Outra.
+2009 - 2011
+Ferramentas Computacionais Aplicadas a Modelos Complexos da Fisiologia de Células Cardíacas
+Descrição: Desenvolvimento de Ferramentas Computacionais Aplicadas a Modelos Complexos da Fisiologia de Células Cardíacas, utilizando Redes Metabólicas, Cadeias de Markov, Problema Inverso e Computação Paralela... Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Paula Couto da Silva - Integrante / Itamar Leite de Oliveira - Integrante / Rodrigo Weber dos Santos - Coordenador / Carlos Cristiano Hasenclever Borges - Integrante / Marcelo Lobosco - Integrante / Ciro de Barros Barbosa - Integrante / Luis Paulo da Silva Barra - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

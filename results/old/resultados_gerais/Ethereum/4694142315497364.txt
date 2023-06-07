@@ -1,0 +1,15 @@
+2007 - 2010
+Implementação e Avaliação de Desempenho de Uma Arquitetura Orientada a Serviço com Suporte a QoS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Sarita Mazzini Bruschi - Integrante / Regina H C Santana - Coordenador / Marcos J Santana - Integrante / Paulo Sergio Lopes de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+Políticas de escalonamento e controle de admissão para servidores Web com diferenciação de serviço - modelagem, avaliação e protótipo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Sarita Mazzini Bruschi - Integrante / Regina H C Santana - Integrante / Marcos J Santana - Coordenador / Paulo Sergio Lopes de Souza - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2004 - 2005
+Estudo para Proposta, Implementação e Avaliação de Desempenho de Novas Técnicas Visando a Construção de um Middleware para Execução de Aplicações Paralelas de Alto Desempenho
+Descrição: Este projeto tem por objetivo o estudo de técnicas para escalonamento de processos e balanceamento de carga em ambientes paralos/distribuídos para execução de aplicações paralelas/distribuídas de alto desempenho. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Sarita Mazzini Bruschi - Integrante / Regina Helena Carlucci Santana - Integrante / Marcos José Santana - Integrante / Francisco José Monaco - Integrante / Rodrigo Fernandes de Mello - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - Atual
+ASDA - Um Ambiente para Simulação Distribuída Automático
+Descrição: Este projeto tem por objetivo desenvolver um ambiente automático para desenvolvimento e execução de simulação distribuída.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Sarita Mazzini Bruschi - Coordenador / Regina Helena Carlucci Santana - Integrante / Marcos José Santana - Integrante / Francisco José Monaco - Integrante / Thais Souza Aiza - Integrante / Rodrigo Fernandes de Mello - Integrante / Celia Leiko Ogawa Kawabata - Integrante / Edmilson Marmo Moreira - Integrante / Michel Pires da Silva - Integrante.

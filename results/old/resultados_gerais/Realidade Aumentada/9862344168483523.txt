@@ -1,0 +1,13 @@
+2016 - Atual
+Variabilidade de Software Aplicada - Rumo ao Desenvolvimento de Softwares para Domínios Específicos
+Descrição: O papel principal da Variabilidade de Software [Gurp, Svahnberg e Bosch, 2001] é estudar a habilidade de um sistema ou artefato de software ser mudado, customizado ou configurado para uso em um contexto particular.
+Isto requer metodologias estabelecidas e ferramentas de suporte capazes de viabilizar a gestão e configuração dos vários pontos de variação que caracterizam as funcionalidades de um software em si, os quais existem desde sua concepção até a configuração final do produto desejado. Todo esse ciclo de vida deve ser amparado por técnicas de engenharia de software bem conhecidas [Sommerville, 2002], [Pressman, 2003], [PMBOK, 2003] e outras novas que precisam ser adaptadas e especializadas para esse tipo de desenvolvimento. 
+Este trabalho propõe a aplicação de conceitos e técnicas de variabilidade de software na produção de softwares para domínios específicos. A definição de novas técnicas de construção de SPLs baseadas em features também serão desenvolvidas, de modo a apoiar a produção final de software de domínios específicos.
+Como resultado final, espera-se obter não só a produção de novas SPLs para domínios de software específicos, como também a definição de novas técnicas e ferramental de apoio para a representação da variabilidade de software em termos de features. Em outras palavras, espera-se obter estratégias completas de gerenciamento da variabilidade de software, capazes de definir SPLs de domínios específicos bem como configurar novos sistemas a partir da seleção de features modeladas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Victor Travassos Sarinho - Coordenador.
+2012 - 2015
+Fábrica de Componentes de Software ? Uma Abordagem Prática
+Descrição: Desenvolvimento e pesquisa de novos artefatos de software em geral.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Victor Travassos Sarinho - Integrante / João Batista da Rocha Junior - Coordenador / Roberto Almeida Bittencourt - Integrante.
+2007 - 2008
+Desenvolvimento de Jogos Eletrônicos Educativos para Ensino e Aprendizagem em Evolução e Ecologia
+Descrição: Desenvolvimento de um jogo digital para simular a interação de populações de lagartos em um vale do rio São Francisco.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (3)  / Doutorado: (5) . Integrantes: Victor Travassos Sarinho - Coordenador.Financiador(es): Financiadora de Estudos e Projetos / FINEP - Auxílio
+										financeiro.

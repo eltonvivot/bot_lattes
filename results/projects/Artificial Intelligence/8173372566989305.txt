@@ -1,0 +1,298 @@
+2017 - 2020
+Modelos, Expressividade, Complexidade e Aplicações
+Descrição: Processo 424188/2016-3. Universal 01/2016 Faixa B Até 60.000,00
+No escopo dos estudos relacionados à  lógica, podemos distinguir duas áreas de pesquisa que estão associadas, respectivamente,  à relação de consequência semântica e à relação de consequência sintática, a saber: (i) Teoria dos Modelos e (ii) Teoria da Prova. Neste projeto, nosso foco principal será na perspectiva de Teoria dos Modelos, em particular na Teoria de Modelos Finitos. Investigaremos não somente lógicas que  estendem a lógica clássica como também fragmentos da lógica clássica, ou mesmo as que a rivalizam. Estas lógicas serão exploradas  por sua semântica (modelos); pelo poder expressivo de sua linguagem; pela relação com complexidade descritiva e programação em lógica indutiva  como também pela dificuldade de seus problemas de decisão através da complexidade computacional. Iremos adicionalmente buscar aplicações das lógicas em sistemas  multiagentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Ana Teresa de Castro Martins - Coordenador / Davi Romero Vasconcelos - Integrante / Francicleber Martins Ferreira - Integrante / João Fernando Lima Alcântara - Integrante / Carlos Eduardo Fisch de Brito - Integrante / João Paulo Pordeus Gomes - Integrante.
+2014 - 2017
+Expressividade e Complexidade da Lógica Clássica, dos seus  Fragmentos e Extensões
+Descrição: Projeto de Produtividade em Pesquisa 2014 a 2016
+Processo: 305980/2013-0 CNPq 
+Coordenadora: Ana Teresa de Castro Martins
+Recurso obtido: Bolsa de Pesquisador nível 2
+No escopo dos estudos relacionados à  lógica, podemos distinguir duas áreas de pesquisa que estão associadas, respectivamente,  à relação de consequência semântica e à relação de consequência sintática, a saber: (i) teoria dos modelos e (ii) teoria da prova. Neste projeto, nosso foco será na perspectiva de teoria dos modelos, em particular na teoria de modelos finitos. Investigaremos não somente lógicas que  estendem a lógica clássica como também fragmentos da lógica clássica. Estas lógicas serão exploradas  pelos modelos que as caracterizam, pelo poder expressivo de sua linguagem e sua relação com complexidade descritiva, pela dificuldade de seus problemas de decisão através da complexidade computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Ana Teresa de Castro Martins - Coordenador.
+2012 - 2016
+Rede de Cooperação Acadêmica em Ciência da Computação
+Descrição: Processo: 552578/2011-8 CNPq e CAPES
+Coordenador: José Ant\ônio Fernandes de Macedo (DC - UFC)
+Edital: Casadinho
+Recurso Obtido: R$\$$: 396.266,00
+Este projeto descreve trabalhos conjuntos de pesquisa científica e tecnológica em quatro diferentes áreas da Ciência da Computação que visa estimular ou aprofundar a formação pós-graduada e a mobilidade docente e discente. Os trabalhos conjuntos aqui descritos, agrupados em um só projeto, tem o objetivo de promover a consolidação de Programa de Mestrado e Doutorado em Ciência da Computação da Universidade Federal do Ceará (MDCC-UFC) por meio da cooperação inter-regional entre quatro de seus grupos de pesquisa e seus congêneres de programas consolidados de instituições nacionais de ensino superior e de pesquisa do Estado do Rio de Janeiro. Como resultados do Programa, espera-se que haja fortalecimento da interação científica e acadêmica de modo a constituir redes de cooperação, o aumento na formação e na capacitação de recursos humanos, o aumento da produção técnico-científica dos grupos de pesquisa, o fortalecimento de linhas de pesquisa. Considerando-se que parte significativa dos membros das equipes do MDCC-UFC é formada por recém-doutores com potencial para carreira científica, as atividades dos projetos conjuntos contribuirão para uma melhor distribuição regional dos núcleos de excelência em pesquisas no país.
+Alunos Envolvidos:
+Doutorado:
+Francicleber Martins Ferreira
+Francisco Erivelton Fernandes de Aragão
+Márcia Roberta Falcão de Farias
+Samy Soares Passos de Sá
+Mestrado:
+Carlos Roberto Rodrigues Filho
+Henrique Viana Oliveira
+Iuri Fernandes Queiroz
+José Wellington Franco
+Graduação
+Hugo Carvalho
+Marcos Mendes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Ana Teresa de Castro Martins - Integrante / Marcelino Pequeno - Integrante / Davi Romero Vasconcelos - Integrante / Mário Benevides - Integrante / João Fernando Lima Alcântara - Integrante / Carlos Eduardo Fisch de Brito - Integrante / Edward Hermann Haeusler - Integrante / José Antônio Fernandes de Macêdo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2012 - 2015
+Expressividade e Complexidade de Lógicas
+Descrição: Processo:474821/2012-9 CNPq
+Vigência:  2012 - 2015
+Coordenadora: Ana Teresa de Castro Martins
+Edital: Universal 2012 Faixa A
+Recurso obtido: Custeio: 19 mil, Capital: 11 mil, Total: 30 mil e a 
+Bolsa de Iniciação Cientíifica
+No escopo dos estudos relacionados à  lógica, podemos distinguir duas áreas de pesquisa que estão associadas, respectivamente,  à relação de consequência semântica e à relação de consequência sintática, a saber: (i) teoria dos modelos e (ii) teoria da prova. Neste projeto, nosso foco será na perspectiva de teoria dos modelos, em particular na teoria de modelos finitos. Investigaremos não somente lógicas que rivalizam ou estendem a lógica clássica como também fragmentos da lógica clássica. Estas lógicas serão exploradas  pelos modelos que as caracterizam, pelo poder expressivo de sua linguagem e sua relação com complexidade descritiva, pela dificuldade de seus problemas de decisão através da complexidade computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (6)  / Doutorado: (4) . Integrantes: Ana Teresa de Castro Martins - Coordenador / João Fernando Lima Alcântara - Integrante / Carlos Eduardo Fisch de Brito - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2015
+RACIOCÍNIO INCERTO EM LÓGICAS DE DESCRIÇÕES E EM PROGRAMAÇÃO EM LÓGICA
+Projeto certificado pelo(a) coordenador(a) Joao Fernando Lima Alcântara em 28/03/2016.
+Descrição: : Em nossa vida diária, não raramente nós temos de lidar com informações incertas. Entender como
+as diversas formas de incerteza podem ser empregadas no desenvolvimento de sistemas inteligentes tem
+desafiado muitos pesquisadores. Neste projeto de pesquisa, nós iremos estudar diferentes formas de incerteza
+e o papel que elas desempenham na implementação de ferramentas de Inteligência Artificial (IA). Dado que o
+raciocínio dedutivo e monotônico da Lógica Clássica de Primeira Ordem não é suficientemente moldável para
+ser utilizado como ferramenta na formalização e tratamento computacional do raciocínio incerto em IA, urge
+buscar mecanismos não-clássicos para a representação do conhecimento e raciocínio. Nesse sentido, vai-se
+abordar a incerteza em dois bem conhecidos e amplamente utilizados formalismos de representação do
+conhecimento em IA: lógica de descrições e programação em lógica. No campo das lógicas de descrições, o
+objetivo é suprir uma de suas limitações ao lidar com domínios de interesse que não podem ser modelados
+com absoluta precisão. Isso envolve o estudo de lógicas difusas, probabilísticas e possibilísticas. Já na área de
+programação em lógica, estamos particularmente interessados em como o raciocínio abdutivo e
+paraconsistente, duas formas de raciocínio incerto, podem ser usados na representação de um debate num
+sistema multiagentes e na busca dos meios necessários para se chegar a um consenso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4)  / Doutorado: (3) . Integrantes: Ana Teresa de Castro Martins - Integrante / Marcelino Pequeno - Integrante / Davi Romero Vasconcelos - Integrante / João Fernando Lima Alcântara - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2014
+Lógicas Clássica e Não-Clássicas: Modelos, Provas  e Complexidade (PQ)
+Descrição: Nome: Ana Teresa de Castro Martins
+Processo:  301607/2010-9
+Vigência:01/03/2011 à 28/02/2014
+Modalidade/Nível: PQ-2
+Edital/Chamada: Produtividade em Pesquisa - PQ - 2010
+Instituição:  Universidade Federal do Ceará/UFC-CE
+Resumo do Projeto: 
+No escopo dos estudos relacionados à  lógica, podemos distinguir duas áreas de pesquisa que estão associadas, respectivamente,  à relação de conseqüência semântica e à relação de conseqüência sintática, a saber: (i) teoria dos modelos e (ii) teoria da prova. Dentro destas duas perspectivas, investigamos o que dá e o que não dá para fazer com a lógica clássica dentro da computação. Investigaremos não somente lógicas que rivalizam ou estendem a lógica clássica, aqui denominadas de lógicas não-clássicas, como também fragmentos da lógica clássica que são decidíveis. Estas lógicas serão exploradas  pelos modelos que as caracterizam, pelo poder expressivo de sua linguagem para, por exemplo, expressar a complexidade descritiva de problemas e hierarquizar teorias, como também pelas propriedades estruturais de seus sistemas dedutivos.  
+Alunos envolvidos:
+Doutorado:
+Francicleber Ferreira
+Francisco Aragão
+Márcia Farias
+Mestrado:
+Débora Frota
+Cibele Freire
+Iuri Fernandes
+Thiago Rocha
+Graduação
+Hugo Carvalho
+Marcos Mendes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Doutorado: (3) . Integrantes: Ana Teresa de Castro Martins - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2013
+PACMDCC ? Parcerias Acadêmicas para Consolidação do Mestrado e Doutorado em Ciência da Computação da UFC (PROCAD)
+Descrição: Este projeto visa o estabelecimento de parcerias de pesquisa entre grupos do programa de pós-graduação em ciência
+da computação da UFC (MDCC) e do programa de pós-graduação do Departamento de Informática (DI) da PUC-RJ. O
+objetivo principal dessa parceria é o crescimento do MDCC da UFC com vistas à consolidação do programa. Assim, o
+projeto visa:
+1. Fortalecer a parceria entre grupos afins do MDCC e da PUC-RJ;
+2. Fortalecer as linhas de pesquisa do MDCC;
+3. Aumentar a produção científica quantitativa e qualitativamente;
+4. Ampliar a formação de mestres e doutores na instituição proponente;
+5. Promover a mobilidade acadêmica entre os pesquisadores das duas instituições; e também, entre os
+estudantes da pós-graduação através da modalidade sanduíche entre as duas instituições;
+6. Elevar o conceito CAPES do MDCC de 4 para 5.
+A parceria estabelecida neste projeto (PACMDCC) envolve três grupos de pesquisa do Programa de Pós-graduação
+em Ciência da Computação da Universidade Federal do Ceará ? Bancos de Dados, Computação Gráfica e Lógica &
+Teoria da Computação ? com seus congêneres do Departamento de Informática da PUC-RJ. No total, são treze
+professores do MDCC (2 são bolsistas de produtividade nível 2 do CNPq), quatro professores do INF-PUC-RJ (4 são
+bolsistas PQ: um do nível 1A, um do nível 1C e dois do nível 2), quinze alunos de doutorado e oito alunos de mestrado.
+Além de promover a consolidação do MDCC e a elevação de sua nota de 4 para 5 na avaliação da CAPES, este
+projeto visa estabelecer uma interação permanente entre os parceiros, para o desenvolvimento de projetos conjuntos,
+para melhorar a formação de recursos humanos em níveis de mestrado e doutorado, e para incrementar a mobilidade
+de alunos de pós-graduação e pesquisadores dos grupos envolvidos.
+O apoio financeiro será utilizado, principalmente, em missões de estudo (envolvendo alunos de pós-graduação) e em
+missões de pesquisa (envolvendo professores pesquisadores das duas equipes).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (10) Doutorado: (18) . Integrantes: Ana Teresa de Castro Martins - Integrante / Marcelino Pequeno - Integrante / Davi Romero Vasconcelos - Integrante / Vânia Vidal - Coordenador / Creto Augusto Vidal - Integrante / Joaquim Bento Cavalcante - Integrante / Bernadete Farias - Integrante / Javam Machado - Integrante / Marco Antônio Casanova - Integrante / Karin Breitman - Integrante / Marcelo Gattass - Integrante / José Antônio Fernandes de Macêdo - Integrante / João Fernando Lima Alcântara - Integrante / Carlos Eduardo Fisch de Brito - Integrante / Wladimir Araújo Tavares - Integrante / José Maria Monteiro - Integrante / Edward Hermann Haeusler - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2010 - 2012
+Tratamento de Contradições e Incertezas nas Lógicas Descritivas (Processo No 507647/2010-6 IC-Balcão)
+Descrição: Este projeto é para bolsa de iniciação científica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Teresa de Castro Martins - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+Lógicas Clássica e Não-Clássicas, seus Fragmentos e Extensões (Universal 2010)
+Descrição: Processo:482481/2010-2 
+Vigência: 12/11/2010 à 11/11/2012
+No escopo dos estudos relacionados à  lógica, podemos distinguir duas áreas de pesquisa que estão associadas, respectivamente,  à relação de conseqüência semântica e à relação de conseqüência sintática, a saber: (i) teoria dos modelos e (ii) teoria da prova. Dentro destas duas perspectivas, investigamos o que dá e o que não dá para fazer com a lógica clássica dentro da computação. Investigaremos não somente lógicas que rivalizam ou estendem a lógica clássica, aqui denominadas de lógicas não-clássicas, como também fragmentos da lógica clássica que são decidíveis. Estas lógicas serão exploradas  pelos modelos que as caracterizam, pelo poder expressivo de sua linguagem para, por exemplo, expressar a complexidade descritiva de problemas e hierarquizar teorias, como também pelas propriedades estruturais de seus sistemas dedutivos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Ana Teresa de Castro Martins - Coordenador / Marcelino Pequeno - Integrante / Davi Romero Vasconcelos - Integrante / João Fernando Lima Alcântara - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2008 - 2011
+Extensões da Lógica Clássica de Primeira Ordem: Modelos, Provas e Complexidade
+Descrição: Produtividade de Pesquisa
+Nome: Ana Teresa de Castro Martins
+Processo: 307979/2007-5
+Modalidade: PQ-II
+Projeto:Extensões da Lógica Clássica de Primeira Ordem: Modelos, Provas e Complexidade 
+Instituição: Universidade Federal do Ceará/UFC-CE
+Resumo:
+Resumo do Projeto: Na lógica clássica conseguimos facilmente escrever uma
+fórmula cujos modelos são grafos conectados com exatamente 10 vértices.
+Entretanto, não conseguimos definir a noção de conectividade em geral, ou
+seja, não é possível escrever em lógica clássica uma fórmula, ou conjunto de
+fórmulas,  cujos modelos sejam exatamente os grafos conexos. Também não é
+possível .contar. na lógica de primeira ordem, nem definir funções
+recursivas, nem descrever várias outras noções extremamente importantes em
+computação. A partir destas limitações, investigaremos lógicas que estendem
+minimamente a clássica possibilitando a definição de tais conceitos. Estas
+lógicas serão exploradas tanto pelos modelos finitos que as caracterizam,
+como pelo poder expressivo de sua linguagem para, por exemplo, expressar a
+complexidade descritiva de problemas e hierarquizar teorias, como também
+pelas propriedades estruturais de seus sistemas dedutivos de natureza muitas
+vezes infinitária.
+Alunos envolvidos:
+ Iniciação Cientifica (com bolsa):
+       Vladimir Portela (monitor)
+        Abelardo Vieira Mota  (IC)
+        Thiago Alves Rocha  (IC)
+Doutorandos:
+        Alexandre da Silva Cavalcante 
+        Francicleber Martins Ferreira 
+        Francisco Erivelton Fernandes de Aragão 
+Mestrandos:
+        Cibele Matos Freire 
+        Débora Farias Frota 
+        Iuri Fernandes Queiroz. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Ana Teresa de Castro Martins - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+BOOST ? Consolidação da Pós-Graduação em Ciência da Computação da UFC através de Parcerias Processo: 620207/2008-6
+Descrição: A parceria estabelecida no projeto BOOST envolve quatro grupos de pesquisa do MDCC-UFC (Bancos de Dados, Computação Gráfica, Lógica & Teoria da Computação e Redes de Computadores) com seus congêneres do  INF-PUC-RJ e do PESC-COPPE-UFRJ. No total, são nove professores do MDCC (3 são bolsistas de produtividade nível 2 do CNPq), três professores do INF-PUC-RJ (2 são bolsistas PQ: um do nível 1A, e um do nível 1C), três professores do PESC-COPPE-UFRJ (3 são bolsistas PQ: um do nível 1A, um do nível 1D, e um do nível 2), nove alunos de doutorado e treze alunos de mestrado. Este projeto visa a consolidação do MDCC e a elevação de sua nota de 4 para 5 na avali-ação da CAPES.
+-------------
+Nome: Creto Augusto Vidal
+Processo: 620207/2008-6
+Modalidade: Apoio ao Desenvolvimento Científico e Tecnológico-ACT -
+BOOST: Consolidação da Pós-graduação em Ciência da Computação da UFC
+através de Parcerias
+-------------
+Alunos do grupo de lógica envolvidos:
+ Doutorandos:
+        Alexandre da Silva Cavalcante 
+        Alfredo Antônio de Araújo Malheiros Filho 
+        Francicleber Martins Ferreira 
+        Francisco Erivelton Fernandes de Aragão 
+        Samy Soares Passos de Sá 
+        Vládia Célia Monteiro Pinheiro 
+Mestrandos:
+        Cibele Matos Freire 
+        Débora Farias Frota 
+        Iuri Fernandes Queiroz 
+        Henrique Viana Oliveira 
+Iniciação Científica:
+        Thiago Alves da Rocha 
+        Abelardo Vieira Mota 
+Monitoria:
+	Vladimir Portela. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (10)  / Doutorado: (9) . Integrantes: Ana Teresa de Castro Martins - Integrante / Marcelino Pequeno - Integrante / Creto Vidal - Coordenador / Vânia Vidal - Integrante / Joaquim Bento Cavalcante - Integrante / Bernadete Farias - Integrante / Paulo Veloso - Integrante / Javam Machado - Integrante / Mário Benevides - Integrante / Marta Mattoso - Integrante / Marco Antônio Casanova - Integrante / Karin Breitman - Integrante / Marcelo Gattass - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Provas e Modelos para Lógicas Não  Clássicas Processo 477624/2008 1
+Descrição: No escopo dos estudos relacionados à  lógica, podemos distinguir duas áreas de pesquisa que estão associadas, respectivamente,  à relação de conseqüência semântica e à relação de conseqüência sintática, a saber: (i) teoria dos modelos e (ii) teoria da prova. Dentro destas duas perspectivas, investigamos o que dá e o que não dá para fazer com a lógica clássica dentro da computação. A partir destas limitações, investigaremos lógicas que rivalizam ou estendem minimamente a clássica, aqui denominadas de lógicas não-clássicas. Estas lógicas serão exploradas  pelos modelos que as caracterizam, pelo poder expressivo de sua linguagem para, por exemplo, expressar a complexidade descritiva de problemas e hierarquizar teorias, como também pelas propriedades estruturais de seus sistemas dedutivos.
+------------
+CNPq CNPJ/MF: 33.654.831/0001 36 Número do processo: 477624/2008 1
+Edital/Chamada: Edital MCT/CNPq 14/2008 Universal Faixa A Até R$ 20.000,00
+2. VALOR GLOBAL DA CONCESSÃO
+AUXÍLIO FINANCEIRO Custeio: R$ 3.500,00 Capital: R$ 16.500,00 Valor Global: R$ 20.000,00
+Alunos envolvidos:
+Doutorandos:
+        Alexandre da Silva Cavalcante 
+        Alfredo Antônio de Araújo Malheiros Filho 
+        Francicleber Martins Ferreira 
+        Francisco Erivelton Fernandes de Aragão 
+        Samy Soares Passos de Sá 
+        Vládia Célia Monteiro Pinheiro 
+Mestrandos:
+        Cibele Matos Freire 
+        Débora Farias Frota 
+        Iuri Fernandes Queiroz 
+        Henrique Viana Oliveira 
+Iniciação Científica
+        Thiago Alves da Rocha 
+        Abelardo Vieira Mota 
+Monitoria:
+	Vladimir Portela. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4)  / Doutorado: (6) . Integrantes: Ana Teresa de Castro Martins - Coordenador / Marcelino Pequeno - Integrante / Davi Romero Vasconcelos - Integrante / Tarcísio Haroldo Cavalcante Pequeno - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Lógica em Computação Processo: 478364/2008-3
+Descrição: O propósito deste projeto é contribuir para o avanço da lógica matemática como ferramenta para resolver problemas em Ciência da Computação. No âmbito do projeto a lógica matemática será estudada sob uma diversidade de aspectos ? do ponto de vista semântico (conteúdo), do ponto de vista sintático (forma), como linguagem de representação, como ferramenta inferencial ? tendo sempre em vista sua aplicabilidade em ciência da computação: Este é o motivo condutor do projeto, o uso da lógica como estratégia de desenvolvimento da ciência computação. Algumas contribuições do projeto serão dentro da própria lógica, novos resultados teóricos ampliando os recursos da lógica de modo a expandir as possibilidades de uso na computação; outras serão diretamente em aplicações computacionais, mostrando uma abordagem lógica para alguns problemas em computação.
+---------------------
+DADOS DO PROJETO UNIVERSAL LOGCOMP EDITAL 14/2008 CNPQ
+Nome: Tarcisio Haroldo Cavalcante Pequeno
+Processo: 478364/2008-3
+Projeto: Lógica em Computação - Logcomp
+Edital MCT/CNPq 14/2008 - Universal - Faixa C - De R$ 50.001,00 até R$ 150.000,00:   Custeio: R$ 40.000,00
+Capital: R$ 80.000,00
+-----
+Alunos envolvidos da UFC
+ Doutorandos:
+        Alexandre da Silva Cavalcante 
+        Alfredo Antônio de Araújo Malheiros Filho 
+        Francicleber Martins Ferreira 
+        Francisco Erivelton Fernandes de Aragão 
+        Samy Soares Passos de Sá 
+        Vládia Célia Monteiro Pinheiro 
+Mestrandos:
+        Cibele Matos Freire 
+        Débora Farias Frota 
+        Iuri Fernandes Queiroz 
+        Henrique Viana Oliveira 
+Iniciação Científica:
+        Thiago Alves da Rocha 
+        Abelardo Vieira Mota 
+Monitoria:
+	Vladimir Portela. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4)  / Doutorado: (5) . Integrantes: Ana Teresa de Castro Martins - Integrante / Marcelino Pequeno - Integrante / Davi Romero Vasconcelos - Integrante / Tarcísio Haroldo Cavalcante Pequeno - Coordenador / Arthur Buchsbaum - Integrante / Jean-Yves Béziau - Integrante / Luiz Carlos Pinheiro Dias Pereira - Integrante / Paulo Veloso - Integrante / João Marcos Almeida - Integrante / Sheila Veloso - Integrante / Jorge Petrúcio Viana - Integrante / Renata Pereira de Freitas - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2009
+Aspectos Lógico Filosóficos da Negação CAPES-PROCAD Processo no 0368 / 05 - 9
+Descrição: O projeto que ora propomos tem como objetivo teórico principal e mais geral examinar de forma sistemática e unificada aspectos lógico-filosóficos do conceito de Negação e noções afins, tais como as noções de falsidade, diferença, predicação, exclusão e exaustividade.
+A negação tem ocupado, sem dúvida alguma, um lugar central no debate filosófico e tem
+sido uma fonte perene de preocupações e problemas para a Filosofia, para a Lógica, e, mais
+recentemente, para a Lingüística e a Teoria da Computação. Por um lado, a história da
+filosofia nos apresenta um repertório de significativas questões de natureza ontológica,
+semântica e epistemológica relacionadas com o conceito de negação, desde a discussão
+sobre a possibilidade do discurso falso e a natureza do discurso negado verdadeiro no
+Sofista de Platão, até a discussão contemporânea sobre diferentes formas de enunciados
+negativos e o papel da negação na Teoria das Descrições Definidas. Por outro lado, a
+lógica, praticamente desde o seu surgimento, tem buscado, através da formulação de
+diferentes sistemas formais, investigar aspectos sintáticos e semânticos da negação. Entre
+as muitas questões cujo vigor contemporâneo evidencia a centralidade e a relevância desse
+tema, poderíamos destacar as seguintes:
+Faz sentido diferenciar uma negação predicativa de uma negação proposicional?
+Podemos coerentemente falar em fatos negativos?
+Como a negação interfere com a Teoria das Descrições Definidas?
+Podemos atribuir uma semântica natural a negações não-clássicas?
+A Negação Intuicionista pressupõe conceitos modais?
+A Negação possui significado computacional?
+Qual a relação entre negação, contradição e contrariedade?
+Como a negação se relacional com a exclusão e a exaustividade?
+Qual a relação entre a negação e a diferença?
+Podemos considerar as omissões como atos negativos?
+Como este elenco de questões deixa bem claro, o conceito de Negação posiciona-se em um
+campo de investigações que combinam de modo muito. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Ana Teresa de Castro Martins - Integrante / Marcelino Pequeno - Integrante / Tarcísio Haroldo Cavalcante Pequeno - Integrante / Luiz Carlos Pinheiro Dias Pereira - Integrante / Guido Imaguire - Coordenador.
+2005 - 2006
+Uma Investigação Lógico-filosófica sobre a Negação Universal (019/2004) CNPq
+Descrição: Vigência: 2005-2006 (2 anos). Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+2004 - 2007
+TEORIA DA COMPUTAÇÃO: MODELOS E MÉTODOS PADCT/CNPq Processo 620233/2004-4
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+2002 - 2006
+Lógica, Ciência e Inteligência Artificial (LOCIA) , processo no 552123/2002-1
+Descrição: O projeto LOCIA propõe-se a investigar a construção e desenvolvimento de sistemas lógicos visando sua utilização na formalização da ciência da computação e inteligência artificial. Nossa abordagem cobre o tema em amplo espectro: desde o desenvolvimento de métodos lógi-co/abstratos, estudo de sistemas para formalização do raciocínio em inteligência artificial, méto-dos semânticos e teoria da prova, até aplicações às teorias científicas e à pragmática da lingua-gem. O grupo de pesquisadores tem trabalhado por mais de uma década no uso da lógica na representação do conhecimento e na realização automática de inferência, tendo sido pioneiro no desenvolvimento de lógicas que combinam não monotonicidade com paraconsistência no trata-mento de inferências a partir de conhecimento impreciso, incompleto e informações contraditóri-as. Com o amadurecimento do tema, como freqüentemente ocorre em ciência, os sistemas lógi-cos desenvolvidos transcenderam as motivações iniciais para os quais foram criados, e são hoje aplicados em outras áreas da ciência. O projeto LOCIA ocupa-se do aprofundamento no estudo do problema original que tem motivado o trabalho do grupo, ligado à fundamentação da ciência da computação e da inteligência artificial, mas dirige-se também à ampliação das aplicações dos métodos lógicos que temos desenvolvido, em particular ao raciocínio e à construção de teorias científicas, e à pragmática da linguagem natural.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (5) . Integrantes: Ana Teresa de Castro Martins - Coordenador / Felipe Ferreira de Morais - Integrante / Lilia Ramalho Martins - Integrante / Francicleber Martins Ferreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2000 - 2002
+Formalização e Automatização do Raciocínio: Auxílio Individual 01/2000, Faixa B, Modalidade APQ Processo no: 467839/2000-0
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+2000 - 2002
+Modelagem e Automatização do Raciocínio Processo: 520413/93-8
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+1998 - 2000
+Modelagem Lógica do Raciocínio Prático Processo no: 300615/91-4
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+1998 - 2000
+Um Tratamento Sintático e Semântico Uniforme para as Lógicas de Default e suas Bases Monotônicas processo no:  300615 / 91-4
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+1998 - 1999
+Modelagem do Raciocínio Prático sob Conhecimento Incompleto e Impreciso em Situações de Mudanças Climáticas Processo: 690034/98-9
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+1996 - 1998
+LOGIA, Métodos Formais para o Raciocínio e a Representação do Conhecimento Processo: 680095/95.0
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.
+1993 - 1995
+FAR, Formalização e Automatização do Raciocínio Processo: 520413/93-8
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Teresa de Castro Martins - Coordenador.

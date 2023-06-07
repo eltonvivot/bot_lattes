@@ -1,0 +1,100 @@
+2020 - 2021
+Análise das condições de saúde das populações e do uso dos serviços de saúde nos municípios atingidos pelo rompimento da barragem da Mina Córrego do Feijão, no período 2015-2019
+Descrição: Em 25 de janeiro de 2019, a Barragem I da Mina Córrego do Feijão, em Brumadinho, Minas Gerais, se rompeu. Além das perdas humanas, registrou-se uma série de consequências e impactos pessoais, sociais, ambientais e econômicos, por longa extensão territorial. Para investigar os impactos indiretos nas condições de saúde e uso dos serviços da população dos municípios atingidos pelo rompimento, é necessário conhecer os perfis anterior e pós o evento, com potencial uso de métodos contrafactuais e de variação sazonal ao longo de um período. Assim, o objetivo deste projeto é analisar as condições de saúde da população e uso dos serviços de saúde nos municípios atingidos pelo rompimento da barragem da Mina Córrego do Feijão, no período de 2015 a 2019. Trata-se de uma avaliação com desenho de estudo ecológico, transversal analítico e de séries temporais de dados. Utilizar-se-á a base de dados do Sistema de Informação em Saúde para a Atenção Básica (SISAB/e-SUS AB), do Ministério da Saúde. Esses se referem a visitas domiciliares e territoriais, procedimentos, atendimentos domiciliares e individuais nas Unidades Básicas de Saúde. Para a análise dos dados, serão adotadas análises descritivas, análise de séries temporais e técnicas Machine Learning. Adicionalmente, serão testados modelos baseados em Redes Neurais Artificiais e Sistemas Fuzzy Adaptativos. Todos os parâmetros estimados serão incorporados a uma ferramenta interativa. Este projeto não envolverá pesquisa com seres humanos nem o uso de animais. Ele obedecerá à regulamentação da Comissão Nacional de Ética em Pesquisa do Conselho Nacional de Saúde. O conjunto de dados será abrigado num centro de dados com segurança física e virtual, sob a responsabilidade da Universidade Federal de Minas Gerais. Esse centro de dados terá capacidade computacional e padrões rigorosos de governança e ética, com a finalidade de manter e atualizar as bases de dados... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Walmir Matos Caminhas - Integrante / Ed Wilson Rodrigues Vieira - Coordenador / Leonardo Ferreira Matoso - Integrante / Jorge Gustavo Velásquez Meléndez - Integrante / Mery Natali Silva Abreu - Integrante / Fernanda Penido Matozinhos - Integrante / Giselle Lima de Freitas - Integrante / Bruna Graziela Alcantara de Souza - Integrante / Najara Barbosa da Rocha - Integrante / Sheila Aparecida Ferreira Lachtin - Integrante / Gisele Nepomuceno de Andrade - Integrante / Lucas Lima Carneiro - Integrante.Financiador(es): 2ª Vara da Fazenda Pública da Comarca de Belo Horizonte - Remuneração.
+2018 - Atual
+Bolsa de Produtividade em Pesquisa
+Descrição: Diagnóstico e Prognóstico de Falhas em Processos e Equipamentos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Walmir Matos Caminhas - Coordenador / André Paim Lemos - Integrante / Luciana Balieiro Cosme - Integrante.
+2014 - 2018
+Bolsa de Produtividade em Pesquisa
+Descrição: Estratégias Evolutivas de Detecção e Diagnóstico de Falhas em Sistemas Dinâmicos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Walmir Matos Caminhas - Coordenador / André Paim Lemos - Integrante.
+2011 - 2014
+Bolsa de Produtividade em Pesquisa
+Descrição: Estratégias Evolutivas de Detecção e Diagnóstico de Falhas em Sistemas Dinâmicos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Walmir Matos Caminhas - Coordenador / André Paim Lemos - Integrante.
+2011 - 2013
+Programa Pesquisador Mineiro - PPM - 5a. Edição
+Descrição: Sistemas Imunes Artificiais: Modelagem e Aplicações. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Walmir Matos Caminhas - Coordenador / André Paim Lemos - Integrante / Alisson Marques da Silva - Integrante.
+2009 - 2011
+Programa Pesquisador Mineiro - PPM - 3a. Edição
+Descrição: Sistemas Imunes Artificiais: Modelagem e Aplicações. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Walmir Matos Caminhas - Coordenador / Carlos Alexandre Laurentys de Almeida - Integrante / Tomaz A. Mota Santos - Integrante / Guzella, Thiago S. - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2008 - 2011
+SISTEMAS IMUNES ARTIFICIAIS: MODELAGEM E APLICAÇÕES (Produtividade em Pesquisa - CNPq)
+Descrição: O projeto visa uma integração dos vários trabalhos em desenvolvimento e a serem desenvolvidos sob a orientação do proponente do mesmo.   Serão envolvidos nos trabalhos alunos de iniciação científica, de mestrado e de doutorado.  Os seguintes temas serão abordados:
+?	formulação de modelos teóricos, baseados em um formalismo matemático, para o sistema imune;
+?	desenvolvimento de novos algoritmos imuno-inspirados;
+?	aplicações dos mesmos para a resolução de problemas de engenharia e computação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Walmir Matos Caminhas - Coordenador / Thiago dos Santos Guzella - Integrante / Tomaz A. Mota Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+2008 - 2011
+Bolsa de Produtividade em Pesquisa
+Descrição: Sistemas Imunes Artificiais: Modelagem e Aplicações. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Walmir Matos Caminhas - Coordenador / Carlos Alexandre Laurentys de Almeida - Integrante / Thiago dos Santos Guzella - Integrante / Tomaz A. Mota Santos - Integrante.Número de produções C, T & A: 6
+2007 - 2009
+Programa Pesquisador Mineiro - PPM - 1a. Edição
+Descrição: Detecção e Diagnóstico de Falhas em Sistemas Dinâmicos: Abordagens Baseadas em Técnicas de Inteligência Computacional. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Walmir Matos Caminhas - Coordenador / Carlos Alexandre Laurentys de Almeida - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2006 - 2008
+Identificação de SPAM Usando Abordagem Baseada no Sistema Imune: Validação do Software Desenvolvido no Projeto UOL número 200503301636a e proposição de melhorias
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Walmir Matos Caminhas - Coordenador / Joaquim Quiteiro Uchoa - Integrante / Thiago dos Santos Guzela - Integrante / Tomaz A. Mota Santos - Integrante.Financiador(es): UNIVERSO ONLINE - Bolsa.
+2005 - 2007
+Aplicação de Técnicas de Inteligência Computacional em Detecção e Diagnóstico de Falhas em Sistemas Dinâmicos
+Descrição: Estudo e aplicação de técnicas de detecção e diagnóstico de falhas em sistemas dinâmicos baseadas em inteligência computacional (redes neurais e sistemas nebulosos).  Este projeto visou uma integração  dos vários trabalhos em desenvolvimento e a serem desenvolvidos sob a orientação ou co-orientação do proponente do mesmo.    Foram envolvidos nos trabalhos alunos de iniciação científica, de mestrado e de doutorado.  Os temas que serão abordados são:
+· desenvolvimento e aplicação de novas estratégias de detecção e diagnóstico de falhas em sistemas dinâmicos;
+· desenvolvimentos de novas topologias e algoritmos de treinamento de redes neurais e neurofuzzy  e a aplicação das mesmas em detecção e diagnóstico de falhas em sistemas dinâmicos (sub-projeto 1); 
+· aplicações das estratégias propostas em sistemas reais - estudo de casos:
+· detecção e  diagnóstiico de falhas em sistemas de dutos em indústria petroquímica (vazamentos em dutos e falhas em sensores) (sub-projeto 2); 
+· detecção e diagnósticos de falhas em máquinas elétricas rotativas (sub-projeto 3); 
+· detecção e diagnósticos de falhas em acionamentos elétricos e conversores estáticos (sub-projeto 4); 
+· diagnósticos de falhas em pára-raios (sub-projeto 5).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Walmir Matos Caminhas - Coordenador / Carlos Henrique Morais Bomfim - Integrante / Edmar Antunes de Oliveira - Integrante / Lane Maria Rabelo Baccarini - Integrante / Leandro Carísio Fernandes - Integrante / Benjamim Rodrigues de Menezes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2006
+Estratégias para Recomendação de Manejo de Irrigação Através do Uso de Sistema Computacional
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Walmir Matos Caminhas - Integrante / Carmem Déa Moraes Pataro - Integrante / Leandro Mendes Souza - Integrante / Morethson Resende - Coordenador.Financiador(es): Empresa Brasileira de Pesquisa Agropecuária - Cooperação.
+2005 - 2006
+Desenvolvimento e Implementação de um Sistema Inteligente de Classificação de Mensagens de SPAM: Abordagem Empregando Sistemas Imunológicos Artificiais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Walmir Matos Caminhas - Coordenador / Joaquim Quiteiro Uchoa - Integrante / Thiago dos Santos Guzela - Integrante / Tomaz A. Mota Santos - Integrante.Financiador(es): UNIVERSO ONLINE - Bolsa.
+2001 - 2004
+Implementação de um Sistema Inteligente para Detecção e Diagnóstico de Falhas em Motores de Indução
+Descrição: Desenvolvimento de algoritmos para classificação de falhas mecânica. Implementação de modelos de simulação de quebra de barras do rotor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Walmir Matos Caminhas - Coordenador / Lane Maria Rabelo Baccarini - Integrante / Eduardo Soares Figueiredo - Integrante / Wandson Santana Borges - Integrante / Benjamim Rodrigues de Menezes - Integrante / Patrick Mendes dos Santos - Integrante / Homero Nogueira Guimarães - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2001 - 2003
+DESENVOLVIMENTO E APLICAÇÃO DE TÉCNICAS DE INTELIGÊNCIA COMPUTACIONAL EM DETECÇÃO E DIAGNÓSTICO DE FALHAS EM SISTEMAS DINÂMICOS
+Descrição: O objetivo do projeto é estudar a utilização  de redes neurais e sistemas fuzzy em detecção e diagnóstico de falhas em sistemas dinâmicos. Este projeto foi dividido em 2 sub-projetos, cada um contará a participação de um aluno de doutorado do Programa de Pós-Graduação em Engenharia Elétrica da Universidade Federal de Minas Gerais (PPGEE/UFMG). Os sub-projetos são: 
+Sub-Projeto 1: Implementação de um Sistema Inteligente para Detecção e Diagnóstico   de Falhas em Motores de Indução Trifásicos de Rotor do Tipo Gaiola
+O objetivo é desenvolver um protótipo de um sistema de detecção e diagnósticos de falhas elétricas (curto circuito, trinca e quebra de barras, desequilíbrio de fase, etc) e mecânicas (danos em rolamentos, desalinhamento, desbalanceamento, excentricidade, pé manco, etc)  em motores de indução trifásicos, empregando técnicas de inteligência computacional, especificamente redes neurais artificiais e sistemas nebulosos, com o intuito de auxiliar a manutenção. 
+Sub-Projeto 2: Detecção e Diagnóstico de Falhas em Dutos Utilizando Técnicas  de Inteligência Computacional
+Desenvolver um sistema para  a detecção e diagnostico de falhas em dutos. Especificamente busca-se obter neste sub-projeto:
+· a implementação de modelos que permitam a simulação de falhas em oleodutos e geração de bases de dados contendo dados de diversos cenários de falha;
+· a formulação e implementação de modelos de Inteligência Computacional para detecção e diagnóstico de falhas em oleodutos;
+· o estudo comparativo de alguns dos métodos de detecção de falhas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Walmir Matos Caminhas - Coordenador / Carlos Henrique Morais Bomfim - Integrante / Lane Maria Rabelo Baccarini - Integrante / Carlos Alexandre Laurentys de Almeida - Integrante / Leandro Henrique Batista - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1999 - 2001
+Protótipo de um Veículo Autônomo (robô móvel): Estratégia de  Navegação  Baseada em Técnicas de Aprendizado
+Descrição: O objetivo do projeto é construir um veículo elétrico capaz de se locomover sem a intervenção humana através de um ambiente desconhecido, executando tarefas pré programadas. O protótipo deve ser versátil e de fácil manuseio, capaz de receber diversos tipos de programas pois será utilizado como planta de testes para estudos na área de inteligência computacional, assunto tratado nas disciplinas: Introdução à Inteligência  Computacional, Sistemas Especialistas, Redes Neurais e Sistemas Nebulosos dos Cursos de Graduação e Pós-Graduação em Engenharia Elétrica da UFMG.
+· Montagem da estrutura mecânica;
+· Montagem do conversor para alimentação dos motores do veículo;
+· Projeto da placa de aquisição e condicionamento de sinais;
+· Simulação de uma estratégia de navegação utilizando lógica nebulosa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Coordenador / Guiherme A S  Pereira - Integrante / Michelle Magalhães Liparizzi - Integrante / Estevão Frailha de Zouza Coelho - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1998 - 2000
+Análise Experimental de Sistema de Energia Eólica:
+Descrição: Estudo e implementação de estratégia de controle de gerador de indução em sistema de conversão de energia eólica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Integrante / Selênio Rocha Silva - Coordenador / Benjamim Rodrigues de Menezes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1998 - 1999
+Desenvolvimento de Laboratório Virtual de Engenharia Elétrica Utilizando a  INTERNET
+Descrição: O objetivo do projeto foi o desenvolvimento de um laboratóriovirtual  didáticos, contendo equipamentos básicos de medições e circuitos elétricos, visando o ensino à distância. O sistema foi implementado em ambiente Java.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Coordenador / Renato Cardoso Mesquita - Integrante / Homero Nogueira Guimarães - Integrante / Carlos Anrey Maia - Integrante.Financiador(es): Universidade Federal de Minas Gerais - Bolsa.
+1997 - 2000
+RECOPE - Área de Inteligência Artificial - a partir do 1o. /98
+Descrição: O objetivo do projeto foi a integração de grupos de pesquisa na área de inteligência computacional lotados em várias universidades do Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Integrante / Luis Antônio Aguirre - Integrante / Selênio Rocha Silva - Integrante / Flávio Henrique Vasconcelos - Integrante / Antônio de Pádua Braga - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1992 - 1994
+Sistemas de Controle de Energia Eólica
+Descrição: Estudo e comparação de estrutura de conversão de energia eólica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Integrante / Selênio Rocha Silva - Coordenador / Benjamim Rodrigues de Menezes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1991 - 1993
+Acionamentos de Alto Desempenho com Motores de  Corrente Alternada.
+Descrição: Desenvolvimento e implementação de observadores de estados  e  técnicas de controle de velocidade e fluxo de  motor de indução.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Integrante / Selênio Rocha Silva - Integrante / Benjamim Rodrigues de Menezes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1990 - 1992
+Desenvolvimento e Implementação de Algoritimos de Controle Aplicados a Acionamentos de Corrente Alternada
+Descrição: Desenvolvimento e aplicação de técnicas de controle vetorial do motor de indução.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Integrante / Selênio Rocha Silva - Integrante / Benjamim Rodrigues de Menezes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1986 - 1987
+Esforços Torcionais em Hidrogeradores
+Descrição: Modelagem e simulação de gerador síncrono considerando o efeito de oscilações torcionais no eixo de acoplamento gerador/turbina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Walmir Matos Caminhas - Integrante / Selênio Rocha Silva - Integrante / Benjamim Rodrigues de Menezes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

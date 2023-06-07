@@ -1,0 +1,15 @@
+2016 - 2016
+Plano de Gerenciamento de Segurança da Informação direcionado aos riscos com base na norma ISO/IEC 27001:2013
+Descrição: Estudo e Implementação de um plano de gerenciamento de Segurança da Informação direcionado aos riscos com base na norma ISO/IEC 27001:2013.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Maria Angélica Figueiredo Oliveira - Coordenador / Altamir J. M. Costa - Integrante.
+2013 - 2014
+Objeto de Aprendizagem de Apoio a alfabetização para o Programa Mulheres Mil
+Descrição: O Objetivo do projeto é a construção de um objeto de Aprendizagem para ser utilizado como recurso didático no processo de alfabetização de adultos no programa Mulheres Mil do Instituto Federal Farroupilha.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Maria Angélica Figueiredo Oliveira - Coordenador / Pedro Hartmann - Integrante / Sayure Salles - Integrante.
+2008 - 2009
+Gestão da Segurança da Informação
+Descrição: O objetivo deste projeto é a implementação de um sistema de Gestão de Segurança da Informação baseados na abordagem Seis Sigma e no modelo DMAIC amparado pela norma NBR ISO/IEC 17799.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Angélica Figueiredo Oliveira - Coordenador.
+2008 - 2008
+Um modelo de Segurança para o Sistema de Prescrição Eletrônica do HUSM
+Descrição: A informatização dos diferentes setores do HUSM possibilita um melhor controle de atividades administrativas e clínicas. Neste sentido o HUSM está implantando um sistema de prescrição eletrônica onde a segurança dos dados dos pacientes é um fator chave, requerendo assim que seja desenvolvido um modelo de sgeurança para o sistema de prescrição eletrônica. O objetovo deste trabalho é explorar aspectos de segurança em ambientes hospitalares e especificar um modelo de segurança para a prescrição eletrônica do HUSM.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Angélica Figueiredo Oliveira - Coordenador.
+2007 - 2008
+Produtividade no uso do Prontuário Eletrônico do Paciente no setor de Cardiologia do HUSM
+Descrição: O objetivo deste trabalho é melhorar a produtividade da Unidade de Alta Complexidade do HUSM através d re-projeto de uma interface homem-computador para o banco de dados do setor de cardiologia do Hospital Universitário de Santa Maria (HUSM) com base no levantamento de requisitos dos profissionais que lá atuam, e nos principios da usabilidade ditados pelas Normas NBR ISO/IEC 9126 e NBR ISO 145998. Além disso, garantir a confiabilidade e disponibilidade dos dados via replicação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Angélica Figueiredo Oliveira - Integrante / Eliana Zen - Integrante / Raul Ceretta Nunes - Coordenador.

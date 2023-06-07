@@ -1,0 +1,17 @@
+2018 - 2019
+Simulação de Sistemas De Comunicação de Elétricas  Inteligen tes com Base em Conceitos de IoT
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Tardiole Kuehne - Coordenador.
+2016 - 2017
+Avaliação de desempenho de ambientes Big Data
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Tardiole Kuehne - Coordenador / Rafael Sobrinho Ferreira - Integrante.
+2015 - 2017
+Uma ferramenta visual para elaboração de Web services compostos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Tardiole Kuehne - Coordenador.
+2012 - 2014
+Desenvolvimento e avaliação de novas técnicas computacionais para viabilizar o fornecimento de qualidade de serviço em arquiteturas SOA
+Descrição: Este projeto de pesquisa destaca a importância de uma investigação científica mais aprofundada sob o aspecto dos principais desafios relacionados ao desempenho de arquiteturas orientadas a serviços (SOA). Os principais principais objetivos do presente projeto são o desenvolvimento de novas técnicas computacionais para viabilizar o fornecimento de qualidade de serviço em arquiteturas SOA por meio do protótipo WSARCH. As investigações que serão realizadas devem contribuir para o estado da arte e facilitar o desenvolvimento de aplicações orientadas a serviços. Como parte das investigações, taxonomias já apresentadas na literatura serão utilizadas para viabilizar o protótipo como uma arquitetura mais amigável e uma alternativa as arquiteturas SOA atuais. Ao alcançar o objetivo a estimativa é que arquitetura WSARCH venha a ser uma referência na área para tratar de problemas de desempenho e implantação de mecanismos de QoS em SOA, auxiliando tanto cientistas quanto a indústria na escolha de cenários mais adequados para desenvolver serviços que exijam grandes demandas computacionais em contextos distintos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Tardiole Kuehne - Integrante / julio cezar estrella - Coordenador / Marcos José Santana - Integrante / Sarita Mazzini Bruschi - Integrante / SANTANA, REGINA H.C. - Integrante / Luís Hideo Nakamura - Integrante / Edvard M. de Oliveira - Integrante / Lucas J. Adami - Integrante / Adriana Molina Centurion - Integrante / Dionisio Machado Leite Filho - Integrante / Pedro Felipe do Prado - Integrante / Bruno Guazzelli Batista - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2007 - 2009
+Implementação e Avaliação de Desempenho de Uma Arquitetura Orientada a Serviço com Suporte a QoS
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Tardiole Kuehne - Integrante / julio cezar estrella - Integrante / Marcos José Santana - Integrante / Sarita Mazzini Bruschi - Integrante / TAVARES, THIAGO C. - Integrante / SANTANA, REGINA H.C. - Coordenador / Paulo Sérgio Lopes de Souza - Integrante / Fabiano Costa Teixeira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

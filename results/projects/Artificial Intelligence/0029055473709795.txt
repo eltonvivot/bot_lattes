@@ -1,0 +1,22 @@
+2023 - Atual
+Métodos e Algoritmos para Projeto Online de Controle Ótimo baseado em Programação Dinâmica Dependente de Ação e Aprendizado por Reforço em Sistemas Industriais e Aeroespaciais
+Descrição: No sentido de tornar implementável a metodologia de controle ótimo e robusto nos sistemas
+industriais e/ou aeroespaciais, o desenvolvimento de algoritmos e circuitos eletrônicos que
+realizam tarefas de controle têm sido objetos de estudo de pesquisadores e engenheiros. Os
+sistemas dinâmicos adquiriram um alto grau de complexidade que necessitam de estratégias
+de controle cada vez mais robustas, no entanto, as aplicações se limitam a simulações e pouco
+tem se feito para embarcar ou projetar circuitos eletrônicos dedicados a uma aplicação
+específica principalmente se esta aplicação for online. Partindo dessa premissa, propõe-se
+neste projeto a investigação e aplicações em modelos matemáticos de sistemas não lineares e
+seus modelos em técnicas para os projetos de algoritmos online de controle ótimo. Junto de
+sensores do processo observado e controlado, os núcleos dos módulos de controle e
+observação do sistema embarcado são construídos com estes algoritmos, que realizam as
+tarefas de sintonia ótima de ganhos de controladores via solução da Equação de Bellman. O
+procedimento de projeto de algoritmo proposto será customizado e avaliado para a abordagem
+de controle ótimo do DLQR e DLQG.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Joao Viana da Fonseca Neto - Coordenador / DENIS FABRICIO SOUSA DE SA - Integrante / MARCIO MENDES CERQUEIRA - Integrante.Financiador(es): Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico - Outra.Número de produções C, T & A: 4
+2006 - Atual
+Observadores de Estado para o Banho Eletrolítico
+Descrição: Este projeto tem por objetivo desenvolver e implantar um Filtro de Kalman para monitoramento e para o controle do percentual de Alumina no banho eletrolítico da ALUMAR - SLZ. O projeto é programado para ser executado em quatro e consta de duas fases.  Na primeira fase, realiza-se o projeto e a implantação do filtro de Kalman no processo produtivo. Na segunda fase, enfoca-se o projeto e a implementação de um mecanismo para a sintonia do ganho. Este mecanismo baseia-se em computação evolutiva e inferência Bayesiana.
+A Implantação de um filtro digital do tipo Kalman Padrão e de um Mecanismo de Sintonia Inteligente para o ajuste é a principal abordagem do Projeto Filtro de Kalman em Tempo Real para o Controle de Alumina no Banho Eletrolítico. A proposta consiste em desenvolver e implementar um filtro digital que introduz melhorias no sistema de controle para o processo do Banho Eletrolítico. Este tipo de filtro tem-se mostrado bem sucedido em outras aplicações industriais, tais como  controle de máquinas elétricas e rastreamento de foguetes,  recentemente foi implantando com sucesso em uma fábrica do Grupo ALCOA.
+Este projeto, além de disponibilizar para a ALUMAR um filtro digital de alto desempenho, também visa uma alta interatividade entre as equipes da UFMA e ALUMAR e para tanto as seguintes ações fazem-se necessárias para que objetivos e metas seja atingidas: a) Treinamento na plataforma MATLAB e quanto dos seus TOOLBOXES, pois as implementações de projeto serão realizadas utilizando o MATLAB e os seus recursos. b) Habilitar a equipe para implementar melhorias no filtro sem apoio efetivo da UFMA, contribuindo para formação e independência intelectual das equipes.
+As seguintes contribuições científica, técnica e social dentro do contexto do projeto podem ser vislumbradas: o projeto conta com uma peculiaridade que extrapola o  repasse de tecnologia da universidade para a empresa. Isto é caracterizado nas metas do projeto que consistem na interatividade entr. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Joao Viana da Fonseca Neto - Coordenador.

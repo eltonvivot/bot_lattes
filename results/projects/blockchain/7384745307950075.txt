@@ -1,0 +1,34 @@
+2020 - 2022
+Sistemas de votação online baseado em blockchain
+Descrição: Este projeto tem por objetivo estudar a estrutura e arquitetura de blockchain;
+realizar estudo contextualizado e comparativo de diversos modelos/métodos de votação online utilizando blockchain; pesquisar e comparar ferramentas existentes;
+Realizar uma prova de conceito de ferramentas num estudo de caso.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Mehran Misaghi - Coordenador.
+2020 - 2021
+Um ponto de equilíbrio de uso de Meios eletrônicos por adolescentes e adultos.
+Descrição: O objetivo deste projeto é propor o ponto de equilíbrio do uso da tecnologia por meio de um estudo comparativo de trabalhos relacionados de benefícios e malefícios. As etapas do projeto incluem (a) Realizar estudo comparativo de artigos relacionados com uso excessivo da tecnologia; (b) Realizar estudo comparativo de artigos relacionados com benefícios de uso da tecnologia; (c) Elaborar uma pesquisa de uso de tecnologia baseado artigos relacionados; (d) Realizar a pesquisa;
+(e) Compilar os dados da pesquisa e criar indicadores para uso adequado de tecnologia. O projeto terá os seguintes resultados: (a) Mapear benefícios de uso da tecnologia; (b) Mapear malefícios de uso da tecnologia; (c) Chegar no ponto de equilíbrio de uso da tecnologia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Mehran Misaghi - Coordenador / Beatriz de Almeida - Integrante.
+2011 - 2022
+Pensamento Enxuto aplicado a TI - LEAN IT
+Descrição: Este projeto visa aplicar os princípios de Pensamento Enxuto, tais como evitar desperdício, agregar valor e otimizar processo em projetos de engenharia de software, gestão de projetos de TI, e gestão de serviços de TI de qualquer natureza, governança de TI e governança de segurança de TI. Serão utilizadas as metodologias ágil, kanban, scrum, scrumban, da seguinte forma;
+1. Engenharia de sofware: Metodolgia ágil, kanban, scrum e scrumban.
+2. Projetos de TI: Lean Project Management
+3. Governança de TI e governança de segurança de TI: Mentalidade Lean - Lean Mindset
+Serão utilizadas diversas ferramentas ataravés de uso de indicadores, para avaliação de impacto da adoção e implatanção dos princípios de pensamento enxuto em diversos cenários no formato de estudo de caso em várias empresas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (4) . Integrantes: Mehran Misaghi - Coordenador / Luiz Camargo - Integrante.
+2010 - 2020
+Redes Sociais
+Descrição: Estudar e implementar Redes Sociais em termos de modelos, comportamentos e impactos nas organizações. Analisar os mecanismos de segurança adotados de redes sociais nas corporações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (2) . Integrantes: Mehran Misaghi - Coordenador / Patrícia Lima Quintão - Integrante.Número de produções C, T & A: 2
+2008 - 2010
+Segurança em Sistema Operacional Windows 2008
+Descrição: O objetivo do projeto é estudar e verificar o desempenho de mecanismos de segurança existentes no sistema operacional Windows 2008 Server, como mecanismos de autenticação, redes sem fio e virtualização. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) . Integrantes: Mehran Misaghi - Coordenador / Marco Antonio Torrez Rojas - Integrante.
+2005 - 2014
+Criptografia Baseada na Identidade
+Descrição: Este projeto visa aproveitar diversas características interessantes que os sistemas criptográficos baseados na identidade possuem e verificar as suas aplicabilidades em Esquemas de Acordo de Chaves, Esquemas de Assinatura, Buscas cifradas entre as outras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Mehran Misaghi - Coordenador.Número de produções C, T & A: 16
+2005 - 2008
+Ambiente Virtual de Aprendizagem Seguro e Flexível
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Mehran Misaghi - Coordenador.
+2003 - 2003
+Critpografia Baseada na Identidade
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Mehran Misaghi - Integrante / Routo Terada - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento CientÃ­fico - Bolsa.Número de produções C, T & A: 12
+2000 - 2001
+Criptossistemas Caóticos
+Descrição: Está-se estudando a viabilidade de se usar séries caóticas como chave de encriptação. Assim poder-se-ia usar o "one time pad" como técnica eficiente de encriptação. O projeto de pesquisa visa a construção de criptossistemas caóticos e a compração de vários requisitos com os cifradores simétricos de bloco.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Mehran Misaghi - Coordenador / Ricardo Felipe Custódio - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 2

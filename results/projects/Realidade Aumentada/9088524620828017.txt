@@ -1,0 +1,104 @@
+2017 - 2019
+Soluções em ?Indústria 4.0? aplicadas à Mineração
+Descrição: Com base nas plataformas tecnológicas relacionadas à manufatura avançada, objetiva-se identificar e desenvolver soluções inovadoras para proporcionar as mudanças necessárias para aumento da produtividade, segurança, eficiência e competitividade da indústria mineral, voltadas para as operações no estado do Pará.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Ronaldo de Freitas Zampolo - Integrante / Luciano Mousinho Rodrigues - Integrante / Schubert Ribeiro de Carvalho - Integrante / Ana Cláudia Gomes da Silva - Coordenador / Gustavo Pessin - Integrante / Joner Oliveira Alves - Integrante.Número de produções C, T & A: 2
+2017 - Atual
+Uso de modelos de atenção visual na melhoria de desempenho de sistemas de eye/gaze-tracking: aplicações em tecnologia assistiva e crowdsourcing
+Descrição: Este projeto investiga o potencial da associação entre modelos de atenção visual e sistemas de
+eye/gaze tracking de baixo custo, visando a melhoria de qualidade deste último. A seguir, pretende-
+se contextualizar o projeto mediante breve revisão bibliográfica sobre eye/gaze-tracking, modelos de
+atenção visual, e as tentativas recentes de seu uso combinado.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (2) . Integrantes: Ronaldo de Freitas Zampolo - Coordenador / Valquiria Gusmão Macêdo - Integrante / Nelson Cruz Sampaio Neto - Integrante / Patrick Le Callet - Integrante / Matthieu Perreira da Silva - Integrante.Número de produções C, T & A: 7
+2017 - Atual
+Avaliação de qualidade visual aplicada a imagens de tomografia computadorizada
+Descrição: O desenvolvimento de métricas e metodologias para avaliação de qualidade visual é uma área de
+pesquisa de grande atividade. Tal atividade é explicada, em grande parte, pela redução de custo
+relativo na implementação de sistemas computacionais, bem como pelo crescente número de si-
+tuações cotidianas em que imagens digitais desempenham um papel central. Dentre essas aplicações,
+destacam-se os sistemas de imagens médicas com importância cada vez maior no suporte tanto à
+diagnose quanto ao tratamento de variadas patologias. Não obstante haver uma grande variedade
+de métricas para avaliação de qualidade visual propostas na literatura especializada, a maioria dessas
+métricas não foi desenvolvida ou teve seu desempenho avaliado em um contexto em que o principal
+fator de interesse seria identificar a manutenção ou a perda da qualidade clı́nica de imagens em
+decorrência de degradações diversas. Este projeto investiga modelos que permitam melhor caracte-
+rizar a qualidade clı́nica de imagens médicas submetidas à compressão. A opção por se trabalhar
+com sistemas de compressão de imagens se deve à necessidade crescente de otimização dos recursos
+de armazenamento digital de dados em centros hospitalares. Inicialmente, pretende-se realizar uma
+análise comparativa de desempenho considerando as principais métricas de avaliação de qualidade
+visual já propostas. Em seguida, são previstos dois desdobramentos: a) desenvolvimento de novas
+métricas, especı́ficas para a caracterização de qualidade clı́nica; e b) desenvolvimento de estratégias
+de compressão voltadas para imagens médicas. Para tanto, há necessidade de se criar um banco
+de dados de imagens médicas avalidadas por especialistas que possa servir como referência na apre-
+ciação do desempenho das métricas de qualidade visual testadas. Nesse sentido, este projeto propõe
+também uma metodologia de coleta desses dados (avaliações de imagens médicas feitas por es-
+pecialistas). Em particular, foi definido um procedimento de coleta de dados usando imagens de
+tomografia computadorizada, sujeitas à compressão JPEG/JPEG2000. O procedimento foi baseado
+em diretrizes do European Guidelines on Quality Criteria for Computed Tomography, da Internatio-
+nal Telecommunication Union, bem como no método de avaliação conhecido como Visual Grading
+Characteristics (VGC). Os resultados esperados incluem: um estudo comparativo sobre o desempe-
+nho de métricas de avaliação de qualidade previamente propostas na literatura especializada, à luz
+dos dados adquiridos neste projeto; o desenvolvimento de novas métricas de qualidade visual es-
+pecı́ficas para imagens de tomografia computadorizada; e a elaboração de estratégias de compressão
+de imagens otimizadas para que não haja perda de qualidade clı́nica. Os elementos deste projeto de
+pesquisa compreendem: identificação; descrição da equipe executora; introdução contendo revisão
+bibliográfica; declaração de hipótese; relação de objetivos pretendidos; metodologia; descrição das
+atividades e metas; cronograma de execução; e referências bibliográficas.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Ronaldo de Freitas Zampolo - Coordenador / Fernando Antonio Silva Rocha - Integrante.Número de produções C, T & A: 4
+2017 - Atual
+Desenvolvimento de phantom tridimensional para estudos de estratégias voltadas à formação de recursos humanos em engenharia forenses
+Descrição: O projeto tem como objetivo desenvolver phantom tridimensional baseado-se em
+evidências de periciais para observar o comportamento de diferentes tipos de fibra óptica com
+aplicação para monitoramento estrutural.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo de Freitas Zampolo - Coordenador / José Alberto Silva de Sá - Integrante / Luiz Moreira Gomes - Integrante / Cindy Stella Fernandes - Integrante / Fernanda Carla Lima Ferreira - Integrante.
+2016 - 2017
+Sobre o uso de modelos de atenção visual em sistemas de eye/gaze- tracking: impactos sobre custo e desempenho
+Descrição: Dispositivos de eye/gaze-tracking são essencialmente sistemas usados para medir movimentos ocu-
+lares e determinar a direção do olhar de um usuário. Tais dispositivos tomam parte em aplicações
+atuais importantes, que incluem, por exemplo, pesquisa sobre processos cognitivos, estudos clı́nicos,
+estratégias de publicidade, e interfaces para facilitar a interação humano-computador. O desempe-
+nho de sistemas eye-gaze tracking está relacionado a limiares e parâmetros dependentes do usuário
+e do ambiente de utilização, os quais são otimizados durante a fase de calibração que antecede
+a operação propriamente dita. Sistemas comerciais devem sua eficiência a dois principais fatores:
+equipamentos de aquisição de imagem de custo e qualidade elevados; e/ou condições de operação
+controladas em maior ou menor grau. No sentido de disseminar o uso de sistemas de eye/gaze-
+tracking, esforços recentes na área têm se concentrado no desenvolvimento de novas estratégias
+para tornar as condições de uso mais flexı́veis, bem como reduzir o custo do aparato necessário sem
+que haja demasiada diminuição dos nı́veis de desempenho. O presente projeto está alinhado com
+esse propósito e trata, especificamente, da adaptação de modelos de atenção visual em sistemas de
+eye/gaze-tracking. As atividades previstas constituem continuação do estágio de pós-doutorado de-
+senvolvido pelo coordenador na Polytech?Nantes (escola de engenharia da Universidade de Nantes)
+no perı́odo de 01 de junho de 2015 a 31 se julho de 2016 sob a supervisão dos Profs. Patrick Le
+Callet e Matthieu Perreira da Silva. Dentre os objetivos visados, pode-se destacar (1) a melhoria da
+relação geral de compromisso entre custo e desempenho e (2) o aumento de acurácia na estimativa
+do ponto de olhar (POR, point of regard ) para uma dada configuração de hardware. A metodologia
+de avaliação de desempenho das estratégias propostas pressupõe a coleta de dados experimentais
+usando um eye-tracker de alto-padrão, que fornecerá os sinais de referência (REF), a implementação
+ou adaptaçao de estratégias de eye-tracking (ET) baseadas em luz visı́vel e webcams, inclusão de
+modelos de atenção visual (MAV) nos eye-trackers implementados (ET+MAV), e a comparação
+entre os dados de referência e os provenientes dos sistemas implementados (comparação entre REF,
+ET e ET+MAV) em termos de POR estimado. Análises de desempenho considerarão principalmente
+os aspectos relacionados à complexidade computacional e a acurácia do POR estimado para cada
+uma das estratégias testadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Ronaldo de Freitas Zampolo - Coordenador / Patrick Le Callet - Integrante / Matthieu Perreira da Silva - Integrante.Número de produções C, T & A: 4
+2015 - Atual
+Desenvolvimento de software para investigação em física forense: cálculo de velocidades em acidentes de transito
+Descrição: Objetivo deste projeto é desenvolver um aplicativo voltado para a perícia forense e
+segue um protocolo que possibilita ao perito criminal, mesmo aquele sem formação em física,
+estimar as velocidades de veículos envolvidos em colisões e atropelamentos no trânsito. SCTA
+utiliza conceitos básicos de mecânica clássica, considera diferentes coeficientes de atrito e leva
+em conta as avarias e as características dos veículos envolvidos. Isso permite determinar as
+velocidades nas mais distintas situações de acidente. O software segue uma filosofia open source,
+possibilitanto implementar novas situações de acidentes. Finalmente, como dados de entrada,
+SCTA depende apenas de poucas medidas realizadas no momento do levantamento pericial. Isso
+evita observações desnecessárias, otimiza e assegura confiabilidade da perícia forense.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ronaldo de Freitas Zampolo - Coordenador / José Alberto Silva de Sá - Integrante / Luiz Moreira Gomes - Integrante / Fernanda Carla Lima Ferreira - Integrante.
+2012 - 2015
+Desenvolvimento de um sistema de monitoramento e diagnóstico on-line de descargas parciais nos enrolamentos estatóricos de hidrogeradores.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Ronaldo de Freitas Zampolo - Integrante / Victor Dmitriev - Coordenador / Rodrigo Melo e Silva de Oliveira - Integrante.Número de produções C, T & A: 5
+2012 - 2015
+Sistemas de análise de satélite para monitoria de desflorestamento e ocupação humana em áreas de exploração mineral
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Ronaldo de Freitas Zampolo - Integrante / Evaldo Gonçalves Pelaes - Coordenador / Ana Carolina Quintão Siravenha - Integrante.
+2008 - 2012
+Implementação de Laboratório de Análise de Marcha de Baixo Custo para Auxilio na Reabilitacao de Criancas Portadoras de Encefalopatia Nao-Evolutiva
+Descrição: Desenvolvimento de sistema de aquisicao e analise de sinais eletromiograficos e de video para analise de marcha, com o objetivo de auxiliar na reabilitacao de criancas com paralisia cerebral.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ronaldo de Freitas Zampolo - Coordenador / Eurípedes P. dos Santos - Integrante / Agostinho Luiz Silva Castro - Integrante / Manoel Ribeiro Filho - Integrante.Financiador(es): Fundação Amazônia Paraense de Amparo à Pesquisa - Auxílio
+										financeiro / Hospital Divina Providencia - Cooperação.
+2006 - 2008
+Tecnicas avancadas para qualificacao de enlace DSL
+Descrição: Desenvolvimento de tecnicas para estudo de viabilidade e caracterizacao de linhas visando o provimento de servicos de transmissao digital de banda larga (DSL). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Ronaldo de Freitas Zampolo - Integrante / Agostinho Luiz Silva Castro - Integrante / Gervásio Protásio dos Santos Cavalcante - Integrante / Joao Crisostomo Weyl Albuquerque Costa - Coordenador.Financiador(es): Ericsson do Brasil Comércio e Indústria S/A - Cooperação / Fundação de Amparo e Desenvolvimento da Pesquisa do Pará - Bolsa.
+2004 - 2006
+Desenvolvimento de Modelos para Gerenciamento Dinâmico do Espectro em Serviços de Linha Digital de Assinante
+Descrição: Pesquisa e desenvolvimento em tecnologias para gerenciamento dinêmico de espectro, visando melhora de performance em sistemas xDSL.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Ronaldo de Freitas Zampolo - Integrante / Aldebaro da Rocha Klautau Junior - Coordenador / Evaldo Gonalves Pelaes - Integrante / Gervásio Cavalcante - Integrante.Financiador(es): Fundação de Amparo e Desenvolvimento da Pesquisa do Pará - Bolsa / Universidade Estadual de Campinas - Cooperação / Ericsson do Brasil Comércio e Indústria S/A - Cooperação.Número de produções C, T & A: 5

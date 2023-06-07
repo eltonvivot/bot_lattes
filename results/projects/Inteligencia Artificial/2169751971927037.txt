@@ -1,0 +1,105 @@
+2019 - Atual
+VALIDAÇÃO, OTIMIZAÇÃOEUSABILIDADEDESIMULAÇÃOAEVENTOSDISCRETOSAPLICADOSNA INDÚSTRIA
+Descrição: Apresente proposta de pesquisa visa o desenvolvimento da área de simulação a eventos discretos no que tange ás subáreas de validação, otimização e usabilidade
+por realidade virtual, subáreas estas que compõemparte importante do processo de simulação quando aplicado emproblemas de origemindustrial.Apesquisa busca
+tambémverificar se a integração destas técnicas mencionadas contribuemefetivamente para o desenvolvimento e aplicação da Indústria 4.0. Oprojeto conta coma
+participação efetiva de professores e alunos do Programa de Pós-Graduação emEngenharia de Produção daUniversidade Federal de Itajubá. Como resultados
+primários, são esperados o desenvolvimento científico e a divulgação nos meios acadêmicos de difusão pertinentes. Secundariamente, esse processo auxilia em
+primeira instância no desenvolvimento de pesquisadores na forma de mestre e doutores que serão os disseminadores de conhecimento na academia e/ou indústria,
+desenvolvendo o parque tecnológico nacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado profissional: (1)  / Doutorado: (4) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / José Hamilton Chaves Gorgulho Júnior - Integrante / Fabiano Leal - Integrante / Tabata Fernandes Pereira - Integrante / Fernanda Rocha - Integrante / Mona Liza Moura de Oliveira - Integrante / Paula Carneiro Martins - Integrante / Afonso Teberga Campos - Integrante / QUEIROZ, JOSÉ ANTONIO DE - Integrante / Gustavo Teodoro Gabriel - Integrante / TRIGUEIRO DE SOUSA JUNIOR, WILSON - Integrante / MIRANDA, R. DE C. - Integrante / PINHO, ALEXANDRE - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - Atual
+VALIDAÇÃO, OTIMIZAÇÃO E USABILIDADE DE SIMULAÇÃO A EVENTOS DISCRETOS APLICADOS NA INDÚSTRIA
+Descrição: Apresente proposta de pesquisa visa o desenvolvimento da área de simulação a eventos discretos no que tange ás subáreas de validação, otimização e usabilidade
+por realidade virtual, subáreas estas que compõemparte importante do processo de simulação quando aplicado emproblemas de origemindustrial.Apesquisa busca
+tambémverificar se a integração destas técnicas mencionadas contribuemefetivamente para o desenvolvimento e aplicação da Indústria 4.0. Oprojeto conta coma
+participação efetiva de professores e alunos do Programa de Pós-Graduação emEngenharia de Produção daUniversidade Federal de Itajubá. Como resultados
+primários, são esperados o desenvolvimento científico e a divulgação nos meios acadêmicos de difusão pertinentes. Secundariamente, esse processo auxilia em
+primeira instância no desenvolvimento de pesquisadores na forma de mestre e doutores que serão os disseminadores de conhecimento na academia e/ou indústria,
+desenvolvendo o parque tecnológico nacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / Tabata Fernandes Pereira - Integrante / Fernanda Rocha - Integrante / Mona Liza Moura de Oliveira - Integrante / Gustavo Teodoro Gabriel - Integrante / TRIGUEIRO DE SOUSA JUNIOR, WILSON - Integrante / TEBERGA CAMPOS, AFONSO - Integrante / MIRANDA, R. DE C. - Integrante / Tanita Caroline Pires Maciel - Integrante / GOMES, JOSÉ HENRIQUE - Integrante / PINHO, ALEXANDRE - Integrante / Carlos Henrique dos Santos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2018
+Aplicação da simulação a eventos discretos para o desenvolvimento de linha de produção em uma empresa de alta tecnologia
+Descrição: O objeto deste projeto consiste em desenvolver um projeto de simulação que permita a avaliação da linha de produção e também documentação de processos e dados de entrada que poderão ser inseridos no sistema de gestão integrado da empresa possibilitando melhores decisões gerenciais. Os modelos computacionais desenvolvidos servirão para auxiliar decisões de investimentos necessárias para atender demandas futuras da empresa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (2) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / Fabiano Leal - Integrante / José Antônio de Queiroz - Integrante.
+2015 - 2017
+Combinação da simulação a eventos discretos e simulação baseada em agentes para melhorias no processo de tomada de decisões
+Descrição: Financiado pela FAPEMIG, com o número de outorga TEC - PPM-00512-15, com o prazo de execução do projeto de 24 meses e valor do apoio aprovado de R$ 50.400,00.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: José Arnaldo Barra Montevechi - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2016
+Simulação a eventos discretos e sua integração a outras técnicas para melhorias no processo de tomada de decisões
+Descrição: CHAMADA UNIVERSAL ? MCTI/CNPq N0 14/2014
+Resumo:
+Analisar o efeito de mudanças nos sistemas produtivos de forma eficiente e rápida é um problema que se apresenta atualmente. Este tema é particularmente importante para o Brasil. País constantemente criticado quanto a sua produtividade. Esta pesquisa intitulada: Simulação a eventos discretos e sua integração a outras técnicas para melhorias no processo de tomada de decisões, pretende ser uma ajuda a esta questão. As ?outras técnicas? citadas no título, além da simulação a eventos discretos, serão principalmente: otimização, projeto de experimentos e o mapeamento de processos que são técnicas que podem ser aplicadas nesses sistemas e ajudar na melhoria de suas produtividades e tomada de decisão. Estas técnicas são consagradas e usadas normalmente de forma individual para avaliar e propor melhorias nas empresas. O objetivo principal desta pesquisa será o de analisar o uso integrado destas técnicas em sistemas de manufatura, buscando uma maior eficiência e velocidade na obtenção de respostas para a tomada de decisões estratégicas nas empresas. Também se espera como resultados um avanço no estado da arte deste tema, tanto quanto aos aspectos científicos, tecnológicos e de inovação no país, além da consolidação do Grupo de Pesquisa NEAAD - Núcleo de Estudos Avançados para Auxílio à Decisão do Instituto de Engenharia de Produção e Gestão (IEPG) da Universidade Federal de Itajubá (UNIFEI). Desta forma, pretende-se desenvolver uma metodologia para aplicação destas técnicas, de forma a utilizar o potencial de cada uma de maneira integrada. Esta metodologia será reforçada com a aplicação em objetos de estudo em empresas da região. Também é escopo deste trabalho desenvolver formas de inserir a metodologia criada no ambiente acadêmico, através de técnicas de ensino, envolvendo graduação e pós-graduação, assim como, a continuidade de alguns desenvolvimentos de aplicações de simulação a eventos discretos, projeto de arranjo físico e sistemas de apoio à decisão que consistem em ferramentas que também são estudadas pelos pesquisadores do NEAAD.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (7)  / Doutorado: (5) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / José Hamilton Chaves Gorgulho Júnior - Integrante / Fabiano Leal - Integrante / Carlos Eduardo Correa Molina - Integrante / André Luiz Medeiros - Integrante / OLIVEIRA, M.L.M. - Integrante / LIMA, J.P. - Integrante / Gomes, J.H.F. - Integrante / Alexandre Ferreira de Pinho - Integrante / José Antônio de Queiroz - Integrante / Tabata Fernandes Pereira - Integrante / Fabio Favaretto - Integrante / Fernanda Rocha - Integrante / Marcelo Machado Mendonca - Integrante / MIRANDA, RAFAEL DE CARVALHO - Integrante / David Custódio de Sena - Integrante / Renato Pontes Rodrigues - Integrante / Graziana Donata Punzi de Siqueira - Integrante / Elisa Maria Melo Silva - Integrante / Ana Paula Rennó da Costa - Integrante / Gabriele Lacerda Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2017
+Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora DT2
+Descrição: Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora ‐ DT 2013. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Arnaldo Barra Montevechi - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - 2015
+APLICATIVO COMPUTACIONAL PARA AUXÍLIO NA ETAPA DE MODELAGEM CONCEITUAL COM O USO DA TÉCNICA IDEF-SIM
+Descrição: O principal objetivo deste projeto é o desenvolvimento de aplicativo para tablets visando o auxilio na modelagem conceitual, que facilitem a obtenção de modelos computacionais para simulação a eventos discretos, foi aprovado em dezembro de 2012 com recursos da ordem de R$30.000,00, foi aprovado no Programa de Incentivo à Inovação (PII). Programa financiado pelo SEBRAE, Governo de Minas e FAPEMIG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / Tabata Fernandes Pereira - Integrante.
+2013 - 2015
+SIMULAÇÃO A EVENTOS DISCRETOS E SUA INTEGRAÇÃO A OUTRAS TÉCNICAS PARA MELHORIAS NO PROCESSO DE TOMADA DE DECISÕES
+Descrição: PROGRAMA PESQUISADOR MINEIRO ? PPM VII
+Apoiar, através da concessão de cotas financeiras mensais (grant), os planos de trabalho, coordenados por pesquisadores ou tecnólogos, inerentes a projetos de pesquisa científica e/ou tecnológica em desenvolvimento, financiados por instituições de fomento à pesquisa.
+Apoio aprovado: R$48.000,00.
+O objetivo principal desta pesquisa é o de continuar a estudar a simulação de processos
+de produção, em conjunto com a otimização de parâmetros relevantes no processo
+produtivo, analisando através do projeto de experimentos, quais variáveis são as que
+devem participar dos modelos, acrescidos de aspectos econômicos e do fator humano.
+A pesquisa verificará se o uso combinado do projeto de experimento, da simulação a
+eventos discretos, da otimização, consideração de aspectos econômicos e humanos pode
+trazer resultados significativos para a gestão de operações da organização, propondo
+uma metodologia e recomendações para o uso integrado destas ferramentas.
+Também se pesquisará o desenvolvimento de um método combinado para otimização
+multiobjetivo de modelos de simulação a eventos discretos por meio de metamodelos.
+Este último objetivo, se bem-sucedido representará em grande avanço nos estudos da
+simulação combinada com a otimização no meio científico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Arnaldo Barra Montevechi - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2011 - 2013
+A CONSIDERAÇÃO DOS ASPECTOS HUMANOS E ECONÔMICOS NA SIMULAÇÃO A EVENTOS DISCRETOS, SOB A ÓTICA DA OTIMIZAÇÃO E PROJETO DE EXPERIMENTOS
+Descrição: PROGRAMA PESQUISADOR MINEIRO ? PPM V
+Apoiar, através da concessão de cotas financeiras mensais (grant), os planos de trabalho, coordenados por pesquisadores ou tecnólogos, inerentes a projetos de pesquisa científica e/ou tecnológica em desenvolvimento, financiados por instituições de fomento à pesquisa.
+Apoio aprovado: R$48.000,00.
+O objetivo principal desta pesquisa é o de continuar a estudar a simulação de processos
+de produção, em conjunto com a otimização de parâmetros relevantes no processo
+produtivo, analisando através do projeto de experimentos, quais variáveis são as que
+devem participar dos modelos, acrescidos de aspectos econômicos e do fator humano.
+A pesquisa verificará se o uso combinado do projeto de experimento, da simulação a
+eventos discretos, da otimização, consideração de aspectos econômicos e humanos pode
+trazer resultados significativos para a gestão de operações da organização, propondo
+uma metodologia e recomendações para o uso integrado destas ferramentas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Arnaldo Barra Montevechi - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2009 - 2011
+Aplicação de mapeamento de processos, projeto de experimentos, simulação e otimização no processo de tomada de decisões
+Descrição: Analisar o efeito de mudanças nos sistemas produtivos de forma eficiente e rápida é um problema que se apresenta atualmente. A simulação, otimização, projeto de experimentos e o mapeamento de processos são técnicas que podem ser aplicadas nesses sistemas. Estas técnicas são consagradas e usadas normalmente de forma individual para avaliar e propor melhorias nas empresas. O objetivo principal desta pesquisa será o de analisar o uso integrado destas técnicas em modernos sistemas de manufatura, buscando uma maior eficiência e velocidade na obtenção de respostas para a tomada de decisões estratégicas nas empresas e consolidar o Grupo de Pesquisa NEAAD - Núcleo de Estudos Avançados para Auxílio à Decisão do Instituto de Engenharia de Produção e Gestão da Universidade Federal de Itajubá. Desta forma, pretende-se desenvolver uma metodologia para aplicação destas técnicas, de forma a utilizar o potencial de cada uma de maneira integrada. Esta metodologia será reforçada com a aplicação em objetos de estudo em empresas da região. Além da preocupação com a aplicação prática, também é escopo deste trabalho desenvolver formas de inserir a metodologia criada no ambiente acadêmico, através de técnicas de ensino, envolvendo graduação e pós-graduação, assim como, a continuidade de alguns desenvolvimentos de aplicações de algoritmo genético, projeto de arranjo físico e sistemas de apoio à decisão que consistem em ferramentas que também são estudadas pelos pesquisadores do NEAAD. 
+Dados do projeto:
+Financiamento: FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE MINAS GERAIS - FAPEMIG
+MODALIDADE: ?EDITAL 07/2009 - GRUPOS EMERGENTES DE PESQUISA?
+PROCESSO Nº. :  TEC - APQ-02734-09
+PRAZO DE EXECUÇÃO DO PROJETO: 24 MESES
+VALOR DO APOIO: R$ 94.085,54. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (6)  / Doutorado: (2) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / José Hamilton Chaves Gorgulho Júnior - Integrante / Fabiano Leal - Integrante / Andrea Aparecida da Costa Mineiro - Integrante / Carlos Eduardo Correa Molina - Integrante / Paiva, A P - Integrante / André Luiz Medeiros - Integrante / LIMA, J.P. - Integrante / Alexandre Ferreira de Pinho - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2011
+Aplicação integrada da simulação de eventos discretos e otimização para apoio a manufatura de uma empresa de alta tecnologia
+Descrição: Os dois projetos previstos nesta pesquisa são:
+Projeto 01: Incorporar nos modelos de simulação existentes, desenvolvidos em pesquisa anterior, aspectos de custos;
+Projeto 02: Desenvolver um modelo de simulação válido para o controle de qualidade final dos produtos da empresa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / Fabiano Leal - Integrante / Luiz Guilherme Azevedo Mauad - Integrante / Alexandre Ferreira de Pinho - Integrante / Edson de Oliveira Pamplona - Integrante.Financiador(es): Padtec - Optical Components and Systems - Auxílio
+										financeiro.
+2008 - 2010
+Desenvolvimento de uma metodologia para planejamento das inspeções de baixa, média e alta tensão com objetivo de otimizar a recuperação de perdas não técnicas
+Descrição: Realizar uma Pesquisa (visando otimização de processo) da qual resultará a construção de um modelo matemático da situação física do problema das perdas financeiras decorrentes das perdas não técnicas de uma empresa do setor elétrico. Este modelo será definido como uma representação idealizada do sistema organizacional existente na empresa e implementado em software a ser desenvolvido.
+Serão analisadas as operações atuais do sistema para verificar sua performance e propor um modelo que possa dar diretrizes quantitativas para as inspeções de unidades consumidoras de baixa, média e alta tensão a serem realizadas pela empresa a cada ano com o objetivo de otimizar a recuperação financeira de perdas não técnicas da empresa em relação ao investimento necessário em inspeções. Desta forma, a atividade de fiscalização terá diretrizes para se viabilizar economicamente e maximizar os seus resultados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / André Luiz Medeiros - Integrante.Financiador(es): CEMIG Distribuidora - Auxílio
+										financeiro.
+2007 - 2009
+ESTUDO SOBRE A APLICAÇÃO INTEGRADA DE PROJETO DE EXPERIMENTOS, SIMULAÇÃO DE EVENTOS DISCRETOS E OTIMIZAÇÃO EM CÉLULAS DE MANUFATURA
+Descrição: Edital FAPEMIG 03/2007
+Programa Pesquisador Mineiro ? PPM. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Arnaldo Barra Montevechi - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2007 - 2008
+Aplicação integrada da simulação de eventos discretos e otimização para apoio a manufatura de uma empresa de alta tecnologia
+Descrição: O objetivo deste projeto é a simulação de processos de produção e em conjunto otimizar questões que serão detectadas como relevantes no processo produtivo de uma empresa de alta tecnologia. É verificado se o uso combinado da simulação de eventos discretos e da otimização pode trazer resultados significativos para a gestão de operações da organização, propondo uma metodologia e recomendações para o uso integrado destas ferramentas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / Fabiano Leal - Integrante / Luiz Guilherme Azevedo Mauad - Integrante / Alexandre Ferreira de Pinho - Integrante / Edson de Oliveira Pamplona - Integrante.Financiador(es): Padtec - Optical Components and Systems - Auxílio
+										financeiro.Número de produções C, T & A: 10
+2006 - Atual
+Primeiro termo aditivo ao convênio entre a UNESP e a UNIFEI para realização conjunta da pesquisa na área de simulação
+Descrição: O Termo Aditivo tem por objetivo estabelecer uma pesquisa em conjunto com as referidas universidades.
+A área de concentração desta pesquisa é a simulação, visando o fortalecimento desta linha de pesquisa no programa de mestrado em Engenharia de Produção da UNIFEI e no programa de doutorado em Engenharia Mecânica da UNESP.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (3) . Integrantes: José Arnaldo Barra Montevechi - Coordenador / Fabiano Leal - Integrante / Dagoberto Alves de Almeida - Integrante / Alexandre Leme Sanches - Integrante / Sebastião Carlos da Costa - Integrante / João Roberto Ferreira - Integrante / Alexandre Ferreira de Pinho - Integrante.Financiador(es): Faculdade de Engenharia de Guaratinguetá - Cooperação / Universidade Federal de Itajubá - Auxílio
+										financeiro.Número de produções C, T & A: 1

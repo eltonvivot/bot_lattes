@@ -1,0 +1,31 @@
+2017 - Atual
+Ubique
+Descrição: O projeto Ubique tem como objetivo estabelecer uma rede de sensores sem fio, utilizando o protocolo WiFi e o microcontrolador Espressif ESP8266, com o intuito de prover soluções de automação tais como controle de acesso, monitoramento e controle de dispositivos e aparelhos para o desenvolviumento de smart building.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Eudisley Gomes dos Anjos - Coordenador / Gabriel Gutierrez Pereira Soares - Integrante / Alex da Silva Cavalcante - Integrante / Theofilo da Silva Ribeiro - Integrante.
+2017 - Atual
+Canary Project
+Descrição: O projeto Canary visa o desenvolvimento de um ambiente móvel para verificação e monitoramento da qualidade do ar através de medidas de índice dos poluentes, temperatura, umidade e níveis de poluição sonora.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Eudisley Gomes dos Anjos - Coordenador / Lincoln David Nery e Silva - Integrante / Walsan Jadson de Lima - Integrante / Otávio Mota de Oliveira - Integrante / Lucas Fleig Culleton - Integrante / Alisson Yury Dutra de Medeiros - Integrante.
+2016 - 2016
+Culturi
+Descrição: Desenvolvimento de aplicativos do Ministério da Cultura para as olimpíadas e Paralimpíadas, a aplicação com o conjunto dos aplicativos desenvolvidos será denominada ?Ondas de Cultura?.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (30)  / Mestrado acadêmico: (6) . Integrantes: Eudisley Gomes dos Anjos - Integrante / Lincoln David Nery e Silva - Integrante / Thais Galdêncio do Rego - Coordenador / Guido Lemos de Souza Filho - Integrante.
+2015 - 2016
+UrbemBee
+Descrição: O projeto UrbemBee consiste em um sistema que engloba essas duas vertentes mencionadas nos problemas anteriores, através de baixo custo, baixo consumo e praticidade. Os objetivos principais da proposta consistem em monitoras as zonas climáticas dos centros urbanos e ao mesmo tempo criar uma rede de monitoramento veicular para os transportes públicos através de um produtode baixo custo e que possa ser facilmente implementado aos atuais veículos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eudisley Gomes dos Anjos - Coordenador / danielle rousy dias da silva - Integrante / Fernando Menezes Matos - Integrante / Jessica Castro - Integrante / Iury Araujo - Integrante / Joanacelle Bandeira - Integrante / Letícia Ismael - Integrante.
+2013 - 2013
+Ensino de Linguagem de Programação no Ensino Fundamental e Médio: Ampliando o Acesso através da EAD
+Descrição: O intuito é ensinar linguagem de programação à alunos do ensino fundamental e médio utilizando plataformas de EAD. A meta consiste em incentivar e preparar os alunos para a Olimpíada Brasileira de Informática utilizando o material desenvolvido.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Eudisley Gomes dos Anjos - Integrante / Valéria Gonçalves Soares - Coordenador.
+2013 - 2013
+Implementando melhorias de interação na UFPB Virtual
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Eudisley Gomes dos Anjos - Coordenador.
+2013 - 2013
+Universidade Ubíqua - U2: Implementando melhorias de interação na UFPB Virtual
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Eudisley Gomes dos Anjos - Coordenador / danielle rousy dias da silva - Integrante.
+2012 - 2018
+RailBee
+Descrição: RailBee consiste em um sistema que permite visualizar informações estratégicas para monitoramento de trens, como posição, velocidade e estimativa de passageiros em qualquer instante e de qualquer veículo. Por meio da disponibilidade e análise contínua dos dados, é possível tomar decisões de forma mais rápida e segura em relação a manutenção e tráfego, visando melhorar a qualidade dos serviços prestados aos usuários.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Eudisley Gomes dos Anjos - Coordenador / Abel Cavalcante Lima Filho - Integrante / Francisco Antonio Belo - Integrante / danielle rousy dias da silva - Integrante / Romulo Araujo - Integrante.
+2010 - 2016
+Affidavit - Automating the Proof of Quality Atributes for Large Scale Software Systems
+Descrição: The Affidavit project is part of a major international effort (USA/EU) to develop tools and techniques to promote the widespread adoption of sound architectural practices in software engineering community, therefore aiming to increase global software quality.
+http://affidavit.dei.uc.pt/. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eudisley Gomes dos Anjos - Coordenador.
+2009 - 2010
+GINSENG
+Descrição: Research on wireless sensor networks (WSNs) has mainly been focused on protocols and architectures for applications in which network performance assurances are not considered essential, such as agriculture and environmental monitoring. However, for many important areas, such as plant automation and health monitoring, performance assurances are crucial, especially for metrics such as delay and reliability.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eudisley Gomes dos Anjos - Coordenador.

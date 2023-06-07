@@ -1,0 +1,7 @@
+2017 - 2022
+A 3D radiomics-based artificial neural network model to vertebral compression fractures classification in MRI exams
+Descrição: The differential diagnosis of non-traumatic vertebral compression fractures (VCFs) has been
+the subject of research for more than 20 years and still presents challenges for radiologists. Quantitative
+features extracted from images have the potential to help the diagnosis independently of characteristics
+visually perceptible. Our proposal is to investigate if radiomic features and an artificial neural network
+can differentiate benign from malignant vertebral compression fractures in MRI.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Natália Santana Chiari Correia - Coordenador / Marcello Henrique Nogueira Barbosa - Integrante / Paulo Mazzoncini de Azevedo Marques - Integrante.

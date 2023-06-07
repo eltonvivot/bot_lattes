@@ -1,0 +1,76 @@
+2020 - Atual
+CARTOGRAFIA SOCIAL E OS BENEFÍCIOS DO CONCEITO BASE ZERO ATRAVÉS DE IMAGENS DE SATÉLITES NOS TERRITÓRIOS DA FUNDAÇÃO TERRA E DA FAZENDA CAROÁ NOS MUNICÍPIOS DE ARCOVERDE E AFOGADOS DA INGAZEIRA ? PE.
+Descrição: O projeto chamado Base Zero efetivamente consegue realimentar o lençol freático de uma região a partir do barramento com barragem de pedras arrumadas, no leito da linha dágua principal de uma nano bacia hidrográfica. Este projeto de pesquisa visa definir uma metodologia eficaz de localização e determinação dos parâmetros geométricos de nano bacias adequadas ao Base Zero, com uso de imagens de satélites da empresa Planet, combinadas com um MDT.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Daniel Carneiro da Silva - Coordenador / José Artur Padilha - Integrante / Nathalia Rose Silva da Purificação - Integrante / Renata Miranda da Silva - Integrante.
+2014 - 2014
+Capacitação e aplicação de princípios da Portaria 511/MCidades em municípios de pequeno porte
+Descrição: A implantação do CTM é um processo complexo que envolve ações administrativas, legais e técnicas, consideradas inviáveis por municípios com pouca disponibilidade de recursos financeiros e capital humano capacitado, por isso optou-se por limitar as ações deste programa à identificação de alternativas que viabilizem a implementação de CTM em municípios de pequeno porte (com população menor que 20 mil habitantes). Os municípios brasileiros têm realidades bem diferentes. No Censo de 2010 (IBGE, 2010) os municípios com até vinte mil habitantes correspondiam a 73,56% do total. PIMENTEL (2011) apresenta os resultados da pesquisa desenvolvida no âmbito do grupo coordenador deste programa e aponta que a maioria destes municípios é carente de recursos e funcionários capacitados. Tais municípios contam com informações do cadastro disposta em formulários em papel, poucos funcionários, praticamente sem equipamentos (tem município que não dispõe de computador para organização do cadastro), com pouca ou nenhuma informação gráfica. No setor de finanças, é comum, a contratação de empresa terceirizada que implementam o processo de cobrança do IPTU e detêm a base de dados. Deixa-se o setor dependente da empresa terceirizada, sem atualização ou agilidade no gerenciamento das informações. Noutros casos, alguns municípios de médio e grande porte (com população acima de vinte mil, equivalem a 26,44% do total, de acordo com o Censo 2010), são dotados de equipamentos básicos, organizados em setores específicos. Podem sustentar diversas secretarias que lidam com a zona urbana como: obras, urbanismo, habitação dentre outras. Mantém cobrança assídua do IPTU pela valorização dos imóveis (aumento do preço dos imóveis) motivados pela dinamicidade do mercado imobiliário. Com isso, dispõem de condições de ter e atualizar os cadastros, inclusive gerenciando em ambiente SIG.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Carneiro da Silva - Integrante / Andréa Flávia Tenório Carneiro - Coordenador / Cezário de Oliveira Lima Júnior - Integrante.
+2013 - 2017
+SISTEMA DE AQUISIÇÃO DE FOTOGRAFIAS AÉREAS DIGITAIS COM CORREÇÃO DE SOMBRAS DE NUVENS
+Descrição: O objetivo principal do projeto é um sistema de aquisição de imagens aéreas eficiente, de baixo custo, para de obtenção de imagens abaixo de nuvens e capaz de eliminação de sombras fortes.
+	O sistema de aquisição de imagens aéreas deve ser formado por par de câmaras digitais montadas em paralelo, com georreferenciamento direto, e aplicativo para processamento das imagens para redução e eliminação de sombras fortes de nuvens.  
+Os objetivos parciais e metas correspondentes são os seguintes:
+1- montagem de base com integração de duas câmaras em paralelo e calibração
+2-integração de IMU ao corpo da base e calibração
+3-integração de placa de receptor GPS ao corpo da base
+4- sincronismo de tempo entre as unidades
+5- desenvolvimento de método de redução e correção de sombras de nuvens
+6- processamento fotogramétrico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Daniel Carneiro da Silva - Coordenador / Glauber Carvalho da Costa - Integrante / João Bosco Teixeira Junior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2015
+Cooperação Técnico Científica UFPE II COMAR
+Descrição: Cooperação entre a UFPE, por intermédio do Depto Eng Cartográfica, e o II COMAR, pelo 1o/6o GAV (Grupo de Aviação) sediado na Base Aérea de Recife, visando parcerias na área de fotogrametria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Daniel Carneiro da Silva - Coordenador / Simone Saiuri Sato - Integrante.
+2012 - 2017
+SISTEMA DE AQUISIÇÃO DE FOTOGRAFIAS AÉREAS DIGITAIS COM CORREÇÃO DE SOMBRAS DE NUVENS
+Descrição: O problema geral a ser abordado é a limitação que os sistemas aerofotogramétricos enfrentam para operações em levantamentos de áreas nubladas.
+O objetivo principal do projeto é um sistema de aquisição de imagens aéreas eficiente, de baixo custo, para de obtenção de imagens abaixo de nuvens e capaz de eliminação de sombras fortes.
+	O sistema de aquisição de imagens aéreas deve ser formado por par de câmaras digitais montadas em paralelo, com georreferenciamento direto, e aplicativo para processamento das imagens para redução e eliminação de sombras fortes de nuvens.  
+Os objetivos parciais e metas correspondentes são os seguintes:
+1- montagem de base com integração de duas câmaras em paralelo e calibração
+2-integração de IMU ao corpo da base e calibração
+5- desenvolvimento de método de redução e correção
+3-integração de placa de receptor GPS ao corpo da base
+4- sincronismo de tempo entre as unidades
+ de sombras de nuvens
+6- processamento fotogramétrico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Daniel Carneiro da Silva - Coordenador / João Bosco Teixeira Junior - Integrante / Glauber Carvalho da Costa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2012 - 2013
+Nascente Viva
+Descrição: Projeto de recuperação e conservação de matas ciliares e de nascentes do rio Capibaribe. Nesta fase serão consolidados os métodos utilizados em projeto similar na sub-bacia do Natuba, para nascentes do alto Capibaribe em Taquaritinga do Norte, PE. O projeto prever estudos de modelos de conservação e uso sustentado de nascentes para o abastecimento de populações rurais difusas.Projeto aprovado pelo Edital do Fundo Estadual de Recursos Hídricos , Fehidro/2011.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Daniel Carneiro da Silva - Integrante / Ricardo Augusto Pessoa Braga - Coordenador.
+2012 - 2012
+Cadastro territorial multifinalitário na gestão municipal
+Descrição: O Cadastro Territorial Multi_nalitário (CTM) é uma poderosa ferramenta para a gestão
+municipal. Apoiado em programas de geoprocessamento, permite o gerenciamento de informações de secretarias diversas, possibilitando a elaboração de políticas integradas, além de facilitar o acompanhamento das ações da administração pública. 
+O projeto envolve duas linhas principais de desenvolvimento: atividades destinadas à capacitação de técnicos municipais no entendimento dos conceitos da Portaria n.511 do Ministério das Cidades, que trata da implantação de CTM; e teste de metodologias voltadas para o mapeamento e cadastramento de imóveis, com ações desenvolvidas através de um projeto piloto realizado no município de Itaquitinga-PE. A participação de alunos da graduação e pós-graduação proporcion a oportunidade de trabalhar com situações reais numa atividade onde existe carência de profissionais no mercado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daniel Carneiro da Silva - Integrante / Andrá Flavia Tenório Carneiro - Coordenador / Cezário de Oliveira Lima Júnior - Integrante.
+2009 - 2012
+Utilização da Fotogrametria Digital na Avaliação da Expansibilidade Torácica em Indivíduos Submetidos à Reeducação Postural Global
+Descrição: A fisioterapias utiliza para a avaliação cinético-funcional modelos e técnicas de registro manuais com medições pouco precisas, tais como a cirtometria, que consiste de um conjunto de medidas dos perímetros do tórax e abdômen durante os movimentos respiratórios. Com a fotogrametria, que permite medições em 3D com precisão, será possível aperfeiçoar os processos de medição e avaliação, que neste projeto será aplicada para avaliar a expansibilidade torácica de indivíduos submetidos a reeducação postural global.
+O projeto prever o aperfeiçoamento de um sistema para aquisição de imagens digitais, processamento e medições automáticas, e avaliação estatística de séries de medidas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Daniel Carneiro da Silva - Coordenador / Angélica da Silva Tenório - Integrante.Financiador(es): Associação Caruaruense de Ensino Superior - Cooperação / Universidade Federal de Pernambuco - Remuneração.
+2009 - 2012
+Cooperação Técnico-científica entre a UFPE e COMAER-Comando da Aeronáutica por intermédio do COMGAR-Comando Geral de Operações Aéreas
+Descrição: Programa de cooperação visando realização de pesquisas; ensino; intercâmbio de informações técnico-científicas; implementação de projetos e desenvolvimento integrados em áreas de mútuo interesse, em especial aqueles ligados as áreas de sensoriamento remoto e geoprocessamento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Carneiro da Silva - Coordenador / Ana Lúcia Bezerra Candeias - Integrante.
+2009 - 2012
+Modelagem de Cadastro Territorial Visando sua Integração a IDE (Infra-estrutura de Dados Espaciais)
+Descrição: Uma Infra-estrutura de Dados Espaciais ? IDE é um conjunto de políticas, padrões, organizações e recursos tecnológicos que facilitam a produção, o acesso e o uso da informação geográfica para apoiar o desenvolvimento social e econômico de uma região. Um sistema deste porte é capaz de gerenciar bases de dados fundamentais para o apoio à tomada de decisões, à formulação de políticas públicas e planos de desenvolvimento, ordenamento territorial, prevenção de acidentes e monitoramento de recursos naturais. No Brasil, a informação territorial que tem como unidade o imóvel é produzida pelos cadastros territoriais, e está sob responsabilidade municipal em áreas urbanas e responsabilidade federal (INCRA) em áreas rurais. A proposta deste projeto é testar modelos de padrões para os cadastros territoriais que possam ser integrados a IDE?s estaduais ou nacionais, observando-se os conceitos definidos no Decreto 6.666/08. Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Carneiro da Silva - Integrante / Andrea Flavia Tenorio Carneiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2012
+Implantação de um laboratório multi-usuário de avaliação cardio pulmonar através sistema de Plestimografia Optoeletrônica (Optoelectronic plethysmography ? OEP) associada a Ergoespirometria.
+Descrição: A Pletismografia Optoeletrônica (Optoelectronic Plethysmography - OEP) consiste em um sistema recentemente desenvolvido que permite mensuração acurada do volume da parede torácica e seus diferentes compartimentos (caixa torácica superior, caixa torácica inferior e abdômen) em diferentes posições e condições. Este sistema mede as mudanças da forma da parede torácica durante a respiração por meio da construção de um modelo da superfície toracoabdominal com um grande número de pontos referentes a estruturas anatômicas da caixa torácica e do abdômen. As posições tridimensionais e deslocamentos de cada ponto são medidos por meio da utilização de marcadores passivos (hemi-esferas refletivas), sendo as coordenadas destes pontos de referência captadas por um sistema de seis câmeras especiais sincronizadas com luz infravermelha. São três câmeras posicionadas atrás e três a frente do indivíduo. 
+Basicamente o sistema utiliza a fotogrametria digital para as medições em 3D.
+Este projeto tem como objetivos:
+ - Consolidar o programa de pós graduação em Fisioterapia (mestrado recém aprovado pela CAPES) na UFPE através da integração de várias linhas de pesquisa;
+- Intensificar a produção científica e a atuação multidisciplinar; 
+- Estreitar os laços de cooperação científica entre pesquisadores de diversos departamentos da UFPE, do IMIP, da UFRN e da UFMG;
+- Servir como laboratório de referência na avaliação da integração entre os sistemas cardíaco e pulmonar em diversas patologias, frente ao condicionamento físico e diferentes condições nutricionais (desnutridos e obesos);
+- Servir como laboratório de referência na avaliação e reavaliação dos pacientes cardiopatas inseridos no programa de reabilitação cardíaca do Centro Médico Senador José Ermínio de Moraes. Situação: Concluído; Natureza: Pesquisa. Integrantes: Daniel Carneiro da Silva - Integrante / Armele de Fátima Dornelas de Andrade - Coordenador.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2004 - 2012
+Mapeamento com Câmeras Digitais de Pequeno Formato
+Descrição: Avaliação e desenvolvimento de métodos alternativos de baixo custo com câmeras digitais de pequeno formato para mapeamento em aplicações como projetos preliminares de engenharia e em casos de desastres ecológicos.
+Os enfoques principais são calibração da câmera, posicionamento com GPS pós-processado, sistema inercial, processamento fotogramétrico convencional e montagem de mosaicos controlados. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Daniel Carneiro da Silva - Coordenador.Número de orientações: 2
+2003 - 2007
+Aplicação de videogrametria para mapeamento de desastres ecológicos
+Descrição: Uso de câmaras digitais e/ou analógica e processamento das imagens com técnicas fotogramétricas para mapeamento rápido em casos de emergências em desastres ecológicos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Daniel Carneiro da Silva - Coordenador / Glauber Carvalho da Costa - Integrante / Erison Rosa de Oliveira Barros - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2002 - 2012
+Fotogrametria Digital na Medição da Expansibilidade Pulmonar
+Descrição: Desenvolvimento e adaptações de uso da fotogrametria a curta distância em fisioterapia para medir a expansibilidade pulmonar visando substituir as medições com citometria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Daniel Carneiro da Silva - Coordenador / Ana Lúcia Bezerra Candeias - Integrante.Número de orientações: 4

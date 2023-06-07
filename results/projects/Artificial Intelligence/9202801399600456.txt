@@ -1,0 +1,56 @@
+2021 - Atual
+Uso de técnicas de Deep Learning para a Extração da Rede de Estradas rurais partir de imagens multiespectrais
+Descrição: pretende-se desenvolver métodos automatizados para a obtenção de mapas de estradas vizinhais que apoiem ações de extensão de redes de suprimento de serviços públicos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jorge Antonio Silva Centeno - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - Atual
+Análise de séries temporais de imagens para detecção de alterações da cobertura do solo em bacias hidrográficas
+Descrição: Análise de séries temporais de imagens para detecção de alterações da cobertura do solo em bacias hidrográficas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Mario Ernesto Jijón Palma - Integrante.
+2019 - Atual
+Monitoramento de aglomerações com séries de imagens de alta resolução espacial usando redes neurais convolucionais
+Descrição: Monitoramento de aglomerações com séries de imagens de alta resolução espacial suando redes neurais convolucionais. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Caisse Amisse - Integrante.
+2019 - Atual
+MPRKA Métodos de Prevenção e Resposta a Desastres de deslizamentos e inundação
+Descrição: Perante a ocorrência de desastres como os de Mariana e Brumadinho este projeto busca contribuições para a mitigação de tais desastres. Métodos de sensoriamento remoto serão pesquisados para reduzir custos e eliminar riscos de vidas em atividades de monitoramento. Paralelamente, serão pesquisadas metodologias para apoiar ações de resgate após o evento, visando reduzir o risco de tragédias ainda maiores, fornecendo mapas de mudanças, lugares arriscados e localização de corpos e objetos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (8) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Cláudia Pereira Krueger - Integrante / Regina Tiemy Kishi - Integrante / edson mitishita - Integrante / RODRIGO DE CAMPOS MACEDO - Integrante / STEFAN HINZ - Integrante / THOMAS VOEGTLE - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2019 - Atual
+VANT e IA como subsídio para geração automática de traçado ótimo de LD
+Descrição: O traçado ótimo de redes de distribuição de energia elétrica de baixa e média tensões, seja em áreas urbanas ou rurais, é o foco deste projeto. Logo, pretende-se desenvolver uma solução metodológica e computacional baseada na coleta de dados com Aeronaves Remotamente Pilotadas e uso de ferramentas de Geotecnologias, Análise Multicritério e Inteligência Artificial. Espera-se como resultado que a metodologia desenvolvida substitua os métodos tradicionais, que são dependentes de serviços topográficos em campo e do alto grau de interação humana nos processos. A partir de dados coletados com o uso de sensores especializados (câmeras digitais RGB e perfiladores laser), embarcados em Aeronaves Remotamente Pilotadas, serão gerados produtos cartográficos de alta precisão. Métodos de análise multicritério em Sistemas de Informação Geográfica e o desenvolvimento de algoritmos baseados em Inteligência Artificial, resultarão em uma solução inovadora que pretende automatizar o processo operacional e de tomada decisão para a definição do traçado de redes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Maricler Toigo - Integrante / Fabiano Scheer Hainosz - Integrante / Roberto Tadeu Raittz - Integrante.Financiador(es): Institutos Lactec - Cooperação.
+2013 - Atual
+Realidade Aumentada como apoio em Pesquisas Populacionais
+Descrição: desenvolvimento de um sistema de realidade aumentada para Tablets, o qual visa auxiliar os estudantes, técnicos e toda a comunidade interna e externa ao IBGE a obter informações sobre os dados já disponibilizados, porém através de uma nova forma de visualização, utilizando um dispositivo móvel.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Doutorado: (1) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Gabriel Henrique Pereira - Integrante.Financiador(es): Fundação Araucária PR - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2011 - Atual
+Avaliação do potencial de sensor RIM para a modelagem tridimensional de objetos
+Descrição: o tema central deste projeto de pesquisa, que tem por objetivo estudar as fontes
+de erro e métodos para sua redução e numa segunda fase modelar objetos a partir dos
+dados captados por uma camara de distância.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Doutorado: (2) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Andrey Augusto Alves de Oliveira - Integrante / Felipe Martins Marques da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2005 - 2007
+GEOSAFRAS
+Descrição: O objetivo do projeto é criar subsídios para o gerenciamento de safras por meio de sensoriamento remoto. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Hideo Araki - Integrante / Mara Rubia Silva - Integrante.Financiador(es): Programas das Nações Unidas para o Desenvolvimento no Brasil - Auxílio
+										financeiro / Companhia Nacional de Abastecimento - Cooperação.Número de produções C, T & A: 2
+2004 - 2007
+Desenvolvimento de novo sistema para avaliação de redes de distribuição sob condições de multiestressamento
+Descrição: Atuando como colaborador.
+Cooperação COPEL/LACTEC/PR.
+Coordenção: LACTEC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jorge Antonio Silva Centeno - Integrante / Sandra Mara Alberti - Coordenador / outros - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Cooperação.
+2004 - Atual
+Visualização de dados cartográficos usando realidade aumentada
+Descrição: O projeto trata do desenvolvimento de um sistema para visualização de informações espaciais (mapas) em campo utilizando ferramentas de realidade virtual. Neste projeto, dados espaciais disponíveis num banco de dados serão superpostos a uma cena captada com ajuda de uma câmara digital e o resultado desta fusão será visualizado em um display sob forma de óculos, dispensando o uso de monitor.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / FABIANA SILVA PINTO - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2001 - 2021
+Análise de modelos numéricos de elevação derivados de laser scanner para o monitoramento urbano
+Descrição: O projeto pesquisa o potencial do uso de imagens obtidas usando laser scanner, uma  forma de sensoriamento remoto ativo, para a detecção de prédios e construções em áreas urbanas, visando fornecer informações de apoio ao planejamento urbano. Para isto, imagens de uma área urbana serão processadas,utilizando ferramentas de processamento de imagens, visando obter métodos automáticos e avaliar a qualidade dos resultados obtidos com esta técnica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Hideo Araki - Integrante / Álvaro Muriel Lima Machado - Integrante / Johanna Beatriz Prieto Garzon - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 20
+2001 - 2003
+DIAMAT
+Descrição: O projeto estuda métodos para o monitoramento de alterações na linha de costa no município de Matinho/PR, com base em técnicas diferentes: topografia, sensoriamento remoto, fotogrametria e GPS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jorge Antonio Silva Centeno - Integrante / Edson Aparecido Mitishita - Integrante / Cláudia Pereira Krueger - Coordenador.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 18
+2001 - Atual
+Estimativa da permeabilidade do solo em ambientes urbanos utilizando imagens de sensoriamento remoto de alta resolução
+Descrição: Pesquisa a viabilidade de mapear áreas permeáveis e não permeáveis em ambientes urbanos, com base na classificação de imagens de alta resolução, IKONOS II.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Sérgio José Trevizan - Integrante / Mario ernesto jijón-palma - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1999 - 2019
+Análise de imagens multiespectrais usando técnicas de algoritmos genéticos.
+Descrição: pesquisa do uso de algoritmos genéticos para a extração de informações em imagens de satélite.   O funcionamento dos algoritmos genéticos se assemelha ao processo de seleção natural,descartando soluções consideradas ruins e preservando as características das melhores soluções num processo iterativo. Com este método pretende-se estimar funções de aptidão que possibilitem otimizar métodos de extração de informações, como a classificação e reconhecimentode estradas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Mara Rubia Silva - Integrante.
+1999 - 2019
+MAPOLURB
+Descrição: Mapeamento de áreas com diferentes de produção de poluição em áreas urbanas integrando dados altimétricos e imagens VIS/NIR. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Jorge Antonio Silva Centeno - Coordenador / Regina Tiemy Kishi - Integrante / Marcelo Guimarães Ribeiro - Integrante.Número de produções C, T & A: 9

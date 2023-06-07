@@ -1,0 +1,35 @@
+2016 - 2019
+REDES NEURAIS ARTIFICIAIS E ALGORITMOS GENÉTICOS NA ESTIMAÇÃO E OTIMIZAÇÃO DE DERIVADAS AERODINÂMICAS DE ESTABILIDADE E CONTROLE EM DE UM MODELO AEROELÁSTICO
+Descrição: Projeto voluntário de pesquisa submetido.
+As derivadas de controle e estabilidade são de extrema importância no estudo da dinâmica de
+vôo de aeronaves. Algumas formas de obtenção destas são: uso de técnicas de estimação de
+parâmetros aliados à métodos de previsão baseados nas características de projeto da aeronave,
+aplicação de métodos de dinâmica dos fluidos computacional para a modelagem aerodinâmica
+da aeronave, obtenção em ensaios realizados em túnel de vento e estimação paramétrica a partir
+de dados de ensaio em vôo. Todos estes métodos apresentados acima são bastante eficientes,
+mas, por exemplo, o método de obtenção de derivadas a partir de dados de ensaio em vôo,
+apresenta custo financeiro bem mais elevado que os outros. Outros métodos de estimação
+paramétrica convencionais, como por exemplo, o Output Error, conseguem estimar as derivadas
+com grande êxito, porém para cada condição de vôo separadamente, sem ?extrapolar?. No
+trabalho realizado no doutorado foram identificadas as respostas de uma aeronave dentro de um
+envelope de vôo usando redes neurais artificiais recorrentes e apresentada a resolução do
+problema inverso: usando respostas identificadas juntamente com alguns dados geométricos e
+inerciais da aeronave como entradas para uma rede neural feedforward, foram estimadas as
+derivadas aerodinâmicas de estabilidade e controle destas. A metodologia foi aplicada a dois
+exemplos: um simulado e um usando dados de ensaio em vôo real e, em ambos os casos,
+mostrou-se bastante eficiente. Mas, como para treinar a rede neural é necessário que se conheça
+alguns conjuntos de derivadas para serem usadas como saídas para esta, o objetivo deste
+trabalho de pesquisa é desenvolver uma metodologia de redes neurais artificiais juntamente com
+algoritmos genéticos para estimação e otimização das derivadas aerodinâmicas de estabilidade e
+controle a partir de dados simulados e experimentais, sem conhecimento prévio de nenhum
+conjunto destas, ou seja, apenas a partir das respostas obtidas em ensaio realizado em túnel de
+vento e obtidas em simulação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luciane de Fátima Rodrigues de Souza - Coordenador.
+2016 - 2019
+REDES NEURAIS ARTIFICIAIS MULTICAMADAS NA PREDIÇÃO DE VALORES GENÉTICOS DE BOVINOS DA RAÇA NELORE
+Descrição: O melhoramento genético animal se baseia nos princípios de mensuração dos rebanhos, seleção e acasalamento dos animais que apresentem melhores performances, prevendo um ganho produtivo nas gerações seguintes devido à herança genética do caráter mensurado. Na bovinocultura de corte, as listagens e catálogos gerados por programas de melhoramento colocam à disposição do produtor, informações sobre touros avaliados em relação às Diferenças Esperadas na Progênie (DEPs) ou aos Valores Genéticos Preditos (VGPs). Tais valores são calculados a partir de dados coletados pelos criadores e geralmente centralizados pelas Associações de Raças nos diversos países. Tradicionalmente, os valores genéticos são preditos por meio da solução das equações de modelos mistos. O objetivo deste projeto é aplicar a metodologia de Redes Neurais como alternativa na predição de valores genéticos de bovinos Nelore para características de crescimento. Espera-se, assim, obter valores acurados, exigindo menor demanda computacional e reduzindo o tempo necessário para tais avaliações. Possibilita também a iniciação científica dos alunos do IFSP ? Campus Avaré de cursos relacionados ao tema, que faz parte de uma linha de pesquisa, desenvolvida no campus, diretamente ligada ao melhoramento genético e ao estudo da interação genótipo-ambiente utilizando modelos de norma de reação adaptativa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luciane de Fátima Rodrigues de Souza - Coordenador / Daniel D. Freitas - Integrante / Lucas M. Carneiro - Integrante / Newton P. Tamassia - Integrante.Número de produções C, T & A: 2
+2015 - 2019
+Projeto de Melhoramento Genético de precisão em bovinos da raça Nelore
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Luciane de Fátima Rodrigues de Souza - Coordenador / Newton P. Tamassia - Integrante.
+2008 - 2009
+Estimação de contribuição de um rio primário para um secundário
+Descrição: Este trabalho tem como objetivo medir a vazão de água de um rio primário, visando assim medir a sua colaboração em quantidade de volume de água para um rio secundário. Para isso serão realizadas medições como: velocidade do vento, temperatura, umidade do ar, índice pluviométrico e medidas de vazão mensalmente. Em seguida serão usadas ferramentas matemáticas, estatísticas e computacionais para conseguir modelar matematicamente a contribuição. Serão usadas após algumas medidas, Redes Neurais Artificiais, que são programas computacionais baseados no funcionamento do cérebro humano, para estimar a variação da contribuição no decorrer dos meses. O funcionamento destas redes neurais é basicamente feito através do aprendizado que é realizado através de ajustes de funções matemáticas, isto é, através da minimização de erros entre saídas desejadas e saídas calculadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Luciane de Fátima Rodrigues de Souza - Coordenador.

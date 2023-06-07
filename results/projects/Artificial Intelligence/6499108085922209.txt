@@ -1,0 +1,16 @@
+2013 - 2013
+Exploration of alternatives for venue classification systems
+Descrição: Uso de tecnicas de agrupamento semi supervisionado para classificacao de revistas cientificas. Insititute des systems complexes/PARIS/FRANCA. Bolsa CAPES BEX 3521/13-3. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jacques Wainer - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2009 - 2011
+Triagem automatica de retinopatias diabeticas - a Tecnologia da informação contra a cegeira previnivel
+Descrição: Desenvolvimento de um programa de triagem automática de retinopatias
+diabéticas e sua aplicação num serviço de teleoftalmologia. O sistema
+deverá detectar alterações na imagem de fundo de olho de pacientes que
+indicam algum grau de retinopatia diabética, e encaminhar as imagens
+para um diagnóstico por um especialista. Se o sistema não detectar
+alterações, o paciente não será encaminhado para os especialistas.
+Em principio o sistema irá tentar detectar as seguintes alterações
+indicativas de retinopatia diabética: hemorragias, exsudatos,
+alterações vasculares, cicatrizes, hiperpigmentação, e
+hipopigmentação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Jacques Wainer - Coordenador / Ivan Pisa - Integrante / Siome Klein Goldenstein - Integrante / Michel Eid Farah - Integrante / Paulo Schor - Integrante / Anderson Rocha - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

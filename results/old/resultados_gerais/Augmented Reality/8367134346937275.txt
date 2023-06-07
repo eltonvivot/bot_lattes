@@ -1,0 +1,4 @@
+2013 - 2015
+Scanner Tridimensional Interativo de Objetos a Partir de Imagens
+Descrição: Este projeto tem por objetivo o desenvolvimento e a implementação de um sistema para realizar a digitalização tridimensional de objetos de forma interativa, onde um operador manipula um objeto em frente a uma câmera e o computador cria um modelo geométrico tridimensional do objeto (por exemplo, um arquivo para ser aberto em aplicativos CAD) a partir das imagens. O computador instrui continuamente o operador sobre como movimentar o objeto, de modo que o objeto de interesse será observado sob todos os ângulos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Vilar Fiuza da Camara Neto - Coordenador / Antonio Ramos de Carvalho Júnior - Integrante / Afonso Degmar Ribas - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Auxílio
+										financeiro.

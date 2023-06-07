@@ -1,0 +1,23 @@
+2021 - 2022
+Wearable - GoAwake
+Descrição: O projeto Wearable GoAwake é um projeto que trabalha com tecnologias de dispositivos vestíveis (wearables) e ciência de dados para detecção de níveis de cansaço/fadiga de motoristas enquanto dirigem, alimentando um sistema mobile (aplicativo) integrado a tecnologia de reconhecimento de imagens proprietária da GoAwake.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Rafael Alceste Berri - Integrante / Karina Machado - Integrante / Vinicius Menezes de Oliveira - Coordenador / Adriano V. Werhli - Integrante.
+2021 - 2022
+INOVAÇÃO MEDLIFE V1.0 - excelência na relação médico-paciente Olámed Medlife
+Descrição: Projeto de pesquisa, desenvolvimento e inovação que integra sensores e dispositivos médicos, desenvolvimento de algoritmos para interpretação e processamento de linguagem natural, desenvolvimento de software para sistemas automatizados de interação médico-paciente e utilização de tecnologias de inteligência artificial e analytics para melhorar a experiência de comunicação, agilizar o registro das consultas por meio de processamento dos dados adquiridos e coletados, e as interações pós-consultas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (6) . Integrantes: Rafael Alceste Berri - Integrante / Alessandro de Lima Bicho - Integrante / Eduardo Borges - Integrante / Karina Machado - Coordenador / Vinicius Menezes de Oliveira - Integrante / Adriano V. Werhli - Integrante / Marcelo Malheiros - Integrante.
+2021 - Atual
+Medição, classificação e rastreio automatizados de toras de madeira
+Descrição: Este projeto tem como objetivo a especificação e desenvolvimento de um sistema computacional semi-autônomo para medição, classificação e rastreio de toras de madeira. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (1) . Integrantes: Rafael Alceste Berri - Integrante / Alessandro de Lima Bicho - Integrante / Eduardo Nunes Borges - Coordenador / Vagner Santos da Rosa - Integrante.
+2014 - Atual
+CaRINA
+Descrição: Desenvolvimento de tecnologias e aplicações para a área de Veículos Inteligentes e Veículos Autônomos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Alceste Berri - Integrante / Fernando Osório - Coordenador.
+2013 - 2016
+Sistema de monitoramento e assistência ao condutor
+Descrição: 1) Instrumentar o veículo de teste e automatizar o veículo (veículo autônomo);
+2) Sistemas de Telemetria e Sensoriamento;
+3) Sistema de aquisição de dados do condutor (sensores das ações do condutor);
+4) Sistema de aquisição de dados do veículo (sensores internos do veículo);
+5) Sistema de aquisição de dados referentes aos elementos externos (sensores do ambiente externo);
+6) Fusão de dados e análise de dados (detecção de obstáculos, anomalias, alarmes, etc);
+7) Sistema que analisa todas as informações coletadas e avalia o desempenho do condutor diante delas;
+8) Realizar testes de controle autônomo e inteligente do veículo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Alceste Berri - Integrante / Fernando Osório - Coordenador.Financiador(es): Scania Latin America - Cooperação / Fundação para o Incremento da Pesquisa e do Aperfeiçoamento Industrial - Auxílio
+										financeiro.

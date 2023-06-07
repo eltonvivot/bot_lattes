@@ -1,0 +1,30 @@
+2008 - Atual
+Análise e Projeto de Controladores Robustos e/ou Adaptativos aplicados a Plantas Industriais
+Descrição: Os sistemas e processos existentes na grande maioria das indústrias atualmente, utilizam controladores convencionais do tipo PID (proporcional, integral, derivativo). No entanto, em muitos casos, podem aparecer alguns problemas nos sistemas, tais como, incertezas e variações nos parâmetros dos modelos matemáticos dos mesmos. Para tanto, um simples controlador PID pode não resolver o problema de controle, caso estas distorções não sejam suficientemente pequenas (desprezíveis). Este projeto de pesquisa visa o estudo da aplicabilidade de controladores utilizando metodologias que envolvam Controle Robusto e/ou Controle Adaptativo em plantas de sistemas industriais. Não só serão projetados controladores, como também serão realizadas simulações via software e implementação em hardware para testar e comparar a metodologia aplicada com metodologias que já tenham sido utilizadas anteriormente.
+Controladores robustos são obtidos levando-se em conta incertezas nos parâmetros dos modelos matemáticos dos sistemas. Controladores adaptativos são projetados com mecanismos de ajuste dos parâmetros do próprio controlador, como por exemplo, ganhos, levando em conta mudanças de parâmetros do sistema durante o funcionamento do mesmo. As técnicas de controle robusto envolverão sistemas com incertezas intervalares em seus parâmetros. Já as técnicas de controle adaptativo envolverão reguladores auto-sintonizáveis e/ou sistemas adaptativos por modelos de referência. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcia Lissandra Machado Prado - Coordenador / Anfranserai Morais Dias - Integrante / Marcos de Araujo Paz - Integrante / Thiago Alberto Barbosa - Integrante / Armando Sanca Sanca - Integrante / Victor Yuri Moreira de Souza Cedraz - Integrante.
+2008 - Atual
+Construção de uma Colônia de Robôs Autônomos para reconhecimento, busca e inspeção
+Descrição: O presente projeto objetiva desenvolver uma colônia de robôs, nos quais serão embarcados algoritmos de Inteligência Artificial e sistemas de multi-sensoreamento para realizar as tarefas de busca, reconhecimento e inspeção em ambientes não estruturados com obstáculos dinâmicos, onde podem haver riscos a integridade dos seres humanos. Os robôs também serão providos de algoritmos que possibilitam a troca de informações entre eles, tais como, mapas do ambiente já percorrido. Além disso, os robôs serão providos de um sistema que garante a operacionalidade dos mesmos, ou seja, quando um robô encontrar outro robô inoperante ele será capaz de dividir parte de sua energia de modo a garantir a troca de informações sem comprometer seu funcionamento. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcia Lissandra Machado Prado - Integrante / Anfranserai Morais Dias - Coordenador / Marcos de Araujo Paz - Integrante / Paulo César Machado de Abreu Farias - Integrante / Antonio Lopes Apolinário Junior - Integrante / Delmar Broglio Carvalho - Integrante / Fabiana Cristina Bertoni - Integrante / Mauricio Cunha Escarpinati - Integrante / Michele Fúlvia Angelo - Integrante.Financiador(es): Secretaria de Ciência, Tecnologia e Inovação da Bahia - Auxílio
+										financeiro.
+2005 - 2008
+Uma Plataforma para Desenvolvimento e Aprimoramento de Técnicas de Sintonia de Controladores Industriais
+Descrição: Pretende-se, neste projeto, criar um ambiente para pesquisa e desenvolvimento na
+área de Teoria de Controle, por meio de modelos reduzidos de processos industriais, e
+instrumentação eletrônica digital. Especificamente, com a plataforma proposta, serão
+estudadas técnicas de sintonia de controladores industriais e técnicas de identificação de
+sistemas baseadas no método do relé. Cada modelo reduzido deve contar com sensores
+apropriados para as variáveis do processo, bem como com atuadores para as variáveis
+de controle. O projeto dos circuitos eletrônicos levará em conta a precisão e a dinâmica
+do conjunto sensor/atuador, sendo integrado a um sistema digital baseado em
+microcontrolador. Os algoritmos de controle e/ou de identificação serão implementados
+digitalmente, nestes sistemas digitais, por meio de rotinas de programação em tempo
+real, levando-se em conta técnicas de implementação conhecidas, como por exemplo
+anti-windup, escalonamento de ganho etc. Finalmente, os equipamentos poderão
+comunicar-se com um computador do tipo PC, para fins de análise dos resultados
+experimentais, usando programas computacionais apropriados para este fim, como por
+exemplo o Matlab®. Espera-se, com o desenvolvimento desta plataforma, o
+fortalecimento da pesquisa científica na área de controle e automação, gerando material
+bibliográfico na forma de artigos em congressos e periódicos especializados, e
+possivelmente gerando patentes de equipamentos e algoritmos de controle, que poderão
+ser comercializados futuramente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Marcia Lissandra Machado Prado - Integrante / Gustavo Henrique Machado de Arruda - Coordenador / Mateus Andrade Almeida - Integrante / Thiago Cerqueira de Jesus - Integrante / Silas Dantas de Carvalho - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.Número de produções C, T & A: 6

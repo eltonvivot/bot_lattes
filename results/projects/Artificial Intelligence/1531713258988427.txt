@@ -1,0 +1,156 @@
+2021 - Atual
+Multilayer Complex Network Based Machine Learning for Logical Explanation in Decision Making
+Descrição: This is an international coorperative research project. It has objective to deal with the interpretability problem of machine learning techniques. Specifically, the input data will be represented by multilayer complex networks, network based data classification techniques will be developed, and relevant measures of the learning process will be extracted to interpret the classification results. The technique will be applied to identify relevant biomarkers of Stroke, providing logical explanation on the identification results.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador / Murillo G. Carneiro - Integrante / Leandro Anghinoni - Integrante / Jianglong Yan - Integrante / Yu-tao Zhu - Integrante / Chenghao Hua - Integrante.Financiador(es): China Branch of BRICS Institute for Future Network Research - Auxílio
+										financeiro.
+2020 - Atual
+Centro de Inteligência Artificial (C4AI)
+Descrição: Este é o projeto financiado pelo IBM o pela FAPESP de grande porte dedicado à pesquisa teorica e de aplicações de inteligência artificial. O diretor é o Prof. Fabio Cozman. O Prof. Zhao Liang participa como um dos Pesquisadores Principais.
+Esta proposta descreve um Centro de Pesquisa de Engenharia em Inteligência Artificial (IA) empenhado em conduzir pesquisas em tópicos centrais de IA e em aplicar técnicas de IA em áreas de aplicação selecionadas --- a saber, indústria de óleo e gás, agronegócios e saúde. O Centro também dará suporte a estudos sobre o impacto social e econômico da IA e conduzirá atividades de transferência de tecnologia e difusão do conhecimento. O Centro será construído com a convicção de que os próximos dez anos trarão avanços sem precedentes em IA, os quais dependerão da colaboração tanto entre áreas centrais da IA como destas áreas com as aplicações. O "Center for Artificial Intelligence" consistirá de dois grupos interligados de pesquisadores, ambos distribuídos na instituição anfitriã e em instituições associadas. Um grupo de pesquisadores, com significativa projeção internacional na comunidade de IA, cobrirá tópicos centrais de IA, de representação de conhecimento a aprendizado de máquina, com ênfase em processamento de texto e linguagem natural, particularmente em Português. Tendências da pesquisa internacional corrente sugerem que a próxima década testemunhará uma interação crescente entre representação de conhecimento, tomada de decisão e aprendizado de máquina; o "Center for Artificial Intelligence" focará sua atenção na combinação destas áreas da IA, já que elas não são tão intimamente conectadas quanto deveriam ser --- o Centro se posicionará como um participante fundamental na colaboração entre os principais tópicos da IA. Um segundo grupo de pesquisadores do Centro focará em três áreas de aplicação onde existe significativa experiência na instituição anfitriã: óleo e gás, agronegócio, e saúde. A conexão entre pesquisa em tópicos centrais da IA e áreas de aplicação ocorrerá em dupla direção: pesquisa em IA básica abordará problemas de grande escala nas áreas de aplicação selecionadas, e será direcionada pelos desafios nestas áreas de aplicação. Um pequeno grupo de pesquisadores da área de humanas está incluído no "Center for Artificial Intelligence" para conduzir pesquisa sobre o impacto social da IA e para identificar caminhos que garantam o uso da IA para o bem. O Coordenador de Educação e Difusão do Conhecimento organizará produção de vídeos contendo resultados de pesquisa e trabalhará através de feiras e escolas para educar o público em sentido amplo. O Coordenador de Transferência de Tecnologia trabalhará com órgãos bem estabelecidos na instituição anfitriã para fomentar iniciativas que transferirão resultados para as entidades financiadoras e para esforços de empreendedorismo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / Roseli Francelin Romero - Integrante / Alexandre C. B. Delbem - Integrante / Luiz Otávio Murta Junior - Integrante / Renato Tinós - Integrante / Fabio Gagliardi Cozman - Coordenador / João Paulo Papa - Integrante / João Luis Garcia Rosa - Integrante.
+2018 - 2021
+Apoio à cirurgia de epilepsia: abordagem computacional para planejamento de neurocirurgias baseado em grande volume de dados, aprendizagem de máquina e redes complexas
+Descrição: o presente projeto
+propõe estudar a relação entre os diferentes tipos de dados, e construir uma estrutura
+computacional com o objetivo de apoiar a decisão e planejamento de cirurgia em epilepsia
+baseado em abordagem de big data, i.e., os diferentes tipos de sinais e os dados adquiridos de
+vários sujeitos (pacientes e pessoas saudáveis) são organizados e analisados de forma integrada
+para descobrir propriedades de epilepsia. Especificamente, redes complexas são utilizadas como
+um mecanismo de representação de grande conjunto de dados heterogêneos de epilepsia
+devido sua capacidade de descrição de estrutura (padrão de conectividade), dinâmica e função
+de sistemas complexos em um único esquema. Técnicas de aprendizado de máquina,
+especificamente, redes neurais, deep learning, árvores de decisão e algoritmos evolutivos, serão
+aplicadas para análise de dados e apoio à decisão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Zhao Liang - Coordenador / Maria Cristina Ferreira de Oliveira - Integrante / Luiz Otávio Murta Junior - Integrante / Renato Tinós - Integrante / Alneu Andrade Lopes - Integrante / João Luis Garcia Rosa - Integrante / João Pereira Leite - Integrante / Antônio Carlos dos Santos - Integrante / Norberto Garcia Cairasco - Integrante / Joaquim Cezar Felipe - Integrante.Financiador(es): Pró-reitoria da Universidade de São Paulo - Auxílio
+										financeiro.
+2018 - 2019
+Análise de dados espaço-temporais baseado em redes complexas
+Descrição: A teoria de redes complexas ajudou a identificar informações valiosas em muitos domínios, onde os sistemas são complexos, com conexões e propriedades não triviais. Desta forma, entender como a estrutura da rede impacta a dinâmica e também como inferir a estrutura a partir dessas dinâmicas é de suma importância para a área. Neste projeto, objetivamos desenvolver métodos para analisar os padrões de atividade e evolução das redes dinâmicas. O projeto inclui a proposta, desenvolvimento e teste de novas técnicas para mineração de redes temporais e dinâmicas e a aplicação de técnicas de análise de redes para problemas do mundo real. Analisaremos e avaliaremos padrões de redes dinâmicas em dados espaços-temporais de clima, cujos índices climáticos são geo e temporalmente marcados. Vamos propor um conjunto de métodos para redes geo-temporais que, embora aplicados sobre dados climáticos, podem em princípio ser estendidos a qualquer tipo de dados temporais. Outros possíveis conjuntos de dados que iremos explorar incluem a difusão da desinformação, dados da rede de votação e redes de opinião. Quanto à fundamentação para a avaliação geo-temporal, pretendemos aplicar e adaptar métodos clássicos de redes, incluindo medidas de centralidade, algoritmos de detecção de comunidades e métricas globais de redes para avaliar a estrutura. As análises serão realizadas considerando a teoria de redes complexas, aprendizado de máquina e redes dinâmicas, utilizando conjuntos de dados artificiais e reais, avaliando os métodos da literatura e aplicando-os a problemas reais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador / Didier Augusto Vega Oliveros - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2017 - 2019
+Ordenação de sufixos e medidas de similaridade entre cadeias
+Descrição: A ordenação de sufixos é um problema fundamental em processamento de cadeias de caracteres presente em muitas aplicações de Bioinformática, Recuperação de informação e Mineração de textos. Esse problema está relacionado com a construção do vetor de sufixos e com a transformada de Burrows-Wheeler, os quais desempenham um papel importante em métodos de indexação de cadeias (e.g. FM-índice) e compressão de dados (e.g. bzip). Na literatura, muitos trabalhos têm sido propostos para construir o vetor de sufixos de uma única cadeia e obter a transformada de Burrows-Wheeler. Entretanto, em muitas situações estamos interessados em processar conjuntos de cadeias e obter diretamente a transformada de Burrows-Wheeler, isto é, sem construir o vetor de sufixos. Poucas soluções têm sido propostas para esses problemas. Dessa forma, o principal objetivo desse projeto é investigar o cálculo direto da transformada de Burrows-Wheeler para conjuntos de cadeias. Além disso, pretende-se investigar medidas de similaridades que utilizam a transformada de Burrows-Wheeler para comparar e classificar cadeias de caracteres.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador / Felipe Alves da Louza - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - 2018
+Ordenação de sufixos e medidas de similaridade entre series temporais
+Descrição: A transformada de Burrows-Wheeler (BWT) pode ser utilizada para calcular a
+similaridade entre duas cadeias de caracteres, uma tarefa importante em campos como
+biologia computacional e recuperação de informação. Medidas de similaridade baseadas
+na BWT são interessantes pois elas podem ser computadas mais rapidamente que outras
+medidas, como as baseadas em alinhamento ou distâncias de edição. Nota-se, porém, a
+ausência de uma investigação sobre a aplicação destas medidas baseadas em BWT em
+outros tipos de dados biológicos cuja representação usualmente não se dá na forma de
+caracteres, mas que são geralmente representadas e armazenadas como sequências de
+números reais. Nosso objetivo é estabelecer uma metodologia para aplicação de medidas
+de similaridade baseadas na BWT em séries temporais, de natureza biológica em especial.
+Basicamente, a metodologia envolve a transformação de séries temporais para uma
+representação simbólica que possa ser entendida como uma cadeia de caracteres,
+permitindo assim a aplicação das medidas baseadas em BWT. Os resultados sugerem que
+as distâncias DM e DE baseadas na BWSD, distribuição de similaridade Burrows-Wheeler ,
+podem ser opções viáveis para se calcular similaridade entre séries temporais,
+considerando as diferentes características e padrões temporais das séries.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador / Juliano Jinzenji Duque - Integrante / Felipe Alves Louza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2022
+Dynamical Phenomena in Complex Networks: Fundamentals and Applications (Projeto 2)
+Projeto certificado pelo(a) coordenador(a) Elbert Einstein Nehrer Macau em 25/12/2018.
+Descrição: PROJETO TEMÁTICO DE COLABORAÇÃO INTERNACIONAL FAPESP 2015/50122-0 ? DFG (Alemanha) GRTK 1740/2. O presente pesquisador participo deste projeto como PESQUISADOR PRINCIPAL.
+Ao longo da última década, o enfoque de rede entre agentes dinâmicos com topologias
+complexas tem se tornado uma poderosa e eficaz metodologia a ser usada para entender
+sistemas elaborados, envolvendo um número muito elevado de agentes que interagem
+entre si. Esse enfoque vem sendo utilizado em várias áreas, desde Neurociência e
+Engenharia, até Sociologia e Economia. Contudo, até agora, a maior parte dos estudos
+têm se concentrado em situações onde a topologia é fixa, o que restringe sobremaneira sua utilização em cenários mais elaborados e próprios dos sistemas reais. Este projeto tem
+por objetivo estudar os princípios e fundamentos da auto-organização em redes
+complexas mais gerais, onde a topologia não é simples e a complexidade é muito
+elaborada. Visando aplicações em situações atuais de interesse, pretende-se, por
+conseguinte, compreender o papel que a heterogeneidade da estrutura, os atrasos em
+múltiplas escalas de tempo e espaço e a estocasticidade têm na dinâmica da rede. Esses
+estudos teóricos estão interconectados a investigações experimentais da dinâmica de
+redes naturais com complexidade crescente, o que compreende sistemas de distribuição
+de energia, propagação de infecções, interação entre neurônios híbridos e o sistema
+Terra. Este último representa um formidável desafio para a teoria das redes complexas e é
+um dos tópicos centrais no âmbito da presente iniciativa. Assim, via utilização do enfoque
+de redes complexas, tenciona-se entender a dinâmica de interação entre os vários
+subsistemas da Terra diante de condições variantes, em especial no que se refere ao
+aquecimento global e ao desmatamento da Amazônia. Este projeto é uma iniciativa
+internacional de colaboração envolvendo pesquisadores brasileiros e alemães do Instituto
+Nacional de Pesquisas Espaciais (INPE), Humboldt University at Berlin, Potsdam Institute
+for Climate Impact Research (PIK), Universidade de São Paulo (USP), Technical University
+of Berlin (TU), Potsdam University (UP), Universidade Estadual de Campinas (UNICAMP),
+Universidade Federal do ABC (UFABC), Universidade Federal de São Paulo (UNIFESP) and
+Centro Nacional de Monitoramento e Alestras de Desastres Naturais (CEMADEM). Esta
+iniciativa de pesquisa é financiada conjuntamente pela Fundação de Amparo à Pesquisa
+do Estado de São Paulo (FAPESP) e pela Deutshe Forschungsgemeinschaft (DFG).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / Elbert E N Macau - Coordenador / Antonio Carlos Roque da Silva Filho - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2016 - 2018
+Processos Dinâmicos em Aprendizado de Máquina baseados em Redes Complexas
+Descrição: Processos de propagação são ubíquos em muitos sistemas complexos baseados em redes. A propagação de uma epidemia, um rótulo ou informação compartilham características semelhantes e dependem profundamente da organização da rede. As redes complexas possuem natureza heterogênea, onde alguns vértices são mais influentes que outros e existem diferentes tipos de vértices conectados entre si. Desse modo, entender como a estrutura da rede impacta nas dinâmicas e também como inferir a estrutura a partir dessas dinâmicas é de suma importância para a área. Neste projeto, objetivamos desenvolver métodos para aprimorar as tarefas dos processos dinâmicos de aprendizado de máquina em redes complexas, analisando o impacto que a rede exerce sobre elas. Vamos analisar quais os vértices mais influentes na tarefa de propagação de rótulos e quais podem ser recomendados para serem rotulados de modo a maximizar os resultados do processo. Também, desenvolveremos métodos para detectar a estrutura de comunidades da rede a partir das dinâmicas de propagação. Por último, mediante o uso de redes multicamadas, desenvolveremos um método de seleção de atributos próprio para redes. As análises serão conduzidas considerando a teoria de redes complexas e aprendizado de máquina, usando bases de dados artificiais e reais, avaliando com os métodos da literatura e aplicando em possíveis problemas reais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador / Didier Augusto Vega Oliveros - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2013 - Atual
+CEPID em Ciências Matemáticas Aplicadas à Indústria
+Descrição: O Presente pesquisador participo deste proejto como um dos PESQUISADORES PRINCIPAIS.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / André C. P. L. F. de Carvalho - Integrante / Maria Crolina Monard - Integrante / Eduardo Raul Hruschka - Integrante / Estevam Rafael Hruschka Júnior - Integrante / José Alberto Cuminato - Coordenador / Gustavo Enrique de Almeida Prado Alves Batista - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2011 - 2016
+Fenômenos Dinâmicos em Redes Complexas: Fundamentos e Aplicações (Projeto 1)
+Descrição: Este é um PROJETO TEMÁTICO da FAPESP. O presente pesquisador participa neste projeto como PESQUISADOR PRINCIPAL. Ao longo da última década, o enfoque de rede entre agentes dinâmicos com topologias complexas tem se tornado uma poderosa e eficaz metodologia a ser usada para entender sistemas elaborados, envolvendo um número muito elevado de agentes que interagem entre si. Esse enfoque vem sendo utilizado em várias áreas, desde Neurociência e Engenharia, até Sociologia e Economia. Contudo, até agora, a maior parte dos estudos tem se concentrado em situações onde a topologia é fixa, o que restringe sobremaneira sua utulização em cenários mais elaborados e próprios dos sistemas reais. Este projeto tem por objetivo estudar os princípios e fundamentos da auto-organização em redes complexas mais gerais, onde a topologia não é simples e a complexidade é muito elaborada. Visando aplicações em situações atuais de interesse, pretende-se, por conseguinte, compreender o papel que a heterogeneidade da estrutura, os atrasos em múltiplas escalas de tempo e espaço e a estocasticidade têm na dinâmica da rede. Esses
+estudos teóricos estarão interconectados a investigações experimentais da dinâmica de redes naturais com complexidade crescente, partindo de sistemas que envolvem alguns lasers, passando pela interação entre neurônios híbridos e chegando-se no sistema Terra.
+Esse último representa um formidável desafio para a teoria das redes complexas e será um dos tópicos centrais no âmbito desta iniciativa. Assim, via utilização do enfoque de redes complexas, tenciona-se entender a dinâmica de interação entre os vários subsistemas da Terra diante de condições variantes, em especial no que se refere ao aquecimento global e ao desmatamento da Amazônia. Este projeto é uma iniciativa internacional de colaboração envolvendo pesquisadores brasileiros e alemães do Instituto Nacional de Pesquisas Espaciais (INPE), da Humboldt University at Berlin, do Potsdam Institute for Climate Impact Resear. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / Antonio Carlos Roque da Silva Filho - Integrante / Luciano da Fontoura Costa - Integrante / Macau, Elbert E.N. - Coordenador / Francisco Aparecido Rodrigues - Integrante / Tiago Pereira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2010 - 2014
+Transmissão de Sinal Neural em Redes Complexas (Edital nº 09/2010 - PDI - CNPq)
+Descrição: O cérebro humano (animal) são sistemas altamente não lineares e complexos. Modelagem e simulação computacional de sistemas neurais são abordagens importantes não apenas para a neurociência, mas também para o desenvolvimento de técnicas de inteligência artificial bio-inspiradas. Esta proposta de pesquisa visa estudar a transmissão de sinal neural em redes complexas. Diferentemente de estudos anteriores baseados principalmente em topologias de redes estáticas, nós investigamos a influência de estruturas de rede variantes no tempo na transmissão de sinal neural. Especificamente, consideramos redes de pequeno mundo e redes de comunidade que são construídas de acordo com experimentos recentes em redes cerebrais. Esperamos que nosso trabalho possa servir como uma explanação alternativa para entender ambos os mecanismos funcionais e patológicos de transmissão de sinal neural em redes cerebrais. Além disso, como as redes neurais artificiais atuais usam topologias de rede regulares e estáticas, o estudo de transmissão de sinal neural em redes com topologia complexa e variante no tempo pode ser uma abordagem alternativa para o desenvolvimento de novas e mais poderosas redes neurais artificiais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Zhao Liang - Coordenador / Elbert E N Macau - Integrante / Marcos Quiles - Integrante / Thiago H. Cupertino - Integrante / Fabricio Aparecido Breve - Integrante / Thiago Christiano Silva - Integrante / Bilzã Marques de Araújo - Integrante / Xiaoming Liang - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+Aprendizado Semi-Supervisionado Baseado em Redes Complexas com Aplicações em Reconhecimento Invariante de Padrões
+Descrição: Este projeto tem como objetivo desenvolver técnicas de aprendizado de máquina para análise de dados baseado em redes complexas e sistemas dinâmicos. Especificamente, serão desenvolvidas técnicas de detecção de comunidades em redes complexas baseadas em competição de partículas e em sincronização de rede de osciladores, as quais podem servir como técnicas de aprendizado não supervisionado (clustering) com a capacidade de detecção de clusters de formas variadas e representação hierárquica. Logo, será realizada a adaptação das técnicas desenvolvidas para a abordagem de aprendizado semi-supervisionado. Neste caso, alguns vértices da rede são rotulados, ou seja, suas classes são previamente definidas e os modelos a ser desenvolvidos deverão ser capazes de propagar os rótulos para os outros vértices da rede. Na próxima fase, as técnicas semi-supervisionadas desenvolvidas serão aplicadas para tratar problemas de reconhecimento invariante de padrões, principalmente em casos de presença de distorções não-lineares nos padrões analisados. A idéia principal é reconhecer um padrão de entrada através da propagação do seu rótulo até o padrão armazenado correspondente via padrões intermediários, todos representados por vértices em rede. Esta abordagem pode ser denotada como reconhecimento de padrão relacional. Por fim, com objetivo de validar as técnicas em problemas reais, estas serão aplicadas para tarefas de reconhecimento de faces e dígitos em escrito manual. Redes complexas e sistemas dinâmicos são ferramentas poderosas para muitas disciplinas da ciência, inclusive para aprendizado de máquinas, e ainda existe um grande espaço para exploração.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Zhao Liang - Coordenador / Thiago H. Cupertino - Integrante / Fabricio Aparecido Breve - Integrante / Thiago Christiano Silva - Integrante / João Roberto Bertini Junior - Integrante / Bilzã Marques de Araújo - Integrante / Lilian Berton - Integrante / Jean Pierre Huertas Lopez - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+Caminhada Aleatória e Competição de Partículas em Redes Complexas para Classificação de Dados
+Descrição: Recentemente, com o aumento do poder computacional e a disponibilidade de dados sobre redes reais, as redes complexas surgiram como uma nova e poderosa maneira de representação e abstração de dados capaz de capturar as relações espaciais, topológicas, funcionais, entre outras características presentes em muitas bases de dados. Dentre as varias abordagens para a análise de dados, destacam-se a  lassificação e a clusterização. A classificação de dados (ou reconhecimento de
+padrões) permite atribuir uma qualidade (classe) aos dados, baseado nas aracterísticas de seus atributos. Já a clusterização é indicada para explorar a estrutura dos dados, como grupos ou hierarquias entre grupos, cujas classes não são previamente conhecidas. Métodos de clusterização baseados em redes complexas, também conhecidos como detecção de comunidades, têm sido extensivamente
+explorados na literatura. Por outro lado, classificação de dados baseado em redes complexas ainda é pouco estudado. Tendo em vista os benefícios da representação de grandes bases de dados e revelação de estruturas topológicas por meio de redes complexas, o presente projeto prevê o desenvolvimento de métodos de classificação de dados baseados em redes complexas. A abordagem será considerada é inspirada em métodos de detecção de comunidades que utilizam o conceito de dinâmica de partículas; estes métodos envolvem, entre outras disciplinas, sistemas dinâmicos, mecanismos de competição e caminhada aleatória. Devidas características de redes complexas e dinâmicas estocástica de partículas, espera que as técnicas  esenvolvidas tenham um bom desempenho de generalização e no mesmo tempo possui boa precisão de classificação, espera também que possam ser utilizadas para
+classificação dinâmica (treinamento em tempo real). Por fim a nova abordagem será aplicada para resolver alguns problemas de bioinformática, tais como identificação de splice junctions e reconhecimento de promotores de genes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador / Bilzã Marques de Araújo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2008 - 2010
+Sistemas Híbridos de Aprendizado de Máquina
+Descrição: O projeto conta com a colaboração de pessoal dos grupos de aprendizado de maquina do ICMC-USP, do CIN-UFPE e do DIMAP-UFRN. Este projeto investigará a utilização de sistemas híbridos de aprendizado de máquina em classificação e agrupamento de dados. O coordendor geral do projeto é o Prof Andre C P L F de Carvalho do ICMC-USP. Os coordenadores locais são a Profa. Teresa Ludermir (CIn-UFPE) e o Prof. Marcilio Souto (DIMAP-UFRN).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / André C. P. L. F. de Carvalho - Coordenador / Roseli Francelin Romero - Integrante / Anne Magály de Paula Canuto - Integrante / Eduardo Raul Hruschka - Integrante / Ricardo JosÉ Gabrielli Barreto Campello - Integrante / Marcílio Carlos Pereira de Souto - Integrante / Teresa B. Ludermir - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2007 - 2009
+Redes Complexas para Clusterização de Dados
+Descrição: A clusterização de dados pode oferecer diversas maneiras de entender e extrair informações
+relevantes de grandes conjuntos de dados. Através da detecção de grupos é possível organizar
+padrões com características semelhantes e estabelecer hierarquias, permitindo
+uma análise mais detalhada desses dados. As técnicas desse processo são utilizadas cada
+vez mais em diversas áreas, tais como: reconhecimento de padrões, mineração de dados,
+bioinformática, tomada de decisão, aprendizado de máquina, segmentação de imagens,
+etc. A presente proposta visa o desenvolvimento de novas técnicas de clusterização de dados
+baseadas em redes complexas. O processo de clusterização consistirá em duas etapas:
+formação da rede a partir de um conjunto de dados de entrada, e partição da rede
+produzindo clusters. Inicialmente, a técnica de formação da rede será baseada na extensão
+de um método desenvolvido recentemente pelo presente grupo. Na segunda etapa, várias
+técnicas de partição da rede serão investigadas, tais como partição via sincronização, via
+movimentação dos vértices e via caminhada aleatória. A representação de dados em rede pode revelar estruturas topológicas dos dados de entrada, portanto, espera-se que as técnicas desenvolvidas sejam capazes de detectar clusters de formas, densidades e tamanhos variados. Além disso, espera-se que estas técnicas também viabilizem uma representação hierárquica de clusters, permitindo a escolha da
+melhor partição dentre várias possibilidades. As técnicas de partiçao de rede que serão
+desenvolvidas neste projeto não possuem como objetivo encontrar soluções ótimas via
+busca exaustiva, mas sim soluções aproximadamente ótimas com grande eficiência e robustez
+que são características desejáveis para processamento de grande quantidade de
+dados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Zhao Liang - Coordenador / Marcos Quiles - Integrante / Roseli Francelin Romero - Integrante / Fabricio Aparecido Breve - Integrante / João Roberto Bertini Junior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2007 - 2007
+Neural Networks: Complex Dynamical Systems
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2005 - 2005
+Dynamical Intelligent Systems
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2006
+Chaotic Dynamics
+Descrição: Pesquisador participante do projeto temático da FAPESP. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / Elbert E N Macau - Integrante / Celso Grabogi - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2004
+Sistemas Dinâmicos e Redes de Complexas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2002 - 2004
+Investigação de Técnicas de Aprendizado de Máquina e Mineração de Dados para Análise de Dados do Projeto Genoma Clínico
+Descrição: Pesquisador participante do projeto. Este projeto tem como objetivo a investigação e uso de técnicas de Aprendizado de Máquina para o auxílio na resolução de problemas envolvendo o reconhecimento de genes em seqüências de nucleotídeos, em particular a identificação de sítios de splice alternativos, e a extração de conhecimento de bases de dados clínicas e biológicas. Estes dados estão sendo gerados pelo projeto "Clinical Genomics".. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / André C. P. L. F. de Carvalho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2003
+Utilização de Redes Neurais Artificiais em Problemas de Biologia Molecular
+Descrição: O trabalho proposto tem como objetivo o desenvolvimento de novas técnicas que utilizem Redes Neurais Artificiais para o auxílio na resolução de problemas em biologia molecular. Em particular, serão investigados problemas envolvendo: Reconhecimento de genes em seqüências de nucleotídeos, em particular a identificação de sítios de splice alternativos, Reconhecimento de promotores e a Previsão de operons em sequências de genes, reconhecimento de genes em seqüências de DNAs.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Zhao Liang - Integrante / André C. P. L. F. de Carvalho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

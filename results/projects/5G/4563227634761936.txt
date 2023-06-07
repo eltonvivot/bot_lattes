@@ -1,0 +1,57 @@
+2022 - Atual
+Macroprojeto integrador: Investigação em Tecnologias Digitais na Educação
+Descrição: Este macroprojeto contempla pesquisas interdisciplinares realizadas no escopo das tecnologias computacionais para o ensino na educação no contexto digital, considerando-se distintas abordagens teóricas e metodológicas. O objetivo geral é investigar metodologias e tecnologias na interseção entre o pensamento computacional, tecnologias educacionais e o processo de ensino e aprendizagem. Os objetivos específicos consistem em investigar: 1) propostas dos múltiplos cenários de ensino com aplicativos e interfaces digitais; 2) o pensamento computacional, tecnologias educacionais e o ensino 3) o impacto da aplicação do pensamento computacional no desempenho escolar e raciocínio lógico dos estudantes. Com os resultados desse macroprojeto, espera-se colaborar para o aprofundamento do debate científico e o aprimoramento da formação docente e discente no tocante às tecnologias educacionais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Valentim dos Santos Filho - Integrante / camila bezerra da silva - Integrante / ELEAZAR GERARDO MADRIZ LOZADA - Integrante / IVANOE JOAO RODOWANSKI - Integrante / JULIANNA PINELE SANTOS PORTO - Integrante / KATIA SILENE FERREIRA LIMA ROCHA - Integrante / Tassio Ferreira Valle - Coordenador.
+2021 - Atual
+PROPOSTA DE UM MODELO DE CUIDADO CENTRADO NA MULHER E SEUS DESFECHOS PERINATAIS
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Valentim dos Santos Filho - Integrante / João Soares de Oliveira Neto - Integrante / Eldman de Oliveira Nunes - Integrante / Paulo Nazareno Maia Sampaio - Integrante / Clotilde Assis Oliveira - Integrante / Elizabete de Jesus Pinto - Integrante / Kelly Albuquerque de Oliveira - Integrante / Renata de Oliveira Campos - Integrante / Cinthia Soares Lisboa - Integrante / Caroline Tianeze de Castro - Integrante / Caroline Ramalho Galvão - Integrante / djanilson barbosa dos santos - Coordenador.
+2020 - Atual
+Smart UFRB
+Descrição: O objetivo deste projeto de pesquisa e desenvolvimento (P&D) é diagnosticar, formular e
+implementar soluções com a utilização das Tecnologias de Informação e Comunicação (TICs)
+e sobretudo de Sistemas Inteligentes em diversos temas relacionados à temática das Cidades
+Inteligentes, tais como, segurança, eficiência energética, mobilidade, sustentabilidade,
+acessibilidade e governança, entre outros, porém aplicadas aos campi da UFRB.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Valentim dos Santos Filho - Coordenador / Acbal Achy Andrade Rucas - Integrante / camila bezerra da silva - Integrante / Ramon Pereira Lopes - Integrante / Tassio Ferreira Vale - Integrante / Jorge Alberto Prado de Campos - Integrante / Josemar Rodrigues de Souza - Integrante.
+2014 - Atual
+Aplicação de bases wavelet no estudo de escoamento em meios porosos considerando parâmetros de incerteza.
+Descrição: O presente projeto visa investigar os problemas de escoamento em meios porosos sob parâmetros de incerteza utilizando a aproximação numérica de equações integrais de Fredholm de segunda espécie pelo método de Galerkin com wavelets ortogonais. Este método é particularmente atraente para as equações homogêneas uma vez que a ortogonalidade das funções de base conduz a um problema padrão de valores próprios. As funções wavelets tem sido exaustivamente estudada na literatura para o caso unidimensional. Neste sentido o projeto visa descrever uma derivação bidimensional de funções wavelet a partir do caso unidimensional e apresentar resultados numéricos sob meios porosos saturados considerando equações de advecção-difusão sobre parâmetros de incerteza. Além disso, pretende-se melhorar a convergência da solução por buscar bases mais regulares num domínio limitado visto que este é um problema não trivial... Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Valentim dos Santos Filho - Integrante / Gildeberto de Souza Cardoso - Integrante / Juarez dos Santos Azevedo - Coordenador.
+2014 - Atual
+USO DE MISTURAS DE DIESEL, BIODIESEL E ETANOL EM MOTORES DIESEL
+Descrição: O biodiesel é um biocombustível tem sido bastante proposto para utilização em motores Diesel, pois tem apresentado redução nas emissões de monóxido de carbono, hidrocarbonetos, e material particulado, contudo, com um discreto aumento das emissões de NOx, motivando, portanto, a inclusão de outros compostos visando a minimização deste poluente. Neste projeto pretende-se estudar os efeitos da adição de etanol no desempenho mecânico e no perfil de emissões de diferentes motores de ignição por compressão pelo uso de misturas de diesel, biodiesel e etanol e pela injeção indireta do etanol pelo ar de admissão do motor operando na mistura de diesel e biodiesel. Os experimentos serão realizados em um motor de injeção direta acoplado em um dinamômetro em que o etanol será aquecido e injetado eletronicamente no ar de admissão. O segundo momento experimental será realizado a partir de misturas, em diferentes proporções de diesel, biodiesel e etanol em um único tanque de alimentação. Serão avaliados os quesitos de desempenho mecânico e perfil de emissões visando aumentar a fração renovável na mistura combustível... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: José Valentim dos Santos Filho - Integrante / Gildeberto de Souza Cardoso - Integrante / Acbal Rucas Andrade Achy - Integrante / Luiz Carlos Simões Soares Junior - Integrante / Vitor Pinheiro Ferreira - Integrante / Iuri Pepe - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2014 - Atual
+APLICAÇÕES DE CONTROLE EM SISTEMAS ROBÓTICOS NÃO-HOLONÔMICOS
+Descrição: Projeto aprovado no Edital 011/2014, com objetivo de apoio à formação e articulação de redes de pesquisa no Estado da Bahia. Busca fortalecer parcerias entre a UFBA, UFRB e UESC no contexto da engenharia e computação... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: José Valentim dos Santos Filho - Coordenador / Gildeberto de Souza Cardoso - Integrante / Leizer Schnitman - Integrante / Acbal Achy Andrade Rucas - Integrante / Igor Dantas dos Santos Miranda - Integrante / Luiz Carlos Simões Soares Junior - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2013 - 2015
+Estratégias de otimização de utilização do espectro em Redes Cognitivas
+Descrição: Diante do cenário de escassez espectral resultante da política de alocação fixa adotada pelos órgãos regulatórios, tais como a ANATEL (Agência Nacional de Telecomunicações) aqui no Brasil, estudos  realizados pela Força Tarefa em Políticas de Espectro da Comissão de Comunicações Federal (FCC ? Federal Communications Commission) detectaram que apesar do espectro já estar alocado quase que na sua totalidade, há uma considerável sub-utilização do mesmo.  Foi nesse contexto que surgiu o conceito de Redes Cognitivas, também denominadas de Redes de Rádio Cognitivo ou Redes sem Fio de Próxima Geração.  As Redes Cognitivas são uma tecnologia de rede que aumenta a eficiência da alocação espectral por meio do acesso oportunista às faixas de frequência sub-utilizadas.
+O Rádio Cognitivo utiliza técnicas de sensoriamento espectral, a fim de detectar  momentos de sub-utilização do espectro e fazer a exploração deste de forma oportunista. Este projeto de pesquisa pretende investigar, avaliar e propor protocolos e estratégias inteligentes para utilização do espectro de maneira otimizada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Valentim dos Santos Filho - Coordenador / Joel Eugênio Cordeiro Júnior - Integrante.
+2010 - 2011
+Capivara-TV
+Descrição: Este projeto visa o desenvolvimento de um Game para TV Digital Interativa  construído sob a plataforma Ginga-NCL. O objetivo deste Game, do tipo Quiz é divulgal o Parque Nacional da Serra da Capivara, no Piauí. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: José Valentim dos Santos Filho - Coordenador.Financiador(es): Ministério da Cultura - Auxílio
+										financeiro.
+2009 - 2013
+Sistema  de monitoramento em tempo-real de culturas agrícolas utilizando Redes de Sensores sem fio.
+Descrição: O Vale do São Francisco é uma área irrigada que notabilizou-se por ser um pólo exportador de frutas para Europa e Japão. No entanto, práticas agrícolas no que diz respeito ao monitoramento das variáveis climáticas ainda deixam a desejar, ou por executarem medidas pontuais e extrapolarem para uma grande área, ou por realizarem medidas com um intervalo de tempo muito grande prejudicando assim a precisão na avaliação dos dados obtidos, e consequentemente, as ações a serem tomadas. A agricultura de precisão é a tecnologia cujo objetivo consiste em aumentar a eficiência, com base no manejo diferenciado de áreas na agricultura. Neste contexto, as Redes de Sensores sem fio desempenham um papel bastante importante, pois elas propiciam acompanhar remotamente, em tempo-real, o comportamento de parâmetros como a umidade do solo, por exemplo, em locais de difícil acesso.
+No presente projeto de pesquisa propõe-se o desenvolvimento de um sistema de monitoramento em tempo-real, por meio de uma Rede de Sensores sem fio, de parâmetros de diversas naturezas, para utilização em campos agrícolas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Valentim dos Santos Filho - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2009 - 2011
+Usando a Realidade Virtual como ferramenta de auxílio no ensino de conteúdos de Física em escolas públicas.
+Descrição: O ensino dos conteúdos de Física de uma forma geral nas escolas
+públicas de todo Brasil deixa muito a desejar. Professores com formação
+inadequada e ausência de laboratórios onde os alunos confimariam na
+prática os conceitos discutidos em sala de aula são alguns dos fatores que
+contribuem para o insucesso no ensino dessa disciplina. Com base na literatura
+extraimos que no processo de ensino-aprendizagem nota-se que
+há uma maior dificuldade de compreensão dos fenômenos dos quais os
+estudantes não podem presenciar. Os métodos de ensino tradicionais baseados
+em quadro negro e giz tornam-se cansativos e desmotivantes para
+os alunos, provocando falhas no aprendizado. Além disso, mais do que
+identificar problemas e assinalar soluções para os atuais modelos educacionais,
+existe uma demanda por novas formas de lidar e de experimentar o
+conhecimento e a informação, aproveitando a tecnologia de que já dispomos.
+A Realidade Virtual baseia-se na construção de ambientes e objetos
+tridimensionais permitindo ao estudante interagir com a cena virtual facilitando
+assim a compreensão dos fenômenos estudados. Neste projeto de
+pesquisa, propõe-se a elaboração de um ambiente virtual inteligente voltado
+ao auxílio de conteúdos de Física em escolas do ensino médio.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Valentim dos Santos Filho - Coordenador.

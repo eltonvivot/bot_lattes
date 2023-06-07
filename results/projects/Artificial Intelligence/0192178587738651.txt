@@ -1,0 +1,13 @@
+2012 - 2016
+OBC de Satélite Universitário
+Descrição: Desenvolvimento e firmware e revisão de hardware de computador de bordo de satélite universitário.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rodrigo Marques de Figueiredo - Coordenador / Márcio Rosa da Silva - Integrante / Lúcio Renê Prade - Integrante.
+2012 - 2014
+UNIPROC
+Descrição: Projeto de Arquitetura Escalável de Processador. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Rodrigo Marques de Figueiredo - Coordenador / Márcio Rosa da Silva - Integrante / Eduardo Luis Rhod - Integrante / Lúcio Renê Prade - Integrante.
+2007 - 2008
+Desenvolvimento de arquiteturas e rotinas de multiplexação para o SBTVD (Sistema Brasileiro de Televisão Digital)
+Descrição: Partir da implementação atual do mux de dados do SBTVD e adicionar upgrades para a versão final, também definindo as arquiteturas a serem utilizadas para cada camada de multiplexação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (30)  / Especialização: (0)  / Mestrado acadêmico: (15)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rodrigo Marques de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2003
+Testes e Implementação de transmissores de RF
+Descrição: testes de módulos RF para a realização de enlace de redes de dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rodrigo Marques de Figueiredo - Integrante / Roberto Bedin Coutinho - Integrante / Rodrigo Javier Ormazábal - Integrante / Rubem Sprenger Dreger - Coordenador.

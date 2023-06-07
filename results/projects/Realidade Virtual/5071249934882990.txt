@@ -1,0 +1,15 @@
+2019 - Atual
+Ray VR
+Descrição: Este projeto investiga o uso de recursos recentes das GPUs modernas que implementam o Ray Tracing em tempo real. Ele combina esses recursos com a Realidade Virtual para explorar novas formas de visualização e interação imersivas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vinícius da Silva - Integrante / Luiz Velho - Coordenador / Tiago Novello de Brito - Integrante.
+2019 - Atual
+TCBR 488 - Fundamentos e técnicas de Data Science e suas aplicações em dados de testes de poços
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vinícius da Silva - Coordenador / Hélio Côrtes Vieira Lopes - Integrante.
+2018 - Atual
+VR Tour
+Descrição: VR Tour é uma plataforma tecnológica para a exploração de conteúdo em realidade virtual. Este projeto adota uma abordagem prática e colaborativa, em que o foco principal está nos aspectos de produção de aplicativos de RV.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vinícius da Silva - Integrante / Luiz Velho - Coordenador.
+2014 - Atual
+OMiCroN - Oblique Multipass Hierarchy Creation while Navigating
+Descrição: Criação de um algoritmo capaz de, em paralelo, criar estruturas hierárquicas espaciais, ordenar e renderizar dados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vinícius da Silva - Coordenador / Claudio Esperança - Integrante / Ricardo Guerra Marroquim - Integrante.
+2010 - 2013
+Lazy Work Stealing For Continuous Hierarchy Traversal On Deformable Bodies
+Descrição: Pesquisa em balanceamento de carga dinâmico para detecção contínua de colisões (CCD) usando hierarquias de volumes limitados (BVHs) em unidades de processamento gráfico (GPUs).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Vinícius da Silva - Coordenador / Claudio Esperança - Integrante.

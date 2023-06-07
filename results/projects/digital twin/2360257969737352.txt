@@ -1,0 +1,164 @@
+2019 - Atual
+Circuítos fotônicos e informação quântica
+Descrição: Visa o desenvolvimento de circuítos fotônicos fabricados através da técnica de escrita direta com lasers de femtosegundo em vidros e aplicação destes circuítos em informação quântica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Neves, Leonardo - Integrante / Wilder Rodrigues - Integrante / Patrick Matheus - Integrante / Paula Machado - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2018 - Atual
+Operações quânticas, circuitos fotônicos e testes fundamentais com fótons gêmeos
+Descrição: O objetivo deste projeto, é estudar fenômenos relacionados com estados quânticos de maiores dimensões (qudits), interação de qudits com ruído e processo de perda de coerência, a fabricação  e uso de circuítos fotônicos em vidro.
+Continuaremos com nossos estudos com qudits espaciais, mas agora se concentrando em novas estudos para caracterização de ruído em qudtis, seja na medida da capacidade quântica ou na medida de fase topológica com ruído.
+Além deste ponto, pretendemos desenvolver um novo esquema onde operações quânticas gerais são aplicadas a qudits e o estado se mantém disponível após a operação (projeção, por exemplo). O segundo ponto é desenvolver uma infraestrutura para realizar testes com fontes quânticas de luz em circuitos integrados fotônicos. Iniciamos recentemente esse tópico de pesquisa em colaboração com Prof. Cleber Renato Mendonça do IFSC-USP que coordenará a fabricação dos circuitos fotônicos no IFSC-USP. As propriedades quânticas dos circuitos fotônicos serão caracterizadas no laboratório de óptica quântica da UFMG, em Belo Horizonte e a simulação dos parâmetros contarão com a colaboração dos Profs. Pierre Louis de Assis da Unicamp e Filippo Ghiglieno da UFSCAR.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (5) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Antônio Zelaquett Khoury - Integrante / G. Lima - Integrante / Barros, M. R. - Integrante / MATOSO, A. A. - Integrante / C. R. Mendonça - Integrante / ASSIS, P-L DE - Integrante / MACHADO, P. - Integrante / CARDOSO, A. C. - Integrante / LAGES, EDUARDO - Integrante / CARDOSO, WILDER - Integrante / Patrick Matheus Ramos Lima - Integrante / Julian Camilo Triana Infante - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 19
+2017 - Atual
+Informação quântica e Circuítos fotônicos
+Descrição: O desenvolvimento de aplicações com sistemas quânticos é o grande desafio da área de informação
+quântica. Fonte de fótons correlacionados em diferentes graus de liberdade têm sido estudadas visando o seu uso em comunicação ótica, metrologia quântica, processamento de informação quântica e computação quântica. Várias aplicações de portas lógicas quânticas e outros circuitos quânticos foram demonstrados em montagens interferométricas sobre mesas óticas. No entanto, essas demonstrações não são escaláveis e os interferômetros óticos sofrem com instabilidades térmicas e mecânicas. A produção de circuitos fotônicos possuem várias vantagens: escalabilidade com a possibilidade de muitos interferômetros desenhados no mesmo dispositivo, estabilidade mecânica e possível integração no futuro da fonte, interferômetros e detectores O objetivo principal deste projeto, é desenvolver uma infraestrutura para realizar testes com fontes quânticas de luz (pares de fótons gerados pela conversão paramétrica descendente) em circuitos integrados fotônicos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / BARROS, M. - Integrante / C. R. Mendonça - Integrante / FERRAZ, JOSÉ - Integrante / ASSIS, P-L DE - Integrante / Denise Ferreira Ávila - Integrante / LAGES, EDUARDO - Integrante / Wilder Rodrigues - Integrante / Patrick Matheus Ramos Lima - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2017 - Atual
+Instituto Nacional de Ciência e Tecnologia de Informação quântica - CNPq
+Descrição: O Instituto de Nacional de Ciência e Tecnologia de Informação Quântica - CNPq é projeto nacional que congrega laboratórios e teóricos na área de informação quântica. A coordenação é da Professora Belita Koiller da UFRJ.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (4) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Belita Koiller - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 11
+2015 - Atual
+Organização do evento local "Workshop on Quantum Information and Quantum Optics"
+Descrição: Evento a ser realizado em Santana do Riacho, MG. Objetivo: Financiamento de Encontro local promovido pelo Grupo de pesquisa Enlight, UFMG, 9-11/04/2015.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Pierre  Louis de Assis - Integrante / Natália Móller - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2014 - Atual
+Informação quântica e testes fundamentais com fótons gêmeos - Bolsa de produtividade do CNPq 1B
+Descrição: Projeto de pesquisa para bolsa produtividade do CNPq. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (3) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador.
+2014 - Atual
+Larger quantum dimensionality for fundamental tests of quantum mechanics and quantum information processing
+Descrição: Membro da equipe do projeto de cooperação internacional  entre o DF-UFMG  e Universidade di Roma "La Sapienza". Programa da CAPES (Institucional): Pesquisador visitante especial. Prevê estadias do Prof. Fabio Sciarrino no Brasil (e de Professores brasileiros em Roma) e bolsas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Carlos Henrique Monken - Coordenador / Marcelo O. Terra Cunha - Integrante / Marcelo Paleólogo Elefteriadisde França Santos - Integrante / Sciarrino, Fabio - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2014 - Atual
+Coordenador do projeto universal - FAPEMIG - Informação quântica em sistemas fotônicos de muitas partes  - R\$ 41.000,00
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2013 - 2015
+Projeto para bolsa de  Pós-doutorado Júnior - CNPq - Informação quântica com fótons correlacionados
+Descrição: Projeto para obtenção de bolsa de pós-doutorado para Dra. Alejandra Esparza Gutierrez  - Pós-doutorado Júnior - CNPq. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Alejandra Judith Esparza Gutierrez - Integrante.
+2012 - 2014
+Coordenador do Projeto Universal-CNPq: Informação quântica com fótons: fonte eficiente de fótons emaranhados
+Descrição: Foi solicitado uma bolsa de iniciação científica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador.
+2012 - Atual
+Coord. técnico do projeto: Emaranhamento, Não-localidade, Contextualidade, e a busca de experimentos Loop-hole free
+Descrição: Coordenador (lado brasileiro) do projeto de cooperação internacional ?Emaranhamento, Não-Localidade, Contextualidade e a busca por experimentos Loophole-free? entre o DF-UFMG  e Universidade de Sevilha e Estocolmo. Integrantes: S. Pádua (Coordenador técnico, lado brasileiro) e outros . Programa da CAPES (Institucional): Pesquisador visitante especial. Prevê estadias do Prof. Adán Cabello no Brasil (e de Professores brasileiros e alunos no exterior) e bolsas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Marcelo O. Terra Cunha - Integrante / Marcelo Paleólogo Elefteriadisde França Santos - Integrante / DRUMOND, R. - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.Número de produções C, T & A: 2
+2010 - 2014
+Informação quântica com estados fotônicos- Bolsa de produtividade do CNPq 1C
+Descrição: Projeto de pesquisa para Bolsa de produtividade - CNPq- Nível 1C. Em 2013, fui promovido ao nível 1B.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Pádua, S. - Coordenador / Pierre  Louis de Assis - Integrante / Pimenta, W. M. - Integrante / MATOSO, A. - Integrante / BORGES, GILBERTO - Integrante / FERRAZ, JOSÉ - Integrante / Breno Marques Teixeira - Integrante.
+2010 - 2013
+Núcleo de óptica e informação quântica de Minas Gerais - Pronex - Informação quântica com fótons emaranhados
+Projeto certificado pelo(a) coordenador(a) Carlos Henrique Monken em 15/03/2013.
+Descrição: Núcleo de Óptica Quântica e Informação Quântica de Minas Gerais ? PRONEX - Informação quântica com fótons emaranhados ? Fapemig ? 
+Integrantes: S. Pádua (Equipe Executora), C. Monken (Coordenador) e outros. 
+Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais-FAPEMIG.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (5) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Carlos Henrique Monken - Coordenador / Marcelo O. Terra Cunha - Integrante / Marco Antônio Sagioro - Integrante / Marcelo Paleólogo Elefteriadis de França Santos - Integrante / OLINDO, C. - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2010 - 2012
+Coordenador do Projeto Universal-CNPq: Informação quântica com moduladores espaciais
+Descrição: Coordenador do Projeto Universal-CNPq: Informação quântica com moduladores espaciais ?  Integrantes: S. Pádua (Coordenador) e outros.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Pimenta, W. M. - Integrante / Marques, B. - Integrante / Ferraz, J. - Integrante / DE ASSIS, P.-L - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2012
+Coord. (lado brasileiro): Informação quântica no espaço de Hilbert de altas dimensões-CNPq/CNR
+Descrição: Coordenador (lado brasileiro) do projeto de Cooperação internacional CNPq/CNR (Brasil/Itália) entre o DF-UFMG e o DF/Università degli Studi di Roma ?La Sapienza?. Informação quântica no espaço de Hilbert de altas dimensões Integrantes: S. Pádua (Coordenador, lado brasileiro), Paolo Mataloni (Coordenador, lado italiano), e outros .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Marcelo O. Terra Cunha - Integrante / Reinaldo Vianna - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.
+2010 - 2011
+Coord. do Prog. de Excelência Acadêmica ? PROEX - pós-grad. do DF-UFMG.
+Descrição: Coordenador do Programa de Excelência Acadêmica ? PROEX - para o programa de pós-graduação do DF-UFMG. Objetivo: Financiamento de custeio, gastos com capital e bolsas do programa de pós-graduação do DF-UFMG.
+Integrantes: S. Pádua (Coordenação e gerenciamento do projeto); e outros. 
+Financiador(es): Coordenação de aperfeiçoamento de pessoal de nível superior ? CAPES.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (60) Doutorado: (80) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Marcelo O. Terra Cunha - Integrante / Marcelo Paleólogo Elefteriadisde França Santos - Integrante / Flávio Orlando Plentz Filho - Integrante / Ado Jório de Vasconcelos - Integrante / Cunha, M. O. Terra - Integrante / Nemes, M.C. - Integrante / Ana Maria de Paula - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2010 - 2011
+Sub-projeto Institucional Pró-equipamentos - CAPES - Estudo de fenômenos ultra-rápidos e de baixa intensidade luminosa via aquisição de imagens
+Descrição: Pró-equipamentos - CAPES - R$133.000,00 - Integrantes: S. Pádua (Coordenador do sub-projeto) e outros.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Ubirajara Agero Batista - Integrante / Ana Maria de Paula - Integrante.Financiador(es): Universidade Federal de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2011
+Coordenador do Acordo Técnico - Capes-Fapemig
+Descrição: Projeto do programa de pós-Graduação, que incluía recursos para o programa, bolsa de pós-doutorado "Conhecimento novo", além de grant para o bolsista. Objetivo: Financiamento da internacionalização do programa de pós-graduação do DF-UFMG e bolsa de pós-doutorado para exploração da fronteira de novos conhecimentos".
+Financiador(es):  CAPES e FAPEMIG. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (60) Doutorado: (80) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Fernando Guadalupe S. L. Brandao - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2009 - 2010
+Coord. do Programa de Excelência Acadêmica ? PROEX - pós-grad. do DF-UFMG
+Descrição: Coordenador do Programa de Excelência Acadêmica ? PROEX - para o programa de pós-graduação do DF-UFMG. Objetivo: Financiamento de custeio, gastos com capital e bolsas do programa de pós-graduação do DF-UFMG.
+Integrantes: S. Pádua (Coordenação e gerenciamento do projeto); e outros. 
+Financiador(es): Coordenação de aperfeiçoamento de pessoal de nível superior ? CAPES.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (60) Doutorado: (80) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Franklin Matinaga - Integrante / Marcelo Paleólogo Elefteriadis de França Santos - Integrante / Flávio Orlando Plentz Filho - Integrante / Ado Jório de Vasconcelos - Integrante / Jafferson Kamphorst Leal da Silva - Integrante / Cunha, M. O. Terra - Integrante / Ana Maria de Paula - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2009 - Atual
+Instituto Nacional de Ciências e Tecnologia de informação quântica - CNPq
+Descrição: Instituto Nacional de Ciência e tecnologia de Informação Quântica ? CNPq -  Participantes ? S. Pádua, Amir Caldeira (Coordenador);  e outros. 
+Projeto de pesquisa nacional com mais de 70 membros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Carlos Henrique Monken - Integrante / Eduardo Jorge da Silva Fonseca - Integrante / Paulo Henrique Souto Ribeiro - Integrante / Marcelo Paleólogo Elefteriadisde França Santos - Integrante / Maria Carolina Nemes - Integrante / Antônio Zelaquett Khoury - Integrante / Amir Caldeira - Coordenador / Kaled Dechoum - Integrante / Davidovich, L. - Integrante / José Antônio Roversi - Integrante / WALBORN, S. - Integrante / Daniel Felinto - Integrante.
+2008 - 2014
+Coordenador do Projeto MEC/CAPES/MCT/CNPQ/FINEP - Ação em áreas estratégias: Informação quântica com fibras óticas
+Descrição: Projeto MEC/CAPES/MCT/CNPQ/FINEP - 1 bolsa pos-doutorado por cinco anos e R\$ 12.000,00/ano como grant ao pesquisador.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / FERRAZ, JOSÉ - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Coordenador do Projeto Universal: Informação quântica com fibras óticas
+Descrição: Projeto de Pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Informação quântica com cristais líquidos programáveis
+Descrição: Projeto de Pesquisa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador.
+2008 - 2010
+Informação quântica com cristais líquidos programáveis
+Descrição: Projeto de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2009
+Organização de Conferência internacional - Quantum Optics IV
+Descrição: Financiamento de Conferência internacional - Quantum Optics IV em Florianópolis - 13 a 17/11/2008 -Programa de apoio de eventos no país.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Marcelo O. Terra Cunha - Integrante / Marcelo Paleólogo Elefteriadis de França Santos - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2008 - 2009
+Organização da Conferência internacional - Quantum Optics IV
+Descrição: Financiamento da Conferência internacional - Quantum Optics IV em Florianópolis - 13 a 17/11/2008. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Marcelo O. Terra Cunha - Integrante / Marcelo Paleólogo Elefteriadis de França Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2008
+Coordenador (lado brasileiro) do projeto de Cooperação internacional CNPq/CONICYT (Brasil/Chile) entre o DF-UFMG e o DF/Universidade de Concepción (CNPQ-491097/2005-0): Emaranhamento e Implementação de Protocolos de Informação Quântica
+Descrição: Projeto de Cooperação internacional CNPq/CONICYT (Brasil/Chile) entre o DF-UFMG e o DF/Universidade de Concepción (CNPQ-491097/2005-0): Emaranhamento e Implementação de Protocolos de Informação Quântica.
+Área: Informação Quântica. Envolve cinco estudantes de doutorado brasileiros, três professores brasileiros e
+quatro professores chilenos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Gustavo Aquino Moreira Lima - Integrante / Marco Antônio Sagioro - Integrante / Leonardo Neves - Integrante / Alvaro N. de Oliveira - Integrante / Carlos Saavedra - Integrante / Jose Gabriel Aguirre Gómez - Integrante / Aldo Delgado - Integrante / Reinaldo Vianna - Integrante / Olavo Cosme da Silva - Integrante / Luis Alberto Roa Oppliger - Integrante / Marcelo Antonio Alves Talarico - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Comisión Nacional de Inverstigación Científica y Tecnológica - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2005 - 2008
+Instituto do Milênio de Informação Quântica (Participante)
+Descrição: Projeto coordenado pelo Prof. Amir Caldeira com grupos de todo o país. Faço parte da equipe executora,
+com seis estudantes do Grupo de Ópica Quântica da UFMG, sendo três orientados por mim.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Carlos Henrique Monken - Integrante / Gustavo Aquino Moreira Lima - Integrante / Leonardo Neves - Integrante / Nadja Kolb Bernardes - Integrante / Pablo Lima Saldanha - Integrante / Amir Caldeira - Coordenador / Henrique Di Lorenzo Pires - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2005 - 2007
+Coordenador do Projeto Universal-CNPq: Ótica e Informação quântica com fótons gêmeos
+Descrição: Estudo da interação de fótons gêmeos com cavidades de Fabry-Perot, do seu uso na geração de imagens
+e para transmissão de informação. Estudo da gerção de estados quânticos de dois fótons de muitas dimensões.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Gustavo Aquino Moreira Lima - Integrante / Marco Antônio Sagioro - Integrante / Ivan Ferreira dos Santos - Integrante / Caio Olindo de Miranda e Silva Junior - Integrante / Leonardo Neves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2006
+Óptica Quântica com pulsos curtos (Coordenador)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante / Wallon A. T. Nogueira - Integrante / Marco Antônio Sagioro - Integrante / Caio Olindo de Miranda e Silva Junior - Integrante / Alvaro N. de Oliveira - Integrante / Olavo Cosme da Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2004 - 2004
+Organização do evento IX Escola Jorge André Swieca - Óptica Quântica e não-linear
+Descrição: Financiamento da IX Escola  Jorge André Swieca - Óptica Quântica e não-linear. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2002
+Coordenação conjunta com Dr. Franklin Matinaga  do projeto Corrosão  seletiva de materiais semicondutores - SEBRAE
+Descrição: Projeto de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Marco Antônio Sagioro - Integrante / Franklin Matinaga - Integrante.Financiador(es): Serviço de Apoio às Micro e Pequenas Empresas de Belo Horizonte - Auxílio
+										financeiro.
+2001 - 2006
+Instituto do Milênio de Informação Quântica - Participante - Concluído
+Descrição: Publicação de um artigo em Physical Review Letters e três em Physical Review A:  1) Estudo da resolução e apodização de imagens com luz no estado de dois fótons. (Tese de doutorado de Ivan Ferreira)
+2) Geração de Qudits com fendas múltiplas usando como fonte de luz, os pares de fótons gerados pela conversão paramétrica. (Tese de doutorado de Leonardo Neves e Gustavo Lima).
+Estágio de um pesquisador pós-doutor Dr. José Aguirre Gómez, entre setembro de 2004 a dezembro de 2004, 
+no Laboratório de Óptica quântioca da UFMG sob minha supervisão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Carlos Henrique Monken - Integrante / Wallon A. T. Nogueira - Integrante / Stephen P. Walborn - Integrante / Marcelo O. Terra Cunha - Integrante / Gustavo Aquino Moreira Lima - Integrante / Ivan Ferreira dos Santos - Integrante / Leonardo Neves - Integrante / Maria Carolina Nemes - Integrante / Luiz Davidovich - Coordenador / Reinaldo Vianna - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2006
+Instituto do Milênio de Nanotecnologia (CNPq) - Participante
+Descrição: Publicamos dois  trabalhos em Physical Review A, abordando processos de interferência quântica em cavidades com fótons gêmeos; foi submetido um artigo para Optics Communication, sobre o mapeamento da deformação de um pacote de onda ao atravessar uma micro-cavidade; foi realizado um experimento para o estudo do cancelamento de dispersão do pacote de onda ao passar por cavidades em um estado emaranhado,  a ser submetido; defesa de duas teses de doutorado (Marco Antônio Sagioro, 02/12/2204 e Caio Olindo em no início de 2006).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Carlos Henrique Monken - Integrante / Marco Antônio Sagioro - Integrante / Caio Olindo de Miranda e Silva Junior - Integrante / Franklin Matinaga - Integrante / Alaor Chaves - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2005
+CAPES ? COFECUB Cooperação Brasil-França. Visitas entre pesquisadores franceses e brasileiros. Bolsas sanduíches para dois estudantes brasileiros (UFMG e UFF) para estadia de um ano Paris. Antônio Zelaquett (UFF- COORDENADOR), Sebastião Pádua (UFMG),
+Descrição: Cooperação Brasil-França. Visitas entre pesquisadores franceses e brasileiros. Bolsas sanduíches para dois estudantes brasileiros (UFMG e UFF) para estadia de um ano Paris.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Paulo Henrique Souto Ribeiro - Integrante / Carlos Henrique Monken - Integrante / Paulo Nussensveig - Integrante / Antônio Zelaquett Khoury - Coordenador.Financiador(es): COFECUB - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2001 - 2005
+PROCAD: Propriedades quânticas da matéria e radiação   (CAPES). Projeto de Colaboração entre os pesquisadores de Òptica quântica e física atômica da UFPE, UFF, USP, UFRJ e UFMG.
+Descrição: Projeto de Cooperação entre os laboratórios de Óptica Quântica da UFMG, USP, UFF, UFRJ e UFPE.
+Tivemos visitas de professores entre os diversos laboratórios com discussões entre os pesquisadores e estudantes, um Encontro na UFF, intercâmbio de estudantes e publicações conjuntas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (5) . Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Paulo Henrique Souto Ribeiro - Integrante / Carlos Henrique Monken - Coordenador / Paulo Nussensveig - Integrante / Antônio Zelaquett Khoury - Integrante / Sandra Vianna - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2001 - 2005
+Projeto Fondecyt (Chile) de Cooperação internacional, Quantum Optics and Quantum   Information                  information,
+Descrição: Projeto Fondecyt (Chile) de Cooperação internacional, duração de 4 anos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sebastiao Jose Nascimento de Padua - Integrante / Carlos Saavedra - Coordenador / Juan Pablo Paz - Integrante.
+1998 - 2000
+Coordenador do Projeto: Óptica Quântica e Materiais
+Descrição: Projeto de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Sebastiao Jose Nascimento de Padua - Coordenador / Carlos Henrique Monken - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

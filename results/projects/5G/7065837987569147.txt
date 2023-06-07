@@ -1,0 +1,47 @@
+2019 - Atual
+Processamento Audiovisual de Voz por Aprendizagem de Máquina
+Descrição: Este plano de pesquisa explora uma base comum a várias áreas de processamento de sinais como análise de voz, codificação de voz e de áudio, reconhecimento da fala e de outras características de sinais de voz e de áudio e separação de sinais com regularizações para permitir ajustes mais adequados à finalidade desejada. Tradicionalmente, a análise de voz, além de seu interesse específico, propicia as representações do sinal e os parâmetros dos modelos necessários às outras áreas. Esta função tem sido questionada com os desenvolvimentos mais recentes em aprendizagem profunda, pretendendo-se estabelecer paralelos entre as duas abordagens para aumentar a compreensão. Além das formas de decomposição e modificação tempo-frequencial e de análise autorregressiva usuais, novas técnicas baseadas no aprendizado de máquina e na aprendizagem profunda serão propostas para realce, separação e síntese de sinais de voz e de áudio, avançando sobre as bases da análise tradicional. Serão pesquisadas máquinas com capacidade gerativa também para sinais de vídeo e séries temporais. Adicionalmente, os parâmetros e representações do sinal de voz também serão utilizados para a modelagem e elaboração de métricas não-intrusivas da qualidade do sinal de voz; para tal propósito, o sinal de voz é degradado utilizando diferentes parâmetros de um sistema de comunicação. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Renata Lopes Rosa - Integrante / Demostenes Zegarra Rodriguez - Integrante / BEGAZO, DANTE COAQUIRA - Integrante / Miguel Arjona Ramirez - Coordenador / MArio Minami - Integrante / Emilio del Moral Hernandez - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2018 - Atual
+Determinação de métrica de análise de sentimentos para associação a índice de qualidade de vídeo e aplicação em plataforma de ensino
+Descrição: Determinação de métrica de análise de sentimentos para associação a índice de qualidade de vídeo e aplicação em plataforma de ensino. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Coordenador / Demostenes Zegarra Rodriguez - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - Atual
+Nova métrica global para sistemas biométricos de íris considerando a qualidade das imagens
+Projeto certificado pelo(a) coordenador(a) Demostenes Zegarra Rodriguez em 21/09/2020.
+Descrição: Nova métrica global para sistemas biométricos de íris considerando a qualidade das imagens. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Integrante / Demostenes Zegarra Rodriguez - Coordenador / Surya Prakashi - Integrante / Jules-Raymond Tapamo - Integrante / Yuqing He - Integrante.
+2017 - Atual
+Avaliação do Serviço das Operadoras de Comunicações utilizando o índice de Qualidade de Voz
+Descrição: Descrição: Este projeto tem como objetivo principal avaliar o serviço das operadoras de comunicações de voz, com foco nas operadoras celulares, utilizando um índice de qualidade de voz, com o intuito de melhorar a qualidade de experiência do usuário. No Brasil, a Agencia Nacional de Telecomunicações (ANATEL) é a encarregada de supervisar os serviços oferecidos pelas operadoras de telecomunicações; para isso a ANATEL possui um regulamento com indicadores de qualidade para avaliar o Serviço Móvel Pessoal (SMP). Porém, nenhum desses indicadores estão relacionados com a qualidade de voz percebida pelo usuário uma vez estabelecida a chamada. Neste contexto, este trabalho pretende modelar um novo Indicador de Qualidade baseado na qualidade da voz. Este trabalho implementará uma ferramenta de avaliação de qualidade de voz no terminal móvel,. 
+Situação: Em andamento; Natureza: Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Integrante / Graça Bressan - Integrante / Demostenes Zegarra Rodriguez - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2016 - Atual
+Sistema de recomendação inteligente de produtos e serviços baseado no comportamento do cliente e em eventos
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Renata Lopes Rosa - Coordenador.
+2016 - Atual
+Estudo de Desempenho dos Algoritmos Biométricos de Íris
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Renata Lopes Rosa - Coordenador.
+2016 - Atual
+Determinação do Consumo de Energia em Dispositivos Móveis e seu Uso na Otimização do Streaming de Vídeo
+Projeto certificado pelo(a) coordenador(a) Demostenes Zegarra Rodriguez em 14/03/2017.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Renata Lopes Rosa - Integrante / RODRIGUEZ, DEMOSTENES ZEGARRA - Coordenador.
+2015 - Atual
+Análise de Sentimetos e Afetividade por Meio da Indentificação de Textos Críticos
+Projeto certificado pelo(a) coordenador(a) Graça Bressan em 22/11/2016.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Integrante / Graça Bressan - Coordenador.
+2015 - Atual
+Análise de Sentimetos e Afetividade por Meio da Indentificação de Textos Críticos
+Projeto certificado pelo(a) coordenador(a) Graça Bressan em 14/04/2016.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Integrante / Graça Bressan - Coordenador.
+2012 - 2014
+Concepção, desenvolvimento e implementação de uma Infraestrutura de Dados Espaciais da Universidade de São Paulo (IDE-USP)
+Descrição: O projeto IDE USP tem como objetivo conceber, desenvolver e implementar uma infraestrutura de Dados Espaciais que viabilize a organização, sistematização e compartilhamento do acervo de dados espaciais (mapas, dados georreferenciados, imagens de satélite, fotografias aéreas, entre outros) produzidos, adquiridos e utilizados pela Universidade de São Paulo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Integrante / Eunice Barbosa - Integrante / Ricardo Saleimen Nader - Integrante / Edgar Spilla - Integrante / José Alberto Quintanilha - Integrante / Mariana Abrantes Giannotti - Coordenador / Amarílis Montagnolli Gomes Corrêa - Integrante / Marcelo Eduardo Giacaglia - Integrante.
+2011 - Atual
+Análise de sentimentos e polaridade das Redes Sociais para estudo de tendências de mercado
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Integrante / Graça Bressan - Coordenador.
+2006 - 2009
+Utilização de algoritmos semi-probabilísticos de roteamento e sistemas de quorum em redes ad-hoc móveis sem fio tolerantes a falhas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Renata Lopes Rosa - Integrante / José Roberto de A. Amazonas - Coordenador.
+2000 - 2006
+Banco de Dados do Acervo de Projetos do Arquiteto Vilanova Artigas
+Descrição: Desenvolvimento de Sistema Georreferenciado do Acervo de Projetos do Arquiteto Vilanova Artigas, contendo os arquivos digitalizados pela Biblioteca da FAUUSP, com algumas plantas, cortes e pormenores, fotografias e maquetes eletrônicas elaboradas pelo Labarq. A Catalogação dos projetos foi feita segundo tipologia, ordem cronológica e nomenclatura. Há também referências bibliográficas das principais obras e artigos publicados sobre os projetos do arquiteto e a inclusão dos projetos em base cartográfica georreferenciada com visualização por intermédio do Google Earth.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renata Lopes Rosa - Integrante / Marlene Yurgel - Coordenador.

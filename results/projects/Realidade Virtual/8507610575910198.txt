@@ -1,0 +1,6 @@
+2012 - Atual
+SMH - Simulador Marítimo Hidroviário
+Descrição: Desenvolvimento do primeiro simulador virtual de manobras em tempo real com tecnologia nacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Humberto Shigueki Makiyama - Integrante / Eduardo Aoun Tannuri - Coordenador / Felipe Rateiro Pereira - Integrante / Denis Taniguchi - Integrante / Carlos Hakio Fucatu - Integrante / Fabiano Pinheiro Rampazzo - Integrante / Edgard Borges Malta - Integrante.
+2001 - Atual
+TPN
+Descrição: Simulador de sistemas offshore desenvolvido para clusters de computadores. Possibilita a simulação de sistemas complexos em curto período de tempo através da paralelização computacional.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Humberto Shigueki Makiyama - Integrante / Kazuo Nishimoto - Coordenador / Eduardo Aoun Tannuri - Integrante / Denis Taniguchi - Integrante / Carlos Hakio Fucatu - Integrante.

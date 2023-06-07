@@ -1,0 +1,79 @@
+2022 - Atual
+Um Sistema Multiagente para rastreio de sinais e acompanhamento funcional de crianças com o Transtorno do Espectro do Autismo através de jogos sérios em ambiente de ensino especial infantil
+Descrição: O estudo será aplicado em creches e escolas da cidade de Recife, e a fase inicial
+será definida por uma etnografia para coletar informações, como variáveis dependentes
+e independentes, para adequar os jogos sérios no plano de atividades definido pelo
+profissional da educação especial. Posteriormente, serão feitos experimentos com o uso
+do sistema multiagente para avaliação da aplicação. Por fim, serão feitas coletas de
+feedbacks, avaliando os dados quantitativos e qualitativos da pesquisa e ponderamento
+de propostas para possíveis trabalhos futuros. A expectativa é que, após a finalização
+desta pesquisa, o aplicativo possa receber um nível de amadurecimento continuo ao
+ponto de ter uma aplicabilidade viável para outras unidades de ensino. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Carlo Marcelo Revoredo da Silva - Coordenador / José Carlos Pantoja da Silva - Integrante / Tícia Cassiany Ferro Cavalcante - Integrante.Financiador(es): Universidade de Pernambuco - Auxílio
+										financeiro.
+2022 - Atual
+Núcleo de Inteligência Artificial e Computação em Nuvem aplicadas ao Gerenciamento de Informação e Eventos de Segurança
+Descrição: O objetivo geral desta proposta é dotar os laboratórios da UPE com a capacidade de construção de um núcleo de pesquisa e desenvolvimento de projetos multidisciplinares aplicados ao cenário SIEM. Para tanto, será necessário que possa prover terminais com bom desempenho, voláteis e escaláveis através de virtualização, possibilitando o provimento de uma infraestrutura com escalabilidade vertical em que os pesquisadores envolvidos possam realizar análises de prevenção e contramedidas em ambientes sandbox, ou seja, baseados em uma área restrita e isolada para testes e experimentos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (3)  / Mestrado acadêmico: (3)  / Mestrado profissional: (3)  / Doutorado: (3) . Integrantes: Carlo Marcelo Revoredo da Silva - Coordenador / Ivaldir Honório de Farias Junior - Integrante / Bruno José Torres Fernandes - Integrante / Paulo Hugo Espírito Santo Lima - Integrante / Vladimir Homobono Soares - Integrante / Renan Vasconcelos Bezerra Carvalho - Integrante / Márcio José de Carvalho Lima - Integrante.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.
+2022 - Atual
+Sincronização Inteligente dos Ciclos da Aciaria
+Descrição: Sincronização Inteligente dos Ciclos da Aciaria. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / Cleyton Mário de Oliveira Rodrigues - Coordenador.
+2022 - Atual
+Utilização de smart contracts em blockchain na esfera jurídica: aplicabilidade e impactos de uma rede permissionada no processo de M&A com Due Diligence.
+Descrição: o projeto tem por objetivo identificar e explorar o uso de smart contracts e blockchain para prover maior segurança e privacidade nos artefatos resultantes em atividades no segmento jurídico. Mais especificamente, observar os impactos e benefícios da apli. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / Lucas Candeia Teixeira - Integrante / Bruno José Torres Fernandes - Coordenador.
+2021 - 2023
+DESENVOLVIMENTO DE PLATAFORMA DE MEDIÇÃO  INTELIGENTE COM CYBERSECURITY, BUSINESS INTELLIGENCE  E BIG DATA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / PAULO SALGADO GOMES DE MATTOS NETO - Integrante / MANOEL HENRIQUE DA NÓBREGA MARINHO - Coordenador.
+2021 - 2022
+Identificação de prazos trabalhistas
+Descrição: Detecção de prazos trabalhistas através de processamento de linguagem natural em processos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / Bruno José Torres Fernandes - Coordenador.
+2021 - 2022
+Uma proposta para gerenciamento de chamados sustentados por um agente inteligente para tomadas de decisão
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / Muryllo Pimenta de Oliveira - Integrante / João Fausto Lorenzato de Oliveira - Coordenador / Nathanael Carauna Silveira da Motta - Integrante.
+2021 - Atual
+Técnicas de mitigação contra ataques de phishing
+Descrição: Visando mitigar ataques de phishing, técnicas de predição para phishing vem ganhando destaque, contudo, apresenta certos desafios. O contexto dinâmico do phishing, sensível a constantes mudanças (Alkhozae et al, 211), (Chelliah & Aruna, 2014), (Benavides et al, 2020), (Tandale et al, 2020). Sua volatilidade e propagação dificultam uma especificação de padrões mais bem definida (Alkhozae et al, 211), (Singh et al, 2020), (Subairu et al, 2020), (Benavides et al 2020), (Odeh et al, 2021). Além disso, mitiga-los pode resultar em processamento de um grande volume de dados (Whittaker et al, 2010), (Basit et al, 2020), (Benavides et al 2020). Por fim, é difícil compreender e estabelecer a relevância as características presentes em ataques de phishing (Kirda et al, 2005), (Naresh et al, 2013), (Chaudhry et al, 2016), (AlEroud et al, 2017), (Gangavarapu et al, 2020), (Silva et al, 2020), (Shaukat et al, 2020) (Odeh et al, 2021).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Mestrado acadêmico: (2) . Integrantes: Carlo Marcelo Revoredo da Silva - Coordenador / Bruno José Torres Fernandes - Integrante / João Fausto Lorenzato de Oliveira - Integrante / Luis Arturo Gómez Malagón - Integrante.
+2020 - Atual
+Uma proposta baseada em Representação Textual Simplificada para minimizar ataques de Phishing Direcionados
+Descrição: Metade dos golpes relacionados a cartões de crédito são aplicados através deataques de
+phishing, e protagonizados em ambientes de e-commerce. Através daengenharia social, o
+atacante traça perfis de suas vítimas com base emcaracterísticas inerentes ao contexto,
+como termos ou palavras-chave de umadeterminada marca, para registrar domínios com
+erros tipográficos propositais.Todavia, existem estudos que norteiam suas heurísticas com
+base na ausência dedetalhes textuais, ou seja, quanto menor a fidedignidade do phishing,
+maiores aschances de sucesso na detecção. Na mesma linha, a detecção é comprometida
+àmedida que o phishing tem maior fidedignidade, sendo um raciocínio semelhanteao crivo
+humano. Diante disso, o presente estudo tem como motivação apresentaruma heurística
+sustentada à medida que o phishing tem maior riqueza emdetalhes baseados na
+fidedignidade. Diante o exposto, esse projeto propõe utilizarNatural Language Processing
+(NLP), especificamente o modelo estatístico LatentDirichlet Allocation (LDA) ou baseado em
+Deep Learning, como estratégia pararepresentação simplificada da recuperação de
+informações. A abordagem sugereque certos termos sejam previamente relacionados a um
+conjunto de palavrassemanticamente relacionadas. A proposta é oferecer um mecanismo
+capaz deidentificar ataques de phishing considerando eventos sazonais e suas
+relaçõestipográficas a uma determinada marca.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlo Marcelo Revoredo da Silva - Coordenador / Lucas Candeia Teixeira - Integrante / Bruno José Torres Fernandes - Integrante.Número de produções C, T & A: 1
+2018 - 2018
+Geppetto Teacher - Framework para recomendação de conteúdo educacional em plataformas de jogos para crianças
+Descrição: Geppetto é a fábrica de brinquedos virtuais da Manifesto Games. Esses brinquedos se apresentam na forma de plataformas lúdicas para alunos de até 12 anos e são atualmente utilizados para auxiliar no ensino de inglês em escolas como Wizard, Cultura Inglesa São Paulo, Red Balloon, entre outros. A criação de plataformas baseadas no Geppetto envolve um longo processo de level design. O level design é o projeto de como, e em que que ordem, o conteúdo do jogo será apresentado ao jogador. Em um ambiente de aprendizagem, além da progressão dos níveis, envolve também a apresentação do conteúdo educacional. Em plataformas ativas, como as citadas, esse processo é contínuo. O level design clássico possui limitações conhecidas: (1) é dependente da experiência do designer e (2) utiliza uma ordem fixa de desafios para todos os jogadores. Esses problemas são tema de estudo tanto na indústria de jogos - com o balanceamento dinâmico de dificuldade - quanto na comunidade pedagógica com a aprendizagem adaptativa. No contexto do Geppetto, a solução precisa abordar os dois lados da personalização (lúdico e educacional). Além disso, o público infantil possui especificidades que não são devidamente tratadas nas soluções existentes. Dessa maneira, o Geppetto Teacher pretende criar processos e ferramentas para possibilitar que o level design, em plataformas baseadas no Geppetto, seja personalizável para cada aluno tanto em termos de dificuldade de jogo como de conteúdo educacional apresentado.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlo Marcelo Revoredo da Silva - Coordenador / Marco Túlio Caraciolo Ferreira Albuquerque - Integrante.
+2015 - 2016
+LAMPIAO - Rede de Tempo, CLimA e IMPactos: Uso da InformaçÃO de Tempo e Clima nos Setores de Recursos Hídricos e Agricultura
+Descrição: Projeto: 400079/20143
+Para a execução das atividades será constituída uma rede de instituições, liderada
+pela FUNCEME e composta pelos centros estaduais do Bahia (INEMA), Ceará
+(FUNCEME), Rio Grande do Norte (EMPARN), Paraíba (AESA), Pernambuco
+(APAC) e Piauí (SEMAR). A rede conta ainda com a participação de
+pesquisadores do CPTEC e INMET, assim como pesquisadores das seguintes
+universidades: Universidade Federal do Ceará (UFCE), Universidade Estadual do
+Ceará (UECE), Universidade da Integração Internacional da Lusofonia Afro-
+Brasileira (UNILAB), Universidade de Brasília (UnB), Universidade Federal de
+Campina Grande (UFCG) e Instituto de Astronomia, Geofísica e Ciências
+Atmosféricas/Universidade de São Paulo (IAG/USP). A Defesa Civil do Estado do
+Ceará e do Município de Fortaleza estão também envolvidas na presente proposta
+como beneficiárias dos resultados da mesma. Pretende-se ainda envolver a Defesa
+Civil de outros dois municípios: Pacatuba e Sobral.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / Eduardo Sávio Passos Rodrigues Martins - Coordenador.
+2011 - 2012
+SysMap - Software para diagnóstico e planejamento baseado em Clínicas de Desempenho com Arquétipos Sistêmicos
+Descrição: Desenvolver um produto de software para elaboração de diagnósticos e planejamento estratégicos, em torno de Clínica de Desempenho da Ação Profissional, com base na extração de Arquétipos Sistêmicos, considerando as informações coletadas pelos participantes, de forma colaborativa e na web.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (2)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / Cesar Augusto Delmas Cordeiro do Nascimento - Coordenador.Financiador(es): Programa de Formação de Recursos Humanos em Áreas Estratégicas (RHAE) - Bolsa.
+2010 - 2011
+FastWaiter - Automação comercial no setor gastronômico
+Descrição: Este projeto visa o desenvolvimento de um produto atrativo e inovador no segmento comercial de serviços e entretenimento focado em tecnologia para estabelecimentos do setor gastronômico. O produto descrito neste documento é um sistema eletrônico para bares e restaurantes, que permite aos clientes efetuarem seus pedidos e transações de conta diretamente através do mesmo, sem necessidade de chamar garçom ou atendente, realizando um serviço rápido e mais efetivo. A inovação gerada deriva da idéia do cliente do estabelecimento se tornar o usuário final que utiliza o produto responsável pela automação do atendimento, o que abre um leque de possibilidades de disponibilidade de novos serviços. Será mostrado também que o modelo de negócios escolhido tornará o produto tão acessível quanto os principais concorrentes do mercado, que são mais simples.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlo Marcelo Revoredo da Silva - Integrante / Allynson Praxedes Soares - Coordenador.Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio
+										financeiro.

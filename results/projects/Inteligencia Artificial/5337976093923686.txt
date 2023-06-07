@@ -1,0 +1,65 @@
+2019 - Atual
+Análise de imagem, conectividade e dinâmica
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano da Fontoura Costa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - Atual
+Representações intermediárias em Ciência Computacional para descoberta de conhecimento
+Projeto certificado pelo(a) coordenador(a) Roberto Marcondes Cesar Junior em 09/03/2021.
+Descrição: Este projeto centra-se em uma estratégia unificada para descoberta de conhecimento e dinâmicas emergentes em Ciência Computacional usando representações intermediárias. As aplicações pretendidas estão em áreas caracterizadas por extrema abundância de dados, nas quais a descoberta de conhecimento implica na transição das bases de dados brutos para representações intermediárias, usualmente vetores de características e grafos, permitindo assim o emprego subsequente de diferentes métodos analíticos. Nesse contexto, os métodos de integração e transformação a serem utilizados na geração dos dados intermediários também devem garantir a qualidade e confiabilidade dos dados gerados para a representação intermediária. Os resultados da fase de análise podem influenciar tanto os métodos de integração como experimentos para nova geração de dados através de mecanismos de feedback. O presente projeto possui dois objetivos gerais: 1) desenvolver métodos originais para resolver problemas de Ciência Computacional baseadas em uma abordagem comum de representações intermediárias; 2) aplicar os métodos desenvolvidos em problemas específicos. Essa estratégia metodológica será empregada para abordar problemas específicos em áreas de fronteira da Ciência, nos quais nosso grupo tem trabalhado nos últimos anos: representações intermediárias em visão computacional e informática urbana; estudo dinâmico de redes biológicas para caracterizar os mecanismos de transição saúde-doença; desenvolvimento de ferramentas computacionais para processamento de imagens de MRI de alto campo e sua integração com dados biológicos; desenvolvimento de novas técnicas para caracterização e visualização de representações intermediárias em redes complexas dinâmicas, com aplicações em Biologia de Sistemas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luciano da Fontoura Costa - Integrante / ROBERTO MARCONDES CESAR JUNIOR - Coordenador / Maria da Graça Campos Pimentel - Integrante / MOREIRA-FILHO, CARLOS ALBERTO - Integrante / Cesar Henrique Comin - Integrante / Nina Sumiko Tomita Hirata - Integrante / Edson Amaro Junior - Integrante / Fernanda Bernardi Bertonha - Integrante / Marcel Parolin Jackowski - Integrante / Roberto Hirata Junior - Integrante / Ronaldo Fumio Hashimoto - Integrante / Silvia Yumi Bando Takahara - Integrante / Valeria Meireles Carril Elui - Integrante.
+2013 - 2016
+Graph Spectra and Complex Nework Evolution
+Descrição: One of the reasons for the current interest in networks comes from the realization that many complex systems in the real world
+can be represented as heterogeneous networks of interaction between their elements (e.g. [13]). Among the
+many different approaches to the subject, it is statistical and computational physics that play a prominent role.
+Complex networks has emerged as a recent distinct sub-discipline in Physics. However, although their study
+commenced ten years ago, there is still a critical remaining challenge, that is to transform a largely descriptive
+and empirical theory into a predictive one. The aim of this project is precisely to advance in this direction by
+taking on the challenging problem of how to reveal the relationship between network topology and the dynamics
+or functionality in complex systems. Within the scope of this project, it is not possible to exhaustively examine
+every different type of dynamics. Instead we will focus on a few key systems and try to elucidate more general
+rules connecting network properties or characteristics, to dynamics. The vast majority of published work is this
+area is based on simulations, which attempt to show how the collective behavior of a complex network changes
+by tuning the different parameters that characterize it. However, from a theoretical perspective much less has
+been investigated or achieved. The main reason for this resides in the difficulty of the mathematical techniques
+involved. In fact, until very recently it was not even known how to begin to address such problems. Most natural
+networks are very noisy, both in terms of nodes and links. Stochastic network models can help understanding
+internal noise instead of focusing on average behaviour and losing essential information.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Luciano da Fontoura Costa - Coordenador / Edwin Hancock - Integrante.
+2012 - 2016
+Modelos e metodos de E-Science para Ciências da Vida e Agrárias
+Descrição: A ciência moderna é crescentemente interdisciplinar e intensiva em dados. Na
+área de ciências da vida, por exemplo, com o surgimento de plataformas de alto
+desempenho para análise de imagens e estudos genômicos, o gargalo não está mais na
+aquisição de dados, mas sim no seu armazenamento, processamento, análise e
+visualização. Este cenário levou ao surgimento de um novo campo de pesquisa -
+eScience - que combina pesquisa avançada em computação e em modelagem
+matemática para permitir e acelerar pesquisa em outros domínios do conhecimento,
+desde as ciências exatas até as humanidades e artes. A eScience envolve a chamada
+"computação centrada em dados" (data-intensive computing), com a busca de soluções
+para gerenciamento de grandes volumes de dados produzidos por (e para) experimentos
+científicos, para que a descoberta científica não venha a ser detida pelo "dilúvio de
+dados". Este projeto visa a criação de uma rede colaborativa de eScience para acelerar
+pesquisa avançada em ciências da vida (biologia, medicina, oceanografia) e ciências
+agrárias. Está estruturado em tomo de cinco linhas de pesquisa - biologia de sistemas,
+planejamento de safras, computação visual, modelagem matemática e bancos de dados.
+Dentro dessas linhas, serão tratadas questões em aberto associadas às principais
+componentes de um ambiente de pesquisa em eScience: armazenamento,
+processamento, análise e visualização de grandes volumes de dados científicos. Os
+pesqui sadores principais têm histórico de cooperação e coordenação de projetos nessaslinhas. Questões de interoperalidade permeiam todo o projeto. (AU). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (4)  / Doutorado: (5) . Integrantes: Luciano da Fontoura Costa - Integrante / Roberto Marcondes Cesar Jr - Coordenador / Carlos Moreira - Integrante / Cláudia Bauzer Medeiros - Integrante.
+2006 - 2013
+Projeto Cinapce
+Descrição: Neste projeto, caberá ao nosso grupo desenvolver novos métodos para análise e processamento de imagens 3D obtidas por ressonância magnética na pesquisa da epilepsia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luciano da Fontoura Costa - Integrante / A Tannus - Coordenador / L Mello - Integrante.Financiador(es): Instituto de Fisica de Sao Carlos - Cooperação / Universidade Federal de São Paulo - Cooperação / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2006 - 2011
+Modelagem por redes e tecnicas de reconhecimento de padroes.
+Descrição: Desenvolvimento e aplicacoes de redes e teorias dos grafos, sob os pontos de vista de estrutura, dinamica e acpliacoes,  para representacao e modelagem de imagens e sistemas biologicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Luciano da Fontoura Costa - Integrante / Roberto Marcondes Cesar Jr - Coordenador / Junior Barrera - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2004 - 2010
+Projeto Internacional em Bioinformática e Análise de Imagens
+Descrição: Projeto conjunto com o IME-USP, MIT e Harvard Medical School, onde aplicaremos técnicas de análise de imagens por nós desenvolvidas para resolução de problemas em expressão gênica e bioinformática.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luciano da Fontoura Costa - Integrante / J BARRERA - Integrante / S J Souza - Integrante / L Ohno Machado - Coordenador.Financiador(es): Instituto de Matemática e Estatística Usp - Cooperação / Massachusetts Institute of Technology - Cooperação / National Institute Of Health - Auxílio
+										financeiro / Harvard University - Cooperação.
+2002 - 2005
+Caracterização e modelagem físico-matemática da expressão gênica na formação do coração de quatro espécies de vertebrados.
+Descrição: Nosso grupo é responsável pela carcterização e modelagem físico-matemática da expressão gênica durante o desenvolvimento embrionário, devendo obter, ao longo do projeto, métodos e medidas originais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Luciano da Fontoura Costa - Integrante / Juan Carlos Izpisua Belmonte - Coordenador / Gehrard B Mueller - Integrante / Diego Rasskin Gutman - Integrante.Financiador(es): Universitat Wien - Cooperação / Human Frontier Science Program - Auxílio
+										financeiro / Salk Institute for Biological Studies - Cooperação.Número de produções C, T & A: 14
+2000 - 2006
+Desenvolvimento de métodos originais para análise de formas e imagens em visão computacional.
+Descrição: Projeto Temático em conjunto com 3 outros grupos de pesquisa, onde desenvolvemos diversas técnicas originais para processamento e análise de imagens validadas por aplicações a problemas reais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Luciano da Fontoura Costa - Coordenador / R M FARIA - Integrante / V OBAC RODA - Integrante / R M Cesar Jr - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 104

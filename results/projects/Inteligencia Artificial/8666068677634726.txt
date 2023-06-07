@@ -1,0 +1,42 @@
+2022 - Atual
+Aplicação de RNAs ao problema da taxa de germinação de sementes
+Descrição: Este projeto visa a utilização de técnicas de processamento de imagens e de Convolutional Neural Netwroks ao problema do cálculo da taxa de germinação em sementes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Ricardo Gonçalves Manzan - Integrante / Marcelo da Silva Barreiro - Coordenador / Igor Vendramini Mendes Garcia - Integrante / Matheus Calegari Moizinho - Integrante.
+2020 - Atual
+Sistema de classificação de espécies de sementes
+Descrição: Este projeto visa a aplicação de Convolutional Neural Networks ao problema de classificação de espécies de sementes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Lilian Afonso Cândido - Integrante / Fernando Victor Pereira de Oliveira Lima - Integrante / Breno Alves Moreira - Integrante.
+2020 - Atual
+Aplicação de Redes Neurais Artificiais no cálculo de lotação de pastagens
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Dawson José Guimarães Faria - Integrante / Guilherme Massaru Ganeko - Integrante / Rangel Neves Souza - Integrante / Breno Alves Moreira - Integrante / Lucas Moragas Melo Oliveira - Integrante.
+2019 - 2020
+Reconhecimento automático de imagens de produtos vendidos em supermercados
+Situação: Concluído; Natureza: Pesquisa. Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Thiago Henrique Lopes - Integrante.
+2019 - 2019
+Sistema modular para geração automática de grade horária de aulas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Felipe Porfirio Fuzaro - Integrante / Maria Fernanda Rocha Pereira - Integrante.
+2019 - Atual
+Ortogonalização dos espaços de saida de redes Convolucionais
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Nathan Silva Rodrigues - Integrante.
+2019 - Atual
+Aplicação de redes neurais artificiais para recomendação de um estilo de dança de acordo com o perfil do usuário
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Ricardo Gonçalves Manzan - Coordenador / João de Oliveira Junior - Integrante.
+2019 - Atual
+Aplicativo de reconhecimento facial para contabilização de frequências
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Ricardo Gonçalves Manzan - Coordenador / João Pedro Sanches Dovichi - Integrante.
+2018 - 2020
+Aplicação de redes neurais artificiais no apoio ao diagnóstico de doenças na avicultura
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Murilo Marcineiro de Almeida - Integrante / Tiago Elias Carvalho Oliveira - Integrante.
+2018 - 2019
+Sala de aula invertida para a disciplina de álgebra linear do curso de engenharia de computação
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Ana Paula Arantes Lima - Integrante / Lívia Mara Menezes Lopes - Integrante / Dayane dos Reis Salamanduka - Integrante.
+2018 - 2018
+Precificação Inteligente
+Descrição: Projeto que visa a criação de uma ferramenta heurística de apoio a decisão na indicação de preços na rede varejista.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Murilo Marcineiro de Almeida - Integrante / Ana Lúcia de Araújo Borges - Integrante.
+2018 - Atual
+A ortogonalização de Grand-Shimidt aplicada aos mapas auto-organizáveis de Kohonen em problemas de classificação de padrões
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Lilian Afonso Cândido - Integrante / Vitor Queiroz de Souza - Integrante.
+2015 - 2020
+Aplicação de Redes Neurais Artificiais no diagnóstico de doenças na avicultura
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Érica Crosara Ladir de Lucca - Integrante / OLIVEIRA, TIAGO ELIAS CARVALHO - Integrante / Murilo Marcineiro de Almeida - Integrante.
+2015 - 2015
+Redes neurais artificiais aplicadas ao reconhecimento de padrões com o uso de novos vetores-alvo
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Ricardo Gonçalves Manzan - Coordenador / Tiago Elias Carvalho Oliveira - Integrante.Número de produções C, T & A: 1

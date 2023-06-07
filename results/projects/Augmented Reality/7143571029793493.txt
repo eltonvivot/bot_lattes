@@ -1,0 +1,64 @@
+2020 - 2021
+MODELAGEM MATEMÁTICA E CONTROLE EM DUAS DIMENSÕES DE UM QUADRICÓPTERO
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2020 - 2021
+CONTROLE CINEMÁTICO E DINÂMICO PARA ROBÔS MÓVEIS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2019 - 2020
+CONSTRUÇÃO DE UM ROBÔ SUBAQUÁTICO DE BAIXO CUSTO OPERADO REMOTAMENTE COM APLICAÇÃO EM INSPEÇÃO DE SOLDA
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2019 - 2020
+DESENVOLVIMENTO DE UM NOVO SISTEMA DE VISÃO COMPUTACIONAL
+Descrição: Neste projeto é proposto o desenvolvimento de um novo sistema de visão computacional para o
+futebol de robôs na modalidade IEEE Very Small Soccer (VSSS). Será feita uma ampla revisão
+bibliográfica sobre as técnicas aplicadas em sistemas de visão computacional nas etapas de codificação e segmentação de imagens, tanto por cor quanto por forma. Espera se com base na revisão bibliográfica desenvolver etapas que viabilize chegar ao resultado desejado como também apresentar a analise dos resultados obtidos em diferentes experimentos a partir do uso desse novo sistema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador / GILDERLAN RODRIGUES OLIVEIRA - Integrante.
+2019 - 2020
+DESENVOLVIMENTO DE SISTEMAS DE INTELIGÊNCIA ARTIFICIAL PARA FUTEBOL DE ROBÔS
+Descrição: Neste projeto é apresentado o desenvolvimento de uma nova estratégia de jogo para um time de futebol de
+robôs. Serão abordadas as táticas desenvolvidas e a ferramenta utilizada para modelar a estratégia de forma simples e eficiente, que é baseada na teoria de sistemas a eventos discretos. Uma vez feita a modelagem, a estratégia será implementada e testada no simulador Robot Soccer.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador / RODRIGO RIBEIRO SANTOS - Integrante.
+2019 - 2020
+DESENVOLVIMENTO DE UM ROBÔ AUTÔNOMO DE BAIXO CUSTO PARA FUTEBOL DE ROBÔS
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2019 - 2020
+DESENVOLVIMENTO DE UM NOVO SISTEMA DE VISÃO COMPUTACIONAL
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2019 - 2020
+SIMULADOR EM REALIDADE AUMENTADA PARA ENSINO DE PROGRAMAÇÃO E ROBÓTICA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2018 - 2019
+NAVEGAÇÃO EM FORMAÇÃO DE MÚLTIPLOS ROBÔS
+Descrição: O resultado de uma tarefa pode ser facilitado, ou até mesmo viabilizado pelo emprego de
+múltiplos robôs trabalhando de forma cooperativa, como no caso das tarefas que exigem a
+navegação em formação dos robôs móveis. Neste projeto de pesquisa é proposto o
+desenvolvimento e implementação de um sistema autônomo de navegação de múltiplos
+robôs de modo a possibilitar a navegação em formação de um time de robôs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2018 - 2019
+REALIDADE VIRTUAL E AUMENTADA: APOIO PARA A PRÁTICA CONTEXTUALIZADA E INTERDISCIPLINAR NA EDUCAÇÃO BÁSICA, TÉCNICA E TECNOLÓGICA
+Descrição: Neste projeto é proposta a aplicação da metodologia ativa através do uso de realidade virtual e aumentada na sala de aula, de maneira interdisciplinar, envolvendo alunos e professores do Instituto Federal de Sergipe (IFS), nas diferentes áreas do conhecimento. Para isso, será desenvolvido um aplicativo de realidade aumentada que poderá ser utilizado por professores do IFS em conjunto com sua apostila de ensino. Para facilitar a utilização, junto ao aplicativo será disponibilizado um manual de uso do mesmo e inserção de novos dados. Além disso, será desenvolvido um sistema de visitas guiadas para o Ensino Médio, que serão executadas através do uso de um óculos de realidade virtual de baixo custo, o Google Cardboard. Desta forma, este projeto visa aliar as novas tecnologias digitais a uma prática de ensino inovadora de modo a otimizar a experiência de aprendizagem dos discentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2018 - 2019
+CONSTRUÇÃO DO PRIMEIRO TIME DE FUTEBOL DE ROBÔS DO INSTITUTO FEDERAL DE SERGIPE
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador / Phillipe Cardoso - Integrante.
+2018 - 2019
+DESENVOLVIMENTO DO PROJETO DE UM LABORATÓRIO DE IDEIAS BASEADO NO MODELO DA PORTO DESIGN FACTORY (PDF)
+Descrição: Projeto de realizado em parceria com o Instituto Politécnico do Porto, em Portugal.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2018 - 2019
+DESENVOLVER E IMPLEMENTAR O MODELO DE NEGÓCIOS DE UM FABLAB PARA O IFS CAMPUS LAGARTO
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador.
+2018 - 2019
+FUSÃO DE DADOS SENSORIAIS PARA NAVEGAÇÃO DE ROBÔS MÓVEIS EM AMBIENTES DINÂMICOS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Stephanie Kamarry Alves de Sousa - Coordenador / Gilderlan Rodrigues - Integrante.
+2013 - 2017
+Modelagem, navegação e controle de robôs manipuladores
+Descrição: Os robôs manipuladores são os robôs mais utilizados no mundo real, sobretudo em linhas de produção automatizadas no setor industrial. No entanto, na maiorias das aplicações, estes robôs ainda operam repetindo movimentos ensinados por demonstração, sem nenhum tipo de "inteligência" ou percepção direta do ambiente que os cerca, o que representa um sério risco de acidentes. O principal objetivo desse projeto de pesquisa é desenvolver sistemas que permitam uma maior capacidade de reação a estes robôs para que correções e desvios de rota possam ser executados de forma automatizada sempre que necessário, fazendo com que, no futuro, robôs manipuladores possam trabalhar em sintonia com os seres humanos, mantendo a sua alta precisão e repetibilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Stephanie Kamarry Alves de Sousa - Integrante / Eduardo Oliveira Freire - Integrante / Elyson Ádan Nunes Carvalh - Integrante / Lucas Molina - Coordenador / Ruan Robert Bispo dos Santos - Integrante / Matheus Cardoso Santos - Integrante.
+2012 - 2013
+Desenvolvimento de um método de localização e mapeamento simultâneo para robôs móveis
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Stephanie Kamarry Alves de Sousa - Integrante / Eduardo Oliveira Freire - Coordenador / Elyson Ádan Nunes Carvalh - Integrante / Lucas Molina - Integrante.
+2011 - 2012
+Localização de Robôs Móveis em Ambientes Fechados
+Descrição: Projeto submetido e aprovado pelo PIBIC - Programa Institucional de Bolsas de Iniciação Científica. Participação no projeto na qualidade de aluno de Iniciação Científica. O objetivo principal deste projeto é estudar e desenvolver técnicas de Localização e Mapeamento Simultâneos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Stephanie Kamarry Alves de Sousa - Integrante / Eduardo Oliveira Freire - Coordenador / Elyson Ádan Nunes Carvalh - Integrante / Lucas Molina - Integrante.
+2011 - 2012
+Localização e Mapeamento em robótica móvel
+Descrição: Localização e mapeamento são tarefas de extrema importância em robótica móvel. A tarefa de navegação depende diretamente da capacidade de um robô de conhecer a sua posição em um ambiente ou a sua localização relativa em relação ao seu destino. Por outro lado, ambientes desconhecidos ou mesmo dinâmicos, fazem com que a capacidade de locomoção do robô fique restrita quase que totalmente a estratégias de locomoção reativas. Para contornar este problema, é necessário que o robô tenha a capacidade de atualizar e/ou construir o mapa do ambiente de navegação (mapeamento). Para executar corretamente o mapeamento, é preciso que o robô saiba a sua localização no ambiente a ser mapeado, fazendo com que a tarefa de mapeamento dependa diretamente da tarefa de localização. Sistemas que executam simultaneamente estas duas tarefas são chamados de SLAM e representam um importante tema de pesquisa em robótica. Nesse contexto, esse projeto de pesquisa é dedicado a estudar e desenvolver diferentes abordagens para solucionar os problemas de localização e mapeamento, seja separadamente ou de forma simultânea em uma tarefa de SLAM. São consideradas na execução da tarefa diferentes formas de sensoriamento como sensores ópticos, ultrassônicos, imagens RGB, RGBD e visão estéreo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Stephanie Kamarry Alves de Sousa - Integrante / Eduardo Oliveira Freire - Integrante / Elyson Ádan Nunes Carvalh - Integrante / Lucas Molina - Coordenador / Isac Silva - Integrante / Jeferson Silveira Junior - Integrante / Marcelo Gonçalves - Integrante.
+2010 - 2011
+Desenvolvimento de um novo Sistema de Visão Computacional
+Descrição: Projeto submetido e aprovado pelo PIBIC - Programa Institucional de Bolsas de Iniciação Científica. Participação no projeto na qualidade de aluno de Iniciação Científica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Stephanie Kamarry Alves de Sousa - Integrante / Eduardo Oliveira Freire - Coordenador / Elyson Ádan Nunes Carvalh - Integrante / Lucas Molina - Integrante.

@@ -1,0 +1,15 @@
+2018 - 2019
+Algoritmos e métodos para separação de difrações no domínio pré-empilhado e extração de parâmetros anisotrópicos em sistemas de HPC
+Descrição: O presente projeto tem como principais objetivos a pesquisa, desenvolvimento e aplicação prática de uma técnica de separação e regularização 5D de difrações no domínio pré-empilhado, assim como extração de parâmetros cinemáticos relacionados a parâmetros anisotrópicos do meio. Os resultados obtidos, em particular softwares de aplicação direta em produção, terão impacto significativo na validação de modelos de velocidade para migração em geologias complexas como as existentes nos reservatórios da camada pré-sal.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Charles Boulhosa Rodamilans - Integrante / Edson borin - Integrante / Martin Tygel - Coordenador.
+2018 - Atual
+Research and development of technologies for high performance seismic processing on the cloud
+Projeto certificado pelo(a) coordenador(a) Edson Borin em 26/11/2018.
+Descrição: In this project, we are investigating and developing new technologies to facilitate high-performance seismic processing using cloud computing services, including Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). The resulting technologies will be consolidated on a platform that must optimize the cost and performance of seismic processing applications on the cloud, including loosely- and tightly-coupled high-performance seismic applications and machine learning based seismic applications.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Charles Boulhosa Rodamilans - Integrante / Edson borin - Coordenador.
+2004 - 2007
+Implementação de uma plataforma paralela para a solução de problemas em bioinformática
+Descrição: Implementação e administração do Cluster de Alto Desempenho. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Charles Boulhosa Rodamilans - Integrante / Martha Ximena Torres Delgado - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2004 - 2007
+Estudo Sistemático de Aglomerados de Galáxias
+Descrição: Identificação de Padrões Morfológicos  baseada em Análise de Clustering (Mineração de Dados). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Charles Boulhosa Rodamilans - Integrante / Andre Luis Batista Ribeiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

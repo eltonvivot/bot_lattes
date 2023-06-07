@@ -1,0 +1,30 @@
+2016 - Atual
+P&D 426-Aprimoramento do Sistema de Controle e Monitoramento de  Sistemas de Irrigação a Pivô Central visando Eficientização do Consumo de  Energia e Água
+Descrição: A solução que se propõe é que a partir dos resultados obtidos com o Projeto de P&D 269
+Metodologia para Controle de Múltiplos Pivôs Centrais com um único Conjunto Motor-Bomba,
+seja aprimorado o sistema de controle e monitoramento de sistemas de irrigação a pivô central
+visando eficientização do consumo de energia e água, de forma a implementá-lo como um
+cabeça de série que torne viável a fabricação em escala do produto do Projeto, permitindo a
+aquisição por consumidores irrigantes que buscam tornar eficiente seus sistemas de irrigação
+tendo benefícios financeiros e sócio-ambientais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Antonio Marcos de Melo Medeiros - Integrante / antonio melo de oliveira - Coordenador / José Wilson Lima Nerys - Integrante / Alexandre Gomes de Sousa - Integrante / Márcio Leonel Silva Miguel - Integrante.
+2012 - 2015
+Veículo Aéreo Não Tripulado (VANT) como Ferramenta de Auxílio na Manutenção de Linhas de Transmissão
+Projeto certificado pela empresa Companhia Energética de Goiás em 02/09/2015.
+Descrição: O objetivo principal é a implementação de dois modelos de aeronaves não tripuladas: um modelo de asa fixa e outro de asa móvel equipados com câmerasde vídeo e com câmera termográfica. Ambos os modelos deverão ter opção de vôo independente, seguindo rota pré-programada ou ainda vôo assistido. A versão de asa fixa deverá ser usada principalmente na manutenção corretiva, com a localização de cabos rompidos e estruturas avariadas, mas também será usado no monitoramente da faixa de servidão, para evitar invasão permanente e detectar locais que precisem de limpeza e poda de árvores. A versão de asa móvel deverá ser usada prioritariamente na manutenção preventiva, com a detecção de pontos quentes em junções, danos em isoladores e na estrutura. A primeira etapa do projeto é a construção da placa controladora, responsável pelo controle do VANT. Esta placa deverá estar em operação ao final do primeiro ano de projeto. Posteriormente ela será incorporada às estruturas de asa fixa e asa móvel.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Antonio Marcos de Melo Medeiros - Integrante / José Wilson Lima Nerys - Coordenador / Lourenço Matias - Integrante / Cláudio Henrique Bezerra Azevedo - Integrante / Rubens Antônio Alves - Integrante / Bernardo Pinheiro Alvarenga - Integrante.Financiador(es): PEQ/EEEC/UFG - Auxílio
+										financeiro.
+2012 - 2015
+Metodologia para Controle de Múltiplos Pivôs Centrais com um único Conjunto Motor-Bomba
+Projeto certificado pela empresa Companhia Energética de Goiás em 13/11/2013.
+Descrição: o estudo  se propõe a desenvolver uma metodologia específica de economia de energia elétrica, para que seja possível a implementação para o sistema de múltiplos pivôs centrais com um único conjunto motor-bomba.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Antonio Marcos de Melo Medeiros - Integrante / antonio melo de oliveira - Coordenador / wanir jose de medeiros junior - Integrante / José Wilson Lima Nerys - Integrante / Alexandre Gomes de Sousa - Integrante.Financiador(es): Companhia Energética de Goiás - Auxílio
+										financeiro.
+2007 - 2008
+Projeto de Eficiência Energética em Eistemas de Irrigação do Tipo Pivô Central
+Projeto certificado pela empresa Companhia Energética de Goiás em 02/09/2015.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Antonio Marcos de Melo Medeiros - Integrante / antonio melo de oliveira - Integrante / Euler Bueno dos Santos - Integrante / José Wilson Lima Nerys - Coordenador.Financiador(es): Companhia Energética de Goiás - Auxílio
+										financeiro.
+2001 - 2003
+Sistema de irrigação microcontrolado: automação e otimização do consumo de energia elétrica e água
+Projeto certificado pela empresa Companhia Hidroelétrica São Patricio em 29/01/2014.
+Descrição: A possibilidade real de uma crise de abastecimento de água e energia elétrica no futuro aponta para ações urgentes no sentido de um melhor aproveitamento dos recursos existentes. Essas ações devem ser não apenas por parte de consumidores, mas principalmente por parte das empresas fornecedoras de energia elétrica. Às instituições de pesquisa cabe a tarefa de apontar soluções viáveis e eficazes. Desenvolver e Implementar um projeto com uma alternativa tecnicamente viável para melhor utilização de água e energia elétrica em sistemas de irrigação, apresentar estudo de custo benefício da solução técnica encontrada para sistemas de irrigação já em operação e implementar nas dependências da Escola de Engenharia Elétrica (EEE) da UFG um sistema elétrico-hidráulico que permita a simulação de situações reais de carga de sistemas de irrigação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Antonio Marcos de Melo Medeiros - Integrante / antonio melo de oliveira - Integrante / José Wilson Lima Nerys - Coordenador / Luiz Fernando Coutinho - Integrante / Enes Gonçalves Marra - Integrante / Flavio Cendes - Integrante / Aylton José Alves - Integrante / Renato Alves Borges - Integrante / Rodolfo de Podestá Martin - Integrante.Financiador(es): Companhia Hidroelétrica São Patricio - Auxílio
+										financeiro / Companhia Energética de Goiás - Auxílio
+										financeiro.

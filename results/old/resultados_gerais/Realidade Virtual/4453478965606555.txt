@@ -1,0 +1,15 @@
+2015 - 2016
+A computer vision system for wood log detection and volume estimation
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Karl Phillip Purnhagen Ehlers Peixoto Dittrich Buhr - Coordenador / Anderson Bergamini Sensolo - Integrante.Financiador(es): Universidade do Oeste de Santa Catarina - Bolsa.
+2015 - 2016
+Desenvolvimento de um sistema de realidade aumentada para estudos topográficos com o auxílio de uma caixa de areia
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Karl Phillip Purnhagen Ehlers Peixoto Dittrich Buhr - Coordenador / Rafael Pablo Massocato - Integrante.Financiador(es): Universidade do Oeste de Santa Catarina - Bolsa.
+2014 - 2015
+Desenvolvimento de um sistema de visão computacional para reconhecimento de veículos
+Descrição: Este projeto objetiva investigar técnicas de processamento de imagens digitais para aprimorar o mecanismo de detecção de veículos utilizado por sistemas de monitoramento de rodovias. O desenvolvimento de um sistema de visão computacional mais flexível tornaria possível a detecção de motos, automóveis e caminhões através de suas características visuais e não apenas pela placa. Desta maneira, mesmo que a placa do veículo fosse substituída ainda seria possível identificá-lo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Karl Phillip Purnhagen Ehlers Peixoto Dittrich Buhr - Coordenador / Ângelo Luiz Brunetto Rodem - Integrante.Financiador(es): Universidade do Oeste de Santa Catarina - Bolsa.
+2014 - 2015
+Desenvolvimento de um protótipo de software para rastrear jogadores em uma quadra esportiva
+Descrição: O presente projeto apresenta um sistema protótipo que utiliza técnicas de visão computacional para processar vídeos de quadras esportivas e rastrear a movimentação dos jogadores, com o intuito de extrair informações sobre a movimentação dos mesmos em quadra, visando auxiliar profissionais da área esportiva na tomada de decisões.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Karl Phillip Purnhagen Ehlers Peixoto Dittrich Buhr - Coordenador / Eliezer Emanuel Bernart - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2015
+Desenvolvimento de um sistema de visão computacional para identificação e contagem de troncos de madeira armazenados em pilhas
+Descrição: Este projeto pretende contribuir para a indústria de celulose e papel ao desenvolver um sistema de visão computacional para quantificar pilhas de toras. Tal sistema possibilitaria que a contagem de toras em uma pilha fosse realizada automaticamente, de forma mais rápida e eficiente, economizando tempo para que o operador possa se dedicar a outras tarefas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Karl Phillip Purnhagen Ehlers Peixoto Dittrich Buhr - Coordenador / Anderson Bergamini Sensolo - Integrante.Financiador(es): Universidade do Oeste de Santa Catarina - Bolsa.

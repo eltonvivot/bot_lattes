@@ -1,0 +1,11 @@
+2015 - 2019
+Proposição de Plataforma Co-Design para Processamento de Imagens de Sensoriamento Remoto
+Projeto certificado pelo(a) coordenador(a) Erivaldo Antonio da Silva em 12/03/2015.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Guilherme Pina Cardim - Integrante / Erivaldo Antônio da Silva - Coordenador / DIAS, MAURÍCIO ARAÚJO - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2013 - 2015
+Desenvolvimento do Sistema Computacional CARTOMORPH para Processamento de Imagens de Sensoriamento Remoto
+Projeto certificado pelo(a) coordenador(a) Erivaldo Antonio da Silva em 07/10/2014.
+Descrição: este trabalho consiste em desenvolver um sistema computacional, denominado de CARTOMORPH, para o processamento de imagens de sensoriamento remoto com a finalidade de possibilitar a utilização das funções implementadas além de permitir que alterações sejam feitas sempre que necessário, uma vez que este será de domínio público. Para tanto, pretende-se utilizar técnicas de processamento digital de imagens, focado em morfologia matemática, para possibilitar que pesquisadores desenvolvam rotinas capazes de extrair feições cartográficas de interesse presentes em uma imagem digital.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Guilherme Pina Cardim - Integrante / Erivaldo Antônio da Silva - Coordenador / DIAS, MAURÍCIO ARAÚJO - Integrante / Carolina Dias Chaves - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2009 - 2012
+Desenvolvimento de rotina para análise estatística da precisão da extração e/ou detecção de feições cartográficas em imagens digitais.
+Descrição: Desenvolvimento de um sistema computacional para avaliar a qualidade de processos automáticos de extração de feições cartográficas a partir do processamento digital de imagens digitais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Guilherme Pina Cardim - Integrante / Erivaldo Antônio da Silva - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.

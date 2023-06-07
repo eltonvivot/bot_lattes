@@ -1,0 +1,50 @@
+2017 - Atual
+Short term solar forecasting over a gridded area using a network of skycams and other sources
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Alexandre de Sousa Mendes - Coordenador / Stephan Chalup - Integrante / Sam West - Integrante.
+2017 - Atual
+Predicting agglomerate distribution using evolutionary optimisation techniques
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre de Sousa Mendes - Coordenador / Roberto Moreno-Atanasio - Integrante.
+2017 - Atual
+Vision processing for localisation and transport safety - track detection
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Alexandre de Sousa Mendes - Integrante / Stephan Chalup - Coordenador.
+2017 - Atual
+Amostragem de dados em redes de sensores sem fio: integração de aplicações e ferramentas
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre de Sousa Mendes - Integrante / Rosso, Osvaldo A. - Integrante / Andre Luis Lins de Aquino - Coordenador / Alejandro Frery - Integrante / Heitor Ramos - Integrante / Joel Rogrigues - Integrante / Antonio Loureiro - Integrante.
+2015 - 2016
+Image processing techniques for the automatic identification of available places in unstructured parking lots
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre de Sousa Mendes - Coordenador / Stephan Chalup - Integrante.
+2013 - Atual
+Smart-CPMAT: Configuring intelligent buildings with wireless sensor networks
+Descrição: The project will implement monitoring, coordination and control strategies for different types of wireless sensors in the context of intelligent buildings.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre de Sousa Mendes - Coordenador / Rosso, Osvaldo A. - Integrante / Andre Luis Lins de Aquino - Integrante / Luiz Marcos Garcia Goncalves - Integrante.
+2012 - Atual
+Mathematics and Computing for Integrated Stockyard-centric Management of Mining Supply Chains
+Descrição: Blended mineral products are very important for Australia?s economy. Blending is carried out in stockpiles, often at multiple points in the mining supply chain, and challenges in stockyard and supply chain operation can negatively impact the value sought from blending. Whilst blending has long been tackled with mathematical programming techniques, little has been done to integrate blending with stockyard
+management and supply chain planning. This project will develop new mathematical and computational tools for operational stockyard and supply chain planning, to maximize the value realised from blended products, and the efficiency with which they are delivered through the supply chain.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Alexandre de Sousa Mendes - Integrante / Natashia Boland - Coordenador / P. Stuckley - Integrante / F. Engineer - Integrante / M. Savelsberg - Integrante / A. Ernst - Integrante.Financiador(es): Hunter Valley Coal Chain Coordinator - Auxílio
+										financeiro / QMastor - Auxílio
+										financeiro / Australian Research Council - Auxílio
+										financeiro.
+2011 - Atual
+NUbots - Robotic soccer team
+Descrição: The Newcastle NUbots is a team of autonomous robots that play soccer. The group exists since 2002 and has won several international competitions, including the Robocup in 2006. Students are in charge of the team, under the supervision of academics. As one of the coordinators, I am helping the development of better algorithms for computer vision (colour- and shape-based automatic object detection) and behaviour (collaborative agents). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Alexandre de Sousa Mendes - Coordenador / Stephan Chalup - Integrante / Robert King - Integrante.
+2009 - 2010
+Optimal Switching Strategies to maintain Load Balancing in No-Failure / Minimum- Impact Outage Scenarios
+Descrição: This project aims at creating a software tool that will constantly run/update a power flow model for a given network, identify possible critical network elements, and suggest network switching states to reduce the impact of outages in case of localized failures; and keep a balanced network load.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre de Sousa Mendes - Coordenador / Natashia Boland - Integrante.Financiador(es): Energy Australia - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2008 - 2009
+Consensus clustering of samples using gene expression microarray data
+Descrição: This project aims at studying and developing a robust, multiple dataset clustering method, based on evolutionary algorithms and statistical analysis for validation of results. The method?s performance will be assessed using two large-scale gene expression microarray datasets from breast cancer patients. The goal is to provide a method that separates the samples in the two datasets into clusters, such that genes selected as biomarkers for the partition have the same expression profile across the datasets. This method will configure a new approach to the identification of subtypes of diseases based purely on molecular information. Also, the technique employed will be general ? that is, it could be used in the future in any clustering problem with data measured as real values.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre de Sousa Mendes - Coordenador.Financiador(es): The University of Newcastle Australia - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2008 - 2009
+Establishing a Research-teaching Nexus in Bioinformatics and Information-Based Medicine
+Descrição: The primary aim of this proposal is to establish a nexus between the teaching of bioinformatics and related areas to students in the Bachelor of Biomedical Sciences degree and the research activities of the University's Priority Research Centre for Bioinformatics, Biomarker Discovery and Information Based Medicine. It is proposed to do this by having students perform mini-research projects under the supervision of PRC researchers where they will conduct novel bioinformatics analyses of real research data provided by the researchers (as opposed to unoriginal, ?textbook? analyses of existing online data, as done at present). This will entail students carrying out original research projects in small groups (3 students per project) and giving a joint presentation on the proposed project as a group. Each student will be required to submit independent, individual mini-research reports including a critical literature review and a description of the methods and approaches used, the results obtained and the interpretation of those results. This approach has been used successfully in the past in other courses within the Bachelor of Biomedical Sciences degree.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre de Sousa Mendes - Integrante / Rodney Scott - Integrante / Carlos Riveros - Integrante / L. Milward - Coordenador / D. Laver - Integrante / D. Johnstone - Integrante.Financiador(es): The University of Newcastle Australia - Auxílio
+										financeiro.
+2006 - 2007
+Computational methods for breast cancer profiling using genome-wide data
+Descrição: This research has two aims:
+- Part 1: To use methods for supervised feature selection based on combinatorial optimization mathematical models aimed to uncover the genetic signatures for several subtypes of breast cancers from Van?t Veer?s datasets. We also aim to uncover some signatures (combining molecular with clinical information) that will also associate to histologic grade, lymph node, estrogen/progesterone receptor and HER2/neu expression. The quality of the signatures will also be assessed by statistical methods. 
+- Part 2: To develop several unsupervised clustering algorithms to divide Van?t Veer?s breast cancer samples into groups. These algorithms will also employ cross-validation to make the division. Then, we will check the clinical characteristics within each group looking for similarities and differences. For the groups for which such similarities exist, we will find molecular profiles that will allow the characterization of breast cancer as a disease with clear molecular subtypes that correlate well with clinical markers (conventionally used for diagnosis and treatment).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre de Sousa Mendes - Coordenador / P. Mahata - Integrante.Financiador(es): Hunter Medical Research Institute - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - 2007
+A New Web Data Mining Tool for Functional Genomics Analysis
+Descrição: The main aim of this project is to develop a new automatic functional genomics data analysis tool based on text mining. We will develop a software tool that makes an automatic search on the IHOP database (Information Hyperlinked over Proteins - http://www.ihop-net.org/UniPub/iHOP/) using the symbols of a list of genes as keywords. The software will perform a text mining task on the publications retrieved, looking for genes cited under the same context and then present the results in a graphical fashion, allowing the assessment of connections between genes helping the user to infer genetic networks and signaling pathways.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre de Sousa Mendes - Coordenador.Financiador(es): The University of Newcastle Australia - Auxílio
+										financeiro.Número de produções C, T & A: 1

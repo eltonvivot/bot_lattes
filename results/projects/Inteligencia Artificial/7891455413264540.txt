@@ -1,0 +1,41 @@
+2012 - Atual
+Estudo e desenvolvimento de medidores de temperatuira com sensores a fibras ópticas
+Descrição: Estudo e desenvolvimento dos sensores de temperatura ópticos, por fibra optica para aplicação nas áreas de energia elétrica, petróleo e gás.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Antonio Carlos Zimmermann - Coordenador.
+2011 - 2013
+Medidor Óptico de Tensão para Sistemas de 230 kV - MOT230 kV
+Descrição: Medidor de tensão elétrica para sistema de alta tensão de até 230 kV por princípio ópticos. Utiliza cristais eletro ópticos e fibras ópticas para a medição do campo elétrico e do potencial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Antonio Carlos Zimmermann - Coordenador.Financiador(es): CELESC Distribuição S.A. - Outra.
+2011 - 2013
+Sistema de Leitura Remota de Energia Elétrica com Tecnologia PLC X-10 - LRE-X10
+Descrição: Sistema para medição de energia consumida que utiliza a tecnologia PLC do tipo X10 para enviar um sinal entre a unidade de medida e o concentrador.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Antonio Carlos Zimmermann - Coordenador.Financiador(es): CELESC Distribuição S.A. - Outra.
+2009 - Atual
+SFOM - Fibras micro-estruturadas para sensoriamento optico de parametros eletricos
+Descrição: Trata-se de um projeto que envolve diversas instituições como a UNICAMP, UFSC, UFRJ, UMAKENZIE e IEAv com o objetivo de se construir uma torre para fabricação de fibras ópticas microestruturadas no pais (UNICAMP), para a construção de sensores ópticos especiais com aplicações nas áreas de Energia elétrica, petróleo e gás.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Antonio Carlos Zimmermann - Coordenador / Cristiano Monteiro de Barros Cordeiro - Integrante.
+2005 - 2009
+Desenvolvimento de um sensor de temperatura óptico para uso em transformadores de potência.
+Descrição: Desenvolver um medidor de temperatura com sensor a fibras ópticas para aplicação em transformadores de potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Antonio Carlos Zimmermann - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2009
+Sistema óptico de medição de temperatura baseado em Redes de Bragg com aplicação em componentes dos sistemas de potência.
+Projeto certificado pela empresa Treetech Sistemas Digitais  em 13/09/2013.
+Descrição: Visa desenvolver um medidor de temperatura através do uso de fibras ópticas, baseado em redes de Bragg, para aplicações em sistemas elétricos de potência ou ambientes de alta segurança. A característica principal destes sistemas é sua imunidade a ruídos eletromagnéticos presentes nos sistemas de elétricos de potência. 
+Projeto financiado pelo LABMETRO com recursos próprios.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Antonio Carlos Zimmermann - Coordenador.
+2005 - 2007
+Sistema de Controle e Acionamento de um Ópto-galvanômetro à LASER
+Descrição: Projeto do edital universal financiado pelo FUNCITEC - SC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antonio Carlos Zimmermann - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Auxílio
+										financeiro.
+2003 - 2006
+Medidor Híbrido de Tensão e Corrente a Fibra Óptica - PD 08/02
+Descrição: Projeto de pesquisa e desenvolvimento de um sistema de medição de corrente e tensão em redes de 138kV, com transmissão de sinal em fibra óptica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antonio Carlos Zimmermann - Coordenador.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.
+1999 - Atual
+Sistema Óptico de Reconhecimento de Faces Humanas utilizando IA.
+Descrição: Este é um projeto de Pesquisa e Desenvolvimento de um sistema óptico de reconhecimento de faces humanas, através do uso de técnicas de inteligência artificail. Em um ensaio de verificação, o sitema desenvolvido teve taxas zero de falsa aceitação e taxas de falsa regeição para uma populacão de 52 indivíduos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Antonio Carlos Zimmermann - Integrante / Jorge Muniz Barreto - Coordenador.
+1997 - 2003
+Desenvolvimento de um Sistema de Reconhecimento de Faces Humanas através de medição tridimensional.
+Descrição: Desenvolvimento de um Sistema de Medição de Formas de faces humanas, para aplicação em Biometria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Antonio Carlos Zimmermann - Coordenador.
+1992 - 1995
+Sistemas de Medição Dimensional tipo Laser de Alinhamento
+Descrição: Projeto de pesquisa e desenvolvimento de um sistema gerador de uma reta de referência através de feixe laser para calibração da retitude de superfícies.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antonio Carlos Zimmermann - Coordenador.
+1983 - 1986
+Desenvolvimento de um transdutor indutivo para medição de deslocamentos
+Descrição: Projeto de pesquisa de um transdutor indutivo para a medição com contacto de deslocamentos na faixa de +-5mm e erro 0,001mm.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antonio Carlos Zimmermann - Coordenador.

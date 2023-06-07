@@ -1,0 +1,120 @@
+2023-05-21 15:42:30 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:42:37 -  > Pagina atual: 1
+2023-05-21 15:42:39 -  > Pagina atual: 1
+2023-05-21 15:42:39 -  > Pagina atual: 1
+2023-05-21 15:42:42 -  > Pagina atual: 2
+2023-05-21 15:42:45 -  > Pagina atual: 3
+2023-05-21 15:42:47 -  > Pagina atual: 3
+2023-05-21 15:42:48 -  > Pagina atual: 3
+2023-05-21 15:42:50 -  > Pagina atual: 4
+2023-05-21 15:42:53 -  > Pagina atual: 5
+2023-05-21 15:42:56 -  > Pagina atual: 5
+2023-05-21 15:42:56 -  > Pagina atual: 5
+2023-05-21 15:42:58 -  > Pagina atual: 6
+2023-05-21 15:43:31 - Tentativa: 1 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/div[3]/div/div/form[2]/span/div[1]/div[1]/ul/li[21]/div/div[5]/div")
+============================================================
+2023-05-21 15:43:31 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:43:37 -  > Pagina atual: 1
+2023-05-21 15:43:38 -  > Pagina atual: 1
+2023-05-21 15:43:40 -  > Pagina atual: 2
+2023-05-21 15:43:43 -  > Pagina atual: 3
+2023-05-21 15:43:46 -  > Pagina atual: 4
+2023-05-21 15:43:48 -  > Pagina atual: 5
+2023-05-21 15:43:51 -  > Pagina atual: 6
+2023-05-21 15:44:14 - Tentativa: 2 |	Target closed
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/div[3]/div/div/form[2]/span/div[1]/div[1]/ul/li[20]/div/div[3]/div/a")
+============================================================
+2023-05-21 15:51:00 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:51:04 - Acessando pagina 6 ...
+2023-05-21 15:51:20 - Tentativa: 1 |	local variable 'li_elements' referenced before assignment
+2023-05-21 15:51:20 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:51:23 - Acessando pagina 6 ...
+2023-05-21 15:51:29 - Tentativa: 2 |	Target closed
+=========================== logs ===========================
+waiting for locator(".ui-icon.ui-icon-seek-next")
+  locator resolved to <span class="ui-icon ui-icon-seek-next">p</span>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #1
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #2
+  waiting 20ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #3
+  waiting 100ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #4
+  waiting 100ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #5
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #6
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #7
+  waiting 500ms
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  <div id="j_idt38_modal" class="ui-widget-overlay"></div> intercepts pointer events
+retrying click action, attempt #8
+  waiting 500ms
+============================================================
+2023-05-21 15:51:29 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:54:07 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:54:10 - Acessando pagina 1 ...
+2023-05-21 15:54:15 - === FINALIZADO: 1,15 ===
+2023-05-21 15:55:38 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:55:42 - Acessando pagina 1 ...
+2023-05-21 15:55:46 - === FINALIZADO: 1,15 ===
+2023-05-21 15:56:38 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:56:42 - Acessando pagina 1 ...
+2023-05-21 15:56:46 - Acessando pagina 2 ...
+2023-05-21 15:56:53 - Acessando pagina 3 ...
+2023-05-21 15:56:55 - Acessando pagina 4 ...
+2023-05-21 15:57:01 - Acessando pagina 5 ...
+2023-05-21 15:57:03 - Acessando pagina 6 ...
+2023-05-21 15:57:15 - Tentativa: 1 |	Target closed
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/div[3]/div/div/form[2]/span/div[1]/div[1]/ul/li[24]/div/div[5]/div")
+============================================================
+2023-05-21 15:57:56 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:58:02 - Acessando pagina 1 ...
+2023-05-21 15:58:06 - Acessando pagina 2 ...
+2023-05-21 15:58:16 - Acessando pagina 3 ...
+2023-05-21 15:58:23 - Acessando pagina 4 ...
+2023-05-21 15:58:32 - Acessando pagina 5 ...
+2023-05-21 15:58:39 - Tentativa: 1 |	Target page, context or browser has been closed

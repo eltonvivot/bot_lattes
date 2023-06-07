@@ -1,0 +1,21 @@
+2020 - Atual
+Visão Computacional para Monitoramento de Sistemas Submarinos
+Projeto certificado pelo(a) coordenador(a) Judith Kelner em 01/09/2022.
+Descrição: Este projeto visa desenvolver protótipos de software e hardware para sistemas de monitoramento e inspeção de deformação em dutos flexíveis baseados em visão de máquina não-intrusivos que funcionem adequadamente dentro d'água. Os protótipos devem alcançar uma precisão na estimativa da torção adequada para avaliar a integridade da armadura de tração e, no caso de monitoramento, funcionar com manutenção mínima ao longo de vários meses. Técnicas de rastreamento 3D serão utilizadas para identificar falhas no duto, tanto na parte submersa como na emersa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Bernardo Fonseca Reis de Souza - Integrante / Judith Kelner - Coordenador / CESAR, VINICIUS - Integrante / Gabriel Fonseca Reis de Souza - Integrante.
+2016 - 2018
+Extensão do Sois: Ferramenta de Monitoração e Suporte à Operação de Instalações Submarinas
+Projeto certificado pelo(a) coordenador(a) Judith Kelner em 15/11/2017.
+Descrição: Este projeto visa aplicar visão computacional para estimar em tempo real a curvatura de dutos flexíveis durante operações de Conexão Vertical Direta (CVD), nas quais a estrutura do módulo de acoplamento pode ser severamente danificada caso a curvatura viole a especificação de operação do fabricante.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bernardo Fonseca Reis de Souza - Integrante / Judith Kelner - Coordenador / PESSOA, SAULO - Integrante / CESAR, VINICIUS - Integrante / Adalberto Pareira de Souza Lopes - Integrante / Pedro Andrade Coelho Vieira - Integrante / Anna Priscilla de Albuquerque - Integrante.
+2014 - 2019
+Acoplador Virtual: Sistema de Guiamento para Acoplamento de Equipamentos em Instalações Submarinas
+Projeto certificado pelo(a) coordenador(a) Judith Kelner em 28/07/2019.
+Descrição: O objetivo principal do "Acoplador Virtual" visa desenvolver o módulo de software responsável pela obtenção em tempo real das posições relativas (nos três eixos que representam o espaço tridimensional) entre os equipamentos em instalação e entre ROV e equipamentos. O software a ser desenvolvido deverá orientar as equipes atuantes quanto aos ajustes de posicionamento, garantindo o efetivo alinhamento dos equipamentos antes do assentamento final.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bernardo Fonseca Reis de Souza - Integrante / Judith Kelner - Coordenador.
+2009 - 2010
+mivaMAR
+Descrição: um sistema embarcado baseado em realidade aumentada sem marcadores. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bernardo Fonseca Reis de Souza - Integrante / Veronica Teichrieb - Coordenador.
+2007 - 2010
+SMARTCAM
+Descrição: uma câmera inteligente para aplicações de inspeção. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bernardo Fonseca Reis de Souza - Integrante / Judith Kelner - Coordenador.
+2007 - 2009
+A2
+Descrição: ambiente aumentado. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bernardo Fonseca Reis de Souza - Integrante / Judith Kelner - Coordenador.

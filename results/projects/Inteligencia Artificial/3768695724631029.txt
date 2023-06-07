@@ -1,0 +1,50 @@
+2010 - 2012
+Otimização do despacho econômico das unidades a gás e a vapor da UTENF utilizando técnicas de inteligência computacional
+Descrição: despacho econômico é um problema de otimização com restrições e
+seu objetivo é encontrar a programação mais econômica das unidades
+geradoras, satisfazendo às restrições de operação do sistema. Devido à natureza
+não-linear do problema, técnicas convencionais de solução são geralmente
+limitadas para aplicações práticas devido a problemas numéricos. Por isso, o
+desenvolvimento de algoritmos rápidos, eficientes e confiáveis é de grande
+interesse na área de sistemas de potência. Nos últimos anos, diversas técnicas
+foram propostas para a solução deste problema utilizando métodos relacionados
+com a área de Inteligência Computacional, como é o caso dos Algoritmos
+Genéticos, Busca Tabu, Redes Neurais e Lógica Fuzzy. O projeto propõe a
+aplicação de técnicas de inteligência computacional, especificamente redes
+neurais artificiais, algoritmos genéticos e lógica fuzzy, para a solução do
+problema de despacho econômico, visando obter soluções de menor custo
+operacional das unidades geradoras. Este projeto tem como objetivo principal o
+desenvolvimento de um software, baseado em métodos de inteligência
+computacional, para a análise de pré-despacho no sistema de geração
+termelétrico em ciclo combinado da UTE Norte Fluminense (Macaé-RJ). O
+software a ser desenvolvido será uma aplicação baseada nos dados de um
+sistema termelétrico real, usando técnicas de otimização baseadas em algoritmos
+genéticos, sistemas fuzzy e redes neurais. A execução deste projeto
+disponibilizará para UTE Norte Fluminense uma ferramenta computacional
+baseada em inteligência computacional, para agilizar o processo de pré-despacho
+das unidades geradoras.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Raimundo Nonato das Mercês Machado - Coordenador / Agesandro Caetano Correa - Integrante / André Maurício Damasceno Ferreira - Integrante.
+2005 - 2007
+Monitoramento On-line de Temperatura em Células Capacitivas de Compensadores Série em 500 kV Utilizando o Método de Elementos Finitos e Sensor Virtual Inteligente. (Projeto P&D ANEEL).
+Projeto certificado pelo(a) coordenador(a) Ubiratan Holanda Bezerra em 29/01/2021.
+Descrição: Implantar um sistema para monitoração e avaliação
+precisa da temperatura nas células capacitivas dos compensadores série do
+sistema interligado Norte Sul I, indicando os capacitores que apresentam riscos
+de indisponibilidade devido a possibilidade de incêndio provocado pelos elevados
+gradientes de temperatura. Propiciar a antecipação de ações corretivas, baseadas
+nas avaliações pontuais de temperatura previamente realizadas para as células
+capacitivas, auxiliando questões de tomada de decisão. Implementar
+metodologias para o cálculo térmico dos pontos quentes nos capacitores,
+envolvendo técnicas robustas já validadas cientificamente e apropriadas para
+este tipo de análise, as quais correspondem ao uso do Método de Elementos
+Finitos e dos Sistemas Inteligentes baseados em Redes Neurais. Desenvolver um
+Sensor de Temperatura virtual inteligente baseado na teoria das redes neurais
+para o monitoramento térmico das Células Capacitivas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Raimundo Nonato das Mercês Machado - Integrante / Ubiratan Holanda Bezerra - Coordenador / Marcus Vinicius Alves Nunes - Integrante / Manoel Ribeiro Filho - Integrante.
+2003 - 2004
+Desenvolvimento de um Sistema de Identificação Automática de Fenômenos Transitórios de Tensão para Aplicação em Análise de Pós-Despacho de Sistemas de Transmissão de Energia. (Projeto P&D ANEEL).
+Projeto certificado pelo(a) coordenador(a) Ubiratan Holanda Bezerra em 29/01/2021.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Raimundo Nonato das Mercês Machado - Integrante / Ubiratan Holanda Bezerra - Coordenador / João Paulo Abreu Vieira - Integrante.
+2002 - 2004
+Controle Coordenado das Unidades Térmicas e Hidráulicas do Sistema de Geração do Amapá. (Projeto P&D ANEEL).
+Projeto certificado pelo(a) coordenador(a) Ubiratan Holanda Bezerra em 29/01/2021.
+Descrição: Este projeto de pesquisa e desenvolvimento visa o desenvolvimento de um sistema de controle coordenado para as unidades térmIcas e hidráulicas do sistema de geração do Amapá para melhoria do
+desempenho e da estabilidade do sistema elétrico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Raimundo Nonato das Mercês Machado - Integrante / Ubiratan Holanda Bezerra - Coordenador / Walter Barra Junior - Integrante / João Paulo Abreu Vieira - Integrante.

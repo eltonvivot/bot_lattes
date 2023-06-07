@@ -1,0 +1,21 @@
+2021 - Atual
+Estudos com o método FEATORA
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Leila Maria Vriesmann - Coordenador.
+2018 - 2021
+Valores de Atributos Previsores na Seleção Dinâmica de Subconjunto de Classificadores
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maria Vriesmann - Coordenador.
+2015 - 2018
+Seleção dinâmica de subconjunto de classificadores baseada em valores de atributos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maria Vriesmann - Coordenador.
+2013 - 2015
+Seleção dinâmica de subconjunto de classificadores utilizando função densidade de probabilidade
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maria Vriesmann - Coordenador.
+2010 - 2013
+Classificação de gêneros musicais utilizando seleção dinâmica de conjuntos de classificadores
+Descrição: A pesquisa visa aplicar seleção dinâmica de conjuntos de classificadores no processo de classificação automática de gêneros musicais. A seleção dinâmica de conjuntos de classificadores baseia-se na ideia de que, para cada exemplo de um conjunto de dados de teste, deve-se selecionar um conjunto de classificadores  específico. Normalmente, conjuntos de classificadores obtém melhores resultados na classificação do que apenas um classificador. A hipótese a ser testada é se o uso de seleção dinâmica de conjuntos de classificadores pode trazer melhores resultados que outras metodologias na área de gêneros musicais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maria Vriesmann - Coordenador / Alceu de Souza Britto Jr - Integrante.
+2008 - 2010
+Análise de erros de classificação obtidos pelo método KNORA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maria Vriesmann - Coordenador / Alceu de Souza Britto Jr - Integrante / Priscila Ribas da Costa - Integrante.
+2003 - 2004
+Aplicação de Técnica de Computação Evolucionária em Dados Contínuos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Leila Maria Vriesmann - Integrante / Marcelo Giovanetti Canteri - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

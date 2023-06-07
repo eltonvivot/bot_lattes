@@ -1,0 +1,92 @@
+2010 - 2012
+Desenvolvimento e Aplicações de Técnicas de Inteligência Computacional em Sistemas Dinâmicos Complexos
+Descrição: O projeto tem o objetivo de geração de conhecimento e desenvolvimento de tecnologias inovadoras na busca de soluções de grandes desafios existentes na área de pesquisa em Inteligência Computacional aplicada a Sistemas Dinâmicos Complexos, especificamente no desenvolvimento de algoritmos de controle não-lineares adaptativos em tempo real de alto desempenho e no desenvolvimento de técnicas de análise de confiabilidade de sistemas complexos.
+Uma característica de suma importância do projeto será seu alcance científico, a ser comprovado pelas publicações em congressos, periódicos e na defesas dos trabalhos de pós-graduação, como também seu alcance tecnológico, pois se pretende apresentar resultados importantes na implementação dos algoritmos propostos em plantas industriais petroquímicas e siderúrgicas do parque industrial mineiro.
+A equipe responsável pelo projeto tem competência e formação consolidada na área de pesquisa e desenvolvimento e terá o apoio técnico-científico de 5 alunos de pós-graduação (sendo 2 de doutorado e três de mestrado) e um aluno de graduação. Este fator garantirá ao projeto um forte impacto na formação de pessoal altamente qualificado na área.
+A infraestrutura básica para o desenvolvimento do projeto é considerada satisfatória e tem sido adquirida através de financiamento da FAPEMIG, do CNPQ e de algumas industrias mineiras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2009 - 2011
+Desenvolvimento e Aplicações de Técnicas de inteligência Computacional em Sistemas Dinâmicos
+Descrição: Os objetivos do projeto de pesquisa são: 1) Desenvolvimento de algoritmos de controle em tempo real de alto desempenho, baseado na teoria de Redes Neurais Artificiais (RNA), Sistemas Nebulosos e Sistemas de Estrutura Variável (SEV); 2) Desenvolvimento de técnicas de Predição, Modelagem e Otimização aplicadas à Análise de Confiabilidade de Sistema Dinâmicos Baseada em Inteligência Computacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (2)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2010
+2006-2010	PROCAD - Técnicas de Monitoramento e Controle de Conversores Estáticos de Potência e Acionamentos Elétricos
+Descrição: Projeto PROCAD da CAPES para o desenvolvimento de grupos de pesquisa da Pós-Graduação em Engenharia Elétrica envolvendo a UFMG como equipe líder e as equipes associadas das Universidades UFSJ, UFPE e a UDESC (Universidade Estadual de SC). A cooperação em pesquisa é na área de controle de acionamentos elétricos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4) . Integrantes: Benjamin Rodrigues de Menezes - Integrante / P F DONOSO-GARCIA - Integrante / Francisco A S Neves - Integrante / Selênio Rocha Silva - Integrante / Lane M R Baccarini - Integrante / Ademir Nied - Integrante / Seleme I Seleme Júnior - Coordenador / Alessandro Fernandes Moreira - Integrante / Alcindo do Prado Júnior - Integrante / Zanoni D. Lins - Integrante / Marcelo Cabral Cavalcanti - Integrante / Marcello Mezaroba - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2006 - 2007
+Sistemas de Controle de Sistemas Dinâmicos Baseados na Teoria de Inteligência Computacional para Aplicações Industriais
+Descrição: Os objetivos principais deste projeto são:
+?	Desenvolvimento científico de algoritmos de controle em tempo real de alto desempenho utilizando a teoria de Redes Neurais Artificiais (RNA), cujo treinamento da rede será baseado na teoria de Sistema de Estrutura Variável (SEV) e de Lógica Nebulosa (LN).
+?	Desenvolvimento tecnológico de controle de plantas reais, cujas aplicações requeiram alta grau de adaptabilidade do sistema de controle, através de protótipos de laboratório. O protótipo será um Sistema de Controle de um Acionamenro Elétrico sem sensores mecânicos ( Sensorless Control of Electrical AC Drives).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador / Walmir Matos Caminhas - Integrante / GUSTAVAO GUIMARÃES PARMA - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2005 - 2007
+Aplicação de Técnicas de Inteligência Computacional em Detecção e Diagnóstico de Falhas em Sistemas Dinâmicos
+Descrição: Estudo, desenvolvimento e aplicação de técnicas de detecção e diagnóstico de falhas em sistemas dinâmicos baseadas em inteligência computacional. O projeto visa uma integração dos vários trabalhos em desenvolvimento, quais sejam: desenvolvimento e aplicação de novas estratégias de detecção e diagnóstico de falhas em sistemas dinâmicos; desenvolvimentos de novas topologias e algoritmos de treinamento de redes neurais e neurofuzzy e a aplicação das mesmas em detecção e diagnóstico de falhas em sistemas dinâmicos (sub-projeto 1); aplicações das estratégias propostas em sistemas reais - estudo de casos: detecção e diagnóstiico de falhas em sistemas de dutos em indústria petroquímica (vazamentos em dutos e falhas em sensores) (sub-projeto 2); detecção e diagnósticos de falhas em máquinas elétricas rotativas (sub-projeto 3); detecção e diagnósticos de falhas em acionamentos elétricos e conversores estáticos (sub-projeto 4); diagnósticos de falhas em pára-raios (sub-projeto 5). .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Benjamin Rodrigues de Menezes - Integrante / Walmir Matos Caminhas - Coordenador / Carlos H M Bomfim - Integrante / Baccarini, Lane Maria Rabelo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2004 - 2006
+Acionamentos Elétricos de Alto Desempenho Utilizando Inteligência Computacional e Dispositivos Programáveis para Aplicações Industriais
+Descrição: Os objetivos principais deste trabalho são:
+ *	Desenvolvimento de algoritmos de controle em tempo real de alto desempenho, baseado na teoria de Redes Neurais Artificiais (RNA), Sistemas Nebulosos e Sistemas de Estrutura Variável (SEV);
+ *	Desenvolvimentos de novas topologias e algoritmos de treinamento de redes neurais e neurofuzzy e a aplicação das mesmas em detecção e diagnóstico de falhas em sistemas dinâmicos;
+ *	Desenvolvimento de sistemas de controle inteligentes e de detecção e diagnóstico de falhas para acionamentos elétricos com motor de indução, cujas aplicações requeiram alto grau de adaptabilidade do sistema de controle;
+ * Desenvolvimento tecnológico de controladores de acionamentos elétricos através de protótipos de laboratório;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador / Walmir Matos Caminhas - Integrante / GUSTAVAO GUIMARÃES PARMA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2001 - 2005
+Controle de Fluxo e Troque em Motores de Indução - PROCAD / CAPES
+Descrição: Projeto PROCAD da CAPES para o desenvolvimento de grupos de pesquisa da Pós-Graduação em Engenharia Elétrica envolvendo a UFMG como equipe líder e as equipes associadas das Universidades UFPE e a UDESC (Universidade Estadual de SC). A cooperação em pesquisa é na área de controle de acionamentos elétricos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Benjamin Rodrigues de Menezes - Integrante / Francisco A S Neves - Integrante / Selênio Rocha Silva - Coordenador / Walmir Matos Caminhas - Integrante / Braz J Cardoso Filho - Integrante / Seleme I Seleme Júnior - Integrante / Alcindo do Prado Júnior - Integrante / Zanoni D. Lins - Integrante / Eurico Bezerra de Souza Filho - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2004
+Implementação de um Sistema Inteligente para Detecção e Diagnóstico de Falhas em Motores de Indução
+Descrição: Desenvolvimento de algoritmos para classificação de falhas mecânica e implementação de modelos de simulação de quebra de barras do rotor. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Benjamin Rodrigues de Menezes - Integrante / Walmir Matos Caminhas - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2003
+DESENVOLVIMENTO E APLICAÇÃO DE TÉCNICAS DE INTELIGÊNCIA COMPUTACIONAL EM DETECÇÃO E DIAGNÓSTICO DE FALHAS EM SISTEMAS DINÂMICOS
+Descrição: O objetivo do projeto é o desenvolvimento de técnicas de detecção e diagnóstico de falhas em sistemas dinâmicos baseadas em redes neurais e sistemas fuzzy. Este projeto foi dividido em 2 sub-projetos: Sub-Projeto 1: Implementação de um Sistema Inteligente para Detecção e Diagnóstico de Falhas em Motores de Indução Trifásicos de Rotor do Tipo Gaiola O objetivo é desenvolver um protótipo de um sistema de detecção e diagnósticos de falhas elétricas (curto circuito, trinca e quebra de barras, desequilíbrio de fase, etc) e mecânicas (danos em rolamentos, desalinhamento, desbalanceamento, excentricidade, pé manco, etc) em motores de indução trifásicos, empregando técnicas de inteligência computacional, especificamente redes neurais artificiais e sistemas nebulosos, com o intuito de auxiliar a manutenção. Sub-Projeto 2: Detecção e Diagnóstico de Falhas em Dutos Utilizando Técnicas de Inteligência Computacional Desenvolver um sistema para a detecção e diagnostico de falhas em dutos. Especificamente busca-se obter neste sub-projeto: a implementação de modelos que permitam a simulação de falhas em oleodutos e geração de bases de dados contendo dados de diversos cenários de falha; a formulação e implementação de modelos de Inteligência Computacional para detecção e diagnóstico de falhas em oleodutos; o estudo comparativo de alguns dos métodos de detecção de falhas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Benjamin Rodrigues de Menezes - Integrante / Walmir Matos Caminhas - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+1998 - 2000
+Análise Experimental de Sistema de Energia Eólica
+Descrição: Estudo e implementação de estratégia de controle de gerador de indução em sistema de conversão de energia eólica. Situação: Concluído; Natureza: Pesquisa. Integrantes: Benjamin Rodrigues de Menezes - Integrante / Selênio Rocha Silva - Coordenador / Walmir Matos Caminhas - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1994 - 1998
+Conversores Estáticos Não-dissipativos: Desenvolvimento de uma Metodologia de Projeto Orientada para o Controle
+Descrição: O projeto tem por objetivos os seguintes temas:
+1) Desenvolvimento de modelos matemáticos segunda a técnica de espaço de estados discretos generalizados de células de comutação não-dissipativas em tensão/corrente, utilizando a teoria de controle por estrutura variável;
+2) Implementação de protótipos de conversores com barramento ressonante CC para aplicações industriais;
+3) Obtenção de novos conhecimento e capacitação de pessoal em Eletrônica de Potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador / Porfírio C CORTIZO - Integrante / P F DONOSO-GARCIA - Integrante / Alessandro Fernandes Moreira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1993 - 1994
+Sistemas de Controle de Energia Eólica
+Descrição: Análise e comparação de estrutura de conversão de energia eólica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Benjamin Rodrigues de Menezes - Integrante / Selênio Rocha Silva - Coordenador / Walmir Matos Caminhas - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1992 - 1995
+Desenvolvimento Teórico de Controle por Modos Deslizantes Operando em Frequência de Chaveamento Finita: Aplicações em Eletrônica de Potência
+Descrição: O projeto possui os seguintes objetivos:
+1) Desenvolver novas estratégias de controle robusto para plantas de eletrônica de potência baseadas em modos deslizantes;
+2) Aplicar a teoria de Modos Deslizantes operando em frequência de chaveamento finita;
+Dar continuidade ao desenvolvimento da teoria de modos deslizantes amostrados;
+3) Desenvolver um protótipo experimental baseado em microcomputador de processamento digital de sinais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador / Porfírio C CORTIZO - Integrante / Ricardo H C Takahashi - Integrante / Braz J Cardoso Filho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+1991 - 1993
+Acionamentos de Alto Desempenho com Motores de Corrente Alternada
+Descrição: Desenvolvimento e implementação de observadores de estados e técnicas de controle de velocidade e fluxo de motor de indução. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador / Porfírio C CORTIZO - Integrante / Selênio Rocha Silva - Integrante / Walmir Matos Caminhas - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1990 - 1992
+Desenvolvimento e Implementação de Algoritimos de Controle Aplicados a Acionamentos de Corrente Alternada
+Descrição: Desenvolvimento e aplicação de técnicas de controle vetorial em acionamentos elétricos de motor de indução. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador / Walmir M Caminhas - Integrante / Selênio Rocha Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+1989 - 1990
+Sistema Inteligente de Aquisição Digital de Dados para o Comando de Acionamentos a Velocidade Variável
+Descrição: O projeto tem como objetivos o desenvolvimento e a implementação de um sistema para aquisição didital de sinais, baseado em microcomputador, para o comando de acionamentos a velocidade variável. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador.Financiador(es): Pró-Reitoria de Pesquisa da UFMG - Auxílio
+										financeiro.Número de produções C, T & A: 5
+1987 - 1988
+Sistema Automatizado de Transporte de Material
+Descrição: O projeto tem por objetivo desenvolver uma estrutura de comando sincronizada de transporte cíclico de carga, através de correias transportadoras e silos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador.Financiador(es): Pró-Reitoria de Pesquisa da UFMG - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1986 - 1987
+Esforços Torcionais em Hidrogeradores
+Descrição: Modelagem e simulação de gerador síncrono de médias e altas potências considerando o efeito de oscilações torcionais no eixo de acoplamento gerador/turbina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador / Selênio R Silva - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1986 - 1987
+Acionamentos Elétricos: Comando Numérico de uma Máquina Síncrona Alimentada por um Conversor Estático - Fonte de Corrente
+Descrição: O projeto tem como objetivos o desenvolvimento de técnicas de controle aplicadas a acionamentos elétricos e a implentação de uma montagem-protótipo para desenvolver técnicas específicas de comando numérico de máquinas síncronas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Benjamin Rodrigues de Menezes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1

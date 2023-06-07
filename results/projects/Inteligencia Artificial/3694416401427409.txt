@@ -1,0 +1,16 @@
+2020 - Atual
+Utilização da técnica de radiotraçadores para detecção e localização de vazamentos em permutadores de calor do tipo circuito impressooperando em alta pressão
+Descrição: Desenvolver metodologia para detecção e localização de pontos de vazamento em permutadores de calor (líquido/gás) do tipo circuito impresso, operando em níveis de baixa, média e alta pressão, empregando-se radiotraçadores de meia vida curta.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (3) . Integrantes: Luís Eduardo Barreira Brandão - Coordenador / Armi Wanderley da  Nóbrega - Integrante / Waleska Peres de Araujo - Integrante / Eduardo R. Gonçalves - Integrante / Raphael Francisco Gomes dos Santos - Integrante.
+2017 - Atual
+ATOMUM SCANNER
+Descrição: Projeto e construção de uma unidade móvel para a detecção de anomalias (corrosão, desgaste, oclusão) em unidades industriais por meio de inspeções não destrutivas empregando a técnica de espalhamento gama.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Luís Eduardo Barreira Brandão - Coordenador / Armi Wanderley da  Nóbrega - Integrante / Eduardo R. Gonçalves - Integrante / Julio Cesar Dualibi Filho - Integrante.
+2016 - Atual
+ATOMUM_TRACER
+Descrição: Desenvolvimento do software (ATOMUM_TRACER) que possibilita ao usuário determinar corretamente os parâmetros geométricos e técnicos que definem otimiza a geometria duto-detector para medição de vazão em dutos de óleo e gás usando a metodologia de radiotraçadores e a técnica de transiente de tempo  medir o fluxo de óleo e gás , fornecendo resultados em acordo com a Regulação ANP/IMETRO Nº1. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Luís Eduardo Barreira Brandão - Coordenador / Armi Wanderley da  Nóbrega - Integrante / Eduardo R. Gonçalves - Integrante / Julio Cesar Dualibi Filho - Integrante.
+2005 - Atual
+Aplicação de técnicas nucleares e redes neurais artificiais na avaliação de padrões de fluxo e medidas de frações de volume em sistemas multifásicos
+Descrição: Desenvolver metodologias para avaliação de perfil de fluxo e medidas de frações de volume em sistemas multifásicos (gás, água e óleo) empregando-se técnicas nucleares (atenuação de radiação gama e espalhamento de nêutrons) e inteligência artificial.
+Atividades:
+?Desenvolver metodologia para análise de perfil de fluxo trifásico e fração de volume (gás, água e óleo) empregando-se redes neurais artificiais. 
+?Desenvolver protótipo de um dispositivo para medir frações de volume em sistemas trifásicos (gás, água e óleo) empregando-se feixe múltiplo de radiação gama de baixa energia (137Cs e 241Am) visando validar experimentalmente a metodologia.
+?Desenvolver um protótipo que permita medir frações de volume em sistemas multifásicos pela técnica de espalhamento de nêutrons (fonte de Am-Be) visando validar experimentalmente a metodologia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Luís Eduardo Barreira Brandão - Coordenador / Ricardo Elias de Miranda Candeiro - Integrante / Cesar Marques Salgado - Integrante / Robson Ramos - Integrante.

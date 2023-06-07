@@ -1,0 +1,47 @@
+2014 - Atual
+CNPq - Abys: Sistemas Tolerante a Faltas Bizantina Autonômico
+Descrição: Programa Ciência sem Fronteiras - Pesquisador Visitante Especial - PVE
+Chamada de Projetos  MEC/MCTI/CAPES/CNPq/FAPs	No 03/2014
+Coordenador: Luciana de Oliveira Rech
+O paradigma de Computação em Nuvem tem vindo a afirmar-se como um modelo adequado para fornecer os mais diversos serviços de computação e armazenamento através da internet. Este projeto pretende combinar duas facetas centrais na computação em nuvem: a elasticidade, e a necessidade de delegar tarefas em infraestruturas computacionais que não estão sob total controle do usuário final.
+Este projeto pretende estudar, desenvolver e avaliar técnicas que permitam desenvolver sistemas tolerantes a Faltas Bizantinas que sejam autonomicos, ou seja, que tenham capacidade de se adaptar elasticamentea alterações no envelope de operação.
+Apesar de já existir um trabalho significativo em cada uma destas áreas isoladamente, a combinação destes dois aspectos levante desafios de pesquisa significativos, uma vez que a adaptação dinâmica pode introduzir novas vulnerabilidades no sistema que podem ser exploradas por um atacante. Isto significa que a maioria dos sistemas existentes hoje em dia ou são elásticos mas inseguros ou seguros mas inelásticos. Desta forma, técnicas que preservem a qualidade de elasticidade sem comprometer a robustez do sistema necessitam ser desenvolvidas. Processo: 401364/2014-3. Valor Total do Projeto: ~250.000,00. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Luciana de Oliveira Rech - Coordenador / Lau Cheuk Lung - Integrante / Luiz Nacamura Jr. - Integrante / Frank Augusto Siqueira - Integrante / Alex Pinho Magalhães - Integrante / Fábio Favarim - Integrante / Aldelir Fernando Luiz - Integrante / Luís Eduardo Teixeira Rodrigues - Integrante / Jose Roque Betiol - Integrante / Hylson Vescovi Netto - Integrante / Ricardo Alexandre Reinaldo de Moraes - Integrante / Ray Willy Neiheiser - Integrante / Leonardo Martins Rodrigues - Integrante.
+2008 - 2010
+CNPq - HAM: Heurísticas para a Determinação Dinâmica do Itinerário de Agentes Móveis com Deadline Firme
+Descrição: Edital MCT/CNPq Nº 014/2008 ? Universal - Processo n° 472801/2008 2
+Coordenador: Luciana de Oliveira Rech
+O objetivo geral neste plano de trabalho é o estudo envolvendo o uso de
+computação imprecisa e probabilidade condicional para a determinação dinâmica do
+itinerário de agentes móveis com restrições temporais em aplicações distribuídas. Onde
+serão desenvolvidos algoritmos/heurísticas que capacitem o agente móvel a calcular seu
+itinerário de forma a alcançar o maior benefício possível para cada missão. Cada agente
+móvel recebe um conjunto de tarefas que deverão ser cumpridas respeitando um deadline firme, este conjunto de tarefas é intitulado como a missão do agente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Luciana de Oliveira Rech - Coordenador / Lau Cheuk Lung - Integrante / Jim Lau - Integrante / Alex Pinho Magalhães - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2008 - 2010
+CNPq - TISCO: Tolerância a Intrusões em Sistemas de Computação Distribuída
+Descrição: O foco principal deste projeto é a proposição de novos modelos e técnicas, com auxilio de algoritmos e protocolos distribuídos, para suporte ao desenvolvimento de aplicações confiáveis capazes de tolerar faltas e intrusões em sistemas distribuídos de larga-escala. As soluções propostas devem atender aos requisitos de sistemas abertos, que envolvem aspectos de interoperabilidade, portabilidade e escalabilidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Luciana de Oliveira Rech - Integrante / Lau Cheuk Lung - Coordenador / Jim Lau - Integrante / Joni da Silva Fraga - Integrante / Fábio Favarim - Integrante.
+2006 - 2008
+FINEP - Tecnologia De Redes Par-A-Par Aplicada A Software De Entretenimento Massivo De Tempo Real
+Descrição: Claudio Gayer: Coordenação Geral
+Rômulo de Oliveira: co-executor
+Luciana de Oliveira Rech : pesquisadora (sem bolsa)
+O núcleo da UFRGS será liderado pelo professor Cláudio Geyer e contará com o auxílio dos professores Dante Barone, Luis Otávio Álvares e Raul Fernando Weber.
+A UFRGS também conta com:
+- Fábio Reis Cecin, responsável pelo desenvolvimento do projeto FreeMMG do CNPQ com suporte da empresa Mimetic Entretenimento; 
+-  Mauricio Coutinho Moraes e  Rômulo Bandeira Rosinha, orientandos do professor Geyer;
+- e Hugo da Silva Sardinha Pinto, orientando do professor Luis Otávio Álvares.
+O núcleo da UFSC será liderado pelo professor Rômulo Silva de Oliveira. 
+Também participarão deste núcleo três doutorandas:
+- Cassia Yuri Tatibana;
+- Luciana de Oliveira Rech;
+- Patrícia Della Méa Plentz.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Luciana de Oliveira Rech - Integrante / Rômulo de Oliveira - Integrante / Cláudio Geyer - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Universidade Federal de Santa Catarina - Cooperação / Universidade Federal do Rio Grande do Sul - Cooperação / Fundação de Apoio à Universidade Federal do Rio Grande do Sul - Cooperação.
+2004 - 2007
+CNPq - SAMD: Um Middleware com Suporte a Difusão Semi-confiável para Aplicações Multimídia Distribuída
+Descrição: Esta projeto tem como objetivo o desenvolvimento de mecanismos de difusão de stream de áudio e vídeo, segundo a abordagem de multicast semi-confiável (tendo como base o protocolo IP multicast), que seja mais eficiente e escalável que as disponíveis atualmente. Este protocolo será definido através de estudos e simulações, que levarão à definição de um algoritmo para retransmissão dos quadros de áudio e vídeo. Para tal, proporemos um mecanismo de retransmissão de pacotes que leve em conta o estado da rede, as rotas percorridas pela mídia para chegar aos receptores, e o formato utilizado para codificação da mídia. O foco deste projeto envolve também as redes sem-fio, devido a sua limitação de recursos, onde serão propostos protocolos de multicast semi-confiável mais adequados. Neste projeto, serão abordados três temas relevantes. O primeiro é o estudo e a modelagem probabilística para fontes de vídeo compactado hierárquico. Na segunda etapa será avaliada a técnica de transmissão com correção de erro para fonte de vídeo hierárquica, explorando quais as formas mais eficientes de encapsulamento dos quadros e de adição de redundância. Na terceira etapa serão definidas métricas para a avaliação de qualidade do vídeo hierárquico recebido. Após o desenvolvimento deste protocolo, o mesmo será integrado numa plataforma de middleware CORBA. Total solicitado para o projeto: R$ 145.905,92 - Edital CT-Info/MCT/CNPq nº 031/2004 - Projeto: 506639/2004-5.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Luciana de Oliveira Rech - Integrante / Lau Cheuk Lung - Coordenador / Luiz Nacamura Jr. - Integrante / Frank Augusto Siqueira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2002 - 2007
+Determinação Dinâmica do Itinerário de Agentes Móveis Imprecisos com Deadline Firme
+Descrição: coordenação: Luciana de Oliveira Rech
+Dentro do contexto da mobilidade de código, uma importante área de pesquisa atualmente é da tecnologia de agentes móveis. Um agente móvel deve ser capaz de interromper sua execução em um lugar, transferir-se para outro lugar e lá retomar sua execução. Agentes móveis reduzem a carga na rede, executam assincronamente e autonomamente e adaptam-se dinamicamente, estabelecendo assim um novo paradigma para a programação em ambientes distribuídos. No interesse deste projeto, aliado à praticidade da mobilidade de código, um requisito de importante valor é a questão temporal. Sistemas de tempo real são identificados como aqueles sistemas computacionais que devem reagir a estímulos vindos de seu ambiente em prazos específicos. Uma aplicação de tempo real varia com relação ao tamanho, complexidade e criticalidade.
+O objetivo deste trabalho é desenvolver um modelo de execução para aplicações baseadas em agentes móveis com restrições de tempo real. Em especial, será considerada a questão da definição do itinerário e seu impacto no tempo de resposta da aplicação. Para um agente alcançar os objetivos da missão pode existir a necessidade de cumprimento de um deadline fim a fim, contudo com flexibilidade na escolha do itinerário. Além do modelo de execução para agentes móveis com restrições temporais, pretende-se apresentar heurísticas simples capazes de guiar esses agentes na definição de um itinerário, considerando a existência de um deadline fim a fim para a missão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Luciana de Oliveira Rech - Coordenador.Financiador(es): Universidade Federal de Santa Catarina - Cooperação.

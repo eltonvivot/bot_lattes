@@ -1,0 +1,9 @@
+2019 - Atual
+Análise de Interferência Eletromagnética Irradiada por Dispositivos Móveis em Unidades Hospitalares.
+Descrição: O objetivo do projeto é analisar em unidades hospitalares- principalmente em áreas críticas como Unidade de Terapia Intensiva (UTI), Centro de Terapia Intensiva (CTI) e Centro Cirúrgico- a interferência eletromagnética irradiada por dispositivos móveis nos equipamentos eletromédicos que monitoram parâmetros vitais e oferecem suporte de vida. E caso sejam aferidas anormalidades nos equipamentos, sugerir melhorias técnicas para atenuar ou cessar as interferências, localizando as fontes que estão ocasionando as avarias.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Raquel Aline Araújo Rodrigues Felix - Coordenador / Alexandre Henrique Soares de Oliveira - Integrante / Jobson de Araújo Nascimento - Integrante / Ágatha Eyshilla da Paz Correia - Integrante / Gabriel Mesquita Gomes - Integrante / Victória Souza Fernandes - Integrante.
+2019 - Atual
+Sensor de Micro-ondas para Caracterização de Solos.
+Descrição: O objetivo do projeto é desenvolver um sensor de micro-ondas para a medição da humidade de amostras de solo obtidas em laboratório.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Raquel Aline Araújo Rodrigues Felix - Coordenador / Débora Borges Nobre - Integrante / Leandro de Oliveira Souto - Integrante / Victor Emanuel Guimarães da Silva - Integrante.
+2014 - 2015
+Tags RFID sem chip baseadas em  linha de transmissão em "C"
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Raquel Aline Araújo Rodrigues Felix - Coordenador / Edmar Candeia Gurjão - Integrante / Smail Tedjini - Integrante.

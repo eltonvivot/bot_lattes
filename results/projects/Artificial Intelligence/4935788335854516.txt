@@ -1,0 +1,61 @@
+2022 - Atual
+Embeddings Textuais Neurais para Análise Preditiva
+Descrição: Investigar abordagens para geração de embeddings textuais baseados em redes neurais, incluindo a viabilidade e efetividade de aplicação das abordagens em diferentes problemas de predição.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Gustavo Oliveira Rocha Gomes - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Outra / Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2021 - Atual
+PreNEmb: Embeddings Textuais Neurais para Análise Preditiva em Saúde
+Descrição: O projeto se propõe a investigar abordagens para geração de embeddings textuais baseados em redes neurais, incluindo a viabilidade e efetividade de aplicação das abordagens em diferentes problemas de predição em saúde.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2021 - Atual
+SOLIRIS: Machine Learning for People Analytics and Behavior Management
+Descrição: Investigação de efetividade de abordagens de aprendizagem de máquina aplicadas a problemas relacionados a gestão comportamental (behavior management) e de análise de pessoas (people analytics). Particularmente, problemas relacionados a coleta e processamento de dados de organizações e pessoas (profissionais) na Web e de predição de ocorrência de padrões em eventos e atividades organizacionais serão tratados utilizando algoritmos de processamento em linguagem natural, agrupamento, classificação, ranking e recomendação. Com essa iniciativa, espera-se identificar a aplicabilidade de algoritmos de aprendizagem de máquina em problemas de análise de pessoas a partir da proposição e avaliação de abordagens para coleta, processamento e análise de dados comportamentais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (16)  / Mestrado acadêmico: (6)  / Doutorado: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Ana Carolina Conceição de Jesus - Integrante / Richard Vinicius Rezende Mariano - Integrante / Rafael Tristão Schettino César - Integrante / Arthur Rodrigues Soares de Quadros - Integrante / Leonardo Barbosa Brandão - Integrante / Hudsson Davih Apolinário de Andrade - Integrante / Camila Moreira Lopes - Integrante / Marcos Antônio Lommez Cândido Ribeiro - Integrante / Gabriel Alves da Silva Diógenes - Integrante / Alexandre Luiz Santos Amaral - Integrante.Financiador(es): Solides Tecnologia S.A - Bolsa.
+2019 - 2020
+Estimativa de tamanho, custo e qualidade de software usando abordagens baseadas em aprendizado de máquina
+Descrição: Investigação de técnicas de aprendizado de máquina para lidar com a implementação de testes em projetos de Engenharia de Software, a fim de propor modelos capazes de auxiliar desenvolvedores a melhorar sua implementação de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Geanderson Esteves dos Santos - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.Número de produções C, T & A: 2
+2018 - 2020
+Transforming multimedia data for indexing and retrieval purposes
+Descrição: Transform multimedia data into compact representations suited for indexing and retrieval purposes. Design transformations adapted to 3D- shapes, temporal data and multimodal data. Representations will be integrated into efficient indexing schemes for retrieval purposes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Wladmir Cardoso Brandão - Integrante / Zenilton Kleber Gonçalves do Patrocínio Júnior - Integrante / Silvio Jamil Ferzoli Guimarães - Coordenador / Kleber Jacques Ferreira de Souza - Integrante / Arnaldo de Albuquerque Araújo - Integrante / Benjamin Bustos - Integrante / Laurent Amsaleg - Integrante / Simon Malinowski - Integrante / Guillaume Gravier - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2018 - 2019
+Explorando Algoritmos de Recuperação de Informação e Aprendizagem de Máquina para Análise Esportiva
+Descrição: Investigar a efetividade de abordagens de recuperação de informação e de aprendizagem de máquina aplicadas ao problema de análise esportiva. Propor e avaliar abordagens para coleta, processamento e mineração de dados esportivos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2017 - 2018
+Explorando evidências semânticas de entidades em recuperação de informação
+Descrição: Investigar a hipótese de que o uso de evidências semânticas de entidades aumenta a efetividade em tarefas de recuperação de informação. Construção de arcabouço para avaliação da efetividade da utilização de evidências semânticas de entidades em tarefas relacionadas à busca e recomendação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Claudinei Gomes Mendes - Integrante / Lucas Henrique Resende Mari - Integrante / Lucas de Souza Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2016 - 2020
+BigDataClima: Modelos Neurais para Cenários Climáticos por meio de Big Data
+Descrição: Modelar e identificar padrões atmosféricos usando técnicas de mineração de dados baseadas em redes neurais artificiais sobre um volume massivo de dados, de fontes diversas, em tempo de processamento adequado para seu uso. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wladmir Cardoso Brandão - Integrante / Cristiane Neri Nobre - Integrante / Luis Enrique Zárate Gálvez - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2016 - 2020
+Proposta de uma Metodologia de Busca de Informações e Estimativa de Demanda e Consumo de Clientes Livres Potenciais
+Projeto certificado pelo(a) coordenador(a) Fernando Silva Parreiras em 30/03/2016.
+Descrição: Proposição de um sistema semiautomático de monitoramento ambiental para apoio na tomada de decisão de prospecção de novos clientes livres do setor elétrico. Espera-se obter um aumento do grau de assertividade na prospecção e na estimativa de demanda e consumo de energia de clientes. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wladmir Cardoso Brandão - Integrante / Fernando Silva Parreiras - Coordenador / Fabrício Ziviani - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2016 - 2017
+Stemming Baseado em Autômatos para Recuperação de Informação
+Descrição: Proposição e avaliação de algoritmos de stemming baseados em autômatos finitos determinísticos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Wladmir Cardoso Brandão - Coordenador / Cleber Oliveira Damasceno - Integrante / Raphael Matori da Rocha - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Auxílio
+										financeiro / Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2015 - 2019
+MASWeb: Modelos, Algoritmos e Sistemas para Web
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Wladmir Cardoso Brandão - Integrante / Jussara Marques de Almeida - Integrante / Nivio Ziviani - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2016
+Descoberta de Conhecimento de Dados Complexos via Análise Formal de Conceitos em Ambientes de Big Data
+Projeto certificado pelo(a) coordenador(a) Luis Enrique Zárate Gálvez em 03/11/2016.
+Descrição: Proposição de abordagem para construção de modelos computacionais para redes sociais baseada em regras de implicação oriundas da teoria de análise formal de conceitos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wladmir Cardoso Brandão - Integrante / Mark Alan Junho Song - Integrante / Luis Enrique Zárate Gálvez - Coordenador / Henrique Cota de Freitas - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 1
+2014 - 2017
+Extração e Recuperação de Informação sobre Entidades na Web
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - 2016
+Entity-Related Information Extraction and Retrieval from the Web
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Microsoft Corporation - Cooperação.
+2014 - 2015
+Recuperação de Informação sobre Entidades na Web
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Wladmir Cardoso Brandão - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2008 - 2010
+CNPq/CT-INFO/InfoWeb: Métodos e Ferramentas para Tratamento da Informação Disponível na Web
+Descrição: Desenvolvimento de novos métodos e ferramentas para tratamento de informação existente em grandes repositórios de dados e coleções de documentos disponíveis na Web. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (21)  / Doutorado: (13) . Integrantes: Wladmir Cardoso Brandão - Integrante / Alberto Henrique Frade Laender - Integrante / Berthier Ribeiro de Araújo Neto - Integrante / Wagner Meira Júnior - Integrante / Nivio Ziviani - Coordenador / Marcos André Gonçalves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+2005 - 2008
+RedeCI - Análise de Redes Sociais Aplicada ao Campo da Ciência da Informação
+Descrição: Construção e manutenção de base de dados de produção científica da Ciência da Informação no Brasil. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Antonio Braz de Oliveira e Silva - Integrante / Fernando Silva Parreiras - Integrante / Jaime Sadao Yamassaki Bastos - Integrante / Marta Araújo Tavares Ferreira - Coordenador.Número de produções C, T & A: 4
+2003 - 2005
+Métodos para Representação de Conhecimento
+Descrição: Construção de métodos para representação conceitual utilizando técnicas de classificação facetada e abordagem analítico-sintética. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Wladmir Cardoso Brandão - Integrante / Lídia Alvarenga - Coordenador.Número de produções C, T & A: 1

@@ -1,0 +1,11 @@
+2016 - 2017
+Software para Análise das Caracterísitcas Morfométricas de Caprino e Ovinos Utilizando Mineração de Dados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Constantino Augusto Dias Neto - Coordenador / PAULO CÉSAR SOUSA SILVA FILHO - Integrante.
+2013 - 2016
+Arquitetura para Contabilização em Tempo Real de Passageiros no Transporte Público -InBuses
+Descrição: O projeto de pesquisa é propor uma solução móvel que atenda as empresas de transporte e a STRANS, na contabilização de passageiros. Que seja possível enviar os dados para uma central e melhorar o nível de gestão do transporte público. A solução deve colaborar no processo de implantação dos sistema de integração dos terminais na capital Teresina-PI e na disponibilização de informações que ajudam na definição do preço da tarifa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Constantino Augusto Dias Neto - Coordenador / Marcus Vinícius de Sousa Lemos - Integrante / Carlos Giovanni Nunes de Carvalho - Integrante / José de Ribamar Martins Bringel Filho - Integrante / Anderson da Silva Ribeiro - Integrante / Luís Santos Neto - Integrante / Douglas de Menezes Braz - Integrante / Douglas Lopes de Sousa Mendes - Integrante.
+2012 - 2013
+Infraestrutura de Computação em Nuvem para Aplicações Avançadas
+Descrição: Este projeto visa pesquisar as principais implementações de computação nas nuvens,
+principais componentes sobre os quais as computação nas nuvens se baseia, como
+como funciona a arquitetura de computação nas nuvens. tipos de aplicações que podem ser utilizadas em computação nas nuvens. ferramentas open-source e proprietárias utilizadas para a implementação de computação nas nuvens. Comparar os serviços existentes de Cloud no mercado com a implementação de Cloud que está sendo realizada na FAPEPI.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Constantino Augusto Dias Neto - Coordenador / Carlos Giovanni Nunes de Carvalho - Integrante / Ronan Oliveira de Andrade - Integrante.

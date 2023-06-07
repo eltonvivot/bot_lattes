@@ -1,0 +1,3 @@
+2016 - Atual
+Inferência dos Estados Afetivos dos Aprendizes em Sistemas Tutores Inteligentes
+Descrição: Este projeto tem como objetivo a pesquisa e desenvolvimento de técnicas e ferramentas para Inferência dos estados afetivos dos aprendizes na sua interação com ambientes educacionais, mais especificamente, Sistemas Tutores Inteligentes. Além disso, este projeto pretende usar as informações sobre os estados afetivos no desenvolvimento de STIs mais adaptados aos aprendizes... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Wellton Costa de Oliveira - Integrante / Pimentel, Andrey Ricardo - Coordenador.

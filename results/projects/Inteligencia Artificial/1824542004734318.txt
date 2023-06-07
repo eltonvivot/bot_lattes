@@ -1,0 +1,33 @@
+2018 - Atual
+PIBIC-EM/UNICAMP/CNPq 2018:DESENVOLVIMENTO DE PROTÓTIPOS EXPERIMENTAIS DE PROCESSOS QUÍMICOS PARA APRESENTAÇÃO EM FEIRAS DE TECNOLOGIA EM ESCOLAS PÚBLICAS DE CAMPINAS
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ivan Carlos Franco - Integrante / Flávio Vasconcelos da Silva - Coordenador.
+2017 - 2018
+PIBIC-EM/UNICAMP/CNPq 2017: AVALIAÇÃO DO CONSUMO DE ENERGIA ELÉTRICA EM UM REFRIGERADOR DOMÉSTICO
+Projeto certificado pelo(a) coordenador(a) Flávio Vasconcelos da Silva em 11/05/2018.
+Descrição: Neste projeto de Iniciação Científica, direcionado à alunos do Ensino Médio, é proposto a avaliação e a quantificação do consumo de energia de um refrigerador doméstico submetido a diferentes condições de operação. Para isto, será desenvolvido um sistema de monitoramento baseado em aquisição de dados e um sistema supervisório permitindo a realização, além da determinação do perfil de temperatura interna, de análises como: influência da abertura da porta (tempo e magnitude) no consumo de energia elétrica e influência da temperatura inicial dos alimentos no consumo de energia elétrica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ivan Carlos Franco - Integrante / Flávio Vasconcelos da Silva - Coordenador / Newton Libânio Ferreira - Integrante / Victor Santana Ramos - Integrante.Financiador(es): Universidade Estadual de Campinas - Auxílio
+										financeiro.
+2016 - 2017
+PIBIC-EM/UNICAMP/CNPq 2016: DESENVOLVIMENTO DE UM SISTEMA DE DETERMINAÇÃO, EM TEMPO REAL, DAS CURVAS DE RESFRIAMENTO E CONGELAMENTO DE FRUTAS E HORTALIÇAS POR AR FORÇADO.
+Projeto certificado pelo(a) coordenador(a) Flávio Vasconcelos da Silva em 20/10/2016.
+Descrição: A proposta principal deste projeto consiste em proporcionar aos alunos Programa Institucional de Bolsas de Iniciação Científica para o Ensino Médio uma introdução ao ambiente científico-acadêmico por meio do desenvolvimento de uma pesquisa naárea de resfriamento e congelamento de frutas e hortaliças.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ivan Carlos Franco - Integrante / Flávio Vasconcelos da Silva - Coordenador / Victor Santana Ramos - Integrante / Juliana Fuzaro Fernandes - Integrante / Beatriz de Souza Cicala - Integrante / Felipe D'Amico Silva - Integrante.Financiador(es): Fundação de Desenvolvimento da UNICAMP - Auxílio
+										financeiro.
+2014 - 2015
+PIBIC-EM/UNICAMP/CNPq 2014: PROJETO, CONFIGURAÇÃO E INSTALAÇÃO DE UM SISTEMA DE CONTROLE BASEADO EM DISPOSITIVOS DE CAMPO INTELIGENTES - REDE FIELDBUS
+Projeto certificado pelo(a) coordenador(a) Flávio Vasconcelos da Silva em 20/10/2016.
+Descrição: Neste projeto, os alunos do Ensino Médio desenvolveram atividades de Iniciação Científica utilizando técnicas de automação industrial. Durante o período, as atividades foram concentradas na utilização e configuração do protótipo de vazão montado durante a primeira fase do projeto. As fases de configuração do sistema de aquisição de dados e de construção das telas de supervisão podem ser consideradas como a de maior aquisição de conhecimento, pois foi necessário desenvolver o raciocínio lógico para implementar o programa System302 e supervisório Indusoft. Outro ponto importante foi a realização dos ensaios de medição, em tempo real, da vazão, onde pode ser observado o comportamento real de controle numa malha aberta e malha fechada, utilizando controlador PID convencional, amplamente utilizado no ambiente industrial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Ivan Carlos Franco - Integrante / Flávio Vasconcelos da Silva - Coordenador / Paulo Eduardo de Freitas Saroa - Integrante / Vinicius Paes Azevedo - Integrante / Bruno dos Santos Estevam - Integrante.Financiador(es): Fundação de Desenvolvimento da UNICAMP - Auxílio
+										financeiro.
+2011 - 2013
+ESTUDO DA REDUÇÃO DO CONSUMO DE ENERGIA EM SISTEMAS DE REFRIGERAÇÃO VIA AUTOMAÇÃO INTELIGENTE
+Projeto certificado pelo(a) coordenador(a) Ana Maria Frattini Fileti em 23/08/2012.
+Descrição: O projeto visa avaliar experimentalmente o desempenho de sistemas de
+refrigeração, por meio da implementação de diferentes malhas de controle inteligentes (controladores
+fuzzy) e convencionais (controladores PID) nas variáveis de processo do sistema de refrigeração sob
+condições definidas de processamento, visando a redução do consumo de energia elétrica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ivan Carlos Franco - Integrante / Flávio Vasconcelos da Silva - Integrante / Thiago Vaz da Costa - Integrante / Ana Maria Frattini Fileti - Coordenador / José Vicente Hallak d'Angelo - Integrante / Roger Josef Zemp - Integrante / Lívia Martins Tizzo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2010 - 2013
+IDENTIFICAÇÃO DE SISTEMAS NÃO-LINEARES DINÂMICOS UTILIZANDO TÉCNICAS NEURO-FUZZY APLICADO EM PROCESSOS PARA CONTROLE DE pH
+Descrição: Determinação de modelos empíricos que representam a dinâmica não linear de um sistema de neutralização de pH por meio de técnicas de identificação neuro-fuzzy (ANFIS ? Adaptative Network based Fuzzy Inference Systems).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ivan Carlos Franco - Coordenador / Ariane Silva Mota - Integrante.Financiador(es): FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS - Bolsa.Número de produções C, T & A: 3
+2004 - 2007
+CIAM/CNPq - PROJETO DE COLABORAÇÃO INTERAMERICANA EM MATERIAIS
+Descrição: Desenvolvimento de modelos matemáticos detalhados e abrangentes para polimerização via radical livre controlada usando método RAFT, baseado em balanços populacionais totais para polímero e radicais, incluindo técnicas numéricas avançadas para a solução dos balanços populacionais, além de estudos de sensibilidade e estimativa de parâmetros do modelo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ivan Carlos Franco - Integrante / Liliane Maria Ferrareso Lona - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2

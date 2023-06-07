@@ -1,0 +1,100 @@
+2019 - 2022
+Avaliação do uso de GPR para inspeção de via permanente ferroviária
+Descrição: Nas ferrovias em operação há várias décadas a quebra do lastro ao longo do tempo e a migração ascendente das partículas finas do solo da fundação, juntamente com a água capilar, pode afetar seu desempenho estrutural e levar à falhas como, por exemplo, a deformação plástica excessiva acumulada das camadas. A detecção periódica da contaminação do lastro é muito importante para a gestão da manutenção da via permanente permitindo, assim, priorizar os trechos críticos e atuar de maneira preditiva. Recentemente o sistema GPR passou a ser utilizado com sucesso para distinguir as várias fases de contaminação do lastro. O objetivo deste projeto é avaliar, por meio de estudos laboratoriais, testes e verificação in loco, o método GPR como ferramenta para investigação e monitoramento do lastro ferroviário e camadas subjacentes. Para isto, será realizada uma prospecção e análise dos equipamentos existentes no mercado e também das características da via permanente ferroviária para a definição da melhor configuração de equipamento a ser utilizado nas ferrovias da Vale. Em seguida serão realizados experimentos no LIND ? Laboratório de Investigação não Destrutiva da Faculdade de Engenharia Civil, Arquitetura e Urbanismo da Unicamp. Numa primeira etapa será determinado a permissividade dielétrica relativa complexa em diferentes frequências, a partir da medição dos coeficientes de reflexão e transmissão, chamados de parâmetros de dispersão, com o Vector Network Analyser (VNA). A segunda etapa consistirá nas medições com o GPR propriamente dito, utilizando o sistema SIR 3000 da fabricante GSSI, equipado com antenas de acoplamento pelo solo com frequências centrais de 900 MHz e 1600 MHz, de propriedade da universidade. Paralelamente se fará uma simulação computacional, utilizando o software gratuito gprMax, para diferentes cenários. Após a definição dos parâmetros otimizados para a condição das ferrovias da Vale, será realizado um teste de campo com o material coletado na EFVM. Finalizando, os resultados obtidos utilizando o sistema GPR serão comparados com os apresentados na pesquisa da USP, tendo como referência o nível e tipo de contaminação e umidade reais e os simulados em laboratório, e será estabelecida uma correlação que servirá de base a elaboração de índices de contaminação com o GPR.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Maria Teresa Françoso - Integrante / Luiz Carlos de Almeida - Coordenador / Cassio Eduardo Lima de Paiva - Integrante / Creso de Franco Peixoto - Integrante / Leandro Mouta Trautwein - Integrante / Luciano de Oliveira - Integrante / Edmar Mencher - Integrante / Paulo Gomes Oliveira - Integrante / Rodrigo Franco - Integrante / Kelvyane Sousa - Integrante / Ricardo Souza - Integrante.Financiador(es): Companhia Vale do Rio Doce - Bolsa.Número de produções C, T & A: 1
+2017 - 2017
+Capacitação dos laboratórios da FEC com equipamentos para investigação não destrutiva em estrutura de concreto, no subsolo e em infraestrutura de transportes
+Descrição: Projeto FAEPEX ? Fundo de Apoio ao Ensino, à Pesquisa e Extensão da Unicamp ? Auxílio à pesquisa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador / Luiz Carlos de Almeida - Integrante / Cassio Eduardo Lima de Paiva - Integrante.Financiador(es): Fundo de Apoio ao Ensino, à Pesquisa e Extensão da Unicamp - Auxílio
+										financeiro.
+2016 - 2017
+Capacitação dos laboratórios da FEC com equipamentos para investigação não destrutiva em estrutura de concreto, no subsolo e em infraestrutura de transportes
+Descrição: Edital de Projetos na Linha de Ensino da FAEPEX - Pró Reitoria de Pesquisa 
+Solicitação no. 2668/16
+Aquisição da antena de 900 MHz compatível com o equipamento GPR - SIR 3000 e skid (acessório para levantamento). Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador / Luiz Carlos de Almeida - Integrante / Cassio Eduardo Lima de Paiva - Integrante.Financiador(es): Fundo de Apoio ao Ensino, à Pesquisa e Extensão da Unicamp - Auxílio
+										financeiro.
+2016 - 2016
+Fundamentos e aplicações do método GPR para investigação não destrutiva em estrutura de concreto, no subsolo e em infraestrutura de transportes
+Descrição: Programa Professor Especialista Visitante em Graduação ? Edital PPEVG 12. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (5)  / Doutorado: (1) . Integrantes: Maria Teresa Françoso - Coordenador / Jandyr de Menezes Travassos - Integrante.
+2013 - 2014
+A importância da topografia na recuperação de áreas degradadas
+Descrição: O presente trabalho tem por objetivo caracterizar a importância da topografia no ramo da Engenharia, prin cipalmente na área ambiental, apresentando informações primordiais para a realização do Licenciamento Am biental na Recuperação de Áreas Degradadas. Realizará um levantamento topográfico planialtimetrico e a caracterização do uso e ocupação do solo em uma área de preservação permanente, na cidade de Paulínia/SP; Busca-se atender à legislação vigente e às normas reguladoras. Por intermédio dos resultados a serem obtidos no referido levantamento, integrar alunos do ensino médio e da graduação em Engenharia Civil... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Maria Teresa Françoso - Integrante / Diogenes Cortijo Costa - Coordenador / Aparecida Silva dos Santos Carbone - Integrante / José Bernie Junior - Integrante / Valter Souza - Integrante / Marcius Fabius Henriques de Carvalho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2012
+Modernização geotecnológica do LTG - Laboratório de Topografia e Geodésia e do Laboratório de Informática da FEC
+Descrição: Subprojeto encaminhado ao FAEPEX - linha Ensino para aquisição do pacote da ESRI do ArcGIS desktop para montagem de um laboratório.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador / Jorge Luis Alves Trabanco - Integrante / Diogenes Cortijo Costa - Integrante.Financiador(es): Fundo de Apoio ao Ensino, à Pesquisa e Extensão da Unicamp - Auxílio
+										financeiro.
+2011 - Atual
+Investigação não destrutiva
+Descrição: Esta linha de pesquisa esta sendo desenvolvida em parcerias com professores da área de estruturas, com as seguintes enfases:
+- Mapeamento do subsolo utilizando sistema GPR;
+- Controle de deformação de estruturas utilizando equipamentos de
+topografia;
+- Investigação não destrutiva de estruturas de concreto utilizando sistema
+GPR e 
+-Fundamentos e aplicações do método GPR para investigação não destrutiva em obras de
+engenharia na área de transportes. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Maria Teresa Françoso - Coordenador / Luiz Carlos de Almeida - Integrante / Carolina Oyama Mota - Integrante / Tadeu Rosanti Sugahara Medeiros Lima - Integrante / Creso de Franco Peixoto - Integrante / Emerson Casagrande - Integrante / Leandro Mouta Trautwein - Integrante / Natália Custódio de Mello - Integrante / Eduardo Jamal Francisco dos Santos - Integrante / Heloisa Moraes Treiber - Integrante / Irving Pizarro Marchena - Integrante / Paulo Bressaglia - Integrante / SILVA RODRIGUES JUNIOR, SERGIO - Integrante / Rafael Reinaldo da Silva Nogueira - Integrante / Thamiris de Moura Lopes - Integrante / Samanta Santos Felix - Integrante / Willian Caitano de Jesus - Integrante / Eula Paula Gregório - Integrante / Vitória Suellen Lopes Pinto - Integrante / Pamela Navas Martins - Integrante / Fábio Fita Blanquer Júnior - Integrante.
+2010 - 2012
+Aspectos críticos da infraestrutura ferroviária; modelação e monitoração de Sistemas Comboio-Via-Estrutura
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Integrante / Luiz Carlos de Almeida - Integrante / Diogenes Cortijo Costa - Integrante / Cassio Eduardo Lima de Paiva - Integrante / José Luiz Antunes de Oliveira Sousa - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2010 - 2012
+Mapeamento e análise ambiental para proposta de recuperação do Córrego Jacarezinho - Paulínia - SP
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Integrante / Diogenes Cortijo Costa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2008
+Atualização do acervo da Biblioteca da Área de Engenharia da Unicamp relacionado as pesquisas desenvolvidas na Faculdade de Engenharia Civil, Arquitetura e Urbanismo
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2002 - 2013
+Aplicações de geotecnologias baseada em softwares livres ou não comerciais
+Descrição: Em decorrência da crescente sofisticação e eficiência de softwares e hardwares, o
+surgimento da computação gráfica, aliado ao fato que estas representações envolvem uma grande
+densidade de dados, sistemas computacionais têm sido desenvolvidos. Uma das etapas para
+implantação destes sistemas é a definição das tecnologias adotadas no que se refere ao hardware
+e software. É importante conhecer não só os benefícios como também os custos de implantação,
+personalização e manutenção. Uma opção é a utilização de softwares livres ou não comerciais.
+Esta pesquisa vem sendo desenvolvida em etapas, envolvendo vários sub-projetos, utilizando
+vários softwares livres ou não comerciais, a saber:
+- 2002 e 2003 - Análise de estratégias para processamento de dados do sistema GPS de
+uma rede geodésica;
+- 2002 e 2003 - Utilização do Sensoriamento remoto para análise da exploração
+clandestina de areia do Vale do Paraíba;
+- 2007 a 2014 - Uso de softwares livres para elaboração de SIGWeb;
+- 2010 a 2013 - TRANUS - Sistema de simulação integrado de localização de atividades e
+transporte. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (24)  / Mestrado acadêmico: (2) . Integrantes: Maria Teresa Françoso - Coordenador / Fernanda P Ramos - Integrante / Tatiane Valent de  Oliveira - Integrante / Helen Helmbrecht Mello - Integrante / Jennifer Marie Glaess - Integrante / Carlo Enrico Garzon Falci - Integrante / Daniel Monteiro Rodrigues - Integrante / Rafael Pedro Monteiro Stancato - Integrante / Mariana Mello Valin - Integrante / Rogério Rodrigo Amarante - Integrante / Maurício Pinto Muniz - Integrante / Willian Rafael Vicente - Integrante / Jacqueline Messias dos Santos - Integrante / Felipe Rodrigues Novaes - Integrante / Ramon Inácio da Rosa - Integrante / Átila Foster Kleen- gunnewick - Integrante.
+2001 - 2002
+Atualização do Laboratório de Topografia e Geodésia da FEC/Unicamp
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador / Jorge Luis Alves Trabanco - Integrante.Financiador(es): Fundo de Apoio ao Ensino e à Pesquisa da Unicamp - Auxílio
+										financeiro.
+2000 - 2001
+Projeto FAEP - Fundo de Apoio ao Ensino e Pesquisa da Unicamp, Solicitação: 0217/00
+Descrição: Implantação do Laboratório de Observações e processamento de dados GPS (Global Positioning System) e de Sistemas de Informação GeográficaProjeto FAEP ? Fundo de Apoio ao Ensino e a  Pesquisa da Unicamp
+Valor: R$5.000,00 destinado à compra de equipamentos de informática. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador / Jorge Luiz Alves Trabanco - Integrante.Financiador(es): Fundo de Apoio ao Ensino e à Pesquisa da Unicamp - Auxílio
+										financeiro.
+1998 - 1999
+Construção de um mezanino no interior do prédio que abriga os Laboratórios de Geotecnia, Estradas e Topografia na FEC/Unicamp
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1997 - 1999
+Sub-projeto 3 do Projeto FINEP no. 0042/98  (Convênio no. 77.97.0620.00)
+Descrição: Sub-projeto 3 do Projeto FINEP no. 0042/98  (Convênio no. 77.97.0620.00) intitulado "Concepção, projeto e construção de módulo para ensino de dinâmica, vibrações e controle de sistemas mecânicos" enviado para aquisição de uma Estação Total.
+Sub-projeto 3: Implantação de uma Rede de Auto-aprendizagem em Topografia
+Valor concedido - US$12.000,00. Situação: Concluído; Natureza: Pesquisa. Integrantes: Maria Teresa Françoso - Coordenador / Jorge Luiz Alves Trabanco - Integrante / José Carlos Zanfelice - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1990 - Atual
+Sistema de Informação Geográfica
+Descrição: Este projeto de pesquisa envolve aplicações de Sistemas de Informações Geográficas
+utilizados como apoio para tomada de decisões. SIGs são sistemas voltados a coleta,
+armazenamento, recuperação, manipulação e apresentação da informação. Estão diretamente
+relacionados a gestão da informação e não a realização de tarefas. Neste sentido, foram
+desenvolvidos vários projetos utilizando desta geotecnologia visando o planejaemnto urbano, a
+analise os dispositivos para deficientes físicos, o gerenciamento de estacionamentos; de
+transporte de produtos perigosos, de sistemas de abastecimento de água, de sinalização de
+transito e do meio ambiente, o mapeamento de riscos ambientais, o estudo da colapsibilidade do
+solo e sistema de transporte, além de promover o resgate fatos históricos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (11)  / Mestrado acadêmico: (8)  / Doutorado: (1) . Integrantes: Maria Teresa Françoso - Coordenador / José Vicente Caixeta - Integrante / Segundo Carlos Lopes - Integrante / Maria Izabel C F Viadana - Integrante / Amandio L A Teixeira - Integrante / Marco Cesar Rodrigues da Silva - Integrante / Tereza Cristina de Carvalho - Integrante / Alfredo de Pádua Manzano - Integrante / Jorge Luis Alves Trabanco - Integrante / Cristiano Dorça Ferreira - Integrante / Daniel Luis Nithack e Silva - Integrante / Cristiane Vaz Domingues - Integrante / Andréa Casalatina Costa - Integrante / Clarissa Eugênia Feliciano - Integrante / Diogenes Cortijo Costa - Integrante / Helen Helmbrecht Mello - Integrante / Marcel Guimarães Cunha - Integrante / Israel Omar de Souza - Integrante / Hugo Sussumo Nunes Hirose - Integrante / Aparecida Silva dos Santos Carbone - Integrante / Rogério Rodrigo Amarante - Integrante / Carlos Alberto Bandeira Guimarães - Integrante / Heloisa Moraes Treiber - Integrante / Nivaldo Alves de Faria - Integrante / CUSTÓDIO DE MELLO, NATÁLIA - Integrante / Irving Pizarro Marchena - Integrante / David Lyra de Moraes - Integrante / Neusa Longo Souza Ribeiro - Integrante.
+1981 - Atual
+Planejamento e operação de sistemas de transportes
+Descrição: esta área de atuação é voltada ao planejamento e operação de sistemas de transportes com enfase na utilização das geotecnologia. Dentre os projetos, pode-se citar:
+?	Organização do Sistema de Transportes 
+?	Monitoramento de veículos;
+?	Modelos de transporte e geoestatística
+?	Influência da música no comportamento do motorista e 
+?	Transplantes de órgãos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (9) . Integrantes: Maria Teresa Françoso - Coordenador / João Alexandre Widmer - Integrante / Antonio Clovís Pinto Ferraz - Integrante / Camila Maria de Paiva e Silva - Integrante / Eduardo Kfouri - Integrante / Cynthia Perpétua Lotti - Integrante / Rogério Rodrigo Amarante - Integrante / Alexandre Frazão D'Andrea - Integrante / Bruno Forghieri Agueda - Integrante / Eduardo Castro Ketelhuth - Integrante / Carlos Alberto Bandeira Guimarães - Integrante / Gabriela Piana Cardoso - Integrante / DE SIQUEIRA GUIDA, HENRIQUE - Integrante / Nivaldo Alves de Faria - Integrante / ISSAMO TAGAVA NAGAMATU, BRUNO - Integrante / Juliano Marçal Lopes - Integrante / Ricardo Nasser Maschietto - Integrante / Rodrigo Alencar Flores - Integrante / Henrique B. Bellotti - Integrante.

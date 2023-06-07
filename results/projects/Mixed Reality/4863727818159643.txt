@@ -1,0 +1,22 @@
+2015 - Atual
+Avaliação Experimental e Mitigação dos Efeitos da Radiação em Processadores Paralelos
+Descrição: O presente projeto tem como objetivo inicial a caracterização da sensibilidade à radiação dos processadores paralelos modernos e o estudo de novas técnicas eficientes de tolerância a falhas. O estudo proposto é motivado do feito que atualmente os processadores paralelos são utilizados como aceleradores para cálculos de alto desempenho e estão se tornando útil em circuitos de controles em carros, aviões, satélites e missões espaciais. Para o sucesso do projeto o grupo de pesquisa vai aproveitar das colaborações já iniciadas com empresas internacionais como a NVIDIA, a INTEL e a AMD, e de laboratórios de física nuclear como o Los Alamos National Lab e o ISIS.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Paolo Rech - Coordenador / Ronaldo Ferreira - Integrante / Luigi Carro - Integrante / Gabriel Nazar - Integrante / NAVAUX, P. O. A. - Integrante / Daniel Oliveira - Integrante / Thiago Caberlon Santini - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2013
+HAMLET
+Descrição: estudar os efeitos da radiação atmosférica em diferentes altitudes. Teste de radiação com balões estratosféricos, aceleradores de partículas, nos laboratórios e nas montanhas na Antártida (Estação CONCORDIA). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Paolo Rech - Integrante / Galliere, Jean-Marc - Integrante / Girard, Patrick - Integrante / Wrobel, Frédéric - Coordenador / Saigne, Frédéric - Integrante / Pantel, Denis - Integrante / Chadoutaud, Pierre - Integrante / Cocquerez, Philippe - Integrante / Lacourty, Michel - Integrante / Lam-Trong, Thien - Integrante / Chatry, Christian - Integrante / Laplanche, Florent - Integrante / Pravossoudovitch Serge - Integrante.Financiador(es): ATMEL - Auxílio
+										financeiro / TRAD - Auxílio
+										financeiro.Número de produções C, T & A: 9
+2007 - 2009
+PRIN 2007
+Descrição: estudo dos efeitos da radiação em FPGAs e lógica programável. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paolo Rech - Integrante / Manuzzato, A. - Integrante / Paccagnella, A. - Coordenador / Appello, Davide - Integrante.Financiador(es): ST Microelectronics - Crolles - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2007 - 2009
+EURO2000
+Descrição: concepção de um novo dispositivo reconfigurável que é resistente à radiação. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paolo Rech - Integrante / Bagatin, M. - Integrante / Pontarelli, S. - Integrante / Paccagnella, Alessandro - Coordenador / Melchiori, Fabio - Integrante / Loparco, Domenico - Integrante / Appello, Davide - Integrante.Financiador(es): M2000 - Auxílio
+										financeiro / ST Microelectronics - Crolles - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - 2010
+European Project on 8051
+Descrição: estudo dos efeitos da radiação em um System on Chip e techniques hardware para aumentar a resistência.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paolo Rech - Integrante / Paccagnella, A. - Integrante / Grosso, Michelangelo - Integrante / Sonza Reorda, Matteo - Integrante / Appello, Davide - Integrante / Paolo Bernardi - Coordenador.Financiador(es): ST Microelectronics - Crolles - Auxílio
+										financeiro.Número de produções C, T & A: 8

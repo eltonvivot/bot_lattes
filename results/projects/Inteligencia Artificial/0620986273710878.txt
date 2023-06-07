@@ -1,0 +1,25 @@
+2020 - Atual
+C4AI -- Centro de Inteligência Artificial/Center for Artificial Intelligence
+Projeto certificado pelo(a) coordenador(a) Fabio Gagliardi Cozman em 31/01/2021.
+Descrição: Centro de Engenharia IBM-Fapesp proc 2019/07665-4 (Pesquisador Principal e coordenador da área de processamento de linguagem natural). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (10)  / Doutorado: (20) . Integrantes: Marcelo Finger - Integrante / Fabio Gagliardi Cozman - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2020 - Atual
+Corpus Carolina - Laboratório Virtual de Humanidades Digitais (LaViHD), Centro de Inteligência Artificial (C4AI)
+Descrição: Projeto apoiado pela empresa IBM Research Brazil em 18/05/2022.
+Descrição: Tem como objetivo geral desenvolver sistemas que avancem o estado da arte do Processamento de Linguagem Natural para o português brasileiro, atingindo um novo patamar em qualidade de geração e desempenho em relação ao que existe hoje. Para isso, a primeira etapa da pesquisa prevê a construção de um corpus multigênero com um volume de textos robusto e inédito na língua portuguesa.
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (6) / Mestrado acadêmico: (3) / Doutorado: (2) .. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Marcelo Finger - Coordenador / Maria Clara Paixão de Sousa - Integrante / Vanessa Martins do Monte - Integrante / Cristiane Namiuti - Integrante.Financiador(es): Universidade de São Paulo - Bolsa.
+2020 - Atual
+Projeto SPIRA: Sistema de detecção Precoce de Insuficiência Respiratória por meio de análise de Áudio
+Descrição: O objetivo deste estudo é desenvolver uma ferramenta que possa detectar precocemente as pessoas com insuficiência respiratória devido a COVID-19 usando dados de fala. Para tanto iremos coletar registros em áudio de pessoas infectadas bem como de pessoas normais, a fim de explorar diferenças associadas à saturação de O$_2$ e à frequência respiratória que permitam distinguir os dois grupos.
+A ferramenta de classificação automática proposta será baseada em técnicas de inteligência artificial, processamento de sinais e aprendizado de máquina, e servirá inicialmente para facilitar a triagem de pacientes que precisam procurar auxílio médico-hospitalar. Numa segunda etapa, a ferramenta poderá ajudar sistemas de telemedicina a monitorar pacientes de forma contínua, permitindo o acompanhamento da evolução de pacientes internados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3)  / Doutorado: (4) . Integrantes: Marcelo Finger - Coordenador / Alfredo Goldman - Integrante / Sandra Maria Aluísio - Integrante / Marcelo Gomes de Queiroz - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2011 - 2011
+Professor visitante na Universidade de Toulouse (IRIT), França
+Descrição: DEZEMBRO DE 2011. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcelo Finger - Coordenador.
+2009 - 2012
+Projeto Temático Fapesp LOGPROB: Lógica Probabilística --- Fundamentos e Aplicações Computacionais
+Descrição: LOGPROB: Probabilistic Logic --- Foundations and Computational Applications
+Principal Investigator: Marcelo Finger, FAPESP (Brazilian Funding Agency) Thematic Project
+2008/03995-5, 2009-2012.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (15)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Marcelo Finger - Coordenador / Renata Wassermann - Integrante / Leliane Nunes de Barros - Integrante / Fabio Gagliardi Cozman - Integrante / Paulo Eduardo Santos - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

@@ -1,0 +1,63 @@
+2014 - Atual
+Revisão de modelos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Wassermann - Coordenador / Paulo de Tarso Guerra Oliveira - Integrante / Aline Andrade - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2015
+LoRMAE ? Logics for Reasoning in Multi-Agent Environments
+Descrição: Multi-agent environments are inhabited by various ?autonomous agents?. These are are entities
+capable of acting autonomously, i.e., without external intervention, in order to meet their design objec-
+tives. Although single-agent environments have been studied for a long time, studies about multi-agent
+environments are relatively new. This kind of environment brings new issues to be dealt with, such as
+non-deterministic actions, competition and cooperation among agents. Current solutions treat such is-
+sues by using some kind of multi-modal logic. But these logics present two important limitations: they
+do not allow efficient representations and they do not allow efficient reasoning. By applying some tech-
+niques previously studied by us, we intend to design new logics that overcome these limitations. The
+project aims (1) to develop formal languages able to represent multi-agent environments; (2) to develop
+formal methods by means of which multi-agent reasoning tasks can be performed; and (3) to imple-
+ment such methods in software prototypes. The proposal involves two Brazilian partners, the Institute
+of Mathematics and Statistics of the University of São Paulo (IME-USP) and the School of Arts, Science and Humanities (EACH-USP), as well as two French
+partners, the Toulouse Computer Science Research Institute (IRIT-CNRS) and the Computer Science
+Research Center of Lens (CRIL-CNRS).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renata Wassermann - Coordenador / Marcelo Finger - Integrante / Marcio Moretto Ribeiro - Integrante / Andreas Herzig - Integrante / Tiago de Lima - Integrante.
+2011 - 2013
+OnAIR 2.0
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Renata Wassermann - Coordenador / Fábio Kon - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2010 - 2012
+Revisão de Crenças em Lógicas Não Clássicas
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Wassermann - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2012
+LogProb
+Descrição: Projeto Temático. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Wassermann - Integrante / Marcelo Finger - Coordenador / Leliane Nunes de Barros - Integrante / Paulo Eduardo Santos - Integrante / Fabio Gagliardi Cozman - Integrante / Anna Helena Reali Costa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2008 - 2010
+Revisão de Especificações Formais
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Wassermann - Coordenador / Marcelo Finger - Integrante / Mario Roberto Folhadela Benevides - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2009
+Logical Consequence and Combination of Logics
+Descrição: Projeto temático FAPESP 2004/14107-2.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Wassermann - Integrante / Marcelo Finger - Integrante / Walter Alexandre Carnielli - Coordenador / Marcelo Esteban Coniglio - Integrante / Marcio Moretto Ribeiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2005
+Knowledge Sharing and Communication among Heterogeneous Autonomous Intelligent Agents
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renata Wassermann - Integrante / Flavio Soares Correa da Silva - Coordenador / Marcelo Finger - Integrante / Ana Cristina Vieira de Melo - Integrante / Leliane Nunes de Barros - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2005
+BIBO
+ Intelligent Search Based on Ontologies
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4) . Integrantes: Renata Wassermann - Coordenador / Flavio Soares Correa da Silva - Integrante / Leliane Nunes de Barros - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2001 - 2002
+Provadores de Teorema Livres de Estrutura e Revisão de Crenças
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Renata Wassermann - Integrante / Marcelo Finger - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2001 - 2002
+Lógicas não Monotônicas para Modelos
+ Alternativos de Revisão de Crenças
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Renata Wassermann - Coordenador / Eduardo Fermé - Integrante.Financiador(es): Universidade de Buenos Aires - Cooperação / VITAE - Auxílio
+										financeiro / Fundación Antorchas - Auxílio
+										financeiro.
+1996 - 1998
+Reasoning with Uncertainty
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Renata Wassermann - Integrante / Michiel van Lambalgen - Coordenador.Financiador(es): Nederlandse Organisatie voor Wetenschappelijk Onderzoek - Auxílio
+										financeiro / Universidade de Amsterdã - Cooperação.

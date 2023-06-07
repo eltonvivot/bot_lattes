@@ -1,0 +1,21 @@
+2019 - Atual
+Controle Supervisório de Sistemas a Eventos Discretos: em direção à Indústria 4.0
+Descrição: Este projeto visa à realização de um amplo e profundo estudo sobre o controle supervisório de sistemas automatizados e a proposição de soluções para alguns problemas atuais e relevantes que se tornaram emergentes no contexto da chamada Indústria 4.0. Dentre estes problemas destacam-se o controle distribuído, o controle tolerante a falhas e a reconfiguração dinâmica de sistemas automatizados. Para a solução destes problemas serão utilizadas abordagens formais de modelagem e controle de Sistemas a Eventos Discretos (SEDs), abordagens essas que estão alicerçadas na teoria de linguagens controláveis e autômatos de estados finitos. No intuito de identificar e isolar as falhas em sistemas automatizados, serão desenvolvidas e empregadas novas metodologias de diagnose e prognose de falhas em SEDs. Também serão desenvolvidas metodologias para a obtenção de controladores distribuídos e controladores tolerantes a falhas que se utilizem da diagnose e da prognose dessas falhas. Além disso, serão propostas e empregadas metodologias de reconfiguração dinâmica da lógica de controle de SEDs, seja essa reconfiguração decorrente da detecção de falhas ou em função de mudanças na planta ou na sua lógica de controle. Ainda, serão desenvolvidos algoritmos para auxiliar na obtenção dessas soluções e na geração automática de código para a implementação destas em dispositivos de controle como CLPs e microcontroladores. Por fim, a partir desses algoritmos, novas funções serão criadas e adicionadas a uma ferramenta de modelagem e controle de SEDs desenvolvida pelo Grupo de Automação de Sistemas e Robótica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Benjamin Grando Moreira - Integrante / Ana Teruko Yokomizo Watanabe - Integrante / André Bittencourt Leal - Coordenador / Renan Sebem - Integrante / Thalys Eduardo Ferreira Rezende - Integrante.
+2012 - 2013
+Computação Física Utilizando a Plataforma Arduino para Auxílio às Aulas de Curos de Engenharia
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Benjamin Grando Moreira - Coordenador / Felipe Otto Rheinheimer - Integrante.
+2011 - 2012
+Jogos para auxílio e incentivo a leitura
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Benjamin Grando Moreira - Coordenador / Anderson Alberto Ceconello - Integrante.
+2011 - 2012
+Expansão da biblioteca de software educacional do projeto lótus
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Benjamin Grando Moreira - Coordenador / Gabriel Armando Delgado - Integrante.
+2010 - 2011
+Estudo sobre a geração de conteúdo dinâmico para a TV Digital Interativa através de uma ferramenta de autoria
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Benjamin Grando Moreira - Coordenador / Sabrina Tessaro - Integrante / Andrey Blenke - Integrante.
+2009 - 2010
+Estudo e proposta de um conjunto de metadados para objetos de aprendizagem baseados na TV Digital Interativa
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Benjamin Grando Moreira - Coordenador / Deborah Freitas - Integrante.
+2009 - 2010
+Desenvolvimento de uma ferramenta web para o preenchimento de metadados para objetos de aprendizagem baseados na TV Digital Interativa
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Benjamin Grando Moreira - Coordenador / Andre Bernardes - Integrante.

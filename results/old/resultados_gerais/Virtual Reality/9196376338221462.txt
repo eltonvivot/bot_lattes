@@ -1,0 +1,10 @@
+2015 - 2015
+Unidade adaptativa baseada em estilos de aprendizagem e no nível de aquisição de conhecimentos do estudante
+Descrição: Este trabalho tem por objetivo geral, modelar e criar uma unidade adaptativa baseada em estilos de aprendizagem e no nível de aquisição de conhecimentos do aprendiz (NAC), por meio do mecanismo GALE (Sistema de Hipermídia Adaptativa). Para alcançar este objetivo geral os seguintes objetivos específicos foram estabelecidos: (1) Definição de um processo para a modelagem de conteúdos, que permita a personalização do e-learning, utilizando tanto o NAC como os estilos de aprendizagem; (2) Elaboração de uma unidade adaptativa (curso) por meio do mecanismo GALE.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Henrique Gomes - Coordenador.
+2014 - 2014
+Construção de um Mapa Conceitual da Rede de Pesquisa do IFSP
+Descrição: Este trabalho tem por objetivo geral, modelar e criar um Mapa Conceitual baseado na rede de
+pesquisa do Instituto federal de Educação Ciência e tecnologia de São Paulo, por meio da
+ferramenta CmapTools (CMAPTOOLS, 2008), que oferece entre outros, os seguintes recursos:
+(1) Compartilhamento em rede e ambiente de colaboração; (2) Construção de modelos de
+conhecimento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Henrique Gomes - Coordenador.

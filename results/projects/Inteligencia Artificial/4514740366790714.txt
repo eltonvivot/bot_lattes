@@ -1,0 +1,44 @@
+2020 - Atual
+Inteligência Artificial Aplicada ao Mercado Financeiro
+Descrição: O projeto tem como objetivo utilizar as principais ferramentas de Inteligência Artificial para: captar informações na internet relacionadas ao mercado financeiro; realizar análise de sentimento em redes sociais; detectar possíveis efeitos manada ou influência de terceiros na variação de preços de ativos através das redes sociais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Emmanuel Andrade de Barros Santos - Coordenador.
+2015 - Atual
+Estudo de aplicações em controle, automação e robótica utilizando plataformas de sistemas embarcados, aquisição e processamento de sinais bioelétricos.
+Descrição: Os sinais utilizados para extrair informação de um sistema biológico são
+chamados de sinais biomédicos. Eles podem ser classificados em diversos tipos:
+bioacústicos, bioquímicos, bioelétricos, entre outros.
+Os sinais bioelétricos, que serão a base dos estudos deste projeto, são
+gerados pelas células nervosas e pelas células musculares. Dentre eles podem
+ser citados: os sinais emitidos pelos músculos (EMG - Eletromiografia), pelo
+coração (ECG - Eletrocardiografia) e pelo cérebro (EEG - Eletroencefalografia).
+A medição destes sinais é feita através de sistemas de instrumentação
+próprios para cada tipo de sinal. Ela pode ser feita de maneira invasiva ou nãoinvasiva.
+A primeira necessita do implante de sensores no paciente, o que pode
+causar complicações e incômodos, apesar de apresentar uma maior resolução
+dos sinais bioelétricos. A segunda é feita com sensores externos ao paciente e de
+maneira indireta. Possui uma resolução razoável, e facilidade na instrumentação e
+processo de medição-aquisição dos sinais, não levando risco nenhum ao paciente.
+Após realizar a medição deste sinais é necessário armazená-los e
+processá-los de maneira adequada. Para isso utiliza-se sistemas eletrônicos
+microcontrolados ou microprocessados. Quando estes sistemas são
+desenvolvidos para realizar tarefas específicas eles são denominados sistemas
+embarcados. Estas tarefas especificas incluem tanto o processamentos dos sinas,
+quanto o acionamento/controle dos elementos finais do sistema, como motores,
+LEDs, atuadores, etc. Diante disso, diversos estudos e pesquisas vem sendo
+realizados na área de aquisição de sinais bioelétricos, aliados a sistemas
+embarcados, com uma variedade muito grande de aplicações dependendo do
+sinal que se deseja monitorar.
+Neste projeto pretende-se: utilizar alguns dos sinais bioelétricos com
+monitoramento não-invasivo; e estudar seu uso, em conjunto com sistemas
+embarcados, em aplicações de controle, automação e robótica. Entre as
+aplicações, tem-se: controle de manipuladores/braços robóticos , sistemas de monitoramento na área de healthcare e fitness, sistemas que facilitem a realização
+de tarefas das pessoas com mobilidade reduzida, sistemas para monitoramento
+de sinais bioelétricos com transmissão de dados sem fio, entre outras.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Emmanuel Andrade de Barros Santos - Coordenador.
+2011 - 2013
+Sistema de Comunição inteligente entre os Centros de Operações/Medições e as Chaves de Distribuição e Telemedição com Aplicação Piloto
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Emmanuel Andrade de Barros Santos - Integrante / Antonio Jerônimo Belfort de Oliveira - Integrante / Marcos Tavares de Melo - Coordenador / Mauro Rodrigues dos Santos - Integrante / Bruno Oliveira - Integrante.
+2011 - 2013
+Desenvolvimento de Sensores para Identificação da Perda de Cabos Pára-Raios por Furtos em Linhas de Transmissão e a Identificação de Pontos de Descarga Atmosférica nos Vãos de Linhas de Transmissão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Emmanuel Andrade de Barros Santos - Integrante / Antonio Jerônimo Belfort de Oliveira - Coordenador / Marcos Tavares de Melo - Integrante.
+2009 - 2010
+Desenvolvimento de Sensores para Identificação da Perda de Cabos Pára-Raios por Furtos em Linhas de Transmissão e a Identificação de Pontos de Descarga Atmosférica nos Vãos de Linhas de Transmissão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Emmanuel Andrade de Barros Santos - Integrante / Antonio Jerônimo Belfort de Oliveira - Coordenador / Julio César Cordeiro e Silva - Integrante / Marcos Tavares de Melo - Integrante / José Felipe André Gomes Wavrik - Integrante.

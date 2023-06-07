@@ -1,0 +1,19 @@
+2020 - Atual
+Educação e Informática no Apoio à Cidadania Digital
+Descrição: Este projeto prevê o desenvolvimento de ações e o uso de TICs para fomentar aspectos da Cultura Digital através da educação. O trabalho a ser feito deve ajudar na formação de cidadãos mais conscientes sobre seu papel na sociedade da era digital.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Valéria Quadros dos Reis - Coordenador / Amaury Antonio de Castro Júnior - Integrante / Nahri Balesdent Moreano - Integrante / Glauder Guimarães Ghinozzi - Integrante / Anderson Corrêa de Lima - Integrante.
+2017 - 2020
+Eficiência Energética em Data Centers a Partir do Monitoramento de Componentes Computacionais
+Descrição: Com o alto custo da energia elétrica, a eficiência energética passou a ser fundamental nos data centers atuais. Otimizações do uso de energia dependem diretamente da precisão obtida em medições ou estimativas de gasto desse recurso. Sendo assim, este projeto tem como objetivo o desenvolvimento de um medidor de baixo custo capaz de coletar os consumos energéticos dos principais componentes de um computador de maneira isolada. Essas coletas deverão ser utilizadas na proposta de novos modelos analíticos capazes de capturar o padrão de uso de energia de aplicações com diferentes perfis. A avaliação e refinamento desses novos modelos completam o escopo deste trabalho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Valéria Quadros dos Reis - Coordenador / Sand Luz Corrêa - Integrante.
+2014 - 2017
+Gerenciamento de Recursos em Ambientes Computacionais Distribuídos Visando ao Alto Desempenho de Aplicações Científicas
+Descrição: Propor e avaliar mudanças que possam melhorar o gerenciamento de recursos praticados no Sistema Nacional de Computação de Alto Desempenho, dessa forma, beneficiando diretamente a comunidade de pesquisa científica brasileira.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Valéria Quadros dos Reis - Coordenador / Renato Porfirio Ishii - Integrante.
+2011 - 2012
+SINAPAD
+Descrição: Grade computacional formada por clusters de instituições acadêmicas com objetivo de prover processamento de alto desempenho a pesquisadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Mestrado acadêmico: (2) . Integrantes: Valéria Quadros dos Reis - Integrante / Antônio Tadeu Azevedo Gomes - Coordenador.
+2005 - 2010
+CSBase e CSGrid
+Descrição: O CSBase é um framework para gerenciamento de recursos e execução de algoritmos em um ambiente computacional distribuído e heterogêneo. O framework possui uma arquitetura cliente/servidor, web-based, e oferece transparência na execução remota de algoritmos, independente da linguagem de implementação e da plataforma de execução desses algoritmos. Além disso, o framework oferece facilidades para construção de novas aplicações e integração de aplicações legadas ao desktop de projetos dos usuários.
+O CSGrid é uma instância do framework CSBase que já oferece as funcionalidades básicas disponíveis no framework e, assim, auxilia no desenvolvimento de novos sistemas CSBase.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Valéria Quadros dos Reis - Integrante / Renato Cerqueira - Integrante / Maria Julia de Lima - Integrante / Cristina Ururahy - Integrante / Carlos Cassino - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 1

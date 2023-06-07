@@ -1,0 +1,39 @@
+2017 - 2020
+Inteligência Computacional e Computação Paralela Aplicadas ao Problema de Dobramento de Proteínas
+Descrição: O Problema de Dobramento de Proteínas
+(PDP) é considerado um dos 
+desafios abertos mais importantes
+da Biologia e Bioinformática.
+Esta proposta descreve as atividades
+de pesquisa a serem desenvolvidas
+no Programa de Pós-Graduação em 
+Engenharia Elétrica e Informática Industrial
+(CPGEI) da Universidade Tecnológica 
+Federal do Paraná (UTFPR) com a coordenação do proponente,
+Prof. Dr. César Manuel Vargas Benítez.
+Propõe-se o estudo 
+do Problema de Dobramento de Proteínas (PDP), agregação de proteínas e a 
+aplicação de abordagens de Inteligência Computacional,
+Computação Paralela e Dinâmica Molecular à predição
+de pathways (ou caminhos) de dobramento
+de proteínas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: César Manuel Vargas Benitez - Coordenador / heitor silverio lopes - Integrante / Rafael Bertolini Frigori - Integrante / Leandro Takeshi Hattori - Integrante / Lia Ayumi Takiguchi - Integrante / Andrey Cabral Meira - Integrante / Lucas Destefani Fabri - Integrante / Bruna Pinheiro - Integrante / Miguel Ferreira Chagas Neto - Integrante.
+2013 - Atual
+Predição de pathways de dobramento de proteínas com processamento paralelo
+Projeto certificado pelo(a) coordenador(a) Heitor Silvério Lopes em 19/10/2015.
+Descrição: Este trabalho tem por objetivo desenvolver e aplicar um método computacional
+baseado emFísica Computacional, Computação Evolucionária e Computação
+Paralela para o problema de dobramento de proteínas e, particularmente,
+para a descoberta do comportamento temporal assumido pela cadeia de aminoácidos
+de uma proteína ao se dobrar para a sua conformação nativa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: César Manuel Vargas Benitez - Integrante / heitor silverio lopes - Coordenador.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - Atual
+Sistemas bio-inspirados aplicados na resolução de problemas complexos
+Descrição: O objetivo deste projeto é a pesquisa e desenvolvimento de técnicas computacionais bio-inspiradas e suas aplicações em problemas de engenharia e ciência da computação. As principais técnicas a serem utilizadas neste projeto são as inseridas nas áreas de computação evolucionária e inteligência de enxames. Por serem abordagens populacionais, ou seja, compostas por um conjunto de soluções candidatas, este projeto visa também explorar o uso de arquiteturas paralelas como clusters e unidades de processamento gráfico para aumentar a eficiência computacional na resolução de problemas complexos. Alguns exemplos de problemas a serem abordados são o dobramento de proteínas, problemas de engenharia estrutural, projeto de filtros digitais e problemas combinatoriais, entre outros. Outro objetivo específico deste projeto é o estudo e definição de estratégias para trabalhar estas técnicas bio-inspiradas de maneira híbrida e/ou cooperativa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: César Manuel Vargas Benitez - Integrante / heitor silverio lopes - Coordenador / Rafael stubs parpinelli - Integrante / Marlon Scalabrin - Integrante / Daniel Rossato - Integrante / Fabio Teodoro - Integrante / ROBERTO OLIVEIRA SANTOS - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 12
+2005 - Atual
+Desenvolvimento de algoritmos para bioinformática utilizando lógica reconfigurável por hardware
+Descrição: CNPQ 506479/2004-8. Este projeto propõe o desenvolvimento de algoritmos baseados em lógica reconfigurável por hardware. Serão explorados a modularidade, o paralelismo e a capacidade de processamento inerentes a projetos baseados em lógica reconfigurável, aplicando estas características em problemas relevantes da Tecnologia da Informação. Particularmente, pretende-se aplicar esta tecnologia a dois problemas relevantes e de alta complexidade da área de bioinformática: alinhamento múltiplo de proteínas e determinação da estrutura de proteínas utilizando o modelos Hidrofóbico-Polar (32D/3D).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: César Manuel Vargas Benitez - Integrante / heitor silverio lopes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - Atual
+Desenvolvimento de técnicas computacionais avançadas para a predição da estrutura de proteínas
+Projeto certificado pelo(a) coordenador(a) Heitor Silvério Lopes em 26/03/2015.
+Descrição: CNPQ 402018/2003-6. O objetivo do projeto é desenvolver algoritmos heurísticos, baseados em computação evolucionária, para a determinação da estrutura de proteínas, através de modelos de treliça bi e tridimensionais. Mais especificamente, pretende-se estudar os modelos de treliça 2D e 3D e aplicar algoritmos genéticos (AG), otimização por colônias de formigas (ACO) e otimização por enxame de partículas (PSO), linguagens formais e autômatos celulares ao problema de folding de proteínas propondo soluções melhoradas através da hibridização com métodos de busca local. Posteriormente, serão estabelecidas métricas para a comparação do desempenho dos modelos propostos com estruturas proteicas conhecidas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (6)  / Doutorado: (2) . Integrantes: César Manuel Vargas Benitez - Integrante / Wagner Weinert - Integrante / heitor silverio lopes - Coordenador / Marcos Paulo Scapin - Integrante / Mauricio Perretto - Integrante / Ernesto Luis Malta Rodrigues - Integrante / Nórton Jody Murata - Integrante / Lauro César Galvão - Integrante / Luiz Fernando Nunes - Integrante / Carlos Raimundo Erig Lima - Integrante / Cristiano Jory - Integrante / Ohara Kerusauskas Rayel - Integrante / Guilherme Munhoz Ferreira Pereira - Integrante / Nilton Barbosa Armstrong Júnior - Integrante / Reginaldo Bitello - Integrante / Leonardo Gomes Tavares - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

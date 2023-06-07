@@ -1,0 +1,18 @@
+2011 - 2013
+Uso Racional De Energia E Segurança Na Operação De Acionamentos Com Motores De Indução Trifásicos
+Projeto certificado pelo(a) coordenador(a) Lane Maria Rabelo em 20/09/2016.
+Descrição:  Considerando que: i) os custos de manutenção são elevados; ii) Motores de indução são utilizados em mais de 90% dos acionamentos; iii) Muitos motores são alimentados
+por inversores PWM, que geram harmônicos. Os harmônicos provocam modulação de velocidade e conjugado que afetam a vida útil da máquina e o rendimento; iv) a especificação
+criteriosa do motor implica no consumo otimizado de energia; v) o conhecimento da carga é um fator fundamental na especificação do motor; vi) a necessidade de método não
+intrusivo de estimação de rendimento vii) o alto percentual de falhas de curto­circuito necessitando de um método contínuo de monitoramento. Este projeto tem por objetivo
+principal: 1. Desenvolver um método de estimação de rendimento. 2. Propor um método de diagnóstico de falhas iniciais de curto­circuito, ou seja, falhas que envolvem poucas
+espiras de uma mesma bobina. Considerando que o propósito é a aplicação em chão de fábrical, os métodos devem buscar a utilização de sensores presentes na planta industrial;. . Situação: Concluído; Natureza: Pesquisa. Integrantes: Gleison Fransoares Vasconcelos Amaral - Integrante / Lane Maria Rabelo Baccarini - Coordenador / Marco Aurélio de Oliveira Schroefer - Integrante.Financiador(es):  Fundação de Amparo à Pesquisa do Estado de Minas Gerais  - Auxílio
+										financeiro.
+2009 - 2012
+A Robótica e a Inclusão Digital: Uma Visão Extensionista
+Projeto certificado pelo(a) coordenador(a) Márcio Falcão Santos Barroso em 20/09/2016.
+Descrição:  Os objetivos gerais deste projeto é levar à comunidade externa à UFSJ a oportunidade de desbravar a robótica, de forma lúdica, prazerosa, tendo como principal
+argumento a inserção de alunos do ensino fundamental e médio às ferramentas da lógica computacional e da manipulação de robôs autônomos móveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gleison Fransoares Vasconcelos Amaral - Integrante / Barroso - Coordenador / Erivelton Geraldo Nepomuceno - Integrante.
+2006 - Atual
+Análise e controle de dinâmica complexa: da matemática à biomedicina
+Descrição: O presente projeto de pesquisa trata da modelagem e controle de sistemas dinâmicos não-lineares, especificamente dinâmica caótica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Gleison Fransoares Vasconcelos Amaral - Integrante / Luis Antonio Aguirre - Coordenador / Eduardo Mazoni Andrade Marçal Mendes - Integrante / Christophe Letellier - Integrante / Dair José de Oliverira - Integrante / Jean Maquet - Integrante / Herianina - Integrante / Linda Achour - Integrante / Brigitte Faurroux - Integrante.Financiador(es): Universidade Federal de São João Del Rei - Cooperação / Hopital Trousseau - Cooperação / Chu de Bois Guilhaume - Cooperação / Université de Rouen - Cooperação.

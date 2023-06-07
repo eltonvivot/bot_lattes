@@ -1,0 +1,81 @@
+2022 - Atual
+A (DES)INFORMAÇÃO CIENTÍFICA EM SAÚDE SOBRE COVID-19 NO BRASIL ANALISANDO AS REDES DE COMUNIDADES DE ATENÇÃO
+Descrição: A politização da pandemia tem influenciado a disseminação de informação em
+saúde sobre COVID-19 e ainda são poucos estudos dedicados a compreensão
+de seus efeitos, sobretudo quando se trata do compartilhamento de resultados
+de pesquisas e redes de comunidades de atenção que alcançam. A pesquisa
+tem como objetivo geral investigar a formação dessas redes em torno da
+circulação de informação científica em saúde sobre COVID-19 no Brasil
+compartilhada nas mídias sociais. Para tanto, por meio de um estudo altmétrico
+consideramos o nível de recomendação e disseminação para entender as
+interações em torno dos artigos. A produção científica sobre a COVID-19 será
+obtida pela base Dimensions e os dados altmétricos serão coletados via Altmetric
+Explorer na busca por pesquisas que receberam menções nas principais redes
+sociais no Brasil. As informações dos perfis dos usuários e conteúdo das
+mensagens serão obtidas via Application Programming Interface - API das redes
+sociais escolhidas. O estudo adotará a perspectiva da microanálise de dados
+online para investigar a formação de RCA em torno dos artigos e seus contextos.
+A partir deste percurso será possível descrever o número de postagens, o tipo
+de usuários, a média de exposição das publicações e o nível de divulgação e
+recomendação. Os dados serão analisados e correlacionados de acordo com o
+indicador de diversidade, com base nos tipos de usuários, interações e conteúdo.
+O conjunto das pesquisas será analisado segundo seus resultados e evidências
+científicas na verificação de sua preservação ou distorção durante seu
+compartilhamento. Com os dados e indicadores de produção e de
+compartilhamento será desenvolvido um Dashboard de monitoramento da
+atenção online e visibilidade de pesquisas sobre covid-19. A perspectiva
+contextual e de rede de comunidades introduzida nesta pesquisa pode ajudar a
+entender o impacto social de publicações sobre COVID-19 que circulam no Brasil
+e suas cargas informativas ou desinformativas quando compartilhadas. Chamada CNPq/MCTI/FNDCT Nº 18/2021 ? Universal.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Lage Freitas - Integrante / JUSMENNE JASAO MELO DA SILVA - Integrante / ROBERIA DE LOURDES DE VASCONCELOS ANDRADE - Integrante / RONALDO FERREIRA DE ARAUJO - Coordenador.
+2018 - Atual
+Case Outcome Prediction for Brazilian Courts
+Descrição: "Case Outcome Prediction for Brazilian Courts" is an applied research project that leverages state-of-the-art research to build predictive analyses of legal decisions for Brazilian Law. Expected  results include Technical Reports, publications of scientific papers, and the development of proofs-of-concept prototypes that predicts legal decisions and help users in case law search.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: André Lage Freitas - Coordenador / Naelson Douglas Cirilo Oliveira - Integrante / Héctor Allende-Cid - Integrante / Orivaldo Vieira de Santana Júnior - Integrante / Lívia de Oliveira Lage - Integrante / Thalyssa de Almeida Monteiro - Integrante / Brunno Moreira Gêda - Integrante / Júlia Albuquerque Aguiar - Integrante.
+2017 - 2018
+Detecção de eventos sociais a partir de dados de fontes heterogêneas no contexto de cidades inteligentes
+Descrição: Fapeal Edital PPG 14/2016, Processo 60030 001261/2017 - Este projeto tem como objetivo avançar o estado da arte para os serviços baseados em dados de sensoriamento social na área de computação ubíqua aplicada ao contexto de cidades inteligentes. Propõe-se realizar análise de dados coletados através de sensoriamento social com o intuito de detectar e analisar o impacto de eventos sociais. A análise de eventos sociais é relevante no contexto de cidades inteligentes pois os eventos geram impactos em diversos aspectos em uma cidade. As cidades podem utilizar os resultados dos estudos propostos nesse projeto para melhorar seus gerenciamentos, e planejamento, bem como melhorar o entendimento da mobilidade dos cidadãos, e assim, promover serviços públicos de maior qualidade. Adicionalmente, propõe-se investigar técnicas de análise de grandes volumes de dados (big data) para lidar com a crescente quantidade de dados gerados pelas cidades inteligentes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: André Lage Freitas - Integrante / Heitor Soares Ramos Filho - Coordenador / Stenio Flávio de Lacerda Fernandes - Integrante / Antonio Loureiro - Integrante / Clayson Celes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Alagoas - Auxílio
+										financeiro.
+2017 - Atual
+Extracting Valuable Information from ComplexValued Noisy SAR/PolSAR Images with Deep Learning - INSIDEr
+Descrição: CONICYT, Chile, Proc. N. REDI170059, edital APOYO A LA FORMACIÓN DE REDES INTERNACIONALES PARA INVESTIGADORES(AS) EN ETAPA INICIAL.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Lage Freitas - Integrante / Heitor Soares Ramos Filho - Integrante / Héctor Allende-Cid - Coordenador / Alejandro C. Frery - Integrante / Luis Gómez Déniz - Integrante.Financiador(es): Comisión Nacional de Investigacion Científica y Tecnológica - Auxílio
+										financeiro.
+2016 - 2018
+HIPaaS: Huge Image Processing-as-a-Service - Uma plataforma de computação em nuvem para o processamento de imagens muito grandes
+Descrição: Fapeal Edital APQ 4/2016, Processo 60030 1080/2016 - A crescente demanda de armazenamento de dados de imagens digitais a ngiu o ordem de grandeza de terabytes. Aplicações que envolvem grande quan dade de dados de imagens requerem a u lização de infraestruturas distribuídas para aumentar a capacidade de armazenamento e processar os dados paralelamente. No contexto dessas aplicações, destaca-se o processamento de imagens de sensoriamento remoto que têm u lizado a computação em nuvem como infraestrutura de execução. Os serviços ofertados pela computação em nuvem u lizam tecnologias de virtualização para gerir automa camente as infraestruturas  sicas de processamento e de rede. Entretanto, as interfaces de programação disponibilizadas pela computação em nuvem não são de fácil u lização para os desenvolvedores de aplicações que envolvem grande quan dade de imagens. Esse projeto tem como obje vo prover abstrações e operações de programação que facilitem o processamento de grande quan dade de dados de imagens u lizando a computação em nuvem como infraestrutura de execução. A metodologia empregada consiste em formalizar as soluções em algoritmos e validá-las em protó pos de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: André Lage Freitas - Coordenador / Héctor Allende-Cid - Integrante / Alejandro C. Frery - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Alagoas - Auxílio
+										financeiro.
+2016 - Atual
+EOxposure - Tools for Mapping Human Exposure to Risky Environmental Conditions by Means of Ground and Earth Observation Data
+Descrição: information layers from current and future Earth Observation (EO) missions, as well as the growing sensor web on the ground.
+The project exploits the novel concept of the human EXPOSOME, i.e. the set of exposures to which an individual is subjected through its own existence. It includes the entire history of interactions with the environment, including air and water quality, food and exercises, as well as living habits and diseases that may spread.
+The cutting-edge fusion of this concept with EO and sensor data aims at measuring the human exposure to threats that are external to each individual, and quantify the interactions between human beings and the environment. By building geospatial information tools upon data coming from multiple sources, at different spatial and temporal scales, the EOxposure project aims at providing free public services, enabling citizens to understand the threats to which they are exposed, and decision makers to take more informed and effective actions against them. Specifically, EOxposure will focus on threats connected to housing conditions, disease spread, as well as security and health issues in urban and peri-urban areas, where population is concentrated. The new tools will build upon the consortium expertize on nutrition- and vector-borne disease models, urban heat monitoring and material characterization, satellite data processing, and geospatial data fusion, realizing interdisciplinary working groups dedicated to the above mentioned applications. To do so, EOxposure enrolls institutions from Europe and South America, merging expertises on exposure to risk in both developed and developing countries.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Lage Freitas - Integrante / Alejandro C. Frery - Integrante / Fabio Dell'acqua - Coordenador / Paolo Gamba - Integrante / Michal Shimoni - Integrante / Daniele De Vecchi - Integrante / Carlos Marcelo Scavuzzo - Integrante / Antonio Plaza - Integrante.Financiador(es): European Commission Research & Innovation - Auxílio
+										financeiro.
+2015 - 2018
+Adaptative Distributed Machine Learning: Learning from Heterogeneous Data Sources under Non-stationary Environment
+Descrição: The development of technologies for high throughput data acquisition in a number of domains (e.g. biological sciences, environmental sciences, astronomy, meteorological sciences, etc.), together with advances in digital storage, computing, and communications technologies have resulted in unprecedented opportunities for scientist to use the wealth of distributed information available in learning, scientific discovery, and decision making. Classic Data Mining/Machine Learning architectures do not fulfill such needs, due to high communication, storage and computing costs (among other problems). Due to the huge amount of data distributed in different sources, it is infeasible to collect all this information and store them in a centralized data source. That is why it is necessary to propose novel approaches for classic Machine Learning algorithms to work in Distributed Environments. We call this Adaptive Distributed Machine Learning. There have been many advances in the supervised learning task for horizontally and vertically fragmented scenarios in the last years (separately), but the problem of Distributed Machine Learning with hybrid data fragmentation (both scenarios at the same time) has not been fully addressed. Also the problem where batches of data examples arrive over time, has not been considered in the state of the art of the Distributed Machine Learning community. In non-stationary environments, these batches of data may suffer from concept drift, meaning that the underlying law of probability that generates the data may change over time. Also, if we add the inherent complexity of handling very large data sets that are distributed, the full task becomes very challenging. This project deals with Distributed Learning problems, with different underlying laws of probability governing the distributed sources, in incremental scenarios, minimizing the communication, storage and processing costs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: André Lage Freitas - Integrante / Raphael Pereira Ribeiro - Integrante / Naelson Douglas Cirilo Oliveira - Integrante / Héctor Allende-Cid - Coordenador.Financiador(es): Comisión Nacional de Investigacion Científica y Tecnológica - Auxílio
+										financeiro.
+2015 - 2016
+CloudArray: highly-responsive machine learning in the cloud - Microsoft Azure Research Award Program 2015-2016
+Descrição: Current cloud programming support for highly-responsive machine learning applications are either complex to use or provide limited features. This research project aims at developing the CloudArray support for highly-responsive machine learning applications. CloudArray provides high-level cloud programming support which transparently deals with resource management based on service-level objectives. Expected results include (i) open-source and standard cloud programming support for building highly-responsive machine learning applications; (ii) two Azure-based open-source applications able to solve real-world problems; (iii) further contributions to the open-source community such as training material and pull requests.
+Web page: https://github.com/gsd-ufal/CloudArray.jl. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: André Lage Freitas - Coordenador / Raphael Pereira Ribeiro - Integrante / Naelson Douglas Cirilo Oliveira - Integrante / Héctor Allende-Cid - Integrante / Alejandro C. Frery - Integrante.Financiador(es): Microsoft Research - Auxílio
+										financeiro.
+2015 - 2016
+Proyecto Internacionalización 2015, Ingeniería 2030
+Descrição: Implementación de Máquinas de Aprendizaje Distribuidas de Regresión en Servidores en la Nube para problemas de Big Data". El objetivo principal de esta estadía es la de realizar tareas de investigación con el fin de desarrollar un enfoque distribuido para máquinas de aprendizaje en la tarea de regresión, implementado en servidores en la nube, con el fin de poder modelar problemas de ?Big Data?. Obs. Dr. André Lage-Freitas is the International counterpart in the Project of Internationalisation 2015.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Lage Freitas - Integrante / Héctor Allende-Cid - Coordenador.Financiador(es): Pontificia Universidad Católica de Valparaiso - Auxílio
+										financeiro.
+2007 - 2012
+S-CUBE [FP7/2007-2013 - 215483]
+Descrição: The S-CUBE Project is an European network of excellence in software services and systems. It is supported by the European Community?s Seventh Framework Programme [FP7/2007-2013] under grant agreement 215483. Duration: 2007?2013.
+Partners: sixteen European research institutions (Cf. http://www.s-cube-network.eu/)
+Activities: on the context of the Self-* Service Infrastructure and Service Discovery Support
+(WP-JRA-2.3) workpackage.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Lage Freitas - Integrante / S-CUBE Consortium - Coordenador.
+2004 - 2008
+TopGrid (CAPES-COFECUB?497/05)
+Descrição: Project supported by the bi-lateral cooperation between Brazil and France
+CAPES-COFECUB (project 497/05) that aimed at dependable execution on grid
+computing. Duration: 2004?2008.
+Partners: UFBA (Brazil), UFCG (Brazil), INRIA-Rennes (France), INRIA-Roquencourt
+(France), Université Paris Sud (France).
+Activities: research on decentralizing the group membership of the OurGrid peer-to-peer
+grid middleware by using epidemic protocol.
+Results: development of LiveOurGird; paper published about LiveOurGrid; poster on
+SBPC 14th Scientific Initiation National Journey; prize of best undergraduate
+research internship.. Situação: Concluído; Natureza: Pesquisa. Integrantes: André Lage Freitas - Integrante / Amadeu Andrade Barbosa Jr. - Integrante / Fabíola Gonçalves Pereira Greve - Coordenador / Michel Hurfin - Integrante / Francisco Vilar Brasileiro - Integrante / Jean-Pierre Le Narzul - Integrante / Walfredo Cirne - Integrante / Pierre Sens - Integrante / Franck Capello - Integrante.

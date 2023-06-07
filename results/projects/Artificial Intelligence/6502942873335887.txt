@@ -1,0 +1,24 @@
+2016 - 2017
+Análise textual automatizada de sentimentos em postagens de Redes Sociais (APQ-03294-15)
+Descrição: Ferramenta para análise textual e identificação de sentimentos de forma automática em documentos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Luiz Claudio Gomes Maia - Coordenador.
+2015 - 2018
+Modelo para análise textual de sentimentos em postagens de redes sociais
+Descrição: Financiador: UNIVERSIDADE FUMEC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Luiz Claudio Gomes Maia - Coordenador.
+2014 - 2015
+Modelo de Gestão do Conhecimento aplicado ao setor de Tecnologia da Informação
+Descrição: O aumento dos Sistemas de Informação (SI) nas organizações, influenciado pelos avanços tecnológicos e mudanças mercadológicas, promove a necessidade de integrações entre os SI elevando a complexidade do parque tecnológico organizacional. O Alinhamento Estratégico (AE) entre a Tecnologia da Informação (TI) e as Estratégias Organizacionais (EO) torna-se necessário para o atingimento dos objetivos traçados logo, a gestão do setor de Tecnologia da Informação assume caráter estratégico sendo necessário o entendimento das relações da TI junto à organização. A Estrutura Organizacional é composta por Processos Organizacionais (PO), Sistemas de Informação e Pessoas sendo estes construtos os elementos a serem considerados na gestão do setor de TI. Para promover o Alinhamento Estratégico da TI as Estratégias Organizacionais, considerando a complexidade do parque tecnológico, torna-se necessário identificar estes construtos e suas relações com o intuito de compreender quais Processos Organizacionais são suportados pelos SI e quais Pessoas detêm o conhecimento a cerca dos mesmos. A ciência da Gestão do Conhecimento (GC), por meio da identificação e criação do conhecimento organizacional, torna-se um elemento importante na identificação e relação destes elementos. Desta forma, o intuito deste projeto é propor um Modelo de GC, para o setor de TI das organizações, com o intuito de prover a identificação e relação entre os construtos Processos Organizacionais, Sistemas de Informação e Pessoas a fim de impulsionar o Alinhamento Estratégico entre Tecnologia da Informação e as Estratégias Organizacionais. Segundo o SINDINFOR-MG, 162 empresas de software constituem a base de associados do sindicato em MG. De acordo com o MINISTÉRIO DO TRABALHO E DO EMPREGO - RAIS, 18.307 profissionais de TI possuem vínculo ativo em Belo Horizonte logo, a relevância deste estudo à capital mineira justifica-se pelo atingimento de um público relevante em um setor que se expande continuamente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Claudio Gomes Maia - Integrante / Fabricio Ziviani - Coordenador / Jorge Tadeu Ramos Neves - Integrante.
+2014 - 2015
+Agrupamento de documentos eletrônicos: ferramenta www.ogmaweb.com.br
+Descrição: O objetivo geral é realizar adaptações na ferramenta www.ogmaweb.com.br para uma utilização simples e eficiente por meio da elaboração de uma interface eficaz. 
+Incluem:
+a) Melhorias na interface de utilização através de criação de menus interativos.
+b) Criação de sistema de classificação de documentos de forma simples e intuitiva.
+c) Divulgação da ferramenta para a comunidade.
+Financiador: UNIVERSIDADE FUMEC. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luiz Claudio Gomes Maia - Coordenador.
+2012 - 2013
+Uso de sintagmas nominais na mineração automática de documentos eletrônicos
+Descrição: Este projeto de pesquisa trata do desenvolvimento da ferramenta OGMA X/DM que atuará com técnicas de análise na área de
+mineração de dados (ou data mining). Como o termo indica, mineração de dados refere-se à mineração ou descoberta de novas
+informações em termos de padrões ou regras com base em grandes quantidades de dados. O objetivo requer a adaptação de uma
+ferramenta de mineração de texto existente OGMA X para sua utilização em mineração de dados.
+Financiador: UNIVERSIDADE FUMEC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Luiz Claudio Gomes Maia - Coordenador / Mauricio Torres Moreira - Integrante / Rodrigo Soares Chaves - Integrante.

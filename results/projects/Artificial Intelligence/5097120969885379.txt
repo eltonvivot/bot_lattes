@@ -1,0 +1,277 @@
+2022 - 2022
+Participação no IX SeedMol
+Descrição: Auxílio à Viagem para a aluna de Doutorado Vanessa Regina Miranda para participar e apresentar trabalho: "Estudo da análise conformacional da vitamina D no VDR com abordagem ONIOM" no IX Simpósio de Estrutura Eletrônica e Dinâmica Molecular (IX SeedMol). (UnB - Brasília, DF - Brasil).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Nelson Henrique Morgon - Coordenador / Vanessa Regina Miranda - Integrante.Financiador(es): Universidade Estadual de Campinas - Auxílio
+										financeiro.
+2022 - Atual
+Desenvolvimento e Aplicação de Abordagem Analítica para o Cálculo de Tunelamento em Duplos Poços Potenciais
+Descrição: O processo de tunelamento, o qual é característico de sistemas quânticos, é a capacidade de partículas, ou sistema de partículas, de atravessar uma região proibida pela mecânica clássica. Exemplos de reações que podem envolver tunelamento estão reações de transferência de prótons, reações de combustão e reações envolvendo proteínas. Recentemente reações que podem ocorrer primariamente por tunelamento foram utilizadas na produção de espécies reativas intracelulares no tratamento do câncer. Alguns métodos foram desenvolvidos para o cálculo do tunelamento em potenciais de duplo poço (DWP), no entanto esse não é um processo trivial e não há um método, ou conjunto de métodos, que possam calcular o tunelamento através de um tratamento generalizado e com
+boa acurácia, e que não requeira conhecimento matemático aprofundado. Por isso, normalmente se recorre à aproximações que podem apresentar erros de ordens de grandeza se as suposições das aproximações não
+sejam válidas para os problemas tratados. O objetivo do projeto é de desenvolvimento de métodos e estratégias para o cálculo do tunelamento em DWP, dando contiuidade ao trabalho realizado durante o mestrado, com os quais se obteve excelente concordância com dados experimentais. Os objetivos incluem a investigação de outras famílias
+de potenciais que permitam a solução analítica da equação de Schrödinger e de diferentes tratamento das coordenadas de reação que possam melhor modelar os tipos de sistemas encontrados em química. Posteriormente,
+o projeto inclui a escrita e distribuição de um programa para cálculo da frequência de tunelamento e níveis de energia em DWP.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Nelson Henrique Morgon - Coordenador / Caio Moraes Porto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2022 - Atual
+Cálculos Teóricos de Propriedades Eletrônicas e Estruturais
+Descrição: O projeto intitulado " Cálculos Teóricos de Propriedades Eletrônicas e Estruturais" visa o estudo de propriedades eletrônicas e estruturais de moléculas de interesse biológico, através da análise teórica dos espectros eletrônicosnas regiões de ultra-violeta e visível (UV-Vis) e de dicroísmo circular (ECD). Nesse projeto serão avaliadosdiferentes metodologias computacionais na obtenção de resultados úteis na interpretação de dados experimentaisdisponíveis. Serão estudados os seguintes temas: Estudo Teórico da Influência do Ácido Ferúlico na Ligação daVarfarina com a Albumina do Soro Humano: Ancoragem Molecular e Dicroísmo Circular; Desenvolvimento e Aplicação deAbordagem Analítica para o Cálculo de Tunelamento em Duplos Poços Potenciais; Estudo in silico da interação daVitamina D com o receptor VDR de células de câncer colorretal: aplicação metodológica em reposicionamento defármacos e Integração de abordagens in silico e experimental para o avanço da descoberta de fármacos contraarboviroses emergentes Assim, permitir que o estabelecimento de colaborações ou parcerias com ou- tros centros depesquisa (experimental e/ou teórico) fortaleça o avanço científico nas áreas de espectroscopia, dicroísmo circulareletrônico, químicas orgânica e farmacológica.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - 2022
+Cálculos teóricos de espectros eletrônicos (UV-Vis e ECD) de moléculas de interesse biológico.
+Descrição: Natureza do projeto: Bolsas de Produtividade em Pesquisa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.Financiador(es): CNPq - Bolsa.
+2019 - 2019
+Participação de Lucas Chuman Santana no XX SBQT - João Pessoa, PB
+Descrição: Natureza do projeto: Auxílio à Viagem.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador / Lucas Chuman Santana - Integrante.Financiador(es): Fundo de Apoio ao Ensino, à Pesquisa e à Extensão - Auxílio
+										financeiro.
+2019 - 2019
+Estudo teórico da sonda CS1 na detecção de Cu2+ e  estudos de dicroísmo circular eletrônico de sistemas moleculares
+Descrição: Natureza do projeto: Auxílio Ponte - Nível de Doutorado para Iran da Luz Sousa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador / Iran da Luz Sousa - Integrante.Financiador(es): Fundo de Apoio ao Ensino, à Pesquisa e à Extensão - Bolsa.
+2019 - Atual
+Cálculos Teóricos de Espectros Eletrônicos (UV-Vis, Fluorescência e Dicroísmo Circular) de Moléculas de Interesses Farmacológico e Aplicado
+Descrição: O projeto intitulado "Cálculos Teóricos de Espectros Eletrônicos (UV-Vis, Fluorescência e Dicroísmo Circular) de Moléculas de Interesses Farmacológico e Aplicado" visa o estudo de propriedades eletrônicas e estruturais de sistemas com potencial de aplicação como fármacos: cânfora, fisetina, cumarina e naproxeno e em displays OLED (Organic Light Emitting Diodes) especificamente as SMOLEDs (Small Molecule OLEDs). O estudo será fundamentado na análise teórica dos espectros eletrônicos nas regiões de ultra-violeta e visível (UV-Vis), de fluorescência e de dicroísmo circular (ECD).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2018 - Atual
+Centro para Computação em Engenharia e Ciências
+Projeto certificado pelo(a) coordenador(a) Munir Salomao Skaf em 05/01/2021.
+Descrição: Propõe-se a renovação do Cepid - CCES (Proc. 2013/08293-7).
+To extend funding for the Center for Computing in Engineering & Sciences (CCES) as a multidisciplinary center whose mission is to carry out world-class scientific research in high-performance computational simulations, computational modeling, and data-intensive computing, to solve frontier problems in engineering and molecular sciences.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (12)  / Doutorado: (99) . Integrantes: Nelson Henrique Morgon - Integrante / Munir Salomão Skaf - Coordenador / Outros Pesquisadores da Unicamp - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - 2020
+Nuvem Computacional Científica da UNICAMP
+Projeto certificado pelo(a) coordenador(a) Alvaro Penteado Crósta em 15/08/2017.
+Descrição: Pesquisador da Equipe Científica do Projeto: "Nuvem Computacional Científica da UNICAMP". 
+Coordenador: Álvaro Penteado Crósta (Coordenador Geral da UNICAMP). 
+Processo: MCTI/FINEP/CT-INFRA - PROINFRA - 02/2014
+Natureza do projeto: Equipamentos Multiusuários. 
+Período: 2017. 
+Fonte financiadora: Financiadora de Estudos e Projetos (FINEP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Integrante / Álvaro Penteado Crósta - Coordenador / Outros Pesquisadores da Unicamp - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2017 - 2018
+XIX Simpósio Brasileiro de Química Teórica - SBQT 2017
+Descrição: XIX Simpósio Brasileiro de Química Teórica - SBQT 2017. 
+Processo No.: 17614-2/2017 
+Natureza do projeto: Auxílio à Organização de Evento.
+Período: 12 a 17 de novembro de 2017. 
+Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de
+São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.Financiador(es): Simpósio Brasileiro de Química Teórica - Auxílio
+										financeiro.
+2017 - 2018
+Estudo teórico de sondas fluorescentes para determinação de cátions metálicos.
+Descrição: Estudo teórico de sondas fluorescentes para determinação de cátions metálicos. 
+Processo No.: 2221/17. 
+Natureza do projeto: Auxílio à pesquisa. 
+Período: 04/04/2017 a 04/04/2018. 
+Fonte financiadora: Fundo de Apoio ao Ensino, à Pesquisa e
+à Extensão (Pró-Reitoria de Pesquisa) (FAEPEX-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador / Iran da Luz Sousa - Integrante.Financiador(es): Fundo de Apoio ao Ensino, à Pesquisa e à Extensão - Auxílio
+										financeiro.
+2015 - 2018
+Estudo da interação entre fármacos e a albumina do soro humano (HSA) baseado em simulação computacional, DFT e TDDFT, experimentos de dicroísmo circular eletrônico, ECD, e determinação da constante de ligação
+Projeto certificado pelo(a) coordenador(a) Aguinaldo Robinson de Souza em 15/08/2017.
+Descrição: Pesquisador Associado do Projeto de Pesquisa:
+"Estudo da interação entre fármacos e a albumina do soro humano (HSA) baseado em simulação computacional, DFT e TDDFT, experimentos de dicroísmo circular eletrônico, ECD, e determinação da constante de ligação." 
+Coordenador: Aguinaldo Robinson de Souza. 
+Processo FAPESP 2015/22338-9. 
+Natureza do projeto: Auxílio à Pesquisa. 
+Período: 01/02/2016 a 31/01/2018. 
+Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Integrante / Aguinaldo Robinson de Souza - Coordenador / Valdecir Farias Ximenes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2015 - 2016
+Química Teórica Supra e MacroMolecular: Estudo das Estruturas Eletrônica e Molecular de Derivados do Nó Pentafoil (5\_1) e da Inclusão de Benzbromarona em beta-Ciclodextrina
+Descrição: Hugo Penteado da Cunha. 
+Química Teórica Supra e MacroMolecular: Estudo das Estruturas Eletrônica e Molecular
+de Derivados do Nó Pentafoil (5_1) e da Inclusão de Benzbromarona em beta-Ciclodextrina
+Processo No.: 161202/2015-2 
+Natureza do projeto: Iniciação Científica - IC. 
+Período: 01/10/2015 a 30/09/2016.
+Fonte financiadora: Conselho Nacional de Desenvolvimento
+Científico e Tecnológico (CNPq).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador / Hugo Penteado da Cunha - Integrante.
+2014 - 2018
+Química teórica supra e macromolecular: estudo das estruturas eletrônicas e moleculares
+Descrição: Processo No.: 306975/2013-0
+Natureza do projeto: PQ - Produtividade em Pesquisa.
+Períodos: 01/03/2014 a 28/02/2018. 
+Fonte financiadora: Conselho Nacional de Desenvolvimento
+Científico e Tecnológico (CNPq).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Nelson Henrique Morgon - Coordenador.Número de produções C, T & A: 1
+2013 - 2018
+Centro de Pesquisa, Inovação e Difusão (CEPID) Centro de Engenharia e Ciências Computacionais.
+Descrição: Membro do Centro de Pesquisa, Inovação e Difusão (CEPID) Centro de Engenharia e Ciências Computacionais - CECC (Center for Computational Engineering & Sciences - CCES). 
+Coordenador: Munir Salomão Skaf. 
+Processo FAPESP 11/51348-1. 
+Natureza do projeto: Programa de Inovação Tecnológica / CEPID - Centro de Pesquisa, Inovação e Difusão / Edital 2011. 
+Período: 01/05/2013 a 30/04/2018. 
+Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Integrante / Munir Salomão Skaf - Coordenador / Rodolfo Jardim de Azevedo - Integrante / Vera Nisaka Solferini - Integrante / Douglas Soares Galvão - Integrante / Rogério Custodio - Integrante / Alex Antonelli - Integrante / Claudia Bauzer Medeiros - Integrante / Euclides de Mesquita Neto - Integrante / Gonçalo Amarante Guimarães Pereira - Integrante / Guido Costa Souza de Araújo - Integrante / Martin Tygel - Integrante / Renato Pavanello - Integrante / Daniel Laria - Integrante / Dario Estrin - Integrante / Guilherme Pimentel Telles - Integrante / Martin Schanz - Integrante / Maurice de Koning - Integrante / Peter Jacob Rossky - Integrante / Victor Salvador Batista - Integrante / Zanoni Dias - Integrante.
+2013 - 2016
+Química teórica supra e macromolecular: estudo das estruturas eletrônica e molecular de derivados do nó pentafoil (5_1) e da inclusão de benzbromarona em beta-ciclodextrina
+Descrição: Processo No.: 472485/2013-0.
+Natureza do projeto: Apoio a Projetos de Pesquisa / Chamada Pública
+MCTI/CNPq No. 14/2013 - Universal. 
+Períodos: 01/10/2013 a 30/09/2016.
+Fonte financiadora: Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Nelson Henrique Morgon - Coordenador / Gabriel Heerdt - Integrante / Iran da Luz Sousa - Integrante / Leonardo Viana das Chagas Lima - Integrante / Giordano Toscano Paganoto - Integrante.
+2013 - 2013
+Participação no XVII European Conference on Analytical Chemistry (EUROANALYSIS).
+Descrição: Participação no XVII European Conference on Analytical Chemistry (EUROANALYSIS). 
+ Processo No.: 781/13. 
+ Natureza do projeto: Recursos para participação do Gabriel Heerdt. 
+ Período: 25/08/2013 a 29/08/2013. 
+ Fonte financiadora: Fundo de Apoio ao Ensino, à Pesquisa e à Extensão (Pró-Reitoria de Pesquisa) (FAEPEX-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Nelson Henrique Morgon - Coordenador / Gabriel Heerdt - Integrante.
+2013 - 2013
+Participação no XVII Simpósio Brasileiro de Química Teórica (XVII SBQT)
+Descrição: Processo No.: 1151/13.
+Natureza do projeto: Recursos para participação do Iran da Luz Sousa.
+Período: 24/11/2013 a 28/12/2013
+Fonte financiadora: Fundo de Apoio ao Ensino, à Pesquisa e
+à Extensão (Pró-Reitoria de Pesquisa) (FAEPEX-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Nelson Henrique Morgon - Coordenador / Iran da Luz Sousa - Integrante.Número de produções C, T & A: 1
+2013 - 2013
+XII Encontro da SBPMat - Sociedade Brasileira de Pesquisa em Materiais.
+Descrição: XII Encontro da SBPMat - Sociedade Brasileira de Pesquisa em Materiais. 
+ Processo No.: 2013/08252-9. 
+ Natureza do projeto: Organização do Simpósio G no XII Encontro da SBPMat. 
+ Período: 30/09/2013 a 03/10/2013. 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2012 - 2013
+Infraestrutura: Laboratório de Química Computacional do IQ.
+Descrição: Infraestrutura: Laboratório de Química Computacional do IQ. 
+ Processo No.: 624/12. 
+ Natureza do projeto: Infraestrutura de Pesquisa. 
+ Período: 01/04/2012 a 01/04/2013. 
+ Fonte financiadora: II Edital do Fundo de Apoio ao Ensino, à Pesquisa e Extensão - Pró-Reitoria de Pesquisa (FAEPEX-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2010 - 2013
+Estudos sobre fluidos para perfuração completação de poços de petróleo baseados em soluções poliméricas e de micelas gigantes.
+Descrição: Estudos sobre fluidos para perfuração completação de poços de petróleo baseados em soluções poliméricas e de micelas gigantes. 
+ Processo No.: 01-P-17880/10. 
+ Natureza do projeto: Programa PROPES - Programa de óleos pesados PR-115. 
+ Período: 26/08/2010 a 23/12/2013. 
+ Executores: Edvaldo Sabadini e Nelson Henrique Morgon. 
+ Fonte financiadora: PETROBRAS/CENPES/PDP/TE. Diário Oficial Poder Executivo - Seção I. São Paulo, 120 (239), 94 de 18/12/2010.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Integrante / Edvaldo Sabadini - Coordenador.
+2007 - 2007
+Simulações de dinâmica molecular em sistemas biológicos: I. parametrização de campo de força para a ligação glicosídica; II. estudo de interações entre ligantes e preteínas.
+Descrição: Simulações de dinâmica molecular em sistemas biológicos: I. parametrização de campo de força para a ligação glicosídica; II. estudo de interações entre ligantes e preteínas. 
+ Natureza do projeto: Edital PROCAD - CAPES 2007 / UFRRJ e UNICAMP. 
+ Período: 2007. 
+ Coordenadores: Clarissa Oliveira da Silva (UFRRJ) e Munir Salomão Skaf (UNICAMP). 
+ Fonte financiadora: CAPES.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Integrante / Munir Salomão Skaf - Integrante / Clarissa Oliveira da Silva - Coordenador / Rogério Custodio - Integrante / Carlos Mauricio Rabello de Sant'Anna - Integrante / Catarina de Nigris - Integrante / José Geraldo Rocha Jr. - Integrante / Rodney dos Santos - Integrante.
+2006 - 2008
+Cálculos Teóricos de AE e AP e Estudo de Reações de Eliminação de Precursores de Xantato.
+Descrição: Cálculos Teóricos de AE e AP e Estudo de Reações de Eliminação de Precursores de Xantato. 
+ Processo No.: 471159/2006-9. 
+ Natureza do projeto: Apoio a Projetos de Pesquisa / Edital MCT/CNPq 02/2006 - Universal. 
+ Períodos: 01/10/2006 a 01/10/2008. 
+ Fonte financiadora: Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2006 - 2007
+Estudo teórico de propriedades eletrônicas e mecanismos de reações em fase gasosa usando o método aditivo para energia e conjuntos de base com pseudopotencial.
+Descrição: Estudo teórico de propriedades eletrônicas e mecanismos de reações em fase gasosa usando o método aditivo para energia e conjuntos de base com pseudopotencial. 
+ Processo N  : 2006/04228-2. 
+ Natureza do projeto: Aquisição de equipamento computacional. 
+ Período: 01/11/2006 a 31/10/2007. 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2004 - 2004
+Convênio FINEP - CT-Infra 3/2003 - pontos de rede - IQ/UNICAMP.
+Descrição: Convênio FINEP - CT-Infra 3/2003 - pontos de rede - IQ/UNICAMP. 
+ Fonte financiadora: FINEP. 
+ Período: 2004. 
+ Fonte financiadora: Financiadora de Estudos e Projetos (FINEP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2003 - 2004
+Estudo teórico de processos que ocorrem em plasma.
+Descrição: Estudo teórico de processos que ocorrem em plasma. 
+ Processo No.: 232/03. 
+ Natureza do projeto: Aquisição de equipamento computacional. 
+ Período: 30/05/2003 a 30/06/2004. 
+ Fonte financiadora: Fundo de Apoio ao Ensino e à Pesquisa (Pró-Reitoria de Pesquisa) (FAEP-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2001 - 2003
+Estudo de processos químicos e cálculos de propriedades eletrônicas usando metodologias teóricas de estrutura eletrônica de alto nível, empregando-se técnicas que minimizem o tempo de processamento computacional.
+Descrição: Estudo de processos químicos e cálculos de propriedades eletrônicas usando metodologias teóricas de estrutura eletrônica de alto nível, empregando-se técnicas que minimizem o tempo de processamento computacional. 
+ Processo No.: 2000/09638-8. 
+ Natureza do projeto: Aquisição de equipamento computacional. 
+ Período: 01/02/2001 a 31/01/2003. 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2001 - 2002
+Cálculos teóricos de reações de nitrosação em fase gasosa.
+Descrição: Cálculos teóricos de reações de nitrosação em fase gasosa. 
+ Processo No.: 1185/01. 
+ Natureza do projeto: Projeto de Pesquisa - PRP-FAEP/UNICAMP. 
+ Período: 2001/2002. 
+ Fonte financiadora: Fundo de Apoio ao Ensino e à Pesquisa (Pró-Reitoria de Pesquisa) (FAEP-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2000 - 2001
+Estudo teórico e modelagem e estrutura e reatividade em zeólito. aplicação em catálise (uso de computação paralela).
+Descrição: Estudo teórico e modelagem e estrutura e reatividade em zeólito. aplicação em catálise (uso de computação paralela). 
+ Processo No.: 462820/00-9 (APQ) 
+ Natureza do projeto: Aquisição de computadores.  
+ Período: 04/11/2000 a 04/11/2001. 
+ Fonte financiadora: Programa de pesquisa na área de Ciência e Tecnologia do Setor de Petróleo e Gás Natural - CTPetro, Conselho Nacional de Desenvolvimento Tecnológico (CNPq).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+2000 - 2001
+Estudo teórico da reação de formação de carbonato radicalar: caracterização através do cálculo da constante de acoplamento hiperfina isotrópica.
+Descrição: Estudo teórico da reação de formação de carbonato radicalar: caracterização através do cálculo da constante de acoplamento hiperfina isotrópica. 
+ Processo No.: 0423/00. 
+ Natureza do projeto: Aquisição de equipamento computacional. 
+ Período: 01/08/2000 a 31/07/2001. 
+ Fonte financiadora: Fundo de Apoio ao Ensino e à Pesquisa (Pró-Reitoria de Pesquisa) (FAEP-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+1999 - 2000
+Estudo de propriedades eletrônicas de processos químicos em fase gasosa, utilizando-se cálculos teóricos de alto nível - dft e qcisd(t), a custo computacional reduzido.
+Descrição: Estudo de propriedades eletrônicas de processos químicos em fase gasosa, utilizando-se cálculos teóricos de alto nível - DFT e QCISD(T), a custo computacional reduzido. 
+ Processo No.: 0483/99. 
+ Natureza do projeto: Aquisição de equipamento computacional. 
+ Período: 03/09/1999 a 30/08/2000. 
+ Fonte financiadora: Fundo de Apoio ao Ensino e à Pesquisa (Pró-Reitoria de Pesquisa) (FAEP-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+1999 - 1999
+Aquisição do software Gaussian.
+Descrição: Aquisição do software Gaussian. 
+ Participação no projeto em colaboração com o CENAPAD/SP 
+ Processo No.: 77/97-0793/00. 
+ Natureza do projeto: Compra das Licenças dos programas Gaussian/98 e Linda para IBM SP2. 
+ Período: 01/1999. 
+ Fonte financiadora: Convênio UNICAMP/CENAPAD/FINEP.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador / Ana Cristina Costa Drummond - Integrante.
+1998 - 1998
+Auxílio à Infra-estrutura de Pesquisa do IQ/Unicamp- fase 4 da FAPESP.
+Descrição: Auxílio à Infra-estrutura de Pesquisa do IQ/Unicamp - fase 4 da FAPESP. 
+ Coordenador: Prof. Roy Edward Bruns. 
+ Processo No. 98/6871-1. 
+ Natureza do projeto: Melhoria da infra-estrutura dos laboratórios do grupo de Química Teórica do IQ/UNICAMP. 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Integrante / Roy Edward Bruns - Coordenador.
+1998 - 1998
+Estudo teórico da acidez de C6H4X-, X  = F, Cl  e Br .
+Descrição: Estudo teórico da acidez de C6H4X-, X  = F, Cl  e Br  . 
+ Processo No.: 1998/10063-8. 
+ Natureza do projeto: Auxílio para Participação em Reunião Científica no Exterior - XXIV Congreso Internacional de Químicos Teóricos de Expresión Latina (XXIV QUITEL). 
+ Puebla, Ext - México. 
+ Período: 20/09/1998 a 25/09/1998. 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+1997 - 1997
+Cálculo de próton afinidade usando a teoria do funcional de densidade e o método da coordenada geradora.
+Descrição: Cálculo de próton afinidade usando a teoria do funcional de densidade e o método da coordenada geradora. 
+ Processo No.: 0887/97. 
+ Natureza do projeto: Auxílio para Participação em Reunião Científica no país - XXXVIII Congresso Brasileiro de Química  (XXXVIII CBQ). 
+ Natal, RN. 
+ Período: 28/09 a 03/10/1997. 
+ Fonte financiadora: Fundo de Apoio ao Ensino e à Pesquisa - Pró-Reitoria de Pesquisa (FAEP-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+1996 - 1998
+Construção de um cluster de máquinas pentium para utilização no estudo de estruturas eletrônicas por cálculos teóricos.
+Descrição: Construção de um cluster de máquinas pentium para utilização no estudo de estruturas eletrônicas por cálculos teóricos. 
+ Processo No.: 1996/3047-0. 
+ Natureza do projeto: Compra de equipamentos computacionais. 
+ Período: 01/08/1996 a 31/03/1998. 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+1996 - 1997
+Desenvolvimento de conjunto de funções de base pelo método da coordenada geradora, adaptado a potencial efetivo de caroço e sua aplicação ao cálculo teórico de afinidade por próton.
+Descrição: Desenvolvimento de conjunto de funções de base pelo método da coordenada geradora, adaptado a potencial efetivo de caroço e sua aplicação ao cálculo teórico de afinidade por próton. 
+ Processo No.: 0738/96. 
+ Natureza do projeto: Aquisição de equipamento computacional. 
+ Período: 09/1996 - 10/1997 
+. Fonte financiadora: Fundo de Apoio ao Ensino e à Pesquisa - Pró-Reitoria de Pesquisa (FAEP-PRP/UNICAMP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+1996 - 1996
+Caracterização teórica da reação em fase gasosa de HO-  com SO2F2
+Descrição: Caracterização teórica da reação em fase gasosa de HO-  com SO2F2  . 
+ Processo No: 1996/3811-2. 
+ Natureza do projeto: Auxílio para Participação em Reunião Científica no Exterior - XXIII Congreso Internacional de Químicos Teóricos de Expresión Latina (XXIII QUITEL). 
+ Cáceres, Ext - Espanha. 
+ Período: 16 a 20/09/1996. 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador.
+1995 - 1996
+Capacitação de pesquisadores bolsistas RHAE (Recursos Humanos para Áreas Estratégicas) junto ao CENAPAD-SP.
+Descrição: Participação na elaboração de Projeto Institucional junto ao CNPq. 
+ Processo No.: 610343-95-3. 
+ Natureza do projeto: Capacitação de pesquisadores bolsistas RHAE (Recursos Humanos para Áreas Estratégicas) junto ao CENAPAD-SP. 
+ Período: 24 meses (biênio 1995/1996). 
+ Fonte financiadora: Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Coordenador / Ana Cristina Costa Drummond - Integrante.
+1995 - 1996
+Compra de equipamentos computacionais (Estação de Trabalho e pacotes de softwares para estudos teóricos de estrutura eletrônica)
+Descrição: Participação no projeto em colaboração com Prof. Titular Dr. José M. Riveros do Departamento de Química Fundamental (USP/SP). 
+ Processo No.: 95/5271-2. 
+ Natureza do projeto: Compra de equipamentos computacionais (Estação de Trabalho e pacotes de softwares para estudos teóricos de estrutura eletrônica). 
+ Período: 10/1995 (aprovado em 07/1996). 
+ Fonte financiadora: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nelson Henrique Morgon - Integrante / José Manuel Riveros - Coordenador.

@@ -1,0 +1,230 @@
+2022 - Atual
+AVALIAÇÃO DA MASSA MUSCULAR EM PACIENTES EM UNIDADE DE TERAPIA INTENSIVA E SUA RELAÇÃO COM O mNUTRIC-S
+Descrição: QUESTIONAMENTO: O risco nutricional avaliado pelo mNUTRIC-S é capaz
+de predizer perda de massa magra através da ultrassonografia em pacientes
+internados em UTI? O risco nutricional avaliado é preditor de IRA e morte? 
+HIPÓTESE: O escore mNUTRIC-S elevado é capaz de predizer perda de massa magra através da ultrassonografia em pacientes internados em UTI. O risco nutricional é preditor de IRA
+e morte. 
+OBJETIVOS: Avaliar a variação da massa muscular por ultrassonografia em
+pacientes de UTI e relacionar com o mNUTRIC-S. 
+MÉTODO: Trata-se de um estudo de
+coorte, em pacientes internados em UTI no hospital São Lucas da PUCRS. Os dados
+para o cálculo do mNUTRIC-S serão coletados dos prontuários, a realização da
+ultrassonografia se dará por um avaliador treinado e vão ser realizadas no 1º, 3º, 5º e
+7º dias de internação. Será incluída uma amostra de 50 pacientes. Os desfechos
+esperados são variação da massa muscular em pacientes de UTI e mNUTRIC-S maior
+ou igual a 5. Ocorrência de complicações.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Júlia Braga da Silveira - Integrante / Miriam Viviane Baron - Integrante.
+2022 - Atual
+INJÚRIA RENAL AGUDA ASSOCIADA A COVID-19: ANÁLISE DE PERFIL E DESFECHOS CLÍNICOS.
+Descrição: Bolsista de Iniciação Científica BPA PUC: Raquel Jaqueline Eder Ribeiro
+CAAE: 64100222.7.0000.5336 // Parecer Nº 5.715.083
+Objetivo geral
+Analisar a ocorrência de lesão renal aguda em pacientes diagnosticados com COVID-19 e pacientes não infectados.
+Objetivos específicos
+Avaliar biomarcadores e sua correlação com desfechos de gravidade e morbimortalidade;
+Comparar desfechos clínicos entre pacientes com COVID-19 com e sem LRA (análise intra-grupo) e em relação aos pacientes não infectados (análise inter-grupo);
+Estimar o impacto das comorbidades no desenvolvimento da LRA e outras complicações.
+Método: Trata-se de um estudo híbrido, retrospectivo e interdisciplinar (saúde e ciência de dados) que utilizará dados secundários para desenvolvimento de uma tecnologia utilizando inteligência artificial. O cenário será o Serviço de Nefrologia do Hospital São Lucas da Pontifícia Universidade do Rio Grande do Sul (HSL PUCRS). O cenário será o Serviço de Nefrologia do Hospital São Lucas da Pontifícia Universidade do Rio Grande do Sul (HSL PUCRS).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / ESCOUTO, DANIELE CRISTOVAO - Integrante / Raquel Jaqueline Eder Ribeiro - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Thiago Ferreira Berton - Integrante / Rafael Heitor Bordini - Integrante / Miriam Viviane Baron - Integrante / Fabiano Ramos - Integrante / Andressa Barros - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Bolsa.
+2022 - Atual
+GESTAÇÃO, PRÉ-ECLAMPSIA E COVID-19: ANÁLISE DE PERFIL E DESFECHOS CLÍNICOS.
+Descrição: APROVADO no "EDITAL FAPERGS 10/2021 AUXÍLIO RECÉM-DOUTOR ou RECÉM-CONTRATADO ?ARD/ARC"
+Protocolo: 63517.686.66778.07032022
+Coordenador: Marta Ribeiro Hentschke
+Vinculado ao "ESTUDO RETROSPECTIVO DE PACIENTES PORTADORES DO CORONAVÍRUS
+NO HOSPITAL NOSSA SENHORA DA CONCEIÇÃO E VALIDAÇÃO DE TESTE RÁPIDO DE ANTICORPOS".
+CAAE: 38458420.3.0000.5530 // Parecer Nº 4.635.557
+Objetivo geral:
+ Analisar a ocorrência de pré-eclâmpsia em gestantes diagnosticadas com COVID-19 e os desfechos clínicos em um hospital referência do SUS na capital do RS.
+Objetivos específicos:
+Avaliar biomarcadores e sua correlação com desfechos de gravidade e morbimortalidade;
+Comparar indicadores e desfechos clínicos entre mulheres gestantes e não-gestantes com COVID-19;
+Estimar o impacto das comorbidades no desenvolvimento de complicações clínicas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Integrante / Marta Ribeiro Hentschke - Coordenador / Daniela Moraes - Integrante / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Rafael Heitor Bordini - Integrante / Miriam Viviane Baron - Integrante / EDER RIBEIRO, RAQUEL JAQUELINE - Integrante / Roberta Vieira Pecoits - Integrante / HELENA CRISTINA VALENTINI SPEGGIORIN VIEIRA - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2022 - Atual
+PQ2022 - DOENÇA RENAL CRÔNICA : ANÁLISE DE BIOMARCADORES POR INTELIGÊNCIA ARTIFICIAL.
+Descrição: Projeto aprovado na Chamada PQ - 2022 CNPq
+Processo: 308250/2022-2. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Isabel Cristina Reinheimer - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2021 - 2022
+REPOSITÓRIO DE BIOMARCADORES DE PACIENTES COM DOENÇA RENAL CRÔNICA EM DIÁLISE PARA DESENVOLVIMENTO DE ALGORITMOS DE MACHINE LEARNING PARA A PRÁTICA CLÍNICA.
+Descrição: Bolsista de Iniciação Científica PIBIC CNPq: Carina Marangoni
+Objetivo: Propor um modelo de repositório de biomarcadores de pacientes com DRC estágio 5 dialítico para o desenvolvimento de modelos preditivos com algoritmos de machine learning.
+Método: Trata-se de um estudo híbrido, retrospectivo e interdisciplinar entre Saúde e Ciências de Dados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Thiago Ferreira Berton - Integrante / Carina Marangoni - Integrante / Miriam Viviane Baron - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2021 - 2022
+A PREVALÊNCIA DE REAÇÕES ADVERSAS A MEDICAMENTOS EM TRATAMENTOS PARA COVID-19 E SUA ASSOCIAÇÃO COM A PERDA DE FUNÇÃO RENAL: UMA REVISÃO SISTEMÁTICA.
+Descrição: Bolsista PIBIC/CNPQ: Paulo Ricardo Hernandes Martins
+Objetivo Geral:
+Avaliar a perda de função renal como um fator de risco independente para os dos pacientes desenvolverem reações adversas a medicamentos na COVID-19.
+ Objetivos Específicos:
+Analisar a prevalência de RAM entre pacientes com função renal alterada;
+Categorizar as RAM segundo suas características, duração, gravidade e desfechos;
+Destacar os medicamentos envolvidos e forma de utilização; 
+Identificar o tipo de disfunção renal dos pacientes.
+Método: Estudo de revisão sistemática da literatura realizado no período de março de 2020 a março de 2022.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Thiago Ferreira Berton - Integrante / Rafael Heitor Bordini - Integrante / Paulo Ricardo Hernandes Martins - Integrante / Miriam Viviane Baron - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2021 - 2022
+BIOMARCADORES DE ACOMPANHAMENTO DE PACIENTES COM DOENÇA RENAL CRÔNICA ESTÁGIO 5 EM DIÁLISE: REVISÃO SISTEMÁTICA DA LITERATURA.
+Descrição: Bolsista de Iniciação Científica PROBIC FAPERGS: Amanda Corrêa dos Santos
+PERGUNTA DE PESQUISA: Qual o nível de concordância entre os biomarcadores de acompanhamento de pacientes com DRC estágio 5 em diálise preconizados na Diretriz Clínica Brasileira em relação aos demais guidelines?
+OBJETIVO: Avaliar o nível de concordância entre os biomarcadores de acompanhamento de pacientes com DRC estágio 5 em diálise preconizados na Diretriz Clínica Brasileira em relação aos demais guidelines.
+MÉTODO: Estudo de revisão sistemática da literatura realizado no período de março de 2020 a março de 2022.
+Base de dados - PubMed, Cochrane Library, Web of Science, IEEE Xplore Digital Library, Compendex (Ei Village 2), ACM Digital Library, Science Direct, Scopus, SciELO, LILACS, Google Scholar, EMBASE. Trip Medical Database.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Amanda Corrêa dos Santos - Integrante / Miriam Viviane Baron - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 1
+2021 - 2022
+MODELOS PREDITIVOS PARA DIETA DE PACIENTES COM DOENÇA RENAL CRÔNICA EM DIÁLISE UTILIZANDO MACHINE LEARNING
+Descrição: Bolsista de Iniciação Científica PROBIC FAPERGS: Flávia Seidler
+OBJETIVO GERAL: Desenvolver modelos preditivos de dieta nutricional para pacientes com DRC estágio 5 dialítico através de algoritmos de machine learning a partir dos biomarcadores de rotina.
+Objetivos específicos: Avaliar a relevância das variáveis em modelos nutricionais preditivos;
+Identificar os algoritmos de machine learning com melhor performance;
+Propor uma coorte de validação para o modelo desenvolvido; 
+Testar a aplicação destes modelos em prontuários eletrônicos.
+MÉTODO:Trata-se de um estudo híbrido, retrospectivo e interdisciplinar entre Saúde e Ciências de Dados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Thiago Ferreira Berton - Integrante / Flávia Seidler - Integrante / Miriam Viviane Baron - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 1
+2021 - Atual
+BPA - COVID-19, NEFROLOGIA E GESTÃO DA INFORMAÇÃO: CONSTRUÇÃO DE UMA BASE DE DADOS INTERDISCIPLINAR
+Descrição: Bolsista de Iniciação Científica BPA: Fernando Kowarick Halperin
+Objetivo  Principal:  Instituir um base de dados interdisciplinar para estudos sobre COVID-19 e nefrologia. 
+Objetivos Secundários: Buscar dados, ampliar e qualificar os registros;
+Articular pesquisas interinstitucionais; 
+Subsidiar protocolos de prevenção e manejo da IRA de COVID-19. 
+Método: Trata-se de um estudo híbrido, retrospectivo e interdisciplinar entre Saúde e Ciências de Dados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Rafael Heitor Bordini - Integrante / Fernando Kowarick Halperin - Integrante / Miriam Viviane Baron - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Bolsa.
+2021 - Atual
+CIÊNCIA DE DADOS NO ACOMPANHAMENTO DO PACIENTE COM DOENÇA RENAL CRÔNICA
+Descrição: Bolsistas de Iniciação Científica: Isadora Badalotti Telöken; Marcelo Lied da Cunha
+EDITAL No 07/2020 - CHAMADA PARA O PROGRAMA DE APOIO A PROJETOS DE PESQUISA - PAPROP
+CAAE 50166721.2.0000.5336 // Parecer No 4.890.217
+QUESTIONAMENTO:  A Inteligência Artificial permite desenvolver ferramentas para predizer morbimortalidade em pacientes com DRC em diálise utilizando os biomarcadores de monitoramento obrigatórios? 
+HIPÓTESE: A Inteligência Artificial permite analisar dados clínicos a fim de predizer desfechos específicos em pacientes com DRC estágio 5 em diálise através de métricas de avaliação que possibilitam o desenvolvimento de ferramentas inovadoras e interdisciplinares.
+Objetivo Geral
+Desenvolver uma ferramenta utilizando inteligência artificial que permita predizer desfechos de morbimortalidade em pacientes com DRC estágio 5 em TRS com base nos biomarcadores de rotina.
+Objetivos Específicos:
+Determinar a(s) técnica(s) de IA que apresentam melhor performance;
+Discutir métodos de inserção da ferramenta na prática clínica;
+Caracterizar a magnitude dos resultados e sua relevância clínica;
+Identificar os exames preditivos e a periodicidade ideal para sua realização.
+MÉTODO: Trata-se de um estudo híbrido, retrospectivo e interdisciplinar (saúde e ciência de dados) que utilizará dados secundários para desenvolvimento de uma tecnologia utilizando inteligência artificial. O cenário será o Serviço de Nefrologia do Hospital São Lucas da Pontifícia Universidade do Rio Grande do Sul (HSL PUCRS).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Rafael Heitor Bordini - Integrante / Isadora Badalotti Telöken - Integrante / Rodrigo Juvêncio Tourinho Girardi - Integrante / Miriam Viviane Baron - Integrante / Marcelo Lied da Cunha - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Bolsa / Pontifícia Universidade Católica do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2021 - Atual
+BPA - COVID-19, NEFROLOGIA E INTELIGENCIA ARTIFICIAL: REPOSITÓRIO DE DADOS
+Descrição: Bolsista de Iniciação Científica BPA: Rafael Chahér Wolf
+Objetivo Principal: Propor um modelo de repositório de dados de pacientes com COVID-19 para o desenvolvimento de modelos preditivos com algoritmos de ML.
+Objetivos Secundários: Subsidiar pesquisas da nefrologia na COVID-19 utilizando inteligência artificial;
+Analisar a usabilidade do modelo de repositório proposto;
+Articular pesquisas interinstitucionais;
+Desenvolver ferramentas interdisciplinares entre saúde e ciências de dados.
+Método: Trata-se de um estudo híbrido, retrospectivo e interdisciplinar entre Saúde e Ciências de Dados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Rafael Chahér Wolf - Integrante / Miriam Viviane Baron - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 1
+2021 - Atual
+DOENÇA RENAL CRÔNICA E INTELIGÊNCIA ARTIFICIAL: ANÁLISE DE BIOMARCADORES
+Descrição: Bolsista CAPES Integral de Doutorado: Isabel Cristina Reinheimer
+CAAE: 53284121.5.0000.5336 // Parecer Nº 5.406.792
+Pergunta de Pesquisa: Qual o poder preditivo de desfechos de morbimortalidade, em um ano, dos exames preconizados por esta diretriz? 
+Hipótese: Existem exames preconizados que não possuem valor preditivo na determinação destes desfechos em pessoas com DRC estágio 5 dialítico.
+Objetivo:  Analisar o poder preditivo dos exames preconizados pela diretriz clínica nos desfechos de morbimortalidade utilizando Inteligência Artificial. 
+Justificativa: Gerar evidências para otimizar o cuidado dos pacientes e a eficiência do Sistema Único de Saúde. 
+Método: Trata-se de um estudo retrospectivo do tipo coorte histórica. Será criado um banco de dados clínicos através da plataforma online REDCap. O tamanho amostral será de 350 pacientes, que, em um processo de forward stepwise selection, terá poder estatístico > 80% na detecção de razões de chance > 2 em um nível de significância α = 5%. Serão empregadas análises preditivas utilizando Inteligência Artificial através de modelos de Machine Learning.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante / Rafael Heitor Bordini - Integrante / Miriam Viviane Baron - Integrante / Marcelo Lied da Cunha - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 2
+2021 - Atual
+RISCO NUTRICIONAL E MASSA MUSCULAR DE PACIENTES EM UNIDADE DE TERAPIA INTENSIVA
+Descrição: Proposta não Contratada mas Aprovada no Mérito no "EDITAL FAPERGS 10/2021 AUXÍLIO RECÉM-DOUTOR ou RECÉM-CONTRATADO ? ARD/ARC".
+Protocolo: 62440.686.48036.07032022
+Coordenadora: Rafaela Siviero Caron Lienert. Situação: Desativado; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Integrante / Bartira Ercília Pinheiro - Integrante / CARON-LIENERT, RAFAELA SIVIERO - Coordenador / PIZZATO, ALESSANDRA CAMPANI - Integrante / Isabel Cristina Reinheimer - Integrante / Mayara Abichequer Beer - Integrante / Júlia Braga da Silveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Outra.
+2021 - Atual
+A nutrição e o desenvolvimento de lesão por pressão em pacientes internados em unidade de terapia intensiva
+Projeto certificado pelo(a) coordenador(a) Rafaela Siviero Caron Lienert em 12/12/2022.
+Descrição: Proposta não Contratada mas Aprovada no Mérito no "EDITAL FAPERGS 10/2020 - AUXÍLIO RECÉM-DOUTOR ? ARD".
+Enviado em:  05.03.2021
+Coordenadora: Rafaela Siviero Caron Lienert. Situação: Desativado; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Integrante / Bartira Ercília Pinheiro da Costa - Integrante / CARON-LIENERT, RAFAELA SIVIERO - Coordenador / PIZZATO, ALESSANDRA CAMPANI - Integrante / BARON, MIRIAM VIVIANE - Integrante / Caroline Abud Drumond Costa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Outra.
+2018 - 2021
+Universal 2018 - Hipertensão na gestação e pré-eclâmpsia: aspectos clínicos e fisiopatológicos.
+Descrição: Projeto aprovado na Chamada UNIVERSAL 2018 do CNPq.
+Processo: 424488/2018-3. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / ANTONELLO, IC - Integrante / Domingos Otávio D'Avila - Integrante / Bartira Ercília Pinheiro da Costa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2018 - 2020
+AVALIAÇÃO DA EFETIVIDADE DE UM PROGRAMA EXERCÍCIOS PARA PACIENTES COM DOENÇA RENAL CRÔNICA MOTIVANDO O AUTOCUIDADO, ADESÃO E A AUTONOMIA. DIALEX
+Projeto certificado pelo(a) coordenador(a) Ana Elizabeth Prado Lima Figueiredo em 13/12/2022.
+Descrição: Projeto aprovado na "CHAMADA FAPERGS/MS/CNPq/SESRS n. 03/2017 - PPSUS"
+Data de Envio: 24.11.2017
+Coordenadora: Ana Elizabeth Prado Lima Figueiredo
+Protocolo: 30862.434.31367.24112017. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Integrante / Ana Elizabeth Prado Lima Figueiredo - Coordenador / Denizar Alberto da Silva Melo - Integrante / Júlio César Marques de Lima - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2018 - 2020
+Gameficação como ferramenta de educação nutricional para pacientes com doença renal crônica em diálise.
+Descrição: Sob Avaliação dos Consultores AD-HOC - submetido ao "EDITAL FAPERGS/CAPES 04/2018 - PROGRAMA DE BOLSAS DE FIXAÇÃO DE DOUTORES - DOCFIX"
+Protocolo: 33968.466.14503.0504
+Modalidade: Formulário Docfix
+Enviado em: 05.04.2018. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Ana Elizabeth Prado Lima Figueiredo - Integrante / Bartira Ercília Pinheiro - Integrante / CARON-LIENERT, RAFAELA SIVIERO - Integrante / PIZZATO, ALESSANDRA CAMPANI - Integrante / Claus Dieter Stobäus - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Outra.
+2014 - 2018
+PQ2014:BASES FISIOPATOLÓGICAS E CLÍNICAS DA PRÉ-ECLÂMPSIA E HIPERTENSÃO NA GESTAÇÃO
+Descrição: Projeto aprovado na Chamada PQ 2014 CNPq.
+Processo: 308667/2014-0. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Fundação de Previdência Complementar - Bolsa.
+2013 - Atual
+Avaliação retrospectiva dos 35 anos de transplante renal no Hospital São Lucas da PUCRS
+Descrição: Avaliação retrospectiva dos 35 anos de transplante renal no Hospital São Lucas da PUCRS. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Especialização: (1) Doutorado: (1) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Carlos Abaeté de los Santos - Integrante / Ivan Carlos Ferreira Antonello - Integrante / David Saitovitch - Integrante / Moacir Alexandre Traesel - Integrante / Rubens marona de Oliveira - Integrante / Ana Maria Teixeira Verçoza - Integrante / Fernando Tettamanzy - Integrante / Giovani Gadonski - Integrante / Leonardo Viliano Kroth - Integrante / Florência Ferreira Barreiro - Integrante / Domingos Otávio L d'Avila - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2012 - 2018
+UNIVERSAL 2012: Hipertensão na gestação e pré-eclâmpsia: Avaliação de aspectos clínicos e fisiopatológicos
+Descrição: Projeto aprovado no edital "UNIVERSAL 2012 CNPq"
+Objetivo: investigar diversos aspectos fisiopatólógicos e clínicos dos distúrbios hipertensivos gestacionais, em especial a pré-eclâmpsia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Ivan Carlos Ferreira Antonello - Integrante / Bartira Ercília Pinheiro da Costa - Integrante / Letícia Germany Paula - Integrante / Giovani Gadonski - Integrante / Domingos Otávio L d'Avila - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2013
+V Congresso Sul Brasileiro de Nefrologia / Encontro Mayo PUCRS
+Descrição: Projeto aprovado no Edital AOE2
+Protocolo: 1729.254.14503.15082012
+Tipo de evento: Eventos científicos, regionais ou estaduais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2012 - Atual
+Aspectos fisiopatológicos e clínicos relacionados ao estado nutricional de pacientes em diálise peritoneal
+Descrição: Avaliação de diversos aspectos da fisiopatologia, clínica e da assistência de  pacientes em diálise peritoneal. Foco inicial em nutrição. Coordenação do estudo compartilhada A.E. Figueiredo e C.E. Poli de Figueiredo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Ana Elizabeth Prado Lima Figueiredo - Integrante / Bartira Ercília Pinheiro da Costa - Integrante / Alessandra Campani Pizzato - Integrante / Rafaela Siviero Caron Lienert - Integrante.
+2012 - Atual
+Análise molecular das proteínas do podócito na nefrite lúpica e sua correlação com o tipo histológico e grau de atividade e cronicidade
+Descrição: Análise molecular das proteínas do podócito na nefrite lúpica e sua correlação com o tipo histológico e grau de atividade e cronicidade. Colaboração com Dr Francisco José Verissimo Veronese - Coordenador do Projeto (HCPA / UFRGS). Na PUCRS colaboração com o Serviço de Nefrologia. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Integrante / Francisco José V Veronesi - Coordenador / Fernando Tettamanzy - Integrante.
+2011 - Atual
+DS: NOVOS MARCADORES DE LESÃO RENAL AGUDA E DOENÇA RENAL CRÔNICA NA GESTAÇÃO.
+Descrição: DOUTORADO SANDUÍCHE da doutoranda Marta Ribeiro Hentschke no KCL com o projeto "NOVOS MARCADORES DE LESÃO RENAL AGUDA E DOENÇA RENAL CRÔNICA NA GESTAÇÃO.". Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador / Bartira Ercília Pinheiro da Costa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - Atual
+PD: NOVOS MARCADORES DE LESÃO RENAL AGUDA E DOENÇA RENAL CRÔNICA NA GESTAÇÃO.
+Descrição: Avaliação de novos marcadores de lesão renal aguda e doença renal crônica na gestação. Projeto desenvolvido em estágio pós-doutoral no KCL em 2011 (CNPq). Estudo em continuação com a partiucipação de aluno de doutorado em estágio sanduíche (CAPES). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2014
+PQ2010: PRÉ-ECLÂMPSIA E HIPERTENSÃO NA GESTAÇÃO: AVALIAÇÃO DE ASPECTOS FISIOPATOLÓGICOS E CLÍNICOS
+Descrição: Projeto aprovado na Chamada PQ 10/2010 do CNPq
+Processo: 305863/2010-0. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2010
+SÍNDROME DE PRÉ-ECLÂMPSIA E DISTÚRBIOS HIPERTENSIVOS GESTACIONAIS: AVALIAÇÃO DE ASPECTOS CLÍNICOS E FISIOPATOLÓGICOS
+Descrição: Projeto aprovado na Chamada Universal2009FaixaA CNPq
+Processo: 482114/2009-6. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - Atual
+Prevenção de eventos cardiovasculares em pacientes com pré-hipertensão e hipertensão arterial
+Descrição: Estudo PREVER 1 e 2. Ensaios clínicos multicêntrico nacionais financiados pela FINEP/Ministério da Saúde.  O PREVER 1 avalia pacientes com pré-hipertensão arterial e o PREVER 2 avalia pacientes com hipertensão arterial. Participam 26 centros com Coordenação no HCPA/UFRGS (Dr Flávio Dani Fuchs). Investigador Principal na PUCRS: C E Poli de Figueiredo. 
+Integrantes: Miguel Gus - Integrante / Leila Beltrami Moreira - Integrante / Guido Aranha Rosito - Integrante / Sandra Costa Fuchs - Integrante / André A Steffens - Integrante / Fernando Nobre - Integrante / Roberto Jorge da Silva Franco - Integrante / Décio Mion - Integrante / Eduardo B Coelho - Integrante / Jose Fernando V. Martin - Integrante / Marco Antonio Mota Gomes - Integrante / Antonio Claudio Lucas da Nóbrega - Integrante / Luiz Bortolotto - Integrante / Andrea Araujo Brandão - Integrante / Paulo Cesar Brandao Veiga Jardim - Integrante / Heitor Moreno Jr - Integrante / Carlos Eduardo Poli de Figueiredo - Integrante / Flavio Danni Fuchs - Coordenador.
+Financiador(es): Financiadora de Estudos e Projetos - Auxílio financeiro... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2006 - 2011
+Mecanismos fisiopatológicos da síndrome de pré-eclâmpsia e distúrbios hipertensivos gestacionais
+Descrição: Projeto CNPq - 305533/2007-0 - PQ II (2008-2011)
+Projeto CNPq - 479217/2006-8 - Edital Universal MCT/Cnpq - 02/2006 (2006-2008)
+Projeto CNPq - 482114/2009-6 - Edital Universal MCT/Cnpq - 14/2009 (2009-2011). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.
+2006 - 2008
+Mecanismos da síndrome de pré-eclâmpsia e distúrbios hipertensivos gestacionais
+Descrição: Projeto aprovado na Chamada Ed 02/2006 Universal CNPq
+Processo: 479217/2006-8. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2007
+Centro de Pesquisa Clínica da PUCRS (PECPUC)
+Descrição: Projeto da Chamada Pública MCT/MS/FINEP Ação Transversal - Pesquisa Clínica - 04/2005. Proposta para o estabelecimento de um Centro de Pesquisa Clínico no Hospital São Lucas. O projeto foi elaborado por Professores e Investigadores da PUCRS e foi concluído. O Centro de Pesquisas Clínica da PUCRS segue em plena atividade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2004 - 2007
+Determinação dos níveis de micropartículas circulantes de células endoteliais e do perfil Th1/Th2 na gestação normal e na síndrome de pré-eclâmpsia
+Descrição: Edital PPSUS MS/CNPq/FAPERGS 008/2004 - Processo 0414705. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2003 - 2004
+American Society of Nephrology 36th Annual Meeting & Scientific Exposition + Intercâmbio Científico
+Descrição: Pedido aprovado na Chamada Fluxo Continuo AVG - 2003 CNPq
+Processo: 452430/2003-8. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2003
+Aspectos da Fisiopatologia da Doença Hipertensiva Gestacional
+Descrição: Projeto aprovado na Chamada Universal2002FaixaB do CNPq
+Processo: 471156/2003-5. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2007
+PQ: Aspectos da fisiopatologia da hipertensão na gestação
+Descrição: Projeto PQ do CNPq 350510/2001-6 e renovado em 10/2004. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1998 - 2002
+Doença Hipertensiva da Gestação
+Descrição: Projeto integrante do convênio SCT 57/98 da PUCRS com a Secretaria de Ciência e Tecnologia do Estado do Rio Grande do Sul (Programa gaúcho de Apoio Tecnológico ao Desenvolvimento do Estado) para a criação e instalação dos laboratórios do Instituto de Pesquisas Biomédicas da PUCRS. Visava desenvolver metodologias para o estudo experimental da hipertensão em gestantes no Laboratório de Nefrologia do IPB.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (10) Doutorado: (3) . Integrantes: Carlos Eduardo Poli de Figueiredo - Coordenador.Financiador(es): Governo do Estado do Rio Grande do Sul - Auxílio
+										financeiro.

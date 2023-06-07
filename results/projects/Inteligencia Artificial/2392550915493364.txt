@@ -1,0 +1,113 @@
+2007 - 2008
+MEQ - Uma Abordagem para Ensino de Matemática Auxiliado por Computador - Estudo de Caso 1: Engenharia Química
+Descrição: O projeto MEQ, constitui-se no desenvolvimento de um ambiente de apoio ao ensino, que dispõe de recursos para a construção das aulas, auxiliando o ensino da disciplina de Cálculo 1 para Engenharia Química. É um projeto multidisciplinar que propõe a integração entre as áreas de Matemática, Informática e Educação, tendo, na sua essência, o propósito de viabilizar uma nova forma de trabalhar conteúdos de Cálculo para alunos do 1º semestre. Além disso, este sistema visa a interação entre professores e alunos, buscando um maior crescimento e aproveitamento do processo ensino-aprendizagem.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Dalcidio Moraes Claudio - Coordenador / Ana Laura Nonnenmacher Junqueira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2008
+CIA - Computação com Intervalos e Aproximação - Bolsa AT
+Descrição: Sumário
+O trabalho tem como objetivo geral o estudo e desenvolvimento
+de versões paralelas de métodos de resolução de sistemas
+lineares com computação verificada, em clusters de
+computadores usando as bibliotecas C-XSC e MPI, em especial
+nos ambientes de cluster da PUCRS e da Universidade de
+Karlsruhe (Alemanha).
+Destacam-se como objetivos específicos:
+- Pesquisar, estudar e aprofundar os conhecimentos do tema
+computação verificada;
+- Pesquisar, estudar e aprofundar os conhecimentos do tema
+algoritmos paralelos intervalares;
+- Pesquisar e avaliar ambientes de alto desempenho (hardware)
+que suportam a aritmética intervalar;
+- Estudar os clusters da PUCRS e o cluster do Centro de
+competência em Alto Desempenho de Baden-Würtenberg, que
+localiza-se parte em Karlsruhe e parte em Stuttgart
+(http://www.hkz-bw.de);
+- Pesquisar, instalar e avaliar ferramentas computacionais
+(software) que possibilitam a construção de algoritmos com
+computação verificada e sua respectiva utilização em ambientes
+de alto desempenho, em especial a biblioteca C-XSC;
+- Identificar e definir abordagens para a construção de algoritmos
+paralelos intervalares;
+- Estudar as possibilidades de paralelização dos métodos
+números para resolução de equações lineares;
+- Implementar, testar e validar os métodos numéricos
+intervalares com suporte a computação verificada nos clusters
+estudados;
+- Identificar aplicações que possam fazer uso dos
+algoritmos/métodos estudados, avaliados, construídos nesta
+pesquisa;
+- Submeter trabalhos a conferências e elaborar textos (artigos,
+relatórios de pesquisa, etc...) para divulgar o uso da computação
+verificada em ambientes de alto desempenho.
+Trabalhos já realizados sobre esta temática:
+- Dissertação de Mestrado de Mariana Kolberg.
+- Tese de Doutorado de Carlos Hölbig e Guilherme Vaccaro.
+- Nove Artigos em Congressos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Dalcidio Moraes Claudio - Coordenador / Monica Lourdes de Souza - Integrante / Edsom Nieves Santana Junior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2007
+MEQ - Uma Abordagem para Ensino de Matemática Auxiliado por Computador - Estudo de Caso 1: Engenharia Química
+Descrição: O projeto MEQ, constitui-se no desenvolvimento de um ambiente de apoio ao ensino, que dispõe de recursos para a construção das aulas, auxiliando o ensino da disciplina de Cálculo 1 para Engenharia Química. É um projeto multidisciplinar que propõe a integração entre as áreas de Matemática, Informática e Educação, tendo, na sua essência, o propósito de viabilizar uma nova forma de trabalhar conteúdos de Cálculo para alunos do 1º semestre. Além disso, este sistema visa a interação entre professores e alunos, buscando um maior crescimento e aproveitamento do processo ensino-aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Dalcidio Moraes Claudio - Coordenador / Ana Laura Nonnenmacher Junqueira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2007
+CIA - Computação com Intervalos e Aproximação - Bolsa IC
+Descrição: Sumário
+O trabalho tem como objetivo geral o estudo e desenvolvimento
+de versões paralelas de métodos de resolução de sistemas
+lineares com computação verificada, em clusters de
+computadores usando as bibliotecas C-XSC e MPI, em especial
+nos ambientes de cluster da PUCRS e da Universidade de
+Karlsruhe (Alemanha).
+Destacam-se como objetivos específicos:
+- Pesquisar, estudar e aprofundar os conhecimentos do tema
+computação verificada;
+- Pesquisar, estudar e aprofundar os conhecimentos do tema
+algoritmos paralelos intervalares;
+- Pesquisar e avaliar ambientes de alto desempenho (hardware)
+que suportam a aritmética intervalar;
+- Estudar os clusters da PUCRS e o cluster do Centro de
+competência em Alto Desempenho de Baden-Würtenberg, que
+localiza-se parte em Karlsruhe e parte em Stuttgart
+(http://www.hkz-bw.de);
+- Pesquisar, instalar e avaliar ferramentas computacionais
+(software) que possibilitam a construção de algoritmos com
+computação verificada e sua respectiva utilização em ambientes
+de alto desempenho, em especial a biblioteca C-XSC;
+- Identificar e definir abordagens para a construção de algoritmos
+paralelos intervalares;
+- Estudar as possibilidades de paralelização dos métodos
+números para resolução de equações lineares;
+- Implementar, testar e validar os métodos numéricos
+intervalares com suporte a computação verificada nos clusters
+estudados;
+- Identificar aplicações que possam fazer uso dos
+algoritmos/métodos estudados, avaliados, construídos nesta
+pesquisa;
+- Submeter trabalhos a conferências e elaborar textos (artigos,
+relatórios de pesquisa, etc...) para divulgar o uso da computação
+verificada em ambientes de alto desempenho.
+Trabalhos já realizados sobre esta temática:
+- Dissertação de Mestrado de Mariana Kolberg.
+- Tese de Doutorado de Carlos Hölbig e Guilherme Vaccaro.
+- Nove Artigos em Congressos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Dalcidio Moraes Claudio - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2006
+MEA - Modelos com Constantes Sujeitas a Erro: Estrutura e Aplicações
+Descrição: Introdução:
+O objeto desta pesquisa é a resolução de equações não lineares com coeficientes reais e ou intervalares. Além disso, e utilizando-se de técnicas de visualização científica pretende-se disponibilizar uma ferramenta que auxilia na busca de raízes, em especial àquelas muito próximas uma das outras.
+Objetivos Gerais:
+- Introduzir a noção de ordem no espaço dinâmico  = ( , +, -, ., , /).
+- Desenvolver métodos intervalares para resolução de equações no espaço .
+- Estender o trabalho desenvolvido em [VAC 2001], no sentido de possibilitar a obtenção de raízes complexas.
+- Dar destaque ao uso das técnicas desenvolvidas na resolução de raízes complexas de equações polinomiais.
+- Implementar um sistema automatizado de visualização de resolução de equações a partir do protótipo já desenvolvido pelo grupo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Dalcidio Moraes Claudio - Coordenador / Ana Laura Nonnenmacher Junqueira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Cientifico e Tecnologico - Bolsa.
+2004 - 2006
+Verified Computing Using C-XSC (PROBAL)
+Descrição: Este projeto tem como objetivo principal o desenvolvimento de ferramentas computacionais (software) com Validação Numérica para ambientes de alto desempenho (cluster de PC´s) utilizando a biblioteca C-XSC, em especial o desenvolvimento de solvers com alta exatidão para a resolução paralela de sistemas de equações lineares. Os métodos desenvolvidos nesta pesquisa serão testados do ponto de vista de exatidão e de desempenho, para se poder ter uma idéia clara de sua qualidade numérica. 
+Juntamente com esse desenvolvimento, a biblioteca C-XSC será otimizada e alterada, tornando-a mais amigável ao usuário, em especial na elaboração de programas com uma notação mais próxima à notação matemática usual, similar ao que acontece com a linguagem Pascal-XSC. Além disso, esse projeto visa a transferência de tecnologia e conhecimento sobre computação verificada e matemática intervalar da Alemanha para o Brasil e o intercâmbio de tecnologia e conhecimento sobre Computação de Alto Desempenho do Brasil para a Alemanha. Outro objetivo do projeto que está sendo proposto é o desenvolvimento, em conjunto com pesquisadores alemães, de artigos e relatórios científicos referentes aos temas abordados nesta pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Dalcidio Moraes Claudio - Integrante / Tiaraju Asmuz Diverio - Coordenador / Liara Aparecida dos Santos Leal - Integrante / Mariana Luderitz Kolberg - Integrante / Gerd Bohlender - Integrante / Rudi Klatte - Integrante / Rúbia Medianeira Denardin - Integrante / André Martinotto - Integrante / Delcio Piccinini - Integrante / Diego Contessa - Integrante / Paulo Sérgio Morandi Júnior - Integrante / Bernardo Frederes Krämer Alcalde - Integrante / Marcelo Claro Zembrzuski - Integrante.
+2003 - 2007
+CIA - Computação com Intervalos e Aproximação
+Descrição: Principais objetivos do projeto original:
+Desenvolvimento do projeto de visualização da avaliação intervalar baseado na apresentação gráfica de propriedades dos intervalos;
+Elaboração de uma teoria de Álgebra Linear Intervalar visando trabalhar com matrizes e vetores intervalares através de uma aritmética intervalar estendida;
+Formalização de Algoritmos Aproximativos através da Teoria dos Domínios.
+Principais etapas executadas no período visando o alcance dos objetivos:
+Determinação de propriedades algébricas do espaço dinâmico bem como relações entre funções e suas diferentes avaliações intervalares;
+Pesquisas sobre Métodos Intervalares de Ponto Fixo e funções multivaloradas;
+Estudo/Pesquisa das relações entre visualização e resolução de Métodos Intervalares;
+Participação em congresso e realização de visitas científicas em Portugal e Alemanha.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Dalcidio Moraes Claudio - Coordenador / Tiaraju Asmuz Diverio - Integrante / Guilherme Luis Roëhe Vaccaro - Integrante / Liara Aparecida dos Santos Leal - Integrante / Mariana Luderitz Kolberg - Integrante / Monica Lourdes de Souza - Integrante / Aline Brum Loreto - Integrante / Augusto César de Brito Geroldo - Integrante / Cesar Rolando Nunura Nunura - Integrante / Daniel Signori Roso - Integrante / Edsom Nieves Santana Junior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 23 / Número de orientações: 4

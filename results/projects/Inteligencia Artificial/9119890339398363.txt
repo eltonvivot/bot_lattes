@@ -1,0 +1,293 @@
+2022 - Atual
+Exploração do TV White Spaces (TVWS) para Acesso à Internet no Brasil: desafios, oportunidades e demonstração de viabilidade.
+Descrição: Este projeto visa analisar a viabilidade técnica e operacional do uso da tecnologia TVWS para a ampliação da inclusão digital no Brasil por meio de prova de conceito operacional em campo em duas localidades de pouca densidade populacional no Brasil. O projeto irá explorar a possibilidade de provedores de acesso à Internet empregarem a tecnologia TVWS no Brasil, levantando dados econômicos, técnicos e operacionais e analisando a situação regulatória para a exploração comercial desta tecnologia. A demonstração da prova de conceito irá empregar as mais recentes tecnologias para a construção de uma rede de rádios cognitivos operando na faixa de UHF, com capacidade de sensoriamento espectral e alocação dinâmica e segmentada do espectro de frequências. A tecnologia empregada nesta demonstração visa criar alternativas para o acesso banda larga em áreas remotas, pequenas cidades e com dificuldade de cobertura de redes de acesso convencionais, bem como ofertar serviços de IoT em fazendas inteligentes, cobertura rodoviária e explorar o TVWS para Backhauling no Brasil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Luciano Leonel Mendes - Coordenador / Francisco Rodrigo Porto Cavalcanti - Integrante / Carlos Silva - Integrante.Financiador(es): Núcleo de Informação e Coordenação do Ponto BR - Cooperação.
+2021 - Atual
+Projeto de Pesquisa e Desenvolvimento Tecnológico em Sistemas de Comunicações Móveis de 6 Geração - Projeto Brasil 6G
+Projeto certificado pelo(a) coordenador(a) Jose Marcos Camara Brito em 03/03/2021.
+Descrição: O objetivo deste projeto consiste em realizar contribuições científicas e tecnológicas na área de Tecnologia de Informação e Comunicação (TIC) visando desenvolver soluções avançadas para redes de comunicações móveis de 6ª geração para o setor de telecomunicações no Brasil. Essas contribuições se darão através de propostas de soluções técnicas que possam vir a ser incorporadas no futuro padrão destas redes, e da capacitação de recursos humanos nesta área. 
+O Inatel, com o apoio do MCTI e da RNP, iniciou o trabalho de desenvolvimento de um plano de ações (framework) para o desenvolvimento do 6G no Brasil, dando origem ao projeto Brasil 6G, cujo principal objetivo consiste em definir quais são os passos necessários para que a futura geração de redes móveis seja capaz de atender as aplicações e casos de uso importantes para o desenvolvimento econômico e social do país. Esse projeto também visa garantir o domínio de uma tecnologia crucial para a segurança nacional. Os fundamentos das redes 6G extrapolam os conceitos de telecomunicações e abrangem inteligência artificial, posicionamento espacial, sensoriamento, processamento de imagem, mapas em alta definição e materiais inteligentes. Esse projeto de pesquisa irá explorar essas diferentes frentes, propondo soluções tecnológicas e aplicações que sejam aderentes com o cenário nacional e formando pessoal qualificado para implementar as redes 6G no Brasil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Luciano Leonel Mendes - Integrante / Gustavo Correa Lima - Integrante / José MArcos Câmara Brito - Coordenador / Dayan Adionel Guimarães - Integrante / Richard Demo Souza - Integrante / Rausley Adriano Amaral - Integrante / Paulo Cardieri - Integrante / Francisco Rodrigo Porto Cavalcanti - Integrante / josé ferreira rezende - Integrante / Kleber Vieira Cardoso - Integrante / Arismar Cerqueira Sodré Junior - Integrante / Aldebaro Klautau - Integrante / Flávio de Oliveira Silva - Integrante / Iara Machado - Integrante.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Cooperação / Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro.Número de produções C, T & A: 8 / Número de orientações: 2
+2020 - Atual
+Inteligência Artificial Aplicada à Estimação do Canal e Otimização do Desempenho de Sistemas 5G Fiber/Wireless
+Descrição: O Projeto de Parceria entre o Inatel e a Universidade Pernambuco (UPE) ter por objetivo a aplicação de Inteligência Artificial (IA) para a estimação do canal e a otimização do desempenho de sistemas 5G Fiber/Wireless (FiWi). Algoritmos de aprendizado de máquina (Machine Learning) e algoritmos evolutivos serão explorados para estimar o canal híbrido, composto por enlaces ópticos baseados na tecnologia rádio sobre fibra (RoF) e enlaces sem fio, e melhorar o seu desempenho em função da taxa de erro de bits (BER).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (3) . Integrantes: Luciano Leonel Mendes - Coordenador / Ramon Maia Borges - Integrante / Luiz Augusto Melo Pereira - Integrante / Carmelo J. A. Bastos-Filho - Integrante / Pedro Fialo - Integrante / Everaldo Faustino Jr - Integrante / Celso Henrique de Souza Lopes - Integrante / Pedro José Buarque Lins dos Santos - Integrante / Felipe Augusto Pereira de Figueredo - Integrante / Marcelo Cysneiros - Integrante / Arismar Cerqueira Sodré Junior - Integrante.
+2020 - Atual
+Programa MAI-DAI Inatel
+Descrição: O projeto tem como objetivo fortalecer a interação entre academia e a indústria nacional por meio de um projeto Tríplice entre Hélice entre o CNPq, Inatel e as empresas parceiras CPqD, LACE e Atech,. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Luciano Leonel Mendes - Integrante / Felipe Augusto Pereira de Figueredo - Integrante / Mariana Baracat de Mello - Integrante / ARISMAR CERQUEIRA, S. - Coordenador.Número de orientações: 1
+2018 - 2020
+Modelo de Referência para a Rede Operativa de Dados da CEMIG
+Descrição: Este P&D tem como objetivo, pesquisar e testar soluções de redes estatísticas para o atendimento dos serviços de comunicação em missão crítica, sendo estes aplicados em concessionárias de energia, especificamente à Rede Operativa de Dados (ROD) da CEMIG no cenário de teleproteção de linhas de transmissão de alta tensão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3) . Integrantes: Luciano Leonel Mendes - Integrante / Joel José Puga Coelho Rodrigues - Integrante / ALBERTI, ANTONIO M. - Integrante / ARISMAR CERQUEIRA, S. - Integrante / Leonardo Henrique de Melo Leite - Coordenador / Eugênio Lopes Daher - Integrante / Astrid Maria Carneiro Heinish - Integrante.Financiador(es): CEMIG Distribuidora - Cooperação.
+2017 - 2021
+Internet das Coisas (IoT)
+Descrição: A Internet das Coisas (Internet of Things - IoT) é um paradigma onde
+os dispositivos estão conectados à Internet e podem interagir uns com
+os outros, promovendo um cenário de comunicação máquina-a-
+máquina. Os serviços oferecidos pelo IoT podem beneficiar uma
+infinidade de áreas de aplicação. Entre eles, a agricultura de precisão,
+o monitoramento ambiental, infraestruturas para cidades inteligentes,
+comunicações veiculares, serviços de saúde e do setor público são
+domínios muito promissores para aplicações IoT. No entanto, o IoT
+apresenta muitos desafios para ultrapassar até fornecer serviços de
+comunicação inteligentes e integrados, em grande escala, a qualquer
+hora e em qualquer lugar. As tecnologias utilizadas em uma solução
+IoT apresentam características específicas quanto às tecnologias
+utilizadas, suas limitações, aplicações e considerações de desempenho
+tais como a vazão, atraso, distância e número máximo de terminais
+suportados pela rede. Um dos desafios do IoT está relacionado à
+heterogeneidade dos dispositivos e tecnologias de rede, onde cada
+objeto possui diferentes capacidades de processamento e tecnologias
+de comunicação. Os sistemas de gerenciamento de redes IoT precisam
+de escalabilidade e comunicação padronizada para alcançar o
+gerenciamento de rede com segurança e precisão em ambientes reais.
+Soluções de middleware se fazem necessárias para garantir a
+interoperabilidade em uma rede tão heterogênea e facilitar a interação
+com o usuário. Além disso, existe um cenário amplo de estudos a
+serem realizados no contexto de soluções integradas de aplicações
+IoT, com especial enfoque nas verticais priorizadas no plano
+estratégico de ação do Brasil em Internet das Coisas. De acordo com o
+Relatório de Seleção de Horizontais e Verticais, pretende-se focar os
+estudos em aplicações inteligentes para ambientes urbanos, rurais e
+nos cuidados de saúde. Nesse sentido, o modelamento de soluções
+integradas de telecomunicações em verticais estratégicas do IoT para o
+Brasil funcionará como ferramenta para que estes aspetos possam ser
+aprofundados em questões como a avaliação de desempenho de
+protocolos e arquiteturas de comunicação, o gerenciamento de redes, e
+a construção de protótipos reais e laboratoriais para avaliação,
+demonstração e validação das soluções propostas. Em particular, este
+projeto envolve soluções para áreas remotas considerando soluções
+baseadas em rede 5G.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (19) . Integrantes: Luciano Leonel Mendes - Integrante / José MArcos Câmara Brito - Coordenador / Dayan Adionel Guimarães - Integrante / Antônio Marcos Alberti - Integrante / Joel José Puga Coelho Rodrigues - Integrante.
+2017 - 2020
+5G-RANGE - Remote area Access Network for 5th GEneration
+Descrição: The limited availability of Internet Broadband access in remote areas [1] contrasts with the pervasive ultra-high-speed Internet access available in all major urban areas, creating a digital divide that affects Brazil and Europe alike. Even though there is demand for Internet Broadband service in these regions, current solutions are not economically viable. Low population density, geographical barriers and large distances constitute challenges that are hard to overcome with current technologies in a cost-efficient manner. Specifically, one major factor that hinders conventional 4G network to cover remote areas is the usage of licensed bands. The high price of the spectrum and the low number of potential subscribers within the 4G cell coverage (typically 10 km radius) reduces the economic feasibility of network deployment in remote areas.
+The goal of the 5G-RANGE project is to design, develop, implement and validate the mechanisms to enable the 5G network to provide an economically effective solution for Internet access for remote areas. In the 5G-RANGE project, we believe it is possible to tailor and create a new 5G technology that is flexible enough to operate both in urban and rural areas [2]. Such technology will address important use cases including applications for agribusiness, road service and remote Internet access.
+As we mentioned earlier, the combined elements of high cost of spectrum and low population density are the main barriers for widespread deployment of Internet broadband access in remote areas. In order to reduce the deployment costs, in 5G-RANGE we propose to leverage on the opportunistic usage of TVWS (TV White Spaces) in the VHF (Very High Frequency) and UHF (Ultra High Frequency) bands. A license-free and opportunistic approach for the TVWS exploitation significantly reduces the operation cost of the network. The VHF and UHF bands also exhibit very good signal propagation properties, allowing for wide area coverage. 
+In order to enable the opportunistic use of these bands, there are a number of technological challenges that the 5G-RANGE project must address. First, it is necessary to design a new cognitive layer that enables access without compromising incumbent access [3]. Second, since the communication medium will be shared with TV and other incumbent services, a compliant cognitive Medium Access Control (MAC) layer will be required to properly allocate the resources for the users using a dynamic spectrum allocation approach. Third, the PHY (PHYsical) layer must rely on a waveform that reduces the OOBE (Out-Of-Band Emission), allowing for spectrum agility, fragmented spectrum allocation and low interference in primary users. At the same time, the PHY layer must provide robustness against severe multipath channel and high Doppler shift, since highway coverage and drones application in agribusiness are important cases for remote area networks. Fourth, the network layer must also address challenging requirements, such as terminal mobility, traffic provisioning, interoperation with public networks and security. Hence, we will revisit the full protocol stack must be designed to properly address the requirements for this new 5G scenario.
+In order to showcase the 5G-RANGE architecture for broadband Internet access in remote areas, we will integrate all designed layers into a PoC (Proof-of-Concept) testbed. This testbed will allow for field performance evaluation and real case demonstrations. The PoC will be based on a flexible and reconfigurable platform, allowing for a wide set of tests in different situations. The cognitive MAC layer, combined with a flexible network and PHY layers will increase the number of applications of the proposed network. The concept of Network Slicing will be employed to combine this new application scenario with the current 5G use cases.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luciano Leonel Mendes - Integrante / Gerhard Fettweis - Integrante / Javier Lorca - Integrante / Heikki Karvonen - Integrante / Priscila Solís - Coordenador / Sergio T. Kofuji - Integrante / Andre Mendes Cavalcante - Integrante / Maria Valéria Marquezini - Integrante / Marcelo Braun - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.Número de produções C, T & A: 7
+2017 - 2020
+LTE-in-a-Box
+Descrição: O projeto visou o desenvolvimento de um rádio ponto-multiponto LTE com o contexto de LTE-in-a-Box, cujo EPC (Envolved Packet Core) é embarcado ao hardware da e-NodeB. Este projeto foi desenvolvido, no âmbito do Centro de Referência em Radiocomunicações, sob coordenação do Prof. José Marcos C. Brito (Inatel), com a participação de professores, discentes e egressos do programa (veja item 3.3. deste formulário de avaliação para detalhes). A solução foi transferida para a empresa Furukawa, que hoje o produz e oferta para o mercado para prover soluções de redes multisserviços voltadas para o agronegócio, empresas de energia e mineradoras.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luciano Leonel Mendes - Integrante / RODRIGUES, HENRY - Integrante / BRITO, JOSE MARCOS C. - Coordenador.
+2017 - 2019
+Aplicabilidade das redes 5G como solução para IoT
+Descrição: O objetivo deste tema de pesquisa consiste em avaliar o uso das redes 5G como solução de
+infraestrutura para Internet das Coisas (Internet of Things - IoT) aplicadas a cidades inteligentes,
+processos industriais e automação de processos agropecuários. Deve-se dar ênfase a busca de
+soluções para viabilizar novas aplicações em áreas rurais e em setores agropecuários, que formam um cenário de grande relevância nacional e que não está sendo suficientemente coberto por estudos em centros de pesquisas internacionais. As especificidades das cidades brasileiras, em termos de densidade, trânsito, qualidade atmosférica, etc., também podem resultar em requisitos para cidades digitais diferentes daqueles apresentados em cidades Europeias ou norte-americanas. Logo, esse tema de pesquisa deve considerar o levantamento dos requisitos específicos do Brasil e análise de adequação dos sistemas 5G propostos para o cenário nacional. Entende-se, ainda, que a indústria nacional não apresenta requisitos específicos no que tange o processo fabril, mas pode-se beneficiar de novas tecnologias para a gestão e administração e, portanto, um levantamento dos requisitos para este caso deve ser também realizado dentro deste tema de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Luciano Leonel Mendes - Coordenador / Maria Marquezini - Integrante / Iracema Bonomini - Integrante.Financiador(es): Associação Brasileira de Pesquisa e Inovação Industrial - Cooperação.Número de produções C, T & A: 1
+2017 - 2019
+Análise de Desempenho de Sistemas de Transmissão para Redes 5G Visando Atender os Serviços Essenciais para o Brasil
+Descrição: O objetivo do projeto consistiu em avaliar sistemas de transmissão para redes 5G, de modo a identificar sistemas capazes de atender os requisitos de desempenho de serviços definidos, incluindo a utilização de redes de comunicação por satélite como solução de backhaul para as redes 5G.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Luciano Leonel Mendes - Coordenador / Thiago Dornas - Integrante.Financiador(es): Sindicato Nacional das Empresas de Telecomunicações por Satálite - Cooperação.
+2017 - Atual
+Redes de Comunicações Móveis de Próxima Geração
+Projeto certificado pelo(a) coordenador(a) Jose Marcos Camara Brito em 30/05/2018.
+Descrição: O processo de evolução para as redes de comunicações móveis de 5 a geração está
+considerando, pela primeira vez, outros cenários além do aumento de taxa de
+transmissão e da capacidade de escoamento de tráfego. São quatro os cenários
+considerados para a 5G:
+a) Enhanced Mobile Communications (EMC) - cenário no qual uma alta taxa
+de transmissão e alta capacidade de escoamento de tráfego são os
+principais requisitos.
+b) Massive Machine Type Communications (MMTC) - cenário em que se
+enquadra a Internet das Coisas (IoT ? Internet of Things), no qual uma
+alta densidade de dispositivos e alta eficiência energética são questões
+chaves.
+c) Tactile Internet - cenário em que latência muito baixa e altíssima
+confiabilidade são os requisitos principais.
+d) Acesso a áreas remotas - cenário no qual um grande raio de cobertura é o
+principal requisito.
+Como pode-se observar, os cenários acima definidos resultam em requisitos de
+desempenho algumas vezes contraditórios, estabelecendo um grande desafio
+para a definição de tecnologias que permitam que esta geração de redes possa
+ser implementada em sua plenitude, atendendo todos os cenários e seus
+respectivos requisitos.
+Alguns conceitos e tecnologias que estão sendo considerados como tendências
+para estas redes são abaixo listados, destacando-se que nem toda tendência se
+aplica a todos os quatro cenários acima definidos:
+ Transmissão em ondas milimétricas;
+ MIMO Massivo e MIMO 3D;
+ Redes ultradensas;
+ Redes heterôgeneas;
+ Coordinated Multipoint (CoMP);
+ Comunicação Device-to-Device (D2D);
+ Novas formas de onda;
+ Técnicas de múltiplo acesso não-ortogonal;
+ Rádio cognitivo;
+ Multi-RAT (Radio Access Technologies);
+ Comunicação full-duplex;
+ SDN (Software Defined Networks) e NFV (Network Function
+Virtualization);
+ Cloud RAN (Radio Access Network);
+ Rádio sobre fibra;
+ Network Slicing.
+O objetivo deste projeto é investigar técnicas e conceitos relacionados à
+arquitetura das redes 5G, como redes ultradensas, redes heterogêneas, Multi-
+RAT, SDN, NFV, Cloud RAN e Network Slicing. Além disso, este projeto tem por
+objetivo analisar o impacto do uso das tecnologias e conceitos acima definidos
+em outros aspectos fundamentais para a implementação de uma rede de
+comunicação móvel, tais como: gerenciamento e alocação de recursos;
+protocolos de sinalização e outros protocolos; agregação de portadoras e
+alocação de espectro; eficiência energética; controle de interferência; qualidade
+de serviço.
+Tem-se também o objetivo de desenvolver modelos de análise de desempenho
+que integrem a influência das diversas técnicas e conceitos, permitindo
+estabelecer os aspectos mais relevantes para as redes bem como estratégias de
+otimização dos recursos visando atingir métricas de desempenho estabelecidas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (9) . Integrantes: Luciano Leonel Mendes - Integrante / José MArcos Câmara Brito - Coordenador / Dayan Adionel Guimarães - Integrante / Rausley Adriano Amaral - Integrante / Antônio Marcos Alberti - Integrante / CERQUEIRA, ARISMAR - Integrante / Joel José Puga Coelho Rodrigues - Integrante.
+2015 - Atual
+Centro de Referência em Radiocomunicações
+Projeto certificado pelo(a) coordenador(a) Jose Marcos Camara Brito em 17/05/2018.
+Descrição: Na Era do Conhecimento, a capacidade de gerar e compartilhar informação é fundamental
+para que um país obtenha a vantagem competitiva que lhe permitirá trilhar um caminho de
+desenvolvimento econômico e social sólido e sustentável. Neste contexto, o domínio das
+tecnologias de telecomunicações, em particular aquelas relacionadas às comunicações sem fio
+e às redes de alta velocidade, é de importância estratégica para qualquer país.
+A capacidade de dominar as tecnologias existentes, adaptando-as às especificidades nacionais,
+e gerar novas soluções que coloquem o país em posição de destaque no setor de
+telecomunicações são desafios contínuos que precisam ser vencidos para manter a nação em
+sua trajetória de desenvolvimento, habilitando-a para participar em posição de destaque no
+novo cenário competitivo mundial da Era do Conhecimento.
+O Centro de Referência em Radiocomunicações, objeto desta proposta, tem por objetivo
+estabelecer mecanismos que permitam ao país ocupar um posto importante no segmento das
+telecomunicações, pesquisando, avaliando e desenvolvendo tecnologias e soluções que
+atendam às demandas da sociedade brasileira e às especificidades (demográficas, geográficas
+e econômicas) do país.
+Os resultados obtidos no Centro de Referência em Radiocomunicações serão transferidos para
+as empresas e indústrias sediadas no país, de modo que seja possível alavancar o grau de
+inovação nos serviços e produtos desenvolvidos em território nacional.
+A ação de consolidação do domínio das novas tecnologias voltadas para radiocomunicação e a
+transferência de conhecimentos para o setor produtivo será viabilizada através das seguintes
+atividades do Centro de Referência em Radiocomunicações:
+ Pesquisa científica aplicada nas áreas voltadas para radiocomunicações.
+ Inovação e desenvolvimento tecnológicos voltados para serviços e produtos.
+ Capacitação de recursos humanos nas mais recentes tecnologias de
+radiocomunicações.
+ Certificação de produtos e processos voltados para radiocomunicações.
+O Centro de Referência em Radiocomunicações irá atuar em diversas frentes para atender as
+necessidades da sociedade brasileira. Em um primeiro momento, as principais ações estarão
+concentradas em:
+ Soluções de radiocomunicação ponto-a-ponto de alta velocidade para atender as
+demandas de regiões de baixa densidade populacional.
+ Sistemas de comunicação voltados para os novos satélites em operação no país.
+ Sistemas de comunicação banda-larga sem fio.
+ Evolução das redes de comunicações móveis para atender aos futuros cenários de
+telecomunicações. 
+3
+A atuação nestas diferentes frentes de trabalho resultará em colaborações sólidas tanto na
+esfera científica como na esfera tecnológica, permitindo que as inovações desenvolvidas na
+academia possam ser efetivamente transferidas para o mercado. Os benefícios para a
+população resultantes desta sinergia são diversos, merecendo destaque os seguintes:
+ Fortalecimento da indústria nacional do setor.
+ Geração de demandas por recursos humanos capacitados e profissionais
+capacitados para atender a essas demandas, em um circulo virtuoso de emprego e
+capacitação.
+ Desenvolvimento de tecnologia nacional e exportação de soluções tecnológicas
+relevantes, com contribuição para a balança comercial.
+ Desenvolvimento de tecnologias para atender as demandas de regiões que
+atualmente não são atendidas pelas tecnologias convencionais.
+ Garantia de qualidade no funcionamento de serviços e dispositivos voltados para
+radiocomunicações.
+ Utilização mais eficiente dos recursos de radiocomunicações, reduzindo os custos
+de serviços.
+Além dos benefícios listados, o Centro de Referência em Radiocomunicações influenciará
+positivamente na criação de novas empresas de tecnologia, uma vez que as soluções
+tecnológicas podem ser levadas ao mercado através de spin-offs.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luciano Leonel Mendes - Integrante / Carlos Augusto Rocha - Integrante / José MArcos Câmara Brito - Coordenador / Dayan Adionel Guimarães - Integrante / Rausley Adriano Amaral - Integrante / Antônio Marcos Alberti - Integrante / Rômulo Motta Volpato - Integrante / Guilherme Pedro Aquino - Integrante / RODRIGUES, HENRY DOUGLAS - Integrante / CERQUEIRA, ARISMAR - Integrante / Felipe Beltrán Mejía - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 19
+2009 - 2020
+Redes e Rádios Cognitivos
+Descrição: A demanda por novos serviços de telecomunicações tem sido o principal impulsionador
+das pesquisas sobre novas tecnologias, como se tem percebido, por exemplo, pelos
+recentes avanços envolvendo a quinta geração (5G) dos sistemas de comunicações sem
+fio e a Internet das coisas (Internet of things, IoT). Entretanto, para viabilizar novos
+serviços de comunicação sem fio há que se transpor a barreira da escassez de faixas
+espectrais, pois seria necessário um elevado número delas de forma a acomodar o
+também elevado número de transmissores e receptores previsto para as redes 5G. Isto se
+deve ao fato de que, na atual política de alocação fixa de banda, o direito de ocupação é
+dado apenas ao usuário contratante, também chamado usuário licenciado ou usuário
+primário.
+Acredita-se que a política de alocação fixa de espectro não será adequada à expansão
+dos sistemas de serviços de comunicações sem fio. Uma nova e mais adequada política
+de alocação dinâmica deve ser implantada, a qual explora o fato de que o espectro de
+radiofrequências na verdade é consideravelmente subtilizado, dado que em boa parte do
+tempo e em certas regiões há faixas espectrais alocadas que estão ociosas.
+Na política de alocação dinâmica admite-se que um usuário não licenciado, também
+denominado de usuário secundário, possa utilizar uma faixa já licenciada à rede
+primária. As transmissões dos usuários secundários podem ser realizadas tanto de forma
+simultânea às transmissões dos usuários primários, desde que não causem interferências
+prejudiciais nesses últimos, quanto de forma não sobreposta, aproveitando
+oportunidades de transmissão em faixas licenciadas que estejam ociosas.
+Neste contexto surgiu o conceito de rádio cognitivo, dispositivo transceptor inteligente
+que, por meio de sensoriamento espectral, identifica bandas de frequências ociosas para
+uso oportunista. Um rádio cognitivo possui várias funções de cognição que o permite se
+adaptar ao ambiente e à rede nos quais se insere, tais como sensoriamento e análise
+espectral, gerenciamento e mobilidade espectral e alocação e compartilhamento
+espectral. O sensoriamento espectral é um dos principais viabilizadores da operação
+cognitiva. Prevê-se que as redes e rádios cognitivos integrarão de alguma forma as
+futuras redes 5G.
+O objetivo desta linha de pesquisa consiste na realização de pesquisa científica com
+vistas à proposição de novas modelagens, soluções ou de melhorias em soluções
+existentes no que se refere aos sistemas e redes de rádio cognitivos nos modernos
+sistemas de telecomunicações. Ao longo do período de cobertura do presente trabalho
+serão realizadas pesquisas sobre sistemas de rádio cognitivo (por exemplo:
+sensoriamento espectral cooperativo e não cooperativo, regras de decisão e regras de
+fusão de informações de sensoriamento), e sobre otimização e processamento digital de
+sinais (por exemplo: melhorias de desempenho na interface aérea de sistemas de
+radiocomunicação principalmente com foco no sensoriamento espectral). Objetiva-se
+também considerar os aspectos de modelos matemáticos de análise de desempenho,
+qualidade de serviço e alocação de recursos, além de buscar a integração dos diversos
+aspectos relacionados às redes de rádios cognitivos e redes cognitivas, estabelecendo
+sinergia de competência entre os diversos docentes, alunos e pesquisadores participantes
+do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (10) . Integrantes: Luciano Leonel Mendes - Integrante / José MArcos Câmara Brito - Integrante / Dayan Adionel Guimarães - Integrante / MARCOS ALBERTI, ANTONIO - Integrante / DE SOUZA, RAUSLEY ADRIANO AMARAL - Coordenador / Joel José Puga Coelho Rodrigues - Integrante.
+2009 - 2020
+Contribuições para a Camada Física e de Enlaces em Sistemas de Telecomunicações
+Descrição: A quinta geração das redes de comunicações móveis (5G) está sendo concebida para
+promover uma revolução nas comunicações. Diversos novos serviços deverão ser
+suportados pelas redes 5G, o que significa que esta nova rede deve ser capaz de
+atender um vasto conjunto de requisitos, sendo muitos deles conflitantes entre si.
+Para atender todas essas demandas, é fundamental que a camada física das redes
+5G seja flexível e se adeque às diferentes condições de operação.
+O objetivo deste projeto é apresentar contribuições científicas para o
+desenvolvimento da camada física e de enlace das futuras redes móveis,
+colaborando com a inovação em diferentes frentes de pesquisa, dentre as quais
+merecem destaque as seguintes:
+a.Algoritmos para camada de enlace: neste frente de pesquisa, as principais
+técnicas de camada de enlace, como controle de erro, múltiplo acesso
+ortogonal e não ortogonal, multiplexação FDD e TDD, alocação dinâmica de
+recursos e acesso fragmentado ao espectro, serão estudadas visando tanto a
+análise de desempenho quanto a contribuição com melhorias desses
+algoritmos.
+b.Novas formas de onda: os requisitos para atender os diferentes modos de
+operação das redes 5G demandam que as formas de onda empregadas na
+camada física tenham características que nem sempre podem ser atendidas
+com as abordagens clássicas. Alta eficiência espectral, robustez frente a
+canais seletivos em frequência com longo perfil de atraso, baixa emissão fora
+da faixa e economia de energia são alguns dos desafios que devem ser
+considerados na concepção de formas de onda para redes 5G.
+c.Caracterização de canais: estimar os modelos estatísticos do canal é
+fundamental para estimar o desempenho dos mais diversos esquemas de
+modulação e codificação de canal empregados em redes de comunicação.
+Com o advento das comunicações milimétricas em redes 5G, a modelagem
+de canais se tornou ainda mais relevante, dada a escassez de modelos para
+frequências acima de 20 GHz. No entanto, vale ressaltar que este projeto não
+se limita aos casos de ondas milimétricas, podendo apresentar resultados
+relevantes em outras faixas de frequência.
+d.MIMO massivo: o aumento da atenuação esperado em redes 5G
+operando em ondas milimétricas deve ser compensado com o uso eficiente
+de arranjos de antenas compostos por um elevado número de elementos.
+Estes arranjos, quando devidamente excitados, são capazes de aumentar a
+diretividade para a posição do terminal móvel, minimizando as perdas por
+propagação em espaço livre. Esse procedimento também pode ser utilizado
+para aumentar a eficiência espectral, através da multiplexação espacial, e
+redução de interferências, quando combinado com esquemas CoMP
+(Cooperative MultiPoint).
+As atividades de pesquisa dentro do escopo deste projeto visam explorar a
+complementariedade das competências dos pesquisadores envolvidos, aumentando
+a sinergia dos trabalhos em torno de um tema central, que são as redes 5G. Espera-
+se que essa forte interação multidisciplinar favoreça o desenvolvimento de soluções
+inovadoras e de interesse para a comunidade científica na área de comunicações
+móveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (7) . Integrantes: Luciano Leonel Mendes - Coordenador / José MArcos Câmara Brito - Integrante / Dayan Adionel Guimarães - Integrante / Rausley Adriano Amaral - Integrante / Samuel Baraldi Mafra - Integrante.
+2009 - 2010
+Implantação de Design House para apoio a inovação do APL de eletroeletrônicos.
+Descrição: O presente projeto tem por objetivo obter financiamento para a implementação de uma Design House na cadeia produtiva do APL de eletroeletrônica em Santa Rita do Sapucaí.
+O ICC-DH trabalhará com o desenvolvimento de novos produtos e sistemas na área microeletrônica, oferecendo as empresas nacionais e internacionais soluções inovadoras que as possibilite operar com competitividade em diferentes mercados que fazem uso de circuitos eletrônicos com inovações em hardware, firmware e software. O Inatel visa oferecer ao mercado uma completa estrutura de P&D para as empresas de TIC. Com o ICC-DH o Inatel oferecerá soluções completas de desenvolvimento de equipamentos e sistemas eletrônicos, levando em consideração a melhor solução tecnológica e financeira de cada tecnologia para cada tipo de produto, observando dados e aspectos mercadológicos. O ICC-DH se propõe a trabalhar com tecnologia analógica e digital empregando as concepções FPGA e Célula Padrão que já são consagradas no mercado. Também terá a responsabilidade de disseminar a cultura tecnológica em microeletrônica no intuito de que os empresários e desenvolvedores levem em consideração esta tecnologia como diferencial de mercado unindo redução de custo e avanço tecnológicos para equipamentos eletrônicos produzidos em média e alta escala.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luciano Leonel Mendes - Coordenador / Carlos Nazareth Motta Marins - Integrante / Orlando dos Reis Pereira - Integrante / Danielly Silva - Integrante / Rômulo Motta Volpato - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2005 - 2006
+MISBTVD - Modulação Inovadora do Sistema Brasileiro de TV Digital.
+Descrição: O objetivo deste projeto é conceber e implementar um subsistema de modulação inovador para o Sistema Brasileiro de T Digital, que tenha desempenho superior aos atuais padrões de transmissão de TV Digital. A base de desenvolvimento do MI-SBTVD foi o padrão ISDB-T (padrão japonês), onde as grandes inovações consistem na substituição do código convolucional (código interno) por um código LDPC e pela inclusão de uma codificação espaço-temporal, que permite empregar a diversidade de transmissão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (8)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Luciano Leonel Mendes - Integrante / Sandro Adriano Fasolo - Integrante / Geraldo Gil Ramundo Gomes - Integrante / José Santo Guiscrafé Panaro - Integrante / Bruno A Pereira - Integrante / Adonias Costa da Silveira - Coordenador / Estevan Marcelo Lopes - Integrante / Gustavo Correa Lima - Integrante / José MArcos Câmara Brito - Integrante / Dalton Soares Arantes - Integrante / Fabbryccio Cardoso - Integrante / Dalton Arantes Soares - Integrante / Richard Demo Souza - Integrante / Dayan Adionel guimaraes - Integrante / Carlos Aurélio F da Rocha - Integrante / Marcelo Carneiro de Paiva - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 14

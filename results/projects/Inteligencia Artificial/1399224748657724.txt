@@ -1,0 +1,19 @@
+2021 - 2022
+ESTUDO DO COMPORTAMENTO DA TEMPERATURA MÁXIMA E MÍNIMA DO AR, NO MUNICÍPIO DE MACAPÁ-AP, POR MEIO DE ANÁLISE HARMÔNICA
+Descrição: Esse estudo tem como objetivo avaliar o comportamento da temperatura do ar de Macapá-AP,
+por meio de análise harmônica. A série corresponde a um período de 52 anos (1968 a 2019), a
+serem obtidos da estação meteorológica do Instituto Nacional de Meteorologia. Para atingir o
+objetivo serão feitos testes de homogeneidade de variâncias e de normalidade, e caso necessário
+será efetuada a transformação dos dados para normalizar a distribuição. Outra etapa é o estudo
+de tendência, pelos métodos de regressão, média móvel e teste de Mann-Kendall, caso
+necessário, realizar-se-á a remoção da tendência. Para finalizar, será efetuada a determinação
+da análise harmônica. Os resultados obtidos nas etapas serão avaliados por testes como o de
+Cochran, Shapiro Wilk, Kolmogorov - Smirnov, t e F. O estudo adotará nível de significância a
+5%.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Olavo Bilac Quaresma de Oliveira Filho - Integrante / Welliam Chaves Monteiro da Silva - Coordenador.
+2019 - 2021
+Estimativa dos Parâmetros da Distribuição Beta, Gama, Gumbell, Log-Normal, Normal e Weibull para Dados de Temperatura Máxima do Município de Macapá-AP
+Descrição: Esse estudo tem como objetivo avaliar a distribuição de probabilidade que melhor se ajusta a série diárias de temperatura máxima do ar da cidade de Macapá-Amapá. Serão utilizadas as funções distribuição de probabilidade de Beta, Gama, Gumbel, Log-normal, Normal e Weibull. A série a ser estudada corresponde a um período de 45 anos (1974 a 2018), a serem obtidos da estação meteorológica convencional do Instituto Nacional de Meteorologia (INMET). O ajuste das distribuições à série de dados será realizado por meio de determinação dos parâmetros das funções e dos testes de aderência Qui-quadrado e Kolmogorov-Sminov ambos a nível de significância de 5%.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (21)  / Mestrado acadêmico: (6)  / Doutorado: (6) . Integrantes: Olavo Bilac Quaresma de Oliveira Filho - Integrante / Welliam Chaves Monteiro da Silva - Coordenador / Juvenal Juarez Andrade da Silva Neto - Integrante.
+2007 - 2008
+AVALIAÇÃO HIDROGEOQUÍMICA NA ÁREA DE ABRANGÊNCIA DO PARQUE AMBIENTAL DE BELÉM -PA
+Descrição: A presença de concentrações populacionais evidencia as problemáticas das disposições de aterros sanitários, no Estado do Pará, foi definida a área do projeto na região do ?Utinga?, que está na vizinhança do ?Lixão do Aurá?, envolvendo análises no Rio Aurá, Guamá, Água Preta e Bolonha, grandes abastecedores para a população no estado do Pará, realizando-se análises no período seco e no período chuvoso de vários parâmetros, no total de 21 parâmetros, em local escolhido no projeto, no total de 10 amostras no período seco e 10 amostras no período chuvoso.
+O projeto evidenciou características quanto à hidrogeoquímica da região, e trouxe a população dados quanto a índices de poluição, principalmente dos corpos alimentadores dos Lagos ?Água Preta? e ?Bolonha? como o Oxigênio Dissolvido, sendo que estes dados podem e devem levar a autoridades competentes, atingirem um estado de alerta em ações concretas na mitigação e correção de problemas quanto a esta qualidade da água.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Olavo Bilac Quaresma de Oliveira Filho - Integrante / Antonio Rodrigues Maués Junior - Integrante / Gundisalvo Piratoba Morales - Coordenador.Financiador(es): Universidade do Estado do Pará - Bolsa.Número de produções C, T & A: 2

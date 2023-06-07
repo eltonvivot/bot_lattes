@@ -1,0 +1,20 @@
+2011 - 2015
+ISNEr
+Descrição: Sistema para extração e reconhecimento de entidades a partir de documentos textuais não estruturados, combina uma série de abordagens (baseada em agrupamentos recursivos, em análise estatística, entre outras). Prove uma arquitetura flexível que possibilite a configuração de uma série de heurísticas de validação e para pré-classificação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Flávio Ceci - Coordenador / Fabiano Duarte Beppler - Integrante.
+2011 - 2013
+ISCollector 2
+Descrição: O ISCollector 2 oferece uma infraestrutura para coleta e transformação de dados de maneira distribuída. É responsável por orquestrar os processos do driver de distribuição e transformação transformando-os em threads possibilitando assim um processamento paralelo e distribuído. O núcleo do ISCollector 2 possui interfaces para acessar o serviço de indexação, e o mesmo fica responsável por gerenciar o acesso e a construção da requisição.
+Sistema desenvolvido em Java utilizando conceitos de programação paralela e distribuída aplicando padrões de projetos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Flávio Ceci - Integrante / Denilson Sell - Integrante / Fabiano Duarte Beppler - Coordenador.
+2009 - 2014
+KWeaver
+Descrição: Módulo de população e manutenção de ontologias: Este módulo é responsável por extrair as entidades de uma base textual não estruturada de forma automática, essas entidades são possíveis instancias ou classes da ontologia de domínio.
+Modulo de classificação: Este módulo é responsável por validar as instancias encontradas utilizando uma base de conhecimento e através de técnicas computacionais apresentar as possíveis classificações para as instancias.
+Sistema desenvolvido em Java utilizando técnicas da Inteligência Artificial como: clusterização, reconhecimento de entidades e reconhecimento de padrões.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Flávio Ceci - Integrante / Alexandre Leopoldo Gonçalves - Coordenador / Alessandro Botelho Bovo - Integrante / Dhiogo Cardodo da Silva - Integrante.Número de produções C, T & A: 1
+2004 - 2004
+UNIBOT
+Descrição: O projeto Unibot surgiu da necessidade de se desenvolver uma base para
+que pesquisas na área de robótica não partissem sempre da estaca zero.
+Para dar um propósito inicial ao robô, ele é projetado para fornecer um
+sistema de recepção às pessoas que se dirigem ao Campus Pedra Branca da
+UNISUL. Sua arquitetura física, eletrônica e computacional permite que
+vários atributos possam ser adicionados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Flávio Ceci - Integrante / Mauro N. Madeira - Coordenador.

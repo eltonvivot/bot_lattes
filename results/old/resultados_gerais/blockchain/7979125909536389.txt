@@ -1,0 +1,52 @@
+2014 - 2016
+Desenvolvimento de software e plataforma de simulação de rede de sensores sem fio em comunicação acústica submarina
+Projeto certificado pela empresa ArmtecTecnologia em Robótica em 16/07/2014.
+Descrição: O Brasil vem investindo na expansão do território nacional e captação de recursos minerais, como o petróleo da camada pré-sal. Somente a Petrobras investiu 42,9 bilhões de dólares no ano de 2012. Este cenário cria uma nova necessidade na qual o país está começando a investir, o da robótica aquática. O estado do Ceará, de acordo com a FINEP, é um dos estados que está mais avançado em robótica aquática. Entre os projetos em execução no estado, pode-se destacar uma iniciativa acadêmica industrial por uma rede de P&D e a empresa ARMTEC que estão trabalhando em projetos de robótica autônoma submarina e de superfície. O projeto é oriundo de uma parceria entre o IFCE, a UNIFOR e a ARMTEC no desenvolvimento de tecnologia de comunicação submarina para atendimento de demandas do setor de P&G. Entre os desafios existentes, a área de comunicação acústica ainda é pouco estudada no Brasil. O presente projeto traz uma abordagem incremental no desenvolvimento de uma rede de comunicação acústica aplicada a rede heterogenia de robôs aquáticos e unidades fixas de comunicação. Entre os resultados esperados tem-se o estudo e desenvolvimento de simulador por modelagem computacional de redes de sensores sem fio (RSSF) por comunicação acústica subaquática considerando diferentes topologias de RSSF e modelagem multivariável para cálculo da atenuação do sinal no canal de acesso ao meio. O projeto gerará um simulador físico em processamento paralelo utilizando módulos microcontrolados/microprocessados para gerar uma rede análoga a RSSF em comunicação acústica subaquática. O foco deste projeto é consolidar a inserção do IFCE em uma dos campos mais críticos para controle ambiental e de produção de energia em ambientes aquáticos, como é o caso da camada pré-sal. Para a execução deste projeto de pesquisa e inovação, haverá a cooperação entre o IFCE, a Universidade Fortaleza e a empresa ARMTEC. Palavras-chave: Comunicação Acústica, Robótica, Redes de sensores sem fio e Simulação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2) . Integrantes: Antônio Roberto Lins de Macêdo - Integrante / ANTÔNIO ROBERTO MENESCAL DE MACÊDO - Integrante / FRANCISCO JOSÉ ALVES DE AQUINO - Coordenador / José Wally Mendonça Menezes - Integrante / Régis Cristiano Pinheiro Marques - Integrante / Ajalmar Rêgo da Rocha Neto - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2015
+SIRI
+Descrição: Desenvolvimento de um robô submarino para caça de minas aquáticas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Roberto Lins de Macêdo - Coordenador / ANTONIO ROBERTO MENESCAL DE MACEDO - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2008 - 2013
+CAIPORA
+Descrição: Desenvolvimento de uma plataforma terrestre multipropósito - desativação de artefatos explosivos, combate a incêndio.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Roberto Lins de Macêdo - Coordenador / ANTONIO ROBERTO MENESCAL DE MACEDO - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2007 - 2008
+SIEMBS
+Descrição: Desenvolvimento de um equipamento para ensaio triaxial dinâmico de solos e misturas betuminosas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Roberto Lins de Macêdo - Coordenador / André Lunardi de Souza - Integrante / Jorge Barbosa Soares - Integrante / ANTONIO ROBERTO MENESCAL DE MACEDO - Integrante.
+2006 - 2007
+SISTRAN
+Descrição: Desenvolvimento de um sistema laboratorial de ensaio acelerado de pavimentos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Roberto Lins de Macêdo - Coordenador / André Lunardi de Souza - Integrante / Jorge Barbosa Soares - Integrante / ANTONIO ROBERTO MENESCAL DE MACEDO - Integrante.
+2005 - 2006
+Desenvolvimento do Robô SACI 2.0
+Descrição: Desenvolvimento de uma plataforma telecomandada para combate a incêndio de grande porte ( vazão de pelo menos 1000 galões por minuto). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (1) . Integrantes: Antônio Roberto Lins de Macêdo - Coordenador / ANTONIO ROBERTO MENESCAL DE MACEDO - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2006
+DESENVOLVIMENTO DE UMA ARQUITETURA TOLERANTE A FALHAS NO SISTEMA DE APOIO AO COMBATE INCIDENTES II
+Descrição: Desenvolvimento de arquitetura híbrida para controle e monitoramento do SACI II. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Roberto Lins de Macêdo - Coordenador.
+2003 - 2004
+Desenvolvimento dos desenhos de projeto 3D dos sistemas da microturbina
+Descrição: DESENVOLVER À PARTIR DO PROJETO, MODELOS COMPUTACIONAIS 3D DA ESTRUTURA FÍSICA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antônio Roberto Lins de Macêdo - Integrante / JOÃO BATISTA FURLAN DUARTE - Coordenador / ANTÔNIO ROBERTO MENESCAL DE MACÊDO - Integrante / HERALDO DA SILVA COUTO - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Petróleo Brasileiro - Rio de Janeiro - Matriz - Bolsa.
+2003 - 2004
+CLEAN COMBUSTION
+Descrição: Sistema microprocessado de verificação do excesso de oxigênio no processo de combustão. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antônio Roberto Lins de Macêdo - Integrante / ANTÔNIO ROBERTO MENESCAL DE MACÊDO - Integrante / LUTERO CARMO DE LIMA - Coordenador.Financiador(es): Nacional Gás Butano - Auxílio
+										financeiro / Universidade de Fortaleza - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2003 - 2003
+Desenvolvimento de análise tecno-econômica-ambiental da viabilidade da casca da castanha de cajú como combustível sólido
+Descrição: DESENVOLVER TECNOLOGIAS E RELATÓRIOS TÉCNICOS PARA A EXPANÇÃO DE NICHOS DE MERCADO DA CASTANHA DE CAJÚ. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antônio Roberto Lins de Macêdo - Integrante / JOÃO BATISTA FURLAN DUARTE - Integrante / ANTÔNIO ROBERTO MENESCAL DE MACÊDO - Coordenador / HERALDO DA SILVA COUTO - Integrante.Financiador(es): Universidade de Fortaleza - Cooperação / Cascaju Agroindustrial - Cooperação.Número de produções C, T & A: 1
+2002 - 2004
+CARGAS DE VENTOS EM ESTRUTURAS METÁLICAS
+Descrição: Desenvolver simulações de cargas de ventos para estuturas metálicas para constatar. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antônio Roberto Lins de Macêdo - Integrante / Francisco Mourão Farias - Coordenador.
+2002 - 2004
+RIGHTDRY
+Descrição: Sistema de controle de secagem de grãos microprocessado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antônio Roberto Lins de Macêdo - Integrante / JOÃO BATISTA FURLAN DUARTE - Coordenador / HERALDO DA SILVA COUTO - Integrante.Financiador(es): Nacional Gás Butano - Auxílio
+										financeiro / Universidade de Fortaleza - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2004
+SIMULAÇÃO DA CAMARA DE COMBUSTÃO DO NTC
+Descrição: Construção e simulação computacional da câmara de combustão do NTC verificando a confiabilidade dos dados obtidos com adquiridos por sensores existentes na câmara.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antônio Roberto Lins de Macêdo - Coordenador / JOÃO BATISTA FURLAN DUARTE - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Outra / Universidade de Fortaleza - Cooperação.Número de produções C, T & A: 5
+2000 - 2001
+Estudo da viabilidade econômica da utilização da energia eólica versus diesel em localidades remotas
+Descrição: Estudo da viabilidade econômica de aerogeradores versus distemas de geração de energia a diesel em regiões em que não há fornecimento de energia pela rede convencional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antônio Roberto Lins de Macêdo - Integrante / EUDES PONTES DA SILVA - Coordenador.Financiador(es): Universidade de Fortaleza - Cooperação.Número de produções C, T & A: 1

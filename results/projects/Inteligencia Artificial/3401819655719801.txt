@@ -1,0 +1,22 @@
+2019 - Atual
+Materiais Poliméricos para Prolongamento da Vida Útil e Reconstituição de Características Mecânicas de Cruzetas de Madeira
+Descrição: O principal objetivo do projeto é desenvolver materiais poliméricos de baixo custo e fácil aplicação, capazes de ampliar a vida útil de cruzetas de madeira em uso na rede elétrica.
+Como objetivos específicos:
+- O material desenvolvido deve ter 3 funções: eliminar os micro-organismos presntes na madeira;
+- Desenvolvimento de ferramentas de aplicação desses materiais nas cruzetas em regime de linha viva;
+- Identificar tipos de madeira usados nas cruzetas;
+- Desenvolver estudos relacionando o tipo de madeira e o estágio de degradação;
+- Analisar os agentes de degradação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Ângelo Rocha de Oliveira - Integrante / Patricia Santiago de Oliveira Patricio - Coordenador / Patterson Patricio de Souza - Integrante / Emerson Fernandes Pedroso - Integrante / Fabiano Drumond Chaves - Integrante.Financiador(es): Energisa - Outra.
+2006 - 2007
+Elaboração de software para auxílio no aprendizado da disciplina de Cálculo Diferencial e Integral IV.
+Descrição: O propósito do projeto é desenvolver uma plataforma gráfica amigável ao usuário, ou seja, de fácil utilização, para auxiliar o aluno no aprendizado da disciplina de Cálculo Diferencial e Integral IV. Ao iniciar-se o programa, abre-se uma tela onde há botões e campos para preenchimento, onde o aluno pode escolher resolver um sistema através de um dos métodos numéricos ensinados na disciplina de Cálculo IV, acompanhar a evolução das iterações, passo a passo, bem como métodos de integração numérica, ajuste de curvas, interpolação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ângelo Rocha de Oliveira - Coordenador.Financiador(es): Faculdades Integradas de Cataguases - Bolsa.
+2006 - 2007
+Pesquisa Operacional na Otimização de Tempos e Métodos de Trabalho
+Descrição: Propósito: Utilizar o método simplex da disciplina pesquisa operacional para a otimização da carga horária de colaboradores internos.
+Descrição do Projeto:
+1º Passo: Levantar, através de crono-análise, as demandas necessárias (horas e/ou minutos) para a realização das diversas atividades produtivas de um determinado setor, assim como fatores de interferência (necessidades fisiológicas, café, colocação e/ou retirada de EPI´s (Equipamentos de Proteção Individual), deslocamentos para próxima atividade etc).
+2º Passo: Avaliar/ compilar resultados encontrados;
+3º Passo: Criar variáveis significativas;
+4º Passo: Construção do algoritmo (Utilização do Método Simplex);
+5º Passo: Avaliação de resultados;
+6º Passo: Determinação das ações para atendimento da demanda produtiva.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ângelo Rocha de Oliveira - Coordenador.Financiador(es): Faculdades Integradas de Cataguases - Bolsa.

@@ -1,0 +1,6 @@
+2010 - 2012
+Aplicação de Inteligência Computacional para Detecção de Falhas Incipientes em Motores de Indução Trifásicos
+Descrição: Aproximadamente 50% de todas as cargas elétricas na indústria brasileira moderna são motores de indução. Apesar das técnicas de projeto e construção destes motores terem atingido alto grau tecnológico, a máquina em si tem suas limitações, as quais, se excedidas, resultarão em falhas prematuras no estator ou no rotor. Assim, a aplicação
+de técnicas de detecção prematura de falhas pode reduzir significantemente custos de manutenção e de produção industrial. Mas para isto, é necessário que se reconheça os
+sintomas característicos de cada tipo de falha específica. Neste projeto são utilizadas redes neurais artificiais, como ferramentas tecnológicas para detecção prematura de falhas de curto-circuito entre espiras do bobinamento estatórico e de falhas por abertura de barras rotóricas do motor a partir da análise espectral de frequência da corrente estatórica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Claudio Marques de Sá Medeiros - Coordenador.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

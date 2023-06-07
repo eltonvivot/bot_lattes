@@ -1,0 +1,4 @@
+2013 - 2015
+Desenvolvimento de um ambiente de computação voluntária baseado em computação ponto-a-ponto
+Projeto certificado pelo(a) coordenador(a) Luciano Antonio Digiampietri em 28/01/2015.
+Descrição: O objetivo do projeto é aplicar técnicas de ponto-a-ponto em ambientes de computação voluntária para melhorar o desempenho geral do sistema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Caio Rafael do Nascimento Santiago - Integrante / Luciano A. Digiampietri - Coordenador.

@@ -1,0 +1,52 @@
+2014 - Atual
+Desenvolvendo Agentes BDI Efetivamente com uma Abordagem Dirigida a Modelos
+Projeto certificado pelo(a) coordenador(a) Ingrid Oliveira de Nunes em 25/02/2016.
+Descrição: Sistemas multi-agentes compostos por agentes cognitivos é uma abordagem promissora para resolver problemas atuais em diferentes domínios, que envolvem sistemas cada vez mais autônomos e pró-ativos. Um dos modelos mais amplamente utilizados para o desenvolvimento de agentes cognitivos é o modelo BDI (do inglês, belief-desire-intention). Uma de suas principais vantagens é a flexibilidade de se escolher entre diferentes planos para atingir um objetivo e, para alcançar este benefício, algoritmos especializados devem ser selecionados. Apesar de diversas técnicas terem sido propostas abordando o processo de seleção de planos --- bem como outros aspectos de agentes BDI --- elas exigem muitas customizações e adaptações para ser usadas em aplicações específicas, exigindo conhecimento especialista para serem adotadas, o que é uma verdadeira barreira para a adoção em larga escala desse tipo de tecnologia de agentes. Neste projeto, propõe-se uma abordagem baseada em modelos que permite a modelagem de agentes BDI instanciados de um modelo BDI estendido, que omite detalhes de implementação permitindo o seu uso por desenvolvedores de software mainstream. Instâncias deste modelo serão então utilizadas para a geração automática de código fonte de agentes com capacidades cognitivas avançadas como, por exemplo, a seleção de um plano adequado de acordo com um dado contexto. Este projeto será desenvolvido por pesquisadores e alunos de pós-graduação do Programa de Pós-graduação da UFRGS juntamente com pesquisadores da King's College London.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Daltro José Nunes - Integrante / Ingrid Nunes - Coordenador.
+2013 - Atual
+Sistemas de Recomendação baseados em Linguagem de Preferências de Alto Nível
+Projeto certificado pelo(a) coordenador(a) Ingrid Oliveira de Nunes em 25/02/2016.
+Descrição: Sistemas de recomendação consistem de ferramentas e técnicas de software que fornecem sugestões de opções ou itens para usuários. As sugestões fornecidas visam dar suporte aos usuários em uma série de processos de tomada de decisão, tais como: quais produtos comprar, qual música escutar ou quais notícias ler. Sistemas de recomendação mostraram ter um grande valor para usuários da web lidarem com a abundância de informação e têm sido uma das ferramentas mais poderosas e populares no comércio eletrônico. Este projeto tem por objetivo dar continuidade a um trabalho que vem sendo realizado no contexto de sistemas de recomendação que utilizam linguagens de preferência de alto nível, os quais permitem que usuários utilizem sentenças próximas à linguagem natural para se expressarem. Visa-se endereçar limitações identificadas em trabalhos existentes, principalmente relacionadas ao processo de elicitação das preferências e interações dos usuários com o sistema. Também, visa-se melhorar as decisões feitas pelo sistema utilizando abordagens que dêem melhor suporte às expressões de alto nível da linguagem, como a lógica fuzzy. Por fim, um protótipo realístico será construído a fim de facilitar a instanciação de sistemas de recomendação baseados nas abordagens propostas para diferentes domínios de aplicação.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Daltro José Nunes - Integrante / Ingrid Nunes - Coordenador.
+2007 - 2008
+Investigando o processo de desenvolvimento de software através da simulação de sistemas dinâmicos.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (0)  / Doutorado: (1) . Integrantes: Daltro José Nunes - Coordenador / Abraham Lincoln Rabelo de Sousa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.
+2002 - 2004
+PROSOFT- APSEE: Integração de Ferramentas para Gerência do Processo de Desenvolvimento de Software
+Descrição: O objetivo principal deste projeto é o desenvolvimento tecnológico-científico da área de Engenharia de Software, no que concerne à gerência do processo de desenvolvimento de software. As extensões propostas resultarão em um novo ambiente chamado PROSOFT-APSEE. Nesse contexto, o projeto envolverá estudantes, professores e pesquisadores na construção e avaliação de novos mecanismos de gerência de processos de software que poderão ser utilizados na indústria nacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Daltro José Nunes - Coordenador / Rodrigo Quites Reis - Integrante / Abraham Lincoln Rabelo de Sousa - Integrante / Carla Alessandra Lima Reis - Integrante / Alessandra Dahmer - Integrante / Luis André Martins - Integrante / Guilherme Salum Rangel - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de orientações: 8
+2002 - 2004
+APSEE-MONITOR: Um Mecanismo de Apoio a Visualização de Processos de Software
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Daltro José Nunes - Coordenador / Rodrigo Quites Reis - Integrante / Abraham Lincoln Rabelo de Sousa - Integrante / Carla Alessandra Lima Reis - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2001 - 2003
+projeto GRAPHIT - Graphical Support and Integration of Formal and Semi-Formal Methods for Software Specification and Development (edital de Cooperação Internacional Brasil-Alemanha CNPq/DLR em 2001).
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Daltro José Nunes - Coordenador.Financiador(es): CNPq - Cooperação / Não informado / Deutsche Forschungsanstalt für Luft-und - Cooperação.
+1989 - 2001
+Convenio com a Alemanha, Alexander Von Humbold Stiftung, para desenvolvimento de pesquisas científicas em Engenharia de Software.
+Descrição: V - 8151/88036.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1989 - 1991
+Convênio UFRGS/FINEP
+Descrição: Nº 5.2.89.02444.00 (Portaria 2237/89). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1988 - 1990
+Convênio UFRGS/FINEP
+Descrição: nº 52.88.0756.00 (Portaria 2531/88). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1982 - 1985
+Computer Aided Software Design- CASD.
+Descrição: Convênio UNI-Stuttgart-Hewlett-Packard.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1980 - 1982
+Pesquisa em Ciência da Computação- UFRGS".Contrato
+Descrição: FINEP/B/76/81/152/00/00.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1978 - 1980
+Pesquisa em Ciência da Computação - UFRGS".
+Descrição: Contrato FINEP/524/CT.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1976 - 1978
+Convênio firmado com a FINEP
+Descrição: (Portaria 1344/76). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1975 - 1977
+Ligação dos Computadores B-6700 e IBM 1130 para uso em RJE"
+Descrição: Ligação dos Computadores B-6700 e IBM 1130 para uso em RJE". Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1975 - 1977
+Sistema de Entrada de Dados",
+Descrição: contrato FINEP/IF/343/CT.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.
+1973 - 1976
+Pesquisa em Ciência da Computação.
+Descrição: Contrato BNDE/FUNTEC/205.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Daltro José Nunes - Coordenador.

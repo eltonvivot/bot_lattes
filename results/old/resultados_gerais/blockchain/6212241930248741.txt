@@ -1,0 +1,17 @@
+2018 - 2020
+Avaliação de Fontes Geradoras de Entropia para Dispositivos da Internet das Coisas
+Descrição: O projeto tem o objetivo de avaliar fontes geradoras de entropia disponíveis para os dispositivos de
+IoT (Internet of Things), considerando-se os requisitos desses dispositivos bem como os requisitos de
+avaliação das fontes de entropia para aplicações criptográficas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Augusto Giron - Coordenador.
+2011 - 2012
+Avaliação do desempenho do decodificador H.264 na plataforma OMAP 3530
+Projeto certificado pelo(a) coordenador(a) Marcio Seiji Oyamada em 12/05/2015.
+Descrição: A decodificação de vídeos é uma aplicação encontrada em sistemas embarcados como celulares e TV Digital. Entretanto, o desenvolvimento é complexo, necessitando-se levar em consideração requisitos como desempenho e consumo de potência. Assim, este projeto avaliou a decodificação de vídeos no padrão H.264 em uma arquitetura multiprocessada heterogênea, em termos de desempenho e de consumo de potência. A arquitetura utilizada pertence a família MPSoC OMAP 3 da Texas Instruments, composta de um processador ARM Cortex-A8 e um DSP C64x+. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Augusto Giron - Integrante / Marcio Seiji Oyamada - Coordenador.
+2010 - 2011
+Análise de desempenho do padrão H.264 em arquiteturas multicore
+Projeto certificado pelo(a) coordenador(a) Marcio Seiji Oyamada em 10/11/2014.
+Descrição: Para a utilização eficiente de arquiteturas multicore, as aplicações devem ser desenvolvidas visando a obtenção de paralelismo no nível de threads. Este projeto apresentou um estudo da decodificação de vídeos no padrão H.264 e uma análise das formas de extração de paralelismo no nível de threads. Por fim, uma comparação entre o paralelismo de partições de quadro e no nível de macroblocos foi realizada. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Augusto Giron - Integrante / Marcio Seiji Oyamada - Coordenador.
+2009 - 2010
+Análise do desempenho e potência da decodificação de vídeo utilizando o padrão H.264
+Projeto certificado pelo(a) coordenador(a) Marcio Seiji Oyamada em 12/05/2015.
+Descrição: Os padrões para compactação de vídeos possuem papel importante na transmissão e armazenamento de vídeos, visando manter a qualidade e diminuir espaço ocupado. Esse trabalho apresenta um estudo de desempenho e de consumo de potência do padrão H.264, cuja popularidade vem aumentando devido à sua eficiência. Foi analisado o impacto do tamanho de caches, número de unidades funcionais e superescalaridade no tempo de execução e o consumo de energia, na decodificação de um vídeo compactado no padrão H.264. Na análise foi utilizado o simulador VIPRO-MP, um protótipo virtual para análise e exploração de arquiteturas embarcadas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Augusto Giron - Integrante / Marcio Seiji Oyamada - Coordenador / Marcelo Schuck - Integrante / Jhonata Rodrigo de Peder - Integrante.

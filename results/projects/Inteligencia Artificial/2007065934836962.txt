@@ -1,0 +1,152 @@
+2021 - Atual
+Gestão de times remotos e híbridos na Globo
+Descrição: Este projeto tem como objetivo o apoio a gestão de equipes híbridas de trabalho na Globo. Com a pandemia do coronavírus, muitas empresas de tecnologia tiveram que adaptar seus processos de desenvolvimento de software para um trabalho remoto forçado. Entretanto, o trabalho remoto permanente, ou um modelo híbrido, carece de estudo e investigação considerando os cenários específicos de cada empresa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Rafael Prikladnicki - Coordenador.
+2021 - Atual
+CNPq PDE: Estudos Empíricos sobre Processo de Desenvolvimento de Software no contexto de Startups Digitais
+Descrição: Este projeto tem como objetivo principal a condução de estudos experimentais para explorar o processo de desenvolvimento de software no contexto de startups digitais. Pretende-se realizar pesquisas científicas a fim de apoiar a identificação dos principais desafios das startups de software em relação ao processo de desenvolvimento e desenvolver propostas inovadoras para atuar neste cenário.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.
+2020 - Atual
+Globo.com: Aceleradora ágil e inclusiva de equipes ágeis para desenvolvimento de software
+Descrição: Este projeto é uma colaboração com o projeto da ThoughtWorks e do Sicredi.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Rafael Prikladnicki - Coordenador / Michael da Costa Móra - Integrante.
+2020 - Atual
+Tecnopuc ? Fomento e Desenvolvimento de Startups
+Descrição: Projeto de iniciação científica dentro do programa de IC da PUCRS, com foco no desenvolvimento de startups no ecossistema de inovação da Universidade. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rafael Prikladnicki - Coordenador / Jorge Luis Nicolas Audy - Integrante / CHANIN, RAFAEL - Integrante / Ana Lucia Maciel - Integrante.
+2019 - Atual
+Sicredi: Aceleradora inclusiva de equipes ágeis de equipes ágeis para desenvolvimento de software
+Descrição: Este projeto é uma parceria com o projeto da ThoughtWorks.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Doutorado: (1) . Integrantes: Rafael Prikladnicki - Coordenador / Michael da Costa Móra - Integrante.Financiador(es): Banco Cooperativo Sicredi - Auxílio
+										financeiro.
+2019 - Atual
+CNPq PQ: Estudos Empíricos sobre Processo de Desenvolvimento de Software no contexto de Startups Digitai
+Descrição: Estudos Empíricos sobre Processo de Desenvolvimento de Software no contexto de Startups Digitai. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.
+2018 - Atual
+PUCRS: Núcleo de Excelência em Ensino, Pesquisa, Desenvolvimento e Inovação em Engenharia de Software (NEPES)
+Descrição: Estruturação de um núcleo de excelência em Engenharia de Software na Escola Politécnica da PUCRS. Este núcleo tem como objetivo principal potencializar oportunidades a partir da sinergia entre as diversas iniciativas existentes na faculdade em relação ao ensino, a pesquisa, ao desenvolvimento e a inovação, com foco na área de Engenharia de Software e sua interação com outras áreas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador / Michael da Costa Móra - Integrante / Marcelo Hideki Yamaguti - Integrante / Sabrina Marczak - Integrante / Ricardo Melo Bastos - Integrante / Bernardo Copstein - Integrante / Ana Paula Terra Bacelo Blois - Integrante / Afonso Sales - Integrante / POMPERMAIER, LEANDRO - Integrante / CHANIN, RAFAEL - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Auxílio
+										financeiro.
+2017 - Atual
+Fapergs PqG: Um Modelo para Desenvolvimento de Software no contexto de Startups Digitais
+Descrição: Este projeto tem como objetivo principal a condução de estudos experimentais para explorar o processo de desenvolvimento de software no contexto de startups digitais, ou software startups. Pretende-se investigar por que as atuais metodologias e técnicas de desenvolvimento de software não atendem por completo as demandas das startups. A partir deste entendimento, este projeto pretende propor um modelo para melhor apoiar o desenvolvimento de startups, contribuindo para aumentar seu sucesso.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador / POMPERMAIER, LEANDRO - Integrante / CHANIN, RAFAEL - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2016 - 2018
+CNPq PQ: A adoção de Crowdsourcing no Desenvolvimento de Software e seu Impacto no Desenvolvimento da Capacidade do Brasil no Mercado Global de Software
+Descrição: O objetivo deste projeto é investigar como o crowdsourcing tem disso adotado no desenvolvimento de software, incluindo desafios e oportunidades. Pretende-se estudar os mercados de trabalho e da indústria de software que estão sendo transformados em decorrência do crowdsourcing.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2018
+CNPq: Brazil Crowdsourcing: Software Industry transformation and disruption
+Descrição: Crowdsourcing means outsourcing to a large network of people?a crowd. This form of managing work allocation has become much more sophisticated in recent years due to improvements in technology and changes in the work ecosystem. Crowdsourcing portends-- not only the disruption of outsourcing-- but the disruption of the entire global labor market. Small, atomized, tasks that can be completed and paid for in small increments are unprecedented in the history of work. Software has been the pioneer in all the large mega-trends of the last generation: in computer technology, technological entrepreneurship, offshore outsourcing, and now-- in crowdsourcing. Our team will investigate the Brazilian software labor and industry markets that are being transformed and disrupted as a result of the new phenomena of crowdsourcing. Our goals are broad: to understand how the three elements of crowdsourcing are emerging in Brazil ? the buyers, the platforms, and the crowd. We have ambitious goals of impacting the crowdsourcing space in Brazil and involving Brazilian students in the process. We will also identify the challenges faced by Brazilian software developers engaged in crowdsourcing platforms as well as their best practices in order to provide recommendations to the government and support for new developers interested in joining this market.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Rafael Prikladnicki - Coordenador / Cleidson de Souza - Integrante / Erran Carmel - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2014 - 2014
+Fapergs APE: Apoio à participação na ICGSE
+Descrição: Participar na International Conference on Global Software Engineering. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2013 - 2016
+Fapergs PqG: O Uso de Máquinas de Tradução em Tempo Real e seu Impacto no Desenvolvimento da Capacidade do Brasil no Mercado Global de Software
+Descrição: O objetivo deste projeto é explorar como máquinas de tradução em tempo real, no contexto do processamento da linguagem natural e do desenvolvimento distribuído de software, podem contribuir para o desenvolvimento do Brasil no mercado global de TI, mais especificamente no desenvolvimento de software. 
+O desenvolvimento distribuído de software (DDS) tem se tornado uma estratégia constante em organizações de software que visam aumentar sua competitividade em um cenário globalizado. O DDS pode ser definido como: ?Uma estratégia de desenvolvimento de software caracterizada por equipes onde seus integrantes estão distribuídos de acordo com diferentes dimensões (geográfica, organizacional, cultural ou temporal), porém com um objetivo único compartilhado, onde tarefas são realizadas de forma cooperada entre as equipes que participam de tal desenvolvimento?.
+Estudos recentes (Carmel & Prikladnicki, 2010; Brasscom, 2009; Brasscom, 2011) apontam o Brasil como um potencial candidato a realizar projetos offshore com grandes organizações internacionais de desenvolvimento de software em virtude de sua posição geográfica. O Brasil possui uma sobreposição de fuso horário com os EUA e Europa, ao contrário da Índia e China, dois países altamente qualificados em desenvolvimento de projetos offshore.
+Muitas empresas brasileiras têm distribuído seus processos de desenvolvimento de software (Stefanini, Ci&T, CPM, DBA, Tlantic, entre outras) e muitas empresas estrangeiras têm instalado centro de desenvolvimento de software no Brasil, com necessidade de constante interação com outros países, tais como Estados Unidos, Índia, China, Canadá e países da Europa. 
+Carmel et al. (2010) ressalta que equipes de desenvolvimento de software que atuam em DDS precisam ter uma boa qualificação em comunicação, principalmente em língua inglesa. Desta forma, o idioma é um fator importante que influencia no sucesso de um projeto global de TI. Em países como Irlanda, Filipinas e Índia, que possuem um alto índice de fluentes em inglês, o desenvolvimento dos projetos acaba sendo mais facilitado. 
+Entretanto, existem diversos outros países, considerados emergentes, que estão aumentando consideravelmente sua presença no mercado global de TI. O Brasil é um exemplo real. Neste cenário, o inglês passa a ser uma habilidade necessária para todo o profissional que trabalha num contexto de mercado global. Entretanto, a consultoria A.T. Kearney estima que o Brasil possui apenas 10,2 milhões de pessoas que falam fluentemente o inglês, o que representa 5,4% da população. O Chile, por exemplo, possui 34,6% de fluentes em inglês; a Índia possui 8,2% (o que representa 90,6 milhões de pessoas). Outro estudo publicado pela KPMG em 2009 indica que uma das desvantagens dos países da América Latina é a falta de profissionais fluentes em inglês (KPMG, 2009). Desta forma, existem diversas iniciativas sendo desenvolvidas para incluir o inglês na qualificação dos profissionais de TI no Brasil. Mas isto pode não ser suficiente para se manter competitivo no mercado global e então os países terão que buscar soluções alternativas. E é neste contexto que estamos propondo este projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Rafael Prikladnicki - Coordenador / Sabrina Marczak - Integrante / Tayana Uchôa Conte - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2013 - 2016
+SCIT: Estúdio de Cinema e Televisão
+Descrição: Implantação de um Estúdio de Cinema e Televisão no contexto do Tecna no Tecnopuc na cidade de Viamão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador / Aleteia Selonk - Integrante.Financiador(es): Secretaria de Desenvolvimento Econômico, Ciência e Tecnologia - Auxílio
+										financeiro.
+2013 - 2016
+Fapergs: Centro de Produção e Pós-produção de Conteúdos Digitais Criativos
+Descrição: Projeto de pesquisa científica na área de conteúdos digitais criativos através da estruturação de um centro de produção e pós-produção de conteúdos digitais criativos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Integrante / Aleteia Selonk - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2013 - 2015
+CNPq PQ: O Uso de Máquinas de Tradução em Tempo Real e seu Impacto no Desenvolvimento da Capacidade do Brasil no Mercado Global de Software
+Descrição: Este projeto tem como objetivo principal a condução de estudos experimentais
+para explorar o quanto o processamento da linguagem natural pode contribuir
+para a evolução da capacidade do Brasil no mercado global de desenvolvimento
+de software. Pretende-se realizar pesquisas científicas a fim de apoiar a avaliação
+da prática das equipes distribuídas de desenvolvimento de software quando elas
+não dominam um idioma em comum, através de serviços de tradução
+simultânea. Com isso, visa-se contribuir para a contextualização do Brasil no
+cenário de desenvolvimento global de software, com qualidade, caracterizando-o
+como potencial candidato a receber investimentos de projetos offshore com
+organizações internacionais, mesmo que seus profissionais não sejam fluentes
+em um idioma universal, tal como o inglês.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (2) . Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 5
+2013 - 2015
+SCIT: Condomínio de Empresas Inovapucrs
+Descrição: Implantação da infraestrutura básica para abrigar o Condomínio de Empresas INOVAPUC, fortalecendo e completando o ciclo de formação de empresas junto à essa rede.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Secretaria de Desenvolvimento Econômico, Ciência e Tecnologia - Auxílio
+										financeiro.
+2013 - 2015
+FINEP: Global TECNOPUC - Centro de Inovação, Criatividade e Networking do TECNOPUC
+Descrição: Construir um novo lócus com vistas a potencializar ações inovadoras e criativas, integrando em rede, em um mesmo local, iniciativas para vários públicos - internos e externos ao TECNOPUC - como forma de ampliar a sinergia para a incubação de novas idéias e novos projetos baseados em conhecimento e inovação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador / Eduardo Giugliani - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2013 - 2015
+SCIT: Global Tecnopuc
+Descrição: Adequação e/ou aperfeiçoamento de espaços físicos para instalação de Laboratórios de Prototipagem de Produtos e Comunicação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Secretaria de Desenvolvimento Econômico, Ciência e Tecnologia - Auxílio
+										financeiro.
+2013 - 2013
+CNPq AVG: Apoio para participação na ICSE
+Descrição: Apoio à Participação em Eventos Científicos no Exterior ? AVG, na International Conference on Software Engineering.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - Atual
+ThoughtWorks: Aceleradora ágil e inclusiva - formação de equipes de alto desempenho em desenvolvimento de software
+Descrição: Este projeto tem como objetivo explorar como equipes de desenvolvimento de software podem se tornar equipes de alto desempenho em um curto espaço de tempo utilizando-se de tecnologia de ponta e técnicas inovadoras de capacitação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (48)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Rafael Prikladnicki - Integrante / Michael da Costa Móra - Coordenador.Financiador(es): Convênio PUCRS/ThoughtWorks - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2012 - 2012
+Fapergs AOE: Organização da ICGSE 2012
+Descrição: Apoio para a organização da International Conference on Global Software Engineering de 2012, realizada em Porto Alegre, na PUCRS.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2011 - 2014
+Fapergs Pronem: O Efeito do Processamento da Linguagem Natural no Desenvolvimento da Capacidade do Brasil no Mercado Global de Desenvolvimento de Software
+Descrição: Avaliar o impacto de tecnologias de PLN na comunicação entre equipes internacionais para tarefas de desenvolvimento de software com falantes de diferentes idiomas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Rafael Prikladnicki - Integrante / Renata Vieira - Coordenador / Rafael Bordini - Integrante / Aline Villavicencio - Integrante / Maria José Finatto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2011 - 2013
+Ci&T: Formação de equipes de alto desempenho em desenvolvimento distribuído de software através de simulação de proximidade física e metodologias ágeis
+Descrição: Este projeto visa conduzir diversos estudos exploratórios para entender como trabalham as equipes de desenvolvimento de software cujos membros estão geograficamente dispersos. O objetivo é explorar como estas equipes podem se tornar equipes de alto desempenho em um curto espaço de tempo utilizando-se de tecnologia de ponta e explorando um conceito inovador conhecido como simulação de proximidade física. Além disso, pretende-se explorar a formação de equipes distribuídas e de alto desempenho com o uso de metodologias ágeis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Ci&T - Cooperação.Número de produções C, T & A: 2
+2010 - 2012
+CNPq: FTS ? Brasil: Desenvolvimento Distribuído de Software com Qualidade no Contexto de Follow-the-Sun
+Descrição: Este projeto tem como objetivo global a realização pesquisas científicas na área de Engenharia de Software e Otimização a fim de apoiar a avaliação da eficiência da estratégia desenvolvimento de software com Follow the Sun como metodologia para desenvolvimento distribuído de software. Com isso, visa-se contribuir para a contextualização do Brasil no cenário de desenvolvimento global de software, com qualidade, caracterizando-o como potencial candidato a receber investimentos de projetos offshore com organizações internacionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (1) . Integrantes: Rafael Prikladnicki - Integrante / Erran Carmel - Integrante / Tayana Uchôa Conte - Coordenador / Arilo Claudio Dias Neto - Integrante / Rosiane de Freitas Rodrigues - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2011
+T&T: Melhoria de Processo de Desenvolvimento de Software com MPS.BR
+Descrição: Apoiar a empresa T&T na implementação de modelos de melhoria de processo de desenvolvimento de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador / Ana Paula Terra Bacelo Blois - Integrante.Financiador(es): Tools & Technologies - Auxílio
+										financeiro.
+2008 - 2010
+CNPq: Arquiteturas de Colaboração: Design de Arquiteturas de Software para Desenvolvimento Distribuído de Software
+Descrição: Este projeto enfoca no estudo da relação entre arquiteturas de software e coordenação das atividades dos engenheiros de software envolvidos no projeto, algo pouco explorado na comunidade nacional e internacional de engenharia de software. Para ser mais específico, ele visa estudar como arquiteturas de software deveriam ser definidas para facilitar as atividades de desenvolvimento distribuído de software. Em outras palavras, como um software deve ser dividido em um conjunto de módulos e como as relações entre estes módulos devem ser definidas visando facilitar o desenvolvimento deste software em contextos distribuídos. Isto será feito através da condução de estudos empíricos, bem como do desenvolvimento de ferramentas para facilitar a condução deste estudos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Rafael Prikladnicki - Integrante / Jorge Luis Nicolas Audy - Integrante / Cleidson de Souza - Coordenador / Rodrigo Reis - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2009
+Tlantic: Projeto DDS - Desenvolvimento Distribuído de Software
+Descrição: Este projeto de pesquisa tem como objetivo principal auxiliar a Tlantic SI no entendimento, planejamento e execução de um modelo de distribuição do desenvolvimento de software, a partir de uma demanda e necessidade identificadas pela própria empresa. Do ponto de vista acadêmico, o projeto permitirá avançar o conhecimento na área de DDS, através de uma pesquisa aplicada. Do ponto de vista prático, o projeto auxiliará a Tlantic SI a alcançar seus objetivos estratégicos de redução de custo de desenvolvimento, melhoria na gestão organizacional, investimento em atividades fundamentais para o funcionamento da empresa e ganho em escala de desenvolvimento.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Rafael Prikladnicki - Coordenador / Miriam Sayão - Integrante / Leonardo Rocha de Oliveira - Integrante.Financiador(es): Tlantic Sistemas de Informação - Auxílio
+										financeiro.
+2008 - 2008
+Bosch: Open Source Software Development Processes in a Commercial Environment
+Descrição: Investigate which aspects of open source software development processes
+(OSSDPs) can be used and adapted to commercial environments to make software development of commercial products more efficient.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador / Michael da Costa Móra - Integrante / Marcelo Hideki Yamaguti - Integrante / Rodrigo Espindola - Integrante / Celso Maciel da Costa - Integrante / Miriam Sayão - Integrante.Financiador(es): Robert Bosch Gmbh - Auxílio
+										financeiro.
+2007 - 2008
+CAPES Doutorado Sanduíche
+Descrição: Bolsa de doutorado sanduíche. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2007 - 2007
+PQTS - Programa de Treinamento e Qualificação em Tecnologia de Software
+Projeto certificado pelo(a) coordenador(a) Marcelo Hideki Yamaguti em 12/07/2018.
+Descrição: Este programa envolve a qualificação de alunos de graduação nas melhores práticas para o desenvolvimento de sistemas, bem como na qualificação em ferramentas de tecnologia da informação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Integrante / Marcelo Hideki Yamaguti - Coordenador.Financiador(es): Dell Computadores do Brasil - Auxílio
+										financeiro.
+2006 - 2006
+PQTS - Programa de Treinamento e Qualificação em Tecnologia de Software
+Descrição: Este programa envolve a qualificação de alunos de graduação nas melhores práticas para o desenvolvimento de sistemas, bem como na qualificação em ferramentas de tecnologia da informação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Coordenador / Marcelo Hideki Yamaguti - Integrante.Financiador(es): Dell Computadores do Brasil - Auxílio
+										financeiro.
+2005 - 2010
+FINEP: AMPROS - Ambiente para Capacitação em Melhoria de Processo de Software, baseado em e-Learning
+Descrição: Este projeto tem como objetivo desenvolver um ambiente baseado em e-learning para suporte à capacitação em melhoria de processo de software para pequenas, médias e grandes empresas brasileiras que atuam na implantação de programas de qualidade e possuem foco na melhoria constante de seus processos. Este ambiente está baseado em modelos nacionais e internacionais de qualidade de software, tais como CMM, CMMI e mpsBr, entre outros. Além disso, este ambiente tem como objetivo principal prover a capacitação continuada de profissionais das empresas em processo de software (geral e específico da empresa), através de treinamento e simulação. Para isto, pretende-se utilizar dos softwares livres de e-learning existentes atualmente no mercado e evolui-los para atender as necessidades descritas neste projeto. Convênio ref.: 1936/05.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3) . Integrantes: Rafael Prikladnicki - Integrante / Jorge Luis Nicolas Audy - Integrante / Marcelo Hideki Yamaguti - Integrante / Marcelo Blois - Coordenador / Ricardo Melo Bastos - Integrante / Leticia Lopes Leite - Integrante / Andreia Ferreira Ramos - Integrante.Financiador(es): Dell Computadores do Brasil - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro / CPM - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2005 - 2007
+Microsoft: Melhoria de Processo de Software com CMMI
+Projeto certificado pelo(a) coordenador(a) Rodrigo Santos de Espindola em 14/03/2022.
+Descrição: Este projeto tem por objetivo o apoio na implantação de modelos de melhoria de processo de desenvolvimento de software em empresas brasileiras.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Integrante / Michael da Costa Móra - Integrante / Rodrigo Espindola - Coordenador / Sabrina Marczak - Integrante.Financiador(es): Microsoft Informática - Auxílio
+										financeiro.
+2004 - 2016
+PDTI - Programa de Pesquisa e Desenvolvimento em Tecnologia da Informação - Convênio Dell/PUCRS
+Descrição: O Programa visa propiciar a ação conjunta entre alunos de pós-graduação, professores do Programa de Pós-Graduação em Ciência da Computação  (PPGCC) e funcionários da DELL na realização de pesquisa e desenvolvimento em engenharia de software, banco de dados e sistemas de informação distribuídos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (28)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Rafael Prikladnicki - Integrante / Sabrina Marczak - Coordenador / Cesar A. F. De Rose - Integrante.Financiador(es): Dell Computadores do Brasil - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2004 - 2008
+DBServer: Melhoria de Processo de Desenvolvimento de Software com CMMI e MPS.BR
+Projeto certificado pelo(a) coordenador(a) Michael da Costa Móra em 12/12/2018.
+Descrição: Apoiar a empresa DBServer na implantação de modelos de melhoria de processo de desenvolvimento de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Prikladnicki - Integrante / Michael da Costa Móra - Coordenador.Financiador(es): DBServer Assessoria em Sistemas de Informação - Auxílio
+										financeiro.

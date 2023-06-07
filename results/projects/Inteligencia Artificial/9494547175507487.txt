@@ -1,0 +1,81 @@
+2016 - Atual
+Fase I do Controle Estatístico de Processos e Avanços em CEP Multivariado
+Descrição: Os objetivos gerais do projeto, portanto, (e no plural porque são dois) são:
+a) determinação precisa dos efeitos da estimação dos parâmetros no desempenho de
+gráficos de controle (correspondendo à primeira parte do título deste projeto: ?Fase I
+do CEP?) e métodos para compensar esses efeitos; e
+b) desenvolvimento de novos gráficos/métodos de controle estatístico de processos
+multivariados (correspondendo à segunda parte do título deste projeto: ?Avanços em
+CEP multivariado?). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (3) . Integrantes: Eugenio Kahn Epprecht - Coordenador / Subhabrata Chakraborti - Integrante.Número de produções C, T & A: 2 / Número de orientações: 1
+2015 - Atual
+Efeitos da Estimação de Parâmetros no Desempenho de Gráficos de Controle de Processos
+Descrição: Dentro do programa Ciência Sem Fronteiras. Envolve bolsa e auxílio PVE (Pesquisador Visitante Esoecial) para o Prof. Subhabrata Chakraborti da Univ. of Alabama, e duas bolsas de doutorado sanduíche para orientados meus irem desenvolver parte de suas pesquisas com ele, na Univ. of Alabama.
+O tema geral é o do título: Efeitos da Estimação de Parâmetros no Desempenho de Gráficos de Controle de Processos, e segue uma abordagem inovadora em relação aos trabalhos anteriores. O projeto iniciou sua vigência formalmente em dezembro de 2014, mas a pesquisa já havia sido iniciada antes.
+Posteriormente, o projeto associado a uma bolsa PDJ para Felipe S. Jardim, com início em abril de 2018 e vigência encerrada em julho de 2019, teve o mesmo título, e compreende a continuacão dessa pesquisa, sob minha supervisão/coordenacão. Incluo-o portanto como pesquisador.
+Também incluo Martin G. C. Sarmiento que, após o término de seu doutorado, segue elaborando artigos em 2019.
+O projeto tem um sub-número: 314717/2014-5. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (3) . Integrantes: Eugenio Kahn Epprecht - Coordenador / Subhabrata Chakraborti - Integrante / Felipe Schoemer Jardim - Integrante / Martin Guillermo Cornejo Sarmiento - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2 / Número de orientações: 1
+2014 - 2014
+Visita do(a) pesquisador(a) Francisco José Aparisi García
+Descrição: Financiar visita de 12 dias do professor Aparisi para avancarmos na nossa pesquisa conjunta, particularmente no desenvolvimento de novos esquemas adaptativos de controle estatístico de processos multivariados. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eugenio Kahn Epprecht - Coordenador / Francisco José Aparisi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2014 - 2014
+ESQUEMAS ADAPTATIVOS DE CONTROLE ESTATÍSTICO DE PROCESSOS MULTIVARIADOS
+Descrição: Apoio a visita do Pesquisador Visitante	Francisco José Aparisi García à PUC-Rio.
+Além do artigo aceito para publicação no IJPR (já publicado online em novembro 2014, trabalhamos em artigo submetido à Technometrics).
+Houve uma palestra do prof. Aparisi, e discussão técnica de outros trabalhos de pesquisa que estão em andamento.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eugenio Kahn Epprecht - Coordenador / Francisco José Aparisi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2013 - 2013
+Visita do pesquisador Francisco José Aparisi García
+Descrição: Visita de 10 dias do pesquisador a PUC-Rio, para avancarmos nossa pesquisa em gráficos de controle periódicos e outros esquemas de controle estatístico de processos multivariados. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eugenio Kahn Epprecht - Coordenador / Francisco José Aparisi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2012 - 2012
+Apoio a vinda de Pesquisador Visitante Subhabrata Chakraborti
+Descrição: Realização de 2 seminários ("Distribution-free (Nonparametric) Statistical Quality Control Charts: An Overview" e "Distribution-free Control Charts Based on Exceedance Statistics");
+- Trabalho conjunto na redação de um artigo para periódico internacional;
+- Discussão de temas para pesquisa conjunta futira;
+- Contato/discussões dos professores e alunos da PUC-Rio, especialmente os do Grupo de Pesquisa em Engenharia de Qualidade do Depto de Eng. Industrial, abrindo inclusive possibilidades para futuros doutorados-sanduíche.
+A observar que atualmente temos um PVE aprovado, com bolsas para 2 doutorados sanduíche, e já temos artigo no prelo em periódico A1.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eugenio Kahn Epprecht - Coordenador / Subhabrata Chakraborti - Integrante.Financiador(es): FAPERJ - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2012 - Atual
+Controle Estatístico de Processos Multivariados
+Descrição: O projeto abrange 5 frentes de pesquisa:
+1 - Otimização de esquemas de controle estatístico de processos multivariados (CEPM) usando algoritmos genéticos
+2 - Uso de variáveis transformadas em CEPM
+3 - Gráficos com dimensão variável para CEPM
+4 - Aplicação de gráficos de controle para detecção de viés em previsão de séries temporais
+5 - Efeito do uso de parâmetros estimados no desempenho de gráficos de controle e na análise da capacidade do processo
+Trata-se de meu projeto de pesquisa (bolsa PQ) para março/2012-fev/2016. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (5) . Integrantes: Eugenio Kahn Epprecht - Coordenador / Francisco José Aparisi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 15 / Número de orientações: 7
+2011 - 2012
+Ferramentas Estatísticas e Computacionais em Controle Estatístico de Processos Multivariados
+Descrição: Apoio financeiro a projeto de pesquisa (Universal).
+Desenvolver modelos de cálculo das medidas de desempenho de esquemas de Controle Estatístico de Processos Multivariados, e programas para otimização deste desempenho, que sejam amigáveis e rodem em Windows; identificar, ainda, dentro do conjunto de ferramentas estatísticas (esquemas de CEPM) os mais adequados aos diferentes tipos de processo (não só na Fase II, de monitoramento, como também na Fase I, de estimação dos parâmetros do processo e estabelecimento de limites de controle), avançando o estado da arte neste sentido. Envolveu colaboração com o Prof. Francisco Aparisi, da Univ. Politécnica de Valencia, Espanha, e um aluno de doutorado meu na PUC-Rio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Eugenio Kahn Epprecht - Coordenador / Aparisi, Francisco - Integrante / Maranhão, Paulo Henrique Coelho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4 / Número de orientações: 1
+2009 - 2012
+Controle Estatístico de Processos Multicanal e de Processos em Estágios
+Descrição: Produtividade em Pesquisa.
+Durante a vigência do projeto, meus temas de pesquisa se concentraram principalmente no Controle Estatístico de Processos Multivariados (CEPM) e Processos com Múltiplos Canais. Outro tema de interesse, não constante do projeto original, foi o problema do efeito da estimação de parâmetros no controle de processos. O tema de controle estatístico de processos em estágios, constante do projeto original, deu origem a tópicos de CEPM, ou seja, ocorreu um redirecionamento. Os resultados, porém, foram compensadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Eugenio Kahn Epprecht - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 18 / Número de orientações: 5
+2008 - 2009
+Problemas Multivariados em Controle Estatístico de Processos e Otimização Multi-Objetivo de Gráficos de Controle
+Descrição: Pós-douotorado no exterior.
+Desenvolvimento de modelos de otimização de esquemas de controle de processos multivariados levando a desempenhos melhores que modelos atualmente utilizados; com programas para aplicação imediata destes modelos, executáveis em Windows (portanto perfeitamente acessíveis).
+O aluno de doutorado envolvido era Marco de Luna, aluno do Prof. Aparisi. Não deixei de orientar aluno meu, à distância, tendo inclusive produzido artigos com os alunos daqui, além dos produzidos em co-autoria com o Prof. Aparisi. Dois dos trabalhos publicados em periódicos (em 2010 e 2011) foram ligados ao meu trabalho com o Prof. Aparisi, e os outros dois, com egressos (ex-orientados meus) da PUC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Eugenio Kahn Epprecht - Coordenador / Francisco José Aparisi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 8 / Número de orientações: 1
+2007 - 2007
+Apoio a vinda de Pesquisador Visitante	Francisco José Aparisi García
+Descrição: Projeto APV para visita do Prof. Francisco Aparisi à PUC-Rio.
+Principais atividades realizadas:
+- apresentação de 2 seminários de 2 horas cada,: "Multivariate SPC" e "Designing Control charts for In-control and Out-of-control Regions?, com grande audiência;
+- Trabalho conjunto em otimização do projeto de gráficos simultâneos para controle de processos multivariados. Análise de resultados de experimento que realizei aqui e definição do prosseguimento;
+- Detalhamento da nossa agenda/projeto de pesquisa para meu pós-doutorado em Valencia em 2008.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eugenio Kahn Epprecht - Coordenador / Francisco José Aparisi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2008
+Controle Estatístico de Processos Autocorrelacionados Usando Modelos Bayesianos
+Descrição: Objetivos:
+- desenvolvimento de um método original para CEP de processos autocorrelacionados (tema novo); e
+- desenvolvimento de esquemas mais eficientes de controle estatístico de processos por atributos (prosseguimento de linha de pesquisa em andamento).
+Houve um redirecionamento de temas e maior concentração em outros problemas de CEP que se revelaram mais promissores. A produtividade final foi alta, indicando que a decisão foi adequada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Eugenio Kahn Epprecht - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 16 / Número de orientações: 6
+2003 - 2006
+Melhoria de Eficiência e Aplicabilidade de Técnicas de Controle Estatístico de Processos
+Descrição: Foram desenvolvidas novas técnicas de Controle Estatístico de Processos, mais eficientes e/ou aplicáveis a processos com características tais que as técnicas tradicionais não eram aplicáveis. Vários desenvolvimentos foram motivados por aplicações/problemas em indústrias reais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (4) . Integrantes: Eugenio Kahn Epprecht - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 19 / Número de orientações: 10
+2001 - 2003
+Modelos e Ferramentas em Controle Estatístico de Qualidade
+Descrição: Desenvolvimento de esquemas de controle de processo por atributos mais eficientes que os existentes; DIREÇÃO 2: desenvolvimento de técnicas de controle estatístico de processos, e adaptação de técnicas existentes, que sejam mais aplicáveis nas situações reais típicas dentro das empresas (como processos correlacionados, processos multi-canal, processos com custo de amostragem muito alto e folga de capacidade, etc.). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Eugenio Kahn Epprecht - Coordenador / Maysa Sacramento de Magalhães - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 11 / Número de orientações: 5

@@ -1,0 +1,90 @@
+2021 - Atual
+Desenvolvimento de metodologia para avaliação da degradação da isolação de transformadores de instrumentos e para-raios energizados por meio da medição ultrassônica de descargas parciais
+Descrição: Projeto visa o desenvolvimento de estratégias para análise da degradação da isolação em transformadores de instrumentos, TCs, TPs, isoladores e Para Raios energizados por meio de medições ultrassônicas de descargas parciais. Este projeto vem sendo realizado em parceria com a Universidade Federal de Santa Maria no Rio Grande do Sul e com a concessionária CEEE-Eletrobrás.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Integrante / Aécio Oliveira - Coordenador.
+2019 - Atual
+Uso de nano dielétricos para a melhoria do desempenho dos sistemas de isolação de Equipamentos de Alta Tensão
+Descrição: O projeto tem por objetivo de desenvolver métodos para aumentar a vida útil dos sistemas dos sistemas de isolação de equipamentos elétricos. O sistema
+de isolação dos equipamentos de alta tensão está sujeito a diversos estresses durante sua vida útil, nomeadamente: estresses térmicos, mecânicos e
+elétricos. O uso de nano partículas nos sistemas de isolação pode melhorar seu desempenho frente a estes estresses aumentando a vida útil dos
+equipamentos de alta tensão. Este projeto tem por objetivo desenvolver métodos de aplicação de nano dielétricos capazes de melhorar o desempenho dos
+sistemas de isolação dos equipamentos de alta tensão frente aos estresses térmicos e elétricos presentes na operação normal destes equipamentos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Integrante / Reinaldo Corrêa Leite - Coordenador / FILIPE MATHEUS DO ROSARIO MENEZES - Integrante.
+2018 - 2020
+Análise da Suportabilidade de Equipamentos de Alta Tensão e Coordenação de isolamento em Redes Elétricas, considerando técnicas de inteligência computacional, para melhoria do Desempenho do Sistema Elétrico diante da ocorrência de Sobretensões Atmosférica
+Descrição: Este projeto de pesquisa se propõe ao desenvolvimento de um produto, no caso de uma Ferramenta computacional de otimização multi-objetivo baseada em Meta Heurísticas aplicadas para a identificação de possíveis falhas referentes à suportabilidade dos equipamentos, baseado em modelos mais realísticos de sistemas de aterramento, considerando a influência indutiva e capacitiva da terra perante os fenômenos transitórios, customizada ainda para as condições de clima e solo da região amazônica, devendo-se implantar um projeto piloto de aplicação. Tal ferramenta vai fazer uso também de programas de suporte como o ATP (Alternative Transient Program) e o FDTF.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Coordenador / Eduardo Tannus Tuma - Integrante / Firmino Guimarães - Integrante.
+2017 - 2020
+APLICAÇÃO OTIMIZADA DE PARA-RAIOS NA REDE DE DISTRIBUIÇÃO E SUBTRANSMISSÃO DE 13,8 kV A 69 kV
+Descrição: Desenvolvimento de Ferramenta computacional aplicada na identificação da alocação ótima de para-raios em redes de distribuição das concessionárias CELPA e CEMAR, customizada para as condições de clima e solo da região amazônica. A ferramenta fará simulações de transitórios eletromagnéticos através do software ATP (Alternative Transient Program) além de utilizar outros programas de análises transitórias e meta heurísticas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Coordenador / Ubiratan Bezerra - Integrante / Eduardo Tannus Tuma - Integrante / Allan Rodrigo Arrifano Manito - Integrante / Antonio Roniel Marques de Sousa - Integrante / BARRADAS, R. P. S. - Integrante / MORAIS, A. M. - Integrante / ASSIS, W. M. - Integrante.
+2016 - Atual
+Aplicação do Método de Elementos Finitos Para Análises Multifísicas em Dispositivos de Sistemas Elétricos de Potência
+Projeto certificado pelo(a) coordenador(a) Wellington da Silva Fonseca em 20/11/2019.
+Descrição: Vários fenômenos físicos ocorrem simultaneamente em uma máquina elétrica rotativa, além da conversão eletromecânica de energia. Uma parte da energia elétrica é convertida em perdas e dissipada termicamente no espaço circundante enquanto que outra parte muito inferior, mas igualmente importante, é irradiada como ruído para o ambiente. Assim, torna-se importante, além do estudo térmico e eletromagnético, o estudo da dinâmica dessa estrutura por meio de metodologias avançadas e com técnicas de solução computacionais, devido ao fato de que os grupos hidrogeradores são unidades complexas que não permitem sejam incorporados os fenômenos acoplados magneto-elásticos de forma analítica. Portaria: Nº 110/2019-ITEC-UFPA.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Integrante / Wellington da Silva Fonseca - Coordenador / Diorge de Souza Lima - Integrante.
+2013 - 2016
+PROJETO DE P&D UFPA/CELPA - Ferramenta Computacional para Monitoração de Qualidade de Energia e Perdas em Redes de Distribuição
+Descrição: Desenvolvimento de ferramenta computacional para monitoração de perdas e parâmetros de qualidade de energia de redes MT/BT, aderente ao módulo 8 do PRODIST, bem como um projeto piloto implementado em um alimentador de interesse para validação da metodologia. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Coordenador / Maria Emilia de Lima Tostes - Integrante / thiago mota soares - Integrante / Ubiratan Holanda Bezerra - Integrante / Rafael Cavalcante de Oliveira - Integrante.
+2012 - 2013
+Fortalecimento e Consolidação de Grupos de Pesquisa em Áreas Estratégicas do Programa de Pós- Graduação em Engenharia Elétrica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Marcus Vinicius Alves Nunes - Integrante / Ubiratan Holanda Bezerra - Coordenador / João Paulo Abreu Vieira - Integrante / Carolina Matos Afonso - Integrante / 1.	BERNARDES, B. C - Integrante / DIONE JOSE ABREU VIEIRA - Integrante.
+2012 - Atual
+Laboratório de Alta e Extra Tensão da UFPA
+Descrição: Segundo a portaria n° 132.2016-ITEC-UFPA, o Prof. Dr. Marcus Vinicius Coordenou todas atividades de comissionamento e montagem dos Equipamentos Instalados no Laboratório de Alta Tensão da UFPA, e atualmente é o Coordenador da  Operacionalização e da Gestão do Laboratório de Alta e Extra Alta Tensão da Universidade Federal do Pará (UFPA). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Marcus Vinicius Alves Nunes - Coordenador / Ubiratan Holanda Bezerra - Integrante / MEDILLIN PEREIRA ALVES - Integrante / Allan Rodrigo Arrifano Manito - Integrante / MORAIS, A. M. - Integrante.
+2010 - 2021
+Montagem do Laboratório de Alta e Extra Tensão da UFPA
+Descrição: Prof. Dr. Marcus Vinicius Coordenou todas atividades de comissionamento e montagem dos Equipamentos Instalados no Laboratório de Alta Tensão da UFPA, e atualmente é o Coordenador da  Operacionalização e da Gestão do Laboratório de Alta e Extra Alta Tensão da Universidade Federal do Pará (UFPA). Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Coordenador.
+2010 - 2012
+Controle Vetorial Aplicado a Geradores Síncronos da UHE- Tucurui Visando a Melhoria da Estabilidade Transitória do Sistema Elétrico_Eletronorte
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcus Vinicius Alves Nunes - Coordenador / João Paulo Abreu Vieira - Integrante / CLEYSON AMORIM COSTA - Integrante / DIONE JOSE ABREU VIEIRA - Integrante.
+2009 - 2012
+Estudos e Ensaios Experimentais visando a Adaptação das Tecnologias de Sistemas Eólicos Existentes para a Geração de Energia Integrada ou Isolada da Rede Elétrica no Estado do Pará
+Descrição: Desenvolver Estudos experimentais que, baseados nas tecnologias disponíveis no mercado, possam identificar as turbinas e os geradores eólicos que sejam mais adequados às características para geração de eletricidade no estado do Pará., promovendo a adaptação das tecnologias eólicas hoje existentes para geração de energia elétrica no estado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Marcus Vinicius Alves Nunes - Coordenador / Ubiratan Holanda Bezerra - Integrante / Maria Emilia de Lima Tostes - Integrante / João Paulo Abreu Vieira - Integrante.Financiador(es): Secretaria de Ciência, Tecnologia e Educação do Estado do Pará - Cooperação.Número de produções C, T & A: 7
+2009 - 2010
+consolidação do Programa de Pós- Graduação em Engenharia Elétrica da Universidade Federal do Pará
+Descrição: Participação como Coordenador do Projeto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Coordenador.Financiador(es): Fundação Amazônia Paraense de Amparo à Pesquisa - Auxílio
+										financeiro.
+2008 - 2012
+Utilização de Realidade Virtual em Informática na educação e em treinamento na indústria.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcus Vinicius Alves Nunes - Coordenador.
+2006 - 2008
+Sistema Inteligente de Apoio à Tomada de Decisões Baseado na Análise do Nexo Causal
+Descrição: O presente projeto objetiva o desenvolvimento de um sistema inteligente para o apoio a tomada de decisão quanto ao
+nexo causal entre os transitórios eletromagnéticos, perda da estabilidade transitória e da qualidade no fornecimento da
+energia nas barras do sistema elétrico de Santarém (UHE - CURUÁ UNA, SE TAPAJÓS e SE SANTARÉM), e os danos
+causados ao próprio sistema elétrico em 138 kV e 15 kV e as unidades consumidoras alimentadas em tensão igual ou
+inferior a 15 kV, devidos a ocorrência de perturbações no sistema TRAMOESTE.
+Um dos objetivos específicos corresponde à avaliação dos impactos (conseqüências) em nível transitório e de
+estabilidade para o sistema elétrico de Santarém das perturbações nas formas de onda de tensão e na freqüência
+citadas, a partir de simulações computacionais desenvolvidas no programa ATP DRAW e ANATEM, os quais permitem
+a elaboração de modelos dinâmicos suficientemente detalhados e consistentes com o comportamento físico do sistema
+elétrico envolvido incluindo geradores, linhas de transmissão e cargas. A avaliação das perturbações deverá tomar
+como base em parte os resultados destes programas, a partir da elaboração de um modelo dinâmico matemático de
+todo o sistema elétrico envolvido, sendo complementada pelo monitoramento proveniente de registradores interligados
+ao sistema elétrico.
+A análise proveniente das simulações computacionais dos programas de transitórios eletromagnéticos e de estabilidade
+será complementada com a utilização de softwares como o ANAQUALI e ANAFAS, disponíveis no NESC-UFPA, que
+têm por objetivo avaliar aspectos de qualidade de energia e determinar as zonas de vulnerabilidade para a rede elétrica
+e os consumidores .
+O sistema será composto de:
+1- Banco de dados de ocorrências de transitórios eletromagnéticos nas barras monitoradas;
+2- Banco de dados de ocorrências de perda da estabilidade transitória e estabilidade de tensão;
+3- Banco de dados de ocorrências de perdas de qualidade de energia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcus Vinicius Alves Nunes - Coordenador / Ubiratan Holanda Bezerra - Integrante / Antonio de Jesus Barra Carvalho - Integrante / Marcus Guerra da Rocha - Integrante.Financiador(es): Centrais Elétricas do Pará S/A - Auxílio
+										financeiro.
+2006 - 2008
+Sistemas Inteligentes para Extração de Conhecimento da Operação de Sistemas de Energia Elétrica
+Descrição: Os objetivos a serem alcançados com a execução deste projeto podem ser enumerados como:
+1) Software de pré-processamento para posterior mineração de dados
+Esse software será responsável pelo interfaceamento com os oscilógrafos e similares, e permitirá a importação de
+registros armazenados no padrão COMTRADE. Além disso, o sinal digitalizado será processado por uma transformada
+wavelet e os coeficientes disponibilizados em formato de fácil uso.
+2) Software de mineração de dados oriundos dos registradores de perturbações na rede
+Esse software será responsável pela detecção e identificação de eventos relacionados a distúrbios e mineração de
+causa / efeito. Os módulos serão em número de quatro, cobrindo algumas das mais importantes técnicas de mineração
+de dados aplicada à classificação de eventos: a) redes neurais, b) regras de associação, c) árvores de decisão C4.5, e
+d) "support vector machines".
+3) Obtenção de uma base de dados com as características dos fenômenos relacionados com as variações de tensão
+de curta duração e fenômenos de transitórios eletromagnéticos ocasionados por faltas e operações de chaveamento, a
+qual permita o uso de procedimentos de analise e avaliação, que possam fornecer informações sobre o comportamento
+e desempenho do sistema elétrico (Tratamento estatistico da base de dados);. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Marcus Vinicius Alves Nunes - Coordenador / Ubiratan Holanda Bezerra - Integrante / Aldebaro Klautau - Integrante / Roberto Célio Limão - Integrante.Financiador(es): Centrais Elétricas do Norte do Brasil - Auxílio
+										financeiro.
+2002 - 2003
+GERENCIAMENTO DA DEMANDA E GERAÇÃO DISTRÍBUIDA PARA ALÍVIO DO SUPRIMENTO DE ENERGIA ELÉTRICA
+Descrição: Este Projeto de Pesquisa foi realizado com financiamento do CNPq. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Marcus Vinicius Alves Nunes - Integrante / Hans Helmut Zürn - Integrante / Antônio Simões Costa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4

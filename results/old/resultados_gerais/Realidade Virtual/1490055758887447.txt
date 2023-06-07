@@ -1,0 +1,6 @@
+2013 - Atual
+Automated Planning and Scheduling Multi-Robot Activities for Single and Multi-Person HRI
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Tiago Stegun Vaquero - Coordenador / J. Christopher Beck - Integrante / Goldie Nejat - Integrante.
+2011 - 2012
+Autonomous Multi-Robot Telepresence Management and Control
+Descrição: In this project, we developed an autonomous multi-robot control architecture for a team of telepresence robots for which no manual control or supervision is required. This architecture will be composed of: 1) a centralized command system (e.g., a server) responsible for high level planning and scheduling of the robot activities for the telepresence sessions, and 2) the robots themselves, each with an embedded control system, which will be responsible for autonomously executing the telepresence activities.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Tiago Stegun Vaquero - Coordenador / J. Christopher Beck - Integrante / Goldie Nejat - Integrante.

@@ -1,0 +1,102 @@
+2021 - Atual
+Estratégias de Segurança em Hardware para Sistemas Embarcados e IoT
+Descrição: Bolsa CNPq de Produtividade em Pesquisa - PQ2020 (período 2021-2023). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador.
+2013 - 2021
+Estratégias de Segurança em Hardware para Sistemas Embarcados
+Descrição: Bolsa CNPq de Produtividade em Pesquisa, PQ-2013 (período 2013-2015), PQ-2016 (2016-2018), e PQ-2019 (2019-2021). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - 2018
+UFS no Be MUNDUS
+Descrição: O consórcio BE MUNDUS é composto por 20 instituições parceiras do Brasil (11) e da Europa (9), bem como por 14 instituições associadas de todo o mundo.
+Parceiras no Brasil: USP, UEA, UNICAMP, UEMA, UNESP, UFPB, UFG, UFPE, UFSC, UFRJ, UFS
+Parceiros na Europa: KIT (Karlsruhe Institute of Technology- Alemanha), VUB	(Vrije Universiteit Brussel	- Bélgica), UNIZG (University of Zagreb - Croácia), SAPIENZA (Sapienza University of Rome - Itália), URTV (Università degli Studi di Roma "Tor Vergata" - Itália), SUT (Silesian University of Technology - Polónia), UPORTO	(Universidade do Porto - Portugal), UNL (Universidade Nova de Lisboa - Portugal) and CARDIFFMET	(Cardiff Metropolitan University - Reino Unido). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20)  / Especialização: (10)  / Mestrado acadêmico: (20)  / Mestrado profissional: (5)  / Doutorado: (10) . Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador.
+2013 - 2018
+LUDENS - INFRASTRUCTURE-LESS UBIQUITOUS CROWD-BASED SAFETY IN SMART CITIES
+Descrição: The LUDENS consortium consists of EU and Brazilian top universities (Sapienza Universit`a di Roma - IT, Brunel University - UK, University of Karlstad - SE; University of S?ao Paulo, Federal University of Uberlandia - BR), top communications, cloud and software services providers (Telecom Italia - IT; TIM Brazil, IBM - BR), very agile and active SMEs (Minerva - BE and Europe for Business - UK; Perception - BR) and interested end user partners (Citt di Latina - IT, and several Brazilian cities through the mediation of University of S?ao Paulo and IBM).
+The ultimate goal is the development of a standardized joint EU-Brazil platform utilising crowd-based and open data and supporting safety in the larger meaning.
+The goal of LUDENS is to contribute to enhanced safety and security at large scale events through the design and large scale real-life evaluation of an ICT framework that supports infrastructure-less
+crowd-based sensing of phenomena, efﬁcient data mining of emerging potentially critical crowd situations, and the collaborative actuation of remedial actions by citizens themselves and Public Authorities operators. In order to support this goal a number of scientiﬁc and technical (S&T) objectives have been deﬁned as detailed below. The S&T objectives are grouped into three areas where the ﬁrst area relates to the gathering of system requirements and the overall design of the LUDENS framework, the second area relates to development of the different components of the framework, and the last area relates to system integration and evaluation.
+Projeto FP7-ICT-2013-EU-BRAZIL - Brazilian Chamada MCTI/CNPq No. 13/2012. SMART SERVICES AND APPLICATIONS FOR A SMARTER SOCIETY (TOPIC C). SMALL/MEDIUM-SCALE FOCUSED RESEARCH PROJECT (STREP). Situação: Concluído; Natureza: Pesquisa. Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Integrante / Moacyr Martucci Jr. - Coordenador.
+2012 - 2018
+Algoritmos de Compressão de Código em Sistemas Embarcados
+Descrição: Edital Universal CNPq/2012. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador / Wanderson Roger Azevedo Dias - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+Estratégias para Fortalecer o Programa de Pós-Graduação PROCC/UFS
+Descrição: Edital Convênio CAPES/FAPITEC 2327/2012. O projeto visa criar estratégias para melhorar e aumentar a qualidade da pesquisa, treinamento e capacitação de recursos humanos, e produção intelectual do programa de mestrado em ciência da computação do PROCC/UFS.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador.
+2010 - 2014
+Projeto e Desenvolvimento de Sistemas Embarcados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador.
+2010 - 2014
+EDITAL /FAPITEC/SE/FUNTEC/CAPES Nº 01/2012 (BOLSA DE MESTRADO E DOUTORADO)
+Descrição: Projeto para Capacitar RH na área de Computação no Estado de Sergipe, no âmbito do Programa de Pós-Graduação em Ciência da Computação (PROCC/UFS). Bolsas de Mestrado, 3  a cada ano.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (8) . Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador.Financiador(es): Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Bolsa.
+2009 - 2011
+Uma Metodologia para Avaliar e Otimizar o Consumo de Energia em Sistemas Embarcados
+Descrição: O projeto procura estabelecer uma metodologia para verificar qual o consumo de energia de aplicações embarcadas, e após analise analisar o impacto de opções de compilador e técnicas de otimização de código nesse consumo. Serão realizadas testes em nível de simulação e experimental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Edward David Moreno - Integrante / Edward David Moreno Ordonez - Coordenador.Financiador(es): Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Auxílio
+										financeiro.
+2008 - 2010
+Aspectos de Desempenho e Consumo de Energia de Algoritmos Criptográficos em Sistemas Embarcados
+Descrição: O projeto visa propor e analisar arquiteturas específicas para aplicações embarcadas que leve em conta o uso de estratégias de segurança, com forte ênfase em inserir esses mecanismos em dispositivos e aplicações embarcadas. Assim, o projeto deverá analisar e aperfeiçoar alguns algoritmos criptográficos implementados em hardware, avaliando seu desempenho e aspectos de consumo de energia, e propondo novas otimizações de maneira a torná-los mais eficientes quando usados em sistemas embarcados.
+Nesse processo também será importante o uso de técnicas de simulação que ajudarão a descobrir características arquiteturais das aplicações em estudo, pois poderão se detectar gargalos e/ou pontos críticos de performance.
+Projeto PIPT (Programa Integrado de Pesquisa Científica e Tecnológica) da FAPEAM  (Fundação de Amparo à Pesquisa do Estado do Amazonas).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1) . Integrantes: Edward David Moreno - Coordenador.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Auxílio
+										financeiro.
+2008 - 2010
+Projeto e Desempenho de Sistemas Biométricos em Sistemas Embarcados
+Descrição: Neste trabalho pretende-se usar como características biométricas: o reconhecimento de face, a impressão digital e a dinâmica da digitação. Além disso, pretende-se também pesquisar técnicas modernas de criptografia, tais como ECC e HECC (Curvas Elípticas e Curvas Hiperelípticas), e novos algoritmos de hashing (como o MQQ), para sistemas embarcados.
+Estudar, Implementar e Projetar técnicas de biometria digital em sistemas embarcados, visando ter integração de serviços de segurança e mecanismos de biométricos em sistemas embarcados, eficientes no uso de memória, consumo de energia e desempenho na realização de tarefas.
+PROJETO MCT/CNPq/CT AMAZÔNIA Edital Nº 055/2008. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Edward David Moreno - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2010
+Estratégias de Segurança em Hardware em Processadores de Aplicações Específicas
+Descrição: Este projeto tem como objetivo apresentar os principais conceitos de redes, arquitetura de sistemas computacionais e segurança, focalizando nos principais desafios encontrados para prover segurança, em especial em sistemas que possuem uma grande limitação computacional. Assim, pretende-se propor e desenvolver estratégias de segurança implementadas em hardware para processadores de aplicações específica, bem como analisar o impacto de inserir primitivas de criptografia nesses processadores.
+Projeto com Apoio do CNPq - Produtividade em Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Edward David Moreno - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2008
+Desenvolvimento de Sistemas e Métodos de Aquisição e Processamento de Sinais Biomédicos
+Descrição: O projeto visa os dois seguintes objetivos:
+ - Desenvolver novos métodos, algoritmos e ferramentas para a aquisição, processamento e análise de alguns sinais biomédicos, tais como ECG, HRV e EOG, visando melhorar o diagnóstico e terapia. 
+- Promover a formação de um pessoal de alto nível científico na área de Instrumentação eletrônica e biomédica, processamento de sinais biomédicos e Engenharia biomédica, estimulando os projetos conjuntos entre brasileiros e cubanos, especificamente entre pesquisadores da UEA (Universidade do Estado do Amazonas) e a UO (Universidade do Oriente). 
+Metas: 
+1.	 Desenvolver um sistema hardware-software para adquirir os sinais primários de interesse (ECG e/ou EOG).
+2. Caracterizar e melhorar os métodos mais usados para processar os sinais ECG e/ou EOG.
+3. Implementar algoritmos para processar os sinais ECG e/ou EOG.
+4. Divulgação e publicação de resultados.
+5. Formação de pessoal (de graduação e se possível de pós-graduação) 
+Programa: Amazonas Doutor Sênior. Coordenador: Prof. Edward David Moreno
+Programa Amazonas Doutor Sênior: (Bolsista) Dr Carlos Román Vázquez Seisdedos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Edward David Moreno - Coordenador / Carlos Roman Vazquez Seisdedos - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2007 - 2008
+Técnicas para Diminuir Consumo de Energia em Dispositivos e Aplicações Móveis
+Descrição: Dentro do escopo da pesquisa, houve continuidade ao processo de identificar e conhecer as principais técnicas para inserir aspectos de segurança em sistemas embarcados, assim como técnicas para diminuir o consumo de energia em sistemas embarcados. Houve também dedicação à definição da equipe (bolsistas de Iniciação Científica, Mestrado e Doutorado) visando se dedicar a assuntos que tenham impactos cientifico e industrial para a empresa BenQ, assim como tempo e esforços para ter o aprendizado do conhecimento necessário para a realização dos trabalhos. 
+Nesta fase, os seguintes assuntos levados em consideração foram: (i) desenvolver soluções que viabilizem porte de softwares em plataformas com poucos recursos (memória e poder de processamento). (ii) Aspectos de profiling de memória, (iii) otimização de código, (iv) uso de linguagens de baixo nível, e (v) melhoramento das diversas interfaces e padrões familiares à indústria de telefonia móvel.
+Dentre essas possibilidades de pesquisa, houve ênfase no estudo e desenvolvimento de técnicas que visem conhecer melhor as necessidades arquiteturais de aplicações móveis, visando propor soluções que agilizem o processamento de informações com menor consumo de memória e energia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Edward David Moreno - Coordenador.Financiador(es): Benq - Siemens - Auxílio
+										financeiro.
+2006 - 2008
+Aspectos Críticos de Sistemas Embarcados em Aplicações de Dispositivos Móveis
+Descrição: Os principais objetivos são o planejamento das atividades de pesquisa e docência, a definição dos assuntos de pesquisa e dos integrantes do grupo de Arquitetura com ênfase em sistemas embarcados, e por fim o aprendizado do conhecimento necessário para a realização dos trabalhos na área de sistemas embarcados.
+Entre os objetivos da área de sistemas embarcados, os seguintes foram levados em consideração: desenvolver soluções que viabilizem porte de softwares em plataformas com poucos recursos (memória e poder de processamento). Aspectos de profiling de memória, otimização de código, uso de linguagens de baixo nível, e as diversas interfaces e padrões familiares à indústria de telefonia móvel, com forte aplicação nos celulares da BenQ.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Edward David Moreno - Coordenador.Financiador(es): Benq - Siemens - Auxílio
+										financeiro.
+2005 - 2006
+SICO ? Um Sistema Seguro e Dinâmico de Comunicação de Dados
+Descrição: Atualmente existe uma grande quantidade de algoritmos criptográficos, o que dificulta muito definir qual será o melhor algoritmo a ser utilizado em uma determinada conexão. Com isto, o objetivo do projeto foi a implementação um sistema capaz de definir através de alguns parâmetros coletados do ambiente em que estiver sendo executado qual é o algoritmo ou conjunto de algoritmos mais indicado para uma determinada conexão segura. Inicialmente foram implementados diversos algoritmos de criptografia, e posteriormente, o sistema para o controle da comunicação bem como um protocolo que permita alterar dinamicamente as chaves e os algoritmos. A implementação do sistema, chamado de SICO - Sistema Inteligente de Comunicação - foi desenvolvida utilizando a linguagem Java.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Especialização: (2)  / Mestrado acadêmico: (1) . Integrantes: Edward David Moreno - Coordenador / Rodolfo Barros Chiaramonte - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2004 - 2005
+Um Criptoprocessador VLIW para Algoritmos Criptográficos Simétricos - Projeto e Desempenho em FPGAs
+Descrição: Projetar um processador que oferece suporte aos algoritmos criptográficos simétricos DES, AES, RC5, mantendo flexibilidade na programação e velocidade. Foi definida uma arquitetura VLIW oferecendo bom suporte ao paralelismo do algoritmo DES.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Edward David Moreno - Coordenador / Fabio Dacêncio Pereira - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2002 - 2004
+Algoritmos Criptográficos Posicionais
+Descrição: O projeto estudou os algoritmos simétricos e projetou uma nova proposta de algoritmo com operações baseadas na posição da informação original. O algoritmo foi implementado em C, Java, e se analisou seu desempenho comparado-o com outros algoritmos criptográficos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Edward David Moreno - Coordenador / Rodolfo Barros Chiaramonte - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2001 - 2003
+Estudo de REconfiguração de Memórias Cache
+Descrição: O projeto estudou a arquitetura de uma memória cache, e analisou a viabildiade de se projetar uma cache reconfigurável em FPGAs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Edward David Moreno - Coordenador / Guilherme Gonsales Panes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2001 - 2002
+Programação com Threads em Java - Impacto em Multiplicação de Matrizes
+Descrição: O projeto estudou threads e sua respectiva implementação em Java. Foi usada a multiplicação de matrizes, como estudo de caso, para analisar o impacto no desempenho das aplicações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Edward David Moreno - Coordenador / Leandro Bento Sena Marques - Integrante / Ildeberto Aparecido Rodello - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1999 - 2006
+Caracterização Arquitetural de Aplicações Específicas
+Descrição: O projeto pretende analisar o desempenho de várias aplicações, de modo a descobrir o comportamento arquitetural, visando detectar os principais gargalos do sistema que influem na execução da aplicação.  Tendo essa caracterização, é possível propor  otimizações que diminuem os processos e estruturas críticas da aplicação e do sistema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (5)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Edward David Moreno - Coordenador.Número de produções C, T & A: 31
+1999 - 2005
+Segurança e Criptografia em Hardware
+Descrição: O projeto visa implementar alguns algoritmos criptográficos, de segurança, com respectiva implementação em software e principalmente, em hardware (FPGAs), analisando o seu desempenho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (2)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Edward David Moreno - Coordenador.Número de produções C, T & A: 9
+1997 - 1998
+Large Databases on Multiprocessors
+Descrição: Projeto dedicado a estudar e propor algoritmos e soluções de banco de dados devidamente sintonizados para uma máquina paralela multiprocessada. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (6)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Edward David Moreno - Integrante / Per Stenstrom - Coordenador.Financiador(es): Chalmers University of Technology - Cooperação.
+1995 - 1998
+NUMAChine Multiprocessor Project
+Descrição: Construção de uma máquina paralela com 64 processadores, do tipo multiprocessador de memória compartilhada, baseado em redes de interconexão do tipo anel-bidirecional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (6) . Integrantes: Edward David Moreno - Integrante / Michael Stumm - Coordenador.Número de produções C, T & A: 2

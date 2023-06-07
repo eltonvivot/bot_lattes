@@ -1,0 +1,335 @@
+;INSTITUICAO;GRUPO;DATA_CRIACAO;LIDER;LIDER2;AREA;BUSCA
+;Universidade Federal Rural do Rio de Janeiro;Água e Solos em Agroecossistemas;07/12/2022;Rosane Ferreira de Oliveira;Rosane Ferreira de Oliveira;Ciências Agrárias;NFT
+;FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS;Indústria 4.0;24/06/2022;Fábio Lima;-;Engenharias;NFT
+;Universidade Tecnológica Federal do Paraná;LAIPSE - Laboratório de Análise Inteligente em Processos e Sistemas ;28/04/2023;Narco Afonso Ravazzoli ;-;Engenharias;NFT
+;Universidade Federal do Sul e Sudeste do Pará;GEOMEROS - GEOSSISTEMAS, MODELIZAÇÃO GRÁFICA COM ;02/05/2023;Maria Rita Vidal;Maria Rita Vidal;Ciências Humanas;Realidade Aumentada
+;Universidade Federal do Piauí;[AVC Group] Applied Visual Computing Group / Grupo de Computação Visual ;21/09/2022;Laurindo de Sousa Britto Neto;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Alfenas;Análise Espacial e Dinâmica Ambiental;22/11/2021;Lineo Aparecido Gaspar Junior;Lineo Aparecido Gaspar Junior;Ciências Humanas;Realidade Aumentada
+;Centro Universitário Academia - UniAcademia;Cidade, memória e interatividade;20/07/2022;Thiago Luiz Berzoini Machado;-;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade Federal do Rio Grande do Sul;Computação Gráfica, Processamento de Imagens e Interação;11/08/2022;Carla Maria Dal Sasso Freitas;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Insper Instituto de Ensino e Pesquisa;Computação Visual;19/09/2022;Luciano Pereira Soares;-;Engenharias;Realidade Aumentada
+;Universidade Estadual de Campinas;Computação Visual;19/04/2023;José Mario De Martino;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Estadual do Oeste do Paraná;Computação Visual Aplicada;26/04/2023;Fabiana Frata Furlan Peres;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Alagoas;Comunidades Virtuais UFAL;06/05/2023;Fernando Silvio Cavalcante ;-;Ciências Humanas;Realidade Aumentada
+;Universidade Tecnológica Federal do Paraná;COVAP - Computação Visual Aplicada;08/02/2023;Erikson Freitas de Morais;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Fundação Getúlio Vargas;Cubo de Inovação - Laboratório de Pesquisa e Produção em Ambientes ;10/02/2023;Alessandra Cristina da Silva ;-;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade do Extremo Sul Catarinense;Desenvolvimento em Realidade Aumentada e Dispositivos Móveis;09/03/2023;Luciano Antunes;Rogerio Antonio Casagrande;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Estadual de Londrina;Design de conteúdo para mídias digitais;27/03/2023;Rodrigo Martins de Oliveira Spinosa;Rodrigo Martins de Oliveira Spinosa;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade Federal da Bahia;Elétrico - Grupo de Pesquisa em Ciberdança;11/04/2023;Mirella de Medeiros Misi;Mirella de Medeiros Misi;Lingüística, Letras e Artes;Realidade Aumentada
+;Universidade Federal de Minas Gerais;Ensino de Projeto - Arquitetura e Urbanismo;01/09/2022;Maurício José Laguardia ;Maria Lúcia Malard;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade de Pernambuco;ERGONOMIA, HIGIENE E SEGURANÇA DO TRABALHO;10/02/2023;Bianca Maria Vasconcelos ;-;Engenharias;Realidade Aumentada
+;Universidade do Estado de Minas Gerais;Fotografia e Conhecimento;06/02/2023;Gabriel Malard Monteiro;-;Lingüística, Letras e Artes;Realidade Aumentada
+;Universidade Salvador;GAMA - Grupo de Pesquisas em Aplicações Multimídia Avançadas;19/07/2022;Paulo Nazareno Maia Sampaio;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Presbiteriana Mackenzie;Games, Educação, Tecnologia e Sociedade (GETS);18/01/2023;Pollyana Coelho da Silva ;-;Engenharias;Realidade Aumentada
+;Universidade Federal de Juiz de Fora;GCG - Grupo de Computação Gráfica, Imagem e Visão;15/07/2022;Marcelo Bernardes Vieira;Rodrigo Luis de Souza da Silva;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Juiz de Fora;GCG - Grupo de Computação Gráfica, Imagem e Visão;15/07/2022;Marcelo Bernardes Vieira;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Santa Maria;GEdAI - Grupo de Estudos Avançados e Interdisciplinares em Engenharia ;09/03/2023;Marcelo Serrano Zanetti;Marcos Hideo Maruo;Engenharias;Realidade Aumentada
+;Universidade Federal Rural do Semi-Árido;GERQS - Grupo de Engenharia de Requisitos e Qualidade de Software;23/08/2022;Joêmia Leilane Gomes de ;Welliana Benevides Ramalho;Ciências Exatas e da Terra;Realidade Aumentada
+;Centro Universitário Ingá;Gestão e Digitalização da Indústria (GEDIN);19/03/2023;Arthur Felipe Echs Lucena;-;Engenharias;Realidade Aumentada
+;Universidade Estadual Paulista Júlio de Mesquita Filho;GIIP - Grupo Internacional e Interinstitucional de Pesquisa em Arte, ;20/05/2023;Fernanda Carolina Armando Duarte;Fernanda Carolina Armando Duarte;Lingüística, Letras e Artes;Realidade Aumentada
+;Instituto Federal da Bahia;GIPAR - Grupo de Inovação e Pesquisa em Automação e Robótica;08/05/2023;Joao Erivando Soares Marques;Joao Erivando Soares Marques;Engenharias;Realidade Aumentada
+;Instituto Federal de Pernambuco;GPADS - Grupo de Pesquisa Aplicada em Desenvolvimento de Sistemas;21/12/2022;Anderson Luiz Souza Moreira;Anderson Luiz Souza Moreira;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal do Triângulo Mineiro;GPETEC - Grupo de Pesquisa em Educação, Tecnologia e Ciências.;04/05/2023;Kenedy Lopes Nogueira;Walteno Martins Parreira Júnior;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;GPTEC - Grupo de Pesquisa em Tecnologias Eletroeletrônicas e ;29/06/2022;Leonardo Bandeira Soares;-;Engenharias;Realidade Aumentada
+;Instituto Federal do Ceará;GREPET (Grupo de Pesquisa em Inovação de Recursos Didáticos, ;17/05/2023;Sandro César Silveira Jucá;-;Outra;Realidade Aumentada
+;Universidade Federal de Alagoas;Group of Ergonomics and New Tools;19/01/2023;Jonhatan Magno Norte da Silva;-;Engenharias;Realidade Aumentada
+;Universidade do Estado de Mato Grosso;Grupo de Computação apliCada ;13/12/2022;Marcelo Leandro Holzschuh;Marcelo Leandro Holzschuh;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;Grupo de Estudos e Pesquisas em Educação Matemática do Espírito Santo ;17/10/2022;Rony Cláudio de Oliveira Freitas;Rony Cláudio de Oliveira Freitas;Ciências Humanas;Realidade Aumentada
+;Instituto Federal  Minas Gerais;Grupo de Inteligência Computacional Aplicada;23/03/2023;Frederico Gadelha Guimarães;Frederico Gadelha Guimarães;Engenharias;Realidade Aumentada
+;Universidade Estadual Paulista Júlio de Mesquita Filho;Grupo de Interfaces e Visualização;25/06/2022;Antonio Carlos Sementille;Antonio Carlos Sementille;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Estadual de Campinas;Grupo de Neurofísica;31/01/2023;Gabriela Castellano;Rickson Coelho Mesquita;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Lavras;Grupo de Pesquisa e Desenvolvimento em Tecnologias para Inovação ;30/11/2022;Patricia Vasconcelos ;Patricia Vasconcelos Almeida;Ciências Humanas;Realidade Aumentada
+;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB;Grupo de Pesquisa em Engenharia de Software Aplicada;23/02/2023;Heremita Brasileiro Lira;Francisco Petrônio Alencar de Medeiros;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Rio Grande do Norte;Grupo de Pesquisa em Indústria 4.0;30/01/2023;Efrain Pantaleón Matamoros;Efrain Pantaleón Matamoros;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Estadual da Paraíba;Grupo de Pesquisa em Jornalismo e Mobilidade - MOBJOR;09/10/2022;Fernando Firmino da Silva;-;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade Federal de Jataí;Grupo de Pesquisa em Realidade Virtual e Aumentada de Goiás (GRVG);09/12/2022;Marcos Wagner de Souza Ribeiro;Ana Carolina Gondim Inocêncio;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade do Estado do Rio de Janeiro;Grupo de Pesquisa em Tecnologias Disruptivas no Ensino de Ciências ;13/04/2023;Waldiney Cavalcante de ;Tiago Savignon Cardoso Machado;Ciências Biológicas;Realidade Aumentada
+;Instituto Federal de São Paulo;Grupo de Pesquisa em Visão Computacional e Inteligência Artificial ;20/10/2022;Renato Correia de Barros;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Roraima;Grupo de Processamento Gráfico - GPG;15/03/2023;Luciano Ferreira Silva;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Uberlândia;Grupo de Realidade Virtual e Aumentada - GRVA UFU;31/03/2023;Júnior Edgard Lamounier;Júnior Edgard Lamounier;Engenharias;Realidade Aumentada
+;Universidade de Uberaba;Grupo de Tecnologia e Inovação - GTI UNIUBE;26/09/2022;Luciene Chagas de Oliveira;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Estadual de Ponta Grossa;Grupo de Tecnologias Educacionais em Matemática - GTEM;09/03/2023;Luciane Grossi;Fabiane de Oliveira;Ciências Humanas;Realidade Aumentada
+;Instituto Federal de Brasília;Grupo transdisciplinar Josué de Castro;24/03/2023;Agrinaldo Jacinto do Nascimento ;Juliana Rocha de Faria Silva;Ciências Exatas e da Terra;Realidade Aumentada
+;Centro Universitário Adventista de São Paulo;INCLUSÃO DIGITAL E INFORMÁTICA EDUCACIONAL;28/11/2022;Laercio Martins Carpes;Helena Brandão Viana;Ciências Humanas;Realidade Aumentada
+;Universidade Federal de Ouro Preto;Indústria 4.0;15/05/2023;Bruno Nazário Coelho;-;Engenharias;Realidade Aumentada
+;Fundação Oswaldo Cruz;Inovação em Ciência em Animais de Laboratório;24/08/2022;Klena Sarges Marruaz da Silva;Janaína Barcelos Porto Ferreira;Ciências Agrárias;Realidade Aumentada
+;Universidade de São Paulo;InterLab - Laboratório de Tecnologias Interativas;04/05/2023;Ricardo Nakamura;Ricardo Nakamura;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade do Oeste Paulista;InterVis - Grupo de Pesquisa em Tecnologias Interativas e Visão ;28/02/2023;Leandro Luiz de Almeida;Leandro Luiz de Almeida;Ciências Exatas e da Terra;Realidade Aumentada
+;Pontifícia Universidade Católica do Rio Grande do Sul;JEDI - Jogos e Entretenimento Digital Interativo;03/04/2023;André Fagundes Pase;Eduardo Campos Pellanda;Ciências Sociais Aplicadas;Realidade Aumentada
+;Instituto Federal de São Paulo;L@ITEC - Laboratório Interdisciplinar de Estudo e Uso de Tecnologias da ;16/05/2023;Márcio André Miranda;-;Ciências Humanas;Realidade Aumentada
+;Universidade Estadual do Maranhão;LABORATÓRIO DA HABITAÇÃO E INOVAÇÃO / LABHAB+INOVAÇÃO ;25/04/2023;Erico Peixoto Araujo;Andréa Cristina Soares Cordeiro Duailibe;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade Federal do Rio de Janeiro;Laboratório de Análise Urbana e Representação Digital - ;26/12/2022;Rodrigo Cury Paraizo;Naylor Barbosa Vilas Boas;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade Presbiteriana Mackenzie;Laboratório de Gameterapia e Realidade Virtual (Lab GameVR);21/03/2023;Bruno da Silva Rodrigues;Bruno da Silva Rodrigues;Ciências da Saúde;Realidade Aumentada
+;Universidade de Fortaleza;Laboratório de Inovação em Tecnologia da Informação;21/11/2022;Jose Eurico de Vasconcelos Filho;José Fernando Rodrigues Ferreira ;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Rio Grande do Norte;Laboratórios Associados Natalnet;20/02/2023;Luiz Marcos Garcia Goncalves;Bruno Marques Ferreira da Silva;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Rio Grande do Sul;Laboratórios Virtuais na Educação;11/04/2023;Liane Margarida Rockenbach ;-;Ciências Humanas;Realidade Aumentada
+;Instituto Federal da Bahia;LABRASOFT - Laboratório de Desenvolvimento de Software;26/09/2022;Antonio Carlos dos Santos Souza;Luiz Cláudio Machado dos Santos;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Santa Catarina;LabTeC -  Laboratório de Tecnologias Computacionais;24/02/2023;Luciana Bolan Frigo;Eliane Pozzebon;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Pará;LabVIS - Visualização, Interação e Sistemas Inteligentes;27/01/2023;Nelson Cruz Sampaio Neto;Nelson Cruz Sampaio Neto;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade de São Paulo;LApIS - Laboratório de Aplicações de Informática em Saúde;24/11/2022;Fátima de Lourdes dos Santos Nunes ;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Ceará;LED - Laboratório de Experiência Digital: Ensino Pesquisa e Extensão;23/02/2023;Daniel Ribeiro Cardoso;-;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade de Brasília;LISA (Laboratório de Imagens, Sinais e Acústica);26/03/2023;Díbio Leandro Borges;Bruno Luiggi Macchiavello Espinoza;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Tecnológica Federal do Paraná;Lógica e Filosofia da Ciência;18/07/2022;Carlos Magno Corrêa Dias;-;Ciências Humanas;Realidade Aumentada
+;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB;MAMUTE -  Metodologias Ativas Multidisciplinares e Tecnologias ;10/08/2022;Douglas François Xavier Silva;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Estadual de Londrina;Mídias Digitais;31/03/2023;Alan Salvany Felinto;Alan Salvany Felinto;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Ouro Preto;Novas Tecnologias para Gestão e Educação - NTGE;19/01/2023;Milton Rosa;Milton Rosa;Ciências Humanas;Realidade Aumentada
+;Universidade Luterana do Brasil;NOVAS TECNOLOGIAS PARA PROCESSOS DE ENSINO E ;01/09/2022;Madianita Bogo Marioti;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Maranhão ;Núcleo de Computação Aplicada NCA-UFMA;09/04/2023;Anselmo Cardoso de Paiva;Aristófanes Corrêa Silva;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal Rural do Semi-Árido;Núcleo de Estudos e Pesquisas em Informática na Educação - nPIE;30/03/2023;Kleber Tavares Fernandes;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal Fluminense;Núcleo de Informática na Educação;03/08/2022;Rodrigo Garrett da Costa;Rodrigo Garrett da Costa;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal Goiano;Núcleo de Pesquisa em Processamento Gráfico e Interação Natural - NuPPGIN;30/05/2022;Alexandre Carvalho Silva;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Paraná;Pesquisa Aplicada em Ciência, Informação e Tecnologia ;28/08/2022;Maria do Carmo Duarte Freitas;Celso Yoshikazu Ishida;Ciências Sociais Aplicadas;Realidade Aumentada
+;Instituto de Cardiologia do Rio Grande do Sul;Pesquisa e Inovação em Imagem Cardiovascular;07/07/2022;Marcelo Haertel Miglioranza;José Carlos de Araújo Haertel;Ciências da Saúde;Realidade Aumentada
+;Instituto de Cardiologia do Rio Grande do Sul;Pesquisa e Inovação em Imagem Cardiovascular;14/09/2022;Marcelo Haertel Miglioranza;José Carlos de Araújo Haertel;Ciências da Saúde;Realidade Aumentada
+;FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS;Processamento de Sinais e Imagens;09/06/2022;Carlos Eduardo Thomaz;-;Engenharias;Realidade Aumentada
+;Centro Universitário Ingá;Realidade Virtual Aplicada;12/09/2022;Gisele Caroline Novakowski;-;Ciências Exatas e da Terra;Realidade Aumentada
+;SENAI - Departamento Regional da Bahia;Realidade Virtual, Realidade Aumentada e mundos virtuais para a ;21/07/2022;Ingrid Winkler;Thiago Barros Murari;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade de Brasília;Representação Gráfica - Integração, Visualização e Simulação - Aplicada à ;19/04/2023;Wagner Santos de Almeida;Félix Alves da Silva Júnior;Engenharias;Realidade Aumentada
+;Universidade Estadual do Piauí;Research on Science Computer;12/02/2023;Dario Brito Calçada;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;SIMD - Segurança da Informação, Infraestrutura de TI, Dispositivos ;14/09/2022;Bruno Chagas Alves Fernandes;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Tecnológica Federal do Paraná;Sistemas Ciber-Físicos Industriais;22/06/2022;Andre Schneider de Oliveira;-;Engenharias;Realidade Aumentada
+;Universidade de Passo Fundo;Sistemas Interativos e de Informação - SIN;05/04/2023;Ana Carolina Bertoletti De ;Ana Carolina Bertoletti De Marchi;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Presbiteriana Mackenzie;TecInt - Tecnologias Interativas;18/11/2022;Ismar Frango Silveira;Maria Amelia Eliseo;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Santa Catarina;TECMIDIA;24/04/2023;Milton Luiz Horn Vieira;-;Ciências Sociais Aplicadas;Realidade Aumentada
+;Centro Universitário Senac;Tecnologia Aplicada;03/09/2022;Marvin Oliver Schneider;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB;Tecnologias e Inovações Educacionais;13/10/2022;Alexandre Fonseca D'Andréa;Francisco Petrônio Alencar de Medeiros;Ciências Humanas;Realidade Aumentada
+;Instituto Federal de São Paulo;Tecnologias e práticas inovadoras aplicadas ao ensino;20/11/2022;Luciene Cavalcanti Rodrigues;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Espírito Santo;TIP . Tecnologias Integradas ao Projeto;13/07/2022;Jarryer Andrade De Martino;-;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade Federal Rural de Pernambuco;UFRPE-VCL;23/08/2022;Filipe Rolim Cordeiro;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal do Triângulo Mineiro;Virtual_Lab IFTM;30/11/2022;Alexandre Ribeiro Silva Júnior;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal do Maranhão;Visão Computacional e Aplicações Inteligentes;06/04/2023;Daniel Lima Gomes Júnior;Alex Martins Santos;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal do Amazonas;Visão Computacional e Robótica;04/02/2023;José Pinheiro de Queiroz Neto;José Pinheiro de Queiroz Neto;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Federal de Pernambuco;VOXAR labs;30/01/2023;Veronica Teichrieb;-;Ciências Exatas e da Terra;Realidade Aumentada
+;Universidade Estadual de Campinas;XR Lab;01/03/2023;Ana Regina Mizrahy ;-;Ciências Sociais Aplicadas;Realidade Aumentada
+;Universidade Federal de Ouro Preto;XR4Good - Realidade Estendida para o Bem;04/05/2023;Andrea Gomes Campos Bianchi;Andrea Gomes Campos Bianchi;Ciências Exatas e da Terra;Realidade Aumentada
+;Instituto Federal de Santa Catarina;XRAI - Realidade Estendida e Inteligência Artificial;12/04/2023;Sérgio Augusto Bitencourt ;-;Engenharias;Realidade Aumentada
+;Fundação Getúlio Vargas;Cubo de Inovação - Laboratório de Pesquisa e Produção em Ambientes ;10/02/2023;Alessandra Cristina da Silva ;-;Ciências Sociais Aplicadas;Realidade Mista
+;Universidade Federal de Minas Gerais;Ensino de Projeto - Arquitetura e Urbanismo;01/09/2022;Maurício José Laguardia ;Maria Lúcia Malard;Ciências Sociais Aplicadas;Realidade Mista
+;Pontifícia Universidade Católica de São Paulo;GATERME - Grupo de Pesquisa em Games, Aplicativos, Tecnologias de ;15/08/2022;David de Oliveira Lemes;David de Oliveira Lemes;Ciências Exatas e da Terra;Realidade Mista
+;SENAI - Departamento Regional da Bahia;Realidade Virtual, Realidade Aumentada e mundos virtuais para a ;21/07/2022;Ingrid Winkler;Thiago Barros Murari;Ciências Exatas e da Terra;Realidade Mista
+;Universidade Tecnológica Federal do Paraná;Sistemas Ciber-Físicos Industriais;22/06/2022;Andre Schneider de Oliveira;-;Engenharias;Realidade Mista
+;Universidade Presbiteriana Mackenzie;TecInt - Tecnologias Interativas;18/11/2022;Ismar Frango Silveira;Maria Amelia Eliseo;Ciências Exatas e da Terra;Realidade Mista
+;Universidade Federal do Sul e Sudeste do Pará;GEOMEROS - GEOSSISTEMAS, MODELIZAÇÃO GRÁFICA COM ;02/05/2023;Maria Rita Vidal;Maria Rita Vidal;Ciências Humanas;Realidade Virtual
+;Universidade Federal de São Carlos;Abordagem funcional e multiprofissional em Gerontologia;24/04/2023;Juliana Hotta Ansai;Karina Gramani Say;Ciências da Saúde;Realidade Virtual
+;Universidade do Estado do Rio de Janeiro;Ambientes Virtuais e Inteligentes;09/09/2022;Vera Maria Benjamim Werneck;Vera Maria Benjamim Werneck;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Pernambuco;Análise e Processamento de Imagens;11/12/2022;Ana Lúcia Bezerra Candeias;Joao Rodrigues Tavares Junior;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Alfenas;Análise Espacial e Dinâmica Ambiental;22/11/2021;Lineo Aparecido Gaspar Junior;Lineo Aparecido Gaspar Junior;Ciências Humanas;Realidade Virtual
+;Universidade de Brasília;Arte Computacional;01/02/2023;Antenor Ferreira Corrêa;Antenor Ferreira Corrêa;Lingüística, Letras e Artes;Realidade Virtual
+;Universidade Federal do Rio Grande do Norte;Audição e Equilíbrio: Avaliação e Reabilitação - UFRN;14/02/2023;Erika Barioni Mantello;-;Ciências da Saúde;Realidade Virtual
+;Universidade Federal do Rio Grande do Norte;Bioengenharia e Dispositivos Implantáveis;24/09/2022;Custódio Leopoldino de ;-;Engenharias;Realidade Virtual
+;Instituto Tecnológico de Aeronáutica;Centro de Competência em Manufatura;06/09/2022;Alfredo Rocha de Faria;-;Engenharias;Realidade Virtual
+;Centro Universitário Academia - UniAcademia;Cidade, memória e interatividade;20/07/2022;Thiago Luiz Berzoini Machado;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Estadual Paulista Júlio de Mesquita Filho;Computação Aplicada;13/03/2023;Rogério Eduardo Garcia;Ronaldo Celso Messias Correia;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio Grande do Sul;Computação Gráfica, Processamento de Imagens e Interação;11/08/2022;Carla Maria Dal Sasso Freitas;-;Ciências Exatas e da Terra;Realidade Virtual
+;Insper Instituto de Ensino e Pesquisa;Computação Visual;19/09/2022;Luciano Pereira Soares;-;Engenharias;Realidade Virtual
+;Universidade Estadual de Campinas;Computação Visual;19/04/2023;José Mario De Martino;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Estadual do Oeste do Paraná;Computação Visual Aplicada;26/04/2023;Fabiana Frata Furlan Peres;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Alagoas;Comunidades Virtuais UFAL;06/05/2023;Fernando Silvio Cavalcante ;-;Ciências Humanas;Realidade Virtual
+;Fundação Getúlio Vargas;Cubo de Inovação - Laboratório de Pesquisa e Produção em Ambientes ;10/02/2023;Alessandra Cristina da Silva ;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Estadual de Londrina;Design de conteúdo para mídias digitais;27/03/2023;Rodrigo Martins de Oliveira Spinosa;Rodrigo Martins de Oliveira Spinosa;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade do Estado do Rio de Janeiro;Dinâmicas Ambientais e Geoprocessamento;08/03/2023;Vinicius da Silva Seabra;Otavio Miguez da Rocha-Leão;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Veiga de Almeida;Engenharia de Produção com Ênfase em Realidade Virtual;09/02/2023;Marco Antonio Ribeiro de Almeida;Márcio Alves Suzano;Engenharias;Realidade Virtual
+;Universidade da Região de Joinville;Engenharia Simultânea;27/04/2023;Claiton Emilio do Amaral;Claiton Emilio do Amaral;Engenharias;Realidade Virtual
+;Universidade Federal de Minas Gerais;Ensino de Projeto - Arquitetura e Urbanismo;01/09/2022;Maurício José Laguardia ;Maria Lúcia Malard;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade de Pernambuco;ERGONOMIA, HIGIENE E SEGURANÇA DO TRABALHO;10/02/2023;Bianca Maria Vasconcelos ;-;Engenharias;Realidade Virtual
+;Universidade Federal de São Carlos;ESTUDOS DO DESENVOLVIMENTO MOTOR DO LACTENTE TÍPICO E DE ;01/05/2023;Eloisa Tudella;-;Ciências da Saúde;Realidade Virtual
+;ACADEMIA MILITAR DAS AGULHAS NEGRAS (AMAN);ESTUDOS INTERDISCIPLINARES EM SISTEMAS DE SIMULAÇÃO DIGITAL ;24/10/2022;Gildson Borges da Silva;Felipe de Freitas Faulstich;Outra;Realidade Virtual
+;Universidade do Estado de Minas Gerais;Fotografia e Conhecimento;06/02/2023;Gabriel Malard Monteiro;-;Lingüística, Letras e Artes;Realidade Virtual
+;Universidade Salvador;GAMA - Grupo de Pesquisas em Aplicações Multimídia Avançadas;19/07/2022;Paulo Nazareno Maia Sampaio;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Presbiteriana Mackenzie;Games, Educação, Tecnologia e Sociedade (GETS);18/01/2023;Pollyana Coelho da Silva ;-;Engenharias;Realidade Virtual
+;Universidade Federal de Juiz de Fora;GCG - Grupo de Computação Gráfica, Imagem e Visão;15/07/2022;Marcelo Bernardes Vieira;Rodrigo Luis de Souza da Silva;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Juiz de Fora;GCG - Grupo de Computação Gráfica, Imagem e Visão;15/07/2022;Marcelo Bernardes Vieira;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal Rural do Semi-Árido;GERQS - Grupo de Engenharia de Requisitos e Qualidade de Software;23/08/2022;Joêmia Leilane Gomes de ;Welliana Benevides Ramalho;Ciências Exatas e da Terra;Realidade Virtual
+;Centro Universitário Ingá;Gestão e Digitalização da Indústria (GEDIN);19/03/2023;Arthur Felipe Echs Lucena;-;Engenharias;Realidade Virtual
+;Universidade de Brasília;Gestão e Economia no ambiente Construído;07/02/2023;Michele Tereza Marques Carvalho;-;Engenharias;Realidade Virtual
+;Universidade Federal do Rio Grande do Norte;Gestão e Inovação em Saúde - GIS;08/05/2023;Hélio Roberto Hékis;Custódio Leopoldino de Brito Guerra Neto;Engenharias;Realidade Virtual
+;Universidade Estadual Paulista Júlio de Mesquita Filho;GIIP - Grupo Internacional e Interinstitucional de Pesquisa em Arte, ;20/05/2023;Fernanda Carolina Armando Duarte;Fernanda Carolina Armando Duarte;Lingüística, Letras e Artes;Realidade Virtual
+;Instituto Federal da Bahia;GIPAR - Grupo de Inovação e Pesquisa em Automação e Robótica;08/05/2023;Joao Erivando Soares Marques;Joao Erivando Soares Marques;Engenharias;Realidade Virtual
+;Instituto Federal de Pernambuco;GPADS - Grupo de Pesquisa Aplicada em Desenvolvimento de Sistemas;21/12/2022;Anderson Luiz Souza Moreira;Anderson Luiz Souza Moreira;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal do Triângulo Mineiro;GPETEC - Grupo de Pesquisa em Educação, Tecnologia e Ciências.;04/05/2023;Kenedy Lopes Nogueira;Walteno Martins Parreira Júnior;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia do Pará;GRADIENTE DE MODELAGEM MATEMÁTICA E SIMULAÇÃO ;15/04/2023;Edson Costa Cruz;Edson Costa Cruz;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal do Ceará;GREPET (Grupo de Pesquisa em Inovação de Recursos Didáticos, ;17/05/2023;Sandro César Silveira Jucá;-;Outra;Realidade Virtual
+;Universidade Federal de São Carlos;Grupo de Arquiteturas,  Processamento de Imagens e Sinais;08/09/2022;Nelson Delfino d'Ávila ;Nelson Delfino d'Ávila Mascarenhas;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade do Estado de Mato Grosso;Grupo de Computação apliCada ;13/12/2022;Marcelo Leandro Holzschuh;Marcelo Leandro Holzschuh;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Estadual do Tocantins;Grupo de Desenvolvimento de Mídias e Sistemas Computacionais;11/05/2023;Arlenes Buzatto Delabary Spada;Silvano Maneck Malfatti;Ciências Humanas;Realidade Virtual
+;Universidade Federal Fluminense;Grupo de Estudo em Processo e Prática Avançada de Enfermagem - GEPPAE ;20/09/2022;Ana Carla Dantas Cavalcanti;Rosimere Ferreira Santana';Ciências da Saúde;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;Grupo de estudo em tecnologias disruptivas;27/04/2023;Renan Carreiro Rocha;-;Engenharias;Realidade Virtual
+;Universidade Federal da Bahia;Grupo de Estudos  da Saúde da Criança e do Adolescente- Crescer;09/03/2023;Maria Carolina Ortiz Whitaker;Maria Carolina Ortiz Whitaker;Ciências da Saúde;Realidade Virtual
+;Universidade Estadual de Maringá;Grupo de estudos aplicado à  visualização cartográfica e história ;11/02/2023;Fernando Luiz de Paula Santil;Estevão Pastori Garbin;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade de São Paulo;Grupo de Estudos e Pesquisas em Comunicação no Processo de ;16/11/2022;Simone de Godoy Costa;Simone de Godoy Costa;Ciências da Saúde;Realidade Virtual
+;Universidade do Estado da Bahia;Grupo de Estudos em Educação Superior na Área de Saúde;10/04/2023;Hermila Tavares Vilar Guedes;-;Ciências da Saúde;Realidade Virtual
+;Instituto Federal  Minas Gerais;Grupo de Inteligência Computacional Aplicada;23/03/2023;Frederico Gadelha Guimarães;Frederico Gadelha Guimarães;Engenharias;Realidade Virtual
+;Universidade Estadual Paulista Júlio de Mesquita Filho;Grupo de Interfaces e Visualização;25/06/2022;Antonio Carlos Sementille;Antonio Carlos Sementille;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Amazonas;Grupo de Manufatura Avançada;28/04/2023;Jaime Casanova Soeiro Junior;Antonio do Nascimento Silva Alves;Engenharias;Realidade Virtual
+;Universidade Estadual de Campinas;Grupo de Neurofísica;31/01/2023;Gabriela Castellano;Rickson Coelho Mesquita;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio de Janeiro;GRUPO DE PESQUISA COGITARE: Estudos em Formação, Política e ;27/02/2023;Gustavo de Oliveira Figueiredo;Sônia Cristina Soares Dias Vermelho;Ciências Humanas;Realidade Virtual
+;Universidade Estadual de Santa Cruz;GRUPO DE PESQUISA DE INOVAÇÃO TECNOLÓGICA EM AVALIAÇÃO E ;18/04/2023;Paulo Cesar Ribeiro Barbosa;-;Ciências Humanas;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB;Grupo de Pesquisa em Engenharia de Software Aplicada;23/02/2023;Heremita Brasileiro Lira;Francisco Petrônio Alencar de Medeiros;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Santa Maria;Grupo de pesquisa em exercício físico e saúde mental;25/04/2023;Felipe Barreto Schuch;-;Ciências da Saúde;Realidade Virtual
+;Universidade Federal de Santa Maria;Grupo de pesquisa em exercício físico e saúde mental;27/10/2022;Felipe Barreto Schuch;-;Ciências da Saúde;Realidade Virtual
+;Universidade de São Paulo;Grupo de Pesquisa em Fisioterapia na Saúde do Idoso (GRUPEFISI);29/10/2022;José Eduardo Pompeu;-;Ciências da Saúde;Realidade Virtual
+;Universidade do Estado de Santa Catarina;Grupo de Pesquisa em Informática na Educação - GPIE;22/03/2023;Avanilde Kemczinski;Avanilde Kemczinski;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal da Paraíba;Grupo de Pesquisa em Inteligência Computacional Aplicada a Engenharia ;03/04/2023;Yuri Percy Molina Rodriguez;Yuri Percy Molina Rodriguez;Engenharias;Realidade Virtual
+;Universidade Estadual da Paraíba;Grupo de Pesquisa em Jornalismo e Mobilidade - MOBJOR;09/10/2022;Fernando Firmino da Silva;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade de Brasília;Grupo de Pesquisa em Percepção Visual ;24/02/2023;Rui de Moraes Júnior;-;Ciências Humanas;Realidade Virtual
+;Universidade Federal de Jataí;Grupo de Pesquisa em Realidade Virtual e Aumentada de Goiás (GRVG);09/12/2022;Marcos Wagner de Souza Ribeiro;Ana Carolina Gondim Inocêncio;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Pernambuco;Grupo de Pesquisa em Realidade Virtual e Multimídia;17/04/2023;Djamel Fawzi Hadj Sadok;Djamel Fawzi Hadj Sadok;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade do Estado do Rio de Janeiro;Grupo de Pesquisa em Tecnologias Disruptivas no Ensino de Ciências ;13/04/2023;Waldiney Cavalcante de ;Tiago Savignon Cardoso Machado;Ciências Biológicas;Realidade Virtual
+;Instituto Federal de São Paulo;Grupo de Pesquisa em Visão Computacional e Inteligência Artificial ;20/10/2022;Renato Correia de Barros;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Minas Gerais;Grupo de pesquisa em voz e acústica da fala (GP.Voz);28/09/2022;Adriane Mesquita de Medeiros;Adriane Mesquita de Medeiros;Ciências da Saúde;Realidade Virtual
+;Universidade Federal de Pernambuco;Grupo de Pesquisa Pró-Parkinson;03/01/2023;Maria das Graças Wanderley de Sales ;-;Ciências da Saúde;Realidade Virtual
+;Universidade Federal de Santa Catarina;Grupo de Pesquisas em Cirurgia Robótica;04/08/2022;Aldo von Wangenheim;Aldo von Wangenheim;Engenharias;Realidade Virtual
+;Universidade Federal do Ceará;Grupo de Processamento de Imagens;01/02/2023;Fátima Nelsizeuma Sombra de ;Francisco Nivando Bezerra;Engenharias;Realidade Virtual
+;Universidade Federal de Roraima;Grupo de Processamento Gráfico - GPG;15/03/2023;Luciano Ferreira Silva;-;Ciências Exatas e da Terra;Realidade Virtual
+;Pontifícia Universidade Católica do Rio Grande do Sul;Grupo de Realidade Virtual;17/11/2022;Marcio Sarroglia Pinho;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Uberlândia;Grupo de Realidade Virtual e Aumentada - GRVA UFU;31/03/2023;Júnior Edgard Lamounier;Júnior Edgard Lamounier;Engenharias;Realidade Virtual
+;Universidade Estadual Paulista Júlio de Mesquita Filho;GRUPO DE TECNOLOGIA DE INFORMACAO APLICADA;06/11/2022;Roberta Spolon;Roberta Spolon;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade de Uberaba;Grupo de Tecnologia e Inovação - GTI UNIUBE;26/09/2022;Luciene Chagas de Oliveira;-;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;GTA - Tecnologias Aplicadas;05/05/2023;Rodrigo Varejão Andreão;-;Engenharias;Realidade Virtual
+;Centro Universitário Adventista de São Paulo;INCLUSÃO DIGITAL E INFORMÁTICA EDUCACIONAL;28/11/2022;Laercio Martins Carpes;Helena Brandão Viana;Ciências Humanas;Realidade Virtual
+;Universidade Federal de Ouro Preto;Indústria 4.0;15/05/2023;Bruno Nazário Coelho;-;Engenharias;Realidade Virtual
+;Instituto Federal de São Paulo;INFOEDU - Grupo de Pesquisa em Informática Aplicada à Educação;13/07/2022;Eduardo Henrique Gomes;Marcelo Pereira Bergamaschi;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;Inovação em Saúde IFRJ;31/03/2023;Ana Carolina de Azevedo Carvalho;Filipe Pereira Mesquita dos Santos;Ciências da Saúde;Realidade Virtual
+;SENAI - Departamento Regional da Bahia;Integração Digital para Manufatura Avançada;17/03/2023;Herman Augusto Lepikson;-;Engenharias;Realidade Virtual
+;Universidade Federal de Pernambuco;Inteligência Artificial;30/08/2022;Teresa Bernarda Ludermir;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade de São Paulo;InterLab - Laboratório de Tecnologias Interativas;04/05/2023;Ricardo Nakamura;Ricardo Nakamura;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade do Oeste Paulista;InterVis - Grupo de Pesquisa em Tecnologias Interativas e Visão ;28/02/2023;Leandro Luiz de Almeida;Leandro Luiz de Almeida;Ciências Exatas e da Terra;Realidade Virtual
+;Pontifícia Universidade Católica do Rio Grande do Sul;JEDI - Jogos e Entretenimento Digital Interativo;03/04/2023;André Fagundes Pase;Eduardo Campos Pellanda;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Tecnológica Federal do Paraná;Jogos de Computador, Simulação e Realidade Virtual;07/10/2022;André Koscianski;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Estadual Paulista Júlio de Mesquita Filho;LAB. DE ATIVIDADE MOTORA ADAPTADA, PSICOLOGIA APLICADA E ;24/02/2023;Debora Gambary Freire Batagini;Debora Gambary Freire Batagini;Ciências da Saúde;Realidade Virtual
+;Instituto Federal Fluminense;LABDAC - GRUPO DE PESQUISA E DESENVOLVIMENTO EM LABORATÓRIOS ;06/03/2023;Marcos Antonio Cruz Moreira;Marcos Antonio Cruz Moreira;Engenharias;Realidade Virtual
+;Universidade Estadual do Maranhão;LABORATÓRIO DA HABITAÇÃO E INOVAÇÃO / LABHAB+INOVAÇÃO ;25/04/2023;Erico Peixoto Araujo;Andréa Cristina Soares Cordeiro Duailibe;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Federal de Mato Grosso;Laboratório de Ambientes Virtuais Interativos (LAVI) ;20/08/2022;Cristiano Maciel;Cristiano Maciel;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio de Janeiro;Laboratório de Análise Urbana e Representação Digital - ;26/12/2022;Rodrigo Cury Paraizo;Naylor Barbosa Vilas Boas;Ciências Sociais Aplicadas;Realidade Virtual
+;Instituto Federal do Piauí;Laboratório de Computação Aplicada de Parnaíba - LaCAPa;29/09/2022;Francisco Gerson Amorim de ;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal Rural de Pernambuco;Laboratório de Estudos em Informática Aplicada - LEIA;04/05/2023;Zildomar Carlos Felix;Richarlyson Alves D'Emery;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Presbiteriana Mackenzie;Laboratório de Gameterapia e Realidade Virtual (Lab GameVR);21/03/2023;Bruno da Silva Rodrigues;Bruno da Silva Rodrigues;Ciências da Saúde;Realidade Virtual
+;Universidade de Fortaleza;Laboratório de Inovação em Tecnologia da Informação;21/11/2022;Jose Eurico de Vasconcelos Filho;José Fernando Rodrigues Ferreira ;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio de Janeiro;Laboratório de Neurociência do Exercício_LaNEx;11/04/2023;Andrea Camaz Deslandes;-;Ciências da Saúde;Realidade Virtual
+;Universidade Federal de Itajubá;Laboratório de Robótica, Sistemas Inteligentes e Complexos - RobSIC;23/03/2023;Sandro Carvalho Izidoro;Sandro Carvalho Izidoro;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio Grande do Norte;Laboratórios Associados Natalnet;20/02/2023;Luiz Marcos Garcia Goncalves;Bruno Marques Ferreira da Silva;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio Grande do Sul;Laboratórios Virtuais na Educação;11/04/2023;Liane Margarida Rockenbach ;-;Ciências Humanas;Realidade Virtual
+;Universidade Federal do Pará;LabVIS - Visualização, Interação e Sistemas Inteligentes;27/01/2023;Nelson Cruz Sampaio Neto;Nelson Cruz Sampaio Neto;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio de Janeiro;Lamie: Arte e Arquitetura;28/04/2023;Aurelio Antonio Mendes Nogueira;-;Lingüística, Letras e Artes;Realidade Virtual
+;Universidade de São Paulo;LApIS - Laboratório de Aplicações de Informática em Saúde;24/11/2022;Fátima de Lourdes dos Santos Nunes ;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade do Estado de Santa Catarina;LARVA - LAboratory for Research on Visual Applications;20/03/2023;Marcelo da Silva Hounsell;Marcelo da Silva Hounsell;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Ceará;LED - Laboratório de Experiência Digital: Ensino Pesquisa e Extensão;23/02/2023;Daniel Ribeiro Cardoso;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;LISEDUC - Laboratório de Informática, Sociedade e Educação;22/12/2022;Ricardo Esteves Kneipp;Ricardo Esteves Kneipp;Ciências Sociais Aplicadas;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB;MAMUTE -  Metodologias Ativas Multidisciplinares e Tecnologias ;10/08/2022;Douglas François Xavier Silva;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Estadual Paulista Júlio de Mesquita Filho;Mídias Digitais, Interatividade, Games e Educação;17/04/2023;Vania Cristina Pires Nogueira ;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade do Vale do Rio dos Sinos;MoDa - Modelagem Digital de Afloramentos;12/09/2022;Luiz Gonzaga da Silveira Junior;Luiz Gonzaga da Silveira Junior;Ciências Exatas e da Terra;Realidade Virtual
+;Centro Universitário Euripedes de Marília;NEPI - Núcleo de Estudos e Pesquisas em Direito e Internet;14/12/2022;José Eduardo Lourenço dos ;José Eduardo Lourenço dos Santos;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Federal do Rio de Janeiro;Neuropsiquiatria Geriátrica;27/06/2022;Jerson Laks;-;Ciências da Saúde;Realidade Virtual
+;Universidade Federal de Ouro Preto;Novas Tecnologias para Gestão e Educação - NTGE;19/01/2023;Milton Rosa;Milton Rosa;Ciências Humanas;Realidade Virtual
+;Universidade Luterana do Brasil;NOVAS TECNOLOGIAS PARA PROCESSOS DE ENSINO E ;01/09/2022;Madianita Bogo Marioti;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de São Carlos;NPro Núcleo de Projeto e Prototipagem em Sistemas de Produção;02/03/2023;Renato Luvizoto Rodrigues de ;Renato Luvizoto Rodrigues de Souza;Engenharias;Realidade Virtual
+;Universidade Federal do Maranhão ;Núcleo de Computação Aplicada NCA-UFMA;09/04/2023;Anselmo Cardoso de Paiva;Aristófanes Corrêa Silva;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal Rural do Semi-Árido;Núcleo de Estudos e Pesquisas em Informática na Educação - nPIE;30/03/2023;Kleber Tavares Fernandes;-;Ciências Exatas e da Terra;Realidade Virtual
+;Atitus Educação;Núcleo de Investigação em Cognição, Emoção e Tecnologias em ;07/10/2022;Camila Rosa de Oliveira;-;Ciências Humanas;Realidade Virtual
+;Instituto Federal Goiano;Núcleo de Pesquisa em Processamento Gráfico e Interação Natural - NuPPGIN;30/05/2022;Alexandre Carvalho Silva;-;Ciências Exatas e da Terra;Realidade Virtual
+;Centro Universitário CESMAC;Núcleo de Pesquisa em Robótica;23/07/2022;Pedro Henrique Venske da Rocha;Mozart de Melo Alves Júnior;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Pernambuco;Núcleo de Pesquisa em Vestibilidade;19/05/2023;Rosiane Pereira Alves;-;Ciências Sociais Aplicadas;Realidade Virtual
+;SENAI - Departamento Regional da Bahia;Núcleo Integrado de Pesquisa Aplicada na Construção Civil;15/05/2023;Larissa da Silva Paes Cardoso;Luara Batalha Vieira;Engenharias;Realidade Virtual
+;Universidade Federal do Rio de Janeiro;Núcleo Universidade, Empresa e Inovação Tecnológica (NUE.iT);19/03/2023;José Roberto Dourado Mafra;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Federal do Paraná;Pesquisa Aplicada em Ciência, Informação e Tecnologia ;28/08/2022;Maria do Carmo Duarte Freitas;Celso Yoshikazu Ishida;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade de São Paulo;Pesquisa e Aplicação Tecnológica em Reabilitação - PATER;08/08/2022;Luciano Vieira de Araújo;Luciano Vieira de Araújo;Ciências da Saúde;Realidade Virtual
+;Instituto de Cardiologia do Rio Grande do Sul;Pesquisa e Inovação em Imagem Cardiovascular;07/07/2022;Marcelo Haertel Miglioranza;José Carlos de Araújo Haertel;Ciências da Saúde;Realidade Virtual
+;Instituto de Cardiologia do Rio Grande do Sul;Pesquisa e Inovação em Imagem Cardiovascular;14/09/2022;Marcelo Haertel Miglioranza;José Carlos de Araújo Haertel;Ciências da Saúde;Realidade Virtual
+;FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS;Processamento de Sinais e Imagens;09/06/2022;Carlos Eduardo Thomaz;-;Engenharias;Realidade Virtual
+;Universidade Federal do Rio de Janeiro;Psicologia e virtualidade: Gestalt-terapia e Práticas Transdisciplinares.;23/03/2023;Marcelo Pinheiro da Silva;Márcia Cristina Estarque Pinheiro da ;Ciências Humanas;Realidade Virtual
+;Universidade Tecnológica Federal do Paraná;Radiologia Médica e Odontológica;03/05/2023;Charlie Antoni Miquelin;Danyel Scheidegger Soboll;Ciências da Saúde;Realidade Virtual
+;Centro Universitário Ingá;Realidade Virtual Aplicada;12/09/2022;Gisele Caroline Novakowski;-;Ciências Exatas e da Terra;Realidade Virtual
+;SENAI - Departamento Regional da Bahia;Realidade Virtual, Realidade Aumentada e mundos virtuais para a ;21/07/2022;Ingrid Winkler;Thiago Barros Murari;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade de Pernambuco;Reconhecimento de Padrões;02/02/2023;Byron Leite Dantas Bezerra;Byron Leite Dantas Bezerra;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Estadual do Piauí;Research on Science Computer;12/02/2023;Dario Brito Calçada;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio Grande;Robótica e Inteligência Artificial;13/01/2023;Silvia Silva da Costa Botelho;Silvia Silva da Costa Botelho;Engenharias;Realidade Virtual
+;Universidade Federal de Lavras;Sensoriamento Remoto e Geoinformação;17/11/2022;Marcelo de Carvalho Alves;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Tecnológica Federal do Paraná;Sistemas Ciber-Físicos Industriais;22/06/2022;Andre Schneider de Oliveira;-;Engenharias;Realidade Virtual
+;Universidade de Passo Fundo;Sistemas Interativos e de Informação - SIN;05/04/2023;Ana Carolina Bertoletti De ;Ana Carolina Bertoletti De Marchi;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade de São Paulo;Tanque de Provas Numérico (TPN-USP);26/09/2022;Eduardo Aoun Tannuri;-;Engenharias;Realidade Virtual
+;Universidade Presbiteriana Mackenzie;TecInt - Tecnologias Interativas;18/11/2022;Ismar Frango Silveira;Maria Amelia Eliseo;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal de Santa Catarina;TECMIDIA;24/04/2023;Milton Luiz Horn Vieira;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Centro Universitário Senac;Tecnologia Aplicada;03/09/2022;Marvin Oliver Schneider;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade do Estado de Santa Catarina;Tecnologia aplicada ao projeto de Arquitetura, Urbanismo e Paisagismo;11/04/2023;Rafael Zanelato Ledo;Rafael Zanelato Ledo;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Federal do Maranhão ;TECNOLOGIA E NARRATIVAS DIGITAIS - TECND;05/11/2022;Marcio Carneiro dos Santos;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Franciscana;Tecnologia e Sistemas em Informática;02/05/2023;Ana Paula Canal;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Tecnológica Federal do Paraná;Tecnologia Interativa Visual;04/03/2023;Paulo Augusto Nardi;Paulo Augusto Nardi;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB;Tecnologias e Inovações Educacionais;13/10/2022;Alexandre Fonseca D'Andréa;Francisco Petrônio Alencar de Medeiros;Ciências Humanas;Realidade Virtual
+;Universidade Federal da Paraíba;Tecnologias em Sistemas Interativos e Inteligentes;11/05/2023;Ronei Marcos de Moraes;Ronei Marcos de Moraes;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade de São Paulo;Telemedicina, Educação Digital e Saúde Conectada;24/07/2022;Raymundo Soares de Azevedo Neto;Raymundo Soares de Azevedo Neto;Ciências da Saúde;Realidade Virtual
+;Universidade Federal do Espírito Santo;TIP . Tecnologias Integradas ao Projeto;13/07/2022;Jarryer Andrade De Martino;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Federal do Ceará;UFC_CRAb: Grupo de Computação gráfica, Realidade virtual, Animação e ;03/06/2022;Joaquim Bento Cavalcante Neto;Joaquim Bento Cavalcante Neto;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Agreste de Pernambuco;UNAME Research Group;03/03/2023;Jean Carlos Teixeira de Araujo;-;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Rio Grande do Sul;Virtual Design;04/11/2022;Fábio Gonçalves Teixeira;Régio Pierre da Silva;Ciências Sociais Aplicadas;Realidade Virtual
+;Instituto Federal do Triângulo Mineiro;Virtual_Lab IFTM;30/11/2022;Alexandre Ribeiro Silva Júnior;-;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal do Maranhão;Visão Computacional e Aplicações Inteligentes;06/04/2023;Daniel Lima Gomes Júnior;Alex Martins Santos;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Federal do Amazonas;Visão Computacional e Robótica;04/02/2023;José Pinheiro de Queiroz Neto;José Pinheiro de Queiroz Neto;Ciências Exatas e da Terra;Realidade Virtual
+;Universidade Estadual de Campinas;XR Lab;01/03/2023;Ana Regina Mizrahy ;-;Ciências Sociais Aplicadas;Realidade Virtual
+;Universidade Federal de Ouro Preto;XR4Good - Realidade Estendida para o Bem;04/05/2023;Andrea Gomes Campos Bianchi;Andrea Gomes Campos Bianchi;Ciências Exatas e da Terra;Realidade Virtual
+;Instituto Federal de Santa Catarina;XRAI - Realidade Estendida e Inteligência Artificial;12/04/2023;Sérgio Augusto Bitencourt ;-;Engenharias;Realidade Virtual
+;Universidade Federal de Minas Gerais;Industrial Big Data and Visual Analytics;08/05/2023;Gustavo Matheus de Almeida;Song Won Park;Engenharias;Realidade Virtual
+;Universidade Federal Fluminense;ALODE - Grupo de Pesquisa em Algoritmos e Logística Descentralizada;30/11/2022;Igor Machado Coelho;-;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal de Pernambuco;Banco de Dados;22/09/2022;Valeria Cesario Times;-;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal de São Paulo;Blockchain: técnicas, ferramentas e aplicações;07/05/2023;Arlindo Flavio da Conceição;Nandamudi Lankalapalli ;Ciências Exatas e da Terra;Blockchain
+;Universidade de São Paulo;Centro de Gestão da Inovação e Sustentabilidade;24/04/2023;Maicon Gouvea de Oliveira;-;Engenharias;Blockchain
+;Pontifícia Universidade Católica do Paraná;CiberSegurança e Privacidade;17/09/2022;Altair Olivo Santin;Eduardo Kugler Viegas;Ciências Exatas e da Terra;Blockchain
+;Universidade de São Paulo;CRIPTOECONOMIA E REGULAÇÃO;15/07/2022;Newton De Lucca;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Estadual de Londrina;Desenvolvimento de Sistemas Críticos;03/03/2023;Adilson Luiz Bonifácio;-;Ciências Exatas e da Terra;Blockchain
+;Fundação UNIRG;Direito do Consumidor e Sociedade da Era Digital;19/03/2023;Adriano Fernandes Moreira;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Federal da Bahia;Direito, Tecnologia e Inovação ;11/05/2023;Técio Spínola Gomes;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Federal de Minas Gerais;Direito, Tecnologia e Inovação - DTI UFMG;12/05/2023;Leonardo Netto Parentoni;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Federal Rural de Pernambuco;DiSys - Grupo de Pesquisa em Sistemas Distribuídos;05/04/2023;Fernando Antonio Aires Lins;Fernando Antonio Aires Lins;Ciências Exatas e da Terra;Blockchain
+;Claretiano - Faculdade;Estudo Multidisciplinar de Gestão;28/03/2023;Mateus Colabone Neto;Mateus Colabone Neto;Ciências Sociais Aplicadas;Blockchain
+;Universidade Federal de Pernambuco;Finanças Digitais;27/04/2023;José Carlos Silva Cavalcanti;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Federal do Pará;GERCOM: Grupo de Pesquisa em Redes de Computadores e Comunicação ;16/01/2023;Antonio Jorge Gomes Abelém;Eduardo Coelho Cerqueira;Ciências Exatas e da Terra;Blockchain
+;Centro de Estudos e Sistemas Avançados do Recife;GPSDN - Grupo de Pesquisas em Sistemas Distribuídos e Nuvens;19/04/2023;Carlos André Guimarães Ferraz;Carlos André Guimarães Ferraz;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal da Grande Dourados;Grupo de Estudo em Processos Produtivos: Gestão, Projeto, Tecnologia ;12/04/2023;Larissa Diniz Freitas;Larissa Diniz Freitas;Engenharias;Blockchain
+;Universidade Federal do Rio de Janeiro;Grupo de Pesquisa Aplicada Multidisciplinar e Desenvolvimento ;05/07/2022;Doneivan Fernandes Ferreira;Doneivan Fernandes Ferreira;Ciências Exatas e da Terra;Blockchain
+;Universidade de São Paulo;Grupo de pesquisa de Lavagem de Dinheiro;06/05/2023;Pierpaolo Cruz Bottini;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;Grupo de Pesquisa em Computação Aplicada - GCA;08/07/2022;Rafael Zancan Frantz;Sandro Sawicki;Ciências Exatas e da Terra;Blockchain
+;Universidade Salvador;Grupo de Pesquisa em Engenharia de Software e Aplicações;26/09/2022;Sérgio Martins Fernandes;Sérgio Martins Fernandes;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal de São Carlos;Grupo de Pesquisa em Gestão de Operações & Cadeia de Suprimentos ;19/03/2023;Gilberto Miller Devós Ganga;Gilberto Miller Devós Ganga;Engenharias;Blockchain
+;Instituto Federal de São Paulo;Grupo de Pesquisas em Tecnologias Inovadoras (i2)  ;16/09/2022;Mario Tadashi Shimanuki;-;Ciências Exatas e da Terra;Blockchain
+;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;Grupo de Segurança Cibernética e Sistemas Ciber-Físicos (SciFi);19/07/2022;Roben Castagna Lunardi;-;Ciências Exatas e da Terra;Blockchain
+;Sociedade Educacional de Santa Catarina;Grupo de Segurança e Criptografia - GruSeC;15/06/2022;Mehran Misaghi;-;Ciências Exatas e da Terra;Blockchain
+;Universidade Estadual Paulista Júlio de Mesquita Filho;GRUPO DE TECNOLOGIA DE INFORMACAO APLICADA;06/11/2022;Roberta Spolon;Roberta Spolon;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal do Rio de Janeiro;Humanas Tecnologias;06/01/2023;Aline Couri Fabião;-;Lingüística, Letras e Artes;Blockchain
+;Centro de Estudos e Sistemas Avançados do Recife;IAD - Iniciativa de Ativos Digitais;09/03/2023;Eiran Simis;Eiran Simis;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal do Ceará;Ibituruna;15/12/2022;Emanuel Ferreira Coutinho;Emanuel Ferreira Coutinho;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal de Ouro Preto;Indústria 4.0;15/05/2023;Bruno Nazário Coelho;-;Engenharias;Blockchain
+;Instituto Federal da Bahia;INSERT;02/12/2022;Leobino Nascimento ;Leobino Nascimento Sampaio;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal do Pará;Laboratório de Cidades Inteligentes e Sustentáveis (LaCiS);27/01/2023;Denis Lima do Rosário;-;Ciências Exatas e da Terra;Blockchain
+;Instituto Federal do Piauí;Laboratório de Computação Aplicada de Parnaíba - LaCAPa;29/09/2022;Francisco Gerson Amorim de ;-;Ciências Exatas e da Terra;Blockchain
+;Universidade de São Paulo;Laboratório de Economia, Matemática e Computação (LEMC-FEARP/USP);21/12/2022;Jefferson Donizeti Pereira Bertolai;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Estadual do Piauí;Laboratório de Engenharia de Software;21/12/2022;Alcemir Rodrigues Santos;-;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal Fluminense;Laboratório MídiaCom;04/05/2023;Debora Christina Muchaluat Saade;Célio Vinicius Neves de Albuquerque;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal de Santa Catarina;LabSEC - LABORATÓRIO DE SEGURANÇA EM COMPUTAÇÃO;19/07/2022;Ricardo Felipe Custodio;Jean Everson Martina;Ciências Exatas e da Terra;Blockchain
+;Instituto Federal da Bahia;LACE - Laboratório de Computação e Engenharia;30/03/2023;Eduardo Oliveira Teles;Rosangela de Araújo Santos;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal do Sul e Sudeste do Pará;NESC - Núcleo de Estudos em Segurança e Computação Aplicada;17/02/2023;Hugo Pereira Kuribayashi;Marcela Alves de Souza;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal de Juiz de Fora;NetLab: Networks and Distributed Systems Lab;13/04/2023;Alex Borges Vieira;Edelberto Franco Silva;Ciências Exatas e da Terra;Blockchain
+;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;Nu[TeC]² : Núcleo de estudos em Técnicas e Teoria da Computação;11/03/2023;Karin Satie Komati;Jefferson Oliveira Andrade;Ciências Exatas e da Terra;Blockchain
+;INSTITUTO BRASILEIRO DE ENSINO, DESENVOLVIMENTO E PESQUISA;Núcleo de Direito Digital e Disrupção ND3;18/11/2022;Leandro Oliveira Gobbo;-;Ciências Sociais Aplicadas;Blockchain
+;Universidade Estadual de Campinas;Observatório Regional de Logística;26/10/2022;Paulo Sérgio de Arruda Ignácio;Alessandro Lucas da Silva;Engenharias;Blockchain
+;Universidade Federal Rural de Pernambuco;Segurança Cibernética e da Informação;28/02/2023;Fernando Antonio Aires Lins;Robson Wagner Albuquerque de ;Ciências Exatas e da Terra;Blockchain
+;Universidade Estadual de Campinas;Sistemas Distribuídos;11/05/2023;Luiz Fernando Bittencourt;-;Ciências Exatas e da Terra;Blockchain
+;Universidade Estadual do Tocantins;Softins - Núcleo de software do Tocantins;19/06/2022;Jânio Elias Teixeira Júnior;Jânio Elias Teixeira Júnior;Ciências Exatas e da Terra;Blockchain
+;Universidade de São Paulo;Telemedicina, Educação Digital e Saúde Conectada;24/07/2022;Raymundo Soares de Azevedo Neto;Raymundo Soares de Azevedo Neto;Ciências da Saúde;Blockchain
+;Universidade Federal da Bahia;WISER: Web, Internet and Intelligent Systems Research Group;20/03/2023;Cássio Vinicius Serafim Prazeres;-;Ciências Exatas e da Terra;Blockchain
+;Universidade Federal de Ouro Preto;Indústria 4.0;15/05/2023;Bruno Nazário Coelho;-;Engenharias;Gêmeo Digital
+;Universidade Federal de Juiz de Fora;Núcleo de Pesquisa em Engenharia do Conhecimento;25/08/2022;Regina Maria Maciel Braga;Jose Maria Nazar David;Ciências Exatas e da Terra;Gêmeo Digital
+;Universidade Federal de São Paulo;Transformação  nas Organizações, Sociedade e indivíduos - TOSI;25/11/2022;Kumiko Oshio Kissimoto;-;Ciências Sociais Aplicadas;Gêmeo Digital
+;Universidade Federal de Campina Grande;Transformação Digital de Processos Industriais;22/09/2022;Heleno Bispo da Silva Junior;Jose Jailson Nicacio Alves;Engenharias;Gêmeo Digital
+;Instituto Federal de Santa Catarina;XRAI - Realidade Estendida e Inteligência Artificial;12/04/2023;Sérgio Augusto Bitencourt ;-;Engenharias;Gêmeo Digital
+;Universidade Federal Rural do Rio de Janeiro;Água e Solos em Agroecossistemas;07/12/2022;Rosane Ferreira de Oliveira;Rosane Ferreira de Oliveira;Ciências Agrárias;Gêmeo Digital
+;FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS;Indústria 4.0;24/06/2022;Fábio Lima;-;Engenharias;Gêmeo Digital
+;Universidade Tecnológica Federal do Paraná;LAIPSE - Laboratório de Análise Inteligente em Processos e Sistemas ;28/04/2023;Narco Afonso Ravazzoli ;-;Engenharias;Gêmeo Digital
+;Universidade de São Paulo;Metalab - Metaverse Laboratory for Research and Innovation;23/08/2022;André Carlos Busanelli de ;-;Ciências Sociais Aplicadas;Metaverso
+;Universidade Federal Fluminense;BIM, Metaverso e Inovação 4.0 aplicados à Arquitetura e Engenharia;05/05/2023;Ercilia de Stefano;-;Engenharias;Metaverso
+;Fundação Getúlio Vargas;Cubo de Inovação - Laboratório de Pesquisa e Produção em Ambientes ;10/02/2023;Alessandra Cristina da Silva ;-;Ciências Sociais Aplicadas;Metaverso
+;Universidade Municipal de São Caetano do Sul;Direito Digital, Mercado e Regulação ;09/03/2023;Gabrielle Jacobi Kölling;-;Ciências Sociais Aplicadas;Metaverso
+;Universidade Federal do Rio de Janeiro;GRUPO DE PESQUISA COGITARE: Estudos em Formação, Política e ;27/02/2023;Gustavo de Oliveira Figueiredo;Sônia Cristina Soares Dias Vermelho;Ciências Humanas;Metaverso
+;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB;Grupo de Pesquisa em Engenharia de Software Aplicada;23/02/2023;Heremita Brasileiro Lira;Francisco Petrônio Alencar de Medeiros;Ciências Exatas e da Terra;Metaverso
+;Secretaria de Educação do Distrito Federal;Grupo Metaverso (Grupo de Estudos e Pesquisas sobre Inovação em ;04/12/2022;Luciene Pereira;-;Ciências Humanas;Metaverso
+;Universidade de São Paulo;OHEIM - Observatory of Higher Education Institutions and Modernities;23/11/2022;Rafael de Freitas Souza;-;Ciências Sociais Aplicadas;Metaverso
+;Universidade Federal de Santa Catarina;studioKEM - Modelos e sistemas computacionais apoiados em ;06/08/2022;José Leomar Todesco;José Leomar Todesco;Ciências Exatas e da Terra;Metaverso
+;Universidade Federal do Ceará;Tecnologias Aplicadas ao Ensino, Pesquisa e Divulgação Científica;24/02/2023;Roberta Jeane Bezerra Jorge;Mirna Marques Bezerra;Ciências Biológicas;Metaverso

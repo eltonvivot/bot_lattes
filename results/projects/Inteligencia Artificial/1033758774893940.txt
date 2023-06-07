@@ -1,0 +1,21 @@
+2018 - Atual
+Estabilização interna e controlabilidade de sistemas governados pelas EDPs (parte VII)
+Descrição: Realizar a abordagem numérica dos problemas descritos no projeto em questão, em especial o estudo do problema da equação da onda com termo de memória. A partir da análise numérica de problemas de valor inicial e de contorno relacionados, espera-se analisar a eficiência e a precisão dos métodos numéricos utilizados para resolver os respectivos problemas, bem como verificar numericamente, por meio de simulações numéricas, as propriedades teóricas de decaimento apresentadas para estes problemas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Juliana Castanon Xavier - Integrante / Valéria Neves Domingos Cavalcanti - Coordenador.
+2017 - Atual
+Métodos Numéricos Aplicados à Engenharia
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Juliana Castanon Xavier - Coordenador.Número de produções C, T & A: 2
+2012 - 2014
+Dinâmica da Estruturação Salífera - análise, simulações numéricas e visualização dos estados termo-mecânicos do sal- Fase I
+Descrição: Determinar a dinâmica envolvida na estruturação de formações evaporíticas com a consequente caracterização dos campos de tensões e pressões tanto no sal, quanto nas rochas sedimentares sotopostas e sobrepostas. Determinar a sua influência mecânica e térmica na estabilidade de poços.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Juliana Castanon Xavier - Integrante / Mauro Antonio Rincon - Coordenador.Financiador(es): Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello - Auxílio
+										financeiro.
+2011 - 2014
+Análise e Simulação Numérica da Tectônica do Sal -- Grande Deformação e Variação Térmica
+Descrição: Sabe-se que efeitos de temperatura afetam as bacias sedimentares ao longo do tempo e o estudo da tectônica do sal desperta interesse na indústria petrolífera, sendo relevante a compreensão dos mecanismos e da dinâmica de tais deformações. O objetivo do projeto é analisar numericamente e computacionalmente a influência da temperatura no modelo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliana Castanon Xavier - Integrante / Mauro Antonio Rincon - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - Atual
+Métodos Numéricos e Otimização
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (8) . Integrantes: Juliana Castanon Xavier - Integrante / ALFARO VIGO, D.G. - Integrante / RINCON, MAURO A. - Coordenador / Marcello Goulart Teixeira - Integrante.
+2009 - 2011
+Computação Gráfica em 3D do Problema da Têctonica do Sal
+Descrição: Desenvolver a parte gráfica dos programas computacionais do modelo matemático. Situação: Concluído; Natureza: Pesquisa. Integrantes: Juliana Castanon Xavier - Integrante / Mauro Antonio Rincon - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

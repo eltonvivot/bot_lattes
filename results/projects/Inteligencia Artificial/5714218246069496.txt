@@ -1,0 +1,32 @@
+2020 - 2020
+Sinesp Big Data e Inteligência Artificial para Segurança Pública
+Descrição: O objetivo geral deste projeto é desenvolver estudos científicos com intuito de desenvolver uma estratégia de melhoria da legibilidade para muitos componentes em uma interface gráfica voltados para um sistema de segurança pública.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Andreia Libório Sampaio - Coordenador / Ticiana L. Coelho da Silva - Integrante / osé Antônio Fernandes de Macêdo - Integrante / Maria Carolina Barros Meireles - Integrante / Diogo Nazareno A. de Melo - Integrante / Talita Vasconcelos da Silva - Integrante.
+2020 - Atual
+UM MODELO PARA DISCUTIR SOBRE INTELIGÊNCIA ARTIFICIAL EXPLICÁVEL
+Descrição: As pesquisas na área de Inteligência Artificial Explicável tem crescido impulsionados pela busca
+por maior entendimento do raciocínio subjacente em algoritmos ?caixa preta?, e uma maior
+cobrança da sociedade. A privacidade dos dados vem sendo discutida no Brasil, através da Lei
+Geral de Proteção de Dados Pessoais (LGPD) e na Europa, através do Regulamento Geral de
+Proteção de Dados (GDPR). Ambas visam garantir ao usuário mais privacidade e controle sobre
+seus dados, a fim de evitar mal uso por parte de terceiros. Além da privacidade, a GDPR e a
+LGPD, preveem o direito à explicação, no qual as empresas devem explicar aos usuários como
+são geradas determinadas inferências, a partir de sistemas automatizados. Entretanto, gerar boas
+explicações ainda é um desafio, principalmente nos casos de sistemas que usam algorítimos de
+aprendizagem profunda, pois existe um modelo matemático complexo que dificilmente pode
+ser explicado para o usuário final. Uma das tentativas de contornar esse problema é trabalhar
+na comunicação entre todos os envolvidos no desenvolvimento de um sistema de aprendizagem
+de máquina. Este projeto objetiva desenvolver um modelo de discussão sobre IA
+Explicável envolvendo todos os atores da construção do sistema. Esse modelo fundamenta-se
+na Engenharia Semiótica, uma teoria da área de Interação Humano-computador, que define a
+interação homem-máquina, como um processo de comunicação entre designers e usuários. Este projeto de pesquisa está vinculado ao projeto Governo Digital do Estado do Ceará, desenvolvido pelo LABORATÓRIO ÍRIS - CASA CIVIL DO GOVERNO DO ESTADO DO CEARÁ.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Andreia Libório Sampaio - Integrante / Davi Romero de Vasconcelos - Coordenador / NILTEMBERG DE OLIVEIRA CARVALHO - Integrante.
+2016 - Atual
+Avaliação Da Interação Em Sistemas Sociais A Partir Da Linguagem Textual Do Usuário
+Descrição: Estudo e implementação de novas técnicas de avaliação da interação em SS a partir da linguagem textual do usuário.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Andreia Libório Sampaio - Coordenador / Vasco Furtado - Integrante / Marilia Soares Mendes - Integrante / Ingrid Teixeira Monteiro - Integrante / Maria Elizabeth Sucupira Furtado - Integrante / JEAN VANDERDONCKT - Integrante / VLÁDIA CÉLIA MONTEIRO PINHEIRO - Integrante / LÍVIA ALMADA CRUZ - Integrante.
+2012 - Atual
+Auto-avaliação continuada de cursos de graduação por meio da gestão do  conhecimento
+Descrição: Coordenar a implantação de boas práticas de gestão do conhecimento que
+viabilizem a auto-avaliação continuada dos cursos de graduação ofertados pelo 
+Campus da UFC em Quixadá por suas coordenações.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Andreia Libório Sampaio - Coordenador / Tânia Pinheiro - Integrante / Paulyne Jucá - Integrante.
+2005 - 2009
+ICDL - Brasil
+Descrição: O ICDL-Brasil é um projeto de cooperação binacional entre a PUC-Rio (Brasil) e a Universidade de Maryland College-Park (Estados Unidos), apoiado pelo CNPq/NSF. Tem por objetivo traduzir e adaptar culturalmente a interface da Biblioteca Digital Internacional para Crianças (ICDL), com vistas a incentivar a leitura e a escrita junto a crianças brasileiras. Através deste incentivo, o projeto almeja contribuir para amenizar os efeitos dos altos índices de analfabetismo funcional existentes no Brasil. (Veja http://www.serg.inf.puc-rio.br/icdl-brasil). Situação: Concluído; Natureza: Pesquisa. Integrantes: Andreia Libório Sampaio - Coordenador / Silvia Amélia Bim - Integrante / Luciana Cardoso de Castro Salgado - Integrante / Violeta de San Tiago Dantas Barbosa Quentel - Integrante / Clarisse Sieckenius de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.

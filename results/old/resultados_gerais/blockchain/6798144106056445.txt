@@ -1,0 +1,3 @@
+2011 - 2012
+Medição de Projetos em um Ambiente de Desenvolvimento de Software
+Descrição: O objetivo deste trabalho é prover ao ambiente ODE, ferramental de apoio às atividades de medição e análise, aderente aos modelos CMMI e MPS.BR. A ferramenta utiliza o planejamento da medição alinhada aos objetivos estratégicos da organização para coletar e analisar medidas, comunicar oportunidades de melhoria e apoiar a tomada de decisão, além de registrar ações corretivas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gabriel Quézid Azeredo Loureiro - Coordenador / Fabiano Borges Ruy - Integrante / Vinicius Tavares Assis - Integrante.

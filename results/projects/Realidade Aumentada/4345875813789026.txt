@@ -1,0 +1,88 @@
+2019 - Atual
+Novas Tecnologias para a melhoria da Qualidade de Serviços do Estado do Rio de Janeiro
+Projeto certificado pelo(a) coordenador(a) Luiz Satoru Ochi em 03/10/2019.
+Descrição: Muitos problemas originados em aplicações reais apresentam características tipicamente
+combinatórias e envolvem a otimização de suas variáveis. Alguns exemplos que podem ser
+citados são: projeto, operação e roteamento em redes de comunicações; planejamento da
+expansão e da operação de sistemas para extração e tratamento de petróleo; gestão de atividades
+e logística de transportes e roteamento de veículos; e gestão de sistemas escolares.
+Para a solução desta classe de problemas, são empregadas ferramentas fornecidas pela
+otimização combinatória, pela programação matemática, pela teoria de grafos e algoritmos, pela
+teoria da complexidade e pelos sistemas de processamento paralelo.
+Este projeto busca desenvolver tecnologias inovadoras baseadas nas ferramentas acima que
+sejam efetivas na solução de problemas práticos de elevada complexidade computacional,
+conjugando-se propostas cientificas que propiciem soluções eficientes no sentido
+operacional de diferentes empresas e/ou instituições. Neste contexto, colocam-se como
+prioridade neste projeto, dois temas cruciais para atingir estas metas: a Otimização de
+Recursos (Minimização de Custos e Maximização de Lucros) e a Exploração Eficiente de
+Ambientes Computacionais (Processamento Paralelo e Distribuído).
+No contexto de Otimização e Inteligência Computacional, embora esse tema já esteja
+presente nas pesquisas acadêmicas há várias décadas, existe uma lacuna entre as situações
+que estas tecnologias resolvem e as situações reais tanto de instituições públicas como
+privadas.
+A otimização tradicionalmente se utiliza de métodos classificados como Métodos Exatos
+(Programação Linear e Inteira) e Métodos Aproximados ou Heurísticas. Dentro os métodos
+heurísticos, existem as Meta-heurísticas, que são heurísticas mais robustas que tem
+apresentado bom desempenho em termos de qualidade e tempo computacional.
+Este projeto de pesquisa, tem como meta principal, criar ferramentas de apoio na solução de
+problemas de otimização combinatória de elevada complexidade computacional (problemas
+NP-Completo e NP-Hard). Estes problemas estão diretamente relacionados a problemas
+práticos encontrados em diferentes áreas do estado do Rio de Janeiro.
+O projeto está direcionado para as seguintes áreas de pesquisa: Otimização, Inteligência
+Computacional e Processamento Paralelo e Distribuído. No contexto de Otimização e
+Inteligência Computacional, o desenvolvimento de técnicas meta-heurístícas híbridas e
+versões híbridas conjugando conceitos de Programação Matemática e Meta-heurísticas
+(Matheuristics). No contexto de processamento paralelo objetiva-se utilizar máquinas
+paralelas para se obter resultados em menor tempo computacional, propiciando que estas
+técnicas sejam utilizadas para resolver problemas reais que acontecem em áreas urbanas e
+rurais.
+Este projeto visa oferecer soluções para problemas reais que ocorrem no Estado do Rio de
+Janeiro, possibilitar a formação de recursos humanos através de nossos programas de pós-
+graduação e cursos de graduação, e divulgar os resultados através da publicação de um
+volume significativo de trabalhos científicos.
+Para cumprir estes objetivos necessita-se realizar a manutenção e melhoria do ambiente de
+pesquisa já existente na Universidade Federal Fluminense para desenvolvimento das
+atividades relacionadas ao projeto.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Renato Villela da Silva - Integrante / Luiz Satoru Ochi - Coordenador / Celso Carneiro Ribeiro - Integrante / Fabio Protti - Integrante / Simone de Lima Martins - Integrante / Carlos Alberto Martinhon - Integrante / Raquel Bravo - Integrante / Loana Tito Nogeira - Integrante / Luis Antonio Kowada - Integrante / Isabel Rosseti - Integrante.
+2018 - 2018
+Estudo de meta-heurísticas para Problema do Caixeiro Alugador
+Descrição: O objetivo desta bolsa é tratar do Problema do Caixeiro Alugador, que é uma variante do clássico Problema do Caixeiro Viajante. Nesse problema, existem diversas opções de veículos que podem ser utilizados para se percorrer a rota em questão. Cada veículo apresenta custos operacionais diferentes, o que faz com que a rota ótima (custo total mínimo) possa apresentar trechos percorridos com veículos distintos.
+As referências bibliográficas existentes tratam apenas do modelo básico do problema que apresenta características pouco realistas tais como não poder utilizar o mesmo veículo para dois trechos não consecutivos da rota ou poder alugar e devolver o veículo atual em qualquer cidade da rota.
+ 	As etapas descritas inicialmente iniciam-se com a revisão bibliográfica sobre o tema, a análise das características a serem consideradas, a adaptação de algoritmos já existentes para o modelo básico do problema e a implementação de algoritmos heurísticos específicos para as variantes a serem estudadas, além da confecção de artigos e/ou trabalhos científicos com a participação do aluno bolsista.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: André Renato Villela da Silva - Coordenador / José Victor Dias Pereira - Integrante.Financiador(es): FAPERJ - Bolsa.Número de produções C, T & A: 2
+2015 - Atual
+Estudo de problemas sobre coloração de grafos
+Descrição: A área de Otimização Combinatória trata de diversos problemas computacionais modelados através de grafos.  Os chamados Problemas de Coloração em Grafos formam uma classe de problemas onde os elementos dos grafos (vértices e/ou arestas) apresentam um atributo extra, denominado cor do vértice e/ou cor da aresta. Os possíveis objetivos são os mais diversos possíveis, mas consistem principalmente em associar cores aos vértices e/ou arestas ou modificar as cores já existentes, sempre buscando o menor número de modificações ou realizando as modificações menos custosas de acordo com alguma métrica pré-estabelecida. 
+Vale a pena destacar dois destes problemas: o Problema de Inundação em Grafos e o Problema de Recoloração de Arestas. O primeiro deles consiste em modificar a cor de vértices específicos para que se unam aos vizinhos de mesma cor. O segundo consiste em modificar a cor das arestas de maneira a formar apenas ciclos propriamente coloridos.
+Este projeto visa estudar estes dois problemas, apresentando formulações matemáticas e/ou métodos heurísticos eficientes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Renato Villela da Silva - Coordenador.Financiador(es): FAPERJ - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2014 - 2015
+ALOCAÇÃO DE HORÁRIOS DE PROFESSORES E TURMAS EM UM CURSO UNIVERSITÁRIO
+Descrição: O problema da geração de grade de horários em qualquer instituição de ensino é antigo e recorrente a cada início de período letivo. Os responsáveis pela construção da grade consomem horas do seu tempo para encontrar uma solução razoavelmente satisfatória, a qual, na maioria das vezes, não é a solução ótima. Trata-se de um problema combinatório complexo [Vieira e Macedo 2011], uma vez que o conjunto de interesses particulares da instituição, professores e alunos geram várias condições conflitantes a serem atendidas. Realizando o serviço de forma manual, é muito difícil encontrar a alocação de horários ?perfeita?, ou seja, que deixe todos os envolvidos satisfeitos.
+	O processo de alocação de horários é denominado Timetabling. O Timetabling pode ser descrito como o problema de se alocar o encontro de determinados recursos dentro de um determinado espaço de tempo [Simão 2013]. Conforme [Vieira e Macedo 2011] e [Paim e Greis 2008], este problema, no caso de instituições de ensino, baseia-se em agendar uma sequência de encontros, como aulas ou outro tipo de atividade escolar, entre a instituição, os professores e os alunos em um período de tempo determinado, de forma a satisfazer restrições de diversos tipos. 
+	Este artigo descreve um sistema de geração automática de grade de horários, desenvolvido para atender as necessidades do curso de Ciência da Computação da Universidade Federal Fluminense (UFF), no campus de Rio das Ostras. O problema é abordado através da criação de uma formulação matemática para atender o conjunto de restrições existentes. 
+	A situação para esta universidade complica-se também pelo fato de que a maior parte dos professores reside em outras cidades, o que insere novas restrições, como o desejo por minimizar a quantidade de dias que se deve ir à instituição. Sendo assim, como o curso não possui qualquer sistema informatizado que resolva o problema de geração da grade de horários de forma ágil e fácil, o resultado implica em soluções que não atendem às expectativas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: André Renato Villela da Silva - Coordenador / Ana Flávia Neves Gall - Integrante.Financiador(es): FAPERJ - Bolsa.Número de produções C, T & A: 2
+2013 - 2017
+Fortalecimento do Grupo de Pesquisa em Computação Distribuída e Sistemas Digitais
+Descrição: Reúne pesquisadores e discentes do Polo Universitário de Rio das Ostras que compartilham interesse em aspectos teóricos e práticos relacionados a sistemas computacionais, incluindo a modelagem de sistemas e a aplicação e desenvolvimento de algoritmos de otimização. Os trabalhos desenvolvidos envolvem inteligência artificial, inferência, algoritmos adaptativos e modelagem com aplicação em bioengenharia, sistemas embarcados e sistemas computacionais dedicados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Renato Villela da Silva - Coordenador / Maise Dantas da Silva - Integrante / Leandro Soares de Souza - Integrante / Danilo Artigas da Rocha - Integrante / Alessandro Copetti - Integrante / Marcos Ribeiro Quinet - Integrante.
+2013 - 2016
+Desenvolvimento e análise experimental de heurísticas e métodos exatos para problemas baseados em jogos de computador
+Descrição: O projeto visa analisar diversos jogos digitais (jogos de computador) em busca de problemas computacionais que possam ser modelados como problemas de grafos ou problemas de otimização combinatória. A proposta é desenvolver métodos heurísticos ou exatos para solucionar os problemas de forma que o usuário (jogador) também possa ser desafiado a se aprofundar mais na experiência do jogo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Renato Villela da Silva - Coordenador / Maise Dantas da Silva - Integrante.Número de produções C, T & A: 1
+2008 - 2010
+GESTÃO DA INFORMAÇÃO ATRAVÉS DA INTELIGÊNCIA COMPUTACIONAL (GINICOM)
+Descrição: Este grupo de pesquisa foi criado para o desenvolvimento de pesquisas nas áreas de Computação, Tecnologias de Informações, Engenharias e Pesquisa Operacional. Teve inicio em 2008, com a aprovação do Projeto "Gestão de Informações através da Inteligência Computacional - GINICOM", do edital MCT/CNPq/CT-INFO 07/2007, sob a coordenação do Prof Luiz Satoru Ochi. O projeto reune pesquisadores renomados da UFF, UFRJ, UNICAMP e IBGE além de alunos de pós graduação do IC-UFF e da COPPE-UFRJ... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (10)  / Doutorado: (9) . Integrantes: André Renato Villela da Silva - Integrante / Luiz Satoru Ochi - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+PENSA RIO 2007
+Descrição: Pesquisa na área de Inteligencia Computacional, Otimização e Tecnologia de Informações. Projeto da FAPERJ, edital: PENSA RIO 2007. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (10)  / Doutorado: (8) . Integrantes: André Renato Villela da Silva - Integrante / Luiz Satoru Ochi - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2007 - 2009
+Otimização da Logística Ferroviária no Brasil
+Descrição: Desenvolimento de algoritmos para problema de logística, roteamento e escalonamento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (4) . Integrantes: André Renato Villela da Silva - Integrante / Laura Silvia Baihense Leite - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Metaheurísticas para Otimização Combinatória: Contribuições Algorítmicas, Aplicações, Paralelismo e Problemas Multicritério
+Descrição: Desenvolvimento de algoritmos para problemas de Otimização Combinatória. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: André Renato Villela da Silva - Integrante / Celso Carneiro Ribeiro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Edital UNIVERSAL-CNPq 2007, Faixa B
+Descrição: Projeto de Pesquisa na área de Otimização Combinatória e Inteligencia Computacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (10)  / Doutorado: (9) . Integrantes: André Renato Villela da Silva - Integrante / Luiz Satoru Ochi - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

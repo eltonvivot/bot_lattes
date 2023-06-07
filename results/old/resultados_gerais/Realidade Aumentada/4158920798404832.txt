@@ -1,0 +1,15 @@
+2011 - Atual
+Desenvolvimento de Aplicações Web
+Descrição: Aplicativos Web é o nome dado aos aplicativos que são executados em um
+navegador (por exemplo Firefox, Opera, Chrome, etc.), cujas páginas
+são obtidas em um Servidor Web como o IIS (Microsoft) e Apache
+(linux). As páginas podem ser criadas dinamicamente com o uso de
+"frameworks" como Ruby on Rails, Spring Roo, Asp.net, entre outros.
+A quantidade de Aplicativos Web comerciais tem crescido muito em
+função da padronização visual proporcionada pelo uso de ferramentas
+como HTML5, javascript e CSS (do lado do cliente) e acesso a banco de
+dados remotos utilizando frameworks. 
+Este projeto de pesquisa estudará os padrões adotados para o
+desenvolvimento de aplicações web e analisará casos de uso para
+ambientes específicos, como por exemplo acompanhamento da saúde
+municipal.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Bruno Muller Junior - Coordenador.

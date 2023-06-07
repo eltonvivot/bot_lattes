@@ -1,0 +1,48 @@
+2022 - Atual
+Sustentabilidade e Matemática: validando aplicações
+Descrição: Este projeto tem como objetivo validar um aplicativo desenvolvido em uma pesquisa de iniciação pesquisa anterior.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Vilma Terezinha de Araújo Lima - Integrante / Maria de Fátima Ferreira dos Santos - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2021 - 2022
+Sustentabilidade e Matemática uma Aprendizagem Possível
+Descrição: O projeto tem como objetivo: Desenvolver um aplicativo educacional de Matemática com foco em Sustentabilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Vilma Terezinha de Araújo Lima - Integrante / Maria de Fátima Ferreira dos Santos - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2021 - 2022
+Inteligência Artificial e Matemática na Identificação de Formas Geométricas
+Descrição: Este projeto tem como principal objetivo: Utilizar inteligência artificial na identificação de formas geométricas em imagens, por meio da construção de um algoritmo baseado em redes neurais artificiais (deep learning).
+O aluno trabalhou como voluntario.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Carlos Fábio de Oliveira Mendes - Integrante / Jhonatan Gama Pereira - Integrante.
+2020 - 2021
+Ensinando Trigonometria com o App Inventor
+Descrição: Este projeto tem como objetivo o desenvolvimento de um aplicativo, com o software MIT App
+Inventor, para o ensino de trigonometria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Silvestre da Cruz Monteiro - Integrante / Maria de Fátima Ferreira dos Santos - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2017 - 2018
+Aplicativo Matemático com Ênfase na Sustentabilidade (Pibic)
+Descrição: Este projeto tem por objetivo desenvolver um aplicativo educacional voltado para questões de Matemática com foco em Sustentabilidade. Ao final do trabalho espera-se criar um ambiente para conscientizar os usuários e, consequentemente, reduzir o lixo nas ruas e aterros das cidades, ao mesmo tempo inserir de maneira lúdica os conteúdos matemáticos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Filipe Crysthian Rebelo Costa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2017 - 2018
+Desenvolvimento de Aplicativo para Reconhecimento de Padrões (Paic)
+Descrição: Este projeto tem por objetivo desenvolver um aplicativo web para Reconhecimento de Padrões, por meio da implementação dos seguintes algoritmos: redes neurais, lógica fuzzy, teorema de Bayes e Análise de Componentes Principais ou Principal Component Analysis (PCA). A princípio o reconhecimento está focado em imagens de emotions feliz e triste.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Thaís Melo dos Santos - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.Número de produções C, T & A: 2
+2016 - 2017
+Estudos das Operações Matemáticas Aplicadas em Processamento de Imagem Digital (PIBITI)
+Descrição: Este projeto de iniciação científica tem por objetivo identificar e implementar operações matemáticas voltadas para Processamento Digital de Imagem. Os algoritmos serão implementados com as ferramentas: HTML5 e JavaScript.
+O projeto faz parte do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e  Inovação (PIBITI). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Alexssandra Nogueira da Costa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2015 - 2016
+Desenvolvimento de Jogos Educativos para o Ensino/Aprendizagem de Matemática do Ensino Fundamental (Paic)
+Descrição: O projeto foi renovado por mais um ano e neste segundo momento, pretende-se aperfeiçoar o desenvolvimentos dos jogos, principalmente com recursos voltados para o desenvolvimento na web. O projeto continua com o objetivo de desenvolver e validar o impacto de jogos educacionais de Matemática para o 6º ano do Ensino Fundamental. Este projeto de iniciação científica é fomentado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Douglas Azevedo Souza - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.Número de produções C, T & A: 1
+2015 - 2016
+Desenvolvimento de Aplicativos Matemáticos para o 6º ano do Ensino Fundamental (Paic)
+Descrição: Este projeto de iniciação científica é fomentado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM) e tem por objetivo desenvolver e validar o impacto de aplicativos matemáticos para o 6º ano do ensino fundamental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Alexssandra Nogueira da Costa - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.Número de produções C, T & A: 1
+2014 - 2018
+Ensino de Matemática auxiliado por Softwares Educacionais (Pibid)
+Descrição: Este projeto está vinculado ao Programa Institucional de Bolsa de Iniciação à Docência - Pibid.
+Com atuação no curso de licenciatura de Matemática da UEA, o principal objetivo é abordar a Matemática com o uso de softwares educativos, no intuito de fixar, de maneira lúdica, os conhecimentos adquiridos durante as aulas.
+Estamos trabalhando na Escola Estadual Adalberto Valle, com 2 supervisores e 10 alunos de graduação, atendendo na escola, aproximadamente, 240 alunos.
+O valor informado do financiamento refere-se a média anual paga pelas bolsas de coordenador, supervisor e alunos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10) . Integrantes: Neide Ferreira Alves - Coordenador / Alcides de Castro Amorim Neto - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 2
+2010 - 2011
+Elaboração de Softwares Educativos para os Anos Iniciais do Ensino Fundamental (PIBITI)
+Descrição: Desenvolver softwares educativos que possam auxiliar os professores dos anos iniciais do Ensino Fundamental.
+O referido projeto faz parte do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação - PIBITI/CNPq/UEA,. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Adilma Portela da Fonseca Torres - Integrante / Valentina Justina Oliveira Tobias da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2010
+A importância da implantação de softwares educacionais como facilitador no ensino-aprendizagem dos anos iniciais do ensino fundamental (Paic)
+Descrição: Incentivar os professores (alunos da UEA) a utilizarem softwares educacionais nas suas atividades de sala de aula, além de avaliar o quanto os softwares podem estimulam os alunos e facilitar o ensino-aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Neide Ferreira Alves - Coordenador / Adilma Portela da Fonseca Torres - Integrante / Valentina Justina Oliveira Tobias da Silva - Integrante / Suzane Pessoa Aires - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Bolsa.
+2007 - 2009
+Avaliação da acessibilidade nas escolas da zona centro-sul de Manaus (Profic/Paic)
+Descrição: As estratégias pedagógicas sob orientação da legislação oficial são orientadas no sentido de incluir as crianças e jovens com necessidades educacionais especiais no sistema de ensino regular.
+A escola para ser inclusiva deve estar preparada para receber crianças com necessidades educacionais, com materiais que possam ser aderidos pelas crianças inclusas, trabalhando com as potencialidades das crianças e não com suas deficiências.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Neide Ferreira Alves - Coordenador / Adilma Portela da Fonseca Torres - Integrante / Karla Francisca Margarido Braga - Integrante.Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Auxílio
+										financeiro.Número de produções C, T & A: 1

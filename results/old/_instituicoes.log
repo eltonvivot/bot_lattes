@@ -1,0 +1,141 @@
+2023-05-22 05:45:59 - + Buscando: Universidade Estadual de Londrina
+2023-05-22 05:52:53 - == Universidade Federal Rural do Rio de Janeiro 		Rio de Janeiro
+2023-05-22 05:52:53 - == FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS 		São Paulo
+2023-05-22 05:52:53 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 05:52:53 - == Universidade Federal do Sul e Sudeste do Pará 		Pará
+2023-05-22 05:52:53 - == Universidade Federal do Piauí 		Piauí
+2023-05-22 05:52:53 - == Universidade Federal de Alfenas 		Minas Gerais
+2023-05-22 05:52:53 - == Centro Universitário Academia - UniAcademia 		Minas Gerais
+2023-05-22 05:52:53 - == Universidade Federal do Rio Grande do Sul 		Rio Grande do Sul
+2023-05-22 05:52:53 - == Insper Instituto de Ensino e Pesquisa 		São Paulo
+2023-05-22 05:52:53 - == Universidade Estadual de Campinas 		São Paulo
+2023-05-22 05:52:53 - == Universidade Estadual do Oeste do Paraná 		Paraná
+2023-05-22 05:52:53 - == Universidade Federal de Alagoas 		Alagoas
+2023-05-22 05:52:53 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 05:52:53 - == Fundação Getúlio Vargas 		Goiás
+2023-05-22 05:52:53 - == Universidade do Extremo Sul Catarinense 		Santa Catarina
+2023-05-22 05:52:53 - == Universidade Estadual de Londrina 		nan
+2023-05-22 05:52:54 - + Buscando: Universidade Estadual de Londrina
+2023-05-22 05:52:58 -  > Erro:	Page.locator() got an unexpected keyword argument 'timeout'
+2023-05-22 05:52:59 - == Universidade Federal da Bahia 		Bahia
+2023-05-22 05:52:59 - == Universidade Federal de Minas Gerais 		Minas Gerais
+2023-05-22 05:52:59 - == Universidade de Pernambuco 		Pernambuco
+2023-05-22 05:52:59 - == Universidade do Estado de Minas Gerais 		Minas Gerais
+2023-05-22 05:52:59 - == Universidade Salvador 		nan
+2023-05-22 05:52:59 - + Buscando: Universidade Salvador
+2023-05-22 05:53:04 -  > Erro:	Page.locator() got an unexpected keyword argument 'timeout'
+2023-05-22 05:53:04 - == Universidade Presbiteriana Mackenzie 		nan
+2023-05-22 05:53:05 - + Buscando: Universidade Presbiteriana Mackenzie
+2023-05-22 05:53:10 -  > Erro:	Page.locator() got an unexpected keyword argument 'timeout'
+2023-05-22 05:53:12 - == Universidade Federal de Juiz de Fora 		nan
+2023-05-22 05:53:13 - + Buscando: Universidade Federal de Juiz de Fora
+2023-05-22 05:56:59 - == Universidade Federal Rural do Rio de Janeiro 		Rio de Janeiro
+2023-05-22 05:56:59 - == FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS 		São Paulo
+2023-05-22 05:56:59 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 05:56:59 - == Universidade Federal do Sul e Sudeste do Pará 		Pará
+2023-05-22 05:56:59 - == Universidade Federal do Piauí 		Piauí
+2023-05-22 05:56:59 - == Universidade Federal de Alfenas 		Minas Gerais
+2023-05-22 05:56:59 - == Centro Universitário Academia - UniAcademia 		Minas Gerais
+2023-05-22 05:56:59 - == Universidade Federal do Rio Grande do Sul 		Rio Grande do Sul
+2023-05-22 05:56:59 - == Insper Instituto de Ensino e Pesquisa 		São Paulo
+2023-05-22 05:56:59 - == Universidade Estadual de Campinas 		São Paulo
+2023-05-22 05:56:59 - == Universidade Estadual do Oeste do Paraná 		Paraná
+2023-05-22 05:56:59 - == Universidade Federal de Alagoas 		Alagoas
+2023-05-22 05:56:59 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 05:56:59 - == Fundação Getúlio Vargas 		Goiás
+2023-05-22 05:56:59 - == Universidade do Extremo Sul Catarinense 		Santa Catarina
+2023-05-22 05:56:59 - == Universidade Estadual de Londrina 		nan
+2023-05-22 05:57:00 - + Buscando: Universidade Estadual de Londrina
+2023-05-22 05:57:05 -  > Erro:	'Page' object has no attribute 'with_timeout'
+2023-05-22 05:57:07 - == Universidade Federal da Bahia 		Bahia
+2023-05-22 05:57:07 - == Universidade Federal de Minas Gerais 		Minas Gerais
+2023-05-22 05:57:07 - == Universidade de Pernambuco 		Pernambuco
+2023-05-22 05:57:07 - == Universidade do Estado de Minas Gerais 		Minas Gerais
+2023-05-22 05:57:07 - == Universidade Salvador 		nan
+2023-05-22 05:57:08 - + Buscando: Universidade Salvador
+2023-05-22 05:59:32 - == Universidade Federal Rural do Rio de Janeiro 		Rio de Janeiro
+2023-05-22 05:59:32 - == FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS 		São Paulo
+2023-05-22 05:59:32 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 05:59:32 - == Universidade Federal do Sul e Sudeste do Pará 		Pará
+2023-05-22 05:59:32 - == Universidade Federal do Piauí 		Piauí
+2023-05-22 05:59:32 - == Universidade Federal de Alfenas 		Minas Gerais
+2023-05-22 05:59:32 - == Centro Universitário Academia - UniAcademia 		Minas Gerais
+2023-05-22 05:59:32 - == Universidade Federal do Rio Grande do Sul 		Rio Grande do Sul
+2023-05-22 05:59:32 - == Insper Instituto de Ensino e Pesquisa 		São Paulo
+2023-05-22 05:59:33 - == Universidade Estadual de Campinas 		São Paulo
+2023-05-22 05:59:33 - == Universidade Estadual do Oeste do Paraná 		Paraná
+2023-05-22 05:59:33 - == Universidade Federal de Alagoas 		Alagoas
+2023-05-22 05:59:33 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 05:59:33 - == Fundação Getúlio Vargas 		Goiás
+2023-05-22 05:59:33 - == Universidade do Extremo Sul Catarinense 		Santa Catarina
+2023-05-22 05:59:33 - == Universidade Estadual de Londrina 		nan
+2023-05-22 05:59:33 - + Buscando: Universidade Estadual de Londrina
+2023-05-22 06:00:10 - == Universidade Federal Rural do Rio de Janeiro 		Rio de Janeiro
+2023-05-22 06:00:10 - == FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS 		São Paulo
+2023-05-22 06:00:10 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 06:00:10 - == Universidade Federal do Sul e Sudeste do Pará 		Pará
+2023-05-22 06:00:10 - == Universidade Federal do Piauí 		Piauí
+2023-05-22 06:00:10 - == Universidade Federal de Alfenas 		Minas Gerais
+2023-05-22 06:00:10 - == Centro Universitário Academia - UniAcademia 		Minas Gerais
+2023-05-22 06:00:10 - == Universidade Federal do Rio Grande do Sul 		Rio Grande do Sul
+2023-05-22 06:00:10 - == Insper Instituto de Ensino e Pesquisa 		São Paulo
+2023-05-22 06:00:10 - == Universidade Estadual de Campinas 		São Paulo
+2023-05-22 06:00:10 - == Universidade Estadual do Oeste do Paraná 		Paraná
+2023-05-22 06:00:10 - == Universidade Federal de Alagoas 		Alagoas
+2023-05-22 06:00:10 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 06:00:10 - == Fundação Getúlio Vargas 		Goiás
+2023-05-22 06:00:10 - == Universidade do Extremo Sul Catarinense 		Santa Catarina
+2023-05-22 06:00:10 - == Universidade Estadual de Londrina 		nan
+2023-05-22 06:00:10 - + Buscando: Universidade Estadual de Londrina
+2023-05-22 06:00:11 -  > Erro:	Browser.new_context() got an unexpected keyword argument 'default_timeout'
+2023-05-22 06:00:11 - == Universidade Federal da Bahia 		Bahia
+2023-05-22 06:00:11 - == Universidade Federal de Minas Gerais 		Minas Gerais
+2023-05-22 06:00:11 - == Universidade de Pernambuco 		Pernambuco
+2023-05-22 06:00:11 - == Universidade do Estado de Minas Gerais 		Minas Gerais
+2023-05-22 06:00:11 - == Universidade Salvador 		nan
+2023-05-22 06:00:12 - + Buscando: Universidade Salvador
+2023-05-22 06:00:12 -  > Erro:	Browser.new_context() got an unexpected keyword argument 'default_timeout'
+2023-05-22 06:00:12 - == Universidade Presbiteriana Mackenzie 		nan
+2023-05-22 06:00:13 - + Buscando: Universidade Presbiteriana Mackenzie
+2023-05-22 06:00:13 -  > Erro:	Browser.new_context() got an unexpected keyword argument 'default_timeout'
+2023-05-22 06:00:13 - == Universidade Federal de Juiz de Fora 		nan
+2023-05-22 06:00:14 - + Buscando: Universidade Federal de Juiz de Fora
+2023-05-22 06:01:10 - == Universidade Federal Rural do Rio de Janeiro 		Rio de Janeiro
+2023-05-22 06:01:10 - == FUNDACAO EDUCACIONAL INACIANA PADRE SABOIA DE MEDEIROS 		São Paulo
+2023-05-22 06:01:10 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 06:01:10 - == Universidade Federal do Sul e Sudeste do Pará 		Pará
+2023-05-22 06:01:10 - == Universidade Federal do Piauí 		Piauí
+2023-05-22 06:01:10 - == Universidade Federal de Alfenas 		Minas Gerais
+2023-05-22 06:01:10 - == Centro Universitário Academia - UniAcademia 		Minas Gerais
+2023-05-22 06:01:10 - == Universidade Federal do Rio Grande do Sul 		Rio Grande do Sul
+2023-05-22 06:01:10 - == Insper Instituto de Ensino e Pesquisa 		São Paulo
+2023-05-22 06:01:10 - == Universidade Estadual de Campinas 		São Paulo
+2023-05-22 06:01:10 - == Universidade Estadual do Oeste do Paraná 		Paraná
+2023-05-22 06:01:10 - == Universidade Federal de Alagoas 		Alagoas
+2023-05-22 06:01:10 - == Universidade Tecnológica Federal do Paraná 		Paraná
+2023-05-22 06:01:10 - == Fundação Getúlio Vargas 		Goiás
+2023-05-22 06:01:10 - == Universidade do Extremo Sul Catarinense 		Santa Catarina
+2023-05-22 06:01:10 - == Universidade Estadual de Londrina 		nan
+2023-05-22 06:01:10 - + Buscando: Universidade Estadual de Londrina
+2023-05-22 06:01:45 -  > Erro:	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/div[7]/div/div[11]/div[2]/div/div/div[2]/div/div[1]/div[2]/div[2]/div/span[1]")
+============================================================
+2023-05-22 06:01:45 - == Universidade Federal da Bahia 		Bahia
+2023-05-22 06:01:45 - == Universidade Federal de Minas Gerais 		Minas Gerais
+2023-05-22 06:01:45 - == Universidade de Pernambuco 		Pernambuco
+2023-05-22 06:01:45 - == Universidade do Estado de Minas Gerais 		Minas Gerais
+2023-05-22 06:01:45 - == Universidade Salvador 		nan
+2023-05-22 06:01:45 - + Buscando: Universidade Salvador
+2023-05-22 06:02:20 -  > Erro:	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/div[7]/div/div[11]/div[2]/div/div/div[2]/div/div[1]/div[2]/div[2]/div/span[1]")
+============================================================
+2023-05-22 06:02:21 - == Universidade Presbiteriana Mackenzie 		nan
+2023-05-22 06:02:21 - + Buscando: Universidade Presbiteriana Mackenzie
+2023-05-22 06:02:58 -  > Erro:	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/div[7]/div/div[11]/div[2]/div/div/div[2]/div/div[1]/div[2]/div[2]/div/span[1]")
+============================================================
+2023-05-22 06:02:58 - == Universidade Federal de Juiz de Fora 		nan
+2023-05-22 06:02:59 - + Buscando: Universidade Federal de Juiz de Fora

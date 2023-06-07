@@ -1,0 +1,3 @@
+2013 - Atual
+Estudo Empírico do Mercado de Capitais
+Descrição: O projeto tem como objetivo a análise empírica do mercado de capitais, em especial o brasileiro. No âmbito deste projeto são realizados testes empíricos quanto às variadas formas de precificação de ativos (CAPM, APT e OPT) assim como testes de eficiência de mercado e, também, gerenciamento e controle de risco em carteiras de investimento. Utilização de Redes Neurais na verificação de previsibilidade de comportamento de preços de ativos com negociação em bolsa de valores.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gilberto de Oliveira Kloeckner - Coordenador / Marco Antonio dos Santos Martins - Integrante.Número de produções C, T & A: 11

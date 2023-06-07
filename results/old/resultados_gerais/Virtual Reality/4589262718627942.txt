@@ -1,0 +1,40 @@
+2021 - Atual
+Aplicação de Técnicas de Aprendizado de Máquina para Descobertas de Farmacogenômica para o Tratamento do Câncer de Esôfago
+Descrição: A farmacogenômica é uma área que estuda como as alterações genômicas podem influenciar na resposta aos medicamentos. Através dela é possível explorar e definir o melhor tipo de tratamento para diferentes pessoas e seus perfis genéticos. Além disso, métodos computacionais são cada vez mais empregados nos estudos de bioinformática, como os que buscam aplicar técnicas de Aprendizado de Máquina (AM) para tarefas de predição. Estudos recentes mapeiam a resposta de linhagens celulares relacionadas ao câncer para uma ampla coleção de fármacos utilizados em tratamentos. Assim, o objetivo do projeto é explorar repositórios públicos de dados, buscar por dados locais do Hospital São Lucas da PUCRS e utilizar técnicas de AM para predizer as respostas de pacientes de câncer de esôfago aos diversos fármacos com base no seu perfil genético e nas linhagens celulares de tumores. Serão relacionados dados presentes em bases públicas, além dos dados locais obtidos pelo Grupo de Farmacologia Aplicada. Com base nesses dados, o estudo busca desenvolver modelos preditivos utilizando-se redes neurais profundas, aplicando as técnicas de AM para a importante área de farmacogenômica de modo a avançar a capacidade de prever o melhor tratamento para cada paciente através da grande quantidade de casos disponíveis. Isso pode melhorar não só a qualidade de vida dos pacientes de câncer de esôfago, mas também pode ter significativo impacto econômico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Rafael Heitor Bordini - Coordenador / Renata Vieira - Integrante / Fernanda Bueno Morrone - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Auxílio
+										financeiro / Pontifícia Universidade Católica do Rio Grande do Sul - Bolsa.
+2015 - Atual
+Integração de veículos autônomos e redes de sensores para aquisição de dados remotos para prevenção e mitigação de desastres naturais
+Descrição: Este projeto inter-institucional (PUCRS, UFRN, UFRGS, UFSC) e multidisciplinar (envolve faculdades de informática, engenharia elétrica, engenharia mecatrônica, automação, engenharia cartográfica e geografia) propõe a integração de sensores estáticos (i.e. sensores meteorológicos convencionais) e móveis (i.e. veículos autônomos ou robôs) em um único sistema de captura de dados. Os sensores estáticos são tipicamente empregados em locais estratégicos, onde há maior recorrência de incidentes. Os veículos autônomos são empregados durante e após a ocorrência de desastres, para mitigar danos e capturar dados que podem ser usados para modelar e prever futuros desastres. Os veículos autônomos também podem capturar informações sobre os desastres nos locais mais críticos, onde um humano não consegue alcançar sem se expor a riscos. As informações capturadas pelos sensores estáticos e móveis podem ser integradas a sistemas de monitoração em tempo real, facilitando a coordenação da população e defesa civil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Rafael Heitor Bordini - Integrante / Jomi Fred Hübner - Integrante / Luiz Marcos Garcia Gonçalves - Integrante / Mário Luiz Lopes Reiss - Integrante / Alexandre de Morais Amory - Coordenador / Felipe Rech Meneguzzi - Integrante / Isabel Harb Manssour - Integrante / Marcio Sarroglia Pinho - Integrante / Regis Alexandre Lahm - Integrante / Luiz Eduardo Cunha Leite - Integrante / Aquiles Medeiros Filgueira Burlamaqui - Integrante / Wallace Moreira Bessa - Integrante / Pablo Javier Alsina - Integrante / Carlos Eduardo Trabuco Dórea - Integrante / Justo Emilio Alvarez Jácobo - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2014 - Atual
+Programação baseada em Controle Decentralizado: um Paradigma Inspirado em Sistemas Multiagentes
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (5) . Integrantes: Rafael Heitor Bordini - Coordenador / Jomi F. Hübner - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2015
+SeaTeaMS - Semantic Technologies and Multi-Agent Systems for Team Interaction
+Descrição: This project aims to use semantic and multi-agent techniques to create a programming framework and software toolkit supporting the development of applications that mediate the interactions in groups of people.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Rafael Heitor Bordini - Coordenador / Renata Vieira - Integrante / Felipe Meneguzzi - Integrante / Moser Fagundes - Integrante.Financiador(es): Samsung Eletrônica da Amazônia - Auxílio
+										financeiro.
+2010 - Atual
+JaCaMo: a platform for multi-agent oriented programming
+Descrição: JaCaMo is a multi-agente systems development platform that provides programming constructs for the typical abstractions at all levels of a multi-agent system: organisation, agent, and environment. This project aims at conducting the research to allow the integration of the Jason agent programming platform, the Moise organisational platform, and the CArtAgO platform in such a way as to provide a fully-fledged multi-agent programming platform. The project also aims to develop challenging applications with the JaCaMo platform.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Heitor Bordini - Integrante / Jomi Fred Hübner - Coordenador / Alessandro Ricci - Integrante / Boissier, Olivier - Integrante.
+2004 - 2009
+Model Checking Agent Programming Languages (MCAPL)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Heitor Bordini - Coordenador / Michael Fisher - Integrante / Berndt Farwer - Integrante / Louise Dennis - Integrante.Financiador(es): Engineering and Physical Sciences Research Council - Auxílio
+										financeiro.
+2004 - 2009
+Verifiable agent-oriented programming languages with applications in e-Science and the Semantic Web
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Heitor Bordini - Coordenador.Financiador(es): Nuffield Foundation - Auxílio
+										financeiro.
+2003 - Atual
+Jason: a platform for agent-oriented programming
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Heitor Bordini - Coordenador / Jomi Fred Hübner - Integrante.
+1999 - 2002
+Using Multi-Agent Systems Techniques in Simulations for the Social Sciences (MASSOC)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Rafael Heitor Bordini - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1999 - 2002
+Combining Utilitarian and Cognitive Coordination in a Layered Agent Architecture (CUCLA)
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rafael Heitor Bordini - Integrante / Ana L. C. Bazzan - Integrante / Victor R. Lesser - Integrante / Rosa M. Vicari - Coordenador.Financiador(es): National Science Foundation - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

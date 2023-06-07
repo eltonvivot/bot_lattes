@@ -1,0 +1,195 @@
+2022 - Atual
+Aquisição Frequente de Dados Sísmicos 4D para Gerenciamento Aprimorado de Reservatórios em Campos do Pré-Sal Brasileiro
+Projeto certificado pelo(a) coordenador(a) Alessandra Davolio em 21/12/2022.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Integrante / Célio Maschio - Integrante / Alessandra Davolio - Coordenador / Manuel Gomes Correia - Integrante / Ana Teresa Ferreira da Silva Gaspar - Integrante / Felipe Bruno Mesquita da Silva - Integrante / Masoud Maleki - Integrante / Shahram Danaei - Integrante.Financiador(es): Shell Brasil - Matriz - Auxílio
+										financeiro.
+2022 - Atual
+Short-term focused Reservoir Management based on Data and Simulation Models
+Descrição: O objetivo geral deste projeto é aplicar e aprimorar as metodologias que o grupo UNISIM vem desenvolvendo para melhorar o processo de tomada de decisão relacionado ao gerenciamento de reservatórios de petróleo. Dentre os objetivos específicos, destacam-se: melhorar os modelos de simulação para previsão de curto-prazo, integrando decisões de curto e longo-prazo; estudar a influência da integração do sistema de produção na previsão de curto-prazo; aprimorar o processo de tomada de decisão de variáveis de controle e revitalização de campos com o uso de modelos e dados; comparar decisões baseadas em modelos de diferentes fidelidades e dados. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Luis Carlos Gomes Pires - Integrante / João Roberto Bertini Junior - Integrante.
+2022 - Atual
+Modelagem e Simulação Avançada de Injeção de Água, Injeção Alternada Água-Gás e Injeção de Espumas em Reservatórios Fraturados e Carstificados do Pré-Sal (SIMFRAC II)
+Descrição: Os objetivos deste projeto são: (1) desenvolver novas metodologias que possam incorporar heterogeneidades críticas, em diferentes graus de complexidade, no processo de modelagem geológica, (2) melhorar o gerenciamento de campos de petróleo com estas características através de estudos aplicados de simulação de reservatórios de campos do pré-sal brasileiro e (3) testar técnicas alternativas para serem aplicadas nesses campos para aumentar a recuperação dos campos, a partir de injeção de água (WI), injeção alternada de água-gás (WAG) e injeção de surfactantes durante o processo de WAG (espumas).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Alexandre de Lima - Integrante / Manuel Gomes Correia - Integrante / Gonçalo Soares de Oliveira - Integrante / Christine Maier - Integrante / Rashid Sher Muhammad - Integrante.Financiador(es): Shell Brasil - Matriz - Auxílio
+										financeiro.
+2022 - Atual
+Ferramenta de modelagem sísmica para monitoramento de reservatórios e projetos de injeção e armazenamento de CO2
+Projeto certificado pelo(a) coordenador(a) Alessandra Davolio em 24/08/2022.
+Descrição: Desenvolvimento de uma ferramenta (Plugin do Petrel) para a geração de dados sísmicos sintéticos a partir de modelos de simulação numérica de reservatórios de petróleo e de injeção e armazenamento de CO2.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Integrante / Alessandra Davolio - Coordenador / Marcos Sebastião dos Santos - Integrante / Daiane Rossi Rosa - Integrante.
+2021 - Atual
+Inteligência Artificial aplicada à Transferência de Escala - Modelagem do Erro via Aprendizado de Máquina (RESSIM-DeepShift)
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Carlos Eduardo Andrade Gomes Barreto - Integrante / Helena Finardi Alvares Scanavini - Integrante.Financiador(es): Repsol Brasil - Outra.
+2021 - Atual
+Desenvolvimento de Metodologia e Ferramenta para Modelagem Integrada
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / João Carlos von Hohendorff Filho - Integrante / Marcelo de Souza Castro - Integrante / Valdir Estevam - Integrante.
+2020 - Atual
+Gerenciamento de Reservatórios através de Conceitos de Campos Digitais
+Descrição: Criar uma metodologia de otimização de campos de petróleo de curto e longo prazo, baseado na metodologia de malha fechada em 12 etapas do UNISIM usando dados e modelos de simulação de diferentes fidelidades. Esta metodologia está sendo preparada para ser utilizada em gerenciamento de campos digitais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador.
+2020 - Atual
+Desenvolvimento de uma Abordagem para Construção de Modelos Multifidelidades para Reduzir Incertezas e Melhorar Previsão de Produção
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Denis José Schiozer - Coordenador / Célio Maschio - Integrante / Samuel Ferreira de Mello - Integrante / AVANSI, GUILHERME DANIEL - Integrante.Financiador(es): Shell Brasil - Matriz - Outra.
+2019 - 2021
+Inteligência artificial aplicada a transferência de escala de modelos de alta fidelidade de reservatório de campos carbonáticos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Carlos Eduardo Andrade Gomes Barreto - Integrante / Helena Finardi Alvares Scanavini - Integrante.Financiador(es): Repsol Brasil - Outra.
+2019 - Atual
+Machine Learning for Analysis of Complex Production Data in a pre-salt carbonate field
+Descrição: The main goal of this project is to design and develop state-of-the-art machine-learning techniques to recreate production/injection situations based on data from various and heterogeneous sensors/sources (e.g.,wells and FPSOs) combined with data from UNISIM-II benchmark. By doing that, it is feasible to perform detailed investigations throughout past data from several perspectives.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Integrante / Alessandra Davolio - Integrante / Anderson de Rezende Rocha - Coordenador / Aurea Soriano-Vargas - Integrante / WERNECK, RAFAEL - Integrante / MOURA, RENATO - Integrante / CASTRO, MANUEL - Integrante / GONÇALVES, MAIARA - Integrante / FERREIRA, ALEXANDRE - Integrante / MENDES JÚNIOR, PEDRO - Integrante / Vitor Hugo de Sousa Ferreira - Integrante.
+2018 - 2023
+Estudos para Maximizar o Valor do Ciclo de Vida de Libra
+Descrição: O objetivo geral deste projeto é aplicar e aprimorar as metodologias que o grupo UNISIM vem desenvolvendo para usar a simulação de reservatório no processo de desenvolvimento do Campo de Libra. 
+Dentre os objetivos específicos, destacam-se: aperfeiçoar o conhecimento do campo de Libra; desenvolver metodologias, fluxos de trabalho e algoritmos para assimilação robusta de dados de sísmica 4D nos modelos de reservatório; investigar o valor de monitoramento da sísmica 4D; demonstrar o conceito de gerenciamento de reservatório malha-fechada (CRM) para o campo de Libra; desenvolvimento de metodologias e fluxos de trabalhoque permitam otimização da produção em tempo real.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Denis José Schiozer - Coordenador / Vinicius Eduardo Botechia - Integrante / DAVOLIO, ALESSANDRA - Integrante / Evângela Patrícia Alves da Silva - Integrante / Victor de Souza Rios - Integrante / SANTOS, SUSANA M. G. - Integrante / Gilson Moura Silva Neto - Integrante / Ashish Kumar Loomba - Integrante / Vinicius de Souza Rios - Integrante.Financiador(es): Libra - Outra.
+2018 - Atual
+Otimização da Produção de Petróleo por Modelos de Simulação Numérica de Reservatórios
+Descrição: Este projeto tem como principal objetivo desenvolver pesquisa para melhorar os processos de tomada de decisão sob incerteza e de otimização requeridos para desenvolver e gerenciar campos de petróleo, considerando abordagens de campos inteligentes. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Vinicius Eduardo Botechia - Integrante.Financiador(es): Equinor Brasil - Outra.
+2017 - 2022
+Integração entre Simulação Numérica de Reservatórios e Sísmica 4D - Fase II
+Descrição: O objetivo deste projeto é desenvolver metodologias para melhorar a integração quantitativa de dados sísmicos 4D no processo de gerenciamento de reservatórios em malha fechada para melhorar o processo de tomada de decisão baseado em modelos de simulação de reservatórios.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Denis José Schiozer - Coordenador / Fernando Perin Munerato - Integrante / Alessandra Davolio - Integrante / Forlan La Rosa Almeida - Integrante / Juliana Maia Carvalho dos Santos - Integrante / F. S. GASPAR, ANA TERESA - Integrante / Masoud Maleki - Integrante / Anderson de Rezende Rocha - Integrante.Financiador(es): Shell Brasil - Matriz - Outra.
+2017 - 2022
+Desenvolvimento de Reservatórios Carbonáticos Incorporando Efeitos de Heterogeneidades Geológicas Críticas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Denis José Schiozer - Coordenador / Alexandre de Lima - Integrante / Gonçalo Soares de Oliveira - Integrante.Financiador(es): Shell Brasil - Matriz - Auxílio
+										financeiro.
+2016 - 2021
+Metodologias para Desenvolvimento de Campos de Petróleo com Foco em Integração com Sistemas de Produção
+Descrição: O objetivo deste projeto de pesquisa é aprofundar o desenvolvimento, aplicação e avaliação de metodologias para o processo de análise de decisão ligado ao desenvolvimento de reservatórios de petróleo, usando técnicas de simulação numérica para os estudos de reservatórios, com foco na integração com sistemas de produção em campos marítimos que apresentam reservatórios carbonáticos e campos maduros.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Denis José Schiozer - Coordenador / Antonio Alberto S. Santos - Integrante / Samuel Ferreira de Mello - Integrante / Luís Augusto Angelotti Meira - Integrante / COELHO, GUILHERME P. - Integrante / Igor Ricardo de Souza Victorino - Integrante / HOHENDORFF FILHO, JOÃO CARLOS VON - Integrante / Marcelo de Souza Castro - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Outra.
+2016 - 2020
+Metodologias para Aumento de Confiabilidade de Modelos de Simulação de Reservatórios - Foco em Reservatórios Carbonáticos e Campos Maduros Marítimos
+Descrição: O objetivo deste projeto de pesquisa é aprofundar o desenvolvimento, a aplicação e avaliação de metodologias para o processo de aumento de confiabilidade de modelos de simulação através da integração com caracterização de reservatórios e calibração de modelos com dados dinâmicos, com foco em campos marítimos: reservatórios carbonáticos e campos maduros. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (5) . Integrantes: Denis José Schiozer - Coordenador / CORREIA, MANUEL GOMES - Integrante / MASCHIO, CELIO - Integrante.Financiador(es): Petroleo Brasileiro S/A - Outra.
+2016 - 2020
+Metodologias para Desenvolvimento e Gerenciamento de Campos de Petróleo através de Simulação de Reservatórios
+Descrição: Este projeto tem como objetivo aprofundar o desenvolvimento, aplicação e avaliação de metodologias no processo de análise de decisão ligado ao desenvolvimento e gerenciamento de reservatórios de petróleo, usando técnicas de simulação numérica para os estudos de reservatórios, com foco em campos marítimos, especialmente com características do pré-sal, considerando incertezas e aspectos de robustez, flexibilidade e informação para mitigação de riscos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (5)  / Doutorado: (2) . Integrantes: Denis José Schiozer - Coordenador / SANTOS, ANTONIO ALBERTO SOUZA - Integrante / MEIRA, LUIS A.A. - Integrante / COELHO, GUILHERME P. - Integrante / André Ricardo Fioravanti - Integrante / Celmar Guimarães da Silva - Integrante.Financiador(es): Petroleo Brasileiro S/A - Outra.
+2014 - 2020
+Análise de Risco para o Desenvolvimento e Gerenciamento de Campos de Petróleo e Potencial uso de Emuladores
+Descrição: Desenvolver métodos para integrar as principais metodologias de emulação com base na simulação numérica de reservatórios. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Denis José Schiozer - Coordenador / Avansi - Integrante.
+2014 - 2020
+Otimização e Integração da Simulação de Reservatório e Sistemas de Produção
+Descrição: Avaliar e aplicar acoplamento numérico entre o reservatório e instalações de produção; 
+Avaliar as técnicas de otimização aplicadas à definição de estratégia de produção e ao gerenciamento de campo incluindo restrições operacionais para múltiplos reservatórios produzindo para instalações de superfície compartilhadas no cenário de produção do Pré-sal e no cenário de campos de óleo pesado maduro com tecnologias submarinas avançadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / João Carlos von Hohendorff Filho - Integrante / Igor Ricardo de Souza Victorino - Integrante / Marcelo de Souza Castro - Integrante.Financiador(es): Foundation CMG - Auxílio
+										financeiro.
+2013 - 2017
+Abordagem Estocástica para Mitigar Riscos Através da Integração entre Sísmica 4D e Ajuste de Histórico
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (4) . Integrantes: Denis José Schiozer - Coordenador / Alessandra Davolio - Integrante / Carla Janaína Ferreira - Integrante / MUNOZ MAZO, EDUIN ORLANDO - Integrante / MELLO, SAMUEL FERREIRA - Integrante.
+2013 - 2016
+Realização de Estudos de Simulação Numérica Relacionada à Aplicação Pioneira da Injeção de Polímeros como Método de Recuperação Avançada em Reservatórios Produtores de Óleos Pesados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Vinicius Eduardo Botechia - Integrante / Fabio Bordeaux Rego - Integrante / LAMAS, LUÍS FERNANDO - Integrante.
+2011 - 2015
+Desenvolvimento e Gerenciamento de Campos de Petróleo Utilizando Simulação Numérica com Foco em Reservatórios Carbonáticos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Eliana Luci Ligero - Integrante / Célio Maschio - Integrante / Eduin Orlando Munôz MAzo - Integrante / Antonio Alberto S. Santos - Integrante / Manuel Gomes Correia - Integrante / Helena Finardi Alvares Scanavini - Integrante / João Carlos von Hohendorff Filho - Integrante / Ana Teresa Ferreira da Silva Gaspar - Integrante.
+2010 - 2013
+Otimização de Produção com Poços Inteligentes
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Carlos Eduardo Andrade Gomes Barreto - Integrante / Márcio Augusto Sampaio Pinto - Integrante / Vinicius Eduardo Botechia - Integrante.
+2007 - 2011
+Pesquisa em Simulação e Gerenciamento de Reservatórios
+Descrição: O objetivo é desenvolver, aplicação e avaliação de matodologias para aumento da produtividade, da qualidade e do escopo das técnicas de simulação númerica para os estudos de reservatórios. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Eliana Luci Ligero - Integrante / Célio Maschio - Integrante / Eduin Orlando Munôz MAzo - Integrante / Fernanda V A Risso - Integrante / Alessandra Davolio - Integrante / Helena Finardi Alvares Scanavini - Integrante / Vanessa Renno Frota Moraes Alves - Integrante / Ana Teresa Ferreira da Silva Gaspar - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2007 - 2011
+Pesquisa em Gerenciamento de Água
+Descrição: O projeto tem como objetivos desenvolver metodologias para integrar ao simulador de reservatório, resultados obtidos de simuladores de previsão de perda de injetividade e de propagação de fratura, bem como estudar formas de avaliar o descarte de água produzida em aqüiferos e suas condições ótimas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Eduin Orlando Munôz MAzo - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2007 - 2011
+Avaliação da Estratégia de Injeção de Água em Aqüiferos para descartes de Água de Campos de Petróleo
+Descrição: Avaliar a estratégia de injeção de água em zona não-portadora de óleo em relaçaõ às técnicas tradicionais de descarte. Essa avaliação se dará em três direções: ambiental, técnica e econômica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Carlos Eduardo Andrade Gomes Barreto - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+2007 - 2010
+Injeção de Água acima da Pressão de Fratura
+Descrição: Estudo sobre a injeção acima da pressão de fratura e seus efeitos sobre o comportamento da produção de reservatórios com problema de perda de injetividade decorrentes de processo de injeção de água. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Eduin Orlando Munôz MAzo - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2007 - 2010
+Gerenciamento de Reinjeção de Água
+Descrição: Metologia para integrar ao simulador de reservatório resultados obtidos de simuladores de previsão de perda de injetividade e de propagação de fratura. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Eduin Orlando Munôz MAzo - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2007 - 2010
+Descarte de Água produzida em Aqüiferos
+Descrição: Estudar forms de avaliar o descarte de água produzida em aq6uiferos e suas condições ótimas. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Eduin Orlando Munôz MAzo - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2007 - 2010
+Gerenciamento de Água
+Descrição: O projeto tem como objetivo desenvolver metodologias para integrar ao simulador de reservatório, resultados obtidos de simuladores de previsão de perda de injetividade e de propagação de fratura, bem como estudar formas de avaliar o descarte de água produzida em aqüiferos e suas condições ótimas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Eduin Orlando Munôz MAzo - Integrante.Financiador(es): Petrobras Fertilizantes S/A - Auxílio
+										financeiro.
+2007 - 2010
+Refinamento Dinâmico Aplicado à Simulaão Numérica de Reservatórios de Petróleo
+Descrição: Este projeto de doutorado visa o desenvolvimento de um simulador Black-oil de reservatórios de petróleo utilizando malha dinâmica, isto é, utilizando uma malha que se altera no decorrer da simulação de acordo com critérios especificados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador / Fernando Perin Munerato - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa / Não informado.
+2007 - 2008
+Serviços para estudos analiticos/numéricos/experimental de fluidos de perfuração poliméricos em meios porosos
+Descrição: Descrição analitica dos testes de injeção de polímero. Parametrização dos modelos de literatura. Construção de algoritimos numéricos representativos dos modelos-estudados. Comparação dos resultados experimentais obtidos na UNICAMP e resultados gerados pelos modelos analisados e propostos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Euclides José Bonet - Integrante.
+2007 - 2008
+Uso de Poços Inteligentes em Desenvolvimento de Campos de Petróleo sob Incertezas
+Descrição: Estudo sobre o Uso de Poços Inteligentes em Desenvolvimento de Campos de Petróleo sob Incertezas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Denis José Schiozer - Coordenador / João Paulo Q. G. Silva - Integrante.Número de produções C, T & A: 1
+2007 - 2008
+Seleção de Estratégias sob Incertezas: Aplicação com Injeção de Água acima da Pressão de Fratura
+Descrição: Estudos sobre a Seleção de Estratégias sob Incertezas: Aplicação com Injeção de Água acima da Pressão de Fratura. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Denis José Schiozer - Coordenador / Odair José Costa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+2006 - 2008
+Análise de Risco Aplicada a Campos Maduros de Grandes Dimensões
+Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Denis José Schiozer - Integrante / Guilherme Nascimento Rodrigues Teixeira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2006 - 2008
+Metodologia para Ajuste de Histórico de Produção em Campos Maduros através de Dados de Saturação Residual de Óleo e Linhas de Fluxo
+Descrição: Este trabalho propõe uma nova metodologia para ajuste de histórico de produção através da utilização de dados de saturação de perfis. Estes dados, além de servirem como um novo parâmetro a ser ajustado, também auxiliam na definição de áreas locais do reservatório que serão modificadas. A metodologia é aplicada a um modelo sistético e seus benéficios e restrições são avaliados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Denis José Schiozer - Integrante / Célio Maschio - Integrante / Constantino B Grecco - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+2006 - 2008
+Estudo Númerico/experimental da saturação de óleo residual do campo de Marlim
+Descrição: Investigar o efeito gravitacional e o efeito da velocidade de deslocamento na saturação residual. Investigar o efeito de injeção de gás após o deslocamento da água, sobre a saturação residual de óleo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Antonio Cláudio C Correa - Integrante / Rosângela Barros Zanoni Lopes Moreno - Integrante / Euclides José Bonet - Integrante.
+2006 - 2008
+Desenvolvimento de Metodologias para determinação e utilização de saturação residual de óleo em campos maduros
+Descrição: Integrar as áreas de caracterização geológica e simulação numérica de reservatórios para melhorar o aproveitamento de dados coletados de saturação de fluidos de poços. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Armando Zaupa Remacre - Integrante.
+2006 - 2008
+Caracterização de Saturação de Campos Maduros
+Descrição: Utilização de dados de perfil de poços para caracterizar mapa de saturação e melhorar ajustes de histórico de produção. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2006 - 2008
+Aplicação da Metodologia de Planejamento Experimental e da Analise de Superficie de Resposta no Estudo da Analise de risco em Campos de Petróleo
+Descrição: Estudos sobre Aplicação da Metodologia de Planejamento Experimental e da Analise de Superficie de Resposta no Estudo da Analise de risco em Campos de Petróleo. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Fernanda V A Risso - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 3
+2006 - 2007
+Estudos Bibliográficos sobre Estimativa de Fator de Recuperação de Campos de Petróleo
+Descrição: Estudos Bibliográficos sobre Estimativa de Fator de Recuperação de Campos de Petróleo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2006 - 2006
+Avaliação de impactos ambientais na injeção de água de descartes em aquiferos da Formação Rio Doce-ES
+Descrição: Estudos sobre a avaliação de impactos ambientais na injeção de água de descartes em aquiferos da formação Rio Doce-ES. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Denis José Schiozer - Integrante / Alexandre Campane Vidal - Integrante / Carlos Eduardo Andrade Gomes Barreto - Coordenador / Sueli Yoshinaga Pereira - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2005 - 2009
+Programa de Mestrado e Doutorado (2005 - 2009)
+Descrição: Atividade do Curso de Mestrado e Doutorado em Ciências e Engenharia de Petróleo com áreas de concentração reservatórios e explotação de petróleo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Denis José Schiozer - Coordenador / Saul B Suslick - Integrante.
+2004 - 2007
+Técnicas Avançadas de Simulação Numérica de Reservatórios - Fase 2
+Descrição: Estudos de simulação númerica aplicados a gerenciamentos de reservatórios. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9)  / Mestrado acadêmico: (7)  / Doutorado: (3) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - Atual
+Otimização de Estratégia de Produção Através de Simulação Numérica de Reservatórios - Fase 2
+Descrição: Determinação de metodologia e implementação em software de processo de otimização de estratégia de produção através de simulação numérica de reservatórios.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador.
+2002 - 2004
+Técnicas Avançadas de Simulação Numérica de Reservatórios - Fase 1
+Descrição: Estudo de Tecnicas Avançadas de Simulação Numérica de Reservatórios de Petróleo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9)  / Especialização: (0)  / Mestrado acadêmico: (7)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2002 - Atual
+Simulação de escoamento multifásico em meios porosos com malhas de resolução dinamicamente adaptável
+Descrição: Simulação de escoamento multifásico em meios porosos com malhas de resolução dinamicamente adaptável. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2002
+Convênio de Mestrado em Ciências e Engenharia de Petróleo
+Descrição: Convênio de Mestrado em Ciências e Engenharia de Petróleo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+2000 - 2001
+Quantificação do Impacto de Incertezas
+Descrição: Análise de Risco em Desenvolvimento de Campos de Petróleo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+1999 - 2001
+Convênio de Mestrado em Ciências e Engenharia de Petróleo
+Descrição: Convênio de Mestrado em Ciências e Engenharia de Petróleo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+1999 - 2000
+Aplicações de Transferência de Escala na Caracterização e Engenharia de Reservatórios
+Descrição: Aplicações de Transferência de Escala na Caracterização e Engenharia de Reservatórios. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1998 - 1999
+Convênio de Mestrado em Ciências e Engenharia de Petróleo
+Descrição: Convênio de Mestrado em Ciências e Engenharia de Petróleo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro.
+1996 - 1999
+Paralelização de Ajuste de Histórico de Produção em Rede de estações usando PVM
+Descrição: Paralelização de Ajuste de Histórico de Produção em Rede de estações usando PVM. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (6)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.
+1996 - 1998
+REENGE - CNpq
+Descrição: REENGE - CNpq. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1996 - Atual
+PRONEX - Engenharia de Petróleo
+Descrição: PRONEX - Engenharia de Petróleo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Denis José Schiozer - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

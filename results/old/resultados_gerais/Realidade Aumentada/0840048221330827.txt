@@ -1,0 +1,84 @@
+2022 - Atual
+Aprendizagem De Máquina: Ambientes De Estudo E Aplicações Práticas
+Descrição: A aprendizagem de máquina, um dos campos da Inteligência Artificial, tem ganhado importância cada vez maior. No entanto, o tema não é tão conhecido entre os estudantes e profissionais da área e, embora a necessidade de profissionais seja crescente, há escassez de mão de obra. Apesar de o tema ser abordado em cursos de graduação, existem outras modalidades de estudo atualmente, tais como as plataformas online. Nesse sentido, o objetivo do presente projeto é analisar plataformas de estudo sobre Aprendizagem de Máquina, em específico Kaggle, no sentido de verificar o quanto podem contribuir para o conhecimento do assunto. Pretende-se avaliar o grau de dificuldade, a quantidade e qualidade dos recursos disponíveis, entre outros elementos e, paralelamente, desenvolver projetos práticos sobre o tema. Pretende-se com isso, contribuir para a disseminação do conhecimento sobre aprendizagem de máquina entre estudantes. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jose Reinaldo Merlin - Coordenador / Daniela de Freitas Guilhermino Trindade - Integrante / João Bernardo del Rio - Integrante.
+2021 - Atual
+Aplicações em Ciência de Dados
+Descrição: A produção de dados cresce exponencialmente. Redes sociais, comércio eletrônico, transações
+bancárias, aplicativos em geral estão a todo momento gerando dados. A Ciência de Dados é a
+disciplina que se ocupa em desenvolver métodos e ferramentas para utilização desses dados com o
+objetivo de responder perguntas das empresas e organizações para que estas possam tomar
+decisões. O objetivo deste projeto é levantar aplicações e tendências em Ciência de Dados, bem
+como conduzir projetos empíricos sobre o tema. Pretende-se fomentar o estudo do assunto na
+graduação e também contribuir com a qualificação profissional na área. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jose Reinaldo Merlin - Coordenador / Carlos Eduardo Ribeiro - Integrante / Daniela de Freitas Guilhermino Trindade - Integrante / Ricardo Castanho Moreira - Integrante.
+2020 - Atual
+Processo de Criação de um Aplicativo Móvel na Área de Aleitamento Materno para Lactantes
+Descrição: Muito se sabe sobre os benefícios do aleitamento materno tanto para a saúde da lactante, quanto
+do lactente. No entanto, a adesão ao aleitamento materno exclusivo (AME), ou seja, até o sexto
+mês de vida do bebê está ligada a diversos fatores culturais e socioeconômicos. Diante disso,
+torna-se necessário métodos que busquem o incentivo a amamentação de forma segura, didática,
+fácil e grátis, a fim de atingir o maior número de mulheres gestantes, puérperas e lactantes. Com o
+advento das tecnologias digitais e sua capacidade de atingir milhões de pessoas, os serviços de
+saúde tem grande interesse pela saúde móvel, a fim de ofertar informações, armazenar dados
+clínicos, e auxiliar a tomada de decisão imediata. A coleta de dados através dos dispositivos móveis
+favorece uma intervenção ágil e de forma rápida. Esses e outros benefícios do uso tecnológico em
+prol da saúde da população em geral, contribuiu para que a Organização Mundial de Saúde, em
+2011, reconhecesse o potencial informativo de aplicativos como estratégia as práticas de saúde.
+Dessa forma, a proposta em questão tem por objetivo a criação de um aplicativo móvel com
+conteúdo didático e seguro que permeie a temática aleitamento materno e, vise orientar os
+cuidados a fim de prevenir possíveis problemas mamários que contribuam para o desmame
+precoce. Primeiramente será desenvolvido um estudo piloto, através de um protótipo para a
+construção de um aplicativo móvel de consulta a informações relativas ao aleitamento materno. O
+projeto será desenvolvido pela Universidade Estadual do Norte do Paraná e a equipe será
+composta por docentes e estudantes dos cursos de enfermagem, odontologia e ciências da
+computação, além da participação de um analista de sistemas.
+O protótipo será construído de forma estruturada: desenvolvimento de conteúdo, escolha do
+software de criação, formatação e layout e indexação em lojas de aplicativos e avaliação da
+aplicabilidade. O aplicativo será desenvolvido pelo analista de sistemas João Paulo Pinheiro,
+colaborador externo do projeto, por meio da plataforma Android Studio, será incluído primeiramente
+no Android, e poderá ser baixado por qualquer pessoa que obtenha o mesmo e posteriormente será
+incluído o IOS, contemplando grande parte do mercado disponível. A formatação e o layout do
+aplicativo serão desenvolvidos para facilitar a acessibilidade. O aplicativo depois de finalizado será
+indexado às lojas de aplicativos (IOS e Play Store), sem custo para download, sendo necessário
+somente o cadastro para a sua utilização. Espera-se com esse projeto fornecer um conteúdo
+didático e seguro que permeie a temática aleitamento materno e, vise orientar os cuidados a fim de
+prevenir possíveis problemas mamários que contribuam para o desmame precoce.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9) . Integrantes: Jose Reinaldo Merlin - Coordenador / Carolina Fordellone Rosa Cruz - Integrante / Sibelli Olivieri Parreiras - Integrante / Mariana Emi Nagata - Integrante / Gabriela Cristina de Oliveira - Integrante.
+2018 - 2021
+Ferramentas para a Promoção da Aprendizagem
+Descrição: Observa-se que o processo de aprendizagem, que antes era estático, se apresenta cada vez mais dinâmico. Diante disso, verifica-se um grande aumento na popularidade de ferramentas computacionais de apoio à aprendizagem. Novos métodos de ensino surgem aproveitando o que a tecnologia tem a oferecer para mudar a relação dos alunos com a escola. As ferramentas computacionais podem ser utilizadas como recurso que auxilia tanto o estudante na construção do seu conhecimento, quanto o professor, como um recurso dinâmico nas aulas e nas atividades propostas. Assim, este projeto tem como objetivo investigar teorias, metodologias e tecnologias a fim de propor diretrizes para o desenvolvimento de ferramentas que auxiliam no processo de ensino e aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Jose Reinaldo Merlin - Integrante / Carlos Eduardo Ribeiro - Integrante / Daniela de Freitas Guilhermino Trindade - Coordenador.Número de produções C, T & A: 2
+2017 - 2018
+Programação Matemática e o Problema de Planejamento da Produção Agrícola e de Industrialização do Café
+Projeto certificado pelo(a) coordenador(a) Carlos Eduardo Ribeiro em 15/05/2020.
+Descrição: Este projeto de pesquisa tem o intuito de estudar o processo de produção agrícola e de industrialização do café, entendendo todas as fases de processamento, iniciando desde o plantio até a concepção do produto final. Após isso, pode-se identificar e analisar os gargalos produtivos, no qual se focará os esforços da pesquisa. A motivação para o desenvolvimento desta pesquisa está na característica do problema de ter grande parte das decisões tático-operacionais (médio/curto prazo) que, geralmente, tem suas soluções elaboradas manualmente pelo gerente responsável do setor, informação confirmada na literatura. O desenvolvimento deste projeto transcorrerá em parceria entre o Centro de Ciências Tecnológicas da Universidade Estadual do Norte do Paraná (CCT/UENP-CLM), conjuntamente com professores e alunos da Universidad Autónoma de Manizales (UAM - Colômbia).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Reinaldo Merlin - Integrante / Carlos Eduardo Ribeiro - Coordenador / Tamara Angelica Baldo - Integrante.
+2016 - 2018
+Técnicas Inovadoras Na Elicitação De Requisitos De Software
+Descrição: Alguns dos principais problemas na especificação de requisitos de um sistema estão relacionados com a identificação do que é necessário ser desenvolvido com o entendimento das regras de negócio da empresa. Dentro deste contexto, este trabalho tem o objetivo propor a utilização de técnicas inovadoras na especificação de requisitos e avaliar os resultados da aplicação destas técnicas. Para atingir o objetivo, devem-se ser simulados alguns cenários utilizando as diferentes técnicas. Serão realizados experimentos para validar as propostas delineadas neste trabalho. Os envolvidos no experimento deverão aplicar diferentes técnicas para mapear um processo de negócio dentro do seu ambiente de trabalho, e ou acadêmico. Ao final destes experimentos, esses profissionais e/ou alunos responderão a formulários de pesquisa, analisando os resultados obtidos. Considerando também a forma lúdica de apresentação de algumas técnicas, espera-se que com a aplicação destas técnicas haja uma maior facilidade na identificação dos requisitos e de vários detalhes nos processos de negócio, considerando também a forma lúdica de apresentação das mesmas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Jose Reinaldo Merlin - Integrante / Ederson Marcos Sgarbi - Integrante / Daniela de Freitas Guilhermino Trindade - Coordenador / Vanessa Faria de Souza - Integrante.Número de produções C, T & A: 1
+2015 - 2017
+Ludificação Aplicada Ao Ensino De Programação De Computadores
+Descrição: As disciplinas de programação de computadores dos cursos da área de computação apresentam altos índices de reprovação. Dentre as causas, pode-se citar os métodos de ensino e estudo adotados. O problema que se coloca é como inovar os métodos no sentido de se obter melhores resultados. Neste projeto de pesquisa, propõe-se a utilização da ludificação como ferramenta de apoio ao processo de ensino e aprendizagem. Para isto, é necessário o desenvolvimento de uma ferramenta que incorpore os requisitos de ludificação no ensino. Objetiva-se, assim, desenvolver e aplicar esta ferramenta nas disciplinas de programação. O resultado esperado é uma reflexão teórica sobre o tema, uma vez os estudos existentes são mais focados em resultados empíricos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Reinaldo Merlin - Coordenador / Carlos Eduardo Ribeiro - Integrante / Rodrigo Tomaz Pagno - Integrante.Número de produções C, T & A: 1
+2013 - 2015
+Teste de Software em Sistemas não Convencionais
+Descrição: A atividade de teste é reconhecidamente tida como uma fase indispensável à qualidade de software. Ao longo
+dos últimos 40 anos, técnicas e critérios de teste foram desenvolvidos. No entanto, grande parte da tecnologia
+de teste é voltada a sistemas convencionais, tais como os baseados em programação estruturada e orientada a
+objetos. Assim, torna-se necessário estudos teóricos e empíricos sobre estratégias de teste para outros tipos de
+software, como softwares embarcados, sistemas de computação física,sistemas de conhecimento, programas de
+realidade aumentada, entre outros. Este projeto objetiva analisar os métodos de teste para software não
+convencional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Jose Reinaldo Merlin - Coordenador / Luiz Fernando Legore do Nascimento - Integrante / Rodrigo Tomaz Pagno - Integrante.Número de produções C, T & A: 1
+2012 - 2014
+Computação física aplicada à agropecuária: automação de baixo custo com hardware livre
+Descrição: A automação agrícola vem sendo adotada em várias atividades no Brasil, tais como eletrônica embarcada em máquinas, agricultura de precisão, controle de ambientes, entre outros. No entanto, grande parte das soluções nem sempre é adequada a situações peculiares de cada região. Além disso, muitas vezes, o custo é alto para um pequeno produtor.
+O problema foco desta pesquisa é como tornar a tecnologia acessível ao pequeno produtor rural. Esse
+problema deve ser abordado sob dois aspectos. O primeiro diz respeito ao conhecimento sobre as possibilidades de informatização do setor. O segundo aspecto está ligado à produção de equipamentos e sistemas de baixo custo, por meio de computação física com utilização de hardware livre.  O surgimento do assim chamado "hardware livre" abriu muitas possibilidades para pesquisa aplicada na área de computação física. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Jose Reinaldo Merlin - Coordenador / Rodrigo Tomaz Pagno - Integrante.Número de produções C, T & A: 1
+2011 - 2013
+Framework Conceitual Para O Design De Ambientes Colaborativos Inclusivos De Cultivo À Comunidades De Prática
+Descrição: A Organização Mundial de Saúde (OMS) estima que 10% da população mundial tenha algum tipo de
+deficiência auditiva. Dados do IBGE, conforme o Censo Demográfico de 2000 mostram que no Brasil cerca
+de 5,7 milhões de pessoas apresentam algum grau de deficiência auditiva, sendo que a surdez é considerada a 2ª maior deficiência no país. Este número pode ainda ser maior, considerando que boa parte dos problemas auditivos ainda não é registrada e nem diagnosticada. Conhecer as necessidades desta comunidade e oferecer mecanismos de apoio adequados é um passo importante para a inclusão do surdo na sociedade e melhoria de qualidade de vida em respeito aos seus direitos enquanto cidadãos.
+As interações, por meio de atividades colaborativas, têm relevância para a formação humana, social, histórica, e política e contribuem para a construção da identidade do surdo. Diante deste cenário nesta pesquisa é feita uma análise sobre as implicações, necessidades e desafios para a colaboração entre surdos e ouvintes e também entre surdos e surdos. A análise será realizada por meio de estudo etnográfico em um ambiente colaborativo real criado para levantar os requisitos derivados das interações entre surdos e ouvintes. As formas tácitas de trabalhar, comunicar, coordenar e cooperar foram observadas para dar subsídio a criação de um modelo de colaboração. 
+O Projeto teve como objetivo propor um framework conceitual de colaboração que irá apoiar o desenvolvimento de um meta ambiente para o design e implementação de ambientes colaborativos acessíveis às comunidades surdas no Brasil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Jose Reinaldo Merlin - Integrante / Daniela de Freitas Guilhermino Trindade - Coordenador.
+2010 - 2011
+Engenharia de requisitos apoiada por modelo de processos de negócio
+Descrição: A definição de requisitos de um software pode ser elaborada a partir das informações existentes sobre os processos de negócio da organização. Neste projeto foi investigado a utilização da Modelagem de Processo de Negócio (BPM) como entrada para o processo de Engenharia de Requisitos (ER). Os artefatos típicos da ER foram elaborados com base no diagrama de processos de negócio. Os resultados mostraram que o entendimento do processo de negócio contribui para a diminuição dos erros durante a engenharia de requisitos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jose Reinaldo Merlin - Integrante / Daniela de Freitas Guilhermino Trindade - Coordenador.Número de produções C, T & A: 2
+2008 - 2009
+Seleção de Práticas Ágeis Apropriadas ao Desenvolvimento de Software no Ambiente Acadêmico
+Descrição: O projeto propõe a seleção de práticas de desenvolvimento de software adequadas ao ambiente acadêmico, em que estudantes pouco experientes estejam envolvidos, seleção esta baseada nas práticas dos métodos ágeis mais conhecidas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jose Reinaldo Merlin - Coordenador / Cristiane Yanase Hirabara de Castro - Integrante / Daniela de Freitas Guilhermino Trindade - Integrante.Número de produções C, T & A: 2

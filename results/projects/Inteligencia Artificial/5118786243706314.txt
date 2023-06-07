@@ -1,0 +1,7 @@
+2010 - Atual
+Protótipo para Avaliação e Visualização de Métricas para Sistemas Orientados a Objetos
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: João Umberto Furquim de Souza - Coordenador.
+2008 - 2010
+Padrões de Manutenção de Produtos de Software utilizando a tecnologia orientada a objetos
+Descrição: O objetivo principal deste projeto de pesquisa é desenvolver estudos avançados sobre os conceitos, métricas, métodos e modelos relacionados com a manutenção de produtos de software. A intenção do grupo de pesquisa é colaborar com as pesquisas atualmente em desenvolvimento na área de manutenção de software propondo uma abordagem que inclui o conceito de Padrões de Manutenção. Essencialmente, pretende-se propor padrões de software que possam orientar e oferecer um referencial ao projetista para desenvolvimento de software com alto grau de manutenibilidade aumentando a qualidade e reduzindo, por conseqüência, os esforços e custos de manutenção. A abordagem a ser desenvolvida será compatível com as práticas atuais de engenharia de software.
+. Situação: Em andamento; Natureza: Pesquisa. Integrantes: João Umberto Furquim de Souza - Coordenador.

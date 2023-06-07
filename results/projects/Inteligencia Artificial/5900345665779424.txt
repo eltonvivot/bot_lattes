@@ -1,0 +1,30 @@
+2023 - Atual
+HumaniDados: uma ferramenta de apoio à pesquisa e à gestão pública na área das humanidades brasileira
+Descrição: A construção do portal web prevê seis módulos que permitam a: (i) coleta de dados, (ii) padronização e criação da
+base de dados, (iii) deduplicação e harmonização de dados, (iv) criação de redes de colaboração, (v) caracterização
+e enriquecimento de dados, e (vi) geração de relatórios web. O portal deverá ser dinâmico e personalizável para que
+qualquer usuário com acesso à internet possar ter a autonomia para consultas dados segundo suas questões a serem
+descobertas.
+A construção do portal será coordenada por pesquisadores de três universidades (UFPE, UFRGS, UFABC) que trabalharam
+na área de Ciência da Informação e Ciência da Computação e contam com experiência no desenvolvimento de sistemas
+especializados em dados científicos e na análise de dados da produção acadêmica.
+Esta proposta é inovadora e relevante para a ciência brasileira pois permitirá estudar, caracterizar e analisar a
+área das humanidades. Finalmente, é importante destacar que esta proposta será um piloto base para implementação em
+áreas também sub-representadas nas bases bibliográficas e outras usadas como fonte para a avaliação na área de
+Ciência, Tecnologia e Inovação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Rene Faustino Gabriel Junior - Integrante / Fábio Mascarenhas e Silva - Coordenador / Jesús Pascual Mena Chalco - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2018 - Atual
+Reinventando a Comunicação Científica: o Projeto BRAPCI Livros
+Descrição: Projeto interinstitucional de colaboração científica e tecnológica entre o PPGCIN/UFRGS e o PPGB/UNIRIO, envolvendo ensino, pesquisa, extensão e inovação, cujo principal objetivo é ampliar a visibilidade e garantir o acesso aos livros técnicos e acadêmicos, nacionais e estrangeiros, publicados em acesso aberto, com ênfase nas áreas de Ciência da Informação, Comunicação, Biblioteconomia, Arquivologia e Museologia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rene Faustino Gabriel Junior - Integrante / Leilah Santiago Bufrem - Coordenador / Oddone, Nanci - Integrante.
+2017 - Atual
+RDP Brasil - Rede de Dados de Pesquisa Brasileira
+Descrição: O projeto decorre da percepção de que as iniciativas de promoção do Acesso Aberto a Dados de Pesquisa (AADP) no país são incipientes, desarticuladas, pouco padronizadas e restritas a poucas ações. A partir do reconhecimento do valor estratégico do compartilhamento dos dados da pesquisa, considera-se importante que sejam conduzidas estratégias visando a articulação de atores no estabelecimento de um Programa Brasileiro de AADP e proposição de solução técnica para compartilhamento de dados. O projeto objetiva o levantamento de informações que subsidiem as primeiras ações no âmbito de um Programa Brasileiro de AADP, visando identificação de práticas de AADP e futuro serviço de acesso aberto. Entre os objetivos específicos, estão a) Identificação das atuais práticas de AADP em instituições brasileiras; b) mapeamento de potenciais usuários nacionais de serviços de AADP e dos principais requisitos e funcionalidades para o atendimento dos mesmos; c) elaboração de um portal web para reunir a comunidade nacional de interessados em AADP para discussão sobre o tema; d) levantamento comparativo dos serviços e soluções tecnológicas existentes para compartilhamento de dados, com identificação de lacunas e adaptações necessárias para atender aos usuários mapeados; e) desenvolvimento de uma proposta de solução tecnológica que atenda a um conjunto de usuários selecionados após o mapeamento do objetivo b. A equipe responsável pelo projeto é composta por pesquisadores com conhecimento e atuação na área, ligados ao Centro de Documentação e Acervo Digital da Pesquisa (CEDAP/FABICO/UFRGS), ao CPD/Lume da UFRGS e ao Centro de Ciências Computacionais da FURG. O projeto foi selecionado pela RNP/IBICT em atendimento a carta-convite RNP/IBICT de 01/2017.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rene Faustino Gabriel Junior - Coordenador / Caterina Groposo Pavão - Integrante / Sônia Elisa Caregnato - Integrante / Samile Andréa de Souza Vanz - Integrante / Rafael Port da Rocha - Integrante / Paula Caroline Schifino Jardim Passos - Integrante / Moisés Rockembach - Integrante / Eduardo Nunes Borges - Integrante / Luís Alberto Barbosa Azambuja - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Bolsa.
+2016 - Atual
+Desenvolvimento de uma metodologia para incorporação dos modelos de Web Semântica e FRBR na base de dados Brapci
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rene Faustino Gabriel Junior - Coordenador.
+2015 - Atual
+Interação entre Ciência e Tecnologia em artigos e patentes no Brasil
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Rene Faustino Gabriel Junior - Integrante / MOURA, ANA MARIA MIELNICZUK DE - Coordenador.
+2008 - 2008
+Avaliação e uso de fontes de informação em arquivos abertos por bibliotecários de referência
+Descrição: Investigar o uso e avaliação de fontes de informação em arquivos abertos pelos bibliotecários de referência como fonte de informação para seus pesquisadores dentro das universidades de Curitiba/PR. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rene Faustino Gabriel Junior - Coordenador.

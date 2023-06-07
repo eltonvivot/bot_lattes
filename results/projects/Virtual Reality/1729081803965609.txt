@@ -1,0 +1,38 @@
+2016 - Atual
+Sistema de alerta DF100Fogo: a produção voluntária de informação geográfica, paisagens e incêndios florestais
+Descrição: Este projeto trata da produção de informação geográfica voluntária (IGV) e do
+desenvolvimento do sistema de informação DF100Fogo, dedicado à gestão de situações
+críticas, considerando o tema da consciência situacional1 relacionada aos Incêndios Florestais
+(IF). Visa-se a participação do cidadão no monitoramento de espaços urbanos e paisagens
+protegidas do Cerrado, no quadro dos desastres naturais associados à ocupação e ordenamento
+territorial no Distrito Federal (DF), com possibilidade de adequação a outros contextos. Além
+de sensibilizar a população local para o processo de intensificação dos problemas ambientais
+urbanos, a vertente da temática em IFs decorre da intensidade, extensão e crescente frequência
+desse problema em nível nacional e mundial, e da potencial contribuição para construção de
+política pública local, considerando os serviços atualmente disponíveis. A investigação do
+tema prioriza a complexidade de relações territoriais associadas aos fatores e processos
+determinantes das ocorrências, tendo em vista a identificação e mapeamento de territórios de
+risco, cujos dados serão incorporados ao DF100Fogo. O monitoramento de áreas atingidas por
+IFs com foco no processo colaborativo de produção de informação, por meio de aplicativos
+em dispositivos móveis, abrange necessariamente outras etapas da gestão da informação, que
+tem por base a inovação na dimensão tecnológica. A pesquisa no campo da ciência da
+computação investiga o processamento e fusão de dados e informações para garantir a
+autenticidade e confiabilidade de alertas, incluindo o processamento da linguagem natural dos
+alertas para entendimento pelo sistema, através da fusão de informação semântica que utiliza
+ontologias e gestão da qualidade da informação. Adicionalmente, a fusão de informações usa a aferição de condições climáticas, relevo, vegetação, processamento de imagens do evento e
+outras variáveis locais em tempo real, tanto em tempo real, como para posterior arquivamento
+e análise comparativa de dados com registros de observação pós-queimada. O papel do
+DF100Fogo é oferecer novas condições de análise e de reconhecimento do problema,
+considerando duas abordagens. O primeiro é o da operacionalização em tempo real, ou seja, a
+atuação do CBMDF e brigadas em sincronia com o fato relatado pelo cidadão. E o segundo, o
+da observação da paisagem afetada por IFs, que exige a participação orientada para o
+favorecimento da gestão da informação e do conhecimento dos quadros de ocorrência no DF,
+em que prevalece o tempo da pesquisa, da análise e da sistematização de dados, para se
+ampliar no curto e médio prazos as possibilidades de minimização de danos ambientais e
+humanos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2) . Integrantes: Állan César Moreira de Oliveira - Coordenador / Vânia Paula de Neris - Integrante / BOTEGA, LEONARDO C. - Integrante / Maria de Fatima Tavares - Integrante.
+2012 - 2015
+Monitoramento e controle de sistemas dinâmicos sujeitos a falhas (FAPESP - Projeto Temático 2011/17610-0)
+Descrição: Este projeto visa ao desenvolvimento de novas técnicas de detecção e diagnóstico de falhas em sistemas dinâmicos, bem como de técnicas de controle que permitam mitigar os  efeitos de tais eventos. Objetiva-se com isso contribuir para o aprimoramento de aspectos de confiabilidade, segurança e disponibilidade, especialmente em se tratando da operação de sistemas críticos. No âmbito de detecção e diagnóstico de falhas, serão exploradas abordagens baseadas em algoritmos de filtragem estocástica, processamento de sinais empregando a transformada wavelet e sistemas inteligentes. Já o problema de controle tolerante a falhas será tratado por intermédio da síntese de controladores robustos empregando desigualdades matriciais lineares, análise intervalar, modos deslizantes e o método TFL/LTR (Target Feedback Loop / Loop Transfer Recovery). Ainda nessa vertente, será abordado o projeto de controladores com comutação, com o intuito de obter maior flexibilidade no caso de plantas sujeitas a falhas. Serão também exploradas técnicas de controle preditivo baseado em modelo para casos envolvendo restrições em variáveis de estado ou controle. Em acréscimo a avanços teóricos de aplicação geral, espera-se tecer contribuições específicas nas áreas de motores elétricos, sistemas de potência, robótica móvel e sistemas em rede. Os resultados serão avaliados mediante simulações e também experimentação em laboratório. Este projeto dará continuidade ao Projeto Temático ?Diagnóstico, Prognóstico e Acomodação de Falhas em Sistemas Dinâmicos? (processo 06/58850-6), concluído em abril de 2011.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Állan César Moreira de Oliveira - Integrante / Roberto Kawakami Harrop Galvão - Coordenador / Takashi Yoneyama - Integrante / Henrique Mohallem Paiva - Integrante / Jackson Paul Matsuura - Integrante / Carlos Henrique Costa Ribeiro - Integrante / Marcelo Carvalho Minhoto Teixeira - Integrante / Karl Heinz Kienitz - Integrante / Ivan Nunes da Silva - Integrante / Edvaldo Assunção - Integrante / João Paulo Pordeus Gomes - Integrante / José Paulo Fernandes Garcia - Integrante / Rogério Andrade Flauzino - Integrante / Alfredo Del Sole Lordelo - Integrante / Regina Borges de Araújo - Integrante / Rodrigo Cardim - Integrante / Marco Aparecido Queiroz Duarte - Integrante.
+2012 - Atual
+Desenvolvimento de soluções para a melhoria da consciência situacional em ambientes de gerenciamento de emergências
+Descrição: Os trabalhos apresentam um conjunto de métodos e ferramentas que juntas compõem uma solução para melhorar sistemas de monitoramento e mapeamento de emergências, tais como os adotados pelas forças de segurança (ex: polícia, bombeiros, etc) . O projeto demonstra como melhorar a inteligência destes sistemas de forma que tarefas de localização de pessoas e objetos de interesse e a logística dos recursos para busca e apreensão sejam realizadas com maior eficácia e eficiência, como por exemplo para obter melhores dados sobre um determinado crime e proporcionar um melhor atendimento à ocorrência.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Doutorado: (3) . Integrantes: Állan César Moreira de Oliveira - Integrante / Botega, L. - Coordenador / ARAUJO, REGINA B. - Integrante / Claudia Beatriz Berti - Integrante.

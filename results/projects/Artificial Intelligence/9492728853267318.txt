@@ -1,0 +1,13 @@
+2000 - 2000
+CAD para Controle de Processos
+Descrição: Desenvolvimento de um ambiente CAD baseado em conhecimento para viabilizar a utilizacao de algoritmos de controle preditivo e identificacao.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Wagner Caradori do Amaral - Integrante / Luis Gimeno Latre - Integrante / Rubens M. Nazetta - Integrante.
+2000 - Atual
+Modelagem de Processos
+Descrição: Desenvolvimento de algoritmos de identificacao utilizando redes neurais. Utilizacao de rede de hopfield para obtencao de algoritmos de estimacao robusto. Determinacao de algoritmos de estimacao que mininizem um criterio que considere previsoes de saida do processo. Modelagem de Sistemas Nao-Lineares. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner Caradori do Amaral - Integrante / Fernando Jose Von Zuben - Integrante.
+2000 - Atual
+Controle Preditivo Robusto
+Descrição: Desenvolvimento de algoritmos de controle preditivo que considerem restricoes nos sinais de entrada e saida do processo e minimizem um criterio min-max. Controle Preditivo de Sistemas não lineares. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Wagner Caradori do Amaral - Integrante / Luis Gimeno Latre - Integrante / Rubens M. Nazetta - Integrante / Franciraldo Loureiro Cavalcante Junior - Integrante.
+1996 - Atual
+CAD para Controladores Avançados
+Descrição: O crescente dominio dos processos de producao tem se mostrado um fator importante na penetracao de mercados estrategicos e competitivos, devido a melhoria dos custos de producao e da qualidade do produto final. Um dos componentes deste dominio e representado pela engenharia de controle, cujas metodologias e tecnicas 
+possibilitam utilizar varios tipos de informacao sobre o processo a ser controlado, visando opera-lo de forma eficiente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner Caradori do Amaral - Integrante / Luis Gimeno Latre - Integrante.

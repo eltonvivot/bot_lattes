@@ -1,0 +1,13 @@
+2019 - 2022
+Simulação de Estimulação Cerebral Profunda para o Tratamento de Mal de Parkinson
+Descrição: Um dos principais sintomas do mal de Parkinson é a perda do controle do movimento do corpo. Umas das características desta doença é o surgimento de sincronização
+atípica em algumas regiões do cérebro, dentre as quais está o núcleo subtalâmico. Uma forma de tratamento para aliviar os sintomas desta doença é a aplicação de
+estimulos elétricos em regiões específicas do cérebro, que consquentemente, suprimem a sincronização. Neste projeto, propomos um modelo teórico para estudar
+diferentes tipos de estímulos externos buscando identificar os estímulos que maximizam a supressão da sincronização e possuam baixo consumo de potência elétrica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano Alan Serafim Ferrari - Coordenador / VIANA, R. L. - Integrante / Thiago de Lima Prado - Integrante / BATISTA, A.M. - Integrante / IAROSZ, KELLY C. - Integrante / Daniela Sabrina Andres - Integrante / Fernando da Silva Borges - Integrante / Mariana Pereira Ferreira de Araújo - Integrante / Renan Cipriano Moioli - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2018
+São neurônios memresistores?
+Descrição: O propósito deste projeto é exploar se a dinâmica de neurônios possui propriedades memresistivas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Fabiano Alan Serafim Ferrari - Coordenador.
+2017 - 2018
+SISTEMAS DE COMUNICAÇÃO UTILIZANDO QUANTIFICADORES DE REDE
+Descrição: Neste projeto quantificadores de rede como coeficiente de correlação e informação mútua foram utilizados para construir um sistema de comunicação e as propriedades deste sistema foram caracterizadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fabiano Alan Serafim Ferrari - Coordenador.

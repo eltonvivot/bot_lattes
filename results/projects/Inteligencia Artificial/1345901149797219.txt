@@ -1,0 +1,10 @@
+2008 - 2009
+Ant Colony Optimization applied to Restoration of Electric Power System Problem
+Descrição: Research Project to investigate ways to apply the meta-heuristic Ant Colony Optimization
+in the practical problem to restore electrical power systems. Other objectives: to
+structure the source code and perform new system tests to verify the effectiveness of the
+method developed. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Tiago Silveira - Integrante / Humberto - Integrante / LUIZ EDUARDO - Coordenador.Número de produções C, T & A: 2
+2007 - 2008
+Particle Swarm: Non-monotonic Inertia Control to Avoid Local Minima in the Optimization of Non-Linear Functions
+Descrição: Research Project to investigate the inertia term of the basic heuristic of the Particle
+Swarm Optimization. Besides that, statistical studies were made. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Tiago Silveira - Integrante / Humberto - Coordenador.Número de produções C, T & A: 5

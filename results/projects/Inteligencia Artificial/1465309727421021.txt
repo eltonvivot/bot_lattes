@@ -1,0 +1,18 @@
+2000 - Atual
+Concepção e Desenvolvimento de Interfaces Homem-Computador
+Descrição: Desenvolver pesquisa no campo de IHC incorporando esforços e resultados de vários domínios, tais como Inteligência Artificial (IA) e Ergonomia Cognitiva, objetivando a proposição e elaboração de métodos, modelos, metodologias e ferramentas computacionais para a concepção e desenvolvimento de interfaces ergonômicas, isto é, interfaces que proporcionem sistemas com um alto grau de usabilidade. 
+Os objetivos específicos deste projeto de pesquisa podem ser divididos em 2 grupos principais:
+1-Desenvolvimento teórico:
+-Revisão bibliográfica de ferramentas conceituais e computacionais para a concepção e desenvolvimento de interfaces ergonômicas.
+-Definição de um formalismo de representação da tarefa.
+-Definição de um formalismo de representação do perfil do usuário.
+-Definição de um modelo de interação.
+-Definição de métodos de obtenção da especificação da interação a partir das descrições da tarefa e do usuário e do conhecimento em Ergonomia e em práticas de projeto.
+-Definição e estruturação de uma base de conhecimentos em Ergonomia para auxílio na concepção e desenvolvimento de interfaces.
+-Definição e estruturação de uma base de conhecimentos sobre práticas de projetos de interfaces para auxílio na concepção e desenvolvimento de interfaces.
+-Definição de uma metodologia de concepção e desenvolvimento de interfaces integrando os modelos, métodos e os diversos tipos de conhecimentos envolvidos. 
+2- Desenvolvimento de ferramentas computacionais de suporte
+-à análise da tarefa;
+-à simulação de atividades e validação da descrição da tarefa;
+-aos processos de aquisição, representação e edição de conhecimento ergonômico e de práticas de projeto de interface;
+-à transformação do modelo da tarefa no modelo da interação e para edição e simulação do modelo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (9)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Bernardo Lula Júnior - Coordenador / Ivette Kafure - Integrante / Pedro Cordeiro Barbosa - Integrante / Francisco Petrônio Alencar de Medeiros - Integrante / Claudia Veronica Serey Guerrero - Integrante / Pablo Suarez Ribeiro - Integrante / Carlos Eduardo Caminha Lopes Rodrigues - Integrante / Marcelo Alves Barros - Integrante / Ecivaldo de Souza Matos - Integrante / Yuska Paola Costa Aguiar - Integrante / Karolyne Maria Alves de Oliveira - Integrante.Número de produções C, T & A: 17 / Número de orientações: 8

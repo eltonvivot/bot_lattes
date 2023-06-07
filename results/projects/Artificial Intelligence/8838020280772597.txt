@@ -1,0 +1,16 @@
+2013 - 2018
+Extensões do Modelo Weibull de Riscos Proporcionais com Erros de Classificação
+Descrição: Esse projeto propõe estender o Modelo de Regressão de Weibull com Erros de Classificação ao contexto em que os dados são de censura intervalar e sensibilidade e/ou especificidade do teste variam com o tempo ou outra variável.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Magda Carvalho Pires - Coordenador / Enrico Antonio Colosimo - Integrante / Guilherme Augusto Veloso - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2012 - 2017
+Análise de Dados Multinomiais com Erros de Classificação e Classificações Repetidas
+Descrição: Pretende-se estender a metodologia de classificações repetidas à análise de dados multinomiais, avaliá-la através de simulações e aplicá-la a dados reais.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Magda Carvalho Pires - Coordenador / Letícia Silva Nunes - Integrante / Kelver Libério Campanha - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 6
+2010 - 2012
+Modelos de Regressão com Erros de Classificação
+Descrição: Pretende-se avaliar o impacto dos erros de classificação em diferentes modelos de regressão (Regressão Logística, Regressão de Cox entre outros) e propor metodologias inferenciais (clássicas e/ou bayesianas) nesse contexto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Magda Carvalho Pires - Coordenador / Enrico Antonio Colosimo - Integrante / Roberto da Costa Quinino - Integrante / Arlaine Aparecida da Silva - Integrante.Financiador(es): Universidade Federal de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 8
+2010 - Atual
+Análise de Sobrevivência com Erros de Classificação
+Descrição: Financiamentos recebidos: PRPq/UFMG Edital 08/2010, PRPq/UFMG Edital 12/2011, FAPEMIG Demanda Universal 01/2012, PRPq/UFMG Edital 01/2013, FAPEMIG Demanda Universal 01/2014.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Magda Carvalho Pires - Coordenador / Enrico Antonio Colosimo - Integrante / Raquel de Souza Borges Ferreira - Integrante / Guilherme Augusto Veloso - Integrante / Thais Pacheco Menezes - Integrante / SILVA, ARLAINE A. - Integrante.Financiador(es): Universidade Federal de Minas Gerais - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 30

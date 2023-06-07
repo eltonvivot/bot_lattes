@@ -1,0 +1,56 @@
+2019 - Atual
+Uso de metodologias ágeis nas empresas de desenvolvimento de software de São Bento do sul e região
+Descrição: Nos anos 70 foi cunhado o termo "a crise do software" que era relativo a falta de qualidade e
+baixo sucesso em projetos de desenvolvimento de software. Desde então, evoluímos muito
+tecnologicamente e também metodologicamente a partir da consolidação da Engenharia de
+Software. Entretanto, desenvolver um software com o mínimo de erros possíveis, dentro do prazo
+e de acordo com os custos previamente definidos ainda é um desafio para os profissionais da
+área (PRESSMAN, 2011, HIRAMA, 2012, WASLAWICK, 2013). O planejamento e gerenciamento dos
+processos de desenvolvimento de software são fatores importantes para o sucesso dos projetos.
+A utilização de metodologias para auxiliar no desenvolvimento de projetos de software é um tema
+amplo e bastante discutido. Atualmente, existem diversas metodologias disponíveis e o emprego
+é dependente das características do projeto. Recentemente, as metodologias ágeis se destacaram
+e despertaram interesse das empresas de desenvolvimento de software uma vez que elas tem o
+objetivo de desburocratizar e agilizar o processo de desenvolvimento permitindo maior qualidade
+dos projetos e produtos e produtividade das equipes nos processos de criação, manutenção e
+atualização de software (GOMES, 2013). Na última década, a partir da criação da Incubadora
+Tecnológica da FETEP - ITFETEP, as empresas de desenvolvimento de software começaram a
+ganhar espaço em São Bento do Sul - SC, realizando um trabalho importante para o
+desenvolvimento da cidade e região. Em 2018, as empresas incubadas tiveram um faturamento
+global de aproximadamente 32 milhões de reais. Sabendo-se que boa parte das empresas
+incubadas desenvolvem atividades de desenvolvimento de software as seguintes questões vem a
+tona: quais e como são utilizadas as metodologias ágeis de desenvolvimento de software? Elas
+são efetivas? Deste modo, este projeto de pesquisa tem o seguinte objetivo geral: realizar um
+diagnóstico envolvendo os processos de desenvolvimento ágil de software aplicados pelas
+empresas de São Bento do Sul, Rio Negrinho e Campo alegre - SC. Para atingir o objetivo geral
+são necessários os seguintes objetivos específicos: - Estudar as principais metodologias ágeis; -
+Identificar as empresas de desenvolvimento de software da região de São Bento do Sul, - Definir instrumentos de coleta de dados - Coletar, validar e analisar os dados; -
+Divulgar os resultados por meio de comunicação científica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Nilson Ribeiro Modro - Coordenador / Luiz Cláudio Dalmolin - Integrante / Guilherme de Sá Cavalcanti Mendes - Integrante / Lucas Alexandre Zick - Integrante.
+2011 - 2013
+Estudo da Cadeia Produtiva do Mel no Contexto de São Bento do Sul e Região
+Descrição: A apicultura no Brasil e Santa Catarina caracteriza-se fundamentalmente por ser uma atividade de pequena escala, associada a proprietários, arrendatários e/ou parceiros, que se estruturam em torno de pequenas unidades agrárias, onde o trabalho é predominantemente familiar, de forma a constituir uma renda extra para o apicultor. 
+Nesse contexto, a produção é pequena e a produtividade baixa, assim deve-se procurar melhorar tais quesitos, almejando novos patamares de desempenho produtivo. 
+Este projeto propõe analisar a cadeia produtiva do mel nas unidades produtoras localizadas em São Bento do Sul e Região, objetivando maximizar o uso dos recursos investidos na produção, bem como estratégias para desenvolvimento do setor com qualidade e sustentabilidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Nilson Ribeiro Modro - Coordenador / Nelcimar Ribeiro Modro - Integrante / Eduardo Miguel Talmasky - Integrante / Brunah Wagner - Integrante / Fábio Alexandre Monteiro - Integrante.
+2009 - 2010
+Portal para a Inovação Tecnológica no setor moveleiro
+Descrição: O projeto tem por objetivo principal o desenvolvimento de um sistema de apoio à inovação no setor moveleiro de Santa Catarina. Para tanto, será desenvolvido um modelo de Portal de Informação baseado no conceito de observatório tecnológico para o setor de móveis, na região do Planalto Norte Catarinense, em São Bento do Sul. Para o desenvolvimento deste modelo serão analisadas as características relevantes para a inovação tecnológica do setor, que possam constar em um sistema de informação. A importância do projeto tem com o intuito de auxiliar as empresas locais na identificação de oportunidades existentes, integrando o sistema regional aos principais de centros de ciência e tecnologia estaduais, nacionais e internacionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Nilson Ribeiro Modro - Coordenador / Hemanuelle Lisboa da Silva - Integrante / Nelcimar Ribeiro Modro - Integrante.Número de produções C, T & A: 1
+2008 - 2009
+X-GAME: Projeto Multidisciplinar envolvendo Progrmação WEB, Robótica, Interpretação de Imagem, Informação e Estratégias de Jogo
+Descrição: Este é um projeto pedagógico de jogo de futebol de botão envolvendo processamento de imagens, estratégias de jogo e a manipulação automática dos botões por meio de um braço robótico. É utilizado o conceito de telepresença com o objetivo de permitir ao usuário movimentar os botões através de um navegador Web. A simulação do jogo e a implementação das estratégias do mesmo são aspectos estimulantes desta pesquisa a qual é denominada X-GAME. A pesquisa em execução estimula a curiosidade e o interesse dos acadêmicos da área da Ciência da Computação, encorajando-os à pesquisa e a procura de soluções.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Nilson Ribeiro Modro - Coordenador / Antônio Carlos Tamanini da Silva - Integrante / Hemanuelle Lisboa da Silva - Integrante / Raniel Gustavo Schafascheck - Integrante.Número de produções C, T & A: 2
+2006 - 2007
+Pesquisa e projeto de um Sistema de Apoio à Decisão em "código aberto".
+Descrição: O cenário geral da indústria moveleira nacional é caracterizado por pequenas e médias empresas que
+tem suas cadeias produtivas e de suprimentos planejadas de forma isolada, havendo pouca troca de informação,
+tecnologias e tendências de mercado. Tal cenário pode explicar o momento de crise vivido no setor atualmente.
+Somente em alguns segmentos (madeiras reflorestáveis e serrada, e painéis de madeira - MDF) a produtividade do setor moveleiro nacional se aproxima dos níveis internacionais, fator que permitiu o crescimento do mercado de exportação. Entretanto, existe uma falta latente de ferramentas desenvolvidas especificamente para a área e que se adaptem as características regionais de tomada de decisão e modo de produção. Isso reflete na falta de
+competitividade; tempo despendido para criação, montagem e venda do produto e na própria produtividade do setor. Este projeto apresenta uma abordagem sistêmica, materializada por meio de um Observatório Virtual da Indústria Moveleira, que a partir da coleta, tratamento e disseminação de informações permitirá o aumento de produtividade do setor moveleiro. A abordagem proposta está calcada nas características das pequenas e médias empresas moveleiras.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Nilson Ribeiro Modro - Coordenador.
+2004 - 2006
+Gestão Do Conhecimento & Governo Eletrônico: Uma Visão Sistêmica de Modelagem
+Descrição: Este projeto visa proporcionar uma solução para viabilizar um novo modelo geral de Gestão do Conhecimento e Capacitação na área de
+políticas públicas para prevenção e tratamento do uso de Drogas no país sob a visão do conceito de "Observatório".
+O projeto tem os seguintes objetivos específicos: 
+a) Permitir  o trabalho colaborativo e integrado das diferentes organizações e estruturas organizacionais envolvidas no processo;
+b) Permitir o controle das atividades e processos automáticos de coleta e processamento de informações;
+c) Permitir a criação e controle de estruturas de disseminação de informações em diferentes níveis organizacionais;
+d) Permitir que cada instituição envolvida tenha autonomia na criação e disseminação de informações;
+e) Modelar, desenvolver e implementar computacionalmente os sistemas de informação necessários à busca prática dos objetivos delineados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Nilson Ribeiro Modro - Coordenador.

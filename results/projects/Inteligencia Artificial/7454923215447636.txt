@@ -1,0 +1,62 @@
+2022 - Atual
+Smart City UFMS - Modelo de implantação de cidades humanas,  inteligentes e sustentáveis
+Descrição: O tema cidades inteligentes é relativamente novo e, embora algumas universidades no Brasil e
+no mundo terem implementado funcionalidades que constituem o conceito de campus
+inteligente, nenhuma universidade implantou uma solução completa. O objetivo deste projeto é o
+desenvolvimento de um modelo para implementação de uma plataforma Smart Campus na
+Universidade Federal do Mato Grosso do Sul. A Cidade Universitária será utilizada como
+ambiente de aplicação e validação da proposta. Pretende-se identifcar as diretrizes iniciais para
+a criação do modelo de Smart Campus e, a partir dos resultados encontrados, implementar uma
+plataforma para adoção de soluções inteligentes, resolução de problemas e otimização dos
+serviços prestados pela UFMS, considerando os aspectos e necessidades da comunidade
+acadêmica. A pesquisa apontará para os elementos de construção de uma universidade mais
+moderna e sustentável, seguindo o que se desenvolve atualmente em Cidades Inteligentes.
+Pretende-se que o modelo obtido sirva como base para a implantação de Cidades Inteligentes
+no Estado de Mato Grosso do Sul.
+ODS 11: Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e
+sustentáveis.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Hana Karina Salles Rubinsztejn - Coordenador / Edson Norberto Cáceres - Integrante / Luciano Gonda - Integrante / Edson Antônio Batista - Integrante / Saulo Gomes Moreira - Integrante / Nadya Kalache - Integrante / Joao Batista Sarmento dos Santos Neto - Integrante / Peter Batista Cheung - Integrante / Elaine Dupas - Integrante / Jose Marcato Junior - Integrante / Karina Ocampo Righi Cavallaro - Integrante / Leonardo Chaves de Carvalho - Integrante.
+2022 - Atual
+Reconhecimento de padrões comportamentais de lobos-guará (Chrysocyon brachyurus) através de sinais fsiológicos digitais obtidos por sensores
+Descrição: O lobo-guará (Chrysocyon brachyurus) é o maior canídeo nativo da América do Sul e o único
+representante de seu gênero. O lobo-guará possui uma importância ecológica com papel de destaque na dispersão de sementes de frutos, principalmente a lobeira (Solanum lycocarpum) no Cerrado. É importante notar que seu habitat vem sofrendo grandes reduções na porção sul de sua distribuição,
+ameaçado pelo avanço de áreas cujas características originais vêm sendo alteradas, constando
+pela IUCN como quase ameaçado e na classificação nacional como ameaçado de extinção na
+categoria vulnerável. Embora seja uma espécie adaptável às alterações em seu habitat
+provocadas pelo ser humano, é urgente aprofundar o conhecimento sobre seu comportamento ecológico para sua sobrevivência e das espécies que dependem dela, em particular nas áreas de
+Mata Atlântica e no Cerrado. Esta proposta apresenta uma abordagem inovadora, que emprega
+técnicas de Aprendizado Profundo a fim de classificar, predizer, agrupar e auxiliar na tomada de
+decisão em aplicações voltadas para a conservação do lobo-guará com características Big Data.
+Embora aplicada ao animal em cativeiro, o desenvolvimento dessa metodologia pode ser
+estendida para animais de vida livre e auxiliar e fornecer suporte a pesquisas para a
+preservação, conservação e bem-estar de outros animais silvestres ou mesmo para obtenção de
+parâmetros de avaliação do bem-estar de animais domésticos.
+ODS 15: Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de
+forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra
+e deter a perda de biodiversidade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Hana Karina Salles Rubinsztejn - Coordenador / Renato Porfrio Ishii - Integrante / Fabio Henrique Viduani Martinez - Integrante / Francisco Eloi Soares de Araujo - Integrante / Luiz Gustavo Rodrigues Oliveira Santos - Integrante.
+2021 - Atual
+Efciência Participativa - O uso dos princípios da pesquisa participante em estudos de efciência energética.
+Descrição: Propõe-se, neste projeto,  que as pesquisas em andamento no âmbito dos programas de mestrado sejam realizadas utilizando os princípios da pesquisa participante, na qual há uma maior interação entre os pesquisadores e a comunidade onde está sendo realizada a pesquisa. O objetivo deste projeto é propiciar aos grupos envolvidos, um maior entendimento de seus problemas, para que eles possam percebê-los e levantar alternativas que vão de encontro aos seus interesses.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4)  / Mestrado profissional: (1) . Integrantes: Hana Karina Salles Rubinsztejn - Coordenador / Frederico Silva Moreira - Integrante.
+2020 - Atual
+Protocolos de encaminhamento em redes móveis tolerantes a atrasos e desconexões
+Descrição: As redes móveis tolerantes a atrasos e desconexões estão presentes em vários contextos, tais como redes de sensores sem fio e redes veiculares, em que os nós da rede se comunicam via rádio. Em redes de sensores sem fio há uma preocupação com a duração da bateria, que é impactada principalmente pela tamanho e frequência das mensagens encaminhadas. A decisão sobre se a mensagem será encaminhada ao nó encontrado é definido por algum protocolo de encaminhamento. O objetivo deste projeto é o estudo, implementação e comparação de protocolos de encaminhamento para redes móveis tolerantes a atrasos e desconexões que reduzam o consumo energético exigido pelos encaminhamentos de mensagens.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Hana Karina Salles Rubinsztejn - Integrante / Irineu Sotoma - Coordenador.
+2019 - 2021
+Aplicação de Tecnologias Computacionais na Pecuária
+Descrição: importância da pecuária na economia brasileira é um fato bem conhecido e amplamente divulgado nos meios de comunicação de massa, sendo responsável por aproximadamente 14 % do PIB nacional. A utilização de tecnologias computacionais na pecuária tem aumentado significativamente, sempre visando o aumento de produtividade e qualidade, e dando origem a uma área de estudos chamada de pecuária de precisão. Portanto, o desenvolvimento da pecuária de precisão é um fator primordial para que o Brasil mantenha uma posição de destaque no mercado internacional. O objetivo desse projeto é realizar atividades de pesquisa, desenvolvimento e inovação tecnológica na área de pecuária de precisão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Hana Karina Salles Rubinsztejn - Integrante / Camilo Carromeu - Integrante / Débora  Paiva - Integrante / PEDRO PAULO  PIRES - Integrante / Edson Takashi Matsubara - Integrante / Fábio Iaione - Coordenador / Amaury Antônio de Castro Júnior - Integrante / Dionísio Machado Leite Filho - Integrante.
+2014 - 2018
+Sistema de monitoramento bovino baseado em uma rede de sensores sem fio
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (4) . Integrantes: Hana Karina Salles Rubinsztejn - Integrante / Irineu Sotoma - Coordenador / PEDRO PAULO  PIRES - Integrante / Luciano Gonda - Integrante / Leandro de Jesus - Integrante / Thales Farias Duarte - Integrante.Financiador(es): Fundação de Apoio e Desenvolvimento do Ensino, Ciência e Tecnologia do MS - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2012 - 2014
+Redes de Sensores Sem Fio Aplicadas à Agricultura
+Descrição: Este trabalho apresenta uma proposta de pesquisa para monitoramento de ambientes agrícolas utilizando Redes de Sensores Sem Fio (RSSF). Uma RSSF é conjunto de dispositivos distribuídos com capacidade de sensoriamento, comunicação e armazenamento. Um dos principais desafios de RSSF é o consumo de energia, que deve ser o menor possível, pois em muitos casos não é possível a troca de baterias. Em especial, em ambientes agrícolas, existe esta dificuldade, além da quantidade de sensores ser muito grande. Este projeto visa o desenvolvimento de uma plataforma de software e hardware para RSSF e agricultura de precisão. O objetivo desta plataforma é permitir um monitoramento eficiente de diversas variáveis climáticas e ambientes, tais como temperatura, umidade, luminosidade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Hana Karina Salles Rubinsztejn - Integrante / Ricardo Ribeiro dos Santos - Integrante / Luciano Gonda - Coordenador / Carlos Eduardo Cugnasca - Integrante / Edson Antônio Batista - Integrante / Edson Takashi Matsubara - Integrante / Fábio Iaione - Integrante.
+2011 - 2013
+Um Framework para Propiciar Garantia de Qualidade em Aplicações Móveis: Acessibilidade e Restrições de Hardware
+Descrição: Adaptação dos modelos de acessibilidade Web para dispositivos móveis, levando em consideração novas possibilidades -- devido a sua condição móvel e a sensores (como acelerômetro, etc) -- e ao mesmo tempo suas limitações de hardware.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Hana Karina Salles Rubinsztejn - Coordenador / Markus Endler - Integrante / Débora  Paiva - Integrante / Maria Istela Cagnin - Integrante / André Pimenta Freire - Integrante.Financiador(es): Fundação de Apoio e Desenvolvimento do Ensino, Ciência e Tecnologia do MS - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2011 - 2012
+Eduroam-br Education Roaming em Universidades Brasileiras
+Descrição: Eduroam (education roaming) é um serviço de acesso sem fio seguro desenvolvido para a comunidade internacional de educação e pesquisa. O Projeto eduroam permite que estudantes, pesquisadores e a equipe de instituições participantes obtenham conectividade à Internet, através de conexão sem fio, dentro de seus campi e quando visitam as instituições parceiras. O eduroam começou na Europa e já está presente em diversas instituições ao redor do mundo. O presente projeto tem como objetivo principal desenvolver um piloto do serviço eduroam em universidades brasileiras, sendo o primeiro esforço para disponibilizar o serviço na América Latina. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Hana Karina Salles Rubinsztejn - Integrante / Ronaldo Alves Ferreira - Integrante / Débora Christina Muchaluat Saade - Coordenador / Miguel Elias Mitre Campista - Integrante / Luís Henrique Maciel Kosmalski Costa - Integrante / Célio Vinícius Neves de Albuquerque - Integrante / Luiz Cláudio Schara Magalhães - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2010 - 2013
+Novas Fronteiras da Internet: Infraestrutura e Aplicações
+Descrição: Este projeto conta com o apoio da CAPES, por meio do programa PROCAD Novas Fronteiras, e visa à consolidação do Programa de Pós-Graduação em Ciência da Computação da UFG. O projeto é desenvolvido em colaboração com o Programa de Engenharia Elétrica da COPPE/UFRJ e com o Programa de Pós-Graduação em Ciência da Computação da UFMS. A pesquisa desenvolvida no projeto trata de temas importantes para a chamada Internet do Futuro: - Computação em Grade com Transporte de Alta Velocidade - Redes de Rádios Cognitivos de Múltiplos Saltos - Mecanismo de Inundação para Redes Ad Hoc Móveis - Descoberta de Serviços em Redes Ad Hoc - Escassez de Recursos em Redes Tolerantes a Atrasos e Interrupções (DTN) - Redes em malha sem fio IEEE 802.11 - Acesso Participativo e Universal do Cidadão ao Conhecimento - Comunidades Virtuais de Prática na Web Semântica - Plataforma de Middleware LBS Escalável para o Desenvolvimento de Aplicações de Mobile Marketing - Acordo em redes móveis desconhecidas com dinâmica de participantes - Redes Ad Hoc Veiculares - Redes de Sensores Subaquáticos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Hana Karina Salles Rubinsztejn - Integrante / Edson Norberto Cáceres - Integrante / Marcelo Henriques de Carvalho - Integrante / Ronaldo Alves Ferreira - Integrante / Fábio Moreira Costa - Coordenador / José Ferreira de Rezende - Integrante.

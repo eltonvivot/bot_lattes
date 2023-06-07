@@ -1,0 +1,23 @@
+2020 - 2021
+Construção de algorítmos preditivos para big data  e machine learning aplicados a ciências de dados utilizando python
+Descrição: A Ciência de Dados tem se destacado e chamado a atenção de profissionais tanto no Brasil 
+quanto no mundo. O principal motivo é devido ao crescimento exponencial do volume de dados 
+gerados diariamente no mundo. Por exemplo, empresas de tecnologia como Google, Facebook 
+e Whatsapp têm tido um aumento no volume de dados gerados na escala de milhões por 
+segundo (KIELING et al, 2019). Enquanto o Google teve um aumento de 2,4 milhões para 3,8 
+milhões de pesquisas em sua plataforma de busca num intervalo de 60 segundos, o Whatsapp 
+teve um aumento de 12,5 milhões para 29 milhões de mensagens enviadas a cada minuto, em 
+2016 (AMARAL et al, 2019). Esse último caso representa um aumento de 43% no volume de 
+dados gerados.
+Desta forma, a Ciência de Dados surge como uma área de estudo que vai desde à concepção 
+e obtenção dos dados até à visualização das informações extraídas desses dados. Um dos 
+principais objetivos é extrair insights dos dados e auxiliar na tomada de decisões por meio de 
+análises descritivas e, principalmente, preditivas. Para isso, torna-se necessária a união da 
+Ciência de Dados com outras áreas de mesma importância: Engenharia de Big Data, Machine 
+Learning, Business Analytics e Visualização de Dados (Story Telling).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Murilo Barros Alves - Coordenador.
+2010 - 2011
+Desenvolvimento de recursos computacionais para interpretação e modelagem do comportamento de biossistemas através de equações diferenciais utilizando o maple, visando melhorias no processo ensino aprendizagem
+Descrição: Projeto baseia-se na necessidade dos recursos computacionais para o entendimento e aperfeiçoamento dos estudos de Biofísica em cursos de ensino superior. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Murilo Barros Alves - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Bolsa.Número de produções C, T & A: 2
+2006 - 2010
+Desenvolvimento de Recursos Computacionais para interpretação de comportamentos físico-químicos em sistemas termodinâmicos, utilizando o Maple, visando melhorias no processo de ensino-aprendizagem
+Descrição: Projeto visa o estudo da formulação de atividades investigativas com o auxílio do software  Maple, para que o discente possa desenvolver com mais facilidade seus estudos de físico-quimica com maior facilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Murilo Barros Alves - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa ao Desenvolv. Científico e Tecnológico - MA - Bolsa.

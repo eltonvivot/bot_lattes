@@ -1,0 +1,47 @@
+2022 - Atual
+PD-00063-3085/2022 "PA3085 - REQUISITOS MÍNIMOS DE FUNÇÕES DE PROTEÇÃO ANTI-ILHAMENTO E DE CURVAS DE REGULAÇÃO DE GERADORES DISTRIBUÍDOS
+Descrição: "Metodologias: (1) de análise de risco de falha da proteção anti-ilhamento de GDs; (2) de solução de compromisso quanto a requisitos mínimos de curvas de regulação de GDs; (3) técnico-econômicas para quantificar os custos causados pelos GDs nas necessidades de reforços na rede e nas perdas elétricas?. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eduardo Nobuhiro Asada - Integrante / Walmir de Freitas Filho - Coordenador.
+2022 - Atual
+Modelagem Técnico-Econômica de Soluções para os Sistemas Elétricos Referentes aos Ativos do Transporte Rodoviário do Grupo CCR
+Projeto certificado pelo(a) coordenador(a) Jose Carlos de Melo Vieira Junior em 25/04/2023.
+Descrição: Esta proposta abrange a pesquisa e o desenvolvimento de um modelo técnico-econômico para
+elaboração de projetos relacionados aos sistemas elétricos dos ativos do transporte rodoviário
+do Grupo CCR.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eduardo Nobuhiro Asada - Integrante / José Carlos de Melo Vieira - Coordenador.
+2021 - Atual
+Evolução do Estimador de Estado Reger disponível no ONS (Operador Nacional do Sistema)
+Descrição: O objetivo do projeto é fornecer ao ONS o Diagnóstico, levantamento do estado da arte e a
+prospecção de soluções de estimação de estado integradas ao Sistema de Supervisão e
+Controle (SSC) da ONS.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eduardo Nobuhiro Asada - Integrante / London, João Bosco A. - Coordenador / Vladimiro H. Barrosa Pinto de Miranda - Integrante.
+2017 - Atual
+Sistema de  Armazenamento Transportável para Suporte a Contingências Programadas em SEs
+Descrição: Projeto que visa o estudo do uso de armazenamento de energia elétrica (baterias) de grande porte como auxílio à operação e melhoria de qualidade de energia em sistemas de distribuição de energia elétrica - Projeto de pesquisa estratégico da ANEEL.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (3) . Integrantes: Eduardo Nobuhiro Asada - Coordenador / José Carlos de Melo Vieira - Integrante / Denis Vinicius Coury - Integrante / Mário Oleskovicz - Integrante / Ricardo Quadros Machado - Integrante.
+2015 - 2018
+Métodos Inteligentes e Híbridos para Resolução de Problemas de Sistemas de Energia Elétrica
+Descrição: O tema deste projeto tem como foco a utilização de métodos e técnicas inteligentes para resolução de problemas de otimização complexos e de grande porte em sistemas de energia elétrica. O projeto contempla as áreas de transmissão e distribuição de energia elétrica. Na área de distribuição de energia elétrica, consideram-se sistemas de distribuição que fazem uso de comunicação e unidades de comando e controle autonomos que possibilitam, por exemplo, a utilização de sistemas multiagentes em um ambiente caracterizado como rede de distribuição inteligente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (4) . Integrantes: Eduardo Nobuhiro Asada - Coordenador / Aldir Silva Sousa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2012 - 2014
+Sistemas Multi-agentes e Meta-heurísticas Aplicadas a Problemas Complexos de Sistemas de Energia Elétrica
+Descrição: Este projeto consiste na utilização de métodos e técnicas
+inteligentes para resolução de problemas complexos em sistemas de energia
+elétrica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Eduardo Nobuhiro Asada - Coordenador / José Carlos de Melo Vieira - Integrante / Ana Carolina Canôas Asada - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2009
+Projeto - Pro-IP USP
+Descrição: Desenvolvimento da área de planejamento de sistemas de energia elétrica na EESC-USP. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Eduardo Nobuhiro Asada - Coordenador / Geraldo Roberto Martins da Costa - Integrante.Financiador(es): Universidade de São Paulo - Auxílio
+										financeiro.
+2007 - 2009
+Planejamento da Expansão de Sistemas de Energia Elétrica
+Descrição: Estudos de modelos de planejamento de sistemas de transmissão e de distribuição de sistemas de potência; desenvolvimento de métodos e algoritmos de resolução.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Eduardo Nobuhiro Asada - Coordenador / Walmir de Freitas - Integrante / Ariovaldo Verandio Garcia - Integrante / Ruben Romero - Integrante / Geraldo Roberto Martins da Costa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2005 - 2006
+Cluster de computadores para processamento paralelo
+Descrição: O objetivo do projeto consiste na montagem de um computador para processamento paralelo/distribuído de baixo custo e alto desempenho baseado na tecnologia clustering (cluster Beowulf) para resolução de problemas complexos e multimodais, como é o caso do planejamento da expansão de sistemas elétricos. Outros estudos também poderão ser realizados como análise de estabilidade, resolução de sistemas de grande dimensão, etc. Além da montagem, o projeto permitirá a restruturação do laboratório com estações de trabalho de alto desempenho conectados ao cluster, que permitirão o desenvolvimento e implementação de funções avançadas de análise de rede em sistemas de energia elétrica.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eduardo Nobuhiro Asada - Integrante / Ariovaldo Verandio Garcia - Coordenador / Ruben Romero - Integrante.Financiador(es): Universidade Estadual Paulista - Campus de Ilha Solteira - Cooperação / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1999 - 2001
+Implementação de centro de controle de EE utilizando rede UNIX de baixo custo - Projeto Auxílio Pesquisa FAPESP
+Descrição: O presente projeto dá seqüencia ao projeto anterior da FAPESP, buscando implementar as funções existentes em um centro de controle de energia elétrica. Com a execução do projeto foi possível criar um protótipo de computador paralelo baseado na estrutura Beowulf, que com as bibliotecas de passagem de mensagens proporcionou a implementação de programas paralelos eficientes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Eduardo Nobuhiro Asada - Integrante / Alcir Monticelli - Coordenador / Alexandre de Assis Mota - Integrante / Lia Toledo Moreira Mota - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 3
+1997 - 1999
+Rede em ambiente UNIX para aplicações na área de processamento distribuído - uma opção de baixo custo: Projeto Auxílio Pesquisa FAPESP
+Descrição: O Projeto visa a implementação de uma rede de computadores com o sistema operacional Linux e a utilização de programação paralela para as funções avançadas de análise de rede em sistemas de energia elétrica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0) . Integrantes: Eduardo Nobuhiro Asada - Integrante / Manoel Lemos - Integrante / Alcir Monticelli - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

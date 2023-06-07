@@ -1,0 +1,13 @@
+2018 - Atual
+Apoio a projeto estratégico de Comunicações Digitais em HF de Interesse da Academia, Forças Armadas e Sociedade Civil
+Descrição: Desenvolver competências na pesquisa e implementação no Brasil de tecnologia de transmissão digital em HF (High Frequency) que utiliza o padrão internacional DRM (Digital Radio Mondiale) por meio de:
+1. Realização de um evento com objetivo de estabelecer diálogos sobre os desafios da transmissão e recepção na faixa de HF, bem como debater pesquisas de interesse da Academia, Forças Armadas e Sociedade Civil, visando a aplicação do sistema DRM.
+2. Implementação piloto da difusão do sinal DRM na faixa de HF utilizando o parque de antenas pertencente a EBC (Empresa Brasileira de Comunicações).
+3. Realização de ensaio de recepção do sinal a longas distâncias, em bases militares na Amazônia e ao longo da fronteira brasileira.
+4. Identificação de serviços que são atualmente oferecidos por satélites, que poderão ser contemplados pelo serviço em HF ou que poderão ser complementares.
+5. Identificação de aplicação da tecnologia digital em HF em situações de emergência e desastres/catástrofe.
+6. Identificação das potencialidades de serviços que poderão ser utilizados pelas forças armadas, por meio do DRM.
+7. Utilização do HF como ferramenta de Tecnologia, Informação e Comunicação ? TICs na Educação e Inclusão Social.
+8. Caracterização do sinal frente à robustez necessária a transmissão em território Nacional, por meio de medições de campo eletromagnético, relação sinal ruído, taxa de codificação de canal e configurações de modulações. A caraterização deverá ser realizada em locais remotos com transmissões do sinal a partir de Brasília, (deslocamento de equipes de medição para Amazônia e região fronteiriça).
+9. Realização de estudos e projetos de antenas de recepção na faixa de HF, visando a miniaturização das mesmas, de maneira a propiciar melhor uso, mobilidade, pelas forças armadas.
+10. Realização de estudos e projetos de receptores para decodificação do sistema DRM na faixa de HF.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (2) . Integrantes: Plinio Ricardo Ganime Alves - Coordenador / Leonardo Rodrigues Araujo Xavier de Menezes - Integrante / Paulo Henrique Portela de Carvalho - Integrante / PAULO LEITE, JOAO - Integrante.Financiador(es): Ministério da Ciência, Tecnologia, Inovações e Comunicações - Bolsa.

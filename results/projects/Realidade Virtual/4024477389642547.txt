@@ -1,0 +1,54 @@
+2020 - Atual
+Projeto de Desenvolvimento Científico e Tecnológico Aplicado à Telessaúde: ação estratégica para enfrentamento à COVID-19
+Descrição: O projeto visa implantar, manter e evoluir tecnologias do Núcleo de Telessaúde do Rio Grande do Norte e subsidiar o Ministério da Saúde através de módulos de software para o Sistema de Monitoramento e Avaliação dos Resultados do Programa Telessaúde (SMART) para melhorar a gestão de projetos (contratos) e a gestão da qualidade (serviços) dos Núcleos de Telessaúde.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ernano Arrais Júnior - Coordenador / CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO - Integrante / HELIO ROBERTO HEKIS - Integrante / Danilo Alves Pinto Nagem - Integrante / KARILANY DANTAS COUTINHO - Integrante / RICARDO ALEXSANDRO DE MEDEIROS VALENTIM - Integrante.
+2018 - Atual
+Tecnologias Assistivas para Deficientes Visuais
+Descrição: O projeto tem como objetivo desenvolver tecnologias assistivas utilizando ferramentas computacionais (soluções em hardware e/ou software) que auxiliem no desenvolvimento cognitivo e/ou motoro de pessoas com deficiência visual, a fim de promover a inclusão destas na sociedade. Assim, serão utilizados procedimentos metodológicos de ensino tendo a computação como ferramenta de auxílio para o aprendizado. Serão elaborados jogos/dinâmicas computacionais voltados para a educação, servindo como ferramenta de auxílio ao aprendizado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Ernano Arrais Júnior - Coordenador / Cecilio M. S. Neto - Integrante / Francisco Carlos Gurgel da Silva Segundo - Integrante / Náthalee Cavalcanti de Almeida - Integrante / JOSE WAGNER CAVALCANTI SILVA - Integrante / LAYSA MABEL DE OLIVEIRA FONTES - Integrante.
+2017 - Atual
+Estudo de Geração de Energias Renováveis no Semi-Árido Potiguar
+Descrição: Atualmente existe uma tendência mundial pela busca de fontes de geração de energias alternativas, limpas, e renováveis. Essa busca é influenciada principalmente pela necessidade eminente de redução da emissão de gases do efeito estufa, dependência dos combustíveis fósseis e principalmente na diversificação da matriz energética mundial e brasileira. Diante disso, os sistemas de geração de energia elétrica, que utilizam fontes renováveis, estão se tornando cada vez mais populares devido à dependência eletro-intensiva da sociedade. Projeções demonstram que o uso de fontes renováveis se constitui em uma boa alternativa para complementar a demanda da energia requerida e concomitantemente promover a redução de efeitos indesejados (poluição) das fontes que utilizam combustíveis fósseis. Com base nisso, este projeto tem como principal objetivo analisar as principais topologias e esquemas de controle utilizados em sistemas de geração solar fotovoltaico e eólico enfatizando o semi-árido potiguar.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Ernano Arrais Júnior - Integrante / Cecilio M. S. Neto - Coordenador / Francisco Carlos Gurgel da Silva Segundo - Integrante / Ádller de Oliveira Guimarães - Integrante.
+2017 - Atual
+Estudo Comparativo entre as Versões Discretas da Transformada Wavelet para Análise em Tempo Real de Sinais Biomédicos
+Descrição: A crescente evolução da microeletrônica possibilitou a aplicação de técnicas baseadas em processamento digital de sinais em diversas áreas de pesquisa, tais como processamento de imagem, vídeo e áudio, comunicações, automação e controle de processos, visão computacional, robôtica, biomecânica, entre outros. No âmbito da engenharia biomédica, técnicas de processamento digital de sinais aplicadas na aquisição e análise de sinais biológicos, possibilitou um grande avanço tecnológico no desenvolvimento de equipamentos e soluções para supervisão e análise de diversos sinais vitais. Com base nesse contexto, neste projeto será realizada uma análise comparativa, em tempo real, entre a transformada wavelet discreta redundante sem e com efeito de borda para investigação de eventos em sinais biomédicos. Para validação do estudo proposto serão analisados sinais de eletrocardiograma aplicado à telecardiologia e de vozes afetadas por patologias na laringe.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ernano Arrais Júnior - Integrante / Cecilio M. S. Neto - Coordenador / Francisco Carlos Gurgel da Silva Segundo - Integrante / Náthalee Cavalcanti de Almeida - Integrante.
+2016 - 2020
+ANÁLISE E PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS UTILIZANDO TECNOLOGIA CMOS
+Descrição: Projeto voltado para a capacitação de discentes na área de microeletrônica voltada para a implementação de layout de circuitos digitais, utilizando tecnologia CMOS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ernano Arrais Júnior - Coordenador / Francisco Carlos Gurgel da Silva Segundo - Integrante / Náthalee Cavalcanti de Almeida - Integrante / Rodrigo Soares Semente - Integrante / Verônica Maria Lima Silva - Integrante.
+2016 - Atual
+DESENVOLVIMENTO DE PLATAFORMAS COMPUTACIONAIS PARA ANÁLISE DE SINAIS BIOLÓGICOS
+Descrição: O Projeto tem como objetivo desenvolver plataformas para análise de sinais biomédicos (biopotenciais), em
+particular os sinais cardíacos, musculares e ocular. Assim, serão estudadas as atividades elétricas do corpo
+humano e os processos biológicos que as cercam. Com base na análise dos sinais, equipamentos
+(produtos) podem ser desenvolvidos para a utilização destes em aplicações extracorpóreas, como controle
+(execução) de pequenas atividades (tarefas) e acompanhamento das atividades corpóreas. Serão utilizados
+desde componentes eletrônicos discretos a sistemas embarcados no auxílio ao desenvolvimento das
+plataformas de análise, bem como o uso de softwares de simulação. Assim, sistemas podem ser
+desenvolvidos para auxílio no diagnóstico de patologias médicas bem como na utilização dos biopotenciais
+para auxílio à pessoas com necessidades especiais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8) . Integrantes: Ernano Arrais Júnior - Coordenador / Vinícius Samuel Valério de Souza - Integrante / Francisco Carlos Gurgel da Silva Segundo - Integrante / Náthalee Cavalcanti de Almeida - Integrante.
+2016 - Atual
+Eficiência Energética e Fontes Alternativas de Energia  na Região do Semiárido Potiguar
+Descrição: A energia elétrica pode ser considerada um produto que deve ser gerenciado para garantir o crescimento
+econômico de um país. Essa preocupação mostra ao mundo um interesse cada vez maior na conservação,
+segurança e eficiência energética, com o objetivo de promover a racionalização do consumo de energia
+elétrica, a fim de combater o desperdício e reduzir os custos dos setores públicos e em geral. Com base
+nisso, este projeto tem como objetivo otimizar o consumo de energia (kWh) e levantar possíveis fontes
+alternativas de energia que podem ser aplicadas ao Semiárido Potiguar. Será feito um estudo de caso
+utilizando como referência o câmpus UFERSA Pau dos Ferros, por meio de avaliações in loco e
+quantitativas, através das contas de energia e funcionamento dos prédios: administrativos, aulas,
+professores, laboratórios e centro de convivência, o que permite reduzir o consumo atual. Serão enfatizadas
+a fontes de energia oriundas da energia solar e eólica. Serão avaliados diversos fatores e padrões de
+geração alternativa, visando o melhor aproveitamento da energia elétrica, bem como a redução dos custos
+envolvidos com a demanda contratada à concessionária de energia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Ernano Arrais Júnior - Integrante / Francisco Carlos Gurgel da Silva Segundo - Integrante / Adelson Menezes Lima - Coordenador.
+2013 - 2015
+Aprimoramento de Aerogerador de 2MW para adequação às Condições Eólicas Brasileiras
+Descrição: Desenvolvimento de instrumentação de aquisição e análise de dados, modelamentos e simulações e estudo de novas topologias de conversão com o
+objetivo de aprimorar protótipo de Aerogerador de 2MW, adequando peças e componentes para aumento da eficiência face às condições do nordeste
+brasileiro, sem comprometer a segurança operativa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ernano Arrais Júnior - Integrante / Valentin Obac Roda - Coordenador / Ricardo L. A. Ribeiro - Integrante / ALLAN DE MEDEIROS MARTINS - Integrante.
+2012 - 2014
+PESQUISA E DESENVOLVIMENTO DE INSTRUMENTOS EDUCACIONAIS DE SUPORTE A AQUISIÇÃO DE CONHECIMENTOS NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO NO INSTITUTO METROPOLE DIGITAL
+Descrição: Este projeto trata das ações a serem desenvolvidas pelo Instituto Metrópole Digital (IMD) no desenvolvimento de instrumentos educacionais de suporte
+a aquisição de conhecimentos na área de Tecnologia da Informação (TI) a partir da elaboração e avaliação de ferramentas para ambientes virtuais de
+aprendizagem e materiais didáticos específicos para cursos presenciais e semi-­presenciais, sejam estes cursos técnicos, de graduação e pós graduação
+ministrados no Instituto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ernano Arrais Júnior - Integrante / CARLA DA COSTA FERNANDES - Integrante / EDGARD DE FARIA CORREA - Integrante / MONICA MAGALHAES PEREIRA - Integrante / GLAUCIO BEZERRA BRANDAO - Integrante / APUENA VIEIRA GOMES - Coordenador.
+2011 - 2014
+Pesquisa e desenvolvimento de dispositivos eletrônicos para auxílio a deficientes visuais
+Descrição: Este projeto propõe a pesquisa em sensores, sistemas eletrônicos e computacionais para o desenvolvimento de equipamentos de auxílio aos deficientes visuais. O projeto envolve um grande número de tecnologias de eletrônica e de informática, incluindo microeletrônica, processamento de imagens, controle em tempo real, bioengenharia, microprocessadores e sistemas de informação que tem por objetivo de reunidas e aplicadas produzir resultados concretos e de curto prazo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ernano Arrais Júnior - Integrante / Valentin Obac Roda - Coordenador / JOSE ALBERTO NICOLAU DE OLIVEIRA - Integrante / DAVID SIMONETTI BARBALHO - Integrante.

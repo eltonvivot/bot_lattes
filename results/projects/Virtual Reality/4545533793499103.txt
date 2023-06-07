@@ -1,0 +1,63 @@
+2014 - Atual
+Modelagem de Transformadores em Alta Frequência Para Simulação Computacional de Sobretensões Atmosféricas Transferidas
+Descrição: Este projeto visa investigar, propor e implementar modelos de transformadores de potência utilizados em redes de distribuição de energia elétrica com a finalidade de permitir o cálculo de sobretensões transferidas associadas a descargas atmosféricas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Luiz Silvino - Integrante / Júnio César Souza da Silva - Integrante / Alberto di Conti - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2013 - Atual
+Sistema integrado de monitoramento aéreo.
+Descrição: Construção de um sistema integrado para geração e armazenamento de imagens aéreas georeferenciadas. PETROBRÀS. Período: 01/12/2013 a 30/06/2016.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Luiz Silvino - Integrante / Peterson Resende - Integrante / Júlio Cézar David de Melo - Integrante / Mário Fernando Montenegro Campos - Coordenador.
+2012 - Atual
+? Sistema automatizado para monitoramento e diagnóstico de falhas em ativos de subestações sem desligamento, através de varredura, localização, aquisição e processamento de imagens no espectro visível e do infravermelho. CEMIG.
+Descrição: Monitoramento e diagnóstico automático através de inspeção infravermelho.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Luiz Silvino - Integrante / Peterson de Resende - Integrante / Roberto Marcio de Andrade - Coordenador.
+2011 - 2011
+Metodologia para melhoria de confiabilidade da termografia em sistemas de distribuição.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: José Luiz Silvino - Integrante / Peterson de Resende - Integrante / Roberto Marcio de Andrade - Coordenador.
+2007 - 2009
+Protótipo para monitoramento e diagnóstico automático de falhas em para raios, incluindo os de carboneto de silício, utilizando técnicas de sistema de infravermelho.
+Descrição: Desenvolvimento de protótipo para monitoramento e diagnóstico automático de falhas em para raios utilizando técnicas de sistema de infravermelho. Crientela: CEMIG. Período 01/01/2007 a 30/12/2009. Participante: Prof. Peterson de Resende.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Luiz Silvino - Coordenador / Peterson de Resende - Integrante.
+2006 - 2008
+Concepção e Desenvolvimento de um sistema dedicado para detecção e localização de descargas atmosféricas ao longo de linhas de transmissão.
+Projeto certificado pelo(a) coordenador(a) Silverio Visacro Filho em 09/03/2015.
+Descrição: Concepção e desenvolvimento de um sistema dedicado para detecção e localização de descargas ao longo das linhas de transmissão. CELPA. Período 01/02/2006 a 30/04/2008.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Luiz Silvino - Integrante / Silvério Visacro Filho - Coordenador.
+2005 - 2007
+Sistema de medição de componente continua de corrente de descargas atmosférica para fins de investigação de danos em cabos OPGW
+Situação: Concluído; Natureza: Pesquisa. Integrantes: José Luiz Silvino - Coordenador / Peterson de Resende - Integrante / Silvério Visacro Filho - Integrante.
+2005 - 2007
+Diagnóstico de faltas em transformadores de potência via sistemas dinâmicos lineares.
+Descrição: Definir técnicas e instrumentos para diagnóstico de faltas e alterações em transformadores de potência através do método de análise da resposta em frequência FRA. Estabelecer metodologia para medição e interpretação de resultados, bem como de rotinas adequadas de execução para possível aplicação do procedimento na CEMIG. Entidade: CEMIG-ANEEL Período: 01/11/2005 a 30/10/2007. Participante: Peterson de Resende. (INA 2005). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: José Luiz Silvino - Coordenador / Peterson de Resende - Integrante.
+2003 - 2005
+Revitalização de transformadores.
+Descrição: Objetivo: Investigar indicadores do tempo de vida útil de transformadores de potência. Definição de técnicas de detecção destes indicadores e definição de metodologia e procedimentos para revitalização e repotenciação de transformadores. Entidade: CEMIG. Período: 01/01/2003 a 31/12/2003.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Luiz Silvino - Coordenador.
+2002 - 2003
+Modelagem e controle de um sistema de conversão de energia eólica.
+Descrição: Desenvolvimento de uma montagem envolvendo um motor de indução, um motor cc e um conversor estático para pesquisa e investigação experimental de algoritmos de controle de motor de indução e gerador de indução. Entidade: CNPq. Período 20/03/2002 a 30/03/2003. Participante: Guilherme Oliveira Cardoso (Bolsista IC).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Luiz Silvino - Coordenador.
+2000 - 2003
+Parâmetros de descargas atmosféricas e aferição do Sistema de Localização de Tempestades.
+Projeto certificado pelo(a) coordenador(a) Silverio Visacro Filho em 09/03/2015.
+Descrição: Objetivos: 1) Aprimorar as facilidades de medição da estação do Morro do Cachimbo. 2) Calibração e aferição do Sistema de Localização de Tempestades -SLT/MG. CEMIG. Período: 01/08/2000 a 30/07/2003. Coordenador: Silvério Visacro Filho. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: José Luiz Silvino - Integrante / Silvério Visacro Filho - Coordenador.
+2000 - Atual
+Convenio para constituição do centro de excelência em descarga atmosférica
+Projeto certificado pelo(a) coordenador(a) Silverio Visacro Filho em 09/03/2015.
+Descrição: O convênio prevê a configuração de um ambiente acadêmico de excelência para a realização de investigações científica e tecnológica sobre o fenômeno descargas atmosféricas e do núcleo de desenvolvimento científico e tecnológico em descargas atmosférica, através de parceria CEMIG-UFMG.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: José Luiz Silvino - Integrante / Silvério Visacro Filho - Coordenador.
+1998 - 1999
+Controle dinâmico de robô autônomo.
+Projeto certificado pelo(a) coordenador(a) Peterson de Resende em 06/03/2015.
+Descrição: Projeto e desenvolvimento de robô autônomo quadrúpede. No ano foi construído um protótipo de perna de robô e foram estudadas técnicas de gait (modo de caminhar) apropriados. Entidade: FAPEMIG Coordenador: Prof. Peterson de Resende. Participante: Tarcísio de Assunção Pizziolo ? Doutorando. Período: 01/09/1998 a 30/08/1999.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: José Luiz Silvino - Integrante / Peterson Resende - Coordenador.
+1997 - 1999
+Controle de sistema dinâmico de conversão de energia eólica.
+Descrição: Objetivo: Modelagem e controle de um sistema de conversão de energia eólica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Luiz Silvino - Coordenador.
+1996 - 1998
+Modelamento e controle dinâmico de sistema de conversão de energia eólica.
+Descrição: Objetivo: Investigar modelagem no espaço de estados do sistema de conversão de energia eólica. Inicialmente será feito a modelagem da turbina. A seguir, do sistema completo incluindo o gerador de indução. Numa segunda fase, pretende-se utilizar a modelagem desenvolvida no procedimento de controle do sistema visando maximizar a energia convertida. Entidade: CNPq. Período: 01/08/1996 a 01/08/1998.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: José Luiz Silvino - Integrante / Peterson de Resende - Coordenador.
+1995 - 1997
+Algoritmos para identificação em tempo real dos parâmetros da máquina de indução utilizando modelagem discreta.
+Descrição: Objetivo: Investigar algoritmos para estimação de parâmetros da máquina de indução para fins de controle vetorial. Os resultados obtidos serão aplicados em um esquema para controle vetorial pelo método direto que não necessita informação de velocidade. Entidade: CNPq. Período: 01/08/1995 a 30/07/1997. Participante: Sandra Rabelo Nunes Coelho (Bolsista de IC do CNPQ).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Luiz Silvino - Coordenador.
+1993 - 1995
+Estimação adaptativa de fluxo e velocidade da máquina de indução via modelagem discreta.
+Descrição: Investigar algoritmos para estimação de fluxo de rotor e de velocidade visando a aplicação no controle vetorial da Máquina de Indução. Entidade: CNPq. Período: 01/08/1993 31/07/1995. Participantes: Prof. Peterson Resende e Aluno Tulio Pinheiro (Bolsista de IC do CNPQ). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Luiz Silvino - Coordenador / Peterson de Resende - Integrante.
+1983 - 1984
+?	Testes de um sistema de acionamento de motores CC em um carro elétrico  alimentado a baterias..
+Descrição: Montar e testar em um veiculo elétrico a baterias um sistema de acionamento cc/cc.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Luiz Silvino - Coordenador / Paulo Fernando Seixas - Integrante.
+1982 - 1983
+?	Sistema de acionamento de motores C.C. utilizando transistores de potência.
+Descrição: Desenvolver um sistema de acionamento de motor cc para aplicção de tração em um veículo slétrico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Luiz Silvino - Integrante / Paulo Fernando Seixas - Coordenador / José Carlos Rodrigues de Oliveira - Integrante.Financiador(es): Secretaria de Tecnologia Industrial - Auxílio
+										financeiro.

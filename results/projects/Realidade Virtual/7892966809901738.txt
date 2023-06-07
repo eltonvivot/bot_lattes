@@ -1,0 +1,65 @@
+2021 - Atual
+Machine Learning-based Risk Models for Coronary Diseases
+Descrição: This project aims to develop Machine learning models to predict and explain the diagnosis of Atrial Fibrillation, Sleep Apnea, and Coronary Arterial Disease. Available data sources comprise Electronic Health Records? structured data (commonly used screening variables) and non-structured data (textual data drawn from medical reports). The proposed models must be interpretable for their acceptance as support tools in a clinical environment.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cristiano Leite de Castro - Coordenador / Michel Bessani - Integrante / SILVA, CARLOS ANDERSON OLIVEIRA - Integrante.
+2020 - Atual
+Position Estimation of Unmanned Aerial Vehicles via Image Registration
+Descrição: This project aims to develop computer vision and pattern recognition techniques to esti- mate the geographic position of Unmanned Aerial Vehicles (UAVs) in scenarios where the Global Position System (GPS) is unavailable. Various factors can cause GPS signal failure, such as ionosphere disturbances, which are very common in South America, vulnerability to jamming and malicious attacks.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cristiano Leite de Castro - Coordenador / FERREIRA, JOAO PEDRO KLOCK - Integrante / JAIMES, BRAYAN R. A. - Integrante.
+2019 - Atual
+Incremental Learning Models and Applications
+Descrição: This research project aims at studying incremental learning algorithms that can tackle evolving data stream problems such as concept drift and and the elasticity-plasticity dilemma; their application to real world streaming problems is also investigated.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Cristiano Leite de Castro - Coordenador / Rodrigo Amador Coelho - Integrante / Álvaro Conde Lemos Neto - Integrante / Thais Marcela Lira Menegaldi - Integrante.Número de produções C, T & A: 3
+2017 - 2018
+Modelos de Aprendizagem para o Problema de Mudança de Conceito
+Descrição: Na formulação tradicional do Aprendizado de Máquina Indutivo é assumido que os dados
+presentes nas fases de treinamento e operação de um modelo preditivo são obtidos da mesma
+distribuição de probabilidade. Com base nessa premissa, algoritmos de aprendizado, tais
+como Redes Neurais Artificiais e Máquinas de Vetores de Suporte têm sido desenvolvidos
+com garantias teóricas de desempenho. Em muitos problemas reais de Engenharia, no
+entanto, a premissa de estacionariedade das distribuições não se sustenta, tal que mudanças
+no comportamento dos dados ao longo do tempo são observadas. Modelos preditivos que
+operam nestas condições necessitam demecanismos para se adaptar à evolução dos dados,
+caso contrário, sua acurária tende a degradar. Neste contexto, este projeto tem como foco o estudo dos principais métodos de Aprendizagem Adaptativa e, a avaliação de suas capacidades quando submetidosa diferentes cenários de Mudança de Conceito. Cabe ressaltar que há na literatura uma
+carência por um estudo comparativo sistematizado, desde que a maior parte dos métodos
+propostos assume uma forma específica de mudança nos dados, ou é limitada a um determinado
+cenário de aplicação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Cristiano Leite de Castro - Coordenador / Gilson Urbano Ferreira Dias - Integrante / Felipe Freitas de Carvalho - Integrante / Rodrigo Amador Coelho - Integrante.Financiador(es): Universidade Federal de Minas Gerais - Bolsa.Número de produções C, T & A: 3
+2014 - 2018
+Avaliação de Técnicas de Correção de Trajetória de Veículos Aéreos não Tripulados por Imagens
+Descrição: O objetivo principal deste projeto é desenvolver metodologias de processamento de imagens e visão computacional para estimar a posição geográfica de Veículos aéreos não Tripulados (VANTs). A estimativa da posição deve possibilitar a navegação autônoma em cenários onde o sistema de localização tradicional (GPS + INS) fica indisponível.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Cristiano Leite de Castro - Integrante / Antônio de Pádua Braga - Integrante / Elcio Hideiti Shiguemori - Coordenador / : BRAYAN RENE ACEVEDO JAIMES - Integrante.Número de produções C, T & A: 4 / Número de orientações: 1
+2014 - 2016
+Estratégias para Classificação Robusta em Ambientes Imprecisos
+Descrição: O objetivo geral deste projeto é desenvolver metodologias para lidar com o problema de Mudança de Conceito (Concept Drift) em aprendizado de máquina indutivo. O desenvolvimento de tais metodologias, passa pelos seguintes objetivos específicos a serem contemplados: (1) propor estratégias para detectar mudanças nas funções geradoras dos dados; (2) propor estratégias para estimar os fatores de correção e, (3) propor algoritmo de aprendizado que trabalhe de forma incremental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2) . Integrantes: Cristiano Leite de Castro - Coordenador / Marcus Vinicius de Freitas Diadelmo - Integrante / Pedro Leal Pazzini da Silva - Integrante / Victor Lamounier Bittencourt - Integrante.
+2013 - 2016
+Seleção de Modelos Neurais baseada na Estrutura dos Dados e em Informações de Margem
+Descrição: O objetivo geral deste estudo é desenvolver um critério de seleção Pareto Ótimo (PO) para o
+aprendizado MOBJ de redes neurais. O desenvolvimento deste critério, passa
+pelos seguintes objetivos específicos a serem contemplados: (1) extrair informações de margem a partir da geometria do conjunto de dados; (2) definir medida baseada em largura de margem para o conjunto PO e, (3) incorporar medida de qualidade no algoritmo MOBJ.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Cristiano Leite de Castro - Coordenador / Luiz Carlos Bambirra Torres - Integrante / Marcus Vinicius Freitas Diadelmo - Integrante.
+2013 - 2013
+Desenvolvimento de Modelos, Métodos e Sistema Computacional para Otimização  de Controle de Tensão e Potência Reativa em Tempo Real em Sistemas de Distribuição
+Situação: Desativado; Natureza: Pesquisa. Integrantes: Cristiano Leite de Castro - Integrante / Petr Iakovlevitch Ekel - Coordenador / Roberta Parreiras - Integrante / Illya Kokshenev - Integrante.Financiador(es): CEMIG Distribuidora - Auxílio
+										financeiro.
+2012 - 2013
+Avaliação do Uso de Redes Neurais no Problema da Relação Hipsométrica para Dados Florestais
+Descrição: A relação hipsométrica (altura-diâmetro) é utilizada com o intuito de reduzir
+custos durante a coleta de dados de um inventário florestal. A estimação
+dessa relação, que é comumente obtida a partir de modelos tradicionais de
+regressão, tem sua eficácia dependente da adequação desses modelos aos
+pressupostos de normalidade, homocedasticidade da variância e
+independência de resíduos. Não obstante, as Redes Neurais Artificiais
+(RNAs), fornecem uma alternativa promissora para modelagem deste
+problema, uma vez que não assumem premissas sobre os dados, sendo
+capazes de generalizar a informação fornecida durante o aprendizado. O objetivo deste estudo foi avaliar o uso de RNAs no problema da relação hipsométrica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cristiano Leite de Castro - Coordenador / Antônio José de Lima Batista - Integrante.Financiador(es): Universidade Federal de Lavras - Outra.
+2009 - 2011
+Análise de Curvas ROC Aplicada ao Aprendizado de Redes Neurais Artificiais
+Descrição: Algoritmos de aprendizado tradicionais induzidos por conjuntos de treinamento complexos e altamente desbalanceados têm apresentado dificuldade em diferenciar entre os grupos. A tendência é produzir modelos (ou regras) de classificação que favorecem as classes com maior probabilidade de ocorrência. O objetivo desse projeto é fornecer uma investigação sobre esse problema sob o ponto de vista da análise ROC (Receiver Operating Characteristics). São investigados os conceitos teóricos associados à natureza do problema de classes desbalanceadas, métricas de desempenho, bem como novas estratégias para sua solução.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Cristiano Leite de Castro - Coordenador / Antônio de Pádua Braga - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2005 - 2005
+Modelagem Neural do Processo de Hidrometalurgia do Zinco
+Descrição: Objetivo: Modelar e controlar, através de técnicas de Inteligência Computacional, as variáveis envolvidas no processo de hidrometalurgia da planta de Zinco da Votorantim Metais, situada em Três Marias, MG.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Cristiano Leite de Castro - Integrante / Antônio de Pádua Braga - Coordenador / Eduardo Mendes Mazzoni - Integrante / Walmir Caminhas - Integrante / Tiago Tarocco - Integrante / Daniel Tavares - Integrante.Financiador(es): Votorantim Metais Zinco - Auxílio
+										financeiro.
+2005 - 2005
+Laboratório de Desenvolvimento de Jogos Educacionais Multiplataforma
+Descrição: Objetivo: criação de um laboratório de jogos educacionais junto ao curso de graduação em Ciência da Computação do UNIBH. Os jogos criados neste laboratório devem servir como suporte no ensino de disciplinas com elevada taxa de retenção no Curso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Cristiano Leite de Castro - Coordenador / Denílson de Oliveira Chaves - Integrante / Ricardo Rosendo de Castro - Integrante.
+2000 - 2001
+Internet Aplicada à Educação em Ciências Agrárias
+Descrição: Sistema Web de Ensino a Distância - Módulos: Ambiente de Ensino e Ambiente de Gerenciamento de Cursos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Cristiano Leite de Castro - Integrante / André Luiz Zambalde - Coordenador / Rodrigo de Oliveira - Integrante / Rêmulo Maia Alves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1999 - 2000
+Internet Aplicada à Educação em Ciências Agrárias
+Descrição: Estudo de caso relativos aos cursos Café - Mercados Futuros e Modelagem de Sistemas Agroindustriais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Cristiano Leite de Castro - Integrante / André Luiz Zambalde - Coordenador / Rodrigo de Oliveira - Integrante / Rêmulo Maia Alves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

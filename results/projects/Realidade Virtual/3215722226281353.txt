@@ -1,0 +1,11 @@
+2017 - Atual
+Aprimoramento do sistema de dispersão atmosférica de usina nuclear através de Inteligência Artificial e Computação Paralela
+Descrição: Aprimorar o sistema de dispersão atmosférica de radionuclídeos utilizado em usinas nucleares com o uso da computação paralela (OpenCL) e técnicas de inteligência artificial.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: André Luís da Silva Pinheiro - Coordenador.
+2014 - Atual
+Serviços de desenvolvimento e implementação da versão aprimorada do Sistema de Controle Ambiental (SCA) para execução em plataforma PC/Windows -  SCA-Win
+Projeto certificado pelo(a) coordenador(a) Roberto Schirru em 23/12/2019.
+Descrição: Atualização do Sistema de Controle Ambiental das usinas de Angra 1 e Angra 2, visando sua modernização, refinamento dos modelos físicos, adaptação para execução em plataforma Windows e inclusão de novas funcionalidades.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: André Luís da Silva Pinheiro - Integrante / Cláudio Márcio do Nascimento Abreu Pereira - Integrante / Roberto Schirru - Coordenador.
+2012 - 2015
+Sistema Inteligente de Suporte ao Diagnóstico - SISD - Usina Nuclear de Angra da CNAAA
+Projeto certificado pelo(a) coordenador(a) Roberto Schirru em 23/12/2019.
+Descrição: Desenvolvimento de um sistema inteligente de alarmes e diagnóstico, baseado nos conceitos de prioridade dinâmica, interface ecológica e sistemas especialistas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: André Luís da Silva Pinheiro - Integrante / Cláudio Márcio do Nascimento Abreu Pereira - Integrante / Roberto Schirru - Coordenador.

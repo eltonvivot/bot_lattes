@@ -1,0 +1,507 @@
+2020 - 2022
+Angel: IoT e-Health Platform para monitorar e melhorar a qualidade de vida
+Descrição: [Confap/Funcap - Cooperação Internacional] A população mundial está envelhecendo. Com isso, novos desafios socioeconômicos emergem do desejo de uma vida longa com saúde e bem-estar. Com a escassez de infraestrutura geral de saúde evidenciada pela pandemia Covid-19, é ainda mais evidente a necessidade de economizar leitos hospitalares, o que, por outro lado, reduz os riscos de infecção durante a hospitalização. Nesse contexto, as tecnologias de monitoramento contínuo e assistência aos pacientes, principalmente idosos, permitem que sistemas e aplicativos forneçam dados sobre o comportamento do paciente fora do ambiente hospitalar e no seu dia a dia. Com esses dados, doenças crônicas e  a Qualidade de Vida (QV) do idoso como um todo podem ser monitoradas, fornecendo suporte e alarmes aos pacientes e serviços de saúde sobre como reagir às anomalias. Assim, este projeto, denominado Angel, se propõe a desenvolver uma nova plataforma de IoT para auxiliar no monitoramento contínuo da QV de idosos e pacientes com doenças crônicas ou agudas utilizando objetos inteligentes. Para isso, o projeto conta com seis pacotes de trabalho (WP). Cada pacote irá investigar aspectos importantes para o desenvolvimento de aplicativos de saúde inteligentes, como (i) monitoramento contínuo da qualidade de vida usando objetos inteligentes, (ii) a detecção de problemas de mobilidade ou quedas, detecção e análise de sinais vitais, a fim de monitorar doenças crônicas e agudas, (iii) abordagens de teste em tempo de execução para garantir a qualidade de sistemas de saúde inteligentes dinâmicos, (iv) enriquecimento de dados, (v) a infraestrutura e conectividade necessárias para a execução de aplicativos críticos de saúde, e (vi) estratégias usando blockchain para fornecer privacidade e segurança para dados de saúde. Onze instituições diferentes (UFC, UFPI, IFCE, UECE, UV, UNSA, EFREI, INRIA-LORIA, IMT-TSP e ULR) de quatro países (Brasil, Peru, Chile e França) estão participando deste projeto, que permitem uma boa troca de conhecimentos sobre os desafios e tecnologias relacionados a esta proposta.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (15) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Miguel Franklin de Castro - Integrante / Vânia Maria Ponte Vidal - Integrante / Ismayle de Sousa Santos - Integrante / Pedro de Alcântara dos Santos Neto - Integrante / Ítalo Linhares de Araújo - Integrante / Leonardo Sampaio Rocha - Integrante / Carla Taramasco - Integrante / Christiano de Araújo Pereira Rodrigues - Integrante / Dario Vieira Conceição - Integrante / Evilasio Costa Junior - Integrante / Ronaldo Tadeu Pontes Milfont - Integrante / Manoel Lopes Filho - Integrante / Danilo Reis de Vasconcelos - Integrante / Rachel Gabriel Bastos Barbosa - Integrante / Charlys Barbosa Nogueira - Integrante / Ahmed Mohamed Khamis Abdelnaby Elmesiry - Integrante / Janaína Fonseca Victor Coutinho - Integrante / MAMOUN ABDALMANAN IBRAHIM QASEM - Integrante / Victória Tomé Oliveira - Integrante / Pedro Almir Martins de Oliveira - Integrante / Amanda Drielly Pires Venceslau - Integrante / Rayner Gomes Sousa - Integrante / Adyson Magalhães Maia - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2020 - 2022
+Rise e-Well: Remote Intelligent Systems for Elderly and Chronic Patient Follow-up
+Descrição: Technologies improvements, notably using data analysis, allow more and more monitoring outside of the ?normal? domain of the hospital or clinician office. Going from the data collection and processing to the architecture of the complete system, the RISE e-Well project proposes to design a complete system to facilitate the continuous and remote monitoring of patients with chronic disease.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (7) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Windson Viana de Carvalho - Integrante / Paulo Armando Cavalcante Aguilar - Integrante / Leonardo Sampaio Rocha - Integrante / Carla Taramasco - Integrante / Daniel Kofman - Integrante / Rodrigo Varejão Andreão - Integrante / Evilasio Costa Junior - Integrante / Tales Paiva Nogueira - Integrante / Néstor Darío Duque Méndez - Integrante / Anthony Fleury - Coordenador / Sofiane Boudaoud - Integrante / Celso Alberto Saibel Santos - Integrante / Michel Baer - Integrante / Paulo Artur de Sousa Duarte - Integrante.
+2020 - 2020
+MensoreIoT - How to deal with Non-Functional Requirements and Quality Evaluation of IoT Applications
+Descrição: [CAPES-Print - Estágio sênior] A melhoria na miniaturização de dispositivos computacionais e nos meios de comunicação sem fio
+possibilitou relevantes avanços no desenvolvimento de sistemas ubíquos. Neste cenário, os avanços
+das pesquisas levaram a conexão de um grande número de objetos ("coisas") da nossa vida diária,
+criando uma rede mundial onipresente chamada Internet das Coisas (IoT). Em sistemas ubíquos e,
+em particular, no ambiente da IoT, a interação entre diferentes dispositivos (sensores,
+computadores, tecnologias móveis, entre outros), a aplicação e o usuário são de extrema
+importância bem como a qualidade dessa interação que tem um impacto direto sobre o
+desenvolvimento, o uso e a adoção do sistema ubíquo e/ou IoT. Argumenta-se que, para
+desenvolver uma aplicação com qualidade e executar apropriadamente uma avaliação da mesma,
+devemos nos preocupar com requisitos não-funcionais desde a concepção do sistema bem como
+usar medidas de qualidade de software específicas para avaliar o produto. Aproveitando nossa
+experiência no desenvolvimento de aplicações móveis, ubíquas e de IoT bem como na avaliação da
+qualidade desses sistemas com medições, o objetivo deste projeto é propor uma abordagem para a
+captura e especificação de requisitos não funcionais no desenvolvimento de aplicações IoT bem
+como para a avaliação das mesmas, denominado de MensoreIoT.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (3) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Daniel Amyot - Integrante / Rute Nogueira Silveira de Castro - Integrante / Ismayle de Sousa Santos - Integrante / Rainara Maia Carvalho - Integrante / BELMONDO RODRIGUES ARAGÃO JUNIOR - Integrante / Tales Paiva Nogueira - Integrante / Joseane de Oliveira Vale Paiva - Integrante / Pedro Almir Martins de Oliveira - Integrante / Lionel Briand - Integrante / John Mylopoulos - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2019 - 2022
+GREat IoT - Internet das Coisas aplicada à Saúde
+Descrição: Este projeto tem como objetivo geral identificar desafios de pesquisa e propor soluções para a descoberta de dispositivos, o armazenamento seguro dos dados na nuvem e a adaptação de aplicações em tempo de execução para o melhor uso de Internet das Coisas na saúde, especificamente, na detecção de quedas em pessoas idosas em um AAL (Ambient Assisted Living). O AAL considerado é composto de múltiplos dispositivos com sensores e atuadores, conectados a um ambiente de nuvem (consideramos neste projeto cloud, fog e/ou mist computing), os quais devem contribuir para identificar a ocorrência das quedas e prováveis fatores intrínsecos aos pacientes, que possam ter acarretado na queda, como um problema cardíaco ou uma hipoglicemia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Coordenador / Ismayle de Sousa Santos - Integrante / Ítalo Linhares de Araújo - Integrante / Paulo Armando Cavalcante Aguilar - Integrante / Carla Taramasco - Integrante / Evilasio Costa Junior - Integrante / Danilo Reis de Vasconcelos - Integrante / Mário Antonio Macedo de Sousa - Integrante / Ítalo Rossi Araújo Costa - Integrante / Antonio Alan Rodrigues de Araújo - Integrante / Rachel Gabriel Bastos Barbosa - Integrante / Maria celina Lemos Macedo - Integrante / Charlys Barbosa Nogueira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - 2020
+MoACI: Monitor Automático de Consumo de energia elétrica baseado em IoT
+Descrição: Neste projeto é proposto o desenvolvimento de um sistema de monitoramento e detecção automática do perfil de consumo energético de casas, condomínios ou estabelecimentos comerciais, bem como a criação de serviços de software que permitam ao usuário do sistema monitorar e racionalizar o seu consumo de energia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (5) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Ismayle de Sousa Santos - Integrante / Erick Barros dos Santos - Integrante / Valdenir de Sousa Severino - Integrante / Cayk Gomes Lima Barreto - Integrante / Fábio Reis de Vasconcelos - Integrante / Ricardo Jose Pereira Lino - Coordenador / Danilo Reis de Vasconcelos - Integrante / Cássio Tersandro de Castro Andrade - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - 2020
+PIBIC 2019/2020 - IoT RARe: Mecanismos de Internet das Coisas para alocação de recursos, auditoria e monitoramento de dados na nuvem, e adaptação em tempo de execução, aplicados à Saúde Digital
+Descrição: A Internet das Coisas (Internet of Things ? IoT) conecta qualquer objeto do nosso dia a
+dia para ser acessado de qualquer lugar a qualquer hora por meio da Internet.
+Vermesan and Friess (2013) definem IoT como ?um conceito e um paradigma que
+considera a presença pervasiva no ambiente de uma variedade de objetos que, por
+meio das redes e de endereçamentos únicos, são capazes de interagir e cooperar com
+outros objetos para criar aplicações ou serviços e alcançar objetivos comuns?. Um
+sistema IoT, por possuir uma natureza dinâmica, implica em desafios durante o
+desenvolvimento de soluções, como demonstrado por Udoh e Kotonya (2017). Esses
+desafios estão no fato de que as aplicações são (i) distribuídas, (ii) se envolvem em
+um cenário heterogêneo, (iii) necessitam de uma gerência dos dados, (iv) demandam
+um processo de manutenção flexível, (v) a maioria são centradas no usuário, (vi) são
+interdependentes, e (vii) o seu desenvolvimento lida com múltiplos stakeholders.
+Diante desses desafios, este projeto visa propor mecanismos de alocação de
+recursos, segurança no armazenamento dados (especificamente auditoria e
+monitoramento) e adaptação em tempo de execução. Espera-se como contribuição
+que estes mecanismos estejam inseridos em uma plataforma auto-adaptativa
+composta por múltiplos dispositivos IoT conectados a um ambiente seguro de Fog/Mist
+e Cloud Computing para armazenamento dos dados. Esta plataforma será avaliada
+com a sua implantação em um sistema responsável por monitorar o paciente e enviar
+informações sobre a sua saúde para: i) serviços de emergência, quando for
+necessário; ii) equipe médica que acompanha o paciente, de modo a observar a
+evolução do paciente com os tratamentos realizados; e iii) familiares/cuidadores do
+usuário, visando tanto o acompanhamento da saúde quanto a comunicação quando
+uma situação emergencial ocorrer. Este sistema terá como função primária a detecção
+de quedas baseada em outro sistema já existente (Piva et al. 2014, Almeida et al.,
+2016; Araujo et al., 2018), desenvolvido pelo nosso grupo de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2019 - 2020
+Programa Fiocruz de Fomento à Inovação: Inteligência de Governança para Tomada de Decisão na Gestão de Sistemas de Saúde com Enfoque no Cuidado em Saúde do Idoso.
+Descrição: O produto a ser entregue ao Sistema Único de Saúde (SUS) ao término dos 18 meses do projeto é a Plataforma de Inteligência de Governança para Tomada de Decisão na Gestão de Sistemas de Saúde com Enfoque na Atenção Integral à Saúde do Idoso (GISSA Idoso), baseada em tecnologias da informação e comunicação, que contemplem o autocuidado, suporte ao cuidador domiciliar, ao profissional e ao gestor de saúde, interoperável com os Sistemas de Informação do SUS, gerando indicadores e alertas para a tomada de decisão em saúde do idoso, contemplando as suas dimensões e linhas de cuidado; e, diminuindo o retardo entre a coleta, estocagem, processamento e análise dos dados, tornando a tomada de decisão mais ágil e assertiva. A GISSA Idoso será desenvolvida com base na Plataforma GISSA (Governança Inteligente de Sistemas e Serviços de Saúde), que envolve os domínios clínico-epidemiológico, administrativo e de gestão compartilhada concebidos para a inteligência de governança e tomada de decisão na gestão de todas as redes assistenciais. O desenvolvimento tecnológico atual da GISSA foi voltado para a atenção básica com enfoque na área materno-infantil, e incluiu as fases de I. Concepção; II. Elaboração de Protótipos para Teste; III. Estudo Piloto; IV. Validação e Implementação no município de Tauá - CE desde 2016. Como produto, a GISSA já está disponível para o SUS. O desenvolvimento da GISSA Idoso seguirá a metodologia Scrum e para avaliação serão feitos estudos experimentais seguindo o processo de Wohlin et al (2014). Durante esses experimentos serão convidados idosos, cuidadores, profissionais e gestores em saúde do município do Eusébio para colaborar nos diversos testes. Será avaliado o engajamento dos usuários na plataforma através de tecnologias que fornecem indicadores para analisar a frequência e o tipo do acesso feito. Os participantes também serão entrevistados para avaliação do nível de interesse, benefícios, dificuldades e valor de uso atribuídos à Plataforma.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / Ismayle de Sousa Santos - Integrante / Evilasio Costa Junior - Integrante / IVANA CRISTINA DE HOLANDA CUNHA BARRETO - Coordenador / Antônio Mauro Barbosa Oliveira - Integrante / Luiz Odorico Monteiro de Andrade - Integrante / Italo Linhares Araújo - Integrante / Carla Tamasco - Integrante.Financiador(es): Fundação Osvaldo Cruz - Auxílio
+										financeiro.
+2019 - 2019
+PIBI 2019 - SMART BUS STOP
+Descrição: O Projeto Smart Bus Stop busca criar uma solução que facilite passageiros e motoristas de transporte público utilizando tecnologias da Internet das Coisas. Duas aplicações móveis fazem parte da solução inicial. A primeira, utilizada por passageiros, permitirá obter informações sobre o tempo estimado de chegada do próximo ônibus na parada onde o usuário se encontrar. Também permitirá a solicitação de parada do próximo ônibus. Na aplicação móvel do motorista, este será informado se há pedidos nas paradas seguintes. De posse dessa informação, o motorista poderá tomar decisões, como diminuir a velocidade para dar oportunidade de outros passageiros chegarem nas paradas. O projeto também irá coletar informações gerais de uso das paradas, o que pode ser usado no planejamento de novas paradas ou supressão de paradas existentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Coordenador / Tales Paiva Nogueira - Integrante / João Luiz dos Santos Albuquerque - Integrante.
+2019 - Atual
+Mobilidade na computação urbana: caracterização, modelagem e aplicações (MOBILIS)
+Descrição: A mobilidade tem um papel central nas diversas atividades relacionadas que fazemos, principalmente no trabalho, comércio, indústria e lazer. O estudo da mobilidade para diferentes finalidades (e.g., econômicas, serviços públicos, estudo acadêmico) deve ser feito de forma sistemática já que do ponto de vista científico é a questão mais fundamental que deve ser estudada para, a partir daí, soluções serem aplicadas. Assim, este projeto tem como objetivo investigar como ocorre a mobilidade de entidades móveis em ambientes urbanos para podermos projetar algoritmos, protocolos, aplicações e serviços que sejam apropriados tanto para o cenário que temos atualmente quanto para cidades inteligentes. O projeto "Mobilidade na Computação Urbana: Caracterização, Modelagem e Aplicações (MOBILIS) inova e avança o estado da arte ao pesquisar questões fundamentais individualmente e de forma integrada desses diferentes aspectos de uma forma mais ampla que temos atualmente. (AU). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / Antonio Alfredo Ferreira Loureiro - Coordenador / Raquel Aparecida de Freitas Mini - Integrante / Edmundo Roberto Mauro Madeira - Integrante / Markus Endler - Integrante / Horácio Antônio Braga Fernandes de Oliveira - Integrante / Pedro Olmo Stancioli Vaz de Melo - Integrante / Altigran Soares da Silva - Integrante / Fabrício Aguiar Silva - Integrante / heitor soares ramos filho - Integrante / Leandro aparecido Villas - Integrante / Alejandro César Frery Orgambide - Integrante / André Carlos Ponce de Leon Ferreira de Carvalho - Integrante / Eduardo Coelho Cerqueira - Integrante / Ahmed Helmy - Integrante / Aline Carneiro Viana Iannone - Integrante / André Luiz da Costa Carvalho - Integrante / André Luiz Lins de Aquino - Integrante / Azzedine Boukerche - Integrante / Bruno Yuji Lino Kimura - Integrante / Daniel Ludovico Guidoni - Integrante / Denis Lima do Rosário - Integrante / Fabio Kon - Integrante / João Guilherme Maia de Menezes - Integrante / Jose Diaulas Palazzo Rolim - Integrante / Luca Foschini - Integrante / Luiz Fernando Bittencourt - Integrante / Mario Gerla - Integrante / Nelson Luis Saldanha da Fonseca - Integrante / Thiago Henrique Silva - Integrante.
+2018 - 2019
+PIBIC 2018/2019 - ADApT - Abordagem para Avaliação de Aplicações no Ambiente de Internet das Coisas
+Descrição: Internet of things (IoT) é um novo paradigma que evoluiu de outras áreas da computação, dentre
+elas a Computação Ubíqua e a Computação em Nuvem, e é constituído de objetos (i.e. coisas)
+físicos com sensores e atuadores embarcados, conectados por redes com e sem fio e que se
+comunicam usando a Internet. Essa rede de objetos inteligentes permite o surgimento de uma
+infinidade de novas aplicações, como cidades inteligentes e ambientes IoT na área da saúde
+(denominados neste projeto de IoT-health).
+Neste paradigma, o desenvolvimento de aplicações é complexo porque agrega desafios inerentes a
+várias áreas da Computação. Além disso, as formas tradicionais de teste de software e avaliação
+da qualidade não levam em conta as peculiaridades de uma aplicação IoT. Dessa forma, por
+exemplo, essas aplicações exigem novas formas de avaliar a qualidade, requisitando novas
+medidas diante de características específicas dos ambientes IoT. Dessa maneira, perante a
+avaliação da qualidade e os testes de software dessas novas aplicações, existem questões de
+pesquisa, tais como:
+(i)	Como verificar a conformidade de uma aplicação IoT com características de qualidade voltadas
+para esse contexto?
+(ii)	Como testar uma aplicação de um ambiente IoT e assegurar a correta execução da mesma?
+Encontram-se na literatura esforços na identificação de características de qualidade e técnicas e
+métodos de teste para aplicações ubíquas, os quais também podem ser adaptadas para a Internet
+das Coisas. Faz parte deste projeto a investigação do que já existe na literatura.
+Assim, este projeto propõe uma abordagem para a avaliação com testes e medição da qualidade
+de aplicações para o ambiente de Internet das Coisas, com foco em aplicações IoT-health e tendo
+como base as medidas existentes para aplicações ubíquas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Michelly Karen Diogenes Pereira - Integrante / Mozart Breno da Silva Vieira - Integrante / Breno da Silva Oliveira - Integrante.
+2018 - Atual
+Subprojeto do INCT-INES: ADApt - Abordagem para Desenvolvimento e Avaliação de Aplicações no Ambiente de Cidades Inteligentes
+Descrição: As cidades inteligentes são ambientes urbanos apoiados por diferentes tecnologias da informação e comunicação (TICs), formando sistemas ubíquos e sensíveis ao contexto. As TICs são utilizadas para melhorar a qualidade de vida dos cidadãos, fomentando sustentabilidade, crescimento econômico, amplo gerenciamento de recursos e mobilidade eficiente, enquanto garantem a privacidade e a segurança dos cidadãos. Devido ao crescente número de pessoas vivendo em centros urbanos e as dificuldades de infraestrutura vindas desse fenômeno, o desenvolvimento de cidades inteligentes tem sido  um tema de grande importância nos últimos anos. É nesse sentido que o projeto ADApt surge com uma proposta de construção de uma abordagem para desenvolvimento e avaliação de aplicações no ambiente de cidades inteligentes. Essa abordagem utiliza o potencial da Internet das Coisas (do inglês, Internet of Things - IoT), que engloba o uso de diferentes objetos capazes de coletar informações através de sensores, processar e  trafegar essas informações pela internet e agir para provocar melhorias no ambiente. Além disso, a abordagem proposta também visa a construção de sistemas auto adaptáveis, capazes de reagir automaticamente às mudanças no ambiente. O ADApt faz parte do projeto ESCIn ligado ao Instituto INES.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Eduardo Santana de Almeida - Integrante / Tales Paiva Nogueira - Integrante / Carla Ilane Moreira Bezerra - Integrante / José maria monteiro filho - Integrante / Márcio Espíndola Freire Maia - Integrante / BELMONDO RODRIGUES ARAGÃO JUNIOR - Integrante / Gibeon Soares de Aquino Junior - Integrante / Cayk Gomes Lima Barreto - Integrante / Amanda Oliveira de Sousa - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2017 - 2021
+Subprojeto do INCT-Ines: Descoberta de Padrões de Mobilidade a partir de Trajetórias de Objetos Móveis e Dados Contextuais
+Descrição: O paradigma da Internet das Coisas (Internet of Things ? IoT) se mostra como um ambiente propício para a implementação das camadas de software e hardware necessárias para a concretização de serviços em cidades inteligentes. Por definição, a IoT conecta qualquer objeto do nosso dia a dia para ser acessado de qualquer lugar e a qualquer hora através da Internet. Geralmente, o processo de digitalização de informações que são consumidas pelo diversos serviços de uma cidade inteligente acarreta na geração de grandes volumes de dados. A análise espaço-temporal dos diversos sensores que formam a infraestrutura de IoT de uma cidade inteligente tem um papel importante para a entrega de serviços úteis aos seus usuários. Dentre os diversos serviços que uma cidade inteligente pode prover, pode-se destacar a demanda por aplicações com as quais usuários finais possam melhorar certos aspectos que fazem parte de suas rotinas. O setor de aplicações relacionadas à saúde e esportes conta com aproximadamente 8000 aplicações nas lojas das plataformas Android e iOS. Nesse sentido, novas técnicas para modelagem, processamento, análise e visualização dos dados espaço-temporais gerados por essas aplicações se tornam necessários.
+Nesse sentido, este projeto propõe-se à análise de trajetórias esportivas com o objetivo de encontrar padrões espaço-temporais. O objetivo deste trabalho consiste na descoberta de rotinas de usuários através de técnicas de segmentação, classificação e agrupamento, o que servirá como entrada para um sistema de recomendação focado na identificação de comunidades de usuários. Como consumidores desse tipo de aplicação, destaca-se o próprio usuário final, mas também entes governamentais, já que os resultados aqui alcançados podem ser úteis para o planejamento urbano no que diz respeito à utilização dos espaços da cidade para prática de atividades esportivas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Coordenador / Tales Paiva Nogueira - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2017 - 2018
+eMONITOR: Chronic DIsease - Ambient Assisted Living and vital teleMONITORing for e­health
+Descrição: The e­MONITOR addresses research domains spanned into two major complementary
+healthcare application areas or axes on Dependence and health prevention for ageing
+people (Ambient Assisted Living) and also younger ones after hospitalisation or having
+certain cardiac pathologies (Vital telemonitoring). These application axis are the
+following, themselves pointing at needed technologies (research themes) for their
+implementation :
+o Application Axis 1: Ambient Assisted Living in the IoT Environment
+▪ Research Theme 1: Activity Daily Life (ADL) monitoring: Activity
+Recognition, Indoor Location, Daily sound recognition
+▪ Research Theme 2: Distress Situation Identification: Fall Detection,
+Abnormal Behavior Movements Recognition, Multimodal Distress
+Situation Identification
+▪ Research Theme 3: Serious Gaming for prevention and
+rehabilitation
+o Application Axis 2: Vital telemonitoring for e­Health
+Carla Taramasco  (Coordenadora Geral e Responsável no Chile); Rossana Maria de Castro Andrade (Responsável no Brasil); Jérôme Boudy (Responsável na França). Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / Miguel Franklin de Castro - Integrante / Edgar Marçal de Barros Filho - Integrante / Márcio Espíndola Freire Maia - Integrante / João Cesar Moura Mota - Integrante / Danielo Gonçalves Gomes - Integrante / Ítalo Linhares de Araújo - Integrante / Windson Viana de Carvalho - Integrante / Paulo Armando Cavalcante Aguilar - Integrante / Dan Istrate - Integrante / Felipe Mota Barreto - Integrante / Carla Taramasco - Coordenador / ​Marta Barria - Integrante / Rodrigo Olivares - Integrante / Reinaldo Vallejos - Integrante / Yoslandy Lazo - Integrante / Nicole Barbehito - Integrante / Alvaro Leiva - Integrante / Jérôme Boudy - Integrante / Bernadette Dorizzi - Integrante / Mounim El Yacoubi - Integrante / Nesma Houmani - Integrante / Jean­Louis Baldinger - Integrante / Daniel Kofman - Integrante / Jacques Demongeot - Integrante / Paulo Artur - Integrante / Christiano de Araújo Pereira Rodrigues - Integrante / Rodrigo Varejão Andreão - Integrante / Sandra Mara Torres Muller - Integrante / João Marques Salomão - Integrante / Evandro Ottoni Teatini Sales - Integrante / Soledad Vazquez - Integrante / Juan Vazquez - Integrante / Albana Rodriguez - Integrante / Francis Canon - Integrante / Hager Khlaifi - Integrante / Maxime Robin - Integrante.
+2017 - 2018
+PIBIC 2017/2018 - Uma Abordagem para Avaliação da Qualidade de Interações Human-Thing e Thing-Thing em Sistemas IoT
+Descrição: Internet of things (IoT) é um novo paradigma constituído de objetos físicos com sensores e
+atuadores embarcados, conectados por redes com e sem fio e que se comunicam usando a
+Internet. Essa rede de objetos permite o surgimento de uma infinidade de novas aplicações, como
+cidades inteligentes e ambientes IoT na área da saúde (denominados neste projeto de IoT-health).
+Nessas aplicações, as interações vão além da interação tradicional entre usuários e aplicação
+(human-computer interaction), pois também passam a existir interações entre usuários e objetos,
+também ditas coisas, (human-thing) e entre objetos e objetos (thing-thing). A presença destas
+interações é consequência das peculiaridades da IoT, tais como a interconectividade e
+interoperabilidade dos objetos. Dessa maneira, as seguintes questões de pesquisa surgem:
+(i) Como podemos testar uma aplicação IoT e assegurar a correta execução da mesma?
+(ii) Como avaliar requisitos não-funcionais em um ambiente IoT?
+Dessa forma, as interações human-thing e thing-thing demandam novas técnicas de avaliação de
+qualidade que considerem as particularidades dos sistemas IoT. Este projeto propõe então uma
+abordagem para avaliação da qualidade de sistemas IoT considerando as interações human-thing e
+thing-thing no intuito de verificar o correto funcionamento da aplicação. Essa abordagem
+contemplará os requisitos funcionais e requisitos não-funcionais/características de qualidade da
+IoT.
+Concluindo, esse projeto tem como finalidade a continuação das atividades executadas durante o
+projeto PIBIC 2016-2017, o qual investigou sobre a qualidade das interações no ambiente IoT. O
+projeto será realizado em colaboração com o Laboratório de Automação, Mecânica e Informática
+Industrial e Humana - LAMIH - da cidade de Valenciennes et Hainaut-Cambrésis e com
+pesquisadores brasileiros da Universidade Federal do Rio de Janeiro, da Universidade Federal do
+Paraná, e da Universidade Federal do Piauí.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Michelly Karen Diogenes Pereira - Integrante / Lucas Cabral Carneiro da Cunha - Integrante.
+2016 - 2021
+INCT-Ines:  Instituto Nacional de Ciência e Tecnologia para Engenharia de Software (INES)
+Projeto certificado pelo(a) coordenador(a) Augusto José Venâncio Neto em 16/09/2018.
+Descrição: O Instituto Nacional de Ciência e Tecnologia para Engenharia de Software (INES) (www.ines.org.br) é um INCT do CNPq e foi financiado pelos editais CNPq 573964/2008-4 e FACEPE APQ-1037-1.03/08. Além disso, o INES originou e é parte integrante e fundamental do ISI-TICs (Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação), um dos 26 Institutos de Inovação da rede SENAI/CNI que encontram-se em estruturação e estão sendo criados para reforçar e apoiar a competitividade das empresas nacionais de todos os setores da cadeia produtiva, em resposta ao ?Plano Brasil Maior? que define a política industrial, tecnológica e de comércio exterior do Governo Brasileiro. O ISI-TICs é uma instituição privada sem fins lucrativos que realiza pesquisa aplicada através de projetos de inovação e está ligada ao SENAI, Departamento Regional Pernambuco.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / Pedro de Alcântara dos Santos Neto - Integrante / SÉRGIO CASTELO BRANCO SOARES - Integrante / Silvio Romero de Lemos Meira - Integrante / Eduardo Santana de Almeida - Integrante / Thais Vasconcelos Batista - Integrante / Augusto Cezar Alves Sampaio - Coordenador / Paulo Henrique Monteiro Borba - Integrante / Eduardo Araújo Oliveira - Integrante / Jones Albuquerque - Integrante / Ricardo José Rocha Amorim - Integrante / Rohit Gheyi - Integrante / Glêdson Elias da Silveira - Integrante / Leila Maciel de Almeida e Silva - Integrante / Márcio de Medeiros Ribeiro - Integrante / Paulo F Pires - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2019
+MAximUM2IoT - Abordagem para Avaliação da Qualidade de Aplicações Ubíquas no cenário de VANETs e IoT
+Descrição: O principal objetivo deste projeto é evoluir a abordagem anteriormente definida para considerar todas as características de qualidade, abrangendo não só a Interação Homem-Computador, mas também as interações de diferentes dispositivos/objetos no contexto de aplicações VANETs e da Internet das Coisas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Coordenador / Miguel Franklin de Castro - Integrante / Windson Viana de Carvalho - Integrante / Lincoln Souza Rocha - Integrante / Fernando Parente Garcia - Integrante / Antônio Alfredo Ferreira Loureiro - Integrante / Kahia Marçal de Oliveira - Integrante / Fernando Trinta - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2016 - 2017
+PIBIC 2016/2017 - Uma Abordagem para Avaliação da Qualidade de Interações Human-Things e Things-Things em Sistemas IoT
+Descrição: Internet of things (IoT) é um novo paradigma constituído de objetos (i.e. coisas) físicos com
+sensores e atuadores embarcados, conectados por redes com e sem fio e que se comunicam
+usando a Internet. Essa rede de objetos inteligentes permite o surgimento de uma infinidade de
+novas aplicações, como por exemplo, cidades inteligentes e ambientes IoT na área da saúde
+(denominados neste projeto de IoT-health).
+Nessas aplicações, as interações vão além da interação tradicional entre usuários e aplicação
+(human-computer interaction), pois também passam a existir interações entre usuários e coisas
+(human-things) e entre coisas e coisas (things-things). A presença destas interações é
+consequência das peculiaridades da IoT, tais como a interconectividade e interoperabilidade dos
+objetos. Dessa maneira, perante a avaliação da qualidade destas novas interações, existem
+questões de pesquisa tais como:
+(i)	Que tipos de falhas podem ocorrer quando os objetos dos sistemas IoT interagem na rede para
+prover um serviço?
+(ii)	Quais cenários de uso e tarefas devem ser considerados em uma avaliação de IHC com
+sistemas IoT?
+Dessa forma, as interações human-things e things-things demandam novas técnicas, modelos e
+métodos de avaliação de qualidade que considerem as particularidades dos sistemas IoT. Este
+projeto propõe então uma abordagem para avaliação da qualidade de interações human-things e
+things-things para sistemas IoT. Essa abordagem contemplará os requisitos
+não-funcionais/características de qualidade da IoT, utilizando um método de IHC, e os modelos de
+faltas para avaliar as interações human-things e things-things. O projeto será realizado em
+colaboração com o Laboratório de Automação, Mecânica e Informática Industrial e Humana -
+LAMIH - da cidade de Valenciennes et Hainaut-Cambrésis e com pesquisadores brasileiros da
+Universidade Federal do Rio de Janeiro, da Universidade Federal do Paraná, e da Universidade
+Federal do Piauí.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Valéria Lelli Leitão Dantas - Integrante / Letícia da silva Fernandes - Integrante / Lucas Cabral Carneiro da Cunha - Integrante / Sayonara Santos Araújo - Integrante / Lizandra Maria da Silva Cardoso - Integrante.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro.
+2015 - 2018
+MDCC-UFC: Estratégia de Consolidação e Internacionalização da pós-graduação em Ciência da Computação no Ceará
+Descrição: Este projeto apresenta a Estratégia do Programa de Mestrado e Doutorado em Ciência da Computação da UFC com vistas ao crescimento solidário e contínuo da pós-graduação em ciência da computação no 
+Estado do Ceará, sendo o foco principal na sua internacionalização. Após alcançar, na avaliação trienal 2010-2011-2012 o objetivo definido no projeto referente ao edital 04/2011, que era a elevação do conceito CAPES de 4 para 5, o novo planejamento prevê a médio prazo a elevação do conceito de 5 para 6. As estratégias do programa continuam visando o crescimento solidário e contínuo com foco maior na internacionalização que, internamente, permitem o crescimento, fortalecimento e consolidação das linhas de pesquisa de maneira homogênea; institucionalmente, agregam esforços com outros programas de pós-graduação para o fortalecimento da pós-graduação na UFC; e, em nível estadual e federal, estabelece parceiras que fortalecem o desenvolvimento científico e tecnológico do Ceará e do Brasil.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Coordenador / Miguel Franklin de Castro - Integrante / Ana Teresa de Castro Martins - Integrante / Cláudia Linhares - Integrante / Javam de Castro Machado - Integrante / Vânia Maria Ponte Vidal - Integrante / Creto Augusto Vidal - Integrante / José Neuman de  Souza - Integrante / Fernando Antonio Mota  Trinta - Integrante / José Maria da Silva Monteiro Filho - Integrante / FRANCISCO HERON DE CARVALHO JUNIOR - Integrante / Windson Viana de Carvalho - Integrante / José Antônio Fernandes de Macêdo - Integrante / Joaquim Bento Cavalcante Neto - Integrante / Manoel Bezerra Campelo Neto - Integrante / Rafael Castro de Andrade - Integrante / Ricardo Cordeiro Correa - Integrante / João Fernando Lima Alcântara - Integrante / Rudini Menezes Sampaio - Integrante / Carlos Eduardo Fisch de Brito - Integrante / Emanuele Marques dos Santos - Integrante / Victor Almeida Campos - Integrante.
+2015 - 2016
+PIBIC 2015/2016 - CAcTUS Testes Sensíveis ao Contexto para Sistemas Ubíquos (Context-Awareness Testing for Ubiquitous Systems)
+Descrição: A computação ubíqua modifica o foco do interesse antes centrado na tecnologia computacional
+para dar mais atenção ao usuário e suas necessidades. Nesse contexto, é essencial que
+diferentes tipos de dispositivos (sensores, computadores, tecnologias móveis) e serviços interajam
+automaticamente sem a intervenção do usuário, o que é essencial para garantir a
+interoperabilidade. Sendo assim, as questões de interação nos sistemas ubíquos extrapolam a
+relação humano-computador, englobando a interação entre diferentes dispositivos e sistemas, que
+denominamos nesse projeto interação ator-computador.
+Existem trabalhos na literatura que tem explorado a realização de testes em laboratório e no
+ambiente real para identificação de problemas de usabilidade que permitam a melhoria desses
+sistemas de forma a melhor atender seus usuários. No entanto, para melhor controlar esse ciclo de
+avaliação e melhoria da qualidade, os testes devem ser adequadamente projetados e realizados, o
+que leva as seguintes questões de pesquisa:
+(i)	Que testes devem ser realizados para garantir a melhor interação ator-computador?
+(ii)	Como o contexto influencia no planejamento e execução dos testes de um sistema ubíquo?
+(iii)	Como considerar os resultados dos testes de forma a avaliar a qualidade dos sistemas
+ubíquos?
+Esse projeto tem então como objetivo de continuar as atividades executadas durante o projeto
+CAcTUS (PIBIC 2014-2015) com a intenção de responder as questões de pesquisa supracitadas.
+Para tanto, pretende-se definir uma estratégia para planejamento e execução de testes sensíveis
+ao contexto para sistemas ubíquos considerando os potenciais contextos de utilização e utilizando
+medições. O projeto será realizado em colaboração com o Laboratório de Automação, Mecânica e
+Informática Industrial e Humana - LAMIH - da cidade de Valenciennes et Hainaut-Cambrésis e do
+Grupo de Engenharia de Software Experimental %u2013 ESE/COPPE - da Universidade Federal
+do Rio de Janeiro.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Sayonara Santos Araújo - Integrante / Thais Ribeiro Barroso Torres - Integrante / Fernanda Luiza Siwerdt - Integrante.
+2014 - 2016
+SLA4CLOUD - Measurement and SLA Management of Heterogeneous Cloud Infrastructures
+Projeto certificado pelo(a) coordenador(a) Jose Neuman de Souza em 12/03/2014.
+Descrição: The aim of the SLA4CLOUD project is to initiate a major collaboration between research groups of South America and France on Cloud Computing. We propose in this project (i) the development of different offers of Cloud Service with an SLA representation that could be used for offline and online negotiation in cloud environments; (ii) the implementation of a strategy for dynamic consolidations of virtual machines in order to reduce energy consumption without compromising performance requirements concerning availability and SLA violation; (iii) the development of a semi- or fully-automated security policy composition mechanism for composite services in Cloud, while maintaining consistency with the security policies of the external services; and (iv) a rule-based pricing system that implements the same intuitive ideas in the shape of policy-rules to improve the quality of service and to increase the global income of a Cloud Computing provider. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (6) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Nazim Agoulmine - Integrante / Javier Baliosian - Integrante / José Neuman de  Souza - Coordenador / Danielo Gonçalves Gomes - Integrante / Stenio Flavio de Lacerda Fernandes - Integrante.
+2014 - 2016
+KIGB: Knowing and interacting while gaming for the blind
+Descrição: The development and enhancement of cognitive skills in people who are blind has been highly demanded in the literature. Digital technology targeting this need is widely desired and demanded. There is also a need beyond the technology development. Usability and cognitive impact evaluation studies of technology for people with visual disability are claimed and required for better understanding and adequate and pertinent use. This proposal is targeting this need and demand. We focus on Knowing and Interacting while Gaming for the Blind, KIGB. We intend to design, implement and evaluate a multimodal mobile videogame application for enhancing cognition in people with visual disabilities. Thus the focal point is mobile gaming for further developing cognitive processes such as mental models, cognitive spatial structures, and navigation skills in people with visual disabilities. Mobile software evaluation, usability evaluation and impact evaluation will be a key in this project. By implementing KIGB we aim at producing a mobile gaming computer application that is usable, understandable and effective. Finally, the most global purpose of the KIGB project is to contribute from the computer science side to better develop the intellect of people who are blind, to help them to be more autonomous and independent in their life and their relations with people and surroundings, and thus helping them to be more integrated and included in our society and culture. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / Windson Viana de Carvalho - Integrante / Edgar Marçal - Integrante / Jérome Gensel - Integrante / Ismayle de Sousa Santos - Integrante / Jaime Sanchez - Coordenador / Matias Espinoza - Integrante / Carla Ilane Moreira Bezerra - Integrante / Márcia de Borba Campos - Integrante / Marcio Sarroglia Pinho - Integrante / Ticianne Ribeiro Teixeira - Integrante / Agebson Façanha - Integrante / Philippe Genoud - Integrante / Marlène Villanova-Oliver - Integrante / Christian Lykawka - Integrante / Álvaro Menezes - Integrante / Tales Nereu Bogoni - Integrante / Arthur Fernando Arnold Battaglia - Integrante / Sylvain Bouveret - Integrante.
+2014 - 2015
+PIBIC 2014/2015 - Testes Sensíveis ao Contexto para Sistemas Ubíquos
+Descrição: A computação ubíqua modifica o foco do interesse antes centrado na tecnologia computacional
+para dar mais atenção ao usuário e suas necessidades. Nesse contexto, é essencial que
+diferentes tipos de dispositivos e serviços interajam automaticamente sem a intervenção do usuário,
+o que é essencial para garantir a interoperabilidade. Neste cenário, as questões de interação nos
+sistemas ubíquos extrapolam a relação humano-computador, englobando a interação entre
+diferentes dispositivos e sistemas, que denominamos nesse projeto interação ator-computador.
+De uma forma geral, existem trabalhos na literatura que tem explorado a realização de testes em
+laboratório e no ambiente real para identificação de problemas de usabilidade que permitam a
+melhoria desses sistemas de forma a melhor atender seus usuários. No entanto, para melhor
+controlar esse ciclo de avaliação e melhoria da qualidade, os testes devem ser adequadamente
+projetados e realizados, o que leva à diferentes questões de pesquisa:
+(i)	Que testes devem ser realizados para garantir a melhor interação ator-computador?
+(ii)	Como considerar os diferentes contextos possíveis na realização desses testes?
+(iii)	Como considerar os resultados dos testes de forma a avaliar a qualidade dos sistemas
+ubíquos?
+Esse projeto tem então como objetivo responder essas questões, buscando definir uma estratégia
+para planejamento e execução de testes sensíveis ao contexto para sistemas ubíquos
+considerando os potenciais contextos de utilização e utilizando medições. O projeto será realizado
+em colaboração com o Laboratório de Automação, Mecânica e Informática Industrial e Humana -
+LAMIH - da cidade de Valenciennes et Hainaut-Cambrésis e do Grupo de Engenharia de Software
+Experimental - ESE/COPPE - da Universidade Federal do Rio de Janeiro.
+Além da elaboração da estratégia de testes, são previstos como subprodutos deste projeto a
+qualificação da equipe nas tecnologias tecnologias envolvidas e resultados que comprovem a
+parceria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2013 - 2017
+CAcTUS - Context-Awareness Testing for Ubiquitous Systems
+Descrição: A crescente melhoria em miniaturização de dispositivos computacionais e em meios de comunicação sem fio tem possibilitado relevantes avanços no desenvolvimento de sistemas ubíquos. Tais sistemas possuem características desafiadoras e que influenciam na interação ator-computador, como sensibilidade ao contexto, interoperabilidade espontânea e heterogeneidade de dispositivos. Para garantir a qualidade desse tipo de sistema, os testes devem ser adequadamente projetados e realizados de acordo com suas características, necessitando identificar algumas questões como quais testes devem ser executados, quais os contextos que a aplicação deve executar e como avaliar a qualidade desses sistemas a partir de testes. Esse projeto tem então como objetivo responder essas questões, buscando definir uma estratégia para planejamento e execução de testes sensíveis ao contexto para sistema ubíquos considerando as potenciais informações de contexto e utilizando medidas de software para avaliação da qualidade. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (3) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Ismayle de Sousa Santos - Integrante / Carla Ilane Moreira Bezerra - Integrante / Maia, Marcio E.F. - Integrante / Pedro de Alcântara dos Santos Neto - Integrante / José Maria da Silva Monteiro Filho - Integrante / Kathia Marçal de Oliveira - Integrante / Mourad Abed - Integrante / Houcine Ezzedine - Integrante / Ítalo Linhares de Araújo - Integrante / Guilherme Horta Travassos - Coordenador / Ana Regina Cavalcanti da Rocha - Integrante / Lincoln Rocha - Integrante / Christophe Kolski - Integrante / Sylvain Lancomte - Integrante / Dorian Petit - Integrante / Mikael Desertot - Integrante / Rainara Maia Santos - Integrante / Andressa Bezerra Ferreira - Integrante.
+2013 - 2017
+GBraille: Estudo, Concepção e Avaliação de um Jogo Móvel para Auxiliar a Aprendizagem de Braille
+Descrição: As diretrizes do projeto GBraille são: 1. A criação e a consolidação de uma colaboração tecnológica e científica na temática de Tecnologias Assistivas entre as instituições de pesquisa e ensino UFC, PUCRS, IFCE e Universidad de Chile 2. A concepção e desenvolvimento de um jogo móvel multimodal que objetiva a melhoria da aprendizagem de Braille por pessoas com deficiência visual. 3. Adaptação de processos e ferramentas de teste de software para serem aplicado em software móvel e multimodal. Em caso de se mostrarem efetivos, possam também ser utilizados para acelerar o desenvolvimento de outros aplicativos móveis para pessoas com deficiência visual. 4. Avaliação de usabilidade do jogo proposto. 5. Avaliação do impacto do uso desse jogo móvel nos processos de aprendizagem de Braille em pessoas com deficiência visual e sua disponibilização gratuita para escolas e instituições. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Mauro Cavalcante Pequeno - Integrante / Jaime Sanchez - Integrante / Márcia de Borba Campos - Integrante / Ticianne Ribeiro Teixeira - Integrante / Agebson Façanha - Integrante / Windson Viana de Carvalho - Coordenador.
+2013 - 2016
+Otimização Cross-Layer em Redes em Malha Sem fio com Múltiplos Rádios
+Projeto certificado pelo(a) coordenador(a) Carina Teixeira de Oliveira em 27/05/2014.
+Descrição: O objetivo desse projeto é desenvolver uma nova solução de roteamento cross-layer para otimizar as Redes em Malha Sem Fio Multi-Canal Multi-Rádio (WMN MCMR), com foco no desenvolvimento de uma nova métrica ciente da qualidade do enlace e de um novo protocolo de roteamento capaz de minimizar os problemas de sobrecarga resultantes do uso de múltiplos rádios.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Carina Teixeira de Oliveira - Coordenador / Danielo Gonçalves Gomes - Integrante / Reinaldo Bezerra Braga - Integrante.
+2013 - 2016
+Avaliação e Controle da Qualidade da Informação Contextual em Ambientes Ubíquos de Saúde
+Descrição: Este projeto tem por objetivo a formação de recursos humanos (alunos de mestrado, doutorado, IC, bolsista envolvido, etc), a melhoria do desempenho científico e o suporte a competitividade international ao grupo de pesquisa. Como objetivo de pesquisa, o presente projeto intensifica o estudo do impacto da qualidade da informação de contexto em sistemas ubíquos de saúde, além da implementação de um ambiente real para a validação de testes. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Coordenador / Reinaldo Bezerra Braga - Integrante / Paulo Armando Cavalcante Aguilar - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - 2014
+PIBIC 2013/2014 - MAxIMUm - Uma Abordagem baseada em Medições para Avaliação da Qualidade da Interação Humano-Computador de Sistemas Ubíquos
+Descrição: Com os avanços recentes no desenvolvimento de sistemas ubíquos, importantes questões
+relacionadas à Interação Humano-Computador (IHC) surgiram para assegurar a satisfação dos
+usuários e lidar com a diversidade de tecnologias (e.g., celulares, tablets e IPOD) e tipos de
+interação (e.g., áudio, vídeo, texto e imagens).
+Sendo assim, as interfaces devem ser adaptáveis a diferentes tecnologias e contextos de uma
+forma transparente e intuitiva para o usuário. Muitos estudos têm explorado como avaliar tais
+sistemas para identificar problemas de usabilidade que permitam a sua melhoria.
+Consequentemente emergem as seguintes questões de pesquisa:
+(i) como os modelos de qualidade existentes podem ser utilizados?
+(ii) como alcançar a melhoria de qualidade de sistemas ubíquos com as medidas definidas?
+Atingir os principais objetivos da computação ubíqua e ainda responder a essas questões não é
+trivial, principalmente porque os requisitos de sistemas ubíquos possuem características
+simultâneas de sistemas distribuídos, heterogêneos e centrados no usuário, e ainda se tornam mais
+complexos pela grande variedade de dispositivos e serviços disponíveis.
+Este projeto tem por objetivo responder essas questões, buscando definir uma abordagem baseada
+em medição para avaliar a qualidade de IHC em sistemas ubíquos de forma a apoiar sua melhoria
+para que atenda as necessidades atuais do usuário. O projeto será realizado em colaboração com
+o Laboratório de Automação, Mecânica e Informática Industrial e Humana - LAMIH - da cidade de
+Valenciennes et do Hainaut-Cambrésis.
+Além da elaboração da abordagem baseada em medição propriamente dita, são previstos como
+subprodutos deste projeto a qualificação da equipe nas tecnologias envolvidas e resultados que
+comprovem a parceria firmada entre as duas equipes, tais como co-autoria em publicações e
+co-orientações de alunos da pós-graduação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2013 - 2014
+Sistemas Ubíquos e Sensíveis ao Contexto para o auxílio à aprendizagem em aulas de campo em Geociências
+Descrição: Este projeto propõe investigar o uso de sistemas ubíquos e sensíveis ao contexto no auxílio à aprendizagem em aulas de campo em Geociências. Aulas de campo tem caráter fortemente espacial e podem se beneficiar da inserção de dispositivos móveis equipados com aplicativos capazes de propor atividades e conteúdos relacionados à situação de aprendizagem dos alunos (i.e., seu contexto). O objetivo principal deste projeto é conceber e implementar um ambiente composto de uma série de aplicativos móveis multimodais (compostos por som, gestos e imagens) que permita a criação de aplicações móveis em Geociência e que possam ser facilmente configurados e estendidos pelos professores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Windson Viana de Carvalho - Coordenador / Edgar Marçal  de Barros Filho - Integrante / Marcio Maia - Integrante.
+2012 - 2016
+CNPq Procad/Casadinho - Programa Parceria em Pesquisa na Pós-Graduação
+Descrição: Este projeto consiste em projetos conjuntos de pesquisa científica e tecnológica em 4 diferentes áreas da Ciência da Computação que visa estimular ou aprofundar a formação pós-graduada e a mobilidade docente e discente. Os projetos conjuntos, agrupados em uma só proposta como exigido no edital, têm o objetivo de promover a consolidação de Programa de Mestrado e Doutorado em Ciência da Computação da Universidade Federal do Ceará (MDCC-UFC) por meio da cooperação inter-regional entre 4 de seus grupos de pesquisa e seus congêneres de programas consolidados de instituições nacionais de ensino superior e de pesquisa do Estado do Rio de Janeiro.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (5) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Miguel Franklin de Castro - Integrante / José Neuman de Souza - Integrante / Javam Machado - Integrante / Paulo Henrique M Maia - Integrante / Lincoln S. Rocha - Integrante / Márcio Espíndola Freire Maia - Integrante / Francisco Fabrício  de Paula Lima - Integrante / Carla Ilane Moreira Bezerra - Integrante / José Antonio Fernandes de Macedo - Coordenador / ALESSANDRO FABRICIO GARCIA - Integrante / Markus Endler - Integrante / José maria monteiro filho - Integrante / Vânia Vidal - Integrante / Marco Antônio Casanova - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2015
+Interligando Redes de Sensores à Internet: embarque do IPv6 com baixo consumo de energia
+Descrição: Edital MCT/CNPq - N º 14/2012 - Universal. O objetivo geral deste projeto é pesquisa e desenvolvimento de soluções para interligar RSSF à Internet, embarcando nos motes implementações da pilha IP especialmente projetadas para a comunicação entre objetos inteligentes com baixo consumo de energia. Especificamente, serão realizados estudos do custo energético acerca do uso do IPv6 nas RSSF, tanto no nó sensor quanto na rede. Este estudo possibilitará, primeiramente uma avaliação criteriosa de soluções atuais e, na sequência, implementação de aplicações em sensores reais que possam ser monitoradas via Web. Dentre as aplicações possíveis podemos destacar detecção de incêndio em prédio inteligente, monitoramento de colmeias de abelhas e monitoramento de saúde estrutural (SHM, Structural Health Monitoring... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Miguel Franklin de Castro - Integrante / Atslands Rego da Rocha - Integrante / Danielo Gonçalves Gomes - Coordenador / Augusto José Venâncio Neto - Integrante / Carlos Giovanni Nunes de Carvalho - Integrante / André Castelo Branco Soares - Integrante / Marcus Vinicius de Sousa Lemos - Integrante / Eduardo Freire Nakamura - Integrante.
+2012 - 2015
+HOSCAR
+Descrição: The HOSCAR project is a CNPq - INRIA collaborative project between Brazilian and French researchers, in the field of computational sciences. The project is also sponsored by the French Embassy in Brazil. The general objective of the project is to setup a multidisciplinary Brazil-France collaborative effort for taking full benefits of future high-performance massively parallel architectures. The targets are the very large-scale datasets and numerical simulations relevant to a selected set of applications in natural sciences: (i) resource prospection, (ii) reservoir simulation, (iii) ecological modeling, (iv) astronomy data management, and (v) simulation data management. The project involves computer scientists and numerical mathematicians divided in 3 fundamental research groups: (i) numerical schemes for PDE models (Group 1), (ii) scientific data management (Group 2), and (iii) high-performance software systems (Group 3). Several Brazilian institutions are participating to the project among which: LNCC (Laboratório Nacional de Computação Científica), COPPE/UFRJ (Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia/Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering, Universidade Federal do Rio de Janeiro), INF/UFRGS (Instituto de Informática, Universidade Federal do Rio Grande do Sul) and LIA/UFC (Laboratórios de Pesquisa em Ciência da Computação Departamento de Computação, Universidade Federal do Ceará). The French partners are research teams from several INRIA research centers. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / José Neuman de  Souza - Integrante / Antônio Tadeu Azevedo Gomes - Coordenador.
+2012 - 2014
+UbiStructure - Uma infra-estrutura de desenvolvimento e execução de aplicações ubíquas
+Descrição: O objetivo desse novo projeto, denominado UbiStructure, é utilizar as ideias que foram propostas durante o projeto MobiLine e criar um ambiente de desenvolvimento e execução para aplicações móveis e sensíveis ao contexto utilizando Linhas de Produtos de Software, que contemple os vários ciclos propostos no MobiLine. Para isso, muitas questões não tratadas anteriormente serão exploradas e tem enfoque nos aspectos de dependabilidade, qualidade de software, aquisição de contexto e de configuração otimizada de um produto. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1)  / Doutorado: (5) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Claudia Werner - Integrante / Windson Viana de Carvalho - Integrante / Miguel Franklin Castro - Integrante / Fabiana Gomes Marinho - Integrante / Nabor das Chagas Mendonça - Integrante / Lincoln S. Rocha - Integrante / Márcio E. F. Maia - Integrante / Paulo H. M. Maia - Integrante / de Souza, José Neuman - Integrante / Ismayle de Sousa Santos - Integrante / Jerffeson Teixeira de Souza - Integrante / Fernando Parente Garcia - Integrante / Carla Ilane Moreira Bezerra - Integrante / Eldanae Nogueira Teixeira - Integrante / Augusto Jose Venancio Neto - Integrante / Vinicius Cardoso Garcia - Integrante / Atslands Rego da Rocha - Integrante / Fernando Antonio Mota  Trinta - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+MAxIMUm - Uma Abordagem baseada em Medições para Avaliação da Qualidade da Interação Humano-Computador de Sistemas Ubíquos
+Descrição: Com os avanços recentes no desenvolvimento de sistemas ubíquos, importantes questões relacionadas a Interação Humano-Computador (IHC) surgiram para assegurar a satisfação dos usuários e lidar com a diversidade de tecnologias (e.g., celulares, tablets e IPOD) e tipos de interação (e.g., áudio, vídeo , texto e imagen).  Sendo assim, as interfaces devem ser adaptáveis a diferentes tecnologias e contextos de uma forma transparente e intuitiva para o usuário. Muitos estudos tem explorado como avaliar tais sistemas para identificar problemas de usabilidade que permitam a sua melhoria. Consequentemente, emergem questões de pesquisa: Como os modelos de qualidade existentes podem ser utilizados? Como alcançar a melhoria de qualidade de sistemas ubíquos com as medidas definidas? Atingir os principais objetivos da computação ubíqua e ainda responder a essas questões não é trivial, principalmente porque os requisitos de sistemas ubíquos possuem características simultâneas de sistemas distribuídos, heterogêneos e centrados no usuário, e ainda se tornam mais complexos pela grande variedade de dispositivos e serviços disponíveis.  Este projeto tem por objetivo responder essas questões, buscando definir uma abordagem baseada em medição para avaliar a qualidade de IHC em sistemas ubíquos de forma a apoiar sua melhoria para que atenda as necessidades atuais do usuário.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Valéria Lelli Leitão Dantas - Integrante / Ismayle de Sousa Santos - Integrante / Lincoln Souza Rocha - Integrante / Carla Ilane Moreira Bezerra - Integrante / Maia, Marcio E.F. - Integrante / Rainara Maia Santos - Integrante / José Maria da Silva Monteiro Filho - Integrante / Kathia Marçal de Oliveira - Integrante / Mourad Abed - Integrante / Houcine Ezzedine - Integrante / Gustavo da Silva Monteiro - Integrante / Gustavo Siebra Lopes - Integrante / Edmilson Robson Rocha Lima - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2013
+GULP - Uso da Tecnologia da Informação no Ensino de Geologia em Campo
+Descrição: Este projeto tem como objetivo principal propor uma solução inovadora para auxiliar o ensino de Geologia nas práticas de campos através das tecnologias de informação e comunicação (TIC). Em particular, planeja-se utilizar os recursos da computação móvel e ubíqua para proporcionar ao aluno um ambiente no qual ele tenha acesso a informações relacionadas ao conteúdo estudado de uma forma mais natural, em qualquer lugar e a qualquer momento, através de vários meios de interação (por exemplo, visão e voz). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Edgar Marçal de Barros Filho - Integrante / Windson V Carvalho - Integrante / Márcio E. F. Maia - Integrante / Wagner Amaral - Integrante.Financiador(es): Universidade Federal do Ceará - Auxílio
+										financeiro.
+2012 - 2013
+PIBIC 2012/2013 - MAxIMUm - Uma Abordagem baseada em Medições para Avaliação da Qualidade da Interação Humano-Computador de Sistemas Ubíquos
+Descrição: Com os avanços recentes no desenvolvimento de sistemas ubíquos, importantes questões
+relacionadas à Interação Humano-Computador (IHC) surgiram para assegurar a satisfação dos
+usuários e lidar com a diversidade de tecnologias (e.g., celulares, tablets e IPOD) e tipos de
+interação (e.g., áudio, vídeo, texto e imagens). Sendo assim, as interfaces devem ser adaptáveis a
+diferentes tecnologias e contextos de uma forma transparente e intuitiva para o usuário. Muitos
+estudos têm explorado como avaliar tais sistemas para identificar problemas de usabilidade que
+permitam a sua melhoria. Consequentemente emergem as seguintes questões de pesquisa:
+(i) como os modelos de qualidade existentes podem ser utilizados?
+(ii) como alcançar a melhoria de qualidade de sistemas ubíquos com as medidas definidas?
+Atingir os principais objetivos da computação ubíqua e ainda responder a essas questões não é
+trivial, principalmente porque os requisitos de sistemas ubíquos possuem características
+simultâneas de sistemas distribuídos, heterogêneos e centrados no usuário, e ainda se tornam mais
+complexos pela grande variedade de dispositivos e serviços disponíveis.
+Este projeto tem por objetivo responder essas questões, buscando definir uma abordagem baseada
+em medição para avaliar a qualidade de IHC em sistemas ubíquos de forma a apoiar sua melhoria
+para que atenda as necessidades atuais do usuário. O projeto será realizado em colaboração com
+o Laboratório de Automação, Mecânica e Informática Industrial e Humana - LAMIH - da
+Universidade de Valenciennes et do Hainaut-Cambrésis. Além da elaboração da abordagem
+baseada em medição propriamente dita, são previstos como subprodutos deste projeto a
+qualificação da equipe nas tecnologias envolvidas e resultados que comprovem a parceria firmada
+entre as duas equipes, tais como co-autoria em publicações e co-orientações de alunos da
+pós-graduação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2011 - 2013
+LWM - Learning While Moving
+Descrição: In the LWM project, we intend to develop a context-aware mobile-learning environment, called u-learning environment, to assist the creation of e-learning lectures, which can be adapted according to the current learning situation of the students, commonly named context. For instance, the current location of students, their proximity with real studied object around, their skills, and the current state in the lecture workflow can be used to dynamically improve the u-learning activities performed by these students. Many scientific and technologic challenges emerge from this proposal and will be studied and tackled during this project.
+The final objective of the LWM project will be the support of the following challenging propositions:
+a.	A Knowledge representation of the  domain of application ( field or discipline) targeted by the lecture or lesson (more particularly here, the field of Geology);
+b.	A generic lecture representation that supports adaptation mechanisms;
+c.	A rule-based expert system for adapting the lecture according to the user context and domain knowledge;
+d.	Pervasive and mobile services used by the lecture application;
+e.	A context management middleware in charge of acquiring, interpreting, deriving and providing context information with quality to u-learning applications;
+f.	A sensor-based infrastructure that will be deployed in order to identify real world object;
+g.	Finally, a service-based architecture that connects all components of the ubiquitous learning enviroment.
+These tasks require the research expertise that already is available among the partners of this project. Therefore, the main purpose of this project is to build an innovative environment dedicated to ubiquitous learning applications, through a fruitful collaboration based on scientific and technical exchange between research teams deeply involved in the field of Ubiquitous Computing. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / Cláudia Werner - Integrante / Edgar Marçal de Barros Filho - Integrante / Windson Viana de Carvalho - Integrante / José Bringel Filho - Integrante / Márcio Maia - Integrante / Marlène Villanova - Integrante / Hervé Martin - Integrante / Jérome Gensel - Integrante / Jose Valdeni de Lima - Coordenador / José Palazzo Moreira de Oliveira - Integrante / Leandro Wines - Integrante / Jose Celso Freire Junior - Integrante / Edson Luiz França Senne - Integrante / Ivan Rizzo Guilherme - Integrante / Marco di Benedito - Integrante / Jaime Sanchez - Integrante / Mauricio Saenz - Integrante / Matias Espinoza - Integrante / Ângelo Tadres - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2011 - 2012
+PIBIC 2011/2012 - Facilitador Social para a Copa do Mundo no Brasil utilizando Dispositivos Móveis
+Descrição: Comunicação, segurança, interface do usuário, controle de concorrência, mapas e localização são
+os principais desafios de pesquisa a serem abordados neste projeto, o qual visa desenvolver uma
+aplicação inovadora para dispositivos móveis centrada no tema da copa do mundo a ser realizada
+no Brasil e na possibilidade de interação entre os diversos turistas torcedores que estarão visitando
+o país para o evento. O objetivo então deste projeto é criar um facilitador social cujo foco é para
+ser utilizado durante a realização da copa do mundo no Brasil e, futuramente, com adaptações, em
+outras copas do mundo ou eventos semelhantes. O usuário vai instalar no dispositivo móvel um
+aplicativo que permitirá a interação dos torcedores dos diversos países que estarão no Brasil
+assistindo a copa do mundo. Para atingir o objetivo proposto, é necessário utilizar técnicas de
+reutilização de software (componentes e uma linha de produto de software chamada de Mobiline e
+desenvolvida dentro dos projetos do CNPq e PIBIC 2009) e criar um mecanismo para que as
+preferências dos usuários possam ser modeladas e compartilhadas por todos os usuários do
+aplicativo. No sistema proposto, a modelagem permitirá que o conhecimento sobre o mesmo seja
+capturado e reutilizado durante as diversas fases de desenvolvimento (e.g., comunicação,
+segurança, interface do usuário, banco de dados e servidor, controle de concorrência, teste do
+sistema, mapas e localização e modelagem das preferências). Além disso, esta modelagem será
+importante para definir o escopo do trabalho de desenvolvimento e, em especial, o de teste,
+essencial para o sucesso do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2010 - 2012
+FAST - Um Facilitador Social para a Copa do Mundo no Brasil utilizando dispositivos Móveis
+Descrição: O objetivo do projeto é servir como um facilitador social durante a realização da Copa do Mundo no Brasil. O usuário vai instalar no dispositivo móvel um aplicativo com diversas funcionalidades de comunicação e localização que permitirá a interação dos torcedores dos diversos países que estarão no Brasil assistindo a copa do mundo. As principais funcionalidades a serem implementadas para interação e entretenimento consistem dos itens a seguir: Bolão; Cartola; Informações sobre as seleções e sobre os jogadores; Simuladores de placar; Atrações da cidade visitada; Mapas e direções para os pontos turísticos da cidade; Rede social; Localização dos torcedores; Compartilhamento de vídeo, fotos e voz; Comentários em fotos e vídeos; WikiGameStory; e Bate-papo. Ao analisar as funcionalidades descritas, pode-se identificar um conjunto de tarefas que são comuns a muitas delas. Essas tarefas são módulos que serão integrados no projeto principal e demandam pesquisa mais aprofundada na comunicação, segurança, interface do usuário, banco de dados e servidor, controle de concorrência, modelagem do sistema, testes do sistema, visão abstrata do processo de testes, mapas e localização. Essas pesquisas gerarão os insumos necessários à implementação das funcionalidades propostas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Márcio Espíndola Freire Maia - Integrante / Bruno Pinheiro Sabino - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2012
+MEnsoRe: um Middleware Evolutivo sensível ao contexto de serviços em Redes desafiadoras
+Descrição: O processo de globalização acelerado  tornou os domínios da tecnologia da informação e das telecomunicações essenciais para o desenvolvimento social, econômico e cultural de toda nação desenvolvida. Avanços contínuos nessas áreas têm contribuído significativamente para a concretização da Computação Ubíqua. Neste contexto, onde a computação torna-se onipresente, o processamento e o acesso à informação podem ocorrer a qualquer instante, independentemente da localização do usuário. Esta visão da computação traz consigo um cenário altamente dinâmico, heterogêneo e repleto de dispositivos computacionais, interconectados por diferentes tecnologias de comunicação sem fio (e.g., Bluetooth, Wi-fi e GPRS - General Packet Radio Service). Para dar suporte à comunicação entre os dispositivos em cenários como o descrito anteriormente, as redes de computadores passaram por um processo de evolução, que partiu de um modelo centralizado, estático e conectado por cabos, para um modelo sem fio estruturado, e mais recentemente, para um modelo parcialmente (mesh) e totalmente (ad hoc) desestruturado, onde a mobilidade, a intermitência e a escassez de recursos passam a ser a regra, tornando o desenvolvimento de aplicações uma atividade não trivial. Para minimizar a complexidade inerente dessas redes desafiadoras, são utilizados sistemas de middleware. Este projeto tem então como objetivo a construção de um sistema de middleware, chamado MEnsoRe - Middleware Evolutivo sensível ao contexto de serviços em Redes desafiadoras, capaz de fazer com que um dispositivo identifique as infra-estruturas de comunicação disponíveis e se adapte às condições do ambiente. A principal contribuição deste trabalho é tornar real a proposta de um mecanismo robusto e eficiente, capaz de oferecer um ambiente de pesquisa, de produção e de formação de recursos humanos nas áreas de Redes sem fio, Ubiqüidade, Mobilidade, Qualidade de Serviço e Engenharia de Software e Sistemas de Comunicação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Márcio Espíndola Freire Maia - Integrante / Rômulo Gadelha de Moura Lima - Integrante / Saulo Bezerra de Aguiar - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6
+2010 - 2011
+PIBIC 2010/2011 - MEnsoRe: um Middleware Evolutivo sensível ao contexto de serviços em Redes desafiadoras
+Descrição: O acelerado processo de globalização tornou os domínios da tecnologia da informação e das
+telecomunicações essenciais para o desenvolvimento social, econômico e cultural de toda nação
+desenvolvida. Avanços contínuos nessas áreas têm contribuído significativamente para a
+concretização da Computação Ubíqua [1]. Neste contexto, onde a computação torna-se
+onipresente, o processamento e o acesso à informação podem ocorrer a qualquer instante,
+independentemente da localização do usuário. Esta visão da computação traz consigo um cenário
+altamente dinâmico, heterogêneo e repleto de dispositivos computacionais, interconectados por
+diferentes tecnologias de comunicação sem fio (e.g., Bluetooth, Wi-fi e GPRS - General Packet
+Radio Service). Para dar suporte à comunicação entre os dispositivos em cenários como o descrito
+anteriormente, as redes de computadores passaram por um processo de evolução, que partiu de
+um modelo centralizado, estático e conectado por cabos, para um modelo sem fio estruturado, e
+mais recentemente, para um modelo parcialmente (mesh) e totalmente (ad hoc) [2] desestruturado,
+onde a mobilidade, a intermitência e a escassez de recursos passam a ser a regra, tornando o
+desenvolvimento de aplicações uma atividade não trivial. Para minimizar a complexidade inerente
+dessas redes desafiadoras, são utilizados sistemas de middleware [7]. Este projeto tem então como
+objetivo a construção de um sistema de middleware, chamado MEnsoRe %u2013 Middleware
+Evolutivo sensível ao contexto de serviços em Redes desafiadoras, capaz de fazer com que um
+dispositivo identifique as infra-estruturas de comunicação disponíveis e se adapte às condições do
+ambiente. A principal contribuição deste trabalho é tornar real a proposta de um mecanismo robusto
+e eficiente, capaz de oferecer um ambiente de pesquisa, de produção e de formação de recursos
+humanos nas áreas de Redes sem fio, Ubiqüidade, Mobilidade, Qualidade de Serviço e Engenharia
+de Software e Sistemas de Comunicação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2009 - 2014
+Instituto Nacional de Ciência e Tecnologia - Medicina Assistida por Computação Científica (INCT-MACC)
+Descrição: O Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica (INCT-MACC) envolve 33 instituições nacionais de 11 Estados da federação, totalizando 128 pesquisadores em sua equipe tanto da área tecnolológica quanto médica. Na proposta do INCT-MACC, a visão de futuro definida para o instituto é a de ser um instituto de excelência,tanto em nível nacional como internacional, em computação científica aplicada a medicina, atuando como referência em atividades de pesquisa e desenvolvimento, transferência de tecnologia e inovação e formação de ecursos humanos altamente qualificados na área acima; sendo o responsável pelo desenvolvimento de ambientes computacionais de alto desempenho para que as aplicações médicas desenvolvidas estejam à disposição das comunidades ligadas à pesquisa e saúde e, como conseqüência, a serviço da população através do Sistema Nacional de Processamento de Alto Desempenho SINAPAD.
+Para tanto, os seguintes cinco objetivos são contemplados: (i) Modelagem e simulação computacional de sistemas fisiológicos complexos; (ii) Processamento avançado de imagens médicas incluindo visualização e reconstrução tridimensional de estruturas de relevância médica e suas aplicações na modelagem e simulação computacional de sistemas fisiológicos e na diagnose por imagem; (iii) Ambientes virtuais colaborativos de realidade virtual e aumentada e telemanipulação na área médica para treinamento,formação de recursos humanos e planejamento cirúrgico; (iv) Sistemas de informação em saúde, com aplicações em atendimento médico emergencial e vigilância em saúde pública; e (v) Ciberambientes de computação distribuída de alto desempenho para as aplicações médicas nas áreas supra.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rossana Maria de Castro Andrade - Integrante / José Neuman de Souza - Integrante / Miguel Franklin Castro - Integrante / Danielo G. Gomes - Integrante / Bruno  Schulze - Integrante / Raúl Antonino Feijóo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2013
+PADBR - Infra-Estrutura Nacional de Processamento Computacional Avançado
+Descrição: O objetivo principal consiste em estabelecer um plano de testes em todos os centros de alto desempenho para garantir um total funcionamento da grade. Para isso, será definida uma série de testes para que seja possível verificar todas as funcionalidades da grade nos níveis locais, inter centros e global.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Rossana Maria de Castro Andrade - Integrante / João Marcelo Uchôa de Alencar - Integrante / Saulo Passos Ramos - Integrante / Carina Teixeira de Oliveira - Integrante / Ismayle de Sousa Santos - Integrante / Bruno Góis Mateus - Integrante / Antônio Tadeu Gomes - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2010
+PIBIC 2009/2010 - MobiLine: Uma Linha de Produtos de Software para o Desenvolvimento de Aplicações Móveis e Sensíveis ao Contexto
+Descrição: O objetivo deste projeto é investigar as características particulares existentes no desenvolvimento
+de software móvel sensível ao contexto para a construção de uma linha de produtos para este
+domínio. Em especial, o projeto considera como foco para o aumento da produtividade e qualidade
+no desenvolvimento desse tipo de software, a aplicação de técnicas que possibilitem uma
+reutilização de forma sistemática. Esta linha de produtos de software servirá como apoio ao
+engenheiro de software em todas as fases de desenvolvimento, além de possibilitar a utilização e
+construção de artefatos reutilizáveis. Neste sentido, está previsto um estudo em relação às técnicas
+tradicionais para a construção de linha de produtos, visando identificar as extensões necessárias
+para atender às características particulares de adaptabilidade e sensibilidade ao contexto, exigidas
+pela classe de aplicações a serem construídas neste domínio. Além da linha de produtos
+propriamente dita, são previstos como subprodutos adicionais para o projeto a qualificação da
+equipe em técnicas e tecnologias emergentes e resultados práticos que comprovem a parceria
+firmada entre as duas equipes. Tais resultados serão alcançados através de co-autoria em
+publicações pertinentes acerca do tema em fóruns apropriados, tanto em nível nacional (e.g.,
+SBES, SBCARS, WPUC) quanto internacional (e.g., DSPL, UbiComp, SPLC), além de possíveis
+co-orientações de alunos de pós-graduação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2008 - 2010
+MobiLine: Uma Linha de Produtos de Software para o Desenvolvimento de Aplicações Móveis e Sensíveis ao Contexto
+Descrição: O objetivo deste projeto é investigar as características particulares existentes no desenvolvimento de software móvel sensível ao contexto para a construção de uma linha de produtos para este domínio. Em especial, o projeto considera como foco para o aumento da produtividade e qualidade no desenvolvimento desse tipo de software, a aplicação de técnicas que possibilitem uma reutilização de forma sistemática. Esta linha de produtos de software servirá como apoio ao engenheiro de software em todas as fases de desenvolvimento, além de possibilitar a utilização e construção de artefatos reutilizáveis. Neste sentido, está previsto um estudo em relação às técnicas tradicionais para a construção de linha de produtos, visando identificar as extensões necessárias para atender às características particulares de adaptabilidade e sensibilidade ao contexto, exigidas pela classe de aplicações a serem construídas neste domínio. Além da linha de produtos propriamente dita, são previstos como subprodutos adicionais para o projeto a qualificação da equipe em técnicas e tecnologias emergentes e resultados práticos que comprovem a parceria firmada entre as equipes da UFC e UFRJ.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (5)  / Doutorado: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Cláudia Werner - Integrante / Fabiana Gomes Marinho - Integrante / Lincoln S. Rocha - Integrante / Francisco Fabrício de Paula Lima - Integrante / Davi S. Pinheiro - Integrante / João Bosco Ferreira Filho - Integrante / Valéria Lelli Leitão Dantas - Integrante / Alexandre Correia Cirqueira - Integrante / Aline Luiza da  Costa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2009
+PIBIC 2008/2009 - Mobiline: Uma Linha de Produtos de Software para o Desenvolvimento de Aplicações Móveis e Sensíveis ao Contexto
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2007 - 2009
+SIMEGRID  - SIMulações médicas Em GRIDs (Edital CNPq/CT-INFO)
+Descrição: O SIMEGRID (SIMulações médicas Em GRIDs) tem como objetivo o desenvolvimento de sistemas de software para as camadas de middleware e aplicações médicas em ambientes de grades computacionais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Windson Viana de Carvalho - Integrante / Reinaldo B Braga - Integrante / Bruno  Schulze - Coordenador / Igor Arcanjo Chaves - Integrante / Edvaldo Bezerra Pereira Junior - Integrante / José Neuman de  Souza - Integrante / Pedro Paiva Portugal - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2008
+PIBIC 2007/2008 - Um Middleware Adaptativo de Segurança e Persistência de Dados para o Desenvolvimento de Aplicações de Telemedicina em Dispositivos Móveis
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2006 - 2009
+Suporte Integrado e Gerência Distribuída em Redes Convergidas All-IP Através da Gerência Autônoma (SInGer ? All IP)
+Projeto certificado pelo(a) coordenador(a) Miguel Franklin de Castro em 14/03/2017.
+Descrição: O resultado principal esperado para esse projeto é uma nova arquitetura que seja eficiente e eficaz para o suporte à gerência de redes de serviço e, consequentemente, à formação de redes PN através da agregação segura e flexível de clusters dispersos, oferecendo também suporte a funções como mobilidade e localização.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Miguel Franklin Castro - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2008
+MCT/CNPq 57/2005 - Framesec - Um Framework para a transmissão segura de dados utilizando dispositivos móveis
+Descrição: Este projeto tem por objetivo propor um framework de aplicação que poderá ser utilizado no desenvolvimento de aplicações para esses dispositivos, garantindo a proteção dos dados a serem transmitidos através de meios sem fio e desenvolver um processo capaz de fornecer medidas básicas de desempenho de algoritmos criptográficos para dispositivos móveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / José de Ribamar Martins Bringel Filho - Integrante / João Marcelo Uchôa de Alencar - Integrante / Éricson Rogério Moreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 4
+2006 - 2007
+PIBIC 2006/2007 - Agentes Inteligentes Aplicados ao Roteamento e Predição de Falhas em Redes Ópticas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2005 - 2006
+PIBIC 2005/2006 - Agentes Inteligentes Aplicados ao Roteamento e Predição de Falhas em Redes Ópticas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rossana Maria de Castro Andrade - Coordenador.
+2004 - 2007
+GradGiga - Uma Grade Computacional de Alto Desempenho, de produção, para apoio ao Ensino e Pesquisa
+Descrição: Proposta de projeto de desenvolvimento em Serviços de Rede e Serviços e Aplicações Científicas, em Tecnologia de Informação e de Comunicação, para submissão à Chamada RNP 01/2004 - Projeto GIGA.
+O objetivo geral deste projeto é Construir uma grade de produção, com os recursos computacionais de alto desempenho dos CENAPADs interligados pela RNP (GIGA), utilizando ferramentas de domínio público.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Eugênio Neiva - Coordenador / Renato Simões Silva - Integrante / Denise Grüne Ewald - Integrante / Osvaldo Sérgio Farhat de Carvalho - Integrante / Edison Zacarias da Silva - Integrante / Álvaro Luiz Gayoso de Azeredo Coutinho - Integrante / Eugenio Sper de Almeida - Integrante / Alessandro Moreira Garcia - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Cooperação.Número de produções C, T & A: 1
+2004 - 2007
+GigaMan P2P - Infra-estrutura Peer-to-Peer para Gerenciamento de Redes Ópticas
+Descrição: O projeto "GigaMan P2P - Infra-estrutura Peer-to-Peer para Gerenciamento de Redes Ópticas" foi aprovado no edital "Projeto Giga - Coordenação Temáticas da RNP".
+Os objetivos do projeto GigaMan-P2P passam a ser os listados abaixo:
+- Definição de uma infra-estrutura Peer-to-Peer (P2P) de gerenciamento para a rede do Projeto GIGA;
+- Desenvolvimento de peers com capacidade de comunicação com os dispositivos ópticos da rede do Projeto GIGA através das interfaces de comunicação já disponibilizadas por tais dispositivos (e.g. XML, NETCONF, SNMP, SSH, Telnet, etc.). A arquitetura interna de um peer se encontra descrita do projeto submetido à avaliação na primeira fase do edital;
+- Desenvolvimento, nos peers da rede P2P, de uma camada de software que forneça a abstração das particularidades dos dispositivos da rede óptica através de um conjunto de interfaces de gerenciamento único;
+- Desenvolvimento de interfaces de usuário (utilizando tecnologias Web) para os administradores da rede localizados nos domínios administrativos das instituições do projeto, de forma que os mesmos tenham acesso aos serviços de gerenciamento e à camada de software de abstração da infra-estrutura óptica;
+- Disponibilização, pela rede P2P, de serviços para execução de scripts de gerenciamento (através da MIB script) e do suporte a agentes móveis (através de mucode) a serem  criados e controlados pelos administradores da rede GIGA;
+- Desenvolvimentodo suporte nos peers a políticas de gerenciamento criadas pelos administradores da rede do projeto, de forma que os mesmos possam definir políticas e estas sejam traduzidas nos peers por ações de configuração dos dispositivos da  infra-estrutura óptica;
+- Criação de serviços para reserva de recursos com vista a QoS acessíveis por usuários e aplicações de usuários, através de interfaces visuais (e.g. HTML, Flash, etc.) e Web Services (para aplicações);
+- Implementação na infra-estrutura P2P desuporte ao rerroteamento baseado no no estado da rede.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Integrante / José Neuman de Souza - Integrante / Lisandro Zambenedetti Granville - Coordenador / Elias P. Duarte Jr. - Integrante / Luci Pirmez - Integrante / Liane Margarida Rockenbach Tarouco - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2004 - 2006
+Faro - Agentes Inteligentes Aplicados ao Roteamento e Predição de Falhas em Redes Ópticas
+Descrição: O projeto "Agentes Inteligentes Aplicados ao Roteamento e Predição de Falhas em Redes Ópticas" foi aprovado no edital "Projeto GIGA - Coordenações Temáticas RNP".
+O objetivo principal deste projeto é  desenvolver um protótipo de software para gerar e gerenciar Agentes Inteligentes baseados em RNAs de forma que estes possam se comunicar com o GMPLS e interferir no re-roteamento de redes IP+GMPLS sobre WDM. Para isso, os seguintes objetivos secundários devem ser alcançados:
+1. Estudar as principais causas de falhas em links de redes Ópticas e montar um banco de conhecimento para o aprendizado de redes Neurais Artificiais (RNAs) de dois tipos MLP e de Auto-aprendizado, utilizando como cenário de experimentação a rede GIGA; 
+2. Utilizar RNAs para predizer situações problemáticas em um  link óptico e para aproximar o modelo de proteção 1:n (1 link de backup para n links em funcionamento) do modelo 1+1 (espelhamento).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Luís Fernando Soares - Integrante / Carlos Hairon Ribeiro Gonçalves - Integrante / Antônio Mauro de Oliveira - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2004 - 2006
+FUNCAP/CNPq - No 003/2003 - Framesec - Um Framework para a transmissão segura de dados utilizando dispositivos móveis
+Descrição: O projeto Framesec foi aprovado no Edital FUNCAP/CNPq - No 003/2003 - Jovem Pesquisadores.
+Este projeto tem por objetivo propor um framework de aplicação que poderá ser utilizado no desenvolvimento de aplicações para esses dispositivos, garantindo a proteção dos dados a serem transmitidos através de meios sem fio e desenvolver um processo capaz de fornecer medidas básicas de desempenho de algoritmos criptográficos para dispositivos móveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Windson Viana de Carvalho - Integrante / Matheus Petronilio - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2004 - 2006
+Estudo e experimentação do desempenho de  roteadores dinâmicos  ópticos (OXC´s)  e  dos protocolos de nova geração  para  redes wdm de alta capacidade : aplicações para a rede giga
+Descrição: O projeto "Estudo e experimentação do desempenho de  roteadores dinâmicos  ópticos (OXC´s)  e  dos protocolos de nova geração  para  redes wdm de alta capacidade : aplicações para a rede giga" foi aprovado no edital Pronex da FUNCAP/CNPq.
+A presente proposta de projeto tem como principais objetivos os seguintes itens:
+1.	Estudar as principais aplicações de sistemas óticos tolerantes a falhas;
+2.	Estudar a(s) interface(s) do roteador óptico da Rêde GIGA;
+3.	Estudar a(s) interface(s) de comunicação sem fio com sistema gerente;
+4.	Desenvolver um  software   que proporcione previsibilidade de falhas no  OXC em operação na rêde;
+5.	Testar  as previsões do software para o OXC  como dispositivo isolado e em operação na rede GIGA;
+6.	Adquirir conhecimentos das tecnologias de redes óticas e GMPLS e desenvolver novas aplicações de redes de alta velocidades que possam ser utilizadas nas redes acadêmicas e comerciais com necessidade de recursos de qualidade de serviço;
+7.	Implementar um protótipo de sistema GMPLS com foco no grupo de confiabilidade e QoS. O objetivo é avaliar as funcionalidades, desempenho das tecnologias óticas, com vistas à racionalização do sistema e à melhoria na confiabilidade e QoS oferecida aos usuários;
+8.	Desenvolvimento de um software para otimizaçao de roteamento e predição de falhas;
+9.	Elaborar um Relatório final contendo a descrição dos experimentos e resultados;
+10.	Criação de um grupo de um Núcleo de Excelência em Redes Óticas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Integrante / Joaquim Celestino Júnior - Integrante / Sérgio Sombra - Coordenador / Marcial Porto Fernandez - Integrante / Carlos Hairon R  Gonçalves - Integrante.Financiador(es): Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2002 - 2003
+PIBIC 2002/2003 - Captura, Reuso e Validação de Padrões de Software no Desenvolvimento de Protocolos para Sistemas Móveis
+Descrição: O projeto PIBIC de 2002-2003 foi uma renovação do projeto PIBIC 2001-2002 já descrito anteriormente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Carlos Eduardo Araújo Vieira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Universidade Federal do Ceará - Bolsa.Número de produções C, T & A: 14
+2001 - 2002
+Enxoval - Captar - Captura, Reuso e Validação de Padrões de Software no Desenvolvimento de Protocolos para Sistemas Móveis
+Descrição: O projeto enxoval intitulado "Captura, Reuso e Validação de Padrões de Software no Desenvolvimento de Protocolos para Sistemas Móveis"  segue a pesquisa desenvolvida na tese de doutorado de Rossana Andrade, onde padrões de software relacionados com mobilidade e recursos de rádio são identificados e capturados entre sistemas móveis de 2a e 3a gerações. Com a intenção de oferecer um conjunto de protocolos flexíveis o suficiente para serem tanto reutilizados nas futuras gerações de sistemas móveis quanto compatíveis com os sistemas de 2a geração, este projeto tem os seguintes objetivos principais: 
+·	captura e documentação de padrões de software relacionados com funções de gerenciamento de comunicação para sistemas móveis; 
+·	descrição dos relacionamentos entre os padrões para gerenciamento de mobilidade, de recursos de rádio [4] e de comunicação dentro de uma linguagem de padrões; 
+·	reuso de padrões de software para o gerenciamento de mobilidade, comunicação e recursos de rádio no desenvolvimento de protocolos para 3a e futuras gerações de sistemas móveis. Esta pesquisa também provê meios para a evolução de protocolos existentes, tais como os protocolos do sistema IP móvel, com a adição de soluções comuns das redes móveis sem fio disponíveis no mercado.
+ ·	especificação e validação de protocolos utilizando técnicas de descrição semi-formais e formais durante os estágios iniciais (requisitos, análise e projeto [34]) de desenvolvimento dos sistemas móveis de 3a e futuras gerações e na evolução dos protocolos da 2a geração de sistemas móveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Luigi Logrippo - Integrante / Fabrício Dias Alves Lemos - Integrante / Carlos Eduardo Araújo Vieira - Integrante.Financiador(es): Universidade Federal do Ceará - Auxílio
+										financeiro / University of Ottawa - Cooperação.Número de produções C, T & A: 10
+2001 - 2002
+PIBIC 2001/2002 - Captar - Captura, Reuso e Validação de Padrões de Software  no Desenvolvimento de Protocolos para Sistemas Móveis
+Descrição: O projeto PIBIC de 2001/2002, assim como o projeto enxoval já citado no Lattes foram intitulados "Captura, Reuso e Validação de Padrões de Software no Desenvolvimento de Protocolos para Sistemas Móveis". Enquanto que os recursos do enxoval foram direcionados para compra de 3 computadores para montagem do laboratório, o PIBIC suportou um bolsista de iniciação científica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rossana Maria de Castro Andrade - Coordenador / Carlos Eduardo Araújo Vieira - Integrante.Financiador(es): Universidade Federal do Ceará - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 9

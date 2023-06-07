@@ -1,0 +1,53 @@
+2018 - Atual
+Proposta de Arquitetura Híbrida para Processamento Digital de Imagens
+Descrição: O processamento de imagens é um vasto campo de pesquisa e
+extremamente importante para um grande número de aplicações, como
+sistemas de segurança, geoprocessamento, tecnologias médicas etc, muitas vezes exigindo alto nível de processamento.
+Um exemplo específico são as técnicas de filtragem morfológica, consistindo na aplicação de cadeias de filtros envolvendo erosão e dilatação. O objetivo deste trabalho é investigar as vantagens e desvantagens das diversas plataformas de execução disponíveis para esse fim, desde aquelas baseadas inteiramente em software, híbridas (software + GPU ou FPGAs), até aquelas totalmente baseadas em hardware customizado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcio Merino Fernandes - Coordenador / PEDRINO, EMERSON CARLOS - Integrante / Tiago Bachiega de Almeida - Integrante.
+2017 - 2019
+Deep Learning Aplicado ao Reconhecimento de Imagens para Ferramentas de Auxílio a Deficientes Visuais.
+Descrição: Este trabalho apresenta o desenvolvimento de um módulo de reconhecimento de imagem para ser usado como parte de uma ferramenta de auxílio existente para pessoas com deficiência visual. O módulo é baseado em redes neurais convolucionais e é inicialmente direcionado para o reconhecimento do estado de objetos em ambientes internos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Marcio Merino Fernandes - Coordenador / Emerson Carlos Pedrino - Integrante / Renan Galeane Alboy - Integrante / Antonio Miguel Batista Dourado - Integrante.
+2017 - Atual
+Comitê de Governaça Digital - UFSCar
+Descrição: O Comitê de Governança Digital  da UFSCar tem atuado no sentido de aprimorar os serviços oferecidos pela área de TIC na instituição, propondo soluções que possam ser implantadas em curto espaço de tempo. Além dos aspectos técnicos envolvidos, existe o requisito para se viabilizar a adoção de novas soluções levando-se em conta os seguintes aspectos: restrições de custo;necessidade de priorização no uso de recursos humanos especializados; impossibilidade de se considerar qualquer descontinuidade nos serviços oferecidos nas mais diversas áreas da instituição. Tudo isso leva a necessidade de inovações tanto em aspectos técnicos como metodológicos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcio Merino Fernandes - Integrante / Erick lazaro melo - Coordenador / Claudia Alves de Souza Mello - Integrante.
+2015 - 2019
+Enhancing solar flare forecasting: a multi-class and multi-label classification approach to handle imbalanced time series
+Descrição: O projeto tem como objetivo o desenvolvimento de métodos para previsão de explosões solares, baseado em técnicas de mineração de dados e aprendizado de máquina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marcio Merino Fernandes - Coordenador / DÍSCOLA JUNIOR, SÉRGIO - Integrante / CECATTO, JOSÉ - Integrante / XAVIER RIBEIRO, MARCELA - Integrante.
+2013 - 2016
+Metodologia e Framework para o Desenvolvimento de Sistemas Embarcados Multicore
+Descrição: Este projeto visa refinar um processo de desenvolvimento de sistemas embarcados multicore, utilizando ferramentas visuais para gerar mais facilmente o código fonte, testar/depurar/calibrar o sistema obtido. Nesse contexto, o objetivo do projeto é a criação de uma metodologia para o desenvolvimento de sistemas embarcados multicore, e o framework correspondente, englobando as diversas ferramentas de software.
+necessárias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Marcio Merino Fernandes - Coordenador / Célio Estevan Moron - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2013 - 2016
+Métodos e Ferramentas para a Implementação de Aceleradores em Hardware Reconfigurável
+Descrição: O projeto visa aprofundar técnicas para criar um sistema mais robusto, capaz de gerar, a partir de
+código C, arquiteturas especializadas implementadas em hardware customizado. *Projeto ref/ a bolsa de Produtiviadade DT, do CNPq.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Marcio Merino Fernandes - Coordenador.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2013
+Otimizando a Exploração de Paralelismo em Arquiteturas Multicore
+Descrição: O projeto insere-se na área de multiprocessadores de chip único (multicores),
+possuindo como foco o projeto e implementação de sistemas embarcados para controle de robôs móveis e aplicações com VANTs (veículos aéreos não tripulados).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Merino Fernandes - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2010
+Implementação de Algoritmos de Aplicados à Robótica Móvel em Plataforma Embarcada de Alto Desempenho
+Descrição: O objetivo deste projeto é avaliar uma plataforma para a implementação de sistemas embarcados como base para o processamento de algoritmos comumente utilizados na área de robótica móvel. A plataforma em questão é baseada no processador ARM Cortex A8, disponível no kit de desenvolvimento Beagle Board. Os algoritmos a serem considerados estão relacionados com tarefas de localização e mapeamento em robótica móvel, a serem selecionados em trabalho conjunto com o laboratório LCR, do ICMC-USP. Em particular, serão considerados os algoritmos de Filtro de Partículas e Campos Potenciais. Projeto vinculado ao INCT-SEC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Marcio Merino Fernandes - Coordenador / Daniel Noguchi - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+Ambiente para Co-Projeto de Hardware/Software em Plataformas de FPGAs com Aplicação em Robótica Móvel - Fase 2 - Convênio Internacional GRICES/CNPQ (Brasil-Portugal) - Processo CNPQ nro. 490713/2006-8.
+Descrição: Este projeto destina-se a estender os resultados obtidos no projeto homônimo descrito anteriormente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Merino Fernandes - Integrante / Eduardo Marques - Integrante / Jose Carlos Maldonado - Coordenador / Alexandre Cardoso - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2007
+Ambiente para Co-Projeto de Hardware/Software em Plataformas de FPGAs com Aplicação em Robótica Móvel - Convênio Internacional GRICES/CNPQ (Brasil-Portugal) - Processo CNPQ nro. 490884/2004-0.
+Descrição: Este projeto pretende desenvolver um ambiente para co-projeto  de hardware/software em plataformas de FPGAs com aplicação em robótica Móvel. O ambiente permitirá a pesquisadores e projetistas na área da robótica móvel testar seus algoritmos em sistemas de capacidade de desempenho elevada. A metodologia para a construção do 
+ambiente utilizará técnicas estado-da-arte em compiladores para computação reconfigurável.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcio Merino Fernandes - Integrante / João Manuel Cardoso - Integrante / Eduardo Marques - Integrante / Eduardo Simões - Integrante / Jose Carlos Maldonado - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2007
+Ambientes Virtuais para Ensino e Treinamento
+Descrição: O projeto visa o Desenvolvimento de ambientes e técnicas de realidade virtual para aplicações de ensino, treinamento, e outras; Interfaces para realidade virtual utilizando comandos de voz;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (6)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Marcio Merino Fernandes - Integrante / Cláudio Kirner - Coordenador / Nivaldi Calonego Jr - Integrante / Luis Augusto Consularo - Integrante / Regina Célia Coelho - Integrante / Ednaldo Brigante Pizzolato - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2000 - 2002
+Projeto e Implementação do Back-End  do Compilador para a Arquitetura OneDSP
+Descrição: O objetivo deste projeto foi o desenvolvimento de uma série de técnicas de compilação para a geração de código para uma arquitetura paralela de microprocessadores. Essa arquitetura, chamada OneDSP, é baseada no modelo VLIW, porém organizada em clusters de unidades funcionais, arquivos de registradores, e memórias locais. As técninas desenvolvidas foram testadas e incorporadas no compilador customizado para a arquitetura.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcio Merino Fernandes - Coordenador / Ray Livesley - Integrante / Paul Bright-Thomas - Integrante.Financiador(es): Siroyan Ltd - Remuneração.
+1996 - 1998
+Arquiteturas e Técnicas de Compilação para ILP
+Descrição: Projeto de cooperação bi-nacional envolvendo O Reino Unido e a Espanha.
+Desenvolvimento de arquiteturas de microprocessadores e técnicas de compilação para exploração de paralelismo a nível de instruções.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcio Merino Fernandes - Integrante / Josep Llosa - Integrante / Nigel Topham - Coordenador / Graham Jones - Integrante / Antonio Gonzales - Integrante.Financiador(es): The Engineering And Physical Sciences Research Council Uk - Auxílio
+										financeiro.Número de produções C, T & A: 6

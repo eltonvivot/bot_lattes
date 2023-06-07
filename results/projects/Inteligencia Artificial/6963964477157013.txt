@@ -1,0 +1,67 @@
+2022 - Atual
+Instrumentação Científica
+Descrição: Integrar técnicas de instrumentação científica, eletrônica microprocessada, aprendizado de
+máquina e processamento de sinais para desenvolver instrumentos que atendam às demandas
+das atividades de pesquisa, ensino e extensão tecnológica no contexto de uma sociedade em
+desenvolvimento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Fabricio Ferrari - Coordenador.
+2015 - Atual
+Morphometry of the Complete Sloan Digital Sky Survey Data Release 7  Legacy Survey
+Descrição: Morphology is a result of galaxy formation, evolution and interaction
+with neighbours.  The relationship between galaxy morphology and other
+galaxy properties can help us infer how galaxies acquired the
+morphological properties that we observe today. The traditional method
+of classification based on visual inspection of images by experts has
+long been recognised as deficient, for several reasons: it is very
+subjective expert-dependent method; it does not capture the
+morphological subtleties; it cannot be applied to large
+datasets. Thus, it is imperative to quantify the morphology of galaxy
+as a measurable quantity that can be coded in an algorithm. Here, we
+present MORFOMETRYKA - an algorithm designed to measure structural
+parameters for the CASGM system (Concentration, Asymmetry, Smoothness,
+Gini and M20) and for Sérsic models. We want to apply the algorithm to
+800,000 $r$-band images of galaxies from spectroscopic sample of the
+Sloan Digital Sky Survey Legacy Survey. A supervised classification
+method will be used to assign to each new galaxy a probability of
+belonging to each class (E or S, for elliptical or spiral,
+respectively).  In this new scheme instead of assigning a
+morphological type to a galaxy we set a probability of a system being
+E (or S). This work will be the starting point to investigate how the
+morphometrical parameters for galaxies are related to other structural
+parameters, providing us with clues about how they formed and evolved.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Fabricio Ferrari - Coordenador.Número de produções C, T & A: 2
+2010 - 2014
+Dinâmica de galáxias: sistemas estelares esferoidais
+Descrição: As galáxias elípticas gigantes são os objetos individuais  mais massivos do universo. Suas
+estrelas estão em órbitas orientadas aleatoriamente no corpo da galáxia. São
+compostas principalmente de populações de estrelas velhas e tem pouca formação
+estelar recente. Grande parte das elípticas tem buracos negros super massivos
+em seu centro, cuja massa está relacionada com a massa da galáxia e sua
+cinemática interna, sugerindo que são um elemento importante na estrutura da
+galáxia. Embora possuam pouca pouca poeira e gás em comparação com as galáxias espirais,
+esta poeira provavelmente é resquício de fusão ou canibalismo de outras galáxias
+no passado. Esta hipótese é reforçada
+pelo fato de que as galáxias elípticas gigantes são encontradas principalmente
+no centro de aglomerados de galáxias. Esta teoria hierárquica de evolução das
+galáxias, em que galáxias espirais menores fundem-se até formar galáxias
+elípticas gigantes é a teoria que melhor contempla as observações atuais.
+O presente projeto de pesquisa tem como objetivo construir
+modelos dinâmicos de sistemas estelares esferoidais, sejam galáxias elipticas
+gigantes, galáxias elípticas anãs, bojos de galáxias espirais ou aglomerados
+globulares. Todos estes sistemas compartilham características dinâmicas e
+morfológicas em comum; a teoria básica subjacente para modelar tais objetos 
+será desenvolvida e os modelos construídos comparados com observações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Fabricio Ferrari - Coordenador.
+2010 - Atual
+Instituto Nacional de Ciência e Tecnologia de Astrofísica INCT-A
+Projeto certificado pelo(a) coordenador(a) João Evangelista Steiner em 08/09/2015.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabricio Ferrari - Integrante / JOÃO E. STEINER - Coordenador.
+2009 - Atual
+PRONEX ASTROSUL - Estrelas e galáxias como atores da evolução do Universo
+Descrição: O projeto tem como sede principal o Instituto de Física da UFRGS (IF-UFRGS), que congrega 7 pesquisadores I do CNPq, sendo 3 membros da Academia Brasileira de Ciências. Além dos pesquisadores lotados na sede principal, o projeto inclui também pesquisadores da Universidade Federal de Santa Catarina e de Santa Maria, Universidade de Caxias do Sul, Fundação Universidade de Rio Grande e UNIPAMPA -- campi de Bagé e Uruguaiana. O objetivo do projeto é unir esforços e recursos para aprimorar a formação e o desenvolvimento da pesquisa em astrofśica no Sul do Brasil... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Fabricio Ferrari - Integrante / Thaisa Storchi-Bergmann - Coordenador.
+2008 - 2008
+Instrumentação Inteligente - Estação Meteorológica Digital
+Descrição: Projetar e construir uma estação meteorológica digital com especificações e precisão compatíveis com uso profissional,  científico e industrial... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabricio Ferrari - Coordenador / Edson Kakuno - Integrante.Número de produções C, T & A: 1
+2008 - Atual
+Software Científico do Brazilian Tunable Filter Imager - BTFI
+Descrição: The BTFI (Brazilian Tunable Filter Imager) is a highly versatile, new technology, optical imaging interferometer proposed to be built for the SOAR telescope, to be used both seeing-limited mode and high spatial resolution mode. Such an instrument opens up important new science capabilities for the Brazilian astronomical community from studies of nearby galaxies and the ISM to statistical cosmological investigations.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Fabricio Ferrari - Coordenador / Antônio Nemer Kanaan Neto - Integrante / Claudia Oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Cooperação.
+2005 - 2006
+Estação Meteorológica Digital
+Descrição: Projetar e construir uma estação meteorológica digital com especificações e precisão compatíveis para uso profissional científico e industrial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Fabricio Ferrari - Coordenador / Giovani da Silva - Integrante / Márcio Cardoso - Integrante.Financiador(es): Universidade Federal do Rio Grande - Cooperação.Número de produções C, T & A: 7

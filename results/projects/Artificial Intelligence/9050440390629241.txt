@@ -1,0 +1,33 @@
+2018 - 2020
+Desigualdades Matriciais Lineares Dependentes de Parâmetros Aplicadas à Análise de Estabilidade e à Sı́ntese de Controladores e Filtros para Sistemas Dinâmicos com Incertezas
+Projeto certificado pelo(a) coordenador(a) Pedro Luis Dias Peres em 15/04/2019.
+Descrição: Este projeto de pesquisa visa avançar com os estudos para o uso de desigualdades matriciais
+lineares na análise de estabilidade e no projeto de controladores e filtros para sistemas dinâmi-
+cos sujeitos a incertezas. São investigados sistemas lineares contı́nuos e discretos, variantes e
+invariantes no tempo, bem como a presença de atrasos, não linearidades e saturações. Classes
+particulares como sistemas chaveados, hı́bridos, Markovianos, positivos, nebulosos e variante
+com parâmetros são consideradas. A meta é dar continuidade ao trabalho desenvolvido nos
+últimos anos pelo grupo de pesquisa formado por mestrandos, doutorandos e pós-doutores sob
+a orientação dos professores pesquisadores do projeto, produzindo novos resultados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (1) . Integrantes: Ricardo Coração de Leão Fontoura de Oliveira - Integrante / Pedro Luis Dias Peres - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - Atual
+Controle e filtragem robusta de sistemas dinâmicos afetados por incertezas com aplicações
+Descrição: Este projeto de pesquisa tem como objetivo dar continuidade ao desenvolvimento de condições
+de análise, controle e filtragem para sistemas lineares afetados por incertezas utilizando a já bem
+consolidada metodologia de projeto baseada em desigualdades matriciais lineares (em inglês, Li-
+near Matrix Inequality ? LMI). Utilizando funções de Lyapunov paramétricas e relaxações baseadas
+em polinômios homogêneos, espera-se desenvolver métodos numéricos mais eficientes, capazes de
+tratar classes mais gerais de incertezas e restrições. Um outro forte apelo da continuidade do desen-
+volvimento das técnicas de controle é a validação experimental dos resultados obtidos por meio de
+aplicações práticas, principalmente na área de eletrônica de potência.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (1) . Integrantes: Ricardo Coração de Leão Fontoura de Oliveira - Coordenador.
+2014 - 2017
+Controle robusto de sistemas lineares incertos com aplicações
+Descrição: Bolsa de Produtividade em Pesquisa CNPq: Este projeto de pesquisa tem como objetivo dar continuidade ao desenvolvimento de condições de análise, controle e filtragem para sistemas lineares afetados por incertezas utilizando a já
+bem consolidada metodologia de projeto baseada em desigualdades matriciais lineares (em inglês, Linear Matrix Inequality - LMI). Utilizando funções de Lyapunov paramétricas e relaxações baseadas em polinômios homogêneos, espera-se desenvolver métodos numéricos mais eficientes, capazes de tratar classes mais gerais de incertezas e restrições. Um outro forte apelo da continuidade do desenvolvimento das técnicas de controle é a validação experimental dos resultados obtidos por meio de aplicações práticas, principalmente na área de eletrônica de potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (3) . Integrantes: Ricardo Coração de Leão Fontoura de Oliveira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2014
+Controle e Filtragem robusta de sistemas lineares incertos
+Descrição: Bolsa de Produtividade em Pesquisa CNPq: Este projeto de pesquisa tem como objetivo principal propor novas ferramentas numéricas para resolver os problemas de controle e filtragem robusta de sistemas lineares com incertezas paramétricas. As ferramentas a serem utilizadas baseiam-se na metodologia de solução de desigualdades matriciais lineares (em inglês, Linear Matrix Inequality - LMI) dependentes de parâmetros formulada em termos de funções de Lyapunov dependentes de parâmetros com estrutura polinomial de grau genérico. Os pontos a serem investigados incluem o estudo do problema de realimentação de saída de ordem reduzida, filtragem de ordem reduzida, sistemas com saltos Markovianos com incertezas na matriz de probabilidade, sistemas nebulosos de Takagi-Sugeno e sistemas lineares afetados por não linearidades. Pretende-se investigar condições para a existência de soluções baseadas em seqüências de relaxações formuladas em termos de LMIs, solucionáveis por métodos convexos de otimização amplamente difundidos na literatura e de eficiência computacional comprovada.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Coração de Leão Fontoura de Oliveira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2004 - 2009
+Linearidade em sinais, circuitos e sistemas
+Descrição: O objetivo do projeto é aplicar propriedades de álgebra linear ao tratamento de sinais, aos circuitos e aos sistemas sujeitos a ruídos e incertezas paramétricas. A similaridade das técnicas aplicadas na análise de sinais e de sistemas aproximou essas áreas de pesquisa, tradicionalmente tratadas separadamente. O uso comum de transformadas (Laplace, Fourier, Z) e de métodos numéricos (desigualdades matriciais, cálculo simbólico, algoritmos de otimização) permite que uma dualidade entre sinais e sistemas seja estabelecida, aproximando problemas e soluções. Os tópicos principais são: Estabilidade e Controle de Sistemas Dinâmicos; Ortogonalização Uniforme de Sinais; Estimação da Direção de Chegada de Sinais Usando Arranjo de Sensores; e Medida Objetiva de Qualidade de Voz e Áudio.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo Coração de Leão Fontoura de Oliveira - Integrante / Pedro Luis Dias Peres - Coordenador / Ivanil Sebastião Bonatti - Integrante / Amauri Lopes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

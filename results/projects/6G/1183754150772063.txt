@@ -1,0 +1,32 @@
+2019 - Atual
+Projeto e Implementação de Redes Ópticas Coerentes Baseadas na Técnica de Acesso Múltiplo por Divisão de Código (OCDMA)
+Descrição: Este projeto tem por objetivo crucial a capacitação em de pesquisa do Prof. Anderson
+Leonardo Sanches e o concomitante desenvolvimento das atividades realizadas pelo grupo
+de pesquisa em Engenharia de Informação constituído na Universidade Federal do ABC
+quanto à implementação da tecnologia de acesso múltiplo por divisão de código óptico
+(OCDMA) em arquiteturas inovadoras a serem utilizadas na próxima geração de redes
+ópticas passivas (NGPON-3). Isso passa, necessariamente, pela realização do período de
+interstício de 12 meses para Pós-Doutoramento na Universidade de Strathclyde, Reino
+Unido. Este intercâmbio possibilitará que o pesquisador solicitante deste projeto realize a
+análise experimental em tempo real de qualquer projeto realizado, uma vez que o
+pesquisador responsável na pessoa do Prof. Ivan Glesk disponibilizará o acesso à uma
+infraestrutura de rede OCDMA de 20 km de extensão, contando com uma seção adicional de
+20 km partindo de uma câmara alocada externamente ao laboratório. É importante ser
+mencionado que a infraestrutura citada anteriormente é uma das poucas aplicações práticas
+de redes OCDMA existentes no mundo atualmente e este projeto terá suma importância na
+inferência sobre a padronização a ser adotada na NGPON-3. Adicionalmente, este projeto
+tem por objetivos específicos a implementação de arquiteturas de redes OCDMA avançadas
+baseadas em formatos de modulação coerentes. Neste contexto, diversas configurações de
+redes OCDMA coerentes operando tanto em taxa única quanto em múltiplas taxas de serviço
+serão propostas e avaliadas quanto aos desempenhos obtidos. Também, serão considerados
+métodos adaptativos (relacionados às condições do canal) onde os formatos de modulação
+de elevada e baixa ordens são atribuídos aos usuários com alta e baixa taxas de transmissões,
+respectivamente.
+Finalmente, será possível corroborar os resultados provenientes de diversas
+modelagens teóricas a serem propostas (assim como as propostas realizadas nos últimos3
+anos pelo pesquisador solicitante) com os resultados obtidos por meio das observações
+experimentais e, assim, efetuar a validação dos formalismos matemáticos empregados na
+predição de desempenho das redes OCDMA coerentes em questão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Anderson Leonardo Sanches - Coordenador / Ivan Glesk - Integrante.
+2007 - 2007
+Integração de Redes Acesso-Metropolitana: Passive Optical Network (PON) de longo alcance
+Descrição: Esta proposta aborda projeto, especificação, padrões, algoritmos de alocação de recursos e testes de campo de rede óptica integrada acesso-metropolitana em configuração PON (passive optical network) de longo alcance (LR long reach). O objetivo é simplificar a arquitetura para proporcionar acesso de faixa larga a custo reduzido. As atividades estão concentradas em avaliar configurações de redes, estágios de migração, dispositivos, aderência aos padrões de redes, com destaque para o Gigabit (G)PON, e técnicas de acesso, incluindo TDMA, WDMA, OCDMA (optical code-division multiple access); elaborar algoritmos de alocação de recursos, como largura de faixa; estabelecer setup para experimento de validação de configuração de rede. Uma arquitetura cobrindo a distância cerca de 150 km entre as cidades de São Carlos e Campinas será ensaiada. Minha participação está centrada na proposta e análise de cenários viáveis em termos de qualidade de serviço (QoS) de redes OCDMA. O projeto conta com o apoio do CPqD na fase experimental.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Anderson Leonardo Sanches - Integrante / Murilo Araujo Romero - Coordenador / Ben-Hur Viana Borges - Integrante / Amílcar Careli César - Integrante / José Valdemir dos Reis Junior - Integrante / Alex Ferreira dos Santos - Integrante / Marcelo Alves Guimarães - Integrante.

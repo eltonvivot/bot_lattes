@@ -1,0 +1,127 @@
+2021 - Atual
+Aplicação e Concepção de Meta-heurísticas, Técnicas de visualização de dados e Métodos de Inteligência Computacional para Problemas de Engenharia e Computação
+Descrição: Este projeto de pesquisa pretende trazer avanços teóricos e aplicados à área de computação
+inteligente, especialmente a métodos de clusterização, algoritmos bioinspirados, e técnicas
+de redução de dimensionalidade e visualização de dados. A aplicação se reference principalmente
+a aplicação de redes neurais profundas para extração de características (features)
+a partir de sinais de vibração e a detecção de danos no monitoramento da integridade
+estrutural (em inglês, Structural Health Monitoring ? SHM). Outra aplicação trata de
+algoritmos bioinspirados tendo funções objetivo baseadas no MEC (Mutual Equidistantscattering
+Criterion) para aplicações em redes de sensores sem fio e também SHM. Em
+SHM, o objetivo é utilizar algoritmos de aprendizado de máquina capazes de construir
+modelos estatísticos que consigam detectar a presença de anomalias (danos) nas estruturas
+observadas, ainda que influências ambientais e operacionais introduzam efeitos indesejáveis
+que mascarem a presença de danos. Essa linha de pesquisa vem sendo desenvolvida alguns
+anos no grupo de pesquisa associado a este projeto e já foram aplicadas técnicas como
+GMM, redes neurais auto-associativas, análise de componentes principais e aplicação de
+métodos híbridos baseados em meta-heurísticas, como PSO e AG, em conjunto com GMM,
+com o objetivo de obter um método robusto e com a mesma qualidade dos resultados na
+detecção de danos que o GMM tradicional. Apesar de amplamente explorada, ainda existe
+espaço para melhoria e novas técnicas como redes neurais profundas apresentam resultados
+promissores tanto para detecção de danos como para a obtenção de novas (features) que
+podem ajudar a detecção de danos e na descrição de diferentes comportamentos da estrutura,
+ajudando tanto na detecção do dano, como na sua localização e na identificação do
+tipo de dano. Ainda em SHM, em trabalhos passados foram desenvolvidas novas técnicas
+como o GADBA e ACH que representaram avanços para detecção de danos em pontes e na
+área de clusterização. Neste projeto, pretende-se ir um pouco além, tornando o GADBA
+uma técnica de propósito geral na área de clusterização fazendo-o operar em conjunto
+com o MEC. A concepção dessas novas técnicas inspirou o desenvolvimento de novos
+métodos, técnicas ou operadores, e também diferentes variantes de algoritmos existentes,
+como SAPSO que é uma variante do PSO. Neste projeto pretende-se continuar esses
+desenvolvimento, adicionando novos mecanismos ao SAPSO e a sua hibridização com
+outros algoritmos como a busca tabu. Finalmente, pretende-se novos avanços teóricos na
+área de visualização de dados e redução de dimensionalidade, com novos acréscimos ao
+PCS (Polygonal Coordinate System), como sua versão 3D e uma métrica que indique a
+qualidade da projeção obtida que seja próxima a percepção humana.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Claudomiro de Souza de Sales Junior - Coordenador / Caio Marcos Flexa Rodrigues - Integrante / Igor Matheus Souza Moreira - Integrante / DE OLIVEIRA, EWERTON CRISTHIAN LIMA - Integrante / Matheus Ferreira Vasconcelos - Integrante.
+2019 - 2019
+F-LOCO: Fault Location Optimization
+Descrição: Código: P&D 00405-1804/2018 Desenvolvimento de um sistema para localização de faltas transitórias ou permanentes, que possa ser facilmente instalado, sem necessidade de interrupção da rede elétrica, próprio para instalação em redes de 15 kV e 34 kV, de baixo custo e integrado as tecnologias de IoT mais atuais. Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudomiro de Souza de Sales Junior - Integrante / Reginaldo Cordeiro dos Santos Filho - Integrante / Mauro Augusto da Rosa - Coordenador / Moisés Felipe Mello Da Silva - Integrante.
+2019 - Atual
+Sistemas inteligentes baseados em sensores ópticos e tecnologias híbridas fibra/cabo para redes de 5ª geração
+Projeto certificado pelo(a) coordenador(a) Joao Crisóstomo Weyl Albuquerque Costa em 13/02/2019.
+Descrição: Processo nº: 432668/2018-7 Chamada MCTIC/CNPq Nº 28/2018 - Universal/Faixa C. Formar recursos humanos em nível de pós-graduação e graduação nas diversas áreas relacionadas ao projeto, tais como: - Instrumentação, procedimentos de medidas de camada física e de rede e análises da faixa de comunicação de sistemas cabeados; - Instrumentação e procedimentos de medidas em optoeletrônica para redes de sensores e dispositivos de sensores ópticos; - Modelagem e otimização de dispositivos optoeletrônicos e sensores ópticos; a análise eletromagnética de cabos par trançado; qualificação de enlace de redes banda larga; avaliação de desempenho de redes ópticas/redes de acesso e integração sem fio/cabeados; - Desenvolvimento e aplicação de algoritmos inteligentes para análise de dados de redes de sensores com aplicações gerais, tais como detecção de danos estruturais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (7)  / Doutorado: (9) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo Weyl A Costa - Coordenador / BORGES, Gilvan Soares - Integrante / Adam Dreyton Ferreira dos Santos - Integrante / Reginaldo Cordeiro dos Santos Filho - Integrante / Moisés Felipe Mello Da Silva - Integrante.
+2017 - 2020
+Soluções em Aprendizado de Máquina para Detecção de Danos Estruturais
+Descrição: Processo: 426075/2016-1
+As estruturas de engenharia mecânica, naval, civil e aeroespacial são usadas por um longo
+período de tempo. Com o passar dos anos, essas estruturas podem apresentar danos que,
+consequentemente, podem afetar seu desempenho ou colocar em risco a segurança de quem
+as usam. Para tentar identificar os danos no ambiente de interesse é necessário que a
+estrutura seja avaliada periodicamente, garantindo a segurança e aumentando seu tempo
+de vida útil. Considerando esses dois aspectos, os pesquisadores tem focado em técnicas
+de Monitoramento da Integridade Estrutural (em inglês, Structural Health Monitoring ?
+SHM) utilizando algoritmos de aprendizado de máquina capazes de construir modelos
+que conseguem detectar a presença de anomalias (danos) nas estruturas observadas.
+Dano é considerado como qualquer mudança no material ou propriedade geométrica de
+um sistema. Os danos podem interferir no desempenho das estruturas físicas e, ainda,
+determinar o risco a segurança dos usuários. O presente projeto de pesquisa de doutorado
+visa implementar recursos para a detecção de dano em estruturas civis, não limitados, mas
+especificamente em pontes. Dentre os recursos se encontram a compressão e imputação de
+dados, visto que o volume de dados gerados pelo monitoramento de estruturas é grande e
+pode apresentar lacunas de informação devido a falhas internas ou externas aos sensores
+de coleta. Diante desses desafios, técnicas de compressão e imputação de dados serão
+estudadas e implementadas com o objetivo de melhorar a detecção de dano que será feita
+através de algoritmos de aprendizado de máquina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Claudomiro de Souza de Sales Junior - Coordenador / Walisson Cardoso Gomes - Integrante / Reginaldo Cordeiro dos Santos Filho - Integrante.
+2015 - 2020
+Tecnologia de Sensores em Fibra Ótica para Supervisão, Controle e Proteção de Sistemas de Energia Elétrica - TECCON II
+Descrição: O objetivo do projeto é o desenvolvimento a nível de cabeça de série de uma solução de monitoramento para linhas de transmissão. Esta solução será baseada na instrumentalização de um isolador com classe de isolamento de 230 kV, com sensores em fibra ótica para monitoramento da corrente e temperatura. Adicionalmente usando a mesma tecnologia, será medida a tração do condutor na ancoragem. A informação dos sensores será adquirida localmente na torre, através da unidade de medida e enviada via cabo OPGW para o centro de gestão e controle da rede (CCGR). Um sistema de alimentação é projetado para fornecer a energia necessária à unidade de medida. No CCGR uma ferramenta computacional processa em tempo real os dados com ajuda de modelos baseados em inteligência computacional de modo a fornecer informação útil ao operador do sistema.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / Aldebaro Barreto da Rocha Klautau Júnior - Integrante / Mauro Augusto da Rosa - Coordenador / Diego Issicaba - Integrante / Gabriel Santos Bolacell - Integrante / Pedro Alberto da Silva Jorge - Integrante / Alexandre Rocco - Integrante / Ana Margarida Rodrigues Pinto - Integrante / Beatriz Mota Lima - Integrante / Carlos Avelino de Jesus Gouveia - Integrante / Clayrton Monteiro Henrique - Integrante / Cristiano Monteiro de Barros Cordeiro - Integrante / Daniel Mendes Ayoub - Integrante / Edson Guedes da Costa - Integrante / Erika Pequeno - Integrante / Estácio Tavares Wanderley Neto - Integrante / Felipe Lucena - Integrante / George Rossany Soares de Lira - Integrante / Giancarlo Chessini - Integrante / Helder Alves Pereira - Integrante / Hugo Eugenio de Freitas - Integrante / Ítalo de Oliveira Medeiros - Integrante / José Pissolato Filho - Integrante / Júlia Xavier Magno Nunes - Integrante / Laura Eduarda Marques - Integrante / Leonardo Lira Ramalho - Integrante / Luciana Cabral Teixeira - Integrante / Milton José Cinelli - Integrante / Paula Ataide de Albuquerque Pires de Carvalho - Integrante / Pedro Vieira - Integrante / Regelii S.A. Ferreira - Integrante / Roberto Piedade - Integrante / Rodrigo Vaz - Integrante / Samir Fernandes - Integrante / Shigeaki Leite de Lima - Integrante / Susana Filipa Almeida de Castro Viana - Integrante / Stenio Aristilde - Integrante / Tarso Vilela Ferreira - Integrante / Thiago Destri Cabral - Integrante / Vladimiro Henrique Barrosa Pinto de Miranda - Integrante.Financiador(es): Transmissoras Brasileiras de Energia - Auxílio
+										financeiro.
+2015 - 2016
+Channel modeling and electromagnetic interference mitigation for copper-based fronthaul
+Projeto certificado pelo(a) coordenador(a) Joao Crisóstomo Weyl Albuquerque Costa em 06/04/2015.
+Descrição: The main goal of the UFA14 project is to contribute with Ericsson Research in the development of techniques that enable to fully exploit the transmission potential of copper cables to be employed in next-generation broadband technologies.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Doutorado: (2) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo - Coordenador / Vinicius Duarte de Lima - Integrante / Roberto Menezes Rodrigues - Integrante.Financiador(es): Ericsson do Brasil Comércio e Indústria S/A. - Auxílio
+										financeiro.
+2013 - 2014
+DSL Algorithms for Mobile Backhauling
+Projeto certificado pelo(a) coordenador(a) Joao Crisóstomo Weyl Albuquerque Costa em 05/03/2013.
+Descrição: The main goal of the proposal is to contribute with Ericsson Research in the
+development of new copper-based transmission technologies, especially the ones based on the G.fast standard. The adoption of G.fast as an effective alternative to mobile backhauling in heterogeneous networks (see Ericsson?s RBS 6000 portfolio) brings several research challenges. Many related open questions are listed in the CELTIC project HFCC-G.fast (?Hybrid Fibre-Copper connectivity using G.fast?), which is aligned with this proposal. The current proposal aims at advancing the state of art via technical publications describing new algorithms and models, and also studying their implementation in the UFPA_DSL platform currently under development. The project also focuses in contributing with Ericsson Research towards patents and standardization contributions.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo Weyl A Costa - Coordenador / Vinicius Duarte de Lima - Integrante / Roberto Menezes Rodrigues - Integrante / BORGES, Gilvan Soares - Integrante.
+2011 - 2014
+AmazonFerr - Implantação do Laboratório de Infraestrutura de Transporte Ferroviário da Amazônia
+Descrição: FASE 1 - Ênfase em Ensaios Experimentais de Elementos Estruturais e Desenvolvimento de Sistema de Monitoração on-Line de Pontes e Viadutos. 
+Tem como objetivo geral desenvolver pesquisas avançadas e originais nas áreas de análise e monitoramento de elementos e sistemas estruturais empregados em ferrovias, além de investigar novos materiais e suas aplicações neste setor, visando o uso racional de recursos renováveis, dentro das premissas do desenvolvimento sustentável.
+Para viabilizar a execução destas atividades, propõe-se a implantação de um novo laboratório, denominado ?AmazonFerr - Infraestrutura de Transporte Ferroviário da Amazônia?, específico para a realização de estudos em infraestrutura de transporte ferroviária em consonância com as necessidades do País e da própria Vale.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Doutorado: (3) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / Marco José de Sousa - Integrante / João Crisóstomo - Integrante / Adam Dreyton Ferreira dos Santos - Integrante / Cindy Stela Fernandes - Integrante / Remo Magalhães de Souza - Coordenador.Financiador(es): Companhia Vale do Rio Doce - Auxílio
+										financeiro / Fundação Amazônia Paraense de Amparo à Pesquisa - Cooperação.
+2011 - 2012
+Estratégias para o Gerenciamento de linhas DSL
+Descrição: Projeto de cooperação técnica científica, envolvendo atividades de pesquisa para o desenvolvimento e simulação de algoritmos para qualificação e monitoramento de redes banda larga, com ênfase na tecnologia VDSL , incluindo-se procedimentos e ferramentas para validação através de medidas em laboratório, tendo como base a tecnologia de Digital Subscriber Line DSL , ou linha digital do assinante, a qual consiste em uma tecnologia de transmissão digital de dados que utiliza o par trançado usado para telefonia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo Weyl A Costa - Coordenador / Carlos Renato Lisboa Francês - Integrante / Lamartine Villar de Souza - Integrante / Gervásio Protásio dos Santos Cavalvante - Integrante / Roberto Menezes Rodrigues - Integrante.Financiador(es): Ericsson Telecomunicações - Matriz - Auxílio
+										financeiro.
+2010 - 2012
+TECCON: Tecnologia de sensores em fibras óptica para supervisão, controle e proteção de sistemas de energia elétrica
+Descrição: O objetivo geral do projeto é o desenvolvimento de novas ferrramentas baseadas em tecnologia de fibras ópticas para supervisão, controle e proteção de sistemas de energia elétrica. A concretização deste objetivo global passa pela execução dos seguintes objetivos particulares: 1 -Desenvolvimento de sistemas sensores em fibra óptica para monitoração do estado de carga em cabos de transmissão de corrente elétrica visando à otimização da segurança e das capacidades de transporte da rede de distribuição. Em particular será desenvolvido um cabo em fibra óica equipado com grades de Bragg para implementar a medição quasi-distribuida da temperatura dos condutores. Além disso, usando tecnologia compatível serão desenvolvidas em alternativa inclinómetros em fibra óptica para a avaliação em tempo real do ângulo da catenária descrita pelo condutor. 2 - Desenvolvimento exploratório de novas configurações em fibra ótica para medição simultânea de parâmetros da rede como corrente elétrica e temperatura. Em particular pretende-se explorar as potencialidades de novas fibras microestruturadas para implementar sensores óticos de corrente elétrica de alto desempenho para aplicações de medição (corrente nominal) e proteção (transitórios). 3 - Desenvolvimento de modelos baseados em inteligência computacional (ou artificial) que permitam correlacionar os dados recolhidos pelos novos sensores e o estado da rede permitindo a otimização e controle da mesma. 4 - Montagem e instalação de protótipos em redes de alta tensão para validação da tecnologia. 5 - Fortalecimento das competências em tecnologia de fibras óticas para aplicação em redes de energia através da inclusão no projeto de parceiros nacionais e internacionais com competências complementares. 6- Desenvolver a ferramenta computacional com interface amigável e utilizando preferencialmente ferramentas de software livre, como por exemplo Java e PHP, seguindo o padrão Web.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (4) . Integrantes: Claudomiro de Souza de Sales Junior - Coordenador / João Crisóstomo Weyl A Costa - Integrante / Marco José de Souza - Integrante / Aldebaro Barreto da Rocha Klautau Júnior - Integrante.Financiador(es): Transmissoras Brasileiras de Energia - Auxílio
+										financeiro.
+2010 - 2010
+Tecnologias avançadas para sistemas de suporte à decisão em redes banda larga
+Descrição: Neste projeto são abordadas metodologias para análise e síntese de dispositivos ópticos e para planejamento e avaliação de desempenho de redes banda larga, cabeadas e sem fio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo Weyl A Costa - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Técnicas Avançadas de Qualificação de Enlaces Telefônicos e Mitigação de Ruído para Sistemas VDSL/VDSL2+
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo Weyl A Costa - Coordenador / Carlos Renato Lisboa Francês - Integrante / Lamartine Villar de Souza - Integrante / Vinicius Duarte de Lima - Integrante / Roberto Menezes Rodrigues - Integrante.Financiador(es): Ericsson Telecomunicações - Matriz - Auxílio
+										financeiro.
+2006 - 2008
+Técnicas Avançadas para Qualificação de Enlace do Assinante
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo Weyl A Costa - Coordenador / Carlos Renato Lisboa Francês - Integrante / Lamartine Villar de Souza - Integrante / Marco José de Souza - Integrante / Gervásio Protásio dos Santos Cavalvante - Integrante / Licinius Dimitri Sá de Alcântara - Integrante / Roberto Menezes Rodrigues - Integrante.Financiador(es): Ericsson Telecomunicações - Matriz - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2004 - 2006
+Desenvolvimento de Modelos para Caracterização do Enlace de Assinante da Rede Telefônica
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / Marco José de Sousa - Integrante / João Crisóstomo Weyl Albuquerque Costa - Coordenador / Lamartine Villar de Souza - Integrante / Gerváiso Protásio S Cavalcante - Integrante / ALCÂNTARA, Licinius Dimitri Sá de - Integrante / Roberto Menezes Rodrigues - Integrante.Financiador(es): Ericsson do Brasil Comércio e Indústria S/A - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1999 - 2003
+Desenvolvimento de Programas Computacionais para Análise de Dispositivos e Sistemas para Redes de Comunicações Ópticas e Móveis
+Descrição: O presente programa de pesquisa objetiva a continuação do 
+desenvolvimento de aplicativos (ambientes
+computacionais e protótipos) dentro dos planos especificados nas 
+seguintes linhas de pesquisas:
+Sistemas e Dispositivos para Comunicações Móveis: Radiocomunicação em 
+Sistemas Móveis, Sistemas
+Irradiantes e Modelamento Matemático para Predição de Radiopropagação, 
+Planejamento de Sistemas
+Celulares, Modelamento de Tráfego em Sistemas Celulares, Aplicações 
+sobre IP.
+Sistemas e Dispositivos para Comunicações Ópticas: Análise e Otimização 
+de Dispositivos Óticos
+Baseados em Guias com Multicamadas Dielétricas; Análise de Propagação 
+de Pulsos em Fibras Ópticas;
+Análise e Projetos de Redes Ópticas e Redes de Acesso: Sistemas 
+Integrados Rádio-Fibra e Redes Híbridas
+Fibra - Cabo Coaxial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Claudomiro de Souza de Sales Junior - Integrante / João Crisóstomo Weyl A Costa - Coordenador.

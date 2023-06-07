@@ -1,0 +1,14 @@
+2019 - 2022
+Potencializando métodos de reconhecimento de padrões para identificação de espécies de plantas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Tiago Amador Coelho - Integrante / Rodrigo Tripodi Calumby - Coordenador.
+2013 - 2015
+Mineração de Dados através da Técnica de Otimização por Enxame de Partículas (PSO)
+Descrição: O projeto de pesquisa tem como foco o estudo e o desenvolvimento de algoritmos baseados na técnica de PSO para tarefas de otimização, classificação e agrupamentos dos dados em mineração de dados, e em especial os dados qualitativos onde é bem mais complexo o seu tratamento e que tem aplicações diversas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Tiago Amador Coelho - Coordenador / Gustavo Araújo Álvaro Coelho - Integrante.
+2011 - 2014
+Estudos sobre algoritmos e ferramentas de mineração de opinião e análise de sentimentos aplicados as Redes Sociais
+Projeto certificado pelo(a) coordenador(a) Ahmed Ali Abdalla Esmin em 16/05/2018.
+Descrição: Este projeto de pesquisa apresenta diferentes desavisos, entre eles, estudo e aplicação de técnicas de mineração de textos, mineração de opinião e analise de sentimentos em textos e a partir das redes sociais, estudo de novas abordagens para a classificação de Data Stream, o desenvolvimento de novos algoritmos para lidar como a classificação e aprendizagem on-line e etc. Situação: Concluído; Natureza: Pesquisa. Integrantes: Tiago Amador Coelho - Integrante / Ahmed Ali Abdalla Esmin - Coordenador / Roberto Lourenço de Oliveira Júnior - Integrante / Juliano Moscardini Bernardes - Integrante / Wagner Souza - Integrante / Rodrigo Amador Coelho - Integrante / Fabricio dos Reis Neto Guimarães - Integrante.
+2009 - 2010
+GiAva: Ambiente Inteligente de Acompanhamento e Gestão de Qualidades em AVA
+Projeto certificado pelo(a) coordenador(a) Ahmed Ali Abdalla Esmin em 24/09/2015.
+Descrição: Criação de um Ambiente Inteligente de Acompanhamento e Gestão de Qualidades diferenciado com acesso múltiplo a bases de dados de Ambientes Vistuais de Aprendizado (AVA) - Projeto em conjunto com o Centro de Educação a Distância- CEAD-UFLA.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Tiago Amador Coelho - Integrante / Ahmed Ali Abdalla Esmin - Coordenador / Roberto Lourenço de Oliveira Júnior - Integrante / Eder Bruno Fonseca - Integrante / Leandro Alonso Silva - Integrante.

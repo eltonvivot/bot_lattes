@@ -1,0 +1,104 @@
+2020 - Atual
+Sistema de Evaluación Biomecanica de preción plantar para marcha
+Descrição: Sistema Integrado de Aquisição, Processamento e Análise de Sinais Biomecânicos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Annete Faesarella - Integrante / Coelho, Filipe Alves - Integrante / Fabio Andrijauskas - Integrante / RUBEN DARIO HERNANDEZ BELENO - Integrante / OSCAR FERNANDO AVILES SANCHEZ - Integrante / Paula Andrea Niño Suarez - Integrante.
+2019 - Atual
+Desenvolvimento de uma Plataforma Weblab para a Gestão Remota de Laboratórios da Área de Engenharia
+Descrição: Este projeto tem como finalidade o desenvolvimento de uma plataforma computacional integrada e configurável para modelos de ensino-aprendizagem com ênfase em Educação 4.0. Trata-se de uma plataforma com alto conteúdo tecnológico, flexível, e que possibilitará o gerenciamento e desenvolvimento de experimentos controlados remotamente via rede Internet com enfoque em aplicações educacionais. A plataforma permitirá criar ambientes digitais dedicados à educação no âmbito docente-discente-instituição. Utiliza-se o serviço Web da Internet como infra-estrutura de comunicação, é basicamente a incorporação de sistemas e tecnologias digitais tais como Internet das Coisas, Big Data, Computação em Nuvem, Sistemas de Simulação, Robótica Avançada, Inteligência Artificial, de modo que haja integração entre os seus componentes físicos e virtuais em sistemas cyber-físicos. Configura se o que se convencionou chamar de laboratórios 4.0.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / André Luis de Souza Melo - Integrante / Henrique Savoy Pellizzer - Integrante / Kelvyn Souza Santana - Integrante / Janderson Sena dos Santos - Integrante.
+2017 - 2021
+PLATAFORMA AUTÔNOMA E INTEGRADA DE MONITORAMENTO, TESTES E MEDIÇÃO DE QUALIDADE DAS REDES MÓVEIS.     Pós-processamento, análise e soluções.
+Descrição: O projeto tem como finalidade o desenvolvimento de uma metodologia de testes para analisar, simular e avaliar o desempenho e qualidade das redes de telefonia celular em ambiente indoor. 
+Em parceria com a DingLi Corporation Ltd. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador.
+2016 - 2017
+Gerador de Energia Piezelétrico  Aquisição, Monitoramento  e Condicionamento do Sinal Gerado
+Descrição: Nos últimos anos os estudos na área de geração de energia alternativa tem sido grande importância, sendo o foco de vários pesquisas. Mais na ultima década varias técnicas de geração de energia de baixa potencia, tem sido pesquisada, como o objetivo de suprir a demanda de sistemas eletrônicos. Sistemas como telefones celulares, sensores sem fio, novos serviços na área de telemedicina, entre outros, que tem baixo consumo de energia podem ser beneficiados. 
+Dentro deste contexto, este projeto permitirá a realização de um sistema que permita a caracterização, aquisição, monitoramento e condicionamento do sinal produzido  por um gerador piezelétrico construído com materiais cerâmicos, implementado no Laboratório de Eletrônica e Sistemas Digitais ? LESD da Faculdade de Engenharia, Arquitetura e Urbanismo ? FEAU da Universidade Metodista de Piracicaba ? UNIMEP. O sistema proposto permitirá caracterizar a não linearidade inerente ao material piezelétrico, a resposta em frequência do sistema, a potencia elétrica gerada e a estabilidade do sistema em função da intensidade da força de excitação aplicada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / DARILSON FRANCISCO DAS DORES ANTUNES - Integrante / Ana Letícia Ferranti - Integrante.
+2015 - Atual
+SISTEMA INTEGRADO DE INFORMAÇÃO PARA O AUXILIO, COMUNICAÇÃO E ORIENTAÇÃO DE ATLETAS PARAOLÍMPICOS
+Descrição: Trata-se de um projeto que tem como finalidade o desenvolvimento de uma plataforma de comunicação flexível e integrada para auxiliar um atleta paraolímpico na prática de um esporte de adestramento paraequestre.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Yanni Siqui Santos Bruschi Osorio - Integrante.
+2014 - Atual
+PLATAFORMA AUTÔNOMA DE MONITORAMENTO, TESTES E MEDIÇÃO DE QUALIDADE DAS REDES MÓVEIS.  ?Pós-processamento, análise e soluções "
+Descrição: O projeto tem como finalidade o desenvolvimento de uma metodologia de testes para analisar, simular e avaliar o desempenho e qualidade das redes de telefonia celular em ambiente indoor.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Felipe Henrique dos Santos - Integrante / Luis Gustavo Da Silva - Integrante / Leonardo Buosi - Integrante.
+2013 - Atual
+Desenvolvimento de uma bancada para ensino de aplicações de controle em malha fechada de nível, temperatura e vazão de líquidos.
+Descrição: a) Problema abordado.
+Implantação de infraestrutura laboratorial adequada para prover ao estudante contato com uma
+abordagem prática no ensino de sistemas de controle em malha fechada, para o controle de
+temperatura, vazão e nível em líquidos.
+b) Objetivos
+Os objetivos da presente proposta de projeto são:
+1. Criação de uma ferramenta de ensino que disponibilize as principais técnicas de controle tais
+como On Off, PID e Fuzzy, utilizando o conceito de laboratórios práticos;
+2. Implementação de projetos experimentais que possam ser modelados e implementados na
+prática;
+3. Produção de material técnico e científico voltados para o aprimoramento do ensino técnicas de
+automação e controle;
+4. Disponibilização da ferramenta para acesso remoto via internet, utilizando o conceito de
+Laboratórios em Rede (WebLab).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.
+2012 - 2012
+PLATAFORMA WEBLAB INTEGRADA, RECONFIGURÁVEL PARA APLICAÇÕES EM ENSINO À DISTANCIA
+Descrição: Este projeto tem como finalidade o desenvolvimento de uma plataforma computacional integrada e reconfigurável para ensino a distancia. Trata-se de uma plataforma com alto conteúdo tecnológico, flexível, e que possibilitará o desenvolvimento de experimentos controlados remotamente via rede Internet com enfoque em aplicações educacionais. Utiliza-se o serviço Web da Internet como infra-estrutura de comunicação, aplicativos e hardware específico para instrumentação no controle e monitoramento de experimentos reais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Tiago Linequer dos Santos - Integrante.Financiador(es): Universidade Salesiana-Campinas - Bolsa.
+2012 - Atual
+Interfaces e Aplicativos para TVD
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador.Número de produções C, T & A: 4
+2012 - Atual
+Desenvolvimento de Aplicativos e Interfaces para o Sistema Brasileiro de Televisão Digital.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2011
+STB ? SCAN/ Desenvolvimento de Software para Multiplexação de Dados para o SBTVD
+Descrição: Este projeto de pesquisa tem como objetivo o desenvolvimento playout para Sistema Brasileiro de Televisão Digital SBTVD, que é uma estação completa de transmissão de TV digital preparada para o padrão brasileiro SBTVD. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / João Paulo Covre - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2011
+STB ? SCAN/ Desenvolvimento de aplicativo para Configurar e implantar o acesso remoto do Carrossel de Dados do SBTVD
+Descrição: Desenvolvimento de aplicativo para Configurar e implantar o acesso remoto do Carrossel de Dados do SBTVD. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Márcio de Santana Pinheiro - Integrante.Financiador(es): Universidade Salesiana-Campinas - Auxílio
+										financeiro.
+2008 - 2014
+RH TVD -Desenvolvimentos Tecnológicos para Formatação,Transmissão e Recepção de Sinais de TV Digital
+Descrição: Projeto de Formação de Recursos Humanos em TV Digital apresentada a CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) como parte de projetos na área de Engenharia Elétrica.
+O presente projeto abrange:
+?Desenvolvimento de ferramentas para facilitar a implantação do SBTVD em recepção fixa e móvel;
+?Estudo de técnicas para contribuir na implantação de TV digital no país;
+?Melhoria de técnicas avançadas de codificações de fonte e de canal com possíveis aplicações em televisão digital;
+?Desenvolvimento de ferramentas para produção de vídeo e áudio;
+?Desenvolvimento de ferramentas para viabilizar interatividade e educação à distância.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (4) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Yuzo  Iano - Integrante / Roger Larico Fredy - Integrante / Rangel Arthur - Integrante / Edwar Andres Valarde Allazo - Integrante.Financiador(es): Universidade Estadual de Campinas - Cooperação / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2008 - 2013
+Plataforma de Ensino a Distância para Televisão Digital Utilizando o Ginga-ncl
+Descrição: Este projeto de pesquisa tem como objetivo um desenvolvimento, estudo e uma avaliação de uma plataforma para televisão móvel digital utilizando a plataforma J2ME- Java 2,  Micro Edition da Sun. Para o desenvolvimento e implementação serão usadas as API (Application Programming Interface ) JavaTV. 
+A plataforma, proposta possibilitará a radiodifusão de sinais de áudio e vídeo em tempo real para dispositivos móveis portáteis, o que pode ser visto como uma extensão do conteúdo das TVs abertas aos usuários em movimento.
+Como resultado espera-se desenvolver uma plataforma para televisão móvel digital iterativas, compatível com as exigências do projeto brasileiro de televisão digital.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Integrante / Yuzo  Iano - Coordenador / Felipe Henrique dos Santos - Integrante.
+2008 - 2013
+Plataforma para Televisão Móvel Digital Utilizando a Plataforma J2ME: JAVATV API
+Descrição: Desde sua invenção, a televisão é uma das principais fontes de informação e entretenimento para seus usuários. Após sofrer algumas transformações ao longo dos anos, atualmente, ela encontra-se em processo de mudança na digitalização do sinal (transmissão dos televisores convencionais encontra-se via sinal analógico). O objetivo desse processo é a melhoria na qualidade de som e imagem e proporcionar a alternativa de desenvolvimento de serviços interativos, esses já utilizados em pacotes de TV por assinatura, por exemplo, o pay-per-view.
+O projeto brasileiro de sistema de televisão digital foi instituído a partir do decreto presidencial 4.901 de 26 de Novembro de 2003 visa fundamentalmente democratizar a informação por meio do acesso à tecnologia digital.
+Para o desenvolvimento de aplicações para TV digital, as principais ferramentas são: APIs Java TV, da Sun, e Microsoft TV, da Microsoft. Neste trabalho, será utilizada a API Java TV como ferramenta principal, por pertencer a uma linguagem livre e multiplataforma (Java) e com grande capacidade de desenvolvimento. 
+Essa plataforma para televisão móvel digital permitirá desenvolver aplicativos que se enquadrem nos padrões de exigência do padrão brasileiro de televisão digital.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / André Fernandes Groth - Integrante.
+2008 - 2013
+RH-TVD No. 01/2007-Desenvolvimentos Tecnológicos para Formatação,Transmissão e Recepção de Sinais de TV Digital
+Descrição: Projeto de Formação de Recursos Humanos em TV Digital 
+Ofício Circ. No. 2077/2008 COF/DEOF/CONVÊNIOS.
+    Processo: 23038.023574/2008-90
+    1o. Termo de Concessão de Auxílio Financeiro AUX-PE-RH-TVD 243/2008,
+b)	Instituição líder e instituições participantes:
+Líder: UNICAMP (Universidade Estadual de Campinas, sediada na cidade de Campinas, SP).
+Participantes:
+1)UPM (Universidade Presbiteriana Mackenzie, sediada na cidade de São Paulo, SP);
+2)UNISAL (Universidade Salesiana, sediada na cidade de Campinas, SP);
+A equipe da Unicamp pertence ao LCV-DECOM-FEEC-UNICAMP (Laboratório de Comunicações Visuais do Departamento de Comunicações da FEEC-UNICAMP), a do MACKENZIE ao Laboratório de TV Digital, a da UNISAL ao GREMAP (Grupo de Estudo em Matemática Aplicada) e do CESET ao Grupo de Pesquisa em Física, Telecomunicações e Computação. Os professores responsáveis pelo projeto são: Prof. Dr. Yuzo Iano (UNICAMP), Prof. Dr. Fujio Yamada (MACKENZIE), Prof. Dr. Vicente Idalberto Becerra Sablón (UNISAL) e Prof. Dr. Rangel Arthur (CESET-UNICAMP).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Integrante / Yuzo  Iano - Coordenador / Fujio Yamada - Integrante / Rangel Arthur - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2008 - 2009
+ESTUDO DAS INTERFERÊNCIAS ELETROMAGNÉTICAS APLICADOS A COMUNICAÇÕES DIGITAIS UTILIZANDO PLACAS DE CIRCUITO IMPRESSO MULTICAMADAS
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Rodrigo Giroto - Integrante.Financiador(es): Universidade Salesiana-Campinas - Bolsa.
+2008 - 2009
+TRANSMISSÃO E MONITORAMENTO DE SINAIS DE ELETROCARDIOGRAMA  (ECG) UTILIZANDO O PADRÃO IEEE 802.16 ( WIMAX - WORLDWIDE INTEROPERABILITY FOR MICROWAVE ACCESS)
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / THIAGO DOS SANTOS FERREIRA - Integrante.
+2008 - 2009
+ESTUDO DAS INTERFERÊNCIAS ELETROMAGNÉTICAS APLICADOS A COMUNICAÇÕES DIGITAIS UTILIZANDO PLACAS DE CIRCUITO IMPRESSO MULTICAMADAS
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Rodrigo Giroto - Integrante.
+2007 - 2008
+Estudo da Aplicação e Eficiencia na Codificação de Video e nas Imagens de TVD dos Processos de Estimação e Compensão de Movimentos e da Codificação Intraquadros no Padrão H 264
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Paolo Bacega - Integrante.
+2007 - 2008
+EMPRESAS INCUBADORAS E INCUBADAS:
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Amanda Buono Gomes - Integrante.
+2007 - 2008
+ESTUDO DE MATERIAIS NANOESTRUTURADOS USANDO A TÉCNICA DE ESPALHAMENTO RAMAN
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Vicente Idalberto Becerra Sablón - Coordenador / Mara Adraiana  Canesqui - Integrante.Financiador(es): Universidade Salesiana-Campinas - Bolsa.

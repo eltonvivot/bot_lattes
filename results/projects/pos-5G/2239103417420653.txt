@@ -1,0 +1,99 @@
+2020 - 2021
+Modelos Eletromagnéticos para Detecção de Metal em Múltiplas Frequências em Diferentes Ambientes
+Descrição: Modelos Eletromagnéticos para Detecção de Metal em Múltiplas Frequências em Diferentes Ambientes. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Adroaldo Raizer - Coordenador.
+2020 - Atual
+Avaliação de desempenho de Linhas de transmissão/sub transmissão frente a descargas atmosféricas, considerando o aterramento formado por protótipo desenvolvido pela CEEE
+Descrição: Avaliação de desempenho de Linhas de transmissão/sub transmissão frente a descargas atmosféricas, considerando o aterramento formado por protótipo desenvolvido pela CEEE. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Adroaldo Raizer - Coordenador.
+2018 - 2019
+Desenvolvimento de Antenas de Recepção para Operação com Satélites Geoestacionários na Banda Ka
+Descrição: Desenvolver antenas que operem na banda Ka para integrar equipamentos VSAT e possibilitar a recepção de internet banda larga via satélite. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (1) . Integrantes: Adroaldo Raizer - Coordenador / Mikael Pontes Fonseca - Integrante / TOCCOLIN, KASSIA - Integrante.
+2014 - 2018
+Desenvolvimento de antenas para recepção de sinais digitais em televisores de alta definição (HDTV)
+Descrição: Desenvolvimento de antenas para recepção de sinais digitais em televisores de alta definição (HDTV). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Doutorado: (1) . Integrantes: Adroaldo Raizer - Coordenador.
+2011 - 2014
+Desenvolvimento de metodologia para medição dos potenciais em malhas de terra de SEs urbanas
+Projeto certificado pela empresa Companhia Estadual de Geração e Transmissão de Energia Elétrica - Matriz em 26/08/2013.
+Descrição: Este projeto tem o objetivo de pesquisar a possibilidade de utilizar, para as medições de elevação de pontencial, de potencial de toque, de passo e da resistência de aterramento de uma malha de terra de subestação, um (01) ou mais eletrodos de corrente posicionados a curtas distâncias dos condutores da malha de terra de uma subestação, utilizando o método de injeção de corrente. Os eletrodos de corrente e de potencial a serem utilizados no desenvolvimento da pesquisa, não devem ser constituídos por torres de LT´s ou circuitos da rede de distribuição em média tensão. A pesquisa citada dar-se-á em duas etapas: formulação matemática do modelo a ser elaborado e ensaios em campo para validação (validação) do modelo obtido.
+A metodologia consiste, basicamente, em determinar uma relação k entre o valor real da grandeza medida, pelo valor lido. Obtendo-se k, é possível determinar o valor real dos potenciais de toque e passo, bem como da resistência de aterramento da malha de terra de uma subestação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador / Jony Laureano Silveira - Integrante / Felipe Nyland - Integrante / Wilson Valente Junior - Integrante / Guilherme Alfredo Dentzien Dias - Integrante.Financiador(es): Companhia Estadual de Geração e Transmissão de Energia Elétrica - Matriz - Auxílio
+										financeiro.
+2011 - 2014
+Pesquisa e o Desenvolvimento em Interferência e Compatibilidade Eletromagnética
+Projeto certificado pela empresa Intelbras S/A em 26/08/2013.
+Descrição: Pesquisa e o desenvolvimento em interferência e compatibilidade eletromagnética em equipamentos de telecomunicações, conforme especificações:
+-O desenvolvimento de atividades voltadas à aplicação de normas de compatibilidade eletromagnética em equipamentos de telecomunicações;
+- A realização de atividades relacionadas à pesquisa e ao desenvolvimento em interferência e compatibilidade eletromagnética;
+- A capacitação da equipe da empresa para a realizar atividades de Pesquisa e Desenvolvimento em interferência e compatibilidade eletromagnética. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Intelbras S/A - Auxílio
+										financeiro.
+2011 - 2013
+Autoplanejamento de Aterramentos de Sistemas de Distribuição Utilizando Métodos Numéricos Determinísticos.
+Projeto certificado pela empresa Companhia Estadual de Distribuicão de Energia Eletrica em 26/08/2013.
+Descrição: Estudar os diversos tipos de solos da região de concessão da CEEE, quanto à resistividade e variação sazonal da mesma frente principalmente à umidade e capacidade de penetração.
+Elaborar um mapa digital de resistividade do solo confiável levando em consideração condições climáticas históricas, utilizando para isto métodos estatísticos e de otimização.
+Estudar materiais e configurações de aterramento em diferentes tipos de solos, em condições de curto circuito e surto de corrente, neste caso utilizando modelos determinísticos.
+Desenvolver programa computacional que a partir de bancos de dados de preços de materiais, do mapa de resistividades e do comportamento dos materiais e configurações de aterramento forneça informações das melhores alternativas técnicas e econômicas para os aterramentos de redes e/ou subestações de distribuição, conhecidas informações tais como localização e características necessárias das instalações.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador / Felipe Nyland - Integrante / Wilson Valente Junior - Integrante / Joni Laureano Silveira - Integrante / Guilherme Alfredo Dentzien Dias - Integrante / José Osvaldo Saldanha Paulino - Integrante / Samir Ahmad Mussa - Integrante.Financiador(es): Companhia Estadual de Distribuicão de Energia Eletrica - Auxílio
+										financeiro.
+2010 - 2015
+Compatibilidade Eletromagnética
+Descrição: O objetivo deste projeto é contribuir com a rede, através da complementação da infra-estrutura do MagLab/UFSC necessária para atender as demandas reprimidas e não atendidas em ensaios de compatibilidade eletromagnética, sobretudo no que tange os seguintes dispositivos: equipamentos da tecnologia da informação; equipamentos industriais; máquinas e equipamentos de medição e controle.
+Num segundo momento proporcionar a elaboração de uma metodologia de análise e resolução de problemas de compatibilidade eletromagnética, necessárias à adequação dos dispositivos acima citados as várias normas e resoluções nacionais e internacionais (ANATEL, ANVISA, INMETRO, CE, FCC, etc...) e outras resoluções que venham a ser editadas por outras agências ou organismos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2010 - 2014
+Adaptação de produtos de Micro, Médias e Pequena Empresas, com vistas à exportação
+Descrição: Promover a melhoria da compatibilidade de micro, pequena e médias empresas - MPME, estimulando a cultura empresarial para inovação, por intermédio de atendimentos tecnológicos na adequação de produtos para o mercado externo e/ou interno conforme descreve a Modalidade 2 do Projeto Rede SIBRATEC Extensão Tecnológica de Santa Catarina, coordenado pela Sociesc.
+Suporte na adequação/desenvolvimento de produtos para atender requisitos de compatibilidade eletromagnética;
+Pré Certificações de Equipamentos Eletro-Eletrônicos como: Testes de Emissões radiadas e conduzidas, Testes de imunidade à campos eletromagnéticos (susceptibilidade eletromagnética), Verificações de Conformidade Normas e Regulamentos: IEC, EM, CISPR, CE, FCC, ANATEL, ICNIPR.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2008 - 2012
+Confiabilidade dos Sistemas Eletrônicos Embarcados (CAPES/COFECUB)
+Descrição: O projeto científico trata sobre a confiabilidade dos sistemas embarcados A penetração crescente da eletrônica embarcada no seio dos transportes terrestres e aéreos faz deste tema de pesquisa uma meta efetiva. O projeto propõe uma metodologia original de desenvolvimento de modelos dos acoplamentos eletromagnéticos, contribuindo para melhor quantificar a confiabilidade e a segurança do funcionamento dos equipamentos eletrônicos embarcados. Os objetivos científicos concernem à caracterização das pertubações eletromagnéticas radiadas pelos dispositivos de eletrônica de potência e às análises de reflectrometria destinadas ao diagnóstico do feixe de cabos elétricos. Este projeto conjuga a experiência reconhecida em nível internacional das duas equipes. Os membros destas equipes apresentam, dentro dos objetivos do projeto, competências complementares, tanto em relação ao desenvolvimento de modelos eletromagnéticos quanto dos meios de caracterização experimental. As cooperações em curso entre os laboratórios acadêmicos e certos atores do mundo industrial permitirão certamente que as pesquisas estejam diretamente focadas nas problemáticas atuais da indústria automobilística. As permutas bilaterais de doutorandos que estão previstas e o desenvolvimento de novas competências por parte da equipe brasileira, conferem ao projeto uma ação maior no domínio da formação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador / Lionel Pichon - Integrante / Luiz Henrique Alves de Medeiros - Integrante / Joceli Mayer - Integrante / François Costa - Integrante / Lotfi Beghou - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2008 - 2011
+Pesquisa e o Desenvolvimento em Interferência e Compatibilidade Eletromagnética
+Descrição: O PROJETO destina-se a:
+a)Realização de atividades voltadas à aplicação de normas de compatibilidade eletromagnética em equipamentos de telecomunicações;
+b)Realização de atividades de pesquisa e desenvolvimento no campo da interferência e compatibilidade eletromagnética;
+c)Capacitação da Equipe de P&D da INTELBRAS para realizar atividades de pesquisa e desenvolvimento, relacionadas ao campo da interferência e compatibilidade eletromagnética.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (4) . Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Intelbras S/A - Outra.
+2008 - 2010
+Desenvolvimento, Estudo e Implementação de um Sistema de Análise de Transitórios em Redes de Distribuição, oriundos,, de Descargas Atmosféricas e de Chaveamentos.
+Descrição: Cooperação técnica/financeira para a realização de pesquisa e desenvolvimento do projeto ?Desenvolvimento, Estudo e Implementação de um Sistema de Análise de Transitórios em Redes de Distribuição, oriundos,, de Descargas Atmosféricas e de Chaveamentos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Fundação Universidade Regional de Blumenau - Cooperação.
+2008 - 2009
+Avaliação de campos e taxa de absorção específica devido a telefones móveis celulares
+Descrição: Projeto de pesquisa em cooperação com a Fundação CPqD-Centro de Pesquisa em Telecomunicações, através do Projeto CPqD/FUNTTEL ?Telecomunicações e seus Impactos na Saúde e Meio Ambiente-TSMA?.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Adroaldo Raizer - Coordenador / Jony Laureano Silveira - Integrante / Hugo A. D. Almaguer - Integrante.Financiador(es): Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações - Cooperação.
+2007 - 2010
+Desenvolvimento em interferência e compatibilidade eletromagnética em equipamentos eletro-eletrônicos
+Descrição: - Desenvolvimento de atividades voltadas à aplicação de normas de compatibilidade eletromagnética em equipamentos eletro-eletrônicos;
+- Realização de atividades relacionadas à pesquisa e ao desenvolvimento em interferência e compatibilidade eletromagnética;
+- Capacitação da equipe de P&D da contratada para realizar atividades de P&D, relacionadas a interferência e compatibilidade eletromagnética.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Reivax - Indústria e Comércio de Instrumentação Eletrônica e Controle Ltda. - Auxílio
+										financeiro.
+2007 - 2008
+Melhoria do desempenho de redes aéreas de distribuição de energia elétrica a descargas atmosféricas.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Agência Nacional de Energia Elétrica - Outra / Centrais Elétricas de Santa Catarina S/A - Auxílio
+										financeiro.
+2007 - 2007
+Acreditação do MagLab junto ao INMETRO para realização de ensaios de compatibilidade eletromagnética
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Instituto Euvaldo Lodi - IEL - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Outra.
+2006 - 2008
+Plataforma Computacional de análise de sistemas de aterramento de linhas de transmissão e distribuição
+Projeto certificado pela empresa Companhia Estadual de Geração e Transmissão de Energia Elétrica - Matriz em 26/08/2013.
+Descrição: Revisar aplicações de modelagem numérica no domínio do tempo para desenvolvimento de solução prática quanto á impedância de malhas de aterramento em sistemas de transmissão e distribuirão. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Companhia Estadual de Geração e Transmissão de Energia Elétrica - Matriz - Auxílio
+										financeiro / Agência Nacional de Energia Elétrica - Outra.
+2006 - 2007
+Desenvolvimento de Metodologia para avaliação dos níveis de emissão de campos elétricos e magnéticos gerados por subestações e linhas de Energia Elétrica.
+Descrição: Desenvolver ampla pesquisa bibliográfica a respeito do tema, buscando junto ao estado da arte informações e experiências que venham agregar valor técnico - cientifico ao trabalho proposto. Como resultado espera-se obter um resumo bibliográfico, de forma a tormá-lo uma base cientifica para o desenvolvimento da pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Agência Nacional de Energia Elétrica - Outra / Companhia Estadual de Geração e Transmissão de Energia Elétrica - Matriz - Auxílio
+										financeiro.
+2005 - 2007
+Desenvolvimento de modelo de proteção contra sobre-tensões em redes de distribuição (MTBT), devido à descargas atmosféricas
+Descrição: Pretende-se neste projeto, desenvolver uma metodologia de proteção contra sobretensão em redes de distribuição de energia elétrica, adequada a RGE, em função das características especificas de sua região de concessão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Rio Grande Energia - Auxílio
+										financeiro / Agência Nacional de Energia Elétrica - Outra.
+2005 - 2006
+Avaliação da influência da resistência de aterramento e impedância de surto ma qualidade da energia elétrica fornecida aos consumidores ao sistema de distribuição da concessionária.
+Descrição: Definir limites para os valores de resistência de aterramento e impedância de surto do sistema de distribuição da concessionária de energia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Centrais Elétricas de Santa Catarina S/A - Auxílio
+										financeiro / Agência Nacional de Energia Elétrica - Outra.
+2004 - 2006
+Melhoria do desempenho de redes aéreas de distribuição de energia elétrica frente a descargas atmosféricas
+Descrição: Propõem-se neste trabalho uma análise detalhada da situação das redes de distribuição da CELESC com objetivo de se levantar os índices de desligamento provocados por descargas atmosféricas, as técnicas de proteção utilizadas e os níveis de isolamento ddas estruturas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Centrais Elétricas de Santa Catarina S/A - Auxílio
+										financeiro / Agência Nacional de Energia Elétrica - Outra.
+2001 - 2002
+Otimização de projeto de sistema de aterramento para linha de distribuição e sua coordenação com dispositivos protetores na linha junto ao consumidor.
+Descrição: Identificar através de pesquisa bibliográfica os padrões definidos em normal e recomendação do Brasil e de outros países para projetos de sistemas de aterramento.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Adroaldo Raizer - Coordenador.Financiador(es): Centrais Elétricas de Santa Catarina S/A - Auxílio
+										financeiro / Agência Nacional de Energia Elétrica - Outra.

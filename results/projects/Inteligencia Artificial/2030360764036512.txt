@@ -1,0 +1,103 @@
+2020 - 2023
+TECHNINAS ? CIÊNCIAS E TECNOLOGIA PARA MENINAS
+Descrição: Este projeto tem como objetivo apresentar o mundo das engenharias e ciências meninas da rede pública de ensino básico de forma lúdica por meio de oficinas de matemática, programação e robótica. Será realizado o acompanhamento dos grupos com o objetivo de avaliar o impacto no desempenho acadêmico escolar nas áreas de ciências e matemática, bem como nos aspectos sociais, visto que o grupo do projeto é formado por professoras e alunas de graduação, de forma a apresentar referências femininas para as crianças envolvidas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (33)  / Especialização: (2)  / Mestrado acadêmico: (2) . Integrantes: Silvia Galvão de Souza Cervantes - Coordenador / Maria Bernadete  de Moraes França - Integrante / Juliani Chico Piai Paiva - Integrante / Milena Kanashiro - Integrante / CAMILA GREGORIO ATEM - Integrante / DIENE EIRE DE MELLO - Integrante / DIRCE APARECIDA FOLETTO DE MORAES - Integrante / ELOIZA CRISTIANE TORRES - Integrante / GISELE FRANCO DE LIMA SANTOS - Integrante / MAGNA NATALIA MARIN PIRES - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2016 - Atual
+Coordenação de dispositivos de proteção em sistemas elétricos utilizando técnicas de otimização matemática para aplicações em tempo real
+Descrição: Neste projeto de pesquisa será proposta metodologia para realizar os estudos de coordenação e seletividade dos dispositivos destinados à proteção dos sistemas elétricos de energia. Os principais equipamentos que fazem parte deste estudo são os elos fusíveis, religadores automáticos, seccionalizadores e relés de sobrecorrente. Assim este projeto de pesquisa trata-se de dimensionar e coordenar os dispositivos de proteção de modo a minimizar os tempos de operação do elementos de proteção. Simultaneamente, deve-se garantir as condições de sensibilidade, confiabilidade e seletividade. Os esquemas de proteção devem ser rápidos pois os esforços mecânicos e térmicos estão diretamente relacionados com a duração da falta (situação de curto-circuito). Serão estudadas algumas técnicas de otimização matemática (algoritmos heurísticos) propostas na literatura especializada utilizadas para solucionar o problema da coordenação ótima das proteções, com foco especial nas técnicas híbridas. Os algoritmos devem ser testados em sistemas-teste padronizados na literatura, bem como em sistemas reais de maior porte. O resultado final desta pesquisa consiste em desenvolver ferramentas computacionais eficazes, eficientes e robustas para solucionar o problema da coordenação em tempo real. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Silvia Galvão de Souza Cervantes - Integrante / Osni Vicente - Integrante / Luis Alfonso Gallego Pareja - Coordenador.
+2013 - Atual
+Minimização ótima das perdas técnicas em Sistemas Elétricos de Distribuição utilizando Algoritmos Genéticos
+Descrição: Neste projeto de pesquisa é proposta uma metodologia para solucionar de forma eficiente o problema de redução de perdas técnicas nos sistemas de distribuição de energia elétrica minimizando os custos de investimento de novos elementos elétricos. Vários modelos matemáticos e técnicas de solução que existem na literatura especializada e no setor elétrico brasileiro serão aplicadas. Através da reconfiguração de redes primarias de distribuição, do balanceamento de carga, da alocação e dimensionamento de capacitores, da alocação ótima de reguladores de tensão e/ou do redimensionamento de cabos primários pode ser conseguida a redução ótima de perdas nos sistemas de distribuição. Assim, neste projeto formula-se uma estratégia vertical para solucionar cada um destes subproblemas, no qual com a solução do subproblema anterior podemos encontrar a solução ótima do seguinte subproblema. Todos os algoritmos a serem desenvolvidos serão testados com sistemas de distribuição conhecidos da literatura especializada a fim de comparar a eficiência de cada algoritmo. os algoritmos serão testados também com sistemas reais de distribuição. Com o fim de determinar o estado estável do sistema de distribuição o método de varredura de correntes será empregado como algoritmo principal para o cálculo do fluxo de potencia. Os resultados finais desta pesquisa permitirão ter uma ferramenta eficiente para o planejamento da expansão e operação de sistemas de distribuição.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Silvia Galvão de Souza Cervantes - Integrante / Osni Vicente - Integrante / Luis Alfonso Gallego Pareja - Coordenador.
+2010 - 2013
+DESENVOLVIMENTO E MELHORIAS EM UMA INTERFACE DE CONTROLE PARA CADEIRA DE RODAS ELÉTRICA POR SOPRO E SUCÇÃO
+Descrição: FATORES COMO A ELEVAÇÃO DAS TAXAS DE ENVELHECIMENTO DA POPULAÇÃO MUNDIAL, O AUMENTO DOS ÍNDICES DE INDIVÍDUOS DEFICIENTES, BEM COMO UMA MAIOR ACEITABILIDADE DOS MESMOS NO MERCADO DE TRABALHO MUNDIAL, RESULTAM NUMA CRESCENTE DEMANDA POR INTERFACES COM A FINALIDADE DE AJUDAR NA MOBILIDADE DE DEFICIENTES FÍSICOS. UMA CADEIRA DE RODAS ELÉTRICA CONVENCIONAL, CONTROLADA POR JOYSTICK, É UM VEÍCULO IMPORTANTE PARA FACILITAR E AGREGAR MELHORIA DA QUALIDADE DE VIDA DE PESSOAS DEFICIENTES. ENTRETANTO, ESPECIFICAMENTE PARA AS PESSOAS QUE SOFREM DE ESPASMOS E PARALISIA DAS EXTREMIDADES (TETRAPLEGIA), O JOYSTICK NÃO É APLICÁVEL COMO ELEMENTO DE MANOBRA. UMA CADEIRA DE RODAS, COMANDADA POR UM SISTEMA DE SOPRO E SUCÇÃO, PODERIA PROPORCIONAR A ESTE GRUPO ESPECÍFICO A LIBERDADE DE LOCOMOÇÃO DE FORMA INDEPENDENTE. A PROPOSTA DESTE TRABALHO É A CONTINUIDADE DE
+OUTRO JÁ EXISTENTE, ONDE FOI IMPLEMENTADA A SUBSTITUIÇÃO DA INTERFACE DE CONTROLE VIA JOYSTICK PELO SISTEMA CONTROLADO ATRAVÉS DE SOPRO E SUCÇÃO. PROBLEMAS COM O CONTROLE DE VELOCIDADE DA CADEIRA FORAM DETECTADOS E A INTRODUÇÃO DE UM CONTROLADOR PI QUE TORNE SUAVES AS PARTIDAS E PARADAS DA CADEIRA SERÁ INTRODUZIDA DE FORMA A GARANTIR TOTAL SEGURANÇA E CONFORTO AO USUÁRIO. ESTA ETAPA POSSIBILITARÁ OS TESTE PRÁTICOS DA CADEIRA COM PESSOAS PARAPLÉGICOS E TETRAPLÉGICOS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9) . Integrantes: Silvia Galvão de Souza Cervantes - Coordenador / Osni Vicente - Integrante / Márcio Roberto Covacic - Integrante / Walter Germanovix - Integrante / Leonimer Flávio de Melo - Integrante / Ruberlei Gaino - Integrante / Aziz Elias Demian Junior - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Fundação Araucária/Ministério da Saúde - PPSUS - Auxílio
+										financeiro.Número de produções C, T & A: 8
+2010 - 2013
+DESENVOLVIMENTO DE ENSAIOS DE CONTROLE E AUTOMAÇÃO ROBÓTICOS COM APLICAÇÕES DE KITS MINDSTORMS DA LEGO
+Descrição: A utilização de robótica é hoje aplicada em nível industrial e também em várias áreas de entretenimento. O aprendizado dos princípios de robótica, bem como suas aplicações fazem parte da formação de engenheiros eletricista da universidade estadual de londrina. a aquisição de  kits mindstorms, um produto da lego, empresa de brinquedos dinamarquesa, visa propiciar condições do
+desenvolvimento de raciocínio, criatividade e iniciativa na solução de problemas que envolvam soluções robóticas. Este projeto tem como objetivo motivar alunos de Introdução à Eng. Elétrica ao conceito de trabalhar com projetos desde sua concepção, análise e propostas de soluções.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Silvia Galvão de Souza Cervantes - Coordenador / Juliani Chico Piai - Integrante / Maria Bernadete  de Moraes França - Integrante / Márcio Roberto Covacic - Integrante / Ruberlei Gaino - Integrante.Número de produções C, T & A: 4
+2009 - 2012
+ESTUDOS DE SISTEMAS DE ATERRAMENTO PREDIAL EM BAIXA E ALTA TENSÃO
+Descrição: O ATERRAMENTO PREDIAL TEM POR FINALIDADE INTERLIGAR O SISTEMA ELÉTRICO A UMA REFERÊNCIA DE TENSÃO NULA OU QUASE NULA, DE MODO A FORNECER UM CAMINHO SEGURO PARA O ESCOAMENTO DE CORRENTES DE FUGA E DE EVENTUAIS DESCARGAS ATMOSFÉRICAS. UM ATERRAMENTO ADEQUADO É UM ELEMENTO FUNDAMENTAL PARA A PROTEÇÃO DE TODO O SISTEMA ELÉTRICO E, O MAIS IMPORTANTE, PARA A SEGURANÇA DOS USUÁRIOS. O PROJETO VISA ANALISAR O VALOR DA RESISTÊNCIA ELÉTRICA DO CONCRETO UTILIZADO EM ESTRUTURAS PREDIAIS TÍPICAS, POR MEIO DE ENSAIOS DE BAIXA E ALTA TENSÃO, VARIANDO A COMPOSIÇÃO DO CONCRETO. COM OS DADOS DA RESISTIVIDADE DOP CONCRETO FRENTE AOS DIFERENTES NÍVEIS DE TENSÃO, ESPERA-SE
+OBTER UMA CURVA FORTEMENTE DECRESCENTE DO VALOR DE RESISTÊNCIA ELÉTRICA DO MATERIAL. SERÁ REALIZADO TAMBÉM UM ESTUDO SOBRE A CORROSÃO DE HASTES COBREADAS UTILIZADAS EM ATERRAMENTOS PREDIAIS. PARA ESTE SEGUNDO ESTUDO, SERÁ UTILIZADO UM ENSAIO DE CAMPO EM QUE SERÃO COLETADAS AMOSTRAS DOS PRODUTOS FORMADOS SOBRE A SUPERFÍCIE DAS HASTES. COM ESSES DADOS, PRETENDE-SE MOSTRAR A AGRESSIVIDADE ELETROQUÍMICA DO SOLO DA REGIÃO DE LONDRINA, COM ALTO TEOR DE FERRO, E PROPOR EVENTUAIS TÉCNICAS DE CONSERVAÇÃO DA PELÍCULA DE COBRE.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Silvia Galvão de Souza Cervantes - Coordenador / Osni Vicente - Integrante / Henrique de Santana - Integrante / Francisco Cláudio Morato Leite - Integrante.Número de produções C, T & A: 1
+2007 - 2010
+PROPOSTA DE UM SISTEMA DE GERENCIAMENTO DE TRÁFEGO URBANO PARA MALHA CENTRAL DE LONDRINA
+Descrição: Este projeto propõe uma parceria entre a Prefeitura Municipal de Londrina através de seu
+Instituto de Pesquisa e Planejamento Urbano (IPPUL) e a Companhia Municipal de Trânsito e
+Urbanização de Londrina (CMTU) e a Universidade Estadual de Londrina, através de seu
+Departamento de Engenharia Elétrica (DEEL). O foco do trabalho é o gerenciamento dos sistemas
+viários baseado na sistematização das informações coletadas nas vias. Busca-se desenvolver uma
+metodologia para a integração da informação disponível visando a operação e planejamento dos
+sistemas viários. Pelo menos dois aspectos da operação de vias urbanas serão estudados: o
+controle semafórico do tráfego, e a sistematização da coleta de dados do tráfego para
+monitoração e análise. O estudo dos sistemas viários, com vistas à modelagem computacional, requer tratamento
+multidisciplinar, por envolver aspectos de instrumentação, controle de processos industriais,
+comunicação de dados, bancos de dados, sistemas em tempo real, etc. neste projeto, as equipes
+envolvidas tratarão, de forma coordenada, de aspectos particulares do sistema geral. Desta
+forma, deseja-se obter soluções que sejam facilmente integráveis no sistema completo de gerência
+das vias urbanas. O projeto será desenvolvido tendo como base a área central da malha viária do município de
+londrina, composto por 60 semáforos. As contribuições esperadas deste projeto são o desenvolvimento de um sistema composto de
+detectores por laço indutivo. Tal sistema terá a característica de mobilidade, ou seja, ser
+alocado e retirado da via a ser monitorada, bem como a integração do sistema de aquisição de
+dados de contagem veicular e pré-processamento dos dados para uso em outros programas;
+compatibilização de software disponíveis comercialmente e consagrados como transyt e integration
+dos algoritmos desenvolvidos no deel com a plataforma de banco de dados desenvolvida na gerência
+e operação de sistemas viários; aprimoramento dos algoritmos desenvolvi. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3) . Integrantes: Silvia Galvão de Souza Cervantes - Coordenador / JOSE ALEXANDRE DE FRANCA - Integrante / Juliani Chico Piai - Integrante / Maria Bernadete  de Moraes França - Integrante / Lucas Varasquim - Integrante / Edmar Nagayama - Integrante / Márcio Roberto Covacic - Integrante / Mário Cesar Stamm Junior - Integrante / Francisco Carvalho Neto - Integrante.Número de produções C, T & A: 6
+2007 - 2009
+ESTUDO SOBRE AS CONDIÇÕES DE ATERRAMENTO COM HASTES COBREADAS NA REGIAO DE LONDRINA
+Descrição: Os aterramentos prediais estão sujeitos a uma condição agressiva de funcionamento devido à
+presença de materiais corrosivos no solo. A composição química, a temperatura, a umidade, a
+compactação do solo, entre outras características, levam a uma progressiva deterioração dos
+materiais do aterramento. Além disso, há uma natural dificuldade de acesso aos elementos do
+aterramento. para uma manutenção adequada, se faz necessário ter conhecimento dos materiais e
+das condições que podem ser agressivos ao revestimento de cobre, visando manter uma resistência
+de aterramento adequada. Deseja-se identificar a ação dos reagentes do solo e, ao mesmo tempo, propor técnicas de
+proteção para a conservação dos aterramentos por hastes, aumentando assim a confiabilidade e a
+segurança dos sistemas elétricos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Silvia Galvão de Souza Cervantes - Coordenador / Osni Vicente - Integrante / Francisco Scannavino - Integrante.Número de produções C, T & A: 1
+2006 - 2008
+DESENVOLVIMENTO DE ALGORITMOS EM TEMPO FIXO E ATUADO PARA CONTROLE DE
+TRAFÉGO URBANO.
+Descrição: O TRÁFEGO URBANO AFETA DIRETA OU INDIRETAMENTE A VIDA DE TODAS AS PESSOAS QUE VIVEM HOJE EM
+CIDADES DE GRANDE OU PEQUENO PORTE. A CIRCULAÇÃO DE VEÍCULOS NA INFRAESTRUTURA VIÁRIA GERA
+CONFLITOS NOS DESLOCAMENTOS, SEJA POR CRUZAMENTOS DE VIAS, SEJA PELA TRAVESSIA DE PEDESTRES.
+ESTES FATORES PODEM DEGRADAR O DESEMPENHO DO SISTEMA VIÁRIO CAUSANDO ATRASOS, PARADAS
+DESNECESSÁRIAS E ACIDENTES. A SOCIEDADE PERDE COM ESTA SITUAÇÃO, POIS O TEMPO EM QUE O USUÁRIO
+FICA PARADO REDUZ SUA CAPACIDADE PRODUTIVA E SUAS HORAS DE LAZER, ALÉM DO STRESS SOFRIDO PELOS
+MOTORISTAS, EXCESSO DE CONSUMO DE COMBUSTÍVEL E EMISSÃO DE POLUENTES. DIANTE DESTE PANORAMA,
+BUSCA-SE SOLUÇÕES QUE MINIMIZEM O ATRASO E O NÚMERO DE PARADAS DOS VEÍCULOS QUE CIRCULAM NAS VIAS
+ATRAVÉS DO CONTROLE DE TRÁFEGO. ESTE PROJETO PROPÕE O DESENVOLVIMENTO DE DOIS ALGORITMOS PARA
+CONTROLE DE TRÁFEGO URBANO. O PRIMEIRO É UM ALGORITMO DE TEMPOS FIXOS CUJOS CÁLCULOS DOS TEMPOS
+SEMAFÓRICOS SÃO REALIZADOS COM BASE EM UMA DEMANDA VERIFICADA EM TABELAS DE DADOS. ESTAS TABELAS
+CONTÉM DEMANDAS POR HORÁRIOS DO DIA E DIAS DAS SEMANAS. O SEGUNDO É UM ALGORITMO ATUADO, OU SEJA,
+REALIZA OS CÁLCULOS EM TEMPO REAL BASEADO NA DEMANDA VERIFICADA ATRAVÉS DE DETECTORES VEICULARES.
+O OBJETIVO DO PROJETO É PROPORCIONAR A COMPREENSÃO DAS TÉCNICAS DE CONTROLE PROPOSTAS BEM COMO A
+INSERÇÃO FUTURA DOS ALGORITMOS EM SISTEMAS DE CONTROLE COM TECNOLOGIA NACIONAL. A ADEQUAÇÃO
+DESTES SISTEMAS À REALIDADE DOS SISTEMAS VIÁRIOS NACIONAIS E O BAIXO CUSTO DE IMPLANTAÇÃO E
+MANUTENÇÃO TAMBÉM SÃO RESULTADOS ESPERADOS DESTE PROJETO.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Silvia Galvão de Souza Cervantes - Coordenador / Wagner Endo - Integrante / Juliani Chico Piai - Integrante / Lucas Varasquim - Integrante / Edmar Nagayama - Integrante.Número de produções C, T & A: 4
+2005 - 2007
+MULTCUT - PROBLEMAS DE CORTE EM MÚLTIPLAS FASES
+Descrição: O OBJETIVO PRINCIPAL DESTE PROJETO CONSISTE EM UTILIZAR A ABORDAGEM DE GERAÇÃO DE COLUNAS COM A
+TÉCNICA DE BRANCH-AND-PRICE NA RESOLUÇÃO DE PROBLEMAS DE CORTE EM DUAS FASES. DURANTE O
+DESENVOLVIMENTO DO PROJETO SERÁ ESTUDADO O CASO RESTRITO DE UM PROBLEMA DA MOCHILA
+COMPARTIMENTADA, RESPONSÁVEL PELA CONSTRUÇÃO DOS PADRÕES DE CORTE DE PROBLEMAS EM MÚLTIPLAS
+FASES. PARA ESTA MOCHILA PRETENDE-SE DESENVOLVER UM ALGORITMO QUE SEJA MAIS EFICIENTE QUE OS
+ATUALMENTE CONHECIDOS, DESENVOLVIDOS POR ROBINSON HOTO E MARCOS ARENALES, E COMPARAR COM A
+ABORDAGEM DE GERAÇÃO SIMULTÂNEA DE LINHAS E COLUNAS PROPOSTA POR EUGENE ZAK EM 2002. A
+COMPARTIMENTAÇÃO RESTRITA DE UMA MOCHILA É UM DOS INTERESSES ATUAIS DO GRUPO GPCE CADASTRADO NO
+CNPQ, DEVIDO SUAS APLICAÇÕES ESTRATÉGICAS. UM INTERESSE ADICIONAL É INVESTIGAR A POTENCIALIDADE
+DE SE EMPREGAR MODELOS DE CORTE E EMPACOTAMENTO PARA SIMULAR O EMPACOTAMENTO DE AMINOÁCIDOS NA
+FORMAÇÃO DE PEPTÍDEOS. A QUÍMICA PREBIÓTICA É UMA CIÊNCIA QUE, DENTRE SUAS VÁRIAS LINHAS DE
+PESQUISA, POSSUI UMA INTERESSADA EM POSSÍVEIS REAÇÕES QUÍMICAS SOB CONDIÇÕES QUE SIMULEM UM
+AMBIENTE QUE TENHA EXISTIDO NA TERRA, FACILITANDO O SURGIMENTO DE VIDA. UM DOS FOCOS DA QUÍMICA
+PREBIÓTICA CONCENTRA-SE EM EXPERIMENTOS QUE ANALISAM A FORMAÇÃO DE POLIPEPTÍDEOS EM ARGILAS, VIA
+ADSORÇÃO DE AMINOÁCIDOS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Silvia Galvão de Souza Cervantes - Integrante / ADRIANA HELENA BORSSOI - Integrante / DIMAS AUGUSTO MOROZIN ZAIA - Integrante / FERNANDO MIGLIORINI LUIZAO - Integrante / JOSE ALEXANDRE DE FRANCA - Integrante / LEANDRO CAVALARI SOARES - Integrante / ROBINSON SAMUEL VIEIRA HOTO - Coordenador / RENAN DUPAS DE MATOS - Integrante.
+1998 - 2002
+Parâmetros de Estabilização, Processo e Projeto para Usinas de Compostagem de Lodo e outros resíduos urbanos. (PROSAB-02)- FINEP
+Descrição: Os objetivos principais foram avaliar o desempenho de misturas de resíduos de podas de árvore, lodo de esgoto proveniente de RALF (reator anaeróbio de leito fluidizado) e lodo gerado em estação de tratamento de água, em situações onde a relação C/N não era mais recomendável pela literatura e avaliar a quantidade de dias necessários de fase termófila para que os ovos de helmintos ficassem inviáveis. Projetor um reator piloto para compostagem de lodo de esgoto. Segunda fase. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Silvia Galvão de Souza Cervantes - Integrante / Fernando Fernandes - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 3
+1996 - 1999
+Métodologia e Caracterização, Critérios e Parâmetros para Compostagem de Lodo de Esgoto, Lodo de  ETA, e alguns resíduos urbanos
+Descrição: Os objetivos principais foram avaliar o desempenho de misturas de resíduos de podas de árvore, lodo de esgoto proveniente de RALF (reator anaeróbio de leito fluidizado) e lodo gerado em estação de tratamento de água, em situações onde a relação C/N não era mais recomendável pela literatura e avaliar a quantidade de dias necessários de fase termófila para que os ovos de helmintos ficassem inviáveis. Projetor um reator piloto para compostagem de lodo de esgoto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Silvia Galvão de Souza Cervantes - Integrante / Fernando Fernandes - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

@@ -1,0 +1,8 @@
+2016 - Atual
+Inversão de Funções do Plano no Plano Aplicada à Sistemas Algébricos Não-lineares com Múltiplas Soluções
+Descrição: Auxílio Instalação 2015/01. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Aline de Lima Guedes - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2010 - 2012
+Análise Numérica de Problemas Não-Lineares em Engenharia Química
+Projeto certificado pelo(a) coordenador(a) Gustavo Mendes Platt em 07/02/2018.
+Descrição: O presente projeto insere-se no contexto de desenvolvimento de metodologias e ferramentas computacionais para a solução de problemas de engenharia química escritos como formulações de otimização ou sob a forma de sistemas de equações algébricas não-lineares. Serão desenvolvidos estudos numéricos e metodologias computacionais para a solução desta classe de problemas, particularmente estudos de equilíbrios líquido-vapor e equilíbrios químicos. Neste cenário, propõem-se estudos de otimização global estocástica ? com ênfase em novas abordagens, como as hiperheurísticas ? e modificações de metodologias determinísticas clássicas (como o método de Newton, através de técnicas de globalização), além do desenvolvimento de algoritmos híbridos global-local... Situação: Concluído; Natureza: Pesquisa. Integrantes: Aline de Lima Guedes - Integrante / Gustavo Mendes Platt - Coordenador.

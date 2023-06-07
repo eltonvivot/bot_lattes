@@ -1,0 +1,21 @@
+2015 - Atual
+Prancha Fácil
+Descrição: Sistema para geração e execução automatizada de pranchas para comunicação alternativa. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (0) . Integrantes: José Antonio dos Santos Borges - Coordenador / Miryam Bonadiu Pelosi - Integrante.Número de produções C, T & A: 2
+2009 - Atual
+Pesquisa e Desenvolvimento de Tecnologia Assistiva
+Descrição: O projeto visa fomentar o desenvolvimento de ferramentas de Tecnologia Assistiva, para atender a diversos tipos de deficiências.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (2)  / Mestrado acadêmico: (1)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: José Antonio dos Santos Borges - Coordenador / Julio Tadeu da Silveira - Integrante / Ida Beatriz da Costa Velho Mazzillo - Integrante / Angélica da Fonseca Dias - Integrante / Daniela Cardoso Tavares - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 20
+2006 - Atual
+Simuladores de processadores didáticos para ensino de Arquitetura de Computadores
+Descrição: Este projeto visa produzir simuladores computacionais para uso em cursos de Arquitetura de Computadores.  O foco do projeto consiste em gerar produtos que integrem os passos de criação de programas, transformação para linguagem de máquina, simulação do processador interativa e visualização para entender o fluxo de execução de programas e o funcionamento interno do computador.  Os principais produtos deste projeto são o Neanderwin (simulador do processador didático Neander/X) e o Simus (simulador do processador didático Sapiens).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) . Integrantes: José Antonio dos Santos Borges - Coordenador / Gabriel Pereira da Silva - Integrante.Número de produções C, T & A: 3
+2003 - Atual
+Braille Fácil - Impressão braille computadorizada
+Descrição: O projeto visa a criação de software para transcrição de textos em português para Braille, com o mínimo de esforço.  Engloba também a geração de solução computacional de materiais táteis para cegos, tais como a geração automatizada de gráficos táteis, a transcrição de textos de matemática e o controle de equipamentos para impressão braille.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Antonio dos Santos Borges - Coordenador / Julio Tadeu da Silveira - Integrante / Geraldo José Ferreira das Chagas Jr. - Integrante.Financiador(es): Ministério da Educação - Bolsa.Número de produções C, T & A: 1
+2000 - 2003
+HABILITAR - HABILITAÇÃO PROFISSIONAL DE DEFICIENTES
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: José Antonio dos Santos Borges - Coordenador / Cláudia Medronho Naumann - Integrante / Sérgio Guedes de Souza - Integrante.Financiador(es): Cisco do Brasil - Bolsa.Número de produções C, T & A: 1
+1993 - Atual
+Dosvox
+Descrição: O Dosvox é um sistema computacional que possibilita às pessoas cegas e com baixa visão, grande acessibilidade e acesso muito confortável aos microcomputadores.  O sistema realiza a comunicação com o deficiente visual através de síntese de voz em Português, sendo que a síntese de textos pode ser configurada para outros idiomas.
+O que diferencia o DOSVOX de outros sistemas voltados para uso por deficientes visuais é que o DOSVOX estabelece um diálogo diferenciado coerente com as características da deficiência visual, e produz o acesso à informação e comunicação através de programas e interfaces adaptativas específicos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (2)  / Doutorado: (1) . Integrantes: José Antonio dos Santos Borges - Coordenador / Julio Tadeu da Silveira - Integrante / Neno da Cunha Albernaz - Integrante / João Vicente Ganzarolli de Oliveira - Integrante / Angélica da Silva Dias - Integrante / Daniela Cardoso Tavares - Integrante.Número de produções C, T & A: 18

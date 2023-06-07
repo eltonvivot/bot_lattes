@@ -1,0 +1,48 @@
+2021 - Atual
+Linguagens para descrição de formatos de dados: Projeto, implementação e verificação formal
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Coordenador / FEITOSA, SAMUEL - Integrante / Maycon Jorge Amaro - Integrante / CARDOSO, ELTON - Integrante / REIS, LEONARDO - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Outra.
+2015 - Atual
+Verificação formal de algoritmos de parsing
+Descrição: O objetivo desse projeto é o desenvolvimento de algoritmos de parsing utilizando assistentes de provas e suas respectivas provas de correção. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Coordenador / Leonardo Vieira dos Santos Reis - Integrante / Raul Felipe Pimenta Lopes - Integrante / BOIS, ANDRÉ DU - Integrante / DELFINO, THALES ANTÔNIO - Integrante / Samuel Feitosa - Integrante / CARDOSO, ELTON M. - Integrante.Número de produções C, T & A: 11
+2013 - 2015
+Desenvolvimento de Sistemas Embarcados Corretos por Construção usando Linguagens Funcionais
+Descrição: O objetivo deste projeto é o estudo de técnicas para uso de linguagens de programação funcional (Haskell, Agda e Coq) para o desenvolvimento de sistemas embarcadas na plataforma Arduíno. O foco é na utilização de sistemas de tipos avançados para garantir a correção dos softwares produzidos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Coordenador.Número de produções C, T & A: 6
+2012 - Atual
+Sistemas de tipos e semântica formal para linguagens de progamação modernas
+Descrição: Esse projeto visa o desenvolvimento, formalização e implementação de sistemas de tipos e semântica formal de linguagens de programação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Rodrigo Geraldo Ribeiro - Coordenador / Cristiano Vasconcellos - Integrante / CAMARÃO, CARLOS - Integrante / Adelaide Gelain - Integrante / Raul Felipe Pimenta Lopes - Integrante / BOIS, ANDRÉ DU - Integrante / André Rauber Du Bois - Integrante / Fernando Magno Pereira Quintão - Integrante / DELFINO, THALES ANTÔNIO - Integrante / DA SILVA FEITOSA, SAMUEL - Integrante / DE ARAÚJO, MARCUS R. - Integrante / CARDOSO, ELTON M. - Integrante / REIS, LEONARDO V. S. - Integrante / DI IORIO, VLADIMIR O. - Integrante / FEITOSA, SAMUEL - Integrante.Número de produções C, T & A: 32
+2011 - 2012
+Programação de Horários em Universidades Através de Lógica Proposicional
+Descrição: O Problema da Programação de Horários Escolares (PPHE) foi
+abordado em um projeto de pesquisa do PIVIC 2010 que apontou para a
+viabilidade da modelagem através de lógica proposicional para resolver o
+problema. O presente projeto propõe o uso da mesma abordagem para a
+solução do Problema de Programação de Cursos em Universidades (PPHU),
+que, além de considerar as restrições do PPHE, considera também a alocação
+de salas de aula. Esta alocação aumenta consideravelmente a complexidade
+do problema além de implicar em um grupo de novas restrições que devem ser
+tratadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Coordenador / George Henrique Godim da Fonseca - Integrante.Número de produções C, T & A: 3
+2010 - 2011
+Projeto e Implementação de um Arcabouço para Construção de Resolvedores SAT
+Descrição: Atualmente há um grande interesse no problema da Satisfazibilidade (SAT), pois este tem sido utilizado com sucesso para verificação de hardware e software. O diferencial desta abordagem se deve a criação de novas heurísticas e na implementação cuidadosa de estruturas de dados utilizadas por resolvedores SAT. Diversos resolvedores foram propostos nos últimos anos, porém quase todos compartilham as mesmas heurísticas, o que não permite determinar qual é mais adequada para a solução de um tipo específico de problema. Além disso, os resolvedores SAT atuais, em sua maioria, não são extensíveis, o que dificulta a experimentação de novas abordagens. Neste sentido, o presente projeto pretende projetar e implementar um arcabouço para a construção de resolvedores SAT que permita a criação de novos resolvedores pelo acréscimo de novas heurísticas a serem definidas pelo desenvolvedor; ou pela seleção prévia de heurísticas já existentes, o que permitirá a implementação de resolvedores que sejam especializados na solução de problemas determinados a priori.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Coordenador / Thieres Nardy Dias - Integrante.
+2010 - 2011
+Construção de Horários Escolares Usando Resolvedores SAT
+Descrição: A construção de horários escolares (school timetabling) é um problema bem conhecido e estudado na ciência da computação.  Este problema pode ser definido como o de construir um horário escolar de maneira que nenhuma turma ou professor participe de mais de uma aula no mesmo instante de tempo e, além disso, o horário construído deve atender outras restrições especificadas a priori. O school timetabling é um problema NP-completo e é normalmente resolvido usando abordagens heurísticas. Este trabalho visa a elaboração de uma solução alternativa: de modelar este problema através da satisfazibilidade de restrições (Constraint Satisfacition) e sua posterior redução a satisfazibilidade proposicional (SAT). Com isto, pode-se resolver o problema de construção de horários escolares utilizando resolvedores SAT que podem resolver grandes instâncias de maneira eficiente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Coordenador / George Henrique Godim da Fonseca - Integrante.
+2008 - 2013
+Inferência de tipos para a linguagem Haskell
+Descrição: Projeto, especificação, formalização e implementação de algoritmos de inferência de tipos para linguagens funcionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Integrante / Carlos Camarão de Figueiredo - Coordenador / Leonardo Vieira dos Santos Reis - Integrante / Adelaide Gelain - Integrante / André Rauber Du Bois - Integrante / MELO, LEANDRO T. C. - Integrante / DE ARAÚJO, MARCUS R. - Integrante / CARDOSO, ELTON M. - Integrante / FEITOSA, SAMUEL - Integrante.Número de produções C, T & A: 3
+2008 - 2010
+Metodologia para Medição e Reconhecimento de Danos Estruturais em Dormentes Metálicos
+Descrição: O projeto tem por finalidade o reconhecimento de padrões de vibração mecânica capazes de caracterizar a existência de fissuras ou trincas em dormentes de aço na Ferrovia da Vale do Rio Doce (CVRD), através da parametrização do sinal de vibração e posterior utilização de algoritmos de classificação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Rodrigo Geraldo Ribeiro - Integrante / Glauco Ferreira Gazel Yared - Coordenador / Carlos Henrique Nogueira Resende Barbosa - Integrante / Rafael Santos Thebaldi - Integrante / Marcos Henrique Ribeiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Companhia Vale do Rio Doce - Cooperação.
+2006 - 2007
+Programação genérica usando o sistema CT
+Descrição: Análise de extensões necessárias para prover suporte à programação genérica em uma linguagem baseada no sistema de tipos CT.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Integrante / Carlos Camarão de Figueiredo - Coordenador.
+2005 - 2006
+Uma ferramenta de metaprogramação multilinguagem: extensão do modelo de representação
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Integrante / Marcelo de Almeida Maia - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 1
+2004 - 2005
+Uma ferramenta de metaprogramação multilinguagem: definição, implementação e aplicação
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Integrante / Marcelo de Almeida Maia - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 1
+2003 - 2004
+JMJ - Um ambiente integrado de desenvolvimento para Java baseado em refactoring e programação gerativa
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rodrigo Geraldo Ribeiro - Integrante / Marcelo de Almeida Maia - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 1

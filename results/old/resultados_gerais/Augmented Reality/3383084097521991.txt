@@ -1,0 +1,16 @@
+2012 - 2013
+Um Serviço de Avaliação de Projetos de Software Livre para Adoção em Ambientes Corporativos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Carreiro da Silva - Integrante / Cláudio Sant'Anna - Integrante / Christina von Flach Garcia Chavez - Coordenador / Manoel Mendonça - Integrante / Rodrigo Rocha Gomes e Souza - Integrante / Antonio Soares de Azevedo Terceiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2009 - 2012
+MDAPSEE - UM AMBIENTE PARA ESPECIFICAÇÃO E EXECUÇÃO DE PROCESSOS DE SOFTWARE DIRIGIDO A MODELOS
+Descrição: Este projeto tem como objetivo geral uma abordagem para especificação, implementação e avaliação de um Ambiente de Engenharia de Software Centrado em Processos (PSEE Process Centered Software Engineering Environment) voltado particularmente para o desenvolvimento de aplicações através da abordagem do desenvolvimento dirigido por modelos (DDM), de acordo com o padrão Model Driven Achitecture (MDA)(OMG, 2003) da Object Management Group (OMG)* integrado a geração de Testes Dirigidos por Modelo (TDM).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Carreiro da Silva - Integrante / Rita Suzana Pitangueira Maciel - Coordenador / Ana Patrícia Magalhães - Integrante / Fabrício Pellegrini - Integrante / Filipe Araújo da Silva - Integrante / Ramon de Araújo Gomes - Integrante / oão Pedro Bittencourt Queiroz - Integrante.
+2006 - 2008
+Projeto Transforms / Bahia Inovação - FAPESB
+Descrição: As atividades do projeto englobam pesquisa na área de processos MDA e tecnologias para transformação de modelos.
+Além disso, realiza-se também o desenvolvimento de um a ferramenta para edição e execução de processos MDA.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Bruno Carreiro da Silva - Integrante / Rita Suzana Pitangueira Maciel - Coordenador / Ana Patrícia Magalhães - Integrante / João Gualberto Rizzo Araújo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2005 - 2008
+Transforms: Uma Ferramenta MDA para Geração Automática de Código
+Descrição: A Transforms é uma ambiente voltado para o apoio de desenvolvimento de aplicações através da abordagem proposta pela MDA em acordo com o padrão de especificação de processos SPEM 2.0, ambos da OMG. Este ambiente é composto de ferramentas para edição e execução de processos de desenvolvimento de software. Edital Fapesb - Bahia Inovação 2005 - Fase 1 e Fase II. 
+Situação: Em andamento; Natureza: Pesquisa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Bruno Carreiro da Silva - Integrante / Rita Suzana Pitangueira Maciel - Coordenador / Ana Patrícia Magalhães - Integrante / João Gualberto Rizzo Araújo - Integrante / Leandro Nogueira - Integrante / Alabê Duarte - Integrante / Narciso Martins - Integrante / Alliam Buarque - Integrante.

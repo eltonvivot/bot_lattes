@@ -1,0 +1,113 @@
+2017 - Atual
+SISTEMA DE NAVEGAÇÃO SEGURA PARA ROBÔS MÓVEIS E CADEIRAS DE RODAS UTILIZANDO PROTOTIPAGEM RÁPIDA DE CONTROLE EMBARCADO
+Descrição: ESTE PROJETO APRESENTA A PROPOSTA DE IMPLEMENTAÇÃO DE UM PROTÓTIPO DE UM VEÍCULO TERRESTRE
+AUTÔNOMO INTELIGENTE NÃO TRIPULADO E O DESENVOLVIMENTO UM AMBIENTE VIRTUAL DE SIMULAÇÃO PARA
+PROJETO E CONCEPÇÃO DE SISTEMA DE SUPERVISÃO E CONTROLE PARA ROBÔS MÓVEIS, OTIMIZANDO SUAS
+TRAJETÓRIAS EM AMBIENTES INDOOR E OUTDOOR TORNANDO-OS CAPAZES DE OPERAR E DE SE ADAPTAR A
+DIFERENTES AMBIENTES E CONDIÇÕES [10]. ESTE SISTEMA VIRTUAL [11] TEM COMO FINALIDADE FACILITAR O
+DESENVOLVIMENTO DE PROTÓTIPOS DE SISTEMAS EMBARCADOS, ENFATIZANDO A IMPLEMENTAÇÃO DE FERRAMENTAS
+QUE PERMITAM A SIMULAÇÃO DAS CONDIÇÕES CINEMÁTICAS, DINÂMICAS E DE CONTROLE, COM MONITORAÇÃO EM
+TEMPO REAL DE TODOS PONTOS IMPORTANTES DO SISTEMA. PARA ISSO, É PROPOSTA UMA ARQUITETURA ABERTA
+DE CONTROLE, INTEGRANDO AS DUAS PRINCIPAIS TÉCNICAS DE IMPLEMENTAÇÃO DE CONTROLE ROBÓTICO EM
+NÍVEL DE HARDWARE: SISTEMAS MICROPROCESSADORES E DISPOSITIVOS DE HARDWARE RECONFIGURÁVEIS [9]. O
+SISTEMA SIMULADOR IMPLEMENTADO É COMPOSTO DE UM MÓDULO GERADOR DE TRAJETÓRIA, DE UM MÓDULO
+SIMULADOR CINEMÁTICO E DINÂMICO E DE UM MÓDULO DE ANÁLISE DE RESULTADOS E ERROS. O MÓDULO
+GERADOR DE TRAJETÓRIA TEM A FINALIDADE DE, UMA VEZ CONHECENDO-SE O AMBIENTE EM QUE O ROBÔ IRÁ
+ATUAR, COM SEUS OBSTÁCULOS E PARTICULARIDADES, GERAR UMA TRAJETÓRIA CARTESIANA ÓTIMA,
+RESPEITANDO OS LIMITES E CARACTERÍSTICAS DO ROBÔ MÓVEL. TODOS OS RESULTADOS CINEMÁTICOS E
+DINÂMICOS COLHIDOS DURANTE A SIMULAÇÃO PODEM SER AVALIADOS E VISUALIZADOS EM FORMATOS DE
+GRÁFICOS E TABELAS, NO MÓDULO DE ANÁLISE DE RESULTADOS, PERMITINDO QUE SEJA FEITO UM
+APERFEIÇOAMENTO NO SISTEMA, NO SENTIDO DE MINIMIZAR OS ERROS COM A OTIMIZAÇÃO DOS AJUSTES
+NECESSÁRIOS. PARA A IMPLEMENTAÇÃO DO CONTROLADOR NO SISTEMA EMBARCADO UTILIZA-SE A PROTOTIPAGEM
+RÁPIDA, QUE É A TECNOLOGIA QUE PERMITE, EM CONJUNTO COM O AMBIENTE VIRTUAL DE SIMULAÇÃO, O
+DESENVOLVIMENTO DE UM PROJETO DE UM CONTROLADOR PARA ROBÔS MÓVEIS E CADEIRAS DE RODAS. A
+VALIDAÇÃO E TESTES SERÃO REALIZADAS EM VÁRIAS PLATAFORMAS ROBÓTICAS, TAIS COMO: PROTÓTIPO DE
+ROBÔ MÓVEL DE PEQUENO PORTE, PROTÓTIPO DE VEÍCULO AUTÔNOMO NÃO TRIPULADO COM CAPACIDADE PARA UMA
+PESSOA COM RESTRIÇÕES NÃO HOLONÔMICAS E DE TRANSMISSÃO DIFERENCIAL E EM CADEIRAS DE RODAS COM
+MOTORES BRUSHLESS.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12) . Integrantes: Aziz Elias Demian Junior - Integrante / DE MELO, LEONIMER FLAVIO - Coordenador.
+2016 - 2019
+ESTUDO DE CONVERSORES CC-CC COM AMPLA FAIXA DE CONVERSÃO APLICADOS EM ILUMINAÇÃO DE ESTADO SÓLIDO
+Descrição: O PRESENTE TRABALHO CONSISTE DE ESTUDO, PROJETO E IMPLEMENTAÇÃO DE CONVERSORES CC-CC PARA A
+APLICAÇÃO EM SISTEMAS DE ILUMINAÇÃO DE ESTADO SÓLIDO, O QUAL É BASEADO EM LEDS DE ALTA POTÊNCIA
+DE LUZ BRANCA ALIMENTADOS POR UMA TENSÃO ALTERNADA UNIVERSAL OU POR UMA BATERIA. A UTILIZAÇÃO DE
+REATORES ELETRÔNICOS PARA ALIMENTAR LÂMPADAS LED TRAZ INÚMEROS BENEFÍCIOS, COMO AUMENTO DO
+RENDIMENTO E REDUÇÃO DE PESO E VOLUME E POSSIBILIDADE DE INSERÇÃO DE CARACTERÍSTICAS ESPECIAIS
+DE FUNCIONAMENTO. SÃO APRESENTADAS TODAS AS ETAPAS INTERMEDIÁRIAS, QUE COMPREENDEM O ESTUDO
+TEÓRICO DAS LÂMPADAS LED E TAMBÉM DOS CONVERSORES QUE SERÃO UTILIZADOS PARA O ACIONAMENTO.
+NESSE PROJETO SERÁ UTILIZADO UM MICROCONTROLADOR PARA FAZER O CONTROLE DO REATOR DAS LÂMPADAS
+LED. O MOTIVO DE SE UTILIZAR UM MICROCONTROLADOR RESIDE NA GRANDE FLEXIBILIDADE PROPORCIONADA
+PELO MESMO, SENDO POSSÍVEIS EVENTUAIS ALTERAÇÕES NOS MÉTODOS DE ACIONAMENTO DAS LÂMPADAS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Aziz Elias Demian Junior - Coordenador / Lucio dos Reis Barbosa - Integrante.
+2011 - 2014
+MODELAGEM CINEMÁTICA E DINÂMICA COM APLICAÇÃO EM SISTEMAS DE CONTROLE EMBARCADOS PARA VEÍCULOS AUTÔNOMOS NÃO TRIPULADOS.
+Projeto certificado pelo(a) coordenador(a) Leonimer Flávio de Melo em 30/03/2017.
+Descrição: ESTA PROPOSTA DE TRABALHO APRESENTA LINHAS DE PESQUISAS A SEREM EXPLORADAS NAS ÁREAS DE SISTEMA
+DE CONTROLE EMBARCADOS PARA VEÍCULOS AUTÔNOMOS NÃO TRIPULADOS (AÉREOS, AQUÁTICOS E TERRESTRES).
+ESSAS ÁREAS DE PESQUISA SÃO RELATIVAMENTE RECENTES NO MUNDO, ESPECIALMENTE NO BRASIL, SENDO
+EXTREMANTE IMPORTANTES PARA O DESENVOLVIMENTO E APRIMORAMENTO TECNOLÓGICO LOCAL. ENVOLVEM
+PLANEJAMENTO, SIMULAÇÃO E UTILIZAÇÃO DE TECNOLOGIA DE PONTA PARA IMPLEMENTAÇÃO DOS SEUS SISTEMAS
+DE CONTROLE. UMA DESSA LINHAS, QUE FAZ PARTE DESSE TRABALHO, É A PROPOSTA DE IMPLEMENTAÇÃO DE UM
+AMBIENTE VIRTUAL DE SIMULAÇÃO PARA PROJETO E CONCEPÇÃO DE SISTEMA DE SUPERVISÃO E CONTROLE PARA
+VEÍCULOS TERRESTES NÃO TRIPULADOS AUTÔNOMOS, QUE SEJAM CAPAZES DE OPERAR E DE SE ADAPTAR A
+DIFERENTES AMBIENTES E CONDIÇÕES. ESTE SISTEMA VIRTUAL TEM COMO FINALIDADE FACILITAR O
+DESENVOLVIMENTO DE PROTÓTIPOS DE SISTEMAS EMBARCADOS, ENFATIZANDO A IMPLEMENTAÇÃO DE FERRAMENTAS
+QUE PERMITAM A SIMULAÇÃO DAS CONDIÇÕES CINEMÁTICAS, DINÂMICAS E DE CONTROLE, COM MONITORAÇÃO EM
+TEMPO REAL DE TODOS PONTOS IMPORTANTES DO SISTEMA. PARA ISSO, É PROPOSTA UMA ARQUITETURA ABERTA
+DE CONTROLE, INTEGRANDO AS DUAS PRINCIPAIS TÉCNICAS DE IMPLEMENTAÇÃO DE CONTROLE DE SISTEMAS
+ROBÓTICOS AUTÔNOMOS A NÍVEL DE HARDWARE: SISTEMAS MICROPROCESSADORES E DISPOSITIVOS DE HARDWARE
+RECONFIGURÁVEIS. O SISTEMA SIMULADOR PROPOSTO SERÁ COMPOSTO DE UM MÓDULO GERADOR DE TRAJETÓRIA
+(AÉREA, TERRESTRE OU MARÍTIMA), DE UM MÓDULO SIMULADOR CINEMÁTICO E DINÂMICO E DE UM MÓDULO DE
+ANÁLISE DE RESULTADOS E ERROS. O MÓDULO GERADOR DE TRAJETÓRIA TEM A FINALIDADE DE, UMA VEZ
+CONHECENDO-SE O AMBIENTE EM QUE O ROBÔ IRÁ ATUAR, COM SEUS OBSTÁCULOS E PARTICULARIDADES, GERAR
+UMA TRAJETÓRIA CARTESIANA ÓTIMA, RESPEITANDO OS LIMITES E CARACTERÍSTICAS DO ROBÔ MÓVEL. TODOS
+OS RESULTADOS CINEMÁTICOS E DINÂMICOS COLHIDOS DURANTE A SIMULAÇÃO PODERÃO SER AVALIADOS E
+VISUALIZADOS EM FORMATOS DE GRÁFICOS E TABELAS, NO MÓDULO DE ANÁLISE DE RESULTADOS, PERMITINDO
+QUE SEJA FEITO UM APERFEIÇOAMENTO NO SISTEMA, NO SENTIDO DE MINIMIZAR OS ERROS COM A OTIMIZAÇÃO
+DOS AJUSTES NECESSÁRIOS. PARA A IMPLEMENTAÇÃO DO CONTROLADOR NO SISTEMA EMBARCADO UTILIZAR-SE-Á
+A TÉCNICA DA PROTOTIPAGEM RÁPIDA, QUE É A TECNOLOGIA QUE PERMITE, EM CONJUNTO COM O AMBIENTE
+VIRTUAL DE SIMULAÇÃO, O DESENVOLVIMENTO E OTIMIZAÇÃO DE PROJETOS DE CONTROLADORES EMBARCADOS
+PARA SISTEMAS AUTÔNOMOS NÃO TRIPULADOS. A VALIDAÇÃO E TESTES SERÃO REALIZADOS COM MODELOS DE
+VEÍCULOS TERRESTRES, AÉREOS E MARÍTIMOS NÃO TRIPULADOS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Aziz Elias Demian Junior - Integrante / Leonimer Flávio de Melo - Coordenador.
+2010 - 2013
+DESENVOLVIMENTO E MELHORIAS EM UMA INTERFACE DE CONTROLE PARA CADEIRA DE RODAS ELÉTRICA POR SOPRO E SUCÇÃO.
+Descrição: FATORES COMO A ELEVAÇÃO DAS TAXAS DE ENVELHECIMENTO DA POPULAÇÃO MUNDIAL, O AUMENTO DOS ÍNDICES
+DE INDIVÍDUOS DEFICIENTES, BEM COMO UMA MAIOR ACEITABILIDADE DOS MESMOS NO MERCADO DE TRABALHO
+MUNDIAL, RESULTAM NUMA CRESCENTE DEMANDA POR INTERFACES COM A FINALIDADE DE AJUDAR NA MOBILIDADE
+DE DEFICIENTES FÍSICOS. UMA CADEIRA DE RODAS ELÉTRICA CONVENCIONAL, CONTROLADA POR JOYSTICK, É
+UM VEÍCULO IMPORTANTE PARA FACILITAR E AGREGAR MELHORIA DA QUALIDADE DE VIDA DE PESSOAS
+DEFICIENTES. ENTRETANTO, ESPECIFICAMENTE PARA AS PESSOAS QUE SOFREM DE ESPASMOS E PARALISIA DAS
+EXTREMIDADES (TETRAPLEGIA), O JOYSTICK NÃO É APLICÁVEL COMO ELEMENTO DE MANOBRA. UMA CADEIRA DE
+RODAS, COMANDADA POR UM SISTEMA DE SOPRO E SUCÇÃO, PODERIA PROPORCIONAR A ESTE GRUPO ESPECÍFICO
+A LIBERDADE DE LOCOMOÇÃO DE FORMA INDEPENDENTE. A PROPOSTA DESTE TRABALHO É A CONTINUIDADE DE
+OUTRO JÁ EXISTENTE, ONDE FOI IMPLEMENTADA A SUBSTITUIÇÃO DA INTERFACE DE CONTROLE VIA JOYSTICK
+PELO SISTEMA CONTROLADO ATRAVÉS DE SOPRO E SUCÇÃO. PROBLEMAS COM O CONTROLE DE VELOCIDADE DA
+CADEIRA FORAM DETECTADOS E A INTRODUÇÃO DE UM CONTROLADOR PI QUE TORNE SUAVES AS PARTIDAS E
+PARADAS DA CADEIRA SERÁ INTRODUZIDA DE FORMA A GARANTIR TOTAL SEGURANÇA E CONFORTO AO USUÁRIO.
+ESTA ETAPA POSSIBILITARÁ OS TESTE PRÁTICOS DA CADEIRA COM PESSOAS PARAPLÉGICOS E TETRAPLÉGICOS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) . Integrantes: Aziz Elias Demian Junior - Integrante / Silvia Galvão de Souza Cervantes - Coordenador / Leonimer Flávio de Melo - Integrante / Marcio Roberto Covacic - Integrante / Osni Vicente - Integrante / Ruberlei Gaino - Integrante / Walter Germanovix - Integrante.
+2009 - 2015
+ANÁLISE E PROJETO DE UM CONVERSOR BOOST QUADRÁTICO MONOCHAVEADO SUAVEMENTE
+Descrição: CONVERSORES DC/DC, ESPECIALMENTE O BOOST, TÊM SIDO LARGAMENTE UTILIZADOS EM APLICAÇÕES ONDE
+EXISTE A NECESSIDADE SE ELEVAR TENSÕES.A PROPOSIÇÃO DESTE ESTUDO É IMPLEMENTAR ATRAVÉS DE UM
+ESTUDO ESPECÍFICO UM NOVO CONVERSOR BOOST QUADRÁTICO, CUJAS PRINCIPAIS CARACTERÍSTICAS SERÃO SUA
+SIMPLICIDADE, CONFIABILIDADE E CHAVEAMENTO SUAVE.A ESTRUTURA BOOST, QUE SERÁ ESTUDADA NESTA
+PESQUISA, POSSUI O GANHO ESTÁTICO COM DEPENDÊNCIA QUADRÁTICA DE SUA RAZÃO CÍCLICA. O PRINCÍPIO
+DE OPERAÇÃO DO SISTEMA APRESENTADO É MINIMIZAR AS PERDAS NA COMUTAÇÃO, PARA ISTO UTILIZA
+TÉCNICAS RESSONANTES PARA ATINGIR ZCS NO FECHAMENTO E ZVS NA ABERTURA DA CHAVE ELETRÔNICA. A
+DINÂMICA DO CIRCUITO SERÁ ESTUDADA ATRAVÉS DE UMA ANÁLISE QUALITATIVA E QUANTITATIVA, ALÉM DE
+ANÁLISE COMPUTACIONAL. O OBJETIVO É ESTUDAR, ANALISAR E IMPLEMENTAR UM NOVO CONVERSOR BOOST
+QUADRÁTICO, DESTINADO A ATUAR EM SISTEMAS DE CONVERSÃO ELETRÔNICA DE ENERGIA, COM UM MÍNIMO DE
+DISSIPAÇÃO DE ENERGIA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Aziz Elias Demian Junior - Integrante / Carlos Henrique Goncalves Treviso - Coordenador.
+2009 - 2013
+Sistema De Medição De Umidade Baseado Na Reflexão Difusa No Infravermelho Próximo.
+Descrição: Em diversos setores da industria, a medição de umidade é uma tarefa fundamental como, por exemplo, na industria alimentícia, de processamento/esmagamento de grãos, de papel, usinas de açúcar etc. o método clássico de medição de umidade requer uma análise da amostra em laboratório. este é um processo destrutivo, caro e demorado. além do mais, como a umidade da matéria-prima pode variar bastante ao longo do dia, são necessárias várias medições em laboratório ao longo do período. por outro lado, com o processo de medição on-line de umidade, a percentagem de água é conhecida instantaneamente, logo tem-se controle do processo de produção sem perdas, com máximo lucro e qualidade. atualmente, existem poucos fabricantes deste tipo de equipamento e não existe nenhum fabricante neste país, o que resulta em um custo elevado para industrias pequenas. em vista disto, propõe-se, neste projeto, o desenvolvimento de um medidor on-line de umidade baseado no princípio de absorção da luz, onde moléculas da água absorvem parte da radiação incidente, baseado em um princípio físico que faz com que a luz seja absorvida por ligações químicas características da molécula de água. tal instrumento será capaz de efetuar a medição de umidade na própria linha de produção, instantaneamente e insensível a grandes variações de temperatura, permitindo o ajuste do processo produtivo de imediato ao valor proposto, evitando perdas, reprocesso de produto e reduzindo custos com medições químicas, infra-estrutura e mão-de-obra. além disso, uma vez desenvolvida a técnica, esta poderá ser facilmente estendida a medição de outros tipos de substâncias em uma variedade de outros materiais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Aziz Elias Demian Junior - Integrante / José Alexandre de França - Coordenador / Maria Bernadete de Morais França - Integrante / Suzana Lucy Nixdorf - Integrante / Diogo Kaoru Takayama - Integrante.
+2009 - 2011
+Sistema Descentralizado De Monitoramento Do Microclima Em Plantações De Soja Para Uso Na Agricultura De Precisão
+Descrição: Projeto financiado pelo Ministério da Agricultura, Pecuária e Abstecimento através do convênio 702825/2008. Valor Total: R$ 136.269,00 RESUMO:Há muito é sabido que as condições ambientais são fator chave na epidemiologia de diversos fitopatógenos. por isso, o monitoramento do clima é indispensável a qualquer sistema inteligente de cultivo.
+Normalmente, tal monitoramento é realizado através de estações agrometeorológicas que adquirem dados de diversas grandezas, tais como, temperatura, umidade, velocidade do vento, molhamento foliar etc. infelizmente, o alto custo das estações de aquisição de dados limita o número de pontos de monitoramento dentro de uma mesma propriedade. isso força o uso de ferramentas de interpolação matemática. contudo, tal procedimento não leva a bons resultados na estimação de grandezas como a precipitação e o molhamento foliar.
+Neste projeto, propõe-se um sistema de monitoramento composto por um conjunto microestações de aquisição de dados. essas serão de baixo custo e altíssima autonomia. por isso, poderão ser instaladas ao longo de toda a região de cultivo, coletando dados de grandezas como, por exemplo, temperatura e molhamento foliar. as microestações comunicar-se-ão entre si através de uma rede de comunicação sem fio.
+Nessa rede, um dispositivo coordenador terá controle total da rede, ou seja, esse solicitará o dado a ser transmitido e qual estação o receberá, criando um sistema de comunicação pergunta/resposta. a rede de dados também incorporará o conceito multi-hop (múltiplos saltos), ou seja, o dado não precisa ser transmitido diretamente, e sim, através de roteadores, o mesmo poderá ser repassado até o destino, aumentando a profundidade da rede. tal sistema auxiliará o uso inteligente de agrotóxicos para redução dos custos de produção, a diminuição da contaminação da natureza pelos defensivos utilizados e, logicamente, o aumento da produção.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Aziz Elias Demian Junior - Integrante / José Alexandre de França - Integrante / Maria Bernadete de Morais França - Coordenador / Marcelo Giovanetti Canteri - Integrante.
+2008 - 2011
+Desenvolvimento De Um Módulo De Baixo Custo Para Fins Residenciais, Que Permite O Controle Do Posicionamento De Painel Fotovoltaico, Visando A Melhoria Significativa No Aproveitamento Da Energia Solar
+Descrição: Trata-se do desenvolvimento de um módulo de baixo custo para fins residenciais, que permite o controle do posicionamento de painel fotovoltaico, visando a melhoria significativa no aproveitamento da energia solar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Aziz Elias Demian Junior - Integrante / Carlos Henrique Goncalves Treviso - Coordenador.
+2006 - 2010
+Monitoramento Automatizado De Vibrações Eólicas Em Linhas De Transmissão
+Descrição: O principal objetivo é consolidar a subárea de recursos informacionais do departamento de ciência da informação, além de possibilitar maior visibilidade à temática em questão; i.é, a contribuição dos repositórios digitais no acesso à informação no processo de organização e compartilhamento da informação e do conhecimento as iniciativas de arquivos abertos como repositórios de informações têm contribuído significativamente para a disseminação das publicações científicas que migraram para os formatos eletrônicos. a área de publicação científica foi uma das mais beneficiadas com a distribuição eletrônica da informação para o usuário final e esse projeto visa analisar a contribuição desses repositórios como recursos informacionais, no processo de organização e compartilhamento da informação e do conhecimento. Espera-se, com os resultados obtidos na pesquisa, contribuir para a qualidade dos formatos desse recurso informacional, que são os repositórios digitais, no contexto das publicações eletrônicas, sem a perda dos seus objetivos e da qualidade do seu papel no processo de transferência da informação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Aziz Elias Demian Junior - Integrante / José Alexandre de França - Coordenador / Maria Bernadete de Morais - Integrante.

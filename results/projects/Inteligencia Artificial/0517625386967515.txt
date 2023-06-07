@@ -1,0 +1,22 @@
+2008 - 2011
+APOGEU-Sistema Inteligente de Apoio à Gestão de Contratação em Unidades de Suprimento da Light
+Descrição: Propõe-se um sistema inteligente de apoio à gestão de contratação de serviços que permitirá: a
+formação de preços padrão; análises mais apuradas de propostas; o aprimoramento da negociação de
+propostas; o acompanhamento mensal dos custos dos contratos; a inferência e o monitoramento de
+indicadores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Jose Eduardo Nunes da Rocha - Coordenador / Marco Aurélio C. Pacheco - Integrante / Karla Teresa Figuereiro - Integrante / Dilza de Mattos Szwarcman - Integrante / Daniel Chevitarese - Integrante / Thiago Vaz de Azevedo Coutinho Dias - Integrante / Rafael Cardoso de Assumpção - Integrante.Financiador(es): Light Serviços de Eletricidade S A - Auxílio
+										financeiro.
+2008 - 2011
+Light - ANEEL - SIGESE - Sistema de Apoio à Decisão à Gestão de Demanda e Consumo de Energia
+Descrição: Este projeto propõe um sistema computacional inteligente, voltado para a gestão da eficiência
+energética, capaz de identificar e priorizar clientes que apresentem oportunidades de redução da demanda e
+consumo, capaz de orientar o consumidor no sentido de conservar e usar racionalmente a energia elétrica. O
+sistema auxiliará na seleção dos clientes a partir da avaliação de indicadores tais como fator de carga, fator
+de potência, curva de consumo e outras informações relevantes, inferidas a partir das bases de dados Light,
+por meio de processo de mineração (data mining). Neste P&D serão desenvolvidos os dois módulos de
+análise para aplicação de eficiência energética: iluminação e refrigeração. O sistema indicará clientes com
+potencial para aplicação de eficiência energética. O sistema proposto poderá fazer o diagnóstico energético e
+identificar o potencial de redução de consumo de energia, apoiando o desenvolvimento de projetos de
+sistemas elétricos eficientes a partir de: digitalização, visualização e simulação da rede elétrica própria,
+medições especiais nos equipamentos elétricos, informações sobre características da iluminação utilizada,
+informação do modo de tarifação em vigor e demais informações relativas ao modo de uso de equipamentos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Jose Eduardo Nunes da Rocha - Coordenador / Marco Aurélio C. Pacheco - Integrante / Karla Teresa Figuereiro - Integrante / Marley Maria Bernardes Rebuzzi Vellasco - Integrante / Ricardo Tanscheit - Integrante.Financiador(es): Light Serviços de Eletricidade S A - Auxílio
+										financeiro.

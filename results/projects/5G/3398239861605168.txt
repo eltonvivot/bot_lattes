@@ -1,0 +1,16 @@
+2016 - Atual
+Modelagem de sistemas de comunicação sem fio - etapa 1
+Descrição: A  modelagem  de  sistemas  é  uma  área  multidisciplinar  que  tem  como  objetivo  o desenvolvimento de conceitos e características importantes na análise do sistema alvo. Em sistemas  de  comunicação  sem fio,  um  aspecto  relevante  é  a  análise,  geração  e  uso  de VAs. Este projeto propõe-se a desenvolver modelos para sistemas de comunicação sem fio utilizando  uma  abordagem  estatística  com  o  intuito  de  avaliar  o  comportamento  destes sistemas  em  termos  de  vazão  (capacidade),  atraso,  desempenho,  entre  outras características.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Elvio João Leonardo - Coordenador / Alexandre Santiago da Silva - Integrante / Leandro Henrique Formigoni Aggio - Integrante / Eduardo Elias Alves Pereira - Integrante.
+2013 - 2016
+Capacidade de Sistemas de Comunicação sem Fio
+Descrição: A análise do desempenho de sistemas de comunicação sem fio em geral envolve o estudo de variáveis aleatórias (VAs), uma vez que elas são empregadas na modelagem, entre outros, do canal de comunicação e dos geradores de tráfego.
+Por exemplo, muitos parâmetros de desempenho para comunicação neste ambiente envolvem os cálculos da razão e produto de variáveis aleatórias.
+Especificamente, a razão entre as potências dos sinais, sendo um deles o desejado e outro o interferente, denominada razão sinal-interferência (SIR, na sigla em inglês), é um parâmetro fundamental na análise do desempenho de sistemas de comunicação sem fio.
+Além disso, a análise do produto de VAs é necessária em sistemas "multi-hop" sem fio, onde o canal aleatório entre origem e destino pode ser modelado como o produto das VAs que descrevem o ganho do canal a cada pulo, assumindo que estes ganhos sejam estatisticamente independentes.
+Consequentemente, a análise de VAs e, em particular, de suas razões e produtos, encontra ampla aplicação no estudo de sistemas de comunicação sem fio.
+Este tópico de investigação foi abordado pelo coordenador deste projeto durante o seu curso de doutorado, recentemente concluído.
+Embora este doutorado tenha produzido um volume importante de publicações, uma parcela significativa dos resultados ainda permanece inédita na literatura.
+A investigação objeto deste projeto procura utilizar resultados obtidos pelo coordenador durante o seu curso de doutorado, estendê-los e desenvolvê-los para publicação em eventos e periódicos científicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Elvio João Leonardo - Coordenador / Heber Rabelo - Integrante / Rafael Augusto Pedriali - Integrante / Henrique Cazuza Bondezan - Integrante / Rafael Citelli Crivelaro - Integrante.
+2006 - 2009
+Controle de Acesso ao Meio em Redes Ad-Hoc sem Fio
+Descrição: Estudo de mecanismos de acesso ao meio em redes ad-hoc sem fio. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0) . Integrantes: Elvio João Leonardo - Coordenador.

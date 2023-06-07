@@ -1,0 +1,48 @@
+2012 - Atual
+Otimização da Produção de Hidrogênio em um Reator de Membrana Utilizando um Algoritmo Heurístico
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Pedro Leite de Santana - Integrante / Antônio Santos Silva - Integrante / Edilson de Jesus Santos - Integrante / Rogério Luz Pagano - Coordenador / José Adair Pacífico dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - Atual
+Núcleo de Pesquisa em Gás-Química e Fertilizantes
+Descrição: Em Sergipe, os setores de fertilizantes e gás-química constituem 
+importantes segmentos para economia do estado. Deste modo, faz necessário 
+maiores investimentos em P&D para a otimização e desenvolvimento de seus 
+processos. No que se refere à indústria de fertilizantes, a amônia é 
+bastante usada em refrigeração, na indústria de papel e celulose, na 
+metalurgia, na fabricação de diversos produtos petroquímicos (fibras 
+sintéticas, resinas plásticas e vernizes), medicamentos, desinfetantes, 
+bactericidas, fertilizantes (na agricultura é empregado com fonte de 
+nitrogênio ao solo), pecuária (aproveitamento de resíduos agrícolas, que com 
+o processo de amonização, ficam mais digestíveis e aumentam o teor de 
+proteínas). A Fábrica de fertilizantes do Nordeste de Sergipe constitui uma 
+das principais indústrias do setor gás química Estado, onde se produz amônia 
+e uréia como principais produtos. A planta amônia-uréia de Sergipe vem 
+buscando novos desafios a exemplo de produção de sulfato de amônia, 
+necessitando para isso de estudos que venham a melhorar a eficiência 
+energética da planta, assim como otimizar o processo para proporcionar maior 
+conversão das reações em produtos. Assim, este projeto tem como objeto de 
+estudo a otimização do processo de reforma catalítica do gás natural para a 
+produção de gás de síntese e posterior obtenção de amônia. No caso FAFEN-SE 
+a reforma do gás natural é realizada em dois reformadores denominados 
+primário e secundário. Nesta produção utiliza-se o processo de reforma 
+auto-termica (ATR - auto-thermal reforming), o qual envolve um processo de 
+reforma de vapor e de oxidação parcial do gás natural (MENDES et al., 2010). 
+As concentrações das espécies CO, H2 e CO2, bem como a conversão máxima de 
+equilíbrio para o monóxido de carbono no produto dependem das condições do 
+processo, sendo necessário, portanto, a otimização de processo para o 
+estabelecimento de condições ótimas das variáveis operacionais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Pedro Leite de Santana - Integrante / Antônio Santos Silva - Integrante / Roberto Rodrigues de Souza - Integrante / Edilson de Jesus Santos - Integrante / Rogério Luz Pagano - Coordenador / Verônica Maria de Araujo Calado - Integrante / Cristina Ferraz Silva - Integrante.Financiador(es): Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Auxílio
+										financeiro.
+2007 - 2010
+Desenvolvimento de um Processo de Abatimento de Sulfeto da Água Produzida na Exploração de Petróleo
+Descrição: O projeto tem como objetivo o desenvolvimento de um processo tecnológico para a remoção de sulfeto de água produzida na exploração de petróleo visando condicioná-la para a reinjeção em poços de petróleo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Pedro Leite de Santana - Integrante / José Jailton Marques - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2001 - 2005
+Otimização de Métodos de Elevação - Bombeio Pneumático BPZ
+Descrição: Projeto interinstitucional envolvendo a UFS, a UNICAMP e a USP, sob a coordenação geral da UNICAMP, englobando três subprojetos independentes. A UFS ficou responsável pelo projeto cujo objetivo consiste na proposição de um modelo matemático com base fenomenológica para a representação de um poço produzindo pelo método de Bombeio Pneumático BPZ e a implementação de um software específico para simular o comportamento de poços produzindo com BPZ.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Pedro Leite de Santana - Coordenador / Antônio Santos Silva - Integrante / Josias Máximo de Jesus - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+1999 - 2002
+Sistema para Elevação Artificial em Poços Localizados em Estruturas Marítimas em Sergipe e Alagoas
+Descrição: O projeto teve por objetivo a proposição de um modelo matemático de base fenomenológica para um poço de completação dupla utilizando gas lift intermitente, e a implementação de um aplicativo computacional específico para simular as principais características de um ciclo de elevação para um poço de completação dupla produzindo com gas lift intermitente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Leite de Santana - Coordenador / Antônio Santos Silva - Integrante / Josias Máximo de Jesus - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

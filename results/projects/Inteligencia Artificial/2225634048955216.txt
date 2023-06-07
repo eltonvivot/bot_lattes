@@ -1,0 +1,6 @@
+2014 - 2015
+SISTEMA COLABORATIVO DE APOIO A APRENDIZAGEM DE ESTRUTURAS DE DADOS
+Descrição: O objetivo deste projeto é desenvolver um Sistema Colaborativo de Apoio a Aprendizagem de Estruturas de Dados. Com a construção do sistema proposto, espera-se, que educadores o utilizem para auxiliar na transmissão do conteúdo em salas de aula e laboratórios e que ajude estudantes na absorção dos conceitos adquiridos. Espera-se que a visualização da manipulação dos espaços da memória do computador facilite a compreensão da lógica envolvida na estrutura de dados utilizada.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Yorah Bosse - Coordenador / David Fernando Ramos - Integrante / Leonardo Souza Silva - Integrante.
+2005 - 2007
+Software de apoio ao aprendizado de estruturas de dados
+Descrição: Desenvolver um software para WEB de apoio ao ensino-aprendizado da lista duplamente encadeada com alocação dinâmica e estática da memória principal do computador.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Yorah Bosse - Coordenador / Edirley Folli Laporti - Integrante.

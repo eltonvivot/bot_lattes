@@ -1,0 +1,37 @@
+2018 - Atual
+CorPorA II: um corpus anotado para a história do português brasileiro
+Descrição: O projeto propõe a criação do Corpus Tycho Brahe-Brasil (CTB-Brasil), constituído de textos
+escritos no Brasil entre o século 16 e o século 20, com ênfase em textos anteriores ao século
+19, pouco estudados de um ponto de vista sintático até agora, e em textos de ?mãos
+cândidas?, menos marcados pela norma linguística, e portanto mais representativos do
+vernacular popular. Trata-se de corpus eletrônico sintaticamente anotado, livremente
+acessível, nos moldes do Penn Parsed Corpora of Historical English, no qual é possível
+realizar buscas sintáticas automáticas em grandes quantidades de dados. Pretende-se assim
+constituir um novo saber sobre a constituição do português brasileiro e estudar a sua dinâmica
+de separação do português europeu desde tempos remotos, comparando a sua evolução com a
+evolução do português europeu, graças aos corpora de mesma natureza que já existem para a
+variante europeia.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Bruno Silvério Costa - Coordenador / Aline Silva Costa - Integrante / Cristiane Namiuti Temponi - Integrante / Jorge Viana Santos - Integrante / Charlotte Marie Chambelland Galves - Integrante / Williane Silva Corôa - Integrante / Zenaide Oliveira Novais Carneiro - Integrante / Mariana Fagundes de Oliveira - Integrante / Ana Sartori Gandra - Integrante / Tânia Conceição Freire Lobo - Integrante / Shirley Cristina Guedes dos Santos - Integrante / Huda da Silva Santiago - Integrante / Eloisa Maine Barbosa Lopes - Integrante / Aline Peixoto Gravina - Integrante.
+2016 - 2018
+CORPORA DIGITAIS DE DOCUMENTOS HISTÓRICOS DA IMPERIA VILA DA VICTÓRIA, ATUAL VITÓRIA DA CONQUISTA-BAHIA: RESGATE E PRESERVAÇÃO DO PATRIMÔNIO LINGUÍSTICO E DA MEMÓRIA DA ESCRAVIDÃO NA BAHIA
+Descrição: O presente projeto de pesquisa objetiva construir um corpus digital anotado de documentos históricos cartoriais
+relacionados à escravidão baiana, oriundos da antiga Imperial Vila da Victória, atual cidade de Vitória da Conquista-
+Bahia, e que, datados dos séculos XVIII e XIX, constituem ao mesmo tempo uma história e memória da escravidão na
+Bahia, e do Português brasileiro dessa época. Visa, portanto, resgatar e preservar a memória da escravidão na Bahia,
+e, com ela, preservar o patrimônio linguístico-histórico materializado em documentos desse tipo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (2)  / Mestrado acadêmico: (4)  / Doutorado: (6) . Integrantes: Bruno Silvério Costa - Integrante / Aline Silva Costa - Integrante / Cristiane Namiuti Temponi - Integrante / Jorge Viana Santos - Coordenador / Adilson Ventura da Silva - Integrante / Ana Paula dos Reis Couto - Integrante / Celina Marília Melo Maurício Roque - Integrante / Charlotte Marie Chamberlland Galves - Integrante / Elisângela Gonçalves da Silva - Integrante / Eloísa Maiane Barbosa Lopes - Integrante / Fernanda Gusmão da Silva - Integrante / Giovane Santos Brito - Integrante / Igor Silvério Costa - Integrante / Israela Geraldo Viana - Integrante / Jessica Nascimento de Jesus Nascimento Andrade Freitas - Integrante / Luiz Fernando Cardeal de Souza - Integrante / Luiz Henrique Lima Veronesi - Integrante / Maria Luiza Pereira da Silva - Integrante / Pablo Picasso Feliciano de Faria - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Outra.
+2015 - Atual
+Do português pré-clássico às variantes modernas: contribuições para o estudo da sintaxe e suas interface
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Bruno Silvério Costa - Integrante / Aline Silva Costa - Integrante / Cristiane Namiuti Temponi - Coordenador / Jorge Viana Santos - Integrante.
+2013 - Atual
+Memória Conquistense: Implementação de um Corpus Digital
+Descrição: O trabalho de construção de corpus realizado pela equipe do Laboratório de
+Pesquisa em Linguística de Corpus (LAPELINC/UESB) nos anos de 2013-2016
+envolveu, do ponto de vista técnico, o desenvolvimento de um método
+específico de captação imagética, utilizando-se da linguagem fotográfica, e a
+captura, através deste método, dos documentos que compuseram o corpus de
+Documentos Oitocentistas de Vitória da Conquista (DOViC). Para a
+transposição material dos trinta documentos do corpus DOViC-Beta em formato
+imagem para o documento em formato de texto manipulável
+(computacionalmente analisável), utilizamos a ferramenta eDictor1, realizando
+etapas de transcrição, revisão e edição desses documentos, previstas no
+método LAPELINC.
+CNPq 485098/2013-0. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Bruno Silvério Costa - Integrante / Aline Silva Costa - Integrante / Cristiane Namiuti Temponi - Coordenador / Jorge Viana Santos - Integrante.

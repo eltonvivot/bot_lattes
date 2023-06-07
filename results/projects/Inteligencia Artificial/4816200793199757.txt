@@ -1,0 +1,33 @@
+2006 - 2008
+SISLOC - Sistema de Autenticação de Locutor em Hardware
+Descrição: Sigla do Projeto: 	SISLOC
+Título do Projeto:	Sistema de Autenticação de Locutor em Hardware Dedicado
+Proponente:	Universidade Estadual do Rio Grande do Sul
+Executor: 	Universidade Estadual do Rio Grande do Sul
+Co-executor:	Universidade Federal do Rio Grande do Sul
+Interveniente: 	Techrobot Sistemas de Informática Ltda
+Coordenador:	Prof. Dr. Adriano Petry (UERGS)
+Objetivo:	O objetivo principal deste projeto é a concepção de sistema em hardware dedicado para utilização de técnicas de reconhecimento automático de pessoas pela voz (RAL - Reconhecimento Automático de Locutor), visando o aumento da segurança no acesso a localidades restritas.
+Duração:  	18 meses. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Marcelo Schneider - Coordenador / Dante Augusto Couto Barone - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2005 - 2007
+P2PSE
+Descrição: Oo projeto P2PSE ? Peer-to-Peer para Software de Entretenimento ? é financiado pela FINEP, com o objetivo de desenvolver uma nova tecnologia de suporte a jogos maciçamente multijogador. Esta tecnologia suportará MMGs de aventura (RPGs), de ação e outros modelos de jogos com necessidade intensiva de atualização.
+A tecnologia também oferecerá uma grande redução dos custos de operação (relativos ao custo de processamento, bem como ao custo de comunicação via Internet) dos servidores dos MMGs suportados. Estas características serão alcançadas na medida em que protocolos ?leves?, que não serão baseados, por exemplo, em simulação replicada (como é o caso do modelo FreeMMG, desenvolvido previamente por integrantes da equipe em 2004 no contexto de um projeto de pesquisa CNPq). Protocolos ?leves? de simulação par-a-par existem, como NEO, o protocolo de MiMaze, além de protocolos clássicos como Time Warp e variantes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Andre Marcelo Schneider - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Não informado.
+2003 - 2004
+Braço Robótico para auxiliar em cirurgias videolaparoscópica
+Descrição: Desenvolvimento de um braço robótico para auxílio a cirurgias videolaparoscópicas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Marcelo Schneider - Integrante / Dante Augusto Couto Barone - Coordenador / Edson Prestes e Silva Jr - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2001 - 2003
+Braço Robótico para cirurgias
+Descrição: Desenvolvimento de sistema para auxílio a cirurgias. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Marcelo Schneider - Integrante / Dante Augusto Couto Barone - Coordenador / Edson Prestes e Silva Jr - Integrante / Anderson Priebe Ferrugem - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+1997 - 1998
+SAPRI
+Descrição: Sistema SAPRI. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Marcelo Schneider - Integrante / Dante Augusto Couto Barone - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1995 - 1996
+Projeto Laboratório de Calibração
+Descrição: Laboratório de Calibração. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Marcelo Schneider - Integrante / Luis Eduardo Schardong Spalding - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

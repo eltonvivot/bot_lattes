@@ -1,0 +1,126 @@
+2022 - Atual
+CIIA-Saúde: Centro de Inovação em Inteligência Artificial para Saúde
+Descrição: Pesquisa e o desenvolvimento de soluções avançadas de inteligência artificial (IA), capazes de auxiliar profissionais de saúde no diagnóstico e tratamento de doenças, e orientar gestores de saúde na programação de ações de prevenção e organização da assistência à saúde. Isso permitirá a otimização dos recursos e melhora da atenção à saúde da população no Brasil. O CIIA-Saúde terá uma intensa atividade internacional, através da colaboração com pesquisadores e instituições de excelência na pesquisa em IA e saúde.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (8)  / Doutorado: (4) . Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr - Integrante / Virgilio A F Almeida - Coordenador.
+2020 - Atual
+Programa de Capacidades Analíticas do Ministério Público de Minas Gerais
+Descrição: O Ministério Público de Minas Gerais (MPMG), por meio do Gabinete de Segurança e Inteligência (GSI), tem parceria firmada com o Departamento de Ciência da Computação da UFMG para a ampliação de seu Programa de Capacidades Analíticas. O Programa tem como premissa o desenvolvimento de ferramentas próprias, com ênfase em software livre, alta capacidade de resposta e adaptabilidade a novas necessidades surgidas ao longo do tempo. Essa é a mais avançada estrutura tecnológica para a análise de grandes volumes de dados complexos, oriundos de bases abertas e restritas existentes no Estado de Minas Gerais. Este projeto visa desenvolver novas funcionalidades e ferramentas de inteligência artificial aplicadas a diversos contextos de processamento massivo de dados, em particular análises e modelagens descritivas, preditivas e prescritivas. O projeto ataca diferentes frentes de pesquisa, como sensoriamento remoto para conferir o andamento de obras públicas do estado de Minas Gerais; identificação de abuso sexual em imagens e vídeos para auxiliar o trabalho de peritos da polícia; análise de fraudes em licitações, dentre muitos outros. O objetivo é impulsionar as ações do MPMG por meio das capacidades analíticas de investigação e inteligências tecnológicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20)  / Mestrado acadêmico: (25)  / Doutorado: (15) . Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr - Coordenador / Dorgival Guedes - Integrante / Virgilio A F Almeida - Integrante / George Luiz Medeiros Teodoro - Integrante.
+2020 - Atual
+PetrobrasIAGeo - Inteligência artificial aplicada à exploração de petróleo na camada pré-sal
+Descrição: O projeto tem caráter multidisciplinar objetivando trazer uma nova cultura à exploração de óleo e gás, através de um estudo de viabilidade de modelos aplicando técnicas de IA em diferentes áreas. Associando geólogos, cientistas da computação, matemáticos, estatísticos, químicos e físicos o projeto objetiva a inserção de modelos computacionais de inteligência artificial desenvolvidos especificamente para o escopo dos problemas propostos, permitindo uma extração profunda de informação, e sua subsequente análise e reavaliação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (8)  / Doutorado: (4) . Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr - Coordenador / Adriano A Veloso - Integrante / George Luiz Medeiros Teodoro - Integrante / Mauricio Marengoni - Integrante.
+2018 - 2019
+ATMOSPHERE: Adaptive, Trustworthy, Manageable, Orchestrated, Secure Privacy-assuring, Hybrid Ecosystem for Resilient Cloud Computing
+Descrição: ATMOSPHERE visa projetar e implementar uma plataforma com base em virtualização, recursos híbridos e infraestruturas federadas da Europa e do Brasil para desenvolver, construir, implantar, medir e evoluir aplicativos confiáveis e habilitados para nuvem. ATMOSPHERE fornece uma solução para avaliar a confiabilidade de aplicativos em nuvem que lidam com dados e apoiar o desenvolvimento de aplicativos em nuvem mais confiáveis. ATMOSFERA é um projeto de Ação de Inovação em Pesquisa Europeu e Brasileiro de 24 meses na área de Cloud Computing, financiado pela Comissão Europeia e RNP e MCTIC, sob a chamada EUB-01-2017. A confiança é construída com base em garantias, experiências anteriores de sucesso, transparência e responsabilidade. No entanto, até o momento, ainda faltam as tecnologias e estruturas necessárias para aumentar a confiança nos aplicativos de nuvem e Big Data. É crucial criar essa confiança para encorajar diferentes setores de negócios a adotar essa tecnologia e, em última análise, melhorar a eficiência e a competitividade dos negócios.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr - Coordenador / Dorgival O Guedes - Integrante / Marcos André Gonçalves - Integrante / Alberto Laender - Integrante / Jussara Marques de Almeida - Integrante.
+2017 - Atual
+INCT-Cyber: Instituto Nacional de CIência e Tecnologia para uma Sociedade Massivamente Conectada
+Descrição: A missão do Instituto Nacional de Ciência e Tecnologia para uma Sociedade Massivamente Conectada: Uma Abordagem Ciberfı́sica e Social (INCT-Cyber) é entender e desenvolver princı́pios cientı́ficos e tecnologias necessárias para as interações futuras entre seres humanos, computadores e o mundo fı́sico. Os princı́pios que norteiam o INCT-MCS são: (1) desenvolver sistemas e tecnologias necessárias para construir sistemas ciberfı́sicos complexos que as pessoas possam usar com grande confiança; (2) acelerar a implantação de sistemas ciberfı́sicos e sociais em uma sociedade massivamente conectada através do desenvolvimento de métodos, ferramentas e componentes de software e hardware baseados em princı́pios transversais, validados por meio protótipos e cenários de teste; (3) transferir os resultados cientı́ficos e tecnológicos alcançados para a indústria.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Integrante / Nivio Ziviani - Integrante / Virgilio A F Almeida - Coordenador / Marcos André Gonçalves - Integrante / Altigran da Silva - Integrante / Edleno S. de Moura - Integrante / Jussara Marques de Almeida - Integrante / Mario Fernando Montenegro Campos - Integrante.
+2016 - 2018
+EUBRA - BIGSEA - Europe Brazil Collaboration of Big Data Scientific Research through Cloud-Centric Applications
+Projeto certificado pelo(a) coordenador(a) Wagner Meira Junior em 27/08/2017.
+Descrição: EUBRA-BigSea aims at providing an abstract framework for the development of distributed Big Data applications. Multiple data models will be supported (e.g. data streams, multidimensional data, etc.) and efficient mechanisms will ensure privacy and security, on top of a QoS-aware layer for the smart and rapid provisioning of resources in a cloud-based environment.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (5)  / Doutorado: (3) . Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr - Coordenador / Adriano A Veloso - Integrante / Dorgival Guedes - Integrante / Adriano Pereira - Integrante / Clodoveu Davis - Integrante / Gisele Lobo Pappa - Integrante / Jussara Marques de Almeida - Integrante / Humberto Torres Marques Neto - Integrante / Loic Cerf - Integrante / Ana Paula C Silva - Integrante / Italo Cunha - Integrante.
+2015 - 2017
+Desenvolvimento de Sistemas para Adaptabilidade à Carga e Condições de Operação em Data-Centers Corporativos
+Descrição: O objetivo do projeto é produzir ferramentas de sistemas de computação que permitam aos servidores computacionais de um data-center genérico se adaptarem à demanda e às condições externas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Renato Antonio Celso Ferreira - Coordenador / Wagner Meira Jr - Integrante / Adriano A Veloso - Integrante / Mario Fernando Montenegro Campos - Integrante / Renato Martins Assunção - Integrante.
+2015 - 2016
+Escalonamento de Tarefas em Ambientes heterogêneos Distribuídos
+Projeto certificado pela empresa LG Electronics do Brasil  em 06/07/2016.
+Descrição: O objetivo do projeto é o desenvolvimento de estratégias e algoritmos para o escalonamento de tarefas em ambientes heterogêneos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Renato Antonio Celso Ferreira - Coordenador / Dorgival O Guedes - Integrante / Guilherme Neri Andrade - Integrante / Wilson de Carvalho - Integrante / Renato Utsch - Integrante / Alberto Albuquerque - Integrante / Pedro Henrique Caldeira - Integrante.
+2015 - Atual
+MASWEB - Modelos, Algoritmos e Sistemas para a Web
+Descrição: O objetivo do projeto é desenvolver modelos, algoritmos e novas tecnologias que permitam aumentar a integração da Web com a sociedade, tornando mais efetiva e mais segura a distribuição de informação, e mais eficazes e eficientes os seus serviços, de forma a proporcionar um vetor de mudanças sociais e econômicas no País. As atividades do projeto compreendem atividades relacionadas à pesquisa, à formação de recursos humanos e à transferência de conhecimento para a sociedade e para o setor empresarial..
+Situação: Em andamento; Natureza: Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (10)  / Doutorado: (6) . Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr - Integrante / Dorgival O Guedes - Integrante / Nivio Ziviani - Coordenador / Virgilio A F Almeida - Integrante / Alberto Laender - Integrante / Jussara Marques de Almeida - Integrante.
+2014 - 2016
+UNIVERSAL/CNPq/2014: Watershed: Um ambiente de processamento de streams distribuído.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Renato Antonio Celso Ferreira - Coordenador / Wagner Meira Jr. - Integrante / Dorgival O Guedes - Integrante.
+2012 - 2014
+UNIVERSAL/CNPq/2012: BASS: Métodos bio-inspirados para aprendizado semi-supervisionado.
+Descrição: O principal objetivo desse projeto é projetar e desenvolver novos métodos bio-inspirados para resolver problemas de aprendizado utilizando uma abordagem de classificação semi-supervisionada, com o foco em algoritmos de programação genética e colônias de formigas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Gisele Lobo Pappa - Coordenador.
+2012 - 2014
+UNIVERSAL/CNPq/2012: ROTI: Robótica teleimersiva
+Descrição: Este projeto tem por objetivo principal investigar o problema da utilização de veículos robóticos semi-autônomos em procedimentos de inspeção e monitorização de ambientes e estruturas de difícil aceso ao ser humano. O sistema local deverá utilizar câmeras de profundidade (RGBD) já existentes no VerLab. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Mario Fernando Montenegro Campos - Coordenador.
+2012 - 2014
+UNIVESAL//CNPq/2012: MINDAI: Mineração de Dados Internet em Tempo Real
+Descrição: Este projeto ter por objetivo desenvolver técnicas de mineracao de dados para suporte ao entendimento e aperfeiçoamento de duas aplicações de alta relevância e impacto no contexto da internet: sistemas de recomendação e análise de sentimentos. Considerando a demanda computacional e o crescente volume de dados a ser minerado, o projeto tambem propoe o aperfeiçoamento de um ambiente de execução que suporte a paralelizazção dessas aplicações buscando escalabilidade e eficiência.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador.
+2011 - 2014
+FIAT 2011: PROPINFO: Modelos e algoritmos para propagação de informação e formação de opinião em redes sociais na web.
+Descrição: Este projeto aborda dois problemas de pesquisa neste cenário, mais especificamente a identificação de padrões de propagação de informação e identificação de formadores de opinião.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador.
+2011 - 2014
+FIAT 2011: OPICAR: Análise espaço-temporal de opiniões acerca de modelos automotivos.
+Descrição: Analisar conteúdo opinativo disponibilizado por consumidores de automóveis e suas relações com as ferramentas interativas proporcionadas pela web, a partir de ferramentas de coleta e de aprendizado de máquina, no intuito de se qualificar a polaridade da opinião dos usuários da internet acerca de características de modelos automotivos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Adriano A Veloso - Coordenador.
+2011 - 2013
+FAPEMIG/UNIVERSAL/2011: EDAI: Escalabilidade e Eficiência em mineraçãõ~de dados de aplicações internet
+Descrição: Este projeto tem por objetivo desenvolver técnicas de mineração de dados para suporte ao entendimento e aperfeiçoamento de duas aplicações no conteto da internet: sistemas de recomendação e análise de sentimentos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador.
+2011 - 2012
+UOL/PESQUISA: Análise de fluxos de sentimento utilizando técnicas de classificação adaptativas.
+Descrição: O objetivo deste projeto é de estudar técnicas para análise de sentimentos em fluxos de dados sujeitos a "Concept Drift".. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Coordenador / Ismael Santana - Integrante.
+2011 - Atual
+FIAT 2011: ACTORS: Agrupameto e caracterização de usuários em redes sociais
+Descrição: O objetivo desse projeto é mapear e qualificar dinâmicas e interações dos consumidores de automóveis e suas relações com as ferramentas interativas proporcionadas pela web, a partir de ferramentas de coleta e mineração de dados online, bem como de aprendizado de máquina, no intuito de aprender a formação de redes de consumo delineadas através de articulações e de reapropriações do espaço online.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Gisele Lobo Pappa - Coordenador.
+2011 - Atual
+Mining and Querying Massive and Complex Health-related Social Graphs
+Descrição: O projeto submetido visa explorar resultados do Observatório da Dengue e invesstigar os seus desdobramentos. Investigação de novos modelos, técnicas e algoritmos que permitam qualificar e quantificar como eventos relacionados a doenças que se manifestam na web e nas redes sociais. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Integrante / Virgilio A F Almeida - Coordenador.
+2010 - 2012
+PDI/CNPq/2010: MATIS - Modelos e algoritmos para tratamento de informações sociais em tempo real.
+Descrição: A busca por uma plataforma computacional que possibilite o processamento escalável de grandes quantidades de dados, a busca por estratégias de coleta e extração de dados que sejam eficazes e eficientes, sem comprometer a privacidade dos indivíduos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador.
+2010 - 2012
+Projeto AROUCA
+Descrição: Plataforma Arouca - Desenvolvimento, implantação e Moddle 2.0 IS. Estudo de arquitetura de informação, requisitos e políticas de seguranca de acesso para implantação da Plataforma Arouca.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Osvaldo Carvalho - Coordenador.
+2010 - 2012
+UNIVERSAL/CNPq/2010: HOPPER: Suporte à execução eficiente de aplicações de fluxo de dados em Hardware Heterogêneo
+Descrição: Nesse projeto propomos desenvolver ferramentas de suporte a execução que facilitem o uso sinergístico desses diversos dispositivos na realização de computações dentro do modelo de fluxo de dados.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Coordenador / Wagner Meira Jr. - Integrante / Dorgival Guedes - Integrante.
+2010 - 2011
+SENERGY Sistemas de Medição
+Descrição: Cooperação Técnica para o Desenvolvimento do Projeto de Pesquisa e Desenvolvimento Tecnológico D217 - Sistema de Proteção da Receita baseado em Redes Neurais Artificiais - Interface com WGOI. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Coordenador / Gisele Lobo Pappa - Integrante.
+2009 - 2011
+INRIA 2009/FAPEMIG: Incorporando modelos de conhecimento a algoritmos de mineração de dados escaláveis
+Descrição: Neste projeto estamos propondo a integraçãõ de representações do conhecimento, mas especificamente, ontologias de domínio, com algoritmos de mineração de textos e de grafos para a resolução de problemas inerentes a esses algoritmos, tais como incerteza, alta dimensionalidade, entre outros, e com o intuito também de melhorar a efetividade desses algoritmos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador.
+2009 - 2011
+UNIVERSAL/CNPq/2009 E2MPC: Escalabilidad e eficiência em Mineração de Padrões Complexos
+Descrição: Esse projeto tem por objetivo produzir algoritmos de mineração de textos e grafos mais eficientes e eficazes, por meio da exploração de conhecimento existente e paralelização.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival Guedes - Integrante.
+2008 - 2010
+E2P2: Escalabilidade e Eficiência no Pareamento Probabilístico de Bases do SUS
+Descrição: EDITAL MCT/CNPq/ANS 25/2007 - Pesquisa, Desenvolvimento Tecnológico e Inovação em Saúde Suplementar:
+Processo: 402716/2007-8. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival O Guedes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Escalabilidade e Eficiência em Sistemas de Computação: Mineração de dados de aplicações Internet
+Descrição: EDITAL UNIVERSAL ? CNPq 15/2007:
+Processo:  484744/2007-0. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival O Guedes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+Instituto Nacional de Ciência e Tecnologia para WEB - INCT-Web
+Descrição: O Instituto Nacional de Ciência e Tecnologia para Web tem por objetivo desenvolver modelos, algoritmos e novas tecnologias que permitam aumentar a integração da Web com a sociedade. Como resultado, nós esperamos tornar mais efetiva e mais segura a distribuição de informação, mais eficazes e eficientes os seus serviços, para que a Web se torne um vetor de mudanças sociais e econômicas no país.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Integrante / Dorgival O Guedes - Integrante / Cristina D Murta - Integrante / Berthier Ribeiro Neto - Integrante / Nivio Ziviani - Integrante / Virgilio A F Almeida - Coordenador / Marcos André Gonçalves - Integrante / Adriano Pereira - Integrante / Arnaldo de Albuquerque - Integrante / Alberto Laender - Integrante / Clodoveu Davis - Integrante / Genaina N Rodrigues - Integrante / Gisele Lobo Pappa - Integrante / Mirela M. Moro - Integrante / Raquel O Prates - Integrante / Altigran da Silva - Integrante / Edleno S. de Moura - Integrante / João M B Calvacanti - Integrante / Carlos A. Heuser - Integrante / José Palazzo de Oliveira - Integrante / Leandro Krug Wives - Integrante / Renata M. Galante - Integrante / Viviane M. Orengo - Integrante / Evandrino G. Barros - Integrante / Fabiano Botelho - Integrante / Maria Aparecida Moura - Integrante / Carla Machado - Integrante / Dimitri Fazito Rezende - Integrante / Eduardo Rios - Integrante / Bruno Wanderley Reis - Integrante / Maria Beatriz A. S. Bretas - Integrante / Regina Helena Silva - Integrante / Jussara Marques de Almeida - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2010
+MINERAÇÃO: Mineração de dados de aplicações internet e sua paralelização.
+Descrição: EDITAL 01/2008 - DEMANDA UNIVERSAL ? FAPEMIG:
+Processo: CEX- APQ -00298-08. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival O Guedes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2007 - 2011
+Núcleo de Informação e Coordenação do Ponto BR - NIC.BR
+Descrição: Contrato de cooperação técnico-científica de mineração de dados denominado Projeto Spammining.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival Guedes - Integrante.
+2007 - 2009
+ASDLE: Autonomia em sistemas distribuídos em larga escala soluções para a auto-organização de sistemas distribuídos em larga escala.
+Descrição: EDITAL UNIVERSAL ? FAPEMIG 01/2006:
+Processo: CEX ? 1488/06. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Integrante / Dorgival O Guedes - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2007 - 2009
+ANTHILL: Ferramentas de suporte para aplicações irregulares em ambientes distribuídos.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Renato Antonio Celso Ferreira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2006 - 2010
+NOVAS MIDIAS: Centro de convergência de Novas Mídias
+Descrição: EDITAL FINEP CT-INFRA PROINFRA ? 01/2005:
+Processo: 01061147/01. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival O Guedes - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2005 - 2008
+TAMANDUÁ: Técnicas avançadas de mineração de dados distribuída e multi-usuário.
+Descrição: CHAMADA PÚBLICA MCT/FINEP/CT-INFO/GRADE 01/2004 ? FINEP e CNPq
+Processo: FINEP: 01040640/03  - CNPq: 50.7214/2004-8. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival O Guedes - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2008
+ANTHILL: Plataforma de Execução de Alto Desempenho em Grids.
+Descrição: EDITAL 01/2005 - DEMANDA UNIVERSAL ? FAPEMIG:
+Processo: CEX-1347/05. Situação: Concluído; Natureza: Pesquisa. Integrantes: Renato Antonio Celso Ferreira - Integrante / Wagner Meira Jr. - Coordenador / Dorgival O Guedes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

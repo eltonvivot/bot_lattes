@@ -1,0 +1,4 @@
+2020 - 2021
+Uso do Aprendizado Profundo para Biometria
+Descrição: Esse projeto tem como objetivo principal estudar, implementar, testar e avaliar o uso do aprendizado profundo de máquina para aplicações de biometria.
+Para isso os objetivos específicos incluem o uso das redes neurais convolucionais (CNNs) de aprendizado profundo para melhorar os resultados em sistemas de identificação de pessoas como,  por exemplo, o reconhecimento de íris e de face. Outro objetivo específico é avaliar o uso da Super-Resolução (melhoramento de imagens) para vídeos e imagens de baixa resolução como, por exemplo, de câmeras de segurança para melhorar os resultados de sistemas já existentes de reconhecimento biométrico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Ferreira Ribeiro - Coordenador.Número de produções C, T & A: 4

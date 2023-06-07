@@ -1,0 +1,46 @@
+2021 - Atual
+SAMSUNG/FEEC/Detecção de Falhas
+Descrição: Este projeto visa a construção de um ambiente computacional de processamento por aprendizado de máquina para detecção de falhas em placas de circuito impresso e em displays. A partir de um sistema de aquisição fornecido pela Samsung será especificada e testada um a plataforma para treinamento e aplicação em tempo real. Esse sistema permitirá analisar diferentes componentes e conectores de placas de circuitos impresso, buscando identificar erros ou inconsistências.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rangel Arthur - Integrante / Julio Cesar Pereira - Integrante / Yuzo Iano - Coordenador / Giulliano Paes Carnielli - Integrante / Gabriel Gomes de Oliveira - Integrante / Luis Augusto Libório Oliveira - Integrante.
+2015 - 2018
+Multivision Thermal Scan - CPFL - Processamento de Imagens
+Descrição: Projeto de pesquisa e desenvolvimento tecnológico que visa a utilização de um arranjo de câmeras térmicas para detecção de sobreaquecimento em elementos de linhas de distribuição de energia. Após a aquisição automática será realizado o processamento das imagens, a caracterização de funcionamento e reconhecimento de padrões dos elementos da rede elétrica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Rangel Arthur - Coordenador / Guilherme Mazoni - Integrante / Julio Cesar Pereira - Integrante / Aline Romanini - Integrante.Financiador(es): Agência Nacional de Energia Elétrica - Auxílio
+										financeiro.
+2015 - 2017
+Fast Car Counting (FCC) - Sistema de contagem de veículos em vias de alto fluxo
+Descrição: Este projeto em parceria com o Instituto Eldorado visa o desenvolvimento de um Sistema de contagem de veículos em vias de alto fluxo usando uma nova plataforma de desenvolvimento i.MX6 Toradex Viola V1. Por meio de uma câmera convencional de baixo custo as imagens serão aquisitadas em altas taxas e os objetos da cena serão segmentados. O objetivo principal é difundir o uso da plataforma permitindo que os alunos envolvidos adquiram conhecimento sobre sistemas operacionais embarcados e processamento de sinais em tempo real.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Doutorado: (1) . Integrantes: Rangel Arthur - Coordenador / Guilherme Mazoni - Integrante / Guilherme Paulino - Integrante / Rodrigo Jun M. Otani - Integrante /   Carla Cristine Alvarenga Ferrarez Castro - Integrante / Joseanne Cristina Ocroch Viana - Integrante.
+2011 - 2014
+SPACES-4D: Sistema Participativo de Gestão e Monitoramento de Cidades e Serviços Públicos  usando rastreamento com câmeras 4D
+Descrição: Este projeto busca a padronização de câmeras especiais de monitoramento, 
+denominadas plenópticas, que possuem microlentes que permitem capturar mais informações 
+do ambiente que as câmeras comuns e podem ter seu foco corrigido pós-captura. A fim de se
+ reduzir custos, é proposta a construção de uma câmera plenóptica usando o chassis de uma 
+câmera de segurança convencional. Para isso, um arranjo ou matriz de microlentes será colocado 
+na frente do sensor de uma câmera convencional, permitindo que o sensor capte mais informações
+ sobre o campo luminoso, sacrificando parte da resolução espacial. A partir disso será possível 
+fornecer informações mais precisas para algoritmos de rastreamento e sistemas de monitoramento,
+ que fazem parte do projeto maior do edital CTIC Cidades Inteligentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Rangel Arthur - Integrante / Diogo Caetano Gara - Integrante / Rogério Seiji Higa - Integrante / Julio León Ruiz - Integrante / Maurício Tanji - Integrante / Yuzo Iano - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2011 - 2014
+SIMTUR: Sistema Inteligente para Monitoramento de Tráfego Urbano
+Descrição: Este projeto propõe criar, modelar e implementar um sistema integrado de soluções, 
+intitulado SIMTUR, direcionado ao rastreamento, comunicação e monitoramento de transporte
+ e tráfego em cidades. SIMTUR pretende prover informações sobre o tráfego, localização e 
+demais condições urbanas (nível de poluição, temperatura, umidade e outras) aos usuários de 
+transporte coletivo e privado, além de informações de itinerários para os passageiros de
+ transportes coletivos. Este é um sub-projeto de um projeto maior de Cidades Inteligentes 
+que contribuirá para a desobstrução de vias urbanas e fomentará o uso de transportes coletivos 
+de mobilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Rangel Arthur - Integrante / Cristiano Akamine - Integrante / Diogo Caetano Gara - Integrante / Vicente Idalberto B. Sablón - Integrante / Yuzo Iano - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2010 - 2012
+Avaliação Objetiva de codificadores de vídeo H.264 usando referência reduzida
+Descrição: Este trabalho visa a avaliação objetiva de sinais de vídeo, nos domínios espacial e temporal, em SDTV, HDTV e para recepção portátil. Particularmente são tratados os sistemas de compressão de vídeo (denominados codecs) segundo o padrão H.264, adotado no SBTVD (Sistemas Brasileiro de TV Digital).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Rangel Arthur - Coordenador / Gabriel Tedgue Beltrão - Integrante / Maurício Tanji - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2008 - 2012
+Desenvolvimentos Tecnológicos para Formatação, Transmissão e Recepção de Sinais de TV  Digital
+Descrição: O presente projeto abrange: ? Desenvolvimento de ferramentas para facilitar 
+a implantação do SBTVD em recepção fixa e móvel; ? Estudo de técnicas para contribuir
+ na implantação de TV digital no país; ? Melhoria de técnicas avançadas de codificações 
+de fonte e de canal com possíveis aplicações em televisão digital; ? Desenvolvimento de 
+ferramentas para produção de vídeo e áudio; ? Desenvolvimento de ferramentas para 
+viabilizar interatividade e educação à distância.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Rangel Arthur - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.

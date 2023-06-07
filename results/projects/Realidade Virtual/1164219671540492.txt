@@ -1,0 +1,83 @@
+2018 - Atual
+Literatura brasileira e meio digital ? bibliotecas, bancos de dados, ferramentas computacionais
+Descrição: Este projeto dá continuidade às atividades que o Núcleo de Pesquisas em Informática,
+Literatura e Linguística (NUPILL ? www.nupill.org) vem desenvolvendo nas diversas
+interfaces entre literatura e meio digital, graças a seus membros, mas graças
+sobretudo à participação de outros grupos, entre os quais destacaria o nuLIME,
+coordenado pela Profa. Tânia Ramos, o LAPESD, pelo Prof. Roberto Willrich, e o
+NUPLID (este da UFPI), coordenado pelo Prof. Saulo Brandão. Vale ressaltar, contudo,
+que, depois de mais de vinte anos de pesquisas (nosso Núcleo foi criado em 1995),
+finalmente estamos começando a desenvolver projetos de leitura crítica baseados em
+estratégias e ferramentas computacionais desenvolvidas por nós nesses anos, a partir
+da extensa base de informações que conseguimos construir: temos hoje cadastradas
+quase 76.000 obras (das quais mais de 2.500 estão digitalizadas) e quase 19.000
+autores. No caso, duas ferramentas ganham destaque: o DLNotes e o Aoidos. A
+primeira permite inserir anotações livres e semânticas em obras literárias (assim como
+em obras de teoria, história e crítica literária, além de linguística); a segunda é capaz
+de fazer a escansão de corpora poéticos, marcando não apenas os tipos de versos
+encontrados, mas também localizando, quantificando e analisando os processos de
+acomodação silábica. Deve-se ressaltar que essas iniciativas buscam envolver pessoas
+de todos os níveis universitários, isto é, da graduação ao pós-doutorado, tanto no
+desenvolvimento quanto na utilização dessas estratégias e dessas ferramentas. Outra
+marca importante de nossos trabalhos é a articulação plural e aberta de todas as
+atividades: fazemos questão de sempre associar pesquisa, docência e extensão; o
+desenvolvimento de produtos e serviços está sempre ligado a reflexões teóricas sobre
+o texto digital, o que inclui também a criação de obras literárias digitais; tudo que
+buscamos desenvolver fica aberto a utilização pública. Uma pesquisa, todavia, pode e
+deve ser destacada, pois dá sentido e continuidade a tudo que vimos fazendo nesse
+período. Ela será, de fato, o eixo principal de nossas atividades de pesquisa para o
+próximo período de bolsa de produtividade, no caso de ela ser aprovada,
+evidentemente: o estudo de técnicas de versificação por parte de poetas brasileiros
+entre 1870 e 1920, utilizando, para isso, o DLNotes e o Aoidos para fazer a marcação
+semântica de elementos de construção do verso. Finalmente, vale dizer que, num
+momento em que a área das Humanidades Digitais se afirma e se torna cada vez mais
+sofisticada, é fundamental desenvolver projetos como este dentro da Literatura, para
+que não percamos o pé de pesquisas e estudos já consolidadas em outras áreas, até
+mesmo na Linguística; é essencial que os estudos literários do século XXI não fiquem a
+reboque de outros campos do conhecimento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Tânia Regina Oliveira Ramos - Integrante / Roberto Willrich - Integrante / Renato Fileto - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - 2018
+Algumas estratégias e ferramentas de ensino de literatura em ambiente de EAD
+Descrição: Este projeto dá continuidade às atividades que o Núcleo de Pesquisas em Informática, Literatura e Linguística (NUPILL ? www.nupill.org) vem desenvolvendo nas diversas interfaces entre literatura e meio digital. Vale ressaltar que buscamos sempre associar reflexões teóricas a desenvolvimento de objetos e processos, nas diferentes instâncias em que trabalhamos, notadamente 1) no desenvolvimento de bibliotecas e bancos de dados digitais de literatura (ambos disponíveis em www.literaturabrasileira.ufsc.br), através de que disponibilizamos não apenas informações, como também ferramentas de apoio à leitura, ao ensino e à aprendizagem de literatura; 2) na utilização de programas de computador para leitura e análise de obras literárias; 3) na criação de obras literárias digitais, em que nossas reflexões teóricas sobre textualidades digitais encontram um campo privilegiado de discussão. É também importante chamar a atenção para as diferentes colaborações que temos com vários grupos de pesquisa, do Brasil e do exterior, e que trabalham com literatura, com meio digital e, sobretudo, com as relações entre literatura e meio digital. Por fim, cabe ressaltar que nossas pesquisas nos levaram a ter projetos aprovados no edital PRONEX do CNPq e da FAPESC (Fundação de Amparo à Pesquisa de Santa Catarina), já por duas vezes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Tânia Regina Oliveira Ramos - Integrante / Roberto Willrich - Integrante / Carlos Maciel - Integrante / Renato Fileto - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2017 - Atual
+Poetas brasileiros entre 1870 e 1920
+Descrição: O projeto com poetas brasileiros entre 1870 e 192 pretende fazer um mapeamento dessa produção que vai do último romantismo às portas do Modernismo da década de 20. Nos manuais de história literária, esse período é marcado por um ecletismo que desafia grandes sistematizações, embora seus autores (dos manuais de historiografia literária) tentem simplificar e agrupar ao máximo possível as obras e os autores. Contudo, diante de um exame menos superficial, diversas questões e muitos problemas surgem. Houve poesia realista no Brasil que tivesse ido além do Condoreirismo, deixando-se influenciar por Positivismo ou Socialismo? O decadismo local se limitou a uma repetição do Simbolismo francês? É mesmo adequado o rótulo de Pré-modernismo, reunindo escritores tão díspares quanto o passadista neo-camoniano José Albano e o regionalista paulistano Ricardo Gonçalves (classificação tão paradoxal quanto o fato de ele ter sido, ao mesmo tempo, membro da elite paulista e simpatizante de causas e de grupos anarquistas)? E o que dizer da poesia regionalista de um Catulo da Paixão Cearense, cantado e elogiado por acadêmicos como Alberto de Oliveira? A ideia dessa parte de nossos projetos é ancorar nossas observações em um elemento de continuidade: a utilização de técnicas de construção do verso tradicional. Elas nos darão certamente um caminho comum ao percorrermos essas obras (ou seja, um número significativo do que foi produzido nesse período), permitindo, a partir desse leito comum, identificar melhor suas diferenças e semelhanças. Assim, nossas atividades seguirão o seguinte roteiro:
+1. Leituras das obras do poetas (cada participante, em princípio, trabalha com um
+nome apenas).
+2. Leitura de teoria do verso (em especial a obra de Rogério Chociay, conforme consta
+na bibliografia abaixo).
+3. Pesquisa de elementos do contexto intelectual do poeta (isto é, de escritos dele e
+sobre ele), com busca de documentos e informações na Hemeroteca Digital, da
+Biblioteca Nacional.
+4. Digitalização das obras, em HTML e, posteriormente, em XML, marcando também os
+enjambements e outros elementos que o Aoidos não marca, como datas, títulos,
+epígrafes etc.
+5. Utilização do Aoidos para marcar os elementos formais de construção dos versos,
+em cada obra, isto é, os processos de acomodação silábica.
+6. Leitura de obras de Franco Moretti, para dialogar com sua teoria da distant reading.
+7. Produção de trabalhos, artigos, ensaios, livros etc.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Roberto Willrich - Integrante / Carlos Maciel - Integrante / Renato Fileto - Integrante / Adiel, Mitmann - Integrante / Roberlei Alves Bertucci - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2017
+Autores, obras e acervos literários catarinenses em meio digital
+Descrição: Este projeto, continuação do anterior financiado pelo PRONEX, está criando um ambiente de leitura e ensino-aprendizagem de literatura, com bancos de dados e bibliotecas digitais, ferramentas de anotações e de adaptabilidade, compatíveis com plataformas como Moodle, em parceria com universidades catarinenses e grupos de pesquisa da Universidade Complutense de Madri. Com isso, teremos um ambiente digital que, por meio de aplicativos/recursos multimediáticos, auxilie o processo de ensino e aprendizagem da literatura na educação básica, no ensino superior e na pós-graduação, além de desenvolver ferramentas de leitura a ser usadas nos cursos de licenciatura, presencial e a distância. Com respeito ao projeto PRONEX anterior, ressalte-se que ultrapassamos os objetivos fixados originalmente.
+FINANCIAMENTO: CNPq/FAPESC, CHAMADA PÚBLICA Nº 04/2010. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (8)  / Doutorado: (6) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Tânia Regina Oliveira Ramos - Integrante / Roberto Willrich - Integrante / Renato Fileto - Integrante / Zahidé Lupinacci Muzart - Integrante / Zilma Gesser Nunes - Integrante / Josias RIcardo Hack - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Auxílio
+										financeiro.
+2012 - 2017
+Personarium
+Descrição: Construção de um dicionário digital de personagens de obras literárias, associado ao Banco de Dados de Historia Literária (www.literaturabrasileira.ufsc.br).
+FINANCIAMENTO: Chamada CNPq /CAPES N º 07/2011. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Deise Joelen Tarouco de Freitas - Integrante / Carlos Maciel - Integrante / Silvio Somer - Integrante.
+2011 - 2017
+O Cosmonauta
+Descrição: Projeto de pesquisa em criação literária digital, para criar um ambiente imersivo e interativo, multimediático, em que se conta a história de um cosmonauta que passa por uma epifania religiosa, quando se encontra sozinho no espaço. Ademais da criação em si, este projeto foi pensado para fornecer elementos de reflexão teórica e crítica acerca das artes digitais em geral.
+FINANCIAMENTO: SECULT - UFSC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (0)  / Doutorado: (2) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Cristiano de Sales - Integrante / Wilton Azevedo - Integrante / Adir Filho - Integrante.Financiador(es): Universidade Federal de Santa Catarina - Bolsa.
+2010 - 2017
+Tratamentos digitais de obras literárias
+Descrição: Este projeto pretende dar sequência às atividades que o Núcleo de Pesquisas em Informática, Literatura e Linguística (NUPILL ? www.nupill.org) vem desenvolvendo nas diversas interfaces entre literatura e informática. Trabalhando com os aspectos teóricos e práticos dessas interfaces, temos buscado produzir conhecimento reflexivo, ao mesmo tempo em que nos esforçamos para produzir processos e ferramentas de utilização aberta, a exemplo do banco de dados de historia literária e da biblioteca digital de literatura brasileira (ambos disponíveis em www.literaturabrasileira.ufsc.br); da ferramenta para anotações para obras digitalizadas; da produção de objetos educacionais para aplicações em atividades de leitura, ensino e aprendizagem de literatura. Além dos variados subprojetos que serão descritos adiante, é importante ressaltar as diferentes colaborações que estabelecemos com vários grupos de pesquisa, do Brasil e do exterior, e que trabalham com literatura, com informática e, sobretudo, com literatura e informática. Também vale ressaltar que, atualmente, nossas pesquisas nos levaram a ter projetos aprovados na CAPES (o PROCAD e o pós-doutorado que realizo atualmente), no CNPq (PRONEX, em associação com a Fundação de Amparo à Pesquisa de Santa Catarina), além dos projetos que estamos submetendo ao CYTED (Programa Iberoamericano de Ciencia y Tecnologia para el Desarrollo) e ao convênio CAPES-DGU, em parceria com grupos de pesquisa da Universidade Complutense de Madri.
+FNANCIAMENTO: Edital MCT/CNPq 14/2009  /  PROGRAMA CAPES/DGU ‐ EDITAL Nº 022/2011 / PROBOLSAS - UFSC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Mestrado acadêmico: (4)  / Doutorado: (4) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Tânia Regina Oliveira Ramos - Integrante / Roberto Willrich - Integrante / Renato Fileto - Integrante.
+2008 - 2015
+Portal Catarina
+Descrição: Integrado ao Banco de Dados de Historia Literária e à Biblioteca Digital de Literatura (ambos em www.literaturabrasileira.ufsc.br), o propósito é digitalizar acervos e obras de escritores catarinenses e, a partir disso, realizar pesquisas referentes à leitura e ao ensino-aprendizagem de literatura.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (2) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Tânia Regina Oliveira Ramos - Integrante / Roberto Willrich - Integrante / Renato Fileto - Integrante / Zahidé Lupinacci Muzart - Integrante.
+1996 - 2010
+Tratamentos digitais de obras literárias
+Descrição: Uma das vantagens da digitalização de conteúdos é a possibilidade de obter diretamente obras raras, valiosas ou de difícil acesso, além de informações que, por outros meios, seriam praticamente inatingíveis. O manuseio dessas obras, por exemplo, pode requerer cuidados especiais que dificultam ou mesmo impossibilitam sua utilização. Digitalizados, os conteúdos delas podem ser utilizados livremente, sem que os documentos originais se degradem. E, ainda, associar a tais conteúdos um banco de dados permite manipulações variadas e torna possível que essas informações sejam incorporadas a exercícios de leitura, de reflexão e mesmo de criação. Na primeira fase deste nosso projeto, desenvolvemos uma arquitetura de banco de dados que nos permitiu colocar ao alcance de qualquer usuário da internete, gratuitamente, uma série de conteúdos, incluindo literatura brasileira, literatura catarinense, obras raras da Biblioteca Universitária da Universidade Federal de Santa Catarina. Mesmo em fases iniciais de disponibilização, já pudemos notar que a implantação dessa infra-estrutura, simplificando o acesso à informação, favorecia a leitura de textos e, em geral, a aprendizagem nos diferentes níveis de ensino (fundamental, básico, secundário e superior), facilitando a difusão do saber, além de viabilizar a capacitação pedagógica de educadores para a leitura de obras e para a utilização de referências em meio digital. Em resumo, pode-se dizer que a Biblioteca Digital construída através da primeira fase do projeto SIDIE (Sistema de Disponibilização de Informações para o Ensino) já está permitindo a utilização de um grande conjunto de documentos de apoio e de recursos em multimeios, em literatura, tanto para ensino e pesquisa, quanto para reflexões variadas acerca da literatura em meio digital.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Doutorado: (3) . Integrantes: Alckmar Luiz dos Santos - Coordenador / Adair de Aguiar Neitzel - Integrante / Deise Joelen Tarouco de Freitas - Integrante / Carlos Henrique Falci - Integrante / Verônica Ribas Cúrcio - Integrante / Cristiano de Sales - Integrante / Jessé Gabriel da Silva - Integrante / Alamir Aquino Corrêa - Integrante / Roberto Willrich - Integrante / Rodrigo de Sales - Integrante / Rodrigo Panchiniak Fernandes - Integrante / Otávio Guimarães Tavares - Integrante / Lucas Fischer Chicon - Integrante / Aline Cassol Daga - Integrante / Ana Lúcia Pessotto dos Santos - Integrante / Lauro Junkes - Integrante / Ana Carolina de Melo Martins - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.Número de produções C, T & A: 136

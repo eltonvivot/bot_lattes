@@ -1,0 +1,68 @@
+2019 - 2020
+Reparo de Analisador de Espectro para a faixa de 9 KHz a 50 GHz
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Fatima Salete Correra - Coordenador / Marcos Aurélio Luqueze - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de SP - Auxílio
+										financeiro.
+2016 - 2017
+Reparo de Analisador de Espectro de Micro-ondas para a Faixa de 3 Hz a 26.5 GHz
+Descrição: Projeto para reparo do Analisador de Espectro de Micro-ondas para a faixa de 3 Hz a 26.5 GHz, do Grupo de Micro-ondas e Optoeletrônica da Escola Politécnica da USP.  Esse equipamento é utilizado por alunos mestrado e doutorado da EPUSP.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fatima Salete Correra - Coordenador / Marcos Aurélio Luqueze - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2014 - 2017
+Projeto de Amplificador-Conversor de Baixo Ruído para a banda Ku
+Descrição: O projeto em questão aplica-se à execução de atividades de pesquisa e desenvolvimento de sistemas, unidades de RF e de micro-ondas, processos tecnológicos e estudos tecnológicos aplicados a Receptores de Sinais de Satélites na banda Ku. Será desenvolvida, juntamente com a contratante, a Brasilsat Harold S.A., uma unidade receptora e conversora de micro-ondas para a faixa de 11,7 GHz à 12,75 GHz, compacta e de baixo custo, a ser integrada ao alimentador da antena. As partes que compõem a unidade serão projetadas separadamente e depois integradas através de tecnologia de circuitos integrados de micro-ondas.
+O desenvolvimento do projeto proposto contribuirá com o desenvolvimento da área de projeto de circuitos de micro-ondas no Brasil, resultando no aumento do conteúdo nacional de produto hoje comercializado pela Brasilsat Harold S.A.. Dessa forma contribuirá para o crescimento da engenharia e da indústria de nosso país.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fatima Salete Correra - Coordenador / José Kleber da Cunha Pinto - Integrante / Marcos Aurélio Luqueze - Integrante / Wesley Becari - Integrante.
+2013 - 2013
+Reparo de Gerador de Sinais de Micro-ondas
+Descrição: Este projeto constou do reparo de um gerador de sinais de micro-ondas operasndo de 250 kHz a 6 GHz, que dá suporte a pesquisas de mestrado e doutorado em circuitos, sistemas e antenas de micro-ondas desenvolvidas na Escola Politécnica da USP.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fatima Salete Correra - Coordenador / Marcos Aurélio Luqueze - Integrante.
+2010 - 2012
+Convênio de Tese em Cotutela USP/ INPG
+Descrição: Convenção de co-tutela para realização de doutoramento de Ariana Maria da Conceição Lacorte Caniato Serrano estabelecido entre a Universidade de São Paulo e o Institut National Polytechinique de Grenoble, França.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Fatima Salete Correra - Coordenador / Ariana Maria da Conceição Lacorte Serrano - Integrante / VUONG, T. P. - Integrante / FERRARI, P. - Integrante.
+2007 - 2010
+Projeto de Circuitos Integrados de Microondas Usando Simulador EM-3D Planar
+Descrição: Projeto de filtros empregando ressoadores patch, antenas planares, estruturas Photonic Bandgap e circuitos SIW operando em frequências de microondas e projeto de antenas planares usando simualdor eletromagnético 3D.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Fatima Salete Correra - Coordenador / Ariana Maria da Conceição Lacorte Serrano - Integrante / Andréia Maldonado Junqueira - Integrante / Carolina Correia Garcia - Integrante / Marcos Vaz Cardoso - Integrante / Murilo Hiroaki Seko - Integrante / GRILO, MARCUS - Integrante / Ricardo Caranicola Caleffo - Integrante / Kassem Mohamad Ali Hussein - Integrante.Número de produções C, T & A: 3
+2005 - 2008
+Desenvolvimento de Web Lab de Microondas para medidas remotas através da Internet, dentro do projeto Kyatera da FAPESP
+Descrição: Desenvolvimento de aplicativo do programa LabView para medida controlada por computador de circuitos de microondas em Analisador Vetorial de Redes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2005 - 2007
+Metodologia de projeto de filtros de microondas planares passa-faixa utilizando ressoadores patch dual-mode.
+Descrição: Desenvolvimento de metodologia de projeto de filtros de microondas planares passa-faixa utilizando ressoadores patch dual-mode, empregando simulação eletromagnética 3D.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Fatima Salete Correra - Coordenador / Ariana Maria da Conceição Lacorte Serrano - Integrante.Número de produções C, T & A: 4
+2005 - 2006
+Simulação de Sistemas de TV Digital usando o programa ADS
+Descrição: Simulação de Sistemas de TV Digital utilizando modelos disponíveis no programa ADS/Agilent, avaliando-se o impacto de multipercurso, efeito Doppler e presença de ruído no desempenho do sistema. Implantação de sistema integrado hardware/software para caracterização de componentes do sistema de TV DIgital.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2003 - 2005
+Oscilador distribuido controlado por tensão-DVCO
+Descrição: Desenvolvimento de técnica de projeto de DVCO - oscilador distribuído de microondas controlado por tensão.
+Projeto, construção e caracterizaão de um DVCO usando transistores tipo PHEMT encapsulados, operando na 
+faixa de 1 a 3 GHZ.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Alexandre Della Santa Barros - Integrante.Financiador(es): Escola Politécnica da Universidade de São Paulo - Outra.Número de produções C, T & A: 2
+2001 - 2004
+Projeto de amplificador monolítico de microondas 5 a 10 GHz
+Descrição: Projeto de amplificador monolítico de microondas de média potência de 2 estágios na faixa de 5 a 10 GHz,  usando tecnologia PHEMT de 0,2 micron da foundry TriQUint Inc.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Eduardo Amato Tolezani - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 2
+2001 - 2004
+Técnica de otimização de leiaute de MMICs
+Descrição: Desenvolvimento de técnica de projeto de leiaute de Circuitos Integrados Monolíticos de Microondas, MMICs, visando mínima degradação de desempenho do circuito projetado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Eduardo Amato Tolezani - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 1
+2001 - 2004
+Sintese exata de amplificadores de banda larga de microondas
+Descrição: Desenvolvimento de metodologia de projeto de amplificadores de micoondas usando síntese direta.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Eduardo Amato Tolezani - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 2
+1994 - 1998
+Projeto de amplificador distribuído monolítico - 1 a 17 GHz
+Descrição: Projeto, construção e caracterização de amplificador distribuído de microondas para a banda de 1 a 17 GHz, usando MESFETs e tecnologia da foundry GEC-Marconi.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Crisitiane Ferreira de Araújo Mello - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 3
+1994 - 1998
+Amplificadores de microondas classes A, AB e B em 2 GHz
+Descrição: Estudo da eficiência de amplificadores de microondas aplicado ao projeto, cosntrução e caracterização de amplificadores de microondas operando em 2 GHz, nas classes A, AB e B.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador.Financiador(es): Escola Politécnica da Universidade de São Paulo - Outra.
+1989 - 1989
+Oscilador com ressoador de ondas acústicas superficiais
+Descrição: Projeto, construção e caracterização de oscilador empregando ressoador de ondas acústicas superficiais (SAW), operando em 418 MHz. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Maurício Pereira da Cunha - Integrante.Financiador(es): Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1987 - 1987
+Quadruplicador de freqüências ativo
+Descrição: Projeto, construção e caracterização de quadruplicador de frequências ativo com sinal de entrada de 1 Ghz e saída em 4 GHz, empregando MESFETs e DUAL-GATE MESFETs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Edmar Camargo - Integrante.Financiador(es): Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações - Auxílio
+										financeiro.Número de produções C, T & A: 3
+1986 - 1987
+Amplificadores de banda larga em microondas
+Descrição: Projeto de amplificadores banda larga de microondas empregando componentes encapsulados. Projeto, construção e caracterização de amplificador operando de 100 MHz a 4,6 GHz, com 17 dB de ganho. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / Edmar Camargo - Integrante.Financiador(es): Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1980 - 1980
+Oscilador de microondas a diodo GUNN
+Descrição: Foram realizados o projeto, construção e caracterização de oscilador de Microondas a diodo GUNN em guia de onda,  operando na banda X. O oscilador foi projetado de modo a atender as especificações de oscilador local de sistemas profissionais de rádio digital.
+Para estabilização térmica de osciladores a Diodo GUNN utilizou-se uma cavidade ressonante mecanicamente compensada especialmente desenvolvida.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fatima Salete Correra - Coordenador / José Kleber da Cunha Pinto - Integrante / Jhonny Nemes Ortiz - Integrante.Financiador(es): Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações - Bolsa.Número de produções C, T & A: 2

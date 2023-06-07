@@ -1,0 +1,39 @@
+2020 - Atual
+Caracterização de materiais pertinentes à tecnologia de fusão nuclear
+Descrição: Desenvolvimento e aplicação de técnicas de feixes iônicos para irradiação de materiais e caracterizações relevantes à tecnologia de fusão nuclear.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Tiago Fiorini da Silva - Coordenador / Nemitala Added - Integrante / Manfredo Harri Tabacniks - Integrante / RODRIGUES, CLEBER LIMA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - Atual
+UMA ESTRUTURA LABORATORIAL PARA ESTUDOS DE NOVOS DESENVOLVIMENTOS EM DETECTORES GASOSOS MICRO-ESTRUTURADOS
+Descrição: Este projeto propõe a formação de uma estrutura laboratorial para testes de
+desempenho de detectores gasosos micro-estruturados utilizando feixes de íons de baixa
+energia. Mesmo sendo voltados à detecção de íons de altas energias, o fato de íons de baixa
+energia depositarem muito mais energia nos detectores gasosos os torna mais adequados para
+ensaios relacionados a supressão de refluxo de íons positivos, a estudos de desgastes, medidas
+de curvas de caracterização e estudos de formação de pulsos.
+A principal estrutura a ser utilizada neste projeto está instalada no Laboratório de
+Análises de Materiais com Feixes Iônicos (LAMFI). Este laboratório possui um acelerador de íons
+capaz de gerar feixes de prótons com energias entre 0,4 e 3,4 MeV, e de alfas com energias entre
+0,5 e 5,4 MeV, em ambos os casos com acurácia melhor que 0.5%. O controle de dose depositada
+é melhor que 1% e é possível se atingir um amplo intervalo de produção de taxa de eventos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Tiago Fiorini da Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2019 - Atual
+Impressão 3D de Detectores Gasosos Micro-estruturados: uma rota para adaptações e otimizações do sensor
+Descrição: Neste projeto, propomos uma rota alternativa à convencional para a produção de detectores do tipo Gaseous Electron Multiplier (GEM), usados na física nuclear e de partículas para detecção de radiação. Atualmente, esses detectores, que são amplamente utilizados no CERN, por exemplo, são produzidos por litografia ótica e uma sequência de ataques químicos. Tal método limita as variações geométricas dos dispositivos e é relativamente lento na produção de modificações em projetos. Propomos a utilização da tecnologia de impressão 3D de multi-materiais para a produção da estrutura do GEM em uma sequência de camadas híbridas orgânico-inorgânica. Essa possível rota de fabricação oferecerá um novo método de fabricação rápido e adaptável. A proposta baseia-se em métodos avançados de impressão 3D, nos quais a Universidade de Nottingham tem um histórico importante, tanto de desenvolvimento de impressoras quanto na formulações adequadas de materiais compatíveis com a técnica. Este projeto de pesquisa tem o potencial de gerar impacto disruptivo em experimentos e instalações de Física de Altas Energias, e de outras áreas com aplicações deste tipo de detector, que possam se beneficiar com novos projetos melhorados dos GEMs.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Tiago Fiorini da Silva - Coordenador / TRINDADE, G.F. - Integrante / Marco Bregant - Integrante / Marcelo Gameiro Munhoz - Integrante / Clive Roberts - Integrante / Richard Hague - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / University of Nottingham - Auxílio
+										financeiro.
+2019 - Atual
+Técnicas de aprendizado de máquina aplicadas à análise de materiais com feixes iônicos
+Descrição: Este projeto destina-se à elaboração de sistemas de computação autômatos para
+análises em grande escala de espectros de raios-x produzidos com a técnica PIXE, e de
+espectros de retroespalhamento produzidos com a técnica RBS. Pretende-se que os códigos
+sejam capazes de produzir avaliações de parâmetros com qualidade metrológica (tais como
+incertezas, limites de quantificação e testes de inferência) para a elaboração de relatórios e
+laudas de análises. Para tanto, o grupo de pesquisa empregará técnicas de aprendizado de
+máquina para a realização de auto-calibração, detecção automática de sinal e atribuição
+elementar utilizando-se de técnicas de reconhecimento de padrão, algoritmos genéticos,
+buscas informada, e algoritmos de clusterização. Adicionalmente, realizar-se-á a quantificação
+elementar, por meio de otimização com múltiplos objetivos e redes neurais em modo de
+regressão. Pretende-se com este projeto, que o grupo de pesquisa desenvolva competências
+computacionais em inteligência artificial aplicado ao processamento de dados físicos em
+massa, viabilizando estudos de larga escala usando os métodos de feixes iônicos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Tiago Fiorini da Silva - Coordenador / TABACNIKS, MANFREDO H. - Integrante / RODRIGUES, CLEBER L. - Integrante.Financiador(es): Pró-Reitoria de Pesquisa da USP - Auxílio
+										financeiro.

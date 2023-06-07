@@ -1,0 +1,14 @@
+2008 - 2009
+Desenvolvimento de Sistemas Inteligentes de Realidade Virtual para Construção de Ambientes Virtuais Adaptativos, Gerenciados pelo VEPersonal
+Descrição: Este projeto descreve um processo de desenvolvimento de ambientes virtuais 
+utilizando técnicas de engenharia de requisitos, a partir da elicitação, especificação e 
+validação de tais ambientes. Essas técnicas serão utilizadas no desenvolvimento de 
+ambientes virtuais tridimensionais voltados para o ensino de física experimental, em 
+que cada ambiente será composto por diversos graus de dificuldade a serem 
+apresentados ao usuário em função da sua capacidade cognitiva. Estes ambientes, 
+denominados neste projeto de Ambientes Virtuais adaptativos, serão gerenciados 
+pelo VEPersonal, uma infra-estrutura que pode ser acessada via Web e que permite 
+adaptar os ambientes virtuais, em tempo real, em função do perfil do usuário. Esta 
+adaptação é realizada a partir de uma sociedade de agentes capazes de identificar 
+as ações do usuário e analisar a sua evolução de aprendizado durante a interação 
+com o ambiente.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Daniel Leite Viana Costa - Integrante / Marcus Salerno de Aquino - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

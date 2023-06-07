@@ -1,0 +1,35 @@
+2022 - Atual
+IMPACTOS SOCIOECONÔMICOS EM TERRITÓRIOS ATINGIDOS POR DESASTRES TECNOLÓGICOS
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eric Fernandes de Mello Araújo - Coordenador / Juciara Nunes de Alcântara - Integrante.
+2021 - 2022
+Algoritmos para a otimização de sistemas de gerenciamento de cadeias produtivas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eric Fernandes de Mello Araújo - Coordenador / Mayron Moreira - Integrante.
+2021 - Atual
+ANÁLISE DO COMPORTAMENTO DO USUÁRIO EM UMA REDE WI-FI EM UM CAMPUS UNIVERSITÁRIO
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Eric Fernandes de Mello Araújo - Integrante / Luiz Henrique Andrade Correia - Coordenador / Thiago Prado Ramos - Integrante.
+2020 - Atual
+ARBORIZAÇÃO URBANA E CRIMINALIDADE
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Eric Fernandes de Mello Araújo - Coordenador / Michele Valquíria dos Reis - Integrante.
+2019 - Atual
+Modelagem computacional e simulação de contágio em redes sociais
+Descrição: Contágio social é qualquer fenômeno envolvendo a troca de comportamentos, percepções e emoções entre indivíduos quando interagindo uns com os outros. Esse fenômeno ocorre de forma inconsciente e promove a formação de consenso de opiniões, a difusão de comportamentos que auxiliem na melhoria da qualidade de vida, entre muitos outros exemplos. Este projeto tem como objetivo simular a difusão de informação proveniente de mídias sociais em vários contextos. Serão verificados os efeitos da topologia da rede, das características individuais dos agentes presentes na rede social simulada, bem como técnicas e possíveis meios de promover uma rede que beneficie informação com alto grau de qualidade em detrimento de fake news, ou informações que não contribuam para o objetivo da rede.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Eric Fernandes de Mello Araújo - Coordenador.Número de produções C, T & A: 2
+2019 - Atual
+Modelagem Baseada em Agentes para Teste de Teoria Criminal
+Descrição: Este projeto tem como finalidade principal o uso de ferramentas da Inteligência Artificial, como o aprendizado de máquina e modelos baseados em agentes, para a construção de simulações computacionais que permitam o estudo e proposição de melhorias no cenário urbano brasileiro. As melhorias propostas neste projeto são de natureza tecnológica e estratégica, visando reduzir a oportunidade para o agente criminoso de agir. Os resultados serão baseados em dados obtidos juntos aos órgãos responsáveis por sua coleta, bem como o uso de dados públicos relacionados ao espaço urbano, aos índices de criminalidade, à disposição de ferramentas de vigilância, de policiamento e do fluxo de pessoas dentro dos vários espaços a serem reproduzidos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Eric Fernandes de Mello Araújo - Coordenador.Número de produções C, T & A: 1
+2013 - 2014
+Webometria e Análise de Valor na Web
+Descrição: O trabalho tem como objetivo definir métricas webométricas para avaliar o valor de um site ou
+de um portal na web. A webometria é uma área que vem crescendo consideravelmente nos últimos
+anos, devido à necessidade de auto avaliação por parte de instituições, organizações e empresas
+privadas. Partindo de uma avaliação webométrica nas universidades federais de Minas Gerais, será
+proposta uma abordagem que avalie o valor gerado pelas informações disponíveis em um portal,
+site ou rede social.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eric Fernandes de Mello Araújo - Coordenador / Danielle Aparecida Alcântara - Integrante.Número de produções C, T & A: 1
+2011 - 2014
+Mineração de Dados em Sistemas Virtuais de Aprendizagem
+Descrição: Este projeto visa a análise de técnicas de Mineração de Dados que deem apoio a tarefas feitas em ambientes virtuais de aprendizagem, como avaliação de perfis de aprendizagem dos alunos, automatização de criação de ambientes virtuais de aprendizagem, e outras aplicações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eric Fernandes de Mello Araújo - Coordenador / Ana Carolina Le Senechal - Integrante.Número de produções C, T & A: 1
+2011 - 2012
+Validação do Modelo Matemático para a Análise do Comportamento do Protocolo TCP em Redes Assimétricas
+Descrição: Esse projeto tem como objetivo validar o modelo matemático proposto por Araújo & Guedes (2009) através de simulações de redes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Eric Fernandes de Mello Araújo - Coordenador / Ana Carolina Le Senechal - Integrante / Paulo Roberto de Almeida - Integrante.Número de produções C, T & A: 1
+2011 - 2012
+Estudo de algoritmos para Mineração de Opinião para detecção das percepções sobre a cidade de Lavras
+Descrição: Os algoritmos de Mineração de Opinião têm ganhado cada vez mais ênfase em pesquisas devido à sua utilidade ao extrair informações da Web. Esse projeto visa estudar e implementar um protótipo para análise de informações transitadas na rede social Twitter sobre a cidade de Lavras, que será o caso de estudo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Eric Fernandes de Mello Araújo - Coordenador / Yasmin Ribeiro Penha - Integrante / Giulia Luan Santos de Sousa - Integrante.Número de produções C, T & A: 1

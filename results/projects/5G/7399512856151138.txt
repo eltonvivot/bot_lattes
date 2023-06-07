@@ -1,0 +1,35 @@
+2018 - 2019
+EDITAL Nº 06/2018 - INOVAÇÃO TECNOLÓGICA - Investigação do uso de SRR com geometria de espiras quadradas abertas em antenas de microfita para aplicação na faixa de 2,4 GHz
+Descrição: Neste projeto propõe-se a investigação do uso de estruturas SRR com geometria de espiras quadradas abertas em antenas de microfita para aplicação na faixa de 2,4 GHz, a mesma utilizada pelos padrões IEEE 802.11b/g/n (Wi-Fi) e IEEE 802.15 (Bluetooth). Basicamente o que se pretende, inicialmente, é obter o domínio no projeto de estruturas SSRR (Split Square Ring Resonator) e CSSRR (Complementary Split Square Ring Resonator) a serem acopladas à antenas de microfitas. Some-se a isso, a verificação de como essas estruturas irão alterar os parâmetros básicos de funcionamento das antenas, tais como:frequência de ressonância, largura de faixa e diagrama de irradiação. Por fim, que tipos de melhorias se pode conseguir no desempenho dos sistemas irradiantes, através dessa nova
+configuração.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jefferson Costa e Silva - Coordenador / Lucas Antonino de Sousa, - Integrante.Financiador(es): Instituto Federal da Paraíba - Auxílio
+										financeiro.
+2018 - 2019
+CARACTERIZAÇÃO NUMÉRICA DE ESTRUTURAS SRR EM ANTENAS DE MICROFITA BIOINSPIRADAS PARA UTILIZAÇÃO EM SISTEMAS DE COMUNICAÇÕES SEM FIO NA FAIXA DE 5,8 GHz
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Jefferson Costa e Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2017 - 2017
+CHAMADA INTERCONECTA IFPB - N º 01/2017- INVESTIGAÇÃO DO USO DE ESTRUTURAS SRR EM ANTENAS DE MICROFITA PARA UTILIZAÇÃO EM SISTEMAS DE COMUNICAÇÕES SEM FIO LTE (4G) NA FAIXA DE 2,5 GHz
+Descrição: Ao final deste projeto pretende-se investigar os efeitos da inserção de estruturas SRR (Single Ring Resonator) no plano de terra de antenas de microfita. Analisar quais parâmetros são afetados e como os mesmos são alterados. Especificamente, pretende-se verificar as alterações na frequência de ressonância, largura de faixa e diagrama de irradiação das antenas de microfita que operem na faixa de frequência de 2,5 GHz, a mesma utilizada pelo sistema de quarta geração de comunicação móvel (4G) - LTE (Long Term Evolution).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jefferson Costa e Silva - Coordenador / MARILIA GABRIELA ALVES RODRIGUES SANTOS - Integrante.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Auxílio
+										financeiro.
+2017 - 2017
+CARACTERIZAÇÃO EXPERIMENTAL DE ESTRUTURAS SRR EM ANTENAS DE MICROFITA PARA UTILIZAÇÃO EM SISTEMAS DE COMUNICAÇÕES SEM FIO LTE (4G) NA FAIXA DE 2,5 GHz
+Descrição: Ao final deste projeto pretende-se caracterizar experimentalmente a inserção de estruturas SRR (Single Ring Resonator) no plano de terra de antenas de microfita. Verificar, através de medições, quais parâmetros são afetados e como os mesmos são alterados. Especificamente, pretende-se verificar as alterações na frequência de ressonância, largura de faixa e diagrama de irradiação das antenas de microfita que operem na faixa de frequência de 2,5 GHz, a mesma utilizada pelo sistema de quarta geração de comunicação móvel (4G) - LTE (Long Term Evolution).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jefferson Costa e Silva - Coordenador / ÁLEF HUAN PEREIRA SOUTO - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2016 - 2017
+Caracterização experimental de filtro planar através do uso de estruturas DGS
+Descrição: Projeto de iniciação científica com o aluno Alerson Vicente da Costa,  que trata da Caracterização experimental de filtro planar através do uso de estruturas DGS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jefferson Costa e Silva - Coordenador / Alerson Vicente da Costa - Integrante.
+2014 - 2016
+DESENVOLVIMENTO DE CHIPLESS UTILIZANDO FSS
+Descrição: Apoiar à formação de recursos humanos especializado na tecnologia de sistemas RFID sem chip, promovendo o incremento da colaboração científica e tecnológica, mais especificamente sistemas RFID sem chip utilizando superfícies seletivas em frequência, FSS, proporcionando o estabelecimento de parcerias que possam ser continuadas após o projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Jefferson Costa e Silva - Coordenador / Alfredo Gomes Neto - Integrante / Adaildo Gomes D'Assunção Junior - Integrante / Custódio José de Oliveira Peixeiro - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2014 - 2014
+ANÁLISE NUMÉRICA E EXPERIMENTAL DO EFEITO DE DIVERSAS CONFIGURAÇÕES DE ?INSET FEED? ANGULAR NA ALIMENTAÇÃO DE ANTENAS PLANARES DO TIPO CIRCULAR
+Descrição: Este trabalho tem como objetivo realizar uma análise numérica e experimental do efeito de diversas configurações de reentrâncias (inset feed), com diferentes angulações, na alimentação de antenas planares dos tipos circular. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jefferson Costa e Silva - Coordenador.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Bolsa.
+2013 - 2014
+CARACTERIZAÇÃO DE MATERIAIS EM ALTAS FREQUÊNCIAS.
+Descrição: Este projeto tem como objetivo fortalecer a pesquisa na área de caracterização de materiais em altas frequências no Programa de Pós-Graduação em Engenharia Elétrica do IFPB.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jefferson Costa e Silva - Coordenador / Alfredo Gomes Neto - Integrante / Silvana Luciene do N. Cunha Costa - Integrante / Suzete Élida N. Correia - Integrante / Adaildo Gomes D'Assunção Junior - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2013 - 2013
+Análise Numérica do Efeito de Diversas Configurações de ?Inset Feed? na Alimentação de Antenas Planares dos Tipos Retangular e Triangular
+Descrição: Objetivo Geral: Avaliar o desempenho das antenas de microfita após variações nas reentrâncias localizadas na linha de alimentação. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Jefferson Costa e Silva - Coordenador / Cintia Jose Mendes - Integrante / Jayne dos Santos Lima - Integrante.
+2012 - 2013
+Análise Experimental do Efeito de Diversas Configurações de ?Inset Feed? na Alimentação de Antenas Planares dos Tipos Retangular e Triangular
+Descrição: Objetivo Geral: Avaliar o desempenho das antenas de microfita após variações nas reentrâncias localizadas na linha de alimentação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jefferson Costa e Silva - Coordenador.

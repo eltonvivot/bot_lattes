@@ -1,0 +1,71 @@
+2020 - Atual
+Computational modeling of pharmacokinetic profiles: bayesian parameter estimation and artificial neural networks
+Descrição: This research project is on the development and implementation of computational models for processes of drug biodistribution, aimed at the pharmacokinetics of magnetic nanoparticles, but also on processes of delayed stomach emptying. Its novel aspects include: 1) development of computational models that will provide a novel quantitative description of experimental pharmacokinetic profiles; 2) development of an in silico technology for virtual experimentation of several set-ups; 3) advances on uncertainty modeling (Bayesian statistics) and on classification problems (Artificial Neural Networks). Although the project has a theoretical-computational character, all the aspects previously described will be performed with a basis on in vivo experimental data by means of an interdisciplinarity approach in computer science, statistics, pharmacology and physics. Besides funding research advances in those areas, the project will also contribute to the initiation and training of new researchers, especially undergraduate and graduate students. (AU). Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Anibal Thiago Bezerra - Integrante / Verônica Andrea González-Lopez - Integrante / RODRIGUES, DIEGO SAMUEL - Coordenador / DE ARRUDA MIRANDA, JOSÉ RICARDO - Integrante.
+2019 - Atual
+Diodos de tunelamento ressonante aplicados à telecomunicação
+Descrição: No presente projeto pretendemos analisar as propriedades física de Diodos de Tunelamento Ressonante aplicados à telecomunicações. Destacamos simulações computacionais de figuras de mérito como curvas de corrente-tensão, além de acoplamento à sistemas óticos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Anibal Thiago Bezerra - Coordenador / Ulisses Rondina Duarte - Integrante / Rafael Vinicius Tayette da Nobrega - Integrante.Número de produções C, T & A: 1
+2018 - Atual
+Estudo de primeiros princípios (DFT) de ligas metálicas
+Descrição: Nesse projeto, ligas metálicas baseadas em ouro serão analisadas por meio da Teoria do Funcional de Densidade (DFT) para obtenção de propriedades como estrutura eletrônica, densidade de estados, absorção ótica e propriedades de transporte.   O objetivo deste trabalho será realizar a otimização estrutural dessas ligas para diferentes concentrações e organizações dos metais, bem como para os materiais puros, para aplicações em dispositivos fotônicos. Para as várias concentrações, serão testadas diferentes organizações dos átomos na estrutura a fim de se obter a otimização estrutural da liga em questão. 
+Após a otimização estrutural, serão obtidas a estrutura de bandas dessas ligas e a densidade de estados, para posterior obtenção das características dielétricas das ligas. Especificamente, serão calculadas as componentes diagonais da parte real e imaginária do tensor dielétrico, em função da frequência de excitação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Anibal Thiago Bezerra - Coordenador / Mariama Rebelo de Souza dias - Integrante.Número de produções C, T & A: 1
+2018 - Atual
+Inteligência artificial aplicada à sistemas físicos
+Descrição: Nesse projeto usaremos as técnicas de inteligência artificial e aprendizado de máquina para analisar as propriedades de sistemas físicos. Iremos utilizar da capacidade de determinar padrões das Redes Neurais Artificiais para estudar e buscar por previsões de propriedades óticas e de transporte de sistemas semicondutores baseados em poços quânticos. Dentre as propriedades que pretendemos analisar está a influência da não parabolicidade na estrutura eletrônica desses sistemas e suas consequências em propriedades como absorção ótica, corrente, fotocorrente, dentre outras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Anibal Thiago Bezerra - Coordenador / Gabriel da Silva Macedo - Integrante.
+2017 - Atual
+Estudo das propriedades óticas e de transporte em células solares de banda intermediária
+Descrição: O avanço das técnicas experimentais no que tange o desenvolvimento de novas estruturas semicondutoras
+tem impulsionado o aperfeiçoamento de dispositivos optoeletrônicos com as mais diversas finalidades,
+dentre as quais destacamos a geração de energia limpa e renovável pelo desenvolvimento e utilização de
+células solares. 
+Especificamente tratando de estruturas semicondutoras de baixa dimensionalidade, estas se
+mostram muito promissoras quando empregadas como dispositivos optoeletrônicos, o que está
+principalmente associado ao confinamento quântico de seus portadores de carga e à interação desses
+portadores com perturbações externas na forma de campos externos, como diferenças de potenciais
+elétricos e a luz solar. Além disso, a flexibilidade em se controlar o perfil de potencial eletrônico gerado pela
+descontinuidade do band gap das diferentes camadas que formam tais estruturas, possibilita a manipulação
+e controle precisos das propriedades óticas e de transporte eletrônico, inclusive uma sintonia fina entre o
+Página 1 de 5
+espectro de excitação e absorção ótica com o espectro de radiação solar. Nessa estruturas, os fótons
+oriundos da luz solar excitam elétrons presentes na banda de valência para a banda de condução do
+dispositivo, os quais podem ser retirados na forma de corrente. Contudo, esse processo se restringe a uma
+pequena faixa de frequências o que reduz significativamente a eficiência na geração de corrente. Para
+aumentar a eficiência de conversão, bandas de estados adicionais intermediárias às bandas de valência e
+condução, tais quais as subbandas geradas pelo confinamento quântico em estruturas de baixa
+dimensionalidade, podem ser utilizadas. Esse processo viabiliza a captura de fótons menos energéticos
+levando à uma utilização mais ampla do espectro solar. Nesse caso, parte dos elétrons são excitados dos
+estados de valência para a banda intermediária e, via um processo de multifótons, são posteriormente
+excitados para os estados de condução e extraído como corrente. Desse modo o aumento na eficiência de
+geração de corrente está diretamente relacionado à eficiência do processo multifotônico em relação aos
+processos de recombinação ótica. Dessa forma, no presente projeto de pesquisa pretendemos realizar
+estudos teóricos em estruturas de baixa dimensionalidade (poços quânticos) aplicadas no desenvolvimento
+de células solares de banda intermediária, visando o entendimento das propriedades básicas de operação
+desses dispositivos, possibilitando o design de estruturas mais eficientes. Para tanto, a dinâmica dos
+sistemas será obtida pela resolução numérica da equação de Schröedinger dependente do tempo, usando o
+método do Split-Operator. Nesse método, o operador de evolução temporal é separado apropriadamente em
+exponenciais de termos não comutativos contendo os operadores de energia cinética e potencial e
+propagados temporalmente com precisão arbitrária. 
+Esperamos com isso, entender em detalhes o
+comportamento do movimento eletrônico nessas estruturas e os processos de excitação ótica dos
+portadores de carga, fornecendo parâmetros para a modelagem de resultados experimentais e, mais ainda,
+possibilitando a sugestão de estruturas e métodos mais eficientes para serem empregados em dispositivos
+optoeletrônicos com tecnologia nacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Anibal Thiago Bezerra - Coordenador / Nelson Studart - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2010 - 2018
+Modelagem de fotodetectores de infravermelho na faixa entre 2 e 20 um para diversas aplicações
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Anibal Thiago Bezerra - Integrante / Nelson Studart Filho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2008 - 2010
+Estudo da dependência do confinamento quântico nas propriedades de spin em heteroestruturas semicondutoras de tunelamento ressonante
+Descrição: Esse projeto tem como objetivo evidenciar o papel do confinamento quânticos nas propriedades de spin em diodos de tunelamento ressonante de dupla barreira, para tanto é verificada a dependência da largura do poço quântico na polarização da luminesência desse tipo de estrutura na presença de campos elétrico e magnético.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Anibal Thiago Bezerra - Coordenador / Yara Galvão Gobato - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2008
+ESTUDO EM HETEROESTRUTURAS SEMICONDUTORAS CONTENDO SEMICONDUTORES MAGNÉTICOS DILUÍDOS
+Descrição: Esse projeto tem como objetivo realizar um estudo sistemático em amostras com boa qualidade ótica contendo GaMnAs onde os efeitos de spin podem ser estudados por fotoluminescência. Para o início deste estudo foram preparadoS poços quânticos de AlAs/GaMnAs com baixa concentração de Mn (<0.2%).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Anibal Thiago Bezerra - Coordenador / Yara Galvão Gobato - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2007
+ESTUDO DE TRÍONS EM HETEROESTRUTURAS SEMICONDUTORAS DE TUNELAMENTO RESSONANTE DO TIPO P-I-N
+Descrição: Neste trabalho estudamos a criação e destruição desses complexos excitônicos em função da voltagem aplicada na estrutura uma vez que, dependendo da voltagem aplicada podemos mudar a concentração relativa de elétrons e buracos no QW. Desta forma, em uma mesma amostra, teremos a formação de diferentes complexos
+excitônicos. Com esse objetivo, utilizamos a técnica de eletroluminescência e transporte para estudar amostras do tipo p-i-n de GaAs/GaAlAs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Anibal Thiago Bezerra - Coordenador / Yara Galvão Gobato - Integrante / Ednilson Carlos dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+2005 - 2006
+ESTUDO DE TRÍONS EM HETEROESTRUTURAS SEMICONDUTORAS DE TUNELAMENTO RESSONANTE DO TIPO P-I-N
+Descrição: Nesse trabalho foi estudada a formação e a destruição de complexos excitônicos em diodos de tunelamento ressonante.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Anibal Thiago Bezerra - Coordenador / Yara Galvão Gobato - Integrante / Ednilson Carlos dos Santos - Integrante.Número de produções C, T & A: 3
+2005 - 2005
+ESTUDO DAS PROPRIEDADES ÓTICAS E DE TRANSPORTE EM HETEROESTRUTURAS SEMICONDUTORAS DE TUNELAMENTO RESSONANTE
+Descrição: Nesse trabalho foi realizado um estudo de propriedades ótica (Luminescência) e de Transporte em diodos semicondutores de tunelamento ressonante de dupla barreira.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Anibal Thiago Bezerra - Coordenador / Yara Galvão Gobato - Integrante / Lara Fernandes dos Santos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

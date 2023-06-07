@@ -1,0 +1,92 @@
+2011 - 2014
+Social CRM: estudo sobre integração de sistemas tradicionais de CRM com redes sociais na Web
+Descrição: Este projeto tem por objetivo estudar a integração de sistemas tradicionais de CRM com novas tecnologias de redes sociais disponíveis na Web, tais como twitter, blogs e comunidades. O resultado do estudo deverá ser um conjunto de melhores práticas sobre o uso destas tecnologias para melhorarem o seu relacionamento com clientes efetivos ou potenciais, maximizando as possibilidades de fidelização de clientes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Coordenador / Fabiana Lorenzi - Integrante / Valesca  Persch Reichelt - Integrante.
+2011 - 2011
+Modelo de Adequação de Processos para Pequenas e Médias Empresas Atuarem no Comércio Eletrônico
+Descrição: O atraente mercado do comércio eletrônico exige das pequenas e médias empresas um conjunto de cuidados, para que realmente venham a obter vantagens comerciais. Segundo Pequenas Empresas & Grandes Negócios, de Junho de 2010, citando pesquisa de Câmara e-net "do total de negócios abertos em 2008, apenas 30% estavam vivos um ano depois". As principais falhas que levaram a falência destas empresas foram consecutivos erros no planejamento, marketing, tecnologia apropriada, meios de pagamento e logística.
+	Para apoiar as empresas neste emergente ramo, este projeto pretende desenvolver um modelo de adequação de pequenas e médias empresas para atuarem no e-Commerce, bem como, o desenvolvimento da tecnologia do Website, adaptável a diferentes empresas.
+OBJETIVO GERAL:
+Desenvolver um modelo que permita adequar os processos de pequenas e médias empresas para ampliarem sua atuação, passando a atuar também no comércio eletrônico.
+OBJETIVOS ESPECÍFICOS:
+?	Desenvolver o modelo de adaptação dos processos físicos de controle de estoque e de vendas em processos virtuais
+?	Desenvolver uma plataforma de comércio eletrônico, adaptável aos diversos segmentos de empresas a serem atendidas
+?	Estudar tecnologias de aperfeiçoamento da plataforma, como aplicação de técnicas de recomendação de produtos e marketing digital (SEM).
+?	Oferecer capacitação para consultores realizarem a implantação do modelo em pequenas e médias empresas
+?	Firmar parcerias com empresas de logística para entrega dos produtos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Stanley Loh - Coordenador / Edécio Iepsen - Integrante / Cibele Christ - Integrante / Guilherme Tomaschewski Netto - Integrante.
+2010 - 2012
+Ferramentas para Avaliação de Qualidade de Informações Textuais na Internet
+Descrição: O projeto tem por objetivo desenvolver técnicas e programas computacionais para análise de textos, que auxiliem na avaliação da qualidade das informações publicadas na Internet.
+Os resultados do projeto incluem:
+- critérios e indicadores para avaliação de qualidade de informações textuais na Internet;
+- ferramentas automatizadas para avaliação de qualidade;
+- análise de discrepâncias e contradições em informações disponíveis na Web.
+As técnicas computacionais irão analisar textos segundo critérios a serem definidos durante o projeto. O objetivo é que tais técnicas sejam genéricas o suficiente para serem aplicadas em diferentes domínios do conhecimento, mas
+sempre através de informações textuais.
+O objetivo principal do projeto é desenvolver técnicas e programas computacionais que auxiliem na avaliação da qualidade das informações publicadas na Internet, segundo um conjunto de critérios que combine indicadores da área de saúde e indicadores tecnológicos.
+As metas são:
+- definir um conjunto de critérios e indicadores de qualidade de informações, que possam ser avaliados
+automaticamente por ferramentas de software;
+- desenvolver módulos de software para gerar ferramentas que avaliem os critérios, indicando a qualidade de
+informações de uma fonte;
+- desenvolver um estudo de caso.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Stanley Loh - Coordenador.
+2010 - 2010
+Protocolo para troca de informações para comércio eletrônico móvel e ubíquo
+Descrição: Este projeto tem por objetivo desenvolver um protocolo de comunicação entre dispositivos computacionais para trocar de informações referentes a demandas e ofertas, com o intuito de apoiar o comércio eletrônico entre pessoas e/ou organizações. O protocolo poderá ser utilizado na Web e também em dispositivos móveis equipados com tecnologia Bluetooth. O protocolo permitirá que usuários possam divulgar suas demandas ou ofertas e outros usuários possam descobrir e comparar tais demandas ou ofertas utilizando dispositivos móveis ou sites na Web. O protocolo compara ofertas contra demandas e vice-versa e, se houver emparelhamento, avisará os respectivos usuários para que a troca ou comércio possa ser efetivado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (1) . Integrantes: Stanley Loh - Coordenador / Luís Fernando Fortes Garcia - Integrante.
+2009 - 2009
+Qualidade de Informações na Internet
+Descrição: O projeto tem por objetivo desenvolver técnicas e programas computacionais para análise de textos, que auxiliem na avaliação da qualidade das informações publicadas na Internet. 
+O estudo de caso será feito sobre informações da área de saúde (descrição de casos clínicos, diagnósticos, doenças e tratamentos, prontuários médicos descritos textualmente, especificações de remédios, etc.). 
+Os resultados do projeto incluem: 
+- critérios e indicadores para avaliação de qualidade de informações de saúde na Internet;
+- projeto de ferramentas automatizadas para avaliação de qualidade de websites da área de Saúde.
+As técnicas computacionais irão analisar textos segundo critérios a serem definidos durante o projeto. O objetivo é que tais técnicas sejam genéricas o suficiente para serem aplicadas em outros domínios além de textos da área de saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (2) . Integrantes: Stanley Loh - Coordenador.
+2008 - 2010
+Tag CloudYAH Uma Hierarquia de Nuvens de Tags para Auxiliar na Busca de Conhecimento
+Descrição: O objetivo deste projeto é desenvolver um sistema de indexação, organização, visualização e busca de
+informações através do uso de uma hierarquia de tag clouds (nuvens de tags), onde as nuvens representam conteúdos
+de uma coleção ou de um documento individual.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Stanley Loh - Coordenador.
+2008 - 2008
+Experimentos de Inteligência Coletiva com Sistemas Multiagente Inteligentes
+Descrição: O termo ?Inteligência Coletiva? tem sido usado em diferentes aplicações, mas sempre tendo em comum a idéia de que ?o todo é mais que a mera soma das partes?, ou seja, várias partes integradas podem realizar um objetivo que nenhuma parte conseguiria em separado (Lévy, 1998). A inteligência coletiva acontece na prática em insetos sociais como formigas e abelhas e outros tipos de animais que andam em bandos. Miller (2007) comenta diversos casos de animais que, seguindo apenas regras simples, conseguem sobreviver em bandos, encontrando comida e fugindo de inimigos, o que não conseguiriam se estivessem sozinhos. A Inteligência Coletiva está fortemente calcada no fundamento de que cada indivíduo só tem parte do conhecimento e a inteligência está distribuída entre os elementos do grupo. Em diferentes domínios e momentos do cotidiano, ocorrem situações com as características citadas anteriormente, onde pessoas realizam tarefas simples para um alcançar um objetivo, sem ou com pouca coordenação central e onde há a necessidade de um equilíbrio: cada pessoa precisa realizar seu objetivo particular e todos devem alcançar seus objetivos sem prejudicar os demais. A premissa deste projeto de pesquisa é que o uso de agentes inteligentes, representando os indivíduos e seus objetivos, poderia resolver ou minimizar alguns problemas práticos. O objetivo do projeto é o estudo da Inteligência Coletiva através da simulação de grupos sociais utilizando agentes inteligentes. Estão sendo realizadas simulações com sistemas multiagente para estudar a inteligência coletiva. As simulações no momento estão focadas num caso onde é preciso evacuar uma sala com pessoas no menor tempo possível.  Os agentes representam pessoas e estão sendo modelados e implementados com diferentes tipos de comportamentos, inteligentes ou não. Por exemplo, serão estudados agentes que procuram a saída aleatoriamente, agentes que ajudam outros após encontrarem a saída, agentes que copiam o comportamento de outros e a comu. Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Coordenador / Fabiana Lorenzi - Integrante / Analucia Schiaffino Morales De Franceschi - Integrante / Luís Fernando Fortes Garcia - Integrante.
+2007 - 2007
+Gerenciamento inteligente de infra-estrutura de TI
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Stanley Loh - Integrante / Fabiana Lorenzi - Integrante / Analucia Schiaffino Morales De Franceschi - Coordenador / Luís Fernando Fortes Garcia - Integrante / Karen Borges - Integrante.
+2006 - 2008
+Projeto Rec Semântica
+Descrição: Projeto para desenvolver tecnologias para criação e manutenção de perfis de usuários para futuras recomendações, usando fundamentos da web semântica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Stanley Loh - Integrante / José Palazzo Moreira de Oliveira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2006 - 2008
+Projeto DigiTex
+Descrição: Projeto para desenvolver tecnologia para recomendação em bibliotecas digitais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Stanley Loh - Integrante / José Palazzo Moreira de Oliveira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional Para Desenvolvimento da Ciencia e Tecnologia - Bolsa.
+2006 - 2007
+SisRec 2
+Descrição: Sistema de recomendação de itens de bibliotecas digitais, que analisa e gera perfis dinâmicos de usuários.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Stanley Loh - Coordenador / Daniel Litchnow - Integrante / Ramiro Saldaña Garin - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional Para Desenvolvimento da Ciencia e Tecnologia - Bolsa / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2006 - 2006
+Estudo de Ontologias para Organizar Conteúdos em Portais Corporativos para Gestão do Conhecimento
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Coordenador.
+2005 - 2005
+Arquitetura de um Sistema de Recomendação Baseado em Descoberta de Conhecimento e Análise do Perfil de Usuários
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Integrante / Fabiana Lorenzi - Coordenador / Adriana Justin Cerveira Kampff - Integrante / Nara Martini Bigolin - Integrante.
+2004 - 2004
+Estudo e Projeto de um Sistema de Recomendação para Turismo
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Integrante / Fabiana Lorenzi - Coordenador.
+2003 - 2005
+SisRecCol - Sistema de Recomendação para Apoio à Colaboração
+Descrição: O SisRecCol é um sistema que analisa as mensagens enviadas num chat web, identifica o assunto sendo discutido e então faz recomendações individuais para os participantes da discussão online. As recomendações podem ser de documentos eletrônicos ou websites (armazenados ou referenciados numa biblioteca digital, particular do sistema), discussões anteriores e autoridades no assunto. Uma ontologia é utlizada para identificar o assunto nas mensagens e nos documentos eletrônicos. Para identificar autoridades no assunto, o sistema utiliza um esquema de pontuação pelo qual os usuários do sistema vão ganhando pontos à medida que o utilizam.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Stanley Loh - Coordenador / Daniel Litchnow - Integrante / Ramiro Saldaña Garin - Integrante.Financiador(es): Conselho Nacional Para Desenvolvimento da Ciencia e Tecnologia - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.
+2003 - 2003
+Análise Automatizada de Dados Quantitativos e Qualitativos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Coordenador / José Luiz Duizith - Integrante.
+2002 - 2002
+Descoberta de Conhecimento em Textos para Inteligência de Negócios
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Coordenador.
+2001 - 2002
+Descoberta de Conhecimento em Textos
+Descrição: O projeto visava o desenvolvimento de técnicas e ferramentas de text mining (descoberta de conhecimento em textos). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Stanley Loh - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2001 - 2001
+Análise da Técnica de Resumos para Descoberta de Conhecimento em Textos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Stanley Loh - Coordenador.

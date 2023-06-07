@@ -1,0 +1,13 @@
+2017 - 2017
+The uses of games that transcend the play and mediate learning
+Descrição: Artigo sobre tipos e uso de jogos, abordando teoria de flow, taxonomia de Klipfer e prática deliberada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (3) . Integrantes: Rafael Oliveira Martins - Integrante / Daniel Ohata - Integrante / Profa. Dra. Pollyana Notargiacomo - Coordenador / Rafael Brancaccio - Integrante / Felipe Cabrini - Integrante / Rafael Marin Machado de Souza - Integrante.
+2016 - 2020
+GERP: MODELO DE AVALIAÇÃO HEURÍSTICA VOLTADO À INTERAÇÃO DE JOGOS MULTIPLATFORMA
+Descrição: Adaptação de controles, mecânica e acessibilidade para testes de jogos do tipo Platformer 2D para diversos tipos de jogadores utilizando game engines e um jogo para 16 plataformas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Rafael Oliveira Martins - Integrante / Profa. Dra. Pollyana Notargiacomo - Coordenador.
+2011 - 2013
+Ambientes Especialistas no apoio a produção e gestão de jogos digitais
+Descrição: A pesquisa propõe um sistema especialista que dá suporte aos alunos e pesquisadores da área de jogos na construção e gestão de jogos digitais multiplataforma. O sistema utiliza:
+- um motor de inferência
+- uma base de dados baseada em literatura e um especialista da indústria
+- interface visual
+- pesquisa contextual. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Rafael Oliveira Martins - Integrante / Profa. Dra. Pollyana Notargiacomo - Coordenador.

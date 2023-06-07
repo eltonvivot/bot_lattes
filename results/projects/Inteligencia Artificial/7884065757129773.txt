@@ -1,0 +1,74 @@
+2013 - Atual
+Brazilian Institute of Neuroscience and Neurotechnology - Brainn
+Projeto certificado pelo(a) coordenador(a) Fernando Cendes em 23/01/2017.
+Descrição: O Instituto de Pesquisa sobre Neurociências e Neurotecnologia (BRAINN) tem como foco a investigação dos mecanismos que levam à epilepsia e ao acidente vascular cerebral (AVC), assim como os danos causados por sua progressão.
+Tal linha de pesquisa tem importantes aplicações na prevenção, no diagnóstico, no tratamento e na reabilitação e servirá como modelo para o melhor entendimento das funções do cérebro, em condições normais e anormais. A principal motivação do Centro é a necessidade de enfrentar esses complexos e relevantes problemas biológicos, combinando as competências de grupos de pesquisa com características distintas e complementares.
+Um dos muitos fatores que explicam a complexidade das pesquisas em epilepsia e AVC é o fato de que tais condições não são univocamente definidas ? isto é, não podem ser associadas a uma única doença ou síndrome. Daí a necessidade de estudos multilaterais e colaborativos, que mobilizem cientistas de diferentes áreas de especialização, orientados por teorias científicas sólidas e comprometidos em oferecer aplicações relevantes.
+A pesquisa atende a três requisitos: relevância clínica, realismo e originalidade científica. Para isso, são combinados genética, neurobiologia, farmacologia, neuroimageamento, informática, robótica, engenharia e física. Os resultados beneficiarão pacientes com epilepsia, AVC e outras doenças prevalentes, contribuindo substancialmente para o avanço das discussões científicas nos campos neurologia, psiquiatria e neurociências cognitivas.
+As colaborações entre o Centro e outros grandes grupos de pesquisa em neurociências promoverão o avanço em áreas do conhecimento altamente relevantes para pessoas que sofrem dessas devastadoras condições neurológicas.
+O campo da neurotecnologia apresenta grande potencial em inovação e transferência tecnológica. Os desafios estão na produção de equipamentos complexos e de softwares voltados para diagnóstico e tratamento. Isso inclui o desenvolvimento e a construção de sistemas de imageamento funcional do cérebro, usando fótons infravermelhos; o desenho e a microfabricação de neurossondas para pesquisa inovadora e uso clínico; o desenvolvimento de softwares otimizados para processamento de imagens médicas; o desenvolvimento de técnicas rápidas de diagnóstico, baseadas em rastreamento genético; o desenho e a construção de interfaces cérebro-computador para tecnologias de assistência; e o desenvolvimento de sistemas de reabilitação.
+Na área de tratamento e reabilitação, o Centro trabalhará com monitoramento remoto de pacientes. Uma perspectiva, por exemplo, é a instalação, em domicílio, de eletroencefalógrafos altamente portáteis, possibilitando aos pacientes evitar longos períodos de espera para internação hospitalar. Nessa área, o Centro também pretende desenvolver equipamentos controlados remotamente (como robôs móveis) que permitam aos médicos interagir com pacientes fora dos hospitais.
+Em paralelo a programas formais de graduação em neurociências, o Centro colocará em prática um plano de difusão do conhecimento e de educação que engloba a criação de websites, programas online de rádio e TV; a criação de redes sociais específicas, blogs e microblogs; a expansão de uma revista já existente; e a publicação de livros para disseminar as neurociências na comunidade.
+Além disso, o Centro criará um curso de educação em neurociências para professores da rede escolar, bem como um programa de educação continuada em jornalismo científico, e promoverá um calendário anual de eventos, com encontros e workshops.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Li Li Min - Integrante / Roberto J M Covolan - Integrante / Fernando Cendes - Coordenador / Lilia de Souza Li - Integrante / Gabriela Castellano - Integrante / Iscia Lopes-Cendes - Integrante.
+2010 - 2012
+Destine ? Desenvolvimento de tecnologias de informação para neurologia
+Descrição: O objetivo central deste projeto é a pesquisa e o desenvolvimento de tecnologias de acessibilidade para pessoas com severas deficiências motoras como as que sofreram AVC (Acidente Vascular Cerebral). Será desenvolvido no nível de protótipo funcional um sistema de software para um veículo robótico assistivo (robô assistivo) capaz de ser controlado por meio de sinais cerebrais gerados por atividade cerebral e/ou pequenos movimentos da face ou membros. Algoritmos de processamento de sinais cerebrais serão propostos com a capacidade de se adaptar às condições cerebrais da pessoa deficiente levantadas por meio de neuroimagens funcionais. Algoritmos de navegação robótica autônoma e semi-autônoma serão propostos para, a partir de comandos extraídos dos sinais cerebrais, conduzir o robô assistivo com segurança tanto em ambientes externos quanto internos. Para aumentar o grau de acessibilidade no transporte e nas áreas de circulação, este projeto irá investigar tecnologias de ambientes inteligentes e computação pervasiva para apoio à navegação de robôs assistivos. Neste ambiente, robôs assistivos, por exemplo, cadeiras de rodas robotizadas, receberão sinais do ambiente que auxiliem a navegação segura, por exemplo, indicando a presença de obstáculos, escadas, rampas íngrimes, etc. Este projeto conta com equipe interdisciplinar composta de especialistas nas diversas áreas focadas pelo projeto.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Li Li Min - Coordenador.
+2007 - 2012
+CInAPCe - Cooperação Interinstitucional de Apoio a Pesquisa sobre o Cérebro
+Descrição: Trata-se de um programa da FAPESP para estudar a dinâmica cerebral normal e patológica, focado nesta fase no uso de tecnicas multimodais de neuroimagem para estudo das epilepsias.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Li Li Min - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2007 - 2010
+Grupos de Interação Social - GIS
+Descrição: Trata-se de um projeto voltado para alternativas de intervenção para doenças crônicas, tendo como modelo a epilepsia.
+O GIS, uma tecnologia soft, visa fortalecer o paciente para tornar-se responsável pela sua saúde.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Li Li Min - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2006 - 2008
+Marcação de células tronco através de nanopartículas superparamagnéticas para detecção em RM de alto campo clínico
+Descrição: Este projeto tem como objetivos: i) desenvolver métodos de marcação de células tronco usando agentes de transfecção acoplados a nanopartículas superparamagnéticas e ii) desenvolver algoritmo combinando técnicas de pré- e pós-processamento de imagens adquiridas com ressonância magnética de alto campo clínico na detecção de células tronco marcadas. Esperamos com isso: i) produzir novos agentes de contraste para marcação celular detectável por aparelhos de RM clínico; ii) introduzir a tecnologia de marcação de CT ainda não disponível no nosso país; iii) formar recursos humanos qualificados e especializados; e iv) publicar os resultados através da sua submissão/divulgação em veículos de informação científica especializada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Li Li Min - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2004 - 2004
+Education and Training of Family Physicians in the management of epilepsy
+Descrição: Avaliar se a rede básica está preparada para atender epilepsia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Li Li Min - Coordenador / Ana Lúcia Noronha - Integrante / Paula Teixeira Fernandes - Integrante.Financiador(es): Organização Mundial da Saúde - Auxílio
+										financeiro.
+2003 - 2008
+Demonstration Project on Epilepsy in Brazil - WHO/ILAE/IBE Global campaign Against Epilepsy
+Descrição: Trata-se de uma pesquisa operacional voltado para eficiencia e eficácia de modelo de assistência à saúde de pacientes com epilepsia na atenção primária. Este projeto é integrante da FASE II da Campanha Global Epilepsia Fora das Sombras da OMS-ILAE-IBE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Li Li Min - Coordenador.Financiador(es): Ministério da Saúde - Cooperação / Organização Mundial da Saúde - Auxílio
+										financeiro / Organização Panamericana de Saúde - Auxílio
+										financeiro / OPA Topografia e Engenharia - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2003 - 2004
+Manejo da Epilepsia na Rede Primária de Saúde Protocolo para um Projeto Demonstrativo no Brasil
+Descrição: Desenvolver um modelo de assistência integral à saúde de pacientes com epilepsia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Li Li Min - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2003 - 2004
+Definição diagnóstica de epilepsia
+Descrição: definir os casos positivos do levantamento epidemiológico. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Li Li Min - Coordenador.Financiador(es): Organização Panamericana de Saúde - Auxílio
+										financeiro / Organização Mundial da Saúde - Auxílio
+										financeiro.
+2003 - 2004
+Capacitação de estudantes de medicina para o atendimento de pacientes com epilepsia na rede básica de saúde.
+Descrição: Avaliar se treinamento de estudantes melhora o conhecimento, atitude e percepção de estudantes de medicina. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Li Li Min - Coordenador.Financiador(es): Fundação de Amparo ao Ensino e Pesquisa - Auxílio
+										financeiro.
+2003 - 2003
+Programação do curso de epilepsia para generalistas de rede básica
+Descrição: Abordagem integral em epeilsia para formação de replicadores do curso de treinamento em epilepsia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Li Li Min - Coordenador.Financiador(es): Organizacao Pan-Americana da Saude - Auxílio
+										financeiro.
+2003 - 2003
+Curso de capacitação no manejo de pacientes com epilepsia na rede básica na Paraíba.
+Descrição: avaliar sistema de saúde básica no atendimento de pacientes com epilepsia na Paraíba. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Li Li Min - Coordenador / Paula Teixeira Fernandes - Integrante / A L A Noronha - Integrante.Financiador(es): Organizacao Pan-Americana da Saude - Auxílio
+										financeiro.
+2003 - Atual
+Avaliação do dano neuronal em pacientes com epilepsia do lobo temporal. Estudo morfométrico baseado em voxel
+Descrição: avaliar o dano neuronal em epilepsia com ressonância magnética. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Li Li Min - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2002 - 2002
+Levantamento epidemiologico de epilepsia
+Descrição: levantamento epidemiológico de epilepsia ativa e inativa bem como definição de lacuna de tratamento de pacientes com epilepsia na comunidade. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Li Li Min - Coordenador.Financiador(es): Organização Mundial da Saúde - Auxílio
+										financeiro / Organização Panamericana de Saúde - Auxílio
+										financeiro.
+2001 - 2003
+Ressonância magnética quantitativa estrutural e metabólica na avaliação de pacientes com epilepsia do lobo temporal
+Descrição: Uso de ressonância magnética no estudo de pacientes com epilepsia. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Li Li Min - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Remuneração.
+2000 - 2004
+Magnitude do dano neuronal e o seu valor prognóstico em pacientes com epilepsia do lobo temporal crônica refratária e recém diagnosticada Um estudo com ressonância magnética quantitativa.
+Descrição: Avaliar o dano neuronal em pacientes com epilepsia através de ressonância magnética quantitativa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Li Li Min - Coordenador.

@@ -1,0 +1,7 @@
+2002 - 2003
+Métodos e Ferramentas para sistemas de Reconhecimento de Fala Contínua
+Descrição: Pretende-se neste projeto implementar várias ferramentas computacionais que facilitem o trabalho de pesquisadores na área de reconhecimento de fala.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Ynoguti - Coordenador / Fabrício Vital Gontijo Cordeiro - Integrante / José Domingos Adriano - Integrante.Financiador(es): Fundação Instituo Nacional de Telecomunicações - Bolsa / Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 1
+2002 - Atual
+Base de Dados de Voz
+Descrição: Este projeto consiste na implementação de um banco de dados de vozes para o português brasileiro para pesquisas em processamento de voz.
+Após a sua conclusão, esta base de dados deve ser disponibilizada em domínio público.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Ynoguti - Coordenador / Fabiana Mendonça Teixeira - Integrante.Financiador(es): Fundação Instituo Nacional de Telecomunicações - Bolsa.Número de produções C, T & A: 3

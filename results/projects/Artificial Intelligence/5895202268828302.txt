@@ -1,0 +1,48 @@
+2021 - 2022
+IA Verde: Em Busca de um Aprendizado de Máquina mais Ecológico
+Descrição: Projeto CLIMAT-AMSUD (código: 21-CLIMAT-07)
+Esse projeto tem o objetivo de entender e minimizar o impacto 
+ecológico da Inteligência Artificial, uma preocupação que só começou a 
+surgir muito recentemente. Alguns trabalhos apontam para a previsão de 
+que até 2030 metade do consumo mundial de energia elétrica será 
+atribuído a instalações de computação. Além disso, estudos recentes 
+mostram que o projeto e o treinamento de modelos de aprendizado de 
+máquina, usando modelos de RNA de última geração, produziram a mesma 
+quantidade de CO2 que seis carros médios durante toda a sua vida útil?, 
+destaca a coordenadora do projeto, que pontua ainda sobre a necessidade 
+de uma visão sustentável do uso da tecnologia. ?Isso levanta muitas 
+preocupações sobre como fazer uma inteligência artificial ecologicamente 
+viável.  No entanto, esta é uma área que ainda precisa ser devidamente 
+explorada, tanto do ponto de vista teórico quanto prático.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Mariza Ferro - Integrante / Nayat Sanchez-Pi - Coordenador.Financiador(es): Centre de Recherche Inria Saclay - Île-de-France - Cooperação.
+2021 - Atual
+Towards a Sustainable Artificial Intelligence
+Descrição: Esse projeto tem o objetivo de entender e minimizar o impacto 
+ecológico da Inteligência Artificial, uma preocupação que só começou a 
+surgir muito recentemente. Alguns trabalhos apontam para a previsão de 
+que até 2030 metade do consumo mundial de energia elétrica será 
+atribuído a instalações de computação. Além disso, estudos recentes 
+mostram que o projeto e o treinamento de modelos de aprendizado de 
+máquina, usando modelos de RNA de última geração, produziram a mesma 
+quantidade de CO2 que seis carros médios durante toda a sua vida útil?, 
+destaca a coordenadora do projeto, que pontua ainda sobre a necessidade 
+de uma visão sustentável do uso da tecnologia. ?Isso levanta muitas 
+preocupações sobre como fazer uma inteligência artificial ecologicamente 
+viável.  No entanto, esta é uma área que ainda precisa ser devidamente 
+explorada, tanto do ponto de vista teórico quanto prático.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Mariza Ferro - Integrante / Schulze, Bruno - Integrante / Felipe Bernardo de Paula - Integrante / Nayat Sanchez-Pi - Coordenador / Romain Rouvoy - Integrante / Felipe Tobar - Integrante / Lionel Seinturier - Integrante / Arthur d?Azemar - Integrante / Guillaume Fieni - Integrante / Mohammed Chakib - Integrante / Alejandro Maass - Integrante / Jocelyn Dunstan - Integrante / Ginés Guerrero - Integrante / Jou Hui - Integrante / Luis Marti - Integrante.
+2018 - 2021
+Avaliação de Desempenho e Consumo de Energia para Computação Científica de Alto Desempenho
+Projeto certificado pelo(a) coordenador(a) Bruno Richard Schulze em 21/03/2019.
+Descrição: O objetivo geral deste projeto de pesquisa é a definição de requisitos de software e hardware necessários para viabilizar a eficiência energética e o alto desempenho na execução das aplicações científicas. Os principais resultados esperados decorrem do estudo do desempenho e consumo de energia de aplicações científicas. Assim, espera-se contribuir para a definição de estratégias que permitam superar dois dos principais desafios para se chegar a exaescala de processamento na computação: a escalabilidade das simulações científicas e o consumo energético. De forma mais pontual, será possível ainda com a definição da melhor relação de desempenho versus consumo de energia para se executar uma determinada classe de aplicação ou um conjunto de classes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Mariza Ferro - Integrante / Bruno schulze - Coordenador / Gabrieli Dutra Silva - Integrante.
+2018 - 2021
+Avaliação de Desempenho e Consumo de Energia para Computação Científica de Alto Desempenho
+Descrição: Edital FAPERJ N.º E_05/2018 Programa Treinamento e Capacitado Tecnica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Mariza Ferro - Integrante / Schulze, Bruno - Coordenador / Felipe Bernardo de Paula - Integrante.Financiador(es): FAPERJ - Bolsa.
+2015 - 2018
+High Performance Computing for Energy (HPC4E)
+Projeto certificado pelo(a) coordenador(a) Bruno Richard Schulze em 23/02/2016.
+Descrição: This project aims to apply the new exascale HPC techniques to energy industry simulations, customizing them if necessary, and going beyond the state-of-the-art in the required HPC exascale simulations for different energy sources that are the present and the future of energy: wind energy production and design, efficient combustion systems for biomass-derived fuels (biogas), and exploration geophysics for hydrocarbon reservoirs.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Mariza Ferro - Integrante / Bruno schulze - Coordenador.
+2009 - 2009
+Estudo de Viabilidade da Aplicação de Programação Lógica Indutiva em Grades Computacionais Usando Definições Semânticas
+Descrição: Grid computing systems are extremely large and complex so, manually dealing with its failures becomes impractical. Recently, it has been proposed that the systems  themselves should manage their own failures or malfunctions. This is referred to as self-healing. To deal with this challenge, requires to predict and control the process through a number of automated learning and proactive actions. In this paper, we proposed inductive logic programming, a relational machine learning method, for prediction and root causal analysis that makes it possible the development of a self-healing component.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Mariza Ferro - Integrante / Bruno schulze - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2007 - 2008
+Aquisição de Conhecimento utilizando o Sistema de Programação Lógica Indutiva Aleph
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Mariza Ferro - Integrante / Maria Carolina Monard - Coordenador / Fabiana Esteves de Paiva - Integrante.

@@ -1,0 +1,22 @@
+2021 - 2022
+SisFireMel ? Estudo dos recursos do Firebase, aplicados em um sistema para auxiliar na Meliponicultura
+Descrição: Esse projeto proporcionou o estudo de algumas ferramentas do Google Firebase, que é um  grupo de soluções e aplicações da Google que ajuda a executar blocos de serviços em nuvem, com elevado desempenho, proteção e rapidez, aplicando esses recursos na implementação de um aplicativo web para auxiliar aos meliponicultores no controle e gerenciamento de colmeias e iscas de captura de novos enxames, facilitando a identificação através de leitura de um código QR.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adilso Nunes de Souza - Coordenador / Bruna Lucia Laindorf - Integrante / Diogo Gabriel Izele - Integrante / Misael Carpes do Nascimento - Integrante / Ricardo Augusto Müller Germani - Integrante.
+2018 - 2019
+Pesquisa e desenvolvimento com PWA: um estudo de caso para o 1º Batalhão Rodoviário da Brigada Militar.
+Descrição: Esse projeto visa o estudo e implementação das técnicas de desenvolvimento de PWAs em uma aplicação web para gestão de procedimentos administrativos junto ao 1º Batalhão Rodoviários da Brigada Militar, com sede na cidade de Passo Fundo, possibilitando a informatização de processos desenvolvidos de forma manual.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adilso Nunes de Souza - Coordenador / Anubis Graciela de Moraes Rossetto - Integrante / Thauany Corrêa Martins - Integrante / Guilherme Gehring - Integrante.Número de produções C, T & A: 2
+2013 - 2014
+Implementação de um framework de integração de dados aplicados à agricultura
+Descrição: Este projeto possibilitou a implementação do aplicativo, após a conclusão do estudo que analisou as tecnologias disponíveis para resolver tal situação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adilso Nunes de Souza - Integrante / Alexandre Tagliari Lazzaretti - Coordenador.
+2012 - 2013
+Uso de tecnologias de dispositivos móveis para o desenvolvimento de sistemas de saúde
+Descrição: Este projeto buscou estudar e aplicar recursos dos dispositivos móveis para auxiliar em eventos relacionados a saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adilso Nunes de Souza - Coordenador / Anubis Graciela de Moraes Rossetto - Integrante.
+2012 - 2013
+Estudo do Framework Jquery Mobile no desenvolvimento de aplicações para dispositivos móveis que auxiliem no processo de ensino e aprendizagem de língua inglesa
+Descrição: O tema proposto para este projeto é o estudo do framework Jquery Mobile e sua a utilização no desenvolvimento de um aplicativo que auxilie os estudantes no processo de aprendizagem da língua inglesa.
+Observa-se por parte dos estudantes a necessidade de aprender e familiarizar-se com a língua inglesa, mas para que o aprendizado tenha sucesso é necessária uma aproximação constante com os termos e o uso da língua inglesa, neste sentido o aplicativo propicia uma forma de aprender a língua inglesa mais dinâmica e atrativa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adilso Nunes de Souza - Coordenador / Roberta Macedo Ciocari - Integrante.
+2012 - 2013
+Estudo de tecnologias para o desenvolvimento de um framework de integração de dados
+Descrição: Este projeto proporcionou o estudo de tecnologias para a utilização na criação de um framework para integrar dados de ocorrências climáticas, oriundas de diferentes bases de dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adilso Nunes de Souza - Coordenador / Alexandre Tagliari Lazzaretti - Integrante.
+2012 - 2012
+Um aplicativo web genérico para integração de bases de dados
+Descrição: Esta pesquisa proporcionou o estudo de diferentes formas de realizar a integração de diferentes bases de dados com informações climáticas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adilso Nunes de Souza - Coordenador / Alexandre Tagliari Lazzaretti - Integrante.

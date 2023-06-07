@@ -1,0 +1,14 @@
+2013 - Atual
+Verification and Validation Methodologies and Tools for Critical Software
+Descrição: Desenvolvimento de métodos e ferramentas para proporcionar maior produtividade e eficácaia no processo de verificação e validação de software desenvolvido para sistemas críticos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ítalo Romani de Oliveira - Coordenador / Augusto Marasca de Conto - Integrante / Meng Li - Integrante.
+2007 - 2011
+iFly - Autonomous Advanced Aircraft
+Descrição: Safety, Complexity and Responsibility based design and validation of highly automated Air Traffic Management. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ítalo Romani de Oliveira - Integrante / Henk A. P. Blom - Coordenador / Petr Cásek - Integrante.Financiador(es): European Comission - Outra.
+2006 - 2009
+MOSAIC
+Descrição: Projeto financiado pelo Department of Trade and Industry do Reino Unido, em conjunto com a Rolls-Royce plc. Tem como objetivo investigar técnicas que ajudem a reduzir o custo de verificação de software de alta integridade sujeito a normas de certificação da aviação civil e da indústria automobilística.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ítalo Romani de Oliveira - Integrante / Tim P. Kelly - Integrante / John McDermid - Coordenador / Ibrahim Habli - Integrante / Zoe Stephenson - Integrante / Katrina Attwood - Integrante.Financiador(es): Department of Trade and Industry - Remuneração / Rolls Royce plc - Remuneração.
+2004 - 2008
+Projeto Giga - FINEP/RNP
+Descrição: O Projeto Giga é promovido pela Rede Nacional de Pesquisa, e tem o intuito de produzir conhecimento através da utilização de uma rede Gigabit interligando as principais universidades do País. 
+A parte que se refere à FUSP é coordenada no Laboratório de Arquitetura e Computação de Alto Desempenho (LAHPC) da Escola Politécnica da USP. Este laboratório desenvolve soluções de alto poder computacional para dar suporte a sistemas de apoio à tomada de decisão em ambientes críticos distribuídos. Um amplo estudo de caso está sendo desenvolvido para o gerenciamento de aeroportos por meio do paradigma multi-agentes, com o apoio do Grupo de Análise de Segurança, também parte da Escola Politécnica da USP, onde o presente pesquisador atua.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Ítalo Romani de Oliveira - Integrante / Eno Siewerdt - Integrante / Líria Matsumoto Sato - Coordenador / Mário Aparecido Correa - Integrante / Fábio Aparecido Gamarra Lubacheski - Integrante / Fábio da Silva Carvalho - Integrante / Leonardo Mayeda - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.Número de produções C, T & A: 6 / Número de orientações: 1

@@ -1,0 +1,18 @@
+2017 - 2019
+A Ética no Currículo Brasileiro de Ciência da Computação
+Descrição: Este projeto tem como proposito investigar essas questões sobre como os novos
+cientistas da computação estão sendo treinados para lidar com questões de ética
+computacionais. A intenção é desenvolver um quadro conceitual baseado no método
+divulgativo de Brey para a cyber ética, que fornece os principais componentes para a tomada
+de decisões cibernéticas e as mais importantes cyber tecnologias do século XXI, a fim de
+apoiar a investigação proposta. Será analisada a diretriz curricular da SBC (Sociedade
+Brasileira de Computação) para os cursos de Ciência da Computação, bem como os 10
+melhores cursos de graduação do país. E um conjunto de sugestões relacionadas as questões
+éticas, que podem ser integradas ao currículos brasileiros de graduação em Ciência da
+Computação, será apresentado.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Carvalho de Sousa - Coordenador / Claudia de O. Melo - Integrante.
+2015 - 2017
+Verificação Formal de Sistemas: Teoria e Prática
+Descrição: Este projeto pretende realizar um levantamento das principais técnicas por trás do tema verificação formal de sistemas, incluindo as ferramentas mais usadas pela indústria. O objetivo final deste trabalho é produzir um livro que seja referência na área.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Thiago Carvalho de Sousa - Coordenador.
+2013 - 2015
+Um Processo de Análise e Projeto Orientado a Objetos com Suporte à Verificação Automática de Inconsistências
+Descrição: Este projeto pretende criar um método baseado em um processo de desenvolvimento difundido e com a incorporação implícita de uma notação formal conhecida de tal forma que o desenvolvedor possa realizar rapidamente verificações de inconsistência sem necessitar do uso de uma linguagem matemática e sem precisar se desligar completamente do processo de desenvolvimento com o qual ele já está acostumado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Thiago Carvalho de Sousa - Coordenador.Financiador(es): Universidade Estadual do Piauí - Bolsa.

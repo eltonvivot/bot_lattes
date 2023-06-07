@@ -1,0 +1,9 @@
+2021 - Atual
+Desenvolvimento de uma plataforma de cadastro de vagas e currículos utilizando técnicas de Aprenziado de Máquina
+Descrição: Desenvolvimento de um aplicativo para cadastro de vagas e currículos na cidade de Guanambi e região. A plataforma utilizará técnicas de Aprendizado de Máquina para descobrir as melhores vagas para cada usuário.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rômulo de Oliveira Nunes - Coordenador / Marcio Samuel Souza Soares - Integrante.
+2014 - 2018
+Seleção dinâmica de atributos em Ensembles
+Descrição: Criação de uma nova abordagem de seleção dinâmica de atributos e integração dessa nova técnica em comitês de classificadores. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rômulo de Oliveira Nunes - Integrante / CANUTO, ANNE. M. P. - Coordenador.
+2012 - 2014
+KONECT: UM FRAMEWORK PARA DESENVOLVIMENTO EM KINECT
+Descrição: Desenvolvimento de um framework para criação de aplicações utilizado o SDK da Microsoft Kinect. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rômulo de Oliveira Nunes - Integrante / Andre Mauricio - Coordenador.

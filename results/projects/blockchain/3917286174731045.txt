@@ -1,0 +1,61 @@
+2014 - 2017
+Métodos e Ferramentas para Desenvolvimento de Sistemas Científicos e de Engenharia
+Descrição: Este projeto visa investigar e propor métodos para desenvolvimento de sistemas computacionais para aplicações de Ciências e Engenharias, bem como desenvolver ferramental integrado que suporte estes métodos. Em especial, visa investigar técnicas baseadas em Engenharia Simultânea (ES), Test Driven Development (TDD) e Behavior Driven Development (BDD), de maneira a criar sistemas computacionais de alta confiabilidade no âmbito das Engenharias,em específico e dos Sistemas Embarcados de maneira geral. Desta feita, cobrindo o espectro que vai da aquisição de dados à sua análise e tratamento, busca-se desenvolver métodos de testes que aumentem a confiabilidade de sistemas embarcados (aquisição) e daqueles baseados em modelagem matemática (numérica, estatística e combinatorial ? análise e tratamento).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1)  / Mestrado profissional: (2) . Integrantes: Rogerio Atem de Carvalho - Coordenador.Financiador(es): Secretaria de Educação Profissional e Tecnológica - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 15
+2013 - 2014
+Mission Planning Station
+Descrição: Desenvolvimento de Estação de Planejamento e Simulador para Aeronaves Remotamente Pilotadas (ARP), inclusive o QD4, quadricóptero desenvolvido no IFF. Inclui desenvolvimento de MFD virtual, mapa digital e método e mecanismo de simulação e avaliação. Base para desenvolvimento de MIssão de Controle de Estação de Rastreamento de Satélites.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rogerio Atem de Carvalho - Coordenador / Cedric Salotto Cordeiro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2012 - 2012
+Enterprise Sustainability
+Descrição: This Fullbright sponsored project involves three partner institutions, the host institution Instituto Federal Fluminense (IFF) and its partners, the Universidade de Sao Paulo (USP), and the
+Universidade Estadual Paulista (Unesp). The project aims at investigating the concept of Enterprise Sustainability under a broad spectrum, from the heavy industry and its impacts on local economies to how open source Enterprise Systems can survive in a highly competitive market niche.
+Therefore, this project will have two branches:
+(I) Sustainability and Hard Industries
+(II) Sustainability and Soft Industries.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rogerio Atem de Carvalho - Coordenador / Renato de Campos - Integrante / Young B. Moon - Integrante.Financiador(es): Commission Fullbright - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2010 - 2014
+Enterprise Information Systems Development
+Descrição: Projeto destinado a desenvolver novos conceitos para o desenvolvimento e emprego de EIS. 
+Em 2012 suporte do programa Fullbright, através de participação de Senior Specialist.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (1) . Integrantes: Rogerio Atem de Carvalho - Coordenador / Young Bay Moon - Integrante.Financiador(es): Commission Fullbright - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 17
+2010 - 2012
+Qualidade Ágil
+Descrição: Projeto de desenvolvimento de ferramental de apoio ao Produto e ao Processo Ágeis. Investigação de Lean Development. Financiado pela Setec/MEC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (1) . Integrantes: Rogerio Atem de Carvalho - Coordenador / Rodrigo Soares Manhães - Integrante / Fernando Luiz de Carvalho e Silva - Integrante.Financiador(es): Secretaria de Educação Profissional e Tecnológica - Bolsa.Número de produções C, T & A: 12
+2003 - 2007
+PostGeoOlap
+Descrição: Visa o constante desenvolvimento da ferramenta PostGeoOlap, que permite a criação de bancos de dados que integram funções analíticas e geográficas desde a fase de modelagem.Esta ferramenta faz parte do núcleo do banco de dados livre PostGreSQL (PG Foundry): http://postgeoolap.sourceforge.net. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado profissional: (2) . Integrantes: Rogerio Atem de Carvalho - Integrante / Astério Kiyoshi Tanaka - Integrante / Rodrigo Soares Manhães - Integrante / Sahudy Montenegro González - Coordenador.Financiador(es): Universidade Cândido Mendes - Campos - Cooperação / Universidade Federal do Estado do Rio de Janeiro - Cooperação.Número de produções C, T & A: 9
+2002 - 2012
+Tratamento da Informação Não Estruturada
+Descrição: Projeto de pesquisa e desenvolvimento voltado para a investigação teórica e proposição de soluções para o Tratamento de Informações não Estruturadas, Gestão do Conhecimento, Enterprise Content Management (ECM) e Arquiteturas Orientadas a Serviços (SOA). Baseado em Software Livre. Financiado pela Setec/MEC de março de 2007 a dezembro de 2012.
+Propostas aprovadas em editais de pesquisa:
+-Edital de Bolsas Fenorte 2002.
+-Métodos e Tecnologias de Gestão do Conhecimento Aplicadas, CEFET Campos, 2003.
+-Parteintegrante da RENAPI/Setec/MEC (2007-2012).
+-Apoiado pelo CNPq e Ministério das Cidades nos anos de 2006 e 2007, dentro do projeto de Elaboração de Planos Diretores dos Municípios.
+Resultados são empregados por:
+-Setec/MEC nos projetos da Biblioteca Digital da EPCT (2007-2012) e do Centro de Documentação Digital da EPCT (2007-2009).
+-Biblioteca Digital do Projeto GESAC de inclusão digital do Ministério das Comunicações (FUST) (2010-2011).
+-Como ferramental colaborativo nos projetos de Elaboração de Planos Diretores de diversos municípios da região Norte Fluminense (2007).
+-Prefeitura Municipal de Campos, como base para o Projeto Aldeia Global de Inclusão Digital  (2006-2007).
+-Portal CEFET Campos/IFF (2002-2012).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (30)  / Especialização: (4)  / Mestrado acadêmico: (0)  / Mestrado profissional: (1)  / Doutorado: (0) . Integrantes: Rogerio Atem de Carvalho - Coordenador / Willian da Silva Vianna - Integrante / Rodrigo Soares Manhães - Integrante / Ronaldo Amaral dos Santos - Integrante / Tiago Samahá Cordeiro - Integrante / Fábio Duncan de Souza - Integrante / Fernando Luiz de Carvalho e Silva - Integrante.Financiador(es): Fundação Estadual Norte Fluminense - Bolsa / Instituto Macaense de Tecnologia - Bolsa / Organização das Nações Unidas para a Educação, Ciência e Cultura - Cooperação / Prefeitura Municipal de Campos dos Goytacazes - Bolsa / Secretaria de Educação Profissional e Tecnológica - Auxílio
+										financeiro / Secretaria de Educação Profissional e Tecnológica - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 69
+2002 - 2012
+ERP5
+Descrição: Desenvolvimento do Sistema ERP5: http://www.erp5.com
+Em colaboração com empresa domicialiada no exterior, CNPJ 13571011000173.
+-Auxílio financeiro na forma de apoio a participação em eventos e estágios de alunos pela Nexedi SA (França).
+Propostas aprovadas em editais de fomento:
+-Análise Multicritério Aplicada, Edital de Bolsas FENORTE E-15.020.703/03: 2002 e 2003
+-Desenvolvimento de Sistema ERP Avançado e de Código Aberto para Pequenas e Médias Empresas, CNPq CTInfo 2003/1 - Software Livre (processo 401121/03-8): 2004
+-Desenvolvimento de Componentes de Suporte à Decisão para ERP Aberto, Editais de Bolsas FENORTE: 2004, 2005, 2006 e 2007.
+-Desenvolvimento de Sistema ERP Avançado e de Código Aberto para Pequenas e Médias Empresas, PIBIC CEFET Campos: 2004 e 2005.
+-Desenvolvimento de Componentes de Base para o ERP5,PIBIC CEFET Campos: 2006.
+-Desenvolvimento de Componentes de Base para o ERP5,PIBITI CEFET Campos/IFF: 2007 e 2008, 2009 e 2010.
+-Gerenciamento de Projetos Baseado em Pensamento Enxuto para o Sistema ERP5, PIBITI IFF: 2010.
+-Estudo de Arquiteturas, Metodologias e Modelos de Referência para Sistemas de Empresas: Aplicações em um ERP Livre, 2006, Edital CNPq Universal.
+-Desenvolvimento de Metodologia e Módulos de Suporte para Customização de ERP de Código Aberto, 2008, Edital CNPq Universal.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Especialização: (1)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0) . Integrantes: Rogerio Atem de Carvalho - Coordenador / Renato de Campos - Integrante / Jean-Paul Smets-Solanes - Integrante / Rafael Manhães Monnerat - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Nexedi - Cooperação / Nexedi - Auxílio
+										financeiro / Universidade Cândido Mendes - Campos - Cooperação / Universidade Estadual do Norte Fluminense Darcy Ribeiro - Cooperação / Universidade Estadual Paulista - Campus Baurú - Cooperação / Fundação Estadual do Norte Fluminense - Bolsa.Número de produções C, T & A: 110
+1999 - 2000
+Sistemas de Suporte à Decisao
+Descrição: Projeto de pequeno porte que visa a investigaçao do emprego de Logica Nebulosa em problemas de classificaçao e desenvolvimento de um sistema de suporte a decisao para classificaçao discente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rogerio Atem de Carvalho - Coordenador.Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia Fluminense - Auxílio
+										financeiro.Número de produções C, T & A: 3

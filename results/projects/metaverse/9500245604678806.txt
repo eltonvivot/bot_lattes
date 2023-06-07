@@ -1,0 +1,32 @@
+2017 - Atual
+Reconstrução Tridimensional por Aprendizado de Máquina
+Descrição: O tema geral do projeto envolve a pesquisa e aplicação de técnicas de aprendizado de máquina, em particular redes neurais profundas, à tarefas de modelagem geométrica e reconstrução de objetos e cenas tridimensionais a partir de dados de sensoriamento remoto. As questões mais relevantes a serem abordadas incluem: tipos de dados 3D (imagens RGB-D, nuvens de pontos, fotografias aéreas, etc.); escala das cenas (exteriores, interiores, e objetos individuais); fontes de dados e metadados (classificação e rótulos).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador / Paulo Rosa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.
+2015 - Atual
+Realidade Virtual
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.
+2010 - Atual
+Realidade Aumentada Movel
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.
+2003 - 2010
+Video Digital de Quarta Geração
+Descrição: .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2003 - 2008
+Muãn
+Descrição: .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.Financiador(es): Ibm Brasil - Auxílio
+										financeiro.
+2003 - 2005
+Digital Video Databases
+Descrição: .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2003 - 2004
+Visorama
+Descrição: .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.
+2003 - 2004
+TerraLib / Terra3d
+Descrição: ;. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - Atual
+Fotografia 3D
+Descrição: .. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Luiz Carlos Pacheco Rodrigues Velho - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

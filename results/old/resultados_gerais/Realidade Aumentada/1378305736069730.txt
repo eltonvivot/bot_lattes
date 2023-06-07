@@ -1,0 +1,7 @@
+2010 - 2011
+Ferramentas e Modelos para Automação de Processos no Contexto da Gestão do Ensino Superior
+Descrição: A motivação para o desenvolvimento deste trabalho surgiu com a percepção de que as atividades/tarefas realizadas pelos funcionários da coordenação do Curso de Ciência da Computação estavam sendo realizadas de forma desorganizada e descentralizada.
+Por conta disso, a execução de atividades que se interligam (ou seja, atividades interdependentes) acaba sendo muitas vezes realizadas fora do prazo estipulado e com resultados de baixa qualidade.
+Além disso,também percebe-se que no contexto educacional a comunidade acadêmica se depara com o uma diversidade de processos que possuem diversas interpretações sobre o funcionamento do mesmo.
+Acreditamos que a aplicação da metodologia de Gerenciamento de Processos de Negócios (BPM) pode beneficiar em larga escala na solução dos problemas elicitados anteriormente.
+O gerenciamento de processos de negócio prega que a organização baseada em processos resulta na diminuição dos custos envolvidos nos processos, agiliza a execução das atividades e focaliza a qualidade dos resultados gerados.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Josias Paes da Silva Junior - Coordenador / Luiz Mauricio - Integrante.

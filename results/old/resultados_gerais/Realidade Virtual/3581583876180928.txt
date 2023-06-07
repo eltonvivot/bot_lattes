@@ -1,0 +1,34 @@
+2018 - Atual
+Desenvolvimento de uma Biblioteca e de um Ambiente para Programação e Controle de Robôs Baseados na Plataforma Arduino, com Utilização de Técnicas de Machine Learning, para Uso Educacional
+Descrição: O objetivo desse projeto é criar um conjunto de bibliotecas  para configuração e programação de uma plataforma robótica baseada na tecnologia Arduino, que envolva também o uso das técnicas de Machine Learning  Fuzzy Sets, Redes Neurais Artificiais e Regressão Linear Múltipla, objetivando aplicação educacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador / Henrique Pereira de Miranda - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2013 - 2014
+O USO DE TÉCNICAS DE DATAWAREHOUSE E MINERAÇÃO DE DADOS NA AVALIAÇÃO DE PROJETOS DE DESENVOLVIMENTO DE SOFTWARE
+Descrição: Esse projeto teve como obhetivo a extracão de informações relevantes de dados de gerência de projetos de software, armazená-las em bases multidimensionais, analisá-las e visualizá-las por meio de relatórios, gráficos e ferramentas de On-Line Analytical Processing (OLAP).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador.
+2011 - 2012
+Desenvolvimento e estudo de algoritmos para descoberta de inteligência em dados provenientes de dispositivos móveis
+Descrição: Dados tempo-espaciais são usualmente provenientes de dispositivos móveis equipados com sistemas de posicionamento global (GPS) e são gerados por carros, caminhões, ônibus, trens, aviões, navios, telefones celulares, dentre outros. Esses dados são úteis porque permitem localização e rastreamento. No entanto, uma grande quantidade de conhecimento pode ser extraída por meio de uma análise mais profunda deles, uma vez que tal conhecimento não é facilmente obtido por simples inspeção, pois esses bancos de dados são enormes. O desenvolvimento desse teve como principal resultado um arcabouço para extração, processamento, análise e visualização de dados tempo-espaciais, de modo que se possa deles extrair inteligência.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2010 - 2011
+Especificação e Estudo de Uma Plataforma Para Visualiazação de Dados Tempo-Espaciais Gerados Por Dispositivos Móveis
+Descrição: O objetivo deste projeto é o desenvolvimento de uma plataforma de software para visualização de dados tempo-espaciais provenientes de dispositivos móveis, com o uso de tecnologia Google Maps-Google Earth. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador / Guilherme de Miranda - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2006 - 2008
+Desenvolvimento de Aplicações para disponibilização, visualização e análise inteligente de dados espaciais na Web.
+Descrição: Este projeto consistiu na definção de uma infraestrutura para disponibilização, visualização e análise inteligente de dados espaciais provenientes de diversas fontes. Tais dados são estruturados em um modelo multidimensional e os fatos relevantes, visualizados por meio de gráficos, relatórios e mapas. Neste projeto foram criadas aplicações para visualização de dados referentes ao corpo docente de Pós-Graduação da PUC Minas, visualização de dados de cursos de pós graduação disponibilizados pela CAPES e visualização de dados do Ranking de Mundial de Universidades da Universidade de Shanghai. A infraestrutura proposta foi também a base do projeto MESALC.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pasteur Ottoni de Miranda Junior - Integrante / Jairo Santos de Jesus - Integrante / João Francisco de Abreu - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2004 - 2005
+Implementação de Um Ambiente de Engenharia de Software Flexível
+Descrição: Consistiu na implementação da especificação realizada no projeto 
+"Especificação de Um Ambiente de Engenharia de Software Flexível". 
+A ferramenta foi desenvovida em linguagem Delphi, tendo sido criado um repositório de 
+dados de ambientes em banco de dados MySQL. A adequação de ambientes criados com a ferramenta é feita por meio de um sistema especialista, desenvolvido para uma máquina de inferência do tipo encadeamento-para-trás, que permite a geração de regras de seleção nas quais as cláusulas são restrições previamente armazenadas e os efeitos são integrantes do ambiente. Assim, mediante uma consulta ao sistema especialista, consegue-se inferir a infraestrutura mais adequada às restrições de uma empresa ou projeto específico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2003 - 2004
+Especificação de Um Ambiente de Engenharia de Software Flexível
+Descrição: Ambientes de desenvolvimento de Software são essencialmente complexos e usualmente constituídos por um grande número de disciplinas, atividades, papéis, artefatos, métodos e ferramentas. Nesse contexto, o projeto consisitiu na definição e especificação de uma ferramenta que permita a criação de um Ambiente de Engenharia de Software, bem como sua adequação a restrições de ordem financeira, econômica, tecnológica e de recursos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+2000 - 2002
+Estudo e Avaliação de Tecnologias Para Ensino a Distância
+Descrição: Consistiu no estudo, avaliação e seleção de ferramentas de ensino a distância. Um dos resultados desse trabalho foi a seleção da Ferramenta Learnloop, utilizada atualmente pelo
+Instituto de Informática da PUC Minas, nos cursos de Ciência da Computação, Sistemas de Informação e Ciência da Informação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.
+1995 - 1997
+Desenvolvimento de uma Ferramenta CASE para Análise e Projeto Orientados a Objetos
+Descrição: Desenvolvimento de uma ferramenta CASE para análise e projeto orientados 
+a objetos, inicialmente para a metodologia Coad/Yourdon, posteriormente
+estendida à UML. A ferramenta foi utilizada no laboratório da disciplina
+Engenharia de Software no período de 1997 a 2001.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pasteur Ottoni de Miranda Junior - Coordenador.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.

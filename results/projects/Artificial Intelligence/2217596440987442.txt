@@ -1,0 +1,143 @@
+2005 - Atual
+17282-Melhoria nos Indicadores DEC e FEC de Redes de Distribuição.
+Descrição: Os benefícios deste projeto proposto definem-se não apenas pelas vantagens que podem ser obtidas a
+  partir da localização ótima dos equipamentos de comutação descritas na justificativa do projeto, mas também pela
+  possibilidade da realização de novos projetos ligados com controle operacional (reconfiguração de redes de
+  distribuição para redução de perdas de energia, v.g.) e planejamento (planejamento de manutenções, considerando
+  os valores reais de confiabilidades de vários alimentadores ou elementos da rede, v.g.). Os principais objetivos são:
+  - Aumento da Confiabilidade do fornecimento de energia e redução de possíveis prejuízos para os consumidores da
+  concessionária;2 - Diminuição do tempo de restabelecimento do fornecimento de energia para os consumidores;3 -
+  Otimização do planejamento e da distribuição dos recursos financeiros e materiais da concessionária para o
+  aumento da confiabilidade do fornecimento de energia..
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vladimir Andreevitch Popov - Integrante / Luciane Neves Canha - Coordenador / Felix Alberto Farret - Integrante / A Abaide - Integrante.
+2005 - Atual
+17706-Estudo e análise das características elétricas do sistema de distribuição da Muxfeld
+Descrição: A Muxfeld não dispõe de um sistema que permita a análise das características operacionais de suas
+  redes de distribuição a partir do estudo das características elétricas cadastradas no banco de dados da empresa.
+  Este problema gera uma série de dificuldades para a concessionária. Dentre elas está a impossibilidade de rodar
+  fluxos de carga dos alimentadores de sua rede de distribuição pois não há disponível uma ferramenta computacional
+  que processe os dados cadastrados em sua base de dados e os utilize de uma forma eficiente.
+  Por outro lado, a criação de uma ferramenta computacional para permitir a análise das características operacionais
+  da concessionária demanda uma série de procedimentos, modelagens e criação de algoritmos que são demorados
+  de serem desenvolvidos e implementados.
+  Desta forma, visando atender a uma necessidade da Muxfeld, este projeto irá criar modelos para todos os elemento
+  elétricos presentes nas redes de distribuição da concesionária e testá-los em um pequeno protótipo de um
+  alimentador da empresa a fim de validá-los e deixá-los preparados para serem inserido em um futuro programa para
+  cálculo de fluxos de potência visando aumento da eficiência operacional da empresa.
+  Esta pesquisa contribuirá na análise das características operacionais do sistema de distribuição da Muxfeld de forma
+  a  contribuir para a melhoria dos serviços prestados pela concessionária._.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vladimir Andreevitch Popov - Integrante / Luciane Neves Canha - Coordenador / Felix Alberto Farret - Integrante / A Abaide - Integrante.Financiador(es): Muxfeld Marin Ltda - Auxílio
+										financeiro.
+2004 - 2005
+Análise da Influência da Geração Distribuída no Sistema de Distribuição Considerando a
+Descrição: O objetivo principal deste projeto é a análise das conseqüências da utilização de fontes alternativas de
+  energia localizadas em determinados pontos da rede de distribuição sob o ponto de vista de sua influência para a
+  solução do problema de planejamento operacional. Considerando que, atualmente, a maioria das concessionárias
+  tem dificuldade com a aquisição de recursos suficientes, o problema de planejamento formula-se com a utilização
+  ótima de recursos limitados sob a ótica de se atingir os objetivos determinados e com a execução de todas as
+  restrições técnicas.Um importante objetivo deste projeto é o desenvolvimento de equipamento eficiente e de baixo
+  custo para a integração de fontes autônomas com as redes das concessionárias. Para tanto, os equipamentos e
+  métodos propostos devem atingir as seguintes características:
+  - reguladores: as saídas das fontes alternativas estão longe de suprirem potência por si só numa tensão e
+  freqüência constantes. O problema acentua-se ainda mais para cargas variáveis. Reguladores de tensão e
+  conversores de potência são comumente usados para controlar e estabelecer a tensão de saída da fonte distribuída
+  a qual pode ser mais elevada ou mais baixa daquela do sistema operacional.
+  - inversores: se a tensão da fonte distribuída é pequena existem uma certa vantagem em suprir energia em corrente
+  contínua, pois podem ser usadas diretamente para alimentar cargas tais como televisores, computadores e centrais
+  telefônicas. Mas se a carga for maior, como no caso de transferência de energia de um aerogerador para a rede
+  pública então há que se escolher o conversor mais adequado que possa atender, por exemplo, confiabilidade,
+  durabilidade competitiva, custo acessível e baixa geração de harmônicos.
+  - cargas específicas: a maioria dos países do mundo tem nas cargas térmicas residenciais e industriais um grande
+  problema como são os casos dos chuveiros elétricos em países do terceiro mundo._.
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vladimir Andreevitch Popov - Integrante / Luciane Neves Canha - Integrante / Felix Alberto Farret - Coordenador / A Abaide - Integrante.Financiador(es): Usina Hidro Elétrica de Nova Palma - Auxílio
+										financeiro.
+2004 - Atual
+Análise da Influência da Geração Distribuída no Sistema de Distribuição Considerando a Reestruturação do Setor Energético e Incertezas Associadas
+Descrição: Um importante objetivo deste projeto é o desenvolvimento de equipamento eficiente e de baixo custo para a integração de fontes autônomas com as redes das concessionárias. Para tanto, os equipamentos e métodos propostos devem atingir as seguintes características:
+- reguladores: as saídas das fontes alternativas estão longe de suprirem potência por si só numa tensão e freqüência constantes. O problema acentua-se ainda mais para cargas variáveis. Reguladores de tensão e conversores de potência são comumente usados para controlar e estabelecer a tensão de saída da fonte distribuída a qual pode ser mais elevada ou mais baixa daquela do sistema operacional.
+- inversores: se a tensão da fonte distribuída é pequena existem uma certa vantagem em suprir energia em corrente contínua, pois podem ser usadas diretamente para alimentar cargas tais como televisores, computadores e centrais telefônicas. Mas se a carga for maior, como no caso de transferência de energia de um aerogerador para a rede pública então há que se escolher o conversor mais adequado que possa atender, por exemplo, confiabilidade, durabilidade competitiva, custo acessível e baixa geração de harmônicos.
+- cargas específicas: a maioria dos países do mundo tem nas cargas térmicas residenciais e industriais um grande problema como são os casos dos chuveiros elétricos em países do terceiro mundo e dos fogões e fornos elétricos em países do primeiro mundo. Tais cargas concentram picos de energia e demanda em períodos curtos e concentrados do dia ocasionando forte distorção na curva de demanda e o conseqüente encarecimento da energia suprida.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Vladimir Andreevitch Popov - Integrante / Luciane Neves Canha - Integrante / Felix Alberto Farret - Coordenador / A R Abaide - Integrante.Financiador(es): Usina Hidro Elétrica de Nova Palma - Auxílio
+										financeiro / Universidade Federal de Santa Maria - Cooperação.
+2004 - Atual
+15616-Distribuição ótima de recursos para aumento da confiabilidade das redes de
+Descrição: Os benefícios do projeto proposto definem-se não apenas pelas vantagens que podem ser obtidas a
+  partir da localização ótima dos equipamentos de comutação descritas na justificativa do projeto, mas também pela
+  possibilidade da realização de novos projetos ligados com controle operacional (reconfiguração de redes de
+  distribuição para redução de perdas de energia, v.g.) e planejamento (planejamento de manutenções, considerando
+  os valores reais de confiabilidades de vários alimentadores ou elementos da rede, v.g.).
+  Para a comprovação da eficiência dos métodos propostos dentro do projeto, até o final do primeiro anos é prevista a
+  realização de testes práticos com a instalação de chaves, em alguns alimentadores da concessionária, em
+  quantidade e lugares definidos através do algoritmo que será desenvolvido no projeto. Após um ano de testes, os
+  dados coletados sobre as falhas dos alimentadores em estudo deverão ser comparados com os dados relativos a
+  anos anteriores à instalação das chaves. Todas estas considerações também se constituem em objetivos adicionais
+  ao projeto.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Vladimir Andreevitch Popov - Coordenador / Luciane Neves Canha - Integrante / Felix Alberto Farret - Integrante / A Abaide - Integrante / L Comassetto - Integrante.Financiador(es): Rio Grande Energia - Auxílio
+										financeiro.Número de orientações: 2
+2004 - Atual
+RESTABELECIMENTO ÓTIMO DO FORNECIMENTO DE ENERGIA EM SITUAÇÕES DE
+Descrição: Descrição: A pesquisa proposta é uma continuação lógica do projeto intitulado "Desenvolvimento de Métodos e
+  Algoritmos de Chaveamento Ótimo em Redes Primárias de Distribuição para Aumento da Confiabilidade e Redução
+  de Perdas de Energia", desenvolvido no Programa de Pós-graduação em Engenharia Elétrica da Universidade
+  Federal de Santa Maria (PPGEE/UFSM) e aprovado pela Companhia Estadual de Energia Elétrica (CEEE) para a
+  realização no ciclo 2003/2004.
+  As considerações apresentadas acima definem os principais objetivos do projeto que são listados a seguir
+  
+  (a)adaptação do software desenvolvido pelo PPGEE-UFSM para a apresentação computacional da topologia
+  de rede com a base de dados da CEEE.
+  
+  A abordagem proposta possibilitará criar um processamento eficiente e confiável para a rápida reconfiguração das
+  redes elétricas.
+  
+  (b)estudo dos métodos utilizados pela CEEE para a análise das cargas elétricas e modos de operação e, se
+  necessário, adaptação do software desenvolvido pelo PPGEE-UFSM para permitir a utilização da base de dados da
+  concessionária.
+  
+  O resultado desta análise possibilitará analisar a precisão dos cálculos das características principais dos modos de
+  operação que, em seguida, serão utilizados para a definição das restrições no processo de reconfiguração das
+  redes.
+  
+  (c)desenvolvimento de uma série de algoritmos para a localização de vários tipos de falhas nas redes de
+  distribuição;
+  (d)análise comparativa dos algoritmos para reconfiguração ótima das redes de distribuição.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Vladimir Andreevitch Popov - Coordenador / Luciane Neves Canha - Integrante / Felix Alberto Farret - Integrante / A Abaide - Integrante.
+2003 - Atual
+Análise de Parâmetros Operacionais para o Aumento da Qualidade e Confiabilidade do Fornecimento de Energia Elétrica em Redes de Distribuição
+Descrição: Os objetivos deste projeto são: 
+1 - estabelecer uma metodologia para a modelagem de cargas elétricas em sistemas de distribuição que permita o processamento mais eficiente dos vários dados disponíveis na empresa, levando em consideração as especificidades de operação das concessionárias brasileiras;
+2 -  desenvolver uma série de métodos e algoritmos para a análise das perdas de energia, qualidade da tensão e confiabilidade das redes de distribuição;
+3 - preparar recomendações para o aumento da eficiência da operação do sistema elétrico da UHENPAL.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Vladimir Andreevitch Popov - Integrante / Felix Alberto Farret - Coordenador / L N Canha - Integrante / A R Abaide - Integrante.Financiador(es): Universidade Federal de Santa Maria - Cooperação / Usina Hidro Elétrica de Nova Palma - Auxílio
+										financeiro.
+2003 - Atual
+Desenvolvimento de Métodos e Algoritmos de Chaveamento Ótimo em Redes Primárias de Distribuição para Aumento da Confiabilidade e Redução de Perdas de Energia.
+Descrição: Os objetivos principais deste projeto são:
+1 - Estabelecer metodologias para avaliação analítica das características previstas de confiabilidade em sistemas de distribuição;
+2 - Desenvolver algoritmos de otimização discreta para a solução de problemas de localização ótima das chaves em redes primárias de distribuição sob o ponto de vista do aumento da confiabilidade e da redução das perdas de energia;
+3 - Análise da eficiência da utilização de fontes alternativas de geração e armazenamento de energia para o aumento da confiabilidade;
+4 - Análise econômica e avaliação dos resultados e eficiência dos métodos e algoritmos propostos com testes de campo.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Vladimir Andreevitch Popov - Integrante / GERMANO HEINZMANN - Integrante / L N Canha - Integrante / A R Abaide - Integrante / F A Farret - Coordenador.Financiador(es): Universidade Federal de Santa Maria - Cooperação / Companhia Estadual de Energia Elétrica - Auxílio
+										financeiro.
+2003 - Atual
+15438-Análise da Influência de incerteza de informação para modelagem de sistemas de
+Descrição: Este trabalho que busca apresentar soluções viáveis a duas questões consideradas básicas na solução de vários problemas encontrados durante os processos de operação e gerenciamento dos sistemas de distribuição:a modelagem de cargas elétricas e das redes secundárias de baixa tensão.
+O principal objetivo deste projeto é a criação de algoritmos e ferramentas computacionais inicialmente simples, que utilizem informações de caráter determinístico atualmente disponíveis nos cadastros das concessionárias e cujo acesso seja fácil e prático. No entanto, esperam-se obter respostas satisfatórias e melhores do que os processos já  utilizados, criando uma base de dados históricos para preparar a implementação futura de metodologias mais adequadas, as quais permitam levar em conta a incerteza das informações e que normalmente necessitam de dados retrospectivos.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vladimir Andreevitch Popov - Coordenador / Feliz Alberto Faret - Integrante / Luciane Neves Canha - Integrante / A Abaide - Integrante / A L Konig - Integrante.Número de orientações: 1
+2003 - Atual
+15439-Métodos e algoritmos para controle de tensão em sistemas elétricos com geração
+Descrição: Neste projeto propõe-se o desenvolvimento de algoritmos e de uma ferramenta computacional para estimação de estados em sistemas de distribuição, com sua aplicação na Empresa Rio Grande Energia S.A. O  software, batizado como ASD - Análise de Sistemas de Distribuição, permite analisar o comportamento elétrico em qualquer ponto da rede de distribuição no que se refere à potência ativa e reativa, corrente, tensão, fator de potência, carregamento dos condutores e dos transformadores de distribuição, perdas de potência, entre outros.
+Além de representar graficamente a topologia elétrica das redes e as variáveis de estado.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vladimir Andreevitch Popov - Coordenador / Luciane Neves Canha - Integrante / Felix A Farret - Integrante / A Abaide - Integrante.Número de produções C, T & A: 1
+2003 - Atual
+15440-Desenvolvimento de modelos metemáticos para análise de confiabilidade de sistemas
+Descrição: As novas regulamentações do setor elétrico têm solicitado das concessionárias uma maior eficiência no desempenho de seus sistemas de distribuição, exigindo níveis de qualidade e de continuidade de energia mais rigorosos. Este trabalho busca-se determinar a melhor forma de modelagem dos indicadores integrais de confiabilidade de sistemas elétricos, distribuição de recursos financeiros e de materiais visando o aumento da confiabilidade dos sistemas de distribuição, na qual permitirão avaliar as melhores alternativas de investimento no universo do alimentador, segundo os critérios básicos de continuidade nas redes de distribuição de energia elétrica. Esse contexto motivou o desenvolvimento de metodologias, de algoritmos e de uma ferramenta computacional para estimação de confiabilidade em sistemas de distribuição, visando ao processamento mais adequado de todas as informações disponíveis nas concessionárias. O programa desenvolvido, ASD, foi preparado para atender as necessidades das concessionárias, vindo a beneficiar as áreas de operação, de planejamento e de manutenção, com especial ênfase para a confiabilidade de fornecimento de energia elétrica. . Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Vladimir Andreevitch Popov - Coordenador / Luciane Neves Canha - Integrante / Felix Alberto Farret - Integrante / A Abaide - Integrante / L Comassetto - Integrante.Número de orientações: 1
+2002 - 2004
+12961-Localização ótima de fontes alternativas de energia no sistema de distribuição com
+Descrição: Este projeto tem como objetivo apresentar propostas para determinar a potência e regime de
+funcionamento ótimos para pequenas fontes de GD com potências até 100 kW e indicar a localização ótima para destes meios de geração a serem instalados nos sistemas de dstribuição, sem a injeção de energia na rede primária, a partir de uma análise multicriterial. Para estabelecer a localização ótima, os critérios quantitativos de otimização adotados são: redução das perdas técnicas, aumento da qualidade da energia fornecida mediante a  redução da quantidade de energia fornecida com tensão fora do padrão e redução dos investimentos necessários.
+Além disso, são incluídos no exame proposto, critérios qualitativos, que exigem a realização de uma análise multicriterial, tais como cogeração, carregamento dos transformadores, espaço físico, segurança, facilidade na obtenção do combustível, etc. O trabalho utiliza como exemplo de GD as células de combustível de baixa temperatura, tipo PEMFC, que já foram testados como fontes de GD. 
+  
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Vladimir Andreevitch Popov - Coordenador / Luciane Neves Canha - Integrante / Felix Alberto Farret - Integrante / A Abaide - Integrante.Número de produções C, T & A: 1 / Número de orientações: 1
+2002 - Atual
+13159-Desenvolvimento de métodos e algoritmos de chaveamento ótimo em redes primárias
+Descrição: O custo dos modernos equipamentos de comutação e automatização é bastante alto. Por isso, a utilização ótima dos recursos (investimento previsto ou mesmo equipamentos já disponíveis), com objetivo de garantir o máximo nível de confiabilidade, com mínimas despesas, deve apresentar grande interesse para as concessionárias. Este projeto propõe a solução deste problema através de várias formulações que devem criar uma certa flexibilidade para a empresa na escolha da melhor estratégia durante a etapa de planejamento.
+A distribuição ótima dos equipamentos de comutação, além do aumento da confiabilidade, muitas vezes, tem influência positiva para outros fatores, os quais caracterizam a eficiência da concessionária. Em particular a instalação de equipamentos de comutação adicional, pode possibilitar a criação configurações de redes de distribuição mais eficientes e, por isto, diminuir as perdas de energia, simplificar as manutenções programadas para  vários elementos das redes.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Vladimir Andreevitch Popov - Coordenador / Luciane Neves Canha - Integrante / Felix Alberto Farret - Integrante / A Abaide - Integrante / L Comassetto - Integrante.Número de orientações: 1

@@ -1,0 +1,13 @@
+2010 - 2011
+Avaliação do Alcoolismo em instituição pública
+Descrição: Aplicação do instrumento AUDIT de avaliação do grau de risco de indivíduos
+com o alcoolismo com o objetivo de mostrar o quanto os indivíduos se
+aproximam deste problema de saúde pública e não estão percebendo seu grau
+de envolvimento. O instrumento AUDIT será aplicado a uma amostra de
+aproximadamente 200 funcionários de uma instituição pública e serão
+investigados fatores sócio econômicos que podem contribuir com o
+surgimento do alcoolismo. Serão utilizados a avaliação da fidedignidade do
+instrumento e através da classificação que ele oferece para o grau do
+alcoolismo determinar que fatores podem contribuir para levar os
+funcionários públicos ao alcoolismo. Nesta parte será aplicado o modelo de
+regressão logística para avaliar o risco associado a cada fator.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Joao Agnaldo do Nascimento - Coordenador.

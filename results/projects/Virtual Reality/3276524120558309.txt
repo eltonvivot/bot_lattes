@@ -1,0 +1,59 @@
+2020 - Atual
+Ventilador de Exceção para Covid-19 - UFRJ
+Descrição: Desenvolvimento de um ventilador pulmonar microcontrolado específico para pacientes com Covid-19 para uso em situações onde não houver um ventilador pulmonar comercial, com registro na Anvisa, cooperação UFRJ - Petrobras - Whirlpool.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Jurandir Nadal - Coordenador / Antonio Giannella Neto - Integrante / Frederico Caetano Jandre de Assis Tavares - Integrante / Luciano Luporini Menegaldo - Integrante / Edson H. Watanabe - Integrante / Alexandre Visintainer Pino - Integrante / Roberto Macoto Ichinose - Integrante / Fernando Costa Pinto - Integrante / Grabriel Casulari da Motta Ribeiro - Integrante / Victor Romano - Integrante / Regina Reis - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2014 - 2017
+WASTCArD - Wrist and arm sensing technologies for cardiac arrhythmias detection in long term monitoring
+Descrição: Consorcio apoiado pela União Européia via Horizon 2020 - Marie Curie- RISE-2014, envolvendo 1) University of Ulster (UK), 2) INSA-Lyon (FR), 3) Waterford Institute of Technology (IE), 4) SD Informatika (HR), 5) Intelesens Ltd (UK), 6) Craigavon Area Hospital (UK), 7) University of Zagreb (HR), que o nosso grupo da UFRJ apoiou, participando de algumas visitas visando futuras interações.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jurandir Nadal - Coordenador / Omar J Escalona - Integrante.
+2014 - Atual
+CARDIORISK - Estratificação de Risco de Arritmias e Morte Súbita Cardíaca
+Descrição: Projeto apoiado pela FINEP, Chamada Pública MCTI/FINEP/MS/SCTIE/DECIIS ? CT-SAÚDE e FNS - Pesquisa em Engenharia Biomédica ? 02/2013
+O objetivo geral é o desenvolvimento e a aplicação de métodos de processamento de sinais biológicos a sinais de eletrocardiografia e de pressão arterial, obtidos de forma não invasiva. A partir de exames usados rotineiramente em checkup, são identificados os sujeitos com maior risco de desenvolver arritmias letais, os quais são conduzidos a exames mais elaborados e específicos. As metas envolvem a formação de recursos humanos nos níveis de graduação, mestrado, doutorado e pós-doutorado, e o desenvolvimento de algoritmos para os diferentes níveis de análise. A partir dos resultados dos exames são construídos indicadores de risco de morte súbita, os quais permitem as triagens sucessivas até chegar à indicação de exame eletrofisiológico (invasivo) para determinação da necessidade de implante de um Cardioversor/Desfibrilador Automático.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Jurandir Nadal - Coordenador / Frederico Caetano Jandre de Assis Tavares - Integrante / Paulo Roberto Benchimol Barbosa - Integrante / Roberto Coury Pedrosa - Integrante / Olivassé Nasario-Júnior - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - 2016
+Análise Quantitativa Multivariada de Sinais Biomecânicos
+Descrição: Projeto apoiado pelo CNPq, Edital Universal 14/2013, Projeto: Análise Quantitativa Multivariada de Sinais Biomecânicos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (6)  / Doutorado: (6) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2014
+PROEX, Programa de Excelência Acadêmica
+Descrição: CAPES (MEC/Brasil), PROEX, Programa de Excelência Acadêmica, Concessões anuais aos Programas de Pós-Graduação com notas 6 e 7, Recursos para bolsas, custeio e capital, Responsável como Coordenador de Programa. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20)  / Mestrado acadêmico: (60)  / Doutorado: (60) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2009 - Atual
+Métodos não invasivos de diagnóstico e terapia em biomecânica e cardiologia
+Descrição: Emprego de métodos matemáticos e de Engenharia para o diagnóstico e a quantificação da evolução de tratamentos em biomecânica. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4)  / Doutorado: (6) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2009
+Métodos Diagnósticos em Cardiologia e Biomecânica
+Descrição: Aplicação de processamento de sinais biológicos em sinais do sistema cardiovascular (Eletrocardiograma, pressão arterial e velocidade do fluxo sangüíneo cerebral) e muscular esquelético (Eletromiograma, estabilograma, marcha humana e iniciação da marcha) visando o desenvolvimento de novos métodos diagnósticos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (5)  / Doutorado: (5) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2008
+Asfixia Perinatal e Auto-Regulação do Fluxo Sangüíneo Cerebral de Recém-Nascidos
+Descrição: Cooperação Técnica CNPq/MS/DECIT, Proc. 403711/2004-5, R$ 35.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Ministério da Saúde - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2005 - 2007
+Processamento de Sinais Biológicos em Cardiologia e Biomecânica
+Descrição: Edital Universal 019/2004, R$ 32.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (5) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2001 - 2006
+Neonatal cerebral blood flow: physiological control mechanisms and patient management
+Descrição: Cooperação entre o PEB/COPPE; o Medical Physics Department, Leicester Royal Infirmary, Leicester e o Institute of Sound and Vibration Research, University of Southampton ; e o Instituto Fernandes Figueira, Fundação Oswaldo Cruz, Rio de Janeiro, RJ. Awarded Grant #064701/Z/01/Z: £ 15,100.00.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (3) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Wellcome Trust - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2000 - 2003
+Métodos Quantitativos de Investigação Clínica e Fisiológica em Humanos
+Descrição: Bolsa Cientistas do Nosso Estado, Pesquisador. Valor total R$ 48.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (15)  / Mestrado profissional: (0)  / Doutorado: (8) . Integrantes: Jurandir Nadal - Integrante / Antonio Giannella Neto - Coordenador / Marcio Nogueira de Souza - Integrante / Antonio Fernando Catelli Infantosi - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.Número de produções C, T & A: 7
+1997 - 2003
+Processamento de Sinais: Teoria, Aplicações e Implementação
+Descrição: Programa de Apoio a Núcleos de Excelência, Ministério de Ciência e Tecnologia - participação no Projeto "Processamento de Sinais: Teoria, Aplicações e Implementação", envolvendo os Programas de Engenharia Elétrica e Biomédica da COPPE/UFRJ, coordenado pelo Prof. Luiz Pereira Calôba, montante total: R$ 1.030.200,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20)  / Especialização: (0)  / Mestrado acadêmico: (40)  / Mestrado profissional: (0)  / Doutorado: (25) . Integrantes: Jurandir Nadal - Integrante / Luiz Pereira Calôba - Coordenador.Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro.
+1997 - 2000
+Birth Asphyxia and Brain Blood Flow: Towards a Rational Basis for Treatment
+Descrição: Convênio entre o PEB/COPPE e Medical Physics Department, Leicester Royal Infirmary, Leicester, UK; Children Nationwide Neonatal Intensive Care Unit, King's College Hospital, London, UK; e Instituto Fernandes Figueira, Fundação Oswaldo Cruz, Rio de Janeiro, RJ. Montante aproximado: US$ 30,000.00.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): British Council - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+1996 - 2001
+America Latina Formação Acadêmica - Biomedical Engineering Trainning Action
+Descrição: Projeto ALFA, Rede Acadêmica entre o PEB/COPPE e departamentos de Engenharia Biomédica das Instituições: University of Ulster, Irlanda do Norte, Reino Unido; Universitat Politecnica de Catalunya, Espanha; Université de Rennes 1 e Ecole Nationale Supérieure des Télécommunications de Bretagne, França; Universidad Simon Bolivar, Universidad de Carabobo e Univesidad de Los Andes (Mérida), Venezuela; e Universidad de Los Andes (Bogotá), Colômbia. 
+Biênio 96-98 (Fase B2, Organização, Preparação da Fase B3) Valor total: 80,000 ECU. 
+Triênio 98-2001 (Fase B3, Intercâmbio de Doutorandos) Valor total: 416,720 ECU  (contribuição da CEE = 240,536 ECU).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (13) . Integrantes: Jurandir Nadal - Coordenador.Financiador(es): Communitee Economique Europeen - Bolsa / Communitee Economique Europeen - Auxílio
+										financeiro.

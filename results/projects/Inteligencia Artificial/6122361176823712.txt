@@ -1,0 +1,92 @@
+2016 - 2017
+CARACTERIZAÇÃO DE EMULSÕES ÁGUA-ÓLEO E ESPECIFICAÇÃO DAS CONDIÇÕES OPERACIONAIS PARA O TRATAMENTO DE EMULSÕES
+Descrição: Desenvolvimento de procedimento experimental para  preparação de emulsões água-óleo utilizando petróleos de diferentes graus API e elaborado elaboração de procedimento experimental para determinar  o teor de água em petróleo utilizando a Norma Brasileira ABNT NBR 14236 - Produtos de Petróleo e Materiais Betuminosos - Determinação do Teor de Água por Destilação. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Giulia Alves Brollo Sanches - Integrante.
+2014 - 2015
+ADDCont - Sistema Inteligente para Otimização do Processo de Contratação
+Descrição: Desenvolvimento de um sistema computacional aplicando técnicas de Inteligência Artificial para otimizar o processo de contratação visando o cumprimento de prazo e investimento dos empreendimentos da Petrobras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (0) . Integrantes: Rogério Fernandes de Lacerda - Integrante / Ana Cristina Bicharra - Coordenador.
+2012 - 2013
+ADDGDPO - Sistema Inteligente de Gerenciamento de Processos
+Descrição: Desenvolvimento de sistema computacional para diagnóstico e prevenção de falhas e plataformas offshore de produção de petróleo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Ana Cristina Bicharra - Integrante.
+2011 - Atual
+PESQUISA E DESENVOLVIMENTO DE MÉTODOS DE MEDIÇÃO, MODELAGEM E SIMULAÇÃO DE PROPRIEDADES FÍSICO-QUÍMICAS DE FLUIDOS A ALTAS PRESSÕES PARA GESTÃO TECNOLÓGICA DE GASES ÁCIDOS EM RESERVATÓRIOS
+Descrição: Desenvolver técnicas para medir propriedades de fluidos de reservatórios a altas pressões e quantificar a distribuição de gases ácidos entre as fases gasosa, oleosa e aquosa ao longo da coluna de produção e nos separadores das plataformas.  Avaliar métodos de predição de propriedades de fluidos de reservatórios a altas pressões e desenvolver novos métodos para o fluidos de reservatórios dos campos da Petrobras.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Rogério Fernandes de Lacerda - Integrante / Krishnaswamy Rajagopal - Coordenador / Ian Hovell - Integrante.
+2010 - 2012
+ADDSGA - Sistema Inteligente de Gestão de Alarmes
+Descrição: Desenvolvimento de software para monitoramento e diagnóstico de sistemas de alarmes de plataformas de produção de petróleo.  O sistema identifica o alarme gerador de "shut-down" e verifica se todos os procedimentos de segurança foram executados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2) . Integrantes: Rogério Fernandes de Lacerda - Integrante / Ana Cristina Bicharra - Coordenador.
+2006 - 2007
+DISTRIBUIÇÃO DO H2S ENTRE O PETRÓLEO E A ÁGUA DA FORMAÇÃO NAS CONDIÇÕES DO RESERVATÓRIO
+Descrição: A presença inevitável da água em reservatórios a elevadas pressões conduz a inúmeros desafios na produção, pois grandes quantidades de água podem estar presentes na fase do hidrocarboneto e quantidades significativas de hidrocarbonetos dissolver-se na água da formação.  Estes fatores têm grande influência na distribuição do H2S entre as fases e são difíceis de prever através de modelos termodinâmicos.
+Este trabalho conjunto entre a Escola de Química da Universidade Federal do Rio de Janeiro (EQ-UFRJ) e o Centro de Pesquisas da PETROBRAS (CENPES) propõe medir o coeficiente de distribuição do H2S entre o óleo e a água da formação nas condições do reservatório.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Krishnaswamy Rajagopal - Integrante / Ian Hovell - Integrante.
+2004 - 2006
+PROJETO DE UM SISTEMA DE PRODUÇÃO DE H2 A PARTIR DE ETANOL PARA UMA CÉLULA A COMBUSTÍVEL TIPO PEM DE 0,5 KW
+Descrição: Modelagem, simulação e projeto de um reformador de etanol para produzir quantidade de H2 suficiente para alimentar uma célula a combustível tipo PEM de 0,5 kW. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Fábio Belotti - Integrante.
+2002 - 2002
+REATORES DE OXIDAÇÃO DO CICLOHEXANO - MODELAGEM E SIMULAÇÃO DINÂMICA
+Descrição: Projeto de Pesquisa, apresentado no XIV Congresso Brasileiro de Engenharia Quiímica COBEQ 2002 - Natal - Rio Grande do Norte - Agosto/2002. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rogério Fernandes de Lacerda - Coordenador.
+1999 - 2000
+HANDBOOK DE CÁCLULOS DE ENGENHARIA QUÍMICA / ENGNET - MANUAL DE CÁLCULOS DE ENGENHARIA ON-LINE
+Descrição: Investigação de ambiente computacional e desenvolvimento de software de engenharia para avaliar e projetar equipamentos da indústria química.
+TRANSPORTE DE FLUÍDOS - Escoamento Incompressível, Escoamento Compressível, Escoamento Bifásico.
+MEDIDA DE VAZÃO- Placas de Orifício
+VÁLVULAS - Controle, Alívio de pressão
+DRENAGEM DE CONDENSADO - Purgadores 
+BOMBAS -  Centrifuga e Alternativa 
+CONVERSÃO DE UNIDADES - Conversor e Fatores
+TROCADOR DE CARLO - Trocador de Carlos 
+BALANÇO DE MASSA E ENERGIA -  Balanço de M&E
+COMPRESSOR - Compressor 
+VASOS E TANQUES - Projeto de Simulação - U-5000
+PROJETO DE PROCESSO  - Vaso de Separação, Vaso e Tanque de Pressão, Tanque de Armazenamento.
+CAPA  E RESUMO EXECUTIVO DO PROJETO
+I - Metodologia para Simulação de Colunas
+II - Aplicação Detalhada Metodologia para Simulação de Colunas
+III - Banco de Dados de Componentes Presentes na U-5000
+IV - Simulação do Sistema de Condensação
+V - Simulação do Sistema de Absorção
+P_C&abs_at.hsc - condição de operação (ano 1998/99)
+P_C&abs_rv.hsc - condição de REVAMP
+p_C&abs_cons.hsc - Condição conservativa ( redução da carga da C-5401)
+VI - Simulaçao do Sistema de Destilação de Cicloexano
+P_Destila_0.hsc - condição de operação (ano 1998/99)
+VII Simulação do Sistema de Purificação
+P_Purifica_0.hsc - condição de operação (1998/99)
+VIII - Curso "HYSYS Aplicado à Simulação das Colunas da U-5000~Capacitação do Corpo Técnico da Nitrocarbono.
+IX - Seleção de Modelos Termodinâmicos para o Cálculo do Equilibro de Fases. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Marcelo Embiruçu - Integrante.
+1998 - 2000
+EXTRAÇÃO SUPERCRÍTICA DE PRODUTOS NATURAIS DE ALTO VALOR AGREGADO / AGRONEX - REDE DE EXTRAÇÃO DE PRODUTOS AGRO-ALIMENTARES DE ALTO VALOR AGREGADO USANDO FLUIDO SUPERCRÍTICO
+Descrição: Projeto e montagem de unidade de extração com CO2 supercrítico para extrair princípios ativos de produtos naturais de plantas presentes na flora e na agricultura do Estado da Bahia.
+O projeto envolveu diferentes departamentos da Universidade Federal da Bahia e as seguintes instituições:
+1. Instituto de Tecnologia e Pesquisa da Universidade Tiradentes (ITP/UNIT)
+2. Departamento de Engenharia Química - Escola Politécnica - UFBA
+3. Departamento de Química Orgânica - Instituto de Química - UFBA
+4. Departamento de Fitotecnia e Zootecnia - Universidade Estadual do Sudoeste da Bahia
+Projeto contou com o apoio:
+1) FINEP
+2) CADCT/SEPLANTEC-BA - Centro de Apoio ao Desenvolvimento Científico e Tecnológico da Secretaria de Planejamento, Ciência e Tecnologia da Bahia
+3) BANCO DO NORDESTE (Órgão Financiador). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Gloria Meyberg Nunes Costa - Integrante / Dirceu Martins - Integrante / Silvio Alexandre Beisl Vieira de Melo - Integrante / Fernando Luiz Pelegrini Pessoa - Integrante / Abel Rebouças São José - Integrante / Frederico Guaré Cruz - Integrante.
+1998 - 2000
+APLICAÇÃO DE TENOLOCIAS DE INFORMAÇÃO NO ENSINO DE ENGENHARIA QUÍMICA
+Descrição: Este projeto teve por objetivo investigar e implementar a aplicação de tecnologias de informação (AULANet - ambiente para ensino-aprendizagem na web desenvolvido pela PUC-Rio) e software matemático no desenvolvimento de ferramental de ensino interativo.
+Foi desenvolvido um ambiente de ensino para a disciplina de Cálculo de Reatores e implantado o software  de Ensino à Distância AULANet, desenvolvido pela PUC-Rio, no Departamento de Engenharia Química da Escola Politécnica da Universidade Federal da Bahia.  Os produtos do projeto foram um CD interativo desenvolvido com o software matemático MATHCAD,  Escola Virtual da Disciplina de Cálculo de Reatores, Intranet do Departamento de Engenharia Química da UFBA (DEQ-UFBA) e uma nova Home-page para o DEQ-UFBA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10) . Integrantes: Rogério Fernandes de Lacerda - Coordenador.
+1998 - 1999
+OTIMIZAÇÃO DA RECUPERAÇÃO DE DILUENTE DA RECUPERAÇÃO DE SOLVENTE USADO NA POLIMERIZAÇÃO DE PROPENO
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Rogério Fernandes de Lacerda - Coordenador.
+1998 - 1999
+SIMULAÇÃO DE PROCESSOS EM ESTADO ESTACIONÁRIO DO PROCESSO DE CICLOEXANONA
+Descrição: Modelagem e simulação do sistema de destilação de cicloexanona da Planta de Caprolactama da Nitrocarbono S.A.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Marcelo Embiruçu - Integrante.
+1990 - 1991
+SPECIFICATION OF THE VARIOUS STEPS INVOLVED IN THE PRODUCTION OF PROPYLENE OXIDE AND CYCLOHEXANO ON A LABORATORY SCALE
+Descrição: Procedimentos experimentais das etapas do  processo desenvolvido para produzir Óxido de Projeto e Cicloexanol em escala de laboratório e mini planta piloto. Também são apresentados os  métodos analíticos utilizados na avaliação das diferentes etapas do processo.
+1) Especificação das matérias-primas
+2) Fluxograma de processo 
+3) Procedimento experimental de cada etapa
+4) Métodos analíticos (cromatografia, titulação etc.)
+5) Balanço de massa e energia na mini planta piloto
+6) Fotografias e ilustrações detalhando os equipamentos
+Atuei como coordenador dos seguintes etapas do projeto:
+1) Extração do hidroperóxido de terc-butila da água
+2) Secagem da solução de hidroperóxido de terc-butila em cicloexano 
+3) Extração de ácidos a partir de produtos de peroxidação
+4) Concentração de hidroperóxido de terc-butila
+5) Preparação de catalisadores de Moblidênio
+6) "In-hand Yield" - quantificação da eficiência do processo a partir de pesagem de matérias primas, catalisadores e produtos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (1) . Integrantes: Rogério Fernandes de Lacerda - Coordenador / Cynthia Jahyra Araripe Dantas - Integrante / Edilberto Augusto de Castro Neto - Integrante / George Ember - Integrante.

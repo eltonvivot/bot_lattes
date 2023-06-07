@@ -1,0 +1,60 @@
+2022 - Atual
+Imagens de Super-Resolução com Ray Tracing e Deep Learning
+Descrição: Síntese de imagens estuda técnicas de modelagem de sólidos e criação/geração de imagens realísticas através do computador. Para esse processo é considerado a geometria da cena, a iluminação, os tipos dos materiais dos objetos que compõem a cena, a posição da câmera e a observação da cena. Rendering define o processo de conversão de dados em uma imagem realística, ou seja, cria uma imagem digital de aparência foto realística a partir de uma cena tridimensional gerada por computador. O nível de realismo na imagem resultante demanda em um custo de renderização, tempo e custo de processamento para a geração da imagem. Para a geração de imagens realísticas em cenários estáticos, existem vários estudos e técnicas poderosas utilizadas atualmente. Super-resolução de imagem é um campo importante em Processamento de Imagens e Visão Computacional para melhoria da resolução (espacial) de imagens e vídeos. Este projeto de pesquisa propõe o estudo de técnicas de Inteligência Artificial para renderização, considerando a precisão e a qualidade das imagens resultantes, investigando técnicas de super-resolução de imagens associadas a deep learning.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Adriana Takahashi - Coordenador.
+2022 - Atual
+Estudo de técnicas baseadas em Deep Learning para Super-Resolução de Imagens
+Descrição: A Computação Gráfica (Síntese de Imagens) trata de técnicas de modelagem de sólidos e criação de
+imagens realísticas através do computador. Para esse processo é considerado a geometria da cena, a
+iluminação, os tipos dos materiais dos objetos que compõem a cena, a posição da câmera e observação
+da cena. Rendering define o processo de conversão de dados em uma imagem realística, ou seja, cria
+uma imagem digital de aparência foto realística a partir de uma cena tridimensional gerada por
+computador. O nível de realismo na imagem resultante demanda em um custo de renderização, tempo e
+custo de processamento para a geração da imagem. Para a geração de imagens realísticas em cenários
+estáticos, existem vários estudos e técnicas poderosas utilizadas atualmente. Super-resolução de
+imagem é um campo importante em Processamento de Imagens e Visão Computacional para melhoria
+da resolução (espacial) de imagens e vídeos. Este projeto de pesquisa propõe o estudo de técnicas de
+Inteligência Artificial para renderização, considerando a precisão e a qualidade das imagens resultantes,
+investigando técnicas de super-resolução de imagens associadas a deep learning.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador / Bruno Cruz de Oliveira - Integrante.
+2021 - 2022
+Rendering de imagens com raytracing e deep learning
+Descrição: Síntese de imagens trata de técnicas de modelagem de sólidos e criação de imagens realísticas através do computador. Para esse processo é considerado a geometria da cena, a iluminação, os tipos dos materiais dos objetos que compõem a cena e a posição de observação da cena. Rendering define o processo de conversão de dados em uma imagem realística, ou seja, cria uma imagem de aparência mais realística possível a partir de uma cena tridimensional criada por computador. O nível de realismo na imagem resultante demanda em um custo de renderização, tempo e custo de processamento para a geração da imagem. Para a geração de imagens realísticas em cenários estáticos, existem várias técnicas poderosas utilizadas atualmente. As renderizações off-lines não priorizam ou possuem uma boa performance no tempo de processamento para geração de imagens realísticas, e quando as tratam em tempo real, diminui a qualidade (geralmente o realismo visual) das cenas. Este projeto de pesquisa propõe o estudo de técnicas de Inteligência Artificial para qualificar a renderização considerando o tempo, o tipo de renderização, e principalmente a qualidade da imagem resultante, com objetivo de melhorar a performance da renderização.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador.
+2020 - 2021
+Aplicação de Deep Learning no reconhecimento de larvas de camarão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador.
+2019 - 2020
+Desenvolvimento de uma ferramenta para auxiliar o ensino e aprendizagem utilizando realidade aumentada
+Descrição: Os avanços tecnológicos proporcionam evolução e revolução nas formas de comunicação,
+relacionamentos, produção, consumo, informação, dentre outras muitas transformações na sociedade e
+no indivíduo. A integração da tecnologia digital com metodologias de ensino pode ser uma forma de
+melhor qualificar o processo de ensino e aprendizagem, estimulando a interação e curiosidade dos
+alunos, bem como motivar a capacitar a qualificação dos alunos para o mundo globalizado.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador / Bruno Cruz de Oliveira - Integrante.
+2019 - 2020
+Desenvolvimento de uma ferramenta para reconhecimento e contagem de larvas de camarão
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador.
+2018 - 2019
+Um estudo de técnicas de agrupamento para dados não convencionais
+Descrição: Um estudo sobre alguns métodos de classificação de dados pela técnica de agrupamento, visando o tratamento dos dados e a qualidade dos resultados, considerando dados imprecisos, faltosos ou com defeitos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador / Rosiery da Silva Maia - Integrante / Iago Henrique de Oliveira - Integrante.
+2016 - 2017
+Uma ferramenta para auxiliar o desenvolvimento da coordenação motora
+Descrição: A coordenação motora possui grande importância para os seres humanos, pois, permite realizações de tarefas do cotidiano utilizando sua capacidade em usar de forma eficiente a capacidade do cérebro em estimular e controlar a intensidade e velocidade de movimentos controlados pela musculatura esquelética. Buscando auxiliar no desenvolvimento da coordenação motora, bem como melhorar ou refinar a coordenação motora, este projeto propõe uma ferramenta composta por um conjunto de jogos digitais que trabalhará com estímulos motores tanto para a coordenação motora grossa quanto fina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adriana Takahashi - Coordenador / Nathanael Silva de Moura - Integrante / Wellison Raul Mariz Santos - Integrante.
+2015 - 2016
+Sistema de classificação de categorias taxonômicas dos animais vertebrados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador / Alisson de Oliveira Alves - Integrante.
+2015 - 2016
+Sistema de reconhecimento de animais do subfilo Vertebrata utilizando redes neurais artificiais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador.
+2014 - 2015
+Sightseeing: uma ferramenta de auxílio turístico da cidade de Natal
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador.
+2013 - 2014
+Uso de tecnologias mobilee realidade aumentada como ferramenta turística da cidade de Natal
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriana Takahashi - Coordenador.
+2012 - 2013
+Implementação de um sistema para dispositivos móveis usando visão computacional
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Adriana Takahashi - Coordenador / Raul Benites Paradeda - Integrante.Número de produções C, T & A: 1
+2011 - 2012
+Exploração e implementação de técnicas de modelagem de objetos 3D
+Descrição: A modelagem de uma imagem gerada por computador é importante em Computação Gráfica, tanto
+em Realidade Virtual e Realidade Aumentada quanto em simulações, diminuindo muitas vezes os custos por meio de virtualização do processo para avaliação que antecede a implementação. Para a modelagem de um objeto, deve-se sempre observar as limitações resultantes das técnicas disponíveis, que apesar de serem eficientes para algumas situações, podem não corresponder ao problema.
+A modelagem de objetos, ou sólidos, designa um conjunto de teorias, técnicas e sistemas que permitem criar um sólido, e também o conhecimento, experiências e intuição do modelador. Existem sólidos possíveis de serem representados através da geometria euclidiana, contudo, alguns sólidos exigem representações e modelagens bem mais complexas. Este projeto irá tratar de sólidos bem definidos e também de sólidos de difícil modelagem, por exemplo, a água, e construir módulos para utilização em aplicativos existentes no mercado e um sistema de modelagem. A escolha de técnicas de modelagem deste projeto será feito explorando as técnicas existentes na literatura para modelagem e posteriormente implementadas em um
+sistema para modelagem, abordando as modelagens: manual, automática e matemática. Com base neste sistema será possível construir sólidos elaborados buscando uma simplificação na exposição das técnicas utilizadas, facilitando o processo, que demanda muito tempo, da modelagem, e permitindo criar ambientes e imagens tridimensional combinando os sólidos construídos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adriana Takahashi - Coordenador / Isaiane de Mendonça Silva - Integrante / José Rodrrigues Guimarães Filho - Integrante.

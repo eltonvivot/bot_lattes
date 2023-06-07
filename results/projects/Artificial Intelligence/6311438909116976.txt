@@ -1,0 +1,52 @@
+2018 - 2021
+Identificação Autônoma de Equipamentos Eletro-Eletrônicos em Smart Grid
+Descrição: O objetivo deste projeto é o de desenvolver um sistema capaz de identificar de forma autônoma equipamentos eletro-eletrônicos de uma instalação elétrica. Tal identificação deve ser altamente precisa e robusta. Precisa ainda ser técnica e financeiramente viável. A solução definitiva deste problema tem sido buscada desde a década de 1990. Entretanto, na última década, com a popularização do conceito Smart Grid, a busca por tal solução ganhou maior importância. Isto porque os medidores inteligentes, que são aparelhos eletrônicos de medição fundamentais para a aplicação do conceito Smart Grid, precisam desempenhar essa funcionalidade, isto é, de ser capaz de identificar cada aparelho consumidor de energia elétrica da instalação, respeitando as restrições técnicas e financeiras, e atendendo os requisitos de precisão e robustez, a fim de ser uma solução comercialmente viável.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Leonardo Jose Silvestre - Integrante / Luís Otávio Rigo Júnior - Integrante / Wanderley Cardoso Celeste - Coordenador / Helder R. O. Rocha - Integrante / Daniel José Custódio Coura - Integrante / Flávio Duarte Couto Oliveira - Integrante.
+2018 - 2020
+Reconhecimento de padrões de imagens aéreas obtidas por meio de veículos não tripulados
+Descrição: Nas últimas décadas, o desenvolvimento e modernização da tecnologia nas áreas de segurança, agrícultura e ambiental, tem tornado esses segmentos extremamente competitivos, exigindo muita habilidade de gestão, profissionalismo e especialização. A utilização de automação e novas tecnologias como: GIS - Sistemas de Informação Geográfica, Cartografia Digital, Sensoriamento Remoto por Satélites e Sistema de Posicionamento Global (GPS), ajudam a impulsionar os mercados de segurança e agricultura permitindo ganhos significativos em eficiência. Os VANTs (Veículos Aéreos Não Tripulados), popularmente conhecido como drones, chegaram para facilitar o levantamento de dados e fornecimento de informações estratégicas. Este equipamento oferece mais agilidade e segurança impactando positivamente nos processos. Assim esse projeto tem como objetivo o desenvolvimento de aplicações usando VANT na área de segurança pública e agricultura que envolve pesquisadores do CEUNES, o comando do 13º Batalhão da PMES, Comitê da Bacia do Rio São Mateus e a Associação Empresarial do Litoral Norte do Espírito Santo. Inclui a utilização de dois drones, sendo um deles ficando sob responsabilidade dos pesquisadores do CEUNES para o desenvolvimento das pesquisas e o outro ficando sob responsabilidade do comando do 13º Batalhão da PMES (DRONE 2) para a transferência de tecnologia e testes de campo. PRPPG/UFES número 8465/2018.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Jose Silvestre - Integrante / ROCHA, HELDER R. O. - Coordenador / Flávio Duarte Couto Oliveira - Integrante.
+2016 - 2022
+Desenvolvimento de Algoritmos de Machine Learning para Análise de Imagens Médicas
+Descrição: Machine Learning é um ramo da inteligência artificial que emprega uma variedade de técnicas de otimização, estatística e
+probabilidade que permite que computadores aprendam a partir de exemplos passados e detectar padrões difíceis de
+serem identificados a partir de grandes conjuntos de dados. Associado a Big Data e Internet of Things (Internet das
+Coisas), a Machine Learning vem sendo apontada como umas das áreas mais promissoras para aplicações em saúde.
+Elas têm impulsionado o desenvolvimento de várias oportunidades de trabalho. Dentre eles destacam-se: análise de
+prontuários eletrônicos, genômica, indústria farmacêutica, análise preditiva de pacientes de doenças crônicas, medicina
+personalizada e prognósticos e diagnósticos de doenças. Dentre as possibilidades de seu uso, a adoção de ferramentas
+computacionais para análise de imagens tem ganhado cada vez mais espaço em aplicações para a área médica, sendo
+usadas, por exemplo, em imagens de exames médicos. Nesse sentido, há trabalhos direcionados para o uso de técnicas de Machine Learning
+em diagnóstico e tratamento de vários tipos de câncer como: de pulmão, cérebro, pele, sangue, ossos, etc.
+Dentre os tipos, o câncer de mama é o que mais atinge as mulheres no mundo Até o final de 2016, o relatório do Instituto
+Nacional do Câncer estima que haverá quase 58 mil novos casos em todo o Brasil. Segundo este mesmo relatório, em
+2012 houve cerca 552 mil óbitos no mundo devido ao câncer de mama. A prevenção e o diagnóstico correto em estágios
+iniciais dessa neoplastia são importantíssimos para diminuir os índices de ocorrência e de mortalidade.
+Há vários trabalhos sobre análise de mamografias através do uso de técnicas de Machine Learning. Dessas técnicas,
+aquelas de Deep Learning têm tido cada vez maior espaço em análise de imagens médicas. Esses resultados têm sido
+bastante animadores têm motivado novos estudos sobre a aplicação de algoritmos de Deep Learning em análise de
+imagens de exames médicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Jose Silvestre - Integrante / William Hiroshi Hisatugu - Coordenador.
+2016 - Atual
+Plataforma de Apoio ao Monitoramento Domiciliar de Pacientes Crônicos da Atenção Básica em Saúde do Estado do Espírito Santo
+Descrição: Este projeto está voltado à redução de complicações cardiovasculares, neurológicas, respiratórias e incapacidades dos
+pacientes com doenças crônicas, bem como à promoção da qualidade de vida e ao aumento da sobrevida de pacientes
+monitorados na atenção básica em saúde. De modo a alcançar esses objetivos é proposto o desenvolvimento de uma
+plataforma de monitoramento de pacientes. A plataforma deverá possibilitar a aquisição e aferição de sinais biomédicos
+dos pacientes no âmbito domiciliar. Os sinais devem ser transmitidos remotamente e armazenados em uma base de
+dados. Uma máquina de inferências de software deve ser desenvolvida, permitindo determinar em cada caso a relevância
+das regras de produção definidas juntamente com a área clínica. Com base nessas regras e nos sinais biomédicos dos
+pacientes, armazenados na base de dados, a plataforma deverá realizar recomendações de conduta. O envio de
+mensagens de texto diretamente aos pacientes ou familiares em resposta às aferições poderá ser realizado. As
+mensagens de texto podem, por exemplo, recomendar repetir o procedimento em um intervalo de tempo ou solicitar
+retorno do paciente ao Estabelecimento Assistencial a Saúde (EAS) para reavaliação do seu quadro clínico. Para os
+casos de pacientes identificados, conforme regras de produção definidas, com risco imediato de complicações alertas
+podem ser encaminhados a uma equipe do Programa de Monitoramento de Doenças Crônicas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Jose Silvestre - Integrante / Francisco de Assis Souza dos Santos - Coordenador.
+2015 - 2021
+Extreme Learning Machines - Algoritmos e Aplicações
+Descrição: A Máquina de Aprendizado Extremo (Extreme Learning Machine - ELM) é um algoritmo para treinamento de Redes Neurais Artificiais de um única camada escondida que tem recebido grande atenção da comunidade acadêmica nos últimos anos, especialmente por sua simplicidade e rapidez de treinamento. Seu treinamento consiste em atribuir valores aleatórios aos pesos e termos de polarização da camada escondida e calcular os pesos da camada de saída analiticamente, por meio da pseudo-inversa. Para possibilitar uma separação próxima da linear, a dimensão da camada escondida deve ser alta. Unindo-se a aleatoriedade dos pesos e a alta dimensão, a rede tende a ter variações muito grandes entre seus resultados: tal problema pode ser resolvido com técnicas de regularização, as quais têm sido aplicadas com sucesso em aprendizado de máquina. Este projeto têm como 
+objetivo desenvolver aprofundar o desenvolvimento das ELMs por meio do estudo e 
+desenvolvimento técnicas de regularização, em especial técnicas online (ou recursivas) envolvendo matrizes de afinidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Jose Silvestre - Coordenador.
+2015 - 2020
+Gerenciamento e Controle de Demanda em Redes Elétricas Inteligentes (Smart Grid)
+Descrição: A investigação proposta neste projeto de pesquisa científica consiste em empregar técnicas de otimização para o gerenciamento e o controle de demanda em uma rede elétrica inteligente (Smart Grid), seja ela residencial ou industrial, com o objetivo de reduzir o valor monetário total da energia consumida ou de compensar a sazonalidade proveniente de geradores elétricos baseados em fontes renováveis, tais como geradores eólicos e solares. Uma smart grid composta de geradores eólico e solar, ambos de baixa potência, alimentarão um onjunto de cargas distribuídas em três ou mais ramais. Será implementada uma unidade eletrônica capaz de medir o consumo de energia elétrica em cada ramal e de fazer a conexão/desconexão elétrica do ramal, aumentando/diminuindo a
+demanda da smart grid. Unidades eletrônicas de medição de energia consumida em cada ramal realimentarão uma unidade de gerenciamento e controle (UGC). Com base em tal informação e conhecendo a energia gerada pela smart grid, a UGC gerenciará e controlará a demanda de energia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3) . Integrantes: Leonardo Jose Silvestre - Integrante / Luís Otávio Rigo Júnior - Integrante / Wanderley Cardoso Celeste - Coordenador / Helder R. O. Rocha - Integrante / Daniel José Custódio Coura - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

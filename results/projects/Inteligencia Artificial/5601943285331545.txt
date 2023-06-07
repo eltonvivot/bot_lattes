@@ -1,0 +1,36 @@
+2011 - 2014
+MSPP: Modelagem e Simulação de Políticas Públicas (Bolsa de Produtividade em Desenvolvimento Tecnológico e Extensão Invovadora - CNPq/DT, Nível 2)
+Descrição: Este projeto visa  estabelecer uma metodologia de aplicação de modelos e técnicas de simulação social baseada em agentes à simulação de políticas públicas. 
+A metodologia de modelagem e simulação de políticas públicas que se pretende estabelecer tem três fundamentos principais: (i) o modelo PopOrg de organização de sociedades de agentes; (ii) a plataforma Jason-Cartago para implementação de sistemas multiagentes normativos; e o reconhecimento da multiplicidade de formas que o processo de política pública pode adquirir nos vários contextos sócio-políticos (incluindo as diversas formas de redes e de comunidades de políticas).
+O projeto pretende alcançar também uma formalização da noção de política pública que seja compatível com o modelo formal PopOrg e que possa ter uma implementação computacional adequada na plataforma Jason-Cartago. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Antonio Carlos da Rocha Costa - Coordenador / Graçaliz Pereira Dimuro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2010 - 2013
+RS-SOC: Rede Estadual de Simulação Social
+Descrição: Este projeto visa apoiar os setores público e de negócios com o desenvolvimento de ferramentas do tipo laboratório para
+simulação e teste de políticas e ações ligadas à área de computação social.
+Para se atingir este objetivo, este projeto se encontra articulado em três eixos temáticos. Tais eixos são mobilidade
+urbana, gerenciamento de situações de emergência, e meio ambiente.
+No eixo voltado ao meio ambiente, é verificado que o gerenciamento de recursos naturais requer que o governo, os
+cidadãos e outros atores interajam via apoio de ferramentas computacionais. Desta forma, este subprojeto objetiva
+simular o desenvolvimento de sistemas de suporte à gestão que permitam testar ações na direção do desenvolvimento
+econômico sustentável. Os desafios envolvidos são o gerenciamento de um grande número de dados e a mediação entre os
+atores via computador. Para isto, mecanismos de confiança (trust) estão sendo desenvolvidos em áreas como inteligência
+artificial, sistemas multiagentes e redes sociais.
+No eixo de mobilidade urbana, a questão do provimento e difusão de informação aos usuários de sistemas de transporte é
+central. Porém, a fim de prover informação útil e no tempo requerido são necessárias ferramentas de simulação que
+possam lidar com a questão de como os motoristas e demais usuários processam e reagem à informação. Esta é uma questão
+difícil pois envolve roteamento e alocação dinâmicas. O gestor precisa de ferramentas ligadas a sistemas inteligentes
+de transporte para se anteciparem e lidarem com questões ligadas ao aumento da demanda por mobilidade. Prover
+informação é, entretanto, apenas um dos desafios abordados neste eixo, pois ele também objetiva apoiar o governo em
+outros níveis e tarefas como otimização e controle de tráfego, monitoramento de veículos, etc.
+O eixo gerenciamento de situações de emergência objetiva a simulação de situações críticas, como desastres e
+movimentação de multidões, através do uso de algoritmos para a co. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Antonio Carlos da Rocha Costa - Integrante / Graçaliz Pereira Dimuro - Integrante / Ana Bazzan - Integrante / Diana Adamatti - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 2
+1994 - 2010
+Inteligência Artificial Construtivista (Bolsa de Produtividade - CNPq)
+Descrição: Este Projeto vem sendo apoiado pelo CNPq desde 1994, inicialmente com Bolsa de Pesquisa nível 2C e, a partir de 1998, com Bolsa de Produtividade em Pesquisa nível 2B (agora nível 2, simplesmente). O presente pedido de apoio visa continuar o trabalho por mais 3 (três) anos.
+O Projeto como um todo é continuação e ampliação da pesquisa iniciada com minha tese de doutoramento em Ciência da Computação, no PPGC/UFRGS, intitulada ?Inteligência de Máquina: esboço de uma abordagem construtivista?.
+A tese teve cunho epistemológico. Consistiu em uma revisão crítica dos fundamentos da Inteligência Artificial (IA) e da Teoria da Computação (TC). Tomou como referencial analítico a epistemologia genética e a psicologia genética de Jean Piaget. Visou estabelecer a possibilidade conceitual de uma noção de inteligência de máquina enquanto estrutura de regulação das interações funcionais da máquina com o ambiente.
+Ao longo do desenvolvimento do Projeto, essa investigação fundamentadora da IA vem sendo aprofundada, com resultados interessantes, procurando estabelecer de modo formal as condições organizacionais e funcionais mínimas para que se possam identificar os elementos e processos de regulação que realizam a noção de inteligência de máquina, seja em máquinas existentes, seja em máquinas que apenas se está projetando.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (30)  / Mestrado acadêmico: (20)  / Doutorado: (10) . Integrantes: Antonio Carlos da Rocha Costa - Coordenador / Renata Hax Sander REISER - Integrante / Graçaliz Pereira Dimuro - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

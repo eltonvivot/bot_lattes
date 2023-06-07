@@ -1,0 +1,54 @@
+2021 - Atual
+Emissão de gases de efeito estufa na Amazônia e sistema de análise de dados e serviços
+Descrição: Determinar as fontes, sumidouros e processos que controlam as emissões de gases de efeito estufa na Amazônia, e desenvolver um sistema e serviços baseado na ciência de dados e inteligência artificial para modelagem, análise e visualização destes processos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (8) . Integrantes: Jose Reinaldo Silva - Integrante / Glauco Caurin - Integrante / Paulo Artaxo - Coordenador / Pedro Pizzigatti Correa - Integrante / Luciana Rizzo - Integrante / Alan Calheiros - Integrante / Thiago Martins - Integrante / Marcos Sales Guerra Tsuzuki - Integrante / Sergio Frascino Almeida - Integrante.
+2021 - Atual
+Sistemas Assistivos e de Telemedicina - convênio com a Caton Technology Asia, Hong Kong
+Descrição: O projeto investiga sistemas automatizados de assistência em telemedicina usando unidades móveis e centros de assistência para população carente. Associa comunicação FFTP com sistemas de informação e sistemas de telemedicina com foco em hospitais, unidades de atendimento ou conectando médicos e enfermeiros por rede móvel.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jose Reinaldo Silva - Coordenador / Chao Lung Wen - Integrante.
+2019 - Atual
+Cooperação para uso da nuvem como ferramenta de pesquisa e ensino.
+Descrição: Projeto multidisciplinar envolvendo vários sub-projetos de unidades diferentes, com escopo distinto, visando o estudo do diferencial na eficiência de projetos de pesquisa e ensino pelo uso do suporte de serviços de nuvem. Explora-se ainda a interação entre os diferentes projetos em clusters multidisciplinares.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (12)  / Doutorado: (4) . Integrantes: Jose Reinaldo Silva - Coordenador / Jaime Simão Sichman - Integrante / Alfredo Goldman Vel Lejpman - Integrante / Marcelo Becker - Integrante / Ben-Hur Viana Borges - Integrante / Eduardo Lorenzetti Pellini - Integrante / Chao Lung Wen - Integrante / Glauco Caurin - Integrante / Pedro Pizzigatti Correa - Integrante / Claudio Garcia - Integrante / Daniel Varela Magalhães - Integrante.Financiador(es): Amazon Web Services - Cooperação.
+2018 - 2020
+Software Technology for Simulation and Inversion
+Descrição: This project focus on developing a range of software technologies required for simulation and data
+inversion. Despite the fact that applications such as seismic imaging through data inversion predates the
+current surge in interest in data analytics and machine learning by many years, it remains an incredibly
+challenging problem due to the inherent complexity of the problem, large data volumes and high
+computational cost. The software required is highly specialized, both in terms of mathematics and high
+performance computing methods, and takes many person-years to develop. This poses a serious barrier
+to the development of new methods and innovation, for example to better image below salt layers
+commonly found off the coast of Brazil.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (6) Doutorado: (7) . Integrantes: Jose Reinaldo Silva - Integrante / Emilio Carlos Neli Silva - Coordenador / Bruno Carmo - Integrante / Gerard Gorman - Integrante / Ernanin Volpe - Integrante / Saulo R. M. Barros - Integrante / Pedro Silva Peixoto - Integrante / Edson Gomi - Integrante / Wilfredo Rubio - Integrante / Ricardo Amigo - Integrante.Número de produções C, T & A: 3 / Número de orientações: 1
+2017 - 2020
+PSA - Product-Service Architecture, a service approach to manufacture systems
+Descrição: A new architecture is proposed to modern digital manufacturing systems based on distributed elements called manufacturing services which could be arranged in different ways serving to several product-services. P-S isa combination of product and service which could change the way producers interact with customers and with the market.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Especialização: (1)  / Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Jose Reinaldo Silva - Coordenador.
+2016 - 2019
+itSIMPLE-SE: A Knowledge Enginering approach do planning and scheduling
+Descrição: Estudo da Engenharia do Conhecimento associada a problemas de planejamento e escalonamento abordados de maneira heurística, usando técnicas de inteligência artificial. Adaptação dos métodos para a resolução de sistemas reais de grande porte. Desenvolvimento de ferramenta de apoio: itSIMPLE-SE (Integrated Tool and Software Interface to Model Plnanning Environments - Scheduling Environments).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Jose Reinaldo Silva - Coordenador / Flavio Tonidandel - Integrante / Javier Martinez Silva - Integrante / Tiago Stegun Vaquero - Integrante / Thomas Lee McCluskey - Integrante.
+2008 - 2010
+CAPES-MES Projeto MODESA (Modelagem e Design de Sistemas Automatizados)
+Descrição: O projeto visa associar a modelagem formal de sistemas integrados e flexiveis e sua implementação, especialmente na programação de PLC's seguindo o padrão IEC 61131-3. No escopo deste projeto foi retomado o desenvolvimento do sistema GHENeSys (General Hierarchical Enhanced Net System) que é uma rede orientada a objetos desevolvida em 2002 no Design Lab. O parceiro pelo lado do Ministerio de Eneñança Superior é a Universide de Oriente em Santiago de Cuba.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Jose Reinaldo Silva - Coordenador / Israel Benitez Pina - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2004 - 2006
+Projeto Alfa - Comunidade Européia: Learning Automation and Laboratories
+Descrição: O projeto Alfa LeAL tem como objetivo o estudo dos métodos de ensino em Engenharia, particularmente os laboratórios virtuais e o seu papel no treinamento de técnicos e Engenheiros. O projeto desenvolveu um consórcio de laboratórios virtuais para treinamento em sistemas discretos de controle e supervisão. Responsável pela participação do Brasil no projeto que tinha ainda a Espanha (coordenação, UPC, Universidade Politécnica da Cataluha), Cuba (Universidad de Oriente), Argentina. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Reinaldo Silva - Integrante / Oscar Brito Augusto - Integrante / Israel Benitez Pina - Integrante / Joaquin Ros - Coordenador / Jimenez, Walter - Integrante / Regalini, Raul - Integrante / Loperana, Luisa V. - Integrante / Perez, Omar - Integrante / Oliveira, J.C.A - Integrante / Oliveira, J.A. - Integrante / Baraclarte, Roberto Alves - Integrante / Auer, Michael - Integrante / Pester, Andreas - Integrante / Saura, Jaime - Integrante / Sudria, Antoni - Integrante.Financiador(es): European Community - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2003 - 2007
+CAPES-COFICUB em convênio com o LAAS de Toulouse, França e UNICAMP
+Descrição: O projeto de cooperação bilateral coordenado pela UNICAMP tinha como objetivo o estudo dos processos de ponta em design de sistemas colaborativos e de apoio a processos mecatrônicos e de comunicação . As aplicações endereçadas foram os sistemas para pesquisa colaborativa e para ensino de engenharia. O projeto teve como parceiro o LAAS de Toulouse, França.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Reinaldo Silva - Integrante / Khalil Drira - Integrante / João Mauríco Rosário - Coordenador / Humberto Ferasoli - Integrante / Tazi, Said - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / EGIDE - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2003 - 2005
+FAPESP - Kiatera
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Jose Reinaldo Silva - Integrante / João Maurício Rosário - Integrante / Humberto Ferasoli - Integrante / Batocchio, Antonio - Integrante / Porto, Arthur José Vieira - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1999 - 2002
+SINTED - Sistemas Inteligentes para Edificações
+Descrição: Estudo de métodos de modelagem e design de sistemas de automação predial e residencial baseado em objetos e redes de Petri.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Reinaldo Silva - Integrante / Paulo Eigi Miygi - Coordenador.Financiador(es): Programa Ibero Americano de Ciencia y Tecnologia Para El Desarollo - Auxílio
+										financeiro.Número de produções C, T & A: 11
+1997 - 2002
+FINEP-RECOPE Sub-rede de Automação da Manufatura
+Descrição: Rede de pesquisa criada inicialmente com 10 instituições de 7 estados do Brasil. O objetivo da rede era pesquisar inovação e repasse de tecnologia primordialmente para a pequena e média empresa, bem como tópicos de tecnologia de ponta a serem inseridos no mercado nacional.  A sub-rede de Automação da Manufatura era coordenada pelo Prof. José Reinaldo Silva da Escola Politécnica da USP, Depto. de Eng. Mecatrônica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Especialização: (0)  / Mestrado acadêmico: (8)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Jose Reinaldo Silva - Coordenador / Paulo Eigi Miyagi - Integrante / Newton Maruyama - Integrante / Oswaldo Horikawa - Integrante / Jun Okamoto Jr - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 16
+1995 - 1998
+ECLA-Flexys Flexible Automated Systems
+Descrição: Estudo de Sistemas Flexíveis de manufatura, métodos formais de modelagem e design, nomenclatura técnica e desenvolvimento de supervisórios.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jose Reinaldo Silva - Integrante / Paulo Eigi Miyagi - Coordenador.Financiador(es): Programa Ibero Americano de Ciencia y Tecnologia Para El Desarollo - Auxílio
+										financeiro.Número de produções C, T & A: 9

@@ -1,0 +1,19 @@
+2019 - Atual
+Arquitetura de Inteligência de Dados para Predição e Tomada de Decisão nas Cadeias Produtivas da Cooperativa LAR
+Descrição: O laboratório central da LAR gera 30.000 dados de análise por mês e não utiliza esse no processo de melhoria deles. 
+Assim, eles querem uma solução que faça análise preditiva desses dados para um sistema de tomada de decisão que antecipe ações preventivas de segurança dos alimentos e processos. O sistema deve conter:
+*Disponbilidade de informações em tempo real
+*Gerar notificações e alertas
+*Registro das ações tomadas e aprendizado contínuo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Thiago França Naves - Coordenador / Nathalia Vieira Mota - Integrante.
+2019 - Atual
+Auditoria Automatizada da Qualidade do Couro Bovino Utilizando Visão Computacional e Deep Learning
+Descrição: O projeto consiste em desenvolver um arcabouço técnológico para captura de imagens de couro bovino processado na forma couro wet blue e classificação da quantidade de defeitos existentes na peça analisada. Existem mais de 18 tipos de anomalias e seis níveis de qualidade atribuído ao couro bovino.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Thiago França Naves - Coordenador / Jeferson Carlos Martin - Integrante.
+2013 - 2017
+Arquiteturas de Planejamento Probabilístico para Controle de Agentes Inteligentes em Jogos de Estratégia em Tempo Real
+Descrição: Esse projeto visa o estudo de diversas técnicas de inteligência artificial como mineração de dados, tomada de decisão sob incerteza, planejamento reativo e escalonamento. Essas técnicas são utilizadas com o objetivo de desenvolver arquiteturas com base em planejamento probabilístico e com múltiplas camadas de abstração e controle. Cada arquitetura desenvolvida representa um tipo de agente inteligente que será utilizado e testado no ambiente de jogos de estratégia em tempo real para controle de todas as tarefas do jogo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Thiago França Naves - Integrante / Augusto Afonso Branquinho - Integrante / Carlos Roberto Lopes - Coordenador.
+2012 - 2014
+Desenvolvimento de ambientes virtuais, para centro de operação de sistemas representativos das subestações e usinas da Cemig, associados a tecnologias de projeção 3D
+Descrição: A proposta deste trabalho é de envidar esforços de pesquisa no sentido de desenvolver soluções computacionais, com uso de técnicas de Realidade Virtual, para o controle e operação de sistemas elétricos de potência, em especial, subestações, usinas e seus componentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Thiago França Naves - Integrante / Alexandre Cardoso - Coordenador / Gerson Flávio Lima - Integrante / Alexandre Carvalho - Integrante.
+2010 - 2012
+Planejamento e escalonamento integrados para definição e gerenciamento de ações em ambientes de tempo real
+Descrição: O objetivo deste projeto é pesquisar técnicas de inteligência artificial aplicadas a planejamento e escalonamento para desenvolver abordagens que unifiquem as duas tarefas. O foco no desenvolvimento das abordagens são o gerenciamento de ações e tarefas que são alocadas em grandes quantidades e precisam que suas precondições sejam satisfeitas antes de sua execução. O gerenciamento desses tipos de ações é visto em ambientes de linhas de montagem e produção. Para validar a capacidade das abordagens desenvolvidas testes serão feitos no ambiente de jogos de estratégia em tempo real, que possuem quantidades de precondições superiores a ambientes de produção e as características de tempo real destes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Thiago França Naves - Integrante / Carlos Roberto Lopes - Coordenador.

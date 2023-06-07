@@ -1,0 +1,12 @@
+2017 - 2018
+Monitoramento de atividades pendentes da plataforma Moodle via dispositivos móveis.
+Descrição: Este projeto vislumbra o desenvolvimento de um sistema para integração/notificação de tarefas pendentes na plataforma Moodle com smartphones. Desta maneira, pretende-se reduzir a quantidade de trabalhos que não são entregues (por desconhecimento de prazo ou desconhecimento de tarefas) ou são entregues em atraso em disciplinas onde o Moodle é utilizado.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Andreu Carminati - Coordenador / Cleiton Silva Carvalho Paes - Integrante.
+2010 - 2011
+Algoritmos de escalonamento tempo real para sistemas com multiprocessamento simétrico
+Descrição: O objetivo geral deste projeto de pesquisa é buscar um melhor entendimento de como os diversos fatores envolvidos impactam a escalonabilidade e o overhead em sistemas multiprocessadores com restrições de tempo real. Procura-se algoritmos de escalonamento tempo real para sistemas multiprocessadores que apresentem boas propriedades. Este é um tema complexo, que já vem sendo estudado há vários anos e que não será esgotado no âmbito deste projeto de pesquisa. Entretanto, espera-se que os esforços empreendidos no escopo deste projeto contribuam para um melhor entendimento do tema.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Andreu Carminati - Integrante / OLIVEIRA, RÔMULO SILVA DE - Coordenador.
+2009 - 2010
+Abordagens de Escalonamento Tempo Real Adaptativo para Jogos Tipo MMG
+Descrição: Descrição: Estudar a aplicação de técnicas adaptativas de escalonamento tempo real em jogos tipo MMG (Massively Multiplayer Games). O desenvolvimento de jogos através da Internet traz vários desafios. Técnicas de escalonamento tempo real adaptativo precisam ser empregadas para lidar com a variabilidade nos tempos de resposta quando a Internet é usada. As abordagens de escalonamento desenvolvidas neste projeto usarão como bancada de teste os jogos via Internet tipo MMG... Situação: Concluído; Natureza: Pesquisa. Integrantes: Andreu Carminati - Integrante / OLIVEIRA, RÔMULO SILVA DE - Coordenador.
+2008 - 2009
+Plataforma integrada para gerência de transportes automatizados
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Andreu Carminati - Integrante / OLIVEIRA, RÔMULO SILVA DE - Coordenador.

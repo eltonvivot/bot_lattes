@@ -1,0 +1,41 @@
+2017 - Atual
+RECONHECIMENTO AUTOMÁTICO DA DISLEXIA: UMA ABORDAGEM BASEADA NO COMPORTAMENTO OCULAR E CLASSIFICADORES DE PADRÕES
+Descrição: INTRODUÇÃO: Dislexia é um distúrbio de aprendizagem com origem neurológica. Este
+transtorno é caracterizado pela dificuldade especifica e significante no desenvolvimento das
+habilidades de leitura e escrita, e que não pode ser descrito por baixa idade mental, acuidade
+visual ou educação inadequada. Isto pode afetar a habilidade de compreensão, o
+reconhecimento da escrita e a desempenho em tarefas que necessitem de leitura. Este
+transtorno é complexo, demorado e oneroso de ser diagnosticado porque é multiprofissional e
+realizado por exclusão. Para auxiliar no diagnóstico de disléxicos, eye trakers (rastreadores do
+olhar, ET) podem ser utilizados para a coleta e análise dos dados do comportamento ocular
+durante a leitura. OBJETIVO: Aplicar algoritmos computacionais para extrair características
+e classificar padrões oculares da leitura de disléxicos a partir dados provenientes de ET.
+MÉTODO: Este projeto tem em um primeiro momento a característica de um estudo
+exploratório e quantitativo. Assim, será utilizada uma base de dados do comportamento ocular
+de disléxicos durante a leitura. A partir desta base, será aplicado um algoritmo conhecido
+como mapas auto-organizáveis (self-organizing maps, SOM) e árvore de decisão para a
+extração de características de dados do olhar. Em um segundo momento este projeto assume
+uma característica correlacional e quantitativa. Neste caso, serão testados e comparados, a
+partir da análise dos valores de sensibilidade e especificidade, diversos classificadores de
+padrões para a tarefa de reconhecimento automático de disléxicos. RESULTADOS
+ESPERADOS: Será resultante deste estudo uma avaliação dos valores de sensibilidade e
+especificidade alcançados a partir da aplicação de técnicas de classificação de padrões com
+dados do comportamento ocular de disléxicos. Espera-se que esta pesquisa possa contribuir
+com a detecção de variáveis de comportamento ocular relevantes para a classificação de
+disléxicos. Além disto, este projeto também almeja disponibilizar um classificador que
+aumente o ferramental para o diagnóstico de dislexia em falantes do português brasileiro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Felipe Mancini - Coordenador / Antonio Carlos da Silva Junior - Integrante / Martina Navarro - Integrante.
+2015 - 2018
+MAPEAMENTO CONCEITUAL: Construção e Avaliação de Corretor Automático de Casos Clínicos em Saúde
+Descrição: O ensino da competência clínica para graduandos em enfermagem é um dos conteúdos fundamentais para que o enfermeiro possa desempenhar suas atividades profissionais ante as demandas de cuidado integral do paciente e de sua família. Um dos desafios é tornar este ensino capaz de articular conteúdos de diferentes naturezas com uma perspectiva de complexidade que, de fato, gere conhecimentos, tomada de decisão e atitudes condizentes com o perfil crítico e ético que a profissão exige. Com esta intenção o ensino baseado em estudos de caso tem sido utilizado na formação de profissionais da saúde com muitas opções operacionais. O presente projeto de pesquisa inova ao apresentar uma estratégia de ensino, o Mapeamento Conceitual (MC), baseado na aprendizagem significativa de Ausubel, como uma possibilidade para a resolução de casos clínicos voltados para o ensino da Enfermagem Clínica e Cirúrgica e também inova ao propor um software capaz de corrigir os MC produzidos no CMapTools, que é uma ferramenta desenvolvida pelo Institute for Human Machine Cognition (IHMC) da University of  West Florida, com supervisão de Alberto J. Cañas, que pode ser obtido gratuitamente no site do Institute for Human and Machine Cognition, IHMC  O objetivo deste projeto é desenvolver e avaliar uma aplicação web, aqui chamada de chamada de MCACC, baseada em técnicas de Processamento de Linguagem Natural (PLN) para correção de Mapas Conceituais (MC) advindos da resolução de Casos Clínicos em Saúde (CCS). 
+CONTRIBUIÇÕES CIENTÍFICAS ESPERADAS: 1 - Desenvolvimento e avaliações de algoritmos de PLN aplicados à correção de mapeamentos conceituais. 2 - Avaliação da satisfação do usuário no uso de ferramentas computacionais para auxiliar o docente na elaboração de casos clínicos em saúde e na correção automática de mapeamentos conceituais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Felipe Mancini - Coordenador / Ivan Torres Pisa - Integrante / Edvane B. L. De Domenico - Integrante / Thiago Schumacher Barcelos - Integrante / josé marcio duarte - Integrante / Valéria Sperduti Lima - Integrante / Marcos de Lima Carlos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2013
+EaD 360: Desenvolvimento e Avaliação de uma Ferramente de Busca Web Compartilhada e Conectada às Redes Sociais para Suporte à Aprendizagem em Ciências da Saúde
+Descrição: Devido à grande quantidade de conteúdo em saúde disponível na web, cada vez mais discentes de cursos de ensino a distância (EaD) em saúde utilizam buscadores comercias para recuperar tais conteúdos. O objetivo deste projeto é desenvolver  e acoplar ao Moodle um portal de busca web compartilhado e conectado às redes sociais para suporte à aprendizagem em ciências da saúde, aqui chamado de EaD 360. Este trabalho objetiva também avaliar o impacto do EaD 360 em uma disciplina da área de saúde da Universidade Aberta do Brasil. Espera-se que o EaD 360 suporte discentes e docentes na tarefa de busca e compartilhamento de conteúdos disponíveis na web. Com isto, também espera-se uma melhora na tarefa de ensino-aprendizagem em cursos de EaD.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Felipe Mancini - Coordenador / Ivan Torres Pisa - Integrante / Fernando Sequeira Sousa - Integrante / Teixeira, Fábio Oliveira - Integrante / Ricardo Agostinho de Rezende Junior - Integrante / Thiago Schumacher Barcelos - Integrante / Rodrigo Campos Bortoletto - Integrante / Priscilla Avelino - Integrante.Financiador(es): Instituto Federal de São Paulo - Auxílio
+										financeiro.
+2007 - 2011
+Construção e Avaliação de um Portal de Busca de Conteúdos Web em Saúde Baseado em Mineração Web
+Descrição: Construção e Avaliação de um Portal de Busca de Conteúdos Web em Saúde Baseado em Mineração Web. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) . Integrantes: Felipe Mancini - Coordenador / Ivan Torres Pisa - Integrante / Alex Esteves Jaccoud Falcao - Integrante / Thiago Martini da Costa - Integrante / Anderson Diniz Hummel - Integrante / Fabio Oliveira Teixeira - Integrante.
+2005 - 2007
+Aplicação de Redes Neurais Artificiais na Classificação de Padrões Posturais de Crianças Respiradoras Bucais
+Descrição: Aplicação de Redes Neurais Artificiais na Classificação de Padrões Posturais de Crianças Respiradoras Bucais. Situação: Concluído; Natureza: Pesquisa. Integrantes: Felipe Mancini - Coordenador / Ivan Torres Pisa - Integrante / Liu Chiao Yi - Integrante / Nova - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

@@ -1,0 +1,38 @@
+2010 - 2013
+INB: uma abordagem probabilística para aprendizado autônomo
+Descrição: Neste projeto serão investigadas novas técnicas para implementação de aprendizado autônomo baseadas numa abordagem probabilística incremental. O ponto de partida para estas atividades é o algoritmo INBC desenvovido pelo autor, que possibilita o aprendizado não-supervisionado incremental de um modelo probabilístico de agrupamentos a partir de uma seqüência de dados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Paulo Martins Engel - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 14 / Número de orientações: 1
+2007 - 2010
+Métodos Conexionistas Avançados para Aprendizado em Ambientes Complexos
+Descrição: Este projeto de pesquisa visa o desenvolvimento de técnicas de aprendizagem para sistemas ou agentes autônomos utilizando para isso uma abordagem conexionista.
+Objetivos:
+1) Desenvolver um método de aprendizado distal com detecção de contexto. 
+2) Desenvolver um método neuro-probabilístico para tarefas de previsão em ambientes ruidosos.
+3) Desenvolver um método de seleção de atributos guiado por desempenho para treinamento de redes neurais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Paulo Martins Engel - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2009
+ALGORITMOS DE RECUPERAÇÃO DE INFORMAÇÃO E MINERAÇÃO DE DADOS COM INCERTEZA E NA INTERNET
+Descrição: Proposição de uma lógica probabilística relacional.
+Extensão das linguagens FIPA-ACL e FIPA-SL para permitir a comunicação de probabilidades entre agentes em sistema multiagente e a especificação de conteúdos.
+Proposição de formalismo para recuperar informação na Web com base em mapas espaciais.
+Prosição de um agente de busca de informação na Web, para o ambiente de aprendizagem AMPLIA.
+Desenvolvimento de software para realizar inferências probabilísticas com base em MEBN.
+Desenvolvimento de aplicativo para avaliar a utilização da lógica probabilística relacional em aplicações de robótica cognitiva.
+Desenvolvimento de aplicativo para avaliar a utilização da lógica probabilística em Web semântica.
+Desenvolvimento de aplicativos para avaliar a utilização do formalismo MEBN em aplicações de Web semântica e Web inteligente.
+Desenvolvimento de aplicativos para avaliar a utilização do raciocínio espacial em aplicações de Web semântica e Web inteligente.
+Proposição de novos classificadores e de novas técnicas de mineração de dados mais adequadas ao uso em base de dados não balanceadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Martins Engel - Coordenador / Cecília Dias Flores - Integrante / Rosa Maria Vicari - Integrante.Financiador(es): Universidade de Brasília - Cooperação / Escola Politécnica da Universidade de São Paulo - Cooperação.
+2006 - 2009
+Descoberta de Conhecimento sobre Parâmetros Petrográficos e Petrofísicos de Arenitos - DC3PA
+Descrição: O principal objetivo deste projeto é aplicar técnicas de descoberta de conhecimento em bancos de dados sobre parâmetros petrográficos e petrofísicos dos arenitos da formação de Uerê para criar modelos descritivos destes dados.
+	Na abordagem proposta tem-se a intenção atingir cinco metas distintas:
+Identificação de um conjunto mínimo de parâmetros para possibilitar a predição da classe de petrofácies.
+Identificação de um conjunto mínimo de parâmetros para executar a predição da macroporosidade da amostra.
+Identificação de um conjunto mínimo de parâmetros para executar a predição da porosidade petrofísica da amostra.
+Identificação de um conjunto mínimo de parâmetros para executar a predição da permeabilidade petrofísica da amostra.
+Assegurar aos modelos desenvolvidos capacidade de generalização sobre dados não vistos e sobre amostras de arenitos de outras formações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Paulo Martins Engel - Coordenador / Luis Fernando de Ros - Integrante / Mara Abel - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2007
+Uma abordagem modular para sistemas robóticos móveis autônomos (SiRoMA)
+Descrição: Foram desenvolvidos os seguintes sistemas:
+1) Navegação exploratória baseada em problemas de valores de contorno dinâmicos
+2) Controle neural para locomoção de um robô quadrúpede
+3) Arquiteeturas conexionistas voltadas para ambientes parcialmente observáaveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Paulo Martins Engel - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

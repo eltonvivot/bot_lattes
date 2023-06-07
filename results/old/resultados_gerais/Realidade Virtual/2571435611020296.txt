@@ -1,0 +1,10 @@
+2019 - 2019
+Estudo e Prática de Revisão Sistemática da Literatura em Computação
+Descrição: O objetivo deste projeto foi estudar e compreender o método de Revisão Sistemática (RS), que consiste em ?um processo composto por uma sequência de fases bem definidas? (FELIZARDO et al, 2017) para a realização de uma revisão bibliográfica. Como resultados, foi realizada uma RS com a temática sobre bullying e jogos sérios digitais, compreendendo o protocolo, um documento com a extração dos dados de estudos aceitos conforme as diretrizes do protocolo da RS e um artigo científico com discussões sobre o tema abordado ao longo do processo.
+FELIZARDO, K.R. et al. Revisão Sistemática da Literatura em Engenharia de Software. Rio de Janeiro: Elsevier, 2017.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Cesar Balbino - Coordenador / Thaís Emília Rodrigues Vaz - Integrante.
+2017 - 2018
+Um Sistema Computacional para Registro e Organização de um Repositório Eletrônico de Biografias Históricas de uma Cidade
+Descrição: Uma aplicação web construída para prover um repositório digital de biografias históricas de uma cidade, a partir de nomes de vias públicas (Edital 035/2017-PROPI/IFMS).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Cesar Balbino - Coordenador / Claudinei Araújo dos Santos - Integrante / Ana Clara Oliveira Souza Carvalho - Integrante / Carlos Eduardo Dias Giacomini - Integrante.
+2017 - 2018
+Programação em Blocos e Gamificação como Suporte ao Ensino e Aprendizado de Lógica de Programação de Computadores
+Descrição: Desenvolvimento de um software que alie a programação em blocos e mecanismos de jogos, por meio da gamificação (Edital 035/2017-PROPI/IFMS).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Cesar Balbino - Coordenador / Heloísa Soares Vieira - Integrante.

@@ -1,0 +1,47 @@
+2021 - Atual
+Aprendizado de Máquina Semissupervisionado de Larga Escala
+Projeto certificado pelo(a) coordenador(a) Rodrigo Gabriel Ferreira Soares em 24/03/2022.
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cícero Garrozi - Integrante / Rodrigo Gabriel Ferreira Soares - Coordenador / GEORGE AUGUSTO VALENCA SANTOS - Integrante.
+2014 - Atual
+HealthDrones
+Descrição: Avaliação de plataformas "drones" como IDES para desenvolvimento de aplicações de monitoramento de fenômenos epidemiológicos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cícero Garrozi - Integrante / Jones Albuquerque - Coordenador / Glauco Estacio Gonçalves - Integrante / Victor Wanderley da Costa Medeiros - Integrante / Silvana Bocanegra - Integrante / Hernande Pereira da Silva - Integrante / Ênio Farias de França Silva - Integrante / Geber Moura - Integrante / Gabriel Alves - Integrante / Sérgio Soares - Integrante / Leopoldo Teixeira - Integrante / Silvio Meira - Integrante / Elaine Cristhine Gomes - Integrante / Onício Leal - Integrante / Alberto Rogério - Integrante / Paulino José Albuquerque - Integrante.
+2014 - Atual
+Sistema de Recomendação Inteligente para auxílio à Reeducação Alimentar
+Descrição: Pesquisa e Desenvolvimento de um sistema  de  Recomendação  Alimentar  Inteligente  para  smartphones  e tablets  que,  baseado  no  perfil  do  paciente  indicado  pelo  nutricionista  ou  médico endocrinologista  em  um  site  de  apoio,  sugira  automaticamente  o  consumo  de  alimentos apropriados  à  manutenção  do  perfil  designado  pelo  nutriionista  ou  endocrinologista,  em intervalos  regulares  e  de  acordo  com  as  informações  provenientes  da  sua  alimentação realizada previamente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Cícero Garrozi - Coordenador / Hélder Antero Amaral Nunes - Integrante / Gabriela Peixoto Torres Borba - Integrante / Antonio Jorge Ferreira Delgado Filho - Integrante / João Lucas de Carvalho Arruda - Integrante.
+2012 - 2013
+Desenvolvimento de software educativo para ensino de crianças com deficiência intelectual
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Cícero Garrozi - Coordenador / Marcos Luiz Henrique - Integrante.Número de produções C, T & A: 2
+2012 - 2013
+Desenvolvimento de ferramentas para computação social
+Descrição: Desenvolvimento de ferramentas de computação social para análise de informações compartilhadas entre os usuários, possibilitando que o conhecimento coletivo auxilie a tomada de decisão dos agentes isolados com base no comportamento social do grupo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cícero Garrozi - Coordenador.
+2008 - 2010
+Metodologia para uma WAN ótima
+Descrição: A rede IP de longa distância (WAN) da CHESF suporta o tráfego das mais
+diversas informações ao longo da empresa, tanto operacionais quanto
+administrativas, inclusive as mais críticas. No entanto esta rede não foi
+projetada para a demanda de tráfego atual, tampouco sua topologia foi
+concebida com o objetivo de maximizar a disponibilidade dos serviços IP e sua
+Qualidade de Serviço (QoS). Muito pelo contrário, grande parte da expansão
+desta rede foi feita sob demanda, considerando necessidades pontuais, e
+atendendo a restrições de uma plataforma de transmissão digital (SDH ou PDH)
+que tem sido bastante modificada ao longo do tempo. Nesse contexto, foi
+levantada a necessidade de um estudo capaz de projetar a WAN ideal para a
+Chesf, considerando suas demandas e restrições atuais e sua dinâmica, e ainda
+mais, de uma metodologia que permitisse a transformação da WAN atual nesta WAN
+ótima.
+Assim, foi aprovado pela ANEEL este projeto de Pesquisa e
+Desenvolvimento, com o objetivo de desenvolver um Sistema Computacional que
+permitisse otimizar a WAN e propor uma metodologia adequada para os órgãos de
+operação, manutenção e expansão dos sistemas de telecomunicações da empresa.
+Este projeto teve início no primeiro semestre de 2007 de acordo com a proposta
+feita pelo Grupo de Pesquisas em Redes de Telecomunicações - GPRT da UFPE e
+aprovada pela CHESF e ANEEL, que objetiva a construção de um software capaz de
+simular o desempenho de uma determinada rede de longa distâncias, tendo em
+vista sua rede de suporte de transmissão, o perfil das aplicações que ali
+trafegam, demandas de QoS e características  dos roteadores envolvidos. A
+partir das simulações, e com a aplicação de Inteligência Computacional é
+possível se chegar à rede ótima, com vistas à confiabilidade e desempenho das
+aplicações suportadas.
+Esta ferramenta permite também que, no caso da necessidade de expansão do
+sistema, por exemplo, devido à construção de uma nova subestação que deverá
+ser. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Cícero Garrozi - Integrante / Aluizio Fausto Ribeiro Araújo - Integrante / Djamel Fawzi Hadj Sadok - Coordenador / Elton Bernardo Bandeira de Melo - Integrante / Joseane Farias Fidalgo - Integrante / José Henrique de Paula Soares - Integrante.Financiador(es): Companhia Hidro Elétrica do São Francisco - Bolsa.

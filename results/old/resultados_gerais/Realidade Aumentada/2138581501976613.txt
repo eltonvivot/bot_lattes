@@ -1,0 +1,71 @@
+2017 - 2019
+Desenvolvimento de Software para Gerenciamento de Ambientes Controlados Por RFID e Reconhecimento Facial
+Descrição: Desenvolver um software para gerenciar ambientes que necessitam de controle de acesso a partir da identificação de pessoas por códigos de RFID ou reconhecimento facial.
+a) Modelar o funcionamento do software a partir de diagramas de caso de uso e atividades;
+b) Modelar o diagrama de classes e o banco de dados;
+c) Desenvolver o software para cadastro de pessoas que tenham acesso a determinado ambiente;
+d) Desenvolver a integração do software com códigos RFID;
+e) Desenvolver a integração do software com identificadores de reconhecimento facial.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Willians de Paula Pereira - Coordenador.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro / Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Bolsa.
+2017 - 2019
+Smart Greenhouse: Estufa Inteligente para Auxiliar Pessoas com o Cultivo de Hortaliças e Fungos
+Descrição: Desenvolver o protótipo de um equipamento que seja capaz de dar controle e informar ao usuário os dados sobre a estufa.
+Quanto aos objetivos específicos, o projeto busca:
+a) desenvolver o protótipo de um equipamento que seja capaz de identificar por meio de sensores a temperatura e umidade interna da estufa;
+b) desenvolver o protótipo de um equipamento que seja capaz de fazer a irrigação interna, juntamente com adição de nutrientes;
+c) desenvolver o protótipo de um equipamento que seja capaz de fazer a alimentação do equipamento e o carregamento de baterias LiPo a partir de placas solares;
+d) desenvolver o protótipo de um sistema de iluminação com leds adequados para o plantio;
+e) e, desenvolver o protótipo de um equipamento que seja capaz de informar ao usuário por meio web as informações coletadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Willians de Paula Pereira - Coordenador.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro / Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Bolsa.
+2017 - 2019
+Desenvolvimento de Materiais Didáticos de Robótica Educacional com o Uso de Realidade Aumentada
+Descrição: Desenvolver um kit didático para aprendizado de robótica educacional com simulação das práticas por meio de realidade aumentada.
+Objetivos Específicos
+a) Identificar as necessidades de um robô para competições de ensino fundamental e médio;
+b) Identificar os conteúdos didáticos que compõe a construção de um robô para competições;
+c) Desenvolver o conteúdo didático de construção do robô em um ambiente 3D com simulação de movimento;
+d) Desenvolver uma apostila com imagens em 2D para que seja lido pelo aplicativo de realidade aumentada;
+e) Testar a leitura das imagens da apostila pelo aplicativo para verificar a simulação em 3D.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Willians de Paula Pereira - Coordenador / Ricardo Bussons da Silva - Integrante.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro / Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Bolsa.
+2017 - 2019
+Show da Robótica: Aplicação de Atividades Lúdicas para Desenvolvimento de Protótipos e Mostra de Robôs
+Descrição: Desenvolver protótipos que possam interagir diretamente com a comunidade acadêmica de uma forma lúdica e dinâmica, estimulando o desenvolvimento técnico-cientifico dos alunos por meio de temas frequentemente abordados pelo público alvo.
+Objetivos Específicos
+a) desenvolver o protótipo de um equipamento eletrônico que seja capaz de realizar a identificação das características que diferenciam as pessoas por meio de RFID; 
+b) desenvolver o sistema de um painel interativo via rede wifi, que seja capaz de controlar a iluminação do ambiente;
+c) desenvolver um protótipo de alerta em caso de aproximação de pessoal não-autorizado nos seus arredores;
+d) desenvolver o protótipo de uma horta automatizada, para verificar umidade e temperatura da terra.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Willians de Paula Pereira - Coordenador.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro / Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Bolsa.
+2017 - 2019
+Desenvolvimento do Circuito de uma Fechadura para Acionamento por RFID, Câmera e Internet
+Descrição: Desenvolver uma placa de circuito eletrônico para integrar com fechaduras de acionamento elétrico e realizar abertura e fechamento por Radio Frequency Identity (RFID), câmera e comunicação pela internet.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Willians de Paula Pereira - Coordenador / Ricardo Bussons da Silva - Integrante.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Bolsa / Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro.
+2017 - 2019
+Desenvolvimento de Redes Neurais Artificiais para Reconhecimento Facial a partir do Uso de Frameworks
+Descrição: Desenvolver um software para reconhecimento facial a partir do uso de redes neurais artificiais com  frameworks e APIs de redes sociais para aprendizado da rede neural a partir das imagens do perfil das redes sociais.
+Objetivos Específicos
+a) Identificar o funcionamento do reconhecimento de padrões nos frameworks para reconhecimento facial;
+b) Desenvolver um algoritmo para reconhecimento facial a partir do uso dos frameworks;
+c) Desenvolver um software para buscar imagens no perfil das redes sociais dos usuários;
+d) Desenvolver uma rede neural artificial para reconhecimento facial a partir de imagens das redes sociais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Willians de Paula Pereira - Coordenador.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Bolsa / Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro.
+2014 - 2016
+Sistema embarcado para controle de cargas utilizando tecnologia RFID
+Descrição: Esse projeto tem como objetivo geral o desenvolvimento de uma plataforma de software, hardware e middleware que será capaz de identificar, rastrear e autenticar identificadores de radiofrequencia (Radio Frequency Identity - RFID) para fazer o controle de cargas no baú dos caminhões da distribuidora por meio dos lacres, atendendo as recomendações do projeto Brasil ID.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Willians de Paula Pereira - Coordenador / Rafael Pitwak Machado Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2014 - 2015
+Novas Tecnologias para o Ensino de Biologia: A Histologia na Rede
+Descrição: A necessidade de se adequar a velocidade com que as informações chegam aos alunos requer hoje professores atualizados e dinâmicos. Os professores de Ciências e Biologia acreditam que a melhoria do ensino está na introdução de aulas práticas no currículo. No entanto apenas algumas instituições ou professores conseguem desenvolver aulas com experiências. A possibilidade de o aluno exercer a atividade docente, mesmo que corresponda a uma aproximação daquilo que efetivamente acontece no dia-a-dia dos professores de Ciências e Biologia, é fundamental para a reflexão mais aprofundada sobre as possibilidades e limites que poderá encontrar no exercício profissional. A ideia que deu origem a este projeto surgiu no segundo semestre de 2012. Na ocasião, o coordenador era responsável pela oferta da disciplina de Histologia para o 3º período do curso de Licenciatura em Biologia ofertado pelo IFRO. Ao preparar o plano de ensino para a disciplina percebeu que não havia material para dar aulas práticas e nem material bibliográfico suficiente para todos os alunos. Pode se considerar que o ensino desta disciplina é realizado a partir da obtenção de informação visual, utilizando imagens microscópicas para posterior entendimento da função as células tecidos, órgãos e das transformações e processos a que estes estão sujeitos. A carência de imagens durante o curso pode levar a uma formação profissional menos sólida, pois estes conhecimentos são as bases sobre as quais, outras disciplinas estão sustentadas. Assim surgiu a necessidade de se pensar em uma ferramenta a que pudesse levar os alunos a elaborar, testar, reestruturar e aplicar atividades práticas alternativas no ensino dos conteúdos de Histologia, possibilitando uma maior dinamização do processo ensino aprendizagem e desvinculando a disciplina do seu caráter abstrato e muitas vezes de difícil compreensão.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Willians de Paula Pereira - Coordenador / Gisele Cavalcante Saldanha de Andrade - Integrante / Elisângela Bibá Gomes Pinho - Integrante.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro.
+2014 - 2015
+Smart Bus Stop: prototipagem e automação de pontos de ônibus
+Descrição: Esse projeto tem como objetivo desenvolver o protótipo de um equipamento para fazer a interpretação de dados enviados e recebidos utilizando a tecnologia GPS para identificar por meio de mapeamento georreferenciado quanto tempo falta para um ônibus chegar ao seu destino. Dessa forma será desenvolvido o protótipo de um equipamento que estará dentro do ônibus e enviará informações de sua localização para um satélite GPS, enquanto que outro equipamento estará no ponto de ônibus e receberá os sinais GPS enviados pelo equipamento do ônibus. Para esse equipamento será desenvolvido um software que deverá ser capaz de ler os dados e transformá-los em informações para o usuário, apresentando quanto tempo falta para o ônibus chegar no ponto. Essa pesquisa de natureza aplicada tem a intenção de proporcionar melhor qualidade de vida para o cidadãos dependentes do transporte público na municipalidade de Porto Velho, capital do estado de Rondônia. Esse projeto visa desenvolver o protótipo utilizando tecnologias abertas, reduzindo custos de sua implementação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Willians de Paula Pereira - Coordenador / Jorge Emmanuel dos Santos Marques - Integrante.Financiador(es): Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Auxílio
+										financeiro / Instituto Federal de Educação Ciência e Tecnologia de Rondônia - Bolsa.
+2013 - 2014
+Perfil de Incubadora Tecnológica em Face aos Arranjos Produtivos Locais na Municipalidade de Porto Velho, Capital do Estado de Rondônia
+Descrição: Fazer uma análise de qual perfil de incubadora tecnológica deveria se instalar na municipalidade de Porto Velho, capital do estado de Rondônia, em face aos seus Arranjos Produtivos Locais.Buscando-se: analisar a implantação de Incubadoras Tecnológicas no contexto pesquisado (a); identificar os Arranjos Produtivos Locais de Porto Velho ? Rondônia (b); construir um modelo de implantação de Incubadora Tecnológica em face aos Arranjos Produtivos Locais, no contexto de Porto Velho ? Rondônia como parte da Amazônia Legal (c).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Willians de Paula Pereira - Coordenador / Flávio de São Pedro Filho - Integrante.
+2012 - 2012
+Orientação Empreendedora e Aceleração de Negócios: Fatores, Processos e a Consolidação de Negócios Digitais
+Descrição: O projeto tem o intuito de examinar os papéis das empresas de aceleração de negócios na consolidação de startups.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Willians de Paula Pereira - Coordenador / Ítalo de Paula Casemiro - Integrante.
+2007 - 2008
+Análise de Usabilidade em Portais Websites com Sistemas Baseados em Conhecimento
+Descrição: Este projeto apresenta a usabilidade de sistemas aplicada a websites, destacando pesquisas de regras de usabilidade através de normas e bibliografias para serem aplicadas ao USAWEB, um Sistema Baseado em Conhecimento desenvolvido para avaliar o nível de usabilidade presente nos websites públicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Willians de Paula Pereira - Coordenador / Darlene Figueiredo Borges Coêlho - Integrante.Número de produções C, T & A: 1

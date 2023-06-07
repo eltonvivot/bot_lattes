@@ -1,0 +1,82 @@
+2022 - Atual
+Protótipo de microtomógrafo de raios X de baixo custo para análises de compósitos cimentícios
+Descrição: A indústria da construção civil é um dos setores mais relevantes da economia brasileira e mundial, ao mesmo tempo tem um grande potencial para à reciclagem de resíduos mediante à incorporação desses resíduos como agregados. O desenvolvimento e a incorporação destes novos materiais cimentícios com perfil sustentável requer o estudo e caracterização de suas propriedades. Outro dos problemas associados a esta indústria é a necessidade contínua de inspeção de grandes obras e projetos de infraestrutura, como pontes ou edifícios altos. Ensaios não-destrutivos são amplamente utilizados na caracterização de novos materiais e na inspeção de estruturas de concreto. Dentre deles, destaca a microtomografia de raios X que permite obter detalhes da estrutura interna dos objetos, entretanto uma de suas limitações é o alto custo dos equipamentos. Nesse contexto, a presente proposta visa projetar, construir e validar um protótipo de um microtomógrafo de raios X de baixo custo, para realização de ensaios não-destrutivos no estudo de amostras de materiais cimentícios. Os principais componentes deste microtomógrafo são: a fonte de raios X, o sistema de detecção, o sistema eletromecânico, a estrutura de suporte e proteção radiológica, o sistema de controle e o sistema computacional. A validação da eficácia do microtomógrafo prevê o estudo da porosidade e patologias dos materiais cimentícios a partir dos ensaios microtomógraficos e a comparação destes resultados com os ensaios mais frequentemente utilizados. Entre as principais contribuições da proposta estão a aquisição de know-how e a promoção de independência tecnológica em uma área tradicionalmente dominada pelos países desenvolvidos, ou por grandes multinacionais como a Siemens e a Bruker. Enfatizamos que dominar e/ou desenvolver tecnologias de ponta é um dos principais alicerces do crescimento econômico e do desenvolvimento social.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Joel S. Dominguez - Integrante / Joaquim Teixeira de Assis - Integrante / Jose Renato de Castro Pessoa - Integrante / Hermes Alves Filho - Integrante / Danilo de Santana Nunes - Integrante / Eduardo Martins Sampaio - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2022 - Atual
+Manutenção Corretiva de Equipamentos Multiusuários da UESC
+Descrição: Projeto submetido ao Edital SOS Equipamentos da FINEP, manutenção corretiva do CACAU.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Marcelo Ossamu Honda - Integrante / VALERO ORELLANA, ESBEL TOMÁS - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2019 - Atual
+Processamento de Sinal de Ultrassom e Microtomografia de Raios X para Identificação de Descontinuidades no Concreto
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Jose Renato de Castro Pessoa - Integrante / Laio Andrade Sacramento - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2019 - Atual
+Técnicas de Fluido Dinâmica Computacional Aplicadas à Otimização e Simulação de Sistemas de Refrigeração de Centros de Dados
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Leorlen Yunier Rojas Mazaira - Integrante / Antonio Oliveira Simão Junior - Integrante.Financiador(es): Universidade Estadual de Santa Cruz - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2019 - Atual
+Metodologias para segmentação de imagens tomográficas de concretos leves
+Projeto certificado pelo(a) coordenador(a) Susana Marrero Iglesias em 22/04/2020.
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Dany Sanchez Dominguez - Integrante / Susana Marrero Iglesias - Coordenador / Jose Renato de Castro Pessoa - Integrante.
+2017 - 2019
+Técnicas de Fluido Dinâmica Computacional Aplicadas ao Estudo e Caracterização do Fluxo Anular
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Alberto Escriva - Integrante.
+2017 - 2019
+Modelación computacional de Rectores Nucleares de Generación III + y Generación IV
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Dany Sanchez Dominguez - Integrante / Carlos Rafael García Hernández - Coordenador / Jesus Rosales Garcia - Integrante / Iram Bárbaro Rivas-Ortiz - Integrante.
+2017 - Atual
+Equipamentos multiusuários para os Programas de Pós-graduação em Modelagem Computacional em Ciência e Tecnologia e Botânica, da UESC- Visualização Científica do Micro ao Macro
+Projeto certificado pelo(a) coordenador(a) Francisco Bruno Souza Oliveira em 17/08/2020.
+Descrição: Sub Projeto de Proposta Contemplada no edital 11/2014 Melhoria da estruturade pesquisa da UESC com financiamento total de R$ 748.000,00 Recurso repassado em dezembro de 2017. Este subprojeto tem por objetivo geral a obtenção de equipamentos multiusuários, visando o fortalecimento da infraestrutura de pesquisa do Centro de Microscopia Eletrônica (CME), uma referência no Norte-Nordeste do país, e do Laboratório de Modelagem Computacional (LMC/CACAU). os quais poderão consolidar e ampliar as linhas de pesquisa existentes em Botânica Aplicada, Morfologia e Fisiologia Vegetal no PPG-BOT e Modelagem Matemática e Computacional Aplicada e Biologia Computacional no PPGMC.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (5) . Integrantes: Dany Sanchez Dominguez - Integrante / Francisco Bruno Souza Oliveira - Coordenador / Flavio Pietrobon Costa - Integrante / Felix Mas Millan - Integrante / Susana Marrero Iglesias - Integrante / Paulo Eduardo Ambrosio - Integrante / Eduardo Silva Palmeira - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2016 - 2017
+Modelagem Computacional Aplicada ao Estudo e Projeto de Reatores Nucleares Inovadores de Tipo ADS e Supercríticos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador / Carlos Rafael García Hernández - Integrante / Francisco Bruno Souza Oliveira - Integrante / Leorlen Yunier Rojas Mazaira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2015 - 2018
+Análise Morfológica de Compósitos Cerâmicos de Matriz Cimentícia
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Jose Renato de Castro Pessoa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2015 - 2017
+Utilização de técnicas avançadas de modelagem computacional para análise de imagens matrizes cimentícias
+Projeto certificado pelo(a) coordenador(a) Susana Marrero Iglesias em 19/04/2017.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Dany Sanchez Dominguez - Integrante / Susana Marrero Iglesias - Coordenador / Esbel T Valero Orellana - Integrante.Financiador(es): Universidade Estadual de Santa Cruz - Auxílio
+										financeiro.
+2013 - 2016
+Métodos Numéricos Determinísticos para Solução da Equação de Transporte de Partículas Neutras na Formulação de Ordenadas Discretas
+Projeto certificado pelo(a) coordenador(a) Hermes Alves Filho em 28/03/2014.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Doutorado: (2) . Integrantes: Dany Sanchez Dominguez - Integrante / Ricardo C Barros - Integrante / Susana Marrero Iglesias - Integrante / Francisco Bruno Souza Oliveira - Integrante / Hermes Alves Filho - Coordenador / Welton Alves de Menezes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2013 - 2015
+Implantação e implementação do Laboratório Regional de Modelagem Computacional em Ciência e tecnologia
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Francisco Bruno Souza Oliveira - Integrante / Felix Mas Millan - Integrante / Martha Ximena Torres Delgado - Integrante / Marcelo Ossamu Honda - Integrante / Paulo Eduardo Ambrosio - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Outra.
+2012 - 2016
+Estudo de sistemas nucleares avançados com combustível TRISO para a transmutação de rejeitos de longa vida e produção de hidrogênio com tecnologias de temperatura muito alta
+Descrição: Desenvolver estudos sobre sistemas nucleares avançados de altas temperaturas para a transmutação de rejeitos de longa vida e a produção de hidrogênio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (4) . Integrantes: Dany Sanchez Dominguez - Integrante / Carlos Rafael García Hernández - Integrante / Jesus A. R. Garcia - Integrante / Jesus Perez Curbelo - Integrante / Carlos Alberto Bryner O. Lira - Coordenador / Leorlen Yunier Rojas Mazaira - Integrante / Daniel Gonzaléz Rodriguéz - Integrante / Daniel M. Perez - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2012 - 2014
+Processamento Tridimensional de Imagens Micro-tomográficas Aplicado à Caracterização de Misturas de Concreto Leve
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Helder Conceição Almeida - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa.
+2010 - 2013
+Desenvolvimento e Aperfeiçoamento do Ambiente Virtual de Aprendizagem da UESC (AVA\UESC)
+Descrição: A presente proposta visa atuar em duas linhas: (1) a implantação e implementação de um Ambiente Virtual de Aprendizagem (AVA) que ofereça suporte a todos os cursos de graduação presencias; e (2) a capacitação de professores e profissionais técnicos administrativos na configuração e utilização de ferramentas TICs em atividades de ensino.  Estas duas linhas se complementam no objetivo comum de criar, estabelecer e consolidar uma cultura institucional na utilização de ferramentas EAD e TICs nas atividades de ensino de nossa universidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Dany Sanchez Dominguez - Coordenador / Francisco Bruno Souza Oliveira - Integrante / Paulo E. Ambrosio - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2009 - 2012
+Métodos Espectro Nodais Exponenciais Para Problemas de Transporte de Partículas em Geometria X,Y
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador / Susana Marrero Iglesias - Integrante / Francisco Bruno Souza Oliveira - Integrante / Esbel T Valero Orellana - Integrante / Hugo Menezes do Nascimento - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2007 - 2009
+Novas Formulações Numéricas para Resolver a Equação de Transporte de Nêutrons
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2007 - 2008
+Implantação do Laboratório Computacional de Gestão de Dados Socioeconômicos e Ambientais
+Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Dany Sanchez Dominguez - Coordenador.
+2006 - 2008
+Aperfeiçãomento do Laboratório de Computação Científica da UESC
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Dany Sanchez Dominguez - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro.
+2005 - 2007
+Novas formulações em elemntos finitos continuos / descontinuos para duas equações em derivadas parciais de Segunda ordem e uso da tecnica de decomposição do dominio
+Descrição: É bem conhecido que para problemas não elípticos, a solução do Método de Elementos Finitos (MEF) de Galerkin apresenta oscilações espúrias, que não correspondem ao comportamento físico do problema. Aqui pretendemos estudar dois casos particulares desta problemática: a equação da convecção-difução e a equação de Helmholtz. 
+A equação de convecção-difução é o modelo matemático que descreve o transporte de uma grandeza escalar. Em geral, a solução desta equação possui camadas limites, e neste caso, a solução do MEF de Galerkin é instável. Muitas outras formulações têm sido propostas como alternativa a formulação de Galerkin. Desenvolver uma formulação linear estável e precisa para esta equação é um problema que continua em aberto. Os melhores métodos que se têm são não lineares, o que implica num custo computacional, que pode ser determinante quando tratamos com grandes domínios ou domínios com geometrias complexas que precisam de malhas muito finas. Além disto, o fato de serem métodos iterativos dificulta o uso destes métodos para sistema de equações (Navier-Stokes).
+A equação de Helmholtz é o modelo matemático linear que descreve os harmônicos temporais de ondas acústicas, elásticas e eletromagnéticas. A solução do MEF de Galerkin apresenta o conhecido efeito de poluição do erro. À medida que o comprimento de onda diminui a solução aproximada torna-se mais instável, impedindo obter soluções numéricas para o regime de freqüências médias e altas. Varias formulações têm sido propostos como alternativa à formulação de Galerkin para contornar o efeito da poluição do erro. Todavia, estas alternativas, até hoje, para o caso bidimensional não são formulações livres de poluição. Dependendo da direção de propagação da onda as soluções numéricas apresentam uma dispersão de fase da onda, que pode ser muito significativa na medida em que o comprimento de onda diminui.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Dany Sanchez Dominguez - Coordenador.

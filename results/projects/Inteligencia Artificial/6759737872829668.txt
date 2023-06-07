@@ -1,0 +1,3 @@
+2019 - Atual
+Uma formulação eficiente em meshless para a análise do problema de flexão de placas espessas
+Descrição: Uma formulação em meshless, baseada no Meshless Local Petrov-Galerkin (MLPG) com a utilização de uma técnica eficiente de integração, será analisada objetivando a determinação de parâmetros ótimos, a fim de se aumentar a precisão da formulação. A ocorrência e as possíveis soluções do problema de travamento por cisalhamento transversal também são objetos de estudo deste trabalho.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Danilo Hiroshi Konda - Coordenador.

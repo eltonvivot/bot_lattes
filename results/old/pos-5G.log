@@ -1,0 +1,345 @@
+2023-05-24 23:13:54 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:14:05 -  > Pagina atual: 1
+2023-05-24 23:14:08 -  > Pagina atual: 1
+2023-05-24 23:14:19 - [8760117075106351] Projetos armazenados
+2023-05-24 23:14:30 - [7710354723027448] Projetos armazenados
+2023-05-24 23:14:42 - [4413923184921993] Projetos armazenados
+2023-05-24 23:14:52 - [8999676470821349] Projetos armazenados
+2023-05-24 23:15:03 - [1101075438495044] Projetos armazenados
+2023-05-24 23:15:13 - [3793781874827385] Projetos armazenados
+2023-05-24 23:15:23 - [3899623847910065] Projetos não encontrados
+2023-05-24 23:15:34 - [9689394915288313] Projetos armazenados
+2023-05-24 23:15:44 - [0507944343674734] Projetos armazenados
+2023-05-24 23:15:54 - [6475399824392517] Projetos armazenados
+2023-05-24 23:15:54 -  > Pagina atual: 1
+2023-05-24 23:15:57 -  > Pagina atual: 2
+2023-05-24 23:16:07 - [1223210921186615] Projetos armazenados
+2023-05-24 23:16:17 - [3996272952342357] Projetos armazenados
+2023-05-24 23:16:26 - [9038113331816861] Projetos armazenados
+2023-05-24 23:16:37 - [4009508060687531] Projetos armazenados
+2023-05-24 23:16:47 - [0063049048462929] Projetos armazenados
+2023-05-24 23:16:57 - [5371516618022155] Projetos armazenados
+2023-05-24 23:17:07 - [5596411109707542] Projetos armazenados
+2023-05-24 23:17:20 - [4357485133240999] Projetos armazenados
+2023-05-24 23:17:30 - [0545008172587815] Projetos armazenados
+2023-05-24 23:17:40 - [9090241842837676] Projetos armazenados
+2023-05-24 23:17:40 -  > Pagina atual: 2
+2023-05-24 23:17:43 -  > Pagina atual: 3
+2023-05-24 23:17:53 - [4433778294761502] Projetos armazenados
+2023-05-24 23:18:03 - [3435653179239615] Projetos armazenados
+2023-05-24 23:18:12 - [1914224370310328] Projetos armazenados
+2023-05-24 23:18:22 - [9425542829673914] Projetos armazenados
+2023-05-24 23:18:31 - [8427812096595204] Projetos armazenados
+2023-05-24 23:18:40 - [8204869834246714] Projetos armazenados
+2023-05-24 23:18:50 - [1803743813356365] Projetos armazenados
+2023-05-24 23:19:01 - [8830429960630659] Projetos armazenados
+2023-05-24 23:19:12 - [4297695725568502] Projetos armazenados
+2023-05-24 23:19:22 - [2330964607178017] Projetos armazenados
+2023-05-24 23:19:22 -  > Pagina atual: 3
+2023-05-24 23:19:25 -  > Pagina atual: 4
+2023-05-24 23:19:35 - [1610754518071325] Projetos armazenados
+2023-05-24 23:19:48 - [5359073935110357] Projetos armazenados
+2023-05-24 23:19:58 - [7957606883987162] Projetos armazenados
+2023-05-24 23:20:09 - [1301443198267856] Projetos armazenados
+2023-05-24 23:20:21 - [2865722030688852] Projetos armazenados
+2023-05-24 23:20:31 - [7304355962395872] Projetos armazenados
+2023-05-24 23:20:42 - [4413745344360646] Projetos não encontrados
+2023-05-24 23:20:53 - [3080506260732271] Projetos armazenados
+2023-05-24 23:21:03 - [2486689626847888] Projetos armazenados
+2023-05-24 23:21:13 - [2605473809005089] Projetos armazenados
+2023-05-24 23:21:13 -  > Pagina atual: 4
+2023-05-24 23:21:16 -  > Pagina atual: 5
+2023-05-24 23:21:46 - Tentativa: 1 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/form/div/div[4]/div/div/div/div[3]/div/div[3]/ol/li[1]/b/a")
+============================================================
+2023-05-24 23:21:46 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:21:54 -  > Pagina atual: 1
+2023-05-24 23:21:57 -  > Pagina atual: 5
+2023-05-24 23:22:27 - Tentativa: 2 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/form/div/div[4]/div/div/div/div[3]/div/div[3]/ol/li[1]/b/a")
+============================================================
+2023-05-24 23:22:27 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:22:34 -  > Pagina atual: 1
+2023-05-24 23:22:37 -  > Pagina atual: 5
+2023-05-24 23:23:07 - Tentativa: 3 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/form/div/div[4]/div/div/div/div[3]/div/div[3]/ol/li[1]/b/a")
+============================================================
+2023-05-24 23:23:08 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:23:14 -  > Pagina atual: 1
+2023-05-24 23:23:17 -  > Pagina atual: 5
+2023-05-24 23:23:47 - Tentativa: 4 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/form/div/div[4]/div/div/div/div[3]/div/div[3]/ol/li[1]/b/a")
+============================================================
+2023-05-24 23:23:47 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:23:58 -  > Pagina atual: 1
+2023-05-24 23:24:02 -  > Pagina atual: 5
+2023-05-24 23:24:32 - Tentativa: 5 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/form/div/div[4]/div/div/div/div[3]/div/div[3]/ol/li[1]/b/a")
+============================================================
+2023-05-24 23:24:32 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:24:39 -  > Pagina atual: 1
+2023-05-24 23:24:42 -  > Pagina atual: 5
+2023-05-24 23:25:13 - Tentativa: 6 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/form/div/div[4]/div/div/div/div[3]/div/div[3]/ol/li[1]/b/a")
+============================================================
+2023-05-24 23:25:13 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:25:20 -  > Pagina atual: 1
+2023-05-24 23:25:23 -  > Pagina atual: 5
+2023-05-24 23:25:53 - Tentativa: 7 |	Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=/html/body/form/div/div[4]/div/div/div/div[3]/div/div[3]/ol/li[1]/b/a")
+============================================================
+2023-05-24 23:25:53 - === INICIANDO NOVA EXECUÇÃO: pos-5G ===
+2023-05-24 23:26:01 -  > Pagina atual: 1
+2023-05-24 23:26:04 -  > Pagina atual: 5
+2023-05-24 23:26:13 - [0580891429319047] Projetos armazenados
+2023-05-24 23:26:23 - [2514007540772901] Projetos não encontrados
+2023-05-24 23:26:34 - [1253785596446469] Projetos armazenados
+2023-05-24 23:26:44 - [4159638862269940] Projetos armazenados
+2023-05-24 23:26:53 - [8142672413873390] Projetos armazenados
+2023-05-24 23:27:05 - [7257323910817700] Projetos armazenados
+2023-05-24 23:27:17 - [7752341440632617] Projetos armazenados
+2023-05-24 23:27:28 - [2312162247582254] Projetos não encontrados
+2023-05-24 23:27:40 - [6040855194699192] Projetos armazenados
+2023-05-24 23:27:49 - [1830272666326507] Projetos armazenados
+2023-05-24 23:27:50 -  > Pagina atual: 5
+2023-05-24 23:27:53 -  > Pagina atual: 6
+2023-05-24 23:28:03 - [9600861739266337] Projetos armazenados
+2023-05-24 23:28:12 - [6651334980521485] Projetos armazenados
+2023-05-24 23:28:25 - [6825512654223870] Projetos armazenados
+2023-05-24 23:28:35 - [3801476460958779] Projetos armazenados
+2023-05-24 23:28:44 - [9749970886455933] Projetos armazenados
+2023-05-24 23:28:57 - [1002535093147868] Projetos armazenados
+2023-05-24 23:29:10 - [6418768241571297] Projetos armazenados
+2023-05-24 23:29:20 - [0273000754120553] Projetos armazenados
+2023-05-24 23:29:31 - [2934786440085983] Projetos armazenados
+2023-05-24 23:29:43 - [9376203096430598] Projetos armazenados
+2023-05-24 23:29:44 -  > Pagina atual: 6
+2023-05-24 23:29:48 -  > Pagina atual: 7
+2023-05-24 23:29:58 - [0805445354046859] Projetos armazenados
+2023-05-24 23:30:08 - [8133514145411759] Projetos armazenados
+2023-05-24 23:30:19 - [5055727404635243] Projetos armazenados
+2023-05-24 23:30:35 - [4864692688677667] Projetos armazenados
+2023-05-24 23:30:47 - [0612112281360342] Projetos armazenados
+2023-05-24 23:30:57 - [9279970444599822] Projetos armazenados
+2023-05-24 23:31:07 - [1806063717574977] Projetos armazenados
+2023-05-24 23:31:17 - [7996502727094678] Projetos armazenados
+2023-05-24 23:31:27 - [8856264804055285] Projetos armazenados
+2023-05-24 23:31:36 - [6211240664667232] Projetos armazenados
+2023-05-24 23:31:37 -  > Pagina atual: 7
+2023-05-24 23:31:41 -  > Pagina atual: 8
+2023-05-24 23:31:54 - [9745937989094036] Projetos armazenados
+2023-05-24 23:32:04 - [4948528715888175] Projetos armazenados
+2023-05-24 23:32:14 - [7261115658729291] Projetos armazenados
+2023-05-24 23:32:24 - [6568693627641353] Projetos armazenados
+2023-05-24 23:32:36 - [2265948982068382] Projetos armazenados
+2023-05-24 23:32:49 - [0514178654667684] Projetos armazenados
+2023-05-24 23:33:03 - [0810124158379029] Projetos armazenados
+2023-05-24 23:33:14 - [2522777418118689] Projetos armazenados
+2023-05-24 23:33:27 - [3283741881583320] Projetos armazenados
+2023-05-24 23:33:38 - [9604696592563769] Projetos armazenados
+2023-05-24 23:33:39 -  > Pagina atual: 8
+2023-05-24 23:33:42 -  > Pagina atual: 9
+2023-05-24 23:33:52 - [5229070595111885] Projetos armazenados
+2023-05-24 23:34:03 - [4433849182059701] Projetos armazenados
+2023-05-24 23:34:13 - [3505849964932313] Projetos armazenados
+2023-05-24 23:34:23 - [7623983849119574] Projetos armazenados
+2023-05-24 23:34:32 - [9517561521265371] Projetos armazenados
+2023-05-24 23:34:43 - [1548806483243192] Projetos armazenados
+2023-05-24 23:34:54 - [1796990669353449] Projetos armazenados
+2023-05-24 23:35:04 - [0680877261356609] Projetos armazenados
+2023-05-24 23:35:15 - [5960280854075166] Projetos armazenados
+2023-05-24 23:35:25 - [4512074340599645] Projetos armazenados
+2023-05-24 23:35:26 -  > Pagina atual: 9
+2023-05-24 23:35:30 -  > Pagina atual: 10
+2023-05-24 23:35:39 - [9989795822168281] Projetos armazenados
+2023-05-24 23:35:50 - [2875593207169323] Projetos armazenados
+2023-05-24 23:36:00 - [1563614030107946] Projetos armazenados
+2023-05-24 23:36:10 - [4136576326278536] Projetos armazenados
+2023-05-24 23:36:19 - [5631258308872808] Projetos armazenados
+2023-05-24 23:36:28 - [7636226766852440] Projetos armazenados
+2023-05-24 23:36:38 - [8288858124711928] Projetos não encontrados
+2023-05-24 23:36:48 - [7980751861311441] Projetos armazenados
+2023-05-24 23:36:58 - [8047604543096116] Projetos armazenados
+2023-05-24 23:37:07 - [7929226205635235] Projetos armazenados
+2023-05-24 23:37:08 -  > Pagina atual: 10
+2023-05-24 23:37:12 -  > Pagina atual: 11
+2023-05-24 23:37:22 - [1630057446729066] Projetos armazenados
+2023-05-24 23:37:33 - [2013048264104100] Projetos armazenados
+2023-05-24 23:37:46 - [2417472013381368] Projetos armazenados
+2023-05-24 23:37:56 - [5893731382102675] Projetos armazenados
+2023-05-24 23:38:07 - [5384555860195426] Projetos armazenados
+2023-05-24 23:38:18 - [0329674351103110] Projetos armazenados
+2023-05-24 23:38:27 - [9163739520948219] Projetos armazenados
+2023-05-24 23:38:38 - [5404437676153162] Projetos armazenados
+2023-05-24 23:38:49 - [5814055927183329] Projetos armazenados
+2023-05-24 23:39:01 - [6128983828748446] Projetos armazenados
+2023-05-24 23:39:02 -  > Pagina atual: 11
+2023-05-24 23:39:05 -  > Pagina atual: 12
+2023-05-24 23:39:16 - [3708102324198107] Projetos armazenados
+2023-05-24 23:39:26 - [3166552559200081] Projetos armazenados
+2023-05-24 23:39:36 - [9839778710074372] Projetos armazenados
+2023-05-24 23:39:50 - [3302359238921561] Projetos armazenados
+2023-05-24 23:40:00 - [2233564176441352] Projetos armazenados
+2023-05-24 23:40:11 - [9830590737740134] Projetos armazenados
+2023-05-24 23:40:21 - [9868233765380165] Projetos armazenados
+2023-05-24 23:40:31 - [6849338900526119] Projetos armazenados
+2023-05-24 23:40:41 - [3740639726545315] Projetos armazenados
+2023-05-24 23:40:50 - [4451457264934035] Projetos armazenados
+2023-05-24 23:40:50 -  > Pagina atual: 12
+2023-05-24 23:40:54 -  > Pagina atual: 13
+2023-05-24 23:41:04 - [7215381403366597] Projetos armazenados
+2023-05-24 23:41:14 - [0033023657203189] Projetos armazenados
+2023-05-24 23:41:23 - [3394388400216373] Projetos armazenados
+2023-05-24 23:41:33 - [7059098935632507] Projetos armazenados
+2023-05-24 23:41:43 - [7151669913805328] Projetos armazenados
+2023-05-24 23:41:53 - [6368011643920221] Projetos armazenados
+2023-05-24 23:42:04 - [3545195769262482] Projetos armazenados
+2023-05-24 23:42:16 - [7812468603653799] Projetos armazenados
+2023-05-24 23:42:27 - [4172809477736641] Projetos armazenados
+2023-05-24 23:42:37 - [0060737617482357] Projetos armazenados
+2023-05-24 23:42:37 -  > Pagina atual: 13
+2023-05-24 23:42:41 -  > Pagina atual: 14
+2023-05-24 23:43:05 - [1180749525319069] Projetos armazenados
+2023-05-24 23:43:15 - [4164165557041199] Projetos armazenados
+2023-05-24 23:43:25 - [2925380715531711] Projetos armazenados
+2023-05-24 23:43:38 - [7128829324567785] Projetos não encontrados
+2023-05-24 23:43:47 - [9064767888093340] Projetos armazenados
+2023-05-24 23:43:59 - [6837228828495794] Projetos armazenados
+2023-05-24 23:44:11 - [8269779905235226] Projetos armazenados
+2023-05-24 23:44:22 - [5632722847264046] Projetos armazenados
+2023-05-24 23:44:35 - [1638470372275568] Projetos armazenados
+2023-05-24 23:44:47 - [2332604239081900] Projetos armazenados
+2023-05-24 23:44:48 -  > Pagina atual: 14
+2023-05-24 23:44:51 -  > Pagina atual: 15
+2023-05-24 23:45:02 - [2736978887761159] Projetos armazenados
+2023-05-24 23:45:14 - [0122916218414168] Projetos armazenados
+2023-05-24 23:45:24 - [5255328909165136] Projetos armazenados
+2023-05-24 23:45:36 - [1099300981335926] Projetos armazenados
+2023-05-24 23:45:47 - [5439786894607497] Projetos armazenados
+2023-05-24 23:45:58 - [6644721827442957] Projetos armazenados
+2023-05-24 23:46:12 - [0798429800100457] Projetos armazenados
+2023-05-24 23:46:25 - [9211890399850624] Projetos armazenados
+2023-05-24 23:46:35 - [8002163769688750] Projetos armazenados
+2023-05-24 23:46:46 - [7447943300478765] Projetos armazenados
+2023-05-24 23:46:46 -  > Pagina atual: 15
+2023-05-24 23:46:50 -  > Pagina atual: 16
+2023-05-24 23:47:00 - [0830785546690504] Projetos armazenados
+2023-05-24 23:47:11 - [8667525323155893] Projetos armazenados
+2023-05-24 23:47:21 - [8429436981406857] Projetos armazenados
+2023-05-24 23:47:32 - [6874544707185541] Projetos armazenados
+2023-05-24 23:47:44 - [0945463330398836] Projetos armazenados
+2023-05-24 23:48:01 - [2031806059477046] Projetos armazenados
+2023-05-24 23:48:21 - [7216727763603511] Projetos armazenados
+2023-05-24 23:48:33 - [6070980512750338] Projetos armazenados
+2023-05-24 23:48:44 - [4352323080338671] Projetos armazenados
+2023-05-24 23:48:54 - [4627496138739063] Projetos armazenados
+2023-05-24 23:48:54 -  > Pagina atual: 16
+2023-05-24 23:48:58 -  > Pagina atual: 17
+2023-05-24 23:49:08 - [8757803805826489] Projetos armazenados
+2023-05-24 23:49:19 - [6891930557384789] Projetos armazenados
+2023-05-24 23:49:28 - [6972273027044412] Projetos armazenados
+2023-05-24 23:49:42 - [6611289393148830] Projetos armazenados
+2023-05-24 23:49:53 - [6263028023417758] Projetos não encontrados
+2023-05-24 23:50:02 - [4390172524223604] Projetos armazenados
+2023-05-24 23:50:12 - [2749773427704993] Projetos armazenados
+2023-05-24 23:50:22 - [3050571547386576] Projetos armazenados
+2023-05-24 23:50:32 - [3576035801569264] Projetos armazenados
+2023-05-24 23:50:42 - [1963897712138599] Projetos armazenados
+2023-05-24 23:50:43 -  > Pagina atual: 17
+2023-05-24 23:50:46 -  > Pagina atual: 18
+2023-05-24 23:50:57 - [4186515742605446] Projetos armazenados
+2023-05-24 23:51:12 - [8333574588885096] Projetos armazenados
+2023-05-24 23:51:28 - [3196088341529197] Projetos armazenados
+2023-05-24 23:51:43 - [5849711278501873] Projetos armazenados
+2023-05-24 23:51:52 - [2655897909481225] Projetos armazenados
+2023-05-24 23:52:09 - [1934903225521860] Projetos armazenados
+2023-05-24 23:52:19 - [8298141172237555] Projetos armazenados
+2023-05-24 23:52:28 - [2510801786294166] Projetos armazenados
+2023-05-24 23:52:38 - [4346810447071054] Projetos armazenados
+2023-05-24 23:52:47 - [3922652248901843] Projetos armazenados
+2023-05-24 23:52:48 -  > Pagina atual: 18
+2023-05-24 23:52:52 -  > Pagina atual: 19
+2023-05-24 23:53:02 - [6306182798861780] Projetos armazenados
+2023-05-24 23:53:13 - [0176904550618260] Projetos armazenados
+2023-05-24 23:53:23 - [9451394084361809] Projetos armazenados
+2023-05-24 23:53:33 - [5012476998883237] Projetos armazenados
+2023-05-24 23:53:44 - [4979344841683251] Projetos armazenados
+2023-05-24 23:53:54 - [1786889674911887] Projetos armazenados
+2023-05-24 23:54:04 - [4205779497458915] Projetos armazenados
+2023-05-24 23:54:17 - [3794198610723464] Projetos armazenados
+2023-05-24 23:54:26 - [6725961067847325] Projetos armazenados
+2023-05-24 23:54:37 - [5025696916035003] Projetos armazenados
+2023-05-24 23:54:38 -  > Pagina atual: 19
+2023-05-24 23:54:42 -  > Pagina atual: 20
+2023-05-24 23:54:55 - [8444233927942764] Projetos armazenados
+2023-05-24 23:55:06 - [4881303482310816] Projetos armazenados
+2023-05-24 23:55:33 - [1819902045004845] Projetos armazenados
+2023-05-24 23:55:46 - [4182784247902426] Projetos armazenados
+2023-05-24 23:55:59 - [1087615389013655] Projetos armazenados
+2023-05-24 23:56:22 - [0047384210554210] Projetos armazenados
+2023-05-24 23:56:35 - [5938003791536092] Projetos armazenados
+2023-05-24 23:56:46 - [4071346575135201] Projetos armazenados
+2023-05-24 23:56:55 - [1847187277633756] Projetos armazenados
+2023-05-24 23:57:06 - [5681849967722723] Projetos armazenados
+2023-05-24 23:57:07 -  > Pagina atual: 20
+2023-05-24 23:57:10 -  > Pagina atual: 21
+2023-05-24 23:57:21 - [2861685938046060] Projetos armazenados
+2023-05-24 23:57:38 - [9637121030877187] Projetos armazenados
+2023-05-24 23:57:50 - [2409374959619035] Projetos armazenados
+2023-05-24 23:58:01 - [3036916968393237] Projetos armazenados
+2023-05-24 23:58:11 - [3624979503444152] Projetos armazenados
+2023-05-24 23:58:22 - [1854609924621164] Projetos não encontrados
+2023-05-24 23:58:34 - [3910065518034212] Projetos armazenados
+2023-05-24 23:58:44 - [2239103417420653] Projetos armazenados
+2023-05-24 23:58:55 - [3114942318419378] Projetos armazenados
+2023-05-24 23:59:06 - [3178864999293864] Projetos armazenados
+2023-05-24 23:59:06 -  > Pagina atual: 21
+2023-05-24 23:59:10 -  > Pagina atual: 22
+2023-05-24 23:59:32 - [3439599096974863] Projetos armazenados
+2023-05-24 23:59:44 - [3647042041612695] Projetos armazenados
+2023-05-24 23:59:55 - [6146541063955881] Projetos armazenados
+2023-05-25 00:00:05 - [2900995280822495] Projetos armazenados
+2023-05-25 00:00:16 - [1677000967927092] Projetos armazenados
+2023-05-25 00:00:27 - [2055316269740101] Projetos armazenados
+2023-05-25 00:00:43 - [0679387622604743] Projetos armazenados
+2023-05-25 00:01:02 - [0274178372961922] Projetos armazenados
+2023-05-25 00:01:14 - [5961075139772118] Projetos armazenados
+2023-05-25 00:01:25 - [5382633975779877] Projetos armazenados
+2023-05-25 00:01:26 -  > Pagina atual: 22
+2023-05-25 00:01:29 -  > Pagina atual: 23
+2023-05-25 00:01:41 - [7273258985517270] Projetos armazenados
+2023-05-25 00:01:53 - [1611696336740610] Projetos armazenados
+2023-05-25 00:02:03 - [2284701635017107] Projetos armazenados
+2023-05-25 00:02:14 - [1178540969733283] Projetos armazenados
+2023-05-25 00:02:24 - [0225181120381785] Projetos armazenados
+2023-05-25 00:02:35 - [8587567074814594] Projetos armazenados
+2023-05-25 00:02:46 - [1062288233305087] Projetos armazenados
+2023-05-25 00:03:00 - [9229153363435258] Projetos armazenados
+2023-05-25 00:03:12 - [7046351448775946] Projetos armazenados
+2023-05-25 00:03:23 - [1851884209044569] Projetos armazenados
+2023-05-25 00:03:24 -  > Pagina atual: 23
+2023-05-25 00:03:27 -  > Pagina atual: 24
+2023-05-25 00:03:39 - [0472856771871140] Projetos armazenados
+2023-05-25 00:03:50 - [2317496014692033] Projetos armazenados
+2023-05-25 00:04:01 - [2270043064790884] Projetos armazenados
+2023-05-25 00:04:13 - [7607696158499030] Projetos armazenados
+2023-05-25 00:04:24 - [0431862748743320] Projetos armazenados
+2023-05-25 00:04:34 - [4386203755404108] Projetos armazenados
+2023-05-25 00:04:44 - [3059640410928425] Projetos armazenados
+2023-05-25 00:04:55 - [3151576713472624] Projetos armazenados
+2023-05-25 00:05:08 - [7943425772967712] Projetos armazenados
+2023-05-25 00:05:23 - [3099010533644898] Projetos armazenados
+2023-05-25 00:05:24 -  > Pagina atual: 24
+2023-05-25 00:05:27 -  > Pagina atual: 25
+2023-05-25 00:05:36 - [9759944648465918] Projetos armazenados
+2023-05-25 00:05:47 - [5556212442729541] Projetos armazenados
+2023-05-25 00:05:58 - [6350047853320576] Projetos armazenados
+2023-05-25 00:06:11 - [9941579627170607] Projetos armazenados
+2023-05-25 00:06:11 - === FINALIZADO ===

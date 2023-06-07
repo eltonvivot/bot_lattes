@@ -1,0 +1,38 @@
+2009 - 2012
+?CONTROLE DIGITAL APLICADO A GERADOR DE INDUÇÃO ISOLADO, PARA ATENDIMENTO DE PEQUENAS COMUNIDADES RURAIS.?
+Descrição: Resumo - Neste relatório, constituído pelas partes I e II, apresenta-se a implementação em laboratório de um sistema de controle empregando a placa dedicada de disparo digital de tiristores, MP410T da SEMIKRON, para ajuste de tensão e frequência para um gerador de indução operando isoladamente. Uma carga lastro será controlada pela atuação do controlador da placa para que o gerador ?enxergue? sempre uma carga aproximadamente ?constante?. A tensão gerada e a frequencia são mantidos em torno de seus valores típicos para cargas do meio rural. O sistema completo do protótipo foi montado em laboratório com potência de 1[kW]. Para verificar melhor o desempenho da placa, esta foi montada numa microusina hidrelétrica de 35[kW] equipada com um gerador de indução e uma Bomba Funcionando como Turbina(BFT). Foram realizados no protótipo testes de variação de carga para se obter as formas de onda da tensão na carga principal e na carga lastro. Na microusina foi verificado o desempenho da placa quando se realizou um teste de entrada e saída de carga. O sistema proposto mostrou-se robusto e simples no controle da tensão e freqüência.
+Parecer FAPEMIG sobre a conclusão do projeto:
+Subject: FAPEMIG: NOTIFICAÇÃO APQ-00201-09 - DEPARTAMENTO DE AVALIAÇÃO [DAV]
+Belo Horizonte, 26/03/2013
+Processo : APQ-00201-09
+Título  : Controle digital aplicado a gerador de indução isolado, para
+atendimento de pequenas comunidades rurais.
+Prezado(a) Pesquisador(a) ANGELO JOSÉ JUNQUEIRA REZEK
+Comunicamos a V.Sa que a Câmara de Assessoramento analisou e aprovou os
+resultados apresentados neste projeto emitindo o
+seguinte parecer:
+"O objetivo do projeto foi o desenvolvimento de um sistema de controle
+digital de tensão e frequência simples para aplicação em
+pequenos aproveitamentos de microcentrais hidrelétricas do meio rural. O
+objetivo foi atingido empregando placa dedicada disponível no
+comércio, de menor custo, empregando tecnologia de fácil disseminação. Além
+do objetivo inicial, também foi desenvolvido um sistema
+de fechamento emergencial da comporta para evitar danos mecânicos ao grupo
+gerador e sobretensões inadmissíveis nos terminais do
+gerador. Foram implementados protótipos de controle de carga lastro no
+laboratório de desenvolvimento da UNIFEI e caso real em uma
+fazenda. Os produtos iniciais propostos foram quase todos obtidos, com
+exceção tese de doutorado, o que foi devidamente justificado.
+Apesar de não ser previsto nos produtos iniciais, foram mencionados
+trabalhos em eventos científicos relacionados com os resultados da
+pesquisa mas nem todos foram apresentados no relatório final. A Câmara de
+Assessoramento TEC recomenda a aprovação do relatório
+final".
+Aproveitamos a oportunidade para agradecer a importante contribuição de
+V.Sa. para o desenvolvimento da Ciência, Tecnologia e
+Inovação no Estado de Minas Gerais.
+Atenciosamente,
+ALINE M. CARRARO BORGES
+Departamento de Avaliação - DAV
+Fundação de Amparo à Pesquisa do Estado de Minas Gerais. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Angelo José Junqueira Rezek - Coordenador / Alexandre Viana Braga - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

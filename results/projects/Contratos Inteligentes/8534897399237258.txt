@@ -1,0 +1,19 @@
+2018 - 2018
+Eficiência no Consumo de Energia Elétrica da UFC
+Descrição: O objetivo geral do projeto será o de realizar diagnósticos e estudos de viabilidade técnica e econômica para redução do consumo de energia elétrica da UFC.
+Dentre os objetivos específicos, realizar:
+- leitura técnica da fatura de energia elétrica da UFC;
+- análise do mercado de energia elétrica;
+- aplicação de técnicas de eficiência energética;
+- formações técnicas especializadas para mudança de hábitos no consumo.
+A ação proposta será desenvolvida com metodologia e atividades a serem desenvolvidas pelos bolsistas que seguem os seguintes passos:
+- Auditoria Energética:
+Traçar o perfil de consumo de energia elétrica atual. Nesta etapa será feita a caracterização do consumo energético através da identificação dos principais sistemas consumidores de energia (iluminação, força motriz, alimentação, transformação e distribuição, climatização e refrigeração, ar comprimido) e avaliação das perdas de energia.
+- Análise:
+Nesta etapa será feito o desenvolvimento dos estudos técnicos e econômicos das alternativas de redução das perdas de energia.
+- Diagramas de Sankey atual e prospectos:
+Os diagramas de Sankey são uma forma gráfica de representar os fluxos energéticos, desde sua entrada até os usos finais, caracterizando as diversas transformações intermediárias e as perdas associadas. Os fluxos são representados por faixas e devem apresentar a situação base e as alternativas propostas evidenciando o nível de atendimento das demandas de energia útil, as perdas, transformações e conversões.
+- Gestão de energia elétrica:
+Esta etapa pode ser dividida em - gestão da fatura de energia (leitura técnica da fatura de energia elétrica); gestão da demanda de energia elétrica (evitar a partida de grandes cargas simultaneamente e linearizar a curva de demanda); e, gestão do consumo de energia elétrica (utilizar equipamentos eficientes e evitar uso desnecessário dos equipamentos).
+- Formação técnica especializada:
+Etapa fundamental para efetivamente promover o uso racional de energia, esclarecendo, difundindo e provocando as atividades de eficiência energética através de formações voltadas para os usuários da UFC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Raphael Amaral da Camara - Coordenador / GUILHERME SARAIVA MARTINS - Integrante / WANDICK LANDRY SOBREIRA C. FILHO - Integrante / EVENI PEREIRA COSME - Integrante / FILIPE VIRGOLINO R. DE SOUSA - Integrante / JOSEDMUNDO FACÓ M. DA CUNHA NETO - Integrante.Financiador(es): Universidade Federal do Ceará - Bolsa.

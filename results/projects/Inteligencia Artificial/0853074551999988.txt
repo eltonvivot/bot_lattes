@@ -1,0 +1,32 @@
+2015 - 2016
+Implementação de algoritmos de reconhecimento de fala em dispositivos móveis
+Descrição: Projeto PIBIC desenvolvido na UFS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Nogueira Matos - Coordenador.Número de produções C, T & A: 2
+2014 - 2015
+Paralelização de Algoritmos de Treinamento de Modelos Escondidos de Markov
+Descrição: Projeto PIBIC desenvolvido na UFS.
+O objetivo do projeto é realizar a implementação de HMM em linguagens R, versão para prototipação, sequencial, e em C++, usando orientação a objetos e hardware paralelo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Nogueira Matos - Coordenador.
+2013 - 2014
+Paralelização de algoritmos de visão computacional II
+Descrição: Projeto PIBIC
+O objetivo deste projeto é desenvolver uma biblioteca de classes em C++ contendo a implementação paralela de algoritmos usados em processamento de imagens e visão computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Nogueira Matos - Coordenador.
+2009 - 2010
+Automação Residencial com Iteração Vocal
+Descrição: Esse projeto de pesquisa tem como objetivo produzir uma solução que permita controlar dispositivos elétricos e eletrônicos de uma residência, tais como sistema de iluminação e eletrodomésticos, por meio de um smartphone. Essa solução envolve o desenvolvimento de um software embarcado no dispositivo móvel para capturar comandos vocais do usuário e transmitir a um módulo servidor. O servidor, que também faz parte do trabalho desenvolvido, realiza análise acústica, léxica e semântica das sentenças enviadas pelo aparelho celular. O projeto é financiado com recursos da Lei de Informática.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Leonardo Nogueira Matos - Coordenador / Hendrik Teixeira Macedo - Integrante / Giovanny Fernando Lucero Palma - Integrante.Financiador(es): SMS Tecnologia Eletrônica Ltda - Auxílio
+										financeiro.
+2008 - 2009
+Programação Paralela de um Sistema de Localização de Placas Veiculares
+Descrição: Projeto de pesquisa com financiamento de bolsa PIBIC pela FAPITEC. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Nogueira Matos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Bolsa.Número de produções C, T & A: 1
+2008 - 2009
+TeouVi: Interatividade Vocal em Ambiente de TV Digital
+Descrição: Prover uma infra-estrutura de software de suporte ao desenvolvimento de aplicações para TV digital que permitam interatividade via voz.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Nogueira Matos - Integrante / Ricardo José de Paiva Britto Salgueiro - Integrante / Hendrik Teixeira Macedo - Coordenador / Giovanny Fernando Lucero Palma - Integrante / Henrique Nou Schneider - Integrante.Financiador(es): PROCED Ltda - Auxílio
+										financeiro.
+2007 - 2008
+Sistema de Atenção Visual para Detecção de Indivíduos em Ambientes Fechados
+Descrição: Projeto submetido ao programa de apoio ao recém-doutor promovido pela Universidade Federal de Sergipe. Situação: Concluído; Natureza: Pesquisa. Integrantes: Leonardo Nogueira Matos - Coordenador.Financiador(es): Universidade Federal de Sergipe - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - 2007
+Utilização de redes neurais SOM para análise de dados espaciais
+Descrição: A proposta deste projeto é desenvolver um sistema multiplataforma para análise espacial com Redes Neurais Artificiais integrado ao sistema de código aberto TerraView. O sistema será desenvolvido inteiramente com base em ferramentas livres, para tanto será usado o sistema operacional GNU/Linux e a biblioteca gráfica Qt, cuja versão para GNU/Linux é distribuída com licença GPL. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Nogueira Matos - Coordenador / Marco Aurélio Santos Silva - Integrante / Renato José Santos Maciel - Integrante.Financiador(es): Empresa Brasileira de Pesquisa Agropecuária - Cooperação.
+2006 - 2007
+Segmentação de vídeo usando um sistema especialista Bayesiano
+Descrição: A proposta desse projeto é realizar a segmentação e o reconhecimento de imagens de placas de veículos capturadas a partir de sensores de rua instalados pela SMTT-Aracaju (Secretaria Municipal de Transporte e Trânsito de Aracaju). Esse é um projeto de Iniciação Científica aprovado com quotas voluntárias (PICVOL). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Nogueira Matos - Coordenador / Catuxe Varjão de Santana Oliveira - Integrante / Yuri Tavares dos Passos - Integrante.

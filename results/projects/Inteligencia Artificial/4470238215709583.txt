@@ -1,0 +1,57 @@
+2012 - Atual
+Protocolos de Qualidade - Um estudo das Métricas de Engenharia de Software e Seus Valores de Referência
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Mestrado acadêmico: (1) . Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2011 - 2014
+UM MODELO DE GUIA PARA SELEÇÃO E APLICAÇÃO DE MÉTODOS DE AVALIAÇÃO DE INTERFACE DO USUÁRIO
+Descrição: Atualmente, o Engenheiro de Software não conta com um manual ou guia capaz de orientá-lo de quais técnicas e métricas ele pode se utilizar para avaliar a interface do sistema, segundo a necessidade da empresa. Portanto, revisar as técnicas e métricas existentes, catalogá-las e disponibilizá-las num formato que facilite o engenheiro de software a tomar decisões com informações atualizadas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2011 - 2012
+REVISÃO SISTEMÁTICA DE ENGENHARIA DE SOFTWARE EXPERIMENTAL IN VITRO
+Descrição: Verificar na literatura academica os experimentos In Vitro realizados na área de engenharia de software e protocolos propostos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2010 - 2017
+DESENVOLVIMENTO DE PROTOCOLOS DE QUALIDADE POR MEIO DE MÉTRICAS
+Descrição: Estabelecer um conjunto de métricas com valores de referencia bem definidos para se avaliar um fator de software de interesse. Assim, espera-se poder estabelecer protocolos de manutenibilidade, usabilidade, portabilidade etc, tornando mensurável e permitindo a comparação de sistemas de software quanto a estes fatores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2010 - 2016
+UMA ANÁLISE DE MÉTRICAS DE PROJETO E SEUS VALORES DE REFERÊNCIA
+Descrição: Este projeto consiste em realizar uma revisão sistemática de métricas de projeto e código de software, identificando o histórico da métrica, seus valores de referência e quando não houver, calcular seu valor de referencia baseado em duas iniciativas. Primeira iniciativa, é analisar software de código aberto para estabelecer um valor de referencia praticado no mercado. Segunda iniciativa consiste em estabelecer um valor de referência baseando-se nos valores de referência já existentes e estabelecendo intervalos a partir dos intervalos propostos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2010 - 2011
+Análise de Ferramentas, Técnicas e Algoritmos de Deteção de Plágio
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2010 - 2011
+Identificação de Indícios de Interesses Transversais em Softwares Orientados a Objetos usando Técnicas Semânticas de Mineração
+Projeto certificado pelo(a) coordenador(a) Heitor Augustus Xavier Costa em 11/08/2015.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Integrante / Heitor Augustus Xavier Costa - Coordenador.
+2010 - 2011
+MAPEAMENTO AUTOMÁTICO DE ÁREAS CAFEEIRAS UTILIZANDO EXTRATORES DE TEXTURA E FORMA EM IMAGENS MULTIESPECTRAIS DE SENSORIAMENTO REMOTO
+Descrição: Edital Universal MCT/CNPQ 14/2010. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Integrante / WILIAN SOARES LACERDA - Coordenador.
+2010 - 2011
+Modelos de Classes Orientados a Aspectos de Software Orientados Aspectos
+Projeto certificado pelo(a) coordenador(a) Heitor Augustus Xavier Costa em 13/08/2015.
+Descrição: Edital Universal MCT/CNPQ 14/2010. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Integrante / Heitor Augustus Xavier Costa - Coordenador.
+2010 - 2011
+Identificação de Indícios de Interesses Transversais em Softwares Orientados a Objetos usando Técnicas Semânticas de Mineração
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2010 - 2011
+Inspeção e Aplicabilidade de Métodos de Avaliação de Interfaces de Sistemas de Software
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2010 - 2010
+Inspeção e Aplicabilidade de Métodos de Avaliação de Interfaces de Sistemas de Software
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2007 - 2008
+Modelagem de Um Processo de Desenvolvimento de Software para Uma Fábrica de Software Apoiado em Modelos de Qualidade e sua automação por meio de Workflow
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2007 - 2008
+Estado da prática profissional em Engenharia de Software: Portal de Conhecimento
+Projeto certificado pelo(a) coordenador(a) Heitor Augustus Xavier Costa em 11/08/2015.
+Descrição: -. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Integrante / Heitor Augustus Xavier Costa - Coordenador / André Luiz Zambalde - Integrante.
+2007 - 2008
+Software para Aquisição de Dados de balança para redução do tempo gasto no registro de informações de experimentos científicos realizados no departamento de biologia.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2003 - 2005
+Soluções Tecnológicas de Apoio a Gestão de Tráfego e Mobilidade Rodoviária GTMR (FNDCT N 01.02.0059.00 FINEP CNPq FCMF- COMPSIS)
+Descrição: Soluções Tecnológicas de Apoio à Gestão de Tráfego e Mobilidade Rodoviária foi aprovada e publicada, no dia 19/11/02, no Portal da FINEP como Projeto FVA CMI-17.O Projeto FVA CMI-17 tem por objetivo a investigação de Soluções Tecnológicas baseadas em geoprocessamento e georeferenciamento para soluções na área de Transporte Rodoviário, e possui 11 (onze) Metas Físicas classificadas em 02 (duas) grandes Áreas de Soluções Tecnológicas: a Área de Gestão de Tráfego Rodoviário - GTR e a Área de Gestão de Mobilidade Rodoviária - GMR.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Integrante / Adilson Marques da Cunha - Coordenador / Carlos Muller - Integrante / Vakulathil Abdurahiman - Integrante / Elder Moreira Hemerly - Integrante / Wagner Chiepa Cunha - Integrante / Jacques Waldmann - Integrante / Cairo L. Nascimento Júnior - Integrante / Edgar Toshiro Yano - Integrante / Carlos Henrique Costa Ribeiro - Integrante / Armando Milioni - Integrante / Osamu Saotome - Integrante.
+2003 - 2004
+Integação do MIPFor 1.0 ao Sistema de Informação na Vallourec & Mannesmann
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador.
+2003 - 2003
+MIPFor 2.0 - Aprimoramento do software para gerenciamento do manejo de formigas cortadeiras com uso de coletores de dados digitais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Maria Pereira de Resende - Coordenador / Ronald Zanetti - Integrante.

@@ -1,0 +1,30 @@
+2020 - 2021
+Robot Vision
+Descrição: Edital 34/2019 - FABIN - Robô móvel autônomo com visão computacional. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Régia de Mendonça Neves - Coordenador / Felipe Toledo Neves - Integrante / Isabele Araújo Amaro - Integrante / Joel Crescêncio de Lima Sena - Integrante.Financiador(es): Instituto Federal de Brasília - Bolsa.
+2020 - Atual
+Classificador supervisionado para hepatites virais do tipo B e C
+Descrição: Edital nº 07/2020 PIBIC ? FAP/DF. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Régia de Mendonça Neves - Coordenador / Pedro Henrique Fernandes de Santana - Integrante.Financiador(es): Fundação de Apoio a Pesquisa do Distrito Federal - Bolsa.
+2019 - 2020
+Aplicação de Redes Neurais Artificiais na Classificação de Danos Hepáticos
+Descrição: PIBIC ? Ensino Superior FAP-DF. 
+EDITAL Nº 32/RIFB, DE 10 DE OUTUBRO DE 2018. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Régia de Mendonça Neves - Coordenador / Samuel Ferreira Lopes - Integrante.Financiador(es): Fundação de Apoio à Pesquisa do Distrito Federal - Bolsa / Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio
+										financeiro.
+2019 - 2019
+Sistema Inteligente para Monitoramento Agrícola
+Descrição: O projeto foi escrito baseado em um problema real na agricultura. Os sistemas disponíveis de
+baixo custo para o pequeno produtor só consideram a umidade do solo para a irrigação da
+plantação. Porém, outras variáveis também contribuem para essa tomada de decisão, como a
+probabilidade de chuva no local.
+Assim, o protótipo desenvolvido nesse projeto teve como objetivo desenvolver um protótipo
+que coletasse diferentes informações, por sensores e informações meteorológicas online, para
+controlar a irrigação de uma plantação, diminuindo custos de energia e desperdício de água.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Régia de Mendonça Neves - Coordenador / Fábio Henrique Monteiro Oliveira - Integrante / Caio Vitor Martins Siqueira Santos - Integrante / Ester Dias de Oliveira Santos - Integrante / Ingrid Pereira Cristina da Silva - Integrante / Letícia Ribeiro Santos - Integrante / Ronaldo de Sousa Filho - Integrante.Financiador(es): Instituto Federal de Brasília - Bolsa / Instituto Federal de Brasília - Auxílio
+										financeiro.
+2019 - 2019
+GoPark ? estacionamento interativo
+Descrição: O projeto surgiu de uma necessidade no contexto de mobilidade urbana, em que as cidades
+estão congestionadas por diversos motivos, como a falta de transporte público alternativo de
+qualidade. Por isso, a população ainda opta pela compra de carros particulares e outro
+problema surge: a falta de estacionamento. Nesse sentido, o desenvolvimento do projeto
+objetiva otimizar o tempo de procura por uma vaga para estacionar em locais públicos, bem
+como evitar tráfego indesejado em ruas movimentadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Ana Régia de Mendonça Neves - Coordenador / Fábio Henrique Monteiro Oliveira - Integrante / Elizeu Grosskopf Schlottfeldt Neto - Integrante / Matheus Nícollas de Souza Mota - Integrante.Financiador(es): Instituto Federal de Brasília - Bolsa / Instituto Federal de Brasília - Auxílio
+										financeiro.

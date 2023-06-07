@@ -1,0 +1,103 @@
+2022 - Atual
+Teste de Software Baseado em Mutação com Alta Eficácia e Baixa Dívida Técnica: Processo Automatizado e Protótipo de Ambiente de Apoio Livres
+Projeto certificado pelo(a) coordenador(a) Auri Marcelo Rizzo Vincenzi em 21/05/2022.
+Descrição: Objetivo: Considerando a relevância da automatização da atividades de teste para a indústria de produção de software e a relevância do teste baseado em mutação a partir de evidências científicas, neste projeto tem-se por objetivo definir um processo de teste baseado em mutação que possa ser executado de forma 100% automatizado por meio de um ambiente de teste de apoio, ambiente este que será especificado, implementado e validado com aplicações industriais e open-source. Métodos: Investigar e automatizar três problemas clássicos do teste de mutação: 1) geração de mutantes; 2)execução dos mutantes; e a 3) análise dos mutantes vivos e equivalentes no processo de teste. Na geração, pretende-se utilizar análise estática e informações de fluxo de controle e de dados para selecionar os pontos em que as mutações serão realizadas, além de selecionar tipos específicos de operadores a serem utilizados em função das características do produto em teste. Na execução dos mutantes, é importante que seja feita uma seleção de bons casos de teste com alta probabilidade de matar mutantes não equivalentes. Para isso, entende-se que devem ser combinados diferentes geradores automáticos de dados de teste e, possivelmente, desenvolvidos novos algoritmos de geração para matar mutantes gerados por operadores de mutação específicos. Na análise dos mutantes vivos e equivalentes serão definidas e avaliadas estratégias, de forma automatizada, para a determinação de mutantes equivalentes, utilizando-se heurísticas, aprendizado Bayesiano, e a frequência de execução dos mutantes pelos casos de teste. Resultados esperados: serão gerados um processo de teste e um ambiente de apoio gratuito, além de dados de experimentação que permitirão a geração de benchmarks de teste para C, Java e Python, viabilizando o desenvolvimento de novas pesquisas relacionadas ao teste de mutação, principalmente no contexto dessas linguagens de programação. Processo e Ambiente serão aplicados e avaliados em parceiros industriais os quais manifestaram apoio e interesse no uso do processo resultante deste projeto de pesquisa. Débito técnico no contexto desta proposta caracteriza os riscos associados à produção e à liberação de produtos de software, tendo como base o critério deteste baseado em mutação. Conclusões: Pretende-se viabilizar a aplicação do teste de mutação como um importante mecanismo de garantia da qualidade de produtos de software de forma totalmente automatizada, favorecendo a transferência tecnológica e aplicação do teste de mutação para a indústria, com a consequente evolução da capacidade de produção de software da indústria brasileira. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / José Carlos Maldonado - Integrante / Márcio Eduardo Delamaro - Integrante / Auri Marcelo Rizzo Vincenzi - Coordenador / Fabiano Ferrari - Integrante / Rodrigo Funabashi Jorge - Integrante / Anderson Belgamo - Integrante / Ana Cristina Ramada Paiva - Integrante / Rodrigo Elias Bianchi - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2019 - 2020
+Um Estudo Exploratório da Tecnologia de Realidade Aumentada Móvel Baseada em Marcadores no Desenvolvimento de Recursos Educacionais Multiplataforma Abertos
+Descrição: O atual projeto está inserido na área da Realidade Aumentada Móvel (RAM) baseada
+em marcadores. A realidade aumentada móvel, não sendo uma tecnologia tão nova quanto
+parece, tem-se começado a utilizar em contextos educacionais graças ao uso massivo de
+dispositivos móveis tais como smartphones. No contexto educacional, a realidade aumentada
+móvel (RAM) permite que, em sala de aula, sejam expostos conteúdos em 3D, aproximando
+da realidade do aluno a matéria que ele está estudando. Pode-se argumentar que o conteúdo
+torna-se mais atraente por meio de uma tecnologia (smartphones ou tablets) cada vez mais
+presente na vida de qualquer criança ou adolescente.
+A pesquisa relacionada ao desenvolvimento de recursos educacionais cada vez mais próxi-
+mos destes avanços tecnológicos é fundamental e é nesta demanda que este projeto de pesquisa
+se funda: um estudo exploratório da tecnologia de realidade aumentada móvel baseada em
+marcadores no desenvolvimento de recursos educacionais multiplataforma abertos. Em especí-
+fico, esse projeto de pesquisa objetiva o estudo da tecnologia de realidade aumentada visando
+a sua incorporação na plataforma REMAR. Nesse sentido, esse projeto de pesquisa pretende
+contribuir para uma mudança de cultura, promovendo o reuso efetivo de recursos educacionais
+abertos de realidade aumentada móvel, viabilizando não apenas o uso/reuso/redistribuição,
+mas também a adaptação desses recursos para atender necessidades de diferentes professores,
+em diferentes contextos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Delano Medeiros Beder - Coordenador / Fernando Sassi Nunes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - Atual
+Definição, Implementação e Análise de Recursos de Teste e Validação
+Projeto certificado pelo(a) coordenador(a) Auri Marcelo Rizzo Vincenzi em 02/02/2021.
+Descrição: O teste de produtos de software envolve basicamente quatro
+etapas: planejamento de testes, projeto de casos de teste, execução e
+avaliação dos resultados dos testes. Essas etapas devem ser
+desenvolvidas ao longo do próprio processo de desenvolvimento de
+software e concretizam-se em três fases de teste: de unidade, de
+integração e de sistema. Para fornecer uma maneira sistemática para a
+geração e valiação de conjuntos de casos de teste, técnicas e
+critérios têm sido desenvolvidos. As técnicas e critérios de teste
+fornecem ao testador uma abordagem sistemática e teoricamente
+fundamentada, além de constituírem um mecanismo que pode auxiliar a
+avaliar a qualidade da atividade de teste. Dada a diversidade de
+critérios que têm sido estabelecidos, e reconhecido o caráter
+complementar das técnicas e critérios de teste, um ponto crucial que
+se coloca nessa perspectiva é a escolha e/ou a determinação de uma
+estratégia de teste, que em última análise passa pela escolha de
+critérios de teste, de forma que as vantagens de cada um desses
+critérios sejam combinadas objetivando uma atividade de teste de maior
+qualidade. O projeto sendo proposto visa à realização de estudos na
+área de teste de software, envolvendo teste de programas
+procedimentais, Orientados a Objetos e componentes de software. Tais
+estudos envolvem a definição e análise de critérios de teste que
+possam ser empregados no teste dos programas mencionados acima, além
+do desenvolvimento de ferramentas de apoio e a realização de estudos
+comparativos buscando avaliar o custo, eficácia e dificuldade de
+satisfação dos critérios de teste analisados.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / Auri Marcelo Rizzo Vincenzi - Coordenador.
+2018 - 2019
+Jogos e inclusão na Educação
+Projeto certificado pelo(a) coordenador(a) Joice Lee Otsuka em 04/05/2020.
+Descrição: Projeto CAPES (Edital UAB 42/2017 Inovação - Jogos Educacionais Virtuais). Este projeto tem como objetivo promover a inclusão na educação por meio duas frentes: (i) desenvolvimento de um jogo para a formação de professores para a educação inclusiva e (ii) a criação de versões acessíveis de jogos da plataforma REMAR, para pessoas com deficiência visual.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / Joice Lee Otsuka - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2015 - 2018
+REMAR - Recursos Educacionais Multiplataforma e Abertos na Rede
+Descrição: Este projeto tem como objetivo facilitar e ampliar a construção e o reuso de recursos
+educacionais abertos (REA), por meio de um serviço, na forma de uma plataforma
+web, que ofereça ferramentas que facilitem a construção e a customização de REA,
+seguindo diretrizes que favoreçam o reuso, a disponibilização desses recursos em
+diferentes plataformas, bem como a integração com ambientes virtuais de
+aprendizagem. Espera-se obter como resultados: (i) um conjunto de diretrizes para o
+desenvolvimento de REA reutiizáveis, adaptáveis, multiplataforma e acessíveis; (ii) um
+protótipo da plataforma, que deverá ser testado e validado por meio do
+desenvolvimento e adaptação de REA pelo grupo proponente, em conjunto com
+instituições parceiras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Mestrado acadêmico: (4) . Integrantes: Delano Medeiros Beder - Coordenador / Joice Lee Otsuka - Integrante / Rogério Augusto Bordini - Integrante / Marcos Tsuda - Integrante / Denis Cappelini - Integrante / Matheus Fernandes - Integrante / Rener Baffa - Integrante / GUIDO, ALEX R. - Integrante / Luiz Valério Neto - Integrante / Lucas Bocanegra - Integrante / Marcus Mourão - Integrante / Dulce Márcia Cruz - Integrante.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2010 - 2012
+Variabilidade de Tratamento de Exceçoes em Arquiteturas de Linhas de Produtos Baseadas em Componentes
+Descrição: Linhas de Produtos de Software (LPS) e o Desenvolvimento Baseado em Componentes (DBC) são abordagens que têm sido usadas pra promover a reutilização e facilitar a evolução de sistemas de software. Um dos principais artefatos da LPS é a Arquitetura de Linhas de Produtos (ALP). Uma ALP provê uma visão global na qual são identificadas as partes variáveis e comuns de uma LPS em termos de elementos arquiteturais e suas configurações. No desenvolvimento de sistemas confiáveis, essas abordagens são usadas em conjunto com mecanismos de tratamento de exceções. Porém, mecanismos tradicionais de tratamento de exceções em geral consideram localmente um problema de natureza global, dificultando a compreensão do tratamento de exceção em nível sistêmico. Isso aumenta o acoplamento entre os comportamentos normal e excepcional da ALP, prejudicando assim, a adoção de diferentes estratégias de tratamento de exceções para diferentes produtos de uma mesma LPS. A definição do comportamento excepcional de forma global permite, por exemplo, gerar produtos com graus variados de tolerância a falhas, de acordo com as características escolhidas para sua geração. Este projeto de pesquisa propõe a criação de um modelo para explicitar variabilidades de fluxos de controle excepcionais e de tratadores de exceções em arquiteturas de linhas de produtos baseadas em componentes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / Cecília Mary Fischer Rubira - Coordenador / Patrick Henrique da Silva Brito - Integrante / Marcelo de Oliveira Dias - Integrante / Bruno de Abreu Iizuka - Integrante / Amanda Sávio Nascimento e Silva - Integrante / Renato de Jesus Manzoni - Integrante / Ivo Augusto Fontana Bertoncello - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2009 - 2011
+REACT - Recuperação de Erros em Sistemas Assíncronos Sensíveis ao Contexto
+Descrição: O objetivo do projeto REACT é investigar novos mecanismos e modelos para aperfeiçoar a construção de aplicações ubíquas sensíveis ao contexto. Em particular, o foco do projeto é investigar o uso da ciência de contexto no aprimoramento da caracterização e do tratamento de condições errôneas, com especial atenção aos desafios introduzidos pelo uso predominante de comunicação assíncrona. De fato, a literatura carece de modelos de tratamento de exceções adaptados para sistemas de comunicação assíncrona. Este projeto visa preencher esta lacuna, assim como investigar formas de facilitar o desenvolvimento desse tipo de aplicação, seja através de linguagens ou modelos de programação alternativos. Para tanto, a proposta do projeto consiste em repensar sob a ótica da construção de aplicações ubíquas confiáveis tanto as abstrações e mecanismos de tratamento de exceções como também as técnicas de tolerância a falhas, como ações atômicas coordenadas e replicação. Como resultado deste projeto, pretende-se produzir a implementação de um arcabouço para construção de sistemas assíncronos sensíveis ao contexto. Esse arcabouço será validado através da implementação de um conjunto de aplicações adotadas como estudos de caso.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / Alessandro Fabrício Garcia - Integrante / Alexander Romanovsky - Integrante / Jó Ueyama - Integrante / Renato Fontoura de Gusmão Cerqueira - Coordenador / Maria de Fatima Mattielo - Integrante / Geoff Coulson - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+REDE - usando uma REde de sensores para Detectar Enchentes
+Descrição: Em virtude de uma variedade de fatores que incluem as mudanças climáticas, as enchentes tem sido frequentes e problemáticas no Brasil. Por exemplo, as cidades de Marabá e Manaus, ambas na região norte do país, registraram este ano uma das piores enchentes dos últimos anos. Além disso, a cidade de São Paulo frequentemente sofre de enchentes durante o período das chuvas, no verão. Para minimizar este problema recorrente, o presente projeto de pesquisa propõe investigar o uso de uma rede de sensores para detectar possíveis ocorrências de enchentes, alarmando prioritamente a população que encontra-se em risco. A arquitetura de detecção de enchentes é baseado no modelo proposto por Dr. Daniel Hughes da Universidade de Lancaster, na Inglaterra, onde o proponente deste projeto realizou o seu doutorado financiado pelo próprio CNPq. Tal modelo (o do Dr Hughes) recebeu vários prêmios e publicações, incluindo os no Sladshot e no New Scientist. Este projeto propõe: i) alterações no modelo de Lancaster para adaptá-lo às enchentes brasileiras; ii) realizar experimentos com o modelo adaptado à realidade brasileira; e iii) finalmente, publicar os resultados obtidos no projeto. Dr. Daniel Hughes estará visitando o Brasil por um mês em fevereiro de 2010, financiado por um projeto da FAPESP\footnote{FAPESP, Processo No. 2009/01881-5, modalidade Pesquisador Visitante em parceria com o proponente deste trabalho. Este presente projeto visa dar continuidade a este trabalho e trazer benefícios a nossa população, minimizando os danos causados pelas enchentes... Situação: Em andamento; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / Jó Ueyama - Coordenador / Marcos Lordello Chaim - Integrante / Marcelo Nolasco - Integrante / Daniel Hughes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+Instituto Nacional de Ciência e Tecnologia em Sistemas Embarcados Críticos (INCT-SEC)
+Descrição: O Instituto Nacional de Ciência e Tecnologia em Sistemas Embarcados Críticos (INCT-SEC) é uma criação do Ministério de Ciência e Tecnologia em parceria com Instituições de fomento (CNPq e FAPESP) e constitui uma rede de pesquisa para trabalhos na área de Sistemas Embarcados Críticos. Diversos laboratórios participam do INCT-SEC - Instituto Nacional de Ciência e Tecnologia em Sistemas Embarcados Críticos, coordenado pelo ICMC/USP, São Carlos, SP, de modo que constitui um projeto bastante abrangente, envolvendo grupos de pesquisadores de nove universidades brasileiras, entre elas EESC/USP, ICMC/USP, EACH/USP, UNESP-Rio Preto, POLI/USP, PUCRS, UEM, UFAM, UFG e UFSCar, e sete componentes da Iniciativa privado.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / Paulo César Masiero - Integrante / Marcos Lordello Chaim - Integrante / José Carlos Maldonado - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2009
+Qualipso
+Descrição: O projeto Qualipso (Quality Platform for Open Source Software) tem como objetivo incentivar a inovação e a competitividade de empresas e órgãos do governo no cenário mundial de hoje e do futuro, através de softwares abertos confiáveis, flexíveis e de baixo custo para o desenvolvimento de sistemas de informação inovadores e seguros. Para isso o projeto QualiPSo definirá e implementará tecnologias, processos e políticas que facilitarão o desenvolvimento e utilização de componentes de software aberto com o mesmo grau de confiabilidade dos softwares proprietários.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Delano Medeiros Beder - Integrante / Marcos Lordello Chaim - Integrante / José Carlos Maldonado - Integrante / Auri Marcelo Rizzo Vincenzi - Coordenador.Financiador(es): Comissão Européia - Auxílio
+										financeiro.
+2004 - 2008
+TIDIA - AE
+Descrição: O Projeto Aprendizagem Eletrônica (Ae), tem como objetivo a pesquisa e o desenvolvimento na área de tecnologia da informação voltada para a especificação, projeto e implementação de ferramentas aplicáveis à área de EaD, na forma de soluções flexíveis, de grande impacto social e de baixo custo pelo fato de se tratar do desenvolvimento de uma plataforma livre. O principal resultado do projeto será o desenvolvimento de um ambiente de aprendizagem a distância, na forma de um produto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Delano Medeiros Beder - Integrante / Ivan Luiz Marques Ricarte - Integrante / Heloísa Vieira da Rocha - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+1999 - 2000
+Laboratório de Sistemas Distribuídos - LSD
+Descrição: Laboratório de Sistemas Distribuídos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Delano Medeiros Beder - Integrante / Cecília Mary Fischer Rubira - Integrante / Alexandre Melo Braga - Integrante / Luiz Eduardo Buzato - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1997 - 1998
+ACCORDS
+Descrição: ACCORDS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Delano Medeiros Beder - Integrante / Alessandro Fabrício Garcia - Integrante / Cecília Mary Fischer Rubira - Coordenador / Luiz Eduardo Buzato - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2

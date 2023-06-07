@@ -1,0 +1,95 @@
+2022 - Atual
+Indústria 4.0 e 5.0: modelos, métodos e sistemas
+Descrição: As atividades de pesquisa representam uma continuação dos projetos de pesquisa anteriores e do atual, sob a coordenação deste professor, PrInt ?Automação 4.0?, sobre Indústria 4.0, de duração de 4 anos e financiado pela Capes, e que envolve a maioria dos professores do DAS.
+Mais concretamente, na perspectiva teórica (modelos e métodos), pretende-se investigar como o modelo da Indústria 4.0 tem vindo a ser implementado nos mais variados países, setores da economia e nos variados portes de empresas.
+Para tal, há que se também considerar os novos requisitos trazidos por novos modelos de economias e de tecnologias, como a Economia Orientada a Serviços (Service Oriented economy), a Dados (Data economy), ao Conhecimento (Knowledge economy), ao Compartilhamento (Sharing economy), a Economia Circular (Circular economy), a Internet das Coisas (Internet of Things), a Internet Industrial das Coisas (Industrial Internet of Things), a Manufatura Enxuta (Lean Manufacturing), todas questões ligadas à Sustentabilidade (econômica, social e ambiental) e os Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU, e de segurança cibernética e de proteção de dados.
+Neste contexto, as pesquisas neste projeto pretendem enquadrar os seguintes aspectos:
+-	Modelos e arquiteturas de referência relacionados à Indústria 4.0;
+-	modelos de organização empresarial para adotar a Indústria 4.0;
+-	metodologias de implementação nas empresas da Indústria 4.0;
+-	modelos de maturidade, de prontidão tecnológica e de Transformação Digital 4.0; 
+-	tecnologias habilitadoras, principalmente IoT, IA, Nuvem, gêmeos digitais, simulação computacional e smart devices;
+-	modelos, modelagem e projeto de arquiteturas de integração (principalmente as orientadas à serviços e baseadas em plataformas digitais e e-marketplaces) e interoperação de empresas, processos intra e interorganizacionais verticais e horizontais, pessoas, sistemas e máquinas;
+-	necessidades de formação e metodologias de ensino e treinamento de pessoas sobre Indústria 4.0;
+-	sistemas de suporte à decisão e de avaliação de desempenho em ambientes data-driven e de tempo real da Indústria 4.0;
+-	novas tecnologias e abordagens de interface humano-máquina-sistemas para o ?Operador 4.0?, incluindo com tecnologias assistivas de suporte a portadores de deficiência;
+-	modelos de negócios e de inovação para Indústria 4.0;
+-	Indústria 5.0.
+Na perspectiva computacional (sistemas), o foco será na concepção e desenvolvimento de protótipos de software que, sob variadas formas e com diferentes tecnologias, possam ser usados para avaliar ou validar teorias, hipóteses, modelos, arquiteturas, tecnologias, etc., desenvolvidas dentro daquelas perspectivas conceituais acima mencionadas.
+Do ponto de vista de cenários de aplicação e de avaliação de resultados, além dos fóruns científicos e empresariais nacionais e internacionais, pretende-se focar em duas direções. 
+Uma, na ACATE, que representa os desenvolvedores de soluções para Indústria 4.0 do ecossistema de inovação em TI e automação de SC (o cluster de empresas da ACATE chamado ?Vertical Manufatura 4.0?), e com a qual este professor já vem realizando há vários anos alguns trabalhos de cooperação no escopo de teses e dissertações. 
+A segunda, nas indústrias de manufatura e empresas em geral de SC, que representa as empresas usuárias / adotadoras de soluções 4.0, com as quais este professor já vem também realizando alguns trabalhos de cooperação.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ricardo José Rabelo - Coordenador.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Auxílio
+										financeiro.
+2021 - 2021
+Concepção de estratégias para o desenvolvimento de competências em indústria 4.0
+Descrição: Apoiar o SENAI/SC na idealização de um modelo e desenvolvimento de estratégias para o ensino de competências em tecnologias habilitadoras da indústria 4.0, bem como em análises estratégicas sobre direcionamentos de pesquisas na área. 
+Embora possa ser mais amplo, inicialmente o foco visa dar bases para se desenvolver novas capacidades nos estudantes do SENAI/SC empregando, de forma transversal a diferentes segmentos, prioritariamente as tecnologias de Internet of Things (IoT), Inteligência Artificial (IA) e Sistemas Ciber-físicos (CPS), em cursos existentes ou em novos que poderão ser criados. 
+Pretende-se que este modelo possa ser também aproveitado posteriormente na UFSC bem como possa servir de base para uma cooperação mais ampla e concreta com o SENAI, tanto de SC, como nacional. 
+A agenda de trabalho será orientada pelas atividades gerais: 1. Analisar portfólio atual 2. Aprimorar portfólio de produtos 3. Desenvolver modelo e estratégicas de competências na equipe técnica do SENAI/SC 4. Identificar demanda de tecnologias habilitadoras 4.0 5. Identificar parceiros 6. Realizar pesquisa bibliográfica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Coordenador.
+2018 - 2024
+Automação, Controle e Sistemas Computacionais para Indústria e Serviços 4.0
+Descrição: Projetp de Pesquisa que visa aumentar a internacionalização das PGs da UFSC no escopo do Edital CAPES PRINT, de 2018. Envolve 41 pesquisadores de três Programas de Pós-Graduação da UFSC: Automaçao e Sistemas (Lider), Engenharia Elétrica e Computação (Colaboradores), além de pesquisadores de 27 universidades do exterior.
+Este projeto cobre as seguintes áreas: sistemas ciberfísicos & IHM, IoT & IIoT, instrumentação & redes industriais, sistemas de controle em rede, IA (incluindo IAD) & analise de dados, sistemas embarcados de tempo real, arquiteturas & sistemas orientados a serviços, abordagens de controle, sistemas inteligentes, autônomos & auto-(re)configuráveis, robótica colaborativa, segurança, integração/interoperação de sistemas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo José Rabelo - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2016 - 2018
+Ecossistemas de Inovação no contexto de Redes Colaborativas de Organizações
+Descrição: Pretende-se investigar como o fenômeno de ecossistemas de inovação pode ser melhor compreendido quando olhado na ótica das redes colaborativas. Com isso, espera-se que inúmeros artefatos teóricos de redes colaborativas possam ser ?reaproveitados? e adaptados às particularidades daqueles. Portanto, parte da pesquisa a ser feita tem a ver com essa ?adaptação?, produzindo como resultado novos artefatos.
+Na perspectiva computacional, o foco será na concepção e desenvolvimento de protótipos de software baseados no paradigma de Arquitetura Orientada a Serviços (SOA) , considerando os requisitos das perspectivas da Economia Orientada a Serviços, ao Compartilhamento, a Internet das Coisas e a visão Indústria 4.0.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Ricardo José Rabelo - Coordenador.
+2013 - 2016
+Modelos de Suporte ao Gerenciamento de Empresas Virtuais
+Projeto certificado pela empresa ASSOCIACAO BRASILEIRA DA INDUSTRIA DE FERRAMENTAIS - ABINFER em 14/10/2016.
+Descrição: Este projeto visa atacar alguns problemas nos processos associados aos ciclos de vida de uma Empresa Virtual e seu Ambiente de Criação (ACV). Em particular, pesquisar os aspectos de:
+- Metodologia de Criação de ACVs;
+- Indicadores de desempenho em nível de Rede;
+- Revisão dos conceitos dos vários tipos de redes colaborativas;
+- Integração semântica via ESB em ACVs e EVs;
+- Modelo de Governança para EVs;
+- Análise de Riscos em EVs envolvendo aspectos logísticos;
+- Gestão da Inovação em EVs.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Ricardo José Rabelo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2012 - 2013
+Criação de Empresas Virtuais na NUFERJ
+Descrição: Este projeto de pesquisa aplicada visa estudar um grupo piloto de 10 empresas da NUFERJ (Nucleo de Ferramentarias de Joinville) e prepará-las para trabalhar numa filosofia de Empresas Virtuais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Ricardo José Rabelo - Coordenador / Fabiano Baldo - Integrante / Omir Alves Correa Junior - Integrante / Sheila Nair Costa - Integrante.Financiador(es): Federação das Associações Comerciais e Ind. de SC - Auxílio
+										financeiro.
+2010 - 2013
+Redes Colaborativas de Organizações: Métodos e Ferramentas
+Descrição: Este projeto de pesquisa financiado pelo CNPq (no escopo de uma bolsa de Produtividade em Pesquisa) compreende uma investigação, e o desenvolvimento de modelos e protótipos de software para:
+?	Criação de Ambientes de Criação de Empresas/Organizações Virtuais;
+?	Operação e Gestão de Empresas/Organizações Virtuais;
+?	Infraestruturas de TIC para Redes Colaborativas de Organizações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (5) . Integrantes: Ricardo José Rabelo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 34
+2009 - 2012
+Programação Orientada e Organização para Sistemas Multiagentes
+Descrição: Pesquisa sobre a introdução do conceito de Organização na programação de sistemas multiagentes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ricardo José Rabelo - Integrante / Jomi Fred Hubner - Coordenador.
+2002 - 2008
+IFM - Instituto Fábrica do Milênio (Programa Institutos do Milênio)
+Descrição: Os objetivos gerais do Instituto Fábrica do Milênio (IFM) podem ser entendidos como a proposição, o desenvolvimento e a disseminação de mecanismos para o aumento da competitividade e do conhecimento científico e tecnológico das empresas instaladas no país, através da formação de um cluster de pesquisas integradas, abordando os os temas que determinam hoje a competitividade de empresas de manufatura.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2007
+Capes - Cofecub : Interação entre modelos formais para sistemas de supervisão e informação
+Descrição: O objetivo geral deste projeto é, a partir da experência anterior dos participantes em engenharia de software, sistemas distribuídos, supervisão de sistemas dinâmicos e inteligência artificial, desenvolver tratamentos formais e ferramentas computacionais para problemas de controle e gerência de sistemas complexos de automação e de informação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Integrante / Guilherme Bittencourt - Coordenador / Romulo Silva de Oliveira - Integrante / José Ribeiro Cury - Integrante.Financiador(es): Centre National de la Recherche Scientifique - Cooperação.
+2001 - 2004
+VOmap - Roadmap Design for Collaborative Virtual Organizations in Dynamic Business Ecosystems
+Descrição: The design of a roadmap for a major programme on collaborative VOs in Europe encompasses a number of specific objectives:
+- Consolidation of paradigms, establishing a clear baseline and wide consensus on concepts and terminology
+- Identify future scenarios, vision, and needs 
+- Understand and characterize the VO nesting environments
+- Plan the integration of multidisciplinary views
+- Plan for technology development based on common reference models
+- Design a strategy to achieve EU leadership in VO. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Coordenador.
+2000 - Atual
+COVE - COoperation infrastructure for Virtual Enterprises and electronic business (IFIP)
+Descrição: The COVE project, launched in the framework of IFIP TC5, aims at assessing research results and practices in virtual enterprises and electronic business, leading to the design of common reference models, cooperation infrastructures, and prospects for further collaborative developments. It will be based on the creation and operation of a cluster / forum of participants and projects active in the field, covering a world-wide representation, which will facilitate the exchange and refinement of knowledge and project results on new ways of working in networks of independent but cooperative nodes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Coordenador.
+1997 - 2000
+MASSYVE - Multiagent manufacturing Agile Scheduling SYstems for Virtual Enterprises (Programa INCO-DC / KIT)
+Descrição: Massyve is international cooperative INCO-DC / KIT project sponsored by the European Union on the area of advanced scheduling systems in the virtual enterprise. Its main objectives are related with technology transfer, training of people, best practice and research on advanced scheduling systems and virtual enterprises.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Coordenador.
+1996 - 1997
+SCM+ Beyond Supply Chain Management in Food Industry (Programa INCO-DC)
+Descrição: This project aims at analyzing the technical feasibility and socio-economic impacts of the implementation of the extended enterprise concept (network of enterprises) in the food industry in Latin America. At the same time the project promotes the technology transfer from Europe to Latin America, and the incorporation of varied research skills, focusing on tools, methodologies, standards and training. The proposal contributes to the development of the global information society with particular focus on its contribution to the sustainable improvement of the agricultural and agro-industrial production. It involved the participation of universities and a number of SMEs from the food industry.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Coordenador.
+1992 - 1993
+Cimis.net - Distributed Information Systems for CIM (Programa INCO-DC [ECLA])
+Descrição: Objetives:
+Integrating Infrastructure for distributed systems - paradigm of federated architectures;
+Distributed Object-Oriented information management systems: distributed access, interoperability, persistency, consistency, concurrency;
+STEP / Express based modelling for engineering applications;
+Understand requirements for Concurrent Engineering - from the IS point of view - and propose supporting functionalities;
+Analyze information integration requirements in some specific fields: plastic moulds, leather cutting, aerospace, furniture, etc.;
+Cooperation on post-graduation programmes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Ricardo José Rabelo - Coordenador.

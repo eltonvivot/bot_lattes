@@ -1,0 +1,84 @@
+2018 - Atual
+Robotização para auxílio nas atividades médicas
+Descrição: Projeto de pesquisa para robotizar os instrumentos utilizados em atividades de endoscopia e cirurgia endoscópica para auxiliar e facilitar a operação do cirurgião.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Marco Túlio Carvalho de Andrade - Coordenador / Antonio Marcos de Aguirra Massola - Integrante.
+2018 - Atual
+Robotização de processos do setor elétrico
+Descrição: O objetivo deste projeto é o de realizar a pesquisa para estudar e prover soluções para a automação dos processos envolvidos na empresa de energia elétrica com o uso de técnicas e métodos de Inteligência Artificial e realizar o desenvolvimento de Robôs (programas em software) dentro do conceito de RPA (Automação de Processos por meio de Robotização).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Pedro Luis Pizzigati Correa - Integrante.
+2013 - Atual
+SIGINURB
+Projeto certificado pelo(a) coordenador(a) José Sidnei Colombo Martini em 02/06/2015.
+Descrição: Projeto de pesquisa sobre Cidade Inteligente que utiliza a Cidade Universitária Armando Salles de Oliveira como experimentação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / José Sidnei Colombo Martini - Coordenador.
+2011 - 2013
+Proposta de Desenvolvimento de um Robô para Inspeção Visual de Linha de Distribuição
+Descrição: Este projeto de pesquisa e desenvolvimento têm como objetivo realizar a pesquisa da aplicação dos sistemas robóticos de captura e processamento de imagem, sinais térmicos e de ultrasom no contexto da visão computacional no processo de inspeção da linha de distribuição de energia elétrica.
+O sistema de captura e processamento de imagem, bem como as outras informações, resultantes do processo de pesquisa serão embarcado eletronicamente, juntamente com o sistema de processamento e controle de movimento do robô e um dispositivo portátil e móvel receberá as informações provenientes do sistema robótico por meio de transmissão de dados sem-fio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Oswaldo Horikawa - Integrante / Danilo de Souza Miguel - Integrante.Financiador(es): Elektro Eletricidade e Serviços - Cooperação.
+2010 - 2013
+Integração e Interoperação de PCH utilizando comunicação alternativa
+Descrição: Realizar pesquisa bibliográfica, de experiências anteriores e de equipamentos de comunicação PLC (Power Line Communication) para possibilitar a sua utilização em linhas de 38KV.
+Desenvolver projeto de interconexão e interoperação entre as pequenas geradoras através do PLC e o Sistema deSupervisão e Controle da COPEL. Como resultado será obtida a descrição de um sistema de comunicação PLC parasupervisão até a interface com o sistema de supervisão da COPEL através dos protocolos padrão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Coordenador.Financiador(es): Copel Distribuicão - Cooperação.
+2010 - 2013
+TEFIS-TEstbed for Future Internet Services
+Descrição: The TEFIS platform will support research on future large-scale and resource demanding Internet service technologies by offering a single access point to different testing and experimental facilities for communities of software and business developers to test, experiment, and collaboratively elaborate knowledge.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Andre Riyuiti Hirakawa - Coordenador.Financiador(es): European Union - Cooperação.
+2009 - 2011
+Fostering the Research Dimension of Science and Technology Agreements
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Moacyr Martucci Junior - Coordenador.
+2009 - 2011
+Fostering the Research Dimension of Science and Technology Agreements
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Moacyr Martucci Junior - Coordenador.
+2009 - 2011
+First - Implementing cooperation on Future Internet and ICT Components between Europe and Latin America
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Moacyr Martucci Junior - Coordenador.
+2008 - 2016
+SISTEMA DE CONTROLE AUTOMÁTICO PARA AJUSTE EM TEMPO REAL DOS COMPONENTES DE ATERRAMENTO E COMPACTAÇÃO DE SEMEADORAS DIRETAS
+Descrição: Desenvolver um sistema de controle composto por dispositivos de sensoriamento, de atuação e de um método de controle lógico com capacidade para atuar automaticamente sobre os parâmetros operacionais dos componentes de aterramento e compactação de semeadoras diretas a partir de informações sobre a variabilidade espacial do solo, adquiridas em tempo real, e visando o desempenho de alta qualidade na semeadura direta de grãos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Augusto G. de Araujo - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.Número de produções C, T & A: 1 / Número de orientações: 1
+2008 - 2013
+ROBÓTICA APLICADA ÀS MELHORIAS DAS TAREFAS DE ELETRICISTAS
+Descrição: O projeto de pesquisa integra os objetivos para melhorar as condições de saúde e segurança do trabalho das equipes operacionais de manutenção em campo de redes e linhas de distribuição, assim como, elevar a qualidade de execução das atividades e produtividade das mesmas, com redução de esforços físicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Oswaldo Horikawa - Coordenador / José Antonio Jardini - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Outra.
+2008 - 2010
+Desenvolvimento de Sistema de Transmissão de Voz e Dados Aplicados para Eletricistas de Linha de Transmissão
+Descrição: Este projeto de pesquisa e desenvolvimento têm como objetivo pesquisar os padrões de comunicação sem-fio para uso como meio de comunicação de voz, dados e imagem e desenvolver um sistema capaz de viabilizar a comunicação entre os eletricistas, os veículos de apoio e a central de operação de forma transparente e utilizando recursos tecnológicos que permitam a utilização do dispositivo de comunicação na forma Hand free e de forma úbica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Moacyr Martucci Junior - Integrante.Financiador(es): Companhia de Transmissão de Energia Elétrica Paulista - Outra.
+2007 - 2009
+SAMBA Projeto de pesquisa financiado pela Comunidade Européia
+Descrição: Projeto de pesquisa financiado pela União Européia para a utilização da TV-Digital e o canal de retorno PLC na elaboração de novos serviços interativos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Moacyr Martucci Junior - Coordenador.Financiador(es): European Union - Cooperação.Número de produções C, T & A: 4 / Número de orientações: 1
+2006 - 2010
+Biodiversidade e uso sustentável dos polinizadores, com ênfase em abelhas (BIOABELHA) FAPESP
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Antonio Mauro Saraiva - Coordenador.
+2005 - 2006
+Desenvolvimento de uma arquitetura ODP para um servidor IEC 61850 para Redes de Comunicação de Dados em Subestações
+Descrição: Este projeto tem como objetivo o uso do IEC 61850 na definição de arquiteturas de objetos distribuídos (middleware em tempo real), encapsulando equipamentos legados da CTEEP.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Riyuiti Hirakawa - Integrante / jorge risco Bezerra - Coordenador.
+2004 - 2009
+Aplicação de TI em Piscicultura
+Descrição: O presente projeto tem como objetivo a realização de atividades visando a pesquisa conjunta na área de aplicação da tecnologia da informação no processo agrícola de cultura confinada de peixes, com vistas ao fortalecimento dos grupos de pesquisa da Universidade Católica Dom Bosco (UCDB), auxiliando no futuro processo de implantação de programas de pós-graduação na área de computação.
+O projeto é subdivido em etapas seqüenciais e a primeira etapa, contemplada neste plano de trabalho, compreende o estudo de caso de aplicação da Tecnologia da Informação (TI) no processo de cultura (criação) e produção de peixes para consumo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Carlos Eduardo Cugnasca - Integrante / Antonio Mauro Saraiva - Integrante / Joao Jose Neto - Integrante.Financiador(es): Universidade Católica Dom Bosco - Cooperação.Número de produções C, T & A: 4
+2004 - 2009
+Kyatera
+Descrição: Objetivos:
+Os objetivos amplos do projeto em termos de pesquisa são:
+"	Realizar e disponibilizar pesquisas e experimentos em serviços de ecossistemas com foco em polinização e fotossíntese.
+"	Realizar pesquisas e estudos sobre tecnologias para o desenvolvimento de weblabs numa rede de alta velocidade.
+"	Desenvolver pesquisas em uso e criação de soluções open-source para os softwares envolvidos nos weblabs.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Andre Riyuiti Hirakawa - Integrante / Carlos Eduardo Cugnasca - Integrante / Antonio Mauro Saraiva - Coordenador / Vera L Imperatriz Fonseca - Integrante / Pedro Luis Pizzigati Correa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2004 - 2007
+Robótica Aplicada a Processos de Linha de Frente
+Descrição: A rede de distribuição apresenta grande variedade de componentes, agregados segundo vários projetos. Isto faz com que haja enorme diversidade de procedimentos para sua manutenção. Tais procedimentos são muitas vezes perigosos, pois envolvem redes energizadas ou proximidade à elas, alem de movimentação de pessoal e equipamentos pesados em lugares de acesso difícil (trânsito, terreno impróprio, etc).
+Normalmente, nas Concessionárias, é feito um esforço para padronização de projetos de rede, o que favorece a manutenção. Mesmo assim ela permanece onerosa e perigosa, demandando o uso de grande área física para sua execução, com grandes e pesados equipamentos, além de equipes especializadas para sua realização. Além disto as ferramentas utilizadas nestes trabalhos são ainda convencionais, demandando longo tempo de trabalho, com aumento dos riscos.
+Este quadro evoca a necessidade de agilização e atribuição de segurança aos processos.
+Por outro lado, avanços na área da mecatrônica e sistemas robóticos, equipados com sensoreamento térmico, visual, mecânico, etc., apresentam-se como um rico campo de pesquisa e desenvolvimento de autômatas, da semi-automação de processos, desenvolvimento de novas ferramentas, o que, em conjunto, permitirão sensíveis ganhos de produtividade e segurança nas atividades de linha de frente.
+O motivador do projeto está na redução de custos e riscos existentes nesta manutenção, agregando funções de reparos semi- automáticas, monitoramento e diagnostico, o quanto possível sem a interrupção do fornecimento, dentre outros.
+NOTA: Foi questionado a participação continua de um técnico. Deve-se ao fato do projeto ter um forte conteudo de desenvolvimento de protótipos e cabeças de série de equipamentos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Oswaldo Horikawa - Integrante / Marcello Silvério - Integrante / Silvio Miyadaira Amancio - Integrante.Financiador(es): Companhia Paulista de Força e Luz - Outra.Número de produções C, T & A: 7
+2004 - 2006
+HD-SD
+Descrição: Desenvolver módulos de software para a plataforma IBO+, solução da Philips Semicondutores para TV digital e híbrida, de modo a permitir a recepção de sinais de alta definição (HD) e converter estes sinais para o padrão Standard (SD) de tal forma que um TV normal possa exibir as programações recebidas no formato HD.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Silvio Miyadaira Amancio - Integrante / Éder José Pelegrini - Integrante / Rodrigo Rage Ferro - Integrante.Financiador(es): Philips do Brasil - Cooperação.
+2002 - Atual
+Cooperação em Pesquisa com o Departamento de Engenharia da Universidade Nacional de Yokohama
+Descrição: COOPERATIVE RESEARCH AGREEMENT TERM
+YOKOHAMA NATIONAL UNIVERSITY
+FACULTY OF ENGINEERING 
+ECHOTECHNOLOGY SYSTEM LABORATORY. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20)  / Especialização: (0)  / Mestrado acadêmico: (10)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Andre Riyuiti Hirakawa - Coordenador.Financiador(es): Universidade Nacional de Yokohama - Cooperação.Número de produções C, T & A: 3
+2000 - 2001
+Monitoramento de Equipamentos de Subestações.
+Descrição: Desenvolver um sistema que permita o monitoramento e a análise dos equipamentos elétricos das subestações de forma automática, de modo a propiciar informação sobre o estado dos equipamentos e uma projeção para a manutenção preventiva dos equipamentos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (2)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Renato de Souza Cunha - Integrante / Humberto A P Silva - Integrante / Ary Junqueira Filho - Integrante / Jobson Martins da Silva - Integrante / Carlos Wada - Integrante.Financiador(es): Agencia Nacional de Energia Elétrica - Cooperação.Número de produções C, T & A: 2 / Número de orientações: 2
+2000 - 2001
+Sistema Especialista de Diagnóstico.
+Descrição: Conceituar, pesquisar, modelar, avaliar e desenvolver um sistema de predição de falhas em transformadores de subestações de energia elétrica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (1)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Andre Riyuiti Hirakawa - Coordenador / Renato de Souza Cunha - Integrante / Humberto A P Silva - Integrante / Ary Junqueira Filho - Integrante / Jobson Martins da Silva - Integrante / Carlos Wada - Integrante.Financiador(es): Agencia Nacional de Energia Elétrica - Cooperação.Número de produções C, T & A: 2 / Número de orientações: 2

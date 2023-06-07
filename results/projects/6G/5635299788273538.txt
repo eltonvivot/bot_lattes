@@ -1,0 +1,20 @@
+2019 - Atual
+Middleware Aberto e Sistema de Gestão de Energia para a Casa do Futuro
+Descrição: O projeto tem como foco a pesquisa e desenvolvimento de um sistema HEMS (Home Energy Management System) que permita a interoperabilidade entre dispositivos de diversos fabricantes por meio da adoção de elementos padronizados e da concepção de um middleware inovador. O sistema será composto de uma unidade de controle do uso/geração de energia e de tomadas inteligentes que se comunicarão através do perfil HAN da WI-SUN Alliance. O middleware faz parte da arquitetura que fornece uma camada de conectividade de aplicativos, de forma efetiva entre elementos de software de maneira transparente aos recursos de hardware, sem a necessidade de customização de programas. O projeto permitirá aos consumidores/prossumidores ter controle em tempo real do uso/geração de energia através do HEMS, bem como a adição de novos dispositivos de maneira transparente. Além disso, um aplicativo a ser utilizado pelo cliente e um software de processamento em nuvem serão projetados e concebidos..
+Situação: Em andamento; Natureza: Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Doutorado: (4) . Integrantes: Gustavo Fraidenraich - Integrante / Paulo Cardieri - Integrante / MELONI, LUIS GERALDO PEDROSO - Coordenador.Financiador(es): Copel Distribuicão - Auxílio
+										financeiro.
+2015 - Atual
+Simulador Radar
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Gustavo Fraidenraich - Coordenador / Michel D. Yacoub - Integrante / José Cândido S. Santos Filho - Integrante.
+2011 - 2012
+Desenvolvimento de radar para detecção de nuvens
+Descrição: Projeto em parceria com a Orbisat para desenvolvimento e pesquisa de um radar na banda X que detecta nuvens.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Gustavo Fraidenraich - Coordenador / Michel D. Yacoub - Integrante / José Cândido S. Santos Filho - Integrante / Yusef Caceres - Integrante / João Moreira - Integrante.Financiador(es): Bradar Indústria - Matriz - Auxílio
+										financeiro.
+2011 - 2012
+Padtec - pesquisa e desenvolvimento de detector em 112 Gbps
+Descrição: Projeto que envolve o desenvolvimento de um detector em 112 Gbps utilizado em comunicações ópticas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: Gustavo Fraidenraich - Integrante / José Cândido S. Santos Filho - Integrante / Dalton Soares Arantes - Coordenador / Max Henrique Machado Costa - Integrante.Financiador(es): Padtec - Optical Components and Systems - Auxílio
+										financeiro.
+2009 - 2011
+Projeto Jovem Pesquisador FAPESP
+Descrição: Sistemas de Banda Ultra Larga (UWB) Utilizando Tecnologia de múltiplas antenas (MIMO). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gustavo Fraidenraich - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

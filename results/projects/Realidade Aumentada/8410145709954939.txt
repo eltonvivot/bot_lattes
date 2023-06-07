@@ -1,0 +1,18 @@
+2017 - Atual
+Phoenix
+Descrição: Aplicação de engenharia de software para apoiar o desenvolvimento de sistemas rodando em ambiente onde temos Internet das Coisas. Temos duas vertentes: 1)	Engenharia de Software aplicada à gestão em ambiente de internet das coisas. Nele, o gerente tomará suas decisões baseado em dados e informações fornecidos pelas coisas do ambiente considerado. 2)	Engenharia de Software aplicada a drones operando em ambiente de internet das coisas. Nele, o drone cumprirá uma missão não apenas baseado no plano de voo, mas em informações e dados vindos das coisas do ambiente. Este ambiente pode ser potencialmente agressivo, o que obrigará o drone a tomar diversas ações protetoras. Ele próprio fará a gestão para poder cumprir sua missão. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Alberto Marques Pietrobon - Coordenador.
+2007 - 2012
+Projeto Discovery
+Descrição: Este projeto visou criar meios de se visualizar processos de desenvolvimento de software baseados no MPSBR objetivando facilitar a criação e a transferência de conhecimento sobre o processo entre os stakeholders. Para tal, utilizava recursos visuais e storytelling.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7)  / Especialização: (0)  / Mestrado acadêmico: (7)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Alberto Marques Pietrobon - Coordenador / Kenia Carolina - Integrante / Ana Paula Gouveia - Integrante / Leia Fernandes de Assis - Integrante / Anderson Ceolin Soares - Integrante / Fernando Correa de Melo Junior - Integrante / Fabiana Costa Guedes - Integrante.Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Bolsa.Número de produções C, T & A: 10
+2002 - 2006
+Projeto Reuso
+Descrição: Desenvolver um ambiente de desenvolvimento de software baseado em reuso de componentes software explorando novos conceitos de linguagens de programação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) . Integrantes: Carlos Alberto Marques Pietrobon - Coordenador.
+1999 - 2000
+Estudo Comparativo de Técnicas de Modelagem de dados Para Data Warehouse
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Marques Pietrobon - Coordenador / Guilherme Augusto de Lima Loyd - Integrante.
+1998 - 1999
+Projeto AAPACHE (Ambiente automatizado de Pesquisa em Atividades Cooperativas Humanas Na Empresa)
+Descrição: Visava criar um ambiente de colaboração e cooperação entre envolvidos num projeto de desenvolvimento de software por meio de uma ferramenta que facilitava a comunicação entre os diversos membros da equipe. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Marques Pietrobon - Coordenador.
+1995 - 1997
+Editor Cooperativo de Fluxo de Dados
+Descrição: Construir uma ferramenta que permitia que pessoas diferentes de forma assincrona editassem um mesmo DFD. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Alberto Marques Pietrobon - Coordenador.

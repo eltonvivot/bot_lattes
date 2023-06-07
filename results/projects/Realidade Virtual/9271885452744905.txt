@@ -1,0 +1,13 @@
+2016 - Atual
+Codificação de Objetos 3D Dinâmicos em Sistemas de Realidade Aumentada
+Descrição: Sistemas AR/VR estão se popularizando de forma acelerada e novos sistemas de telepresença podem habilitar a interação pessoal a níveis não antes vistos, com sistemas como o de ?holoportation?. A  quantidade de dados gerados neste sistema é tão grande que compressão se tornou fundamental para habilitar o negócio. Além disso a disseminação de sistemas LiDAR habilitaram uma série de novos negócios, não só em entretenimento, mas em arquitetura e engenharia e , principalmente, em navegação autônoma. Sistemas LiDAR produzem nuvens de pontos tal qual os sistemas de interação AR em tempo real. Grupos como o MPEG e o JPEG estão avidamente buscando definir padrões para a compressão deste tipo de dados. É justamente nesse tópico (compressão e processamento de nuvens de pontos) que pretendemos concentrar nossa pesquisa. 
+A pesquisa será dividida em várias frentes:
+?	Desenvolver codificadores de vídeo com perdas na representação da geometria. 
+?	Estudar técnicas de estimação de movimento e correspondências entre nuvens de pontos. 
+?	Estudar novas técnicas de compressão de atributos. 
+?	Estudar novas técnicas de compressão de nuvens de pontos plenóticas. 
+?	Estudar novas técnicas de compressão de nuvens de pontos derivadas de sistemas LiDAR. 
+?	Estudar técnicas de super-resolução de nuvens de pontos. 
+?	Estudar técnicas de pós-processamento de nuvens de pontos para suavizar e fechar ?buracos? em superfícies, de forma a atenuar possíveis artefatos causados pela compressão com perdas da geometria.
+?	Estudar técnicas de medida de qualidade na aferição da qualidade obtida (ou distorção) após compressão com perdas tanto da geometria (posição dos pontos) quanto da cor.
+Além da pesquisa individual, e em grupo, essa pesquisa concretiza a orientação de alunos, a nível de Doutorado, Mestrado, além de trabalhos de graduação e Iniciação Científica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (14)  / Doutorado: (4) . Integrantes: Ricardo Lopes de Queiroz - Coordenador / Alexandre Zaghetto - Integrante / Edson M. Hung - Integrante / Bruno Macchiavello - Integrante / Peixoto, Eduardo - Integrante / Caetano - Integrante / CHOU, PHILIP A. - Integrante / Camilo Dorea - Integrante / Diogo  C Garcia - Integrante / Gustavo Sandri - Integrante / Renan U. Ferreira - Integrante / Victor Fabre Figueiredo - Integrante / André Souto - Integrante / Davi R. Freitas - Integrante / BORGES, TOMÁS M. - Integrante / FONSECA, TIAGO A. - Integrante / Marcos Tonin - Integrante.Número de produções C, T & A: 21

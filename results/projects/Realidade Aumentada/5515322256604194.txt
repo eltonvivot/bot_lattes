@@ -1,0 +1,39 @@
+2022 - Atual
+INTEGRAÇÃO DE DADOS GEOESPACIAIS PARA DESENVOLVIMENTO DE UM SMART CAMPUS
+Projeto certificado pelo(a) coordenador(a) Luciene Stamato Delazari em 30/08/2022.
+Descrição: Este projeto tem por objetivo a aplicação do conceito de Smart Cities em um campus universitário, para construir um Smart Campus. O projeto será desenvolvido com a participação da UFPR, UFU e UFAM, de modo que estabeleça um modelo de dados, a partir do modelo existente do UFPR CamusMap, que possa ser aplicado a outras universidades. A partir dos resultados obtidos com o desenvolvimento do projeto UFPR CampusMap pretende-se integrar dados de diferentes sensores (RPAS, câmeras 360o e smartphones).  Considerando que o UFPR CampusMap permite o gerenciamento de espaço outdoor e indoor, desde 2014, e que serão incluídas aplicações de LBS (exclusivo à navegação pessoal) e cadastro ambiental, então o problema de pesquisa consiste em como criar representações, tanto indoor com outdoor, que atendam a comunidade acadêmica (gestores, docentes, técnicos, discentes, e sociedade civil que transita pelo campus) nos diferentes contextos de uso do CampusMap, para tarefas de gestão, manutenção e infraestrutura, pesquisas e monitoramento ambiental, navegação pessoal e monitoramento de atividades do campus.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3)  / Doutorado: (4) . Integrantes: Marcio Augusto Reolon Schmidt - Integrante / LUCIENE STAMATO DELAZARI - Coordenador / André Luiz Alencar de Mendonça - Integrante / Tiago Lima Rodrigues - Integrante.
+2022 - Atual
+Diagnóstico da qualidade da água na bacia hidrográfica do córrego do Mumbuca
+Descrição: O presente projeto de pesquisa tem como grande desafio elaborar um diagnóstico da qualidade
+da água na bacia hidrográfica do córrego Mumbuca (MG) por meio da interação dos elementos
+naturais (clima, solo, geologia, relevo, hidrografia e vegetação) e das atividades antrópicas (uso e
+ocupação do solo). Além disso, tem-se como objetivo calibrar e validar um modelo matemático da
+qualidade da água que possa ser uma ferramenta para ajudar o sistema de tomada de decisão. Os
+procedimentos metodológicos a serem adotados são: levantamento e análise de dados
+embasados tanto na literatura existente quanto a visitas a campo. Ademais, pretende-se usar
+ferramentas de engenharia, como, modelo matemático de qualidade da água e sistema de
+informação geográfico, para ajudar no diagnóstico da qualidade da água.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4) . Integrantes: Marcio Augusto Reolon Schmidt - Integrante / SALLA, MARCIO - Coordenador / PEREIRA, CARLOS EUGÊNIO - Integrante / MIRNA KARLA AMORIM SILVA - Integrante / MARIA LYDA BOLANOS ROJAS - Integrante / Ismarley Lage Horta Morais - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2017 - 2021
+VISUALIZAÇÃO CARTOGRÁFICA TRIDIMENSIONAL EM TEMPO REAL APLICADA A NAVEGAÇÃO EM DISPOSITIVOS MÓVEIS
+Descrição: Desenvolver e avaliar uma simbologia tridimensional para a navegação e guiagem com uso de técnicas da cartografia tridimensional aplicada à realidade aumentada em dispositivos móveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Marcio Augusto Reolon Schmidt - Coordenador / LUCIENE STAMATO DELAZARI - Integrante / André Luiz Alencar de Mendonça - Integrante / Edson Angoti Júnior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2017 - 2019
+Propagação variâncias em levantamentos topográficos
+Descrição: Este projeto avalia alternativas no estudo de implantação e desenvolvimento de projetos geométricos de rodovias através de técnicas de topografia vinculadas às análises estatísticas e de Método dos Mínimos Quadrados. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Marcio Augusto Reolon Schmidt - Coordenador / AMANDA FERREIRA DE ALMEIDA - Integrante / LAIS MONTES LIMA - Integrante / THAIS SALDANHA ALVES ROSA - Integrante / WELDON MARTINS DOS SANTOS - Integrante.Número de produções C, T & A: 1
+2015 - 2019
+Otimização do aproveitamento hídrico superficial na bacia hidrográfica do rio Araguari, Triângulo Mineiro: Conflitos de interesse na quantidade e qualidade de água
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (4) . Integrantes: Marcio Augusto Reolon Schmidt - Integrante / José Eduardo Alamy Filho - Integrante / SALLA, MARCIO RICARDO - Coordenador / BENTO MAGALHÃES, ARIEL ALI - Integrante / DE LIMA, GUILHERME - Integrante / Diego Henrique Martins Diniz - Integrante / Hélio Correia da Silva júnior - Integrante / Lucianno Eduardo Fernandes - Integrante / Amanda Souza Nogueira - Integrante / Luis Eduardo Coelho de Oliveira Silva - Integrante / Maria Eduarda Nogueira Matos - Integrante / Felipe Silveira Quintino - Integrante / Maria Zizi Martins Mendonça - Integrante / Letícia Martins de oliveira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2015
+MODELAGEM E VISUALIZAÇÃO CARTOGRÁFICA TRIDIMENSIONAL EM TEMPO REAL APLICADA A ESFORÇOS GEOTÉCNICOS
+Descrição: Desenvolver e avaliar  uma simbologia tridimensional  para  a visualização de 
+esforços diferenciais  em obras civis e geotécnicas com uso de  técnicas da cartografia tridimensional aplicada à realidade aumentada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Marcio Augusto Reolon Schmidt - Coordenador / Karla Maria Wingler Rebelo - Integrante / Maria Ligia Chuerubim - Integrante / LUCIENE STAMATO DELAZARI - Integrante / André Luiz Alencar de Mendonça - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2015
+Aplicação  de  técnicas  fotogramétricas  no  monitoramento  geodésico  para  no monitoramento de obras civis e geotécnicas
+Descrição: Este projeto busca avaliar a aplicação de câmeras de pequeno formato no monitoramento de obras civis de grande porte a partir de uma rede geodésica de controle.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Marcio Augusto Reolon Schmidt - Coordenador / Larissa Cristina Lobo Silva - Integrante / BRENDA CARNEIRO DE OLIVEIRA SOUSA - Integrante / ana beatriz prado rodrigues - Integrante / Denilson Viegas Segundo - Integrante / Pedro Paulo Maciel - Integrante / Guilherme Morais Gomes - Integrante.Financiador(es): Universidade Federal de Uberlândia - Bolsa.Número de produções C, T & A: 7
+2011 - 2015
+AVALIAÇÃO DE INTERFACES, CONTEXTOS DE USO E USUÁRIOS DE MAPAS
+Descrição: Estudo da relação entre os usuários, os mapas e os usos associados a estes. Trata-se de um campo de pesquisa que se utiliza de conceitos advindos de outras ciências - da informática, das ciências da interação (campo do design) e das ciências sociais, em especial na relação entre tecnologia e sociedade para analisar e compreender como se dá a interação entre os usuários e a cartografia, através do seu principal produto que é o mapa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Marcio Augusto Reolon Schmidt - Integrante / Claudia Robbi Sluter - Integrante / Corné Van Elzakker - Integrante / LUCIENE STAMATO DELAZARI - Coordenador / André Luiz Alencar de Mendonça - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolv. Científico e Tecnológ. do Paraná - Auxílio
+										financeiro.

@@ -1,0 +1,85 @@
+2023 - Atual
+Modelagem Ambiental a partir dos principais Índices de Vegetação aplicados a área do IFRS campus Sertão - PVN1245-2023
+Descrição: O IFRS campus Sertão tem uma área total de 237,995 hectares, com considerável diversidade de atividades relacionadas ao uso do solo. O cruzamento das informações espacializadas entre diferentes atividades que ocorrem no campus com índices de vegetação obtidos por meio de imagens orbitais (CBERS) capturados em diferentes datas, geraria grande amplitude de inferências, reunindo-se significativa massa de dados. Para o processamento dessas informações, pretende-se utilizar um cluster montado com placas de baixo custo e desenvolver sistema computacional de alta performance (HPC) específico para ciência de dados ambientais e ciência de informação geoespacial (GIScience). Esse processamento de informações das imagens orbitais CBERS ocorrerá por meio do software QGIS compilado para computação paralela, com o qual, a partir da sobreposição das camadas de informações serão desenvolvidos modelos ambientais utilizando-se índices de vegetação correlacionados com informações bióticas, abióticas e antrópicas da área do IFRS campus Sertão, como ferramenta para auxílio à tomada de decisão em ESG.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gilberto Schwertner Filho - Coordenador / José Vitor Picolotto da Cruz - Integrante.Número de orientações: 1
+2022 - 2023
+Estação de Análise e Conhecimento Ambiental - PVN348-2022
+Descrição: Projeto de pesquisa para o desenvolvimento de estação tecnológica em nuvem para análises e organização de conhecimentos ambientais do IFRS campus Sertão, com a implementação de robustas e específicas metodologias de prospecção, validação, controle e monitoramento ambiental que envolvem sistemas de informação geográfica (SIG), banco de informações ambientais, sistemas computacionais de alta disponibilidade aplicados à área ambiental, ao planejamento espacial, aos sistemas de auxílio à tomada de decisões e análises de risco, ao processamento de imagens e de sinais, à modelagem ambiental, à epistemologia ambiental, à ecossistêmica, entre outras aplicações de conhecimentos científicos em função do desenvolvimento metodológico para o estabelecimento de EBV.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gilberto Schwertner Filho - Coordenador / José Vitor Picolotto da Cruz - Integrante.
+2020 - 2021
+VARIÁVEIS ESSENCIAIS DA BIODIVERSIDADE APLICADAS À DISTRIBUIÇÃO E ABUNDÂNCIA DE ESPÉCIES EM ESCALA REGIONAL
+Descrição: Proposição para o desenvolvimento de EBV (Variáveis Essenciais da Biodiversidade) em escala regional, com ações iniciais ao estado da arte na composição estruturada de banco de informações ambientais para validação da assembleia de espécies em diferentes níveis hierárquicos visando a disponibilização fundamentada de ativos digitais a partir de conjuntos de dados ambientais preexistentes em larga escala e de longo prazo ao fornecimento de evidências para ações multipropósitos de monitoramento ambiental, estudos ambientais e no auxílio à tomada de decisões.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gilberto Schwertner Filho - Coordenador / JESSICA FRANCISCA DA SILVA - Integrante.
+2018 - 2019
+SKAn - Sistema Kite Anemógrafo
+Descrição: O projeto SKAn é adaptação do Projeto ConAn (Cone Anemógrafo) para aplicações às demandas do esporte kitesurf. O Projeto ConAn (Cone Anemógrafo) visou o desenvolvimento de um dispositivo de formato cônico baseado no anemógrafo de Da Vinci de baixo custo a partir de hardware livre e sistemas eletroeletrônicos facilmente adquiridos no mercado para o monitoramento da direção e velocidade do vento com envio de dados em tempo real para uma central de processamento. O SKAn - Sistema KiteAnemografo, onde a partir da apresentação do ConAn para empresários locais que ficaram dispostos a financiar o projeto, surgiu a proposta de migração para a prática do kitesurf onde entendimento da dinâmica dos ventos em tempo real é de extrema importância com a proposta de instalação de diversos equipamentos em locais estratégicos com uma escala ajustada para a prática do esporte.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gilberto Schwertner Filho - Coordenador / Francisco Márcio do Nascimento Júnior - Integrante.
+2016 - 2017
+Projeto ConAn - Projeto de Cone Anemógrafo
+Descrição: O Projeto ConAn - Cone Anemógrafo - visa o desenvolvimento de um cone anemógrafo
+de baixo custo a partir de hardware livre e sistemas eletroeletrônicos facilmente
+adquiridos no mercado para o monitoramento da direção e velocidade do vento com
+envio de dados em tempo real para uma central de processamento. A comunicação será
+via rede sem fio em linguagem XML. Será constituído por um cone que servirá como base
+para os componentes eletroeletrônicos e de medição (velocidade e direção do vento,
+intensidade luminosa e temperatura/umidade do ar). Os testes em uma das possíveis
+aplicações do ConAn ocorrerão em um sistema de automação e controle de temperatura
+em uma granja de suínos com a participações de grupo de jovens da agricultura familiar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gilberto Schwertner Filho - Coordenador / Francisco Márcio do Nascimento Júnior - Integrante.
+2015 - 2017
+BHoIA - Boia Holonômica para Investigação Ambiental
+Projeto certificado pela empresa Companhia de Água e Esgoto do Ceará em 12/01/2015.
+Descrição: O Projeto Boia Holonômica para Investigação Ambiental (BHoIA), contempla o desenvolvimento de  plataforma robótica flutuante com movimentação holonômica para o monitoramento em tempo real da qualidade de águas doces, salobras e salinas. Este projeto viabilizará a inclusão de grande massa de dados/informações de monitoramento de qualidade da água, no que tange a abordagem mínima de parâmetros sugerida pela Agência Nacional de Águas (ANA ), sob menor custo e maior abrangência de amostragem espaço/temporal pela mobilidade autônoma da BHoIA. Além disso, os dados gerados complementarão as ações positivas de monitoramento da qualidade dos recursos hídricos já estabelecidas no Estado do Ceará e aumentarão a capacidade de obtenção de informações da rede estadual de monitoramento. O proposto será o passo inicial para o fomento de desenvolvimentos em tecnologias autônomas de monitoramento da qualidade hídrica em rede no interior do Estado do Ceará, uma parceria entre IFCE campus Camocim, Cagece e CTI-NE, com incremento de conhecimentos e expertise nas áreas de sensoriamento ambiental, robótica ambiental e sistemas de gerenciamento e visualização de informações em tempo real via web.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Gilberto Schwertner Filho - Coordenador / Aristides Pavani Filho - Integrante / Régis Fernandes Vasconcelos - Integrante / Jonatha Rodrigues da Costa - Integrante / Cledeílson Pereira Santos - Integrante / Francisco Jorge Costa Ribeiro - Integrante / Jose Wally Mendonça Menezes - Integrante / Auzuir Ripardo de Alexandria - Integrante / Remo Raulison de Oliveira - Integrante / Silvano Porto Pereira - Integrante / Ronner Braga Gondim - Integrante / Marlon Vieira de Lima - Integrante / Suelen Ferreira de Araújo - Integrante / Carlos Eduardo de Carvalho - Integrante / Paloma Santos de Almeida - Integrante / Lucas de Brito Silva - Integrante / Nicoly Aguiar de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2021
+DRAGÃO DO MAR - Desenvolvimento de Robô Aquático Grande, Avançado, Offshore, dedicado à Operação, Manutenção, Auxílio e Reparo
+Descrição: Desenvolvimento de ROV Light Workclass e subsistemas.. Situação: Desativado; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / et al. - Integrante / Aristides Pavani Filho - Coordenador / Roberto Tavares Filho - Integrante / Remo Raulison de Oliveira - Integrante.
+2012 - 2021
+IRACEMA - Instrumentos Robóticos Autônomos para Coleta de dados E Monitoramento Ambiental
+Descrição: Objetivo principal do Projeto IRACEMA é o desenvolvimento de sistemas autônomos integrados a rede de sensores para o monitoramento e coleta de dados ambientais em zonas costeiras, fluviais e lacustres. O projeto IRACEMA desenvolverá dois barcos robóticos de operação autônoma, com capacidade para a execução de tarefas de sensoreamento científico, coleta de amostras e monitoramento de reservas ambientais. O primeiro barco será dedicado à operação em regiões costeiras. O segundo barco será dedicado á operação em rios e lagos. Outro objetivo do projeto é o desenvolvimento de uma arquitetura integrada de software para coordenação e controle autônomo de barco robótico e projeto e construção dos protótipos. Esta arquitetura integrada de software, denominada PILOTO, é responsável pelo gerenciamento e controle do barco, planejamento a execução de trajetórias, comunicação com supervisores humanos localizados numa base de operações, localização e mapeamento. Situação: Desativado; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / et al. - Integrante / Aristides Pavani Filho - Coordenador / Roberto Tavares Filho - Integrante / Ailton S. Barbara - Integrante / Remo Raulison de Oliveira - Integrante.
+2011 - 2013
+Localização e Restauração Ambiental das Nascentes dos Principais Afluentes do Rio Santo Cristo
+Descrição: Edital CNPq 026/2010 projeto elaborado em parceria pela Universidade Federal da Fronteira Sul (UFFS) - Campus Cerro Largo e o Instituto Federal Farroupilha - Campus Santa Rosa.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / Cléria B. Meller - Coordenador / Daniel Ricardo Arsand - Integrante / Iara Endruweit Battisti - Integrante / Denize Reis - Integrante / Tatiane Chassot - Integrante / Débora Machado de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.
+2010 - 2011
+MAPA - Monitoramento Ambiental Participativo
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Coordenador / Cléria B. Meller - Integrante / Daniel Ricardo Arsand - Integrante / André Luan Hofferber - Integrante / Graciana Darlie Kerkhoff - Integrante.
+2010 - 2011
+Implantação de laboratório para recuperação, gestão e tratamento de resíduos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / Cléria B. Meller - Integrante / Daniel R. Arsand - Coordenador / Jaqueline Weschenfelder - Integrante / Lara Kunzler - Integrante.
+2010 - 2011
+Gerenciamento ambiental de nascentes e áreas úmidas
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / Cléria B. Meller - Coordenador / Daniel R. Arsand - Integrante / Camila Raquel Marmitt - Integrante / Kelly Mallmann de Aquino - Integrante.
+2010 - 2011
+BioGER - Biodigestores para Geração de Energia na pequena propriedade Rural
+Situação: Desativado; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Coordenador / Cléria B. Meller - Integrante / Daniel R. Arsand - Integrante / Carlos Augusto Rohenkhol - Integrante / Eloir André Kuhsler - Integrante / Lauri Mayer - Integrante.
+2007 - 2010
+Taxonomia molecular em organismos bioindicadores de qualidade de água: peixes-elétricos (Gymnotiformes) e códigos de barra de DNA (DNA barcode)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Coordenador / Renata Schimitt - Integrante / Diana Ferreira - Integrante / Adília dos Prazeres da Rocha Nogueira - Integrante / Carolina Maia - Integrante.
+2007 - 2010
+Biotecnologia para monitoramento da qualidade da água em tempo real, por intermédio da análise da descarga de peixes elétricos amazônicos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Coordenador / Roberto Tavares Filho - Integrante / Daniela Munhoz Rossoni - Integrante / Diana Ferreira - Integrante / Adília dos Prazeres da Rocha Nogueira - Integrante.
+2007 - 2009
+Sistema de biomonitoramento em tempo real para ambientes aquáticos na Amazônia: a utilização da descarga do órgão elétrico de peixes gymnotiformes como modelo de bioindicador
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Coordenador / Diana Ferreira - Integrante / Adília dos Prazeres da Rocha Nogueira - Integrante.
+2006 - 2008
+Biotecnologia para monitoramento de qualidade de água em tempo real
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Coordenador / Roberto Tavares Filho - Integrante / Renata Schimitt - Integrante / Diana Ferreira - Integrante / Adília dos Prazeres da Rocha Nogueira - Integrante.
+2006 - 2006
+Biologia Evolutiva de Peixes Eletrosensitivos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / et al. - Integrante / José Antônio Alves-Gomes - Coordenador.
+2005 - 2008
+Sistema de biomonitoramento em tempo real para ambientes aquáticos na Amazônia: a utilização da descarga do órgão elétrico de peixes gymnotiformes como modelo de bioindicador
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Coordenador / Augusto Bucker - Integrante / Daniela Munhoz Rossoni - Integrante / Carlos David de Santana Canabarro - Integrante.
+2005 - 2007
+Porake - AmazonBots - Projeto COGNITUS/Petrobras
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Integrante / Aristides Pavani Filho - Integrante / Roberto Tavares Filho - Coordenador.
+2004 - 2006
+Desenvolvimento de tecnologia alternativa Para biomonitoramento de ambientes aquáticos por meio do campo elétrico de peixes aa Ordem Gymnotiformes
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Coordenador / Daniela Munhoz Rossoni - Integrante / Christopher Rolf Adland - Integrante / Carlos David de Santana Canabarro - Integrante.
+2002 - 2004
+CTPetro-BIOMONITOR
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / José Antônio Alves-Gomes - Coordenador / Daniela Munhoz Rossoni - Integrante / Christopher Rolf Adland - Integrante / Carlos David de Santana Canabarro - Integrante.
+2002 - 2002
+Desenvolvimento de processos oxidativos avançados para o tratamento de matrizes ambientais contaminadas por hidrocarbonetos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / Claudemir Marcos Radetski - Coordenador.
+2000 - 2001
+Utilização de Material Dragado de Regiões Estuarinas para os Setores Agrícola e Industrial
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / Antonio Henrique da Fontoura Klein - Coordenador / Rafael Medeiros Sperb - Integrante.
+1997 - 1998
+Monitoramento dos Reflorestamentos da Mineração Rio do Norte S.A.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Gilberto Schwertner Filho - Integrante / Elisiana Pereira de Oliveira - Coordenador / Agno Nonato S. Acioli - Integrante / Maria Lúcia Pinheiro da Paz - Integrante / João Ferraz - Integrante.

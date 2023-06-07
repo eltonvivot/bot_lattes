@@ -1,0 +1,72 @@
+2018 - Atual
+Gestão de Projetos: Construindo um Modelo de Gestão Voltado ao Programa de Apoio ao Desenvolvimento Institucional do SUS
+Descrição: O objetivo deste projeto é que a construção de um modelo padronizado de gestão de projetos para para buscar maior qualidade e aplicação aos projetos realizado pelo Programa de Apoio ao Desenvolvimento Institucional do SUS (PROADI), garantindo as especificidades exigidas pela portaria nº 12.101. O modelo, voltado às necessidades do Ministério da Saúde, incluirá as etapas de aprovação, construção e entrega, podendo ser aplicado por  todas as instituições executantes (Hospitais de excelência).. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Alessandra Dahmer - Coordenador / Rodrigo da Silva Martins - Integrante.
+2016 - 2017
+Desenvolvimento e Aplicação de um Jogo Sério em Atenção Primária em Saúde
+Projeto certificado pelo(a) coordenador(a) Maria Eugênia Bresolin Pinto em 18/04/2017.
+Descrição: O objetivo do presente estudo é avaliar a influência de um Jogo Sério ambientado na Atenção Primária em Saúde no conhecimento de graduandos de Medicina... Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Integrante / Rodrigo Alves Tubelo - Integrante / Maria Eugenia Bresolin Pinto - Coordenador / Fernando Freitas Portella - Integrante.
+2013 - 2014
+Objeto Educacional Digital e Metodologia Ativa no Ensino de Enfermagem
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.
+2012 - 2015
+?	Educação a Distância para Professores da Rede de Escolas Estaduais de Porto Alegre: Nutrição e Alimentação Saudável
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.
+2010 - 2016
+Impacto do Curso de Especialização em Saúde da Família UFCSPA/UNASUS na Qualidade da Atenção Primária à Saúde no RS
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador / Maria Eugênia Bresolin Pinto - Integrante.
+2010 - 2016
+?	Educação a Distância para Profissionais de Saúde: Um Estudo sobre a Evasão e a Efetividade do Curso sobre os ?Dez Passos da Alimentação Saudável para Crianças Menores de Dois Anos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.
+2010 - 2013
+Simulação Computacional de Casos Clínicos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Integrante / Cecília Dias Flores - Coordenador.Financiador(es): Ministério da Saúde - Auxílio
+										financeiro.
+2010 - 2012
+Avaliação da Educação a Distância na Formação de Especialistas em Saúde da Família através do UNA-SUS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Alessandra Dahmer - Integrante / Cecília Dias Flores - Integrante / Airton Tetelbon Stein - Coordenador / Marcelo Rodrigues Gonçalves - Integrante / Aline Corrêa de Souza - Integrante / Fernando Neves Hugo - Integrante / Maria Eugênia Bresolin Pinto - Integrante.Financiador(es): Ministério da Saúde - Auxílio
+										financeiro.
+2010 - 2011
+Ambiente Computacional de Simulação de Casos Clínicos Complexos para Apoio à Educação Médica
+Descrição: O presente projeto objetiva a construção de um ambiente computacional para simulação de casos clínicos complexos, visando apoiar a aprendizagem de diversos conteúdos abordados no curso de medicina. O sistema de apoio à aprendizagem proposto possibilitará adequar os espaços docente-assistenciais destinados a práticas de Serviço de Saúde Baseado em Evidências nos diferentes cenários onde atuam os profissionais de saúde.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Alessandra Dahmer - Coordenador / Eduardo Kroth - Integrante / Jacques Nelson Corleta Schreiber - Integrante / Luciano Nunes Duro - Integrante.
+2006 - 2008
+Avaliação e Reutilização de Cursos em Educação a Distância
+Descrição: Este projeto visa a definição de uma metodologia de avaliação e reutilização de cursos a distância, como complementação do modelo para gerência de cursos a distância apresentado na tese de doutorado de Alessandra Dahmer. O modelo de "Processo de Curso", proposto nessa tese, baseia-se na analogia entre Processo de Software e Curso a Distância e é constituído pelas atividades que compõem a gerência de um curso a distância. 
+Um dos destaques do modelo é a possibilidade de reutilização de cursos anteriores, utilizando conceitos herdados da Engenharia de Software. E, como a definição de métricas de avaliação e políticas de reutilização não faziam parte do escopo da tese, as etapas de avaliação e aquisição do conhecimento, previstas no modelo, não foram implementadas no referido trabalho.  
+Assim, neste projeto está sendo definido um conjunto de critérios para avaliação de cursos a distância e uma metodologia para reutilização desses cursos. Acredita-se que este projeto avance significativamente na busca de métodos e ferramentas que venham a auxiliar os professores na criação de cursos a distância com mais qualidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandra Dahmer - Coordenador.Número de produções C, T & A: 4
+2004 - 2004
+Um Ambiente para Desenvolvimento e Gerência de Cursos em Ensino a Distância
+Descrição: O ensino a distância está sendo uma alternativa para o aprendizado que pode substituir a
+interação pessoal, na sala de aula, de professor e aluno, como meio preferencial de ensino,
+pela ação sistemática e conjunta de diversos recursos didáticos e pelo apoio de uma
+organização e tutoria que propiciam a aprendizagem independente e flexível dos alunos.
+Entretanto, necessita-se de métodos e instrumentos para auxiliar os educadores no
+desenvolvimento, planejamento e execução das aulas. Devendo -se, no entanto, estar atento a diversidade das habilidades humanas, suas motivações, personalidades, estilos de
+trabalho entre outras características que são um desafio para os desenvolvedores destes
+sistemas. Este trabalho propõe uma analogia entre o curso a distância e o processo de
+desenvolvimento de software. É apresentado o processo de um curso, desde sua criação até sua avaliação. Propõe-se a modelagem de curso e de seu processo de execução atrav és de um formalismo. Também pretende-se realizar a prototipação deste modelo visando sua
+validação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.Número de produções C, T & A: 3
+2002 - 2004
+PROSOFT-APSEE: Integração de Ferramentas para Gerência do Processo de Desenvolvimento de Software
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Doutorado: (1) . Integrantes: Alessandra Dahmer - Integrante / Daltro José Nunes - Coordenador / Abraham Lincoln Rabelo de Sousa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2000 - 2001
+Acompanhamento Pedagógico em um Ambiente de Ensino a Distância
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.Número de produções C, T & A: 2
+1999 - 2000
+Desenvolvolvimento de mecanismos de acompanhamento e avaliação remota no ensino à distância
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.Número de produções C, T & A: 2
+1998 - 2002
+MENPHIS
+Descrição: Cada vez mais tem se buscado por formas de aprimorar o ensino nas mais diversas áreas. Com a aplicação de novas técnicas pedagógicas na preparação de material didático, é possível oferecer cursos a distância a pessoas que não têm condições de se locomover diariamente, por motivos financeiros, físicos ou pela própria falta de tempo, para a sala de aula de uma escola ou universidade. 
+Neste contexto, o projeto MENPHIS(Projeto de Utilização da Internet na Construção e Disponibilização de Cursos Remotos) tem como objetivo investigar as formas como o ensino tradicional pode se beneficiar da rede Internet e como esta rede pode ser utilizada no ensino a distância.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (4)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Alessandra Dahmer - Coordenador / Luciano Paschoal Gaspary - Integrante / Rejane Frozza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 17
+1998 - 1998
+Pré-processamento de Imagens Médicas Através do Sistema Khoros
+Descrição: Estudo de técnicas de pré-processamento de imagens e aplicação das mesmas em imagens médicas, utilizando o ambiente Khoros.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.
+1997 - 1998
+Estudo da aplicação de inteligência artificial em Data Mining
+Descrição: O projeto trata do estudo de Data Mining, uma técnica para extração de informações de Banco de Dados. Visa estudar as caraterísticas de Data Mining, assim como as vantagens de sua utilização e dificuldades para aplicação em Banco de Dados Heterogêneos.
+Além disso, foram estudadas diversas técnicas de Inteligência Artificial que podem ser usadas para melhorar o processo de Data Mining.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alessandra Dahmer - Coordenador.
+1997 - 1997
+Criação e Implantação da Empresa Júnior da UNISC - UNIJUNIOR
+Descrição: Estudo do impacto da criação da empresa júnior da UNISC na comunidade regional.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alessandra Dahmer - Coordenador.

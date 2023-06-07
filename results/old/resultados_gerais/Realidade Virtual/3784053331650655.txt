@@ -1,0 +1,30 @@
+2009 - Atual
+O uso de estilos cognitivos e de agentes pedagógicos no processo de ensino-aprendizagem em sistemas tutores inteligentes
+Descrição: O projeto aborda estilos cognitivos, agentes pedagógicos, sistemas tutores inteligentes, técnicas computacionais de regras de produção e redes bayesianas, interação por linguagem natural, aspectos estéticos e de interação social nos agentes. E visa contemplar na nova fase computação afetiva, desenvolvimento e inclusão de estilos cognitivos para pessoas portadoras de necessidades educacionais especiais e integração do ambiente educacional já desenvolvido e validado, em etapa anterior deste projeto, na plataforma Moodle, a fim de utilizar as funcionalidades de interação entre os alunos.. Situação: Em andamento; Natureza: Pesquisa. 
+2006 - 2008
+Implementação de Jogo Computacional como ferramenta de apoio ao ensino de Algoritmos
+Descrição: O foco de pesquisa deste projeto está relacionado ao desenvolvimento de um jogo computacional em três dimensões, que envolva interatividade e imersão e propicie aos alunos uma forma lúdica e envolvente de abstrair conceitos e sedimentar o processo de aprendizagem de algoritmos. Busca-se com o desenvolvimento deste trabalho aprofundar o estudo das metodologias de ensino de algoritmos e as técnicas de implementação e desenvolvimento de jogos computacionais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Número de produções C, T & A: 1 / Número de orientações: 1
+2003 - 2004
+Implantes de Hidroxiapatita.
+Descrição: O projeto de trabalho pretende o desenvolvimento de métodos para a obtenção do biomaterial
+"hidroxiapatita" na forma granulada, a sua utilização como implantes e, por fim, a sua análise quando implantada em seres vivos (ratos). A razão para o emprego de cerâmicas de hidroxiapatita é fornecer local para o tecido ósseo crescer e fixar o implante biologicamente. Os materiais a serem obtidos serão caracterizados quanto aos parâmetros mais importantes em sua utilização: fases cristalinas, microestrutura e resposta biológica in vivo. Os resultados obtidos serão comparados com a literatura para demonstrar a fatibilidade de obtenção de hidroxiapatita, através de tecnologia e processamentos cerâmicos a serem dominados.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Beatriz Lux - Integrante / João Carlos Furtado - Integrante / Rolf Fredi Molz - Coordenador / Irionson Antonio Bassani - Integrante / Léo Kraether Neto - Integrante / Luis Alberto dos Santos - Integrante.Financiador(es): Universidade de Santa Cruz do Sul - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2001 - 2002
+Uso de Uma Plataforma Hardware/Software para o Desenvolvimento de Pesquisas na Implementação de Sistemas em Dispositivos Programáveis (FGPA).
+Descrição: O tema proposto para desenvolvimento deste projeto referiu-se a implementação de parte do algoritmo em hardware e outra parte em software visando uma possível solução para o problema de performance do sistema para as áreas de visão computacional e otimização (Algoritmos Genéticos ressalta-se dentre as técnicas). Esta implementação do algoritmo em hardware e em software é completamente realizada dentro de um único dispositivo configurável (FPGA). Este tópico possui uma grande variedade de aplicações industriais, comerciais, científicas e médicas.
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Beatriz Lux - Integrante / João Carlos Furtado - Integrante / Fredi Molz - Coordenador.Financiador(es): Universidade de Santa Cruz do Sul - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2001 - 2002
+Estudo de Técnicas de Extração de Características para a Classificação de Objetos Oclusos.
+Descrição: Este trabalho propôs a análise e implementação de técnicas para extração de características visando a classificação de objetos oclusos e compreendeu duas etapas distintas:
+-a primeira consistiu do levantamento do estado-da-arte das técnicas de extração de características, buscando-se com isto a definição de uma referência bibliográfica atualizada;
+-a segunda etapa previu a implementação propriamente dita de alguma das técnicas obtidas da referência bibliográfica formada na primeira etapa.  Esta implementação foi validada por meio de um estudo de caso de imagens digitais já adquiridas e armazenadas em arquivo digital.
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Beatriz Lux - Coordenador / João Carlos Furtado - Integrante / Rolf Fredi Molz - Integrante.Financiador(es): Universidade de Santa Cruz do Sul - Bolsa.
+1999 - 2001
+Otimização Combinatória Usando Sistema de Informações Geográficas - SIG.
+Descrição: Neste projeto implementou-se novos métodos heurísticos de otimização (busca tabu, "simulated annealing", algoritmos genéticos) em sistemas de informações geográficas; extraiu-se informações relevantes sobre a região, particularmente quanto a viabilidade e localização na implementação de indústrias, empresas comerciais e serviços; verificou-se a eficiência de novas heurísticas de otimização em situações reais..
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Beatriz Lux - Integrante / João Carlos Furtado - Coordenador.Financiador(es): Universidade de Santa Cruz do Sul - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

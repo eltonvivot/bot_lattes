@@ -1,0 +1,20 @@
+2019 - Atual
+Projeto e Desenvolvimento de Tecnologias Assistivas Para Apoiar os Processos de Ensino de Computação e Inovação
+Descrição: Este projeto de pesquisa propõe o estudo e o desenvolvimento de tecnologias assistivas, para apoiar os processos de ensino e de aprendizagem de pessoas com deficiência. Pretende-se identificar soluções já existentes e desenvolver novas tecnologias assistivas, que serão validadas por meio de estudos de caso com a aplicação das mesmas por pessoas que possuem diferentes deficiências e precisam de auxílio para aprimorar seu processo de aprendizagem.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Cristiano Bertolini - Coordenador / Fábio PARREIRA - Integrante / Guilherme Bernardino CUNHA - Integrante / Sidnei  Renato SILVEIRA - Integrante / Nara Martini Bigolin - Integrante / Ricardo Tombesi Macedo - Integrante / Roberto Franciscatto - Integrante.Número de produções C, T & A: 1
+2014 - 2017
+Desenvolvimento de um Framework para Análise da Dados Abertos na Área da Saúde
+Descrição: O projeto visa utilizar técnicas de Visualização de Dados e Data Analytics para a descoberta de conhecimento em bases abertas relacionadas a saúde pública.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cristiano Bertolini - Coordenador / Angélica Caetane Pelizza - Integrante.
+2013 - 2014
+Verificação Formal de Workflows Médicos
+Descrição: O projeto visa identificar, modelar e verificar workflows médicos usando linguagens formais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Cristiano Bertolini - Coordenador / Diel Mateus Peruzzo - Integrante.
+2011 - 2012
+EVGUI Evolution and Verification of Event-Based GUI Systems
+Descrição: Today systems based on user interactions are not limited to the field of desktop and
+web applications. They are present in a widely variety of embedded systems such as
+cellular phones, TVs, medical devices, cars, etc. The verification of this kind of system
+is an approach to assure software quality. A common approach to verify these systems is graphical user interface (GUI) testing. GUI testing is challenging today, due to the high
+user expectations as well as increasing complexity of the systems. As graphical interfaces change often during the development process and also in the production environment, we need ways to constantly guarantee high quality systems. This proposal aims to define a foundation for GUI testing and to address the software evolution problem of GUI testing in a software development process.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Cristiano Bertolini - Coordenador / Zhiming Liu - Integrante / Stephan Arlt - Integrante / Martin Schäf - Integrante.Financiador(es): Macao Science & Technology Development Fund - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1999 - 2001
+Um Estudo sobre Metodologias de Análise Orientada a Objetos
+Descrição: A proposta deste projeto é a realização de levantamento, estudo e avaliação da UML (Unified Modeling Language) no que diz respeito a fase de análise.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Cristiano Bertolini - Coordenador / Rodrigo César de Moura - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 4

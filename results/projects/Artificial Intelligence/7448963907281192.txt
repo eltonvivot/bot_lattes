@@ -1,0 +1,25 @@
+2017 - 2019
+Inteligencia Artifical
+Descrição: EStudo e implementação de IA com Machine Learning e algrítmos de predição, cluster e probabilidades. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Silvio Bortoleto - Coordenador.
+2008 - 2009
+Acionamentos de Dispositivos Via Web
+Descrição: 1. Sistema de aquisição e transmissão de dados: composto de (i) sondas de tensão e corrente (TC e TP); (ii) módulo de coleta de dados (A/D); (iii) sis-tema microprocessado para processamento dos dados coletados e (iv) ter-minal de dados GPRS para transmissão de dados pela rede IP da operadora celular. 
+2.Rede IP da operadora de telecomunicações celular 
+3.Webservice: responsável pela recepção das mensagens de tele¬supervisão (tele  medição e recepção de alarmes) e alimentação dos bancos de dados apropriados. 
+4.Aplicações de gerenciamento do SLA: executando uma interface Web de  gerenciamento do SLA proposto. Executando as seguintes funcionalidades: gerenciamento de alarmes, emissão de relatórios, alimentação de bancos de dados legados, processamento de estatísticas e verificação de tendências. 
+5.Estações de gerenciamento remoto: executando interfaces de usuários das 
+aplicações de gerenciamento, via Web.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Silvio Bortoleto - Coordenador.
+2008 - 2009
+Desenvolver uma metodologia que produza um modelo de datamining aplicado a saúde e que possibilite técnicos do setor de informática desenvolver algoritmos de mine-ração, Data Warehouse, desenvolver integração de vários Bancos de Dados, enfim re-cursos que
+Descrição: Desenvolver uma metodologia que produza um modelo de datamining aplicado a saúde e que possibilite técnicos do setor de informática desenvolver algoritmos de mineração, Data Warehouse, desenvolver integração de vários Bancos de Dados, enfim recursos que possam ser extraídos de um  modelo para  informações gerenciase e  descobertas de tendencias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Silvio Bortoleto - Coordenador.
+2008 - 2009
+Ferramentas Para modelagem
+Descrição: A aplicação de técnicas de datamining e datawarehousing nas organizações podem ter um impacto grande na forma de entendimento do negócio e sobrevida da empresa. Em mercados competitivos, podemos afirmar que é vital um bom entendimento dos dados históricos da organização, a fim de obter um diferencial competitivo perante os concorren-tes e oferecer os produtos e serviços que os clientes desejam com agilidade e eficiência.
+A dificuldade de aplicação dessas técnicas está na pluralidade de sistemas de gestão e-xistentes no mercado que não disponibilizam ferramentas para mineração.
+O desenvolvimento de um metamodelo através de uma ferramenta de modelagem  de da-ta warehouse tem como objetivo definir um padrão de modelo aplicável às empresas para possibilitar a aplicação de técnicas de data mining para extração de conhecimento a partir dos dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Silvio Bortoleto - Coordenador.
+2008 - 2009
+Modelo de BI (Business Inteligence)
+Descrição: Desenvolver estudo  que possibilite profissionais da área de sistemas de informa-çãoligados a suporte a decisão a entender o funcionamento das metodologia de BI e sua abrangencia..  As áreas  de Data Warehouse, Datamining  e OLAP são campos de atua-ção e oferem muitas opçoes de soluções,entretanto são  integração de vários conceitos, enfim uma infinidade de recursos. O trabalho desenvolve  desenvolve a definição das  metodologias e deixa clara a distinçãodeutilização, projeção e prospecção.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Silvio Bortoleto - Coordenador.
+2008 - 2009
+Modelo de Banco de dados para Datamining
+Descrição: Criar e desenvolver um processo de interoperabilidade transparente entre Bancos de Da-dos Heterogêneos, com conteúdos de características e finalidades semelhantes, manten-do a autonomia de cada base de dados e, permitindo a representação SQL única corres-pondente a cada esquema local, através de mapeamento entre o esquema integrado e o esquema local e, algoritmos baseados nas regras de integração de fontes de dados, com o objetivo de alcançar uma estrutura de acesso única de uma forma genérica e simples.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Silvio Bortoleto - Coordenador.

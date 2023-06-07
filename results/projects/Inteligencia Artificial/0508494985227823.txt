@@ -1,0 +1,30 @@
+2015 - 2018
+Ambiente Físico-Virtual de Aprendizagem como suporte ao Aprendizado Baseado em Problemas
+Descrição: O avanço das tecnologias computacionais, beneficiadas pelo advento da internet, tem cooperado para
+o desenvolvimento de diversas áreas. A Educação é uma das áreas afetadas por este cenário,
+necessitando constantemente buscar novas práticas para potencializar o processo de ensinoaprendizagem.
+Aprendizado Baseado em Problemas (ABP) é uma metodologia pedagógica que busca
+potencializar o ensino, transportando o aluno para o centro de seu processo de aprendizagem.
+Ambientes Virtuais de Aprendizagem (AVAs) surgem como uma possibilidade de aproveitar objetos
+didáticos eletrônicos no desenvolver deste processo. Uma extensão destes ambientes são os
+Ambientes Físico-Virtuais de Aprendizagem (AFVA), que agregam aos AVAs, a capacidade de
+utilização de uma representação digital de objetos do mundo real em seu ambiente. Este projeto visa
+desenvolver um AFVA que permita validar o ambiente para o desenvolvimento de práticas
+pedagógicas da metodologia ABP, aproveitando todas as potencialidades que um AFVA e a ABP
+dispõem para a evolução do processo de ensino-aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sam da Silva Devincenzi - Coordenador.
+2015 - 2018
+Aprendizagem baseada em problemas com foco na engenharia de software
+Descrição: A metodologia de ensino-aprendizagem PBL (Problem- Based Learning) ou aprendizagem baseada em problemas visa à promoção de habilidades por meio de resolução de problemas reais. Esta metodologia tem sido estudada e aplicada por diferentes áreas de conhecimento, inclusive na área de ciência da computação. Este projeto tem como foco o desenvolvimento de pesquisas que envolvam a aplicação de PBL no contexto do ensino-aprendizagem de engenharia de software. Ao articular os fundamentos da PBL com os assuntos das áreas de conhecimento do SWEBOK (Software Engineering Body of Knowledge), pretende-se articular também formas de ensino consistente e de aprendizado autônomo que aliem a teoria à prática de futuros profissionais de engenharia de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sam da Silva Devincenzi - Integrante / Cristiano Tolfo - Coordenador / Andréa Sabreda Bordin - Integrante / João Pablo Silva da Silva - Integrante / Jean Felipe Patikowski Cheiran - Integrante.
+2013 - 2014
+Mapeamento de Práticas de Engenharia de Requisitos
+Descrição: A Engenharia de Requisitos (ER) é a área da Engenharia de Software que procura sistematizar o processo de
+definição de requisitos [PRESSMAN, 2006], buscando estudar, entender e registrar corretamente as necessidades do usuário/cliente,
+no software a ser desenvolvido. Uma das dificuldades encontradas nas práticas da ER é a padronização da
+comunicação utilizada e o entendimento mutuo da informação entre as partes envolvidas no processo. Assim sendo,
+entende-se como necessário a utilização de práticas para que a informação envolvida durante esta fase seja
+corretamente registrada, buscando através de técnicas específicas, elicitar, modelar e analisar as informações
+obtidas, a fim de garantir a qualidade do sistema desenvolvido, sendo este, 100% condizente com as expectativas do
+usuário/cliente. Baseado neste panorama, este projeto propõe um estudo das técnicas existentes na literatura para a
+área de ER e uma pesquisa no mercado das técnicas utilizadas pelas empresas desenvolvedoras de software, com a
+finalidade de poder mapear as técnicas teóricas com real utilização prática, além de possíveis novas práticas
+emergentes ainda não registradas na literatura.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sam da Silva Devincenzi - Coordenador.

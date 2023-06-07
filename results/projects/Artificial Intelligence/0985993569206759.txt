@@ -1,0 +1,3 @@
+2018 - 2020
+Identificação de Zonas de Produção e Recuperação de Óleo por Unidades de Fluxo Hidráulico e Simulações Computacionais
+Descrição: O objetivo deste projeto é desenvolver uma técnica para melhor posicionamento de poços (well placement) em reservatórios de petróleo (layouts de campo) e indicação de posições ótimas para canhoneio em colunas de produção, com foco no auxílio à tomada de decisão em atividades de exploração e produção (E&P).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Marrocos Magalhães - Integrante / Moises Dantas dos Santos - Coordenador / Gustavo Peixoto Oliveira - Integrante / Waldir Leite Roque - Integrante.

@@ -1,0 +1,33 @@
+2016 - 2017
+Automação do fluxo Informacional entre atores de inovação no Brasil para processos de tomada de decisão
+Projeto certificado pelo(a) coordenador(a) Edward David Moreno em 24/01/2017.
+Descrição: A inovação é prioridade em países desenvolvidos que têm como estratégia de
+crescimento e competitividade a criação de novas tecnologias e processos. Os atores de
+inovação estabelecidos neste projeto de pesquisa são: governo, empresas e
+universidades. A cultura de inovação de um país ou região depende da articulação
+destes atores, que tem papeis distintos, porém colaborativos, para o sucesso de soluções
+criativas. Neste projeto de pesquisa pretende-se identificar, classificar e associar
+informações produzidas pelos atores de inovação para contribuir nos processos de
+tomadas de decisão. Estas informações são oriundas de fontes informacionais
+estruturadas e não estruturadas e, muitas vezes, não associadas. Neste contexto, agentes
+semânticos de extração de informações são ferramentas importantes para automatizar o
+processo de recuperação e fusão de informações. Contudo, este trabalho delimita-se na
+construção de fluxo informacionais automatizado, produzindo uma solução que irá
+nortear processos de tomadas de decisões no cenário de inovação. Como estudo de caso,
+será adotado o Sistema Paulista de Ambientes de Inovação (SPAI) constituídos de
+parques tecnológicos, centros e núcleos de inovação e incubadoras de empresas que têm
+em sua concepção a atuação direta dos atores de inovação. Após a validação neste
+cenário, o projeto será estendido para a rede de inovação do Estado de Sergipe.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1) . Integrantes: Fábio Dacêncio Pereira - Integrante / Edward David Moreno Ordonez - Coordenador.Número de produções C, T & A: 1
+2012 - 2014
+Assinador Digital ICP-Brasil
+Descrição: Projeto e implementação de um software que deve realizar operações criptográficas relacionadas à assinatura digital no padrão ICP-Brasil conforme definido nos seguintes documentos: DOC-ICP-15, DOC-ICP-15.01, DOC-ICP-15.02 e DOC-ICP-15.03.
+Utilizando este programa deve-se poder assinar digitalmente documentos eletrônicos e verificar as assinaturas presentes em um documento assinado digitalmente. As assinaturas digitais produzidas pela aplicação de Assinatura Digital são derivadas dos padrões CMS Advanced Electronic Signature (CAdES).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Fábio Dacêncio Pereira - Coordenador / Rodolfo Barros Chiaramonte - Integrante / Cleverson Abreu Teotonio - Integrante / Allan Mariano de Souza - Integrante / Ettore Tognoli - Integrante / Adilson Eduardo Guelfi - Integrante.
+2010 - 2012
+Software para Análise de Vulnerabilidade em Aplicações WEB
+Descrição: Ataques a aplicações web com vulnerabilidades são reportados diariamente e acumulam estatísticas que não podem ser desprezadas.  Neste contexto, este projeto de pesquisa  visa à criação de um software para analisar o código fonte de sistemas feitos para a WEB ou migrados para a WEB em busca de falhas de segurança, auxiliando o desenvolvedor a corrigi-las. As vulnerabilidades de SQL Injection e XSS (Cross Site Scripting) foram definidas como foco de implementação neste trabalho, uma vez que, seu nível de periculosidade e quantidade de ataques efetuados nos últimos anos aumentou significativamente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Dacêncio Pereira - Coordenador / Rogério Aparecido C. Xavier - Integrante / Helder Jefferson Ferreira da Luz - Integrante / Ana Julia Soares de Souza - Integrante.
+2005 - 2009
+Camada de Integração de Serviços de Segurança
+Descrição: A Camada de Integração de Serviços de Segurança (CISS) têm como objetivo formalizar a integração de ferramentas de segurança e constrir mecanismos para detecção prematura de situações anômalas com base em modelos comportamentais de anormalidade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fábio Dacêncio Pereira - Coordenador / Edward David Moreno Ordonez - Integrante.
+2004 - 2005
+Um Criptoprocessador VLIW para Algoritmos Criptográficos Simétricos - Projeto e Desempenho em FPGAs
+Descrição: Projeto e implementação de circuito digital: Projetar um processador que oferece suporte aos algoritmos criptográficos simétricos DES, AES, RC5, mantendo flexibilidade na programação e velocidade. Foi definida uma arquitetura VLIW oferecendo bom suporte ao paralelismo do algoritmo DES.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Fábio Dacêncio Pereira - Coordenador / Edward David Moreno Ordonez - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

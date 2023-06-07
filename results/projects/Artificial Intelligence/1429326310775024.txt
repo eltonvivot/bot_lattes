@@ -1,0 +1,98 @@
+2017 - 2018
+Hackathon Carmelita - Maratona de Programação e Inovação para a Criação de Soluções Computacionais que auxiliem o município de São Cristóvão a consolidar-se como uma Cidade Inteligente
+Descrição: Hackathon Carmelita - Maratona de Programação e Inovação para a Criação de Soluções Computacionais que auxiliem o município de São Cristóvão a consolidar-se como uma Cidade Inteligente. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (55)  / Mestrado acadêmico: (6) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Hendrik Teixeira Macedo - Integrante / Gilton José Ferreira da Silva - Integrante.
+2016 - Atual
+SMART UFS.br :: Smart CITy - Cidadania, Inovação e Transparência na difusão de ações e projetos de Cidades Inteligentes da UFS.br
+Descrição: Objetivo Geral:
+Criar o Portal de Conhecimento ?Smart CITy - Cidadania, Inovação e
+Transparência na difusão de ações e projetos de Cidades Inteligentes?, aqui
+denominado SMART UFS.br. O portal deve funcionar como um arcabouço de
+aplicações e serviços localizados nos principais pilares das cidades
+inteligentes: Gestão Ambiental, Planejamento Urbano, Mobilidade, Governança,
+Educação, Saúde, Segurança e Insumos (Água, Energia, Gás e acesso a
+Internet), desenvolvidos ou em desenvolvimento na UFS.
+Objetivos Específicos:
+- Estudar as principais arquiteturas abertas, plataformas (Internet Future Core
+Platform: FIWARE; Smart Objects for Intelligent Applications (SOFIA); e
+CRYSTAL) e padrões (oneM2M, NGSI, etc.) usados na implementação de
+sistemas de informação para as cidades inteligentes.
+- Estudar casos de sucesso ocorridos em outras iniciativas público-privadas
+europeias de serviços interoperáveis por meio de uma plataforma aberta
+para os ecossistemas urbanos, como por exemplo: Webinos; OpenCities: OSN
+Platform; Open & Agile Smart Cities (OASC); ICOS: Open Source
+Community for Smart cities; City Service Development Kit: CitySDK; e
+i-SCOPE: Smart City.
+- Estudar arquiteturas, padrões e tecnologias de Open Data para a organização,
+publicação e distribuição dos dados gerados (ou consumidos) nas
+aplicação de forma transparente e independente das plataformas e arquiteturas
+que estejam distribuídas.
+- Estudar e implementar a comunicação entre as aplicações e sensores remotos
+de IoT com a platafroma FIWARE. Bem como a infraestrutura de nuvem
+necessária para essa comunicação.
+- Compilar iniciativas isoladas da UFS associadas a cada pilar das Cidades
+Inteligentes e estudar a sua possível publicação no Portal SMART UFS.br. Em
+paralelo, os grupos de trabalho (GT) da UFC e UFERSA farão iniciativas similares
+em seus campus universitários.
+- Estudar a possibilidade da replicação das ações e projetos publicados no portal
+de conhecimento SMART UFS.br para a gestão municipal e estadual,
+independente de bandeiras políticas ou partidárias dos seus atuais gestores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Mestrado acadêmico: (6) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Hendrik Teixeira Macedo - Integrante / Michel dos S. Soares - Integrante / Gilton José Ferreira da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 18
+2015 - 2017
+PETICMiner - Estudo de técnicas de mineração de texto que possibilitem automatizar a geração de conhecimento de forma a funcionar como solução cooperativa dentro de um ambiente de Planejamento Estratégico de TIC
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / João Pedro Marques Daltro - Integrante / Fabio Rocha - Integrante.
+2015 - 2017
+App PETICMiner
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Fabio Rocha - Integrante / Elvis Santos Martins - Integrante / Matheus V. G. Protazio - Integrante.Número de produções C, T & A: 5
+2015 - 2017
+App EPIControll - Sistema de Controle e Uso de Equipamento de Proteção Individual - EPI
+Descrição: Criação e implantação de um sistema web móvel para registro, controle,
+emissão de lembretes, monitoramento de uso e manutenção de EPI no âmbito
+industrial.
+Específicos
+? Fazer um estudo bibliográfico detalhado sobre as abordagens, técnicas,
+ferramentas e métodos utilizados atualmente em sistema de informação de
+controle de EPI em uma organização;
+? Realizar um estudo bibliográfico detalhado sobre as principais normas e leis
+que regulamentam a utilização e manutenção de EPI nas empresas.
+? Levantar um estudo detalhado sobre as causas e consequências da redução do
+número de acidentes de trabalho e diminuição da exposição dos
+trabalhadores a riscos devido ao uso correto de EPI
+? Identificar a melhor solução de desenvolvimento a ser aplicada;
+? Definir um modelo de arquitetura para os componentes do sistema proposto;
+? Implementar e validar protótipos funcionais do sistema;
+? Criar uma aplicação web móvel de gerenciamento do uso de EPI permitindo
+aplicar os principais métodos e ferramentas atuais.
+? Desenvolver um sistema de alertas móvel eficiente para indicar os riscos da
+não utilização adequada de EPI seguindo os programas de prevenção de
+acidentes nas empresas.
+? Lançar um produto de software capaz de ser utilizado por organizações da área
+industrial que necessitem de gestão eficiente do uso e controle de EPI.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (1) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Gilton José Ferreira da Silva - Integrante.Financiador(es): Fundaçao Universidade Federal de Sergipe - Bolsa.Número de produções C, T & A: 1
+2014 - 2017
+FAPITEC-N 019.203-00408/2014-6 -IBAR Sistema de automação de atendimento para estabelecimentos de alimentação/entretenimento
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rogério Patrício Chagas do Nascimento - Integrante / Maria Augusta Netto Nunes - Integrante / Nilo Gabriel de Andrade e Silva - Coordenador.
+2013 - 2015
+App PETICrowd - Aplicativo Android Alimentado pela C omunidade Online (de Governança de TIC )
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Adriana de Melo Fontes - Integrante / Wellngson Silveira Santos - Integrante / João Pedro Marques Daltro - Integrante / Lucas Vinicius Daltro Santos - Integrante.
+2013 - 2015
+PETICrowd ? Solução Cooperativa para Sugerir Ações de Melhoria aos Processos de TIC de uma Organização
+Descrição: Este projeto pretende estudar da prática de Crowdsourcing, da Web Social e da Web Semântica para suportar o desenvolvimento de sistemas e serviços automatizados que possam funcionar como uma solução cooperativa coletiva a fim de sugerir ações de melhoria aos processos de TIC de uma organização. Para tal, serão realizadas pesquisas sobre as abordagens, técnicas, e métodos usados para a prática de Crowdsourcing na Web Social e na Web Semântica. Serão identificas as melhores soluções para a concepção de modelos de Crowdsourcing orientados ao desenvolvimento Web e à criação de sistemas móveis para a plataforma Android. Bem como, pretende-se criar um modelo ontológico que permita o intercambio de informações entre agentes de software a fim de obter a integração de informações em um ambiente de Web Social e Semântica, que emprega e integra informações de um artefato da Metodologia PETIC. Por fim, almeja-se explorar tecnologias e padrões usados na criação de um sistema Web e um aplicativo móvel para o sistema operacional Android baseado na Web Social e Semântica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (9)  / Mestrado acadêmico: (2) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Alberto Costa Neto - Integrante / Alcir Cledson de Santana Góis - Integrante / Thauane Moura Garcia - Integrante / Verônica dos Santos Nascimento - Integrante / Adriana de Melo Fontes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2011 - 2013
+Utilizando Novas Mídias para Divulgação e Treinamento da Metodologia PETIC
+Descrição: Objetiva buscar um padrão de interatividade para a Metodologia PETIC, criando um Sistema de Informação (SI) que sirva como um canal de comunicação ágil e confiável entre os consultores, colaboradores e gestores de TIC, reduzindo custos e esforços nos treinamentos e na divulgação da PETIC, durante a sua implantação nas organizações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Hendrik Teixeira Macedo - Integrante / Jeirlan Correia Palmeira - Integrante / Alberto Costa Neto - Integrante / Alcir Cledson de Santana Góis - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / EATIS.Org Brasil - Assoc. Euro-Americ. de Telemática e Sist. de Informação - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2009 - 2012
+Arquitetura de Suporte a Sistemas Ubíquos que Propiciem Inclusão Digital no Estado de Sergipe
+Descrição: Projeto científico aprovado no edital 13/2009 da POSPRAP/UFS, denominado PAIRD - Programa de Auxílio à Integração de Docentes e Técnicos Administrativos Recém-Doutores à Atividades de Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Admilson de Ribamar Lima Ribeiro - Integrante.Financiador(es): Universidade Federal de Sergipe - Auxílio
+										financeiro.Número de produções C, T & A: 19
+2009 - 2011
+Planejamento Estratégico e Desenvolvimento de Aplicações e Serviços Web Eletrônico-Móveis de Suporte às Secretarias Departamentais da UFS
+Descrição: Projeto aprovado para os programas PIBIC 2009/2010 e 2010/2011.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (2) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Hendrik Teixeira Macedo - Integrante / Adicinéia Aparecida de Oliveira - Integrante / Admilson de Ribamar Lima Ribeiro - Integrante / Anderson de Paula Cassimiro - Integrante / Estelamaris Pina. - Integrante / Jeirlan Correia Palmeira - Integrante / Roberto Pizzi Gomes Neto - Integrante / Luiz Marcus Monteiro de Almeida Santos - Integrante / Diego Armando de Oliveira Menezes - Integrante / Tarcísio da Rocha - Integrante / Adriel Moura Silva - Integrante / José Henrique de Melo Cardoso - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe - Bolsa.Número de produções C, T & A: 16
+2009 - 2011
+Laboratório de Produtividade de Software (LabPS) - http://twiki.cin.ufpe.br/twiki/bin/view/LabPS/WebHome
+Descrição: A idéia básica do laboratório é que os alunos do DCOMP (Campus São Cristóvão) e NSI (Campus Itabaiana) tenham oportunidade de aplicar técnicas e utilizar ferramentas que não conseguiram utilizar nas disciplinas de Engenharia de Software. Para isso serão utilizados projetos de empresas reais, parceiras do LabPS. O objetivo final do laboratório é que os alunos participantes do projeto possam no futuro difundir as técnicas aprendidas nas empresas onde forem trabalhar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (2)  / Mestrado acadêmico: (2) . Integrantes: Rogério Patrício Chagas do Nascimento - Integrante / Leila Maciel de Almeida e Silva - Coordenador / Sílvio Meira - Integrante / Marcos Barbosa Dósea - Integrante.Financiador(es): Instituto Nacional de Ciência e Tecnologia para Engenharia de Software - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2003 - 2005
+Projecto Caravela Digital
+Descrição: O Projecto Caravela Digital nasceu para prover o suporte informático à produção intelectual do Projecto humanitário Sabiá, auxiliando a produção e a gestão de toda informação (textual e iconográfica) produzida pela tripulação do veleiro-escola e também as geradas a partir da análise da experiência dessa tripulação (investigações científicas, programas tele-visivos, etc). No Projecto Caravela Digital, utilizam-se artefactos de Computação e Educação Ubíqua para compor dois pilares fundamentais: o Portal Caravela Digital, disponível a partir da URL http://www.caraveladigital.org e o Sistema de Telemática a bordo do veleiro-escola. Este último deveria funcionar com eficiência na costa dos continentes africano, americano e europeu, inclusive durante o deslocamento entre os mesmos, provendo um inovador sistema de u-learning (ubiquitous learning) entre instituições brasileiras, espanholas, francesas e portuguesas envolvidas na difusão das experiências vividas a bordo. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (10)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rogério Patrício Chagas do Nascimento - Coordenador / Joaquim Arnaldo Carvalho Martins - Integrante / Joaquim Manuel Henriques de Sousa Pinto - Integrante / Celso Roberto Perez - Integrante / Obionor de Oliveira Nóbrega - Integrante / Marcus Aurelio de Carvalho Macedo - Integrante / Francisco Xavier Alcalá Navarro - Integrante / Diogo Lopes - Integrante / Angel Viña - Integrante.Número de produções C, T & A: 16
+2001 - 2001
+Projecto DIVILAB
+Descrição: O trabalho de investigação dizia respeito a um estudo conceptual sobre o uso e aplicação dos componentes COM ActiveX, segundo o modelo de objectos do pacote MS Office 2000©.  O nosso objectivo inicial era verificar como poderíamos desenvolver Add-Ins, Templates, Wizards ou Libraries (*.dll) para serem utilizados por outros grupos de investigação do projecto europeu DIVILAB nos seus ambientes de trabalho. O projecto foi abortado em Junho de 2001. Maiores informações podem ser encontradas em http://www.divilab.org: The DiViLab project focuses on the experimental activities of the learner. These computer-mediated activities are supported whatever the place and time constraints, the nature of the experimental systems (real, simulated or artificial), the organisational and pedagogical models. At the conceptual level we chose a "learner activity centred design" based on results from learning sciences, distributed cognition, Computer Supported Co-operative Work and Theory of Activity. Due to the knowledge domain selected and the consensus on some generic approaches of the experimental scientific way of thinking, we will produce models and an activity support, for individual or collective contexts,based on reuse of the functions of a Virtual Campus platform. These models will be "tailorable". An educational "Component System Architecture" is chosen at the design level with the potential for co-operation and interoperability of these components, or agents, provided by the Web-object approach. This gives possibilities to provide components interfaces with lightweight coupling and higher semantics through the sharing of a domain ontology, compatible with the progress of the learning technologies international standardisation efforts. Different user interfaces and prototypes will be designed and evaluated.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Rogério Patrício Chagas do Nascimento - Integrante / Joaquim Arnaldo Carvalho Martins - Coordenador / Joaquim Manuel Henriques de Sousa Pinto - Integrante / Pedro M Almeida - Integrante / Hélder T Zagalo - Integrante.Financiador(es): Instituto de Engenharia Electrónica e Telemática de Aveiro - Cooperação / Fifth Framework Programme European Union - Outra.Número de produções C, T & A: 2

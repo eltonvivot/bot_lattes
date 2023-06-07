@@ -1,0 +1,36 @@
+2011 - 2013
+Sistema Inteligente para o Diagnóstico e a Proatividade de Sistemas de Distribuição de Energia Elétrica
+Descrição: Desenvolvimento de um sistema computacional inteligente para a análise de anormalidades, como curtos-circuitos e distúrbios de tensão. O objetivo do sistema é identificar e localizar as possíveis fontes de tais anomalias operativas, propondo soluções proativas (ou seja, atuando de forma antecipatória dentro dos preceitos da manutenção preventiva). Agência de Fomento: FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo). Processo No. 2011/06394-5.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2)  / Mestrado profissional: (4) . Integrantes: Carlos Roberto Minussi - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2005 - 2008
+Desenvolvimento de um Sistema Inteligente Para Extração do Conhecimento de Bases de Dados Visando a Automação de Subestações de Distribuição de Energia Elétrica
+Descrição: Concepção e implementação de um sistema especialista para automação e apoio à tomada da decisão do agente operador de subestações de sistemas de distribuição de energia elétrica. Trata-se de uma concepção inteligente com vistas a maximizar a qualidade do fornecimento de energia elétrica aos consumidores, ou seja, a continuidade do atendimento e a garantia de grandezas elétricas dentro de padrões exigidos pela legislação do setor elétrico. 
+Agência de Fomento: FEPISA (Fundação de Ensino, Pesquisa e Extensão de Ilha Solteira).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Roberto Minussi - Coordenador.Financiador(es): FEPISA-Fundacao de Ensino, Extensao e Pesquisa de Ilha Solteira - Bolsa.
+2005 - 2007
+Desenvolvimento de um Sistema Especialista para a Automação e  Apoio à Tomada de Decisão em Ambiente de Subestações de Sistemas de Distribuição de Energia Elétrica
+Descrição: Desenvolvimento de projeto integrado de pesquisa com vistas a resolução de problemas referentes à automação e a tomada de decisão em sistemas de distribuição de energia elétrica.
+Agência de Fomento: ANNEL- Grupo Rede (Empresa Caiuá) - Fundos Setoriais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (8) . Integrantes: Carlos Roberto Minussi - Coordenador / Nobuo Oki - Integrante / JOZUÉ VIERA FILHO - Integrante / Suely Cunha Amaro Mantovani - Integrante.Financiador(es): Agência Nacional de Energia Elétrica-Fundo Setorial - Auxílio
+										financeiro.
+2005 - Atual
+Sistemas Inteligentes no Contexto de Sistemas Elétricos de Potência
+Descrição: Desenvolvimento de concepções baseadas nas redes neurais e técnicas similares (fuzzy logic, sistemas imunológicos artificiais, teoria de evidência de Dempster-Shafer, entre outras técnicas) para a resolução problemas associados à área de Sistemas Elétricos de Potência: análise, previsão de carga, análise e controle antecipatório considerando-se a estabilidade transitória, análise de sinais, entre outras. Trata-se de um conjunto de soluções advindas de docentes (locais, bem como visitantes) e alunos (de iniciação científica, mestrado, doutorado, pós-doutoramento) que atuam no laboratório de ?Sistemas inteligentes. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (8)  / Doutorado: (10) . Integrantes: Carlos Roberto Minussi - Coordenador / Anna Diva P. Lotufo - Integrante / LILIAN YULI  YSODA - Integrante / Mara Lucia Martins Lopes - Integrante.Financiador(es): UNESP - Câmpus de Engenharia de Ilha Solteira - Outra.
+1998 - 1999
+Expansão e Modernização da Rede de Computadores do Departamento de Engenharia Elétrica da FEIS/UNESP
+Descrição: Aquisição de equipamentos computacionais para o desenvolvimento de pesquisas de Docentes e de Alunos.
+Agência de Fomento: FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo). Processo No. 1998/9728-5.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Roberto Minussi - Coordenador.Financiador(es): (FAPESP) Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1996 - 1997
+Expansão e Modernização do Laboratório Computacional do Curso de Pós-Graduação em Engenharia Elétrica da FEIS/UNESP
+Descrição: Aquisição de equipamentos computacionais para o desenvolvimento de pesquisas de Docentes (locais e visitantes) e de Alunos (mestrado e pós-doutoramento) do Programa de Pós-Graduação em Engenharia Elétrica.
+Agência de Fomento: FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo). Processo No. 1998/9728-5.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Roberto Minussi - Coordenador.Financiador(es): (FAPESP) Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1995 - 1996
+Análise de Estabilidade Transitória de Sistemas de Energia Elétrica Através de Redes Neurais
+Descrição: Agência de Fomento: CNPq (Auxílio integrado de pesquisa). Processo No. 522834/96-5.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Roberto Minussi - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+1993 - 1999
+Desenvolvimento de Redes Neurais Artificiais Visando Aplicações em Sistema de Energia Elétrica
+Descrição: Aquisição de materiais para a viabilização da pesquisa proposta.
+Agência de Fomento: FUNDUNESP (Fundação Para o Desenvolvimento da UNESP
+Processo No. 420/92-DFP/F/CET,. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Carlos Roberto Minussi - Coordenador.Financiador(es): Fundação para o Desenvolvimento da UNESP - Auxílio
+										financeiro.

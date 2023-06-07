@@ -1,0 +1,19 @@
+2018 - Atual
+Sistemas Computacionais Inteligentes com ênfase em Mapas Cognitivos Fuzzy Dinâmicos aplicados em Robótica e Controle Industrial
+Descrição: O objetivo geral dessa pesquisa consiste em disseminar uma evolução dos Mapas Cognitivos Fuzzy, do inglês Fuzzy Cognitive M
+aps, fundamentado e contextualizado na seção introdutória. Pretende-se disseminar a teoria de Mapas Cognitivos Fuzzy, em especial Mapas Cog
+nitivos Fuzzy Dinâmicos, do inglês Dynamic-Fuzzy Cognitive Maps (D-FCM) e propostas similares e correlatas precursoras. Como por exemplo, H
+ybrid Dynamic-Fuzzy Cognitive Maps e Dynamic-Cognitive Networks (DCN) Redes Cognitivas Dinâmicas respectivamente. A divulgação das ferra
+mentas computacionais inteligentes deverá ocorrer principalmente por meio de orientações de trabalhos de cunho acadêmico e publicações, apre
+sentações de trabalhos em conferências; publicações em periódicos, De forma específica em orientação de alunos de iniciação cientifica, formand
+os em fase inclusão PPGEM-CP, a priori como voluntários nas áreas citadas, e a posteriori, em trabalhos de dissertação de mestrado e conferênci
+as e periódicos Nacionais e Internacionais durante o desenvolvimento da mesma. Objetiva-se também o desenvolvimento de protótipos, como o b
+raço manipulador robótico construído por meio de uma orientação de TCC, nesse caso com uma publicação no período SINERGIA do Instituto Fe
+deral de São Paulo (IFSP). Ressalta-se trabalhos com DFCM embarcado em microcontrolador Arduino (best award), artigo cujo título ?Dynamic Fu
+zzy Cognitive Maps Embedded and Classical Fuzzy Controllers Applied in Industrial Process? em Barcelona ICAS-2017. Mais recentemente, três a
+rtigos aceitos no IEEE WCCI 2018 nas áreas de controle industrial, robótica de grupo inspirada em técnicas de SWARM ROBOTICS e solução do
+problema da cinemática inversa de um braço manipulador com 4 graus de liberdade em 3 dimensões. Além do conhecimento e metodologia cienti
+fica inerentes a pesquisa para a formação dos alunos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Mestrado acadêmico: (1) . Integrantes: Márcio Mendonça - Integrante / Marcio Mendonça - Coordenador / PALÁCIOS, RODRIGO HENRIQUE CUNHA - Integrante.
+2011 - 2012
+Desenvolvimento de arquiteturas de inferência dinâmica aplicada ao controle de Agentes Autônomos através do uso das redes cognitivas dinâmicas
+Descrição: O projeto objetiva a construção de uma arquitetura cognitiva para tomadas de decisões dinamicas e autonomas em ambientes totalmente ou parcialmente desconhecidos através de leitura de sensores e /ou cooperação entre agentes. Ferramentas inteligentes correlatas estao sendo observadas para obtenção de resultados para comparação com a arquitetura em desenvolvimento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Márcio Mendonça - Coordenador / Wagner Fontes Godoy - Integrante.Número de produções C, T & A: 5

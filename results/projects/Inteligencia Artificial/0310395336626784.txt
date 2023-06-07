@@ -1,0 +1,11 @@
+2016 - Atual
+Extensões de Gramáticas de Expressões de Parsing e suas Aplicações
+Descrição: Gramáticas de Expressões de Parsing (PEGs) são um formalismo desenvolvido no início dos anos 2000 que renovou o interesse por analisadores sintáticos descendentes. A descrição de uma PEG é a descrição de uma linguagem e também de um analisador sintático descendente para essa linguagem.
+Atualmente existem pesquisas que tentam estender PEGs de modo a facilitar a descrição de analisadores sintáticos com PEGs. Entre essas pesquisas, podemos destacar: a extensão de PEGs
+para permitir descrever uma gramática com regras recursivas à esquerda, o estudo de técnicas para que um analisador sintático gere boas mensagens de erro quando a entrada é sintaticamente inválida, e o uso de PEGs para o casamento de dados estruturados.
+Os resultados dessas pesquisas foram incorporados por diversas ferramentas baseadas em PEGs, tais como OMeta, IronMeta, Rats! e LPeg, o que mostra uma boa interação entre teoria e prática.
+Diante desse cenário, o objetivo deste projeto é continuar investigando extensões de PEGs que facilitem a descrição de analisadores sintáticos e como essas extensões podem ser
+implementadas eficientemente.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sérgio Queiroz de Medeiros - Coordenador / Fabio Mascarenhas - Integrante / Gilney de Azevedo Alves Junior - Integrante.
+2015 - Atual
+Typed Lua: Um Dialeto Estaticamente Tipado para a Linguagem Lua
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sérgio Queiroz de Medeiros - Integrante / Fabio Mascarenhas - Coordenador.

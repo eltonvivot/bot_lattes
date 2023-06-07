@@ -1,0 +1,7 @@
+2013 - Atual
+Técnicas de Codificação Avançadas para Comunicação sem Fio em Banda Larga
+Descrição: Este projeto diz respeito à investigação de técnicas de codificação avançadas para correção de erros, numa nova área de pesquisa resultante da convergência das tecnologias de comunicação sem fio em banda larga e segurança da aviação, as quais numa primeira vista parecem ter pouco em comum: Na aviação, a comunicação de dados em banda larga irá tornar-se o principal tipo de comunicação ar/terra
+durante a próxima década. As duas principais forças motrizes por trás dessa tendência são:
+1) Necessidades dos passageiros de acesso à Internet a bordo durante o vôo;
+2) Necessidades da indústria da aviação por sistemas de comunicação em banda larga em aeroportos, que possam integrar subsistemas de comunicação de todos os diferentes serviços do aeroporto.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (4) . Integrantes: Valdemar Cardoso da Rocha Junior - Coordenador / Cecilio José Lins Pimentel - Integrante / Daniel Carvalho da Cunha - Integrante / Daniel Pedro Bezerra Chaves - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2

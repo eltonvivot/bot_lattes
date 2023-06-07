@@ -1,0 +1,56 @@
+2017 - 2018
+Software Para Cálculos Referentes à Mecanização Agrícola:Potência dos Motores de Combustão Interna e Construção de Modelos Físicos Didáticos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Pedro Paulo da Cunha Machado - Coordenador.
+2017 - 2017
+Sistema SCADA Contendo Seis Sensores Para Doze Gases Diferentes Controlado Por Arduino E Raspberry Pi 3
+Descrição: apresentação de pôster na X Jornada Científica, IFRJ/CPAR. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pedro Paulo da Cunha Machado - Coordenador / Luiz Maurício da Silva Soares - Integrante / Ben Abner Santanna - Integrante.
+2017 - 2017
+Desenvolvimento ae Software Para a Demonstração da Integração Numérica Pelos Métodos dos Retângulos, Trapézios e Simpson Utilizando Três Técnicas de Parsing" Diferentes
+Descrição: X Jornada Científica, IFRJ/CPAR, 2017.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pedro Paulo da Cunha Machado - Coordenador / C. N. SANTOS - Integrante.
+2017 - 2017
+DESENVOLVIMENTO DE SOFTWARE PARA O CÁLCULO DA POTÊNCIA DE MOTORES DE COMBUSTÃO INTERNA PARA DIFERENTES COMBUSTÍVEIS
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Pedro Paulo da Cunha Machado - Coordenador.
+2016 - 2017
+BRAÇO ROBÓTICO EDUCACIONAL COM SEIS GRAUS DE LIBERDADE LINUX XUBUNTU, RASPBERRY Pi 3 E ARDUINO
+Descrição: O objetivo Geral do Trabalho é construir um braço robótico para fins educacionais com seis graus de liberdade, movido a servomotores e controlado por uma eletrônica embarcada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador / Yasmin Rodrigues Chaves - Integrante / Caio Roberto Parreiras - Integrante.
+2016 - 2017
+SISTEMA SCADA OPEN-SOURCE PARA GASES COMBUSTÍVEIS UTILIZANDO LINUX XUBUNTU, RASPBERRY Pi 3, PIC E ARDUINO
+Descrição: O objetivo geral do trabalho é desenvolver um Sistema de Supervisão, Controle e Aquisição de Dados (SCADA - "Supervisory Control And Data Acquisition") educativo, composto por um computador "open-source" Raspberry Pi 3 conectado a um microcontrolador PIC18F4550 e a um microcontrolador na plataforma Arduino UNO, para realizar a supervisão de um grupo de sete sensores para gases combustíveis, monóxido de carbono e fumaça.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador / Luiz Maurício da Silva Soares - Integrante / Ben Abner Pereira Sant'Ana - Integrante.
+2016 - 2017
+Dispositivo Para Alarme e Detecção de Vazamentos de Gases Combustíveis Utilizando a Plataforma Arduino
+Descrição: O objetivo geral do trabalho é desenvolver um dispositivo para alarme e detecção de vazamentos de gases combustíveis utilizando a plataforma "Open-Source" Arduino UNO.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pedro Paulo da Cunha Machado - Coordenador / Anna Júlia Teixeira Berriel - Integrante / Henrique Raposo Ravaglia de Oliveira - Integrante / Priscila de Andrade Januário - Integrante.
+2015 - 2016
+Desenvolvimento de um Sistema Educativo de Aquisição de Dados e Controle de Dispositivos Elétricos Por meio da Internet
+Descrição: Controle remoto via Internet. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Pedro Paulo da Cunha Machado - Integrante / Luciano Henrique Lourenço - Coordenador.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Bolsa.Número de produções C, T & A: 1
+2015 - 2016
+Construção de um VANT Educativo com Quatro Propulsores de Pás Rotativas e Voo Georreferenciado
+Descrição: Desenvolvimento de um VANT Multirrotor para estudos de modelagem matemática e processamento digital de Imagens. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pedro Paulo da Cunha Machado - Coordenador / igor de souza vidal cyrino da silva - Integrante / Nathan S. do Nascimento - Integrante.
+2015 - 2016
+Programa Para  o Cálculo a Distância Ortodrômica Entre Dois Pontos Geográficos Utilizando Quatro Métodos Distintos
+Descrição: desenvolver dois programas para sistemas operacionais diferentes para calcular a distância em quilômetros (km) entre dois pontos com coordenadas geográficas (latitude/longitude) com a utilização de quatro métodos de cálculo diferentes;
+utilizar o ambiente de programação gratuito LAZARUS o ambiente MIT AppInventor, ambos gratuitos para a criação dos programas.
+fazer a comparação das distâncias obtidas com os métodos e compará-los com o valor obtido com a ferramenta "régua" do software Google Earth.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Pedro Paulo da Cunha Machado - Coordenador / Ben Abner Pereira Sant'Ana - Integrante / Marcela do Valle Machado - Integrante.
+2014 - 2015
+Software Educativo Para o Ensino de Geometria Analítica com Uso do Ambiente Gratuito Lazarus e OPenGL
+Descrição: Software educativo para o apoio ao ensino de geometria analítica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador / Jorge Carvalho Silva - Integrante / Hegueno Moreira da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2014 - 2015
+Controle de Motores de Passo Utilizando  Microcontrolador PIC de 8 Bits e Barramento USB
+Descrição: Sistema para controle de motores de passo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador / rodrigo de castro lauredo - Integrante / arthur bitencourt cunha - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2014 - 2015
+Robô Inseto Microcontrolado com Servo Motores, Sensor Ultrassônico e Comunicação ANDROID/Bluetooth/RS232
+Descrição: Robô educativo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador / rodrigo de castro lauredo - Integrante / arthur bitencourt cunha - Integrante.Número de produções C, T & A: 2
+2013 - 2014
+DOCUMENTAÇÃO DAS SIMULAÇÕES OBTIDAS COM A PLANTA DIDÁTICA III DA SMAR COM TECNOLOGIA ?HART?
+Descrição: Documentação da planta smar. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador / rodrigo de castro lauredo - Integrante / arthur bitencourt cunha - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2013 - 2014
+SISTEMA DE APOIO AO ENSINO DE FÍSICA E MATEMÁTICA PARA O NÍVEL MÉDIO
+Descrição: Sistema para o ensino de física e matemática. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador / Jorge Carvalho Silva - Integrante / André Lucas Diório dos Santos Franca - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2006 - 2007
+Automação Industrial
+Descrição: Desenvolvimento de projetos de automação industrial utilizando computadores pessoais e computadores lógicos programáveis. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador.Financiador(es): Fundação de Apoio à Escola Técnica - Cooperação.
+2006 - 2007
+Desenvolvimento de Software
+Descrição: Desenvolvimento de software para diferentes finalidades.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador.Financiador(es): Fundação de Apoio à Escola Técnica - Cooperação.
+2006 - 2007
+Mecatrônica
+Descrição: Desenvolvimento de projetos de robótica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Pedro Paulo da Cunha Machado - Coordenador.Financiador(es): Fundação de Apoio à Escola Técnica - Cooperação.

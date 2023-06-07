@@ -1,0 +1,36 @@
+2019 - Atual
+Redes Neurais aplicadas na Engenharia
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Elis Regina Duarte - Coordenador.
+2016 - 2018
+PREDIÇÃO DE PROPRIEDADES TERMODINÂMICAS DE EQUÍLIBRIO LÍQUIDO-VAPOR COM USO DE REDES NEURAIS
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elis Regina Duarte - Coordenador / Lucas Rodrigues da Silva - Integrante.Financiador(es): Universidade Tecnológica Federal do Paraná - Bolsa.
+2012 - 2013
+Simulação Otimização e Controle de Processos
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Elis Regina Duarte - Coordenador / Ederlan Fim Dias - Integrante / Sérgio Villas Boas - Integrante.
+2010 - 2011
+Aplicação de Redes Neurais Artificiais para Estudo do Mel Floral e Mel de Melato.
+Descrição: O objetivo trabalho é estudar, treinar, testar e aplicar uma rede neural artificial para avaliação das propriedades do mel floral e mel de melato, a fim desenvolver um modelo matemático que os diferencie.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Elis Regina Duarte - Coordenador / Tiago Marenda - Integrante / Regina Aparecida Cristina de Lima - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2011
+Simulação de reator de síntese de biodiesel com técnicas numéricas variadas.
+Descrição: O objetivo principal se baseia no estudo de uma fonte de energia renovável (biodiesel) através do desenvolvimento de um simulador, baseado em modelagem hibrida para representar o reator. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elis Regina Duarte - Coordenador / Fabiane Oliveira Farias - Integrante.
+2010 - 2011
+Aplicações de Redes Neurais Artificiais para o Estudo de Processo Fermentativo
+Descrição: O objetivo principal que norteia o desenvolvimento do presente trabalho é estudar e modelar o processo de produção de ácido succínico por fermentação, utilizando como ferramenta computacional as redes neurais artificiais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elis Regina Duarte - Coordenador / Flaviana Diuk de Andrade - Integrante.
+2009 - 2010
+Aplicação de Redes Neurais Artificiais para Avaliação das Propriedades Mecânicas de Filmes Biodegradáveis
+Descrição: O objetivo principal que norteia o desenvolvimento do presente trabalho é estudar, treinar, testar e aplicar uma rede neural artificial para avaliação das propriedades mecânicas de filmes biodegradáveis desenvolvidos a partir de amido.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elis Regina Duarte - Coordenador / Jhonatan S. de Lima - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 3
+2009 - 2010
+Simulação e Otimização de um Processo Fermentativo utilizando Redes Neurais Artificiais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elis Regina Duarte - Integrante / Bruna Severino - Coordenador.Número de produções C, T & A: 3
+2004 - 2007
+Avaliação e Desenvolvimento de Algoritmos de Controle: Aplicação para um Processo Extrativo de Fermentação Alcóolica Contínua
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Elis Regina Duarte - Coordenador / Rubens Maciel Filho - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 20
+2002 - 2004
+Estratégia de Controle Não Linear Baseada em Redes Neurais Artificiais com Aprendizagem On-Line
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Elis Regina Duarte - Coordenador / Rubens Maciel Filho - Integrante / Laércio Ender - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 10
+1999 - 2000
+Avaliação termodinâmica de solventes alternativos para destilação extrativa usando simulador comercial
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Elis Regina Duarte - Coordenador / Dirceu Noriler - Integrante.Financiador(es): Departamento de Engenharia Quimica - CNPq - Bolsa.Número de produções C, T & A: 15
+1998 - 1999
+Aquisição de dados experimentais para convalidação da modelagem dos estágios de não equilíbrio de uma coluna de destilação
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elis Regina Duarte - Coordenador / António A. C. Barros - Integrante.Financiador(es): Departamento de Engenharia Quimica - CNPq - Bolsa.Número de produções C, T & A: 14

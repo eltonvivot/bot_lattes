@@ -1,0 +1,183 @@
+2019 - Atual
+Computational Modelling of Biophysical Processes at Multiple Scales
+Descrição: In the last decades, there has been a huge advance in the understanding of biological processes due to sophisticated experimental
+techniques, accompanied by an increasing acknowledgment of the importance of theoretical modeling. This modeling has been conducted
+at a large variety of levels, from the atomic and molecular description to the consideration of the whole organ, individual or community of
+individuals. Typically each level makes use of a set of specific techniques. However, the interaction of biophysical processes acting at very
+diverse spatial and temporal scales makes often necessary to consider different levels of description for the distinct elements considered in
+the model, leading naturally to hybrid approaches.
+The first aim of this project is to handle specific biophysical processes at different scales with hybrid models. The project comprises a
+series of specific objectives related to both the cell polarization phenomena and pulmonary infectious diseases. On the one hand,
+polarization is studied from intracellular to cell level (individual ion channels, polarization and cell locomotion), and from cell to tissue scale
+(calcium waves in cardiac tissue). On the other hand, pulmonary diseases are studied at scales from cell to tissue (granuloma growth and
+control), and from tissue to individual and population (tuberculosis infection in a virtual lung, and the role of space in its epidemiology). The
+specific objectives in each of the bioprocesses have been selected both by their scientific interest and by their potential social impact. The
+main methodologies used in the hybrid approaches will be agent-based models, reaction-diffusion equations, stochastic ordinary and
+partial differential equations and/or spatial discrete methods. We will make use of High Performance Computing techniques in the most
+complex codes, which will be parallelized and run in computer parallel environments.
+The second purpose of this project is methodological. All the biological processes included as specific objectives share some common
+characteristics: (1) they are constituted by discrete elements, from molecular structures in the cellular membrane to a population of
+individuals; (2) their behaviors have stochastic elements; and (3) it is essential to consider space to understand their dynamics. Given
+these associations, it is feasible to apply their particular methods at different levels. Based on existing work synergies, our proposal will
+facilitate the flow of methods between the different scales and discuss transversal aspects of bioprocesses modeling, in the context of an
+interdisciplinary team. This setting will permit to study questions related to the concurrent use of different modeling approaches, such as
+the interaction between reaction-diffusion equations and agent-based models. As a result, a common methodology for the study of
+complex biophysical systems will emerge.
+The project counts on some international team members that have wide expertise on some of the bioprocesses studied. In addition, the
+research team closely collaborates with external investigators that will provide experimental data, when needed. At present, 3 PhD
+students are being supervised by our group and will participate in some of the tasks.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Integrante / ALONSO, SERGIO - Coordenador.Financiador(es): Ministerio de Ciencia e Innovación - Auxílio
+										financeiro.
+2018 - Atual
+Modelos Computacionais Multi-Escala e Multi-Físicos Para o Estudo de Patologias Cardíacas
+Descrição: Universal FAPEMIG 2017
+As doenças cardiovasculares são a principal causa de morte nos países ocidentais. Este projeto
+interdisciplinar tem como objetivo o desenvolvimento de modelos computacionais que
+caracterizem algumas importantes patologias cardíacas, como por exemplo, as arritmias, a
+isquemia e o infarto, dentre outras. Estes modelos serão desenvolvidos com base em dados
+experimentais recentemente descritos na literatura. Ao final deste projeto, os modelos in-silico
+descreverão mudanças morfológicas, mecânicas, elétrica e de perfusão associadas a diferentes
+patologias. Enfim, os modelos serão capazes de unir diferentes escalas (de canais iônicos ao
+órgão) e físicas (mecânica e elétrica). Dessa forma, entendemos que as propostas e os objetivos
+deste projeto visam trazer benefícios de médio e longo prazo à sociedade brasileira através da
+melhor caracterização e compreensão de doenças que afetam uma grande parcela da população
+e por consequência tem grande impacto sócio-econômico.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2015 - 2017
+Modelos computacionais para o estudo de disfunções mecânicas e elétricas do coração
+Descrição: Universal CNPq
+As doenças cardiovasculares são a principal causa de morte nos países ocidentais. Este projeto
+interdisciplinar tem como objetivo o desenvolvimento de modelos computacionais que caracterizem as
+disfunções mecânicas e elétricas associadas a patologias cardíacas, como por exemplo, as arritmias e a
+hipertensão. Estes modelos serão desenvolvidos com base em dados experimentais recentemente
+descritos na literatura. Ao final deste projeto, os modelos in-silico descreverão as mudanças
+morfológicas (hipertrofia ventricular), mecânicas (alteração da fração de ejeção cardíaca) e elétrica
+(alteração das ondas de eletrogramas) associadas a diferentes patologias. Enfim, os modelos serão
+capazes de unir diferentes escalas (de canais iônicos ao órgão) e funções (mecânica e elétrica). Dessa
+forma, entendemos que as propostas e os objetivos deste projeto visam trazer benefícios de médio e
+longo prazo à sociedade brasileira através da melhor caracterização e compreensão de doenças que
+afetam uma grande parcela da população e por consequência tem grande impacto sócio-econômico.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (2) . Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2015 - 2017
+Modelos computacionais para o estudo de disfunções mecânicas e elétricas em corações de ratos hipertensos
+Descrição: Universal FAPEMIG - 2014
+As doenças cardiovasculares são a principal causa de morte nos países ocidentais. Um dos
+principais fatores de risco para doença cardiovascular é a hipertensão arterial. Este projeto
+interdisciplinar tem como objetivo o desenvolvimento de modelos computacionais que
+caracterizem as disfunções mecânicas e elétricas associadas à hipertensão em corações de ratos
+hipertensos. Estes modelos serão desenvolvidos com base em dados experimentais recentemente
+descritos na literatura. Ao final deste projeto, os modelos in-silico descreverão as mudanças
+morfológicas (hipertrofia ventricular), mecânicas (alteração da fração de ejeção cardíaca) e
+elétrica (alteração das ondas de eletrogramas) associadas à hipertensão. Enfim, os modelos serão
+capazes de unir diferentes escalas (de canais iônicos ao órgão) e funções (mecânica e elétrica).
+Dessa forma, entendemos que as propostas e os objetivos deste projeto visam trazer benefícios
+de médio e longo prazo à sociedade brasileira através da melhor caracterização e compreensão
+de uma doença que afeta uma grande parcela da população e por consequência tem grande
+impacto sócio-econômico.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2014 - 2017
+Modelos computacionais da micro-estrutura do tecido cardíaco
+Descrição: PVE (Pesquisador Visitante Especial)
+Os processos biofísicos envolvidos nos fenômenos de propagação elétrica no coração, contração celular, e controle do metabolismo energético são extremamente complexos, de natureza altamente não linear e envolvem múltiplas
+escalas, desde a nanométrica movimentação iônica e conformação dinâmica de proteínas que atravessam a membrana celular até os efeitos estruturais e geométricos das células. A modelagem computacional tem sido uma alternativa promissora para a compreensão desses fenômenos. Os modelos computacionais permitem que diferentes informações extraídas de experimentos realizados nas diferentes escalas físicas e que estudam diferentes componentes e mecanismos isolados sejam combinadas para gerar uma visão da funcionalidade do sistema como um todo. Ou seja, os modelos computacionais auxiliam na montagem de um quebra-cabeça, onde as peças representam as informações experimentais. A alta complexidade desses fenômenos biofísicos é naturalmente refletida nos modelos modernos da fisiologia do coração. Os modelos matemáticos são descritos por sistemas não-lineares de equações diferenciais com centenas de incógnitas e de difícil resolução numérica. Apesar das dificuldades, as aplicações desses modelos têm justificado os mesmos. Os simuladores têm auxiliado o desenvolvimento e testes de novas drogas, de novos equipamentos médicos e de novas técnicas de diagnóstico não invasivo para diversas enfermidades.
+O Laboratório de Fisiologia Computacional e de Alto Desempenho (FISIOCOMP) da Universidade Federal de Juiz de
+Fora (UFJF) tem desenvolvido pesquisa de ponta na área de simulação computacional da eletrofisiologia cardíaca.
+Apesar do pequeno número de pesquisadores e das grandes dificuldades inerentes a esta área multidisciplinar o
+grupo tem contribuído significativamente para o desenvolvimento da área, como indicam as diversas publicações
+nacionais e internacionais dos pesquisadores.
+O objetivo deste projeto multidisciplinar é dar continuidade as atividades de pesquisa realizadas na área de
+modelagem do coração; em particular teremos como objetivo o desenvolvimento de novos modelos que auxiliem a
+compreensão da influência da micro-estrutura cardíaca em situações fisiológicas e fisiopatológicas. O
+desenvolvimento desses modelos biológicos detalhados e de escala microscópica gera grandes desafios para
+diferentes áreas do conhecimento, como as de matemática aplicada, de métodos numéricos e computação de
+alto-desempenho. Dessa forma, o projeto possibilitará dar continuidade às pesquisas interdisciplinares realizadas por
+este grupo, as quais também têm como finalidade incentivar o uso desta tecnologia de simulação computacional no
+Brasil, dentre os diversos centros de pesquisa que trabalham nas áreas correlatas, visando o aprimoramento e a
+aceleração dos diversos processos envolvidos no desenvolvimento de novos medicamentos e equipamentos médicos
+destinados ao tratamento/diagnóstico de enfermidades que acometem grande parte da população brasileira, como as
+doenças cardio-vasculares. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Coordenador / Rafael Sachetto Oliveira - Integrante / ALONSO, SERGIO - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2013 - 2015
+Desafios da modelagem da micro-estrutura de tecidos cardíacos, um projeto de pesquisa interdisciplinar
+Descrição: O objetivo deste projeto multidisciplinar é dar continuidade as atividades de pesquisa realizadas na área de modelagem do coração; em particular teremos como objetivo o desenvolvimento de novos modelos que auxiliem a compreensão da influência da micro-estrutura cardíaca em situações fisiológicas e fisiopatológicas. O desenvolvimento desses modelos biológicos detalhados e de escala microscópica gera grandes desafios para diferentes áreas do conhecimento, como as de matemática aplicada, de métodos numéricos e computação de alto-desempenho. Dessa forma, o projeto possibilitará dar continuidade às pesquisas interdisciplinares realizadas por este grupo, as quais também têm como finalidade incentivar o uso desta tecnologia de simulação computacional no Brasil, dentre os diversos centros de pesquisa que trabalham nas áreas correlatas, visando o aprimoramento e a aceleração dos diversos processos envolvidos no desenvolvimento de novos medicamentos e equipamentos médicos destinados ao tratamento/diagnóstico de enfermidades que acometem grande parte da população brasileira, como as doenças cardio-vasculares.   
+	
+Para alcançar estes objetivos, o grupo juntará esforços para tratar os seguintes problemas:
+-Desenvolvimento de novos modelos computacionais que capturam a influência das estruturas e mecanismos da micro-estrutura dos tecidos cardíacos. Estes modelos possibilitarão o estudo de situações de grande interesse, como é o caso da isquemia cardíaca, infarto, fibrose, desarranjo das fibras cardíacas, dentre outras patologias associadas à micro-estrutura do tecido cardíaco..  
+-Esses modelos de escala microscópica demandarão novos métodos numéricos, que sejam capazes de solucionar equações com milhões de incógnitas de forma rápida e acurada. 
+-Para o ajuste e validação dos novos modelos desenvolveremos novas estratégias para o ajuste automático de parâmetros dos modelos computacionais de sistemas biológicos.
+-Para acelerar e viabilizar a simulação de modelos de. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2015
+In Silico Heart Failure - Tools for Accelerating Biomedical Research
+Descrição: Computer simulations, often referred to as in silico experiments, can by no means replace existing
+in vivo and in vitro experiments in medical research, but they offer an increasingly valuable supplement
+to these traditional techniques. Mathematical models of biological processes are being continuously
+improved, and have reached a level of detail and accuracy that permit very useful information to be
+extracted. In silico experiments stand out as particularly important for investigations into the HF,
+as many of the relevant processes in the condition are tightly linked to the mechanical stresses that
+the tissue experiences. Determining stress is therefore of utmost importance, and in spite of recent
+advances in medical imaging techniques, stresses still can not be measured directly. Models for stressstrain behaviour, in combination with methodology such as the finite element method, are therefore
+crucial in the toolbox of HF research. In addition, modeling provides the ability to bridge spatial and
+temporal scales, and to provide a direct and mechanistic link between sub-cellular processes and organ
+function. Therefore, modeling provides significant potential for investigating many of the hypotheses of
+how altered organ-level mechanical properties trigger events such as increased proliferation, remodeling
+of the extracellular matrix, and programmed cell death.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Integrante / Joakim Sundnes - Coordenador.Financiador(es): The Research Council of Norway - Auxílio
+										financeiro.
+2011 - 2015
+In Silico Heart Failure - Tools for Accelerating Biomedical Research
+Descrição: Computer simulations, often referred to as in silico experiments, can by no means replace existing
+in vivo and in vitro experiments in medical research, but they offer an increasingly valuable supplement
+to these traditional techniques. Mathematical models of biological processes are being continuously
+improved, and have reached a level of detail and accuracy that permit very useful information to be
+extracted. In silico experiments stand out as particularly important for investigations into the HF,
+as many of the relevant processes in the condition are tightly linked to the mechanical stresses that
+the tissue experiences. Determining stress is therefore of utmost importance, and in spite of recent
+advances in medical imaging techniques, stresses still can not be measured directly. Models for stressstrain behaviour, in combination with methodology such as the finite element method, are therefore
+crucial in the toolbox of HF research. In addition, modeling provides the ability to bridge spatial and
+temporal scales, and to provide a direct and mechanistic link between sub-cellular processes and organ
+function. Therefore, modeling provides significant potential for investigating many of the hypotheses of
+how altered organ-level mechanical properties trigger events such as increased proliferation, remodeling
+of the extracellular matrix, and programmed cell death.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Integrante / Joakim Sundnes - Coordenador.Financiador(es): The Research Council of Norway - Auxílio
+										financeiro.
+2010 - 2013
+Modelagem Computacional da Eletrofisiologia, Contração Celular e Metabolismo Energético de Miócitos Cardíacos
+Descrição: Este projeto tem como objetivo principal desenvolver novos modelos computacionais que integram os aspectos da eletrofisiologia, contração celular e metabolismo energético. Estes modelos possibilitarão de forma inédita o estudo de situações de grande interesse, como é o caso da isquemia cardíaca. Para isso, o grupo desenvolverá novas estratégias para o ajuste automático de parâmetros dos modelos computacionais de sistemas biológicos; novos métodos numéricos baseados em Cadeias de Markov; e novas estratégias para análise de balanço de fluxo do novos modelos computacionais que integram os aspectos da eletrofisiologia, contração celular e metabolismo energético.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2015
+Estratégias Experimentais Inovadoras Na Busca De Alvos Moleculares Para O Tratamento De Cardiopatias Severas
+Descrição: PRONEX FAPEMIG
+Estratégias Experimentais e Computacionais Inovadoras serão utilizdas na busca de alvos moleculares para o tratamento de cardiopatias. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Integrante / Jorge Luiz Pesquero - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2009 - 2012
+Ferramentas Computacionais Aplicadas a Modelos Complexos da Fisiologia de Células Cardíacas
+Descrição: O Laboratório de Fisiologia Computacional e de Alto Desempenho (FISIOCOMP) do Departamento de Ciência da Computação da Universidade Federal de Juiz de Fora (UFJF) tem desenvolvido pesquisa de ponta na área de simulação computacional da eletrofisiologia cardíaca. Apesar do pequeno número de pesquisadores e das grandes dificuldades inerentes a esta área multidisciplinar o grupo tem contribuído significativamente para o desenvolvimento da área, como indicam as diversas publicações nacionais e internacionais dos pesquisadores. O objetivo deste projeto multidisciplinar é fortalecer este grupo através da aceleração da capacitação do mesmo em novas tecnologias computacionais e da aquisição de novos equipamentos que permitam o desenvolvimento de um ambiente computacional para: aumentar a produtividade do grupo; e incentivar o uso desta tecnologia de simulação computacional no Brasil, dentre os diversos centros de pesquisa que trabalham nas áreas correlatas, visando o aprimoramento e a aceleração dos diversos processos envolvidos no desenvolvimento de novos medicamentos e equipamentos médicos destinados ao tratamento/diagnóstico de enfermidades que acometem grande parte da população brasileira, como as doenças cardio-vasculares. Para alcançar estes objetivos, o grupo juntará esforços para desenvolver um novo modelo computacional que integra os aspectos da eletrofisiologia, contração celular e metabolismo energético. Este modelo possibilitará de forma inédita o estudo de situações de grande interesse, como é o caso da isquemia cardíaca. Além disto, diversas ferramentas computacionais serão desenvolvidas visando a criação e validação deste novo modelo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2011
+Métodos Numéricos e Computacionais Aplicados à Modelagem da Eletrofisiologia Cardíaca
+Descrição: Este projeto multidisciplinar envolve o desenvolvimento de modelos computacionais e matemáticos que descrevem a eletrofisiologia de células cardíacas. Os modelos a serem desenvolvidos tem como objetivo reproduzir, in silico, as alterações fisiológicas associadas à doença de Chagas no coração. Esses modelos computacionais visam o aprimoramento da compreensão desta doença e a aceleração dos diversos processos envolvidos no desenvolvimento de novos medicamentos e equipamentos médicos destinados ao tratamento/diagnóstico da doença de Chagas. Para o desenvolvimento dos modelos computacionais técnicas avançadas de matemática aplicada e de computação paralela serão empregadas. Os métodos e modelos desenvolvidos neste projeto serão disponibilizados em um Portal Web. A disponibilização de uma interface amigável via Web para os modelos computacionais, assim como a melhoria do desempenho dos simuladores, facilitará e incentivará o uso da técnica de modelagem computacional por outros centros de pesquisa das áreas correlatas. Entendemos que a realização desse projeto está na fronteira do conhecimento científico da área e é um passo significativo na consolidação de uma tecnologia que hoje é detida por grupos internacionais e contribuirá para dar soluções locais para problemas que afetam particularmente comunidades com o nosso perfil geográfico e econômico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2008 - 2010
+EELA-2: E-Infrastructure shared between Europe and Latin America
+Descrição: Projeto de pesquisa internacional que tem por objetivo desenvolver aplicações paralelas em ambientes de grades computacionais voltadas para a área de e-science. Em cooperação com mais de 78 instituições, dentre as quais Centro de Investigaciones Energéticas Medioambientales y Tecnológicas (CIEMAT, Spain), Centro de Gestión de la Información y Desarrollo de la Energía (CUBAENERGIA, Cuba), Cooperación Latino-Americana de Redes Avanzadas (CLARA, International Institution), University College Cork - Costal and Marine Resources Centre (UCC-CMRC, Ireland), HLP Développement (HLP, France), Centre National de la Recherche Scientifique (CNRS, France), Istituto Nazionale di Fisica Nucleare (INFN, Italy), Laboratorio de Investigación en Nuevas Tecnologías Informáticas (LINTI - UNLP, Argentina), Red Universitaria Nacional (REUNA , Chile), Servicio Nacional de Meteorología y Hidrología (SENAMHI, Peru), Universidad de Los Andes (ULA, Venezuela), Universidad de Los Andes (UNIANDES, Colombia), Universidad Nacional Autónoma de México (UNAM, Mexico), Universidade do Porto (UPORTO, Portugal), Universidade Federal do Rio de Janeiro (UFRJ, Brazil), Universidad Técnica Particular de Loja (UTPL, Ecuador), Universidad Tecnológica de Panamá (UTP, Panamá), Universidad de la República (UdelaR, Uruguay).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rodrigo Weber dos Santos - Coordenador.Financiador(es): European Commission - Auxílio
+										financeiro.
+2007 - 2011
+Modelagem Matemática e Simulação de Reservatórios de Petróleo
+Descrição: O processo de ajuste histórico para a Simulação de Reservatórios e o benefício decorrente de uma maior automação deste processo é extremamente importante para o planejamento e pesquisa em prospecção de petróleo.
+Trabalhos recentes desenvolveram programas computacionais de ajuste automático de histórico baseado no método de Gauss-Newton, regularizado por TSVD (decomposição em valores singulares truncada). Os resultados obtidos até o momento são encorajadores. O objetivo deste projeto é dar continuidade a este estudo. 
+Este trabalho compreende diversas etapas. Inicialmente será desenvolvido um simulador de reservatório bifásico bidimensional incompressível. Neste simulador serão implementados opções de cálculo de derivadas. Este simulador servirá de  base para o desenvolvimento de um código computacional paralelo eficiente para o ajuste automático de histórico baseado na técnica TSVD (decomposição em valores singulares truncada).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Rodrigo Weber dos Santos - Integrante / Flavio Dickstein - Coordenador / Paulo Goldfeld - Integrante.Financiador(es): Agência Nacional do Petróleo - Auxílio
+										financeiro.
+2006 - 2008
+Modelagem computacional das alterações eletrofisiológicas em miocárdio ventricular de ratos durante a doença de chagas
+Descrição: O objetivo deste projeto é a construção de modelos computacionais que capturem as alterações eletrofisiológicas observadas em experimentos com miocárdio ventricular de ratos chagásicos. Especificamente, serão desenvolvidos modelos adimensionais para a célula do miocárdio ventricular e modelos bidimensionais para a propagação elétrica na parede ventricular esquerda de ratos. Os modelos celulares serão baseado em dados experimentais que caracterizam o potencial de ação, a dinâmica da concentração intracelular de Cálcio e diversas correntes iônicas, como as correntes de potássio IK, as correntes de sódio INa e as correntes de Cálcio, ICaL. Dados de experimentos realizados com corações isolados serão usados para desenvolver modelos da parede ventricular esquerda de ratos infectados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rodrigo Weber dos Santos - Coordenador / Jader dos Santos Cruz - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2004 - 2007
+Métodos computacionais para a modelagem da eletrofisiologia cardíaca
+Descrição: O objetivo deste projeto é propor e implementar algoritmos numéricos eficientes para estudar a propagação de ondas elétricas no coração. Este é um problema relevante por várias razões. Em primeiro lugar, pelas aplicações práticas deste estudo. Estes modelos têm sido extensivamente utilizados na área farmacêutica como plataforma de desenvolvimento e teste de novas drogas e na área médica para o aperfeiçoamento de diagnósticos não-invasivos. Do ponto de vista numérico, há enormes desafios para que se possa obter algoritmos capazes de tratar certas situações realistas de interesse.
+Um dos membros da equipe desenvolveu e implementou um simulador em elementos finitos tridimensional para arquiteturas paralelas, que resolve simultaneamente a propagação elétrica no coração e no torso humano. Seu desempenho é extremamente satisfatório quando comparado aos simuladores usualmente citados na literatura especializada. No entanto, ainda há um longo caminho até que se possa ter um algoritmo capaz de simular a eletrofisiologia de um coração humano. Pretendemos aperfeiçoar este pacote computacional desenvolvendo:
+(i) precondicionadores eficientes para a resolução (via gradientes conjugados) dos sistemas lineares envolvidos. Em particular, métodos de decomposição de domínios para explorar o potencial de arquiteturas paralelas e métodos multigrid algébricos.
+(iii) esquemas eficientes para o acoplamento coração-torso. Como a natureza da propagação é bastante distinta nos dois meios, técnicas numéricas distintas para tratá-los são aconselháveis. Iremos implementar um esquema de elementos de contorno na região do torso.
+A arquitetura e a implementação dos algoritmos serão desenvolvidas no cluster computacional do laboratório de pesquisa do DCC. Esperamos ao final deste período ter uma ferramenta capaz de simular um espectro maior de situações realistas, ficando assim na fronteira do estado da arte nesta área.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rodrigo Weber dos Santos - Integrante / Flavio Dickstein - Coordenador / Rubens de Oliveira - Integrante / Paulo Goldfeld - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2004 - 2007
+PARAFISIO. Computação Paralela, Metalinguagem XML e Servidor Web: Soluções para a neurofisiologia e a eletro-fisiologia cardíaca computacionais.
+Descrição: Este projeto tem como objetivo o emprego de tecnologias inovadoras para promover o desenvolvimento da área de neurofisiologia e a eletro-fisiologia cardíaca computacionais no Brasil. Técnicas de computação paralela de alto desempenho e a tecnologia de metalinguagem XML serão empregadas para acelerar e aumentar a produtividade do pequeno grupo de pesquisa deste projeto. Um potal Web baseado em técnicas para servidor Web permitirá a divulgação e utilização desta tecnologia de simulação computacional no Brasil, entre os diversos centros de pesquisa que trabalham nas áreas correlatas, visando o aprimoramento e a aceleração dos processos envolvidos no desenvolvimento de novos medicamentos e equipamentos médicos destinados ao tratamento/diagnóstico de enfermidades que acometem grande parte da população brasileira, como a doença de chagas, as arritmias cardíacas e a epilepsia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rodrigo Weber dos Santos - Coordenador / Ciro de Barros Barbosa - Integrante / Antônio-Carlos Guimarães de Almeida - Integrante / Fernando Otaviano Campos - Integrante / Leandro Neumann Ciuffo - Integrante / Rafael Sachetto Oliveira - Integrante / Hewerson Zansávio Teixeira - Integrante / Ronan Mendonça Amorim - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

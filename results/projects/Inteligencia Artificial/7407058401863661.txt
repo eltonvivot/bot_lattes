@@ -1,0 +1,53 @@
+2010 - 2012
+Data Warehouse Espacial Contextualizado com Dados Não-Estruturados
+Descrição: O projeto se propõe a conceber e realizar um moderno modelo de banco de dados -- multidimensional, espacial e contextualizado com documentos --, visando a: (1)  incluir a localização no espaço da informação agregada em diferentes níveis; (2) visualizar a informação agregada, aliando-a a mapas;  (3) refinar a semântica da informação, associando-a a passagens relevantes de documentos; e (4) validar o modelo, através de sua implementação no âmago de um protótipo de apoio à decisão, ancorado em usuários reais.  
+Como uma aplicação em vista, o governo do Estado do Ceará produz uma imensa quantidade de documentos -- licitações com suas localizações geográficas, indicadores sócio-econômicos, relatórios, e diversos outros temas de documento --, a qual contém informação valiosa a ser explorada e condensada, segundo diferentes dimensões ou perspectivas, com o fim de aumentar a eficiência da máquina estatal.
+. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (1)  / Mestrado acadêmico: (2) . Integrantes: Marcus Costa Sampaio - Coordenador / Gustavo Augusto Lima Campos - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2009
+Sistema de Apoio à Decisão da Operação de Sistemas Elétricos
+Descrição: Desenvolver um Sistema de Apoio à Decisão da Operação -- SAD --, cujo requisito
+maior é fornecer à operação de sistemas elétricos, em tempo real, acesso fácil e rápido às informações que são relevantes aos fatores críticos de sucesso dos operadores.
+O SAD deverá cumprir os seguintes requisitos: localizar, extrair e filtrar, de diversas fontes de dados, dados importantes para a atuação dos operadores em situações de contingência;
+integrar dados estruturados, semi-estruturados e não-estruturados; apresentar a informação por meio de interfaces amigáveis, que requeiram pouco treinamento para seu uso; apresentar a informação de forma concisa e relevante; utilizar tecnologias de informação de ponta. Entre os benefícios esperados, citamos: maior velocidade nas soluções dos estados inseguros em contingências, reduzindo ao mínimo os riscos da operação; redução do tempo de restabelecimento da rede elétrica; obtenção rápida das informações ajudando na avaliação da causa das ocorrências do sistema; minimização da perda de receita associada à parcela variável por indisponibilidade de equipamentos; e sistema padrão aplicável em todos os Centros de Operação, Sub-estações e Usinas da CHESF.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2) . Integrantes: Marcus Costa Sampaio - Coordenador / Ulrich Schiel - Integrante / Cláudio de Souza Baptista - Integrante.Financiador(es): Companhia Hidro Elétrica do São Francisco - Auxílio
+										financeiro.
+2006 - 2007
+Pesquisa e Elaboração de Especificação de Modelo de Sistema de Informação Executiva para Empresas do Setor Elétrico
+Descrição: O presente projeto tem como objetivo a prestação de serviços de pesquisa e desenvolvimento tecnológico, sob o tema Pesquisa e Elaboração de Especificação de Modelo de Sistema de Informação Executiva para Empresas do Setor Elétrico.  Uma empresa genérica de energia elétrica será modelada, em termos de sua organização e operação, em nível de direção. Seguir-se-ão a análise e o design de um sistema de informação executiva (SIEX), segundo o modelo de empresa genérica, tendo a Companhia Hidroelétrica do São Francisco (CHESF) como  campo de prova . Um subconjunto do SIEX será implementado, para validar as idéias.
+OBJETIVOS ESPECÍFICOS
+O projeto oferecerá uma discussão panorâmica dos principais termos, conceitos, áreas e práticas da gestão de negócio do setor elétrico no Brasil. A meta é permitir aos profissionais concernentes: primeiro, uma visão estruturada, genérica e abrangente, do funcionamento de uma empresa do setor elétrico, do seu mercado de atuação, da economia e da regulação pertinentes que envolvem e direcionam seu funcionamento; e, segundo, identificar informações e indicadores de desempenho que alimentarão os sistemas de Informação usados em apoio à decisão e gestão de seus executivos.
+JUSTIFICATIVA
+Eficiência energética é uma das preocupações do governo brasileiro, mais propriamente de suas agências reguladoras do sistema integrado nacional de energia elétrica, ANEEL - Agência Nacional de Energia Elétrica - e ONS - Operadora Nacional do Sistema Elétrico. O ponto de partida para a almejada eficiência é a modernização organizacional e operacional das empresas do setor, razão pela qual o projeto está em sintonia com a agenda de pesquisa e com as prioridades da matriz energética brasileira.
+METODOLOGIA
+Em termos de metodologia de trabalho, o projeto será realizado em 6 etapas - Organização, Gestão, Requisitos, Arquitetura, Piloto e Relatório -, cada uma com objetivos específicos.
+. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcus Costa Sampaio - Coordenador / Jacques Philippe Sauvé - Integrante / José Antão Beltrão Moura - Integrante / Pedro Sérgio Nicoletti - Integrante.Financiador(es): Companhia Hidro Elétrica do São Francisco - Auxílio
+										financeiro.
+2004 - 2005
+Bottom Line 2004: Gerência de Tecnologia de Informação pela Perspectiva do Negócio
+Descrição: O projeto tem como objetivo principal fornecer soluções que reduzam a barreira de entrada, nas empresas, para Business Process Management (BPM) e Governança de Tecnologia da Informação. Soluções típicas para BPM são muito difíceis de implantar em grandes empresas - devido à intrusão, custo e tempo - e quase impossíveis em empresas menores - devido ao esforço para modelagem e intrumentação dos processos de negócio. O trabalho sendo desenvolvido tem um horizonte de três anos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcus Costa Sampaio - Integrante / Jacques Philippe Sauvé - Coordenador / José Antão Beltrão Moura - Integrante.Financiador(es): Hewlett Packard do Brasil - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2004 - 2005
+Medição do impacto de falhas na infra-estrutura distribuída de Tecnologia de Informação no nível de serviço e nas métricas de negócio de uma empresa de geração e transmissão de energia elétrica.
+Descrição: Os principais objetivos do projeto são:
+- Desenvolver uma forma de modelar a infra-estrutura de rede, os serviços oferecidos pela rede corporativa, os processo de negócio e os relacionamentos entre todos esses itens, de forma a evidenciar os efeitos que falhas na infra-estrutura podem causar nos serviços e nos processos de negócio.
+- Desenvolver uma metodologia de medição que permita instrumentar a rede corporativa e extrair dados que alimentem a entrada do modelo acima descrito.
+- Desenvolver um sistema de software que: 
+    1) instrumente a rede corporativa efetuando medições; 
+    2) emita relatório sobre o grau de obtenção de nível de serviço; 
+    3) emita relatório sobre o estado atual do negócio CHESF de acordo com
+        métricas de negócio apropriadas. 
+Com esta ferramenta será possível:
+- obter índice de disponibilidade dos serviços de rede da empresa do ponto de vista dos usuários destes serviços;
+- identificar que processos de negócios serão afetados quando certos serviços não estiverem disponíveis e de que forma serão afetados;
+- determinar o efeito de falhas em componentes e/ou serviços da rede através de métricas do negócio, como por exemplo, custo do tempo ocioso.
+- determinar as conseqüências da indisponibilidade de serviços nos processos de negócio.
+- Determinar que serviços estão com os piores índices de disponibilidade e que serviços, quando indisponíveis, causam mais prejuízo aos processos de negócio da empresa.
+- Implantar e validar um projeto piloto com os resultados do projeto, incluindo a implantação de software (agentes de medição, cálculo de métricas, emissão de relatórios). O piloto deverá atingir pelo menos 5 serviços e 5 processos de negócio escolhidos como mais importantes pela CHESF.
+O projeto tem um horizinte de dois anos.
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcus Costa Sampaio - Integrante / Jacques Philippe Sauvé - Coordenador / José Antão Moura - Integrante / Pedro Sérgio Nicoletti - Integrante.Financiador(es): Companhia Hidro Elétrica do São Francisco - Auxílio
+										financeiro.
+2003 - 2004
+Smart Alarms
+Descrição: Este é um projeto financiado pela CHESF/Aneel que visa desenvolver um sistema de software, baseado em técnicas de Inteligência Artificial, para o tratamento on-line de alarmes. Tal sistema deverá diagnosticar as causas dos alarmes, avaliar sua dimensão e localização, e propor um conjunto de ações a serem tomadas, no menor tempo possível. O sistema será integrado ao sistema SAGE (Sistema Aberto de Gerência de Energia) da Superintendência de Telecomunicação e Controle (STC) da CHESF.
+. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Marcus Costa Sampaio - Integrante / Jacques Philippe Sauvé - Integrante / Jorge C A de Figueiredo - Integrante / Walfredo da Costa Cirne - Coordenador.Financiador(es): Companhia Hidro Elétrica do São Francisco - Auxílio
+										financeiro.Número de produções C, T & A: 4 / Número de orientações: 1

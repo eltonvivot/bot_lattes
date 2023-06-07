@@ -1,0 +1,53 @@
+2015 - 2017
+Organização de um Núcleo  de Robótica e Sistemas Inteligentes no campus Hortolândia do IFSP com vistas à participação na Olimpíada Brasileira de Robótica - OBR
+Situação: Concluído; Natureza: Pesquisa. Integrantes: André Constantino da Silva - Integrante / Daniela Marques - Integrante / Edgar Noda - Integrante / Luiz Cláudio Marangoni de Oliveira - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Instituto Federal de São Paulo - Remuneração.
+2014 - 2017
+Montagem de Laboratório de Investigação de Modalidade Multi-toque em Contextos Educacionais
+Descrição: O número de usuários que se beneficiam do m-Learning (termo usado para designar o uso de dispositivos móveis em atividades de ensino-aprendizagem) está aumentando, principalmente devido a popularização dos dispositivos móveis como smartphones e tablets. A interação nesses dispositivos, realizada por toque, se diferente da interação ocorrida em computadores desktops, cujos periféricos de interação predominantemente utilizados são o teclado, o mouse e uma tela de tamanho médio de alta resolução. Assim uma variedade de modalidades estão sendo empregadas para integarir com dispositivos computacionais. Nesse contexto, nosso grupo de pesquisa vem desenvolvendo pesquisas visando compreender como explorar as variadas modalidades em contextos educacionais, estudando inclusive a interação multi-toque. As pesquisas realizadas até o momento por nosso grupo utilizam equipamentos emprestados por outra instituição mas que estão defasados pois foram adquiridos em 2010, possuindo problemas de desempenho; um dos fatores que influenciam a interação e impactam nos resultados de nossos estudos. Mesmo com este limitante, conseguimos ficar reconhecidos na região, sendo convidados a realizar parcerias com outras instituições. Visando dar um melhor suporte aos projetos em desenvolvimento, possibilitar uma melhor participação nas parcerias entre nosso campus e outras instituições, este projeto visa adquirir equipamentos que possibilitem investigar a modalidade de interação multi-toque em contextos educacionais, especialmente em atividades de ensino-aprendizado realizadas em sala de aula ou fora dela, sua influência na motivação dos alunos em participar das atividades de ensino-apredizagem e como aproveitar as vantagens da interação por toque em atividades de ensino-aprendizagem. Os equipamentos também ficarão disponíveis para professores e grupos de alunos que desejam realizar estudos com os equipamentos adquiridos (por exemplo, programação para dispositivos móveis) em projetos de componentes curriculares (como projeto integrador) ou trabalho de conclusão de curso.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: André Constantino da Silva - Coordenador.Financiador(es): Instituto Federal de São Paulo - Auxílio
+										financeiro.
+2014 - 2017
+Investigação da Interação Multimodal e de Mobilidade em Contextos Educacionais em Cursos Técnicos e Tecnológicos
+Descrição: O número de usuários que se beneficiam do m-Learning (termo usado para designar o uso de
+dispositivos móveis em atividades de ensino-aprendizagem) está aumentando, principalmente devido a
+popularização dos dispositivos móveis como smartphones e tablets. A interação nesses dispositivos,
+realizada por toque, a caneta ou por gestos, se diferente da interação ocorrida em computadores
+Página 1 de 4desktops, cujos periféricos de interação predominantemente utilizados são o teclado, o mouse e uma
+tela de tamanho médio de alta resolução. Assim uma variedade de modalidades estão sendo
+empregadas para interagir com dispositivos computacionais. Nesse contexto, nosso grupo de pesquisa
+vem desenvolvendo pesquisas visando compreender como explorar as variadas modalidades em
+contextos educacionais, percebendo que aplicações projetadas para os computadores desktops, mesmo que tenham passadas com êxito em testes de usabilidade e quando é possível portá-las para
+dispositivos móveis, possuem problemas de usabilidade que atrapalham na interação e na adoção da
+aplicação, o que pode impactar negativamente na aprendizagem. Esses problemas que surgem quando
+se altera a modalidade de interação são chamados de problemas ocasionados por mudança de
+modalidade (cross-modality problem). É importante ressaltar que conteúdo desenvolvido em uma
+determinada plataforma pode ser de difícil portabilidade quando emprega recursos específicos
+disponíveis apenas na plataforma em que foi criado. Esse fator torna ainda mais difícil a adoção de
+múltiplas tecnologias (e, consequentemente, múltiplas modalidades de interação). Entretanto a
+diversidade de dispositivos, em particular, de modalidades, é desejável, pois é possível a escolha da
+mais adequada para se desenvolver uma atividade de ensino-aprendizagem. Com esta motivação, este
+projeto visa investigar as modalidades de interação multi-toque, caneta e gestos em contextos
+educacionais, especialmente em atividades de ensino-aprendizado realizadas em sala de aula ou fora
+dela, sua influência na motivação dos alunos em participar das atividades de ensino-apredizagem e
+como aproveitar as vantagens das modalidades em investigação em atividades de ensinoaprendizagem.
+Pretende-se ao final do projeto (i) um conjunto de aplicações que possibilitem a
+utilização das diferentes tecnologias em e fora de sala de aula de forma integrada, aproveitando as
+modalidades de interação disponíveis nos dispositivos disponíveis; (ii) um conjunto de diretivas para
+desenvolvedores de aplicações que devem ser acessados por diferentes modalidades.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: André Constantino da Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2014 - Atual
+Grupo de Pesquisa Mobilidade e Novas Tecnologias de Interação
+Descrição: O grupo MobIT (Mobilidade e Novas Tecnologias de Interação) tem como objetivo investigar a mobilidade e as novas tecnologias de interação (que oferecem suporte a interação por meio de fala, toque, caneta e gestos) em diversos contextos, em especial, o contexto educacional, por meio da análise de uso de tecnologia bem como o desenvolvimento de software, estudando também o processo de desenvolvimento de sistemas e o ensino do desenvolvimento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Constantino da Silva - Coordenador / Gustavo Bartz Guedes - Integrante / Daniela Marques - Integrante.
+2006 - 2008
+An annotation-based tool for collaborative learning using mobile technology
+Descrição: http://www.ic.unicamp.br/~rodolfo/tabletpc/. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: André Constantino da Silva - Integrante / Heloísa Vieira da Rocha - Integrante / Rodolfo Jardim de Azevedo - Coordenador / Ricardo Caceffo - Integrante / Pedro Almeida - Integrante.Financiador(es): Hewllet Packard Co. - Auxílio
+										financeiro.
+2003 - 2005
+Integração Engenharia de Software e Interação Humano Computador
+Descrição: Projeto que visa estudar a integração entre as áreas de Engenharia de Software e Interação Humano-Computador. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Constantino da Silva - Coordenador.
+2001 - 2002
+Otimização de Software para Modelagem do Tráfego Urbano de Goiânia
+Descrição: Projeto visando melhorar a ferramenta PET-C, voltada para modelagem do tráfego urbano. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Constantino da Silva - Integrante / Juliano Lopes de Oliveira - Coordenador / Bryon Richard Hall - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2000 - 2001
+Modelagem do Tráfego Urbano de Goiânia em C++
+Descrição: Projeto visando desenvolver uma ferramenta para modelagem do tráfego urbano. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: André Constantino da Silva - Integrante / Juliano Lopes de Oliveira - Coordenador / Bryon Richard Hall - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1

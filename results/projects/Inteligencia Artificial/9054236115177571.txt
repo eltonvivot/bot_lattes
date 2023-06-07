@@ -1,0 +1,26 @@
+2020 - Atual
+Análise e Implementação da Linearização Transversal por Realimentação em uma base robótica uniciclo.
+Descrição: O trabalho a ser desenvolvido pretende controlar um robô do tipo uniciclo
+cujas trajetórias a serem seguidas são do tipo retilíneas. Escolheu uma técnica
+de controle de movimento dentro da categoria de seguidor de caminho. A
+diferença fundamental entre seguidor de caminho e rastreamento de trajetória,
+é que o seguidor de caminho tem como função principal seguir uma trajetória
+sem parametrização de tempo, enquanto a trajetória da técnica de
+rastreamento de trajetória possui esta parametrização de tempo atribuída a ele.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gildeberto de Souza Cardoso - Coordenador.
+2018 - Atual
+Cidades Inteligentes Inclusivas: tecnologia assistiva para o espaço urbano
+Descrição: Aplicações para Cidade Inteligentes estão cada vez mais comuns no nosso cotidiano. Tais aplicações fornecem informações aos cidadãos e possibilitam o acesso a serviços providos por órgãos públicos de maneira a agilizar a realização das suas tarefas cotidianas. Diversas inovações tecnológicas ? tais como Internet of Things, Cloud Computing, Wearable Computing, Mobile Computing, entre outras ?  são empregadas no contexto urbano de maneira combinada a fim de oferecer aos cidadãos, por exemplo, a situação do trânsito, alertas meteorológicos, vagas livres de estacionamento, informações sobre rotas e transporte público, índices de poluição etc. (ANGELIDOU, 2015; ANTTIROIKO et al., 2014). Todavia, tais serviços que deveriam ser garantidos a todos os habitantes de uma cidade não são disponibilizados a um número considerável de cidadãos. A grande maioria dos serviços disponibilizado no âmbito das Cidades Inteligentes não estão adaptados para serem utilizados por pessoas com deficiência (PcD). Este trabalho tem como objetivo principal ampliar também para as pessoas com deficiência os serviços de Cidades Inteligentes a partir da proposta e implementação de novas tecnologias assistivas urbanas, bem como a reformulação de tecnologias assistivas já instaladas no espaço urbano, tais como piso tátil e placas em Braille. São utilizados os princípios do Projeto Centrado no Usuário (PREECE; SHARP; ROGERS, 2015) para o desenvolvimento de soluções de hardware e software que reflitam as reais necessidades das pessoas com deficiência, facilitando inclusive o envolvimento destes usuários no processo de criação das soluções tecnológicas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gildeberto de Souza Cardoso - Integrante / joão soares de oliveira neto - Coordenador.
+2018 - Atual
+APLICAÇÕES DE CONTROLE EM SISTEMAS ROBÓTICOS NÃO HOLONÔMICOS
+Descrição: Aplicações de técnicas de controle em robôs não holonômicos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Gildeberto de Souza Cardoso - Integrante / José Valentim dos Santos Filho - Coordenador.
+2014 - Atual
+APLICAÇÕES DE CONTROLE EM SISTEMAS ROBÓTICOS NÃO-HOLONÔMICOS
+Descrição: Projeto aprovado no Edital 011/2014, com objetivo de apoio à formação e articulação de redes de pesquisa no Estado da Bahia. Busca fortalecer parcerias entre a UFBA, UFRB e UESC no contexto da engenharia e computação. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Gildeberto de Souza Cardoso - Integrante / José Valentim dos Santos Filho - Integrante / Leizer Schnitman - Coordenador.
+2014 - Atual
+Projeto e desenvolvimento de robôs para utilização em sumô de robôs como ferramenta de incentivo educacional
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gildeberto de Souza Cardoso - Coordenador / Acbal Rucas Andrade Achy - Integrante / José Valentim dos Santos Filho - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de orientações: 6
+2013 - Atual
+Projeto de um robô autônomo de baixo custo como ferramenta de incentivo educacional
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Gildeberto de Souza Cardoso - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3

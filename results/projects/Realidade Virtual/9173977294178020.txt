@@ -1,0 +1,591 @@
+2023 - Atual
+Modelo de Recomendação de Recursos Educacionais Baseado em valores Culturais de Estudantes
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Eliseo Berni Reategui - Coordenador / Felipe Leite da Silva - Integrante.
+2023 - Atual
+Aprendizado de Máquina aplicado ao cuidado de Pacientes
+Descrição: Introdução: A área da saúde e especialmente ao que se refere ao cuidado do paciente, tem
+sido responsável pelo vasto volume de dados coletados e armazenados de forma eletrônica
+em instituições que atuam na área. Dados estruturados, semi-estruturados ou não
+estruturados apresentam uma riqueza a ser explorada, trazendo com essa oportunidade todo
+o desafio para análise e construção de modelos que melhor representem os dados e assim
+apoiar possíveis decisões de profissionais da área. O Aprendizado Automático de Máquina, o
+qual se encontra dentro da área de Inteligência Artificial, tem apresentado significativa
+contribuição com base em técnicas e algoritmos disponíveis em softwares e plataformas
+específicas, para construção de modelos preditivos, descritivos e exploratórios destes dados
+sejam eles multimodais ou não. Por sua vez, muitos dos dados encontram-se disponíveis em
+portais de forma a incentivar a pesquisa com base nos movimentos de Ciência Aberta.
+Objetivo: Propor um framework que permita integrar diferentes fontes de dados
+estruturados da saúde, softwares e plataformas, bem como métricas de avaliação dos
+modelos desenvolvido com a utilização de técnicas de aprendizado de máquina. Método: Esta
+pesquisa caracteriza-se por ser aplicada e experimental. A pesquisa se constitui em alguns
+passos metodológicos tais como: 1) Realizar uma revisão de escopo da literatura buscando
+estudos primários sobre o uso de Aprendizado Automático de Máquina aplicado ao cuidado
+do Paciente; 2) Realizar um mapeamento sistemático buscando identificar portais que
+disponibilizem dados da saúde que estejam alinhados com o movimento de Ciência Aberta e
+que de preferência adiram aos princípios FAIR (Findable, Accessible, Interoperable and
+Reusable); 4) Realizar uma análise documental sobre softwares e plataformas disponíveis
+para a aplicação de técnicas e algoritmos de aprendizado automática de máquina ; 5) Propor
+um framework que possibilite abranger a complexidade da geração de modelos a partir da
+utilização de aprendizado automático de máquina com utilização de dados sobre a saúde.
+Resultados Esperados: Identificação do estado da arte dos assuntos relacionados a este
+projeto e a concepção de um framework que possibilite abranger as soluções encontradas na
+literatura e nos serviços disponibilizados pelas plataformas com dados e softwares analisados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Rafael Heitor Bordini - Integrante.
+2023 - Atual
+PESSOAL DE ENFERMAGEM: Uma Análise de Sistemas Informatizados de Apoio à Gestão de Escala
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Coordenador / AURI CAROLINE SAMPAIO DE SOUZA - Integrante.
+2022 - Atual
+A MINERACAO DE DADOS EDUCACIONAIS E MINERACAO DE TEXTOS NO APOIO A ATIVIDADES DE ANÁLISE DE PRODUÇÃO TEXTUAL
+Descrição: O objetivo deste projeto é desenvolver e avaliar soluções tecnológicas para apoio à avaliação de produção textual por meio da combinação da mineração de dados educacionais com mineração de textos. Tais soluções podem auxiliar docentes na avaliação de textos, assim como podem apoiar os estudantes na construção e aprimoramento de suas habilidades de escrita. Em um cenário em que os professores têm dificuldade em dar um feedback qualificado a um número crescente de alunos, soluções que apoiem os estudantes a trabalhar de maneira autônoma e auxiliem professores em suas atividades avaliativas são essenciais. Nesse contexto, tem sido apontado que novas técnicas são necessárias para contribuir na elaboração de feedback formativo personalizado para os estudantes, auxiliando-os na autorregulação do seu processo de aprendizagem. Neste projeto, métodos de revisão de texto e avaliação serão desenvolvidos, nos quais o sucesso do aluno será visto de maneira abrangente, compreendendo a aprendizagem da escrita a partir de diferentes perspectivas. Do ponto de vista metodológico, a pesquisa terá natureza aplicada, fundamentada em abordagem quali-quantitativa de coleta e análise de dados. O projeto foi estruturado em 5 etapas: Pesquisa bibliográfica e seminário sobre escrita, revisão e avaliação; Desenvolvimento de funções de análise textual; Desenvolvimento das Ferramentas Revisão e Avaliação; Experimentação e Avaliação; Oferta de curso de formação de professores. No contexto da pesquisa em tecnologia educacional, a proposta de emprego da mineração de texto e mineração de dados educacionais para apoio a atividades de avaliação é atual e traz soluções para um problema educacional fundamental que acaba tendo repercussões econômicas e sociais também importantes. As ferramentas desenvolvidas no projeto serão disponibilizadas para uso livre, com vistas a ampliar sua divulgação e possibilidade de acesso.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Eliseo Berni Reategui - Coordenador / Sofia Garcia - Integrante / Clare Brett - Integrante / Regina Motz - Integrante.
+2022 - Atual
+APLICATIVO PARA DISPOSITIVOS MÓVEIS BASEADO EM GERONTECNOLOGIA PARA APOIAR PROFISSIONAIS DE SAÚDE NO CONTEXTO PÓS-ALTA HOSPITALAR DE IDOSOS
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Fernanda Viegas Dihl - Integrante.
+2022 - Atual
+Aprendizado de máquina supervisionado na classificação automática de Diagnóstico em Prontuários Médicos da cardiologia
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Gabriel Constantin - Integrante / Fernando Lucchese - Integrante.
+2022 - Atual
+Mineração de dados sobre procedimentos assistenciais de planos de saúde
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Ursula Roseli Lamb - Integrante.
+2022 - Atual
+Machine learning em parâmetros clínicos e metabólicos de pacientes com Doença Hepática Gordurosa Não-Alcoólica para identificação de possíveis marcadores prognósticos
+Descrição: O projeto engloba um braço caracterizado como estudo retrospectivo e outro braço caracterizado como prospectivo transversal, de caráter exploratório, onde será utilizado o aprendizado de máquina para o diagnóstico de DHGNA e para prever o desfecho clínico, gerar um software para diagnóstico de DHGNA.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sílvio César Cazella - Coordenador / SABRINA ALVES FERNANDES - Integrante / CLAUDIO AUGUSTO MARRONI - Integrante / MATEUS GRELLERT - Integrante / CRISTIANE VALLE TOVO - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2022 - Atual
+Proposta de ontologia de domínio de pacientes oncopediátricos visando à aplicação em sistemas inteligentes
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Mariana Crescente Pereira - Integrante / Marialva Sinigaglia - Integrante.
+2021 - 2023
+UM MODELO DE ANALITICA ACADEMICA BASEADO NA REGULACAO GERAL DE PROTECAO DE DADOS, NA LEI GERAL DE PROTECAO DE DADOS PESSOAIS E GOVERNANCA DA INFORMACAO
+Descrição: A educação apresenta um papel de destaque no desenvolvimento sustentável de uma nação, contribuindo com o desenvolvimento do país como um todo. Nesse sentido, a modalidade de educação a distância alcança um número significativo de pessoas, desempenhando, assim, esse papel. A modalidade de educação a distância, traz consigo, a utilização de plataformas que coletam um significativo volume de dados e informações (armazenadas) em bancos de dados dos alunos, que podem ser analisados por educadores, pesquisadores e gestores e que dão origem a estudos nas temáticas de Learning Analytics (LA), Educational Data Mining, (EDM) e Academic Analytics e Governança da Informação (GI). Mas, para operar com os dados de alunos nos anos atuais é preciso seguir atentamente a legislação vigente. Nessa direção, a União Europeia legisla sobre a proteção de dados pessoais através do Regulamento Geral sobre a Proteção de Dados N° 679 de 2016. No Brasil é a Lei nº 13.709, Lei Geral de Proteção de Dados Pessoais (LGPDP) de 2018, que teve seu efeito iniciado em agosto de 2020 que legisla sobre o tema. Frente e este cenário, esta proposta de tese de doutorado tem como objetivo propor um modelo de Analítica Acadêmica baseado pelas diretrizes do General Data Protection Regulation (GDPR), a Lei Geral de Proteção de Dados Pessoais (LGPDP) e a Governança da Informação (GI) para ser utilizado em ambientes de Educação Superior. Na pesquisa, será empregada a design science research, método que fundamenta e operacionaliza a construção da pesquisa quando o objetivo a ser alcançado é um modelo. Com relação à classificação, esta é classificada como qualitativa e exploratória. Nas técnicas de coleta de dados primários, será aplicada a coleta bibliográfica, entrevista e análise documental. Quanto a técnica de análise de dados a análise, se observará a de conteúdo, com realização de entrevistas e categorização, conjuntamente com a análise bibliográfica e documental. Como resultado, entende-se que o modelo a ser proposto possa ser um orientador no processo da gestão universitária das Instituições de Ensino Superior (IES).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Eliseo Berni Reategui - Coordenador / Rafael Vescovi Bassani - Integrante / Norberto Hoppen - Integrante.
+2021 - 2022
+Desenvolvimento de plataforma digital para capacitação de habilidades e competências terapêuticas interpessoais em saúde
+Descrição: Bolsista PROBIT/FAPERGS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Integrante / Lucia Marques Stenzel - Coordenador / Cezar Henrique Krausburg Vargas - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.
+2021 - 2022
+RECURSOS VISUAIS EDUCATIVOS PARA A ESCOLHA DO ACESSO VENOSO EM NEONATOLOGIA
+Descrição: Introdução: A tecnologia da informação aplicada ao ensino integrado das práticas de aprendizagem bidirecionais (professor/aluno, aluno/professor) em saúde tem possibilitado a construção de conhecimento de forma efetiva. O conhecimento sobre o acesso venoso serve para realizar as escolhas adequadas e garantir a segurança do paciente, em especial em pacientes pediátricos/neonatais com doenças crônicas. Objetivo: Esta pesquisa de mestrado propõe-se a elaborar recursos visuais educativos para o enfermeiro assistencial que atua na unidade de terapia intensiva neonatal. Métodos: A pesquisa apresenta-se como um estudo de caso quantitativo, descritivo e exploratório tendo como público-alvo os enfermeiros assistenciais. As etapas desenvolvidas com os materiais elaborados e aplicados serão um questionário pré-intervenção; um vídeo e um alerta educativos, um questionário pós-intervenção. Os passos metodológicos envolverão duas fases: na fase 1 a elaboração dos materiais e instrumentos necessários à pesquisa, na fase 2 a implantação dos recursos desenvolvidos na fase 1. A análise estatística dependerá da distribuição dos dados coletados, propondo-se a utilizar o software SPSS versão 25 e o nível de significância de 0.05; os métodos de análise com teste t de Student ou Wilcoxon; o coeficiente de correlação de Pearson ou Spearman. Resultados: Os resultados esperados com esta pesquisa pretendem apoiar o enfermeiro no processo de escolha do cateter venoso do paciente neonatal baseado no ensino-aprendizagem de recursos visuais educativos, e proteger a rede venosa do paciente neonatal. E a presente pesquisa contribuirá com um vídeo educativo e um alerta educativo (no prontuário eletrônico).  
+Descritores: Educação Continuada. Registros Eletrônicos de Saúde. Tratamento farmacológico. Cateterismo Venoso. Neonatologia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Simone Travi Canabarro - Integrante / Sibila M. Cardoso da Silva - Integrante / Carla Barbosa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2021 - 2022
+Objeto de Aprendizagem sobre o Calendário Vacinal de Pessoas Vivendo com HIV/AIDS para profissionais de saúde
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Márcia Rosa da Costa - Integrante / Maria Eduarda Machado Silva - Integrante / Ceura Beatriz De Souza Cunha - Integrante.
+2020 - 2022
+UM PROCESSO DE DATA LINKAGE PARA QUALIFICAÇÃO DAS BASES DE NOTIFICAÇÃO DE COVID-19: CASO DO ESTADO DO RIO  GRANDE DO SUL
+Descrição: Introdução: Os sistemas de informação de Vigilância Epidemiológica são ferramentas
+imprescindíveis para o monitoramento de doenças subsidiando a criação de políticas
+adequadas para prevenção e promoção da saúde. A partir da transmissão comunitária do
+novo coronavírus no Brasil foram adotados dois sistemas de notificação do agravo não
+integrados, por meio dos quais são monitorados casos suspeitos, confirmados, internações e
+óbitos. Resultante de sistemas de informação não integrados, é papel da vigilância
+epidemiológica primar pela qualidade dos dados minimizando a subnotificação e
+inconsistências das bases de dados. A integração das bases com sistemas de informação
+complementares tem potencial para identificar estas inconsistências. A tecnologia de Data
+Linkage permite relacionar bases de dados que não se interligam automaticamente,
+identificando registros que se relacionam ao mesmo indivíduo de forma eficiente.
+Objetivo: Este projeto de mestrado tem por objetivo propor um processo de vinculação de
+bases de dados para identificar a subnotificação de agravos e inconsistências das
+informações nos bancos de dados de notificação, tendo como referência as notificações de
+COVID-19. Materiais e Métodos: Trata-se de uma pesquisa aplicada tendo como método o
+estudo de caso único realizando vinculações nas bases de dados de vigilância
+epidemiológica no Estado do Rio Grande do Sul para o agravo COVID-19 avaliando a
+qualidade da vinculação obtida e do processo como um todo. Resultados Esperados: Um
+processo aplicado de data linkage para identificação de subnotificação e inconsistência nos
+sistemas de vigilância epidemiológica adotados no sistema de saúde brasileiro para o
+monitoramento da COVID-19.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / JOSÉ HENRIQUE SCHWANCK HINKEL - Integrante / Heimar de Fátima Marin - Integrante.
+2020 - 2021
+Sistema inteligente para identificação de estresse ocupacional em equipes de saúde ? sistema de vigilância de estresse e recomendações de enfrentamento
+Descrição: Desenvolvimento de um modelo preditivo para vigilância inteligente para o estresse
+ocupacional de profissionais da saúde devido ao risco de contaminação hospitalar.
+Objetivos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Maria Lúcia Barbosa - Integrante / Daniela Levandowski - Integrante / Alan Baronio Menegotto - Integrante / Analucia Schiano Morales - Integrante / Laura Derengoski Morás - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2020 - 2021
+Desafios relacionados à implantação de IoT aplicada à saúde nos sistemas hospitalares convencionais
+Descrição: O objetivo principal do projeto é avaliar os principais desaos relacionados à implantação da IoT
+em saúde nos sistemas hospitalares convencionais. Este estudo deverá originar uma classicação a
+respeito da mudança de paradigma do sistema atual de saúde para um novo sistema com a implantação
+de sistemas inteligentes e a presença dos recursos de IoT em saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Coordenador / Analucia Schiano Morales - Integrante / João Victor Fernandes de Oliveira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2020 - 2021
+Enfrentamento Social COVID-19
+Descrição: Buscar através de um estudo interdisciplinar aspectos que colaborem para um contingenciamento dos efeitos sociais negativos causados pela pandemia do COVID-19, aumentando o bem-estar social.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (4)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Mellina Terres - Coordenador / Simoni Rohden - Integrante / Agnes Altmann - Integrante / Bárbara Hein - Integrante / Daniel Schneider - Integrante / Dieine Estela Bernieri Schiavon - Integrante / Karen Magnus - Integrante / Sylvia J. Long-Tolbert - Integrante / Letícia Vedolim - Integrante / Felix Holl - Integrante / Marina Fotteler - Integrante.
+2020 - Atual
+Tele intervenções para detectar e minimizar o impacto emocional trans/pós o confinamento em pandemias
+Descrição: O projeto propõe atividades para acompanhar e informar sobre o efeito da pandemia na saúde mental de profissionais da saúde e na população
+vulnerável e oferecer teleatendimento com criação de sistema inovador para contato com profissionais especializados em saúde mental, para apoio
+e orientação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (4) . Integrantes: Sílvio César Cazella - Coordenador / Airton Tetelbom Stein - Integrante / Caroline Tozzi Reppold - Integrante / HELENA MARIA TANNHAUSER BARROS - Integrante / ANALUIZA CAMOZZATO DE  PADUA - Integrante / HILDA MARIA RODRIGUES MOLEDA CONSTANT - Integrante / MARGARET WEIDENBACH  GERBASE - Integrante / CASSANDRA BORGES  BORTOLON - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2019 - 2022
+Formação de Enfermeiros Professores com Ensino a Distância sobre Metodologias Ativas de Ensino
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Jaqueline Luft - Integrante.
+2019 - 2021
+Um Modelo de Aplicativo M-Health para Cobertura Vacinal no Município de Porto Alegre
+Descrição: A presente pesquisa restringe-se aos fatores e condições para o desenvolvimento de um modelo 
+m-health para a área da vacinação na Secretaria Municipal da Saúde de Porto Alegre/RS. No 
+referencial teórico são tratados os fundamentos que sustentam o presente estudo, abrangendo a 
+área de vacinação, o conceito de m-health, o método de avaliação de usabilidade, e os estudos 
+relacionados. Com os resultados obtidos será possível propor um aplicativo m-health, que 
+buscará incorporar as funcionalidades e requisitos que tratam da informação continuada, adesão 
+dos usuários, orientações seguras e com dados informativos aos usuários baseados em 
+evidências científicas. Considerando a teoria estudada, entrevistados os especialistas que 
+trabalham na área de vacinação, em relação à essas condições e fatores, será utilizado o método 
+para o desenvolvimento de tecnologias móveis em saúde conhecido como Desing Centrado no 
+Usuário. O objetivo deste estudo é conceber um modelo de aplicativo m-health que englobe as 
+principais funcionalidades necessárias para as coberturas vacinais no município de Porto 
+Alegre. O estudo constitui-se em pesquisa exploratória, com natureza aplicada e abordagem 
+qualitativa. A partir de um planejamento de pesquisa, o estudo será desenvolvido por etapas, 
+através da investigação com fundamentação teórica, construção do modelo com 
+funcionalidades e requisitos integrados, conforme idenficiado pelos profissionais de saúde. Este 
+trabalho constitui-se em um estudo de caso único, uma vez que será concebido para a realidade 
+do município de Porto Alegre. O estudo de produção tecnológica do tipo concepção, a 
+construção seguirá o modelo do design em sequência, utilizando duas etapas: análise/design e 
+desenvolvimento conceitual e definição de relevância das funcionalidades e resultados. A coleta 
+de dados inicial será realizada através de um questionário com questões abertas para os 
+profissionais da saúde e, posteriormente, um questionário final com a escala Lickert de cinco 
+pontos para questões fechadas Este estudo, após sua conclusão, tem como resultado esperado 
+permitir a concepção de um modelo de aplicativo m-health que englobe as funcionalidades 
+necessárias para o aumento das coberturas vacinais no município de Porto Alegre.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Mellina Terres - Integrante / Agnes Altmann - Integrante.
+2019 - 2021
+CONSULTORIA DE ENFERMAGEM EM SAÚDE MENTAL NA INSTRUMENTALIZAÇÃO DE EQUIPES DE ENFERMAGEM EM UM HOSPITAL GERAL
+Descrição: Objetivo Geral
+Elaborar um modelo de consultoria de enfermagem em saúde mental nas unidades
+de internação clínica de um Hospital Geral da cidade de Porto Alegre.
+Objetivos Específicos
+1 Propor o modelo de consultoria em saúde mental, nas unidades de internação;
+2 Instrumentalizar as equipes de enfermagem a partir do modelo de consultoria
+proposto;
+3 Avaliar o modelo de consultoria proposto, junto as equipes de enfermagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Jaqueline Ramires Ipuchima - Integrante.
+2019 - 2021
+A formação de médicos preceptores: perspectivas de residentes de  um curso de preceptoria
+Descrição: Introdução: O ensino por meio da vivência prática, denominado preceptoria, permite
+aos aprendizes buscar informações e esclarecer dúvidas junto aos preceptores, de
+maneira a desenvolver competências e habilidades em um ambiente de apoio e
+segurança, elementos essenciais ao bom aprendizado. Objetivo: Compreender as
+percepções e perspectivas de médicos alunos do Curso de Especialização em
+Preceptoria em Medicina de Família e Comunidade - UNASUS/UFCSPA acerca do
+papel do preceptor na formação médica e inserção em atividades acadêmicas de
+preceptoria. Métodos: Estudo com método misto, em abordagem sequencial
+explanatória, a ser realizado em duas etapas: fase quantitativa, com aplicação de
+questionário estruturado, e fase qualitativa com realização de entrevistas individuais.
+A partir de análise individual dos resultados das etapas, será realizada uma
+interpretação integrativa de maneira a dimensionar e explanar sobre o fenômeno
+estudado e suas tendências. Por meio das conclusões identificadas pelo estudo,
+propõem-se a elaboração de um curso de ensino à distância sobre educação médica
+e preceptoria. Resultados esperados: A partir da análise da conjuntura da
+formação de preceptores no Brasil, através da exploração das percepções e
+perspectivas dos alunos e egressos de um curso de formação de âmbito nacional,
+espera-se contribuir com o fomento de políticas públicas e iniciativas educacionais
+que aprimorem a qualidade da formação de preceptores e docentes no país, e
+consequente, na graduação e pós-graduação médicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Integrante / Márcia Rosa da Costa - Coordenador / Iago Gonçalves Ferreira - Integrante.
+2019 - 2021
+ELABORAÇÃO DE UM MODELO DE CONSULTORIA DE ENFERMAGEM EM SAÚDE MENTAL PARA INSTRUMENTALIZAR EQUIPES DE ENFERMAGEM EM UM HOSPITAL GERAL
+Descrição: Introdução: O número de pessoas acometidas por algum tipo de transtorno mental cresce exponencialmente, a nível mundial. É perceptível a crescente inserção destes pacientes em ambientes pouco especializados, junto ao convívio de pessoas que não apresentam transtornos, a exemplo para esta pesquisa: os hospitais gerais. A elaboração de um modelo de consultoria de enfermagem em Saúde Mental pode auxiliar na prática de enfermagem em unidades de internação clínica onde os profissionais enfermeiros e técnicos de enfermagem não possuem especialização na área da saúde mental. Dessa forma, uma consultoria em saúde mental auxiliaria este trabalhador a ter uma assistência mais adequada ao paciente. Objetivo: Elaborar um modelo de consultoria de enfermagem em saúde mental nas unidades de internação de um Hospital Geral da cidade de Porto Alegre Métodos: O projeto terá como abordagem a pesquisa qualitativa, descritiva, exploratória. Será realizado no Hospital Santa Clara (HSC), da Irmandade Santa Casa de Misericórdia de Porto Alegre/RS. Após as consultorias, serão convidados a participar de uma entrevista os profissionais enfermeiros assistenciais e técnicos de enfermagem, das unidades de internação do hospital. Os dados gerados durante a entrevista serão analisados por meio por meio da Análise Temática. O produto desenvolvido nesta pesquisa será um modelo de Consultoria de Enfermagem em Saúde Mental dentro do HSC que terá como base a Educação Permanente em Saúde através da Metodologia da Problematização. Resultados: Espera-se que com este estudo ocorra seja elaborado um modelo de Consultoria em Enfermagem Psiquiátrica bem como que este dispositivo de cuidado instrumentalize os profissionais de saúde para um cuidado integral aos pacientes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Jaqueline Ramires Ipuchima - Integrante.
+2019 - 2020
+UMA APLICAÇÃO PARA DISPOSITIVOS MÓVEIS SOBRE O USO RACIONAL DE DISPOSITIVOS INVASIVOS PARA A EDUCAÇÃO PERMANENTE DE PROFISSIONAIS DE SAÚDE
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Luzia F. Millão - Integrante / Camila Piuco Preve - Integrante.
+2019 - 2020
+Uma proposta de guia de controles de segurança da informação de dispositivos internet-of-health-things para instituições de saúde
+Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / RODRIGO VALLE FAZENDA - Integrante / Jéferson Nobre - Integrante.
+2019 - 2020
+Análise de arquiteturas de redes convolucionais para detecção de câncer hepatocelular em exames de imagem
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Coordenador / Carlos Guilherme Johansson - Integrante.
+2018 - 2022
+TRAUMA INFANTIL: PERCEPÇÃO DAS CRIANÇAS E ELABORAÇÃO DE JOGO  BASEADO EM MEDIDAS DE PREVENÇÃO
+Descrição: Introdução: Os acidentes representam ameaças para a saúde e bem estar das crianças e, como
+uma ocorrência traz graves consequências, é imprescindível identificar os fatores de risco no
+ambiente e no dia a dia desta população, para assim desenvolver medidas educativas na
+Prevenção do Trauma Infantil e Promoção de Saúde. Os profissionais da saúde e educação
+devem trabalhar em conjunto para o controle das injúrias não intencionais com estratégias
+apoiadas em evidencias científicas, lembrando que o trauma chega ser responsável por 19,5%
+da mortalidade de crianças até a adolescência, sendo a maior causa de morte na faixa dos
+cinco aos 19 anos. Objetivo: Propor estratégias lúdicas para prevenção, promoção do
+conhecimento e mudanças de comportamento das crianças em relação ao Trauma Infantil.
+Métodos: estudo de caráter misto exploratório sequencial QUAL quant, através de
+diálogo e entrevistas em grupo, a ser desenvolvido em quatro momentos: mapeamento do
+conhecimento das crianças com idade de 05 a 09 anos, estudantes da Escola Municipal de
+Ensino Fundamental Afonso Guerreiro Lima, localizada no município de Sapucaia do Sul,
+sobre Trauma Infantil e seus riscos; mapeamentos dos indicadores de Trauma ocorridos na
+população estudada; desenvolvimento de um Jogo Educativo, Serious Game, sobre Prevenção
+de Trauma na Infância a partir dos principais indicadores; aplicação e avaliação da qualidade
+e usabilidade do Jogo Educativo. Resultados: espera-se que as práticas de metodologia ativas
+de ensino, bem como a aplicabilidade do Jogo Educativo de Prevenção ao Trauma, promova a
+redução da mortalidade infantil no Brasil, já que é uma meta a se alcançar até 2030 conforme
+preconiza a Organização Mundial da Saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Integrante / Márcia Rosa da Costa - Coordenador / Juliane Dias - Integrante.
+2018 - 2021
+Desenvolvimento de um banco de dados para integração de dados da Triagem Auditiva Neonatal no Estado do Rio Grande do Sul
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Juliana Herbert - Integrante / Felipe Becker Nunes - Integrante / Daniela Levandowski - Integrante / João Orestes Martins Dartora - Integrante / Luíza Vernier - Integrante / FELIPE DE ASIS RIBEIRO - Integrante.
+2018 - 2021
+Uma Arquitetura pedagógica para educação a distância sobre prevenção e manejo em acidentes do trabalho com material biológico
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Márcia Rosa da Costa - Integrante / Fabiana Feijo Costa - Integrante.
+2018 - 2019
+Diagnóstico de Carcinoma Hepatocelular Utilizando Exames Laboratoriais e Exames de Imagem com Aprendizado de Máquina Profundo.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Carla Diniz Lopes Becker - Integrante / Alan Baronio Menegotto - Integrante.Número de produções C, T & A: 1
+2018 - 2019
+Explorando a relação entre o perfil do aluno e seu desempenho acadêmico na modalidade EAD: um estudo de caso no curso de Especialização em Saúde da Família da UNA-SUS/UFCSPA
+Descrição: O projeto de pesquisa intitulado 'Explorando a relação entre o perfil do aluno e seu desempenho acadêmico na modalidade EAD: um estudo de caso no curso de Especialização em Saúde da Família da UNA-SUS/UFCSPA' foi registrado na Comissão de Pesquisa da UFCSPA sob o número 031/2018.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Márcia Rosa da Costa - Integrante / Fernando Freitas Portella - Integrante.
+2018 - 2019
+O Processo de Descoberta de Conhecimento em Base de dados sobre a Saúde da Mulher Brasileira: Um estudo sobre o Aborto Provocado
+Descrição: O avanço da tecnologia de informação possibilitou um aumento substancial na quantidade
+de dados gerados e disponibilizados. Atualmente a capacidade de geração de conjuntos de dados é
+muito maior do que a capacidade dos pesquisadores e analistas de fazer análises sobre estes dados
+armazenados, tendo em vista limitações de processamento. Destaca-se que este grande volume de
+dados tem fomentado o interesse na sua utilização, com a aplicação do Processo de Descoberta de
+Conhecimento em Base de Dados (DCBD), junto com técnicas de Mineração de Dados, na busca de
+respostas para perguntas específicas. Estas iniciativas de utilização em geral são observadas a partir
+da estruturação de processos para a obtenção de informações e para posterior geração de padrões de
+comportamento que apresentam aspectos importantes para apoiar determinadas práticas na área, no
+caso desta pesquisa na área da saúde, mais especificamente saúde da mulher. O objetivo desta
+pesquisa constitui-se em aplicar o processo de Descoberta de Conhecimento em Base de Dados
+através do uso de algoritmos de Mineração de Dados visando a explicitação de conhecimento
+referente ao aborto provocado, a partir da base de dados pública referente a Pesquisa Nacional de
+Demografia e Saúde da Mulher e da Criança. Esta pesquisa foi realizada em 2006 e sua base de
+dados encontra-se disponível para acesso público. A pesquisa é uma iniciativa do Ministério da
+Saúde sendo realizada, desde 1986, a cada dez anos. Tem como objetivo traçar um perfil das
+mulheres em idade fértil e das crianças menores de cinco anos de idade, além de identificar
+mudanças ocorridas ao longo dos anos. Na edição de 2006, responderam à pesquisa cerca de 15 mil
+mulheres de 15 a 49 anos de todas as regiões do Brasil.
+Palavras-chave: Descoberta de Conhecimento em Base de Dados. Mineração de Dados. Aborto
+Provocado. Saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Coordenador / Marília Rosa - Integrante.
+2018 - 2019
+Construção e implementação de um aplicativo (DETECT-S) para detecção de risco de suicídio em ambiente hospitalar
+Descrição: O suicídio é um problema de saúde pública, que vem despertando a atenção de estudiosos, de
+como descobrir uma forma prévia de detecção do risco de suicídio. Este fenômeno tem aumentado
+consideravelmente e tem como expectativa que um milhão e meio de pessoas morram por este
+fenômeno ou seja a cada 20 segundos uma pessoa iria a óbito por causa deste evento, até o ano de
+2020. O fenômeno suicida é presenciado pelos profissionais da saúde em seu ambiente de trabalho,
+através do ser cuidado, principalmente, a nível hospitalar. Relacionando o suicídio, o ambiente de
+trabalho dos profissionais da saúde e o avanço da tecnologia da informação tem-se o seguinte objetivo
+com esta pesquisa: desenvolver um aplicativo para dispositivos visando apoiar a detecção do risco de
+suicídio pelos profissionais da saúde.
+Palavras-chave: m-Health. Aplicativos Móveis. Risco de Suicídio. Saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Ygor Arzeno Ferrão - Integrante / Ezequiel Andreotti - Integrante / Angel Gabriel Arieta - Integrante.
+2018 - 2019
+Tecnologias da Informação no Detalhamento Acadêmico: uma ferramenta para auxiliar a implementação de Protocolos Clínicos de HIV
+Descrição: Desde o final de 2015, a infecção pelo HIV é considerada uma doença crônica e o início
+do tratamento das pessoas vivendo com HIV/AIDS passou a ser indicado o mais breve
+possível para reduzir a morbimortalidade do paciente e a incidência de novos casos de
+HIV. Atualmente, a maioria dos casos devem ser atendidos na Atenção Primária à Saúde
+e indicado o encaminhamento ao serviço de Infectologia apenas os casos mais complexos.
+A lacuna de tempo entre os lançamentos dos novos protocolos e sua implementação na
+prática clínica pode ser diminuída com diferentes estratégias de intervenções
+educacionais direcionadas aos profissionais da saúde. Em consonância com essa
+necessidade, este projeto propõe o desenvolvimento de um Objeto de Aprendizagem
+voltado para o Médico de Família e Comunidade a fim de auxiliar na implementação dos
+protocolos Clínicos de Tratamento para o HIV na Atenção Primária à Saúde. Serão
+selecionados os principais pontos chave para orientação da prescrição do tratamento,
+informações pertinentes aos medicamentos, seus efeitos colaterais, posologias e indicação
+de exames de controle do usuário, entre outras informações. Esse trabalho se apresenta
+como um subprojeto da pesquisa intitulada ?O Detalhamento Acadêmico para promover
+a adesão ao Protocolo Clínico do Tratamento Medicamentoso do HIV na Atenção
+Primária à Saúde?- CAEE 78393617.3.0000.5345.
+ Palavras-chave: Objeto de Aprendizagem, HIV e Atenção Primária à Saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Airton Tetelbom Stein - Integrante / Ana Amélia Bones - Integrante.
+2017 - 2022
+APRENDIZAGEM SINGULARIZANTE: Um método para personalização de experiências de aprendizagem usando gamificação e análise de dados educacionais
+Descrição: Percebe-se o desgaste dos métodos tradicionais de ensino e aprendizagem centrados em
+processos passivos e conteudistas. Em contrapartida, emergem no mundo todo algumas
+iniciativas e incentivos para experiências de aprendizagem mais dinâmicas, com adoção de
+metodologias ativas. Estas metodologias são permeadas pelas tecnologias de informação e
+comunicação e com ênfase no desenvolvimento de competências na chamada Educação 4.0.
+Embora em ambiente profícuo de recursos, processos e pessoas, a maioria das práticas
+educacionais ainda reforça os processos normalizadores amplamente exercidos pela
+subjetivação. Há necessidade de mudanças de postura na valorização das singularidades no
+processo educacional, buscando desenvolver o potencial dos alunos para tornarem-se críticos e
+ativos. Entretanto reside a dificuldade no atendimento a essas demandas por parte dos
+professores e por conta da sua já tradicional sobrecarga docente. Este projeto de tese apresenta
+a fundamentação de práticas de aprendizagem baseada em oito preceitos norteadores. A partir
+dessas conjecturas teóricas, propõe-se um método de personalização em experiências de
+aprendizagem. Como estratégia para motivação e engajamento dos alunos, faz-se uso de
+gamificação e análise de dados educacionais de forma diagnóstica e prescritiva capaz de apoiar
+os docentes. Com o uso de Design Science Research (DSR) no processo de pesquisa e Design
+Thinking (DT) na concepção e desenvolvimento, busca-se verificar como este método pode
+auxiliar docentes na criação de experiências de aprendizagem ativas centradas na singularização
+dos alunos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Aline de Campos - Integrante.
+2017 - 2022
+O DETALHAMENTO ACADÊMICO PARA PROMOVER A ADESÃO AO PROTOCOLO CLÍNICO DO TRATAMENTO MEDICAMENTOSO DO HIV NA ATENÇÃO PRIMÁRIA À SAÚDE
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Airton Tetelbom Stein - Integrante / Ana Amélia Bones - Integrante.
+2017 - 2021
+Modelo de Analítica  Acadêmica focado em  Instituições Comunitárias  de Ensino Superior
+Descrição: Resumo: O setor educacional brasileiro está cada vez mais complexo e competitivo, apesar do aumento do número de alunos no ensino superior, as instituições de ensino, na sua maioria, estão em crise, muito pelo crescimento da modalidade de Ensino a Distância e a entrada de grandes corporações privadas nesse setor. Nesse sentido, novos desafios surgem aos gestores acadêmicos, a necessidade de uma gestão acadêmica e administrativa eficiente, capaz de enfrentar os novos tempos é imprescindível. No entanto, a maioria dos ocupantes de cargos gerenciais nas instituições de ensino superior não possuem perfil de gestores, principalmente os coordenadores de curso, que geralmente assumem essa função pelo seu desempenho pedagógico como professor, o que contrasta com a realidade atual, onde o coordenador necessita de envolvimento direto com as áreas mercadológica, administrativa, operacional e financeiras, além da pedagógica, para tanto, são utilizadas diversas ferramentas baseadas em tecnologias da informação com esse fim, porém nem todas são preparadas para esse perfil de profissional. Esta tese de doutorado tem como objetivo conceber um modelo de Analítica Acadêmica para apoiar a tomada de decisão de coordenadores responsáveis pela gestão de cursos de graduação de Instituições Comunitárias de Ensino Superior. Esta pesquisa de doutorado possui natureza aplicada, abordagem qualitativa e quantitativa, e caráter exploratório frente ao seu objetivo. O método de pesquisa constitui-se em um estudo de caso único e foi realizado em uma Instituição Comunitária de Ensino Superior do estado do Rio Grande do Sul focando em gestores educacionais responsáveis pela coordenação de cursos de graduação. A coleta de dados foi realizada através de questionários semiestruturados, registros institucionais, entrevistas e observação participante. Como resultados, este trabalho apresenta um modelo de Analítica Acadêmica que deverá guiar a construção de outros modelos que apoiem a gestão acadêmica a nível de coordenação de curso. Na concepção do modelo, destacamos alguns achados relevantes como: as limitações e os principais desafios para a elaboração de modelos semelhantes, no entanto, apresentamos sugestões para minimizá-los; a identificação dos principais indicadores de gestão acadêmica, elencando a relevância destes para a gestão dos cursos de graduação; há necessidade de um Data Warehouse para a qualidade e acurácia dos dados e a importância de utilizar técnicas e ferramentas de Análise de Aprendizagem para melhor visualização dos dados. Por fim, o Modelo foi avaliado por coordenadores de curso, obtendo resultados muito positivos, tais resultados indicam que o modelo de Analítica acadêmico apoia a tomada de decisão dos coordenadores de curso de graduação.
+Palavras-chave:  Analítica Acadêmica, Análise de Aprendizado, Mineração de Dados Educacionais, e Gestão Acadêmica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Fábio Paz - Integrante.
+2017 - 2021
+Um Framework para Triagem e Redução de Ruído em Imagens de Tomografia Computadorizada como Apoio à Planejamentos Radioterápicos
+Descrição: A presença de um "artefato" na imagem tomográfica corresponde a qualquer forma de erro de reconstrução ou ruído na imagem que possa resultar em um diagnóstico impreciso. Os artefatos são resultantes de fatores físicos (como metais) ou do próprio software. A presença desses problemas pode induzir a um diagnóstico falso positivo ou mascarar sua existência, o que pode acarretar sérias consequências. Para solucionar os artefatos em tomografias computadorizadas (TCs) causados por objetos metálicos, inúmeros algoritmos foram propostos na literatura, e há métodos comerciais disponíveis no mercado, mas o problema ainda permanece em foco para pesquisa, pois não há uma solução-padrão.
+A partir do desenvolvimento de um framework que apresente mais de uma solução e que recomende a
+aplicação de algum dos métodos, espera-se que o resultado da redução do artefato metálico seja mais
+preciso. Além disso, o sistema representa a garantia de autonomia e poder de decisão por parte da equipe multidisciplinar no fluxo de trabalho em radioterapia.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Laura Derengoski Morás - Integrante / Thatiane Alves Pianoschi - Integrante.
+2017 - 2019
+ONTOLOGIA DE DOMINIO PARA COMPETENCIAS DIGITAIS EM SISTEMAS DE RECOMENDACAO EDUCACIONAIS BASEADOS EM COMPETENCIAS
+Descrição: **Problema de pesquisa
+Atualmente é possível encontrar na web uma grande quantidade de Objetos de Aprendizagem (OAs) disponíveis em repositórios. Frente a esta grande oferta de recursos, muitas vezes, torna-se exaustivo buscar manualmente OAs relevantes às necessidades do professor ou do aluno. Desse modo, foram criados os denominados Sistemas de Recomendação Educacionais (SREs), que indicam recursos voltados para a aprendizagem, entre eles os OAs, conforme o perfil do usuário.  
+Os SREs originam-se dos clássicos Sistemas de Recomendação (SR), os quais procuram relacionar o perfil e as expectativas do usuário com os conteúdos a serem recomendados, por meio das estratégias de recomendação (membros da equipe do projeto - referência omitida para não identificação dos participantes conforme edital, 2012). Uma dessas estratégias consiste em basear o perfil do usuário no conceito de competências, de modo a realizar recomendações ao sujeito segundo as competências que este necessite construir e/ou aprimorar.
+No entanto, o processo de vinculação de competências a conteúdos, atividades de ensino (disciplinas, cursos, etc.) e OAs é uma tarefa ainda complexa, requerendo algum conhecimento sobre o assunto. Com frequência, nesses sistemas, as competências podem ser vinculadas a OAs que, na realidade, não as abordam ou atividades de ensino em que essas não chegam a ser trabalhadas. 
+Portanto, verifica-se a necessidade de auxiliar os usuários de SREs baseados em competências a vincular corretamente os conceitos abordados em atividades de ensino e OAs a competências. Uma possibilidade é a utilização das ontologias de domínio, pois elas objetivam modelar domínios de conhecimento, de forma a organizá-lo e representá-lo. Dessa forma, possibilitam a construção de um modelo hierárquico de termos que podem servir para criação de uma base de conhecimento. Entende-se que, uma vez empregadas em recomendadores educacionais, poderão auxiliar nos seguintes aspectos: associação de conceitos a competências; vinculação de atividades de ensino e OAs a competências; otimização da estrutura de software do sistema, atribuindo-lhe elementos semânticos. 
+Embora as ontologias de domínio em SREs possam ser aplicadas em qualquer domínio de competências, há a necessidade, para este estudo, de aplicá-las a um domínio específico, como forma de analisar esta prática num determinado universo e, após validada, poder disponibilizá-la a qualquer outro. Desse modo, esta pesquisa concentra o seu estudo no domínio das competências digitais por serem aquelas que os sujeitos da EAD precisam ter ou construir para atuar nessa modalidade de ensino e que já se encontram mapeadas na literatura (membros da equipe do projeto - referência omitida para não identificação dos participantes conforme edital, 2016), por exemplo.
+Dessa forma, o projeto aqui descrito busca responder a seguinte questão problematizadora:
+Como o uso de ontologias, no domínio das competências digitais, pode contribuir no desempenho de sistemas de recomendação baseados em competências aplicados na educação presencial e a distância?
+**Contextualização e justificativa
+O termo ?ontologia? possui sua origem na filosofia e diz respeito ao estudo do ser, da natureza da existência. Gruber (2009) explica que, a partir da década de 1980, passou a ser adotado por pesquisadores da área da inteligência artificial, empregando-o sob uma perspectiva tecnológica com o objetivo de modelar um domínio de conhecimento. O mesmo autor expõe que, na década seguinte, a popularização do termo na ciência da computação proporcionou debates e uma nova definição. Assim, Ontologia é aquela que define ou especifica conceitos, relações e outras distinções relevantes para um domínio de conhecimento, provendo um vocabulário com definições e restrições respectivas ao seu correto uso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Daisy Schneider - Coordenador / Patricia Alejandra Behar - Integrante / Augusto Simon - Integrante / ARTHUR ADOLFO - Integrante / CRISTINA ALBA WILDT TORREZZAN - Integrante / Ketia Kellen Araújo da Silva - Integrante / BRUNO ALEXANDRE AZEREDO THOME - Integrante / EDUARDO RENANI RIBEIRO - Integrante.
+2017 - 2019
+ELABORAÇÃO DE UM INSTRUMENTO PARA AVALIAÇÃO DA APRENDIZAGEM DE UM SERIOUS GAME EM REALIDADE VIRTUAL  IMERSIVA PARA O ENSINO NA SAÚDE
+Descrição: Introdução: O uso de Tecnologias da Informação e Comunicação relacionadas a Realidade
+Virtual está crescendo e essa ampliação está levando os educadores da saúde a utilizarem essas
+alternativas para as práticas de ensino. Atualmente a literatura consultada não disponibiliza um
+instrumento universal para avaliação da aprendizagem e percepções dos usuários que utilizam
+jogos em Realidade Virtual Imersiva (RVI) para o ensino na saúde. Assim, a presente dissertação
+buscou responder a seguinte questão de pesquisa: como deve ser um instrumento que avalie tanto
+as percepções do usuário, quanto o ganho de aprendizagem no uso de RVI em profissionais e
+acadêmicos da área da saúde? Objetivo: desenvolver um instrumento de avaliação do uso de
+objeto virtual de aprendizagem, na categoria serious game, em RVI focado no ensino na saúde
+para verificação do processo de ensino e aprendizagem e das percepções de alunos de graduação
+em medicina. Materiais e método: Foi criado um instrumento para avaliação do conhecimento
+teórico e a percepção dos usuários quanto à motivação, experiência e conhecimento/entendimento
+do conteúdo. O instrumento criado foi aplicado em 30 alunos de graduação em medicina e avaliou
+um serious game desenvolvido em RVI (Muiraquitã), através de um ensaio randomizado
+realizado a partir da exposição ao serious game - G GAME (n = 14) comparado a um grupo controle
+que utilizou o método convencional de ensino baseado em texto impresso - G TEXTO (n = 16). Os pré
+e pós-testes de conhecimento foram aplicados para avaliar de forma objetiva o conhecimento
+teórico. Ainda, três casos clínicos com respostas dissertativas complementaram a aplicação para
+avaliação reflexiva. O G GAME respondeu a um instrumento de avaliação com trinta e duas perguntas
+em uma escala do tipo Likert, avaliando a sua percepção. Testes paramétricos para amostras
+pareadas foram utilizados para comparar os grupos, observando um nível de significância de 0,05.
+Resultados: O instrumento desenvolvido para as percepções do usuário mostrou consistência
+interna considerada boa (0,87) segundo análise da escala do coeficiente alpha de cronbach. Em
+sua maioria, as percepções dos usuários foram positivas para o uso da RVI. Ainda, na avaliação
+da aprendizagem, o G GAME apresentou piores resultados no pós-teste de conhecimento teórico
+objetivo, enquanto não houve diferença entre os grupos na avaliação dos casos clínicos.
+Discussão e Conclusão: Portanto, o uso de um serious game em RVI para alunos de graduação os
+deixam motivados e com a autopercepção sobre o seu conhecimento de forma satisfatória. Ainda,
+relatam que o jogo Muiraquitã proporcionou uma experiência adequada durante o seu uso. O
+instrumento de avaliação possui uma validade interna adequada, o que permite sua aplicação para
+outros objetos em RVI.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Márcia Rosa da Costa - Integrante / Rodrigo Tubelo - Integrante.
+2017 - 2019
+Arquitetura Pedagógica para a Educação Permanente de Enfermeiros na modalidade EAD: Pre Natal de Risco Habitual
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Diogo Rocha Preto - Integrante.
+2017 - 2019
+A UTILIZAÇÃO DE UM APLICATIVO PARA DISPOSITIVOS MÓVEIS SOBRE O MANUSEIO DE CATETERES VENOSOS CENTRAIS NA EDUCAÇÃO PERMANENTE DE ENFERMEIROS
+Descrição: A utilização de cateteres venosos centrais vem aumentando ao longo dos anos.
+Acompanhando este crescimento, encontram-se questões relacionadas ao correto
+manuseio dos mesmos, bem como ao preparo dos profissionais para exercer esta
+prática. Ao passo que se faz necessário o aprimoramento constante das
+competências vinculadas aos cuidados de enfermagem, existe também uma
+carência nas ferramentas utilizadas para a educação dos profissionais envolvidos na
+assistência direta aos pacientes portadores destes dispositivos. A adoção de novas
+ferramentas de ensino, oriundas das tecnologias de informação e comunicação,
+trouxeram importantes mudanças para o paradigma educacional, proporcionando
+novas ferramentas auxiliares para o ensino, e consequentemente, colaborando para
+a Educação Permanente dos profissionais da saúde. Esta pesquisa justifica-se
+diante dos riscos oriundos da utilização dos cateteres venosos centrais, bem como
+da alta rotatividade dos profissionais enfermeiros e também da necessidade de
+Educação Permanente dos mesmos, além de incorporar ao processo de educação
+novas ferramentas de ensino. Frente a isto, o presente projeto tem como objetivo
+analisar a utilização de um aplicativo para dispositivos móveis sobre o manuseio de
+cateteres venosos centrais na educação permanente de enfermeiros. Optou-se por
+desenvolver um estudo descritivo experimental, com produção tecnológica e
+abordagem quanti-qualitativa para o alcance dos objetivos do mesmo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Agnes Peruzzo Innocente - Integrante.
+2017 - 2019
+DETECT-S: UM APLICATIVO PARA DISPOSITIVOS MÓVEIS PARA AUXILIAR NA DETECÇÃO DO RISCO DE SUÍCIDIO PELOS PROFISSIONAIS DA SAÚDE
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Ygor Arzeno Ferrão - Integrante / Ezequiel Andreotti - Integrante.
+2016 - 2019
+EMAGRECA@SAUDAVEL: SISTEMA DE APOIO A EDUCACAO EM SAUDE VOLTADO AO TRATAMENTO DA OBESIDADE
+Descrição: Este projeto visa desenvolver um sistema de apoio à educação em saúde, voltado ao tratamento da obesidade e excesso de peso, com possibilidade de interação via dispositivos móveis, bem como investigar a forma mais eficaz do mesmo ser aplicado a fim de possibilitar a conscientização e aquisição para novos saberes, com foco na melhoria da qualidade de vida dos seus usuários. Tal modelo deve permitir o uso por diferentes entidades, tais como governo, empresas, organizações sociais e a população em geral.
+Um objetivo secundário é obter mecanismos eficientes de gestão, de forma a auxiliar a melhoria da saúde da população com apoio da tecnologia, de forma a minimizar os custos envolvidos com o acompanhamento de pacientes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Márcia Rosa da Costa - Integrante / Valter Roesler - Coordenador / Emilian Rejane Marcon Emarcon - Integrante / CIRANO IOCHPE - Integrante / LISIANE BIZARRO ARAUJO - Integrante / Maria Lucia Kroeff Barbosa - Integrante.
+2016 - 2019
+RESIDÊNCIA MULTIPROFISSIONAL: O DESAFIO DA FORMAÇÃO PEDAGÓGICA PARA PRECEPTORES ATRAVÉS DO USO DA EDUCAÇÃO A DISTÂNCIA
+Descrição: As residencias nao medicas em saude existem no Brasil desde 1977, contudo, como uma das estrategias de
+qualificacao de profissionais de saude, elas receberam incentivo com a promulgacao da lei 11.129, de 30 de
+junho de 2005, que instituiu a residencia multiprofissional e em area profissional da saude, e criou a
+Comissao Nacional de Residencia Multiprofissional em Saude (RMS). Com esta popularizacao das RMS,
+constatou-se que os trabalhadores do SUS possuem um papel muito importante nos processos de gestao e
+formacao de novos profissionais, pois atuam como preceptores dos residentes em formacao. A RMS tem
+crescido consideravelmente, nos ultimos anos, contribuindo com a formacao de profissionais que atuarao no
+ambito do SUS, por isso, este trabalho justifica-se para alinhar e desenvolver competencias pedagogicas
+para a atuacao dos profissionais que atuam na preceptoria da RMS a fim de qualifica-los e embasa-los
+pedagogicamente. O objetivo dessa pesquisa constitui-se em conceber um projeto de um curso para a
+modalidade de educacao a distancia (EAD) na UFCSPA para formacao pedagogica de preceptores do
+Programa de Residencia Multiprofissional em Saude. Trata-se de um estudo exploratorio com abordagem
+qualitativa que parte da nocao da construcao social das realidades em estudo, tendo interesse nas
+perspectivas dos participantes da pesquisa e usando o texto como material empirico, ao inves de numeros.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Aline Winter Sudbrak - Integrante / Daniella Rodrigues - Integrante.
+2016 - 2017
+ESPIRITUALIDADE/RELIGIOSIDADE NA FORMAÇÃO MÉDICA: UMA PROPOSTA DE ENSINO EM EDUCAÇÃO PERMANENTE
+Descrição: A pesquisa aborda o ensino da temática ?espiritualidade e saúde? aplicada à formação permanente de médicos da Atenção Primária de Saúde, através da modalidade de Educação à Distância. A intervenção educacional será integrada à comunidade virtual de aprendizado na plataforma MOODLE do Projeto UNA-SUS/ UFCSPA, sendo ofertada como módulo optativo, permitindo o desenvolvimento de competências a estes profissionais com foco no reconhecimento de referenciais teóricos sobre o tema, bem como recursos de entrevista e habilidades clínicas aplicáveis a qualquer contexto de interação médico-paciente com escopo assistencial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Integrante / Márcia Rosa da Costa - Coordenador / Paulo Rogério Dalla Colletta de Aguiar - Integrante.
+2016 - 2017
+Jogos digitais e autorregulação para a saúde entre escolares.
+Descrição: Este estudo se situa no campo da promoção da autorregulação para o autocuidado em saúde, na temática da alimentação saudável, entre escolares. Trata-se de uma pesquisa de abordagem quantitativa, de natureza aplicada, de caráter experimental que se propõe a: avaliar a eficácia da utilização de jogos digitais na promoção da autoeficácia e da autorregulação para o autocuidado em saúde entre escolares de 5º ano da Educação Básica. A avaliação da eficácia da utilização dos jogos seguirá um desenho de pré e pós teste, além de medidas repetidas durante a intervenção e de avaliação de follow up. Serão utilizados para a coleta de dados os seguintes instrumentos: 1) um questionário de conhecimento declarativo sobre alimentação saudável; 2) escalas de autoeficácia e autorregulação para a saúde na temática da alimentação saudável; 3) um questionário de percepções e atitudes para a saúde. Os instrumentos foram validados previamente pelo grupo de pesquisa, do qual faz parte a pesquisadora deste estudo. O estudo será desenvolvido entre os meses de maio de 2016 e Julho de 2017, no município de Estrela-RS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Integrante / Cleidilene Ramos Magalhães - Coordenador / Luciana Bisio Mattos - Integrante / Mariana da Silva Bauer - Integrante / Gustavo Melz - Integrante / Maína H. Strack - Integrante / Pedro Rosário - Integrante.
+2016 - 2017
+UMA SOLUÇÃO DE MHEALTH SOBRE PRECAUÇÕES PADRÃO E BASEADAS  EM ROTAS DE TRANSMISSÃO NO PONTO DE ASSISTÊNCIA
+Descrição: Introdução: As precauções padrão (PP) devem ser realizadas para todos os pacientes,
+entretanto muitos deles apresentam condições que necessitam de precauções baseadas em
+rotas de transmissão. Estas medidas são realmente efetivas apenas quando utilizadas
+adequadamente, neste sentido, as tecnologias da informação e comunicação (TIC) podem ser
+utilizadas para auxiliar os profissionais na tomada de decisão. Questão norteadora do estudo:
+um aplicativo para dispositivo móvel, que disponibilize aos profissionais de saúde orientações
+sobre PP e baseadas em rotas de transmissão, pode ser utilizado como ferramenta no ponto de
+assistência? Objetivo: Desenvolver um aplicativo para disponibilizar aos profissionais de
+saúde orientações sobre PP e baseadas em rotas de transmissão. Metodologia: Trata-se de
+uma pesquisa aplicada de produção tecnológica. O local para a execução será a Universidade
+de Ciências da Saúde de Porto Alegre. Os participantes serão profissionais membros do
+Serviço de Controle de Infecção Hospitalar de Instituições de Porto Alegre/RS. O Projeto será
+desenvolvido em 5 etapas: 1. Revisão de literatura sobre PP e baseadas em rotas de
+transmissão e TIC. 2. Desenvolvimento do aplicativo, incluindo elaboração do banco de dados
+com o conteúdo, prototipagem, criação e desenvolvimento do sistema, teste e validação. 3. Os
+profissionais de controle de infecção utilizarão o protótipo do aplicativo para verificar as suas
+potencialidades. 4. Avaliação do protótipo pelos profissionais de controle de infecção quanto
+ao conteúdo, facilidade de acesso e se as informações podem melhorar a qualidade
+assistencial. 5. Análise descritiva dos dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Integrante / Luzia F. Millão - Coordenador / ARIANE BAPTISTA MONTEIRO - Integrante / Ícaro Castro - Integrante.
+2016 - 2017
+A influência de prática de educação para sustentabilidade na percepção ambiental em jovens: estudo de caso
+Descrição: A Organização Mundial da Saúde (OMS) anunciou os temas Urbanização e
+Mudança Climática como os maiores desafios de saúde neste século. As consequências da
+mudança climática afetam aspectos sociais e ambientais da saúde, como ar limpo, água
+potável e segurança alimentar. Maus tratos ao meio ambiente geram retornos negativos à
+saúde humana. Dessa forma, a educação para sustentabilidade é fundamental enquanto
+aprendizagem ativa, como reflexão crítica, expressando experiências, ideias e emoções do
+entorno e vida diária, levando ao empoderamento e à ação para cuidado com o meio ambiente
+e a vida.
+A proposta de pesquisa tem como foco desenvolver ?estratégia de prática de
+educação para sustentabilidade para contribuir na percepção ambiental de jovens?.
+A pesquisa de abordagem qualitativa será desenvolvida com metodologia de
+estudo de caso único, por meio de observações e registros fotográficos prévios e posteriores as
+atividades educacionais, durante um período de 04 meses, sistematizando ações educativas
+que promovam a temática sustentabilidade na influência da percepção ambiental, o reflexo na
+promoção de saúde com comunidades, estendendo a outros modelos educativos. A amostra
+por conveniência, que será composta por 20 jovens de 16 a 19 anos, que serão acompanhados
+em sua participação no curso de Iniciação Profissional em Serviços Administrativos,
+promovido pela Unidade Fundação Projeto Pescar/Infraero. O acompanhamento desses
+jovens visa documentar as práticas de educação formal ? espaço educativo, saída de campo,
+visitas técnicas, entre outras, onde transpareça o estudo das dimensões de sustentabilidade ?
+cultural, humano, ambiental, social, econômico ? ao incentivar a adoção de atitudes para
+ampliar a percepção ambiental e a oportunidade de ação transformadora em um contexto
+estímulo.
+Esta pesquisa busca evidenciar a influência da estratégia da prática de educação
+para a sustentabilidade na ampliação da percepção ambiental de jovens.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Márcia Rosa da Costa - Integrante / Marta Neves - Integrante.
+2015 - 2018
+Promoção da Autorregulação para o autocuidado em saúde: estudo no contexto do Programa Saúde na Escola no Rio Grande do Sul/Brasil
+Descrição: Descrição: Este estudo se situa no campo da promoção da autorregulação para a saúde entre escolares. Este estudo inscreve-se no âmbito das atividades do Sistema Único de Saúde (SUS) que assegura o dever do Estado de garantir a saúde, por meio da formulação e execução de políticas econômicas e sociais que visem à redução de riscos de doenças e de outros agravos. Neste sentido, assegura o acesso universal e igualitário às ações e aos serviços para a sua promoção, proteção e recuperação e contando com a escola como lócus privilegiado para as ações de promoção à saúde, formação de cidadãos saudáveis e multiplicadores de tais ações. Trata-se de um Projeto Guarda-Chuva que engloba dois estudos mistos quanti-qualitativos que pretendem: i. mapear para melhor compreender o cenário de atuação de professores e profissionais de saúde no contexto do Programa Saúde na Escola em municípios do Rio Grande do sul, e capacitar um grupo destes profissionais para intervir nas escolas promovendo a autorregulação para a saúde de crianças do ensino fundamental. Este projeto de investigação visa também, ii. Analisara eficácia de ações de educação em saúde dentro do programa PSE para promover a autorregulação e autoeficácia para o autocuidado em saúde em escolares de 4º e 5º ano da Educação Básica. Para concretizaras ações descritas neste projeto, o estudo objetiva a elaboração de uma proposta ampla e inovadora de materiais didáticos (ex., ebook e jogos (app) para dispositivo móvel). Estes materiais serão construídos para a intervenção e pesquisa a partir da temática do autocuidado em saúde. A eficácia do programa de intervenção com os alunos seguirá um desenho de pre-post de medidas repetidas, utilizando o questionário Alimentar do Dia Anterior (QUADA),o questionário de autorregulação da aprendizagem para autocuidado em saúde e uma escala de autoeficácia para a saúde validados para o contexto brasileiro e outros instrumentos como diários de modo a captar a evolução do comportamento das crianças em tempo real. O estudo será desenvolvido nos anos de 2014 a 2018, em municípios do Estado do Rio grande do Sul. A fase inicial deste projeto guarda-chuva foi iniciada mediante o projeto Mapeamento da autorregulação para o autocuidado em saúde: estudo no contexto do Programa Saúde na Escola no município de Sapucaia do Sul RS, Parecer CEP/UFCSPA nº 773.796, de setembro de 2014. O projeto será desenvolvido na sequência por integrantes do Grupo de Pesquisa Cadastrado no CNPq - Estudos em Educação e Saúde, Liderado pela Profa. Dra. Cleidilene Ramos Magalhães e contará com a participação do Prof. Dr. Pedro Rosário, um especialista nos processos de autorregulação. Financiamento: Projeto foi contemplado com verba da Chamada de Projetos nº 09/2014 do Programa Ciência sem Fronteiras Pesquisador Visitante Especial, em Dezembro de 2014 e encontra-se em processo de submissão na Plataforma Brasil para seguimento das atividades previstas a partir de 2015, após aprovação no CEP/UFCSPA.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (2)  / Mestrado acadêmico: (0)  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Cleidilene Ramos Magalhães - Coordenador / Caroline Tozzi Reppold - Integrante / Luciana Bisio Mattos - Integrante / Mariana da Silva Bauer - Integrante / Gustavo Melz - Integrante / Maína H. Strack - Integrante / Pedro José Sales Luís da Fonseca Rosário - Integrante / Aline Bona Omelczuk - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+2015 - 2017
+Análise de Projeto de Educação Continuada em Tuberculose para Profissionais da Saúde na Modalidade de Ensino à Distância
+Descrição: A tuberculose (TB) é um importante problema de saúde pública no mundo, particularmente em países de baixa e média renda. Estima-se que um terço da população mundial está infectado pelo Mycobacterium tuberculosis. O Brasil está em 16º lugar entre os 22 países que coletivamente contribuem para 80% dos casos de TB globalmente, com incidência notificada de 35,4 casos/100.000 habitantes/ano em 2013. Atualmente, Porto Alegre é a terceira capital brasileira com maior número de casos de TB, com uma incidência de 99,5 casos/100.000 habitantes. Além disso, também apresenta o segundo maior percentual de coinfecção TB-HIV (26%) (1).
+Os componentes essenciais do controle da TB são o diagnóstico precoce e tratamento adequado (2). Apesar dos programas de controle de TB priorizarem que o diagnóstico seja oferecido em nível de atenção básica de saúde, grande parte da população ainda é diagnosticada em hospitais, principalmente em Hospitais Públicos de Referência (3;4). Em Porto Alegre, 39% dos casos foram notificados pelos hospitais (5). Vários estudos com pacientes com TB hospitalizados demonstraram um intervalo de tempo longo entre a admissão e o início do tratamento, variando de 4 a 12,5 dias (6-10). Estudo prévio (11), realizado no Hospital de Clínicas de Porto Alegre, mostrou que a mediana de tempo entre a admissão hospitalar e o diagnóstico de TB foi de 6 dias. 
+Uma das possíveis explicações para esse atraso no início do tratamento seria a falta de reconhecimento dos sintomas de TB pelos profissionais de saúde, que acabaria retardando o processo diagnóstico. O atraso no diagnóstico da TB pulmonar em hospitais e emergências pode ocorrer devido à inespecificidade dos sintomas ou achados radiológicos da TB, principalmente em áreas com alta prevalência de infecção pelo HIV (12-14). Sabe-se que o atraso no diagnóstico é um importante fator de risco para mortalidade e disseminação intra-hospitalar da TB (15-17).
+Para o controle da transmissão intra-hospitalar da TB são preconizados três grupos de medidas: a) administrativas: investigação, diagnóstico e tratamento precoces; avaliação do estado de infecção dos profissionais da saúde; educação continuada dos profissionais da saúde; b) ambientais (ou de engenharia): quartos de isolamento com ventilação natural, quartos com pressão negativa, uso de filtro HEPA (high-efficiency particulate air), e c) de proteção respiratória: uso de máscaras cirúrgicas pelos pacientes e de respiradores N95 pela equipe de saúde. As medidas ambientais são consideradas de segunda linha e não funcionam sem as medidas administrativas (18).
+A educação continuada dos profissionais da saúde mostra-se como uma estratégia essencial para o controle da transmissão nosocomial da TB, capacitando os mesmos para a detecção precoce e tratamento adequado dos casos de TB (19). A qualidade deste treinamento tem uma forte influência na qualidade do cuidado fornecido ao paciente. Para otimizar a qualidade deste treinamento em TB em países em desenvolvimento, é sugerido que um currículo mínimo de treinamento seja desenvolvido e revisado regularmente. Além da garantia de qualidade dos treinamentos em nível de desenvolvimento de currículo, também é necessário monitorar a qualidade do treinamento em nível do aprendizado do participante, comportamento no emprego e em nível organizacional. Comentários dos participantes e pré e pós-testes são ferramentas úteis para avaliar a qualidade em nível do aprendizado do participante. Ferramentas para avaliar a qualidade do treinamento em nível do comportamento no emprego incluem questionários sobre as impressões dos participantes em como o treinamento está impactando no desempenho do trabalho e visitas formais ao local de trabalho para observar os participantes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Integrante / Vagner Kunz Cabral - Integrante / Carlos Podalirio Borges de Almeida - Integrante / Denise Rossato Silva - Coordenador.
+2015 - 2017
+Validação de um Sistema de Apoio a Decisão Médica para Dispositivos Móveis focado no Manejo da Tuberculose
+Descrição: O processo de tomada de decisão realizado por profissionais da Saúde encontra-se fortemente
+ligado à necessidade de realizar consultas a diretrizes clínicas, geralmente disponibilizadas em
+extensos arquivos textuais, tornando o acesso à informação muito trabalhoso e demorado. A
+área da Saúde é muito fértil para o surgimento de soluções baseadas em mobilidade. Dentre
+outras, estão as soluções que oferecem ao médico, acesso à informação correta no momento e
+local necessário, colaborando para que os serviços da Saúde possam ser melhor executados a
+qualquer hora e em qualquer lugar. Este projeto visa validar um protótipo de Sistema de Apoio
+a Decisão Médica para Dispositivos Móveis focado no Manejo da Tuberculose, o qual foi
+implementado sendo composto por dois pacotes e software, um que deverá ser instalado nos
+dispositivos móveis (celulares, tablets, etc) onde se deseja obter acesso ao conteúdo das
+diretrizes clínicas (denominado máquina cliente no linguajar da engenharia de software), e
+outro que deverá ser instalado em um Servidor Web (denominada máquina servidora no
+linguajar da engenharia de software). Este último, responsável por receber as consultas de
+dados solicitadas pelo pacote cliente, acessar o banco onde os dados encontram-se e retornar o
+resultado ao cliente. O protótipo foi avaliado por especialistas médicos, apresentando resultados
+promissores, e neste projeto propõe-se a sua validação com alunos do curso de Medicina.
+CAAE: 43055315.1.0000.5345. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sílvio César Cazella - Coordenador / Maria Eugênia Bresolin Pinto - Integrante / Ângela Jornada Ben - Integrante / Mônica Maria C. de Oliveira - Integrante.
+2015 - 2017
+Educação à Distância aplicada na Formação Permanente sobre Sepse para Equipe Multidisciplinar
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Rita C. A. Caregnato - Integrante / RAFAELA DA COSTA SILVA - Integrante.
+2015 - 2016
+O uso da Metodologia da Problematização na formação permanente de profissionais da Atenção Primária à Saúde, através da modalidade de Educação à Distância
+Descrição: A pesquisa aborda o uso da Metodologia da Problematização no processo de ensino-aprendizagem aplicada à formação permanente de profissionais na Atenção Primária de Saúde, através da modalidade de Educação à Distância. A intervenção educacional será integrada à comunidade virtual de aprendizado já existente na plataforma MOODLE do Projeto UNA-SUS/ UFCSPA, sendo ofertada de modo módulo optativo, permitindo o desenvolvimento de competências a estes profissionais com foco na prática social do manejo dos pacientes com resultado do teste rápido reagente para o vírus do HIV.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (1) . Integrantes: Sílvio César Cazella - Coordenador / Alessandra Dahmer - Integrante / Maria Eugênia Bresolin Pinto - Integrante / Ana Amélia Bones - Integrante / Márcia Rosa da Costa - Integrante.
+2015 - 2016
+Aplicando o Processo de Descoberta de Conhecimento em Base de dados da Saúde: Um estudo de caso aplicado a nutrição
+Descrição: O avanço da tecnologia de informação possibilitou um aumento substancial na quantidade de dados gerados e disponibilizados. Atualmente a capacidade de geração de conjuntos de dados é muito maior do que a capacidade dos pesquisadores e analistas de fazer análises sobre os dados armazenados, tendo em vista limitações de processamento. Destaca-se que este grande volume de dados tem fomentado o interesse na sua utilização, com a aplicação do Processo de Descoberta de Conhecimento em Base de Dados (DCBD), junto com técnicas de Mineração de Dados, na busca de respostas para perguntas específicas. Estas iniciativas de utilização em geral são observadas a partir da estruturação de processos para a obtenção de informações e para posterior geração de padrões de comportamento que apresentam aspectos importantes para apoiar determinadas práticas na área, no caso desta pesquisa na área da saúde, mais especificamente nutrição. O objetivo desta pesquisa constitui-se em aplicar o processo de Descoberta de Conhecimento em Base de Dados através de algoritmos de Mineração de Dados visando a explicitação de conhecimento a partir da base de dados referente ao impacto da intervenção na atenção primária à saúde nas condições nutricionais de crianças em idade pré-escolar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Márcia Regina Vitolo - Integrante.
+2015 - 2016
+Explorando Linguagens de Programação Visual para o Contexto Educacional focando em Mobile Learning na Área da Sáude
+Descrição: As linguagens de programação visual surgem como uma opção de inclusão dos profissionais que não conhecem muito de linguagem de programação no mundo do desenvolvimento de softwares. Tecnologias como plataformas e linguages de programação visual tem ganhado adeptos pelo mundo a fora, sendo exemplo destas tecnologias o App Inventor e Scratch do MIT (Massachussets Institute of Technology). Aplicações para dispositivos móveis, principalmente aquelas com vies educacional ou de entertenimento já são uma realidade e mostram-se como uma tendência no futuro. O uso destas aplicações dentro de um contexto de mobile learning pode ser um grande diferencial em questão formativa pois permite que o aluno tenha acesso a material educacional em qualquer dispositivo móvel e em qualquer lugar. A integração das tecnologias móveis nos contextos educativos surge como uma possibilidade de aproveitar as especificidades de aprendizagem desta nova geração. Tal integração denomina-se mobile learning, consistindo em experiências educacionais mediadas por dispositivos móveis. O objetivo desta pesquisa constitui-se em explorar  o potencial das linguagens de programação visual App Inventor e Scratch na elaboração de aplicativos para dispositivos móveis (mobile learning) com foco no ensino de conteúdo de Educação em Saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Coordenador.
+2014 - 2015
+Sistema de recomendação de OA para a construção de competências por professores e alunos  em EAD
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Integrante / Patricia, Behar - Coordenador / Daisy Schneider - Integrante / Ketia Kellen A Silva - Integrante.
+2014 - 2015
+Analisando a produção de objetos de  aprendizagem focados em educação  a distância para a área da saúde: uma  revisão sistemática
+Descrição: Objetos de Aprendizagem são importantes recursos para ensejar a aprendizagem.
+Atualmente, importantes questões são facilitar a localização e o acesso a Objetos de
+Aprendizagem, adequados às necessidades de alunos e professores, pois a dificuldade em
+realizar esses processos ocasiona a diminuição da frequência de utilização e reutilização
+dos mesmos em atividades de ensino e aprendizagem. O local adequado para armazenar tais
+objetos é o Repositório de Objetos de Aprendizagem (ROA) ou Referatórios de Objetos de
+Aprendizagem. No entanto, seu uso ocorre por meio dos Ambientes Virtuais de
+Aprendizagem (AVAs). Sob a perspectiva do ensino superior, um tipo de OA bastante
+utilizado na educação de profissionais da saúde são as simulações, pois permitem aos
+alunos experimentar situações de risco sem comprometer a segurança do paciente. Muito se
+tem publicado sobre Objetos de Aprendizagem (OAs) e sua aplicação no contexto da
+Educação a Distância, porém os trabalhos não apresentam um levantamento detalhado
+sobre a produção destes OAs na Área da Saúde especificamente. O objetivo desta pesquisa
+constitui-se em realizar uma revisão sistemática quanto a publicação de pesquisas que
+envolvam Objetos de Aprendizagem focados na área da Saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Coordenador / Marcos Roberto Vargas Machado - Integrante.
+2013 - 2016
+Análise do perfil empreendedor os discentes da UFCSPA
+Descrição: Este projeto é desenvolvido por professores do Departamento de Educação e Informação em Saúde e pretende ser um propulsor para a criação de um grupo de pesquisa em Empreendedorismo e Gestão em Saúde na UFCSPA. O objetivo do estudo é verificar e aferir o grau de empreendedorismo dos discentes da UFCSPA, através de uma pesquisa do perfil empreendedor, criando bases conceituais, verificando outras possibilidades de aprendizado e desenvolvimento de habilidades e competências para o empreendedorismo. Trata-se de uma pesquisa exploratória, com vistas a construir hipóteses e, também, de caráter descritivo, pois se tem o objetivo de descrever as características da população que será estudada e identificar possíveis relações entre as variáveis. A coleta de informações referentes a população em estudo envolverá 480 discentes dos diversos cursos de graduação e pós-graduação da UFCSPA. Serão coletados dados sócio demográficas (sexo, idade, estado civil, naturalidade, raça, profissão, escolaridade) e de dados gerais, referentes aos cursos. Também serão aplicados um questionário estruturado sobre o perfil empreendedor e outro para avaliar a ansiedade, (Inventario de Ansiedade de Beck /BAI). Identificado o perfil dos acadêmicos, pretende-se uma maior sensibilização do estudante para o empreendedorismo, a identificação de novas estratégias de ensino em graduação, pós-graduação e extensão, no que se refere ao tema em questão, bem como a geração de artigos e demais publicações científicas, além da possibilidade do desenvolvimento de novos projetos de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sílvio César Cazella - Integrante / Carolina Sturm Trindade - Integrante / Cleidilene Ramos Magalhães - Integrante / Marcelo Schenk de Azambuja - Coordenador / Ana Carolina F dos Santos - Integrante / Sergio Kakuta kato - Integrante.
+2013 - 2014
+RECOACOMP 3.0: um sistema de recomendação educacional para filtragem de objetos  de aprendizagem baseado em competências
+Descrição: RECOACOMP 3.0: um sistema de recomendação educacional para filtragem de objetos 
+de aprendizagem baseado em competências. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Integrante / Patricia, Behar - Coordenador / Daisy Schneider - Integrante / Ketia Kellen A Silva - Integrante / Rodrigo Freitas - Integrante.
+2012 - 2014
+Aplicando dispositivos móveis na coleta de dados para o programa de saúde na família
+Descrição: Atualmente, estamos em uma revolução no uso de disponitivos móveis. Somos dependentes dessas tecnologias, diversos processos antes feitos em papel, como uma simples lista de compras agora estão em nossos celulares. Nesses dispositivos, encontramos facilidade para anotações, agendamento de tarefas, busca por informações, etc.  Considerando-se as inúmeras facilidades desses dispositivos, esse trabalho propõe a  sua aplicação ná área da atenção básica da saúde através da informatização da coleta de dados realizadas pelos Agentes Comunitários de Saúde. Como resultado, tem se a avaliação do quanto a informatização desse processo foi mais eficiente em relação ao papel no que tange a otimização do tempo de busca de informações, direcionamento da visita de acordo com as condições de saúde e a segurança / integridade no registro das informações.
+Palavras Chave: Aplicativo, Dispositivos Móveis, Atenção Básica SaúdeAtualmente, estamos em uma revolução no uso de disponitivos móveis. Somos dependentes dessas tecnologias, diversos processos antes feitos em papel, como uma simples lista de compras agora estão em nossos celulares. Nesses dispositivos, encontramos facilidade para anotações, agendamento de tarefas, busca por informações, etc.  Considerando-se as inúmeras facilidades desses dispositivos, esse trabalho propõe a  sua aplicação ná área da atenção básica da saúde através da informatização da coleta de dados realizadas pelos Agentes Comunitários de Saúde. Como resultado, tem se a avaliação do quanto a informatização desse processo foi mais eficiente em relação ao papel no que tange a otimização do tempo de busca de informações, direcionamento da visita de acordo com as condições de saúde e a segurança / integridade no registro das informações.
+Palavras Chave: Aplicativo, Dispositivos Móveis, Atenção Básica Saúde. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Alessandra Dahmer - Integrante / Edson Oliveira - Integrante.Número de produções C, T & A: 1
+2012 - 2013
+Comunidades de Negócio Ubíquas (CNU): uma aplicação a Arranjos Produtivos Locais (APLs)
+Descrição: Com o crescimento da telefonia móvel, banda larga e redes sem fio, a mobilidade e a computação em múltiplas plataformas e aparelhos tornam-se cada vez mais factíveis, aproximando-se da visão de Computação Ubíqua proposta por Weiser (1991). Esse desenvolvimento tecnológico abre uma série de possibilidades para as organizações, tanto para ganhos de competitividade por firmas individuais, quanto por grupos, conglomerados ou associações entre empresas, tais como os chamados APLs (Arranjos Produtivos Locais). Este projeto de pesquisa tem por objetivo geral identificar as formas pelas quais uma Comunidade de Negócios Ubíqua (CNU) pode colaborar para o desenvolvimento de APLs. Uma CNU pode ser definida como uma comunidade de negócios apoiada por uma aplicação computacional que visa promover a sua interação de forma ubíqua, isto é, provendo serviços de informação, comunicação e transações comerciais disponíveis em qualquer lugar (através de diferentes plataformas computacionais) a qualquer momento (permitindo interações síncronas ou assíncronas), e sensíveis ao contexto (localização, necessidades informacionais, demandas de tempo, perfis de usuários). A pesquisa utilizará o método de design research. Como resultados, primeiramente é esperado o desenvolvimento de um protótipo computacional que suporte uma Comunidade de Negócio Ubíqua baseada em um APL real. Através do uso dessa tecnologia se poderá observar e estudar a interação entre os componentes de um APL dentro de uma CNU, gerando subsídios também para o campo de estudos interorganizacionais. Outras ferramentas e metodologias para interação e negócios no contexto de APLs, apoiadas pela Computação Ubíqua, poderão também surgir como decorrência do projeto. A pesquisa alinha-se com os desafios de pesquisa em computação, conforme proposto pela SBC, mais especificamente, (a) Modelagem computacional de sistemas complexos artificiais, naturais e sócio-culturais e da interação e (b) Desenvolvimento tecnológico de qualidade: sis. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sílvio César Cazella - Coordenador / Jorge Barbosa - Integrante / Saccol, Amarolinda Zanela - Integrante / Cristiano André da Costa - Integrante / Eduardo Rigoni - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2013
+Um Sistema de Recomendação Híbrido de Objetos de Aprendizagem com foco  nas Competências para a Educação a Distância - Etapa I
+Descrição: O projeto proposto intitulado  Sistema de Recomendação Híbrido de Objetos de Aprendizagem com foco nas Competências para a Educação a Distância - Etapa II será desenvolvido no NUTED - Núcleo de Tecnologia Digital aplicada à Educação (http://www.nuted.edu.ufrgs.br) da Faculdade de Educação (FACED), vinculado ao Centro Interdisciplinar de Novas Tecnologias (CINTED) da Universidade Federal do Rio Grande do Sul (UFRGS). O NUTED é coordenado pela proponente deste projeto, que atua na pesquisa e no desenvolvimento de tecnologias, bem como na inovação pedagógica com suporte em recursos digitais em situações de educação presencial, semipresencial e a distância. Assim, busca-se instrumentalizar professores e demais profissionais ligados às áreas de Tecnologias da Informação e Comunicação ligadas à Educação nos diversos níveis de ensino para a educação a distância. Também o referido núcleo dá apoio técnico e realiza o desenvolvimento de novas funcionalidades para o ambiente virtual de aprendizagem ROODA (Rede cOOperativa de Aprendizagem) - um dos ambientes institucionais da UFRGS - junto com o CPD e a SEAD. 
+Com tal experiência e conhecimento que vem sendo construído, o Núcleo vêm participando desde 2005 dos Editais da SEAD/UFRGS desenvolvendo objetos de aprendizagem, recursos e novas pesquisas nas áreas de informática na educação e educação a distância. Nessa perspectiva, destaca-se o estudo que teve início através de projeto contemplado no Edital UFRGS EAD 15 da SEAD e que consiste na implementação de um sistema de recomendação híbrido de objetos de aprendizagem baseado em competências para a educação a distância. 
+No  projeto anterior, desenvolveu-se um protótipo desse sistema de recomendação de objetos de aprendizagem a ser vinculado ao repositório CESTA (Coletânea de Entidades de Suporte ao uso de Tecnologia na Aprendizagem), disponível em http://www.cinted.ufrgs.br/CESTA/ e utilizado pela SEAD para registro dos objetos desenvolvidos através dos seus editais. A partir. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Sílvio César Cazella - Coordenador / Patricia, Behar - Integrante / Daisy Schneider - Integrante / Rodrigo Freitas - Integrante.Financiador(es): Universidade Federal do Rio Grande do Sul - Bolsa.
+2012 - 2013
+PROJETO ANGOLA (Segunda Fase): Capacitação em Educação à Distância (EAD)
+Descrição: projeto intitulado ?PROJETO ANGOLA (Segunda Fase): Capacitação em Educação à
+Distância (EAD) na ferramenta Moodle e formação de tutores? refere-se a uma continuação do
+projeto intitulado ?PROJETO ANGOLA - Proposta de Cursos para Capacitação em Educação à
+Distância (EAD) na ferramenta Moodle?. Este novo projeto, surge como conseqüência do projeto
+anterior e pretende viabilizar cursos na modalidade a distância, sobre conceitos básicos,
+intermediários e avançados sobre ferramentas para EAD, no caso o Ambiente de Aprendizado
+Virtual Moodle, buscando atender demandas dos já parceiros de Angola, bem como atender
+demanda de treinamento dos professores da UFCSPA.
+Neste sentido sugere-se o aproveitamento dos módulos já desenvolvidos no projeto
+anterior e extensão destes com novos objetos de aprendizagem: 1) Módulo Básico: Ambiente
+Moodle (10h); 2) Módulos Intermediários: a. Materiais e Avaliação (10h) b. Ferramentas de
+Comunicação (10h); 3) Módulo Avançado: Desenvolvendo uma disciplina (60h).
+A proposta deste novo projeto constitui-se em capacitar alunos bolsistas a desenvolver
+Objetos de Aprendizagem em ferramentas específicas, visando oferecer os mesmos para auxiliar
+na formação de professores e parceiros no uso da ferramenta Moodle, bem como desenvolver
+competências como tutor e comunidade para formação de Tutores dentro da UFCSPA. Para que
+as ações propostas sejam executadas, é de fundamental importância a participação de alunos
+bolsistas. Por isso, o projeto prevê a participação de dois alunos da graduação. Poderão
+participar do projeto de seleção alunos dos cursos de graduação da UFCSPA.
+PALAVRAS-CHAVE: Educação a distância, Educação Continuada, Tutoria.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Sílvio César Cazella - Coordenador / Carolina Sturm Trindade - Integrante.
+2011 - 2015
+Ensino na Saúde uma proposta integradora para o Sistema Único de Saúde
+Descrição: Este projeto tem como objetivo fortalecer a linha de pesquisa Educação e Informática
+em Saúde do Programa Stricto Sensu em Ciências da Saúde, intensificando a formação de
+profissionais comprometidos com o Ensino, vinculados às necessidades do Sistema Único de
+Saúde, bem como, no desenvolvimento e na avaliação de tecnologias educacionais: aplicativos
+(softwares) e sistemas para uso local ou à distância (web), no âmbito da Universidade Federal
+de Ciências da Saúde de Porto Alegre (UFCSPA). As atividades propostas utilizam os produtos
+e resultados obtidos em projetos anteriores e promovem forte interação entre graduação e pósgraduação
+focado na observância dos princípios do Sistema Único de Saúde. O grupo de
+professores envolvidos nesta proposta, com diferentes formações, vem a contribuir para uma
+ampla articulação de saberes. Neste sentido, a troca de experiências entre professores
+pesquisadores na área de saúde, informática e educação aponta à expansão de limites do
+ponto de vista individual e também de grupo no momento que estabelece a articulação de
+novos saberes como uma prática inovadora de amadurecimento científico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Sílvio César Cazella - Integrante / Cecilia Dias Flores - Coordenador / Elton Erhardt - Integrante / João Batista Mossmann - Integrante / Alessandra Dahmer - Integrante / Carolina Sturm Trindade - Integrante / Airton Tetelbom Stein - Integrante / Cleidilene Ramos Magalhães - Integrante / Márcia Koja Breigeiron - Integrante / Márcia Regina Vitolo - Integrante / Rodrigo Della Méa Plentz - Integrante / Adriana Aparecida Paz - Integrante / Aline Corrêa de Souza - Integrante / Maria Eugênia Bresolin Pinto - Integrante / Marcelo Rodrigues Gonçalves - Integrante / Régis Leandro Sebastiani - Integrante / João Marcelo Lopes Fonseca - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2013
+Desenvolvimento de metodologias de extração de perfil psicológico em dispositivos moveis
+Descrição: Estudo de como extrair padrões Psicologicos, de Personalidade e comportamento através de dispositivos móveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sílvio César Cazella - Coordenador / Maria Augusta Nunes - Integrante / Gláucio José Couri Machado - Integrante / Suzana Leitão Russo - Integrante / Leonardo Nogueira Matos - Integrante / Marco Tulio Chella - Integrante / Tarcísio da Rocha - Integrante / Hendrik Teixeira Macedo - Integrante.
+2011 - 2012
+Recomendação de objetos de aprendizagem com foco nas competências em EAD
+Descrição: O projeto proposto intitulado ?Recomendação de objetos de aprendizagem com foco nas competências em EAD", será desenvolvido no NUTED - Núcleo de Tecnologia Digital aplicada à Educação (http://www.nuted.edu.ufrgs.br) da Faculdade de Educação (FACED), vinculado ao Centro Interdisciplinar de Novas Tecnologias (CINTED) da Universidade Federal do Rio Grande do Sul (UFRGS). O NUTED é coordenado pela coordenadora deste projeto e trabalha com a pesquisa e o desenvolvimento de tecnologias digitais, visando dar suporte a situações de educação presencial, semi e totalmente a distância. O Núcleo tem por missão instrumentalizar professores e profissionais das mais variadas áreas e níveis em educação a distância, analisando os efeitos destes novos modelos no que concerne ao desenvolvimento de processos de ensino-aprendizagem. Também é responsável pela manutenção e apoio técnico do ambiente virtual de aprendizagem ROODA (Rede cOOperativa de Aprendizagem) junto com o CPD desta Universidade. Nesta perspectiva, destaca-se como objetivo principal deste projeto o desenvolvimento de um recomendador de conteúdos baseado em competências. A pesquisa, portanto, envolverá estudos a cerca das competências em EAD e das possibilidades vinculadas ao processo de recomendação de objetos de aprendizagem. Entende-se que as pesquisas e os novos recursos/processos tecnológicos a serem desenvolvidos vão ao encontro da abrangência da Linha B - Desenvolvimento de novos processos, produção de recursos tecnológicos ou realização de pesquisas em EAD deste Edital. Assim, podem ser enumerados três objetivos secundários deste projeto:Mapear as competências tecnológicas para alunos da Educação a distância. O Mapeamento será realizado a partir dos resultados de uma dissertação de mestrado e de uma tese de doutorado, vinculadas ao Programa de Pós Graduação em Educação (PPGEDU) da UFRGS, na Linha de Informática na Educação. ●	Aplicar e Validar o recomendador de conteúdo no FEB (Federação de Repositório Educa. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Sílvio César Cazella - Coordenador / Eliseo Reategui - Integrante / Patricia, Behar - Integrante / Daisy Schneider - Integrante / Ketia Kellen A Silva - Integrante.Financiador(es): Secretaria de Eduação a Distância - Bolsa.
+2000 - 2001
+O impacto dos Sistemas Integrados de Gestão nas variáveis estratégicas de organizações brasileiras. UNISINOS.
+Descrição: Este projeto teve como principal objetivo verificar o impacto dos SIGE nas variaveis estrategicas das nossas organizações.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sílvio César Cazella - Integrante / Amarolinda ZANELA - Coordenador / Cristiane D PEDRON - Integrante / Guilherme L NETO - Integrante / Marie Anne MACADAR - Integrante / Tatiana Ghedini - Integrante.
+1999 - 2001
+O uso de softwares Integrados de Gestão Empresarial (SIGE) no ambiente das empresas brasileiras: um estudo que busca recomendações para as empresas brasileiras. UNISINOS.2001.
+Descrição: Este projeto possuia como alvo uma análise inicial do cenário de inclusão dos SIGE no contexto nacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sílvio César Cazella - Coordenador / CELSO PIRES MACHADO - Integrante.
+1996 - 1998
+MASWEB- Um Ambiente Distribuído Baseado em Agentes para Suporte ao Trabalho em Grupo
+Descrição: O objetivo geral do projeto é o estudo e desenvolvimento de ferramentas de apoio ao
+trabalho em grupo baseadas na abordagem de sistemas multiagentes para o uso em ambientes de redes (INTERNET). Prevê-se a implementação de dois protótipos: Ensino à Distância e
+Coordenação de Projetos Científicos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Sílvio César Cazella - Integrante / Luis Otavio Campos Alvares - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.

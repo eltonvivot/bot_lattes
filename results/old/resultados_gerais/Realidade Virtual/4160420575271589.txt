@@ -1,0 +1,18 @@
+2016 - 2018
+MONITORAMENTO INTELIGENTE DE CONSUMO DE ENERGIA ELÉTRICA RESIDENCIAL COM BANCO DE DADOS VIA WEB
+Descrição: As redes elétricas inteligentes, chamadas de Smart Grids (SG), demandam o uso de
+dispositivos inteligentes na rede elétrica. Para que uma consumidor da rede elétrica possa
+usufruir dos benefícios das SG, é imprescindível que ele tenha acesso facilitado e contínuo
+aos seus dados de consumo. Nesse contexto, nos últimos anos, muitos fabricantes se
+interessaram por fabricar equipamentos inteligentes para essas redes, e hoje há uma grande
+variedade desses dispositivos no mercado. Entretanto, os sistemas comerciais apresentam
+custo elevado, sobretuto porque eles incluem muitas funcionalidades que raramente são
+utilizadas. Com base nisso, este projeto propõe o desenvolvimento de um sistema inteligente
+de baixo custo para o monitoramento do uso da eletricidade residencial. O sistem proposto
+utilizará um computador compacto Raspberry Pi com interfaces sem fio para coleta de dados
+de consumo de energia em pontos remotos e disponibilizará tais informações em tempo real
+numa interface web, com inclusão de um banco de dados de modo que futuras consultas, via
+Internet, sejam possíveis, a um custo razoavelmente baixo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Evandro César Freiberger - Integrante / Ruy de Oliveira - Coordenador / E' D Wilson - Integrante.
+2008 - 2011
+FRAMEWORK PARA DESENVOLVIMENTO DE APLICAÇÕES GOVERNAMENTAIS NA WEB
+Descrição: Desenvolvimento de um framework/plataforma para subsidiar a produção de instância de aplicações mediadoras de participações eletrônica de cidadãos em questões governamentais e sociedade.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Evandro César Freiberger - Integrante / Cristiano Maciel - Coordenador.

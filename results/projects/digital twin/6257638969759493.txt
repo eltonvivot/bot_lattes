@@ -1,0 +1,26 @@
+2008 - Atual
+Estudo da Dinâmica de Vôo, Controle e Guiagem de Aeronaves tipo UAVs
+Descrição: Projeto de estudos sobre a dinâmica de vôo, controle e guiagem de um U.A.V. (Unmanned Aerial Vehicle ou Veículo Aéreo Não-Tripulado) envolvendo desde a sua modelagem matemática, a implementação de aparato para obtenção experimental de seus dados aerodinâmicos e de inércia, até a simulação e a implementação de um sistema de controle de vôo autônomo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Morgado Belo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1
+2007 - Atual
+Estudo e Desenvolvimento de Plataforma de Stewart para Simuladores de Vôo
+Descrição: Projeto para estudar métodos de análise da cinemática e da dinâmica do mecanismo plataforma de Stewart e desenvolvimento de técnicas de controle a serem aplicadas ao seu sistema de atuação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (2) . Integrantes: Eduardo Morgado Belo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 2
+2004 - 2007
+Análise Dinâmica e Controle de Vibrações em Sistemas Aeroelásticos
+Descrição: Projeto para estudar fenômenos aeroelásticos, com atenção especial para o flutter, com abordagens aerodinâmica, dinamico-estrutural e experimental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Eduardo Morgado Belo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2003 - 2006
+Análise Dinâmica e Controle de Vibrações
+Descrição: Projeto para estudar métodos e algoritmos para identificação de sistemas e parâmetros dinâmicos em geral e em especial flutter, estudar técnicas de controle para supressão de flutter em asas flexíveis e desenvolver e validar um sistema dinâmico protótipo não linear de controle para a supressão de flutter.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eduardo Morgado Belo - Coordenador / Flávio Donizeti Marques - Integrante / Roberto Hideaki Tsunaki - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2003 - 2005
+Análise de Flutter em Tempo Real ? Parte1
+Descrição: Projeto de pesquisa para desenvolver, programar e aplicar algoritmos de identificação de parâmetros modais em tempo real para estimar as condições reais de flutter de aviões em ensaios em vôo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (3) . Integrantes: Eduardo Morgado Belo - Coordenador / Flávio Donizeti Marques - Integrante / Roberto Hideaki Tsunaki - Integrante / Carlos De Marqui Jr - Integrante / Daniela Cristina Rebolho - Integrante / Luciane de Fátima Rodrigues de Souza - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+1997 - 2001
+Análise Dinâmica e Controle de Vibrações em Helicópteros e Turbinas Eólicas
+Descrição: Projeto de pesquisa para estudo do comportamento dinâmico e de sistemas de controle para alívio/supressão de vibrações em helicópteros e em turbinas eólicas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Eduardo Morgado Belo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+1997 - 1998
+Controle de Movimentos de Máquinas Ferramenta por Algoritmos Usando Eixos Acoplados
+Descrição: Projeto e implementação de controladores de uma mesa XY para máquinas ferramenta com os eixos acoplados dinamicamente, aplicando diferentes técnicas de controle.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Eduardo Morgado Belo - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+1991 - 1993
+Estudo e Desenvolvimento de Técnicas e Instrumentação em Engenharia Aeronáutica nas Áreas de Dinâmica do Vôo, Sistemas de Controle do Vôo Automático e Ensaios Dinâmicos em Geral
+Descrição: Projeto de Auxílio Integrado de Pesquisa do CNPq destinado ao Estudo e Desenvolvimento de Técnicas e Instrumentação em Engenharia Aeronáutica nas Áreas de Dinâmica do Vôo, Sistemas de Controle do Vôo Automático e Ensaios Dinâmicos em Geral, com financiamento de 4 bolsistas de IC. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Eduardo Morgado Belo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

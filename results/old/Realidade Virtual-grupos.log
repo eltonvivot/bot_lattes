@@ -1,0 +1,36 @@
+2023-05-21 14:10:06 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 14:10:12 - Tentativa: 1 |	'NoneType' object has no attribute 'query_selector_all'
+2023-05-21 14:10:22 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 14:10:28 - Tentativa: 1 |	'NoneType' object has no attribute 'query_selector_all'
+2023-05-21 14:12:50 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 14:12:53 - Waiting for page...
+2023-05-21 14:12:54 - Waiting for page...
+2023-05-21 14:12:55 - Waiting for page...
+2023-05-21 14:12:58 - === FINALIZADO: 15 ===
+2023-05-21 14:16:17 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 14:16:21 - Waiting for page...
+2023-05-21 14:16:26 -  > Pagina atual: 1
+2023-05-21 14:16:26 - Tentativa: 1 |	int() argument must be a string, a bytes-like object or a real number, not 'Locator'
+2023-05-21 15:07:44 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:07:51 -  > Pagina atual: 1
+2023-05-21 15:07:51 - Tentativa: 1 |	export() missing 1 required positional argument: 'first_keyword'
+2023-05-21 15:08:03 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:08:10 -  > Pagina atual: 1
+2023-05-21 15:08:12 -  > Pagina atual: 1
+2023-05-21 15:08:12 -  > Pagina atual: 1
+2023-05-21 15:08:16 -  > Pagina atual: 2
+2023-05-21 15:10:39 - === INICIANDO NOVA EXECU플O: Realidade Virtual ===
+2023-05-21 15:10:46 -  > Pagina atual: 1
+2023-05-21 15:10:47 -  > Pagina atual: 1
+2023-05-21 15:10:49 -  > Pagina atual: 2
+2023-05-21 15:10:53 -  > Pagina atual: 3
+2023-05-21 15:10:56 -  > Pagina atual: 3
+2023-05-21 15:10:56 -  > Pagina atual: 3
+2023-05-21 15:11:00 -  > Pagina atual: 4
+2023-05-21 15:11:02 -  > Pagina atual: 4
+2023-05-21 15:11:03 -  > Pagina atual: 5
+2023-05-21 15:11:06 -  > Pagina atual: 6
+2023-05-21 15:11:09 -  > Pagina atual: 6
+2023-05-21 15:11:09 -  > Pagina atual: 6
+2023-05-21 15:11:13 -  > Pagina atual: 7
+2023-05-21 15:11:14 - === FINALIZADO: 9 ===

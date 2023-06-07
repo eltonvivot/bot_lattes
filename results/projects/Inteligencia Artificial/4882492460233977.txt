@@ -1,0 +1,38 @@
+2008 - 2009
+METAHEURÍSTICAS APLICADAS AO PROBLEMA DE FLUXO DE POTÊNCIA ÓTIMO
+Descrição: Em sistemas de potência existem diversos problemas que, devido a sua complexidade ou dificuldade de modelagem, não são adequadamente resolvidos por métodos analíticos convencionais. Este projeto como objetivo investigar a aplicação das metaheurísticas na solução de problemas de otimização combinatória associados ao planejamento e operação de sistemas de potência. 
+A primeira etapa desta pesquisa consiste no estudo e análise da potencialidade das principais metaheurística aplicadas em problemas clássicos da literatura. Na etapa seguinte, será realizado um estudo de problemas práticos e teóricos da área de planejamento de sistemas de, no intuito de desenvolver e implementar um algoritmo metaheurístico, na linguagem FORTRAM, com capacidade de resolver com eficiência estes problemas. 
+A pesquisa será desenvolvida a nível de iniciação científica e os testes serão executados em sistemas de pequeno e médio porte, considerando diversas condições de operação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Flavio Guilherme de Melo Lima - Coordenador / Selma Hashimoto - Integrante / Elizete Andrade Amorim - Integrante.
+2007 - 2010
+Análise e Desenvolvimento de Algoritmos Eficientes de Programação Linear e Não-linear para o Problema de Planejamento de sistemas de Transmissão a Longo Prazo
+Descrição: Projeto contemplado no Edital CT-Energ/MCT/CNPq/PROSET nº 22 /2006.
+O presente projeto de pesquisa considera a formulação e implementação
+computacional de vários algoritmos de programação linear (PL) e não-linear (PNL) que
+podem ser usados no problema de planejamento de sistemas de transmissão a longo prazo.
+Os algoritmos a serem desenvolvidos devem ser mais rápidos que os software comerciais
+de programação linear e não-linear desenvolvidos para usos gerais. Nesse sentido, cada
+algoritmo a ser desenvolvido deve aproveitar as características específicas do problema de
+planejamento tornando-se eficiente. As estratégias a serem desenvolvidas basicamente
+consistem em implementar versões eficientes do algoritmo primal (dual) simplex
+canalizado e do algoritmo de pontos interiores para os diversos modelos do problema de
+planejamento de sistemas de transmissão, assim, é possível desenvolver vários algoritmos
+e esses algoritmos são diferentes em dois aspectos fundamentais: (1) Na técnica escolhida
+que pode ser do tipo primal (dual) simplex canalizado ou do tipo de pontos interiores e, (2)
+na forma e estrutura do problema que deve ser resolvido que depende da modelagem
+matemática escolhida e do algoritmo geral escolhido para gerenciar a resolução do
+problema de planejamento de sistemas de transmissão que é um problema de programação
+não-linear inteira mista (PNLIM) (algoritmo heurístico, de otimização clássica,
+metaheurísticas, etc.).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Flavio Guilherme de Melo Lima - Integrante / Selma Hashimoto - Coordenador / Ruben Romero - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2007
+OTIMIZAÇÃO DE REDES ELÉTRICAS INCORPORANDO FACTS E TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL
+Descrição: Projeto contemplado no edital Universal 019/2004 CNPQ.
+Neste projeto serão investigadas a potencialidade de técnicas de processamento paralelo e inteligência artificial na solaução de problemas de alocação ótima de FACTS. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Flavio Guilherme de Melo Lima - Coordenador / Secundino Soares Filho - Integrante / Germano Lambert - Integrante / Milton Romero - Integrante / Luis Carlos Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2005 - 2007
+ALOCAÇÃO DE FACTS EM AMBIENTE COMPETITIVO
+Descrição: Este projeto visa dar proesseguimento ao estudos sobre alocação ótima de FACTS em sistemas elétricos de potência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Flavio Guilherme de Melo Lima - Coordenador / Floriano Torres Neto - Integrante.Financiador(es): Fundação de Apoio e Desenvolvimento do Ensino, Ciência e Tecnologia do MS - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2003 - 2005
+Alocação de FACTS em Ambiente Competitivo
+Descrição: Este projeto visa encontrar novos meios de alocação ótima  de FACTS usando técnicas de inteligência artificial.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Flavio Guilherme de Melo Lima - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 1

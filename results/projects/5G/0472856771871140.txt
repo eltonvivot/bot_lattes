@@ -1,0 +1,250 @@
+2020 - Atual
+Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio): Rede Temática de Combate aos Efeitos da Covid-19
+Descrição: É crítico e estratégico na luta contra a COVID-19 a oferta de soluções tecnológicas que permitam atuarmos adequadamente e de forma vantajosa nesse combate. Neste contexto, o Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio) integra e oferta a competência e capacidade técnica da comunidade científica e setor produtivo privado do Estado Rio de Janeiro para produzir inovação para o enfrentamento do SARS-COV-2. Este projeto objetiva produzir soluções tecnológicas inovadoras e baseadas em evidência envolvendo a transformação digital e técnicas de Inteligência Artificial a serem utilizadas para combater os efeitos da COVID-19. O provimento de cenários preditivos baseados em dados reais, em estimativas e em ações hipotéticas obtidos através de modelos e métodos matemáticos, estatísticos e de aprendizado de máquina permitirá melhorar a qualidade da tomada de decisão e, com isso, obter vantagem competitiva no combate contra o SARS-COV-2.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Markus Endler - Integrante / Edmundo Albuquerque de Souza e Silva - Integrante / Antônio Tadeu Azevedo Gomes - Integrante / Luiz Satoru Ochi - Integrante / Alberto Martin Rivera Dávila - Integrante / Marcio Portes de Albuquerque - Integrante / Nelson Francisco Favilla Ebecken - Integrante / Alexandre Evsukoff - Integrante / Roberto de Andrade Medronho - Coordenador / Guilherme Horta Travassos - Integrante / Marley Maria Bernardes Rebuzzi Vellasco - Integrante / Oswaldo Gonçalves Cruz - Integrante / Regina C. Almeida - Integrante / Sandra Mara Cardoso Malta - Integrante.
+2020 - Atual
+APOIO À FORMAÇÃO DE DOUTORES EM ÁREAS ESTRATÉGICAS: Cidades Inteligentes
+Descrição: O conceito de Cidades Inteligentes tem por base uma cidade onde o ambiente e os serviços públicos são monitorados, gerando uma elevada quantidade de dados oriundos principalmente do atendimento ao público, transporte, trânsito, defesa civil, entre outros. Estes dados são então armazenados e disponibilizados na forma de dados abertos ao público. Esta informação é então processada por diferentes aplicações que fornecem suporte à decisão de agentes públicos tanto para o planejamento urbano quanto para a operação dos serviços públicos. A análise de dados em temas de interesse comum de políticas públicas e governança para sustentabilidade, legislação e mobilidade urbana podem ser integrados em subprojetos. Para que isso seja possível, uma infraestrutura de informação e comunicação é necessária, assim como técnicas de modelagem e análise de dados. Neste contexto, o objetivo deste projeto é identificar, desenvolver e aplicar metodologias e técnicas de modelagem computacional para extração de conhecimento de grandes volumes de dados, notadamente provenientes da monitoração de serviços em uma cidade inteligente. O foco é explorar dados abertos e experiências compartilhadas que envolvam colaboração com os setores públicos e privados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Artur Ziviani - Integrante / Anelise Munaretto Fonseca - Integrante / Mauro Sergio Pereira Fonseca - Integrante / Myriam Regattieri De Biase Da Silva Delgado - Integrante / Keiko Verônica Ono Fonseca - Integrante / Ricardo Lüders - Integrante / Christian Luiz da Silva - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2020 - Atual
+CReTA (Bolsa de Produtividade em Pesquisa PQ-1D - Proc. CNPq no. 310201/2019-5)
+Descrição: prevê atividades de pesquisa, desenvolvimento e inovação nas áreas de 
+redes complexas, em particular a investigação das naturezas (i) quantitativa e matemática; (ii) empírica e orientada a dados; (iii) computacional; e (iv) interdisciplinar; da área de ciência de redes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2019 - Atual
+Data Science for Weather and Climate Science
+Descrição: The goal of this project is to investigate data management techniques targeted at the ML life-cycle applied to weather and climate change research. The following partners are involved: LNCC and University of Copenhagen (Denmark).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Fábio André Machado Porto - Coordenador / Luiz Manoel Rocha Gadelha Júnior - Integrante / Marcos Antonio Vaz Salles - Integrante.Financiador(es): Styrelsen for Forskning og Uddannelse - Cooperação.
+2018 - 2019
+MOTIf (Processo no. 18-STIC-07 - Programa CAPES/STIC-AmSud - Edital no. 006/2017)
+Projeto certificado pelo(a) coordenador(a) Jussara Marques de Almeida em 10/01/2019.
+Descrição: O projeto MOTIf (Mobile phone sensing of human dynamics in techno-social environment) de cooperação internacional entre França e América Latina com o objetivo de, a partir da mineração e análise de dados de telefonia móvel, desenvolver modelos de predição de comportamento humano, identificar correlações entre atributos demográficos e socioeconômicos, e investigar a evolução da rede social que emerge da comunicação entre as pessoas.estudar a mobilidade e o conteúdo demandado por usuários em redes sem fio móveis. O projeto envolve as seguintes instituições: pelo Brasil: UFMG, LNCC, PUC-PR; pela França: INRIA/ENS-Lyon equipe DANTE e INRIA equipe INFINE; pela Argentina: Universidade de Buenos Aires (UBA) e Grandata.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Eric Fleury - Integrante / Antonio Alfredo Ferreira Loureiro - Integrante / Jussara Marques de Almeida - Coordenador / Aline Carneiro Viana - Integrante / Humberto T. Marques-Neto - Integrante / Pedro Olmo Stancioli Vaz de Melo - Integrante / Carlos Sarraute - Integrante / Marton Karsai - Integrante / Alejo Salles - Integrante / Paulo Gonçalves - Integrante.
+2018 - Atual
+Ciência de Redes em Ciência de Dados: Teoria e Aplicações (FAPERJ Cientista do Nosso Estado E-26/203.046/2017)
+Descrição: Este projeto visa a investigação de diferentes aspectos, da teoria a aplicações, da área recentemente chamada de Ciência de Redes, inserida em um contexto mais amplo de Ciência de Dados. Os objetivos gerais do projeto são a pesquisa básica e aplicada em ciência de redes, incluindo pesquisa interdisciplinar com diferentes áreas do conhecimento, a formação de recursos humanos e a transferência de conhecimento tanto para a sociedade quanto para outras instituições. São definidos os seguinte quatro objetivos específicos de pesquisa referentes a aspectos complementares (com alguma sobreposição entre si) com os quais pretende-se atuar em ciência de redes: Investigar as naturezas (i) quantitativa e matemática; (ii) empírica e orientada a dados; (iii) computacional; e (iv) interdisciplinar; da área de ciência de redes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador.Financiador(es): FAPERJ - Auxílio
+										financeiro.
+2017 - Atual
+INCT em Ciência de Dados (INCT-CiD) - Processo CNPq no. 465.560/2014-8
+Descrição: O Instituto Nacional de Ciência e Tecnologia em Ciência de Dados (INCT-CiD), sob a coordenação de Artur Ziviani (LNCC/MCTIC) e vice-coordenação de Fabio Porto (LNCC/MCTIC), envolve as seguintes instituições: LNCC, CEFET-RJ, IME, UFC, UFJF, UFPR, UTFPR e o Centro de Inovação Sueco-Brasileiro (CISB). O INCT-CiD propõe-se a atuar no eixo ciência-indústria-governo por meio de ciência de dados através de três linhas de pesquisa principais: (i) gerência de dados; (ii) análise de dados; e (iii) análise de redes complexas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Ronaldo Moreira Salles - Integrante / Maria Claudia Reis Cavalcanti - Integrante / Anelise Munaretto Fonseca - Integrante / Mauro Sergio Pereira Fonseca - Integrante / Fábio André Machado Porto - Integrante / Marcelo Dutra Fragoso - Integrante / Alex Borges Vieira - Integrante / Eduardo Ogasawara - Integrante / Luiz Manoel Rocha Gadelha Júnior - Integrante / José Maria da Silva Monteiro Filho - Integrante / Carmem Satie Hara - Integrante / Elias Procópio Duarte Júnior - Integrante / Myriam Regattieri De Biase Da Silva Delgado - Integrante / Keiko Verônica Ono Fonseca - Integrante / Marcelo de Oliveira Rosa - Integrante / Ricardo Lüders - Integrante / Ana Cristina Barreiras Kochem Vendramin - Integrante.Financiador(es): (CNPq) Conselho Nacional de Desenvolvimento Científico e Tecnológico - Outra.
+2017 - Atual
+INECiD (Projeto FAPESP 2015/24493-1 Chamada MCTI/MC/CGI/FAPESP
+Descrição: O projeto ``INECiD: Internet e a Nova Era de Ciência de Dados'' apresenta duas vertentes principais. A primeira delas, inclui a caracterização do comportamento de usuários e carga de trabalho que impactarão o futuro da Internet. A segunda vertente de pesquisa trata da criação de ferramentas de suporte a sistemas baseados em grandes volumes de dados a partir de um único objeto matemático, de forma a permitir uma modelagem integrada de tais sistemas, simplificando a análise de objetos de larga escala. Este projeto envolve as seguintes instituições: LNCC e UFJF.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) . Integrantes: Artur Ziviani - Coordenador / Alex Borges Vieira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2016 - 2020
+CiRTA (Bolsa de Produtividade em Pesquisa PQ-1D - Proc. CNPq no. 308.729/2015-3)
+Descrição: Descrição: o projeto ``CiRTA: Ciência de Redes: Teoria e Aplicações'' 
+prevê atividades de pesquisa, desenvolvimento e inovação nas áreas de 
+(i) Análise e modelagem de redes complexas dinâmicas; (ii) Caracterização, análise e modelagem de redes em TICs; e (iii) Aplicações interdisciplinares de ciência de redes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador.
+2014 - 2016
+UCOOL (Processo no. 053/14 - Programa CAPES/STIC-AmSud - Edital no. 001/2013)
+Descrição: O projeto UCOOL (Understanding and predicting human demanded COntent and mObiLity) visa a compreensão e previsão da mobilidade e do conteúdo demandado por usuários em redes sem fio móveis. Este é um projeto de cooperação internacional entre França e América Latina com o objetivo de estudar a mobilidade e o conteúdo demandado por usuários em redes sem fio móveis e que envolve as seguintes instituições e pesquisadores: (i) pelo Brasil: LNCC (Artur Ziviani), UTFPR (Anelise Munaretto), Mauro Fonseca (PUC-PR); (ii) pela França: INRIA/ENS-Lyon equipe DANTE (Éric Fleury), INRIA equipe INFINE (Aline Viana), Institut Telecom SudParis (Hakim Chaouchi); (iii) pela Argentina: Universidade de Buenos Aires (José Ignacio Alvarez Hamelin); e (iv) pelo Chile: Universidad Tecnica Federico Santa Maria (Werner Creixell, Tomas Arredondo, Juan Carlos Losada e Walter Grote).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Anelise Munaretto Fonseca - Integrante / Mauro Sergio Pereira Fonseca - Integrante / Eric Fleury - Integrante / Aline Carneiro Viana - Integrante / José Ignacio Alvarez-Hamelin - Integrante / Werner Creixell - Integrante / Tomas Arredondo - Integrante / Juan Carlos Losada - Integrante / Walter Grote - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Cooperação.
+2012 - 2016
+MARAM (Bolsa de Produtividade em Pesquisa PQ-1D - Proc. CNPq no. 305.092/2011-1)
+Descrição: O projeto "MARAM: Metrologia e Análise de Redes com Aplicações Multidisciplinares"
+prevê atividades de pesquisa, desenvolvimento e inovação nas áreas de metrologia de redes; Análise e modelagem de redes complexas; e Arquitetura e modelagem de sistemas de telessaúde.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+ReCAM (Edital FAPERJ 11/2011 Jovem Cientista do Nosso Estado - Proc. no. E-26/103.207/2011)
+Descrição: Descrição: o projeto ``ReCAM: Redes Complexas e Aplicações Multidisciplinares'' 
+prevê atividades de pesquisa, desenvolvimento e inovação nas áreas de 
+(i) metrologia de redes; (ii) Análise e modelagem de redes complexas; e
+(iii) Arquitetura de supersistemas de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Antônio Tadeu Azevedo Gomes - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2011 - 2015
+PRONEM/FAPERJ (Edital FAPERJ no. 25/2010 Apoio a Núcleos Emergentes no Estado do RJ - PRONEM - Proc. no. E-26/111.174/2011)
+Descrição: O projeto "Monitoramento e modelagem de estruturas de redes par-a-par (P2P) para distribuição de conteúdo em larga escala" tem coordenação de Daniel Ratton Figueiredo (UFRJ) e colaboração de Antonio Augusto de Aragão Rocha (UFF) e Artur Ziviani (LNCC).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Daniel Ratton Figueiredo - Coordenador / Antonio Augusto de Aragão Rocha - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2011 - 2013
+QUALVOL (Edital MCT/CNPq no. 09/2010 - CT-INFO/PDI - Processo no. 559881/2010-0)
+Descrição: Projeto QUALVOL: Sistemas em Redes de Qualidade para Aplicações Emergentes Geradoras de Grandes Volumes de Dados. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Otto Carlos Muniz Bandeira Duarte - Integrante / Nelson Luis Saldanha da Fonseca - Coordenador / Luís Henrique Maciel Kosmalski Costa - Integrante / Edmundo Madeira - Integrante / Jussara Marques de Almeida - Integrante / Daniel Macêdo Batista - Integrante / Antônio Tadeu Azevedo Gomes - Integrante / Gustavo Bittencourt Figueiredo - Integrante / Luiz Fernando Bittencourt - Integrante / Miguel Elias Mitre Campista - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - 2013
+CoDyN (Edital FAPERJ no. 24/2010 Cooperação Bilateral FAPERJ/INRIA - Proc. no. 111.613/2011)
+Descrição: O projeto CoDyN (Complex Dynamic Networks) prevê cooperação bilateral entre a equipe do laboratório MARTIN coordenado por Artur Ziviani e Antônio Tadeu A. Gomes no LNCC e a equipe D-NETs (Dynamic Networks) coordenada por Éric Fleury (INRIA/ENS-Lyon, França).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Eric Fleury - Integrante / Antônio Tadeu Azevedo Gomes - Integrante / Klaus Wehmuth - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2011 - 2013
+MECA (Edital CNPq no. 014/2011 - Universal - Processo no. 481.051/2011-2)
+Descrição: O projeto "MECA: MEtrologia e análise de redes Complexas e Arquitetura de software para supersistemas'' envolve o grupo MARTIN do LNCC através dos pesquisadores Artur Ziviani e Antônio Tadeu Azevedo Gomes em atividades do de pesquisa e desenvolvimento nas áreas de (i) Inovação em metrologia de redes; (ii) Análise e modelagem de redes complexas; e (iii) Arquitetura de supersistemas de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Antônio Tadeu Azevedo Gomes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2016
+INCT-MACC (Edital MCT/CNPq/FNDCT/CAPES/FAPEMIG/FAPERJ/FAPESP No. 015/2008 - Institutos Nacionais de Ciência e Tecnologia - processo no. 573710/2008-2 CNPq e no. E-26/170.030/2008 FAPERJ)
+Descrição: O Instituto Nacional de Ciência e Tecnologia em Medicina Assistida por Computação Científica (INCT-MACC),
+sob a coordenação do Prof. Raul A. Feijóo (LNCC/MCT) e vice-coordenação de Artur Ziviani (LNCC/MCT),
+envolve 33 instituições nacionais de 11 estados da federação, totalizando 128 pesquisadores em sua equipe tanto da área tecnolológica quanto médica. Na proposta do INCT-MACC, a visão de futuro definida para o instituto é a seguinte: Ser um instituto de excelência, tanto no nível nacional como internacional, em computação científica aplicada a medicina, atuando como referência em atividades de pesquisa e desenvolvimento, transferência de tecnologia e inovação e formação de recursos humanos altamente qualificados na área acima; sendo o responsável pelo desenvolvimento de ambientes computacionais de alto
+desempenho para que as aplicações médicas desenvolvidas estejam à disposição das comunidades ligadas à pesquisa e saúde e, como conseqüência, a serviço da população através do Sistema Nacional de Processamento de Alto Desempenho ? SINAPAD. Para tanto, os seguintes cinco objetivos são contemplados:
+(i) Modelagem e simulação computacional de sistemas fisiológicos complexos; (ii) Processamento avançado de imagens médicas incluindo visualização e reconstrução tridimensional de estruturas de relevância médica e suas aplicações na modelagem e simulação computacional de sistemas fisiológicos e na diagnose por imagem; (iii) Ambientes virtuais colaborativos de realidade virtual e aumentada e telemanipulação na área médica para treinamento, formação de recursos humanos e planejamento cirúrgico; (iv) Sistemas de informação em saúde, com aplicações em atendimento médico emergencial e vigilância em saúde pública; e
+(v) Ciberambientes de computação distribuída de alto desempenho para as aplicações médicas nas áreas acima mencionadas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Raúl Antonino Feijóo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro / Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2009 - 2012
+METRICOM (Bolsa de Produtividade em Pesquisa PQ-2 - Proc. CNPq no. 301.665/2008-7)
+Descrição: O projeto de produtividade em pesquisa do CNPq Metrologia na Internet e Comunicação Móvel (METRICOM) prevê atividades de pesquisa e desenvolvimento nas áreas de (i) Inferência de
+características da Internet através de medições; (ii) Auto-organização em redes ad hoc sem fio e redes de sensores; (iii) Transmissão de tráfego multimídia em enlaces sem fio; (iv) Dinâmica de redes complexas na Internet.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2011
+MAR (Edital FAPERJ 28/2008 Jovem Cientista do Nosso Estado - Proc. no. E-26/103.050/2008)
+Descrição: O projeto Metrologia e Auto-organização em Redes (MAR) prevê atividades de pesquisa e desenvolvimento nas áreas de (i) Inferência de características da Internet através de medições;
+(ii) Auto-organização em redes ad hoc sem fio e redes de sensores; (iii) Dinâmica de redes complexas na Internet.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Antonio Tadeu Azevedo Gomes - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2009 - 2011
+Dynamics of Layered Complex Networks (Programa STIC AmSud/CAPES - Edital CGCI no. 002/2008 - Processo no. 09STIC04 CAPES 010/08)
+Descrição: Este é um projeto de cooperação internacional entre França e América Latina envolvendo as seguintes instituições e pesquisadores: (i) pelo Brasil: LNCC (Artur Ziviani e Antônio Tadeu A. Gomes), UFMG (Jussara Almeida); (ii) pela França: INRIA/ENS-Lyon (Éric Fleury e Guillaume Chelius), LIP6/CNRS (Matthiew Latapy e Clémence Magnien); e (iii) pela Argentina: Universidade de Buenos Aires (José Ignacio Alvarez Hamelin).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Antonio Tadeu Azevedo Gomes - Integrante / Eric Fleury - Integrante / Guillaume Chelius - Integrante / Jussara Marques de Almeida - Integrante / Matthiew Latapy - Integrante / Clémence Magnien - Integrante / José Ignacio Alvarez-Hamelin - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / STIC-AmSud - Auxílio
+										financeiro.
+2008 - 2011
+MIRA (Edital MCT/CNPq no. 014/2008 - Universal - Processo no. 473.660/2008-3)
+Descrição: o projeto Metrologia na Internet e Redes Auto-organizáveis (MIRA)
+prevê atividades de pesquisa e desenvolvimento nas áreas de 
+(i) Inferência de características da Internet através de medições;
+(ii) Auto-organização em redes ad hoc sem fio e redes de sensores;
+(iii) Transmissão de tráfego multimídia em enlaces sem fio; e
+(iv) Dinâmica de redes complexas na Internet.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Antônio Tadeu Azevedo Gomes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2010
+MICMAT (Edital FAPERJ 1/2008 APQ1 - Proc. no. E-26/111.325/2008)
+Descrição: Este projeto envolve atividades de Metrologia na Internet e Comunicação Móvel com Aplicações em Telemedicina (MICMAT). Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Antônio Tadeu Azevedo Gomes - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2007 - 2010
+MACC-Rio (Edital MS/CNPq/FAPERJ 07/2006 processo no. E-26/171.563/2006)
+Descrição: O principal objetivo deste projeto é integrar as diversas competências existentes nas
+instituições participantes de maneira a construir uma rede temática e cooperativa em
+Medicina Assistida por Computação Científica do Estado do Rio de Janeiro (MACC-Rio).
+A rede MACC-Rio engloba 60 pesquisadores, tanto da área médica quanto da área
+técnico-científica, de 13 instituições do Estado do Rio de Janeiro. Essas
+instituições incluem ACSC (Associação Congregação Santa Catarina), COPPE/UFRJ,
+Faculdade de Medicina de Petrópolis (FMP), Hospital Pró-Cardíaco (HPC),
+Faculdade de Medicina da UFRJ, IME, INCA, LNCC, PUC-Rio, Faculdade de
+Ciências Médicas da UERJ, UFF, FIOCRUZ e Rede D'Or. Este projeto
+possui financiamento pelo Edital MS/CNPq/FAPERJ no. 07/2006 (PPSUS)
+sob o processo no. E-26/171.563/2006.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Coordenador / Bruno Schulze - Integrante / Jauvane Cavalcante de Oliveira - Integrante / Antonio Tadeu Azevedo Gomes - Integrante / Markus Endler - Integrante / Edison Ishikawa - Integrante / Paulo Fernando Ferreira Rosa - Integrante / Raúl Antonino Feijóo - Integrante / Nelson Albuquerque de Souza e Silva - Integrante / Oswaldo Luiz Pizzi - Integrante / Paulo Sérgio Silva Rodrigues - Integrante / Debora Christina Muchaluat Saade - Integrante / Célio Vinicius Neves de Albuquerque - Integrante / Maria Cristina Silva Boeres - Integrante / Alexandra Maria V. Monteiro - Integrante / Ana Tereza R. de Vasconcelos - Integrante / Andrea Silveira de Souza - Integrante / Antonio Andrá Novotny - Integrante / Edgardo Omar Taroco Aliano - Integrante / Edmundo Albuquerque de Souza e Silva - Integrante / Eugene Francis Vinod Rebello - Integrante / Gilson Antônio Giraldi - Integrante / Jaime Ediberto Munoz Rivera - Integrante / José Roberto Boisson de Marca - Integrante / Ronaldo Curi Gismondi - Integrante / Rosa Maria Meri Leão - Integrante / Luciana Tricai Cavalini - Integrante / Edelto dos Santos Antunes - Integrante / Francisco M. Albanesi Filho - Integrante / José Roberto Machado e Silva - Integrante / Luciano Luporini Menegaldo - Integrante / Marcelo Trindade dos Santos - Integrante / Marcelo Daniel Brito Faria - Integrante / Marcia Mello Provenzano - Integrante / Neli Muraki Ishikawa - Integrante / Rosangela Rodrigues e Silva - Integrante.Financiador(es): Associação Congregação Santa Catarina - Cooperação / COPPE/UFRJ - Cooperação / Faculdade de Ciências Médicas da UERJ - Cooperação / Faculdade de Medicina da UFRJ - Cooperação / Faculdade de Medicina de Petrópolis - Cooperação / Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro / Fundação Oswaldo Cruz - Cooperação / Hospital Pró-Cardíaco - Cooperação / Instituto Militar de Engenharia - Cooperação / Instituto Nacional de Câncer - Cooperação / Laboratório Nacional de Computação Científica - Cooperação / Pontifícia Universidade Católica do Rio de Janeiro - Cooperação / Universidade Federal Fluminense - Cooperação / Rede D'Or - Cooperação.Número de orientações: 2
+2007 - 2010
+SAMBA (CAPES/COFECUB no. 549/07)
+Descrição: O projeto SAMBA (Segurança, Autonomia, Mobilidade, uBiquidade em redes Avançadas) é
+um Projeto de Cooperação Internacional CAPES/Cofecub no. 549/07 envolvendo
+a UFRJ, UERJ e LNCC pelo lado brasileiro (coordenação de Otto Carlos M. B. Duarte --
+UFRJ) e o LIP6/CNRS, INSA de Lyon, LAAS e LIFL pelo lado francês (coordenação de
+Serge Fdida -- LIP6/CNRS).. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / José Ferreira de Rezende - Integrante / Otto Carlos Muniz Bandeira Duarte - Coordenador / Serge Fdida - Integrante / Luís Henrique Maciel Kosmalski Costa - Integrante / Marcelo Gonçalves Rubinstein - Integrante / David Simplot-Ryl - Integrante / Eric Fleury - Integrante / Guillaume Chelius - Integrante / Michel Diaz - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro / COFECUB - Auxílio
+										financeiro.
+2007 - 2009
+Redes de Nova Geração: Tecnologias Estratégicas de Comunicação (Edital FAPERJ 09/2007 - Pensa-Rio - processo no. E-26/110.372/2007)
+Descrição: Os principais objetivos deste projeto são de médio e longo prazo,
+envolvendo atividades de P&D nas áreas de redes sem fio,
+redes ad hoc veiculares, segurança e redes tolerantes a atrasos e
+desconexões. O coordenador do projeto é o Prof. Otto Carlos M. B. Duarte (UFRJ)
+e as instituições envolvidas são a UFRJ, a UERJ e o LNCC.
+O financiamento deste projeto é através do Edital FAPERJ 09/2007
+(Pensa-Rio).. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / José Ferreira de Rezende - Integrante / Otto Carlos Muniz Bandeira Duarte - Coordenador / Antonio Tadeu Azevedo Gomes - Integrante / Luís Henrique Maciel Kosmalski Costa - Integrante / Marcelo Gonçalves Rubinstein - Integrante.Financiador(es): COPPE/UFRJ - Cooperação / Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro / Universidade do Estado do Rio de Janeiro - Cooperação / Laboratório Nacional de Computação Científica - Cooperação.
+2007 - 2009
+ReBu -- Sistemas de Redes Robustos: Modelos e Ferramentas (Edital MCT/CNPq/CT-INFO no. 07/2007 processo 550995/2007-2)
+Descrição: Este projeto, sob a coordenação de Virgílio Augusto Fernandes Almeida (UFMG),
+envolve UFMG, LNCC, COPPE/UFRJ, UFF, UERJ e UNICAMP. O objetivo principal
+deste projeto visa o estabelecimento e a consolidação de uma rede de pesquisa
+colaborativa e temática envolvendo um grupo de pesquisa multi-institucional para
+investigação de diversos problemas altamente desafiadores relacionados à robustez de
+sistemas de redes. Este projeto vai diretamente ao encontro do desafio no. 5
+``Desenvolvimento tecnológico de qualidade: sistemas disponíveis, corretos, seguros,
+escaláveis, persistentes e ubíquos'', proposto no documento ``Grandes Desafios para a
+Computação no Brasil: 2006-2016'', um dos alvos definidos no
+Edital MCT/CNPq/CT-INFO no. 07/2007, através do qual este projeto é financiado
+sob o processo no. 550995/2007-2.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / José Ferreira de Rezende - Integrante / Otto Carlos Muniz Bandeira Duarte - Integrante / Nelson Luis Saldanha da Fonseca - Integrante / Antonio Tadeu Azevedo Gomes - Integrante / Luís Henrique Maciel Kosmalski Costa - Integrante / Célio Vinicius Neves de Albuquerque - Integrante / Edmundo Albuquerque de Souza e Silva - Integrante / Rosa Maria Meri Leão - Integrante / Marcelo Gonçalves Rubinstein - Integrante / Virgílio Augusto Fernandes de Almeida - Coordenador / Edmundo Madeira - Integrante / Daniel Ratton Figueiredo - Integrante / Jussara Marques de Almeida - Integrante / Dorgival Olavo Guedes Neto - Integrante.Financiador(es): COPPE/UFRJ - Cooperação / Laboratório Nacional de Computação Científica - Cooperação / Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro / Universidade do Estado do Rio de Janeiro - Cooperação / Universidade Estadual de Campinas - Cooperação / Universidade Federal de Minas Gerais - Cooperação / Universidade Federal Fluminense - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2007 - 2009
+MARFIM (Edital MCT/CNPq/MS-SCTIE-DECIT 23/2006 processo no. 409406/2006-6)
+Descrição: Avanços recentes na área de comunicação de dados têm
+permitido o desenvolvimento de sistemas de informação direcionados a uma
+gama de diferentes serviços em telemedicina. Contudo, grande parte dos
+esforços atuais de pesquisa na área estão restritos a redes de
+comunicação sem fio de curto alcance, com enfoque principal em serviços
+de monitoramento contínuo. Em contraste com esse cenário, o projeto
+MARFIM (Medicina Assistida por Redes sem FIo Multimídia) contempla a
+adoção de tecnologias de comunicação móvel em escalas diversas, visando
+primordialmente oferecer às equipes médicas do Sistema Único de Saúde
+(SUS) o suporte remoto necessário em casos de atendimento médico
+emergencial. Como ponto de partida para o projeto MARFIM, é proposto um
+projeto-piloto na área de cardiologia, chamado AToMS, para atendimento
+emergencial de vítimas de infarto agudo do miocárdio (IAM). Como
+complemento e desdobramento do projeto-piloto básico são também
+previstas atividades de pesquisa e desenvolvimento contemplando: (i) a
+adoção de tecnologias de comunicação sem fio que permitam a formação de
+redes comunitárias, visando aumentar a cobertura e robustez do sistema
+básico proposto e, ao mesmo tempo, reduzir seu custo operacional; e (ii)
+o uso de técnicas avançadas de engenharia de software que tornem mais
+ágeis o desenvolvimento e manutenção do sistema proposto ? novamente,
+tendo em vista redução de custos ? e que facilitem sua adaptação para
+outras especialidades médicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Artur Ziviani - Coordenador / Antonio Tadeu Azevedo Gomes - Integrante / Raúl Antonino Feijóo - Integrante / Nelson Albuquerque de Souza e Silva - Integrante / Debora Christina Muchaluat Saade - Integrante / Anelise Munaretto Fonseca - Integrante / Célio Vinicius Neves de Albuquerque - Integrante / Mauro Sergio Pereira Fonseca - Integrante / Richard Demo Souza - Integrante / Thaís Vasconcelos Batista - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Faculdade de Medicina da UFRJ - Cooperação / Faculdade de Medicina de Petrópolis - Cooperação / Laboratório Nacional de Computação Científica - Bolsa / Núcleo Estadual do Ministério da Saúde no Rio de Janeiro - Auxílio
+										financeiro / Pontifícia Universidade Católica do Paraná - Cooperação / Universidade Federal Fluminense - Cooperação / Universidade Tecnológica Federal do Paraná - Cooperação / Universidade Federal do Rio Grande do Norte - Cooperação.Número de produções C, T & A: 2 / Número de orientações: 5
+2007 - 2008
+Mobilis (Edital CNPq 027/2006 processo no. 490817/2006-8)
+Descrição: O projeto Mobilis é um Projeto de Cooperação Internacional entre o CNPq e a DLR (Alemanha)
+financiado através do Edital 027/2006 sob o processo no. 490817/2006-8.
+O tema do projeto é o desenvolvimento de soluções cientes do
+contexto para ambientes de computação ubíqüa.
+Os coordenadores do projeto pelo lado brasileiro são o Prof. 
+Antônio Alfredo Ferreira Loureiro (UFMG)
+e o Prof. Markus Endler (PUC-Rio). São colaboradores no projeto o LNCC,
+a Universidade Federal de Goiás (UFG), a Universidade Federal do Maranhão (UFMA)
+e a Universidade de São Paulo (USP). Pela Alemanha, participa
+a Universidade Técnica de Dresden.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Antonio Tadeu Azevedo Gomes - Integrante / Markus Endler - Integrante / Antonio Alfredo Ferreira Loureiro - Coordenador / Fábio Costa - Integrante / Vagner do Sacramento Rodrigues - Integrante / Geraldo Robson Mateus - Integrante / Linnyer Beatrys Ruiz - Integrante / Francisco Silva e Silva - Integrante / Fabio Kon - Integrante / Alfredo Goldman vel Lejbman - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Laboratório Nacional de Computação Científica - Cooperação / Pontifícia Universidade Católica do Rio de Janeiro - Cooperação / Technische Universität Dresden - Cooperação / Universidade de São Paulo - Cooperação / Universidade Federal de Minas Gerais - Cooperação / Universidade Federal do Maranhão - Cooperação / Universidade Federal de Goiás - Cooperação.
+2006 - 2009
+METRICA (Edital Universal MCT/CNPq 02/2006 processo no. 474106/2006-3)
+Descrição: O projeto METRICA (Metrologia na Internet para Caracterização
+de Tráfego) prevê atividades de pesquisa e desenvolvimento para
+o suporte de redes a sistemas distribuídos de larga escala e
+a inferência por medições de características da Internet e seus
+serviços. O projeto tem como parceiro a empresa Quatra Telecomunicações
+e Informática Ltda. Esse projeto possui financiamento pelo Edital Universal
+do MCT/CNPq 02/2006 processo no. 474106/2006-3.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Artur Ziviani - Coordenador / Antonio Tadeu Azevedo Gomes - Integrante / Marcelo Luís Monsores - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Ministério da Ciência e Tecnologia - Auxílio
+										financeiro / Quatra Telecomunicações e Informática Ltda - Cooperação.Número de orientações: 3
+2005 - 2007
+Metrologia de Redes Aplicada a Grades Computacionais Convencionais e sem Fio (FAPERJ APQ1 Proc. no. E-26/170.222/2005)
+Descrição: Este projeto visa o desenvolvimento de um middleware para grades computacionais compostas por dispositivos sem fio e possui financiamento do PCI/LNCC. O uso de redes sem fio como o sistema de comunicação para grades computacionais móveis traz uma demanda por novos padrões de controle no compartilhamento de recursos distribuídos e dá margem ao surgimento de uma gama de novas aplicações e novos cenários de uso.A arquitetura proposta chama-se MoGrid (Mobile Grids). A coordenação deste projeto é de co-responsabilidade de Artur Ziviani (LNCC) e Antônio Tadeu A. Gomes (LNCC). Este projeto conta ainda com a colaboração da PUC-Rio.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Artur Ziviani - Coordenador / Bruno Schulze - Integrante / Luciana dos Santos Lima - Integrante / Antonio Tadeu Azevedo Gomes - Integrante / Markus Endler - Integrante / Pedro Alcover França - Integrante / Bruno Fernandes Bastos - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro / Laboratório Nacional de Computação Científica - Bolsa / Pontifícia Universidade Católica do Rio de Janeiro - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 6 / Número de orientações: 6
+2005 - 2006
+AVICOM: Ambientes Virtuais COlaborativos Massivos na rede GIGA
+Descrição: Ambientes Virtuais Colaborativos que são hoje explorados na Internet são em sua maioria absoluta de pequena escala, ambos na quantidade de usuários que participam de uma simulação bem como no tamanho do mundo virtual compartilhado. Um número de arquiteturas para AVCs de grande escala foram propostas nos últimos 10 anos, porém todos aqueles que provêm melhor escalabilidade não funcionam de modo ubíquo na internet disponível hoje. Este projeto prevê a implementação de AVCs de grande escala que não dependam de atualizações na Internet. Em uma primeira instância (ano 1) dois protótipos serão implementados, o que alimentará a segunda etapa do projeto (ano 2) onde uma nova arquitetura para AVCs de grande escala será introduzida, sendo modelada em ferramenta de simulação para assegurar a sua estabilidade. Tal arquitetura será utilizada em uma outra implementação de AVC de grande escala, com objetivo de validar o modelo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Jauvane Cavalcante de Oliveira - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2004 - 2006
+Integridade: Desenvolvimento em Middleware para Grids Computacionais sobre a Rede Giga
+Descrição: O Integridade é um projeto multi-institucional selecionado na chamada RNP no. 01/2004. Este projeto visa desenvolvimentos em middleware paragrids computacionais sobre a Rede Giga. As instituições participantessão o LNCC, a Unicamp, a UFF, o CBPF, a UFRGS e o NCSA da Universidadede Illinois at Urbana-Champaign, EUA. Minha contribuição refere-se à concepção de um serviço de middleware que atenda a sinergia entre as áreas de metrologiaInternet e de grades computacionais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Bruno Schulze - Coordenador.Financiador(es): Rede Nacional de Ensino e Pesquisa - Auxílio
+										financeiro.
+2003 - 2005
+E-NEXT : Network of Excellence for Emerging Network Technologies
+Descrição: Projeto europeu financiado pelo organismo Information Society Technologies (IST). Maiores
+informações em http://rp.lip6.fr/webring
+e http://www.ist-e-next.net. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Serge Fdida - Coordenador.Número de produções C, T & A: 7
+2003 - 2004
+VIMOS: Vídeo, Mobilidade e Segurança
+Descrição: Projeto multi-institucional selecionado na Chamada Conjunta MCT/SEPIN-FINEP-CNPq 01/2002. Participação como aluno de doutorado em cotutela entre a UFRJ e a Universidade Pierre et Marie Curie (Paris 6).
+O rápido desenvolvimento de novas tecnologias para redes de alta banda,
+comunicação sem fio, técnicas de compressão, etc, tornou possível o
+desenvolvimento de sofisticadas infraestruturas de comunicação para suportar
+uma variedade de aplicações multimídia. Dentre essas podemos distinguir, por
+exemplo, a transmissão de áudio e vídeo em tempo real. Entretanto, um ambiente
+sem fio traz desafios adicionais a essas aplicações devido a taxas mais altas
+de erro em comparação a redes interligadas por fibra ótica, limitações de banda
+e mobilidade dos usuários. O objetivo deste projeto será estudar, conceber e
+avaliar o desempenho de um conjunto de mecanismos e protocolos capazes de lidar
+com esses aspectos para permitir a transmissão de vídeo com qualidade e
+segurança. Dentre os aspectos abordados neste projeto podemos citar protocolos
+e mecanismos de provisão de QoS e segurança em redes sem fio, caracterização do
+tráfego de vídeo, middleware para o gerenciamento da QoS nestas redes e
+aplicações de vídeo adaptativas.
+Maiores informações em http://www.dcc.unicamp.br/~nfonseca/vimos/. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / José Ferreira de Rezende - Integrante / Otto Carlos Muniz Bandeira Duarte - Integrante / Nelson Luis Saldanha da Fonseca - Coordenador.Número de produções C, T & A: 2
+2001 - 2004
+METROPOLIS : Métrologie pour les réseaux Internet
+Descrição: Projeto francês de pesquisa em metrologia na Internet financiado pelo organismo Réseau National de Recherche en Télécommunications (RNRT). Maiores informações : http://adonis.lip6.fr/metrologie/. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / Timur Friedman - Integrante / Kavé Salamatian - Coordenador / Ramon Casellas - Integrante.Número de produções C, T & A: 1
+2001 - 2003
+QUARESMA: Qualidade de Serviço em Redes - Segurança, Mobilidade e Aplicações
+Descrição: Projeto multi-intitucional selecionado no Edital do CNPq para Projeto em Redes Avançadas (Processo CNPq 552521/2001-0). Participação como aluno de doutorado em cotutela entre a UFRJ e a Universidade Pierre et Marie Curie (Paris 6). 
+A rede de interconexão global Internet não consegue atender, com qualidade,
+determinadas aplicações que requerem certos tipos de requisitos. Assim, novas
+arquiteturas que permitam oferecer qualidade de serviço vêm sendo propostas.
+Estas novas propostas englobam diversos aspectos tais como: a garantia de
+determinados requisitos de comunicação, a comunicação multidestinatária, a
+segurança da comunicação, mobilidade etc. Estas propostas envolvem estudos de
+novos serviços, protocolos, modelos, mecanismos etc. O Projeto QUARESMA
+contempla pesquisa e desenvolvimento em diversos temas relacionados à qualidade
+de serviço em redes avançadas.
+Maiores informações em http://www.gta.ufrj.br/quaresma. Situação: Concluído; Natureza: Pesquisa. Integrantes: Artur Ziviani - Integrante / José Ferreira de Rezende - Integrante / Otto Carlos Muniz Bandeira Duarte - Coordenador.Número de produções C, T & A: 5

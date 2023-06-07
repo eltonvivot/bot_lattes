@@ -1,0 +1,74 @@
+2022 - Atual
+Explosão a vapor e tratamento enzimático para a extração e melhoria de propriedades de gelatina de resíduos de peles bovinas com aplicação em filmes comestíveis
+Descrição: Este projeto visa desenvolver uma metodologia para melhorar a extração e as propriedades de gelatina para a sua aplicação em filmes comestíveis, com potenciais utilizações em embalagens.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Vandré Barbosa Brião - Integrante / Jeferson S Piccin - Integrante / Aline Dettmer - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2022 - Atual
+Valoração de resíduos alimentares através da produção de enzimas e bioetanol no conceito de economia biocircular
+Descrição: Propõe-se o uso de triticale, farelo de arroz desproteinizado, bagaço de maçã e outros
+resíduos de hortifrútis, além de resíduos de alimentos processados de panificação e que contenham amido na geração de bioetanol. Serão selecionadas cepas de microrganismos para a produção de enzimas hidrolíticas. Essas enzimas serão purificadas por processos de separação por membranas, sendo aplicadas para a sacarificação de resíduos alimentares. Por fim, os caldos serão fermentados para a produção de bioetanol. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (3) . Integrantes: Vandré Barbosa Brião - Integrante / Colla - Coordenador / Telma Elita Bertolin - Integrante / REINEHR, CHRISTIAN OLIVEIRA - Integrante / Eliane Colla - Integrante / BIDUSKI, BÁRBARA - Integrante / Lidiane Borges Dias de Moraes - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2020 - Atual
+Drinking Water From Rain: A Standalone Green Energy Powered Rainwater Purification System
+Descrição: The project aims to develop a rainwater purification system using membrane ultrafiltration, powered by
+photovoltaics (PV), to meet potable water demand in urban slums, rural areas and remote communities in
+Brazil. A suitable location to implement the system will be identified form a number of candidate locations
+using predicted precipitation level, solar insolation and temperature over a period of time based on past
+observations using a deep neural network (DNN). A data driven virtual model of the proposed system will
+then be developed using sample rainwater composition, solar irradiation and temperature profile of the
+selected location. The performance of the model will be enhanced using flow rate and pressure
+optimisation with a Whale Optimisation Algorithm (WOA). A maximum power point tracking (MPPT)
+technique to ensure maximum level of energy harvesting from PV will be developed using a Grey Wolf
+Optimisation (GWO) technique. The virtual model will be used to inform the development of a suitable
+design of the proposed rainwater purification system followed by a prototype fabrication and its efficacy
+validation at the University of Passo Fundo (UPF), Brazil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Vandré Barbosa Brião - Coordenador / Adalberto Pandolfo - Integrante / M Hasan Shaheed - Integrante / Roberto Rabello - Integrante / Marcelo Rebonatto - Integrante.Financiador(es): Royal Society - Auxílio
+										financeiro.
+2019 - Atual
+Desenvolvimento de misturas prontas de alimentos pré-preparados desidratados
+Descrição: O projeto objetiva desenvolver formulações para misturas de produtos de fácil consumo como temperos, produtos de panificação e outros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vandré Barbosa Brião - Coordenador / Luciane Maria Colla - Integrante / Christian Oliveira Reinehr - Integrante.Financiador(es): Limpa Brasil Indústria e Comércio de produtos de limpeza - Cooperação.
+2018 - Atual
+Remineralização de água tratada por osmose inversa das máquinas da Purificatta
+Descrição: Desenvolvimento de um sistema de remineralização da água tratada nas máquinas de purificação de águas da empresa Purficatta.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vandré Barbosa Brião - Coordenador / Marcelo Hemkemeier - Integrante / Jeferson S Piccin - Integrante.Financiador(es): Purificatta Indústria, Comércio e Serviços de Purificação de águas LTDA - Cooperação.Número de produções C, T & A: 1
+2017 - 2019
+Microencapsulação de gordura de coco com soro de leite
+Descrição: O projeto objetivou produzir um produto similar ao Whey Fat. Consistiu em microencapsulação de gordura de coco para protegê-la e evitar a rancificação, buscando a aplicação em rações para suínos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Vandré Barbosa Brião - Coordenador / Luciane Maria Colla - Integrante / Adelar Tamanho - Integrante.Financiador(es): RELAT - LATICINIOS RENNER S/A - Cooperação.Número de produções C, T & A: 2
+2014 - 2016
+Valoração de soro de leite através de processos de separação por membranas e bioprocessos
+Descrição: O projeto visa fracionar soro de leite em diferentes correntes utilizando membranas de UF e NF, obtendo diferentes produtos a partir de soro de leite. Além disso, o projeto também visa utilizar essas correntes como substrato para fermentação para produção de microalgas e biossurfactantes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Vandré Barbosa Brião - Coordenador / Marcelo Hemkemeier - Integrante / Jeferson Stefanello Piccin - Integrante / Reinehr - Integrante / Colla - Integrante / Gutkoski - Integrante / BERTOLIN - Integrante / Vera Maria Rodrigues - Integrante / Maria Tereza Friedrich - Integrante.Financiador(es): Secretaria Estadual da Ciência, Tecnologia e Inovação - Auxílio
+										financeiro.
+2014 - Atual
+Desenvolvimento de produtos e processos na indústria de alimentos
+Descrição: Desenvolvimento de produtos e processos para a indústria de alimentos utilizando novos conceitos e/ou novos insumos, distintos dos tradicionais. Estudo dos processos envolvidos em toda a cadeia produtiva de transformação dos alimentos, desde a recepção da matéria-prima, produtos intermediários e acabados, bem como sistemas para tratamento e valoração de resíduos. Avanços em processos unitários, químicos, térmicos, processos combinados e/ou outros para a produção de alimentos. Estudo de produtos funcionais e outros com características inovadoras fundamentados na ciência e à luz dos avanços científicos e tecnológicos da ciência de alimentos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (15)  / Mestrado acadêmico: (4) . Integrantes: Vandré Barbosa Brião - Coordenador / Marcelo Hemkemeier - Integrante / Jeferson S Piccin - Integrante / Colla - Integrante / Gutkoski - Integrante / Vera Maria Rodrigues - Integrante / Elci Lotar Dickel - Integrante / Luciana Ruschel dos Santos - Integrante.
+2013 - Atual
+Microfiltração e ultrafiltração para pós-tratamento de efluente de estação de tratamento de esgoto para reúso doméstico não potável
+Descrição: O projeto visa utilizar membranas de micro e ultrafiltração para o pós-tratamento de esgoto, visando o seu reúso para fins domésticos não potáveis, tais qual em bacias sanitárias.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (3) . Integrantes: Vandré Barbosa Brião - Coordenador / Marcelo Hemkemeier - Integrante / Colla - Integrante / Vera Maria Cartana - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2015
+Concentração de leite por osmose inversa
+Descrição: O projeto objetiva estudar a concentração de leite por osmose inversa, avaliando diferentes parâmetros operacionais (pressão e temperatura) e seus efeitos no processo. Além disso, será realizado um balanço material e energético entre um processo híbrido de concentração de leite (osmose + evaporação) e o processo tradicional de concentração (somente evaporação).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vandré Barbosa Brião - Coordenador / Vera Maria Rodrigues - Integrante.
+2012 - 2013
+Dessalinização por osmose inversa das águas do Aquífero Guarani para uso como água potável em períodos de estiagem
+Descrição: O Rio Grande do Sul passou pelo mais extenso período de estiagem dos últimos 50 anos em 2012. Utilizar águas subterrâneas profundas do Aquífero Guarani poderia ser uma solução para amenizar os problemas, mas esta água é salobra em regiões do norte do RS. O projeto visa dessalinizar águas do Aquífero Guarani buscando adequá-las aos parâmetros de potabilidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vandré Barbosa Brião - Coordenador / Marcelo Hemkemeier - Integrante / Edesnei Barbosa Brião - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2012 - Atual
+Tratamento por osmose inversa de águas residuárias geradas na produção de soro de leite em pó
+Descrição: Na produção de soro de leite em pó há uma etapa de desmineralização do soro líquido realizada por nanofiltração. Esta operação gera um permeado com carga orgânica residual, mas com um grande potencial de reuso. O projeto objetiva utilizar a osmose inversa para tratar essa água residuária, buscando produzir água passível de reuso.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Vandré Barbosa Brião - Coordenador / Marcelo Hemkemeier - Integrante / Caroline Diehl Basso - Integrante.
+2011 - 2012
+Reuso de águas evaporadas no processo de produção de leite condensado e leite em pó por processos de separação por membranas
+Descrição: A proposta visa recuperar águas residuais geradas na etapa de concentração do leite utilizando a osmose inversa, visando o reuso desta água.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vandré Barbosa Brião - Coordenador / Edesnei Barbosa Brião - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro / LBR - Leite Brasil - Cooperação.Número de produções C, T & A: 1
+2010 - 2013
+Obtenção de um concentrado protéico de soro de leite por ultrafiltração e sua aplicação na produção de bebida láctea
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vandré Barbosa Brião - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2010 - 2013
+Produção de bebida láctea com sólidos do leite recuperados de águas de primeiro enxágue por osmose inversa
+Descrição: Utilização da tecnologia por membranas para recuperação de sólidos lácteos de águas de primeiro enxágue e utilização destes sólidos para incorporação em bebida láctea.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vandré Barbosa Brião - Coordenador / Jorge Gruhn Schulz - Integrante / Rodrigues - Integrante / Carlos Bondan - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2009 - 2013
+Osmose inversa e nanofiltração para a recuperação de sólidos do leite presentes em águas de primeiro enxágüe para a obtenção de água potável e produção de doce de leite: avaliação técnica e econômica
+Descrição: Uso de processos com membranas para a remoção de sólidos do leite presentes em efluentes e reuso destes sólidos em subprodutos lácteos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Vandré Barbosa Brião - Coordenador / Douglas Coleraus - Integrante / Marcelo Hemkemeier - Integrante / Paulo Roberto Koetz - Integrante / Célia Regina Granhen Tavares - Integrante / Edesnei Barbosa Brião - Integrante / Paulo Bohrer - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2005
+Filtro Biológico para o tratamento de efluentes de pequenas indústrias de laticínios
+Descrição: Aplicação e testes em escala de bancada e piloto para a otimização da aplicação de filtros biológicos para o tratamento de efluentes em pequenas indústrias de laticínios. Situação: Concluído; Natureza: Pesquisa. Integrantes: Vandré Barbosa Brião - Coordenador / Douglas Coleraus - Integrante / Marcelo Hemkemeier - Integrante / Paulo Roberto Koetz - Integrante.Financiador(es): Pólo de Modernização Tecnológica da Secretaria de Ciência e Tecnologia - Auxílio
+										financeiro.Número de produções C, T & A: 6

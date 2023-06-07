@@ -1,0 +1,32 @@
+2019 - 2020
+Uso de Deep Learning no Planejamento de Candidatos a Fármacos
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Patrícia Rufino Oliveira - Integrante / HONORIO, KATHIA M. - Coordenador / ANGELO, RAFAELA M. - Integrante / Gabriel Zarzana Espinoza - Integrante.
+2019 - 2020
+Desenvolvimento de ontologias para aperfeiçoamento e interpretação de modelos de regressão aplicados a Estudos de Relações Quantitativas Estrutura- Atividade
+Descrição: This research project aims at constructing and applying ontological data to guide the selection of suitable (related) data sets for transfer knowledge from one QSAR model to another. Furthermore, an additional objective refers to use the ontological data to explore the drug-target relations estimated by the constructed QSAR models in order to understand how the modifications on structural characteristics of compounds induce their biological activity. By combining chemical and biological components and their interrelationships in an integrated ontology for QSAR studies, the project will provide a more holistic and standardized knowledge formalization of the drug discovery process. One also expects that such resulting ontological data can be used to guide the selection of source data sets in QSAR transfer learning applications and to interpret predictive results obtained by machine learning methods in medicinal chemistry area.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Patrícia Rufino Oliveira - Coordenador / James Geller - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2017 - Atual
+Applying transfer learning techniques and ontologies to QSAR regression models
+Descrição: To develop a new medicine, investigators must analyze the biological targets of a given disease, discover and develop drug candidates for these targets, performing in parallel, biological laboratory tests to validate the drug effectiveness and side effects. The Quantitative Study of Activity-Structure Relationships (QSAR) involves building regression models that relate a set of descriptors of a chemical compound and its biological activity with respect to one or more targets in the human body. Datasets manipulated by researchers to QSAR analysis are generally characterized by a small number of instances and this makes it more complex to build accurate predictive models. In this context, transfer learning techniques that take information from other QSAR models to the same biological target would be desirable, reducing the effort and cost for generating new chemical compounds descriptors. This project aims at applying two learning transfer methods, based on instances and on parameters, to build QSAR regression models via Support Vectors (SV). In order to implement the transfer learning
+techniques, a new approach for selecting related chemical datasets, which is based on the integration of different ontologies, will be developed. The regression results obtained by the use of the transfer learning approaches will be compared with those obtained by classical methods regarding the Mean Squared Error (MSE) measure.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Patrícia Rufino Oliveira - Coordenador / HONORIO, KATHIA M. - Integrante.Financiador(es): IBM Research Brazil - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2011 - 2013
+Desenvolvimento e Validação de um Esquema de Análise Exploratória para Dados de Química Medicinal
+Descrição: Pesquisas relevantes na área de Química Medicinal têm direcionado-se para a
+descoberta de novas substâncias químicas bioativas, potenciais candidatas a novos
+medicamentos para doenças consideradas crônicas, como é o caso do diabetes mellitus tipo 2 (DM) e a síndrome metabólica (SM). Entretanto, os dados manipulados
+pelos pesquisadores que atuam nessa área são inerentemente caracterizados pela alta
+dimensionalidade e pelo número cada vez maior de amostras a serem analisadas,
+o que torna complexa a modelagem de fenômenos moleculares que constituem os
+processos bioquímicos subjacentes.
+Dessa forma, para que a modelagem e a simulação desses sistemas complexos
+sejam bem sucedidas, é fundamental combinar-se a memória do computador, para
+cálculo e armazenamento de dados, e a habilidade humana em reconhecer padrões,
+resolvendo-se assim, problemas multivariados. A proposta de pesquisa apresentada
+neste documento compreende uma investigação multidisciplinar cujas principais
+contribuições incluem o aprimoramento e a integração de técnicas de análise exploratória, gerando uma ferramenta computacional capaz de reduzir o tempo de
+análise dos dados obtidos a partir de modelos da química medicinal, caracterizados
+por sua alta dimensionalidade e que possa auxiliar na futura construção de um
+banco de dados que seja referência na área de propriedades biológicas de drogas e
+candidatos a fármacos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Patrícia Rufino Oliveira - Coordenador / Káthia Maria Honório - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.

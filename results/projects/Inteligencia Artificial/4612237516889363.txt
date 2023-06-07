@@ -1,0 +1,6 @@
+2020 - Atual
+Modelagem e Resolução de Problemas de Produção Industrial: Desenvolvimento computacional em softwares livres
+Descrição: Neste projeto de pesquisa, pretende-se identificar quais são as estratégias de melhorias que podem ser implementadas nas indústrias, partindo de exemplos reais de empresas da região e por meio destes estabelecer técnicas matemáticas e estatísticas que possam modelar os problemas identificados.
+Serão abordados problemas que envolvem a programação e controle da qualidade na produção, focando na redução de custos de produção. Após identificados os problemas, serão pesquisados softwares para sua implementação e desenvolvidos algoritmos específicos.
+O trabalho será composto de etapas que vão desde a identificação de demandas existentes nas empresas na área de programação da produção, passando pela modelagem matemática dos problemas, pela escolha de ferramentas computacionais adequadas e pelo desenvolvimento de algoritmos.
+Pretende-se com esta pesquisa gerar publicações que indiquem os softwares e suas rotinas de utilização para a as ferramentas matemáticas/estatísticas estabelecidas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gerson Ulbricht - Coordenador / MOURA, CASSIANO RODRIGUES - Integrante.

@@ -1,0 +1,13 @@
+2013 - 2015
+Detecção automatizada de nódulos em mamografias para auxílio ao diagnóstico de câncer de mama
+Descrição: O projeto tem por objetivos gerais o estudo e implementação de algoritmos computacionais para detecção automatizada de nódulos em imagens mamográficas, para auxílio ao diagnóstico de câncer de mama. Serão avaliadas diferentes técnicas e algoritmos, da área de processamento digital de imagens, para detecção de bordas e segmentação de áreas de interesse. O trabalho será subdividido em três partes distintas, porém correlacionadas, que ao final poderão ter seus resultados comparados: filtros de realce de imagens e detecção de bordas; segmentação por crescimento de regiões; segmentação por transformada Watershed. Espera-se obter resultados de análise e comparação das técnicas e métodos de segmentação automatizada, visando a detecção de nódulos em imagens mamográficas, com o objetivo de contribuir com o desenvolvimento de sistemas de auxílio ao diagnóstico de câncer de mama. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Elinaldo Santos de Góes Júnior - Integrante / Paulo Eduardo Ambrósio - Coordenador / Marianna Novaes Martins - Integrante / César Augusto Neves Reis - Integrante / Jorge Paulo Soares Rocha Filho - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2010 - 2010
+Realidade aumentada no jogo de palavras para crianças no contexto educacional
+Descrição: A Realidade Aumentada é definida como a sobreposição de objetos virtuais 3D, gerados por computador,
+em ambientes reais, por meio de um dispositivo tecnológico. A partir do surgimento da RA foi possível
+estabelecer uma interface de comunicação mais interativa entre o ser humano e a máquina, assim, com
+uma plataforma computacional simples e com o uso de bibliotecas gráficas, se tornou possível a criação
+de aplicações eletrônicas mais interessantes, motivadoras e de fácil usabilidade. Este projeto propõe o
+desenvolvimento de um Jogo de Palavras, fazendo uso das técnicas de RA e da biblioteca gráfica ARToolKit
+2.65, para que, de forma lúdica e descontraída, contribua no processo de alfabetização e na formação
+educacional de crianças.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Elinaldo Santos de Góes Júnior - Coordenador / Vânia Cordeiro da Silva - Integrante.

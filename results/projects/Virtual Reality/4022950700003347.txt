@@ -1,0 +1,86 @@
+2012 - Atual
+LEITURA + NEUROCIÊNCIAS - Melhoria da Compreensão Leitora no Programa Mais Educação: Tempo, Espaço e Atividades Linguístico-Pedagógicas Inovadoras na Educação Integral
+Descrição: O projeto objetiva capacitar e formar professores da rede pública de ensino do RN em uma metodologia inovadora que visa ampliar a competência leitora dos alunos do ensino fundamental. A metodologia de pesquisa envolve a proposição e aplicação de métodos baseados no uso intensivo de metáforas e da forma das letras na melhoria da compreensão leitora e de outros domínios cognitivos. A partir desta premissa pedagógica, serão desenvolvidos e validados diversos componentes de software para apoiar a execução de atividades (i) de leitura e contação de histórias e (ii) morfossintáticas, semânticas e pragmáticas. Estes sistemas de software serão desenvolvidos utilizando técnicas e metodologias de realidade virtual e jogos digitais, voltados para dispositivos móveis. Espera-se que a utilização destes recursos de software proporcionem maior engajamento aluno-atividade-professor. Este projeto está sendo desenvolvido em consonância com o Programa Mais Educação da Secretaria de Educação Básica (SEB).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (2) . Integrantes: Selan Rodrigues dos Santos - Integrante / Sheila Andreoli Balen - Integrante / Joseli Soares Brazorotto - Integrante / Antonio Pereira Junior - Integrante / Angela Maria Chuvas Naschold - Coordenador.Financiador(es): Ministério da Educação - Auxílio
+										financeiro.
+2011 - Atual
+Desenvolvimento de Sistema Computacional para Triagem Auditiva e Avaliação de Processamento Auditivo em Crianças
+Descrição: A presente proposta visa desenvolver um sistema computacional na form de um jogo digital interativo para Triagem Auditiva e análise Processamento Auditivo em crianças escolares. O objetivo é minimizar os eventuais problemas de linguagem e de aprendizagem da leitura e escrita decorrentes destes distúrbios. Além disto, esta proposta tem a intenção de articular os procedimentos de triagem realizados na escola, por professores treinados, com um sistema de gerenciamento realizado pelo Fonoaudiólogo da ESF e/ou do NASF. O intuito é contribuir com todas as etapas de um Programa de Triagem Auditiva que pode ser implementado pelo Sistema Único de Saúde (SUS) no futuro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) . Integrantes: Selan Rodrigues dos Santos - Coordenador / Jauvane Cavalcante Oliveira - Integrante / Sheila Andreoli Balen - Integrante / Joseli Soares Brazorotto - Integrante / Antonio Pereira Junior - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2009 - 2011
+COMPASS - Navegação em Ambientes Virtuais Tridimensionais Assistida por Computador
+Descrição: Desenvolvimento e avaliacao de um novo metodo para auxiliar navegacao em ambientes virtuais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Selan Rodrigues dos Santos - Coordenador / André M. C. Campos - Integrante / Bruno Motta de Carvalho - Integrante / Silvano Malfatti - Integrante / Jauvane Cavalcante Oliveira - Integrante / Lauro Eduardo Kozovits - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2009 - 2010
+Desenvolvimento de Renderização Remota para Clientes com Baixo Poder de Processamento Gráfico
+Descrição: Este projeto busca desenvolver um \emph{serviço de renderização remota} cujo objetivo é permitir que usuários de estações sem poder gráfico expressivo (maioria dos notebooks, bem como computadores de mesa sem placa aceleradora gráfica adequada) e dispositivos de baixo poder de processamento gráfico (como PocketPCs) se tornem capazes de executar aplicações gráficas que exijam hardware específico para atingir bom desempenho.
+O serviço ora proposto possibilita que tais dispositivos (clientes) executem aplicações gráficas, atribuindo o processamento gráfico a um servidor gráfico de alto desempenho, utilizando-se da conectividade do dispositivo. Posteriormente o dispositivo-cliente recebe o resultado da renderização remota,
+apresentando-a ao usuário final. O serviço portanto substitui a necessidade de hardware gráfico específico por uma conexão de rede com servidor remoto que tem capacidade de realizar a tarefa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Selan Rodrigues dos Santos - Coordenador / Jauvane Cavalcante Oliveira - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Bolsa.
+2009 - 2010
+Laboratório de Excelência em Desenvolvimento de Aplicativos para Produção, Edição e Difusão de Conteúdos Audiovisual pela Internet e TV Digital
+Descrição: Propomos o desenvolvimento de um arcabouço de técnicas visando produção, edição e difusão de conteúdos culturais audiovisuais, em formatos dos mais diversos, compatibilizando para que sejam acessíveis pelos mais diversos meios, tais como difusão pela Internet, em TV (Digital), computadores, celulares e outros dispositivos de exibição. Através deste projeto, será possível conectar a produção de conteúdos distintos, sendo produzidos também de forma distinta e remotamente. Como resultado, um conjunto de ferramentas heterogêneas está sendo desenvolvido por uma equipe interdisciplinar, visando integração entre as diversas partes componentes desta proposta.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Selan Rodrigues dos Santos - Integrante / Luiz Marcos Garcia Gonçalves - Coordenador / Ricardo Cordeiro de Farias - Integrante / Tatiana Aires Tavares - Integrante / Aquiles Medeiros Filgueira Burlamaqui - Integrante / Guido Lemos de Souza Filho - Integrante / Eliana Silva de Almeida - Integrante / Alejandro César Frery Orgambide - Integrante / Luiz Eduardo Cunha Leite - Integrante / Josimey Costa da Silva - Integrante / Denio Mariz Timoteo de Souza - Integrante / Ivani Lucia Oliveira de Santana - Integrante / Cláudia Maria Fernandes Araújo Ribeiro - Integrante / Sebastião Emidio Alves Filho - Integrante / Rummenigge Rudson Dantas - Integrante.Financiador(es): Sociedade Amigos da Cinemateca - Auxílio
+										financeiro.
+2009 - Atual
+Instituto Nacional de Ciência e Tecnologia - Instituto Nacional de Ciência e Tecnologia
+Descrição: O projeto, Instituto Nacional de Ciência e Tecnologia - Medicina Assistida por Computação Científica (INCT-MACC, vigência 2009-2013), é fruto da rede de cooperação interinstitucional e tem por objetivo promover P\&D, a formação de recursos humanos e o desenvolvimento de inovações tecnológicas em medicina assistida por computação científica. O objetivo é montar uma rede integrada para padronização de dados médicos, suporte a telemedicina, e oferecimento destes recursos à sociedade através de aplicativos e simuladores em medicina tanto para diagnóstico, tratamento e planejamento cirúrgico como para o treinamento e formação de recursos humanos na área de saúde. Neste projeto faço parte do comitê executivo e sou coordenador da execução do projeto no âmbito do DIMAp/UFRN denominado ``Desenvolvimento de ambientes virtuais colaborativos de realidade virtual e aumentada e telemanipulação na área médica para treinamento, formação de recursos humanos e planejamento cirúrgico''.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Selan Rodrigues dos Santos - Integrante / Raúl A. Feijóo - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2012
+Rede de Cooperação para Análise de Dados e Modelagem Computacional em Bioengenharia Craniofacial
+Descrição: Nas últimas décadas, observou-se um interesse crescente na aplicação de recursos computacionais para auxiliar na solução de complexos problemas em bioengenharia. Em geral, estes problemas demandam um esforço multidisciplinar, com equipes das áreas de engenharia, processamento de imagens, visualização e medicina. Esta característica obriga grupos de pesquisa a se associarem com o intuito de aglutinar competência para tratar convenientemente os problemas em questão.
+No caso específico da bioengenharia craniofacial, existem quatro aspectos fundamentais para o contexto deste projeto: a) Auxílio diagnóstico, b) Geração de modelos digitais para próteses, c) Previsibilidade de resultados, d) Integração de ferramentas computacionais com bancos de dados para facilitar acesso e analise de casos.
+No primeiro item, imagens médicas devem ser analisadas para diagnostico precoce de câncer maligno na região craniofacial [Giraldi-Suri(2) (2006), Giraldi-Thomaz  (2007)]. O segundo item demanda técnicas de segmentação/visualização de imagens e modelagem geométrica [Giraldi-Apolinario (2005)]. O item seguinte necessita de modelos de tecidos biológicos, baseado em técnicas de modelagem computacional, para a simulação de estruturas anatômicas e articulações [Giradi-Feijóo (2006), Ogden (2003)]. Finalmente, o quarto item pode ser implentado via uma plataforma de grade computacional [Giraldi-Porto (2004), Thain (2003)].
+É neste contexto que este projeto se insere. Basicamente, pretendemos criar uma rede de cooperação acadêmica para estimular o desenvolvimento de métodos para análise, classificação e segmentação de imagens médicas, visualização científica e previsibilidade de resultados para a geração de próteses craniofaciais. 
+As ferramentas e os bancos de dados desenvolvidos serão disponibilizados em um ambiente de grade computacional para integração entre dados e softwares. Neste ambiente,  o LNCC, sede da equipe coordenadora, será fornecedor dos recursos computacionais de seu Centr. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Selan Rodrigues dos Santos - Integrante / Jauvane Cavalcante Oliveira - Integrante / Gilson Antonio Giraldi - Coordenador.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2007 - 2009
+Navegação em Ambientes Virtuais Assistida por uma Câmera de Interesse
+Descrição: Várias aplicações de realidade virtual (RV) envolvem a interação com ambientes
+virtuais (AV) tridimensionais nos quais a navegação é uma atividade fundamental.
+A navegação está diretamente relacionada ao controle que o usuário tem sobre
+a câmera (ou observador) virtual e seu posicionamento dentro do AV.
+Estudos mostram que a disponibilização de mecanismos de navegação
+intuitivos e que aproximam a forma natural de interação no mundo real contribuem para
+um melhor grau de imersão e ``credibilidade'' atribuídas à AVs não-imersivos
+(i.e.\ AVs cuja representação visual é exibida apenas através um monitor regular).
+A navegação assistida é um destes mecanismos e pode vir a auxiliar o usuário na tarefa
+de atingir seus objetivos e realizar determinadas tarefas dentro do
+domínio da aplicação do AV, como por exemplo localizar recursos de interesses ou
+determinar rotas de navegação entre lugares de interesse.
+Este projeto propõem o estudo e o desenvolvimento de um mecanismo
+de navegação assistida denominado de \emph{Câmera de Interesse}, cujo
+objetivo é direcionar o usuário aos pontos de interesses, determinados
+por um conjunto de regras previamente estabelecidas pelo usuário e/ou
+aplicação.
+Para tanto, pretende-se seguir o modelo de \emph{framework cinematográfico},
+o qual organiza a Câmera de Interesse em três módulos seqüenciais,
+cuja função se assemelha àquela encontrada na Cinematografia:
+módulo roteirista -- identifica o que está ocorrendo na cena;
+módulo diretor/editor -- define as regras para identificar as melhores
+tomadas na cena), e;
+módulo cinegrafista -- posiciona a câmera dentro do
+ambiente de acordo com as informações dos outros dois módulos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Selan Rodrigues dos Santos - Coordenador.Financiador(es): Fundação de Apoio à Pesquisa do Estado do Rio Grande do Norte - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2006 - 2008
+Ambiente Virtual Colaborativo para Visualização de Dados
+Descrição: A Visualização de Dados e a Realidade Virtual podem ser utilizadas
+conjuntamente como ferramentas para facilitar a compreensão do crescente
+volume de dados complexos (multivariados e multidimensionais) e 
+processos encontrados em áreas como Astronomia, Meteorologia, Biologia, 
+Estatística, etc.
+Acredita-se que os elementos sensoriais de um ambiente 
+virtual -- tais como tato, força e imersão -- bem como o alto grau 
+de interação inerente a um ambiente virtual, podem ser explorados de 
+forma a `ampliar' o poder de cognição de uma visualização.
+O principal objetivo seria facilitar a obtenção de 
+\emph{insight} sobre os dados e/ou processos em estudo.
+Desta forma, o presente trabalho propõem-se a investigar de que maneira
+os elementos sensoriais acima mencionados podem ser incorporados a metáforas 
+virtuais (como glifos ou mesmo objetos do cotidiano) de forma
+que os atributos de dados multivariados e/ou multidimensionais possam 
+ser mapeados, interativamente, para os atributos de tais 
+metáforas virtuais.
+Essa tarefa -- criação de metaforas virtuais e sua posterior 
+associação aos dados --  seria realizada de forma 
+colaborativa, em um ambiente virtual compartilhado denominado 
+\textbf{AViDo} (Ambiente Virtual Colaborativo para
+Visualização de Dados).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Selan Rodrigues dos Santos - Coordenador / Jauvane Cavalcante Oliveira - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Auxílio
+										financeiro.Número de produções C, T & A: 1

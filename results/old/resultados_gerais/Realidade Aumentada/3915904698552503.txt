@@ -1,0 +1,9 @@
+2017 - 2018
+Identificação, em tempo real, de armas de fogo com Drone.
+Descrição: Construção de um Drone autônomo com uso do Arduino para identificação de armas de fogo, utilizando Deep Learning.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Rafael Rangel Szillat - Integrante / Eduardo Telmo Fonseca Santos - Coordenador.
+2016 - 2017
+Otimização do Fluxo de Potência com Aplicação das Redes Neurais Artificiais
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Rangel Szillat - Integrante / Alessandra Freitas Picanço - Coordenador.
+2014 - 2016
+Utilizando o Framework FLATOORKIT para Criar Métodos e Objetos de Aprendizado para Aluno Surdo Usuário da Língua de Sinais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rafael Rangel Szillat - Integrante / Luiz Machado - Coordenador / Matheus Faranni - Integrante / Rodrigo Magno - Integrante / Marcelo Diniz - Integrante.

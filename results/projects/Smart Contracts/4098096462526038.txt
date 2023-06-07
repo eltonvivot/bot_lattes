@@ -1,0 +1,76 @@
+2023 - Atual
+Liquidity management and the early liquidation of derivatives
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Felipe Schiozer - Coordenador / Nicoletta Marinelli - Integrante / Håkan Jankensgård - Integrante / Emanuele Bajo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2022 - Atual
+Essays on banking relationship and implicit subsidy effects
+Descrição: O projeto possui duas frentes com relevâncias especificas. A primeira frente do projeto, cujo foco é o Brasil, estudará como a oferta de crédito pelos bancos é afetada pelo relacionamento concomitante do banco com empresas e seus pares comerciais. Estudaremos como informações sobre a deterioração de crédito de uma firma afetam a oferta de empréstimos às demais ao longo da cadeia de suprimentos. A segunda etapa desta pesquisa, cujo foco é internacional, estudaremos se as novas resoluções bancárias reduzem o subsídio implícito às grandes instituições financeiras e se esse subsídio afeta a oferta de crédito para as empresas. Espera-se que a pesquisa faça duas contribuições principais no desenvolvimento científico. Primeiro, relacionada à pesquisa de economia financeira que trata dos efeitos da expectativa de que os governos irão salvar o sistema financeiros em momentos de crise (ver Gandhi, Lustig, & Plazzi (2020)) e a mudança na expectativa de resgate financeiro devido a resoluções bancárias (ver Acharya, Anginer, & Warburton (2016) e Schäfer, Schnabel & Weder (2017)). Aa pesquisa expandirá a análise para uma perspectiva global e utilizará as novas resoluções bancárias do G20. Em segundo lugar, cobrirá a relação entre as garantias implícitas e o acesso ao crédito por parte das empresas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Rafael Felipe Schiozer - Coordenador / Theo Cotrim Martins - Integrante / Lucas Nogueira Cabral Vasconcellos - Integrante / Igor Cunha - Integrante / Murillo Campello - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2021 - Atual
+Effects of Large Banks' Implicit Subsidies on Firms' Access to Credit
+Descrição: This project aims to test if international banks' resolutions reforms reduce the implicit government subsidy to large financial institutions and if this subsidy is related to the lending supply to firms, especially those companies highly dependent on external finance. To do it, I will use regulatory, accounting, and market data from the G20 jurisdictions and apply a portfolios methodology and an instrumental variable strategy to estimate the causal effect. It is expected that the resolutions will reduce the implicit government guarantees and it will impose a (temporary) decrease on credit supply to firms.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Lucas Nogueira Cabral Vasconcellos - Integrante / Emanuela Giacomini - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2021 - Atual
+Do investors price tax avoidance practices? Analysis of synchronicity of shares prices and the TCJA Act
+Descrição: This research project aims to verify whether tax avoidance practices reduce investors' ability to incorporate existing information onto stock prices. For this purpose, the synchronicity between the companies' stock prices and the proxies of such practices will be analyzed. The sample of this study will consist of publicly traded companies in the United States from 2000 to 2020. Data will be collected from the Compustat, CRSP and Bureau of Economic Analysis (BEA) databases. The empirical strategy explores the "Tax Cuts and Jobs Act" (TCJA) in the year 2017, a law that reduced the corporate tax rate from 35% to 21% in the U.S. My argument is that the TCJA is an exogenous event that reduces the incentive of companies to adopt tax evasion practices (in fact, there are studies indicating a reduction in evasion after the TCJA). Thus, the main hypothesis is that the synchronicity of stock prices of companies that practiced tax avoidance increases after the implementation of the TCJA. The use of Diff-in-Diff regressions will enable me to infer the causal effect of the practice of tax avoidance on synchronicity. This research contributes to expand the frontier of knowledge in several ways. First, it will contribute to the literature on stock price efficiency by identifying whether there is a relation between stock price synchronicity and tax avoidance practices. This research also has important practical implications for regulators and legislators, including those in Brazil, because since 2008 the PEC 233/2008, which proposes a tax reform, has been discussed in congress. This tax reform proposal argues that a reform in the Brazilian tax system can increase its efficiency by reducing its complexity and the tax burden. A complex tax system provides more conditions for the practice of tax avoidance. Thus, when analyzing the effects of the tax reform in the United States, it is possible to obtain results that can be applied to other economies, including Brazil. In this way, this study can be a reference for legislators in Brazil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rafael Felipe Schiozer - Coordenador / Rogiene Batista dos Santos - Integrante.
+2021 - Atual
+Hedging maturity and firm performance
+Descrição: We investigate whether firms' hedging maturity choice are matched to the firms' investment and debt maturities. We use a sample of ober 300 US oil firms, for which we have detailed data on derivatives holdings.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rafael Felipe Schiozer - Coordenador / Nicoletta Marinelli - Integrante / Håkan Jankensgård - Integrante.Financiador(es): Universita Degli Studi Di Macerata - Bolsa.
+2021 - Atual
+Lending relationships across the supply chain
+Descrição: We investigate whether banks extract information from lending to several firms along the same supply chain. We use two unique databases. The first contains detailed data on money transfers allowing us to identify the suppliers and customers of each firm, which we match to credit bureau data (our second database) containing quarterly bank-to-firm lending information.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Theo Cotrim Martins - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2020 - 2022
+Papel dos covenants nas decisões de financiamento e velocidade de ajuste da estrutura de capital de companhias abertas brasileiras
+Descrição: A pesquisa se insere na literatura de estrutura de capital e está fundamentada na teoria de trade-off. O projeto tem por objetivo principal examinar de que forma a presença de cláusulas restritivas em contratos de dívida afetam as decisões de financiamento de companhias abertas brasileiras, bem como a velocidade de ajuste ao nível alvo da estrutura de capital destas companhias. Considera-se relevante esta discussão, dada a ampla utilização de covenants pelos credores nos contratos de dívida, o que acaba por influenciar diretamente as decisões financeiras tomadas pelos gestores dadas as penalidades previstas frente à quebra de tais cláusulas... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Integrante / Tatiana Albanez - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2018 - Atual
+Does court efficiency affect bank loan forbearance?
+Descrição: Esse projeto investiga se a velocidade na autorização para recuperação de ativos dados em garantia nos empréstimos afeta a decisão dos bancos de renegociar seus empréstimos ou executar as garantias.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Frederico Abou Mourad - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2018 - Atual
+Lending relationship and firm's cost of hedging
+Descrição: Essa pesquisa dá continuidade à pesquisa anterior que investigava se o relacionamento entre firmas e bancos afeta o custo do hedge cambial das firmas. Neste projeto, adicionamos uma estratégia de identificação proporcionada por um choque exógeno no mercado de derivativos, a saber o IOF sobre derivativos cambiais instituído pelo governo brasileiro em 2008.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Raquel - Integrante / Sérgio Leão - Integrante / Gustavo Silva Araujo - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2016 - 2019
+Relacionamento bancário e custos de hedging
+Descrição: Essa pesquisa investiga se o relacionamento entre firmas e bancos afeta o custo do hedge cambial das firmas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Felipe Schiozer - Coordenador / Raquel - Integrante / Sérgio Leão - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2015 - 2016
+Importância sistêmica de bancos
+Descrição: O projeto pretende obter um modelo dinâmico de mensuração de importância sistêmica de bancos latinoamericanos.. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Oliviero Roggi - Integrante / Carlo Pellegrini - Integrante.
+2013 - 2016
+The transmission of liquidity shocks to bank loans
+Descrição: Projeto de pesquisa de pós-doutorado na Wharton School of Business.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Felipe Schiozer - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2013 - 2015
+State provided guarantees and competitiveness in the financial sector
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Rafael Felipe Schiozer - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+2012 - 2014
+Cessão de crédito e restrição de capital
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Fernanda Vieira  Fernandes Ribeiro - Integrante.Financiador(es): GV Pesquisa - Remuneração.Número de produções C, T & A: 2
+2011 - 2015
+Dividendos bancários no Brasil
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Cristiano Forti - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2011 - 2014
+Perfil do crédito no Brasil
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rafael Felipe Schiozer - Coordenador / Fernanda Vieira  Fernandes Ribeiro - Integrante.Financiador(es): GV Pesquisa - Remuneração.Número de produções C, T & A: 1
+2011 - 2014
+Comportamento dos depositantes e o efeito
+Descrição: Projeto de pesquisa iniciado no Brasil e concluído na University of Pennsylvania. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Integrante / Raquel - Integrante / Lucas Ayres Barreira de Campos Barros - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.Número de produções C, T & A: 1
+2009 - 2010
+A Onda de IPO de bancos brasileiros
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rafael Felipe Schiozer - Coordenador / Richard Saito - Integrante / Raquel - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2008 - 2010
+situação Financeira dos planos de saúde brasileiros
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Rafael Felipe Schiozer - Integrante / Cris - Integrante / Richard - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2004 - 2006
+Gestão de risco em empresas latinoamericanas
+Projeto certificado pelo(a) coordenador(a) Richard Saito em 15/08/2012.
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Integrante / Richard Saito - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2001 - 2001
+Exploração sustentável do aquífero Guarani
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Coordenador / Ricardo Furtado - Integrante / Saul Barisnik Suslick - Integrante / Hung Kiang Chang - Integrante.Financiador(es): Organizacao dos Estados Americanos - Auxílio
+										financeiro.
+2000 - 2001
+regimes tributários do setor de Óleo e Gás: uma comparação internacional
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (1) . Integrantes: Rafael Felipe Schiozer - Integrante / Ricardo Furtado - Integrante / Saul Barisnik Suslick - Coordenador / Luciano Galvão Coutinho - Integrante.Financiador(es): Agência Nacional do Petróleo - Auxílio
+										financeiro.

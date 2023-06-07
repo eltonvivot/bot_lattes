@@ -1,0 +1,98 @@
+2022 - Atual
+Investigando a Natureza de Transientes Multi- mensageiros com Observações Multibanda Coordenadas
+Descrição: O objetivo deste projeto é integrar as instalações astronômicas em óptico, rádio, raios-X e raios-gama já existentes nos BRICS para realizar o acompanhamento e monitoramento coordenado de eventos transientes e multimensageiros (MM) ? tais como os associados a neutrinos, raios cósmicos e ondas gravitacionais (GW) ? a fim de estudar as propriedades de objetos astrofísicos variáveis e explosivos. Além dos sinais MM, o caso científico para o projeto se concentrará na observação de Fast Radio Bursts (FRBs), Gamma-ray Bursts (GRBs), Active Galactic Nuclei (AGN) e sistemas de binárias estelares em interação. Em particular, o projeto visa utilizar esta rede observacional global multi-banda espalhada pelos BRICS para apoiar o próximo run O4 dos observatórios LIGO-VIRGO-KAGRA (LVK) de ondas gravitacionais.
+Os objetivos científicos do projeto serão alcançados pelo planejamento e condução de campanhas multibanda coordenadas envolvendo as instalações e cientistas participantes nos cinco países dos BRICS, por meio do estabelecimento de uma rede de cooperação para programas observacionais conjuntos. Essa rede de observatórios dos BRICS será única no sentido de que cobrirá todo o espectro eletromagnético (EM), bem como uma faixa global de latitudes e longitudes, fornecendo assim uma cobertura espaço-temporal completa do céu, para acompanhamento e monitoramento de fontes variáveis. Do lado brasileiro, vários observatórios serão integrados nesta rede de infraestrutura dos BRICS, como o Observatório Pico dos Dias (OPD/LNA), o Radio-Observatório Pierre Kaufmann (ROPK), o futuro Radiotelescópio LLAMA e o SOAR/LNA. O observatório de raios- gama MAGIC, do qual o Coordenador deste projeto é membro, também será envolvido no projeto pelo lado brasileiro.
+A operação coordenada da rede e a integração de big data dos produtos observacionais serão feitas no nível de software usando protocolos do Observatório Virtual (VO) e ferramentas de machine learning (ML) para otimização. O Consórcio BRICS criado por meio deste projeto envolverá equipes de várias instituições e instalações astronômicas com uma vasta experiência em astronomia observacional. O projeto terá grande impacto na formação de alunos e treinamento de pessoas, especialmente em ferramentas de ciências de dados e computação de alto desempenho (HPC). Também gerará oportunidades para jovens cientistas participarem de projetos internacionais impactantes e colaborativos junto aos parceiros BRICS.  
+Coordenador Russia: Alexei Pozanenko, IKI/RAS
+Coordenador India: Kuntal Misra, ARIES/DST (P.I. Joint Application Form)
+Coordenador China: Roberto Soria, UCAS
+Coordenador África do Sul: David Buckley, SAAO/UCT (P.I. BRICS Flagship Project). Situação: Em andamento; Natureza: Pesquisa. Integrantes: Wagner José Corradi Barbosa - Coordenador / Reis, Wilson - Integrante / Bruno Vaz Castilho de Souza - Integrante / DOMINICI, TANIA P. - Integrante / Ulisses Barres de Almeida - Integrante / Claudia Vilega Rodrigues - Integrante / Zulema Abraham - Integrante / Odylio D Aguiar - Integrante / Nelio Sasaki - Integrante / Alexei Pozanenko - Integrante / Kuntal Misra - Integrante / Roberto Soria - Integrante / David Buckley - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2021 - Atual
+Apoio ao desenvolvimento de equipamentos multiusuários para a astronomia brasileira
+Descrição: Fapemig Demanda Universal 0001/2021 (APQ-02423-21)
+Apoio ao desenvolvimento de equipamentos multiusuários para a astronomia brasileira
+Vigência: 17/09/2021 - 17/09/2024
+R$ 75.496,00
+Função: Comissionamento dos espectrógrafos STELES, ECHARPE e do polarímetro SPARC4.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Wagner José Corradi Barbosa - Integrante / Bruno Vaz de Castilho - Integrante / GNEIDING, CLEMENS D. - Integrante / Luciano Fraga - Coordenador / Eder Martioli - Integrante / Jesulino Bispo dos Santos - Integrante / ALBERTO RODRIGUEZ ARDILA - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2021 - Atual
+Conduzindo a astronomia brasileira ao patamar de excelência mundial: desenvolvimento de equipamentos multiusuários
+Descrição: Chamada CNPq/MCTI/FNDCT No 18/2021 - Faixa B - Grupos Consolidados (Universal 2021)
+Conduzindo a astronomia brasileira ao patamar de excelência mundial: desenvolvimento de equipamentos multiusuários
+Vigência: 03/12/2021 - 03/dez/2024
+R$ 270.245,00
+Função: Comissionamento dos espectrógrafos STELES, ECHARPE e do polarímetro SPARC4, orientador de um dos estudantes de IC e gestão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Wagner José Corradi Barbosa - Integrante / Bruno Vaz de Castilho - Integrante / GNEIDING, CLEMENS D. - Integrante / Luciano Fraga - Integrante / Eder Martioli - Integrante / Jesulino Bispo dos Santos - Integrante / ALBERTO RODRIGUEZ ARDILA - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - Atual
+Bolhas Interestelares e Objetos Estelares Jovens
+Descrição: Na direção da associação Scorpio-Centaurus, foi proposta a existência de uma interface entre duas bolhas interestelares: uma na qual estaríamos embebidos (Bolha Local) e sua vizinha (Bolha Loop I). Segundo os dados de raios-X e de HI haveria uma região anular densa envolvendo a interface. Recentemente mostramos que as estruturas que compõem a suposta interface estão localizadas a distâncias muito diferentes, e com orientação do campo magnético incompatível com o modelo vigente há quase duas décadas. Esse resultado nos levou a estudar a região vizinha, onde se encontra a Superbolha Órion-Eridanus (SO-E). Na direção da SO-E, há ndicações que a distância e o relacionamento físico das regiões que comporiam o contorno da superbolha são também discrepantes. Para corrobar tais resultados propomos investigar o avermelhamento interestelar e o campo magnético na direção da SO-E, visando definir com maior cobertura espacial a distância das diferentes partes da suposta interface. Nos anos 90 foi realizada no Brasil uma campanha observacional para a procura de objetos estelares jovens no Hemisfério Sul, conhecida como Pico dos Dias Survey. Muitas novas estrelas T Tauri foram identificadas juntamente com mais de 100 novas candidatas a estrelas Ae/Be de Herbig (HAeBe). Em 2003, nossa análise da natureza dessas estrelas HAeBe resultou no maior catálogo de objetos de massa intermediária do Hemisfério Sul. Esse catálogo nos oferece uma oportunidade única e estatisticamente significante de melhorar o conhecimento sobre a natureza das HAeBe. Assim sendo, pretendemos: 1. analisar as séries temporais de dados espectroscópicos coletados no ESO para entender o processo de acreção de matéria e as pulsações; 2. investigar a deficiênciia de bandas interestelares difusas no ambiente circunstelar; 3. aumentar a base de dados de aglomerados abertos jovens com parâmetros físicos bem determinados, utilizando nosso método de descontaminação de Diagramas Cor-Magnitude, para buscar novas HAeBe.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Fabio Pereira Santos - Integrante / Cristiane de Oliveira Costa - Integrante / Reis, Wilson - Integrante / Francisco Ferreira de Souza Maia - Integrante / Mateus de Souza Angelo - Integrante / Filipe Andrade Ferreira - Integrante / leandra de souza resende - Integrante / igor yuri rocha ribeiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 7 / Número de orientações: 1
+2010 - Atual
+Estudos em Educação a Distância
+Descrição: Esta linha de pesquisa tem como objetivo analisar os processos da EaD: repercussões, processos avaliativos, trabalho docente e relações interpesoais, assim como fortalecer as pesquisas teóricas sobre essa modalidade de ensino.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Rodrigo Dias Társia - Integrante / Silvia Helena Paixão Alencar - Integrante / Carlos Basilio Pinheiro - Integrante / Reinaldo Oliveira Vianna - Integrante / FERNANDO SELMAR ROCHA FIDALGO - Integrante / PRISCILA REZENDE MOREIRA - Integrante / MARCELA ROSA DE LIMA MACHADO - Integrante / Fernanda Araújo Coutinho Campos - Integrante / Filipe Andrade Ferreira - Integrante / Sarah Faria Fernandes - Integrante / Eucidio Pimenta Arruda - Integrante / Raquel Quirino - Integrante / CRISTINA GONCALVES FERREIRA DE S DUTRA - Integrante / Cristina Alves Menezes Rocha - Integrante / rosilene oliveira de carvalho - Integrante / MARIA DAS GRAÇAS MOREIRA - Integrante / DESIRÉE ANTONIO - Integrante / ana carolina correia almeida - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.Número de produções C, T & A: 78
+2009 - Atual
+Desenvolvimento do Espectrógrafo ECHARPE
+Descrição: Construção do espectrógrafo ECHARPE, instrumento de alta resolução que será instalado no OPD e disponibilizado para a comunidade astronômica brasileira.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Wagner José Corradi Barbosa - Coordenador / Germano Quast - Integrante / Gustavo Porto de Mello - Integrante / Jorge Meléndez Moreno - Integrante / Tania Dominici - Integrante / Bruno Castilho - Integrante / Gabriel Franco - Integrante / José Dias do Nascimento - Integrante.
+2009 - Atual
+Aglomerados de Estrelas como Base para o Estudo de Populações Estelares
+Descrição: Análise de aglomerados da Via Láctea e Nuvens de Magalhães a partir de observações fotométricas e espectroscópicas para a determinação de seus parâmetros astrofísicos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Wagner José Corradi Barbosa - Coordenador / João Francisco Coelho dos Santos Júnior - Integrante / André Lages - Integrante / Andrés Piatti - Integrante / Charles Bonatto - Integrante / Eduardo Bica - Integrante.
+2008 - 2012
+Spectroscopy of the galaxy VGC4703 B and associated bridge
+Descrição: As observações, obbtidas com o telescópio GEMINI SUL, de 8m de abertura, começaral a ser analisadas. A redução dos dados está em andamento. O trabalho é uma conseguência da dissertação de mestrado de David Balparda de Carvalho, realizada sob orientação do Prof. Domingos Lima.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wagner José Corradi Barbosa - Integrante / Domingos Sávio de Lima Soares - Coordenador / David Balparda de Carbalho - Integrante.
+2008 - 2011
+Meio Interestelar Local e Estrelas Ae/Be de Herbig
+Descrição: Projeto APQ-00154-08
+R$ 25.970,08
+Fapemig. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (3) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Cristiane de Oliveira Costa - Integrante / Maia, F. F. S. - Integrante / Santos, Fábio P. - Integrante / Reis, Wilson - Integrante / Tiago A. Jota - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 10
+2007 - 2008
+Atlas de variabilidades de estrelas T Tauri clássicas
+Descrição: Foi continuada a redução dos fotométricos como programa de iniciação científica de 2 estudantes. Os resultados preliminares do trabalho foram apresentados na reunião anual da Sociedade Astronômica Brasileira.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (2) . Integrantes: Wagner José Corradi Barbosa - Coordenador / BRENO DE MATOS BARBOSA SALES - Integrante / Silvia Helena Paixão Alencar - Integrante / Pauline Telles Mcginnis - Integrante.
+2007 - Atual
+Acréscimo e Perda de Massa em Estrelas T Tauri Clássicas
+Descrição: projeto de estudo da variabilidade fotométrica e espectroscópica de estrelas T Tau, com objetivo
+de construir um atlas de variabilidade
+Fapemig CEx 1148  -  R$ 17.000,00. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Wagner José Corradi Barbosa - Integrante / Silvia Helena Paixão Alencar - Coordenador / Gabriel Almeida - Integrante / Breno M. S. Teixeira - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 2
+2006 - 2011
+Estudo do aglomerado de estrelas Jovens NGC2264 com o Satélite COROT
+Descrição: Analisar a variabilidade de estrelas jovens em várias escalar de tempo e suas estruturas circunstelares com dados do satélite europeu/brasileiro COROT. Foi feito o planejamento das observações do aglomerado jovem NGC2264 a serem realizadas pelo satélite. Situação: Concluído; Natureza: Pesquisa. Integrantes: Wagner José Corradi Barbosa - Coordenador / Silvia Helena Paixão Alencar - Integrante / Marcelo Medeiros Guimarães - Integrante / Fabio Favata - Integrante.
+2005 - 2007
+Meio Interestelar Local e Formação de Estrelas Ae/Be de Herbig (2004-2007)
+Descrição: Meio Interestelar e Formação de Estrelas Jovens
+Valor:  R$ 30.000,00
+Fapemig. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Sérgio Luiz Araújo Vieira - Integrante / Silvia Helena Paixão Alencar - Integrante / Saulo Milani Pereira - Integrante / Fabio Pereira Santos - Integrante / Wilson Reis Júnior - Integrante / Francisco Ferreira de Souza Maia - Integrante / Cristiane de Oliveira Costa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.Número de produções C, T & A: 19
+2004 - 2005
+Meio Interestelar Local e Formação Estelar na Direção da Associação Scorpio-Centaurus
+Descrição: Processo Fapemig EDT 1883/03 e Fundep 6505 
+Valor R$ 13.000,00. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Sérgio Luiz Araújo Vieira - Integrante / Silvia Helena Paixão Alencar - Integrante / Luiz Themýstokliz Sanctos Mendes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.Número de produções C, T & A: 10
+2003 - 2005
+Colaborador: Condições Dinâmicas e Estruturais do Sistema Solar
+Descrição: Estudo das evidências estruturais do sistema solar e existência de uma constante fundamental; análise teórica do
+significado das transformações de escala e analogia com outros sistemas planetários. Situação: Desativado; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner José Corradi Barbosa - Integrante / Ramon Quiroga - Coordenador.Financiador(es): Universidade Federal de Minas Gerais - Outra.
+2003 - 2005
+Meio Interestelar Local e Formação de Estrelas Ae/Be de Herbig
+Descrição: Estudo do Meio Interestelar na direção da Associação Sco-Cen, Bolhas Local e Loop I ; técnicas: fotometria, espectroscopia e polarimetria
+Formação de Estrelas Ae/Be de Herbig: nascimento de modo isolado e em aglomerados abertos, distância das regiões de formação estelar,
+existência de bandas interestelares difusas, fenômenos de acresção.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Sérgio Luiz Araújo Vieira - Integrante / Marcelo Medeiros Guimarães - Integrante / Daniel Ângelo Avelino - Integrante / Nivea Renata Alencar de Freitas - Integrante / Julio Cesar Siqueira Rocha - Integrante / Saulo Milani Pereira - Integrante / Geraldo de Almeida Lima Neto - Integrante.Financiador(es): Pró Reitoria de Graduação - Auxílio
+										financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 3
+2002 - 2003
+Coordenador: Propriedades Físicas do Meio Interestelar Local na Direção da Sco-Cen
+Descrição: Meio Interestelar Local: Interface das bolhas Local e Loop I; polarimetria
+Estrelas Ae/Be de Herbig: fenômenos de acresção, distância das regiões de formação estelar, DIBS, aglomerados abertos jovens.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Sérgio Luiz Araújo Vieira - Integrante / Marcelo Medeiros Guimarães - Integrante / Daniel Ângelo Avelino - Integrante / Julio Cesar Siqueira Rocha - Integrante.Financiador(es): Fundação de Desenvolvimento da Pesquisa - Auxílio
+										financeiro.Número de produções C, T & A: 8
+2001 - 2003
+Coordenador do projeto Propriedades Físicas do Meio Interestelar Local na direção da Associação de Estrelas OB Scorpio-Centaurus
+Descrição: Estudo da zona de interação entre as bolhas Local e Loop I
+Busca de Estrelas Ae/Be de Herbig em Aglomerados Jovens
+Polarimetria de Estrelas na direção das nuvens escuras na direção da Sco-Cen
+Acompanhamento Espectroscópico das 131 novas estrelas Ae/Be de Herbig do PDS
+Valor: R$ 10000,00  - via Edital Universal 2001.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner José Corradi Barbosa - Coordenador / João Francisco Coelho dos Santos Jr - Integrante / Sérgio Luiz Araújo Vieira - Integrante / Silvia Helena Paixão Alencar - Integrante / Marcelo Medeiros Guimarães - Integrante / Luiz Themýstokliz Sanctos Mendes - Integrante / Ricardo de Aguilar Lopes Chácara - Integrante / Daniel Ângelo Avelino - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 18
+1998 - 2001
+Física do Meio Interestelar e Formação Estelar (2001)
+Descrição: propriedades físicas do meio interestelar local na direção da associação Sco-Cen. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Wagner José Corradi Barbosa - Coordenador / Sérgio Luiz Araújo Vieira - Integrante / Marcelo Medeiros Guimarães - Integrante / Carolina Conceição Costa - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 14

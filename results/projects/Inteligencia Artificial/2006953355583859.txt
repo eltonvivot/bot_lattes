@@ -1,0 +1,33 @@
+2013 - 2015
+Dimensionamento do Concreto Armado por Redes Neurais
+Descrição: Determinação da taxa de armadura em elementos de concreto armado devido aos esforços de flexão. Utiliza-se uma rede neural com técnica "backpropagation" e treinada com métodos de cálculo adimensionais. Com aplicação em elementos de vigas e lajes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Fernando Moretti - Coordenador / Jorge Luís Akasaki - Integrante / José Luiz Pinheiro Melges - Integrante / Izadora Cristina Batista - Integrante.
+2011 - 2012
+Esforços Desenvolvidos nas Fundações de um Edifício Alto ? Interação Solo-Estrutura ? Modelagem Numérica
+Descrição: Análise estrutural tridimensional de um edifício, utilizando-se a técnica de subestruturação, onde o comportamento da estrutura de fundação interage com o comportamento da estrutura do edifício. É detectado a rigidez da estrutura de fundação e introduzida como uma subestrutura na análise do edifício pelo método do deslocamento, numa análise linear.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Coordenador / Adriano Souza - Integrante.
+2010 - 2011
+Determinação do Módulo de Elasticidade do Concreto por Redes Neurais Artificiais
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: José Fernando Moretti - Coordenador / Arthur Bucciarelli Adreeta - Integrante.Número de orientações: 1
+2010 - 2011
+Determinação dos Esforços em Lajes Isoladas Maciças de Concreto utilizando-se de Redes Neurais
+Descrição: Utilização de redes neurais para a determinação dos esforços em lajes de concreto armado isoladas. Rede neural treinada utilizando o método de Kalmanok.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: José Fernando Moretti - Coordenador / Jorge Luís Akasaki - Integrante / José Luiz Pinheiro Melges - Integrante / William Conte - Integrante / Izadora Cristina Batista - Integrante / Pedro Henrique Martinez - Integrante.Número de orientações: 1
+2008 - 2010
+?Desenvolvimento de um sistema inteligente baseado em redes neurais e lógica Fuzzy para dosagem de concreto?.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Coordenador / Carlos Roberto Minussi - Integrante.
+2005 - 2007
+Estudo Para Aplicação da Condensação Estática no Elemento Finito Quadrilateral Quadrático de Nove Nós
+Descrição: Num Elemento Finito quadrático com nove nós e cinco graus de liberdade por nó é aplicado a técnica da condensação estática nesse elemento, possibilitando a utilização de apenas quatro nós (extremos) na resolução do sistema de equações.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Integrante / Amarildo Tabone Paschoalini - Coordenador.
+2003 - 2004
+Um Estudo Sobre a Interação Solo-Estrutura em Edifícios com Fundação Profunda
+Descrição: Visa o comportamento do edifício quando este interage com a estrutura de fundação. A estrutura de fundação é modelada atraves de suas rigidezes pelo método AOKI-LOPEZ e inserida, como uma subestrutura, ao modelo de análise do edifício. É realizado um processo iterativo de cálculo até a estabilização aceitável das deformações da estrutura de fundação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Coordenador / Adriano Souza - Integrante.
+2002 - 2002
+Distribuição dos Esforços em Estruturas de Edifícios Altos Considerando a Contribuição da Rigidez à Flexão das Lajes
+Descrição: Considerar a participação mais efetiva das lajes na interação dos esforços e deslocamentos globais com os demais elementos do edifício. Visa melhorar o modelo que estuda o comportamento real dessas estruturas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Coordenador / Helena Maria C. Carmo Antunes - Integrante.
+1998 - 2001
+Pré-Processador Gráfico para Estruturas de Edifícios Altos
+Descrição: Pré processador gráfico, idealizado na linguagem AutoLisp, e que se utiliza do programa AutoCad para gerar subestruturas que irão compor um edifício alto. Possibilita a geração de malhas para elementos finitos e organiza a estrutura geral para que seja analisada em partes, ou subestruturas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Coordenador / Helena Maria C. Carmo Antunes - Integrante.
+1995 - 1998
+Análise Estrutural Utilizando Vários Níveis de Subestruturação
+Descrição: Utiliza-se a técnica das subestruturas para análise de edificações que contenham diversos tipos de elementos estruturais, como pórticos, treliças e elementos finitos. Tais elementos são analisados individualmente como subestruturas inseridas na estrutura global.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Coordenador / Helena Maria C. Carmo Antunes - Integrante.
+1989 - 1992
+Sistema Integrado para Projeto e Dimensionamento de Pavimentos de Edifícios Altos em Concreto Armado
+Descrição: Cálculo e dimensionamento do pavimento tipo de um edifício alto. O pavimento é analisado como uma grelha, recebendo as ações das lajes, que foram analisadas previamente pelo mesmo programa. Em seguida realiza-se o dimensionamento dos elementos estruturais que o compõe.. Situação: Concluído; Natureza: Pesquisa. Integrantes: José Fernando Moretti - Coordenador.Número de produções C, T & A: 1

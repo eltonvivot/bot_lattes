@@ -1,0 +1,91 @@
+2022 - Atual
+Universal CNPq 2021: Metaheurísticas Populacionais Multiobjetivo: Teoria e Prática
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Elizabeth Fialho Wanner - Coordenador.
+2021 - Atual
+Women in science - gender equality partnerships
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Elizabeth Fialho Wanner - Coordenador / Hannah Bartllet - Integrante / Breno Nunes - Integrante / Mônica Pereira - Integrante.Financiador(es): British Council - Outra.
+2019 - 2020
+Aston Arcus FM
+Descrição: Projeto P&D entre uma universidade inglesa e uma empresa inglesa. 
+Knowledge Transfer Partnership between Aston University and Arcus FM Holding.
+Arcus Solutions Holdings Limited (ASHL), incorporated in 2010, operates as a holding firm whose subsidiaries are engaged
+in the provision of facilities management (FM), cleaning, mechanical, electrical, refrigeration, building work and other related
+maintenance activities.
+Arcus works primarily in the retail sector across the whole of the UK and Ireland. The workers are either location specific
+(e.g. cleaners) or mobile (600 engineers & 200 technicians). The biggest customer is Sainsbury?s Supermarkets Ltd and
+other high-profile customers include Argos, COOP, Lloyds Pharmacy and Capita. The group has recently diversified into
+other FM areas by recently signing a new deal with Central Bedfordshire Council, its first government contract. (Total Budget 436 052,00 pounds). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Elizabeth Fialho Wanner - Integrante / EKÁRT, ANIKÓ - Integrante / Randa Herzallah - Coordenador.
+2019 - 2020
+Aston Smart Apprentices
+Descrição: Projeto P&D entre uma universidade inglesa e uma empresa inglesa
+KTP between Aston University and Smart Apprentices
+Smart Apprentices Ltd (SAL) provides innovative software solutions to support delivery of apprenticeship schemes, delivered as a software as a service (SaaS) business model. Its software platforms cover all aspects of apprenticeships e.g. recruiting levy employers & apprentices, Virtual Learning Environments, Compliance tools and End Point assessments. SAL's clients are approved UK apprenticeship providers e.g. FE Colleges, Employer providers, independent training organisations & end point assessment organisations. Clients pay fees based on the number of apprentices they have going
+through the system.The Apprenticeship levy is a commitment by UK government to have an additional 3 million apprenticeships in England by
+2020, presenting exciting opportunities for SAL to increase revenue.  (Total Budget 379 902,00 pounds). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Elizabeth Fialho Wanner - Integrante / Felipe Campelo - Coordenador / Aniko Eckart - Integrante.
+2018 - 2020
+Lyapunov Design of Success-Based Adaptation Rules
+Descrição: Evolutionary Strategies (ESs) have been applied to many real-world problems.
+ESs emphasize the use of selection and mutation as search operators:
+mutation consists in adding a random vector to the solution being
+mutated. Convergence analysis of ESs has deserved attention in the literature,
+but it has proved to be a difficult task. This project aims to investigate
+the convergence of single-parent ESs with success-based adaptation
+rules on certain classes of functions using a stochastic Lyapunov function
+in the context of martingale theory. The findings will help gain a better
+understandin. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Elizabeth Fialho Wanner - Coordenador / Carlos M Fonseca - Integrante / Claúdia R. Correa - Integrante.Financiador(es): LeverhulmeTrust - Bolsa.
+2016 - 2019
+Universal Fapemig 2016 - Investigação do comportamento e desempenho de metaheurísticas
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (5) . Integrantes: Elizabeth Fialho Wanner - Coordenador / Flavio V C Martins - Integrante.
+2013 - 2016
+Investigações de Algumas Questões Teóricas em Algoritmos Evolutivos
+Descrição: O campo de pesquisa sobre os algoritmos evolucionários dispõe de métodos e técnicas próprias e encontra-se hoje em franco desenvolvimento, com intenso esforço de pesquisa sendo despendido nos principais centros de pesquisa. Observa-se a necessidade de focar esforços em aspectos teóricos ainda pouco compreendidos do funcionamento desses algoritmos, que podem ser importantes para apontar as futuras direções de desenvolvimento. Como temas de investigação a serem abordados dentro do âmbito deste projeto, listamos:localização de regiões promissoras para a aplicação de busca local e análise e síntese de Estratégias Evolutivas Auto-Adaptativas... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Elizabeth Fialho Wanner - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2012 - 2014
+Investigação de Questões  Fundamentais em Algoritmos Evolucionários 2 - Universal Fapemig 2011
+Descrição: Os algoritmos evolucionários são uma classe de ferramentas estocásticas de otimização que se tornaram importantes alternativas
+para o tratamento de vários tipos de problemas com características difíceis, para os quais não se encontram 
+disponíveis algoritmos de otimização determinísticos eficientes: problemas não-lineares multimodais, 
+não diferenciáveis, ou envolvendo múltiplas escalas; problemas combinatórios com função-objetivo não-linear, etc.
+O campo de pesquisa sobre os algoritmos evolucionários, tendo se firmado há menos de vinte anos como um campo do 
+conhecimento que dispõe de métodos e técnicas próprias, encontra-se hoje em franco desenvolvimento, com 
+intenso esforço de pesquisa sendo despendido nos principais centros de pesquisa. Observa-se, entretanto, a
+necessidade de focar esforços em aspectos teóricos ainda pouco compreendidos do funcionamento desses algoritmos,
+que podem ser importantes para apontar as futuras direções de desenvolvimento. Como temas de investigação a serem abordados dentro do âmbito deste projeto, listamos: medidas de desempenho de algoritmos evolutivos, localização de regiões promissoras para a aplicação de busca local e análise e síntese de Estratégias Evolutivas Auto-Adaptativas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Elizabeth Fialho Wanner - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2011 - 2016
+GT333-Desenvolvimento de um sistema para aumento da eficiência do controle conjunto de tensão e potência na geração de energia elétrica com emprego de técnicas de Inteligência Computacional
+Projeto certificado pela empresa Cemig Geracão e Transmissão em 06/10/2017.
+Descrição: O objetivo geral do projeto é desenvolver um modelo matemático e sua implementação na forma de um algoritmo (software) capaz de aumentar a eficiência, em tempo de operação (tempo real), da geração hidrelétrica da CEMIG GT em relação aos conjuntos turbina-gerador-transformador elevador existentes na empresa. Do ponto de vista operacional, o sistema de otimização de geração a ser desenvolvido vai recomendar, a partir de dados fornecidos pela operação sobre demandas de potência e tensão, os perfis de operação otimizados para os conjuntos turbina-gerador-transformador elevador de tensão, de modo a maximizar o rendimento dos conjuntos e economizar, em última análise, os insumos de produção.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (2) . Integrantes: Elizabeth Fialho Wanner - Integrante / Paulo Eduardo Maciel Almeida - Coordenador / Carolina Gil Marcelino - Integrante / Pedro Luis Abrão - Integrante / Daniel Junio Reis e Pereira - Integrante.
+2011 - 2015
+New Horizons on Multi Criteria Decision Making
+Descrição: Programme ?PEOPLE? - Call identifier: FP7-PEOPLE-2011-IRSES (International Research Staff Exchange Scheme)
+Proposal No 295152 ? Acronym: NH-MCDM
+Projeto de cooperação internacional (Brasil - Inglaterra - Canadá - México - Israel) financiado pelo 7th Framework Programme (287000 euros), com duração de 48 meses. O presente pesquisador é o coordenador da equipe do CEFET-MG. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (5) . Integrantes: Elizabeth Fialho Wanner - Coordenador / Frederico Gadelha Guimarães - Integrante / Peter J. Fleming - Integrante / Felipe Campelo - Integrante / Rodrigo T N Cardoso - Integrante / Eduardo Gontijo Carrano - Integrante / Carlos Coello Coello - Integrante / Robin C Purshouse - Integrante / Gideon Avigad - Integrante.
+2009 - 2011
+Investigação de Questões  Fundamentais em Algoritmos Evolucionários - Universal Fapemig 2008
+Descrição: Os algoritmos evolucionários são uma classe de ferramentas estocásticas de otimização que se tornaram importantes alternativas
+para o tratamento de vários tipos de problemas com características ``difíceis'', para os quais não se encontram 
+disponíveis algoritmos de otimização determinísticos eficientes: problemas não-lineares multimodais, 
+não diferenciáveis, ou envolvendo múltiplas escalas; problemas combinatórios com função-objetivo não-linear, etc.
+O campo de pesquisa sobre os algoritmos evolucionários, tendo se firmado há menos de vinte anos como um campo do 
+conhecimento que dispõe de métodos e técnicas próprias, encontra-se hoje em franco desenvolvimento, com 
+intenso esforço de pesquisa sendo despendido nos principais centros de pesquisa. Observa-se, entretanto, a
+necessidade de focar esforços em aspectos teóricos ainda pouco compreendidos do funcionamento desses algoritmos,
+que podem ser importantes para apontar as futuras direções de desenvolvimento. Como temas de investigação a serem abordados dentro do âmbito deste projeto, listamos: Medidas de desempenho de algoritmos evolucionários e Modelagem local das funções objetivo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Elizabeth Fialho Wanner - Coordenador.
+2009 - 2010
+Otimizando a busca local em algoritmos evolucionários - Universal CNPq 2008
+Descrição: Os algoritmos evolucionários são uma classe de ferramentas estocásticas de otimização que se tornaram  alternativas importantes
+para o tratamento de vários tipos de problemas com características difíceis, para os quais não se encontram 
+disponíveis algoritmos de otimização determinísticos eficientes: problemas não-lineares multimodais, 
+não diferenciáveis, ou envolvendo múltiplas escalas; problemas combinatórios com função-objetivo não-linear, etc. Esses algoritmos possuem a habilidade de escapar de ótimos locais, uma habilidade inexistente em outros métodos de otimização clássicos. A natureza exploratória desses algoritmos permite uma identificação rápida de regiões promissoras no espaço de busca, mas, por outro lado, prejudica a convergência e precisão nos estágios finais do processo de busca. Além disso, por serem algoritmos irrestritos por natureza, possuem dificuldade de localizar o ponto de ótimo em problemas com restrições, principalmente restrições de igualdade. Uma alternativa para resolver esses problemas é combinar um Algoritmo Evolucionário com uma técnica de busca local que possibilite uma busca mais refinada por soluções mais precisas e uma melhora na velocidade de convergência. Atualmente, observa-se que a associação de técnicas de busca local em algoritmos evolucionários é a chave para a otimização eficaz e eficiente em diversos contextos. Contudo, a etapa de busca local pode demandar um custo computacional elevado, inviabilizando o uso de técnicas híbridas em muitos problemas práticos. Nesse projeto, pretendemos estudar as técnicas de busca local usuais e propor metodologias que sejão capazes de identificar regiões promisoras para a aplicação da busca local, fazendo com que o algoritmo se torne mais eficiente e computacionalmente mais barato.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Elizabeth Fialho Wanner - Coordenador.
+2007 - 2008
+Projeto Universal CNPq, edital MTC/CNPQ No 16/2007
+Descrição: Título do projeto: : Busca Local em Algoritmos Evolucionários para Otimização Não-Linear
+Duração: 12 meses
+Objetivo: Estudar as técnicas de busca local usuais e propor novas técnicas de busca local em algoritmos evolucionários, principalmente para tratamento de restrições de igualdade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Elizabeth Fialho Wanner - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2008
+Projeto Jovens Pesquisadores, edital 019/2006, financiado pela Fapemig
+Descrição: Título do projeto:  Operadores de Busca Local em Algoritmos Evolucionários
+Duração: 12 meses. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Elizabeth Fialho Wanner - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.

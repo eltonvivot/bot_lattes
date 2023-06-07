@@ -1,0 +1,47 @@
+2010 - 2012
+Desenvolvimento de modelo cinemático para movimentacão de robô humanoide jogador de futebol na categoria de simulacão 3D da Robocup
+Descrição: Desenvolvimento de modelo cinemático para movimentacão elementar de robô humanoide jogador de futebol do time Bahia3D.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Diego Gervasio Frías Suárez - Coordenador / Adailton de Jesus Cerqueira Junior - Integrante / Adriano Veiga Botelho - Integrante.
+2009 - 2011
+Desenvolvimento de modelos matemáticos para melhoria de habilidades de time de futebol de robôs na categoria 2D da RoboCup
+Descrição: O projeto consiste no desenvolvimento de modelos matemáticos para a melhoria de habilidades, incluindo passes e chutes a gol, do time Bahia2D, que participa em competições internacionais de futebol de robôs organizados pela RoboCup.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diego Gervasio Frías Suárez - Coordenador / Bruno Vinicius Silva - Integrante.
+2009 - 2010
+Simulador de futebol de robôs na categoria Realidade Mista da Robocup
+Descrição: O projeto visou o desenvolvimento de um simulador para o treinamento de times de futebol de robôs na categoria Realidade Mista (Virtualidade aumentada) da RoboCup. O simulador "virtualizou"  os micro-robôs utilizados nesta categoria da competição, o que requeriu construir modelos cinéticos de navegação, colisão e chutes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Diego Gervasio Frías Suárez - Coordenador / Fagner A.M. Pimentel - Integrante / Marco Antonio C. SIMÕES - Integrante / Josemar R. SOUZA - Integrante.
+2008 - 2011
+Desenvolvimento de ferramentas de bioinformática para estudo de retroviruses
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Diego Gervasio Frías Suárez - Integrante / Luiz Carlos Junior Alcantara - Integrante / Bernardo Galvão Castro - Coordenador.
+2004 - 2008
+Implantação do Núcleo de Biologia Computacional e de Gestão de Informaçãoes Biotecnológicas do Instituto Baiano de Biotecnologia
+Descrição: O projeto, que conta com recursos de R$930.000,00 provenientes da FINEP e FAPESB, visa a implantação de um núcleo de biologia computacional e de infraestrutura de hardware e software para gerenciar projetos de pesquisa em biotecnologia. O núcleo dará suporte ao Instituto Baiano de biotecnologia, fundação de recente criação que nucleia às instituições de ensino e pesquisa no Estado com atuação na área de engenharia genética e biotecnologia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Diego Gervasio Frías Suárez - Coordenador / Nicolas Carels - Integrante / Julio Cesar Mattos Cascardo - Integrante / Ramon Oliveira Vidal - Integrante / Dario Ahnert - Integrante / Martha Ximena - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro / Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+										financeiro / Universidade Estadual de Santa Cruz - Outra.
+2004 - 2007
+Desenvolvimento de técnicas para classificação de ESTs em bibliotecas de interação patógeno-hospedeiro
+Descrição: O projeto visa desenvolver estratégias de classificação da espécie de fragemtos de genes expressos (EST) que permita avaliar os padrões de expressão de patógenos e hospedeiros em interação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diego Gervasio Frías Suárez - Integrante / Ramón Oliveira Vidal - Integrante / Nicolas Carels - Coordenador.
+2004 - 2006
+Técnicas de Análise de Seqüências Biológicas
+Descrição: O projeto visa desenvolver técnicas que permitam determinar corretamente o quadro de leitura de sequencias codificantes que não estejam baseadas no uso de codons como as técnicas tradicionalmente utilizadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diego Gervasio Frías Suárez - Coordenador / Ramón Oliveira Vidal - Integrante / Nicolas Carels - Integrante / Murilo Dantas - Integrante.
+2002 - 2010
+Desenvolvimento de técnicas ab-initio para localização computacional de genes em seqüências de DNA
+Descrição: O projeto visa o desenvlvimento de novas técnicas computacionais para a detecção de genes em sequencias de DNA, que superem as limitações das técnicas atualmente mais utlizadas baseadas em cadeias de Markov e Redes Neurais. a proposta baseia-se na exploração das correlacções espaciais presentes nas sequencias codificantes associadas a sua estrutura de codons.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Diego Gervasio Frías Suárez - Coordenador / Ramón Oliveira Vidal - Integrante / Murilo Dantas - Integrante.
+2001 - 2010
+Estudo de Interação da Radiação com a Matéria a Baixas Temperaturas
+Descrição: O projeto visa demonstrar que a interação das radiações com a matéria  a baixas temperaturas é consideravelmente menor do que a temperatura ambiente. Isto permitiria a sobrevivência de biomoléculas transportadas em comentas de gelo mesmo submetidas a intensa radiação cósmica. O projeto compara resultados experimentais obtidos no instituto de ciências nucleares da UNAM com as predições teóricas de modelos desenvolvidos pelo autor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Diego Gervasio Frías Suárez - Integrante / Alicia Negron Mendoza - Coordenador / Sérgio Ramos Bernal - Integrante.Financiador(es): Universidad Nacional Autónoma de Mexico - Auxílio
+										financeiro.
+2001 - 2008
+Modelagem de Cadeias de Reação Pré-bióticas induzidas por Radiação
+Descrição: O projeto visa a validação teórica de mecanismos de reação pré-bióticos, mediante a solução computacional dos modelos cinéticos correspondentes e a comparação com resultados experimentais. Pretende-se demonstrar que sob certas condições imperantes no planeta antes do surgimento da vida, importante moléculas, como o ácido acético, precursor dos ácidos nucleícos (DNA e RNA) poderiam ser sintetizados a partir de matéria inorgánica sob efeitos da radiação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Diego Gervasio Frías Suárez - Integrante / Alicia Negron Mendoza - Integrante / Sérgio Ramos Bernal - Coordenador.
+2001 - 2005
+Modelagem Computacional de Processos Bio-físicos
+Descrição: Modelagem computacional de processos de transporte de fluidos em tecidos humanos. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Diego Gervasio Frías Suárez - Integrante / Esbel Valero Orellana - Integrante / José Karam Filho - Coordenador.Número de produções C, T & A: 1
+2001 - 2003
+Aplicação de Inteligência Artificial na Identificação e Caracterização de Promotores de Fungos: Estudo do Fungo Basidiomiceto Crinipellis Perniciosa, agente causador da doença
+Descrição: Inteligência Artificial aplicada à Biotecnologia. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6)  / Especialização: (2)  / Mestrado acadêmico: (2) . Integrantes: Diego Gervasio Frías Suárez - Coordenador / Ramón Oliveira Vidal - Integrante / Nicolas Carels - Integrante / Julio Cesar Mattos Cascardo - Integrante / Fernanda do Nascimento Almeida - Integrante / Abelmon da Silva Gesteria - Integrante / Fabienne Micheli - Integrante / Carlos Priminho Pirovani - Integrante / Josenaldo E Oliveira Matos Filho - Integrante.Financiador(es): Universidade Estadual de Santa Cruz - Auxílio
+										financeiro.Número de produções C, T & A: 12
+2001 - 2003
+Implantação do Laboratório de Bioinformática da UESC
+Descrição: O projeto, que contou com R$80.000,00 do CNPq (edital de bioinformática 2001) para infraestrutura e R$27.400,00 em bolsas, visou a implantação do primeiro laboratório de bioinformática do Estado da Bahia (http://labbi.uesc.br) dedicado na sua primeira fase a dar suporte de informática (bancos de dados e sistemas de gestão de dados via WEB) ao projeto genoma do fungo Crinipellis perniciosa, agente causador da "vassoura de bruxa", doença que didssmou a lavoura cacaueira na região.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8) . Integrantes: Diego Gervasio Frías Suárez - Coordenador / Fermin Garcia Velazques - Integrante / Julio Cesar Mattos Cascardo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+1999 - 2004
+Estudo do efeito de escoamentos heterogêneos na deformação plástica do subsolo
+Descrição: Modelagem computacional de fenömenos hidro-geomecänicos associados à extração de fluidos do subsolo. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Diego Gervasio Frías Suárez - Integrante / Felipe Pereira - Integrante / Marcio Murad - Coordenador.Número de produções C, T & A: 4

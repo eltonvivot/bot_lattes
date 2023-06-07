@@ -1,0 +1,4 @@
+2023-05-21 13:19:32 - === INICIANDO NOVA EXECUÇÃO: metaverso ===
+2023-05-21 13:19:35 - Tentativa: 1 |	'NoneType' object has no attribute 'query_selector_all'
+2023-05-21 13:24:42 - === INICIANDO NOVA EXECUÇÃO: metaverso ===
+2023-05-21 13:24:45 - Tentativa: 1 |	'Locator' object has no attribute 'query_all'

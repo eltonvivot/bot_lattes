@@ -1,0 +1,51 @@
+2023 - Atual
+Computação quântica na região sul do Brasil: Pesquisa básica, ensino e aplicações
+Descrição: A computação quântica é um campo da ciência que revolucionou a maneira de
+processar, armazenar e transmitir informação, podendo impactar todos os setores
+produtivos de uma sociedade. Este projeto visa colocar a região sul do Brasil como
+protagonista no desenvolvimento dessa tecnologia, não apenas no Brasil e na
+América Latina, mas no cenário mundial. Contudo, para que isto ocorra, precisamos
+capacitar os nossos estudantes e pesquisadores para atuar no setor, bem como
+preparar a nossa indústria para poder tirar proveito imediatamente após os
+processadores quânticos estarem funcionando sem erros, ou com algoritmos
+robustos de controle de erros, e em larga escala. Temos como proposta a formação
+de um forte grupo de pesquisadores envolvendo as universidades UFSC, UFSM,
+UDESC, UFPR e o Instituto SENAI de Inovação em Sistemas Embarcados (ISE-SE)
+para que de forma colaborativa possa avançar na pesquisa básica, formar mão de
+obra qualificada e através do ISI-SE levar essa tecnologia para a indústria
+catarinense e para o Brasil. Nosso time conta com vasta experiência na área de
+informação quântica, tanto na parte experimental quanto teórica, envolvendo
+pesquisadores(as) com formação em áreas como física, matemática, engenharia,
+ciência da computação e biologia. A instituição executora (UFSC) e a universidade
+parceira UFSM já possuem maturidade no campo específico desta chamada, a
+computação quântica, e contribuirão para a consolidação dos grupos de pesquisa
+nas demais instituições parceiras. Esse caráter multidisciplinar da equipe permitirá
+desenvolver uma ampla gama de projetos em computação quântica, desde testes
+dos fundamentos da teoria quântica através dos simuladores quânticos, podendo
+ser experimentos em óptica ou computadores quânticos acessíveis online,
+desenvolvimento de softwares para linguagens quânticas de programação e
+algoritmos quânticos para resolver problemas comerciais de interesse da indústria,
+para quebra de sistemas criptográficos e aprendizado de máquina.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jonas Maziero - Integrante / Eduardo Inácio Duzzioni - Coordenador.
+2022 - Atual
+Distribuição de emaranhamento
+Descrição: Atualmente, Computação Quântica (CPQ) e Comunicação Quântica (CMQ) são tópicos de pesquisa de muito interesse mundial. Em particular, a distribuição de emaranhamento quântico (EQ) para os nós da Internet Quântica é essencial para muitos protocolos envolvidos em CPQ distribuída e CMQ, tais como teleportação quântica, codificação superdensa e criptografia quântica. Recentemente, se mostrou que a discórdia quântica (DQ), que é um tipo de correlação quântica mais geral que EQ, limita a taxa de trasmissão de EQ (TTEQ) no contexto do protocolo indireto de distribuição de EQ (PIDE). Na realização deste projeto, investigaremos como as operações quânticas de codificação e de decodificação e a robustêz da DQ ao processo de decoerência podem ser utilizadas para aumentar a TTEQ no PIDE. Ademais, obteremos um formalismo para a descrição de efeitos relativísticos e de campos gravitacionais no grau de liberdade de polarização de fótons através das rotações de Wigner locais e o aplicaremos na quantificação destes efeitos em protocolos de CMQ
+via satélites.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (2)  / Doutorado: (4) . Integrantes: Jonas Maziero - Coordenador.
+2017 - Atual
+Propriedades quânticas como recursos, e suas aplicações
+Descrição: Em Ciência da Informação Quântica (CIQ), propriedades quânticas de sistemas físicos tais como superposição, coerência, contextualidade e compressão e correlações quânticas tais como discórdia, emaranhamento, dirigibilidade e não localidade tem sido identificadas como recursos que possibilitam a manipulação mais eficiente de informação, em comparação com o uso de sistemas clássicos. Além disso, esses aspectos quânticos de um sistema também são importantes na determinação das suas propriedades físicas características. Na realização deste projeto, consideraremos o problema da quantificação desses recursos quânticos, principalmente no contexto de estados de sistemas multipartidos. Também investigaremos como o ruído afeta esses recursos quânticos em situações realísticas. Ademais, utilizaremos as ferramentas desenvolvidas para investigar como esses aspectos quânticos podem ser aplicados para a caracterização de fenômenos emergentes em transições de fase e em redes neurais.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jonas Maziero - Coordenador / Tiago de Souza Farias - Integrante / Douglas Franco Pinto - Integrante / Marcelo Serrano Zanetti - Integrante / Lucas Friedrich - Integrante / Marcos Leopoldo Wayhs Basso - Integrante / Said José Lantigua López - Integrante.
+2014 - 2017
+Correlações em Sistemas Multipartidos: Fundamentos, Dinâmica Decoerente e Aplicações em Transições de Fase
+Descrição: Correlações, ou seja, a informação compartilhada entre as partes constituintes de sistemas físicos, são importantes tanto com relação aos fundamentos da física como para aplicações em ciência da informação quântica (CIQ) e na determinação das propriedades físicas características de sistemas de matéria condensada. Na realização deste projeto, consideraremos primeiramente o problema fundamental da quantificação e da distribuição de correlações em sistemas multipartidos. Na sequência, investigaremos, além da dinâmica dessas correlações sob decoerência, o papel delas na determinação das propriedades físicas de sistemas magnéticos que apresentam transições de fase quânticas. Um dos nossos objetivos é utilizar, analisar e desenvolver métodos numéricos para calcular correlações quânticas multipartite em sistemas finitos e utilizá-las na identificação de pontos críticos quânticos. Depois de realizada esta etapa, investigaremos o efeito que desordem não-trivial (desordem com frustração) nas interações de um sistema tem sobre suas correlações quânticas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (1) . Integrantes: Jonas Maziero - Coordenador / Tiago de Souza Farias - Integrante / Douglas Franco Pinto - Integrante / Mauro Buemo Pozzobom - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Instituto Naciona de Ciência e Tecnologia de Informação Quântica - Auxílio
+										financeiro.
+2014 - Atual
+INCT-IQ (Proc. 465469/2014-0/CNPq)
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Jonas Maziero - Integrante / Belita Koiller - Coordenador.
+2012 - 2014
+Conceitos de Ciência da Informação Quântica Aplicados a Sistemas de Elétrons Fortemente Correlacionados
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Jonas Maziero - Integrante / Fábio Mallmann Zimmer - Coordenador / Eleonir João Calegari - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2013
+Informação Quântica e Decoerência
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Jonas Maziero - Integrante / Eduardo Inácio Duzzioni - Integrante / Roberto Menezes Serra - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.

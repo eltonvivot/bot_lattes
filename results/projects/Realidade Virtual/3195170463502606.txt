@@ -1,0 +1,38 @@
+2018 - 2019
+HipnoVR: Efeitos da Hipnose em Realidade Virtual
+Descrição: Investigação e desenvolvimento de protótipos para a investigação dos efeitos da hipnose em aplicações de Realidade Virtual.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / Veronica Teichrieb - Coordenador / Daniel Queiroz de Freitas - Integrante.
+2018 - 2018
+Projeto HP - Augmented Reality
+Descrição: Pesquisa financiada pela HP Brasil Indústria e Comércio de Equipamentos Eletrônicos Ltda. com recursos provenientes da contrapartida da isenção ou redução do IPI conforme a Lei nº 8.248, de 1991 (Lei de Informática). Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / Francisco Paulo Magalhães Simões - Integrante / João Paulo Silva Do Monte Lima - Integrante / Veronica Teichrieb - Coordenador / João Marcelo Xavier Natário Teixeira - Integrante.
+2018 - Atual
+Experiência do Usuário em Realidades Estendidadas
+Descrição: Investigações sobre interações avançadas em aplicações de Realidade Virtual e Aumentada.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / Veronica Teichrieb - Coordenador / Ricardo Rossiter Barioni - Integrante / Willams da Lima Costa - Integrante / Jarbas Jácome - Integrante / Jáder Abreu - Integrante / Arlindo Neto - Integrante.
+2017 - Atual
+SGP+ AR: Acompanhamento e Governança de Obras com Realidade Aumentada
+Descrição: Pesquisa e Desenvolvimento de ferramenta para visualização e interação 3D em Realidade Aumentada de modelos de construção civil.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / Veronica Teichrieb - Coordenador / João Marcelo Xavier Natário Teixeira - Integrante.
+2016 - 2017
+Análise de Comportamentos Humanos por Visão Computacional
+Descrição: Projeto que tem como objetivo o mapeamento de comportamentos humanos em tempo real através de técnicas de visão computacional. Mais especificamente, o projeto tem foco em comportamentos de passistas (dançarinos de frevo), buscando entender a intensidade em que estes dançam e fornecer essa informação para aplicações interativas. Projeto financiado pela empresa 3Ecologias. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / Veronica Teichrieb - Coordenador / MAGGI, LUCAS - Integrante.
+2015 - 2016
+Realidade Aumentada Mobile
+Descrição: Pesquisa e desenvolvimento de técnicas eficientes de rastreamento e segmentação de faces para dispositivos móveis em tempo real. Projeto financiado pela LG Electronics. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / João Paulo Silva Do Monte Lima - Integrante / Veronica Teichrieb - Coordenador / Rafael Alves Roberto - Integrante.
+2012 - 2015
+Desenvolvimento de um Sistema Computacional de Suporte à Reabilitação Motora
+Descrição: Este projeto tem como objetivo o desenvolvimento de um sistema com base em sensores e algoritmos de visão computacional que possibilite o reconhecimento de exercícios de reabilitação motora para assim indicar o progresso do paciente e motivá-lo usando como plataforma de visualização aplicações de Realidade Virtual e Aumentada. Projeto financiado pela DINE Propesq/UFPE.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / Veronica Teichrieb - Coordenador / Alana Elza Fontes Da Gama - Integrante / Thiago Menezes Chaves - Integrante.
+2012 - 2014
+Rastreamento 3D Monocular de Objetos baseado em Características Naturais da Cena aplicado à Realidade Aumentada
+Descrição: Projeto que tem como objetivo investigar e desenvolver técnicas para o rastreamento 3D (com 6 graus de liberdade) de objetos a partir de técnicas de visão computacional que utilizem características naturais dos objetos alvo, assim evitando o uso de marcadores. Projeto financiado pelo CNPq.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / João Paulo Silva Do Monte Lima - Integrante / Veronica Teichrieb - Coordenador.
+2010 - 2013
+Pesquisa e Desenvolvimento de Ambiente Baseado em Técnicas de Realidade Virtual e Aumentada para Simulação de Processos em Subestações de Energia
+Descrição: Este projeto tem como meta o estudo e desenvolvimento de aplicações de Realidade Aumentada (RA) voltadas para subestações elétricas. Dentro do escopo do projeto estão inclusos o estudo do cenário, a pesquisa de técnicas de RA que se enquadrem no mesmo, o desenvolvimento de técnicas de RA compatíveis e a implantação de um protótipo que faça uso destas técnicas no cenário especificado. Projeto financiado pela ANEEL/Eletrobras Furnas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Lucas Silva Figueiredo - Integrante / Francisco Paulo Magalhães Simões - Integrante / Veronica Teichrieb - Coordenador / Rafael Alves Roberto - Integrante.
+2010 - 2012
+Aplicação da Realidade Virtual na Reabilitação Motora
+Descrição: Projeto para aplicação no processo de reabilitação fisioterapêutica com auxílio de uma interface de interação natural. A interação com o sistema ocorre enquanto o paciente realiza o procedimento terapêutico, com a adição de um sistema de reconhecimento para identificar erros posturais ou de movimentação do paciente, além de contar com um sistema interativo para motivação usando jogos digitais. Desta forma o paciente realiza a terapia ao mesmo tempo que joga e se diverte. Projeto financiado pela FACEPE.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Lucas Silva Figueiredo - Integrante / Veronica Teichrieb - Coordenador / Alana Elza Fontes Da Gama - Integrante / Thiago Menezes Chaves - Integrante.
+2009 - 2011
+Realidade Aumentada Sem Marcadores com Rastreamento Baseado em Modelo
+Descrição: Projeto de pesquisa voltado para o estudo e desenvolvimentos de técnicas de rastreamento baseadas em modelos com foco em Realidade Aumentada. Projeto financiado pelo CNPq.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Silva Figueiredo - Integrante / Francisco Paulo Magalhães Simões - Integrante / João Paulo Silva Do Monte Lima - Integrante / Veronica Teichrieb - Coordenador.
+2008 - 2010
+TechPetro
+Descrição: Projeto para o desenvolvimento de técnicas de Realidade Aumentada com foco em aplicações para a Indústria Petrolífera. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Lucas Silva Figueiredo - Integrante / Francisco Paulo Magalhães Simões - Integrante / João Paulo Silva Do Monte Lima - Integrante / Veronica Teichrieb - Integrante / Judith Kelner - Coordenador.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

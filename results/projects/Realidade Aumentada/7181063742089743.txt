@@ -1,0 +1,43 @@
+2022 - Atual
+Atuadores Macro-Micro para Sistemas de Posicionamento Sujeitos à Quantização de Saída
+Descrição: Este projeto de pesquisa investiga o uso de atuadores macro-micro para sistemas de posicionamento sujeitos à quantização na variável de saída. Uma estratégia de controle capaz de realizar a convergência assintótica do atuador macro (sujeito à quantização) para trajetórias senoidas será investigada. Uma vez que esse atuador esteja oscilando perto do ponto de referência, o atuador micro será utilizado para compensar seu movimento e atingir o seguimento de referências do tipo degrau. Além da busca por garantias teóricas de seguimento, o presente projeto também buscará a implementação experimental das ideias sendo propostas para fim de validação. Diferentes possibilidades de aplicações serão investigadas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Aurelio Tergolina Salton - Coordenador.
+2019 - Atual
+Controle de Rotação de Corpos Rígidos via Otimização Convexa
+Descrição: Este projeto pesquisa visa o desenvolvimento de controladores para o controle da rotação de corpos rígidos através de métodos de otimização convexa. A proposta visa no uso da representação via quaternions a fim de manter as não-linearidades associadas ao problema em forma polinomial. Métodos de projeto baseados em problemas otimização sujeitos a restrições na forma de desigualdades matriciais lineares são empregados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Aurelio Tergolina Salton - Coordenador.Número de produções C, T & A: 1 / Número de orientações: 2
+2019 - Atual
+Conversores CC-CC de Duplo Estágio
+Descrição: O presente projeto tem por objetivo o desenvolvimento de uma topologia inovadora
+no processo de conversores CC-CC. O conceito sendo proposto é semelhante ao já
+consolidado em sistemas mecatrônicos onde a atuação é divida em dois componentes
+complementares: o componente Macro possui uma alta excursão porém baixa largura
+de banda, e o componente micro possui baixa excursão porém alta largura de banda.
+Ao mesmo tempo que permite a utilização de componentes mais econômicos, a nova
+topologia de conversores sendo proposta permite a geração de um sinal de saída com
+menos componentes harmônicos, assim evitando perdas e melhorando a qualidade da
+conversão de energia. O conceito sendo proposto pode ser aplicado em variadas combinações de topologias de conversores, possibilitando a exploração das características
+peculiares dos conversores individuais para atender os requisitos específicos dos componentes Macro e micro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Aurelio Tergolina Salton - Coordenador.Número de produções C, T & A: 2 / Número de orientações: 1
+2016 - 2018
+Princípio do Modelo Interno para Seguimento/Rejeição de Sinais Periódicos de Frequência Variável
+Descrição: O presente projeto de pesquisa propõe uma extensão do Princípio do Modelo Interno (PMI) para o tratamento de sinais periódicos de frequência variável. Busca-se uma transformação de domínio que represente estes sinais por análogos de período constante, onde métodos tradicionais do PMI possam ser aplicados. Desta forma, espera-se desenvolver estratégias de controle capazes de seguir referências -- e rejeitar perturbações -- de frequência variável de forma assintótica. Aplicações do método proposto são detalhadas e resultados preliminares são utilizados para evidenciar o potencial da proposta.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Aurelio Tergolina Salton - Coordenador / Daniel Coutinho - Integrante / FLORES, JEFERSON V. - Integrante.
+2014 - 2016
+Fusão de Sensores para a Localização e Orientação de Veículos Aéreos não Tripulados (VANTs)
+Descrição: Este projeto visa o desenvolvimento de formas computacionalmente eficientes para a fusão dos sensores presentes em veículos autônomos a fim de produzir uma estimativa da localização e orientação dos mesmos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Aurelio Tergolina Salton - Coordenador / Guilherme Fernandes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Bolsa.
+2014 - 2016
+Exploração de paralelismo em algoritmo de localização indoor para robôs móveis
+Descrição: A robótica tem sido empregada com sucesso desde a década de 50 em linhas de montagem. Entretanto, os robôs comumente utilizados são braços robóticos, fixos, e instalados em um ambiente criado em função dos robôs. A desvantagem desta abordagem é que a falta de mobilidade do robô reduz muito as possíveis aplicações dos mesmos. Neste sentido tem-se pesquisado em robótica móvel. Porém, robótica móvel apresenta diversos desafios computacionais tais como determinar a localização do robô em um ambiente fechado, que é uma tarefa computacionalmente custosa. O objetivo deste projeto é a pesquisa e desenvolvimento de uma arquitetura computacional eficiente para algoritmos de localização empregados em robôs móveis.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Aurelio Tergolina Salton - Coordenador / Alexandre de Morais Amory - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Auxílio
+										financeiro.
+2014 - 2016
+Controladores de tempo quase ótimo para veículos aéreos não tripulados (VANTs) aplicados à agricultura de precisão
+Descrição: Desenvolvimento de formas computacionalmente eficientes para o controle de alto desempenho de VANTs de asa móvel do tipo quadcóptero. As técnicas de controle semi-ótimo conhecidas por Proximate Time Optimal Servomechanism (PTOS) e Composite Nonlinear Feedback (CNF) serão adaptadas e implementadas no
+sistema em questão. Estas técnicas são capazes de atingir um desempenho similar ao
+proporcionado por controladores ótimos, mas com a vantagem de serem de implementação prática.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Aurelio Tergolina Salton - Coordenador / Juliano Benfica - Integrante / FLORES, JEFERSON VIEIRA - Integrante / Anderson Royes Terroso - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - Auxílio
+										financeiro.
+2012 - 2016
+Projeto de Redes de Sensores Sem Fio para Aplicações Industriais
+Descrição: Este projeto atende ao Edital CAPES nº 032/2011 (Programa Centros Associados para o Fortalecimento da Pós-Graduação Brasil-Argentina: CAFP-BA) e visa fortalecer os vínculos existentes entre os Programas de Pós-Graduação em Engenharia Elétrica da PUCRS e da Universidad de Buenos Aires (UBA) através de seus respectivos grupos de pesquisa. Mais especificamente, o Grupo do Laboratório de Sistemas Embebidos (LSE) da UBA e o Grupo de Sinais, Sistemas e Computação (SiSC) da PUCRS, que atuam na área temática do projeto. Projeto CAPES n. 033/11... Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (4)  / Doutorado: (3) . Integrantes: Aurelio Tergolina Salton - Integrante / Fabian Luis Vargas - Coordenador / Rubem Dutra Ribeiro Fagundes - Integrante / Juliano Benfica - Integrante / Letícia Bolzani Poehls - Integrante / José Lipovetzky - Integrante / Ariel Lutenberg - Integrante / Sebastián E. García - Integrante.
+2012 - 2014
+Servovisão em Robótica Móvel
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Aurelio Tergolina Salton - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2011 - 2014
+Controladores Não Lineares em Tempo Discreto com Alto Desempenho
+Descrição: Desenvolvimento de métodos não-lineares de controle digital para atuadores de alto desempenho. Por alto desempenho - ou alta performance - entenda-se aqueles atuadores capazes de atingir resultados ótimos ou quasi-ótimos referentes ao tempo de estabilização (velocidade de resposta dos atuadores) de maneira prática. O objetivo é o de aproximar o "Time Optimal Control" (TOC) evitando o efeito normalmente chamado de "chattering".. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Aurelio Tergolina Salton - Coordenador / Nelso Rugero Bedin Neto - Integrante / Jeferson Vieira Flores - Integrante / Leandro Pfuller Lisboa - Integrante / Rodrigo Alves Medeiros - Integrante.Financiador(es): Pontifícia Universidade Católica do Rio Grande do Sul - Bolsa.Número de produções C, T & A: 1

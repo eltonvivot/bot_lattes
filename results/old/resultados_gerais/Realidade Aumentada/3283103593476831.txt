@@ -1,0 +1,34 @@
+2014 - 2016
+Text to Speech: tecnologia para desenvolvimento da fala em crianças com necessidades especiais
+Descrição: Esse projeto tem como característica principal desenvolver uma aplicação computacional que permita à criança reaprender a falar, ou mesmo ampliar o vocabulário, com o uso da tecnologia text to speech (conversão de texto em voz). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Niltom Vieira Junior - Integrante / Carlos Bernardes Rosa Junior - Coordenador / Roger Santos - Integrante / Bruno Tomé - Integrante / Dagmar Fátima de Lima Damasceno - Integrante / Fernando Paim Lima - Integrante / Sávio Cardoso Caetano - Integrante / Kálita Gonçalves da Fonseca - Integrante.
+2013 - 2014
+Análise de eficiência do ambiente virtual de aprendizagem Sophia no ensino presencial
+Descrição: Tem por objetivo comparar a evolução conceitual e cognitiva, através de TRI (Teoria de Resposta ao Item), de turmas de estudantes que tenham utilizados metodologias tradicionais de ensino e ambientes virtuais dinâmicos de aprendizagem.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Niltom Vieira Junior - Coordenador / Karina Pereira Carvalho - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+2012 - 2013
+Testes adaptativos informatizados versus avaliação mediadora contínua: uma análise mediante intervenções no ensino de matemática
+Descrição: Tem por objetivo comparar três diferentes concepções de avaliação educacional: avaliação mediadora contínua, testes adaptativos informatizados via TRI (Teoria de Resposta ao Item) e avaliações tradicionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Niltom Vieira Junior - Coordenador / Márcio Pironel - Integrante / Karina Pereira Carvalho - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.Número de produções C, T & A: 1
+2011 - 2012
+ISD: construção e validação por análise fatorial exploratória de um indicador de evasão escolar
+Descrição: Tem por objetivo estudar os fatores externos e internos que motivam a evasão e abandono escolar para posterior criação e validação, por análise fatorial exploratória, de um inventário para quantificar as reais razões que contribuem para este fato. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Niltom Vieira Junior - Coordenador / Fernando Henrique Pollastrini - Integrante / Gustavo Venancio Pimenta - Integrante / Mariana da Costa Teles - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.
+2011 - 2012
+Painel Braille para deficientes visuais: interface computacional
+Descrição: Tem por objetivo testar o acionamento por intertravamento de pinos de um painel braile e desenvolver uma interface computacional para sua utilização. Este projeto também fez parte do convênio Brasil-França. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Niltom Vieira Junior - Coordenador / Silas Martins Sousa - Integrante / Carlos Renato Borges dos Santos - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.
+2011 - 2012
+Plataforma educacional para engenharia
+Descrição: Tem por objetivo analisar uma plataforma (software) educacional e construir um banco de conteúdos didáticos (em .html) para o tema potência elétrica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Niltom Vieira Junior - Coordenador / Lucas Ribeiro Leal - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.
+2011 - 2012
+Software educacional com interfaces dinâmicas e conteúdos scorm dedicados ao ensino de matemática (sistemas lineares)
+Descrição: Tem por objetivo construir um banco de conteúdos didáticos e um banco de itens (ambos no formato SCORM) para o tema sistemas lineares. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Niltom Vieira Junior - Coordenador / Mateus Faria Leal - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.
+2010 - 2012
+Estudo e implementação de dispositivos de eletrônica e energias alternativas
+Descrição: Este projeto de pesquisa, aprovado na chamada pública MEC/SETEC n. 001/2010, trata-se de uma cooperação bilateral (Brasil-França) envolvendo instituições brasileiras (IFSul, IFMG e IFRN) e instituições francesas (Acadèmie Montpellier, Liceu Dhouda, Liceu Washington Touchard, Liceu Eugene Livet). Serão desenvolvidos diversos projetos em rede contemplando as áreas de eletrônica, tecnologias assistivas e energias alternativas. Seu objetivo é a troca de tecnologias e a realização de intercâmbio entre alunos e pesquisadores de cada país. Abaixo estão listados apenas os coordenadores técnicos de cada instituição brasileira. O orçamento é de R$ 400.000,00. Situação: Concluído; Natureza: Pesquisa. Integrantes: Niltom Vieira Junior - Coordenador.Financiador(es): Ministério da Educação - Auxílio
+										financeiro.
+2010 - 2011
+Desenvolvimento de um software educacional para o ensino de física baseado em interfaces dinâmicas
+Descrição: Tem por objetivo desenvolver um software para o ensino de física cujo processo de escolha de interfaces é feito dinâmicamente em tempo de execução. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Niltom Vieira Junior - Coordenador / Fernando Henrique Pollastrini - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.
+2010 - 2011
+Desenvolvimento de um editor SCORM para interfaces educacionais
+Descrição: Tem por objetivo a análise e desenvolvimento de um editor SCORM e a definição de métricas para sua operação junto a um software de escolha dinâmica de interfaces. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Niltom Vieira Junior - Coordenador / Mateus Faria Leal - Integrante / Antonio Marcos Carvalho de Souza - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.
+2009 - 2010
+Estudo de validação do Índice de Estilos de Aprendizagem de Felder e Soloman
+Descrição: Tem por finalidade verificar a estrutura fatorial do Índice de Estilos de Aprendizagem (ILS), um instrumento destinado a mensurar as características individuais de aprendizagem, e iniciar a construção de uma versão brasileira deste teste. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Niltom Vieira Junior - Coordenador / Elton José Pereira - Integrante / Christiano Eduardo Dutra e Silva - Integrante / Fernando Henrique Pollastrini - Integrante.Financiador(es): Instituto Federal de Minas Gerais - Bolsa.

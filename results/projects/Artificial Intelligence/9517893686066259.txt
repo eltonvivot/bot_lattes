@@ -1,0 +1,23 @@
+2020 - Atual
+Desenvolvimento de modelos de simulação para avaliação de deslocamentos urbanos num cenário pós-pandemia
+Descrição: Temas de pesquisa: 
+Análise de diferentes fluxos em macromodelos
+Estudo de sistemas de otimização semafórica em tempo real
+Estudo de técnicas de Previsão de Tráfego
+Estimativa de demanda de origem-destino. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Claudio Luiz Marte - Coordenador / Pedro Brazinkas Chiovetti - Integrante / Olímpio Mendes de Barros - Integrante / Douglas Francisco Wagner Capelossi Martins - Integrante / Ana Beatriz Koga Fazano - Integrante / Guilherme Mazzuia Stocco - Integrante / Jeniffer do Nascimento Sakai - Integrante / Rodrigo Pina Bluma - Integrante.Número de produções C, T & A: 6 / Número de orientações: 1
+2013 - 2014
+Pesquisa e Desenvolvimento de Metodologias para Acompanhamento e Avaliação das Obras Destinadas a Copa do Mundo 2014 - Subprojeto de Mobilidade Urbana
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudio Luiz Marte - Coordenador / Osvaldo Shigueru Nakao - Integrante.
+2012 - Atual
+Aplicação de ITS na Operação de Transportes Públicos Urbanos por Ônibus
+Descrição: Intervenções operacionais visando a regularidade e a eficiência de sistemas de ônibus urbanos (resenha de estudos acadêmicos e simulação de aplicações com dados reais). Aplicativo Móvel para uma operação de ônibus comandada pelo viajante (um projeto de Experiência do Usuário ? UX). Infraestrutura de Referência de ITS para o transporte público urbano por ônibus. Já concluídas: Análise de Comportamento de Operação de Ônibus Urbanos sob o impacto de chuva utilizando as Técnicas de Árvores de Regressão ChAID e Estatística Geográfica. Metodologia para aplicação de prioridade semafórica condicional em corredores de ônibus.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (5) . Integrantes: Claudio Luiz Marte - Coordenador / Luciano Peron - Integrante / Arnaldo Luís Santos Pereira - Integrante / Claudio de Senna Frederico - Integrante / Stenio Franco Silva - Integrante / Pedro Brazinkas Chiovetti - Integrante / Erick Sobreiro Gonçalves - Integrante / Edson Hilios Marques Nunes - Integrante.Número de produções C, T & A: 11
+2011 - Atual
+Aplicação de ITS na Operação de Tráfego Urbano e Interurbano
+Descrição: Sistemas Inteligentes de Gestão do Tráfego Urbano visando a melhoria dos serviços de transporte público. Análise de situações atípicas e suas causas, visando à estimação do impacto no tráfego em áreas urbanas. Estimativa de Demanda Origem Destino para Transporte de Média e Longa Distância utilizando Dados de AVR
+Já concluídas: Sistemas de identificação veicular (reconhecimento automático de placas). Ontologia para o compartilhamento de informações de um Painel de Mensagens Variáveis (PMV).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3) . Integrantes: Claudio Luiz Marte - Coordenador / Ely Bernardi - Integrante / Luca Di Biase - Integrante / Olímpio Mendes de Barros - Integrante / Douglas Francisco Wagner Capelossi Martins - Integrante / Kelsey Magalhães Melo - Integrante.Número de produções C, T & A: 11
+2003 - 2004
+Número Telefônico Único para o Atendimento de Emergência em todas as Rodovias do Estado de São Paulo
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudio Luiz Marte - Coordenador.
+2001 - 2004
+Especificação do Protocolo Brasileiro de Transação Dual (PTD_Brasil), utilizado na Comunicação Dedicada de Curta Distância (DSRC) para a coleta eletrônica de pagamentos (EFC)
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Claudio Luiz Marte - Coordenador.

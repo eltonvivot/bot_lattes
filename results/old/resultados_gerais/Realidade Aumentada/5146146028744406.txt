@@ -1,0 +1,6 @@
+2017 - Atual
+WoT Traker - Sistema de Localização de Objetos
+Descrição: Desenvolvimento de Aplicativo para visualização em tempo real de objetos. O Ambiente de testes serão veículos coletivos do trasporte urbano.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Claudio Rodolfo Sousa de Oliveira - Coordenador.
+2017 - Atual
+IoT Tracker - Sistema de Rastreamento Veicular
+Descrição: Infraestrutura eletrônica para rastreabilidade de veículos usando GPS/GPRS.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Claudio Rodolfo Sousa de Oliveira - Coordenador.

@@ -1,0 +1,29 @@
+2019 - Atual
+Modelagem Digital de Áreas Urbanas empregando Geotecnologias: Estudo de Caso o Complexo Lagunar do Município de Mricá
+Descrição: Elaboração de modelos digitais em plataforma SIG (Sistemas de Informação Geográfica) a partir de dados obtidos em fontes oficiais (IBGE, outros), consistindo de demografia, topografia, hidrografia e elementos de infra-estrutura urbana (edificações, sistema viário, uso do solo), possibilitando simulações em saneamento, mobilidade, gestão economia e social, localização de atividades estratégicas e logística emergencial para eventos climáticos. Projeto inserido no contexto de Pós-Doutorado institucional da UFRJ, realizado no PEU/POLI/UFRJ, e regido pela resolução CEPG 04/2018, registro no DRE 119221258. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos:  / Mestrado profissional: (2) . Integrantes: Fernando Rodrigues Lima - Coordenador / Armando Carlos de Pina Filho - Integrante / João Paulo Fraga - Integrante / Carolina Lopes Machado - Integrante.
+2014 - 2014
+Estruturação e Desenvolvimento do Sistema de Monitoramento e Controle da Cidade Universitária da UFRJ
+Descrição: ?Estruturação de um Sistema de Monitoramento na Cidade Universitária, a partir do levantamento de uma série de dados-diagnóstico;
+?Estruturação de base de dados geográficos, com informações georreferenciadas e alfanuméricas, classificadas por suas instalações e terrenos;
+? Elaboração de projetos-piloto para modelagem 3D;
+?Definição de indicadores que auxiliarão os membros do Conselho do Fundo Verde a avaliarem a efetividade dos projetos de monitoramento de eficiência no uso da água e energia;
+?Criação de um software para gerenciamento dos dados;
+?Treinamento referente ao uso deste software;
+?Delimitação de equipamentos necessários para instalação de um Centro Inteligente de Gerenciamento e Controle da Cidade Universitária.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Fernando Rodrigues Lima - Integrante / Suzana Ribeiro Kanh - Coordenador / Eizabeth Lima - Integrante / Ivan Ferreira Carmo - Integrante.
+2014 - Atual
+Sistema de Informações Geográficas para apoio à gestão do Campus da UFRJ
+Projeto certificado pela empresa Imagem Geosistemas e Comércio em 04/09/2015.
+Descrição: Este projeto tem como objetivo elaborar uma base de dados em SIG (Sistema de Informações Geográficas) e aplicar inteligencia geográfica no apoio à gestão do Campus da Cidade Universitária da UFRJ. A pesquisa abrange, o desenvolvimento de bases georefrenciadas (mapas digitais temáticos e cadastrais),  a modelagem e emprego de redes de mobilidade e infraestrutura, e a aplicação de métodos e técnicas de apoio á decisão utilizando geoprocessamento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado profissional: (1) . Integrantes: Fernando Rodrigues Lima - Coordenador / Gilles Morel - Integrante.Número de produções C, T & A: 3
+2010 - 2014
+Portos e Cidades Sustentáveis
+Descrição: Estudo voltado para cenários possíveis nas cidades-portos do futuro, pesquisando boas praticas e experiencias que levaram em conta parâmetros de sustentabilidade e organizando as informações em uma plataforma colaborativa transnacional. Situação: Concluído; Natureza: Pesquisa. Integrantes: Fernando Rodrigues Lima - Coordenador / Angela Maria Gabriella Rossi - Integrante / Gilles Morel - Integrante / Hipolito Martell-Flores - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2003 - 2007
+Projeto de localização de Atividades para o Ciclo do Biodiesel
+Descrição: Pesquisa de métodos e técnicas para estudos de localização empregando GIS (sistemas de informação georeferenciados) e banco de dados relacional. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fernando Rodrigues Lima - Coordenador / Carlos Alberto Nunes Cosenza - Integrante / César das Neves - Integrante / Flavio Raposo de Almeida - Integrante.Financiador(es): Petróleo Brasileiro - Rio de Janeiro - Matriz - Outra / Ministério de Minas e Energia - Outra.Número de produções C, T & A: 5
+2000 - 2004
+Maquete virtual para aasociação de dados da edificação (manutenção, segurança, avaliação)
+Descrição: pesquisa de modelos para Representação geometrica tridimensional de edificações, com vistas a associar os elementos geométricos virtualmente elaborados a seus dados reai, nos itens de segurança e manutenção, avaliação pós-ocupação, fluxos e processos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fernando Rodrigues Lima - Coordenador / Paulo Afonso Rheingantz - Integrante / Carlos Alberto Nunes Cosenza - Integrante / Flavio Raposo de Almeida - Integrante / Luis Eduardo de Azambuja Sauerbraum - Integrante.Número de produções C, T & A: 19
+1992 - Atual
+ENSINO DE EXPRESSÃO GRÁFICA EM ENGENHARIA
+Descrição: pesquisa e implementação de metodologias de ensino voltadas para aplicação de métodos e técnicas para ensino de desenho técnico e computação gráfica aplicada (CAD e GIS) nos cursos de engenharia. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Fernando Rodrigues Lima - Coordenador / Roberto de Castro Saldanha - Integrante / Roberto Machado Corrêa - Integrante.Número de produções C, T & A: 8

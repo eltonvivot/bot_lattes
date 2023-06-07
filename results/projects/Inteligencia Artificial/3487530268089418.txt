@@ -1,0 +1,82 @@
+2021 - Atual
+Detecção de uso de máscaras e distanciamento social utilizando modelos de deep learning
+Descrição: Com o objetivo de ajudar a conter a propagação e identificar indivíduos que não seguem as políticas de segurança no tocante a pandemia de COVID-19, pretendemos construir um modelo de Deep Learning, da família de Redes Neurais, chamado de Redes Neurais Convolucionais (Convolutional Neural Networks - CNN), que são algoritmos comprovadamente eficientes em análise de imagens. Esse modelo tem como objetivo detectar máscara facial e a detecção de distanciamento social entre as pessoas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vladimir Costa de Alencar - Coordenador / Pedro Henrique Rodrigues Pereira - Integrante.
+2021 - Atual
+CONSTRUÇÃO DE UM MODELO DE DEEP LEARNING PARA MONITORAMENTO DE AÇUDES
+Descrição: A pesquisa tem como objetivo construir um modelo de deep learning para realizar análises preditivas para o monitoramento de açudes e sinalizar a ocorrência de catástrofes (secas ou cheias nos açudes) como uma maior acurácia.
+Os dados serão obtidos através das séries temporais da Agência Executiva de Gestão das Águas do Estado da Paraíba (AESA).
+O estudo de caso será realizado com dados do açude Epitácio Pessoa (Boqueirão), pois trata- se de um reservatório de grande importância socioeconômica na região polarizada pela cidade de Campina Grande, Paraíba, que abastece esta cidade e todo o compartimento da Borborema.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vladimir Costa de Alencar - Coordenador / João Vitor Andrade Alves de Souza - Integrante.
+2020 - 2021
+USO DE DEEP LEARNING PARA DETECTAR COVID-19 EM IMAGENS DE TOMOGRAFIA COMPUTADORIZADA E RAIOS-X ?
+Descrição: Esta pesquisa tem como objetivo desenvolver um modelo de Deep Learning, da família de Redes Neurais, chamado de Redes Neurais Convolucionais (Convolutional Neural Networks - CNN), que são algoritmos comprovadamente eficientes em análise de imagens. Com CNN, criaremos um modelo para detectar o Novo Coronavirus (COVID-19) através de imagens de Tomografia Computadorizada e Raios-X.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Vladimir Costa de Alencar - Coordenador / Marcelo José Siqueira - Integrante / Lucas Ermando Ricardo da Silva - Integrante / Micheline Mendes - Integrante / Márcio Edglaiton Farias - Integrante.
+2019 - 2020
+MONITORAMENTO DA INTEGRAÇÃO DO RIO SÃO FRANCISCO COM A BACIA DO PARAÍBA UTILIZANDO TÉCNICAS DE DEEP LEARNING
+Descrição: O sistema proposto, tem como objetivo fazer uma análise descriva e inferencial do PISF (Projeto de Integração do Rio São Francisco) com a Bacia do Paraíba (até o Açude Boqueirão), monitorando os postos fluviométricos na extensão do Rio Paraíba (da cidade de Monteiro até o Açude Boqueirão). Ele também tem como objetivo usar técnicas de Deep Learning para monitorar e prever os volumes nos  oito postos fluviométricos, assim como o volume do Açude Epitácio Pessoa (Boqueirão), criando assim, um sistema de Sustentabilidade Hídrica para Bacia do Rio Paraíba (até o Açude Boqueirão), alertando a necessidade de aumento de recarga (ou racionamento), da condução das águas transpostas pelos postos fluviométricos e pelo açude Boqueirão.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Vladimir Costa de Alencar - Coordenador / Marcelo J. Siqueira - Integrante / Renato Ayron Cordeiro Nascimento - Integrante.
+2019 - 2020
+DETECÇÃO DE DOENÇAS DE PELE UTILIZANDO REDES NEURAIS CONVOLUCIONAIS - CNN
+Descrição: Esta pesquisa teve como objetivo desenvolver um modelo de Deep Learning, da família de Redes Neurais, chamado de Redes Neurais Convolucionais (Convolutional Neural Networks - CNN), que são algoritmos comprovadamente eficientes em análise de imagens. Com CNN, criaremos um modelo para detectar o Novo Coronavirus (COVID-19) através de imagens de Tomografia Computadorizada e Raios-X.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Vladimir Costa de Alencar - Coordenador / Marcelo J. Siqueira - Integrante / Micheline Mendes - Integrante.
+2018 - 2019
+ANALISE EPIDEMIOLÓGICA DAS PRINCIPAIS CAUSAS DE MORTE NO MUNDO, UTILIZANDO TÉCNICAS DE BIG DATA ANALYTICS
+Descrição: O projeto proposto tem como meta realizar uma análise epidemiológica das 10 principais doenças que causam mortes no mundo, tendo como referência os índices coletados pela Organização Mundial de Saúde, com o objetivo identificar fatores, padrões geradores de tais doenças e as variáveis que tem a maior contribuição para tais doenças que levam à morte.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vladimir Costa de Alencar - Coordenador / Marcelo José Siqueira - Integrante / Ana Luiza Nogueira Ribeiro - Integrante.
+2018 - 2019
+MONITORAMENTO DE AÇUDES ATRAVÉS DE REGRESSÃO LINEAR E REDES NEURAIS
+Descrição: Construir um sistema Monitoramento de açudes através de Regressão Linear e Redes Neurais, coletando os dados dos açudes em sites de domínio público, com o objetivo de analisar séries temporais do açude Epitácio Pessoa (Boqueirão), como estudo de caso, usando algoritmos de regressão linear e redes neurais para previsão de seca e/ou cheia, sendo implementado o sistema via Web e utilzando Dashboards.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vladimir Costa de Alencar - Coordenador / Eleonilia Monteiro Rodrigues - Integrante / Marcelo José Siqueira - Integrante.
+2017 - 2018
+USO DE BIG DATA ANALYTICS NA PREVISÃO DE DOENÇAS TROPICAIS ATRAVÉS DO TWITTER
+Descrição: o projeto proposto pretende identificar focos de epidemias de doenças tropicais com o uso do twitter, contribuindo assim, para políticas de apoio a identificação, controle e análise de doenças tropicais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vladimir Costa de Alencar - Coordenador / Eleonilia Monteiro Rodrigues - Integrante / Marcelo José Siqueira - Integrante / Ana Luiza Nogueira Ribeiro - Integrante.
+2017 - 2018
+UM SISTEMA DE APOIO A DECISAO PARA O ESTUDO EPIDEMIOLÓGICO DA HANSENÍASE NO MUNICÍPIO DE CAMPINA GRANDE
+Descrição: o projeto proposto pretende mostrar um panorama da hanseníase no município de Campina Grande e , assim, colaborar para a identificação de fatores sociais-ambientais-clínicos-epidemiológicos que possam contribuir com a adoção de políticas públicas para o diagnóstico precoce e favorecendo o prognóstico e a prevenção de incapacidades físicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vladimir Costa de Alencar - Coordenador / Eleonilia Monteiro Rodrigues - Integrante / Micheline Mendes - Integrante / Ana Luiza Nogueira Ribeiro - Integrante.
+2017 - 2018
+UM SISTEMA DE APOIO A DECISAO PARA O ESTUDO EPIDEMIOLÓGICO DA HANSENÍASE NO MUNICÍPIO DE CAMPINA GRANDE ? PB
+Descrição: o projeto proposto pretende mostrar um panorama da hanseníase no município de Campina Grande e , assim, colaborar para a identificação de fatores sociais-ambientais-clínicos-epidemiológicos que possam contribuir com a adoção de políticas públicas para o diagnóstico precoce e favorecendo o prognóstico e a prevenção de incapacidades físicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Vladimir Costa de Alencar - Coordenador / Marcelo José Siqueira - Integrante / Ana Luiza Nogueira Ribeiro - Integrante.
+2014 - 2017
+Epidemiology's Analysis of Zica and Chicungunya's Desease using social media
+Descrição: Predictive Analytics. Data Science. Machine Learning. Big Data. Epidemiology. Python. MongoDB. MySQL.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado profissional: (1) . Integrantes: Vladimir Costa de Alencar - Coordenador / José Carlos Mota - Integrante / Helder Nunes de Almeida - Integrante / Juliana Meira de Vasconcelos - Integrante / Jeane Karla de Mendonça Mota - Integrante / Flávia Lira Ferreira - Integrante / Zeneide Toledo - Integrante / Kauê Romero - Integrante / Wênia Livia Dantas Cavalcante - Integrante / Elaine Cristina - Integrante / Lídia Santos - Integrante / Magna Celi Tavares Bispo - Integrante.
+2013 - 2014
+UM SISTEMA DE APOIO A DECISAO PARA O ESTUDO EPIDEMIOLÓGICO DO CANCER NA CIDADE DE CAMPINA GRANDE
+Descrição: Este projeto tem como objetivo a construção de um Sistema de Apoio À Decisão - SAD, integrado com as Tecnologicas de Sistemas de Informações Geográficas e Mineração de Dados, para
+mapear os principais tipos de câncer que ocorrem na cidade de Campina Grande, PB, auxiliando os especialistas no estudo epidemiológico do câncer. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vladimir Costa de Alencar - Coordenador / JOAQUIM MANOEL ISIDRO - Integrante.
+2012 - 2013
+CONSTRUÇÃO DE UM BANCO DE DADOS DE TERMOGRAFIA COMPUTADORIZADA DOS PORTADORES DE NEOPLASIA MAMÁRIA DO HOSPITAL DA FUNDAÇÃO ASSISTENCIAL DA PARAÍBA (FAP)
+Descrição: Através do uso de técnicas de mineração de dados nos protocolos do banco de dados dos pacientes portadores de neoplasia mamária, espera-se conseguir identificar fatores determinantes do câncer de mama, criando um perfil de um paciente portador.Além disso, espera-se viabilizar a possibilidade de auxílio diagnóstico, ajudando na implementação de medidas preventivas para complicações da doença.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Vladimir Costa de Alencar - Coordenador / Gustavo Nóbrega Martins - Integrante.
+2012 - 2013
+USO DE TÉCNICAS DE MINERAÇÃO DE DADOS PARA EXTRAÇÃO DE CONHECIMENTO EM BASE DE DADOS DE PACIENTES PORTADORES DE NEOPLASIA MAMÁRIA NA CIDADE DE CAMPINA GRANDE
+Descrição: Este projeto tem como objetivo a construção de um Sistema de Apoio À Decisão - SAD, integrado com as Tecnologicas de Sistemas de Informações Geográficas e Mineração de Dados, para
+mapear os principais tipos de câncer que ocorrem na cidade de Campina Grande, PB, auxiliando os especialistas no estudo epidemiológico do câncer.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Vladimir Costa de Alencar - Coordenador / JOAQUIM MANOEL ISIDRO - Integrante.
+2012 - 2013
+USO DE TÉCNICAS DE MINERAÇÃO DE DADOS PARA EXTRAÇÃO DE CONHECIMENTO EM BASE DE DADOS DE PACIENTES PORTADORES DE NEOPLASIA MAMÁRIA NA CIDADE DE CAMPINA GRANDE.
+Descrição: Através do uso de técnicas de mineração de dados nos protocolos do banco de dados dos pacientes portadores de neoplasia mamária, espera-se conseguir identificar fatores determinantes do câncer de mama, criando um perfil de um paciente portador.Além disso,. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado profissional: (1) . Integrantes: Vladimir Costa de Alencar - Coordenador / Helder Nunes de Almeida - Integrante.
+2011 - 2015
+Aplicações Biotecnológicas em Saúde e Meio Ambiente
+Descrição: Aplicações Biotecnológicas em Saúde e Meio Ambiente
+- Construção de Banco de Dados em Biotecnologia
+- Termologia e Termometria Infravermelha em Saúde
+- Reconhecimento de padrões de células na área de oncologia (mama). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Vladimir Costa de Alencar - Integrante / NASCIMENTO, RAILDA SELSHEA . T. R. - Coordenador / Gustavo Nóbrega Martins - Integrante / Analu Cabral de Medeiros - Integrante / Aline Ferreira de Araújo Jerônimo - Integrante / Micaela Cavalcanti de Moura Farias - Integrante / Rosália Ferreira Diniz Neta - Integrante.Financiador(es): Universidade Estadual da Paraíba - Auxílio
+										financeiro.
+2011 - 2012
+Modelagem de um banco de dados epidemiológico dos portadores de neoplasia mamária das macro-regiões do estado da Paraíba
+Descrição: Construir um banco de dados epidemiológico dos portadores de neoplasia mamária visando identificar nas macro-regiões da Paraíba fatores determinantes da incidência de neoplasia mamária.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Vladimir Costa de Alencar - Coordenador / Analu Cabral de Medeiros - Integrante.
+2006 - Atual
+CISDERGO - Cropping and Irrigation System Design with (Optimal) Reservoir and Groundwater Operation
+Descrição: O CISDERGO é um programa de otimização linear recursiva (ie, leva em consideração a natureza não linear do problema de forma recursiva), desenvolvido no ambiente MATLAB, destinado a maximizar múltiplos benefícios/objetivos relativos à implantação ou melhoramento da operação de um ou mais perímetros irrigados.  Para isso, pode-se, de forma integrada, otimizar o uso/operação da água captada de um reservatório, poços e rios.  Também, pode-se otimizar os usos de vários sistemas de motobombas levando-se em consideração suas capacidades de sucção e recalque. O programa, ainda, permite a inserção de vários níveis de cotas no perímetro irrigado e suas limitações de área física e operacionais com relação aos tipos de culturas e irrigações a serem utilizados em cada nível.  Caso houver dados sobre a qualidade de água, estes podem ser naturalmente inclusos no cálculo da necessidade líquida das culturas.  Além das limitações que são naturalmente impostas as variáveis do problema, o CISDERGO permite, ainda, a inclusão de novas limitações de recursos (financeiros, mão de obra, insumos, agrotóxicos, área, etc.) assim como a mudança da função objetivo (como, por exemplo, minimizar o uso de agrotóxicos enquanto maximiza a receita líquida).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (3)  / Doutorado: (4) . Integrantes: Vladimir Costa de Alencar - Integrante / Wilson Fadlo Curi - Coordenador / José Carlos Mota - Integrante.Financiador(es): Universidade Federal de Campina Grande - Cooperação.
+2005 - 2006
+SEGHIDRO
+Descrição: SEGHIDRO
+É um projeto de Segurança Hídrica com o objetivo de Apoiar à Gestão Sustentável dos Recursos Hídricos para Usos Urbano, Rural e Agrícola. Há uma parceria entre a UFCG, e o "Projeto Cooperar" do Estado da Paraíba. Financiado pela,  FINEP-CTINFO-GRADE.
+	No transcorrer do ano de 2005, varias instituições se agregaram ao projeto SegHidro, como: AESA/SECTMA-PB, Embrapa, SAIA-PB, ITEP, LAMEPE/PE, FUNCEME, CPTEC, HP-Brasil, UFCE, UFPE, etc, fortalendo assim, o projeto, dando oportunidade a continuidade do mesmo em 2006.
+Objetivos Gerais
+1)	Análise e operação em tempo real de reservatórios e aqüíferos
+2)	Otimização da operação para segurança hídrica
+3)	Usa a previsão de tempo e clima
+4)	Decisores e usuários distribuídos espacialmente
+Financiamento
+MCT/CT-Hidro/CT-Info/FINEP e CNPq. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Especialização: (1)  / Mestrado acadêmico: (5)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Vladimir Costa de Alencar - Integrante / Carlos de Oliveira Galvão - Coordenador / Walfredo Cirne - Integrante / Rodolfo Nóbrega - Integrante / Erick Moreno - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2004 - 2006
+COPAD
+Descrição: COPAD
+ É uma Cooperativa de Processamento de Alto Desempenho, apoiado pela FINEP/CT-INFRA onde tem duas finalidades: 
+a) Promover inovações técnico-administrativas e mudanças na cultura de utilização de recursos computacionais, compartilhando-os e aumentando a sua eficiência, no âmbito das estruturas organizacionais das instituições usuárias;
+b) Suportar aplicações de alto desempenho nas áreas de Clima e Recursos Hídricos, importantes para o Desenvolvimento Sustentável do Brasil, em especial do Semi-Árido Brasileiro.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8)  / Especialização: (2)  / Mestrado acadêmico: (6)  / Mestrado profissional: (0)  / Doutorado: (4) . Integrantes: Vladimir Costa de Alencar - Integrante / Carlos de Oliveira Galvão - Integrante / Walfredo Cirne - Coordenador / Rodolfo Nóbrega - Integrante / Erick Moreno - Integrante.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.

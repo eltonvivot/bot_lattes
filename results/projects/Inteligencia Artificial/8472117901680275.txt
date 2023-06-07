@@ -1,0 +1,29 @@
+2021 - Atual
+Classificação de Open Read Frames (ORF) em Genomas de organismos Eucariotos para predição de anotações gênica
+Descrição: As regiões gênicas são regiões do genoma que codificam proteínas e outros tipos de RNAs. Os métodos de predição in silico em organismos procariotos apresentam taxas próximas a 96% das regiões verdadeiramente codificantes, mas com valores muito alto de falsos-positivos. Entretanto, em eucarioto essas taxas são muito inferiores, além disso, em eucariotos a complexidade é maior, normalmente os organismos possuem mais cromossomos e a densidade gênica conhecida é muito inferior a densidade gênica observada em procariotos. As regiões gênicas de eucariotos ainda são formadas por sequências interpostas ou intervenientes, onde os introns são removidos principalmente por splicing de RNA durante a produção do mRNA. Neste projeto, estamos estudando a aplicação de reconhecimento de padrões para identificação e classificação das regiões codificantes.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Razer Anthom Nizer Rojas Montaño - Integrante / Dieval Guizelini - Coordenador / Luís Sérgio da Silva Joppert - Integrante.
+2020 - Atual
+Lógica Matemática Aplicada: Compilação do Conhecimento, SAT, Planejamento e Jogos
+Descrição: Este trabalho apresenta a fundamentação teórica sobre quatro áreas da
+Inteligência Artificial: Representação do Conhecimento, Satisfatibilidade, Planejamento e 
+General-Game Playing (GGP). São apresentadas a lógica clássica proposicional e lógica
+modal. O problema de Satisfatibilidade e Planejamento é abordado, como aplicações
+da representação do conhecimento em lógica. A GGP é apresentada como uma área rica
+em problemas em raciocínio sobre ações. Este projeto tem como objetivo o estudo destas áreas de forma multidisciplinar para aplicação de lógica matemática na representação e
+resolução de problemas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Razer Anthom Nizer Rojas Montaño - Coordenador.Número de produções C, T & A: 1
+2020 - Atual
+Aplicação de Ciência de Dados na Análise de Dados Acadêmicos para Previsão de Evasão
+Descrição: Levando em consideração o problema da evasão em cursos do ensino superior, este projeto tem como objetivo analisar os dados acadêmicos da UFPR, de forma anônima, usando ferramentas de ciência de dados e aprendizado de máquina para detecção de evasão. Espera-se que esta análise leve à detecção de relação entre a evasão e algum dado acadêmico, que pode gerar ações pró-ativas da instituição junto ao seu corpo discente.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Razer Anthom Nizer Rojas Montaño - Coordenador.Número de produções C, T & A: 1
+2017 - Atual
+Aprendizado de Máquina Aplicada
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (13) . Integrantes: Razer Anthom Nizer Rojas Montaño - Coordenador.Número de produções C, T & A: 9
+2015 - Atual
+Mensuração Florestal Usando Técnicas de Aprendizado de Máquina
+Descrição: O Projeto visa aplicar técnicas de aprendizado de máquina em problemas florestais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Razer Anthom Nizer Rojas Montaño - Coordenador.Número de produções C, T & A: 3
+2014 - 2019
+Aplicações Móveis no Apoio à Educação
+Descrição: Estudo e desenvolvimento de aplicações móveis para a maior integração do aluno com o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, bem como dar uma maior flexibilidade para os professores na gestão de suas turmas.
+Para tal, pretende-se customizar o Moodle que serve as disciplinas do TADS para que possa responder a requisições do tipo Web Services provenientes de aplicações móveis escritas para Android.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Razer Anthom Nizer Rojas Montaño - Coordenador.Número de produções C, T & A: 4
+2013 - 2018
+Satisfatibilidade Aplicada
+Descrição: A lacuna entre a produção teórica e sua aplicabilidade, na área de Inteligência Artificial, está diminuindo com o tempo. Um dos grandes avanços nesta área é o estudo de resolvedores SAT (Satisfatibilidade lógica), que conta com soluções rápidas e totalmente viáveis para uso em software corporativo.
+O objetivo desta pesquisa é alavancar o estudo da aplicação de satisfatibilidade em software corporativo para solução de problemas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Razer Anthom Nizer Rojas Montaño - Coordenador.Número de produções C, T & A: 1

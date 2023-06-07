@@ -1,0 +1,15 @@
+2014 - Atual
+Transição tecnológica dos sistemas de software OSS (Operations Support System) de missão crítica para o paradigma de Computação em Nuvem e Mobilidade
+Descrição: A proposta de projeto do CPqD envolve a disponibilização de uma plataforma de desenvolvimento de software como serviço (PaaS), que permita o rápido desenvolvimento de aplicações móveis que complementem a potencialidade da solução OSS atual, possibilitando às empresas usuárias ampliarem sua forma de atuação na gestão de suas plantas de rede.
+O projeto está organizado em duas sublinhas de pesquisa: 
+Linha 1: Plataforma de serviços na nuvem para desenvolvimento e execução de aplicações móveis georreferenciadas.
+	Trata da disponibilização de uma PaaS, que permita o rápido desenvolvimento de aplicações móveis que complementem a potencialidade da solução OSS atual.
+Linha 2: Automatização de testes para aplicações SaaS
+Prospecção de estratégias existentes para validação e verificação de software ofertadas como serviço, e definição de metodologias e ferramentas mais adequadas e eficazes ao contexto de um software nacional de missão crítica no modelo SaaS.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Klaus Raizer - Integrante / Cláudia Piovesan Macedo - Coordenador / Geovane Cayres Magalhães - Integrante / Lin Tzy Li - Integrante / Jacqueline Saraiva Barreto Nascimento - Integrante / Jane Ellen Morales - Integrante / Joana Malaverri - Integrante / Eliane Zambon Victorelli Dias - Integrante / Nilceli Gonçalves dos Santos Taliassaqui - Integrante / Mauro Lucio Rios - Integrante / Rafael Fernandes Batistella - Integrante / Anderson Delcio Parreira - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2007
+Sensor óptico de combustíveis para automóveis Flexfuel: Efeito do comprimento de onda da luz para a determinação da razão de concentração Álcool/Gasolina
+Descrição: Desde a crise do petróleo da década de 70, o Brasil tem ganhado destaque internacional na produção e utilização do álcool combustível para alimentar sua frota de veículos. Esse potencial, somado à importância de buscar sustentabilidade ambiental, tem feito com que o Brasil desponte em âmbito mundial no que tange à tecnologia Flex-fuel.
+	Um método inovador de se monitorar a composição e distribuição dos diversos componentes da mistura combustível é através do uso de fibras ópticas sensoras. 
+	Tais fibras são capazes de identificar a distribuição de álcool e gasolina em uma mistura através dos diferentes índices de refração relacionados às refletâncias que cada concentração específica apresenta.
+	Buscar-se-á, através desse relatório, detalhar os efeitos que o uso de diferentes comprimentos de onda exerce sobre essa técnica inovadora.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Klaus Raizer - Integrante / Carlos K. Suzuki. - Coordenador.Número de produções C, T & A: 4

@@ -1,0 +1,19 @@
+2017 - Atual
+Sistemas Dinâmicos Sujeitos à Incertezas: Modelagem, Filtragem, Controle e Aplicações
+Descrição: Devido a problemas de caracterização de incertezas ou complexidade de diversos sistemas, os modelos estocásticos têm tido um papel fundamental no estudo de sistemas reais. Este projeto de pesquisa tem como objetivo utilizar métodos estocásticos avançados e robustos para solucionar problemas relevantes de modelagem, estimação e controle associados a sistemas sujeitos à incertezas. O projeto contempla diversas questões teóricas e aplicações no tema que denominaremos de sistemas dinâmicos multi-modelo estocásticos, que inclui a classe dos processos de Markov determinísticos por partes (PMDP) e os sistemas com saltos Markovianos (SSM).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (5) Doutorado: (10) . Integrantes: Saul de Castro Leite - Integrante / Marcelo Dutra Fragoso - Coordenador / João Bosco Ribeiro do Val - Integrante / Oswaldo L.V. Costa - Integrante / François Dufour - Integrante / Leonardo Acho Zuppa - Integrante / Eduardo F. Costa - Integrante / João Y. Ishihara - Integrante / Edilson F. de Arruda - Integrante / André M. S. Barreto - Integrante / Alessandro N. Vargas - Integrante / Fabrício O. Ourique - Integrante / Marcos Garcia Todorov - Integrante / Victor Baptista Frencl - Integrante / Rafael Fontes Souto - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2015 - 2018
+Aproximações por Difusão para Sistemas de Filas em Regime de Tráfego Pesado e Aplicações
+Descrição: O presente projeto tem como objetivo o estudo da análise de sistemas de filas por meio de aproximações por difusão. Através destas aproximações, sistemas de filas complexos, que seriam de difícil manejo caso essa análise não fosse empregada, podem ser descritos por meio de uma difusão refletida que aparece em situações de limite.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Saul de Castro Leite - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2012 - 2014
+Núcleo de Computação Científica: Um Amplo Fórum para Disseminação de Conhecimento, Formação de Parcerias, e Promoção de Interesse em Computação Científica no Âmbito Acadêmico
+Descrição: Projeto aprovado no PRONEM - Programa de Apoio a Núcleos Emergentes de Pesquisa, 2010.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Saul de Castro Leite - Integrante / Maicon Ribeiro Corrêa - Integrante / Ana paula Couto da Silva - Coordenador / Carlos Cristiano Hasenclever Borges - Integrante / Alex Borges - Integrante / Telles Timoteo da Silva - Integrante / Felipe dos Santos Loureiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Auxílio
+										financeiro.
+2010 - 2013
+Métodos Numéricos para a Solução de Problemas de Controle Ótimo Estocásticos a Tempo Contínuo, com Aplicações em Sistemas Computacionais e de Comunicação
+Descrição: Neste projeto, estuda-se soluções numéricas para estes problemas de controle via o método da Cadeia de Markov Aproximada.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Saul de Castro Leite - Coordenador.Financiador(es): Universidade Federal de Juiz de Fora - Bolsa.
+2010 - 2011
+Sistemas de Filas em Redes Estocásticas:  Modelagem, Controle, Métodos Numéricos e Aplicações em Sistemas Computacionais e de Comunicação
+Descrição: O objetivo do projeto é o desenvolvimento de modelos através da a análise via Tráfego Pesado para problemas de filas em sistemas computacionais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Saul de Castro Leite - Coordenador.Financiador(es): Universidade Federal de Juiz de Fora - Auxílio
+										financeiro.

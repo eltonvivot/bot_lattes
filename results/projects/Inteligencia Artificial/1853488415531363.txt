@@ -1,0 +1,231 @@
+2020 - Atual
+Estudo do Desempenho de Sistemas MIMO Massive Aplicados em 5G
+Descrição: A tecnologia de comunicação MIMO (Multiple Input and Multiple Output) em larga escala ou maciça pode aumentar o desempenho do sistema em muitos aspectos, tornando-se uma das principais tecnologias para a quinta geração (5G) de redes sem fio. A tecnologia MIMO pode aumentar tremendamente a capacidade da rede, permitindo que os usuários utilizem simultaneamente toda a largura de banda disponível. Isso leva a uma eficiência espectral aprimorada. Assim, aumentando o número de antenas de estação base, a potência necessária para atingir a taxa de informação desejada pode ser reduzida. Além disso, os arranjos de antenas em grande escala são cruciais para obter um feixe altamente direcional. Portanto, o surgimento de sistemas de ondas milimétricas (mmWave), onde a formação de feixes desempenha um papel vital, destacou ainda mais a importância do MIMO maciço. No entanto, a tecnologia MIMO descobriu problemas totalmente novos que não são da preocupação dos sistemas MIMO convencionais de pequena escala. Vale destacar que existem ainda muitos estudos a serem desenvolvidos sobre os diversos parâmetros de sistemas MIMO maciços reais, como por exemplo, a eficiência de canais realistas, as interferências, a contaminação do piloto, os modelos matemáticos a serem desenvolvidos baseados em Inteligência Artificial (Artificial Intelligent - AI) e Aprendizagem de Máquinas (Machine Learning - ML), dentre outros. Neste projeto de pesquisa as ferramentas matemáticas deverão ser usadas para analisar a camada física dos sistemas de comunicação sem fio 5G. Além disso, deve-se analisar detalhes sobre os modelos e suposições que serão aplicados ao longo do trabalho. Informações sobre padrões e parâmetros sem fio aplicados nesta pesquisa também deverão ser fornecidos, como os modelos de estimativa de canal, eficiência espectral, contaminação do piloto, etc. Finalmente, este plano de trabalho se propõe a desenvolver um guia prático de simulações (Guideline) dos parâmetros fundamentais dos sistemas MIMO Massive aplicado à tecnologia 5G, empregando a plataforma computacional MATLAB.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Laércio Martins de Mendonça - Coordenador / Adaildo Gomes d´Assunção - Integrante.
+2019 - 2020
+ANTENAS COMPACTAS FRACTAIS PARA SISTEMAS DE COMUNICAÇÕES SEM FIO E NANOSSATÉLITES
+Descrição: A tecnologia atual gerou aplicações para o mundo moderno uma demanda cada vez mais crescente por sistemas de comunicações móveis sem fio mais confiáveis e com maiores capacidades de transmissão de informação. Além disso, tem-se observado uma necessidade crescente por dispositivos, aparelhos ou equipamentos de transmissão e recepção de radiofrequências de dimensões seguidamente mais reduzidas. Em relação a engenharia de satélites, novas tecnologias têm sido desenvolvidas, tais como nanossatélites, com dimensões extremamente reduzidas, levando a uma necessidade constante de otimização destes e também redução dos custos envolvidos na sua fabricação. As antenas planares de microfita têm sido largamente
+utilizadas em sistemas de comunicações sem fio nas faixas de microondas e ondas milimétricas desde meados dos anos 70. Objetivando dar suporte à miniaturização de dispositivos transmissores e receptores, é necessário o desenvolvimento e o projeto de antenas de dimensões cada vez mais reduzidas, usando-se técnicas cada vez mais sofisticadas para sua compactação e miniaturização. Este trabalho tem como base a utilização combinada de duas técnicas de compactação e miniaturização de antenas planares de microfita, com o objetivo de alcançar uma maior redução nas dimensões, volume e
+peso da estrutura radiante, atendendo às necessidades relativas aos sistemas de comunicações móveis sem fio de dimensões bastante reduzidas e principalmente de nanossatélites do Projeto CONASAT do Instituto Nacional de Pesquisas Espaciais (INPE).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Laércio Martins de Mendonça - Coordenador / Adaildo Gomes d´Assunção - Integrante.
+2016 - Atual
+Estudo da Capacidade de Canal para Futuros Sistemas de Comunicação Sem Fio usando Rádio Cognitivo
+Descrição: Esta pesquisa apresenta a análise de capacidade do canal para redes sem fio operando na faixa 4G e 5G (ondas milimétricas) e em ambientes reais com desvanecimento diversos, modelados pelas distribuições estatísitcas generalizadas α-µ e κ-µ, ou seja, são analisadas a capacidade de canal, a capacidade ergódica e a capacidade de outage, considerando-se as faixas de frequências inerentes às redes 4G e 5G. Assim, são realizadas comparações através de simulações computacionais das capacidades dos vários sistemas móveis atuais. Ademais, nesta pesquisa analisa-se também a capacidade de sistemas em cenário de compartilhamento espectral. Os resultados obtidos nesta pesquisa certamente servirão para evoluir o estado da arte em relação a melhoria da capacidade de sistemas de comunicações 4G e 5G empregando técnicas cognitivas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Laércio Martins de Mendonça - Coordenador / Ronaldo de Andrade Martins - Integrante / Adaildo Gomes d´Assunção - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Bolsa.
+2014 - Atual
+ANÁLISE DA CAPACIDADE E COBERTURA DA REDE SEM FIO Long Term Evolution (LTE) DE 4a. GERAÇÃO
+Descrição: Este projeto de pesquisa se propõe realizar o estudo de redes sem fio, destacando-se principalmente os parâmetros 'capacidade e cobertura' para a tecnologia Long Term Evolution (LTE) de 4ª Geração. Considerando a complexidade desta tecnologia (LTE) se faz necessário o estudo das suas principais características, tais como o modo de acesso rádio, a sua arquitetura e o seu dimensionamento. 
+A tecnologia LTE (Long Term Evolution) é um padrão para comunicação sem fio de alta velocidade de dados para telefones celulares e terminais de dados. É baseado nas redes GSM/EDGE e UMTS/HSPA, totalmente sobre IP, com a capacidade e velocidade aumentadas através de novas técnicas de modulação, antenas inteligentes e sistemas de redes auto-organizáveis
+Os procedimentos e desenvolvimentos deste projeto consistem no domínio das principais componentes teóricas da rede, além do desenvolvimento de técnicas numéricas ou de ferramentas de simulação com componente gráfica em ambiente computacional (Matlab, SCILAB e NS-3). Com estas ferramentas computacionais pretende-se realizar diversas simulações para a cobertura e capacidade, em função da influência do tilt mecânico/elétrico e da altura da antena numa rede LTE-4G. 
+Também será possível identificar as vantagens e desvantagem da tecnologia LTE, levando em consideração os cenários de tráfego de dados em áreas urbanas, suburbanas e rurais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Laércio Martins de Mendonça - Coordenador / Ronaldo de Andrade Martins - Integrante / Adaildo Gomes d´Assunção - Integrante.
+2010 - 2011
+DESENVOLVIMENTO DE ANTENAS INTEGRADAS E FSS PARA SISTEMAS DE COMUNICAÇÕES SEM FIO
+Descrição: Código: 	PVG5254-2010
+Título: 	DESENVOLVIMENTO DE ANTENAS INTEGRADAS E FSS PARA SISTEMAS DE 
+        COMUNICAÇÕES SEM FIO
+Tipo: 	INTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	Em andamento
+Unidade: 	CT - DIREÇÃO DO CENTRO DE TECNOLOGIA (14.31)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: 	Antenas, FSS, Propagação, Comunicações Sem Fio
+E-mail: 	adaildo@ct.ufrn.br
+Edital: 	EDITAL 01/2010 - PIBIC-PIBICAA-PIBITI
+Cota: 	PIBIC 2010-2011 (01/08/2010 a 31/07/2011)
+Arquivo do Projeto: 	Visualizar arquivo
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Telecomunicações
+Grupo de Pesquisa: 	GRUPO DE MICROONDAS E ANTENAS (GCG015-00)
+Linha de Pesquisa: 	Circuitos Integrados de Microondas;Dispositivos Passivos;Antenas ;Ondas Milimétricas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (3) . Integrantes: Laércio Martins de Mendonça - Integrante / Ronaldo de Andrade Martins - Integrante / Adaildo Gomes d´Assunção - Coordenador / Sandro Gonçalves da Silva - Integrante / Laércio M. de MENDONÇA - Integrante / Ranilson Carneiro Filho - Integrante / ROBSON HEBRAICO C. MANICOBA - Integrante / Filho, R. Carneiro - Integrante / Joêmia Leilane Gomes de Medeiros - Integrante / Maria Rosa Lins Medeiros de Albuquerque - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2010 - 2011
+Novos Materiais Cerâmicos para Antenas de Microfitas
+Descrição: Neste trabalho é realizada uma investigação experimental para antenas de microfita impressas empregando o substrato cerâmico niobato de bismuto (BiNbO4) e dióxido de titânio (TiO2), que possuem como características alta permissividade elétrica, alto fator de qualidade e baixo coeficiente de temperatura na freqüência de ressonância.
+Serão realizados simulações e medições com as antenas de microfita devidamente projetadas e otimizadas. Estas antenas são fortes candidatas a serem usadas em comunicações sem fio na faixa de freqüência de 1 GHz a 3 GHz.
+Os procedimentos multidisciplinares desta pesquisa envolvem os departamentos de química (desenvolvimento e obtenção do substrato cerâmico), de física (caracterização do substrato cerâmico em termos de permissividade dielétrica e tangente de perdas) e engenharia elétrica (simulação computação,construção e medição em laboratório da antena de microfita impressa sobre o substrato cerâmico).
+Novos materiais cerâmicos deverão ser investigados e utilizados como dielétricos em antenas impressas de microfita, superfícies seletivas de frequência (FSS), Antenas ressoadores dielétricas (DRA), etc.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Laércio Martins de Mendonça - Coordenador / Ronaldo de Andrade Martins - Integrante / Ranilson Carneiro Filho - Integrante / Wellington Candeia de Araújo - Integrante / Joêmia Leilane Gomes de Medeiros - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Bolsa.Número de produções C, T & A: 1
+2010 - 2010
+Fabricação e Caracterização de Materiais Cerâmicos para Microondas
+Descrição: Os recentes progressos em telecomunicações tem proporcionado uma alta demanda no desenvolvimento de dispositivos de microondas. Em particular, a miniaturização de dispositivos cerâmicos de microondas requer alta constante elétrica, baixa perda dielétrica e alta estabilidade de freqüência. Neste trabalho são estudados as técnicas de fabricação e caracterização dos materiais cerâmicos niobato de bismuto (BiNbO4) e o dióxido de titânio (TiO2). Deverão ser aplicadas técnicas de mistura e moagem de pós e em seguida serão compactadas por prensagem uniaxial e prensagem
+isostática. As amostras deverão ser sinterizadas na temperatura de 1400ºC, caracterizadas quanto às suas propriedades físicas - microestrutura e fases cristalinas através de análises de Raios X e Microscopia Eletrônica de Varredura e quanto às suas propriedades dielétricas em microondas (freqüência de ressonância, constante dielétrica e fator de qualidade devido às perdas dielétricas). Portanto, o objetivo principal do projeto em questão é obter cerâmicas com propriedades adequadas para o uso em circuitos de microondas. Além disso, para tal objetivo as cerâmicas devem apresentar microestrutura homogênea, densidade relativa alta e fase cristalina definida.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Laércio Martins de Mendonça - Coordenador / Ronaldo de Andrade Martins - Integrante / Adaildo Gomes d´Assunção - Integrante / Ranilson Carneiro Filho - Integrante / Joêmia Leilane Gomes de Medeiros - Integrante / AUGUSTO CESAR PEREIRA DA SILVA MONTALVÃO - Integrante / EMANUELE DA SILVA RODRIGUES MONTALVÃO - Integrante.Número de produções C, T & A: 1
+2008 - 2009
+Caracterização de Antenas Log-Periódicas em Estruturas de Microfita com Plano de Terra Truncado para Sistemas Wireless
+Descrição: Código: 	PVG2516-2008
+Título: 	Caracterização de Antenas Log-Periódicas em Estruturas de Microfita com Plano 
+        de Terra Truncado para Sistemas Wireless
+Tipo: 	INTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	CONCLUÍDO
+Unidade: 	CT - DEPARTAMENTO DE ENGENHARIA ELÉTRICA (14.19)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: Wireless, Antenas de microfita, Antenas log-periódicas.
+E-mail: 	ronaldo@ufrnet.br
+Edital: 	Distribuição de Bolsas de Iniciação Científica (PIBIC e PROPESQ)
+Cota: 	2008-2009 (01/08/2008 a 31/07/2009)
+Arquivo do Projeto: 	Visualizar arquivo
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas
+Grupo de Pesquisa: 	GRUPO DE MICROONDAS E ANTENAS (GCG015-00)
+Linha de Pesquisa: 	Microondas e Antenas
+Resumo
+As antenas de microfita são dispositivos muito empregados em sistemas modernos de telecomunicações, devido à facilidade de construção, ao pequeno volume e às suas dimensões reduzidas. A principal limitação destas antenas é a largura de faixa estreita. A utilização de um arranjo log-periódico destas antenas permitirá o aumento da largura de faixa de operação, através da melhora da resposta em freqüência em decorrência da introdução de novos elementos e graus de liberdade nos projetos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Laércio Martins de Mendonça - Integrante / Ronaldo de Andrade Martins - Coordenador / Adaildo Gomes d´Assunção - Integrante / Moises Santos da Silva - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Auxílio
+										financeiro.
+2007 - 2011
+Antenas, Circuitos e Arquiteturas para Sistemas de Comunicação Banda Larga. Acordo CAPES-COFECUB (2007-2011)
+Descrição: Projeto de cooperação, executado no âmbito do acordo CAPES-COFECUB (n. 563/07), para desenvolvimento de pesquisas em sistemas de comunicações UWB, com o intercâmbio de professores e alunos, além da orientação de alunos de doutorado em regime de co-tutela. Instituições envolvidas: UFRN. (UFRN - Natal) e a Escola Nacional Superior de Telecomunicações (ENST - Paris).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Laércio Martins de Mendonça - Integrante / Humberto César Chaves Fernandes - Integrante / Adaildo Gomes d´Assunção - Coordenador / Xavier Begaud - Integrante / Bernard Huyart - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Cooperação.
+2007 - 2010
+DESENVOLVIMENTO DE CIRCUITOS PLANARES E CARACTERIZAÇÃO DO CANAL DE PROPAGAÇÃO DE SISTEMAS DE COMUNICAÇÕES SEM FIO (PQ-1A, Proc. n. 312101/2006-6)
+Descrição: Código: 	PVG2047-2008
+Título: 	DESENVOLVIMENTO DE CIRCUITOS PLANARES E CARACTERIZAÇÃO DO CANAL 
+        DE PROPAGAÇÃO DE SISTEMAS DE COMUNICAÇÕES SEM FIO (PQ-1A, Proc. n. 
+        312101/2006-6)
+Tipo: 	EXTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	FINALIZADO 
+Unidade: 	CT - DEPARTAMENTO DE ENGENHARIA ELÉTRICA (14.19)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: 	Antenas, comunicações sem fio, propagação, FSS, circuitos planares.
+E-mail: 	adaildo@ct.ufrn.br
+Período do Projeto: 	01/03/2007 a 28/02/2010
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas
+Grupo de Pesquisa: 	GRUPO DE MICROONDAS E ANTENAS (GCG015-00)
+Linha de Pesquisa: 	Circuitos Integrados de Microondas;Dispositivos Passivos;Antenas ;Ondas Milimétricas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Laércio Martins de Mendonça - Integrante / Rossana Maria Souza Cruz - Integrante / Adaildo Gomes d´Assunção - Coordenador / Sandro Gonçalves da Silva - Integrante / FABIO MORAIS DE MATOS - Integrante / ROBSON HEBRAICO C. MANICOBA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Univerdade Federal do Rio Grande do Norte - Cooperação.
+2007 - 2008
+DESENVOLVIMENTO DE CIRCUITOS E CARACTERIZAÇÃO DO CANAL DE PROPAGAÇÃO DE SISTEMAS DE COMUNICAÇÕES SEM FIO
+Descrição: Código: 	PVG1437-2007
+Título: 	DESENVOLVIMENTO DE CIRCUITOS E CARACTERIZAÇÃO DO CANAL DE 
+        PROPAGAÇÃO DE SISTEMAS DE COMUNICAÇÕES SEM FIO
+Tipo: 	INTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	CONCLUÍDO
+Unidade: 	CT - DEPARTAMENTO DE ENGENHARIA ELÉTRICA (14.19)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: Antenas, propagação, FSS, comunicações móveis, comunicações sem fio
+E-mail: 	adaildo@ct.ufrn.br
+Edital: 	Distribuição de Bolsas de Iniciação Científica PIBIC/PROPESQ 2007-2008
+Cota: 	2007-2008 (01/08/2007 a 31/07/2008)
+Arquivo do Projeto: 	Visualizar arquivo
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas
+Grupo de Pesquisa: 	GRUPO DE MICROONDAS E ANTENAS (GCG015-00)
+Linha de Pesquisa: 	Circuitos Integrados de Microondas;Dispositivos Passivos;Antenas ;Ondas Milimétricas
+Corpo do Projeto
+Resumo
+Serão empregadas técnicas de análise rigorosas no desenvolvimento de novas configurações de antenas e de FSS, em estruturas com multicamadas e com materiais dielétricos anisotrópicos. Também serão estudadas novas geometrias de antenas e de FSS sobre metamateriais. Dentre as novas configurações de antenas com patch de microfita, serão incluídas estruturas com
+patches com fendas (como no caso da U-slot antenna), antenas quase-Yagi planares (com novas configurações para o elemento diretor) e antenas quase-log-periódicas.
+Esses estudos têm como objetivos principais o desenvolvimento de antenas de banda larga e de multibanda, para aplicações nos sistemas atuais de comunicações móveis/sem fio. Na verdade, essas propostas correspondem à continuidade do trabalho realizado no projeto anterior, que permitiu a obtenção de resultados originais, sendo que alguns deles foram publicados recentemente.
+Nesta proposta, as redes neurais serão empregadas na caracterização de configurações complexas de antenas e de FSS. Serão consideradas por exem. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Laércio Martins de Mendonça - Integrante / Ronaldo de Andrade Martins - Integrante / Rossana Maria Souza Cruz - Integrante / Adaildo Gomes d´Assunção - Coordenador / Sandro Gonçalves da Silva - Integrante / Laércio M. de MENDONÇA - Integrante / Fernando Rangel de Sousa - Integrante / FABIO MORAIS DE MATOS - Integrante / Maria Rosa Lins Medeiros de Albuquerque - Integrante / LIVIA MARIA SOCORRO PARAISO DE MORAES - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2006 - 2008
+Sistemas Inteligentes de Supervisão e Controle de Qualidade de Energia (Casadinho, Proc. n. 620110/2006-6)
+Descrição: Código: 	PVG2049-2008
+Título: 	Sistemas Inteligentes de Supervisão e Controle de Qualidade de Energia 
+        (Casadinho, Proc. n. 620110/2006-6)
+Tipo: 	EXTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	CONCLUÍDO
+Unidade: 	CT - DEPARTAMENTO DE ENGENHARIA ELÉTRICA (14.19)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: Sistemas em Chip; Sistemas de Controle e Supervisão; Qualidade de Energia Elétrica; Rede de sensores; Geração Distribuída.
+E-mail: 	adaildo@ct.ufrn.br
+Período do Projeto: 	01/12/2006 a 30/11/2008
+Arquivo do Projeto: 	Visualizar arquivo
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Automação Eletrônica de Processos Elétricos e Industriais
+Grupo de Pesquisa: 	GRUPO DE MICROONDAS E ANTENAS (GCG015-00)
+Linha de Pesquisa: 	antenas, microondas
+Resumo
+Este projeto tem por objetivo principal, além de implantar e recuperar a infra‐estrutura de pesquisa, fortalecer a cooperação entre os cursos de pós‐graduação em engenharia elétrica da UFRN e da UFCG com ênfase na formação de pessoal nas áreas de sistemas de controle de qualidade de energia elétrica, sistemas de geração distribuída, redes de sensores sem fio, microeletrônica e antenas, dispositivos, circuitos e sistemas de rádio‐freqüência. O desenvolvimento do projeto proporcionará a formação de recursos humanos através da realização de mini‐cursos e da produção conjunta de dissertações de mestrado e de teses de doutorado. Estas atividades permitirão a produção de instrumentos de divisão de conhecimentos através da publicação de artigos em periódicos indexados e apresentação de trabalhos em conferências. O projeto foi elaborado baseando‐se em cooperações informais já existentes entre os grupos LEIAM e LIMC da UFCG com os seus pares LACI, GMA e REACT Lab da UFRN. Foi construída uma estratégia de cooperação que possibilitará a expansão dos grupos consolidados (LEIAM e LIEMC) e que agregará ao processo de cons. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Laércio Martins de Mendonça - Integrante / Rossana Maria Souza Cruz - Integrante / Adaildo Gomes d´Assunção - Coordenador / Sandro Gonçalves da Silva - Integrante / Fernando Rangel de Sousa - Integrante / FABIO MORAIS DE MATOS - Integrante / ROBSON HEBRAICO C. MANICOBA - Integrante / ALDAYR DANTAS DE ARAUJO - Integrante / RICARDO LUCIO DE ARAUJO RIBEIRO - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 1
+2006 - 2008
+DESENVOLVIMENTO DE CIRCUITOS E CARACTERIZAÇÃO DO CANAL DE PROPAGAÇÃO DE SISTEMAS DE COMUNICAÇÕES SEM FIO (Edital Universal, Proc. n. 485509/2006-7)
+Descrição: Código: 	PVG2048-2008
+Título: 	DESENVOLVIMENTO DE CIRCUITOS E CARACTERIZAÇÃO DO CANAL DE PROPAGAÇÃO DE SISTEMAS DE COMUNICAÇÕES SEM FIO (Edital Universal, Proc. n. 485509/2006-7)
+Tipo: 	EXTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	Concluído
+Unidade: 	CT - DEPARTAMENTO DE ENGENHARIA ELÉTRICA (14.19)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: 	propagacao e comunicacoes sem fio; Antenas; FSS
+E-mail: 	adaildo@ct.ufrn.br
+Período do Projeto: 	01/10/2006 a 30/09/2008
+Arquivo do Projeto: 	Visualizar arquivo
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas
+Grupo de Pesquisa: 	GRUPO DE MICROONDAS E ANTENAS (GCG015-00)
+Linha de Pesquisa: 	Circuitos Integrados de Microondas;Dispositivos Passivos;Antenas ;Ondas Milimétricas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Laércio Martins de Mendonça - Integrante / Rossana Maria Souza Cruz - Integrante / Adaildo Gomes d´Assunção - Coordenador / Sandro Gonçalves da Silva - Integrante / FABIO MORAIS DE MATOS - Integrante / ROBSON HEBRAICO C. MANICOBA - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Universidade Federal do Rio Grande do Norte - Cooperação.
+2006 - 2008
+DDESENVOLVIMENTO DE ANTENAS, CIRCUITOS PLANARES E DISPOSITIVOS FOTÔNICOS PARA ALTAS FREQÜÊNCIAS
+Descrição: Código: 	PVG341-2006
+Título: 	DESENVOLVIMENTO DE ANTENAS, CIRCUITOS PLANARES E DISPOSITIVOS 
+        FOTÔNICOS PARA ALTAS FREQÜÊNCIAS
+Tipo: 	EXTERNO (2ª Renovação)
+Categoria: 	Pesquisa Científica
+Situação: 	CONCLUÍDO
+Unidade: 	CT VICE-DIRETORIA (14.31.08)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: ANTENAS INTEGRADAS; PROPAGAÇÃO; COMUNICAÇÕES MÓVEIS
+Período do Projeto: 	01/08/2006 a 01/07/2008
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Telecomunicações
+Grupo de Pesquisa: 	GRUPO DE MICROONDAS E ANTENAS (GCG015-00)
+Linha de Pesquisa: 	antenas, microondas
+Corpo do Projeto
+Resumo
+Nos últimos anos, muito do interesse científico na área de dispositivos e circuitos para altas freqüências se concentrou: a) na utilização de novos materiais, para serem usados em estruturas planares de multicamadas, b) no modelamento mais rigoroso do fenômeno da propagação nessas estruturas e c) no desenvolvimento de novos dispositivos, a partir de estruturas periódicas, como arranjos de antenas, superfícies seletivas de freqüências (FSS) e filtros photonic band-gap (PBG) para microondas.
+Em relação à utilização de novos materiais em estruturas planares de linhas de transmissão e antenas, foram realizados vários trabalhos com dielétricos anisotrópicos, ferrimagnéticos magnetizados, supercondutores, fotocondutivos e ?chirais? [1]-[9]. Esses trabalhos foram dedicados à determinação das características de diversas linhas planares e de seus circuitos, incluindo: antenas planares (como as de microfita), filtros, acopladores e defasadores.
+Essa investigação dos efeitos produzidos pela utilização de novos materiais em dispositivos e circuitos planares é de grande interesse para o desenvolvimento científico e tecnológico, em face da possibilidade de melhoria das características de sistemas de comunicações de altas freqüências. Esse interesse aumenta quando nesses estudos são utilizadas técnicas numéricas rigorosas, eficientes e precisas,. Situação: Concluído; Natureza: Pesquisa. Integrantes: Laércio Martins de Mendonça - Integrante / Maria Rosa M L Albuquerque - Integrante / Ronaldo de Andrade Martins - Integrante / Adaildo Gomes d´Assunção - Coordenador / Fernando Rangel de Sousa - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Cooperação / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2004 - 2006
+DESENVOLVIMENTO DE ANTENAS, CIRCUITOS PLANARES E DISPOSITIVOS FOTÔNICOS PARA ALTAS FREQÜÊNCIAS
+Descrição: Código: 	PVG341-2004
+Título: 	DESENVOLVIMENTO DE ANTENAS, CIRCUITOS PLANARES E DISPOSITIVOS 
+        FOTÔNICOS PARA ALTAS FREQÜÊNCIAS
+Tipo: 	EXTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	FINALIZADO
+Unidade: 	CT VICE-DIRETORIA (14.31.08)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: ANTENAS INTEGRADAS; PROPAGAÇÃO; COMUNICAÇÕES MÓVEIS
+Período do Projeto: 	01/08/2004 a 01/07/2006. Situação: Concluído; Natureza: Pesquisa. Integrantes: Laércio Martins de Mendonça - Coordenador / Adaildo Gomes d´Assunção - Integrante / Ronaldo de Andrade Martins - Integrante / Sandro Gonçalves da Silva - Integrante / Maria Rosa Lins Medeiros de Albuquerque - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2004
+DISPOSITIVOS E CIRCUITOS DE MULTICAMADAS COM SUPERCONDUTORES E DIELÉTRICOS ANISOTRÓPICOS PARA ALTAS FREQUÊNCIAS
+Descrição: Código: 	PVG779-2003
+Título: 	DISPOSITIVOS E CIRCUITOS DE MULTICAMADAS COM SUPERCONDUTORES E 
+        DIELÉTRICOS ANISOTRÓPICOS PARA ALTAS FREQUÊNCIAS
+Tipo: 	EXTERNO (2ª Renovação)
+Categoria: 	Pesquisa Científica
+Situação: 	FINALIZADO
+Unidade: 	CT VICE-DIRETORIA (14.31.08)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: Antenas; FSS; Microondas
+Período do Projeto: 	01/08/2002 a 01/08/2004
+Área de Conhecimento, Grupo e Linha de Pesquisa
+Área de Conhecimento: 	Telecomunicações. Situação: Concluído; Natureza: Pesquisa. Integrantes: Laércio Martins de Mendonça - Integrante / Adaildo Gomes d´Assunção - Coordenador / Sandro Gonçalves da Silva - Integrante / Maria Rosa Lins Medeiros de Albuquerque - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2001 - 2003
+DISPOSITIVOS E CIRCUITOS DE MULTICAMADAS COM SUPERCONDUTORES E DIELÉTRICOS ANISOTRÓPICOS PARA ALTAS FREQUÊNCIAS
+Descrição: Código: 	PVG779-2002
+Título: 	DISPOSITIVOS E CIRCUITOS DE MULTICAMADAS COM SUPERCONDUTORES E DIELÉTRICOS ANISOTRÓPICOS PARA ALTAS FREQUÊNCIAS
+Tipo: 	EXTERNO (1ª Renovação)
+Categoria: 	Pesquisa Científica
+Situação: 	FINALIZADO
+Unidade: 	CT VICE-DIRETORIA (14.31.08)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: 	Antenas;FSS;Microondas
+Período do Projeto: 	01/08/2001 a 01/08/2003. Situação: Concluído; Natureza: Pesquisa. Integrantes: Laércio Martins de Mendonça - Integrante / Adaildo Gomes d´Assunção - Coordenador / Maria Rosa M L Albuquerque - Integrante / Sandro Gonçalves da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2000 - 2001
+Fundamentos e Aplicações de Antenas Adaptativas em Comunicações Móveis
+Descrição: Código: 	PVG31-2000
+Título: 	Fundamentos e Aplicações de Antenas Adaptativas em Comunicações Móveis
+Tipo: 	INTERNO (Projeto Novo)
+Categoria: 	Pesquisa Científica
+Situação: 	FINALIZADO
+Unidade: 	CT VICE-DIRETORIA (14.31.08)
+Centro: 	CENTRO DE TECNOLOGIA (14.00)
+Palavra-Chave: Antenas Adaptativas;Modelos de Canais Móveis;Algoritmos Adaptativos para CDMA 
+Resumo
+Desenvolver pesquisas sobre Antenas Inteligentes para comunicações móveis, incluindo-se os casos de utilização de sistemas de antenas adaptativas e de sistemas de formadores de feixe. Serão consideradas as modelagens de canais tempo-espacial e os algoritmos RMS e RLS, além de algoritmos cegos. Também será analisado os casos de múltiplo acesso TDMA e principalmente CDMA, para fins de determinação de suas características principais (Sistemas de 2a. e 3a. Gerações).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Laércio Martins de Mendonça - Coordenador / Antonio Rénede Rodrigues de Matos - Integrante.Financiador(es): Universidade Federal do Rio Grande do Norte - Auxílio
+										financeiro.Número de produções C, T & A: 4

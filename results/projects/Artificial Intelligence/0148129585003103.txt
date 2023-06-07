@@ -1,0 +1,65 @@
+2018 - Atual
+Análise multiparamétrica da textura de vértebras lombares em imagens de ressonância magnética e correlação com fraturas por fragilidade
+Descrição: A osteoporose constitui a doença metabólica óssea mais frequente, sendo caracterizada por redução da densidade mineral óssea (DMO) e aumento da fragilidade óssea. Atualmente, a DMO mensurada por densitometria óssea (DXA) constitui o padrão de referência para diagnóstico de osteoporose. Diversos estudos têm demonstrado que a DMO isoladamente não é capaz de predizer o risco de fratura e que alterações dos parâmetros de qualidade óssea como alterações da microarquitetura trabecular e da adiposidade da medula óssea (AMO) poderiam explicar a fragilidade óssea conjuntamente com a DMO, melhorando a predição da ocorrência de fraturas por osteoporose. Adicionalmente, estudos publicados na literatura têm demonstrado que medidas de textura óssea estão associadas a estrutura trabecular permitindo estimar a arquitetura óssea quantitativamente.
+A Ressonância Magnética é promissora para estudar a osteoporose, não utiliza radiação ionizante e permite a análise de diferentes parâmetros de textura óssea, além de possibilitar a avaliação da composição lipídica da medula óssea. Esses parâmetros conjuntamente com a DMO mensurada por DXA e dados clínicos do paciente permitiriam identificar com maior acurácia a resistência óssea e o risco de susceptibilidade a fraturas.
+O objetivo do estudo é a utilização de atributos quantitativos de textura óssea relacionados com a estrutura trabecular que conjuntamente com os demais parâmetros de qualidade óssea e DMO estão relacionados a resistência óssea, melhorando a predição diagnóstica de fraturas por fragilidade óssea e acompanhamento terapêutico.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Marcello Henrique Nogueira Barbosa - Coordenador / Paulo Mazzoncini de Azevedo Marques - Integrante / Francisco Albuquerque de Paula - Integrante / Jamilly Gomes Maciel - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2017 - Atual
+Mineração, Indexação e Visualização de Big Data no Contexto de Sistemas de Apoio a Decisão Clínica - (MIVisBD)
+Descrição: Today, almost all human activities generate and/or demand to store and process massive,
+diverse and complex data, either in scientific, academic, enterprise and even leisure pursuits -- a
+scenario that has being called the ?big data era?.
+Health-related activities are in the core of those activities, as they both produce big data
+and can take advantage of the technological storm, improving the behavior of everyone whose
+decision is increasingly guided by the information extracted from all these big data. In a clinical
+environment, the Electronic Health Records (EHR) is the anchor to develop information
+extraction strategies.
+In this proposal, we aim at integrating novel, scalable database support, image processing
+and visual analytics methods to leverage large amounts of EHR and repositories of clinical data
+to gather valuable and significant information for decision-making.
+The size and complexity of EHR databases offer great challenges when they need to be
+processed in terms both of applying analysis techniques and to support the development of
+subsequent applications for practical tools.
+However, it also embodies a cornucopia of opportunities to create algorithms and
+methods able to display smart and relevant information related to either a particular patient or
+groups of patients and to boost the EHR into a more effective platform to support the healthcare
+professionals, coping medical applications and strategic government decisions with the demands
+and benefits of big data.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcello Henrique Nogueira Barbosa - Integrante / Marcel Koenigkam-Santos - Integrante / Agma Juci Machado Traina - Integrante / Rangaraj Mandayam Rangayyan - Integrante / Paulo M. de Azevedo-Marques - Coordenador / Marco Antonio Gutierrez - Integrante / Caetano Traina Júnior - Integrante / Sameer K. Antani - Integrante / Christos Faloutsos - Integrante / Umberto Tachinardi - Integrante / Thomas Deserno - Integrante / Marcela Xavier Ribeiro - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2014 - Atual
+Classificação semiautomática de fraturas vertebrais benignas e malígnas em imagens de ressonância magnética
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1) . Integrantes: Marcello Henrique Nogueira Barbosa - Coordenador / Paulo Mazzoncini de Azevedo Marques - Integrante / Rangaraj M. Rangayyan - Integrante / Lucas Frighetto pereira - Integrante / Guilherme Augusto Metzner - Integrante / Rafael Melo Seksenian - Integrante / Heloisa Ferreira Spagnoli - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.
+2012 - 2015
+Avaliação ultrassonográfica de nervos periféricos em pacientes com hanseníase, antes e após o tratamento específico
+Descrição: Projeto dentro da linha de pesquisa "Investigação de neuropatias periféricas por meio do diagnóstico por imagem".
+A proposta foi realizar um estudo longitudinal, sistemático, em pacientes encaminhados do ambulatório de hanseníase do HC-FMRP-USP, antes e após o tratamento poliquimioterápico, para compreender melhor os aspectos de imagem desta doença, pois os achados por imagem são escassos na literatura médica. 
+Apesar do conhecimento sobre as alterações no nervo periférico na ultrassonografia não há, ainda, padronização de investigação das alterações de imagem na doença.
+O objetivo deste projeto é descrever a evolução temporal das alterações morfológicas dos nervos periféricos acometidos na neuropatia da Hanseníase, decorrentes da evolução natural da doença ou relacionadas ao tratamento instituído, que sejam identificáveis por meio da ultrassonografia.
+Espera-se com os resultados contribuir para definição de padrões ultrassonográficos de alterações de nervos periféricos na hanseníase, com foco nas alterações pós tratamento.
+Auxílio Pesquisa Regular FAPESP 2013/05095-0.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marcello Henrique Nogueira Barbosa - Coordenador / Wilson Marques Junior - Integrante / Norma Foss - Integrante / Marco Andrey Cipriani Frade - Integrante / Helena Barbosa Lugão - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2011 - Atual
+Efeito dos subtipos posturais sobre os discos intervertebrais lombares e sobre a liposubstituição da musculatura paravertebral lombar,  estudo por meio de técnicas quantitativas em ressonância magnética
+Descrição: Projetos da linha de pesquisa "Técnicas Quantitativas em Diagnóstico por Imagem do Sistema Musculoesquelético"
+Este projeto na verdade se subdivide em dois subprojetos, que correspondem aos projetos de mestrado dos alunos Rafael de Menezes Reis e Gustavo Perazzoli Bonugli por mim orientados no Programa Ciências da Saúde Aplicadas ao Aparelho Locomotor FMRP USP.
+No estudo do aluno Rafael será analisado o tecido dos discos intevertebrais lombares pelas técnicas de difusão, mapeamento T2 e o mapeamento T1 rho, técnicas que em estudos anteriores se mostraram adequadas para quantificação in vivo das alterações metabólicas ou bioquímicas da degeneração discal. O estudo objetiva identificar se os diferentes tipos de posturas já mapeados na literatura podem constituir fator de risco para degeneração discal em diferentes níveis da coluna vertebral, por fatores mecânicos de sobrecarga diferenciada dos discos intervertebrais em indivíduos com constituição anatômica especifica. O projeto do aluno Gustavo Perazzoli Bonugli objetiva identificar se há diferença no grau de liposubstituição na musculatura paravertebral nos diferentes grupos posturais. Estes dois projetos foram agrupados em um projeto conjunto que foi submetido e aprovado na ultima chamada Universal do CNPq. A aluna de iniciação cientifica Camila Silva de Carvalho da graduação em Fisioterapia da FMRP USP também é colaboradora destes dois projetos.
+CNPq 473688/2012-3 aprovado na chamada Universal 14/2012, Faixa A.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (3)  / Doutorado: (2) . Integrantes: Marcello Henrique Nogueira Barbosa - Coordenador / Leonor Garbin Savarese - Integrante / Carlos Ernesto Garrido Salmon - Integrante / Gustavo Perazzoli Bonugli - Integrante / Rafael de Menezes Reis - Integrante / Camila Silva de Carvalho - Integrante / Mauricio Hiroki Tamashiro - Integrante / Debora Mazoroski - Integrante / Adriano Pezolato - Integrante / Mariane Jorge - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - Atual
+AVALIAÇÃO DOS FATORES ASSOCIADOS À EXTRUSÃO MENISCAL EM AMBOS OS COMPARTIMENTOS FÊMORO-TIBIAIS NA PRESENÇA E NA AUSÊNCIA DA CARGA CORPÓREA
+Descrição: Projeto dentro da linha de pesquisa "Ressonância magnética na investigação dos desarranjos internos do joelho".
+Os objetivos deste projeto são:
+Avaliar o desempenho da ultrassonografia na avaliação da extrusão dos meniscos na posição em decúbito, usando a ressonância magnética como padrão ouro.
+Avaliar as variações na extrusão dos meniscos entre as posições de decúbito e ortostática, usando a ultrassonografia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marcello Henrique Nogueira Barbosa - Integrante / Franciso Abaeté Chagas-Neto - Integrante / Roemer, Frank W. - Integrante / Michel Daoud Crema - Coordenador / Everaldo Gregio-Junior - Integrante / Mario Muller Lorenzato - Integrante / Ali Guermazi - Integrante.
+2010 - 2013
+Performance de novas técnicas de ressonância magnética no diagnóstico de lesões de estruturas internas do joelho
+Descrição: Projeto dentro da linha de pesquisa "Ressonância magnética na investigação dos desarranjos internos do joelho".
+Comparação entre o protocolo convencional de  ressonância magnética do joelho e um protocolo novo integrando sequencias isotrópicas, que proporcionam reconstruções multiplanares e quase isotrópicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Marcello Henrique Nogueira Barbosa - Coordenador / Francisco Abaeté Chagas-Neto - Integrante / Crema, Michel D. - Integrante.
+2008 - 2012
+Detecção semi automática de corpos vertebrais a partir de imagens radiográficas da coluna vertebral
+Descrição: Projeto da linha de pesquisa Técnicas Quantitativas em Diagnóstico por Imagem do Sistema Músculoesquelético.
+Este projeto está relacionado ao estudo de técnicas de processamento de imagens e apoio ao diagnóstico em imagens radiográficas do sistema músculo esquelético. Os objetivos devem ser alcançados por meio da implementação de algoritmos voltados para possibilitar extração de medidas quantitativas automáticas relacionadas à avaliação de fraturas e deformidades vertebrais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcello Henrique Nogueira Barbosa - Integrante / Paulo Mazzoncini de Azevedo Marques - Coordenador / Rangaraj M. Rangayyan - Integrante / Eduardo Alvarez Ribeiro - Integrante.
+2007 - Atual
+Avaliação da neuropatia em comunicantes assintomáticos da hanseníase pela ultra-sonografia
+Descrição: Projeto dentro da linha de pesquisa "Investigação de neuropatias periféricas por meio do diagnóstico por imagem".
+O objetivo deste projeto é avaliar os nervos periféricos dos comunicantes mais suscetíveis por meio dos exames de ultra-sonografia. O intuito é testar a hipótese de que existem alterações pré-clínicas em comunicantes e que a ultra-sonografia pode detectar estas alterações.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcello Henrique Nogueira Barbosa - Coordenador / Jorge Elias Júnior - Integrante / Antonio Carlos dos Santos FMRP USP - Integrante / Wilson Marques Junior - Integrante / Norma Foss - Integrante / Renata Bazan Furini - Integrante / Helena Barbosa Lugão - Integrante.

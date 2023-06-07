@@ -1,0 +1,92 @@
+2020 - Atual
+FAPERJ Ação Emergencial Projetos para Combater os Efeitos da Covid-19: Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio): Rede Temática de Combate aos Efeitos da COVID-19
+Descrição: É crítico e estratégico na luta contra a COVID-19 a oferta de soluções tecnológicas que permitam atuarmos adequadamente e de forma vantajosa nesse combate. Neste contexto, o Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio) integra e oferta a competência e capacidade técnica da comunidade científica e setor produtivo privado do Estado Rio de Janeiro para produzir inovação para o enfrentamento do SARS-COV-2. Este projeto objetiva produzir soluções tecnológicas inovadoras e baseadas em evidência envolvendo a transformação digital e técnicas de Inteligência Artificial a serem utilizadas para combater os efeitos da COVID-19. O provimento de cenários preditivos baseados em dados reais, em estimativas e em ações hipotéticas obtidos através de modelos e métodos matemáticos, estatísticos e de aprendizado de máquina permitirá melhorar a qualidade da tomada de decisão e, com isso, obter vantagem competitiva no combate contra o SARS-COV-2.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Integrante / Markus Endler - Integrante / Roberto de Andrade Medronho - Coordenador / Alexandre Evsukoff - Integrante / Marley Vellasco - Integrante / Esteban Walter Gonzalez Clua - Integrante / Luiz Satoru Ochi - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2019 - Atual
+FAPERJ PRONEM 2019: MAssiSo - Modernização Assistida de Softwares Legados para Adoção de Tecnologias Disruptivas
+Projeto certificado pelo(a) coordenador(a) Alessandro Fabricio Garcia em 11/09/2022.
+Descrição: Descrição: A cidade do Rio de Janeiro é responsável por concentrar uma parcela significativa do desenvolvimento de software abrangendo cerca de 40% da produção nacional. Muitos desses softwares se tornam legados: fornecem funcionalidades essenciais para organizações, porém usam tecnologias comumente defasadas. Há uma grande dificuldade em manter ou mesmo modernizar esses softwares, especialmente devido a degradação estrutural que afeta o código. No entanto, vários desses softwares são muito importantes para serem descartados. Para as organizações manterem-se competitivas nos cenários nacional e internacional, é crucial a modernização de softwares legados. A inclusão de novas tecnologias disruptivas, tais como microsserviços e Blockchain, ajuda a: (i) evitar a descontinuação de softwares legados essenciais, e (ii) oferecer várias outras oportunidades para as organizações. Para realizar tais modernizações, refatoração é a principal e mais desafiadora atividade, visto que o nível de degradação de código legado requer reestruturações complexas. O desenvolvedor ainda tem a necessidade de identificar quais refatorações serão mais adequadas para o sistema alvo, o que acaba se tornando uma tarefa dispendiosa e propensa a erros se feita manualmente. Estudos relacionados focam apenas na automatização de refatorações simples. As técnicas para incorporação de tecnologias disruptivas deveriam prover um apoio automatizado para várias etapas de refatorações complexas, considerando o contexto do sistema que está sendo modernizado. Deste modo, o projeto MAssiSo visa: (i) realizar estudos com os sistemas legados da indústria Fluminense, que estão passando pelo processo de modernização; (ii) propor e desenvolver um sistema recomendador que auxilie no processo de refatoração de código legado; (iii) investigar técnicas de otimização e recomendação que permitam a identificação, aplicação e reintegração de refatoração em código legado, (iv) avaliar o impacto na qualidade do software após a re-estruturação proposta pelo recomendador. MAssiSo tem um grupo de quatro pesquisadores, que possuem diferentes bolsas de produtividade, além de serem referências internacionais nas áreas de Engenharia de Software e Otimização.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (7) Doutorado: (6) . Integrantes: Marcos Kalinowski - Integrante / Leonardo Murta - Integrante / Alessandro Garcia - Coordenador / Thibaut Vidal - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2016 - 2019
+FAPERJ PRONEM 2016: Resolução de Problemas Críticos da Indústria de Software através da Teoria dos Grafos e seus Algoritmos
+Descrição: A indústria de software enfrenta diversos problemas críticos que tem levado projetos de software ao fracasso. Pesquisas da área de Engenharia de Software investigam métodos, técnicas e ferramentas para tratar estes problemas. As áreas de Otimização Combinatória e Teoria dos Grafos, por sua vez, têm fornecido diversas soluções para problemas que podem ser representados através de grafos. Este projeto possui como premissa utilizar os recursos da otimização combinatória e da teoria dos grafos para obtenção de soluções inovadoras, jamais aplicadas no contexto da engenharia de software. Para tal, aplica-se transformações de problemas concretos e críticos de ES para problemas em grafos.
+Como ponto de partida serão tratados três problemas específicos e relevantes da área: (i) prevenção de problemas da engenharia de requisitos através da análise de suas causas e consequências; (ii) a combinação de métodos de verificação e validação de software com base em características de qualidade do produto; e (iii) o alinhamento de variabilidades em linhas de produto de software às necessidades de clientes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Integrante / Alessandro Garcia - Integrante / Uéverton dos Santos Souza - Coordenador / Andréa Magalhães - Integrante / Luis Antonio Brasil Kowada - Integrante / Raquel de Souza Francisco Bravo - Integrante / Luis Satoru Ochi - Integrante / Fábio Protti - Integrante.Financiador(es): Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2016 - Atual
+HELENA: Hybrid dEveLopmENt Approaches in software systems development
+Descrição: The HELENA survey aims to investigate the use of hybrid development approaches in software systems development - from emerging and innovative sectors to regulated domains.
+The overall goal of this survey is to investigate, what the current state of the practice in software and systems development is. In particular, we aim to study, which development approaches (traditional, agile, main-stream, or home-grown) are used in practice and how they are combined, how such combinations were developed over time, and if and how standards (e.g., safety standards) affect the development process as such and the methods applied. With this information, we aim to push forward systematic process design and improvement activities to allow for more efficient and less-overhead development approaches.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Tayana Conte - Integrante / Rafael Prikladnicki - Integrante / Marco Kuhrmann - Coordenador.
+2014 - 2017
+CNPq UNIVERSAL 2014: Evidências Experimentais para a Combinação de Métodos de Verificação e Validação de Software
+Descrição: Estudos sugerem elevados custos referentes a atividades de garantia da qualidade em projetos de desenvolvimento de software. A combinação adequada de métodos de verificação e validação (V&V) pode se mostrar promissora para reduzir estes custos e aumentar a qualidade dos produtos. Entretanto, a seleção de diferentes métodos de V&V, bem como as interdependências entre eles ainda não são bem compreendidas. No Brasil, a indústria de software é constituída em grande parte por pequenas e médias empresas que, dada a falta de diretrizes para realizar a combinação adequada de métodos de V&V, possuem dificuldades em otimizar esta combinação para seu contexto, elevando os custos e prejudicando a qualidade do software produzido.
+Com base neste cenário, o presente projeto visa elaborar diretrizes baseadas em evidência que permitam uma combinação inicial adequada de métodos de V&V e conceber uma abordagem que possibilite a otimização contínua desta combinação, tendo em vista tanto o orçamento disponível quanto o contexto dos projetos e os critérios de qualidade a serem alcançados. As atividades visando o alcance do objetivo foram planejadas tendo em vista uma abordagem experimental para desenvolver tecnologias de software com apoio de estudos primários e secundários. Entre as contribuições científicas a serem geradas pela proposta destacamos: (i) caracterização de métodos de V&V, (ii) diretrizes para a combinação de métodos de V&V, (iii) software de apoio às tomadas de decisão em relação aos métodos de V&V a serem empregadas, e (iv) uma abordagem baseada em análise causal de defeitos para otimizar continuamente o uso de métodos de V&V em projetos de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Marcos Kalinowski - Coordenador / Guilherme Horta Travassos - Integrante / Arilo Claudio Dias Neto - Integrante / Tayana Conte - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 7
+2014 - Atual
+NaPiRE: Naming the Pain in Requirements Engineering
+Descrição: NaPiRE constitutes a globally distributed family of surveys on Requirements Engineering. It aims at establishing an open and generalisable set of empirical findings about the status quo as well as practical problems and needs in RE. 
+The overall goal is to distill empirically sound trends on: status quo and industrial expectations, experienced problems and how those problems manifest themselves in the process, and what the success factors for RE are. To reach this aim, we conduct the survey in a distributed and bi-yearly replicated manner. NaPiRE is thus comparable to the Chaos Report of the Standish Group with a particular focus on RE. In contrast to the Chaos Report, however, we strictly commit ourselves to follow the principles and values of evidence-based research. Further information at http://www.re-survey.org.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Marcos Kalinowski - Coordenador / Daniel Méndez Fernández - Integrante / Stefan Wagner - Integrante / Michael Felderer - Integrante.
+2007 - 2014
+iMPS: Resultados de Desempenho das Organizações que Adotaram o MPS
+Descrição: O projeto de pesquisa iMPS (informações para acompanhar e evidenciar variação de
+desempenho nas empresas que adotaram o Modelo MPS) foi iniciado pela SOFTEX em outubro de 2007 junto ao Grupo de Engenharia de Software Experimental da COPPE/UFRJ. 
+O projeto iMPS gerou para a SOFTEX a estruturação de um arcabouço conceitual que
+permite a avaliação sistemática e continuada do modelo MPS. Compõe este arcabouço
+conceitual um plano de estudo envolvendo os seguintes artefatos: o planejamento de um survey, os instrumentos para a aplicação do survey (formulário de consentimento,
+questionários de caracterização e de desempenho), manual de operação do iMPS e
+manual de análise dos resultados, além da definição de repositórios de conhecimento e apoio computacional adequado. Toda esta infra-estrutura permite, a partir d
+consolidação dos dados e análise dos resultados, fornecer à SOFTEX, BID organizações participantes os resultados de sua evolução, estimulando também
+publicações por parte das organizações. É importante destacar que o iMPS não tem o
+objetivo de comparar o desempenho de diferentes organizações. Intenciona apenas
+compreender a variação do desempenho, ao longo do tempo, em função da adoção do
+modelo MPS por uma organização específica, sendo que os dados, da forma como
+capturados, estão intencionalmente planejados a não permitir a comparação entre as
+diferentes organizações. A execução periódica do estudo permitirá no futuro ter
+informações sobre a variação do desempenho das organizações que adotaram o modelo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Coordenador.Financiador(es): Banco Interamericano de Desenvolvimento - Auxílio
+										financeiro / Ministério da Ciência, Tecnologia e Inovações - Auxílio
+										financeiro / Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Auxílio
+										financeiro / Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2007 - 2009
+PESC 11106 - Pesquisa e Desenvolvimento para Engenharia de Aplicações Web
+Projeto certificado pelo(a) coordenador(a) Guilherme Horta Travassos em 31/08/2012.
+Descrição: Pesquisa e desenvolvimento com a empresa MAXTRACK paa Engenharia de Aplicações Web.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Coordenador / Arilo Claudio Dias Neto - Integrante / Jobson Luiz Massolar da Silva - Integrante.Financiador(es): MAXTRACK - Auxílio
+										financeiro.
+2006 - 2011
+PESC 6282 - Desenvolvimento do Sistema de Informação Integrado para a COPPETEC
+Projeto certificado pelo(a) coordenador(a) Guilherme Horta Travassos em 31/08/2012.
+Descrição: Investigação in-vivo na área de Verificação , Validação e Testes no contexto do desenvolvimento de um sistema de software real, o Sistema de Informação para a Fundação COPPETEC.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Coordenador / Rodrigo Oliveira Spinola - Integrante / Arilo Claudio Dias Neto - Integrante / Jobson Luiz Massolar da Silva - Integrante.Financiador(es): Fundação Coordenação de Projetos, Pesquisas e Estudos Tecnológicos - Auxílio
+										financeiro.
+2005 - 2010
+Infra-Estrutura para apoiar a Engenharia de Software Experimental
+Projeto certificado pelo(a) coordenador(a) Guilherme Horta Travassos em 31/08/2012.
+Descrição: O objetivo dessa pesquisa é definir uma proposta de infra-estrutura computacional que permita a instanciação de ambientes que apóiem a gerência do conhecimento científico envolvido no processo de experimentação em Engenharia de Software, incluindo a definição, planejamento e execução de experimentos, e também o empacotamento das informações associadas e geradas ao longo do processo de experimentação que permitam sua reutilização para repetição por outros cientistas através da web.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Coordenador / Arilo Claudio Dias Neto - Integrante / Tayana Conte - Integrante / Jobson Luiz Massolar da Silva - Integrante / SOMULO NOGUEIRA MAFRA - Integrante / HELIO R COSTA - Integrante / PAULO SÉRGIO MEDEIROS DOS SANTOS - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do RJ - Auxílio
+										financeiro.
+2003 - 2005
+NSF-CNPq READERS II
+Projeto certificado pelo(a) coordenador(a) Guilherme Horta Travassos em 14/09/2015.
+Descrição: Projeto de pesquisa em parceria com a USP/São Carlos, UNIFACS, University of Maryland e o Franhofer Center referente à evolução de conhecimento referente à repetição de estudos na área de Inspeções de Software (Técnicas de Leitura) através do uso da Engenharia de Software Experimental.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Integrante / Rodrigo Oliveira Spinola - Integrante / Wladmir Chapetta - Integrante / Victor Basili - Integrante / Forrest Shull - Integrante / Jeffrey Carver - Integrante / Manoel Gomes de Mendonça - Integrante / José Carlos Maldonado - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro / The National Science Foundation - Cooperação.
+2002 - 2004
+Infra-Estrutura Computacional para Apoio ao Processo de Inspeção de Software
+Descrição: Inspeções de software melhoram a qualidade do software pela análise de
+seus artefatos, detectando seus defeitos para serem removidos antes que
+estes artefatos sejam passados para as próximas atividades do processo
+de desenvolvimento de software. Conhecimento a respeito de inspeções
+de software tem sido adquirido através de estudos experimentais. No
+entanto, muito deste conhecimento não é considerado nas propostas de
+apoio computacional até então existentes. O objetivo é disponibilizar uma
+infra-estrutura computacional (ferramentas CASE integradas) para apoiar o
+processo de revisão e inspeção de software. Em conjunto, garantir que
+dados relacionados ao processo de inspeção, tais como número e tipo de
+defeitos encontrados e esforço, sejam coletados e organizados de forma a
+permitir realizar a avaliação do processo e produto de forma qualitativa,
+possibilitando desta forma a identificação das melhorias necessárias ao
+processo e ao produto, respectivamente. A razão maior para se construir
+tal conjunto de facilidades está aderente com a necessidade de melhoria
+do processo e do produto e, principalmente, por não existir, a priori e com
+acesso irrestrito, conjunto ferramental que pudesse ser incorporado aos
+ambientes de desenvolvimento de software em uso no contexto nacional
+para apoiar o planejamento, execução e análise dos resultados dos
+processos de revisão e inspeção de software.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (4) . Integrantes: Marcos Kalinowski - Integrante / Guilherme Horta Travassos - Coordenador / Rodrigo Oliveira Spinola - Integrante / Luis Felipe Santos Silva - Integrante / Wladmir Chapetta - Integrante / Leonardo Nunez - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 5

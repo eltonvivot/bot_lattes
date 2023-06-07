@@ -1,0 +1,9 @@
+2016 - 2017
+Simulador de cirurgia de catarata
+Descrição: Desenvolvimento de um simulador para o treinamento de cirurgia de catarata com a utilização do dispositivo háptico Phantom Omni. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Letícia Fonseca Toledo - Coordenador / Jauvane Cavalcante de Oliveira - Integrante.
+2012 - 2015
+Problemas de Biotransferência de calor: Simulações numéricas de queimaduras de pele
+Descrição: Estudo comparativo dos métodos computacionais baseados em diferenças finitas, afim de determinar a distribuição de temperatura ao longo do tempo. Bem como prescrever as extensões dos ferimentos de uma queimadura na pele humana, utilizando o conceito de dano térmico. Utilizou-se o modelo de biotransferência de calor de Pennes em duas dimensões em um meio heterogêneo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Letícia Fonseca Toledo - Integrante / Felipe dos Santos Loureiro - Coordenador.
+2011 - 2012
+Solução Numérica de equações diferenciais parciais através de novas metodologias baseadas em funções de Green numéricas
+Descrição: Pesquisa e estudo comparativo entre diferentes métodos numéricos afim de obter um melhor desempenho computacional. A busca por soluções aproximadas tem sido muito utilizada quando a obtenção da solução analítica se torna impraticável , deste modo métodos numéricos para soluções de equações diferenciais vêm crescendo gradativamente ao longo do tempo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Letícia Fonseca Toledo - Integrante / Felipe dos Santos Loureiro - Coordenador.

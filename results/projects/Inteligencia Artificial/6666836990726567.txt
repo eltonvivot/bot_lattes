@@ -1,0 +1,53 @@
+2023 - Atual
+Teologia, Sociologia e Filosofia: Diálogos Orgânicos
+Descrição: O presente projeto intitula-se ?Teologia, Sociologia e Filosofia: Diálogos Orgânicos?, está
+inserido na linha de pesquisa ?Teologia e Sociedade?, e integra o Grupo de Pesquisa: ?EAD, Presencial
+e o Híbrido: vários cenários profissionais, de gestão, de currículo, de aprendizagem e políticas
+públicas?.
+Em decorrência da formação da área pelos cursos de Bacharelado em Teologia
+Interconfessional; Bacharelado em Teologia Católica; Bacharelado em Filosofia; Bacharelado em
+Sociologia; Licenciatura em Ciências da Religião; Licenciatura em Filosofia e Licenciatura em Sociologia,
+sentiu-se a necessidade de trabalhar interdisciplinarmente a fim de integrar conhecimentos e
+conteúdos contemplados nos diferentes cursos, e assim produzir reflexões mais ampliadas sobre
+problemas e temáticas atuais da sociedade contemporânea.
+Assim, refletir sobre questões relacionadas ao meio ambiente se faz algo urgente e necessário
+nos dias atuais. Pensar sobre esta temática oferecerá possibilidades fecundas para leituras e reflexões
+a partir de contribuições teórico-conceituais de autores renomados na área, visando sobretudo a
+relação entre a teoria e a prática de maneira contextualizada. Será uma leitura útil e profícua para os
+sujeitos envolvidos, provocando não somente a produção de literatura científica na área, mas ações
+de cidadania e inclusão social no campo da diversidade e da sustentabilidade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Carlos Eduardo - Integrante / Cícero Manoel Bezerra - Coordenador / Dinamara Pereira Machado - Integrante / Sandra Morais Ribeiro dos Santos - Integrante.
+2020 - Atual
+Detecção de Falhas em Sistemas Mecânicos usando observador Luenberger
+Descrição: As metodologias convencionais de diagnóstico de defeitos nem sempre resolvem particularidades inerentes à natureza do problema. Tem-se, então, de se fazer mudanças e/ou complementações em suas formulações.  A aplicação de observadores de estado como técnica de MBFDI encontra algumas limitações nos casos reais. Sabe-se que os modelos matemáticos não são exatamente perfeitos, uma vez que contêm hipóteses simplificadoras. Isto leva a diferenças de comportamento dinâmico entre o modelo e o sistema real e, desta forma, um sinal de resíduo não nulo deve existir mesmo na ausência de defeito. Utilizando a metodologia dos
+observadores de estado, pode-se ainda reconstruir os estados não medidos
+ou os valores provenientes de pontos de difícil acesso no sistema.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Carlos Eduardo - Coordenador / Geraldo Roberto de Sousa - Integrante / Vanessa do Carmo Martins - Integrante.
+2020 - Atual
+Monitoramento de Falhas em sistemas rotativos usando Equação de Paridade
+Descrição: A aplicação de sistemas de monitoramento de falhas em máquinas rotativas é extremamente
+importante e estratégica, pois permite detectar o surgimento de uma falha, acompanhar o
+desenvolvimento da mesma e, consequentemente, programar coerentemente a manutenção
+corretiva evitando-se a ocorrência de paradas inesperadas nessas máquinas.
+Os termos identificação e diagnose de falhas podem ser entendidos como detecção de
+comportamentos indesejáveis e anormalidades no sistema, através de medições de respostas
+dinâmicas. A identificação da falha, neste caso, pode ser
+realizada por diferentes abordagens baseadas em modelos: Equações de paridade (quando a falha afeta variáveis de entrada imensuráveis, os
+parâmetros são constantes e é apenas possível fazer a comparação das variáveis de saída
+do sistema e do modelo).
+Ao utilizar métodos baseados em modelos, pode-se trabalhar com uma única solução para o
+problema (função mono-objetiva), ou ainda, com um conjunto de soluções ótimas (funções multiobjetivas).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Carlos Eduardo - Coordenador / Roberto Geraldo de Sousa - Integrante / Vanessa do Carmo Martins - Integrante.
+2017 - 2018
+Diagnóstico de Defeitos em Sistemas Mecânicos Rotativos
+Descrição: Neste trabalho são apresentados conceitos, técnicas e padrões
+utilizados na área de manutenção preditiva de máquinas rotativas
+elétricas, mais precisamente na aplicação de métodos de inteligência
+artificial para diagnóstico de defeitos mecânicos através da análise de
+sinais de vibração.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Carlos Eduardo - Coordenador.
+2015 - 2016
+Metodologia para o processo automático de defeitos superficiais em telha cerâmica usando imagens IR e Redes Neurais Artificiais
+Descrição: Neste trabalho objetivou-se realizar imagens termográficas da superfície de telhas cerâmicas visando avaliar sua temperatura superficial, usando IR e Redes Neurais Artificiais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Carlos Eduardo - Coordenador.
+2013 - 2014
+Detecção de Falhas em Sistemas Mecânicos Excitados Estocasticamente através da Análise de Correlações
+Descrição: Este trabalho teve por objetivo abordar o problema de detecção de falhas em um sistema mecânico de dois graus de liberdade submetido a uma excitação estocástica, sendo que este enfoque é feito através da análise das funções de correlação entre os sinais medidos. Utilizou-se um modelo de rede neural Autoregressivo com média móvel (ARMA) para fazer o mapeamento das variações das respectivas funções em relação aos defeitos apresentados, para diferentes condições operacionais do sistema.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Alexandre Carlos Eduardo - Coordenador.
+2012 - 2013
+Monitoramento e Detecção de Danos em Placas de compósitos de matriz cerâmica usando Análise de Vibrações utilizando a Técnica de Análise Modal
+Descrição: Neste trabalho será investigado o comportamento dinâmico do compósito de matriz cerâmica , pela técnica de análise modal, em corpos de prova em forma de vigas planas . Cada viga será engastada em uma das extremidades e submetida a um ambiente vibratório através de uma excitação transiente aplicada na extremidade livre. As funções de resposta em freqüência, entre a força e a aceleração no ponto de aplicação da excitação, serão medidas e os valores de freqüência natural e fator de amortecimento referentes ao primeiro modo de vibração foram estimados através da técnica de análise modal.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Alexandre Carlos Eduardo - Coordenador.

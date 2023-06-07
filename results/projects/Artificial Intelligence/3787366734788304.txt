@@ -1,0 +1,31 @@
+2013 - 2019
+Repositório de artefatos de software e mecanismo de busca visando reuso de software
+Descrição: Prover uma forma de armazenamento e de recuperação de artefatos de software visando reuso.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Beatriz Terezinha Borsoi - Coordenador / Eduardo dos Santos - Integrante / Bruno Eduardo Follmann - Integrante.Financiador(es): Universidade Tecnológica Federal do Paraná - Bolsa.
+2011 - 2014
+Reuso de artefatos de software
+Descrição: Definição de metadados para armazenamento de artefatos de software visando reuso e mecanismo de busca de artefatos em repositório. E, ainda, implementação do repositório de artefatos como um aplicativo computacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Beatriz Terezinha Borsoi - Coordenador / Rubia Elisa de Oliveira Shultz Ascari - Integrante / Adriana Ariati - Integrante / Eliane Maria de Bortoli Fávero - Integrante / Nathanyel Sandi - Integrante / Vagner Lucion - Integrante.Número de produções C, T & A: 3 / Número de orientações: 2
+2011 - 2013
+Definição dos processos de uma fábrica de software com base em modelos de qualidade
+Descrição: Este projeto de pesquisa tem como meta a definição de uma fábrica de software a partir de processos, definidos com base em modelos de qualidade. Esses processos são definidos de acordo com modelos/normas de qualidade e com o objetivo de que possam ser utilizados como padrão para o desenvolvimento de projetos de software, especialmente por fábricas de software de pequeno porte. Esses modelos podem ser adaptados de acordo com o contexto de cada fábrica de software e as especificidades de cada um dos projetos de software desenvolvidos. Um processo padrão contém os elementos considerados essenciais para alcançar os objetivos estabelecidos para o processo. Esses elementos são as atividades, a sequência em que elas devem ser realizadas, as ações que as compõem, os atores que as realizam, os artefatos produzidos e os recursos necessários para realizá-las. Além dos modelos dos processos e para os artefatos, será desenvolvido um editor de processos. É um aplicativo computacional com os modelos definidos armazenados e permitirá alterar modelos (especializá-los), criar modelos novos, instanciar modelos por meio de um projeto de desenvolvimento de software e acompanhar o desenvolvimento de um projeto de software.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Beatriz Terezinha Borsoi - Coordenador / Rubia Elisa de Oliveira Shultz Ascari - Integrante / Soelaine Rodrigues Ascari - Integrante.Número de produções C, T & A: 1
+2011 - 2012
+Editor de processos de software
+Descrição: Sistema de software para compor um projeto de software como um conjunto de processos. Os processos são tratados como objetos.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Beatriz Terezinha Borsoi - Coordenador.Número de produções C, T & A: 2 / Número de orientações: 3
+2010 - 2012
+Estimativa de prazo de projetos de software utilizando inteligência computacional
+Descrição: O objetivo principal deste projeto é Desenvolver um sistema baseado em inteligência computacional, destacando-se lógica fuzzy, para realizar estimativa de prazo de projetos de software.
+Como objetivos específicos destacam-se:
+a) Identificar fatores que podem influenciar no prazo para desenvolvimento de um projeto de software e pontuar esses fatores com pesos de acordo com sua relevância pela influência que podem causar no desenvolvimento do projeto.
+b) Definir os fatores relevantes e que devem ser utilizados como regras fuzzy para o aplicativo desenvolvido. Esses fatores devem considerar os pesos definidos para os mesmos.
+c) Contribuir para que as empresas de software, especialmente as de menor porte, tenham um mecanismo de auxílio na elaboração de estimativas dos seus projetos de software.
+d) Auxiliar na consolidação e na profissionalização de empresas de software, especialmente as de menor porte, por meio do uso de uma ferramenta para estimativa de prazo de projeto de software desenvolvida como resultado de pesquisa.
+A justificativa da proposta deste projeto está na necessidade de prover mecanismos que auxiliem as empresas de software, especialmente as de menor porte, na definição de prazos de projetos de software. Destaca-se a ênfase nas empresas de menor porte por dois motivos. Primeiro, teoricamente, as empresas de maior porte (grandes e mesmo médias) têm melhores condições de buscar soluções próprias, seja internamente ou com auxílio especializado. Segundo, para ampliar as possibilidades de efetiva inserção e consolidação no mercado das empresas de software de pequeno porte, especialmente as que estão iniciando suas atividades. Isso porque estimativas acertadas podem contribuir para construir e consolidar uma imagem positiva da empresa com os seus clientes e o mercado, motivar a equipe e não onerar os projetos ou causar prejuízos financeiros para a empresa.
+Este projeto foi aprovado pela Chamada de Projetos 14/2009 do Programa de Apoio a Pesquisa Básica. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Beatriz Terezinha Borsoi - Coordenador / Rubia Elisa de Oliveira Shultz Ascari - Integrante / Kathya Silvia Collazos Linares - Integrante.Financiador(es): Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.Número de produções C, T & A: 4
+2008 - 2009
+Arquitetura de processo da norma NBR ISO/IEC 12207
+Descrição: Definição da arquitetura de processo da norma NBR ISO/IEC 12207. 
+Definição do modelo de objetos processo.
+Definição dos diagramas de processo (seqüência das atividades, com artefatos e atores) por meio de processo de negócio.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Beatriz Terezinha Borsoi - Coordenador.
+2008 - 2009
+Sistema para simulação de titulações potenciomátricas
+Descrição: Sistma para simular processos químicos laboratoriais de titulações potenciomátricas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (2) . Integrantes: Beatriz Terezinha Borsoi - Coordenador / Edilson Ferreira - Integrante.Número de produções C, T & A: 2

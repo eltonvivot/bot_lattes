@@ -1,0 +1,60 @@
+2020 - Atual
+Projeto SRNG : Segurança nas Redes da Nova Geração
+Descrição: Este projeto de pesquisa visa aperfeiçoar as redes de nova geração, que reunem a Internet das Coisas (IoT ? Internet of Things) conectadas através de ambientes intermediários na computação em nuvem. Os dispositivos de IoT também podem estar ligados à redes sem fio como redes mesh. Dentre as redes mesh de interesse estão as redes comunitárias que são formadas com a colaboração da comunidade e os participantes podem ser remunerados com criptomoedas.
+São alvos da pesquisa: novas formas de autenticação, aplicação de blockchain, junção dos protocolos de roteamento e pagamentos com criptomoedas, testes de penetração para evitar ataques e formas de guardar evidências para aplicação em perícias forenses nesses ambientes. Esses aspectos estão sendo investigados por alunos de doutorado e mestrado no Programa de Pós-Graduação em Ciência da Computação (PPGCC) da UFSC.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (3) . Integrantes: Carla Merkle Westphall - Coordenador / Rafael Bosse Brinhosa - Integrante / Carlos Becker Westphall - Integrante / Leandro Loffi - Integrante / MACHADO, CACIANO - Integrante.
+2014 - 2016
+GERPRI ? Gerenciamento de Identidades com Privacidade
+Descrição: Este projeto é a realização da meta 38 do projeto da RENASIC na FINEP. Esta meta faz parte do subprojeto do LATIM (Laboratório Virtual de Técnicas de Implementação Segura). O nome da meta é GERPRI ? Gerenciamento de Identidades com Privacidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Carla Merkle Westphall - Coordenador / Carlos Becker Westphall - Integrante / Jorge Werner - Integrante / Rafael Weingartner - Integrante.Número de produções C, T & A: 16
+2012 - Atual
+ConfCloud: Confiança na Computação em Nuvem
+Descrição: Projeto de pesquisa que está sendo realizado na UFSC, com alunos de trabalho de conclusão de curso, alunos de iniciação científica, mestrado e doutorado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Carla Merkle Westphall - Coordenador.
+2010 - 2014
+GESCONGRECO - GErência e Segurança para COmputação em Nuvem, Grade e REdes COgnitivas
+Descrição: Os principais problemas associados à implementação e uso da gerência de redes e serviços ocorrem devido à grande quantidade de proposições, padrões e de diferentes produtos oferecidos no mercado, dificultando consideravelmente a tomada de decisão no que se refere a utilização da abordagem de gerência de redes e serviços mais adequada. Novas tendências na área de gerência de redes e serviços vêm sendo pesquisadas, destacando-se: gerência de redes sem fio, de sensores, óticas, p2p, futura internet...; áreas funcionais de segurança, configuração, desempenho, contabilidade...; gerência de serviços de multimídia, data centers, grid, cloud, virtualização...; e gerência centralizada, autonômica, distribuída, auto-gerência, baseada em políticas... Propomos que novos conceitos devem ser desenvolvidos e agregados a atividade de gerenciamento de redes e serviços devido ao crescimento em complexidade dos serviços e interações, e do alargamento físico das redes de computadores e telecomunicações. Ressalta-se a urgência do desenvolvimento, emprego e aperfeiçoamento dos seguintes conceitos: (i) Gerência de segurança (IDS, criptografia, infra-estrutura de chaves públicas, protocolos...); (ii) Gerência para computação em nuvem; (iii) Gerência para computação em grade; (iv) Sistemas de detecção de intrusão; (v) Acordo de nível de serviço e segurança; (vi) Segurança em serviços da Internet; (vii) Gerência autonômica; e (vii) Autoconfiguração.... Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Carla Merkle Westphall - Integrante / Carlos Becker Westphall - Coordenador.
+2007 - 2010
+GERSAU (GErência de Redes e Serviços Autônoma e Ubíqua) (http://www.lrg.ufsc.br/projet.htm)
+Descrição: Este projeto tem atividades de pesquisa nas seguintes áreas:
+-Abordagens de Segurança para Interconexão de Clusters em Rede de Sensores Sem Fio
+-Modelo para Integração de Sistemas de Detecção de Intrusão através de Grades Computacionais .......12
+- Método para Detecção de Intrusão em Grades Computacionais
+-Gerência em Grades Computacionais de Dispositivos Móveis
+-Especificação, Monitoração e Controle de Acordos de Níveis de Serviço para Segurança
+-Gerência de Nível de Serviço Para o Setor Elétrico Utilizando Web Services 
+-Gerência em Rede de Sensores sobre Grades Computacionais para Telemedicina. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5)  / Mestrado acadêmico: (5)  / Doutorado: (5) . Integrantes: Carla Merkle Westphall - Integrante / Carlos Becker Westphall - Coordenador / Luiz Carlos Zancanella - Integrante / Fernando da Silva Cruz - Integrante / Marcos Dias de Assunção - Integrante / Paulo Silva - Integrante / Silvia Modesto Nassar - Integrante / Clara Amelia de Oliveira - Integrante / Fernando Luiz Koch - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2003 - 2007
+TAGERE (Tópicos Avançados em Gerência de Redes de Computadores e Telecomunicações)
+Descrição: Entre os objetivos do Projeto TAGERE destacam-se:
+1) Desenvolvimento de novos resultados para gerência de redes baseada em políticas;
+2) Desenvolvimento de novas aplicações para a automatização da gerência (gerência proativa);
+3) Continuidade dos estudos, análise e desenvolvimento da gerência de redes sem fio;
+4) Continuidade dos estudos e proposições sobre o uso de probabilidade e estatística na gerência de redes;
+5) Continuidade dos estudos e proposições sobre o emprego de inteligência artificial (sistemas especialistas,
+redes neurais, redes bayseanas, algoritmos genéticos e lógica fuzzy) na gerência de redes;
+6) Continuidade da análise, aperfeiçoamento e emprego de políticas, mecanismos e serviços de segurança na
+gerência de redes;
+7) Continuidade dos aperfeiçoamentos sobre gerência de redes através de agentes móveis, multi-agentes e grids
+de agentes;
+8) Estabelecer os requisitos necessários e apresentar soluções para cada tema de pesquisa mencionado acima;
+9) Aperfeçoamento e desenvolvimento de novas aplicações de gerência distribuída nos temas de pesquisa
+abordados neste projeto;
+10)Contribuir para o avanço teórico, experimental e prático dos temas de pesquisa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carla Merkle Westphall - Integrante / Carlos Becker Westphall - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2002 - 2003
+Suporte de Autenticação e Autorização baseado em Cadeias de Confiança
+Descrição: O projeto "Cadeias de Confiança" tem como objetivo conceber mecanismos de segurança flexíveis e eficientes para aplicações distribuídas de modo permitir a troca de documentos eletrônicos pela Internet. Aspectos de segurança são garantidos utilizando SPKI - uma infra-estrutura de chave pública padronizada pela IETF - fundamentando a certificação de documentos no conceito de redes de confianca. 
+Este projeto está sendo desenvolvido pelo Departamento de Automação e Sistemas da UFSC, com a colaboração do Departamento de Informática e Estatística. O projeto está sendo financiado pelo CNPq no programa ProTeM de Pesquisa em Conteúdos Digitais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carla Merkle Westphall - Integrante / Joni da Silva Fraga - Coordenador / Michelle Silva Wangham - Integrante / Frank Augusto Siqueira - Integrante / Altair Olivo Santin - Integrante / Emerson Ribeiro de Melo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação.
+2001 - 2002
+SEGURANÇA EM SISTEMAS DISTRIBUÍDOS E REDES MÓVEIS
+Descrição: A segurança em sistemas distribuídos e redes móveis, eficiente e eficaz em ambientes de larga escala, deve prover: 
+- a utilização de políticas, mecanismos e serviços de segurança para garantir somente acesso autorizado aos recursos da rede, considerando a problemática do controle de acesso em redes de larga escala;
+- interfaces administrativas para gerenciar os componentes presentes em aplicações de objetos distribuídos, resolvendo problemas de complexidade e escalabilidade na gerência das políticas de segurança;
+- combinação de suportes de segurança existentes nas plataformas utilizadas (Java, CORBA e Web, no caso deste projeto de pesquisa).
+A combinação Java/CORBA/Web pode auxiliar na definição de esquemas de autorização realizáveis e práticos, dentro do contexto de sistemas de larga escala, construídos sobre protocolos Internet. Com base em alguns modelos e políticas de segurança como o Modelo Matriz de Acesso, Bell e Lapadula, e Modelos de Controle de Acesso Baseados em Papéis (Role-based Access Control Models), é possível através de esquemas de autorização, adequados a esses modelos e políticas, garantir propriedades de segurança, mesmo em presença de códigos móveis.
+Este trabalho tem como objetivos:
+- a análise e o emprego de políticas de segurança na gerência de redes móveis e de larga escala
+- o refinamento e implementação de um serviço de políticas concretizado em dois níveis: nível global (representado pelo modelo CORBA de segurança) e nível local (representado pelo modelo de segurança Java e controles locais), fazendo uso de um servidor de diretórios como o LDAP (Lightweight Directory Access Protocol) 
+Os resultados esperados que podem ser citados são os seguintes: proposição de um modelo de segurança apropriado a redes móveis e de larga escala; implementação de protótipos envolvendo os conceitos definidos no modelo proposto; implementação de uma aplicação no sentido de evidenciar as políticas de controle de acesso obrigatórias; relatório das at. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carla Merkle Westphall - Coordenador / Carlos Becker Westphall - Integrante / Silvia Cristina Sardela Bianchi - Integrante / Ângela Maria Erdtmann - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.Número de produções C, T & A: 5
+1996 - 2000
+JaCoWeb - Esquema de Autorização usando os modelos de segurança Java/CORBA/Web
+Descrição: Estudo dos modelos de segurança associados com as plataformas Web, Java e CORBA e definição, projeto e desenvolvimento do esquema de autorização distribuído.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carla Merkle Westphall - Integrante / Joni da Silva Fraga - Coordenador / Lau Cheuk Lung - Integrante / Michelle Silva Wangham - Integrante / Ricardo Sangoi Padilha - Integrante / Luciana Moreira Sá de Souza - Integrante / Rafael Rodrigues Obelheiro - Integrante.Número de produções C, T & A: 9

@@ -1,0 +1,22 @@
+2017 - Atual
+Otimização de Redes de Potencia com RNA
+Descrição: Visa-se criar uma metodologia para análise de redes de potência utilizando RNA. Com esta metodologia espera-se a determinação de erros, melhoras no desempenho do sistema e, após um histórico de uso, a previsão de carga para períodos de pequeno, médio e longo prazo.
+Com os testes finalizados da metodologia, espera-se o desenvolvimento de uma ferramenta computacional para seu uso.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Isabela Miranda de Mendonça - Coordenador / Wellington Carlos da Conceição - Integrante / Márcia Cristina Vale Zanetti - Integrante.
+2017 - Atual
+Redes Neurais para Previsão de Vento
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Isabela Miranda de Mendonça - Coordenador / Matheus Nardy Aguiar - Integrante.
+2017 - Atual
+PLANEJAMENTO ESTÁTICO DA EXPANSÃO DO SISTEMA DE TRANSMISSÃO DE ENERGIA ELÉTRICA USANDO ÍNDICES DE SENSIBILIDADE
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Isabela Miranda de Mendonça - Coordenador / AUGUSTO CESAR LAVIOLA DE OLIVEIRA - Integrante.
+2017 - Atual
+PROJETO GERAÇÃO SOLAR CAMPUS JUIZ DE FORA
+Situação: Em andamento; Natureza: Pesquisa. Integrantes: Isabela Miranda de Mendonça - Coordenador / LUCAS ANTUNES PORPHYRIO - Integrante / Maria Julia Pereira Brandi - Integrante / Mário Gabriel Teixeira Milano - Integrante.
+2016 - 2017
+Estudo de Geração de Energia Eólica II
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Isabela Miranda de Mendonça - Coordenador.
+2015 - 2016
+Estudo de Geração de Energia Eólica I
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Isabela Miranda de Mendonça - Coordenador / TOMAZ ANTONIO PEREIRA FRACETTI - Integrante / JOAO LUCAS DE CASTRO - Integrante.
+2014 - 2015
+Modelagem de Fluxo de Carga no Problema de Planejamento da Expansão da Transmissão de Energia Elétrica
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Isabela Miranda de Mendonça - Coordenador / RAFAEL DE ASSIS SILVA - Integrante.

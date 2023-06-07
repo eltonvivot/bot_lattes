@@ -1,0 +1,13 @@
+2017 - 2018
+Desenvolvimento de Modelos de Simulação a Eventos Discretos aplicados a Serviços de Saúde
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Paulo Cesar Ribas - Coordenador / Lucas Carvalho Orofino - Integrante.
+2015 - 2017
+Desenvolvimento de Modelos Matemáticos para Otimização do Planejamento da Produção
+Descrição: Este projeto visa a construção de modelos de otimização matemática para o planejamento da produção em indústrias que trabalhem em bateladas, com caso de aplicação na indústria de bebidas. 
+Para tal foi realizado um levantamento bibliográfico de trabalhos referentes à otimização aplicada ao planejamento da produção e dimensionamento de lotes (em inglês lot-sizing), além de trabalhos que descrevem o processo planejamento e programação da produção.
+A partir destes trabalhos da literatura serão propostos modelos matemáticos para otimização do dimensionamento de lotes no planejamento da produção.
+O modelo matemático será testado e ajustado a fim de garantir a aderência à realidade. Os resultados obtidos serão analisados e comparados a resultados da prática industrial e da academia.
+Pretende-se ainda produzir material acadêmico descrevendo o trabalho desenvolvido, dificuldades encontradas, contribuições ao estado da arte e possíveis aprofundamentos e investigações adicionais.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paulo Cesar Ribas - Coordenador / Paula Bié Alves - Integrante / Mariana dos Anjos Zumpichiatti - Integrante / Fernanda Ribeiro Rocha - Integrante.
+2014 - 2015
+Desenvolvimento de Modelos de Simulação a Eventos Discretos Voltados à Análise Industrial de Refino de Petróleo
+Descrição: Projeto de pesquisa para a implementação de modelos de simulação de eventos discretos que representam os diversos processos envolvidos no refino e armazenamento de petróleo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Paulo Cesar Ribas - Coordenador / ALAN PAIVA DE OLIVEIRA - Integrante / GISELLE BAYER DO AMARAL - Integrante / LUIZA MARIA AZEVEDO DE MEDEIROS - Integrante.

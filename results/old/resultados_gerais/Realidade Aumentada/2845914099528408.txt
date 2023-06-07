@@ -1,0 +1,55 @@
+2020 - Atual
+Validação e Automatização de Estratégias para o Mercado Financeiro
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Lucas Henrique Ferreira - Integrante.
+2020 - Atual
+Personaliza - Modelo de negócios para personalização de equipamentos de hardware
+Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / João Gabryel Silva Gonçalves - Integrante.
+2020 - Atual
+Redes Neurais aplicadas a Jogos
+Descrição: O objetivo desse projeto é a integração de diversas iniciações científicas (Desenvolvimento de uma Inteligência Artificial para o jogo Chrome Dino, Desenvolvimento de uma Inteligência Artificial para o jogo Flappy Bird, Desenvolvimento de uma Rede Neural para classificar sprites do jogo Super Mario Bros, Processamento de imagens para filtrar informações e sprites do jogo Super Mario Bros) para treinar uma rede neural capaz de jogar o jogo Super Mario Bros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Jean Lucas de Sousa - Coordenador / Eduardo Alcebíades Queiroz Pereira - Integrante / Willon Rodrigues Freitas - Integrante / Lucas Moreira da Silva - Integrante / Nayara Silva Martins - Integrante.
+2019 - 2020
+Sistema para montagem de grade de horários de alunos com pré-requisitos
+Descrição: O projeto proposto consiste no desenvolvimento de uma aplicação web que, dados alunos
+com dependências na matriz curricular de seu curso, sugira combinações de disciplinas a
+serem estudadas no semestre corrente.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Natan Nunes Oliveira - Integrante.
+2019 - 2020
+Análise computacional de estratégias para o mercado financeiro
+Descrição: O mercado financeiro no Brasil vem em crescente expansão desde o início de 2016.
+Embora seja impossível prever com exatidão qual rumo o mercado irá tomar, esse cenário
+atual vem se mostrando excelente para conquistar investimentos altamente lucrativos. O objetivo do projeto é automatizar uma estratégia objetiva, eliminando a intervenção do investidor e analisando
+o potencial da mesma.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Diego Dias Pereira - Integrante.
+2019 - 2020
+Aplicação Mobile para Gerenciamento de Barbearia
+Descrição: A pesquisa consiste em desenvolver uma aplicação mobile que gerencie funções de uma
+barbearia. As funções inicialmente desenvolvidas serão: Agendamento de horários,
+controle de programa de fidelidade e troca de mensagens com os clientes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Gustavo Oliveira Garcia Ribeiro - Integrante.
+2018 - 2018
+TECWEBC: Sistema para Gerenciamento de Bancas de Trabalho de Conclusão de Curso
+Descrição: No Instituto Federal do Triângulo Mineiro (IFTM) todo o processo de Trabalhos de Conclusão de Curso (TCC) tem sido feito manualmente pelo coordenador de TCC sendo formalização, marcação e finalização da banca. Este é um processo repetitivo e moroso. Diante dessa situação, foi proposto um sistema para gerenciamento de TCCs, o TecWebC, que é uma ferramenta capaz de gerenciar toda a documentação gerada durante a etapa de formalização de TCCs do curso de Análise e Desenvolvimento de Sistemas (ADS). O sistema foi capaz de agilizar o processo de marcação, formalização e geração de documentação pertinente ao TCC, sendo utilizado inclusive para formalização e marcação dos trabalhos apresentados no ano atual.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Emerson Gabriel Pena Fernandes - Integrante.
+2017 - 2018
+Uso de Inteligência Artificial para apoio à Educação Excepcional
+Descrição: Buscando uma forma de melhor atender os alunos da educação excepcional na APAE ? Patrocínio, este trabalho tem por objetivo analisar os objetos de aprendizagem utilizados atualmente na instituição e, usando técnicas de IA auxiliar na criação do planejamento que os alunos deverão seguir ao longo de sua trajetória, baseado nos requisitos pessoais de cada um dos alunos da instituição. Por meio da IA, espera-se ser possível apresentar uma sequência de ações que melhor atenda a educação excepcional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Juliana Cristina Gonçalves - Integrante.
+2017 - 2017
+Planejamento em Jogos RTS
+Descrição: O objetivo desse projeto é estudar e analisar estratégias na geração de planos para jogos RTS, realizando comparações entre elas e decidindo quais são melhores, e posteriormente desenvolver uma IA capaz de desafiar jogadores humanos nos jogos RTS.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Felipe Gabriel da Cunha - Integrante.
+2016 - 2016
+Automação Residencial: uma proposta para redução do consumo de água
+Descrição: O uso de tecnologias para automação de residências é algo que vem crescendo ao longo do tempo, pois sua utilização facilita a vida de muitas pessoas agilizando processos do dia-a-dia e permitindo também a redução de custos essenciais para uma residência. Apesar disso, não é totalmente acessível ao usuário final pelo seu alto custo de implantação. Baseado nas afirmações, este projeto propõe a automação de duas atividades diretamente relacionadas ao consumo de água, porém utilizando tecnologias com custo final acessível ao consumidor: o controle do fluxo de água consumido durante o banho, permitindo programação sobre tempo ou a quantidade de litros que será utilizada e também a pressão da água; e a irrigação automática de um jardim, que será capaz de detectar informações como umidade, temperatura, e determinar os melhores horários para a irrigação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jean Lucas de Sousa - Coordenador / Thaynara Silva Pinto - Integrante.
+2015 - 2015
+A Cultura Brasileira de uma Forma Interativa
+Descrição: O projeto teve como objetivo a criação de um jogo para facilitar o ensino da história do Brasil para os alunos do ensino fundamental e médio. O projeto foi apresentado no congresso COMINE em 2015.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Wilson Linhares da Silva Júnior - Integrante.
+2015 - 2015
+UNIEXPO: plataforma para divulgação de projetos de extensão
+Descrição: O projeto teve como objetivo a criação e análise da implantação de uma plataforma para divulgação dos projetos de extensão do Centro Universitário de Patos de Minas - UNIPAM. O projeto foi apresentado em um congresso (COMINE) e garantiu a 4ª colocação no 7º Prêmio UNIPAM de Empreendendorismo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Walter Lucas Monteiro Mendonça - Integrante.
+2015 - Atual
+Geo Informações e Qualidade da Célula Fotovoltáica
+Descrição: Com a instalação da usina fotovoltaica no UNIPAM (Centro Universitário de Patos de Minas), o grupo de pesquisa veio trabalhar com geo informações para melhor a eficiência de captação de energia pela célula fotovoltaica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (19)  / Especialização: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Gustavo Rodrigues Barbosa - Integrante.
+2014 - Atual
+LabITec - Laboratório de Inovação em Tecnologia
+Descrição: LabITec - Laboratório de Inovação em Tecnologia. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Jean Lucas de Sousa - Coordenador / Afonso Bernardino de Almeida Junior - Integrante / Aline Fernanda Furtado Silva - Integrante / Cintia Carvalho Oliveira - Integrante / Daniel Cintra Cugler - Integrante / Danilo Costa das Chagas - Integrante / Jaqueline Aparecida Jorge Papini Soares - Integrante / Júnio Moreira - Integrante / Leandro Sousa Vilefort - Integrante / Ligia Cristina Pestili - Integrante / Lídia Bononi Paiva Tomaz - Integrante / Matheus Araújo Aguiar - Integrante / Osmando Pereira Junior - Integrante.
+2012 - 2014
+Aplicando Técnicas de Aprendizado de Máquina em Planejamento
+Descrição: Em termos de abordagem clássica, sistemas de planejamento ou planejadores concentram-se em gerar automaticamente uma sequência de ações que transforma uma configuração (estado) inicial de objetos em outro estado em que um dado objetivo é satisfeito. Sistemas de planejamento foram utilizados para resolver uma variedade de problemas com sucesso. Apesar disso, nenhum planejador é melhor que todos os outros quando aplicados a problemas distintos.
+O planejamento probabilístico é uma extensão do planejamento clássico que trabalha sobre um ambiente não determinístico. Assim como no planejamento clássico, diversos planejadores foram propostos para resolver problemas, porém nenhum planejador é capaz de superar totalmente os outros em todos os problemas.
+Neste trabalho, descreve-se uma abordagem que consiste em extrair características do problema a ser resolvido e determinar, a partir de um conjunto de planejadores clássicos e probabilísticos, um que seja capaz de resolver o problema com eficiência. Em nossa abordagem, são utilizados algoritmos de aprendizado de máquina para determinar o melhor planejador dentre o portfólio que resolve o problema.
+ A seleção dos planejadores se mostrou eficiente nos testes tendo mostrado bons resultados nos experimentos ao superar os planejadores de portfólio que conseguiram os melhores resultados nas competições de planejamento em ambas as áreas (planejamento clássico e probabilístico).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Jean Lucas de Sousa - Coordenador / Carlos Roberto Lopes - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.

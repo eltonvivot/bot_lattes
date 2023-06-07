@@ -1,0 +1,20 @@
+2017 - Atual
+Reconhecimento Facial Baseado em Algoritmos de Inteligência Computacional e Processamento de Alto Desempenho
+Descrição: O reconhecimento facial (RF) está sendo usado em diversas áreas, como no combate à falsificação de passaportes, identificação de criminosos, etc. Portanto, uma grande quantidade de imagens e sequências de vídeo é capturada em ambientes não controlados, e ainda, sem qualquer padrão de especificação. Consequentemente, as imagens faciais capturadas em diversas condições dificultam o processo de reconhecimento. Portanto, os sistemas de reconhecimento facial devem lidar com diversas condições como a variação de iluminação, escala, oclusão e outros fatores como expressões faciais. Isso exige a construção de sistemas robustos para lidar com imagens obtidas sob diferentes condições. Diante deste contexto, a presente pesquisa tenta propor novas abordagens baseadas em inteligência de enxames e algoritmos de computação evolucionária. Esses algoritmos são desenvolvidos baseado num processo de otimização de parâmetros.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Chidambaram Chidambaram - Integrante / Guilherme Plichoski - Integrante / Rafael Stubs Parpinelli - Coordenador.
+2014 - 2019
+RECONHECIMENTO DE PLACAS DE SINALIZAÇÃO DE TRÂNSITO
+Descrição: Este trabalho tem como objetivo de propor uma abordagem para reconhecer as placas de
+sinalização em diferentes imagens de paisagem de trânsito. O desenvolvimento deste trabalho foi
+motivado pelo fato de que pode ser util em aplicações de apoio ao motorista e em outras finalidades
+relacionadas, a fim de reduzir uma série de problemas que ocorrem no trânsito. Para alcançar este
+objetivo, primeiro será criado uma pequena base contendo diferentes imagens de paisagens de
+trânsito com diversos tipos de placas de trânsito. Tanto imagens de paisagem quanto templates de
+sinalização pré-definidos serão submetidas a um algoritmo capaz de identificar pontos de interesse.
+As características extraídas de pontos interesses serão utilizadas para fazer uma comparação entre
+imagens e identificar o nível de similaridade entre elas. Foi desenvolvido também um trabalho de reconhecimento em vídeos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Chidambaram Chidambaram - Coordenador / Matheus Gutoski - Integrante / Leonardo Schneider - Integrante / Alex Correia dos Santos - Integrante.
+2013 - 2017
+Reconhecimento de Faces em Imagens
+Descrição: O principal foco deste trabalho é reconhecer uma face de base de faces únicas obtidas sob condições diferentes. Neste trabalho, pretende-se extrair diferentes tipos de características tais como pontos de interesses, cores e bordas para construir a base de características. Além do mais, as características serão extraídas de diferentes partes da imagem, por exemplo, global, local e semi-local. Com o objetivo de avaliar a influencia de métodos no RF, eles serão estudados individualmente juntamente com as possíveis combinações de características globais, locais e semi-locais. Diferentes tipos imagens serão utilizados para avaliar a abordagem proposta juntamente com seus métodos.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Chidambaram Chidambaram - Coordenador / Guilherme Plichoski - Integrante / Guilherme Metzger - Integrante.
+2006 - 2006
+Produção Mais Limpa no arranjo produtivo local Móveis de São Bento do Sul
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Chidambaram Chidambaram - Integrante / Marzely Gorges Farias - Coordenador.

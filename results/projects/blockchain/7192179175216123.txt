@@ -1,0 +1,20 @@
+2018 - Atual
+NETNOGRAFIA ORIENTADA A OBJETOS DIGITAIS: APROXIMANDO O BIG DATA E A PESQUISA  QUALITATIVA
+Descrição: ESTE PROJETO DE PESQUISA PRETENDE APROXIMAR OS RECURSOS TEÓRICOS, METODOLÓGICOS E TÉCNICOS DO
+BIG DATA À PESQUISA QUALITATIVA SOCIAL, CONCERNENTE À CIÊNCIA DA INFORMAÇÃO, TENDO COMO BALIZA
+TEÓRICO-METODOLÓGICA A NETNOGRAFIA. PARA ISSO PRETENDEMOS APROVEITAR A TRADIÇÃO ANALÍTICA DA
+NETNOGRAFIA, APLICADA AO ESTUDO DE OBJETOS DIGITAIS, AUXILIADOS POR COMPUTADOR, PARA ESTENDER
+ESSES ESTUDOS A AMBIENTES POPULADOS POR INFORMAÇÃO NÃO ESTRUTURADA, QUE PODERIAM SER PROMISSORES
+À PESQUISA SOCIAL, EM GERAL, E A CIÊNCIA DA INFORMAÇÃO, EM PARTICULAR. COMO RESULTADO, ESPERAMOS
+APROXIMAR OS CONCEITOS FUNDAMENTAIS DA ANÁLISE QUALITATIVA DE DADOS, AMPLAMENTE SOLICITADOS NA
+NETNOGRAFIA, COM OS INSTRUMENTOS ANALÍTICOS DESENVOLVIDOS NOS CENÁRIOS DO BIG DATA, DESTA FORMA,
+PODERÍAMOS APLICAR TÉCNICAS DE MINERAÇÃO DE DADOS, INDEXAÇÃO E RECUPERAÇÃO DE INFORMAÇÃO,
+EXTRAÇÃO DE ENTIDADES NOMEADAS E REGRAS DE ASSOCIAÇÃO, PARA CRIAR UM QUADRO DE OBJETIVIDADE,
+VEROSSIMILHANÇA E PRECISÃO, À PESQUISA SOCIAL, BENEFICIADA PELAS ATUAIS CONDIÇÕES DE MANIPULAÇÃO
+DE INFORMAÇÃO E PODER ANALÍTICO.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Benjamin Luiz Franklin - Coordenador.
+2013 - 2014
+MINERAÇÃO DE SENTIDO: O VERBO E O ACONTECIMENTO NA MÁQUINA CONTEMPORÂNEA
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Benjamin Luiz Franklin - Coordenador / Julio Della Flora - Integrante / Alexandre Fernal - Integrante.
+2008 - 2011
+MyMoneyMachine
+Descrição: As crises sucessivas no mercado financeiro abalaram a confiança do pequeno investidor, ao sinalizar um risco crescente nas operações de longo prazo.  A bolsa de valores brasileira, no entanto, espera um crescimento significativo até 2015, quando espera totalizar 5 milhões de usuários. Estes novos ?  e inexperientes ? investidores podem diminuir o risco de suas operações financeiras, se dispuserem de um sistema de monitoramento e alertas de ativos, que procure minimizar o risco de suas operações. Este sistema deve ser disponibilizado gratuitamente, através de  redes sociais, no intuito de oferecer uma ferramenta gratuita de auxílio aos investidores inexperientes.  O presente projeto procura viabilizar a implementação desta ferramenta e apresentar resultados preliminares alcançados com o desenvolvimento de um protótipo já disponível no twitter, no endereço: http://twitter.com/mymarx. Situação: Concluído; Natureza: Pesquisa. Integrantes: Benjamin Luiz Franklin - Coordenador.Financiador(es): Universidade Federal de Santa Catarina - Bolsa.Número de produções C, T & A: 1

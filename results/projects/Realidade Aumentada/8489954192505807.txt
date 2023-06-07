@@ -1,0 +1,13 @@
+2021 - Atual
+Ambiente experimental para estudo de técnicas de manutenção prescritiva
+Descrição: Este projeto de iniciação científica (IC) visa estudar as técnicas de manutenção
+prescritiva e implementar em um ativo que é comumente usado no setor industrial os recursos
+necessários para explorar o tema no curso de Engenharia de Produção e Engenharia Mecânica da
+Universidade Federal de Juiz de Fora (UFJF).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Antônio Ângelo Missiaggia Picorone - Coordenador.
+2020 - Atual
+Análise da integridade estrutural de riser flexível utilizando técnicas de monitoramento de dispositivos passivos elétricos
+Descrição: Este trabalho de IC tem como objetivo analisar a viabilidade de se aplicar técnicas de monitoramento de circuitos elétricos equivalentes (redes RLC) para identificar e classificar falhas em risers flexíveis.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Antônio Ângelo Missiaggia Picorone - Coordenador.Financiador(es): Universidade Federal de Juiz de Fora - Bolsa.
+2012 - 2016
+Metodologia e Equipamento para Caracterização de Canais PLC: Smart Grid Communication, Inclusão Digital e Veículos
+Projeto certificado pelo(a) coordenador(a) Moises Vidal Ribeiro em 19/06/2020.
+Descrição: A presente proposta de projeto de pesquisa tem os seguintes objetivos: i) desenvolver uma metodologia para a medição e caracterização de redes de energia elétrica como meio de transmissão de dados, considerando esta transmissão por um único canal (SISO) ou por vários canais em paralelo (MIMO), nos casos em que a rede elétrica é composta por mais de dois condutores; ii) desenvolver um protótipo de um equipamento para medição e caracterização de canais PLC SISO e MIMO (até 4x4) e dos ruídos aditivos; iii) Analisar e caracterizar, através da aplicação da metodologia desenvolvida, as redes de média e baixa tensões na faixa entre 9 kHz e 200 MHz para a transmissão banda-estreita e banda larga de dados das concessionárias de energia elétrica e em veículos; iv) caracterizar e analisar através da aplicação da metodologia desenvolvida, na faixa de frequência entre 0 e 200 MHz, os canais de comunicação híbridos (rede de energia elétrica e meio sem fio) e gerar modelos; v) Analisar e caracterizar canais PLC em veículos e gerar modelos. vi) Gerar especificações mínimas para projeto de sistemas de comunicação de dados para uso dos canais mencionados nos itens anteriores.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antônio Ângelo Missiaggia Picorone - Integrante / Moisés Vidal Ribeiro - Coordenador.

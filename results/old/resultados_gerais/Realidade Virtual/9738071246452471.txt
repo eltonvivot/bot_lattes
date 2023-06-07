@@ -1,0 +1,15 @@
+2018 - Atual
+Um Estudo sobre Tecnologias e Aplicações para a Internet das Coisas
+Projeto certificado pelo(a) coordenador(a) Cesar Albenes Zeferino em 01/01/2019.
+Descrição: Este projeto visa identificar e caracterizar as tecnologias (arquiteturas, protocolos e serviços) para o desenvolvimento de aplicações para a Internet das Coisas com vistas a subsidiar pesquisas e o projeto de produtos no estado da arte. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Mestrado acadêmico: (4) . Integrantes: Eduardo Alves da Silva - Integrante / Cesar Albenes Zeferino - Coordenador / Douglas Rossi de Melo - Integrante / Valderi Reis Quietinho Leithardt - Integrante / Alejandro Rafael Garcia Ramirez - Integrante / Michelle Silva Wangham - Integrante.Financiador(es): Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina - Auxílio
+										financeiro.
+2014 - 2014
+BrownPepper 2.0: Ambiente para avaliação de desempenho de rede-em-chip
+Descrição: Projeto de iniciação científica realizado durante a produção do trabalho de conclusão de curso em ciência da computação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Alves da Silva - Integrante / Cesar Albenes Zeferino - Coordenador.
+2011 - 2012
+Trilha virtual interativa em 3D e portal de conteúdos de educação ambiental
+Projeto certificado pelo(a) coordenador(a) Rudimar Luís Scaranto Dazzi em 14/02/2018.
+Descrição: Projeto de virtualização da trilha do Morro da Cruz em sua encosta junto à Univali e portal para disponibilização dos conteúdos gerados pelo Laboratório de Educação Ambiental (LEA).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Eduardo Alves da Silva - Integrante / Rudimar Luis Scaranto Dazzi - Coordenador / Jose Matarezi - Integrante / Dalva Sofia Schuch - Integrante.Financiador(es): Governo do Estado de Santa Catarina - Bolsa.
+2010 - 2011
+INCT NAMITEC - Atividade 3.6 - Sub-projeto: Redução do Consumo de Potência para a Rede Intra-Chip SoCIN
+Descrição: Buscar a redução de consumo de potência em Circuitos Integrados Complexos e investigar o problema da potência dissipada em SoCs baseados em NoCs com foco no estudo e na aplicação de técnicas que possibilitem a redução da potência dissipada pela rede.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Eduardo Alves da Silva - Integrante / Cesar Albenes Zeferino - Coordenador.

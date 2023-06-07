@@ -1,0 +1,28 @@
+2017 - 2018
+Uso de Microdrones para Apoio ao Ensino de Disciplinas STEM.
+Descrição: Testes da plataforma baseada em drones para ensino STEM.
+Projeto aprovado conforme Edital Nº 371/2017, de 28 de agosto de 2017, referente ao Edital nº 293/2017, de 18 de Julho de 2017.
+Projeto com Bolsista de IC.
+Tipo de bolsa: PAIC-ES.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Igor Yepes - Coordenador / Lucas Dalla Lana Castoldi - Integrante.
+2016 - 2017
+PLATAFORMA BASEADA EM DRONES COMO FERRAMENTA PEDAGÓGICA MULTIDISCIPLINAR
+Descrição: Desenvolvimento de kit de robótica educativa para utilização em disciplinas STEM seguindo metodologias de aprendizagem ativa.
+Projeto aprovado no Edital Nº 331/2016, de 28 de setembro de 2016, referente ao Edital nº 301/2016, de 05 de setembro de 2016, com bolsista de IC.
+Protocolo do projeto: 037-085/16.
+Bolsa PAIT-ES.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Igor Yepes - Coordenador / Lucas Dalla Lana Castoldi - Integrante / Rafael Mezzaroba - Integrante / Daniel Fiametti - Integrante.
+2016 - 2017
+DESENVOLVIMENTO DE DRONE SEMIAUTÔNOMO PROGRAMÁVEL COMO PLATAFORMA PARA PESQUISAS EM AGRICULTURA E CONTROLE AMBIENTAL
+Descrição: Este projeto abre espaço para a utilização de uma tecnologia de ponta, apresentando uma ampla gama de aplicações a um custo muito reduzido, se comparado com uma aeronave tripulada, ou até mesmo a equipamentos similares encontrados no mercado, permitindo o acesso a essa tecnologia a pequenos produtores ou a entidades de fiscalização ambiental. Assim, busca-se resolver o problema de desenvolvimento de tecnologia de drones com boa performance e capacidade de carga, aliado a um baixo custo, visando a popularização desse tipo de ferramenta. Para isso, será desenvolvido um protótipo de drone do tipo multirrotor, dotado de quatro motores (quadrotor), buscando uma boa relação custo/benefício, com fácil manutenção e utilização.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Igor Yepes - Coordenador / André Carlos Groth - Integrante / Gabriel Mazutti Provensi - Integrante.
+2015 - 2016
+SISTEMA DE CONTROLE DE VANT MEDIANTE GESTOS UTILIZANDO O SENSOR DE MOVIMENTOS KINECT
+Descrição: O projeto visa desenvolver uma interface de controle natural para VANTs baseada no sensor de movimentos Kinect.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Igor Yepes - Coordenador / Cristian Dean Abreu Rego - Integrante.
+2013 - 2015
+PROJETO E DESENVOLVIMENTO DE PROTÓTIPO DE DRONE DO TIPO QUADROTOR PARA ATIVIDADES DE SUPORTE AO CONTROLE AMBIENTAL
+Descrição: Planejamento e construção de um protótipo de micro-quadrotor (menos de 5 Kg) com capacidade de carga próxima a 1kg, baseado na plataforma de hardware Livre Arduino, permitindo voos radiocontrolados por um operador humano, com capacidade de programação para desenvolvimento de módulos de controle autônomo e semi-autônomo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Igor Yepes - Coordenador / Bruno Morais - Integrante / Ádria Aline Castro da Silva - Integrante / Omar Kayque Oliveira Camargo - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2013 - 2015
+DESENVOLVIMENTO DE SISTEMA DE VISÃO COMPUTACIONAL PARA SEGUIMENTO DE OBJETOS
+Descrição: Desenvolvimento de sistema de visão computacional para seguimento de objetivos em movimento, a ser incorporado ao sistema do VANT. Este projeto é uma etapa inicial para o desenvolvimento do sistema para detecção de focos de queimadas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Igor Yepes - Coordenador / João Paulo Souza Paiva - Integrante.Financiador(es): Fundação Universidade do Tocantins - Auxílio
+										financeiro.
+2013 - 2014
+SENSORES DE BAIXO CUSTO PARA MONITORAMENTO AMBIENTAL: APLICAÇÃO EM VEÍCULO AÉREO NÃO TRIPULADO (VANT)
+Descrição: Pesquisa e testes sobre a utilização de sensores de baixo custo utilizando Veículos Aéreos não Tripulados, possibilitando atividades de sensoriamento remoto para monitoramento ambiental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Igor Yepes - Coordenador / Weder de Oliveira Teixeira - Integrante / Mariana Gomes Soares - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

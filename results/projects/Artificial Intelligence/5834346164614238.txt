@@ -1,0 +1,149 @@
+2021 - Atual
+Desenvolvimento de estrutura robótica para aquisição e classificação de imagens (ERACI) de lavoura de cana de açúcar.
+Descrição: Após a fase de  construção e desenvolvimento da estrutura robótica para aquisição e classificação de imagens (ERACI) de lavoura de cana de açúcar, nesta etapa serão realizados do testes de campo para a validação do equipamento.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / José Ricardo Ferreira Cardoso - Integrante.Número de orientações: 1
+2019 - 2020
+Desenvolvimento de estrutura robótica para aquisição e classificação de imagens (ERACI) de lavoura de cana de açúcar.
+Descrição: O projeto visa a construção de uma estrutura robótica para aquisição e classificação de imagens (ERACI) de lavoura de cana de açúcar. Verificação das falhas no canavial por meio de inteligência artificial. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / José Ricardo Ferreira Cardoso - Integrante.Número de produções C, T & A: 2
+2019 - 2020
+Influência da declividade e exposição aos raios solares na semeadura do milho
+Descrição: Verificar a influencia da declividade do solo e da incidência de radiação solar no desenvolvimento da cultura do milho. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Jean Lucas Pereira Oliveira - Integrante.Número de produções C, T & A: 1
+2019 - Atual
+Desempenho operacional de aeronaves agricolas
+Descrição: Análise do desempenho de voo de aeronaves agrícolas na aplicação de defensivos agrícolas. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / José Luís dos Santos Júnior - Integrante.Número de produções C, T & A: 1
+2018 - 2019
+Otimização de manobras de transbordo na colheita mecanizada da cana-de-açúcar por meio de programa computacional
+Descrição: O projeto visa a melhoria da logística de manobras na utilização do transbordo na colheita de cana de açúcar.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Ligia Negri Correa - Integrante.Número de produções C, T & A: 1
+2017 - 2020
+Sistema de semeadura em linhas gêmeas na cultura do milho
+Descrição: Analise da semeadura de milho em sistema de linhas gêmeas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Ronaldo Luiz Gonzaga - Integrante.
+2017 - 2020
+RAIOS DE CURVATURA, LARGURAS DE BITOLA E COMPRIMENTOS DO CABEÇALHO INFLUENCIAM NA QUALIDADE DO PARALELISMO?
+Descrição: Análise do comprimento do cabeçalho e da bitola de semeadora adubadora interferindo em semeadura em curvas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Francisca Edcarla A. Nicolau - Integrante.Número de produções C, T & A: 1
+2017 - 2018
+Direções de semeadura, densidade de plantas e variações na dosagem de sementes na produtividade do milho
+Descrição: O projeto visa a análise de diferentes direções de semeadura no talhão e a variação da densidade de semeadura afetando a produtividade do milho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Rafael de Graaf Corrêa - Integrante.Número de produções C, T & A: 1
+2015 - Atual
+Avaliação de quatro dosadores pneumáticos de sementes na cultura do milho
+Descrição: Avaliar o mecanismos de disco pneumático de distribuição de sementes de milho, serão avaliados a profundidade de semeadura, emergência de plântulas, estande inicial, distribuição longitudinal de sementes, estande final e produtividade.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Antonio Tássio Ormond - Integrante.
+2014 - Atual
+QUALIDADE OPERACIONAL E CONTROLE DE TRÁFEGO DOS SISTEMAS MECANIZADOS DE SEMEADURA E COLHEITA DE AMENDOIM COM O USO DE PILOTO AUTOMÁTICO
+Descrição: Objetiva-se neste projeto avaliar os sistemas mecanizados de semeadura adubação, arranquio e recolhimento de amendoim com e sem o uso do piloto automático, nos turnos diurno e noturno da operação, por meio da análise de componentes do desempenho operacional das máquinas, sendo estes dados coletados por telemetria, ou seja, em tempo real, no qual a análise e interpretação correta destes dados sejam eficientes na tomada de decisão para a melhoria das operações futuras, utilizando-se o controle estatístico de processo para verificar a qualidade das operações agrícolas realizadas ao longo do tempo, bem como a análise de modo e efeito de falhas potenciais (FMEA) a ser realizada por meio de ?brainstorming?. Objetiva-se também avaliar o efeito do controle de tráfego agrícola na compactação do solo nas mesmas operações, utilizando-se de técnicas de geoestatística com geração de mapas de resistência mecânica do solo à penetração.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Cristiano Zerbato - Integrante.
+2014 - Atual
+Qualidade da distribuição individualizada de nitrogenio, fósforo e potássio na cultura da cana de açúcar
+Descrição: Avaliara a distribuição de N-P-K individualizada na cultura da cana de açúcar. A adubadora distribui os três nutrientes (NPK) de forma individualizada, serão avaliados três formas: Uma operação somente com a adubação individualizada, outra com a adubação individualizada conjugada com aplicação de herbicida e uma terceira com duas operação, primeiro a adubação individualizada e depois a aplicação de herbicida em outra operação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Franciele Morlin Carneiro - Integrante.
+2014 - Atual
+QUALIDADE OPERACIONAL E CONTROLE DE TRÁFEGO DOS SISTEMAS MECANIZADOS DE SEMEADURA E COLHEITA DE AMENDOIM COM O USO DE PILOTO AUTOMÁTICO
+Descrição: Objetiva-se neste projeto avaliar os sistemas mecanizados de semeadura adubação, arranquio e recolhimento de amendoim com e sem o uso do piloto automático, nos turnos diurno e noturno da operação, por meio da análise de componentes do desempenho operacional das máquinas, sendo estes dados coletados por telemetria, ou seja, em tempo real, no qual a análise e interpretação correta destes dados sejam eficientes na tomada de decisão para a melhoria das operações futuras, utilizando-se o controle estatístico de processo para verificar a qualidade das operações agrícolas realizadas ao longo do tempo, bem como a análise de modo e efeito de falhas potenciais (FMEA) a ser realizada por meio de ?brainstorming?. Objetiva-se também avaliar o efeito do controle de tráfego agrícola na compactação do solo nas mesmas operações, utilizando-se de técnicas de geoestatística com geração de mapas de resistência mecânica do solo à penetração.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Cristiano Zerbato - Integrante.
+2014 - Atual
+Consumo de combustível em operações mecanizadas de cana de açúcar
+Descrição: Avaliação do consumo de combustível das operações de manobra no pátio, destruição mecânica de soqueira, gradagem pesada, gradagem intermediária e subsolagem na cultura da cana de açúcar. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Michel A F Silva - Integrante.
+2013 - Atual
+Desempenho operacional de uma plantadora de cana de açúcar
+Descrição: Avaliar o desempenho operacional de uma plantadora de cana de açúcar em Latossolo Vermelho. A plantadora é equipada com sulcador provido de desarme automético. Serão avaliados a velocidade de deslocamento, consumo de combustível, profundidade de sulcação, altura de cobrição, distribuição de rebolos, número de gemas viáveis e inviáveis e produtividade. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Mestrado acadêmico: (1)  / Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Rouverson Pereira da Silva - Integrante / Ariel Muncio Compagnon - Integrante.
+2012 - Atual
+Avaliação da compactação do solo na fileira e entrefileira da cultura da cana de açúcar em função do número de cortes e da mecanização
+Descrição: O trabalho tem como objetivo avaliar a compactação do solo na fileira e entre fileira produzida pela mecanização na cana de açúcar nos diferentes cortes da cultura. A compactação é determinada por penetrometro eletrônico acoplado a um quadriciclo.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Danilo Baldan Rossini - Integrante.
+2012 - Atual
+Avaliação de uma semeadora de fita
+Descrição: Avaliação de uma semeadora de fita (protótipo) na semeadura da cultura do milho. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Matheus Marrafon Nicolosi - Integrante.
+2011 - 2013
+Desempenho de máquinas para a semeadura e o arranquio mecanizado de amendoim em Latossolo vermelho
+Descrição: Avaliar a qualidade das operações de semeadura/adubação e arranquio mecanizado na cultura do amendoim. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Cristiano Zerbato - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2011 - 2013
+Avaliação do plantio mecanizado de cana de açúcar em sistema mecanizado e semi mecanizado em dois tipos de solos
+Descrição: Avaliação da qualidade do plantio mecanizado e semi mecanizado de cana de açúcar em dois tipos de solo. Determinar o número de colmos e gemas distribuídos por metro e parâmetros de desempenho da máquina.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Marcelo Boamorte Raveli - Integrante / Remo Marini Zoia - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2011 - 2011
+Projeto para editoração da revista Engenharia Agrícola (Cd-Rom) 2011 - CNPq.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2011 - Atual
+Desempenho de semeadora-adubadora em função do tipo de haste e profundidade de trabalho
+Descrição: Avaliar o desempenho de uma semeadora adubadora em função de quatro tipos de hastes em cinco profundidades de trabalho em cinco teores de aguá no solo. São três experimentos utilizando as hastes. Comparativo entre as hastes e as profundidades, comparativo entre as hastes e o teor de água no solo e análise da área mobilizada pelas hastes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Mestrado acadêmico: (2)  / Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Vicente Filho alves Silva - Integrante / Érica Tricai - Integrante / RAFAEL S. BERTONHA - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2010 - 2013
+Consorciação de braquiárias com milho outonal em sistema plantio direto como cultura antecessora da soja de verão
+Descrição: Orientação de Tese de doutorado. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Carlos Alessandro Chioderoli - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Bolsa.
+2010 - 2013
+Consorciação de braquiárias com milho outonal em sistema plantio direto como cultura antecessora da soja de verão
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.
+2010 - 2012
+Danos nas sementes após a passagem por mecanismos dosadores de semeadoras-adubadoras
+Descrição: Avaliar os danos causados em sementes de milho de diferentes tamanho e formas, após a passagem pelos mecanismos dosadores de sementes em semeadoras adubadoras, mecanismo pneumático e gravitacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Aline Serrano - Integrante.
+2010 - 2012
+Desempenho operacional do conjunto trator escarificador em função da profundidade de trabalho e teor de água do solo
+Descrição: Avaliar um conjunto trator escarificador no preparo do solo em latossolo, verificando a profundidade de escarificação em função do teor de água no solo. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Ariel Muncio Compagnon - Integrante.Financiador(es): CAPES - Centro Anhanguera de Promoção e Educação Social - Bolsa.
+2010 - 2011
+Variabilidade espacial e diagnóstico da qualidade do processo em semeadura de amendoim
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Anderson de Toledo - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2010 - 2010
+Projeto para editoração da revista Engenharia Agrícola (Cd-Rom) 2010 - CNPq.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - 2010
+Simpósio Paulista de Mecanização em Cana de Açúcar - 2010
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2010 - Atual
+Sistema plantio direto: desempenho de semeadora adubadora e rotação de culturas
+Descrição: Bolsa produtividade em pesquisa. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2012
+Sistema plantio direto: população de plantas de milho e velocidade de semeadura em consórcio com braquiárias
+Descrição: Avaliar a cultura do milho e o desempenho de semeadora adubadora no sistema de integração agricultura pecuária. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / José Maria do Nascimento - Integrante.Financiador(es): Fundação de Apoio e Desenvolvimento do Ensino, Ciência e Tecnologia do MS - Bolsa.
+2009 - 2012
+Resposta da cultura do milho a profundidade de deposição de adubo e de culturas de cobertura em solo de cerrado
+Descrição: Analise do desempenho da semeadura da cultura do milho em função da profundidade de deposição do adubo em duas culturas de cobertura do solo, crotalária juncea e mucuna. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Paulo Vitorio Biulchi - Integrante.
+2009 - 2012
+Qualidade do corte basal na colheita mecanizada de cana-de-açúcar crua
+Descrição: Avaliar a qualidade do corte basal de colhedoras de cana de açúcar. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Anderson de Toledo - Integrante / Rouverson Pereira da Silva - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2011
+Velocidade de semeadura e população de plantas de milho em sistema plantio direto
+Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Fabio Alexandre Cavichioli - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2009 - 2011
+Variabilidade de perdas no arranquio mecanizado de amendoim: estudo de caso
+Descrição: Analisar a variabilidade das perdas no arranquio mecanizado na cultura do amendoim. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Integrante / Rouverson Pereira da Silva - Coordenador / Rafael Scabello Bertonha - Integrante.
+2009 - 2009
+Projeto para editoração da revista Engenharia Agrícola (Cd-Rom) 2009 - CNPq.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2008 - 2008
+Projeto para editoração da revista Engenharia Agrícola (Cd-Rom) 2008 - CNPq.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.
+2007 - 2009
+Sistema plantio direto: consórcio de culturas de cobertura e manejo da adubação em semeadura de milho e soja
+Descrição: Avaliação da operação de semeadura das culturas de milho e soja sobre culturas de cobertura e seu manejo e adubação antecipada e normal. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Jorge Wilson Cortez - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2007 - 2009
+Desempenho de máquinas de manejo e semeadura na produtividade do milho consorciado com soja
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2007 - 2007
+Projeto para editoração da revista Engenharia Agrícola (Cd-Rom) 2007 - CNPq.
+Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2009
+Desempenho de semeadora adubadora em função do manejo da cobertura vegetal em sistema plantio direto
+Descrição: Bolsa Produtividade em Pesquisa. Situação: Concluído; Natureza: Pesquisa. Integrantes: Carlos Eduardo Angeli Furlani - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2006 - 2008
+Análise operacional de uma semeadora-adubadora em latossolo vermelho, submetida a diferentes pressões de inflação na roda motriz
+Descrição: Avaliar uma semeadora-adubadora em latossolo vermelho, submetida a diferentes pressões de inflação na roda motriz, avaliando-se a cultura do milho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Edinan Augusto Borsatto - Integrante / Gustavo Prates Vigna - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio
+										financeiro.
+2006 - 2008
+Desempenho de semeadora-adubadora em plantio direto e manejos de cobertura do solo
+Descrição: Analisar o desempenho de semeadora de plantio direto em Latossolo Vermelho em função do manejo de coberturas vegetais por métodos mecânicos e químicos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Aparecido Alves - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2005 - 2007
+Densidade de semeadura da soja e produtividade de deposição de adubo no sistema plantio direto
+Descrição: Avaliar a densidade de semeadura (15, 16 e 20 plantas por metro) e profundidade de deposição de adubo (11, 14 e 17 cm) em área de sistema plantio direto com soja.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Jorge Wilson Cortez - Integrante.Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2004 - 2007
+Desempenho de semeadora-adubadora de plantio direto em tipos de manejos de cobertura do solo e rotação de culturas
+Descrição: Analisar o desempenho operacional de semeadoras-adubadoras em função do tipo de manejo da cobertuta vegetal. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (2) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Edinan Augusto Borsatto - Integrante / Jorge Wilson Cortez - Integrante / Danilo Cesar Checchio Grotta - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 2
+2004 - 2007
+Semeadura direta de milho em função de culturas e cobertura
+Descrição: Avaliação da operação de semeadura de milho em sistema plantio direto sobre duas culturas de cobertura e três manejos,. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Danilo Cesar Checchio Grotta - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2002 - 2003
+Avaliação de sistemas de manejo do solo visando a implantação da cultura do milho (Zea mays L.) em dois espaçamentos entre linhas
+Descrição: Com o desenvolvimento do projeto objetiva-se a análise das características agronômicas da cultura do milho semeada em três sistemas de manejo do solo: a) preparo convencional com arado de aiveca e grade, b) preparo reduzido com escarificador e c) plantio direto. Também serão analisados dois espaçamentos entre linhas para a cultura do milho: a) 0,45m e b) 0,90. O experimento será realizado em área do Departamento de Engenharia Rural da faculdade de Ciências Agrárias e Veterinárias, UNESP, Câmpus de Jaboticabal, com 24 parcelas (3 sistemas de manejo x 2 espaçamentos x 4 repetições). Serão determinados parâmetros: a) no solo:  resistência à penetração, teor de água, densidade e porcentagem de cobertura vegetal, b) na planta: número médio de dias para a emergência, estande inicial e final, porcentagem de sobrevivência, diâmetro e altura do colmo aos 30, 60 e 90 dias e na colheita, massa seca e produtividade e c) nas máquinas: capacidade de campo operacional e força de tração na barra exigida pela semeadora.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Erlon Antonio Magnani - Integrante / Tiago Maximiano Junqueira - Integrante / Luiz Fernando Baenninger Catapani - Integrante / Aluísio Villela Rosa - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 6
+2001 - 2004
+Manejo de culturas de cobertura para a semeadura direta de culturas anuais
+Descrição: O objetivo do presente trabalho é analisar as culturas de soja e do milho semeadas em plantio direto, sobre palhada de culturas de cobertura do solo maneladas de três formas: a) com triturador de palhas tratorizado, b) com rolo faca e c) com herbicida. Também serão analisados dois sistemas de rotação de culturas: a) soja / mucuna preta / milho / sorgo / milheto / soja e b) soja / crotalária / milho / aveia preta / triticale / soja. O experimento será realizado em área do Departamento de Engenharia Rural da FCAV-UNESP, Câmpus de Jaboticabal/SP. Serão analisados as massas verde e seca, altura das plantas e porcentagem de cobertura aos 30, 60 e 90 dias e na colheita nas culturas de cobertura do solo. Estande inicial e final, índice de emergência, profundidade de semeadura, massa verde e seca e altura das plantas aos 30, 60 e 90 dias e na colheita e produtividade de grãos nas culturas de soja e milho; no solo: teor de água e densidade, resistência à penetração e fertilidade e nas máquinas a capacidade operacional de campo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2)  / Especialização: (0)  / Mestrado acadêmico: (1)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Carlos Eduardo Angeli Furlani - Coordenador / Klinger Brentini Branquinho - Integrante / Guilherme Teófilo Pieroni - Integrante.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 6

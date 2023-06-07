@@ -1,0 +1,51 @@
+2012 - 2014
+Projeto FAPESP 2012/01789-4 Esquemas Alternativos de Cooperação Codificada
+Descrição: O objetivo deste projeto de investigação é projetar e analisar esquemas alternativos de codificação cooperativa que sejam simples, com grande eficiência e que façam uso das características peculiares da comunicação cooperativa baseada em um sistema com apenas um retransmissor, ou seja, em um sistema com dois canais distintos. Podemos portanto dividir os estudos sobre cooperação codificada nos seguintes tópicos:
+a) Codificação Turbo binária: construção de códigos, adaptação ao esquema de comunicação cooperativa e análise de desempenho do sistema de cooperação codificada.
+b) Codificação LDPC (Low Density Parity Check) binária: construção de códigos LDPC que permitam sua partição em dois blocos, com a preservação de parte da capacidade de correção de erro na decodificação com a palavra código reduzida, além de permitir a decodificação da palavra código reconstruída na recepção.
+c) Codificação Turbo com alfabeto não binário: construção de códigos turbo definidos sobre anéis ou campos finitos de inteiros adequados à cooperação codificada.
+d) Codificação LDPC com alfabeto não binário: construção de códigos LDPC definidos sobre anéis ou campos finitos de inteiros adequados à cooperação codificada.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) . Integrantes: Renato Baldini Filho - Coordenador.Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2005 - 2006
+Consultor do Projeto MI-SBTVD RFP-18, Convênio 0026/05 MC/MCT/FINEP/FUNTTEL-TV Digital.
+Descrição: Serviços de consultoria no Convênio Modulação Inovadora - Sistema Brasileiro de TV Digital (MI-SBTVD) para o desenvolvimento de algoritmos de testes para o modulador/codificador de canal/sincronização de portadora e relógio para o sistema de TV digital.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Renato Baldini Filho - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2001 - 2002
+Convênio UNICAMP/ERICSSON UNI-18
+Descrição: Projeto:  Performance Evaluation of Wireless CDMA MAC Protocols for IP Traffic
+Projeto de pesquisa desenvolvido para a ERICSSON visando o estudo do desempenho de
+protocolos de controle de acesso ao meio (MAC) para canais sem fio CDMA em tráfego IP.
+Coordenador do Projeto: Prof. Dr. Celso de Almeida
+Vice-Coordenador: Prof. Dr. Renato Baldini Filho
+Alunos de mestrado envolvidos no projeto:
+Gustavo Fraidenraich (Prof. Baldini)
+Tarciana Araújo Lopes (Prof. Baldini)
+Gonzalo Fernando Olmedo Cifuentes (Prof. Celso)
+Silvia Regina Coelho da Rosa (Prof. Celso)
+Teógenes Brito da Nóbrega (Prof. Celso)
+Aluno de doutorado envolvido no projeto:
+Rodrigo Pereira Ramos (Prof. Celso). Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (2)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Renato Baldini Filho - Integrante / Gustavo Fraidenraich - Integrante / Celso de Almeida - Coordenador / Tarciana Araújo Lopes - Integrante / Rodrigo Pereira Ramos - Integrante / Silvia Regina Coelho da Rosa - Integrante / Teógenes Brito da Nóbrega - Integrante / Gonzalo Fernando Olmedo Cifuentes - Integrante.Financiador(es): Ericsson - Auxílio
+										financeiro.Número de produções C, T & A: 5
+2000 - 2002
+Programa CAPES/MES-CUBA   Projeto de Pesquisa nº 002/00
+Descrição: Convênio de Cooperação Científica entre a CAPES e o Ministério de Educação Superior de Cuba.
+Projeto de Pesquisa nº 002/00
+Título: Radiodifusão Digital por Satélite e por Meios Terrestres.
+ Projeto de cooperação científica entre a Faculdade de Engenharia Elétrica e de Computação da UNICAMP e da Facultad de Ingeniaria Electrica da Universidad Central de Las Villas - Santa Clara - Cuba.
+Resultados:
+Orientação de pós-doutorado do Prof. De. Jorge Matos Gomez que resultou na conclusão de seu livro intitulado: "Satellite Broadcast Systems Engineering", publicado pela Artech House, em 2002. Prof. Gomez esteve na FEEC por três meses em 2000.
+Visita técnica à Universidad Central de Las Villas, Santa Clara - Cuba, onde foram proferidas duas palestras:
+Oportunidade de Pós-graduação no Departamento de Comunicações da FEEC, 19/02/2001.
+Modulação Digital e Codificação de Canal, 20/02/2001. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Renato Baldini Filho - Coordenador / Jorge Matos Gomez - Integrante.Financiador(es): Ministério de Educação Superior de Cuba - Auxílio
+										financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio
+										financeiro.
+1993 - 1997
+Convênio UNICAMP/TELEBRÁS
+Descrição: Projeto de Pesquisa em Modulação Codificada aplicada em Canais com Desvanecimento.
+Estudo de esquemas de modulação codificada adequados a canais com desvanecimento plano e seletivo (canais de comunicações móveis). Busca de códigos definidos sobrre anéis de inteiros e de corpos de inteiros adequados a estes tipos de canais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Renato Baldini Filho - Coordenador.Financiador(es): Telebras Telecomunicações Brasileiras - Auxílio
+										financeiro.Número de produções C, T & A: 9
+1984 - 1988
+Convênio UNICAMP/TELEBRÁS
+Descrição: Projeto de Pesquisa em Comunicações via Satélite.
+Assuntos estudados:  Teoria da codificação, Sistemas de modulação codificada, Seqüencias bináras apropriadas para utilização como palavras de sincronismo de quadro e de surtos em sistemas TDMA via satélite.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (4)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Renato Baldini Filho - Integrante / Lee Luan Ling - Integrante / Dalton Soares Arantes - Coordenador / Adelino Manuel de Oliveira Cabral - Integrante / Antônio Carlos França Pessoa - Integrante.Financiador(es): Telebras Telecomunicações Brasileiras - Auxílio
+										financeiro.Número de produções C, T & A: 5

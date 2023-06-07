@@ -1,0 +1,10 @@
+2009 - 2013
+AEROMOV
+Descrição: Projeto de datalink digital móvel aeroembarcado, bidirecional de alta velocidade, para conexão ar-solo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Antonio Pedro Timoszczuk - Coordenador.Financiador(es): Financiadora de Estudos e Projetos - Auxílio
+										financeiro.
+2005 - Atual
+Modelos de Redes Neurais Pulsadas e suas Aplicações
+Descrição: O projeto tem por objetivo pesquisar modelos de redes neurais artificiais pulsadas, seus métodos de treinamento e aplicações. Esta classe de redes apresenta um modelo matemático que busca aproximar de forma mais completa os mecanismos biológicos de funcionamento dos neurônios biológicos. Com isso obtem-se um comportamento mais sofisticado da rede.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Antonio Pedro Timoszczuk - Coordenador.Número de produções C, T & A: 4
+1985 - 1985
+CPU para estação gráfica.
+Descrição: Projeto e desenvolvimento de uma placa de CPU com memória cache discreta. CPU desenvolvida segundo padrão VME,utilizando processador da família Motorola 68010, para utilização como unidade central de processamento de uma estação gráfica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Antonio Pedro Timoszczuk - Coordenador.

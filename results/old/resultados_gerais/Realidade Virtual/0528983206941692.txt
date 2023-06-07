@@ -1,0 +1,47 @@
+2013 - 2014
+ProPur ? Ferramenta computacional para previsão e otimização de protocolos de purificação de enzimas com aplicação ambiental.
+Descrição: A resolução da estrutura do DNA, por Watson e Crick, há mais de 50 anos, abriu caminho para as atuais descobertas relacionadas aos sequenciamentos de genomas inteiros dos mais diversos organismos. A comparação entre estes diferentes genomas e a tradução destas sequências de nucleotídeos em sequências de aminoácidos, abrem outro caminho que permite a associação de outras inúmeras informações biológicas referentes às proteínas codificadas nos genomas.
+O armazenamento e a manipulação destas informações codificadas na forma de nucleotídeos ou aminoácidos é a matéria prima de uma área de pesquisa chamada Bioinformática. A Bioinformática é uma nova disciplina científica com raízes nas ciências da computação, na estatística e na biologia molecular. Ela desenvolveu-se para enfrentar os resultados das iniciativas de sequenciamento de genes, que produzem uma quantidade cada vez maior de dados sobre proteínas, DNA e RNA. Desse modo, os biólogos moleculares passaram a utilizar métodos estatísticos capazes de analisar grandes quantidades de dados biológicos, a predizer funções dos genes e a demonstrar relações entre genes e proteínas (PROSDOCIMI et al., 2002).
+O conhecimento e manipulação adequada das sequências de aminoácidos que formam todas as proteínas de um ser vivo permite a predição de suas estruturas secundárias e informações sobre função, domínios funcionais, proteínas homólogas entre outras.
+Este trabalho de associação das informações primárias a fim de torná-las efetivamente úteis à sociedade é desenvolvido de forma mais lenta e direcionada. Cada grupo de pesquisa busca nos bancos de dados as sequências e informações que lhe são interessantes e associa essas informações aos dados experimentais já obtidos em outros grupos e também aos dados próprios.
+Dentro deste contexto, o presente projeto pretende apresentar uma ferramenta de bioinformática direcionada ao planejamento de protocolos de purificação de proteínas catalíticas com aplicação na biorremediação ambiental e tratamento de resíduos agroindustriais. Acidentes ambientais envolvendo grandes quantidades de óleo, por exemplo, podem ser amenizados com o emprego de enzimas lipolíticas, tais como as lipases. Outro exemplo de aplicação de enzimas como agentes ambientais é o seu uso na hidrólise de polímeros vegetais complexos (celulose, xilose, entre outros) presentes em resíduos agrícolas, visando sua utilização para produção de combustíveis de segunda geração. 
+O projeto será executado em uma parceria entre os cursos Superior de Tecnologia em Gestão de Tecnologia da Informação (TI) e Técnico Integrado de Química, sendo que as coletas de dados genômicos e proteômicos tanto de bases de dados, quanto em artigos científicos experimentais serão realizadas pelo aluno do Curso Técnico de Química e o desenvolvimento da ferramenta de Bioinformática será feito pelo aluno de Gestão em TI. Essa parceria será fundamental para a execução do projeto em uma área de interface entre bioquímica e informática. Para a validação dos resultados obtidos com a ferramenta de planejamento de protocolos de purificação de proteínas a ser desenvolvido, serão realizados ensaios experimentais de purificação, seguindo os protocolos sugeridos pelo programa. Essa validação também será realizada pelo aluno do Curso Técnico de Química.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adriano Heis - Coordenador / Gisele Serpa - Integrante / Patrick Pirolo - Integrante / Amadeo Zimermann - Integrante.
+2013 - 2014
+Desenvolvimento de recursos de Webconferência integrado ao Moodle
+Descrição: contemplado pelo Edital 19/2013/PRPPGI/Campus Florianópolis ? APOIO A PROJETOS INTERCURSOS DE PESQUISA CIENTÍFICA E INOVAÇÃO TECNOLÓGICA EM SUSTENTABILIDADE, no período de 01 de agosto de 2013 a 31 de julho de 2014, totalizando 12 meses de coordenação e executor do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Adriano Heis - Coordenador / Monique Bertol da Silva - Integrante / Gabriel Vicente Boschi Toscani - Integrante / Victor Vidyahara Teles Rodrigues - Integrante.Financiador(es): Instituto Federal de Santa Catarina IFSC - Campus Florianópolis - Bolsa.
+2013 - 2014
+Propur - Ferramenta computacional para previsão e otimização de protocolos de purificação de enzimas.
+Descrição: EDITAL Nº 19/2013/PROPPI - CÂMPUS FLORIANÓPOLIS
+PROGRAMA DE APOIO AO PROJETOS INTERCURSOS DE PESQUISA CIENTÍFICA E INOVAÇÃO TECNOLÓGICA EM SUSTENTABILIDADE.
+Período de execucação do projeto:  agosto de 2013 a julho de 2014.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Heis - Coordenador / Gisele Serpa - Integrante / Monique Bertol da Silva - Integrante / Victor Vidyahara Teles Rodrigues - Integrante.
+2013 - 2014
+Inserção de funcionalidades no ambiente virtual de aprendizagem (moodle) para suporte a utilização de dispositivos móveis.
+Descrição: Inserção de funcionalidades no ambiente virtual de aprendizagem (moodle) para suporte a utilização de dispositivos móveis.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Heis - Coordenador / Patrick Pirolo - Integrante / Alex Sander Corrêa Martins - Integrante.
+2012 - 2013
+Desenvolvimento de Ambiente  virtual de ensino aprendizagem  integrado   com   recursos   de  Webconferência
+Descrição: EDITAL 12/2012 EDITAL UNIVERSAL: PROGRAMA INSTITUCIONAL DE APOIO A PROJETOS DE PESQUISA CIENTÍFICA E INOVAÇÃO TECNOLÓGICA
+Link do edital: http://www.ifsc.edu.br/images/pesquisa/editais/2012/edital-12-2012-prppgi%20-%20programa%20institucional%20de%20apoio%20a%20projetos%20de%20pesquisa%20v_retificao_3.pdf. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Adriano Heis - Coordenador.
+2012 - 2013
+Desenvolvimento de Ambiente virtual de ensino aprendizagem integrado com recursos de Webconferência
+Descrição: contemplado pelo EDITAL 12/2012/PRPPGI CHAMADA 2012-2013 -  EDITAL UNIVERSAL: PROGRAMA INSTITUCIONAL DE APOIO A PROJETOS DE PESQUISA CIENTÍFICA E INOVAÇÃO TECNOLÓGICA, no período de 01 de agosto de 2012 a 31 de julho de 2013, totalizando 12 meses de coordenação e executor do projeto.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Adriano Heis - Coordenador / Bruno Jaime Nascimento - Integrante / Janaína Coelho da Rocha - Integrante / Juliana Brunetto - Integrante / Marina R. Kodama - Integrante.Financiador(es): Instituto Federal de Santa Catarina IFSC - Campus Florianópolis - Bolsa.
+2012 - 2012
+Desenvolvimento de recursos de Webconferência integrado ao Moodle
+Descrição: contemplado pelo Edital 07/2012/PRPPGI/Campus Florianópolis - PROGRAMA DE APOIO AO DESENVOLVIMENTO DE PROJETOS TÉCNICOS COM FINALIDADE DIDÁTICO-PEDAGÓGICA EM CURSOS REGULARES NO CAMPUS FLORIANÓPOLIS, no período de 02 de abril a 30 de novembro de 2012, totalizando 8 meses de coordenação e executor do projeto.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Heis - Coordenador.Financiador(es): Instituto Federal de Santa Catarina IFSC - Campus Florianópolis - Bolsa.
+2012 - 2012
+Desenvolvimento do DEP-Calc: Aplicativo para  Cálculo da dose no Paciente a partir de parâmetros  do exame radiográfico
+Descrição: EDITAL 18 PROJETOS INTERCURSOS DO CAMPUS FLORIANÓPOLIS -2º Edição
+Link do edital: http://www.ifsc.edu.br/images/pesquisa/editais/2012/edital_18_2012_intercursos_florianpolis_2_ed.pdf
+APOIO A PROJETOS INTERCURSOS DE PESQUISA CIENTÍFICA E INOVAÇÃO TECNOLÓGICA. Situação: Concluído; Natureza: Pesquisa. Integrantes: Adriano Heis - Coordenador / Flávio Agusto Soares - Integrante.
+2002 - 2002
+Geração de malhas computacionais por triangulação de Delaunay
+Descrição: Geração de malhas computacionais por triangulação de Delaunay. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adriano Heis - Coordenador.
+2001 - 2001
+Diagrama de Voronoi - Histórico, Fundamentações e aplicações práticas
+Descrição: Diagrama de Voronoi - Histórico, Fundamentações e aplicações práticas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0)  / Especialização: (0)  / Mestrado acadêmico: (0)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adriano Heis - Coordenador.
+1997 - 2001
+Desenv. de novos algor. para discretização de EDP's com diagr. de Voronoi
+Descrição: - Geração de malhas para discretização numérica usando diagramas de Voronoi;
+- Discretização Numérica baseado em diagramas de Voronoi;
+- Resolução de Sistemas de Equações Lineares e não lineares não estruturados.
+Informações na Internet:
+http://www1.capes.gov.br/estudos/dados/1998/41001010/002/1998_002_41001010025P2_ProjPesq.pdf. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3)  / Especialização: (0)  / Mestrado acadêmico: (3)  / Mestrado profissional: (0)  / Doutorado: (0) . Integrantes: Adriano Heis - Integrante / Ewerton E. de Moraes Alonso - Integrante / Mário Regis Agostini - Integrante / Sérgio Peters - Coordenador.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.

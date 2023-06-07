@@ -1,0 +1,3 @@
+2012 - 2013
+IMPLEMENTAÇÃO PARALELA DE ALGORITMOS DE ORDENAÇÃO UTILIZANDO OPENMP
+Descrição: Iniciação Científica com a finalidade de construir e analisar algoritmos de ordenação de dados e verificar seu desempenho.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1)  / Doutorado: (1) . Integrantes: Robson de Souza Resende - Coordenador / Denise Stringhini - Integrante.
